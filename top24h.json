@@ -1,13 +1,13 @@
 [
   {
-    "score": 280,
-    "pubdate": "2026-04-02-20-20-20 +0000",
+    "score": 293,
+    "pubdate": "2026-04-02-20-43-37 +0000",
     "source": "nyt",
-    "headline": "Trump Says He’ll End the Iran War in Weeks. What If He Can’t?",
-    "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html"
+    "headline": "War With Iran Clarifies Trump’s Spending Priorities: The Military, Not Child Care",
+    "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html"
   },
   {
-    "score": 138,
+    "score": 116,
     "pubdate": "2026-04-02-22-46-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth ousted the Army’s top general Thursday, the latest top military leader removed in a Pentagon that has seen a purge of its top ranks under the Trump administration",
@@ -21,25 +21,39 @@
     "link": "https://www.wsj.com/economy/jobs/march-jobs-report-today-67a4ec0f"
   },
   {
-    "score": 76,
+    "score": 83,
     "pubdate": "2026-04-03-10-16-02 +0000",
     "source": "nypost",
     "headline": "The four words Trump said to Pam Bondi the day before he fired her as attorney general",
     "link": "https://nypost.com/2026/04/03/us-news/trump-told-pam-bondi-i-think-its-time-day-before-he-fired-her-as-attorney-general-report/"
   },
   {
-    "score": 66,
+    "score": 70,
     "pubdate": "2026-04-03-03-29-06 +0000",
     "source": "nyt",
     "headline": "A Bid to Use Force to Open Strait of Hormuz Hits Roadblocks at U.N. Security Council",
     "link": "https://www.nytimes.com/2026/04/02/world/middleeast/arab-iran-hormuz-force.html"
   },
   {
-    "score": 62,
-    "pubdate": "2026-04-03-13-40-00 +0000",
+    "score": 61,
+    "pubdate": "2026-04-03-14-05-31 +0000",
+    "source": "nypost",
+    "headline": "One of the two US fighter jet crew members rescued after Iran shoots them down, puts bounty on pilots",
+    "link": "https://nypost.com/2026/04/03/world-news/iran-claims-it-shot-down-us-fighter-jet-as-bounty-placed-on-pilot/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-04-03-07-25-27 +0000",
+    "source": "nyt",
+    "headline": "In Supreme Court Birthright Citizenship Case, Trump’s Likely Loss May Not End the Fight",
+    "link": "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-04-03-16-30-00 +0000",
     "source": "wsj",
-    "headline": "President Trump released a summary of his budget proposal for the 2027 fiscal year, seeking $1.5 trillion in defense spending, by far the largest dollar amount in modern history",
-    "link": "https://www.wsj.com/politics/policy/trump-budget-proposal-calls-for-1-5-trillion-in-defense-spending-44a9e7ed"
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-80c4723f?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 50,
@@ -49,24 +63,10 @@
     "link": "https://www.wsj.com/politics/policy/trump-pharmaceutical-tariffs-b7667ad6"
   },
   {
-    "score": 47,
-    "pubdate": "2026-04-02-19-55-00 +0000",
+    "score": 49,
+    "pubdate": "2026-04-03-16-57-00 +0000",
     "source": "wsj",
-    "headline": "Blue Owl Investors Seek to Pull $5.4 Billion From Two Private-Credit Funds",
-    "link": "https://www.wsj.com/finance/investing/blue-owls-36-billion-private-credit-fund-hit-by-22-withdrawal-request-6209c568?mod=rss_markets_main"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-04-02-17-14-36 +0000",
-    "source": "nyt",
-    "headline": "Russia Is Sending a Second Oil Tanker to Fuel-Starved Cuba",
-    "link": "https://www.nytimes.com/2026/04/02/world/americas/cuba-russia-oil-tanker.html"
-  },
-  {
-    "score": 45,
-    "pubdate": "2026-04-03-07-25-27 +0000",
-    "source": "nyt",
-    "headline": "In Supreme Court Birthright Citizenship Case, Trump’s Likely Loss May Not End the Fight",
-    "link": "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
+    "headline": "President Trump released a summary of his budget proposal for the 2027 fiscal year, seeking $1.5 trillion in defense spending, by far the largest dollar amount in modern history",
+    "link": "https://www.wsj.com/politics/policy/trump-budget-proposal-calls-for-1-5-trillion-in-defense-spending-44a9e7ed"
   }
 ]

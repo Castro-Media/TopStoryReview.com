@@ -1,51 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-04-03-15-03-20 +0000",
+    "score": 62,
+    "pubdate": "2026-04-03-16-56-20 +0000",
     "source": "nyt",
-    "headline": "Ancient Artifacts Stolen in Dutch Museum Heist Are Recovered",
-    "link": "https://www.nytimes.com/2026/04/02/world/europe/museum-heist-netherlands-helmet-romania.html"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-04-03-15-02-34 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: American Fighter Jet Downed Over Iran, U.S. Officials Say",
+    "headline": "Iran War Live Updates: One American Rescued From Fighter Jet Downed Over Iran, Officials Say",
     "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil"
   },
   {
-    "score": 9,
-    "pubdate": "2026-04-03-15-04-39 +0000",
+    "score": 32,
+    "pubdate": "2026-04-03-16-57-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump released a summary of his budget proposal for the 2027 fiscal year, seeking $1.5 trillion in defense spending, by far the largest dollar amount in modern history",
+    "link": "https://www.wsj.com/politics/policy/trump-budget-proposal-calls-for-1-5-trillion-in-defense-spending-44a9e7ed"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-04-03-16-23-10 +0000",
+    "source": "nypost",
+    "headline": "What happens when a US aircraft is shot down in a war zone — and how do crew members avoid capture?",
+    "link": "https://nypost.com/2026/04/03/world-news/what-happens-when-a-us-aircraft-is-shot-down-in-a-war-zone-and-how-do-crew-members-avoid-capture/"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-04-03-16-30-00 +0000",
+    "source": "wsj",
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-80c4723f?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-03-16-17-17 +0000",
+    "source": "cbc",
+    "headline": "Champagne leaves China with pork tariffs still in place, but touts relationship-building",
+    "link": "https://www.cbc.ca/news/politics/champagne-china-trip-pork-tariffs-monetary-policy-finances-9.7152898?cmp=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-03-16-22-45 +0000",
     "source": "bbc",
-    "headline": "Italy's famed Uffizi admits cyber-attack but denies security breach",
-    "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss"
+    "headline": "US deports eight people 'of African origin' to Uganda",
+    "link": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 6,
-    "pubdate": "2026-04-03-15-04-31 +0000",
-    "source": "bbc",
-    "headline": "M&S boss calls for more action on crime and abuse of staff",
-    "link": "https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss"
+    "score": 13,
+    "pubdate": "2026-04-03-17-02-48 +0000",
+    "source": "nypost",
+    "headline": "NY businesses must now accept cash, but hundreds of NYC shops defiantly refuse — & devise creative work-arounds",
+    "link": "https://nypost.com/2026/04/03/us-news/ny-businesses-must-now-accept-cash-but-nyc-shops-defiantly-refuse-devise-creative-work-arounds/"
   },
   {
-    "score": 4,
-    "pubdate": "2026-04-03-15-02-32 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/heres-the-latest"
+    "score": 12,
+    "pubdate": "2026-04-03-16-13-34 +0000",
+    "source": "nypost",
+    "headline": "GOP congressman makes hair-raising admission about alien life: ‘This country would have come unglued’",
+    "link": "https://nypost.com/2026/04/03/us-news/rep-burchett-makes-hair-raising-admission-about-alien-life/"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-03-15-03-20 +0000",
-    "source": "nyt",
-    "headline": "Ancient Artifacts Stolen in Dutch Museum Heist Are Recovered",
-    "link": "https://www.nytimes.com/2026/04/02/world/europe/museum-heist-netherlands-helmet-romania.html"
+    "score": 12,
+    "pubdate": "2026-04-03-16-39-30 +0000",
+    "source": "nypost",
+    "headline": "Family of slain 2013 hero NYPD cop say they feel Diller widow’s pain: ‘Justice falls short’",
+    "link": "https://nypost.com/2026/04/03/us-news/kin-of-slain-2013-hero-nypd-cop-say-they-feel-diller-widows-pain-justice-falls-short/"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-03-15-02-32 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/heres-the-latest"
+    "score": 11,
+    "pubdate": "2026-04-03-16-47-39 +0000",
+    "source": "nypost",
+    "headline": "French-owned container ship safely passes through Strait of Hormuz as Iran’s chokehold continues",
+    "link": "https://nypost.com/2026/04/03/world-news/french-owned-ship-passes-through-strait-of-hormuz-as-irans-chokehold-continues/"
   }
 ]
