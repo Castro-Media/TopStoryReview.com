@@ -1,6 +1,6 @@
 [
   {
-    "score": 301,
+    "score": 277,
     "pubdate": "2026-04-02-20-20-20 +0000",
     "source": "nyt",
     "headline": "Trump Says He’ll End the Iran War in Weeks. What If He Can’t?",
@@ -14,14 +14,14 @@
     "link": "https://www.wsj.com/politics/national-security/hegseth-removes-army-chief-in-latest-purge-of-militarys-top-ranks-4be47bd5"
   },
   {
-    "score": 105,
+    "score": 99,
     "pubdate": "2026-04-03-09-30-00 +0000",
     "source": "wsj",
     "headline": "The March jobs report due Friday morning will help resolve an anxious question hanging over the economy: Was February’s big drop in jobs a temporary setback, or the start of a more serious downturn?",
     "link": "https://www.wsj.com/economy/jobs/march-jobs-report-today-67a4ec0f"
   },
   {
-    "score": 88,
+    "score": 85,
     "pubdate": "2026-04-03-10-16-02 +0000",
     "source": "nypost",
     "headline": "The four words Trump said to Pam Bondi the day before he fired her as attorney general",
@@ -36,31 +36,17 @@
   },
   {
     "score": 54,
-    "pubdate": "2026-04-02-16-36-00 +0000",
+    "pubdate": "2026-04-02-21-34-00 +0000",
     "source": "wsj",
-    "headline": "President Trump has used tariffs to remake U.S. trade policy, moving from a model of cooperative trade agreements to one that relies on overt economic coercion",
-    "link": "https://www.wsj.com/politics/policy/how-trump-rewrote-the-rules-of-global-trade-in-one-year-e37332fd"
+    "headline": "The U.S. will impose tariffs of up to 100% on branded pharmaceuticals, though countries or drugmakers that strike deals with the Trump administration can receive lower levies or none at all",
+    "link": "https://www.wsj.com/politics/policy/trump-pharmaceutical-tariffs-b7667ad6"
   },
   {
-    "score": 52,
+    "score": 51,
     "pubdate": "2026-04-03-13-13-25 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Drone Hits Kuwaiti Oil Refinery in New Attack on Gulf Energy Sites",
     "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-04-03-04-06-24 +0000",
-    "source": "nypost",
-    "headline": "Karoline Leavitt blames Joe Biden for the ‘hard time’ Karine Jean-Pierre had as White House press secretary",
-    "link": "https://nypost.com/2026/04/03/us-news/karoline-leavitt-blames-joe-biden-for-the-hard-time-karine-jean-pierre-had-as-white-house-press-secretary/"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-04-02-19-55-00 +0000",
-    "source": "wsj",
-    "headline": "Blue Owl Investors Seek to Pull $5.4 Billion From Two Private-Credit Funds",
-    "link": "https://www.wsj.com/finance/investing/blue-owls-36-billion-private-credit-fund-hit-by-22-withdrawal-request-6209c568?mod=rss_markets_main"
   },
   {
     "score": 49,
@@ -68,5 +54,19 @@
     "source": "nyt",
     "headline": "In Supreme Court Birthright Citizenship Case, Trump’s Likely Loss May Not End the Fight",
     "link": "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-04-03-04-06-24 +0000",
+    "source": "nypost",
+    "headline": "Karoline Leavitt blames Joe Biden for the ‘hard time’ Karine Jean-Pierre had as White House press secretary",
+    "link": "https://nypost.com/2026/04/03/us-news/karoline-leavitt-blames-joe-biden-for-the-hard-time-karine-jean-pierre-had-as-white-house-press-secretary/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-04-02-19-55-00 +0000",
+    "source": "wsj",
+    "headline": "Blue Owl Investors Seek to Pull $5.4 Billion From Two Private-Credit Funds",
+    "link": "https://www.wsj.com/finance/investing/blue-owls-36-billion-private-credit-fund-hit-by-22-withdrawal-request-6209c568?mod=rss_markets_main"
   }
 ]
