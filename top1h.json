@@ -1,9 +1,72 @@
 [
   {
-    "score": 13,
-    "pubdate": "2026-04-03-17-02-48 +0000",
+    "score": 46,
+    "pubdate": "2026-04-03-19-04-13 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: One American Rescued From Fighter Jet Downed Over Iran, Officials Say",
+    "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-04-03-18-20-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump released a summary of his budget proposal for the 2027 fiscal year, seeking $1.5 trillion in defense spending, by far the largest dollar amount in modern history",
+    "link": "https://www.wsj.com/politics/policy/trump-budget-proposal-calls-for-1-5-trillion-in-defense-spending-44a9e7ed"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-04-03-18-21-30 +0000",
     "source": "nypost",
-    "headline": "NY businesses must now accept cash, but hundreds of NYC shops defiantly refuse — & devise creative work-arounds",
-    "link": "https://nypost.com/2026/04/03/us-news/ny-businesses-must-now-accept-cash-but-nyc-shops-defiantly-refuse-devise-creative-work-arounds/"
+    "headline": "US military aircraft spotted flying over Iran as crew hunts for missing fighter pilot",
+    "link": "https://nypost.com/2026/04/03/us-news/us-military-aircraft-spotted-flying-over-iran-as-crew-hunts-for-missing-fighter-pilot/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-03-18-18-38 +0000",
+    "source": "nyt",
+    "headline": "Cosmopolitan Shanghai Is an Uneasy Fit in China’s Narrative of Western Sins",
+    "link": "https://www.nytimes.com/2026/04/03/world/asia/shanghai-dispatch-architecture.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-03-18-24-26 +0000",
+    "source": "nyt",
+    "headline": "Rima Hassan Is Charged With Glorifying Terrorism Online in Social Media Post",
+    "link": "https://www.nytimes.com/2026/04/03/rima-hassan-france-terrorism-charges.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-03-18-26-21 +0000",
+    "source": "nypost",
+    "headline": "LA’s top federal prosecutor reveals staggering extent of California fraud on Gavin Newsom’s watch",
+    "link": "https://nypost.com/2026/04/03/us-news/las-top-federal-prosecutor-reveals-staggering-extent-of-california-fraud-on-gavin-newsoms-watch/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-03-18-51-41 +0000",
+    "source": "startribune",
+    "headline": "Live from rainy Target Field: Twins play home opener against Tampa Bay Rays",
+    "link": "https://www.startribune.com/minnesota-twins-live-blog-home-opener-tampa-bay-target-field/601637732"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-03-18-25-25 +0000",
+    "source": "bbc",
+    "headline": "Artemis II crew take 'spectacular' image of Earth",
+    "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-03-18-26-43 +0000",
+    "source": "nypost",
+    "headline": "Supreme Court Justice Samuel Alito treated for dehydration at hospital after March incident",
+    "link": "https://nypost.com/2026/04/03/us-news/supreme-court-justice-samuel-alito-treated-for-dehydration-at-hospital-after-march-incident/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-03-18-43-09 +0000",
+    "source": "nypost",
+    "headline": "How fuel-related surcharges could raise prices, hammer businesses: ‘this might be the final straw’",
+    "link": "https://nypost.com/2026/04/03/business/how-fuel-related-surcharges-could-raise-prices-hammer-businesses-this-might-be-the-final-straw/"
   }
 ]
