@@ -1,38 +1,45 @@
 [
   {
-    "score": 273,
+    "score": 294,
     "pubdate": "2026-04-02-20-20-20 +0000",
     "source": "nyt",
     "headline": "Trump Says He’ll End the Iran War in Weeks. What If He Can’t?",
     "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html"
   },
   {
-    "score": 121,
+    "score": 131,
+    "pubdate": "2026-04-03-10-16-02 +0000",
+    "source": "nypost",
+    "headline": "Trump told Pam Bondi ‘I think it’s time’ day before he fired her as attorney general: report",
+    "link": "https://nypost.com/2026/04/03/us-news/trump-told-pam-bondi-i-think-its-time-day-before-he-fired-her-as-attorney-general-report/"
+  },
+  {
+    "score": 106,
     "pubdate": "2026-04-02-22-46-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth ousted the Army’s top general Thursday, the latest top military leader removed in a Pentagon that has seen a purge of its top ranks under the Trump administration",
     "link": "https://www.wsj.com/politics/national-security/hegseth-removes-army-chief-in-latest-purge-of-militarys-top-ranks-4be47bd5"
   },
   {
-    "score": 84,
-    "pubdate": "2026-04-03-01-00-00 +0000",
+    "score": 69,
+    "pubdate": "2026-04-03-09-30-00 +0000",
     "source": "wsj",
-    "headline": "Attorney General Pam Bondi was always on the ropes but thought she was finally on safer footing. She wasn’t.",
-    "link": "https://www.wsj.com/politics/policy/i-think-its-time-the-inside-story-of-pam-bondis-ouster-c16167d0"
+    "headline": "The March jobs report due Friday morning will help resolve an anxious question hanging over the economy: Was February’s big drop in jobs a temporary setback, or the start of a more serious downturn?",
+    "link": "https://www.wsj.com/economy/jobs/what-were-looking-for-in-todays-jobs-report-67a4ec0f"
   },
   {
-    "score": 65,
+    "score": 67,
     "pubdate": "2026-04-03-03-29-06 +0000",
     "source": "nyt",
     "headline": "A Bid to Use Force to Open Strait of Hormuz Hits Roadblocks at U.N. Security Council",
     "link": "https://www.nytimes.com/2026/04/02/world/middleeast/arab-iran-hormuz-force.html"
   },
   {
-    "score": 61,
-    "pubdate": "2026-04-02-21-34-00 +0000",
+    "score": 57,
+    "pubdate": "2026-04-02-16-36-00 +0000",
     "source": "wsj",
-    "headline": "The U.S. will impose tariffs of up to 100% on branded pharmaceuticals, though countries or drugmakers that strike deals with the Trump administration can receive lower levies or none at all",
-    "link": "https://www.wsj.com/politics/policy/trump-pharmaceutical-tariffs-b7667ad6"
+    "headline": "President Trump has used tariffs to remake U.S. trade policy, moving from a model of cooperative trade agreements to one that relies on overt economic coercion",
+    "link": "https://www.wsj.com/politics/policy/how-trump-rewrote-the-rules-of-global-trade-in-one-year-e37332fd"
   },
   {
     "score": 51,
@@ -42,31 +49,24 @@
     "link": "https://www.nytimes.com/2026/04/02/us/politics/birthright-citizenship-trump-supreme-court.html"
   },
   {
-    "score": 51,
-    "pubdate": "2026-04-03-00-55-37 +0000",
-    "source": "nypost",
-    "headline": "Acting AG Todd Blanche defends Bondi, rejects reports that handling of Epstein files led to her ouster: ‘Simply not true’",
-    "link": "https://nypost.com/2026/04/02/us-news/acting-ag-todd-blanche-defends-ousted-pam-bondi/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-04-02-21-01-00 +0000",
+    "score": 49,
+    "pubdate": "2026-04-02-19-55-00 +0000",
     "source": "wsj",
-    "headline": "Investors Waver After Trump Speech on Iran, Ending Two-Day Surge in Stocks",
-    "link": "https://www.wsj.com/finance/stocks/investors-waver-after-trump-speech-on-iran-ending-two-day-surge-in-stocks-0e59e4cb?mod=rss_markets_main"
+    "headline": "Blue Owl Investors Seek to Pull $5.4 Billion From Two Private-Credit Funds",
+    "link": "https://www.wsj.com/finance/investing/blue-owls-36-billion-private-credit-fund-hit-by-22-withdrawal-request-6209c568?mod=rss_markets_main"
   },
   {
-    "score": 45,
-    "pubdate": "2026-04-02-16-36-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump has used tariffs to remake U.S. trade policy, moving from a model of cooperative trade agreements to one that relies on overt economic coercion",
-    "link": "https://www.wsj.com/politics/policy/how-trump-rewrote-the-rules-of-global-trade-in-one-year-e37332fd"
-  },
-  {
-    "score": 44,
-    "pubdate": "2026-04-03-09-03-51 +0000",
+    "score": 47,
+    "pubdate": "2026-04-03-10-59-33 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Drone Hits Kuwaiti Oil Refinery in New Attack on Gulf Energy Sites",
     "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-04-02-15-49-43 +0000",
+    "source": "nypost",
+    "headline": "Global airlines could go bankrupt as jet fuel costs soar during Iran war, billionaire jet tycoon warns",
+    "link": "https://nypost.com/2026/04/02/business/global-airlines-could-go-bankrupt-as-cost-of-jet-fuel-soars-during-iran-war-billionaire-jet-tycoon-warns/"
   }
 ]
