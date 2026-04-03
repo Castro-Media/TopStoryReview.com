@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Strikes Hit Infrastructure Sites in Iran After Trump’s Threat",
+    "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news",
+    "source": "nyt",
+    "pubdate": "2026-04-03-07-14-40 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-03-07-13-52 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-03-07-13-52 +0000"
+  },
+  {
+    "headline": "Cuba releasing more than 2,000 prisoners as US pressures the island’s government",
+    "link": "https://nypost.com/2026/04/03/world-news/cuba-releasing-2010-prisoners-as-the-us-pressures-the-islands-government/",
+    "source": "nypost",
+    "pubdate": "2026-04-03-07-04-26 +0000"
+  },
+  {
+    "headline": "How New Yorkers Spend, Splurge and Scrimp to Live in the City",
+    "link": "https://www.nytimes.com/2026/04/03/insider/affording-new-york-city-apartments.html",
+    "source": "nyt",
+    "pubdate": "2026-04-03-07-00-06 +0000"
+  },
+  {
+    "headline": "How New Yorkers Spend, Splurge and Scrimp to Live in the City",
+    "link": "https://www.nytimes.com/2026/04/03/insider/affording-new-york-city-apartments.html",
+    "source": "nyt",
+    "pubdate": "2026-04-03-07-00-06 +0000"
+  },
+  {
+    "headline": "Myanmar's coup leader who set off a brutal civil war becomes president",
+    "link": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-03-06-49-37 +0000"
+  },
+  {
+    "headline": "Myanmar's coup leader who set off a brutal civil war becomes president",
+    "link": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-03-06-49-37 +0000"
+  },
+  {
+    "headline": "Myanmar Junta Chief Ascends to President, Five Years After Coup",
+    "link": "https://www.nytimes.com/2026/04/03/world/asia/myanmar-president-min-aung-hlaing.html",
+    "source": "nyt",
+    "pubdate": "2026-04-03-06-42-53 +0000"
+  },
+  {
+    "headline": "Myanmar Junta Chief Ascends to President, Five Years After Coup",
+    "link": "https://www.nytimes.com/2026/04/03/world/asia/myanmar-president-min-aung-hlaing.html",
+    "source": "nyt",
+    "pubdate": "2026-04-03-06-42-53 +0000"
+  },
+  {
+    "headline": "Cuba Says It Is Pardoning More Than 2,000 Prisoners",
+    "link": "https://www.nytimes.com/2026/04/02/world/americas/cuba-prisoner-release.html",
+    "source": "nyt",
+    "pubdate": "2026-04-03-06-40-50 +0000"
+  },
+  {
+    "headline": "Cuba Says It Is Pardoning More Than 2,000 Prisoners",
+    "link": "https://www.nytimes.com/2026/04/02/world/americas/cuba-prisoner-release.html",
+    "source": "nyt",
+    "pubdate": "2026-04-03-06-40-50 +0000"
+  },
+  {
+    "headline": "United Airlines checked bag fees climb $10-50 as fuel prices surge after Iran war",
+    "link": "https://nypost.com/2026/04/03/business/united-airlines-checked-bag-fees-climb-10-50-as-fuel-prices-surge-after-iran-war/",
+    "source": "nypost",
+    "pubdate": "2026-04-03-06-40-31 +0000"
+  },
+  {
+    "headline": "‘Grieving’ Melissa Gilbert defends husband Timothy Busfield in first interview since child sex abuse allegations",
+    "link": "https://nypost.com/2026/04/03/us-news/melissa-gilbert-defends-timothy-busfield-in-first-interview-since-his-child-sex-abuse-charges/",
+    "source": "nypost",
+    "pubdate": "2026-04-03-05-46-40 +0000"
+  },
+  {
+    "headline": "Cuba says it will release over 2,000 prisoners, as U.S. keeps up pressure",
+    "link": "https://www.washingtonpost.com/world/2026/04/03/cuba-prisoner-release-trump-blockade/",
+    "source": "wapo",
+    "pubdate": "2026-04-03-05-36-41 +0000"
+  },
+  {
+    "headline": "‘Devout Christian’ couple forced adopted daughter to soil herself in Fla. bedroom for years and clean up mess: court docs",
+    "link": "https://nypost.com/2026/04/03/us-news/devout-christian-couple-forced-adopted-daughter-to-soil-herself-in-fl-bedroom-for-years-and-clean-up-mess-court-docs/",
+    "source": "nypost",
+    "pubdate": "2026-04-03-05-35-46 +0000"
+  },
+  {
     "headline": "Americans would be ‘up at night worrying’ if they knew the truth about alien life, Tennessee Rep. Tim Burchett says",
     "link": "https://nypost.com/2026/04/03/us-news/tennessee-rep-tim-burchett-says-americans-would-be-up-at-night-if-they-knew-the-truth-about-alien-life/",
     "source": "nypost",
@@ -28,12 +124,6 @@
     "link": "https://nypost.com/2026/04/03/world-news/priceless-2500-year-old-golden-helmet-stolen-from-dutch-museum-recovered/",
     "source": "nypost",
     "pubdate": "2026-04-03-04-57-09 +0000"
-  },
-  {
-    "headline": "Iran War Live Updates: Strikes Hit Infrastructure Sites in Iran After Trump’s Threat",
-    "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news",
-    "source": "nyt",
-    "pubdate": "2026-04-03-04-56-37 +0000"
   },
   {
     "headline": "The Race for the Future of the Moon",
@@ -90,18 +180,6 @@
     "pubdate": "2026-04-03-04-01-12 +0000"
   },
   {
-    "headline": "Cuba Says It Is Pardoning More Than 2,000 Prisoners",
-    "link": "https://www.nytimes.com/2026/04/02/world/americas/cuba-prisoner-release.html",
-    "source": "nyt",
-    "pubdate": "2026-04-03-03-45-44 +0000"
-  },
-  {
-    "headline": "Cuba Says It Is Pardoning More Than 2,000 Prisoners",
-    "link": "https://www.nytimes.com/2026/04/02/world/americas/cuba-prisoner-release.html",
-    "source": "nyt",
-    "pubdate": "2026-04-03-03-45-44 +0000"
-  },
-  {
     "headline": "Trump Faces a Tough Fight With His New Budget",
     "link": "https://www.nytimes.com/2026/04/02/business/economy/trump-budget-spending.html",
     "source": "nyt",
@@ -153,13 +231,13 @@
     "headline": "A Bid to Use Force to Open Strait of Hormuz Hits Roadblocks at U.N. Security Council",
     "link": "https://www.nytimes.com/2026/04/02/world/middleeast/arab-iran-hormuz-force.html",
     "source": "nyt",
-    "pubdate": "2026-04-03-03-29-05 +0000"
+    "pubdate": "2026-04-03-03-29-06 +0000"
   },
   {
     "headline": "A Bid to Use Force to Open Strait of Hormuz Hits Roadblocks at U.N. Security Council",
     "link": "https://www.nytimes.com/2026/04/02/world/middleeast/arab-iran-hormuz-force.html",
     "source": "nyt",
-    "pubdate": "2026-04-03-03-29-05 +0000"
+    "pubdate": "2026-04-03-03-29-06 +0000"
   },
   {
     "headline": "Long Island wrestling star overcomes near-death experience from chimpanzee attack",
@@ -468,12 +546,6 @@
     "pubdate": "2026-04-03-00-37-02 +0000"
   },
   {
-    "headline": "Tiger Woods revealed he was ‘hoping to’ play in 2026 Masters during DUI arrest",
-    "link": "https://nypost.com/2026/04/02/sports/tiger-woods-reveals-he-was-hoping-to-play-in-2026-masters/",
-    "source": "nypost",
-    "pubdate": "2026-04-03-00-36-09 +0000"
-  },
-  {
     "headline": "Trump removes US Attorney General Pam Bondi",
     "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -516,12 +588,6 @@
     "pubdate": "2026-04-03-00-13-47 +0000"
   },
   {
-    "headline": "San Francisco ex-human rights chief pleads not guilty to bilking taxpayers",
-    "link": "https://nypost.com/2026/04/02/us-news/san-francisco-ex-human-rights-chief-sheryl-davis-pleads-not-guilty-to-bilking-taxpayers/",
-    "source": "nypost",
-    "pubdate": "2026-04-03-00-13-47 +0000"
-  },
-  {
     "headline": "Gucci Mane Held at Gunpoint, Prompting 2 Rappers’ Arrests",
     "link": "https://www.nytimes.com/2026/04/02/us/gucci-mane-kidnapping-pooh-shiesty-big30.html",
     "source": "nyt",
@@ -532,6 +598,12 @@
     "link": "https://nypost.com/2026/04/02/business/in-n-out-to-open-new-location-in-utah-near-zion-national-park/",
     "source": "nypost",
     "pubdate": "2026-04-03-00-05-36 +0000"
+  },
+  {
+    "headline": "Watch: Who is the coup leader who will be Myanmar's next president?",
+    "link": "https://www.bbc.com/news/videos/ckg0lnnplxko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-03-00-04-04 +0000"
   },
   {
     "headline": "Newsom spends $20M on consultants in struggling DOGE-inspired plan to cut waste",
@@ -571,15 +643,15 @@
   },
   {
     "headline": "Iranians hold a nature festival in the shadow of war.",
-    "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranians-mark-a-nature-festival-in-the-shadow-of-war",
+    "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/iranians-mark-a-nature-festival-in-the-shadow-of-war",
     "source": "nyt",
-    "pubdate": "2026-04-02-23-31-24 +0000"
+    "pubdate": "2026-04-02-23-31-25 +0000"
   },
   {
     "headline": "Iranians hold a nature festival in the shadow of war.",
-    "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/iranians-mark-a-nature-festival-in-the-shadow-of-war",
+    "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/iranians-mark-a-nature-festival-in-the-shadow-of-war",
     "source": "nyt",
-    "pubdate": "2026-04-02-23-31-24 +0000"
+    "pubdate": "2026-04-02-23-31-25 +0000"
   },
   {
     "headline": "Planning Commission Approves Trump’s Ballroom, but Legal Roadblocks Remain",
@@ -612,6 +684,12 @@
     "pubdate": "2026-04-02-23-26-59 +0000"
   },
   {
+    "headline": "Police offered support to tackle rising threats against MPs",
+    "link": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-02-23-24-53 +0000"
+  },
+  {
     "headline": "Hegseth Fires Army Chief Amid Battle With Its Leaders",
     "link": "https://www.nytimes.com/2026/04/02/us/politics/hegseth-fires-general-randy-george.html",
     "source": "nyt",
@@ -640,6 +718,12 @@
     "link": "https://www.nytimes.com/2026/04/02/world/middleeast/iran-war-trump-strait.html",
     "source": "nyt",
     "pubdate": "2026-04-02-23-16-43 +0000"
+  },
+  {
+    "headline": "Iran war could make beer and bottled water pricier for Indians",
+    "link": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-02-23-16-37 +0000"
   },
   {
     "headline": "Iran war could make beer and bottled water pricier for Indians",
@@ -708,7 +792,7 @@
     "pubdate": "2026-04-02-22-49-15 +0000"
   },
   {
-    "headline": "Blake Lively ‘It Ends With Us’ Sexual- Harassment Claims Tossed as Suit Heads to Trial",
+    "headline": "Blake Lively ‘It Ends With Us’ Sexual-Harassment Claims Tossed as Suit Heads to Trial",
     "link": "https://www.wsj.com/business/media/blake-lively-it-ends-with-us-sexual-harassment-claims-tossed-as-suit-heads-to-trial-df179288?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-02-22-48-00 +0000"
@@ -814,18 +898,6 @@
     "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-ballroom-military-bunker.html",
     "source": "nyt",
     "pubdate": "2026-04-02-22-16-09 +0000"
-  },
-  {
-    "headline": "Myanmar's coup leader who set off a brutal civil war is set to become president",
-    "link": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-02-22-14-00 +0000"
-  },
-  {
-    "headline": "Myanmar's coup leader who set off a brutal civil war is set to become president",
-    "link": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-02-22-14-00 +0000"
   },
   {
     "headline": "Iran’s tallest bridge destroyed in US airstrikes as Trump warns of more destruction",
@@ -1230,6 +1302,12 @@
     "pubdate": "2026-04-02-20-36-00 +0000"
   },
   {
+    "headline": "Rising Tesla Sales in First Quarter Didn’t Beat Wall Street Expectations",
+    "link": "https://www.wsj.com/business/autos/tesla-sales-jumped-in-first-quarter-ccb1395f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-02-20-36-00 +0000"
+  },
+  {
     "headline": "Who Is Todd Blanche, Trump’s Acting Attorney General?",
     "link": "https://www.nytimes.com/2026/04/02/us/politics/todd-blanche-attorney-general-trump.html",
     "source": "nyt",
@@ -1566,6 +1644,12 @@
     "pubdate": "2026-04-02-18-31-58 +0000"
   },
   {
+    "headline": "Ros Atkins on…the cost of the Iran war",
+    "link": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-02-18-29-14 +0000"
+  },
+  {
     "headline": "He Led Congo for 18 Years. Now, Joseph Kabila Is a Hunted Man.",
     "link": "https://www.nytimes.com/2026/03/30/world/africa/he-led-congo-for-18-years-now-hes-a-hunted-man.html",
     "source": "nyt",
@@ -1738,6 +1822,12 @@
     "link": "https://www.nytimes.com/2026/04/02/world/americas/cuba-russia-oil-tanker.html",
     "source": "nyt",
     "pubdate": "2026-04-02-17-14-36 +0000"
+  },
+  {
+    "headline": "Watch: Trump's shifting deadlines for ending Iran war",
+    "link": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-02-17-13-00 +0000"
   },
   {
     "headline": "Watch: Trump's shifting deadlines for ending Iran war",
@@ -2298,6 +2388,12 @@
     "pubdate": "2026-04-02-12-33-03 +0000"
   },
   {
+    "headline": "Iconic 19th Century painting sets Indian art record with $17.9m sale",
+    "link": "https://www.bbc.com/news/articles/cje4l98wjzwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-02-12-30-04 +0000"
+  },
+  {
     "headline": "Artemis II is in orbit - what happens next?",
     "link": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2502,12 +2598,6 @@
     "pubdate": "2026-04-02-10-00-00 +0000"
   },
   {
-    "headline": "What SpaceX and its record IPO have riding on the new race to the moon",
-    "link": "https://www.latimes.com/business/story/2026-04-02/spacex-its-record-ipo-race-to-moon-artemis-aerospace-nasa-apollo",
-    "source": "latimes",
-    "pubdate": "2026-04-02-10-00-00 +0000"
-  },
-  {
     "headline": "Hiltzik: A proposed new 'fix' for Social Security that harms workers and protects the rich",
     "link": "https://www.latimes.com/business/story/2026-04-02/conservatives-cook-up-new-fix-for-social-security-that-harms-workers-protects-rich-trump-gop",
     "source": "latimes",
@@ -2516,6 +2606,12 @@
   {
     "headline": "'You're a liar.'  Why the world's biggest building boom has run into a wall in California",
     "link": "https://www.latimes.com/business/story/2026-04-02/youre-liar-why-worlds-biggest-building-boom-has-run-into-wall-in-california",
+    "source": "latimes",
+    "pubdate": "2026-04-02-10-00-00 +0000"
+  },
+  {
+    "headline": "What SpaceX and its record IPO have riding on the new race to the moon",
+    "link": "https://www.latimes.com/business/story/2026-04-02/spacex-its-record-ipo-race-to-moon-artemis-aerospace-nasa-apollo",
     "source": "latimes",
     "pubdate": "2026-04-02-10-00-00 +0000"
   },
@@ -3384,12 +3480,6 @@
     "pubdate": "2026-04-01-20-19-57 +0000"
   },
   {
-    "headline": "Alabama TV news anchor quotes Muslim Brotherhood founder, sparking backlash: ‘Why is she still working?’",
-    "link": "https://nypost.com/2026/04/01/media/alabama-tv-news-anchor-quotes-muslim-brotherhood-founder-sparking-backlash-why-is-she-still-working/",
-    "source": "nypost",
-    "pubdate": "2026-04-01-20-15-20 +0000"
-  },
-  {
     "headline": "Markets Extend Rally and Oil Prices Drop After Trump Says Iran War Will Wind Down",
     "link": "https://www.nytimes.com/2026/04/01/business/stocks-oil-gasoline-prices-iran.html",
     "source": "nyt",
@@ -3508,12 +3598,6 @@
     "link": "https://www.washingtonpost.com/national-security/2026/04/01/trump-commando-plan-seize-iran-uranium/",
     "source": "wapo",
     "pubdate": "2026-04-01-18-58-41 +0000"
-  },
-  {
-    "headline": "Israel’s Message to a Broad Swath of Lebanon: Shiites Must Go",
-    "link": "https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html",
-    "source": "nyt",
-    "pubdate": "2026-04-01-18-50-55 +0000"
   },
   {
     "headline": "Israel’s Message to a Broad Swath of Lebanon: Shiites Must Go",
@@ -3646,12 +3730,6 @@
     "link": "https://www.latimes.com/california/story/2026-04-01/la-county-student-homelessness-study",
     "source": "latimes",
     "pubdate": "2026-04-01-17-23-59 +0000"
-  },
-  {
-    "headline": "Iran rejects Trump’s claim of cease-fire request, says Tehran determined to win war",
-    "link": "https://nypost.com/2026/04/01/world-news/iran-rejects-trumps-claim-of-cease-fire-request-says-tehran-determined-to-win-war/",
-    "source": "nypost",
-    "pubdate": "2026-04-01-17-16-58 +0000"
   },
   {
     "headline": "Conagra Returns to Organic Sales Growth, But Inflation Pressures Profit",
@@ -4068,12 +4146,6 @@
     "pubdate": "2026-04-01-11-36-40 +0000"
   },
   {
-    "headline": "Albanese Urges Australians to Remain Calm Amid Fuel Crisis",
-    "link": "https://www.nytimes.com/2026/04/01/world/asia/australia-albanese-fuel-speech.html",
-    "source": "nyt",
-    "pubdate": "2026-04-01-11-36-40 +0000"
-  },
-  {
     "headline": "U.A.E. Wants to Force Hormuz Open and Is Willing to Join the Fight",
     "link": "https://www.wsj.com/world/middle-east/uae-iran-war-strait-of-hormuz-9836ecbb",
     "source": "wsj",
@@ -4176,14 +4248,14 @@
     "pubdate": "2026-04-01-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: Is California really going to elect a Republican governor? Is there a Democratic Plan B?",
-    "link": "https://www.latimes.com/politics/story/2026-04-01/california-governors-race-democrats-locked-out-chance",
+    "headline": "Most California voters still disapprove of Trump's immigration crackdown, poll shows",
+    "link": "https://www.latimes.com/politics/story/2026-04-01/most-californians-still-disapprove-of-immigration-crackdown-poll-says",
     "source": "latimes",
     "pubdate": "2026-04-01-10-00-00 +0000"
   },
   {
-    "headline": "Most California voters still disapprove of Trump's immigration crackdown, poll shows",
-    "link": "https://www.latimes.com/politics/story/2026-04-01/most-californians-still-disapprove-of-immigration-crackdown-poll-says",
+    "headline": "Barabak: Is California really going to elect a Republican governor? Is there a Democratic Plan B?",
+    "link": "https://www.latimes.com/politics/story/2026-04-01/california-governors-race-democrats-locked-out-chance",
     "source": "latimes",
     "pubdate": "2026-04-01-10-00-00 +0000"
   },
@@ -4650,12 +4722,6 @@
     "pubdate": "2026-04-01-00-00-00 +0000"
   },
   {
-    "headline": "America Now Has an EV Rust Belt. High Gas Prices Won’t Rescue It.",
-    "link": "https://www.wsj.com/business/autos/ev-factories-layoffs-autoworkers-f93de8d3?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-01-00-00-00 +0000"
-  },
-  {
     "headline": "Judge Dismisses Lawsuit That Challenged Ban on Endorsements by Churches",
     "link": "https://www.nytimes.com/2026/03/31/us/politics/judge-johnson-amendment-settlement.html",
     "source": "nyt",
@@ -4974,12 +5040,6 @@
     "pubdate": "2026-03-31-18-17-49 +0000"
   },
   {
-    "headline": "Trump Shares Video of Bombing in Iranian City of Isfahan",
-    "link": "https://www.nytimes.com/2026/03/31/world/middleeast/isfahan-iran-bombing-trump-video.html",
-    "source": "nyt",
-    "pubdate": "2026-03-31-18-13-04 +0000"
-  },
-  {
     "headline": "Carney says he's 'absolutely not' considering proroguing Parliament after byelections",
     "link": "https://www.cbc.ca/news/politics/mark-carney-not-proroguing-parliament-9.7148703?cmp=rss",
     "source": "cbc",
@@ -5086,12 +5146,6 @@
     "link": "https://www.nytimes.com/2026/03/31/business/food-distributors-surcharges-fuel.html",
     "source": "nyt",
     "pubdate": "2026-03-31-15-13-13 +0000"
-  },
-  {
-    "headline": "New bin rules begin in England but not all councils are ready",
-    "link": "https://www.bbc.com/news/articles/cn4vwj0yj20o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-31-15-05-14 +0000"
   },
   {
     "headline": "King Charles to Visit U.S. as Tensions Rise Between Trump and Britain",
@@ -5460,12 +5514,6 @@
     "pubdate": "2026-03-31-02-16-00 +0000"
   },
   {
-    "headline": "Social media firms must better enforce Australia under-16 ban, watchdog says",
-    "link": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-31-02-00-24 +0000"
-  },
-  {
     "headline": "Hiltzik: The Disney/Sora fiasco shows the limits of the AI craze",
     "link": "https://www.latimes.com/business/story/2026-03-30/disney-sora-fiasco-shows-limits-of-the-ai-craze-in-hollywood-and-everywhere-else",
     "source": "latimes",
@@ -5688,12 +5736,6 @@
     "pubdate": "2026-03-30-15-48-24 +0000"
   },
   {
-    "headline": "Oil rises and Asia shares slide as Iran war enters fifth week",
-    "link": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-30-15-35-40 +0000"
-  },
-  {
     "headline": "From Foe to Ally: The S.E.C. Is Now Writing Crypto-Friendly Policies",
     "link": "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html",
     "source": "nyt",
@@ -5752,12 +5794,6 @@
     "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-03-30-11-49-26 +0000"
-  },
-  {
-    "headline": "Iran War’s Latest Economic Toll: Oil at $115 a Barrel",
-    "link": "https://www.nytimes.com/2026/03/30/business/dealbook/iran-war-oil-economy.html",
-    "source": "nyt",
-    "pubdate": "2026-03-30-11-38-58 +0000"
   },
   {
     "headline": "Xi Invites Taiwan’s Opposition Leader to Talk ‘Peace’ Ahead of Trump Summit",
@@ -5844,12 +5880,6 @@
     "pubdate": "2026-03-30-07-07-15 +0000"
   },
   {
-    "headline": "Myanmar junta chief Min Aung Hlaing nominated as president",
-    "link": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-30-05-26-09 +0000"
-  },
-  {
     "headline": "Asia Depends on L.N.G. From the Middle East. This Is What Happens When It Runs Out.",
     "link": "https://www.nytimes.com/2026/03/30/business/lng-supply-asia-qatar-iran.html",
     "source": "nyt",
@@ -5898,12 +5928,6 @@
     "pubdate": "2026-03-29-22-03-53 +0000"
   },
   {
-    "headline": "Educated and employed but still struggling: India's middle class under strain",
-    "link": "https://www.bbc.com/news/articles/cvg5g3pjy06o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-03-29-21-29-18 +0000"
-  },
-  {
     "headline": "Marine corporal accused of stealing, reselling weapons and ammo from Camp Pendleton",
     "link": "https://www.latimes.com/california/story/2026-03-29/marine-accused-of-stealing-selling-weapons-from-camp-pendleton",
     "source": "latimes",
@@ -5950,12 +5974,6 @@
     "link": "https://www.latimes.com/california/story/2026-03-29/1-dead-after-five-car-crash-on-10-freeway-in-la",
     "source": "latimes",
     "pubdate": "2026-03-29-19-05-34 +0000"
-  },
-  {
-    "headline": "The Slum in Gangnam, the Richest Part of Seoul",
-    "link": "https://www.nytimes.com/2026/03/29/world/asia/korea-seoul-gangnam-slum.html",
-    "source": "nyt",
-    "pubdate": "2026-03-29-17-56-02 +0000"
   },
   {
     "headline": "Trump Sets Up ‘Pax Silica’ Fund to Reduce Global Dependencies",
@@ -6156,14 +6174,14 @@
     "pubdate": "2026-03-28-10-00-00 +0000"
   },
   {
-    "headline": "As oil prices rise, airfares are surging and some airlines might not survive",
-    "link": "https://www.latimes.com/business/story/2026-03-28/as-oil-prices-rise-airfares-are-surging-some-airlines-might-not-survive",
+    "headline": "L.A. social media addiction verdict set to unleash more lawsuits — and force changes",
+    "link": "https://www.latimes.com/california/story/2026-03-28/meta-google-social-media-addiction-verdict-explained",
     "source": "latimes",
     "pubdate": "2026-03-28-10-00-00 +0000"
   },
   {
-    "headline": "L.A. social media addiction verdict set to unleash more lawsuits — and force changes",
-    "link": "https://www.latimes.com/california/story/2026-03-28/meta-google-social-media-addiction-verdict-explained",
+    "headline": "As oil prices rise, airfares are surging and some airlines might not survive",
+    "link": "https://www.latimes.com/business/story/2026-03-28/as-oil-prices-rise-airfares-are-surging-some-airlines-might-not-survive",
     "source": "latimes",
     "pubdate": "2026-03-28-10-00-00 +0000"
   },
