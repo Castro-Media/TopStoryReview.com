@@ -1,30 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-04-03-11-03-09 +0000",
-    "source": "nyt",
-    "headline": "The White House is readying a budget for the statistics agency that compiles the jobs report.",
-    "link": "https://www.nytimes.com/live/2026/04/03/business/jobs-report-economy/the-white-house-is-readying-a-budget-for-the-statistics-agency-that-compiles-the-jobs-report"
+    "score": 38,
+    "pubdate": "2026-04-03-13-13-00 +0000",
+    "source": "wsj",
+    "headline": "Treasury yields climbed modestly after a Labor Department report showed the U.S. added a better-than-expected 178,000 jobs in March",
+    "link": "https://www.wsj.com/economy/central-banking/bond-yields-rise-after-strong-march-jobs-report-e7c4c29a"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-03-11-03-09 +0000",
-    "source": "nyt",
-    "headline": "The White House is readying a budget for the statistics agency that compiles the jobs report.",
-    "link": "https://www.nytimes.com/live/2026/04/03/business/jobs-report-economy/the-white-house-is-readying-a-budget-for-the-statistics-agency-that-compiles-the-jobs-report"
+    "score": 23,
+    "pubdate": "2026-04-03-12-41-30 +0000",
+    "source": "nypost",
+    "headline": "White House proposes 2027 budget with $1.5T for defense, $73B in spending cuts",
+    "link": "https://nypost.com/2026/04/03/us-news/white-house-proposes-2027-budget-with-1-5t-for-defense-73b-in-spending-cuts/"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-03-11-03-06 +0000",
+    "score": 18,
+    "pubdate": "2026-04-03-13-01-52 +0000",
     "source": "nyt",
-    "headline": "What to know about the report.",
-    "link": "https://www.nytimes.com/live/2026/04/03/business/jobs-report-economy/jobs-report-hiring-unemployment"
+    "headline": "Georgia Lawmakers End Session Without Fixing a Threat to Its Midterm Elections",
+    "link": "https://www.nytimes.com/2026/04/03/us/elections/georgia-voting-systems-midterm-elections.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-03-11-03-06 +0000",
+    "score": 17,
+    "pubdate": "2026-04-03-13-13-25 +0000",
     "source": "nyt",
-    "headline": "What to know about the report.",
-    "link": "https://www.nytimes.com/live/2026/04/03/business/jobs-report-economy/jobs-report-hiring-unemployment"
+    "headline": "Iran War Live Updates: Drone Hits Kuwaiti Oil Refinery in New Attack on Gulf Energy Sites",
+    "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-03-12-50-05 +0000",
+    "source": "nyt",
+    "headline": "Cosmopolitan Shanghai Is an Uneasy Fit in China’s Narrative of Western Sins",
+    "link": "https://www.nytimes.com/2026/04/03/world/asia/shanghai-dispatch-architecture.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-03-13-05-37 +0000",
+    "source": "nypost",
+    "headline": "Horrifying video shows ‘Bob’s Burgers’ actor Eugene Mirman’s car engulfed in flames in crash that nearly killed him",
+    "link": "https://nypost.com/2026/04/03/us-news/video-shows-fiery-crash-that-nearly-killed-bobs-burgers-star-eugene-mirman/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-03-12-32-43 +0000",
+    "source": "nyt",
+    "headline": "Israel plans to seize control of parts of southern Lebanon.",
+    "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/israel-plans-to-seize-control-of-parts-of-southern-lebanon"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-03-13-03-57 +0000",
+    "source": "bbc",
+    "headline": "Pete Hegseth asks US Army's top general to step down",
+    "link": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-03-12-51-08 +0000",
+    "source": "nypost",
+    "headline": "Good Samaritan viciously beaten by man he stopped to help by Florida highway: ‘This person tried to kill me’",
+    "link": "https://nypost.com/2026/04/03/us-news/good-samaritan-beaten-by-man-he-stopped-to-help-in-florida-video/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-03-13-06-29 +0000",
+    "source": "nyt",
+    "headline": "Trump Requests $1.5 Trillion for Military Spending",
+    "link": "https://www.nytimes.com/2026/04/03/us/politics/white-house-defense-budget.html"
   }
 ]
