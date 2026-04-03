@@ -1,23 +1,72 @@
 [
   {
+    "score": 19,
+    "pubdate": "2026-04-03-09-03-51 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Drone Hits Kuwaiti Oil Refinery in New Attack on Gulf Energy Sites",
+    "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-04-03-09-02-35 +0000",
+    "source": "nyt",
+    "headline": "Liberal Group Warns That Trump Could Have Two More Supreme Court Picks",
+    "link": "https://www.nytimes.com/2026/04/03/us/politics/trump-supreme-court-justices-vacancies.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-03-09-00-11 +0000",
+    "source": "nyt",
+    "headline": "Wealthy Donors Are Hiding Political Money in Secretive Nonprofits",
+    "link": "https://www.nytimes.com/2026/04/03/us/politics/liberal-billionaires-dark-money.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-03-09-01-02 +0000",
+    "source": "nyt",
+    "headline": "Jobs and Workers Are In Balance. Nobody Is Happy About It.",
+    "link": "https://www.nytimes.com/2026/04/03/business/economy/population-growth-immigration.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-03-09-02-22 +0000",
+    "source": "nyt",
+    "headline": "Nadav Lapid’s Film ‘Yes’ Is Intended to Anger Both Israel’s Right and Left",
+    "link": "https://www.nytimes.com/2026/04/03/movies/yes-movie-israel-gaza-nadav-lapid.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-03-09-04-56 +0000",
+    "source": "bbc",
+    "headline": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+    "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-03-09-00-37 +0000",
+    "source": "nyt",
+    "headline": "Texas Voucher Program Incites Fight Over Funding Islamic Schools",
+    "link": "https://www.nytimes.com/2026/04/03/us/texas-voucher-program-islamic-schools-funding-fight.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-03-09-00-19 +0000",
+    "source": "nyt",
+    "headline": "Could There Be a Popular Uprising in Cuba?",
+    "link": "https://www.nytimes.com/2026/04/03/world/americas/cuba-opposition-uprising.html"
+  },
+  {
     "score": 7,
-    "pubdate": "2026-04-03-07-14-40 +0000",
-    "source": "nyt",
-    "headline": "Strikes Hit Infrastructure Sites in Iran After Trump’s Threat",
-    "link": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news"
+    "pubdate": "2026-04-03-09-00-16 +0000",
+    "source": "wapo",
+    "headline": "Trump heralds regime change, but Iran’s leaders remain hard-liners",
+    "link": "https://www.washingtonpost.com/world/2026/04/03/trump-iran-leaders-war-assassinations-hormuz/"
   },
   {
-    "score": 4,
-    "pubdate": "2026-04-03-07-13-52 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/heres-the-latest"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-04-03-07-13-52 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/03/world/iran-war-trump-oil/heres-the-latest"
+    "score": 6,
+    "pubdate": "2026-04-03-09-04-10 +0000",
+    "source": "wapo",
+    "headline": "As U.S. bombs Iran, Pope Leo criticizes the idea of a ‘God of war’",
+    "link": "https://www.washingtonpost.com/world/2026/04/03/pope-leo-god-war-trump-peace/"
   }
 ]
