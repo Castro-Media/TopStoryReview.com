@@ -1,13 +1,13 @@
 [
   {
     "score": 188,
-    "pubdate": "2026-04-03-11-28-34 +0000",
-    "source": "bbc",
-    "headline": "When will the Iran war end? Tracing the Trump administration's timelines",
-    "link": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-04-04-00-02-20 +0000",
+    "source": "nyt",
+    "headline": "War With Iran Clarifies Trump’s Spending Priorities: The Military, Not Child Care",
+    "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html"
   },
   {
-    "score": 95,
+    "score": 104,
     "pubdate": "2026-04-03-09-30-00 +0000",
     "source": "wsj",
     "headline": "The March jobs report due Friday morning will help resolve an anxious question hanging over the economy: Was February’s big drop in jobs a temporary setback, or the start of a more serious downturn?",
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2026/04/03/world-news/iran-claims-it-shot-down-us-fighter-jet-as-bounty-placed-on-pilot/"
   },
   {
-    "score": 66,
+    "score": 56,
     "pubdate": "2026-04-03-19-22-00 +0000",
     "source": "wsj",
     "headline": "President Trump released a summary of his budget proposal for the 2027 fiscal year, seeking $1.5 trillion in defense spending, by far the largest dollar amount in modern history",
@@ -33,6 +33,13 @@
     "source": "wsj",
     "headline": "The near-term legal and political mess that is likely to ensue from Trump’s decision to fire Pam Bondi could have huge implications in four main arenas. Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/chaos-over-bondis-ouster-has-only-begun-5f200df9"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-04-03-22-35-05 +0000",
+    "source": "nyt",
+    "headline": "Ex-US Army Pilot Recalls Battle for Survival When Shot Down in Iraq",
+    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/iraq-us-pow-rescue-survival.html"
   },
   {
     "score": 43,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "In the Philippines, Rising Fuel Prices Force Travelers to Stay Home During Holy Week",
     "link": "https://www.nytimes.com/2026/04/03/world/asia/philippines-holy-week-oil-fuel-prices.html"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-04-03-19-32-02 +0000",
-    "source": "nypost",
-    "headline": "How US forces will use cover of darkness in daring search and rescue operation to find downed pilot",
-    "link": "https://nypost.com/2026/04/03/world-news/time-of-day-is-key-in-rescue-of-lost-pilot-shot-down-over-iran-experts/"
   }
 ]
