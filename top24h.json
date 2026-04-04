@@ -1,17 +1,17 @@
 [
   {
-    "score": 187,
-    "pubdate": "2026-04-04-00-02-20 +0000",
+    "score": 186,
+    "pubdate": "2026-04-04-16-58-06 +0000",
     "source": "nyt",
-    "headline": "War With Iran Clarifies Trump’s Spending Priorities: The Military, Not Child Care",
-    "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html"
+    "headline": "Iran War Live Updates: U.S. Searches for Missing Airman as Trump Repeats Threats Over Strait",
+    "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news"
   },
   {
-    "score": 56,
-    "pubdate": "2026-04-03-21-49-43 +0000",
-    "source": "wapo",
-    "headline": "Two U.S. warplanes shot down; search ongoing in Iran for 1 missing crew member",
-    "link": "https://www.washingtonpost.com/national-security/2026/04/03/f-15-crash-iran-missing/"
+    "score": 58,
+    "pubdate": "2026-04-03-19-22-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump released a summary of his budget proposal for the 2027 fiscal year, seeking $1.5 trillion in defense spending, by far the largest dollar amount in modern history",
+    "link": "https://www.wsj.com/politics/policy/trump-budget-proposal-calls-for-1-5-trillion-in-defense-spending-44a9e7ed"
   },
   {
     "score": 53,
@@ -22,6 +22,13 @@
   },
   {
     "score": 49,
+    "pubdate": "2026-04-03-20-02-00 +0000",
+    "source": "wsj",
+    "headline": "Supreme Court Justice Samuel Alito was taken to a hospital and given fluids for dehydration last month after attending a dinner in his honor in Philadelphia",
+    "link": "https://www.wsj.com/politics/policy/supreme-court-justice-alito-was-taken-to-the-hospital-last-month-94e473e7"
+  },
+  {
+    "score": 49,
     "pubdate": "2026-04-04-10-00-00 +0000",
     "source": "latimes",
     "headline": "House Democrats to hold California 'shadow hearings' on midterm election security",
@@ -29,31 +36,24 @@
   },
   {
     "score": 48,
-    "pubdate": "2026-04-03-16-47-39 +0000",
+    "pubdate": "2026-04-04-14-54-55 +0000",
     "source": "nypost",
-    "headline": "French-owned container ship safely passes through Strait of Hormuz as Iran’s chokehold continues",
-    "link": "https://nypost.com/2026/04/03/world-news/french-owned-ship-passes-through-strait-of-hormuz-as-irans-chokehold-continues/"
+    "headline": "Military deploys rescue choppers in urgent search for vanished F-15 co-pilot behind enemy lines in Iran",
+    "link": "https://nypost.com/2026/04/04/us-news/military-continues-urgent-search-for-f-15-co-pilot-behind-enemy-lines-in-iran/"
   },
   {
-    "score": 48,
-    "pubdate": "2026-04-03-19-22-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump released a summary of his budget proposal for the 2027 fiscal year, seeking $1.5 trillion in defense spending, by far the largest dollar amount in modern history",
-    "link": "https://www.wsj.com/politics/policy/trump-budget-proposal-calls-for-1-5-trillion-in-defense-spending-44a9e7ed"
+    "score": 41,
+    "pubdate": "2026-04-04-14-30-58 +0000",
+    "source": "nypost",
+    "headline": "Trump warns Iran has two days to open Strait of Hormuz — or face ‘hell’",
+    "link": "https://nypost.com/2026/04/04/us-news/trump-warns-iran-has-two-days-to-open-strait-of-hormuz-or-face-hell/"
   },
   {
-    "score": 45,
-    "pubdate": "2026-04-03-20-02-00 +0000",
-    "source": "wsj",
-    "headline": "Supreme Court Justice Samuel Alito was taken to a hospital and given fluids for dehydration last month after attending a dinner in his honor in Philadelphia",
-    "link": "https://www.wsj.com/politics/policy/supreme-court-justice-alito-was-taken-to-the-hospital-last-month-94e473e7"
-  },
-  {
-    "score": 39,
-    "pubdate": "2026-04-03-21-47-48 +0000",
-    "source": "bbc",
-    "headline": "US pilot rescued after fighter jet downed over Iran, US media report",
-    "link": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss"
+    "score": 41,
+    "pubdate": "2026-04-04-15-21-52 +0000",
+    "source": "nypost",
+    "headline": "Niece, grandniece of slain notorious Iranian Gen. Soleimani arrested by ICE while enjoying lavish lifestyles in LA",
+    "link": "https://nypost.com/2026/04/04/us-news/ice-arrests-niece-grandniece-of-slain-notorious-iranian-gen-soleimani-in-los-angeles/"
   },
   {
     "score": 37,
@@ -63,10 +63,10 @@
     "link": "https://www.nytimes.com/2026/04/03/world/asia/philippines-holy-week-oil-fuel-prices.html"
   },
   {
-    "score": 34,
-    "pubdate": "2026-04-04-09-01-43 +0000",
-    "source": "nyt",
-    "headline": "Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How",
-    "link": "https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html"
+    "score": 36,
+    "pubdate": "2026-04-04-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "These AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills",
+    "link": "https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7?mod=pls_whats_news_us_business_f"
   }
 ]
