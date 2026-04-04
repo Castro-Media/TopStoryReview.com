@@ -1,17 +1,10 @@
 [
   {
-    "score": 186,
-    "pubdate": "2026-04-03-20-06-16 +0000",
-    "source": "nypost",
-    "headline": "Trump says Iran peace talks won’t be derailed by attack on US fighter jet: ‘We’re in a war’",
-    "link": "https://nypost.com/2026/04/03/world-news/trump-iran-peace-talks-wont-be-derailed-by-attack-on-us-fighter-jet/"
-  },
-  {
-    "score": 65,
-    "pubdate": "2026-04-03-14-28-47 +0000",
-    "source": "latimes",
-    "headline": "2 U.S. aircraft downed as Iran war escalates; both pilots rescued, one crew member missing, officials say",
-    "link": "https://www.latimes.com/world-nation/story/2026-04-03/u-s-pilot-ejected-from-their-aircraft-over-southwestern-iran-affiliate-of-iranian-state-tv-claims"
+    "score": 192,
+    "pubdate": "2026-04-04-00-02-20 +0000",
+    "source": "nyt",
+    "headline": "War With Iran Clarifies Trump’s Spending Priorities: The Military, Not Child Care",
+    "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-military-spending-budget.html"
   },
   {
     "score": 63,
@@ -21,18 +14,32 @@
     "link": "https://www.nytimes.com/2026/04/03/business/economy/jobs-report-hiring-unemployment.html"
   },
   {
-    "score": 60,
+    "score": 56,
+    "pubdate": "2026-04-03-21-49-43 +0000",
+    "source": "wapo",
+    "headline": "Two U.S. warplanes shot down; search ongoing in Iran for 1 missing crew member",
+    "link": "https://www.washingtonpost.com/national-security/2026/04/03/f-15-crash-iran-missing/"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-04-04-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "House Democrats to hold California 'shadow hearings' on midterm election security",
+    "link": "https://www.latimes.com/politics/story/2026-04-04/house-democrats-to-hold-california-shadow-hearings-on-midterm-election-security"
+  },
+  {
+    "score": 50,
     "pubdate": "2026-04-03-19-22-00 +0000",
     "source": "wsj",
     "headline": "President Trump released a summary of his budget proposal for the 2027 fiscal year, seeking $1.5 trillion in defense spending, by far the largest dollar amount in modern history",
     "link": "https://www.wsj.com/politics/policy/trump-budget-proposal-calls-for-1-5-trillion-in-defense-spending-44a9e7ed"
   },
   {
-    "score": 52,
-    "pubdate": "2026-04-04-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "House Democrats to hold California 'shadow hearings' on midterm election security",
-    "link": "https://www.latimes.com/politics/story/2026-04-04/house-democrats-to-hold-california-shadow-hearings-on-midterm-election-security"
+    "score": 48,
+    "pubdate": "2026-04-03-16-47-39 +0000",
+    "source": "nypost",
+    "headline": "French-owned container ship safely passes through Strait of Hormuz as Iran’s chokehold continues",
+    "link": "https://nypost.com/2026/04/03/world-news/french-owned-ship-passes-through-strait-of-hormuz-as-irans-chokehold-continues/"
   },
   {
     "score": 45,
@@ -42,18 +49,11 @@
     "link": "https://www.wsj.com/politics/policy/supreme-court-justice-alito-was-taken-to-the-hospital-last-month-94e473e7"
   },
   {
-    "score": 42,
-    "pubdate": "2026-04-03-16-47-39 +0000",
-    "source": "nypost",
-    "headline": "French-owned container ship safely passes through Strait of Hormuz as Iran’s chokehold continues",
-    "link": "https://nypost.com/2026/04/03/world-news/french-owned-ship-passes-through-strait-of-hormuz-as-irans-chokehold-continues/"
-  },
-  {
     "score": 39,
-    "pubdate": "2026-04-03-19-32-02 +0000",
-    "source": "nypost",
-    "headline": "How US forces will use cover of darkness in daring search and rescue operation to find downed pilot",
-    "link": "https://nypost.com/2026/04/03/world-news/time-of-day-is-key-in-rescue-of-lost-pilot-shot-down-over-iran-experts/"
+    "pubdate": "2026-04-03-21-47-48 +0000",
+    "source": "bbc",
+    "headline": "US pilot rescued after fighter jet downed over Iran, US media report",
+    "link": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 37,
@@ -64,9 +64,9 @@
   },
   {
     "score": 35,
-    "pubdate": "2026-04-03-20-22-26 +0000",
-    "source": "nypost",
-    "headline": "Judge rejects DOJ bid to unblock subpoenas targeting Fed’s Jerome Powell in biting opinion",
-    "link": "https://nypost.com/2026/04/03/business/judge-rejects-doj-bid-to-unblock-subpoenas-targeting-feds-jerome-powell-in-biting-opinion/"
+    "pubdate": "2026-04-04-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Chrysler, Once an American Icon, Now Sells Just One Minivan. Can It Survive?",
+    "link": "https://www.wsj.com/business/autos/chrysler-minivans-pacifica-future-refresh-89194b33?mod=pls_whats_news_us_business_f"
   }
 ]
