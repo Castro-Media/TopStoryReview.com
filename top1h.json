@@ -1,58 +1,65 @@
 [
   {
     "score": 16,
-    "pubdate": "2026-04-04-05-18-18 +0000",
+    "pubdate": "2026-04-04-06-42-48 +0000",
+    "source": "bbc",
+    "headline": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+    "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-04-07-07-51 +0000",
     "source": "nyt",
-    "headline": "Liamine Zeroual, Algerian President During Civil War, Dies at 84",
-    "link": "https://www.nytimes.com/2026/04/02/world/africa/liamine-zeroual-dead.html"
+    "headline": "Iran War Live Updates: U.S. Forces Search for Missing Airman After Iran Downs Jet",
+    "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news"
   },
   {
-    "score": 10,
-    "pubdate": "2026-04-04-06-08-52 +0000",
+    "score": 12,
+    "pubdate": "2026-04-04-06-49-48 +0000",
     "source": "nypost",
-    "headline": "‘Depraved’ illegal immigrant accused of murdering wife in Texas just weeks after marriage",
-    "link": "https://nypost.com/2026/04/04/us-news/texas-illegal-immigrant-accused-of-murdering-wife-weeks-after-marriage/"
+    "headline": "One killed, dozens hurt as Peru stadium event goes awry",
+    "link": "https://nypost.com/2026/04/04/world-news/peru-soccer-stadium-incident-kills-one-injures-dozen-at-alejandro-villanueva-stadium/"
   },
   {
-    "score": 8,
-    "pubdate": "2026-04-04-05-56-00 +0000",
-    "source": "nyt",
-    "headline": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
-    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-04-04-05-40-28 +0000",
+    "score": 11,
+    "pubdate": "2026-04-04-06-25-07 +0000",
     "source": "nypost",
-    "headline": "Florida handyman fined $345 for parking work truck at his own home",
-    "link": "https://nypost.com/2026/04/04/us-news/florida-handyman-bali-ramnarace-fined-345-for-parking-work-truck-at-his-own-home/"
+    "headline": "Crews battle fast-growing wildfire in windy Southern California that’s forced residents to evacuate",
+    "link": "https://nypost.com/2026/04/04/us-news/southern-california-springs-fire-fast-growing-in-windy-conditions/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-04-06-38-38 +0000",
+    "source": "nypost",
+    "headline": "KitKat launches stolen chocolate tracker after thieves made off with 12 tons",
+    "link": "https://nypost.com/2026/04/04/world-news/kitkat-launches-stolen-chocolate-tracker-after-thieves-made-off-with-12-tons/"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-04-04-06-34-56 +0000",
+    "source": "bbc",
+    "headline": "Football rally in Peru leaves one dead and dozens injured",
+    "link": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 4,
-    "pubdate": "2026-04-04-05-30-36 +0000",
+    "pubdate": "2026-04-04-06-33-56 +0000",
     "source": "nyt",
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/heres-the-latest"
   },
   {
     "score": 0,
-    "pubdate": "2026-04-04-05-56-00 +0000",
-    "source": "nyt",
-    "headline": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
-    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html"
+    "pubdate": "2026-04-04-06-42-48 +0000",
+    "source": "bbc",
+    "headline": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+    "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 0,
-    "pubdate": "2026-04-04-05-30-36 +0000",
+    "pubdate": "2026-04-04-06-33-56 +0000",
     "source": "nyt",
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/heres-the-latest"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-04-04-05-18-18 +0000",
-    "source": "nyt",
-    "headline": "Liamine Zeroual, Algerian President During Civil War, Dies at 84",
-    "link": "https://www.nytimes.com/2026/04/02/world/africa/liamine-zeroual-dead.html"
   }
 ]
