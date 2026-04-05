@@ -1,6 +1,6 @@
 [
   {
-    "score": 126,
+    "score": 124,
     "pubdate": "2026-04-04-17-29-58 +0000",
     "source": "nyt",
     "headline": "Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How",
@@ -43,24 +43,17 @@
   },
   {
     "score": 32,
-    "pubdate": "2026-04-04-17-20-48 +0000",
-    "source": "nyt",
-    "headline": "Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’",
-    "link": "https://www.nytimes.com/2026/04/04/us/artemis-ii-nasa-moon-houston-texas.html"
-  },
-  {
-    "score": 32,
     "pubdate": "2026-04-04-08-15-47 +0000",
     "source": "nypost",
     "headline": "Three men charged over arson attack on Jewish community ambulances in London",
     "link": "https://nypost.com/2026/04/04/world-news/uk-charges-three-men-over-arson-attack-on-jewish-community-ambulances-in-london/"
   },
   {
-    "score": 29,
-    "pubdate": "2026-04-05-02-59-01 +0000",
-    "source": "nypost",
-    "headline": "Leo XIV celebrates first Easter vigil as pope, calls for harmony and peace in a world torn by war",
-    "link": "https://nypost.com/2026/04/04/world-news/pope-leo-xiv-celebrates-first-easter-vigil-calls-for-harmony-and-peace-in-a-world-torn-by-war/"
+    "score": 32,
+    "pubdate": "2026-04-04-17-20-48 +0000",
+    "source": "nyt",
+    "headline": "Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’",
+    "link": "https://www.nytimes.com/2026/04/04/us/artemis-ii-nasa-moon-houston-texas.html"
   },
   {
     "score": 29,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
     "link": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-04-05-02-59-01 +0000",
+    "source": "nypost",
+    "headline": "Leo XIV celebrates first Easter vigil as pope, calls for harmony and peace in a world torn by war",
+    "link": "https://nypost.com/2026/04/04/world-news/pope-leo-xiv-celebrates-first-easter-vigil-calls-for-harmony-and-peace-in-a-world-torn-by-war/"
   }
 ]
