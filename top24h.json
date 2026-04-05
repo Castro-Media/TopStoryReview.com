@@ -1,6 +1,6 @@
 [
   {
-    "score": 155,
+    "score": 140,
     "pubdate": "2026-04-05-09-02-27 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: U.S. Rescues Officer From Downed Fighter Jet in Iran, Trump Says",
@@ -28,13 +28,6 @@
     "link": "https://www.nytimes.com/2026/04/03/world/asia/philippines-holy-week-oil-fuel-prices.html"
   },
   {
-    "score": 35,
-    "pubdate": "2026-04-04-17-42-39 +0000",
-    "source": "nypost",
-    "headline": "Gavin Newsom to spend $19M in taxpayer funds on New York PR firm to polish California’s image",
-    "link": "https://nypost.com/2026/04/04/us-news/gavin-newsom-to-spend-19m-in-taxpayer-funds-on-new-york-pr-firm-to-help-polish-californias-image/"
-  },
-  {
     "score": 32,
     "pubdate": "2026-04-04-17-20-48 +0000",
     "source": "nyt",
@@ -42,18 +35,18 @@
     "link": "https://www.nytimes.com/2026/04/04/us/artemis-ii-nasa-moon-houston-texas.html"
   },
   {
+    "score": 31,
+    "pubdate": "2026-04-04-17-42-39 +0000",
+    "source": "nypost",
+    "headline": "Gavin Newsom to spend $19M in taxpayer funds on New York PR firm to polish California’s image",
+    "link": "https://nypost.com/2026/04/04/us-news/gavin-newsom-to-spend-19m-in-taxpayer-funds-on-new-york-pr-firm-to-help-polish-californias-image/"
+  },
+  {
     "score": 29,
     "pubdate": "2026-04-04-14-30-58 +0000",
     "source": "nypost",
     "headline": "Trump warns Iran has two days to open Strait of Hormuz — or face ‘hell’",
     "link": "https://nypost.com/2026/04/04/us-news/trump-warns-iran-has-two-days-to-open-strait-of-hormuz-or-face-hell/"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-04-04-23-39-56 +0000",
-    "source": "nypost",
-    "headline": "American CEO, mom of 3 killed in Nicaragua horrific crash on dream vacation, 11-year-old son critically injured",
-    "link": "https://nypost.com/2026/04/04/us-news/american-ceo-mom-of-3-killed-in-nicaragua-crash-as-11-year-old-son-critically-injured/"
   },
   {
     "score": 28,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How",
     "link": "https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-04-04-18-22-18 +0000",
+    "source": "nyt",
+    "headline": "A Meat Plant Closed in Nebraska. Then Politics Became a Focus for These Latinos",
+    "link": "https://www.nytimes.com/2026/04/04/us/politics/trump-economy-heartland-dan-osborn.html"
   }
 ]
