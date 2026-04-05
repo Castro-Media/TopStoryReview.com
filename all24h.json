@@ -1,27 +1,81 @@
 [
   {
+    "headline": "Caribbean Airlines passenger gives birth aboard NY-bound flight — as airport officials suggest crafty name for newborn",
+    "link": "https://nypost.com/2026/04/05/us-news/caribbean-airlines-passenger-gives-birth-aboard-ny-bound-flight-as-airport-officials-suggest-crafty-name-for-newborn/",
+    "source": "nypost",
+    "pubdate": "2026-04-05-05-21-43 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: U.S. Rescues Downed Air Force Officer Deep Inside Iran, Trump Says",
+    "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
+    "source": "nyt",
+    "pubdate": "2026-04-05-05-16-37 +0000"
+  },
+  {
+    "headline": "Crashes, Ejections and a Frantic Search for a Missing Airman in Iran",
+    "link": "https://www.wsj.com/world/middle-east/crashes-ejections-and-a-frantic-search-for-a-missing-airman-in-iran-36968492",
+    "source": "wsj",
+    "pubdate": "2026-04-05-05-00-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-05-04-58-21 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-05-04-58-21 +0000"
+  },
+  {
+    "headline": "U.S. Forces Rescue Second American Aviator in Iran",
+    "link": "https://www.wsj.com/world/middle-east/u-s-forces-rescue-second-american-aviator-in-iran-7f5195ca",
+    "source": "wsj",
+    "pubdate": "2026-04-05-04-41-00 +0000"
+  },
+  {
+    "headline": "U.S. Rescues Downed Air Force Officer Deep Inside Iran, Officials Say",
+    "link": "https://www.nytimes.com/2026/04/04/us/politics/military-iran-airman-rescue.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-04-31-47 +0000"
+  },
+  {
+    "headline": "U.S. Rescues Downed Air Force Officer Deep Inside Iran, Officials Say",
+    "link": "https://www.nytimes.com/2026/04/04/us/politics/military-iran-airman-rescue.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-04-31-47 +0000"
+  },
+  {
+    "headline": "China Built the World’s Drone Industry. Now It’s Locking Down the Skies.",
+    "link": "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-04-01-08 +0000"
+  },
+  {
+    "headline": "China Built the World’s Drone Industry. Now It’s Locking Down the Skies.",
+    "link": "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-04-01-08 +0000"
+  },
+  {
+    "headline": "US Forces have rescued missing crew member of F-15E jet downed by Iran in daring mission, intense fighting",
+    "link": "https://nypost.com/2026/04/04/world-news/us-forces-have-rescued-missing-pilot-of-f-15e-jet-downed-by-iran-reports/",
+    "source": "nypost",
+    "pubdate": "2026-04-05-03-57-59 +0000"
+  },
+  {
+    "headline": "Inside secret SoCal lives of niece, grandniece of Iranian Gen.  Soleimani before they were arrested by ICE in dramatic raid",
+    "link": "https://nypost.com/2026/04/04/us-news/inside-the-secret-california-lives-of-niece-grandniece-before-ice-arrest/",
+    "source": "nypost",
+    "pubdate": "2026-04-05-03-48-19 +0000"
+  },
+  {
     "headline": "Hollywood Writers Union and Studios Reach Contract Deal",
     "link": "https://www.nytimes.com/2026/04/04/business/media/hollywood-writers-contract-deal.html",
     "source": "nyt",
     "pubdate": "2026-04-05-03-41-02 +0000"
-  },
-  {
-    "headline": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
-    "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-05-03-26-15 +0000"
-  },
-  {
-    "headline": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
-    "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-05-03-26-15 +0000"
-  },
-  {
-    "headline": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
-    "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-05-03-26-15 +0000"
   },
   {
     "headline": "Daughter of top Iranian official ousted from Emery University after outcry has visa cancelled",
@@ -34,12 +88,6 @@
     "link": "https://nypost.com/2026/04/04/world-news/pope-leo-xiv-celebrates-first-easter-vigil-calls-for-harmony-and-peace-in-a-world-torn-by-war/",
     "source": "nypost",
     "pubdate": "2026-04-05-02-59-01 +0000"
-  },
-  {
-    "headline": "Iran War Live Updates: U.S. Races to Rescue Missing Crew Member as Trump Repeats Threats",
-    "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
-    "source": "nyt",
-    "pubdate": "2026-04-05-02-50-12 +0000"
   },
   {
     "headline": "At Least 15 Injured After Driver Plows Into a Louisiana Festival",
@@ -201,13 +249,13 @@
     "headline": "Israel Strikes Iran’s Largest Petrochemical Complex",
     "link": "https://www.nytimes.com/2026/04/04/world/middleeast/israel-strikes-mahshahr-iran-oil.html",
     "source": "nyt",
-    "pubdate": "2026-04-04-23-58-37 +0000"
+    "pubdate": "2026-04-04-23-58-38 +0000"
   },
   {
     "headline": "Israel Strikes Iran’s Largest Petrochemical Complex",
     "link": "https://www.nytimes.com/2026/04/04/world/middleeast/israel-strikes-mahshahr-iran-oil.html",
     "source": "nyt",
-    "pubdate": "2026-04-04-23-58-37 +0000"
+    "pubdate": "2026-04-04-23-58-38 +0000"
   },
   {
     "headline": "‘Cereal’ offender busted for sneaky shoplifting trick at grocery store checkout",
@@ -228,7 +276,7 @@
     "pubdate": "2026-04-04-23-39-56 +0000"
   },
   {
-    "headline": "Canadian astronaut Jeremy Hansen conducts second Q&A live from space",
+    "headline": "Houston, we've got a plumbing problem: Artemis II toilet is still on the fritz",
     "link": "https://www.cbc.ca/news/science/artemis-ii-toilet-9.7153491?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-04-04-23-38-30 +0000"
@@ -450,12 +498,6 @@
     "pubdate": "2026-04-04-21-00-42 +0000"
   },
   {
-    "headline": "Twice-rejected Oakland commissioner who wants to defund  police gets elevated after improper vote",
-    "link": "https://nypost.com/2026/04/04/us-news/twice-rejected-oakland-commissioner-who-wants-to-defund-police-gets-promoted-after-improper-vote/",
-    "source": "nypost",
-    "pubdate": "2026-04-04-21-00-42 +0000"
-  },
-  {
     "headline": "Ukraine used record 7K robot operations to fight off Russians in single month — as frontline now resembles scene from ‘Terminator’",
     "link": "https://nypost.com/2026/04/04/world-news/ukraine-used-record-7k-robot-operations-to-fight-off-russians-in-single-month-as-frontline-now-resembles-scene-from-terminator/",
     "source": "nypost",
@@ -492,12 +534,6 @@
     "pubdate": "2026-04-04-20-13-41 +0000"
   },
   {
-    "headline": "Search for missing airman presents serious test for US",
-    "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-04-20-13-41 +0000"
-  },
-  {
     "headline": "Man convicted of murdering his girlfriend four years ago at El Segundo hotel. Her body was never found",
     "link": "https://www.latimes.com/california/story/2026-04-04/man-guilty-of-murdering-girlfriend-anna-laura-costa-porsborg",
     "source": "latimes",
@@ -520,24 +556,6 @@
     "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-04-20-06-12 +0000"
-  },
-  {
-    "headline": "NYC mom of two ID’d after being killed by Brooklyn ambulance — that kept driving after hitting her",
-    "link": "https://nypost.com/2026/04/04/us-news/the-hospital-ambulance-crew-kept-going-were-suspended/",
-    "source": "nypost",
-    "pubdate": "2026-04-04-19-46-55 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-04-04-19-45-29 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-04-04-19-45-29 +0000"
   },
   {
     "headline": "Six Flags Was a Summer Destination. Can It Win Families Back?",
@@ -586,12 +604,6 @@
     "link": "https://nypost.com/2026/04/04/world-news/news-of-the-world-what-you-missed-this-week-internationally-13/",
     "source": "nypost",
     "pubdate": "2026-04-04-19-17-00 +0000"
-  },
-  {
-    "headline": "Crashes, Ejections and a Frantic Search for a Missing Airman in Iran",
-    "link": "https://www.wsj.com/world/middle-east/crashes-ejections-and-a-frantic-search-for-a-missing-airman-in-iran-36968492",
-    "source": "wsj",
-    "pubdate": "2026-04-04-19-13-00 +0000"
   },
   {
     "headline": "Here’s how two airmen would have ejected from the F-15E.",
@@ -795,13 +807,13 @@
     "headline": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
     "link": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html",
     "source": "nyt",
-    "pubdate": "2026-04-04-16-43-42 +0000"
+    "pubdate": "2026-04-04-16-43-43 +0000"
   },
   {
     "headline": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
     "link": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html",
     "source": "nyt",
-    "pubdate": "2026-04-04-16-43-42 +0000"
+    "pubdate": "2026-04-04-16-43-43 +0000"
   },
   {
     "headline": "Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances",
@@ -1128,12 +1140,6 @@
     "pubdate": "2026-04-04-10-41-38 +0000"
   },
   {
-    "headline": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
-    "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-04-10-41-38 +0000"
-  },
-  {
     "headline": "Senegal bans ministers from foreign travel as oil price rise bites",
     "link": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1392,12 +1398,6 @@
     "pubdate": "2026-04-04-07-29-44 +0000"
   },
   {
-    "headline": "One killed, dozens hurt as Peru soccer stadium event goes awry",
-    "link": "https://nypost.com/2026/04/04/sports/peru-soccer-stadium-incident-kills-one-injures-dozen-at-alejandro-villanueva-stadium/",
-    "source": "nypost",
-    "pubdate": "2026-04-04-06-49-48 +0000"
-  },
-  {
     "headline": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
     "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1420,29 +1420,5 @@
     "link": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-04-06-34-56 +0000"
-  },
-  {
-    "headline": "Liamine Zeroual, Algerian President During Civil War, Dies at 84",
-    "link": "https://www.nytimes.com/2026/04/02/world/africa/liamine-zeroual-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-04-04-05-18-18 +0000"
-  },
-  {
-    "headline": "Liamine Zeroual, Algerian President During Civil War, Dies at 84",
-    "link": "https://www.nytimes.com/2026/04/02/world/africa/liamine-zeroual-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-04-04-05-18-18 +0000"
-  },
-  {
-    "headline": "Polymarket ripped for taking bets on fate of downed F-15 pilot: ‘Disgusting’",
-    "link": "https://nypost.com/2026/04/04/us-news/polymarket-ripped-for-taking-bets-on-fate-of-downed-f-15-pilot/",
-    "source": "nypost",
-    "pubdate": "2026-04-04-05-07-27 +0000"
-  },
-  {
-    "headline": "'Not fit for purpose' - the secret history of a deadly phrase",
-    "link": "https://www.bbc.com/news/articles/c3dl18ndvydo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-04-05-01-25 +0000"
   }
 ]
