@@ -1,20 +1,20 @@
 [
   {
-    "score": 124,
-    "pubdate": "2026-04-04-17-29-58 +0000",
+    "score": 155,
+    "pubdate": "2026-04-05-09-02-27 +0000",
     "source": "nyt",
-    "headline": "Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How",
-    "link": "https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html"
+    "headline": "Iran War Live Updates: U.S. Rescues Officer From Downed Fighter Jet in Iran, Trump Says",
+    "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news"
   },
   {
-    "score": 59,
+    "score": 57,
     "pubdate": "2026-04-05-03-48-19 +0000",
     "source": "nypost",
     "headline": "Inside secret SoCal lives of niece, grandniece of Iranian Gen.  Soleimani before they were arrested by ICE in dramatic raid",
     "link": "https://nypost.com/2026/04/04/us-news/inside-the-secret-california-lives-of-niece-grandniece-before-ice-arrest/"
   },
   {
-    "score": 43,
+    "score": 44,
     "pubdate": "2026-04-04-11-00-34 +0000",
     "source": "bbc",
     "headline": "What we know so far about the search for missing US airman in Iran",
@@ -22,31 +22,17 @@
   },
   {
     "score": 37,
-    "pubdate": "2026-04-04-17-42-39 +0000",
-    "source": "nypost",
-    "headline": "Gavin Newsom to spend $19M in taxpayer funds on New York PR firm to polish California’s image",
-    "link": "https://nypost.com/2026/04/04/us-news/gavin-newsom-to-spend-19m-in-taxpayer-funds-on-new-york-pr-firm-to-help-polish-californias-image/"
-  },
-  {
-    "score": 36,
     "pubdate": "2026-04-04-13-10-51 +0000",
     "source": "nyt",
     "headline": "In the Philippines, Rising Fuel Prices Force Travelers to Stay Home During Holy Week",
     "link": "https://www.nytimes.com/2026/04/03/world/asia/philippines-holy-week-oil-fuel-prices.html"
   },
   {
-    "score": 33,
-    "pubdate": "2026-04-04-14-30-58 +0000",
+    "score": 35,
+    "pubdate": "2026-04-04-17-42-39 +0000",
     "source": "nypost",
-    "headline": "Trump warns Iran has two days to open Strait of Hormuz — or face ‘hell’",
-    "link": "https://nypost.com/2026/04/04/us-news/trump-warns-iran-has-two-days-to-open-strait-of-hormuz-or-face-hell/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-04-04-08-15-47 +0000",
-    "source": "nypost",
-    "headline": "Three men charged over arson attack on Jewish community ambulances in London",
-    "link": "https://nypost.com/2026/04/04/world-news/uk-charges-three-men-over-arson-attack-on-jewish-community-ambulances-in-london/"
+    "headline": "Gavin Newsom to spend $19M in taxpayer funds on New York PR firm to polish California’s image",
+    "link": "https://nypost.com/2026/04/04/us-news/gavin-newsom-to-spend-19m-in-taxpayer-funds-on-new-york-pr-firm-to-help-polish-californias-image/"
   },
   {
     "score": 32,
@@ -57,10 +43,17 @@
   },
   {
     "score": 29,
-    "pubdate": "2026-04-04-16-43-43 +0000",
-    "source": "nyt",
-    "headline": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
-    "link": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html"
+    "pubdate": "2026-04-04-14-30-58 +0000",
+    "source": "nypost",
+    "headline": "Trump warns Iran has two days to open Strait of Hormuz — or face ‘hell’",
+    "link": "https://nypost.com/2026/04/04/us-news/trump-warns-iran-has-two-days-to-open-strait-of-hormuz-or-face-hell/"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-04-04-23-39-56 +0000",
+    "source": "nypost",
+    "headline": "American CEO, mom of 3 killed in Nicaragua horrific crash on dream vacation, 11-year-old son critically injured",
+    "link": "https://nypost.com/2026/04/04/us-news/american-ceo-mom-of-3-killed-in-nicaragua-crash-as-11-year-old-son-critically-injured/"
   },
   {
     "score": 28,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Leo XIV celebrates first Easter vigil as pope, calls for harmony and peace in a world torn by war",
     "link": "https://nypost.com/2026/04/04/world-news/pope-leo-xiv-celebrates-first-easter-vigil-calls-for-harmony-and-peace-in-a-world-torn-by-war/"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-04-04-17-29-58 +0000",
+    "source": "nyt",
+    "headline": "Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How",
+    "link": "https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html"
   }
 ]

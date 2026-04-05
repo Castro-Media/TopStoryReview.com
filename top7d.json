@@ -1,20 +1,20 @@
 [
   {
-    "score": 541,
-    "pubdate": "2026-04-02-20-20-20 +0000",
+    "score": 643,
+    "pubdate": "2026-04-05-09-02-27 +0000",
     "source": "nyt",
-    "headline": "Trump Says He’ll End the Iran War in Weeks. What If He Can’t?",
-    "link": "https://www.nytimes.com/2026/04/02/us/politics/trump-speech-iran-war-whats-next.html"
+    "headline": "Iran War Live Updates: U.S. Rescues Officer From Downed Fighter Jet in Iran, Trump Says",
+    "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news"
   },
   {
-    "score": 189,
+    "score": 186,
     "pubdate": "2026-04-02-22-46-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth ousted the Army’s top general Thursday, the latest top military leader removed in a Pentagon that has seen a purge of its top ranks under the Trump administration",
     "link": "https://www.wsj.com/politics/national-security/hegseth-removes-army-chief-in-latest-purge-of-militarys-top-ranks-4be47bd5"
   },
   {
-    "score": 173,
+    "score": 172,
     "pubdate": "2026-04-03-09-30-00 +0000",
     "source": "wsj",
     "headline": "The March jobs report due Friday morning will help resolve an anxious question hanging over the economy: Was February’s big drop in jobs a temporary setback, or the start of a more serious downturn?",
@@ -28,6 +28,13 @@
     "link": "https://www.latimes.com/california/story/2026-04-02/artemis-ii-california-8-year-old-rise-zero-gravity-indicator"
   },
   {
+    "score": 108,
+    "pubdate": "2026-03-31-11-26-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump released mock-up images of a gleaming glass tower emblazoned with his last name that will serve as his presidential library once he leaves office",
+    "link": "https://www.wsj.com/politics/elections/trump-reveals-presidential-library-design-a-glass-tower-in-miami-93869254"
+  },
+  {
     "score": 106,
     "pubdate": "2026-03-31-23-44-27 +0000",
     "source": "missionlocal",
@@ -35,7 +42,7 @@
     "link": "https://missionlocal.org/2026/03/supreme-court-overturns-ban-on-conversion-therapy-s-f-leaders-have-a-plan/"
   },
   {
-    "score": 102,
+    "score": 100,
     "pubdate": "2026-04-03-08-00-00 +0000",
     "source": "cbc",
     "headline": "Liberal bill would force companies to simplify data access for police. No one knows the cost",
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Trump warns Iran has two days to open Strait of Hormuz — or face ‘hell’",
     "link": "https://nypost.com/2026/04/04/us-news/trump-warns-iran-has-two-days-to-open-strait-of-hormuz-or-face-hell/"
-  },
-  {
-    "score": 92,
-    "pubdate": "2026-04-03-19-22-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump released a summary of his budget proposal for the 2027 fiscal year, seeking $1.5 trillion in defense spending, by far the largest dollar amount in modern history",
-    "link": "https://www.wsj.com/politics/policy/trump-budget-proposal-calls-for-1-5-trillion-in-defense-spending-44a9e7ed"
   }
 ]
