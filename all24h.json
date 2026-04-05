@@ -1,15 +1,231 @@
 [
   {
+    "headline": "The Number of Law-School Grads Getting Extra Time for the Bar Exam Is Surging",
+    "link": "https://www.wsj.com/us-news/education/bar-exam-extra-time-696cfd11",
+    "source": "wsj",
+    "pubdate": "2026-04-05-11-00-00 +0000"
+  },
+  {
+    "headline": "My Excelsior: Jay Pham knows his dive bars and his late night burritos",
+    "link": "https://missionlocal.org/2026/04/my-excelsior-jay-pham-recovery-room/",
+    "source": "missionlocal",
+    "pubdate": "2026-04-05-11-00-00 +0000"
+  },
+  {
     "headline": "Iran War Live Updates: U.S. Rescues Officer From Downed Fighter Jet in Iran, Trump Says",
     "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news",
     "source": "nyt",
-    "pubdate": "2026-04-05-09-02-27 +0000"
+    "pubdate": "2026-04-05-10-58-12 +0000"
+  },
+  {
+    "headline": "Keir Starmer 'concerned' over Kanye West UK festival dates",
+    "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-05-10-57-05 +0000"
+  },
+  {
+    "headline": "What we know so far about rescue of US airman in Iran",
+    "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-05-10-07-16 +0000"
+  },
+  {
+    "headline": "What we know so far about rescue of US airman in Iran",
+    "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-05-10-07-16 +0000"
+  },
+  {
+    "headline": "What we know so far about rescue of US airman in Iran",
+    "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-05-10-07-16 +0000"
+  },
+  {
+    "headline": "Pope Leo marks first Easter as pontiff with call for hope amid global conflicts",
+    "link": "https://nypost.com/2026/04/05/world-news/pope-leo-marks-first-easter-as-pontiff-with-call-for-hope-amid-global-conflicts/",
+    "source": "nypost",
+    "pubdate": "2026-04-05-10-04-54 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-05-10-04-35 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-05-10-04-35 +0000"
+  },
+  {
+    "headline": "Inside the Pentagon, fears of a disrupted war effort after Army chief's ouster",
+    "link": "https://www.latimes.com/politics/story/2026-04-05/inside-pentagon-fears-of-disrupted-war-effort-after-army-chiefs-ouster",
+    "source": "latimes",
+    "pubdate": "2026-04-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump loses across courts in bruising week of immigration and legal setbacks",
+    "link": "https://www.latimes.com/politics/story/2026-04-05/trump-loses-across-courts-in-bruising-week-of-immigration-legal-setbacks",
+    "source": "latimes",
+    "pubdate": "2026-04-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: For more than 30 years — day in, day out — he's chronicled California. One paragraph at a time",
+    "link": "https://www.latimes.com/politics/story/2026-04-05/california-politics-rough-and-tumble-jack-kavanagh",
+    "source": "latimes",
+    "pubdate": "2026-04-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Chabria: Bondi and Noem were incompetent. But that's not the only reason they're gone",
+    "link": "https://www.latimes.com/politics/story/2026-04-05/chabria-column-bondi-noem-firings",
+    "source": "latimes",
+    "pubdate": "2026-04-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Under L.A. mayor's $300-million homeless program, 40% have returned to the street",
+    "link": "https://www.latimes.com/california/story/2026-04-05/under-la-mayors-300-million-homeless-program-40-have-returned-to-street",
+    "source": "latimes",
+    "pubdate": "2026-04-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: For more than 30 years — day in, day out — he's chronicled California. One paragraph at a time",
+    "link": "https://www.latimes.com/politics/story/2026-04-05/california-politics-rough-and-tumble-jack-kavanagh",
+    "source": "latimes",
+    "pubdate": "2026-04-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Chabria: Bondi and Noem were incompetent. But that's not the only reason they're gone",
+    "link": "https://www.latimes.com/politics/story/2026-04-05/chabria-column-bondi-noem-firings",
+    "source": "latimes",
+    "pubdate": "2026-04-05-10-00-00 +0000"
+  },
+  {
+    "headline": "Hochul running mate Adrienne Adams funneled $435K to migrant shelter tied to federal probe",
+    "link": "https://nypost.com/2026/04/05/us-news/hochul-running-mate-adrienne-adams-funneled-435k-to-migrant-shelter-tied-to-federal-probe/",
+    "source": "nypost",
+    "pubdate": "2026-04-05-09-59-16 +0000"
+  },
+  {
+    "headline": "Hochul running mate Adrienne Adams funneled $435K to migrant shelter tied to federal probe",
+    "link": "https://nypost.com/2026/04/05/us-news/hochul-running-mate-adrienne-adams-funneled-435k-to-migrant-shelter-tied-to-federal-probe/",
+    "source": "nypost",
+    "pubdate": "2026-04-05-09-59-16 +0000"
+  },
+  {
+    "headline": "Oil Markets Seem More Skeptical of Trump’s Peace Signals",
+    "link": "https://www.nytimes.com/2026/04/05/upshot/oil-prices-stocks-trump-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-53-47 +0000"
+  },
+  {
+    "headline": "Oil Markets Seem More Skeptical of Trump’s Peace Signals",
+    "link": "https://www.nytimes.com/2026/04/05/upshot/oil-prices-stocks-trump-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-53-47 +0000"
+  },
+  {
+    "headline": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
+    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-40-14 +0000"
+  },
+  {
+    "headline": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
+    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-40-14 +0000"
+  },
+  {
+    "headline": "Central banks live in fear of their last mistake: waiting too long to raise rates in the postpandemic boom. But there’s a difference between that boom and this oil shock.",
+    "link": "https://www.wsj.com/economy/central-banking/pain-at-the-pump-should-mean-pain-in-the-economy-not-higher-rates-02fbd9ba",
+    "source": "wsj",
+    "pubdate": "2026-04-05-09-30-00 +0000"
+  },
+  {
+    "headline": "A Texas Congressional Race Has Become All About Quinceañeras",
+    "link": "https://www.wsj.com/lifestyle/bobby-pulido-texas-congress-election-quinceaneras-0380ebb0",
+    "source": "wsj",
+    "pubdate": "2026-04-05-09-30-00 +0000"
+  },
+  {
+    "headline": "One of the Stock Market’s Last Havens Is Now at Risk",
+    "link": "https://www.wsj.com/finance/stocks/one-of-the-stock-markets-last-havens-is-now-at-risk-7aa84e5d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-05-09-30-00 +0000"
+  },
+  {
+    "headline": "‘I Will Destroy You’: The Battle Inside a Midwestern Media Dynasty",
+    "link": "https://www.wsj.com/business/media/i-will-destroy-you-the-battle-inside-a-midwestern-media-dynasty-f2e838e9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-05-09-30-00 +0000"
+  },
+  {
+    "headline": "Iran’s Defenses Have Been Struck, but They Can Still Fire Missiles and Drones",
+    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/iran-missiles-drones-military.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-21-32 +0000"
+  },
+  {
+    "headline": "Iran’s Defenses Have Been Struck, but They Can Still Fire Missiles and Drones",
+    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/iran-missiles-drones-military.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-21-32 +0000"
+  },
+  {
+    "headline": "Idaho Domino’s pizza driver’s kind gesture leads to $40K in tips from strangers after viral video",
+    "link": "https://nypost.com/2026/04/05/us-news/idaho-dominos-pizza-driver-dan-simpsons-kind-gesture-leads-to-40k-in-tips-after-viral-video/",
+    "source": "nypost",
+    "pubdate": "2026-04-05-09-10-05 +0000"
+  },
+  {
+    "headline": "More Drivers Are Showing an Interest in Electric Vehicles",
+    "link": "https://www.nytimes.com/2026/04/05/us/twelve-dollars-for-two-gallons-evs-lure-drivers-as-gas-prices-rise.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-01-55 +0000"
+  },
+  {
+    "headline": "Despite Poor Reviews, ‘The Super Mario Galaxy Movie’ Is a Megahit",
+    "link": "https://www.nytimes.com/2026/04/05/business/box-office-super-mario-galaxy-movie.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-01-50 +0000"
   },
   {
     "headline": "Interceptor Missiles Save Lives, but Stockpiles Are Dwindling",
     "link": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-war-interceptor-missiles.html",
     "source": "nyt",
+    "pubdate": "2026-04-05-09-01-38 +0000"
+  },
+  {
+    "headline": "Interceptor Missiles Save Lives, but Stockpiles Are Dwindling",
+    "link": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-war-interceptor-missiles.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-01-38 +0000"
+  },
+  {
+    "headline": "New Chef Program Helps People With Autism Find Jobs in Fine-Dining Restaurants",
+    "link": "https://www.nytimes.com/2026/04/05/dining/autism-chefs-restaurants.html",
+    "source": "nyt",
     "pubdate": "2026-04-05-09-01-37 +0000"
+  },
+  {
+    "headline": "Sales of Luxury Bibles Are on the Rise",
+    "link": "https://www.nytimes.com/2026/04/05/us/400-bibles-luxurious-scripture-is-on-the-rise.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-01-07 +0000"
+  },
+  {
+    "headline": "ICE Arrests in Texas Leave Children to Raise Their Siblings After Parents Are Detained",
+    "link": "https://www.nytimes.com/2026/04/05/us/their-parents-were-taken-by-ice-the-children-had-to-raise-one-another.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-00-50 +0000"
+  },
+  {
+    "headline": "Hockey Rinks Turn to Plastic Ice as Planet Warms",
+    "link": "https://www.nytimes.com/2026/04/05/business/hockey-rinks-turn-to-plastic-ice-as-planet-warms.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-00-50 +0000"
   },
   {
     "headline": "What the looming sale of CNN means for Trump’s feud with the network",
@@ -18,10 +234,16 @@
     "pubdate": "2026-04-05-09-00-39 +0000"
   },
   {
-    "headline": "Vance heads to Hungary as MAGA ally Orban trails in polls and election nears",
+    "headline": "In Hungary, MAGA ally Orban trails in polls and awaits visit by JD Vance",
     "link": "https://www.washingtonpost.com/world/2026/04/05/vance-hungary-orban-election/",
     "source": "wapo",
     "pubdate": "2026-04-05-09-00-38 +0000"
+  },
+  {
+    "headline": "New Owner of Shopping Plaza in Kansas City Pitches a $1.5 Billion Rescue Plan",
+    "link": "https://www.nytimes.com/2026/04/05/business/country-club-plaza-kansas-city-rescue-plan.html",
+    "source": "nyt",
+    "pubdate": "2026-04-05-09-00-30 +0000"
   },
   {
     "headline": "Stephen Miller Is Still Pursuing His Immigration Agenda, but More Quietly",
@@ -30,10 +252,10 @@
     "pubdate": "2026-04-05-09-00-22 +0000"
   },
   {
-    "headline": "Oil Markets Seem More Skeptical of Trump’s Peace Signals",
-    "link": "https://www.nytimes.com/2026/04/05/upshot/oil-prices-stocks-trump-iran-war.html",
+    "headline": "Stephen Miller Is Still Pursuing His Immigration Agenda, but More Quietly",
+    "link": "https://www.nytimes.com/2026/04/05/us/politics/stephen-miller-immigration-agenda.html",
     "source": "nyt",
-    "pubdate": "2026-04-05-09-00-06 +0000"
+    "pubdate": "2026-04-05-09-00-22 +0000"
   },
   {
     "headline": "American universities in Middle East brace for Iranian retaliation",
@@ -54,10 +276,10 @@
     "pubdate": "2026-04-05-08-13-10 +0000"
   },
   {
-    "headline": "Keir Starmer 'concerned' over Kanye West UK festival dates",
-    "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-05-07-52-04 +0000"
+    "headline": "Ban on rescue dogs from countries at risk of spreading rabies to remain, CFIA says",
+    "link": "https://www.cbc.ca/news/politics/dog-international-import-ban-100-countries-cfia-animal-rescue-9.7152014?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-04-05-08-00-00 +0000"
   },
   {
     "headline": "Daughters’ relentless search shatters ‘overdose’ claim, leads to arrest in mom’s 1992 murder",
@@ -82,36 +304,6 @@
     "link": "https://nypost.com/2026/04/05/us-news/largest-male-white-shark-contenders-latest-ping-offers-insight-into-how-shark-behaves/",
     "source": "nypost",
     "pubdate": "2026-04-05-07-01-25 +0000"
-  },
-  {
-    "headline": "What we know so far about rescue of US airman in Iran",
-    "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-05-06-59-48 +0000"
-  },
-  {
-    "headline": "What we know so far about rescue of US airman in Iran",
-    "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-05-06-59-48 +0000"
-  },
-  {
-    "headline": "What we know so far about rescue of US airman in Iran",
-    "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-05-06-59-48 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-04-05-06-37-05 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-04-05-06-37-05 +0000"
   },
   {
     "headline": "'Elderly couple had to find £1k for home heating oil'",
@@ -324,18 +516,6 @@
     "pubdate": "2026-04-05-00-27-11 +0000"
   },
   {
-    "headline": "Iran’s Defenses Have Been Struck, but They Can Still Fire Missiles and Drones",
-    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/iran-missiles-drones-military.html",
-    "source": "nyt",
-    "pubdate": "2026-04-05-00-17-44 +0000"
-  },
-  {
-    "headline": "Iran’s Defenses Have Been Struck, but They Can Still Fire Missiles and Drones",
-    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/iran-missiles-drones-military.html",
-    "source": "nyt",
-    "pubdate": "2026-04-05-00-17-44 +0000"
-  },
-  {
     "headline": "ICE wanted to build a detention centre -  this small farming town said no",
     "link": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -462,12 +642,6 @@
     "pubdate": "2026-04-04-22-47-00 +0000"
   },
   {
-    "headline": "Driver smashes into crowd at Louisiana festival, sends more than a dozen victims  to hospital",
-    "link": "https://nypost.com/2026/04/04/us-news/driver-smashes-into-crowd-atlouisiana-lao-new-year-festival-horror/",
-    "source": "nypost",
-    "pubdate": "2026-04-04-22-44-14 +0000"
-  },
-  {
     "headline": "Foreign Doctors Forced Out of U.S. Hospitals by Trump Immigration Policy",
     "link": "https://www.nytimes.com/2026/04/04/us/trumps-immigration-policy-sidelines-foreign-doctors-amid-shortage.html",
     "source": "nyt",
@@ -484,12 +658,6 @@
     "link": "https://nypost.com/2026/04/04/world-news/hilarious-moment-sky-news-anchor-gets-the-hiccups-during-afternoon-segment/",
     "source": "nypost",
     "pubdate": "2026-04-04-22-16-14 +0000"
-  },
-  {
-    "headline": "NJ man ends up in rehab from addictive kratom drinks he spent $60K on: lawsuit",
-    "link": "https://nypost.com/2026/04/04/us-news/nj-man-ends-up-in-rehab-from-addictive-kratom-drinks-he-spent-60k-on-lawsuit/",
-    "source": "nypost",
-    "pubdate": "2026-04-04-21-58-54 +0000"
   },
   {
     "headline": "Trump Wants to Make Deportation Deals. Autocrats Are Ready to Listen.",
@@ -978,18 +1146,6 @@
     "pubdate": "2026-04-04-15-21-52 +0000"
   },
   {
-    "headline": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
-    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-04-04-14-37-40 +0000"
-  },
-  {
-    "headline": "What We Know About the F-15E Strike Eagle Shot Down by Iran",
-    "link": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-04-04-14-37-40 +0000"
-  },
-  {
     "headline": "Trump warns Iran has two days to open Strait of Hormuz — or face ‘hell’",
     "link": "https://nypost.com/2026/04/04/us-news/trump-warns-iran-has-two-days-to-open-strait-of-hormuz-or-face-hell/",
     "source": "nypost",
@@ -1132,89 +1288,5 @@
     "link": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-04-11-10-28 +0000"
-  },
-  {
-    "headline": "Helicopter owner’s lawsuit fails against East Gull Lake in six-year lakeshore legal saga",
-    "link": "https://www.startribune.com/east-gull-lake-minnesota-helicopter-owner-cant-store-operate/601651771",
-    "source": "startribune",
-    "pubdate": "2026-04-04-11-01-00 +0000"
-  },
-  {
-    "headline": "What we know so far about the search for missing US airman in Iran",
-    "link": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-04-11-00-34 +0000"
-  },
-  {
-    "headline": "What we know so far about the search for missing US airman in Iran",
-    "link": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-04-11-00-34 +0000"
-  },
-  {
-    "headline": "What we know so far about the search for missing US airman in Iran",
-    "link": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-04-11-00-34 +0000"
-  },
-  {
-    "headline": "San Quentin among 8 California prisons that could lose decades-old arts programs",
-    "link": "https://missionlocal.org/2026/04/san-quentin-william-james-association-prison-arts-programs-lose-funds/",
-    "source": "missionlocal",
-    "pubdate": "2026-04-04-11-00-00 +0000"
-  },
-  {
-    "headline": "The security guard who greets everyone in Mission Dolores",
-    "link": "https://missionlocal.org/2026/04/the-security-guard-who-greets-everyone-in-mission-dolores/",
-    "source": "missionlocal",
-    "pubdate": "2026-04-04-11-00-00 +0000"
-  },
-  {
-    "headline": "What Minnesota drivers are saying about gas price hikes",
-    "link": "https://www.startribune.com/at-one-gas-station-in-minneapolis-sounding-off-on-high-prices/601651769",
-    "source": "startribune",
-    "pubdate": "2026-04-04-11-00-00 +0000"
-  },
-  {
-    "headline": "Reckoning, retribution and resistance: the behind-the-scenes story of Operation Metro Surge",
-    "link": "https://www.startribune.com/reckoning-retribution-and-resistance-the-behind-the-scenes-story-of-operation-metro-surge/601583420",
-    "source": "startribune",
-    "pubdate": "2026-04-04-11-00-00 +0000"
-  },
-  {
-    "headline": "Leave a Future, Bring Ya A**: A brief history of unforgettable local ad campaigns",
-    "link": "https://www.startribune.com/leave-a-future-bring-ya-a-a-brief-history-of-unforgettable-local-ad-campaigns/601658434",
-    "source": "startribune",
-    "pubdate": "2026-04-04-11-00-00 +0000"
-  },
-  {
-    "headline": "One Company’s Effort to Make an AI-Ready Catalog of Everything We Buy",
-    "link": "https://www.wsj.com/business/retail/one-companys-effort-to-make-an-ai-ready-catalog-of-everything-we-buy-c33ee2c0?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-04-11-00-00 +0000"
-  },
-  {
-    "headline": "One Company’s Effort to Make an AI-Ready Catalog of Everything We Buy",
-    "link": "https://www.wsj.com/business/retail/one-companys-effort-to-make-an-ai-ready-catalog-of-everything-we-buy-c33ee2c0?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-04-11-00-00 +0000"
-  },
-  {
-    "headline": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
-    "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-04-10-41-38 +0000"
-  },
-  {
-    "headline": "Senegal bans ministers from foreign travel as oil price rise bites",
-    "link": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-04-10-15-01 +0000"
-  },
-  {
-    "headline": "Living Space",
-    "link": "https://www.nytimes.com/2026/04/04/briefing/living-space.html",
-    "source": "nyt",
-    "pubdate": "2026-04-04-10-13-47 +0000"
   }
 ]
