@@ -1,72 +1,37 @@
 [
   {
-    "score": 22,
-    "pubdate": "2026-04-06-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Crisis Hitting Asia Foreshadows Tough Times for Europe",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-crisis-asia-europe-africa-iran-war-ea883ba2?mod=pls_whats_news_us_business_f"
+    "score": 21,
+    "pubdate": "2026-04-06-04-56-03 +0000",
+    "source": "bbc",
+    "headline": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
+    "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 17,
-    "pubdate": "2026-04-06-03-27-53 +0000",
+    "score": 11,
+    "pubdate": "2026-04-06-05-10-15 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman",
     "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news"
   },
   {
-    "score": 15,
-    "pubdate": "2026-04-06-03-39-38 +0000",
+    "score": 9,
+    "pubdate": "2026-04-06-04-47-36 +0000",
     "source": "nypost",
-    "headline": "Easter egg hunt tragedy leaves young mother, her baby and teenager dead",
-    "link": "https://nypost.com/2026/04/05/world-news/easter-egg-hunt-tragedy-leaves-young-mother-her-baby-and-teenager-dead/"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-04-06-03-34-00 +0000",
-    "source": "nyt",
-    "headline": "Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances",
-    "link": "https://www.nytimes.com/2026/04/04/world/europe/london-arson-attack.html"
+    "headline": "Gray whale that swam 20 miles up a Washington state river is found dead",
+    "link": "https://nypost.com/2026/04/06/us-news/gray-whale-that-swam-20-miles-up-a-washington-state-river-is-found-dead/"
   },
   {
     "score": 7,
-    "pubdate": "2026-04-06-03-38-00 +0000",
-    "source": "nypost",
-    "headline": "Helicopter releases thousands of colorful Easter eggs for Colorado church hunt",
-    "link": "https://nypost.com/2026/04/05/us-news/helicopter-releases-thousands-of-easter-eggs-for-colorado-church-hunt/"
+    "pubdate": "2026-04-06-04-57-15 +0000",
+    "source": "missionlocal",
+    "headline": "The 30th Hunky Jesus is crowned in S.F., and the crowd goes wild",
+    "link": "https://missionlocal.org/2026/04/dolores-park-easter-sunday-hunky-jesus-25th-sisters-perpetual-indulgence/"
   },
   {
-    "score": 7,
-    "pubdate": "2026-04-06-03-08-49 +0000",
-    "source": "nypost",
-    "headline": "1 dead, 1 in critical condition after brazen Easter Sunday shooting on NYC street",
-    "link": "https://nypost.com/2026/04/05/us-news/1-dead-1-in-critical-condition-after-brazen-easter-sunday-shooting-on-nyc-street/"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-04-06-03-33-35 +0000",
+    "score": 0,
+    "pubdate": "2026-04-06-04-56-03 +0000",
     "source": "bbc",
-    "headline": "Oil prices choppy after expletive-laden Trump threat to Iran",
-    "link": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-04-06-03-34-00 +0000",
-    "source": "nyt",
-    "headline": "Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances",
-    "link": "https://www.nytimes.com/2026/04/04/world/europe/london-arson-attack.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-04-06-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Crisis Hitting Asia Foreshadows Tough Times for Europe",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-crisis-asia-europe-africa-iran-war-ea883ba2"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-04-06-03-00-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Crisis Hitting Asia Foreshadows Tough Times for Europe",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-crisis-asia-europe-africa-iran-war-ea883ba2?mod=rss_markets_main"
+    "headline": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
+    "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss"
   }
 ]
