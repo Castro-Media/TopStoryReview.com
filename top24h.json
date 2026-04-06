@@ -1,13 +1,13 @@
 [
   {
-    "score": 233,
+    "score": 227,
     "pubdate": "2026-04-06-11-03-00 +0000",
     "source": "wsj",
     "headline": "President Trump told the WSJ that Iran has until Tuesday night to reopen the Strait of Hormuz or he will destroy the country’s bridges and power plants. Read more in today’s WSJ politics newsletter:",
     "link": "https://www.wsj.com/politics/trump-says-hes-calling-irans-bluff-in-eight-minute-interview-with-wsj-9d7b2a35"
   },
   {
-    "score": 101,
+    "score": 97,
     "pubdate": "2026-04-06-10-00-00 +0000",
     "source": "wsj",
     "headline": "JPMorgan Chase CEO Jamie Dimon, in his annual letter to shareholders, warned that the Iran war could push up inflation and drag down financial markets even further if interest rates start to rise",
@@ -21,13 +21,6 @@
     "link": "https://nypost.com/2026/04/06/us-news/trump-reveals-amazing-new-details-of-the-rescue-of-the-f-15e-crew-member-who-was-injured-quite-badly/"
   },
   {
-    "score": 54,
-    "pubdate": "2026-04-06-18-55-45 +0000",
-    "source": "bbc",
-    "headline": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-    "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 53,
     "pubdate": "2026-04-06-16-29-51 +0000",
     "source": "nypost",
@@ -35,11 +28,18 @@
     "link": "https://nypost.com/2026/04/06/us-news/trump-first-lady-melania-tell-children-of-iran-that-us-is-fighting-for-their-future/"
   },
   {
+    "score": 52,
+    "pubdate": "2026-04-06-18-55-45 +0000",
+    "source": "bbc",
+    "headline": "Trump endorses ex-UK political aide Steve Hilton for California governor",
+    "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 46,
-    "pubdate": "2026-04-06-15-19-55 +0000",
-    "source": "startribune",
-    "headline": "On Iran, Trump keeps world off balance with ever-changing threats",
-    "link": "https://www.startribune.com/on-iran-trump-keeps-world-off-balance-with-ever-changing-threats/601661646"
+    "pubdate": "2026-04-06-14-40-33 +0000",
+    "source": "nyt",
+    "headline": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
+    "link": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html"
   },
   {
     "score": 44,
@@ -49,7 +49,7 @@
     "link": "https://nypost.com/2026/04/06/world-news/us-israeli-airstrikes-batter-iran-as-trumps-strait-of-hormuz-deadline-looms/"
   },
   {
-    "score": 41,
+    "score": 39,
     "pubdate": "2026-04-06-17-11-07 +0000",
     "source": "nyt",
     "headline": "Do You Have Questions About a No-Bid Federal Contract? Tell Us Here.",
@@ -64,9 +64,9 @@
   },
   {
     "score": 34,
-    "pubdate": "2026-04-06-16-43-14 +0000",
-    "source": "bbc",
-    "headline": "US Supreme Court paves way for dismissal of Steve Bannon conviction",
-    "link": "https://www.bbc.com/news/articles/cgqk4kyj4yvo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-04-06-16-54-59 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Clears the Way for Dismissal of Bannon Conviction",
+    "link": "https://www.nytimes.com/2026/04/06/us/politics/supreme-court-bannon-trump.html"
   }
 ]
