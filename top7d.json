@@ -1,24 +1,24 @@
 [
   {
-    "score": 559,
-    "pubdate": "2026-04-06-00-56-55 +0000",
+    "score": 558,
+    "pubdate": "2026-04-06-03-27-53 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman",
     "link": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news"
   },
   {
-    "score": 168,
+    "score": 171,
+    "pubdate": "2026-04-06-01-49-31 +0000",
+    "source": "nypost",
+    "headline": "California’s fuel crisis hits terrifying new high — here’s how it’ll hurt you",
+    "link": "https://nypost.com/2026/04/05/us-news/sky-high-diesel-prices-in-california-spark-worry-over-affordability/"
+  },
+  {
+    "score": 170,
     "pubdate": "2026-04-03-09-30-00 +0000",
     "source": "wsj",
     "headline": "The March jobs report due Friday morning will help resolve an anxious question hanging over the economy: Was February’s big drop in jobs a temporary setback, or the start of a more serious downturn?",
     "link": "https://www.wsj.com/economy/jobs/march-jobs-report-today-67a4ec0f"
-  },
-  {
-    "score": 162,
-    "pubdate": "2026-04-05-12-27-29 +0000",
-    "source": "nypost",
-    "headline": "Trump tells Iran ‘open the F—in’ Strait, you crazy b——ds,’ — as he warns of new strikes and says ‘praise be to Allah’",
-    "link": "https://nypost.com/2026/04/05/us-news/trump-makes-new-foul-mouthed-threat-to-iran-open-the-f-in-strait/"
   },
   {
     "score": 161,
@@ -28,25 +28,32 @@
     "link": "https://www.wsj.com/politics/national-security/hegseth-removes-army-chief-in-latest-purge-of-militarys-top-ranks-4be47bd5"
   },
   {
-    "score": 150,
-    "pubdate": "2026-04-02-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "This California 8-year-old designed a 'zero gravity indicator' used in Artemis II moon mission",
-    "link": "https://www.latimes.com/california/story/2026-04-02/artemis-ii-california-8-year-old-rise-zero-gravity-indicator"
+    "score": 140,
+    "pubdate": "2026-04-05-21-20-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump threatened to destroy all of Iran’s power plants if the country’s leaders don’t agree to reopen the Strait of Hormuz by Tuesday evening, ratcheting up pressure on Tehran",
+    "link": "https://www.wsj.com/world/trump-warns-in-journal-interview-that-he-could-strike-every-power-plant-in-iran-47556f0d"
   },
   {
-    "score": 111,
+    "score": 118,
+    "pubdate": "2026-04-05-00-04-03 +0000",
+    "source": "bbc",
+    "headline": "'Absolutely spectacular': Artemis II crew see first glimpse of far side of Moon",
+    "link": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 105,
+    "pubdate": "2026-04-05-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: For more than 30 years — day in, day out — he's chronicled California. One paragraph at a time",
+    "link": "https://www.latimes.com/politics/story/2026-04-05/california-politics-rough-and-tumble-jack-kavanagh"
+  },
+  {
+    "score": 105,
     "pubdate": "2026-04-05-20-54-28 +0000",
     "source": "nypost",
     "headline": "Iran shares video of $200 million destroyed US aircraft after Air Force blew them up during rescue mission",
     "link": "https://nypost.com/2026/04/05/world-news/iran-shares-video-of-destroyed-us-aircraft-blown-up-amid-daring-rescue-mission/"
-  },
-  {
-    "score": 110,
-    "pubdate": "2026-04-05-02-59-01 +0000",
-    "source": "nypost",
-    "headline": "Leo XIV celebrates first Easter vigil as pope, calls for harmony and peace in a world torn by war",
-    "link": "https://nypost.com/2026/04/04/world-news/pope-leo-xiv-celebrates-first-easter-vigil-calls-for-harmony-and-peace-in-a-world-torn-by-war/"
   },
   {
     "score": 100,
@@ -56,17 +63,10 @@
     "link": "https://www.wsj.com/economy/central-banking/pain-at-the-pump-should-mean-pain-in-the-economy-not-higher-rates-02fbd9ba"
   },
   {
-    "score": 100,
-    "pubdate": "2026-04-03-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "One year after the U.S. imposed tariffs on Canada's auto sector, here's how industry leaders say it's going",
-    "link": "https://www.cbc.ca/news/canada/windsor/us-tariff-one-year-anniversary-9.7152021?cmp=rss"
-  },
-  {
-    "score": 86,
-    "pubdate": "2026-04-03-19-22-00 +0000",
+    "score": 91,
+    "pubdate": "2026-04-01-09-54-00 +0000",
     "source": "wsj",
-    "headline": "President Trump released a summary of his budget proposal for the 2027 fiscal year, seeking $1.5 trillion in defense spending, by far the largest dollar amount in modern history",
-    "link": "https://www.wsj.com/politics/policy/trump-budget-proposal-calls-for-1-5-trillion-in-defense-spending-44a9e7ed"
+    "headline": "U.K.’s Food Inflation Could Triple by Year End Due to Middle East War, Trade Group Says",
+    "link": "https://www.wsj.com/economy/central-banking/u-k-s-food-inflation-could-triple-by-year-end-due-to-middle-east-war-trade-group-says-c9d32ef3"
   }
 ]
