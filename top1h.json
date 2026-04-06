@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 37,
+    "pubdate": "2026-04-06-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "JPMorgan Chase CEO Jamie Dimon, in his annual letter to shareholders, warned that the Iran war could push up inflation and drag down financial markets even further if interest rates start to rise",
+    "link": "https://www.wsj.com/finance/jamie-dimon-warns-of-higher-inflation-interest-rates-from-iran-war-3cba4c12"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-04-06-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Billionaire candidate for California governor catching heat for past business interests, wealth",
+    "link": "https://www.latimes.com/california/story/2026-04-06/billionaire-candidate-for-california-governor-catching-heat-for-past-business-interests-wealth"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-06-09-30-00 +0000",
+    "source": "nypost",
+    "headline": "String of inmate deaths linked to paper laced with toxic drug rocks infamous Chicago jail: ‘How do you keep it out of schools?’",
+    "link": "https://nypost.com/2026/04/06/us-news/inmate-deaths-linked-to-paper-laced-with-toxic-drug-in-cook-county-jail/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-06-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Anthropic backers fret over AI giant’s volatile CEO Dario Amodei as billions hang in the balance: ‘Cannot control his emotions’",
+    "link": "https://nypost.com/2026/04/06/business/anthropic-backers-fret-over-ai-giants-volatile-ceo-dario-amodei-as-billions-hang-in-the-balance/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-06-10-12-00 +0000",
+    "source": "wsj",
+    "headline": "Gulf Funds Agree to Back Paramount’s $81 Billion Takeover of Warner",
+    "link": "https://www.wsj.com/business/deals/three-gulf-funds-agree-to-back-paramounts-81-billion-takeover-of-warner-04eda364?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-06-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "The Journal spent a day listening to voices from the nation’s economic front line—the gas pump. Here’s what they told us.",
+    "link": "https://www.wsj.com/economy/gas-station-prices-louisiana-780019dd"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-06-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Mamdani signs ‘emergency’ order to block concerts, food festivals at NYC parks during FIFA World Cup",
+    "link": "https://nypost.com/2026/04/06/us-news/mamdani-signs-emergency-order-to-block-concerts-food-festivals-at-nyc-parks-during-fifa-world-cup/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-06-10-10-02 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: As Trump’s New Ultimatum Looms, Tehran Vows to Step Up Attacks",
+    "link": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-06-09-19-33 +0000",
+    "source": "bbc",
+    "headline": "Burkina Faso rejects report that over 1,800 civilians killed since junta seized power",
+    "link": "https://www.bbc.com/news/articles/ckgr639007zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-06-10-13-00 +0000",
+    "source": "wsj",
+    "headline": "Gold’s Upside Likely Capped as Fed Rate Cut Expectations Ease",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-dollar-strength-inflation-worries-f3b3fe6b?mod=rss_markets_main"
+  }
+]
