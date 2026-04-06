@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "headline": "Charity 'feels the pinch' of higher energy prices",
+    "link": "https://www.bbc.com/news/articles/c937909n152o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-06-07-16-18 +0000"
+  },
+  {
+    "headline": "Comex Gold Futures Set to Resume Downside Movement, Daily Chart Shows",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-dollar-strength-inflation-worries-f3b3fe6b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-06-07-00-00 +0000"
+  },
+  {
+    "headline": "Oil Rises Slightly After Trump’s Latest Threats on Iran",
+    "link": "https://www.nytimes.com/2026/04/06/business/oil-stocks-gas-prices-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-04-06-06-35-54 +0000"
+  },
+  {
+    "headline": "US, Israeli airstrikes batter Iran as Trump’s Strait of Hormuz deadline looms",
+    "link": "https://nypost.com/2026/04/06/world-news/us-israeli-airstrikes-batter-iran-as-trumps-strait-of-hormuz-deadline-looms/",
+    "source": "nypost",
+    "pubdate": "2026-04-06-06-33-20 +0000"
+  }
+]
