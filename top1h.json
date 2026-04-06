@@ -1,72 +1,30 @@
 [
   {
-    "score": 35,
-    "pubdate": "2026-04-06-18-55-45 +0000",
-    "source": "bbc",
-    "headline": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-    "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-04-06-18-29-54 +0000",
-    "source": "bbc",
-    "headline": "How rescue of US airman in remote part of Iran unfolded",
-    "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-04-06-18-45-16 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration to Pull Out of Civil Rights Settlements Backing Trans Students",
-    "link": "https://www.nytimes.com/2026/04/06/us/politics/transgender-students-civil-rights.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-04-06-18-19-24 +0000",
-    "source": "nypost",
-    "headline": "Oracle hires new CFO on mammoth salary after ruthless worker bloodbath",
-    "link": "https://nypost.com/2026/04/06/us-news/following-layoffs-oracle-hires-new-cfo-at-950k-salary/"
-  },
-  {
     "score": 14,
-    "pubdate": "2026-04-06-19-02-09 +0000",
-    "source": "nyt",
-    "headline": "Trump’s USAID Overhaul Sent Millions More Dollars to Big U.S.-Based Contractors",
-    "link": "https://www.nytimes.com/2026/04/06/health/trump-foreign-aid.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-04-06-18-31-12 +0000",
-    "source": "nypost",
-    "headline": "Sicko stayed coldly silent in sex attack on NYC teen as she pleaded for mercy: sources",
-    "link": "https://nypost.com/2026/04/06/us-news/sicko-stayed-coldly-silent-in-sex-attack-on-nyc-teen-as-she-pleaded-for-mercy-sources/"
-  },
-  {
-    "score": 13,
     "pubdate": "2026-04-06-19-10-18 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Renews Threat of Attacks on Bridges and Power Plants",
     "link": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel"
   },
   {
-    "score": 12,
-    "pubdate": "2026-04-06-18-55-49 +0000",
-    "source": "nypost",
-    "headline": "Matt Mahan slams Trump endorsement of GOP rival Steve Hilton",
-    "link": "https://nypost.com/2026/04/06/us-news/matt-mahan-slams-trump-endorsement-of-gop-rival-steve-hilton/"
+    "score": 7,
+    "pubdate": "2026-04-06-19-13-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Natural Gas Edges Up in Rangebound Trade",
+    "link": "https://www.wsj.com/articles/u-s-natural-gas-futures-post-moderate-gains-65df39c2?mod=rss_markets_main"
   },
   {
-    "score": 12,
-    "pubdate": "2026-04-06-18-34-54 +0000",
-    "source": "nyt",
-    "headline": "Where does the data for election estimates come from, and what kind of data do we collect?",
-    "link": "https://www.nytimes.com/live/2026/us/times-election-results-explained/where-does-the-data-for-election-estimates-come-from-and-what-kind-of-data-do-we-collect"
+    "score": 6,
+    "pubdate": "2026-04-06-19-09-00 +0000",
+    "source": "wsj",
+    "headline": "Treasury Yields Decline as a Belligerent Trump Talks to Reporters",
+    "link": "https://www.wsj.com/finance/jgbs-fall-on-growing-fears-of-boj-rate-increase-cdbd4e39?mod=rss_markets_main"
   },
   {
-    "score": 11,
-    "pubdate": "2026-04-06-18-55-04 +0000",
-    "source": "startribune",
-    "headline": "Artemis II kicks off trip around the moon after surpassing Apollo 13's distance record",
-    "link": "https://www.startribune.com/artemis-ii-astronauts-race-to-set-a-new-distance-record-from-earth-and-behold-the-moons-far-side/601661594"
+    "score": 5,
+    "pubdate": "2026-04-06-19-06-00 +0000",
+    "source": "wsj",
+    "headline": "Crude Futures Edge Up As Trump’s Iran Deadline Nears",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-rise-amid-increased-supply-disruption-concerns-63eb5bd7?mod=rss_markets_main"
   }
 ]
