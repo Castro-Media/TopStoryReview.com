@@ -1,9 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-04-06-10-13-00 +0000",
+    "score": 30,
+    "pubdate": "2026-04-06-11-56-16 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: As Trump’s New Ultimatum Looms, Tehran Vows to Step Up Attacks",
+    "link": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-04-06-11-48-29 +0000",
+    "source": "bbc",
+    "headline": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
+    "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-06-12-00-00 +0000",
     "source": "wsj",
-    "headline": "Gold’s Upside Likely Capped as Fed Rate Cut Expectations Ease",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-dollar-strength-inflation-worries-f3b3fe6b?mod=rss_markets_main"
+    "headline": "Pesticide Giant Syngenta Readies New Weapon Against Superweeds",
+    "link": "https://www.wsj.com/business/pesticide-giant-syngenta-readies-new-weapon-against-superweeds-5fe858be"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-06-11-24-35 +0000",
+    "source": "nypost",
+    "headline": "Iran vows ‘devastating and widespread’ retaliations if Trump follows through with fresh strikes",
+    "link": "https://nypost.com/2026/04/06/us-news/iran-vows-devastating-and-widespread-retaliations-if-trump-follows-through-with-fresh-strikes/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-06-11-25-32 +0000",
+    "source": "bbc",
+    "headline": "Young gray whale dies after swimming up river in Washington state",
+    "link": "https://www.bbc.com/news/articles/cew7n4glz54o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-06-11-55-02 +0000",
+    "source": "startribune",
+    "headline": "Israel hits Iran's South Pars petrochemical plant as mediators float new ceasefire proposal",
+    "link": "https://www.startribune.com/airstrikes-on-iran-kill-more-than-25-as-trumps-deadline-to-open-strait-of-hormuz-looms/601661527"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-06-11-06-37 +0000",
+    "source": "nypost",
+    "headline": "Trump endorses former British government aide Steve Hilton in California governor’s race",
+    "link": "https://nypost.com/2026/04/06/us-news/trump-endorses-former-british-government-aide-steve-hilton-in-california-governors-race/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-06-11-56-53 +0000",
+    "source": "nypost",
+    "headline": "Knife-wielding lunatic shot by NYPD cop after terrorizing grocery store",
+    "link": "https://nypost.com/2026/04/06/us-news/knife-wielding-lunatic-shot-by-nypd-cop-after-terrorizing-harlem-grocery-store/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-06-11-55-14 +0000",
+    "source": "bbc",
+    "headline": "Somalia set for 'historic' first offshore oil drilling",
+    "link": "https://www.bbc.com/news/articles/czrepkppnl1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-06-11-29-15 +0000",
+    "source": "bbc",
+    "headline": "DR Congo agrees to take deportees from the US",
+    "link": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss"
   }
 ]
