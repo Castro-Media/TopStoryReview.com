@@ -1,41 +1,41 @@
 [
   {
-    "score": 215,
+    "score": 209,
     "pubdate": "2026-04-06-11-03-00 +0000",
     "source": "wsj",
     "headline": "President Trump told the WSJ that Iran has until Tuesday night to reopen the Strait of Hormuz or he will destroy the country’s bridges and power plants. Read more in today’s WSJ politics newsletter:",
     "link": "https://www.wsj.com/politics/trump-says-hes-calling-irans-bluff-in-eight-minute-interview-with-wsj-9d7b2a35"
   },
   {
-    "score": 86,
+    "score": 90,
     "pubdate": "2026-04-06-10-00-00 +0000",
     "source": "wsj",
     "headline": "JPMorgan Chase CEO Jamie Dimon, in his annual letter to shareholders, warned that the Iran war could push up inflation and drag down financial markets even further if interest rates start to rise",
     "link": "https://www.wsj.com/finance/jamie-dimon-warns-of-higher-inflation-interest-rates-from-iran-war-3cba4c12"
   },
   {
-    "score": 64,
-    "pubdate": "2026-04-05-12-50-51 +0000",
+    "score": 60,
+    "pubdate": "2026-04-05-14-31-37 +0000",
     "source": "nypost",
-    "headline": "How US used SEAL Team 6, a CIA ruse and death from above to rescue missing F-15 airman in Iran: ‘They’ve been schwackin’ dudes chasing him’",
-    "link": "https://nypost.com/2026/04/05/world-news/us-rescued-f-15-airman-in-iran-with-seal-team-6-cia-ruse-and-death-from-above/"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-04-05-12-35-36 +0000",
-    "source": "bbc",
-    "headline": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
-    "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss"
+    "headline": "Trump heralds ‘Easter Miracle’ after daring rescue of F-15 airman in Iran: ‘The enemy was large and violent’",
+    "link": "https://nypost.com/2026/04/05/us-news/trump-heralds-easter-miracle-after-rescue-of-f-15-airman-in-iran/"
   },
   {
     "score": 48,
-    "pubdate": "2026-04-06-10-44-55 +0000",
+    "pubdate": "2026-04-06-13-09-00 +0000",
     "source": "nyt",
     "headline": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
     "link": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html"
   },
   {
-    "score": 46,
+    "score": 47,
+    "pubdate": "2026-04-05-22-35-54 +0000",
+    "source": "nyt",
+    "headline": "U.S. Rescues Missing Air Force Officer Whose Fighter Jet Was Downed by Iran",
+    "link": "https://www.nytimes.com/2026/04/04/us/politics/military-iran-airman-rescue.html"
+  },
+  {
+    "score": 45,
     "pubdate": "2026-04-06-01-49-31 +0000",
     "source": "nypost",
     "headline": "California’s fuel crisis hits terrifying new high — here’s how it’ll hurt you",
@@ -43,17 +43,10 @@
   },
   {
     "score": 41,
-    "pubdate": "2026-04-05-22-35-54 +0000",
-    "source": "nyt",
-    "headline": "U.S. Rescues Missing Air Force Officer Whose Fighter Jet Was Downed by Iran",
-    "link": "https://www.nytimes.com/2026/04/04/us/politics/military-iran-airman-rescue.html"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-04-05-22-07-30 +0000",
-    "source": "bbc",
-    "headline": "Two protests, two elections: How Nepal's Gen Z succeeded where Bangladesh's stumbled",
-    "link": "https://www.bbc.com/news/articles/cz673y3qqjlo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-04-05-22-34-00 +0000",
+    "source": "wsj",
+    "headline": "For nearly two days, injured and alone, a U.S. aviator hid in a remote mountain crevice as Iranian forces and militias closed in on him",
+    "link": "https://www.wsj.com/politics/national-security/a-downed-airman-a-mountain-hideout-and-a-high-risk-rescue-in-iran-921aa8f6"
   },
   {
     "score": 35,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Trump endorses former British government aide Steve Hilton in California governor’s race",
     "link": "https://nypost.com/2026/04/06/us-news/trump-endorses-former-british-government-aide-steve-hilton-in-california-governors-race/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-04-06-04-01-09 +0000",
+    "source": "nyt",
+    "headline": "China Started Preparing for an Energy Crisis Long Before the Iran War",
+    "link": "https://www.nytimes.com/2026/04/06/business/china-oil-shock-iran-war.html"
   }
 ]
