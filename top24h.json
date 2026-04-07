@@ -1,45 +1,31 @@
 [
   {
-    "score": 271,
+    "score": 262,
     "pubdate": "2026-04-06-11-03-00 +0000",
     "source": "wsj",
     "headline": "President Trump told the WSJ that Iran has until Tuesday night to reopen the Strait of Hormuz or he will destroy the country’s bridges and power plants. Read more in today’s WSJ politics newsletter:",
     "link": "https://www.wsj.com/politics/trump-says-hes-calling-irans-bluff-in-eight-minute-interview-with-wsj-9d7b2a35"
   },
   {
-    "score": 105,
+    "score": 104,
     "pubdate": "2026-04-06-10-00-00 +0000",
     "source": "wsj",
     "headline": "JPMorgan Chase CEO Jamie Dimon, in his annual letter to shareholders, warned that the Iran war could push up inflation and drag down financial markets even further if interest rates start to rise",
     "link": "https://www.wsj.com/finance/jamie-dimon-annual-letter-jpmorgan-chase-3cba4c12"
   },
   {
-    "score": 90,
-    "pubdate": "2026-04-06-07-21-36 +0000",
-    "source": "wsj",
-    "headline": "Stock Market News, April 6, 2026: Stocks, Oil Edge Higher Ahead of Trump’s Hormuz Deadline",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-06-2026?mod=rss_markets_main"
+    "score": 80,
+    "pubdate": "2026-04-06-21-03-16 +0000",
+    "source": "wapo",
+    "headline": "Trump threatens new rampage as Iran deal deadline nears",
+    "link": "https://www.washingtonpost.com/national-security/2026/04/06/trump-us-iran-war-rescue-airman/"
   },
   {
-    "score": 65,
-    "pubdate": "2026-04-06-23-24-00 +0000",
-    "source": "wsj",
-    "headline": "A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain",
-    "link": "https://www.wsj.com/economy/jobs/ai-displaced-workers-could-face-long-setbacks-report-finds-57ef1356"
-  },
-  {
-    "score": 56,
+    "score": 54,
     "pubdate": "2026-04-06-14-23-41 +0000",
     "source": "nypost",
     "headline": "Supreme Court sets stage for DOJ to toss criminal case against Steve Bannon for defying Congress",
     "link": "https://nypost.com/2026/04/06/us-news/supreme-court-sets-stage-for-doj-to-toss-criminal-case-against-steve-bannon-for-defying-congress/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-04-06-21-55-50 +0000",
-    "source": "bbc",
-    "headline": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
-    "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 48,
@@ -47,6 +33,13 @@
     "source": "nypost",
     "headline": "Death threats force Nick Shirley to hire security: ‘They killed Charlie Kirk’",
     "link": "https://nypost.com/2026/04/06/media/death-threats-force-nick-shirley-to-hire-security-they-killed-charlie-kirk/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-04-06-17-11-07 +0000",
+    "source": "nyt",
+    "headline": "Do You Have Questions About a No-Bid Federal Contract? Tell Us Here.",
+    "link": "https://www.nytimes.com/2026/04/06/us/politics/no-bid-federal-contract.html"
   },
   {
     "score": 44,
@@ -63,10 +56,17 @@
     "link": "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
   },
   {
+    "score": 43,
+    "pubdate": "2026-04-06-23-24-00 +0000",
+    "source": "wsj",
+    "headline": "A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain",
+    "link": "https://www.wsj.com/economy/jobs/ai-displaced-workers-could-face-long-setbacks-report-finds-57ef1356"
+  },
+  {
     "score": 42,
-    "pubdate": "2026-04-06-18-55-45 +0000",
-    "source": "bbc",
-    "headline": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-    "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-04-07-02-11-02 +0000",
+    "source": "nypost",
+    "headline": "ICE arrests ‘sicko’ illegal migrant accused of kidnapping 4-year-old girl from Long Island laundromat",
+    "link": "https://nypost.com/2026/04/06/us-news/ice-arrests-sicko-illegal-migrant-accused-of-kidnapping-4-year-old-girl-from-long-island-laundromat/"
   }
 ]
