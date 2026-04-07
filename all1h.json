@@ -1,44 +1,416 @@
 [
   {
-    "headline": "U.S., Israel and Iran Accelerate Strikes Ahead of Trump’s Deadline",
-    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/us-israel-strikes-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-19-14-03 +0000"
-  },
-  {
-    "headline": "Oil Futures Mixed Ahead of Trump’s Iran Deadline",
-    "link": "https://www.wsj.com/finance/commodities-futures/iran-war-will-keep-oil-prices-high-through-2q-westpac-says-52d108a9?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-07-19-12-00 +0000"
-  },
-  {
     "headline": "Iran War Live Updates: Trump Calls to Wipe Out a ‘Whole Civilization’ as Iranians Reject Threats",
     "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
     "source": "nyt",
-    "pubdate": "2026-04-07-19-10-40 +0000"
+    "pubdate": "2026-04-07-21-03-21 +0000"
   },
   {
-    "headline": "S.F. supervisor Jackie Fielder will take leave of absence through June 30",
-    "link": "https://missionlocal.org/2026/04/sf-jackie-fielder-leave-of-absence/",
-    "source": "missionlocal",
-    "pubdate": "2026-04-07-19-09-43 +0000"
+    "headline": "Iran-linked hackers disrupt systems tied to critical US infrastructure: officials",
+    "link": "https://nypost.com/2026/04/07/world-news/iran-linked-hackers-disrupt-systems-tied-to-critical-us-infrastructure-officials/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-21-02-26 +0000"
   },
   {
-    "headline": "Trump ousted Kristi Noem but is keeping her $70 million DHS jet, raising questions over its luxury features and use of funds",
-    "link": "https://www.wsj.com/politics/policy/the-white-house-is-keeping-kristi-noems-70-million-jet-547438aa",
+    "headline": "Offset, Former Migos Rapper, Is Shot Outside Florida Casino",
+    "link": "https://www.nytimes.com/2026/04/06/us/offset-migos-shooting-florida.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-21-01-37 +0000"
+  },
+  {
+    "headline": "Democrats Condemn Trump’s Iran Threats as Some Lawmakers Call for Impeachment",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/democrats-react-trump-iran-civilization.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-21-01-19 +0000"
+  },
+  {
+    "headline": "Democrats Condemn Trump’s Iran Threats as Some Lawmakers Call for Impeachment",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/democrats-react-trump-iran-civilization.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-21-01-19 +0000"
+  },
+  {
+    "headline": "Trump Issues Apocalyptic Threat Against Iran as Pakistan Asks Him to Hold Off Strikes",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/trump-iran-deadline.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-21-00-06 +0000"
+  },
+  {
+    "headline": "Trump Issues Apocalyptic Threat Against Iran as Pakistan Asks Him to Hold Off Strikes",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/trump-iran-deadline.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-21-00-06 +0000"
+  },
+  {
+    "headline": "Chilling new photo of Athena Grand, 7, moments before her death revealed as killer FedEx driver makes shocking plea",
+    "link": "https://nypost.com/2026/04/07/us-news/chilling-new-photo-of-athena-grand-7-moments-before-her-death-revealed-as-killer-fedex-driver-makes-shocking-guilty-plea/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-57-53 +0000"
+  },
+  {
+    "headline": "Big warning signs for Dems ahead of 2026 midterms that could dash their takeover hopes",
+    "link": "https://nypost.com/2026/04/07/us-news/big-warning-signs-for-dems-ahead-of-midterms-that-could-dash-their-takeover-hopes/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-56-18 +0000"
+  },
+  {
+    "headline": "What the US military could do if Iran fails to meet Trump's ultimatum",
+    "link": "https://www.bbc.com/news/articles/c98kn1zlxr1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-07-20-55-50 +0000"
+  },
+  {
+    "headline": "What the US military could do if Iran fails to meet Trump's ultimatum",
+    "link": "https://www.bbc.com/news/articles/c98kn1zlxr1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-07-20-55-50 +0000"
+  },
+  {
+    "headline": "Shocking fraud racket uncovered in California — with tentacles stretching to Nigeria",
+    "link": "https://nypost.com/2026/04/07/us-news/fraud-racket-stretching-to-nigeria-exposed-in-california/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-55-16 +0000"
+  },
+  {
+    "headline": "Fact-Checking Republicans’ Misleading Claims About Mail-In Ballots and Fraudulent Voting",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-mail-voting-elections-fact-check.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-53-39 +0000"
+  },
+  {
+    "headline": "Fact-Checking Republicans’ Misleading Claims About Mail-In Ballots and Fraudulent Voting",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-mail-voting-elections-fact-check.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-53-39 +0000"
+  },
+  {
+    "headline": "Traders Are Racing to Place Their Bets Ahead of Trump’s Iran Deadline",
+    "link": "https://www.wsj.com/finance/investing/traders-are-racing-to-place-their-bets-ahead-of-trumps-iran-deadline-b28dab72?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-04-07-19-07-00 +0000"
+    "pubdate": "2026-04-07-20-53-00 +0000"
   },
   {
-    "headline": "U.S. Warns of Cyberattacks Tied to Iran on Water and Energy Systems",
-    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/us-cyberattacks-iran.html",
+    "headline": "Some Republicans Vent Concern as Party Backs Trump’s Iran Threat",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/gop-senator-trump-iran-war-threats.html",
     "source": "nyt",
-    "pubdate": "2026-04-07-19-06-36 +0000"
+    "pubdate": "2026-04-07-20-52-50 +0000"
   },
   {
-    "headline": "U.S. Warns of Cyberattacks Tied to Iran on Water and Energy Systems",
-    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/us-cyberattacks-iran.html",
+    "headline": "Some Republicans Vent Concern as Party Backs Trump’s Iran Threat",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/gop-senator-trump-iran-war-threats.html",
     "source": "nyt",
-    "pubdate": "2026-04-07-19-06-36 +0000"
+    "pubdate": "2026-04-07-20-52-50 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-52-49 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-52-49 +0000"
+  },
+  {
+    "headline": "Bizarre moment woman dressed as an Easter bunny steps in during wild gunfight",
+    "link": "https://nypost.com/2026/04/07/us-news/easter-bunny-comforts-wounded-victim-after-bakersfield-shooting-chaos/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-52-26 +0000"
+  },
+  {
+    "headline": "Heartbroken brother of 7-month-old killed in senseless NYC shooting keeps ‘asking for his sister’: DA",
+    "link": "https://nypost.com/2026/04/07/us-news/heartbroken-brother-of-7-month-old-killed-in-senseless-nyc-shooting-keeps-asking-for-his-sister-da/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-52-13 +0000"
+  },
+  {
+    "headline": "Trump’s Threats of War Crimes Intensify Pressure on General Caine",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/general-caine-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-51-00 +0000"
+  },
+  {
+    "headline": "Trump’s Threats of War Crimes Intensify Pressure on General Caine",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/general-caine-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-51-00 +0000"
+  },
+  {
+    "headline": "Trump’s Threats of War Crimes Intensify Pressure on General Caine",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/general-caine-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-51-00 +0000"
+  },
+  {
+    "headline": "Trump’s Threats of War Crimes Intensify Pressure on General Caine",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/general-caine-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-51-00 +0000"
+  },
+  {
+    "headline": "You can double our reporting power! Our $50k Spring Bloom match campaign is here",
+    "link": "https://48hills.org/2026/04/our-50k-spring-bloom-match-campaign-is-here/",
+    "source": "48hills",
+    "pubdate": "2026-04-07-20-48-47 +0000"
+  },
+  {
+    "headline": "Rogue NYC driver on lam after ramming cop cars, striking officer: NYPD",
+    "link": "https://nypost.com/2026/04/07/us-news/rogue-nyc-driver-on-lam-after-ramming-cop-cars-striking-officer-nypd/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-48-32 +0000"
+  },
+  {
+    "headline": "To Boost Military Budget, Trump Targets Popular Programs at Home",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-budget-cuts.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-47-41 +0000"
+  },
+  {
+    "headline": "To Boost Military Budget, Trump Targets Popular Programs at Home",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-budget-cuts.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-47-41 +0000"
+  },
+  {
+    "headline": "To Boost Military Budget, Trump Targets Popular Programs at Home",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-budget-cuts.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-47-41 +0000"
+  },
+  {
+    "headline": "NYC teen randomly slashed by masked stranger on subway in terrifying morning commute attack",
+    "link": "https://nypost.com/2026/04/07/us-news/masked-stranger-randomly-slashes-boy-15-multiple-times-on-nyc-train-cops-sources/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-46-17 +0000"
+  },
+  {
+    "headline": "The Tiny, Folding Helicopter Key to Rescuing the U.S. Aviator in Iran",
+    "link": "https://www.wsj.com/world/middle-east/the-tiny-folding-helicopter-key-to-rescuing-the-u-s-aviator-in-iran-28644263",
+    "source": "wsj",
+    "pubdate": "2026-04-07-20-43-00 +0000"
+  },
+  {
+    "headline": "Insane list of luxury items notorious California fraudsters bought with your money — including fake boobs",
+    "link": "https://nypost.com/2026/04/07/us-news/california-fraudsters-bought-breast-implants-with-your-tax-funds/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-42-00 +0000"
+  },
+  {
+    "headline": "GoPro to Eliminate 23% of Workforce in Cost-Cutting Move",
+    "link": "https://www.wsj.com/business/gopro-to-eliminate-23-of-workforce-in-cost-cutting-move-ca5ba06b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-07-20-41-00 +0000"
+  },
+  {
+    "headline": "Ukrainians find glimmer of hope in war time by releasing hundreds of bats into the wild",
+    "link": "https://www.cbc.ca/radio/asithappens/ukraine-bat-release-festival-9.7128068?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-04-07-20-39-40 +0000"
+  },
+  {
+    "headline": "Trump threats against civilian targets put military in legal, moral quandary",
+    "link": "https://www.washingtonpost.com/national-security/2026/04/07/trump-iran-bombing-civilization-war-crime/",
+    "source": "wapo",
+    "pubdate": "2026-04-07-20-38-45 +0000"
+  },
+  {
+    "headline": "As Deadline Nears, Confusion Over U.S.-Iran Talks Swirls Worldwide",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-36-53 +0000"
+  },
+  {
+    "headline": "As Deadline Nears, Confusion Over U.S.-Iran Talks Swirls Worldwide",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-36-53 +0000"
+  },
+  {
+    "headline": "As Deadline Nears, Confusion Over U.S.-Iran Talks Swirls Worldwide",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-36-53 +0000"
+  },
+  {
+    "headline": "As Deadline Nears, Confusion Over U.S.-Iran Talks Swirls Worldwide",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-36-53 +0000"
+  },
+  {
+    "headline": "Video Captures Enormous Warehouse Fire Raging Near Los Angeles",
+    "link": "https://www.nytimes.com/2026/04/07/us/warehouse-fire-ontario-video.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-36-46 +0000"
+  },
+  {
+    "headline": "Delta, WestJet and Other Airlines Announce Higher Baggage Fees and Fuel Surcharges",
+    "link": "https://www.nytimes.com/2026/04/07/travel/airfare-bag-fees-fuel-surcharges.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-35-23 +0000"
+  },
+  {
+    "headline": "Delta, WestJet and Other Airlines Announce Higher Baggage Fees and Fuel Surcharges",
+    "link": "https://www.nytimes.com/2026/04/07/travel/airfare-bag-fees-fuel-surcharges.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-35-23 +0000"
+  },
+  {
+    "headline": "Trump warns a 'whole civilization will die' if a deal with Iran isn't reached",
+    "link": "https://www.startribune.com/bridge-linking-saudi-arabia-to-bahrain-closed-over-iranian-threats-as-trumps-deadline-nears/601662078",
+    "source": "startribune",
+    "pubdate": "2026-04-07-20-35-05 +0000"
+  },
+  {
+    "headline": "Accused Gilgo Beach serial killer Rex Heuermann expected to plead guilty — including to new murder",
+    "link": "https://nypost.com/2026/04/07/us-news/accused-gilgo-beach-serial-killer-rex-heuermann-to-plead-guilty-including-to-new-murder/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-33-37 +0000"
+  },
+  {
+    "headline": "Mamdani throwing first 100 days celebration — and thousands of NYC teachers are invited",
+    "link": "https://nypost.com/2026/04/07/us-news/mamdani-throwing-first-100-days-celebration-and-thousands-of-nyc-teachers-are-invited/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-31-01 +0000"
+  },
+  {
+    "headline": "Trump says ‘a whole civilization will die’ as Iran freezes talks",
+    "link": "https://www.washingtonpost.com/world/2026/04/07/trump-us-iran-war-threat/",
+    "source": "wapo",
+    "pubdate": "2026-04-07-20-27-01 +0000"
+  },
+  {
+    "headline": "ICE Agents Shoot Into a Car, Injuring a Suspect in Northern California",
+    "link": "https://www.nytimes.com/2026/04/07/us/shooting-ice-california.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-26-38 +0000"
+  },
+  {
+    "headline": "Gavin Newsom’s wife empathized with San Quentin inmates by sharing shocking story of killing her sister",
+    "link": "https://nypost.com/2026/04/07/us-news/gavin-newsoms-wife-shares-sister-death-empathizes-with-san-quentin-inmates/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-26-33 +0000"
+  },
+  {
+    "headline": "Gavin Newsom’s wife empathized with San Quentin inmates by sharing shocking story of killing her sister",
+    "link": "https://nypost.com/2026/04/07/us-news/gavin-newsoms-wife-shares-sister-death-empathizes-with-san-quentin-inmates/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-26-33 +0000"
+  },
+  {
+    "headline": "Michael Levine, Massachusetts Medicaid exec, to be head of S.F. homeless dept.",
+    "link": "https://missionlocal.org/2026/04/sf-homeless-daniel-lurie-michael-levine/",
+    "source": "missionlocal",
+    "pubdate": "2026-04-07-20-25-59 +0000"
+  },
+  {
+    "headline": "Venezuelan Doctor Detained in Texas After Losing Job to Visa Freeze",
+    "link": "https://www.nytimes.com/2026/04/07/us/texas-doctor-detained-border-patrol-visa-freeze.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-25-13 +0000"
+  },
+  {
+    "headline": "Opinion | The American Middle Class Keeps Getting Richer",
+    "link": "https://www.wsj.com/opinion/the-american-middle-class-keeps-getting-richer-7f57dcff",
+    "source": "wsj",
+    "pubdate": "2026-04-07-20-23-00 +0000"
+  },
+  {
+    "headline": "Levi Strauss Raises Fiscal-Year Guidance as Turnaround Bears Fruit",
+    "link": "https://www.wsj.com/business/retail/levi-strauss-raises-fy-guidance-as-turnaround-bears-fruit-469ffb99?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-07-20-23-00 +0000"
+  },
+  {
+    "headline": "Trump’s Threat to Wipe Out a ‘Whole Civilization’ Appalls Some Conservatives",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/trump-iran-threats-republicans-reaction.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-21-28 +0000"
+  },
+  {
+    "headline": "Trump’s Threat to Wipe Out a ‘Whole Civilization’ Appalls Some Conservatives",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/trump-iran-threats-republicans-reaction.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-21-28 +0000"
+  },
+  {
+    "headline": "Biruté Galdikas, Champion of Endangered Orangutans, Dies at 79",
+    "link": "https://www.nytimes.com/2026/04/02/science/earth/birute-galdikas-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-21-12 +0000"
+  },
+  {
+    "headline": "Vance Seeks to Boost Hungary’s Orban in Tough Re-election Fight",
+    "link": "https://www.wsj.com/world/europe/vance-seeks-to-boost-hungarys-orban-in-tough-re-election-fight-1d3fe4f8",
+    "source": "wsj",
+    "pubdate": "2026-04-07-20-20-00 +0000"
+  },
+  {
+    "headline": "Opinion | High Gasoline Prices Signal Trouble to Older Americans",
+    "link": "https://www.wsj.com/opinion/high-gasoline-prices-signal-trouble-to-older-americans-82e2bd2f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-07-20-20-00 +0000"
+  },
+  {
+    "headline": "Bill Ackman’s Pershing Square Bids to Buy Universal Music Group",
+    "link": "https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-19-19 +0000"
+  },
+  {
+    "headline": "New Owner of Shopping Plaza in Kansas City Pitches a $1.5 Billion Rescue Plan",
+    "link": "https://www.nytimes.com/2026/04/05/business/country-club-plaza-kansas-city-rescue-plan.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-18-28 +0000"
+  },
+  {
+    "headline": "S&P, Nasdaq Turn Higher on Cease-Fire Hopes",
+    "link": "https://www.wsj.com/finance/stocks/oil-climbs-higher-again-u-s-futures-slide-as-iran-deadline-approaches-71a154c7?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-07-20-17-00 +0000"
+  },
+  {
+    "headline": "Oil price fluctuates ahead of Trump's Iran deal deadline",
+    "link": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-07-20-16-44 +0000"
+  },
+  {
+    "headline": "Glam London club Annabel’s is coming to NYC as members-only spots continue to pop up",
+    "link": "https://nypost.com/2026/04/07/business/glam-london-club-annabels-is-coming-to-nyc-as-members-only-spots-continue-to-pop-up/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-20-15-21 +0000"
+  },
+  {
+    "headline": "U.S. journalist Shelly Kittleson, kidnapped in Iraq, is freed in prisoner swap",
+    "link": "https://www.washingtonpost.com/world/2026/04/07/shelly-kittleson-american-journalist-kidnap-release/",
+    "source": "wapo",
+    "pubdate": "2026-04-07-20-14-21 +0000"
+  },
+  {
+    "headline": "U.S. journalist Shelly Kittleson, kidnapped in Iraq, is freed in prisoner swap",
+    "link": "https://www.washingtonpost.com/world/2026/04/07/shelly-kittleson-american-journalist-kidnap-release/",
+    "source": "wapo",
+    "pubdate": "2026-04-07-20-14-21 +0000"
+  },
+  {
+    "headline": "Oil and Stock Prices Reverse Some Moves as a Peace Deal Remains Uncertain",
+    "link": "https://www.nytimes.com/2026/04/07/business/oil-stocks-gas-prices-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-12-16 +0000"
+  },
+  {
+    "headline": "‘I Love Viktor’: Trump and Vance Cheer on Orban in Hungarian Race",
+    "link": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-08-51 +0000"
+  },
+  {
+    "headline": "‘I Love Viktor’: Trump and Vance Cheer on Orban in Hungarian Race",
+    "link": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-20-08-51 +0000"
   }
 ]
