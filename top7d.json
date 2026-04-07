@@ -1,38 +1,31 @@
 [
   {
-    "score": 630,
+    "score": 644,
     "pubdate": "2026-04-07-11-00-00 +0000",
     "source": "wsj",
     "headline": "As Trump threatens a major escalation in Iran, some Republicans have set a deadline: They say by law he must seek the approval of Congress if military operations in Iran go beyond 60 to 90 days",
     "link": "https://www.wsj.com/politics/some-republicans-set-their-own-deadline-on-iran-war-its-getting-close-29425fa0"
   },
   {
-    "score": 261,
+    "score": 263,
     "pubdate": "2026-04-07-08-15-00 +0000",
     "source": "wsj",
     "headline": "China Caps Rise in Fuel Prices as Middle East War Drives Up Energy Costs",
-    "link": "https://www.wsj.com/finance/commodities-futures/china-caps-rise-in-fuel-prices-as-middle-east-war-drives-up-energy-costs-43973645"
+    "link": "https://www.wsj.com/finance/commodities-futures/china-caps-rise-in-fuel-prices-as-middle-east-war-drives-up-energy-costs-43973645?mod=rss_markets_main"
   },
   {
-    "score": 168,
+    "score": 170,
     "pubdate": "2026-04-06-11-03-00 +0000",
     "source": "wsj",
     "headline": "President Trump told the WSJ that Iran has until Tuesday night to reopen the Strait of Hormuz or he will destroy the country’s bridges and power plants. Read more in today’s WSJ politics newsletter:",
     "link": "https://www.wsj.com/politics/trump-says-hes-calling-irans-bluff-in-eight-minute-interview-with-wsj-9d7b2a35"
   },
   {
-    "score": 142,
+    "score": 144,
     "pubdate": "2026-04-06-23-24-00 +0000",
     "source": "wsj",
     "headline": "A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain",
     "link": "https://www.wsj.com/economy/jobs/ai-displaced-workers-could-face-long-setbacks-report-finds-57ef1356"
-  },
-  {
-    "score": 129,
-    "pubdate": "2026-04-05-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Barabak: For more than 30 years — day in, day out — he's chronicled California. One paragraph at a time",
-    "link": "https://www.latimes.com/politics/story/2026-04-05/california-politics-rough-and-tumble-jack-kavanagh"
   },
   {
     "score": 127,
@@ -42,31 +35,38 @@
     "link": "https://www.wsj.com/politics/national-security/hegseth-removes-army-chief-in-latest-purge-of-militarys-top-ranks-4be47bd5"
   },
   {
-    "score": 115,
+    "score": 125,
+    "pubdate": "2026-04-02-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "This California 8-year-old designed a 'zero gravity indicator' used in Artemis II moon mission",
+    "link": "https://www.latimes.com/california/story/2026-04-02/artemis-ii-california-8-year-old-rise-zero-gravity-indicator"
+  },
+  {
+    "score": 117,
     "pubdate": "2026-04-05-09-30-00 +0000",
     "source": "wsj",
     "headline": "Central banks live in fear of their last mistake: waiting too long to raise rates in the postpandemic boom. But there’s a difference between that boom and this oil shock.",
     "link": "https://www.wsj.com/economy/central-banking/pain-at-the-pump-should-mean-pain-in-the-economy-not-higher-rates-02fbd9ba"
   },
   {
-    "score": 104,
+    "score": 106,
     "pubdate": "2026-04-03-09-30-00 +0000",
     "source": "wsj",
     "headline": "The March jobs report due Friday morning will help resolve an anxious question hanging over the economy: Was February’s big drop in jobs a temporary setback, or the start of a more serious downturn?",
     "link": "https://www.wsj.com/economy/jobs/march-jobs-report-today-67a4ec0f"
   },
   {
-    "score": 103,
-    "pubdate": "2026-04-06-17-11-07 +0000",
-    "source": "nyt",
-    "headline": "Do You Have Questions About a No-Bid Federal Contract? Tell Us Here.",
-    "link": "https://www.nytimes.com/2026/04/06/us/politics/no-bid-federal-contract.html"
+    "score": 106,
+    "pubdate": "2026-04-03-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Liberal bill would force companies to simplify data access for police. No one knows the cost",
+    "link": "https://www.cbc.ca/news/politics/csis-rcmp-data-access-telecoms-9.7148631?cmp=rss"
   },
   {
-    "score": 94,
-    "pubdate": "2026-04-07-07-43-31 +0000",
-    "source": "nypost",
-    "headline": "American woman missing in Bahamas after going overboard during boat ride identified as mom living her ‘best life’",
-    "link": "https://nypost.com/2026/04/07/us-news/american-woman-lynette-hooker-missing-in-bahamas-after-going-overboard-during-boat-ride-with-husband-identified/"
+    "score": 95,
+    "pubdate": "2026-04-01-00-45-46 +0000",
+    "source": "latimes",
+    "headline": "Gas just hit $6 in Los Angeles. Here's where you can still find it for $5",
+    "link": "https://www.latimes.com/california/story/2026-03-31/gas-just-hit-6-in-los-angeles-heres-where-you-can-still-find-it-for-5"
   }
 ]

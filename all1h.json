@@ -1,134 +1,218 @@
 [
   {
-    "headline": "Fox partners with Kalshi to add sponsored ‘crowd odds’ to news coverage",
-    "link": "https://nypost.com/2026/04/07/business/fox-partners-with-kalshi-to-add-sponsored-crowd-odds-to-news-coverage/",
+    "headline": "Iran War Live Updates: Trump Issues Grave Threats as Hormuz Deadline Draws Closer",
+    "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
+    "source": "nyt",
+    "pubdate": "2026-04-07-13-16-10 +0000"
+  },
+  {
+    "headline": "Iranians Voice Shock and Defiance in Face of Trump’s Latest Deadline",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-13-15-44 +0000"
+  },
+  {
+    "headline": "Two teachers — including ‘Baywatch’ star’s sister — accused of disturbing behavior with same teen student",
+    "link": "https://nypost.com/2026/04/07/us-news/two-teachers-including-baywatch-stars-sister-accused-of-disturbing-behavior-with-same-boy/",
     "source": "nypost",
-    "pubdate": "2026-04-07-12-00-25 +0000"
+    "pubdate": "2026-04-07-13-14-32 +0000"
+  },
+  {
+    "headline": "Amid Escalating Threats, U.S. and Iran Float Ideas to End War",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/amid-escalating-threats-us-and-iran-float-ideas-to-end-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-13-12-27 +0000"
+  },
+  {
+    "headline": "Amid Escalating Threats, U.S. and Iran Float Ideas to End War",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/amid-escalating-threats-us-and-iran-float-ideas-to-end-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-13-12-27 +0000"
+  },
+  {
+    "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-07-13-10-00 +0000"
+  },
+  {
+    "headline": "Kanye West blocked from travelling to UK, government tells BBC",
+    "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-07-13-09-12 +0000"
+  },
+  {
+    "headline": "Why Did Trump Order an Attack on Iran’s Kharg Island?",
+    "link": "https://www.wsj.com/world/middle-east/why-did-trump-order-an-attack-on-irans-kharg-island-dcfceda8",
+    "source": "wsj",
+    "pubdate": "2026-04-07-13-09-00 +0000"
+  },
+  {
+    "headline": "Why Did Trump Order an Attack on Iran’s Kharg Island?",
+    "link": "https://www.wsj.com/world/middle-east/why-did-trump-order-an-attack-on-irans-kharg-island-dcfceda8?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-07-13-09-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-07-13-06-51 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-07-13-06-51 +0000"
+  },
+  {
+    "headline": "Dozens killed as Angola flood death toll rises",
+    "link": "https://www.bbc.com/news/articles/c3v6nr3q2xwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-07-13-06-32 +0000"
+  },
+  {
+    "headline": "Bill Ackman’s Pershing Square Bids to Buy Universal Music Group",
+    "link": "https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-13-06-12 +0000"
+  },
+  {
+    "headline": "How high could UK petrol and diesel prices go?",
+    "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-07-13-03-47 +0000"
+  },
+  {
+    "headline": "U.K. Bars Kanye West Over Antisemitism, Months Before Festival Performances",
+    "link": "https://www.nytimes.com/2026/04/07/arts/music/kanye-west-ye-visa-ban-wireless.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-13-01-21 +0000"
+  },
+  {
+    "headline": "US again strikes Kharg Island, a critical oil hub for Iran",
+    "link": "https://www.startribune.com/bridge-linking-saudi-arabia-to-bahrain-closed-over-iranian-threats-as-trumps-deadline-nears/601662078",
+    "source": "startribune",
+    "pubdate": "2026-04-07-13-00-05 +0000"
+  },
+  {
+    "headline": "Missing",
+    "link": "https://missionlocal.org/2026/04/missing-2/",
+    "source": "missionlocal",
+    "pubdate": "2026-04-07-13-00-00 +0000"
+  },
+  {
+    "headline": "Mission Local is expanding, adding new neighborhood coverage",
+    "link": "https://missionlocal.org/2026/04/mission-local-expanding-new-neighborhoods/",
+    "source": "missionlocal",
+    "pubdate": "2026-04-07-13-00-00 +0000"
+  },
+  {
+    "headline": "Vance Visits Hungary to Boost Orban Before Election",
+    "link": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-12-57-46 +0000"
+  },
+  {
+    "headline": "Vance Visits Hungary to Boost Orban Before Election",
+    "link": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-12-57-46 +0000"
+  },
+  {
+    "headline": "Durable-Goods Orders Declined in February",
+    "link": "https://www.wsj.com/economy/durable-goods-orders-declined-in-february-f1d758f9",
+    "source": "wsj",
+    "pubdate": "2026-04-07-12-54-00 +0000"
+  },
+  {
+    "headline": "Neighbour plan to help food bank expand",
+    "link": "https://www.bbc.com/news/articles/cvgek74l49do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-07-12-51-33 +0000"
+  },
+  {
+    "headline": "Oil price fluctuates ahead of Trump's Iran deal deadline",
+    "link": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-07-12-49-30 +0000"
+  },
+  {
+    "headline": "Oil Prices Rise as Trump’s Deadline for Deal Draws Near",
+    "link": "https://www.nytimes.com/2026/04/07/business/oil-stocks-gas-prices-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-04-07-12-47-41 +0000"
+  },
+  {
+    "headline": "Reform would deny visas over calls for slavery reparations",
+    "link": "https://www.bbc.com/news/articles/c4g4w722peyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-07-12-44-52 +0000"
+  },
+  {
+    "headline": "Music giant Universal gets $64bn takeover offer",
+    "link": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-07-12-35-55 +0000"
+  },
+  {
+    "headline": "Music giant Universal gets $64bn takeover offer",
+    "link": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-07-12-35-55 +0000"
   },
   {
     "headline": "One dead as train travelling 99mph collides with lorry in France",
     "link": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-07-11-56-35 +0000"
+    "pubdate": "2026-04-07-12-31-01 +0000"
   },
   {
     "headline": "Greens promise rent controls and £1 bus fares in Welsh election manifesto",
     "link": "https://www.bbc.com/news/articles/cwydw8pk39ro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-07-11-54-44 +0000"
+    "pubdate": "2026-04-07-12-30-09 +0000"
   },
   {
-    "headline": "Iran War Live Updates: Trump’s Deadline Draws Closer With No Sign of Diplomatic Breakthrough",
-    "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
+    "headline": "Hypersonic aircraft company moves headquarters from Atlanta to El Segundo",
+    "link": "https://www.latimes.com/business/story/2026-04-07/hypersonic-aircraft-company-moves-headquarters-from-atlanta-to-el-segundo-aerospace-defense",
+    "source": "latimes",
+    "pubdate": "2026-04-07-12-30-00 +0000"
+  },
+  {
+    "headline": "Blackstone Closes $10 Billion Private Credit Fund",
+    "link": "https://www.wsj.com/finance/investing/blackstone-closes-10-billion-private-credit-fund-5098af12?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-07-12-29-00 +0000"
+  },
+  {
+    "headline": "A Looming Deadline",
+    "link": "https://www.nytimes.com/2026/04/05/world/iran-hormuz-rescue-trump-ultimatum.html",
     "source": "nyt",
-    "pubdate": "2026-04-07-11-54-16 +0000"
+    "pubdate": "2026-04-07-12-25-47 +0000"
   },
   {
-    "headline": "Trump Says Iran Proposal Isn’t Enough to Stop Attacks on Bridges and Power Plants",
-    "link": "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-54-14 +0000"
-  },
-  {
-    "headline": "Trump Says Iran Proposal Isn’t Enough to Stop Attacks on Bridges and Power Plants",
-    "link": "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-54-14 +0000"
-  },
-  {
-    "headline": "Trump Says Iran Proposal Isn’t Enough to Stop Attacks on Bridges and Power Plants",
-    "link": "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-54-14 +0000"
-  },
-  {
-    "headline": "Trump Says Iran Proposal Isn’t Enough to Stop Attacks on Bridges and Power Plants",
-    "link": "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-54-14 +0000"
-  },
-  {
-    "headline": "Markets on Edge as Trump’s Iran Ultimatum Looms",
-    "link": "https://www.nytimes.com/2026/04/07/business/dealbook/markets-trump-iran-threats.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-50-58 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-44-36 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-44-36 +0000"
-  },
-  {
-    "headline": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
-    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-42-32 +0000"
-  },
-  {
-    "headline": "Gunman Killed in Shootout Near Israeli Consulate in Istanbul, Officials Say",
-    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/istanbul-israel-consulate-shootout.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-42-32 +0000"
-  },
-  {
-    "headline": "Vance Visits Hungary to Boost Orban Before Election",
-    "link": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-34-28 +0000"
-  },
-  {
-    "headline": "Vance Visits Hungary to Boost Orban Before Election",
-    "link": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-34-28 +0000"
-  },
-  {
-    "headline": "Kim Jong-un’s Daughter Drives a Tank as Talk Accelerates Around North Korea Succession",
-    "link": "https://www.nytimes.com/2026/04/07/world/asia/north-korea-kim-jong-un-daughter-tank.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-34-12 +0000"
-  },
-  {
-    "headline": "Kim Jong-un’s Daughter Drives a Tank as Talk Accelerates Around North Korea Succession",
-    "link": "https://www.nytimes.com/2026/04/07/world/asia/north-korea-kim-jong-un-daughter-tank.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-11-34-12 +0000"
-  },
-  {
-    "headline": "Terrorist killed, two others seriously injured in gun battle outside Istanbul’s Israeli consulate",
-    "link": "https://nypost.com/2026/04/07/world-news/terrorist-killed-two-others-seriously-injured-in-gun-battle-outside-istanbuls-israeli-consulate/",
+    "headline": "Trump warns Iran that ‘a whole civilization will die tonight’ as deadline looms",
+    "link": "https://nypost.com/2026/04/07/us-news/trump-warns-iran-that-a-whole-civilization-will-die-tonight-as-deadline-looms/",
     "source": "nypost",
-    "pubdate": "2026-04-07-11-31-01 +0000"
+    "pubdate": "2026-04-07-12-25-05 +0000"
   },
   {
-    "headline": "Plan 2 student loan interest rates capped at 6% in England",
-    "link": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump warns Iran that ‘a whole civilization will die tonight’ as deadline looms",
+    "link": "https://nypost.com/2026/04/07/us-news/trump-warns-iran-that-a-whole-civilization-will-die-tonight-as-deadline-looms/",
+    "source": "nypost",
+    "pubdate": "2026-04-07-12-25-05 +0000"
+  },
+  {
+    "headline": "Chilean woman accused of Pinochet-era kidnaps loses extradition battle",
+    "link": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-07-11-21-16 +0000"
+    "pubdate": "2026-04-07-12-19-46 +0000"
   },
   {
-    "headline": "Plan 2 student loan interest rates capped at 6% in England",
-    "link": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&at_campaign=rss",
+    "headline": "Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle",
+    "link": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-07-11-21-16 +0000"
-  },
-  {
-    "headline": "See the list of Minnesota’s largest employers and Target’s new ranking",
-    "link": "https://www.startribune.com/minnesota-largest-employers-mayo-clinic-target-us-bank-wells-fargo-unitedhealth-medtronic/601634352",
-    "source": "startribune",
-    "pubdate": "2026-04-07-11-13-18 +0000"
-  },
-  {
-    "headline": "Trump has repeatedly delayed deadlines for Iran, but suggests Tuesday's is final",
-    "link": "https://www.startribune.com/trump-has-repeatedly-delayed-deadlines-for-iran-but-suggests-tuesdays-is-final/601662067",
-    "source": "startribune",
-    "pubdate": "2026-04-07-11-10-04 +0000"
+    "pubdate": "2026-04-07-12-19-46 +0000"
   }
 ]
