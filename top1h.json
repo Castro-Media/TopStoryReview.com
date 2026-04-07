@@ -1,45 +1,10 @@
 [
   {
-    "score": 55,
+    "score": 20,
     "pubdate": "2026-04-07-19-10-40 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Calls to Wipe Out a ‘Whole Civilization’ as Iranians Reject Threats",
     "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news"
-  },
-  {
-    "score": 27,
-    "pubdate": "2026-04-07-18-20-27 +0000",
-    "source": "wapo",
-    "headline": "U.S. journalist Shelly Kittleson, kidnapped in Iraq, is freed in prisoner swap",
-    "link": "https://www.washingtonpost.com/world/2026/04/07/shelly-kittleson-american-journalist-kidnap-release/"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-04-07-18-59-59 +0000",
-    "source": "nyt",
-    "headline": "Iranian Officials Say Indirect Talks With U.S. Ended After Trump’s Latest Threat",
-    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-trump-negotiations-talks-threat.html"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-04-07-18-45-20 +0000",
-    "source": "nyt",
-    "headline": "Pentagon Stays Mum on School Strike, Even As Trump Boasts of Iran Rescue",
-    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-school-strike-pentagon.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-04-07-19-06-36 +0000",
-    "source": "nyt",
-    "headline": "U.S. Warns of Cyberattacks Tied to Iran on Water and Energy Systems",
-    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/us-cyberattacks-iran.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-04-07-18-37-19 +0000",
-    "source": "bbc",
-    "headline": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
-    "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 14,
@@ -49,24 +14,38 @@
     "link": "https://www.wsj.com/politics/policy/the-white-house-is-keeping-kristi-noems-70-million-jet-547438aa"
   },
   {
-    "score": 14,
-    "pubdate": "2026-04-07-18-43-16 +0000",
+    "score": 12,
+    "pubdate": "2026-04-07-19-06-36 +0000",
     "source": "nyt",
-    "headline": "Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline",
-    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
+    "headline": "U.S. Warns of Cyberattacks Tied to Iran on Water and Energy Systems",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/us-cyberattacks-iran.html"
   },
   {
-    "score": 14,
-    "pubdate": "2026-04-07-18-59-18 +0000",
-    "source": "nypost",
-    "headline": "Iranian terror mastermind’s niece launches shameless bid to escape hellhole ICE jail: ‘She scares me’",
-    "link": "https://nypost.com/2026/04/07/us-news/hamideh-soleimani-afshar-qasem-soleimanis-niece-rejected-by-ex-in-ice-call/"
+    "score": 8,
+    "pubdate": "2026-04-07-19-09-43 +0000",
+    "source": "missionlocal",
+    "headline": "S.F. supervisor Jackie Fielder will take leave of absence through June 30",
+    "link": "https://missionlocal.org/2026/04/sf-jackie-fielder-leave-of-absence/"
   },
   {
-    "score": 14,
-    "pubdate": "2026-04-07-18-39-00 +0000",
-    "source": "nypost",
-    "headline": "Mamdani opens luxe $241M hospital ward for inmates— complete with basketball court —as he pushes to close Rikers",
-    "link": "https://nypost.com/2026/04/07/us-news/mamdani-opens-luxe-241-million-bellevue-hospital-ward-for-inmates-as-he-pushes-to-close-rikers/"
+    "score": 7,
+    "pubdate": "2026-04-07-19-14-03 +0000",
+    "source": "nyt",
+    "headline": "U.S., Israel and Iran Accelerate Strikes Ahead of Trump’s Deadline",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/us-israel-strikes-iran.html"
+  },
+  {
+    "score": 3,
+    "pubdate": "2026-04-07-19-12-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Futures Mixed Ahead of Trump’s Iran Deadline",
+    "link": "https://www.wsj.com/finance/commodities-futures/iran-war-will-keep-oil-prices-high-through-2q-westpac-says-52d108a9?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-04-07-19-06-36 +0000",
+    "source": "nyt",
+    "headline": "U.S. Warns of Cyberattacks Tied to Iran on Water and Energy Systems",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/us-cyberattacks-iran.html"
   }
 ]
