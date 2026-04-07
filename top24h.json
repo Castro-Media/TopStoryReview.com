@@ -1,38 +1,45 @@
 [
   {
-    "score": 343,
+    "score": 362,
     "pubdate": "2026-04-07-11-00-00 +0000",
     "source": "wsj",
     "headline": "As Trump threatens a major escalation in Iran, some Republicans have set a deadline: They say by law he must seek the approval of Congress if military operations in Iran go beyond 60 to 90 days",
     "link": "https://www.wsj.com/politics/some-republicans-set-their-own-deadline-on-iran-war-its-getting-close-29425fa0"
   },
   {
-    "score": 117,
+    "score": 122,
     "pubdate": "2026-04-07-08-15-00 +0000",
     "source": "wsj",
     "headline": "China Caps Rise in Fuel Prices as Middle East War Drives Up Energy Costs",
     "link": "https://www.wsj.com/finance/commodities-futures/china-caps-rise-in-fuel-prices-as-middle-east-war-drives-up-energy-costs-43973645?mod=rss_markets_main"
   },
   {
-    "score": 64,
-    "pubdate": "2026-04-06-18-00-13 +0000",
-    "source": "nyt",
-    "headline": "A New Oil Shock Accelerates a Return to Nuclear Power",
-    "link": "https://www.nytimes.com/2026/04/06/business/nuclear-energy-iran-war.html"
+    "score": 70,
+    "pubdate": "2026-04-07-12-14-23 +0000",
+    "source": "nypost",
+    "headline": "US strikes Iran’s oil-critical Kharg Island — as Trump warns ‘whole civilization will die’",
+    "link": "https://nypost.com/2026/04/07/world-news/us-strikes-irans-oil-critical-kharg-island-regime-threatens-restraint-is-over/"
   },
   {
-    "score": 58,
+    "score": 57,
     "pubdate": "2026-04-07-04-26-59 +0000",
     "source": "nyt",
     "headline": "Trump Calls Artemis II Astronauts After Their Historic Journey Around the Moon",
     "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-nasa-artemis-astronauts-moon.html"
   },
   {
-    "score": 54,
-    "pubdate": "2026-04-07-05-43-44 +0000",
+    "score": 57,
+    "pubdate": "2026-04-06-23-24-00 +0000",
+    "source": "wsj",
+    "headline": "A new Goldman Sachs report analyzing past technology waves warns AI-displaced workers face potentially steep economic pain",
+    "link": "https://www.wsj.com/economy/jobs/ai-displaced-workers-could-face-long-setbacks-report-finds-57ef1356"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-04-07-01-41-34 +0000",
     "source": "nypost",
-    "headline": "Son of Gilgo Beach victim files wrongful death lawsuit against Rex Heuermann, ex-wife, and daughter days before expected guilty plea",
-    "link": "https://nypost.com/2026/04/07/us-news/son-of-gilgo-beach-victim-files-wrongful-death-lawsuit-against-rex-heuermann-ex-wife-and-daughter-days-before-expected-guilty-plea/"
+    "headline": "Death threats force Nick Shirley to hire security: ‘They killed Charlie Kirk’",
+    "link": "https://nypost.com/2026/04/06/media/death-threats-force-nick-shirley-to-hire-security-they-killed-charlie-kirk/"
   },
   {
     "score": 53,
@@ -43,30 +50,23 @@
   },
   {
     "score": 52,
-    "pubdate": "2026-04-06-19-11-20 +0000",
-    "source": "bbc",
-    "headline": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
-    "link": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-04-06-17-11-07 +0000",
-    "source": "nyt",
-    "headline": "Do You Have Questions About a No-Bid Federal Contract? Tell Us Here.",
-    "link": "https://www.nytimes.com/2026/04/06/us/politics/no-bid-federal-contract.html"
+    "pubdate": "2026-04-06-21-03-16 +0000",
+    "source": "wapo",
+    "headline": "Trump threatens to attack bridges, power plants as deadline for Iran deal nears",
+    "link": "https://www.washingtonpost.com/national-security/2026/04/06/trump-us-iran-war-rescue-airman/"
   },
   {
     "score": 48,
-    "pubdate": "2026-04-07-07-19-27 +0000",
-    "source": "bbc",
-    "headline": "Australia's most-decorated living soldier charged over alleged war crimes",
-    "link": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-04-07-05-13-21 +0000",
+    "pubdate": "2026-04-07-05-43-44 +0000",
     "source": "nypost",
-    "headline": "Vital 15-mile bridge linking Saudi Arabia to Bahrain closed over Iranian threats as Trump’s deadline nears",
-    "link": "https://nypost.com/2026/04/07/world-news/king-fahd-bridge-linking-saudi-arabia-to-bahrain-closed-over-iranian-threats-as-trumps-deadline-nears/"
+    "headline": "Son of Gilgo Beach victim files wrongful death lawsuit against Rex Heuermann, ex-wife, and daughter days before expected guilty plea",
+    "link": "https://nypost.com/2026/04/07/us-news/son-of-gilgo-beach-victim-files-wrongful-death-lawsuit-against-rex-heuermann-ex-wife-and-daughter-days-before-expected-guilty-plea/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-04-07-10-57-44 +0000",
+    "source": "bbc",
+    "headline": "JD Vance arrives in Hungary to back Orbán's re-election bid",
+    "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss"
   }
 ]
