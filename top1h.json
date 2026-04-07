@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 33,
+    "pubdate": "2026-04-07-09-04-31 +0000",
+    "source": "nyt",
+    "headline": "Ukraine Ramps Up Attacks on Russian Oil, Aiming to Curb Iran War Windfall",
+    "link": "https://www.nytimes.com/2026/04/07/world/europe/ukraine-attacks-russian-oil-exports.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-04-07-09-00-00 +0000",
+    "source": "wsj",
+    "headline": "The American Gas Exporter That Pulls In Billions During Energy Shocks",
+    "link": "https://www.wsj.com/business/energy-oil/the-american-gas-exporter-that-pulls-in-billions-during-energy-shocks-6d4ec77d?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-04-07-09-08-53 +0000",
+    "source": "nyt",
+    "headline": "Vance Visits Hungary to Boost Orban Before Election",
+    "link": "https://www.nytimes.com/2026/04/07/world/europe/vance-hungary-orban-fidesz-election.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-07-09-03-40 +0000",
+    "source": "nyt",
+    "headline": "Fact-Checking Republicans’ Misleading Claims About Problematic Elections",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-mail-voting-elections-fact-check.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-07-09-02-19 +0000",
+    "source": "nyt",
+    "headline": "Europe’s Museums Confront the (Literal) Skeletons in Their Closets",
+    "link": "https://www.nytimes.com/2026/04/07/arts/europe-museums-human-remains-museum-vrolik.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-07-08-40-38 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Trump’s Deadline Draws Closer With No Sign of Diplomatic Breakthrough",
+    "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-07-09-03-56 +0000",
+    "source": "nyt",
+    "headline": "What to Watch in the Election to Succeed Marjorie Taylor Greene in Georgia",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/marjorie-taylor-greene-election-georgia.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-07-08-57-48 +0000",
+    "source": "nyt",
+    "headline": "Weakened and Reluctant, Yemen’s Houthis Belatedly Enter War",
+    "link": "https://www.nytimes.com/2026/04/07/world/middleeast/houthis-iran-yemen-war.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-07-08-43-33 +0000",
+    "source": "nypost",
+    "headline": "Iran calls on its youth to form human chains around power plants after Trump warns of ‘complete demolition’",
+    "link": "https://nypost.com/2026/04/07/world-news/iran-calls-on-its-youth-to-form-human-chains-around-power-plants-after-trump-warns-of-complete-demolition/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-07-09-07-02 +0000",
+    "source": "nyt",
+    "headline": "Bill Ackman’s Fund Offers to Buy Universal Music in $64 Billion Deal",
+    "link": "https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html"
+  }
+]
