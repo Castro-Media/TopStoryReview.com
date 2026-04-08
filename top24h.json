@@ -1,6 +1,6 @@
 [
   {
-    "score": 441,
+    "score": 438,
     "pubdate": "2026-04-07-23-26-00 +0000",
     "source": "wsj",
     "headline": "As Trump threatens a major escalation in Iran, some Republicans have set a deadline: They say by law he must seek the approval of Congress if military operations in Iran go beyond 60 to 90 days",
@@ -14,7 +14,7 @@
     "link": "https://www.wsj.com/world/middle-east/trump-backs-off-threat-to-level-iran-04229daf"
   },
   {
-    "score": 135,
+    "score": 128,
     "pubdate": "2026-04-07-16-07-18 +0000",
     "source": "nypost",
     "headline": "Russia, China reject resolution to reopen Strait of Hormuz, as Iran’s ambassador warns of retaliation against US for ‘egregious war crimes’",
@@ -28,18 +28,18 @@
     "link": "https://www.wsj.com/politics/elections/republican-clayton-fuller-wins-marjorie-taylor-greenes-georgia-seat-in-runoff-43f9c4ad"
   },
   {
-    "score": 69,
-    "pubdate": "2026-04-08-03-38-57 +0000",
-    "source": "nypost",
-    "headline": "Gas pain won’t pump the brakes as Californians stuck paying sky-high prices even as oil plunges",
-    "link": "https://nypost.com/2026/04/07/us-news/gas-pain-wont-pump-the-brakes-as-californians-stuck-paying-sky-high-prices-even-as-oil-plunges/"
-  },
-  {
     "score": 67,
     "pubdate": "2026-04-07-17-47-20 +0000",
     "source": "nypost",
     "headline": "The secret, never-before-used CIA tool that helped find airman downed in Iran: ‘If your heart is beating, we will find you’",
     "link": "https://nypost.com/2026/04/07/us-news/ghost-murmur-a-never-used-secret-tool-deployed-to-find-lost-airman-in-iran-in-daring-mission/"
+  },
+  {
+    "score": 67,
+    "pubdate": "2026-04-08-03-38-57 +0000",
+    "source": "nypost",
+    "headline": "Gas pain won’t pump the brakes as Californians stuck paying sky-high prices even as oil plunges",
+    "link": "https://nypost.com/2026/04/07/us-news/gas-pain-wont-pump-the-brakes-as-californians-stuck-paying-sky-high-prices-even-as-oil-plunges/"
   },
   {
     "score": 63,
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2026/04/07/us-news/california-would-fund-lawyers-for-all-illegal-immigrants-under-new-bill/"
   },
   {
-    "score": 59,
-    "pubdate": "2026-04-07-19-32-22 +0000",
-    "source": "nyt",
-    "headline": "U.S. Strikes Kharg Island as Trump Raises Iran Threats to Apocalyptic Levels",
-    "link": "https://www.nytimes.com/2026/04/07/us/politics/us-israel-iran-strikes-kharg-trump.html"
-  },
-  {
     "score": 58,
     "pubdate": "2026-04-07-15-40-00 +0000",
     "source": "wsj",
     "headline": "Kanye West Banned From Visiting U.K. for Festival, Forcing Organizer to Cancel Event",
     "link": "https://www.wsj.com/business/media/kanye-west-banned-from-visiting-u-k-for-festival-forcing-organizers-to-cancel-event-8a0f0292?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 58,
+    "pubdate": "2026-04-07-19-32-22 +0000",
+    "source": "nyt",
+    "headline": "U.S. Strikes Kharg Island as Trump Raises Iran Threats to Apocalyptic Levels",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/us-israel-iran-strikes-kharg-trump.html"
   }
 ]
