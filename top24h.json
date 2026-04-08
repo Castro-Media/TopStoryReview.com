@@ -1,45 +1,38 @@
 [
   {
-    "score": 438,
+    "score": 440,
     "pubdate": "2026-04-07-23-26-00 +0000",
     "source": "wsj",
     "headline": "As Trump threatens a major escalation in Iran, some Republicans have set a deadline: They say by law he must seek the approval of Congress if military operations in Iran go beyond 60 to 90 days",
     "link": "https://www.wsj.com/politics/some-republicans-set-their-own-deadline-on-iran-war-its-getting-close-29425fa0"
   },
   {
-    "score": 155,
+    "score": 165,
     "pubdate": "2026-04-08-03-58-00 +0000",
     "source": "wsj",
     "headline": "Trump backed off a threat to wipe out the Iranian civilization, saying he agreed to a two-week cease-fire deal with Iran in hopes the countries will be able to finalize a long-term peace agreement",
     "link": "https://www.wsj.com/world/middle-east/trump-backs-off-threat-to-level-iran-04229daf"
   },
   {
-    "score": 128,
+    "score": 109,
     "pubdate": "2026-04-07-16-07-18 +0000",
     "source": "nypost",
     "headline": "Russia, China reject resolution to reopen Strait of Hormuz, as Iran’s ambassador warns of retaliation against US for ‘egregious war crimes’",
     "link": "https://nypost.com/2026/04/07/us-news/russia-china-torpedo-un-security-council-resolution-to-reopen-strait-of-hormuz/"
   },
   {
-    "score": 89,
+    "score": 92,
+    "pubdate": "2026-04-08-03-38-57 +0000",
+    "source": "nypost",
+    "headline": "You’ll still pay sky-high gas prices in California despite ceasefire, here’s why",
+    "link": "https://nypost.com/2026/04/07/us-news/gas-pain-wont-pump-the-brakes-as-californians-stuck-paying-sky-high-prices-even-as-oil-plunges/"
+  },
+  {
+    "score": 82,
     "pubdate": "2026-04-08-01-53-00 +0000",
     "source": "wsj",
     "headline": "Republican Clayton Fuller won the special election for Georgia’s 14th Congressional District, formerly held by Marjorie Taylor Greene",
     "link": "https://www.wsj.com/politics/elections/republican-clayton-fuller-wins-marjorie-taylor-greenes-georgia-seat-in-runoff-43f9c4ad"
-  },
-  {
-    "score": 67,
-    "pubdate": "2026-04-07-17-47-20 +0000",
-    "source": "nypost",
-    "headline": "The secret, never-before-used CIA tool that helped find airman downed in Iran: ‘If your heart is beating, we will find you’",
-    "link": "https://nypost.com/2026/04/07/us-news/ghost-murmur-a-never-used-secret-tool-deployed-to-find-lost-airman-in-iran-in-daring-mission/"
-  },
-  {
-    "score": 67,
-    "pubdate": "2026-04-08-03-38-57 +0000",
-    "source": "nypost",
-    "headline": "Gas pain won’t pump the brakes as Californians stuck paying sky-high prices even as oil plunges",
-    "link": "https://nypost.com/2026/04/07/us-news/gas-pain-wont-pump-the-brakes-as-californians-stuck-paying-sky-high-prices-even-as-oil-plunges/"
   },
   {
     "score": 63,
@@ -50,17 +43,10 @@
   },
   {
     "score": 61,
-    "pubdate": "2026-04-08-03-54-35 +0000",
+    "pubdate": "2026-04-07-17-47-20 +0000",
     "source": "nypost",
-    "headline": "California would fund lawyers for all illegal immigrants under new bill",
-    "link": "https://nypost.com/2026/04/07/us-news/california-would-fund-lawyers-for-all-illegal-immigrants-under-new-bill/"
-  },
-  {
-    "score": 58,
-    "pubdate": "2026-04-07-15-40-00 +0000",
-    "source": "wsj",
-    "headline": "Kanye West Banned From Visiting U.K. for Festival, Forcing Organizer to Cancel Event",
-    "link": "https://www.wsj.com/business/media/kanye-west-banned-from-visiting-u-k-for-festival-forcing-organizers-to-cancel-event-8a0f0292?mod=pls_whats_news_us_business_f"
+    "headline": "The secret, never-before-used CIA tool that helped find airman downed in Iran: ‘If your heart is beating, we will find you’",
+    "link": "https://nypost.com/2026/04/07/us-news/ghost-murmur-a-never-used-secret-tool-deployed-to-find-lost-airman-in-iran-in-daring-mission/"
   },
   {
     "score": 58,
@@ -68,5 +54,19 @@
     "source": "nyt",
     "headline": "U.S. Strikes Kharg Island as Trump Raises Iran Threats to Apocalyptic Levels",
     "link": "https://www.nytimes.com/2026/04/07/us/politics/us-israel-iran-strikes-kharg-trump.html"
+  },
+  {
+    "score": 58,
+    "pubdate": "2026-04-07-21-08-01 +0000",
+    "source": "nyt",
+    "headline": "‘Definitely a Sham’: As Tariffs Climb, Trade Fraud and Accounting Tricks Proliferate",
+    "link": "https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-04-07-18-11-38 +0000",
+    "source": "bbc",
+    "headline": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
+    "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss"
   }
 ]
