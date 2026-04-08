@@ -1,6 +1,6 @@
 [
   {
-    "score": 783,
+    "score": 800,
     "pubdate": "2026-04-07-23-26-00 +0000",
     "source": "wsj",
     "headline": "As Trump threatens a major escalation in Iran, some Republicans have set a deadline: They say by law he must seek the approval of Congress if military operations in Iran go beyond 60 to 90 days",
@@ -14,21 +14,21 @@
     "link": "https://www.wsj.com/world/middle-east/trump-backs-off-threat-to-level-iran-04229daf"
   },
   {
-    "score": 198,
+    "score": 208,
     "pubdate": "2026-04-07-09-04-31 +0000",
     "source": "nyt",
     "headline": "Ukraine Ramps Up Attacks on Russian Oil, Aiming to Curb Iran War Windfall",
     "link": "https://www.nytimes.com/2026/04/07/world/europe/ukraine-attacks-russian-oil-exports.html"
   },
   {
-    "score": 163,
+    "score": 157,
     "pubdate": "2026-04-08-18-25-24 +0000",
     "source": "nyt",
     "headline": "Gas Prices Won’t Quickly Return to Prewar Levels, Even if the Strait of Hormuz Reopens",
     "link": "https://www.nytimes.com/2026/04/08/business/energy-environment/iran-war-oil-gas-prices-energy.html"
   },
   {
-    "score": 138,
+    "score": 142,
     "pubdate": "2026-04-02-22-46-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth ousted the Army’s top general Thursday, the latest top military leader removed in a Pentagon that has seen a purge of its top ranks under the Trump administration",
@@ -42,21 +42,14 @@
     "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 118,
+    "score": 117,
     "pubdate": "2026-04-08-03-54-35 +0000",
     "source": "nypost",
     "headline": "California would fund lawyers for all illegal immigrants under new bill",
     "link": "https://nypost.com/2026/04/07/us-news/california-would-fund-lawyers-for-all-illegal-immigrants-under-new-bill/"
   },
   {
-    "score": 103,
-    "pubdate": "2026-04-08-18-07-15 +0000",
-    "source": "nypost",
-    "headline": "Killer FedEx driver first told police Athena Strand, 7, was dead when he stuffed her in his truck, chilling bodycam video shows",
-    "link": "https://nypost.com/2026/04/08/us-news/killer-fedex-driver-told-police-athena-strand-7-was-dead-when-he-stuffed-her-in-his-truck-chilling-bodycam-video-shows/"
-  },
-  {
-    "score": 81,
+    "score": 86,
     "pubdate": "2026-04-07-20-20-00 +0000",
     "source": "wsj",
     "headline": "Vance Seeks to Boost Hungary’s Viktor Orbán in Tough Re-Election Fight",
@@ -64,9 +57,16 @@
   },
   {
     "score": 74,
-    "pubdate": "2026-04-03-19-22-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump released a summary of his budget proposal for the 2027 fiscal year, seeking $1.5 trillion in defense spending, by far the largest dollar amount in modern history",
-    "link": "https://www.wsj.com/politics/policy/trump-budget-proposal-calls-for-1-5-trillion-in-defense-spending-44a9e7ed"
+    "pubdate": "2026-04-03-21-53-13 +0000",
+    "source": "latimes",
+    "headline": "'Beautiful family' shattered as Pomona couple expecting first child killed in police pursuit",
+    "link": "https://www.latimes.com/california/story/2026-04-03/pomona-couple-killed-police-chase-expecting-first-baby"
+  },
+  {
+    "score": 74,
+    "pubdate": "2026-04-08-15-28-25 +0000",
+    "source": "cbc",
+    "headline": "Lebanon death toll surpasses 200 after Israel launches assault despite U.S.-Iran ceasefire",
+    "link": "https://www.cbc.ca/news/world/israel-lebanon-military-campaign-ceasefire-9.7156168?cmp=rss"
   }
 ]
