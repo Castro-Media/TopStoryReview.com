@@ -852,6 +852,12 @@
     "pubdate": "2026-04-08-10-00-00 +0000"
   },
   {
+    "headline": "Trump administration expected to slash Iran war funding request",
+    "link": "https://www.washingtonpost.com/national-security/2026/04/07/trump-iran-war-funding/",
+    "source": "wapo",
+    "pubdate": "2026-04-08-10-00-00 +0000"
+  },
+  {
     "headline": "How a 2003 school shooting is influencing the Minnesota House speaker’s response to Annunciation",
     "link": "https://www.startribune.com/how-a-2003-school-shooting-is-influencing-the-minnesota-house-speakers-response-to-annunciation/601658449",
     "source": "startribune",
@@ -867,12 +873,6 @@
     "headline": "AI boom catapults San Francisco median home price above $2 million",
     "link": "https://www.latimes.com/business/story/2026-04-08/ai-boom-catapults-san-francisco-median-home-price-above-2-million",
     "source": "latimes",
-    "pubdate": "2026-04-08-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump administration expected to slash Iran war funding request",
-    "link": "https://www.washingtonpost.com/national-security/2026/04/07/trump-iran-war-funding/",
-    "source": "wapo",
     "pubdate": "2026-04-08-10-00-00 +0000"
   },
   {
@@ -1423,13 +1423,13 @@
   },
   {
     "headline": "Asian Markets Stage Relief Rally, Oil Drops on Trump-Iran Cease-Fire",
-    "link": "https://www.wsj.com/finance/stocks/asian-markets-stage-relief-rally-oil-drops-on-trump-iran-cease-fire-8e496873?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/stocks/asian-markets-stage-relief-rally-oil-drops-on-trump-iran-cease-fire-8e496873",
     "source": "wsj",
     "pubdate": "2026-04-08-01-32-00 +0000"
   },
   {
     "headline": "Asian Markets Stage Relief Rally, Oil Drops on Trump-Iran Cease-Fire",
-    "link": "https://www.wsj.com/finance/stocks/asian-markets-stage-relief-rally-oil-drops-on-trump-iran-cease-fire-8e496873",
+    "link": "https://www.wsj.com/finance/stocks/asian-markets-stage-relief-rally-oil-drops-on-trump-iran-cease-fire-8e496873?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-08-01-32-00 +0000"
   },
@@ -1494,14 +1494,14 @@
     "pubdate": "2026-04-08-01-10-46 +0000"
   },
   {
-    "headline": "Insurers’ $1 Trillion Buildup in Private Credit Is Leaving Regulators in the Dust",
-    "link": "https://www.wsj.com/finance/regulation/insurers-1-trillion-buildup-in-private-credit-is-leaving-regulators-in-the-dust-5f84cad8?mod=rss_markets_main",
+    "headline": "After Five Weeks of Airstrikes, Travelers Are Adapting to Flying in Wartime",
+    "link": "https://www.wsj.com/world/middle-east-commercial-flights-war-77ae999d",
     "source": "wsj",
     "pubdate": "2026-04-08-01-00-00 +0000"
   },
   {
-    "headline": "After Five Weeks of Airstrikes, Travelers Are Adapting to Flying in Wartime",
-    "link": "https://www.wsj.com/world/middle-east-commercial-flights-war-77ae999d",
+    "headline": "Insurers’ $1 Trillion Buildup in Private Credit Is Leaving Regulators in the Dust",
+    "link": "https://www.wsj.com/finance/regulation/insurers-1-trillion-buildup-in-private-credit-is-leaving-regulators-in-the-dust-5f84cad8?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-08-01-00-00 +0000"
   },
@@ -1681,13 +1681,13 @@
   },
   {
     "headline": "U.S. Stock Futures Surge After Trump Discloses Cease-Fire",
-    "link": "https://www.wsj.com/finance/stocks/oil-climbs-higher-again-u-s-futures-slide-as-iran-deadline-approaches-71a154c7?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/stocks/oil-climbs-higher-again-u-s-futures-slide-as-iran-deadline-approaches-71a154c7",
     "source": "wsj",
     "pubdate": "2026-04-07-23-31-00 +0000"
   },
   {
     "headline": "U.S. Stock Futures Surge After Trump Discloses Cease-Fire",
-    "link": "https://www.wsj.com/finance/stocks/oil-climbs-higher-again-u-s-futures-slide-as-iran-deadline-approaches-71a154c7",
+    "link": "https://www.wsj.com/finance/stocks/oil-climbs-higher-again-u-s-futures-slide-as-iran-deadline-approaches-71a154c7?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-07-23-31-00 +0000"
   },
@@ -2119,13 +2119,13 @@
   },
   {
     "headline": "Opinion | Robert Mueller and Trump II",
-    "link": "https://www.wsj.com/opinion/robert-mueller-and-trump-ii-d50e5d39?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/robert-mueller-and-trump-ii-d50e5d39",
     "source": "wsj",
     "pubdate": "2026-04-07-21-25-00 +0000"
   },
   {
     "headline": "Opinion | Robert Mueller and Trump II",
-    "link": "https://www.wsj.com/opinion/robert-mueller-and-trump-ii-d50e5d39",
+    "link": "https://www.wsj.com/opinion/robert-mueller-and-trump-ii-d50e5d39?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-07-21-25-00 +0000"
   },
@@ -2328,14 +2328,14 @@
     "pubdate": "2026-04-07-20-21-12 +0000"
   },
   {
-    "headline": "Opinion | High Gasoline Prices Signal Trouble to Older Americans",
-    "link": "https://www.wsj.com/opinion/high-gasoline-prices-signal-trouble-to-older-americans-82e2bd2f?mod=pls_whats_news_us_business_f",
+    "headline": "Vance Seeks to Boost Hungary’s Viktor Orbán in Tough Re-Election Fight",
+    "link": "https://www.wsj.com/world/europe/vance-seeks-to-boost-hungarys-orban-in-tough-re-election-fight-1d3fe4f8",
     "source": "wsj",
     "pubdate": "2026-04-07-20-20-00 +0000"
   },
   {
-    "headline": "Vance Seeks to Boost Hungary’s Viktor Orbán in Tough Re-Election Fight",
-    "link": "https://www.wsj.com/world/europe/vance-seeks-to-boost-hungarys-orban-in-tough-re-election-fight-1d3fe4f8",
+    "headline": "Opinion | High Gasoline Prices Signal Trouble to Older Americans",
+    "link": "https://www.wsj.com/opinion/high-gasoline-prices-signal-trouble-to-older-americans-82e2bd2f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-07-20-20-00 +0000"
   },
@@ -2965,19 +2965,19 @@
   },
   {
     "headline": "Kanye West Banned From Visiting U.K. for Festival, Forcing Organizer to Cancel Event",
-    "link": "https://www.wsj.com/business/media/kanye-west-banned-from-visiting-u-k-for-festival-forcing-organizers-to-cancel-event-8a0f0292?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-07-15-40-00 +0000"
-  },
-  {
-    "headline": "Kanye West Banned From Visiting U.K. for Festival, Forcing Organizer to Cancel Event",
-    "link": "https://www.wsj.com/business/media/kanye-west-banned-from-visiting-u-k-for-festival-forcing-organizers-to-cancel-event-8a0f0292?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-07-15-40-00 +0000"
-  },
-  {
-    "headline": "Kanye West Banned From Visiting U.K. for Festival, Forcing Organizer to Cancel Event",
     "link": "https://www.wsj.com/business/media/kanye-west-banned-from-visiting-u-k-for-festival-forcing-organizers-to-cancel-event-8a0f0292",
+    "source": "wsj",
+    "pubdate": "2026-04-07-15-40-00 +0000"
+  },
+  {
+    "headline": "Kanye West Banned From Visiting U.K. for Festival, Forcing Organizer to Cancel Event",
+    "link": "https://www.wsj.com/business/media/kanye-west-banned-from-visiting-u-k-for-festival-forcing-organizers-to-cancel-event-8a0f0292?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-07-15-40-00 +0000"
+  },
+  {
+    "headline": "Kanye West Banned From Visiting U.K. for Festival, Forcing Organizer to Cancel Event",
+    "link": "https://www.wsj.com/business/media/kanye-west-banned-from-visiting-u-k-for-festival-forcing-organizers-to-cancel-event-8a0f0292?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-07-15-40-00 +0000"
   },
@@ -2998,113 +2998,5 @@
     "link": "https://www.bbc.com/news/articles/c62je52dpylo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-07-15-20-22 +0000"
-  },
-  {
-    "headline": "Iranian civilians voice fear and fatigue as U.S. escalates conflict",
-    "link": "https://www.washingtonpost.com/world/2026/04/07/iran-war-fears-trump-infrastructure-economy-attacks/",
-    "source": "wapo",
-    "pubdate": "2026-04-07-15-07-15 +0000"
-  },
-  {
-    "headline": "Bahamas police search for US woman who reportedly fell off boat",
-    "link": "https://www.bbc.com/news/articles/ckg9yxpdxlgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-07-15-02-10 +0000"
-  },
-  {
-    "headline": "The American Gas Exporter That Pulls In Billions During Energy Shocks",
-    "link": "https://www.wsj.com/business/energy-oil/venture-global-stock-energy-shock-iran-6d4ec77d?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-07-15-02-00 +0000"
-  },
-  {
-    "headline": "The American Gas Exporter That Pulls In Billions During Energy Shocks",
-    "link": "https://www.wsj.com/business/energy-oil/venture-global-stock-energy-shock-iran-6d4ec77d",
-    "source": "wsj",
-    "pubdate": "2026-04-07-15-02-00 +0000"
-  },
-  {
-    "headline": "How to Look Up in a Down Market",
-    "link": "https://www.wsj.com/finance/investing/how-to-look-up-in-a-down-market-fcfd2147?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-07-14-55-00 +0000"
-  },
-  {
-    "headline": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
-    "link": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-07-14-53-18 +0000"
-  },
-  {
-    "headline": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
-    "link": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-07-14-51-07 +0000"
-  },
-  {
-    "headline": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
-    "link": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-07-14-51-07 +0000"
-  },
-  {
-    "headline": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
-    "link": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-07-14-51-07 +0000"
-  },
-  {
-    "headline": "Europe’s Museums Confront the (Literal) Skeletons in Their Closets",
-    "link": "https://www.nytimes.com/2026/04/07/arts/europe-museums-human-remains-museum-vrolik.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-14-47-05 +0000"
-  },
-  {
-    "headline": "Europe’s Museums Confront the (Literal) Skeletons in Their Closets",
-    "link": "https://www.nytimes.com/2026/04/07/arts/europe-museums-human-remains-museum-vrolik.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-14-47-05 +0000"
-  },
-  {
-    "headline": "Kim Jong-un’s Daughter Drives a Tank as Talk Accelerates Around North Korea Succession",
-    "link": "https://www.nytimes.com/2026/04/07/world/asia/north-korea-kim-jong-un-daughter-tank.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-14-42-45 +0000"
-  },
-  {
-    "headline": "Kim Jong-un’s Daughter Drives a Tank as Talk Accelerates Around North Korea Succession",
-    "link": "https://www.nytimes.com/2026/04/07/world/asia/north-korea-kim-jong-un-daughter-tank.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-14-42-45 +0000"
-  },
-  {
-    "headline": "Trump delays Iran infrastructure strike by 2 weeks after threat to level 'whole civilization'",
-    "link": "https://www.latimes.com/politics/story/2026-04-07/trumps-message-to-iran-on-deadline-day-a-whole-civilization-will-die-tonight",
-    "source": "latimes",
-    "pubdate": "2026-04-07-14-31-48 +0000"
-  },
-  {
-    "headline": "UnitedHealth stock surges after Medicare Advantage rate boost",
-    "link": "https://nypost.com/2026/04/07/business/unitedhealth-stock-jumps-after-medicare-advantage-rate-boost/",
-    "source": "nypost",
-    "pubdate": "2026-04-07-14-28-35 +0000"
-  },
-  {
-    "headline": "A Hidden Russian Hand in Hungary’s Election? Actually, It’s Quite Open.",
-    "link": "https://www.nytimes.com/2026/04/06/world/europe/viktor-orban-hungary-election-russia.html",
-    "source": "nyt",
-    "pubdate": "2026-04-07-14-28-30 +0000"
-  },
-  {
-    "headline": "Kanye West controversies - how did we get here?",
-    "link": "https://www.bbc.com/news/articles/c9vl1pn70ddo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-07-14-25-46 +0000"
-  },
-  {
-    "headline": "Bill Ackman launches $65B bid for Taylor Swift’s label Universal Music",
-    "link": "https://nypost.com/2026/04/07/business/bill-ackman-launches-65b-bid-for-taylor-swifts-label-universal-music/",
-    "source": "nypost",
-    "pubdate": "2026-04-07-14-24-28 +0000"
   }
 ]
