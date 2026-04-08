@@ -1,116 +1,242 @@
 [
   {
-    "headline": "Israel Says Iran Cease-Fire Does Not Extend to Lebanon",
-    "link": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-lebanon-israel-hezbollah.html",
+    "headline": "What do businesses want ahead of the election?",
+    "link": "https://www.bbc.com/news/videos/ckgr4r9k2dqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-08-10-15-36 +0000"
+  },
+  {
+    "headline": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d88f8564?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-08-10-13-00 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c194b425?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-08-10-10-00 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: Fragile Cease-Fire Takes Hold as Both Sides Claim Victory",
+    "link": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news",
     "source": "nyt",
-    "pubdate": "2026-04-08-09-11-59 +0000"
+    "pubdate": "2026-04-08-10-08-51 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-08-10-04-58 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-08-10-04-58 +0000"
+  },
+  {
+    "headline": "Israel strikes southern Lebanon after US-Iran ceasefire",
+    "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-08-10-04-36 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-89b8e6fb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-08-10-02-00 +0000"
+  },
+  {
+    "headline": "Trump’s labor plan is a massive 401(k) greed grab for Wall Street",
+    "link": "https://www.washingtonpost.com/business/2026/04/08/retirement-savings-crypto/",
+    "source": "wapo",
+    "pubdate": "2026-04-08-10-00-10 +0000"
+  },
+  {
+    "headline": "Rudy Giluiani tells ‘Pod Force One’ about RICO case he had prepared for ‘point man’ Joe Biden",
+    "link": "https://nypost.com/2026/04/08/us-news/rudy-giluiani-tells-pod-force-one-about-rico-case-he-had-prepared-for-point-man-joe-biden/",
+    "source": "nypost",
+    "pubdate": "2026-04-08-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: In Texas and beyond, a political impulse: If you don't like it, leave",
+    "link": "https://www.latimes.com/politics/story/2026-04-08/texas-expansion-new-mexico-secession",
+    "source": "latimes",
+    "pubdate": "2026-04-08-10-00-00 +0000"
+  },
+  {
+    "headline": "Rudy Giluiani tells ‘Pod Force One’ about RICO case he had prepared for ‘point man’ Joe Biden",
+    "link": "https://nypost.com/2026/04/08/us-news/rudy-giluiani-tells-pod-force-one-about-rico-case-he-had-prepared-for-point-man-joe-biden/",
+    "source": "nypost",
+    "pubdate": "2026-04-08-10-00-00 +0000"
+  },
+  {
+    "headline": "Here’s the gross reason accused Gilgo Beach serial killer Rex Heuermann has been hobbling on crutches",
+    "link": "https://nypost.com/2026/04/08/us-news/heres-the-gross-reason-accused-gilgo-beach-serial-killer-rex-heuermann-has-been-hobbling-on-crutches/",
+    "source": "nypost",
+    "pubdate": "2026-04-08-10-00-00 +0000"
+  },
+  {
+    "headline": "Mayor Bass has a new goal for the LAPD: Forget growing, just stop shrinking",
+    "link": "https://www.latimes.com/california/story/2026-04-08/mayor-karen-bass-lapd-staffing-goal",
+    "source": "latimes",
+    "pubdate": "2026-04-08-10-00-00 +0000"
+  },
+  {
+    "headline": "Owners keep thousands of San Diego homes vacant despite high rents. They could soon be taxed",
+    "link": "https://www.latimes.com/california/story/2026-04-08/owners-keep-thousands-of-san-diego-homes-vacant-despite-high-rents-they-could-soon-be-taxed",
+    "source": "latimes",
+    "pubdate": "2026-04-08-10-00-00 +0000"
+  },
+  {
+    "headline": "Tiger Woods is back in the rough. How a dependence on painkillers took down a golf great",
+    "link": "https://www.latimes.com/sports/story/2026-04-08/tiger-woods-dependence-on-painkillers-car-crash-career-jeopardy",
+    "source": "latimes",
+    "pubdate": "2026-04-08-10-00-00 +0000"
+  },
+  {
+    "headline": "AI boom catapults San Francisco median home price above $2 million",
+    "link": "https://www.latimes.com/business/story/2026-04-08/ai-boom-catapults-san-francisco-median-home-price-above-2-million",
+    "source": "latimes",
+    "pubdate": "2026-04-08-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump administration expected to slash Iran war funding request",
+    "link": "https://www.washingtonpost.com/national-security/2026/04/07/trump-iran-war-funding/",
+    "source": "wapo",
+    "pubdate": "2026-04-08-10-00-00 +0000"
+  },
+  {
+    "headline": "Music giant Universal gets $64bn takeover offer",
+    "link": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-08-09-54-45 +0000"
+  },
+  {
+    "headline": "UK house prices fall as Iran war uncertainty dampens demand",
+    "link": "https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-08-09-51-42 +0000"
+  },
+  {
+    "headline": "UK house prices fall as Iran war uncertainty dampens demand",
+    "link": "https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-08-09-51-42 +0000"
+  },
+  {
+    "headline": "TSA urged to bring back controversial airport security rule abandoned last summer: ‘Reckless act’",
+    "link": "https://nypost.com/2026/04/08/us-news/tsa-urged-to-bring-back-controversial-airport-security-rule-reckless-act/",
+    "source": "nypost",
+    "pubdate": "2026-04-08-09-48-04 +0000"
+  },
+  {
+    "headline": "CK Hutchison Starts Arbitration Against Maersk Over Panama Ports",
+    "link": "https://www.wsj.com/business/logistics/ck-hutchison-starts-arbitration-against-maersk-over-panama-ports-fd1d3250?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-08-09-38-00 +0000"
   },
   {
     "headline": "Even as They Praise Iran Cease-Fire, World Leaders Are Whipsawed by Trump",
     "link": "https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html",
     "source": "nyt",
-    "pubdate": "2026-04-08-09-11-34 +0000"
+    "pubdate": "2026-04-08-09-36-38 +0000"
   },
   {
-    "headline": "Oil Market Stays Tight Despite Falling Prices",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-after-trump-agrees-to-two-week-cease-fire-with-iran-567fc387?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-08-09-05-00 +0000"
-  },
-  {
-    "headline": "Georgia, Wisconsin Elections Show Declining Appetite for Republican Candidates",
-    "link": "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html",
+    "headline": "Even as They Praise Iran Cease-Fire, World Leaders Are Whipsawed by Trump",
+    "link": "https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html",
     "source": "nyt",
-    "pubdate": "2026-04-08-09-02-00 +0000"
+    "pubdate": "2026-04-08-09-36-38 +0000"
   },
   {
-    "headline": "Georgia, Wisconsin Elections Show Declining Appetite for Republican Candidates",
-    "link": "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html",
+    "headline": "China Pressed Iran Toward Cease-fire, Iranian Officials Say",
+    "link": "https://www.nytimes.com/2026/04/08/world/asia/china-iran-cease-fire.html",
     "source": "nyt",
-    "pubdate": "2026-04-08-09-02-00 +0000"
+    "pubdate": "2026-04-08-09-36-20 +0000"
   },
   {
-    "headline": "U.S., Iran and Israel Agree to Cease-Fire",
-    "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
+    "headline": "China Pressed Iran Toward Cease-fire, Iranian Officials Say",
+    "link": "https://www.nytimes.com/2026/04/08/world/asia/china-iran-cease-fire.html",
     "source": "nyt",
-    "pubdate": "2026-04-08-09-00-38 +0000"
+    "pubdate": "2026-04-08-09-36-20 +0000"
   },
   {
-    "headline": "Hero rat who sniffed out over 100 land mines is honored with giant statue",
-    "link": "https://www.washingtonpost.com/lifestyle/2026/04/08/rat-cambodia-statue-land-mines-magawa/",
-    "source": "wapo",
-    "pubdate": "2026-04-08-09-00-17 +0000"
-  },
-  {
-    "headline": "When will prices come down for gas, air travel and strawberries?",
-    "link": "https://www.washingtonpost.com/business/2026/04/08/consumer-prices-iran-war/",
-    "source": "wapo",
-    "pubdate": "2026-04-08-09-00-15 +0000"
-  },
-  {
-    "headline": "Stung by Voters, Republican Legislators Move to Curb Citizen Initiatives",
-    "link": "https://www.nytimes.com/2026/04/08/us/politics/republicans-citizen-initiatives.html",
+    "headline": "China Pressed Iran Toward Cease-fire, Iranian Officials Say",
+    "link": "https://www.nytimes.com/2026/04/08/world/asia/china-iran-cease-fire.html",
     "source": "nyt",
-    "pubdate": "2026-04-08-09-00-06 +0000"
+    "pubdate": "2026-04-08-09-36-20 +0000"
   },
   {
-    "headline": "Stung by Voters, Republican Legislators Move to Curb Citizen Initiatives",
-    "link": "https://www.nytimes.com/2026/04/08/us/politics/republicans-citizen-initiatives.html",
-    "source": "nyt",
-    "pubdate": "2026-04-08-09-00-06 +0000"
-  },
-  {
-    "headline": "Thinking about cashing out your 401(k) to pay the IRS? Read this first",
-    "link": "https://nypost.com/business/cashing-out-401k-to-pay-irs-debt/",
+    "headline": "Times Square ball drop to celebrate US’ 250th still going forward — but there ‘will be no public event’",
+    "link": "https://nypost.com/2026/04/08/us-news/times-square-ball-drop-to-celebrate-uss-250th-still-going-forward-but-there-will-be-no-public-event/",
     "source": "nypost",
-    "pubdate": "2026-04-08-09-00-00 +0000"
+    "pubdate": "2026-04-08-09-30-00 +0000"
   },
   {
-    "headline": "U.S. Treasury Yields, Dollar Fall in European Trade",
-    "link": "https://www.wsj.com/finance/currencies/middle-east-ceasefire-triggers-australian-dollar-rally-1423558a?mod=rss_markets_main",
+    "headline": "Why McCormick’s $65 Billion Deal Might Actually Work Out",
+    "link": "https://www.wsj.com/finance/investing/why-mccormicks-65-billion-deal-might-actually-work-out-86700b1b?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-04-08-08-58-00 +0000"
+    "pubdate": "2026-04-08-09-30-00 +0000"
   },
   {
-    "headline": "Oil Prices Plunge and Stocks Surge After Cease-Fire Deal",
-    "link": "https://www.nytimes.com/2026/04/08/business/oil-stocks-gas-prices-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-04-08-08-43-35 +0000"
+    "headline": "The Iran War Is Hitting California Harder Than Any Other State",
+    "link": "https://www.wsj.com/business/energy-oil/the-iran-war-is-hitting-california-harder-than-any-other-state-24bb289e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-08-09-30-00 +0000"
   },
   {
-    "headline": "Oil Prices Plunge and Stocks Surge After Cease-Fire Deal",
-    "link": "https://www.nytimes.com/2026/04/08/business/oil-stocks-gas-prices-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-04-08-08-43-35 +0000"
+    "headline": "The Economic Divide Behind That McDonald’s CEO Viral Video",
+    "link": "https://www.wsj.com/business/the-economic-divide-behind-that-mcdonalds-ceo-viral-video-40b3815f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-08-09-30-00 +0000"
   },
   {
-    "headline": "Trump declares Iran cease-fire deal could lead to ‘Golden Age of the Middle East,’ boasts ‘big money will be made’",
-    "link": "https://nypost.com/2026/04/08/world-news/trump-declares-iran-cease-fire-deal-could-lead-to-golden-age-of-the-middle-east-boasts-big-money-will-be-made/",
-    "source": "nypost",
-    "pubdate": "2026-04-08-08-38-12 +0000"
+    "headline": "The Iran War Is Hitting California Harder Than Any Other State",
+    "link": "https://www.wsj.com/business/energy-oil/the-iran-war-is-hitting-california-harder-than-any-other-state-24bb289e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-08-09-30-00 +0000"
   },
   {
-    "headline": "Trump agrees to suspend attacks for two weeks if Iran opens Strait of Hormuz",
-    "link": "https://www.washingtonpost.com/world/2026/04/07/trump-us-iran-war-threat/",
+    "headline": "Why McCormick’s $65 Billion Deal Might Actually Work Out",
+    "link": "https://www.wsj.com/finance/investing/why-mccormicks-65-billion-deal-might-actually-work-out-86700b1b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-08-09-30-00 +0000"
+  },
+  {
+    "headline": "European Companies Take Share-Price Hit From Listing in U.S., Report Says",
+    "link": "https://www.wsj.com/finance/stocks/european-companies-take-share-price-hit-from-listing-in-u-s-report-says-0672ec7b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-08-09-27-00 +0000"
+  },
+  {
+    "headline": "British teen dies in reported Vietnam motorbike fall",
+    "link": "https://www.bbc.com/news/articles/c5y9lg10595o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-08-09-26-28 +0000"
+  },
+  {
+    "headline": "After pager attack on Hezbollah, Hungary offered help to Iran",
+    "link": "https://www.washingtonpost.com/world/2026/04/08/hungary-iran-hezbollah-trump-orban/",
     "source": "wapo",
-    "pubdate": "2026-04-08-08-37-51 +0000"
+    "pubdate": "2026-04-08-09-26-27 +0000"
   },
   {
-    "headline": "Oil Tumbles, Stocks Surge as Markets Greet U.S.-Iran Cease-Fire with Optimism",
-    "link": "https://www.wsj.com/finance/stocks/oil-tumbles-stocks-surge-as-markets-greet-u-s-iran-cease-fire-with-optimism-b9ac56e5?mod=rss_markets_main",
+    "headline": "Eurozone Retail Sales Fell Back Ahead of Iran War Energy-Price Surge",
+    "link": "https://www.wsj.com/business/retail/eurozone-retail-sales-fell-back-ahead-of-iran-war-energy-price-surge-7175dced",
     "source": "wsj",
-    "pubdate": "2026-04-08-08-28-00 +0000"
+    "pubdate": "2026-04-08-09-26-00 +0000"
   },
   {
-    "headline": "Watch: Iranians gather in Tehran following ceasefire announcement",
-    "link": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-08-08-22-15 +0000"
+    "headline": "Eurozone Retail Sales Fell Back Ahead of Iran War Energy-Price Surge",
+    "link": "https://www.wsj.com/business/retail/eurozone-retail-sales-fell-back-ahead-of-iran-war-energy-price-surge-7175dced?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-08-09-26-00 +0000"
   },
   {
-    "headline": "Watch: Iranians gather in Tehran following ceasefire announcement",
-    "link": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-08-08-22-15 +0000"
+    "headline": "3 Georgia teens killed, 1 fighting for life in Florida spring break crash",
+    "link": "https://nypost.com/2026/04/08/us-news/3-georgia-teens-killed-1-fighting-for-life-after-jeep-veers-into-treeline-during-florida-spring-break-trip/",
+    "source": "nypost",
+    "pubdate": "2026-04-08-09-20-42 +0000"
   }
 ]
