@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-04-08-03-47-06 +0000",
+    "score": 14,
+    "pubdate": "2026-04-08-05-27-43 +0000",
     "source": "nyt",
-    "headline": "Elisabeth Waldo, 107, Who Fused Indigenous and Western Music, Dies",
-    "link": "https://www.nytimes.com/2026/04/06/arts/music/elisabeth-waldo-dead.html"
+    "headline": "Iran War Live Updates: U.S., Iran and Israel Agree to Cease-Fire",
+    "link": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-08-05-10-19 +0000",
+    "source": "nypost",
+    "headline": "Pacific Surfliner debuts LA and SLO trips — making Central Coast access easy",
+    "link": "https://nypost.com/2026/04/08/us-news/amtrak-pacific-surfliner-debuts-roundtrips-between-la-and-slo/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-08-04-55-00 +0000",
+    "source": "wsj",
+    "headline": "Indian Central Bank Holds Rates as Mideast War Keeps Outlook in Flux",
+    "link": "https://www.wsj.com/economy/central-banking/indian-central-bank-holds-rates-as-mideast-war-keeps-outlook-in-flux-9ddabbb5"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-08-04-59-00 +0000",
+    "source": "wsj",
+    "headline": "CK Hutchison Starts Arbitration Against Maersk Over Panama Ports",
+    "link": "https://www.wsj.com/business/logistics/ck-hutchison-starts-arbitration-against-maersk-over-panama-ports-fd1d3250?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-04-08-04-38-50 +0000",
+    "source": "nypost",
+    "headline": "Trove of sensitive LAPD records leaked in hack attack",
+    "link": "https://nypost.com/2026/04/08/us-news/trove-of-sensitive-lapd-records-leaked-in-hack-attack/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-04-08-05-26-00 +0000",
+    "source": "wsj",
+    "headline": "Asian Currencies Strengthen Amid Risk-on Sentiment",
+    "link": "https://www.wsj.com/finance/currencies/middle-east-ceasefire-triggers-australian-dollar-rally-1423558a?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-04-08-05-09-56 +0000",
+    "source": "bbc",
+    "headline": "Foodbank hub set to expand to meet growing demand",
+    "link": "https://www.bbc.com/news/articles/cy01k55ygl7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-04-08-05-03-31 +0000",
+    "source": "bbc",
+    "headline": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
+    "link": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-04-08-04-40-26 +0000",
+    "source": "nyt",
+    "headline": "Unraveling the Mystery Behind Bitcoin’s Creator",
+    "link": "https://www.nytimes.com/video/business/100000010821603/unraveling-the-mystery-behind-bitcoins-creator.html"
+  },
+  {
+    "score": 3,
+    "pubdate": "2026-04-08-05-04-49 +0000",
+    "source": "nyt",
+    "headline": "An 11th-Hour Deal",
+    "link": "https://www.nytimes.com/2026/04/07/world/iran-deadline-jd-vance-hungary-election.html"
   }
 ]
