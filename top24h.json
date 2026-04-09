@@ -1,27 +1,27 @@
 [
   {
-    "score": 574,
+    "score": 552,
     "pubdate": "2026-04-09-10-13-37 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Israeli Strikes in Lebanon Threaten Shaky U.S.-Iran Cease-Fire",
     "link": "https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon"
   },
   {
-    "score": 122,
+    "score": 121,
     "pubdate": "2026-04-08-15-13-29 +0000",
     "source": "nyt",
     "headline": "Trump Backs Down, but Questions Remain Over Iran and the Strait of Hormuz",
     "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-iran-2-week-ceasefire.html"
   },
   {
-    "score": 96,
+    "score": 93,
     "pubdate": "2026-04-08-18-03-48 +0000",
     "source": "nyt",
     "headline": "Why Gas Prices Won’t Fall as Quickly as Oil Prices",
     "link": "https://www.nytimes.com/2026/04/08/business/gas-prices-oil-iran-ceasefire.html"
   },
   {
-    "score": 74,
+    "score": 70,
     "pubdate": "2026-04-08-18-55-05 +0000",
     "source": "cbc",
     "headline": "Despite ceasefire with Iran, Israel's aggressive new attacks on Beirut signal no relief for Lebanon",
@@ -35,25 +35,11 @@
     "link": "https://www.wsj.com/politics/national-security/trump-allies-u-s-officials-fear-iran-victory-lap-is-premature-96f8e810"
   },
   {
-    "score": 60,
+    "score": 55,
     "pubdate": "2026-04-08-11-39-43 +0000",
     "source": "bbc",
     "headline": "Greece to ban social media for under-15s from next year",
     "link": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-04-08-17-18-41 +0000",
-    "source": "nypost",
-    "headline": "Delta scraps capacity growth plans as fuel price surge drives up costs",
-    "link": "https://nypost.com/2026/04/08/business/delta-scraps-capacity-growth-plans-as-fuel-price-surge-drives-up-costs/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-04-09-07-52-00 +0000",
-    "source": "wsj",
-    "headline": "Extent of Damage to Middle East Energy Facilities Key to Economic Impact, OECD Says",
-    "link": "https://www.wsj.com/economy/global/extent-of-damage-to-middle-east-energy-facilities-key-to-economic-impact-oecd-says-f9299a12"
   },
   {
     "score": 51,
@@ -63,10 +49,24 @@
     "link": "https://nypost.com/2026/04/08/us-news/former-top-biden-aide-urges-va-gov-abigail-spanberger-to-stop-using-his-playbook-come-out-of-her-biden-bunker/"
   },
   {
+    "score": 51,
+    "pubdate": "2026-04-09-07-52-00 +0000",
+    "source": "wsj",
+    "headline": "Extent of Damage to Middle East Energy Facilities Key to Economic Impact, OECD Says",
+    "link": "https://www.wsj.com/economy/global/extent-of-damage-to-middle-east-energy-facilities-key-to-economic-impact-oecd-says-f9299a12"
+  },
+  {
     "score": 50,
     "pubdate": "2026-04-08-13-07-57 +0000",
     "source": "bbc",
     "headline": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
     "link": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-04-08-17-18-41 +0000",
+    "source": "nypost",
+    "headline": "Delta scraps capacity growth plans as fuel price surge drives up costs",
+    "link": "https://nypost.com/2026/04/08/business/delta-scraps-capacity-growth-plans-as-fuel-price-surge-drives-up-costs/"
   }
 ]

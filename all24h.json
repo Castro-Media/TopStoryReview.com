@@ -462,15 +462,15 @@
     "pubdate": "2026-04-09-08-00-00 +0000"
   },
   {
-    "headline": "Trump and Iran remain far apart on peace terms. Here are the biggest gaps",
-    "link": "https://www.cbc.ca/news/world/trump-iran-peace-negotiations-us-israel-9.7156300?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-04-09-08-00-00 +0000"
-  },
-  {
     "headline": "7-Eleven Owner Projects Lower Annual Profit, Delays North American Unit IPO",
     "link": "https://www.wsj.com/business/earnings/7-eleven-owner-projects-lower-annual-profit-delays-north-american-unit-ipo-5ac76b8d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
+    "pubdate": "2026-04-09-08-00-00 +0000"
+  },
+  {
+    "headline": "Trump and Iran remain far apart on peace terms. Here are the biggest gaps",
+    "link": "https://www.cbc.ca/news/world/trump-iran-peace-negotiations-us-israel-9.7156300?cmp=rss",
+    "source": "cbc",
     "pubdate": "2026-04-09-08-00-00 +0000"
   },
   {
@@ -714,13 +714,13 @@
     "pubdate": "2026-04-09-04-01-05 +0000"
   },
   {
-    "headline": "In charts: The nation’s fertility rates hit record lows in 2025 as childbearing continued to shift toward older women",
+    "headline": "Why the U.S. Fertility Rate Has Hit a Record Low",
     "link": "https://www.wsj.com/us-news/why-the-u-s-fertility-rate-has-hit-a-record-low-13e7c2f8",
     "source": "wsj",
     "pubdate": "2026-04-09-04-01-00 +0000"
   },
   {
-    "headline": "Why the U.S. Fertility Rate Has Hit a Record Low",
+    "headline": "In charts: The nation’s fertility rates hit record lows in 2025 as childbearing continued to shift toward older women",
     "link": "https://www.wsj.com/us-news/why-the-u-s-fertility-rate-has-hit-a-record-low-13e7c2f8",
     "source": "wsj",
     "pubdate": "2026-04-09-04-01-00 +0000"
@@ -846,14 +846,14 @@
     "pubdate": "2026-04-09-03-07-03 +0000"
   },
   {
-    "headline": "Inside the Race to Protect Submarine Cables From Sabotage",
-    "link": "https://www.wsj.com/tech/inside-the-race-to-protect-submarine-cables-from-sabotage-c90ba18c",
+    "headline": "Can Longtime Car Executive Luca De Meo Kick the House of Gucci Into Gear?",
+    "link": "https://www.wsj.com/business/retail/luca-demeo-kering-gucci-renault-c2771239?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-09-03-00-00 +0000"
   },
   {
-    "headline": "Can Longtime Car Executive Luca De Meo Kick the House of Gucci Into Gear?",
-    "link": "https://www.wsj.com/business/retail/luca-demeo-kering-gucci-renault-c2771239?mod=pls_whats_news_us_business_f",
+    "headline": "Inside the Race to Protect Submarine Cables From Sabotage",
+    "link": "https://www.wsj.com/tech/inside-the-race-to-protect-submarine-cables-from-sabotage-c90ba18c",
     "source": "wsj",
     "pubdate": "2026-04-09-03-00-00 +0000"
   },
@@ -1549,13 +1549,13 @@
   },
   {
     "headline": "Opinion | What Victory Looks Like in Iran",
-    "link": "https://www.wsj.com/opinion/what-victory-looks-like-in-iran-897b8767",
+    "link": "https://www.wsj.com/opinion/what-victory-looks-like-in-iran-897b8767?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-08-21-24-00 +0000"
   },
   {
     "headline": "Opinion | What Victory Looks Like in Iran",
-    "link": "https://www.wsj.com/opinion/what-victory-looks-like-in-iran-897b8767?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/what-victory-looks-like-in-iran-897b8767",
     "source": "wsj",
     "pubdate": "2026-04-08-21-24-00 +0000"
   },
@@ -1681,12 +1681,6 @@
   },
   {
     "headline": "Vance to Take the Lead on Iran Talks",
-    "link": "https://www.wsj.com/business/vance-to-take-the-lead-on-iran-talks-69d2f2e8",
-    "source": "wsj",
-    "pubdate": "2026-04-08-20-55-00 +0000"
-  },
-  {
-    "headline": "Vance to Take the Lead on Iran Talks",
     "link": "https://www.wsj.com/business/vance-to-take-the-lead-on-iran-talks-69d2f2e8?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-08-20-55-00 +0000"
@@ -1694,6 +1688,12 @@
   {
     "headline": "Vance to Take the Lead on Iran Talks",
     "link": "https://www.wsj.com/business/vance-to-take-the-lead-on-iran-talks-69d2f2e8?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-08-20-55-00 +0000"
+  },
+  {
+    "headline": "Vance to Take the Lead on Iran Talks",
+    "link": "https://www.wsj.com/business/vance-to-take-the-lead-on-iran-talks-69d2f2e8",
     "source": "wsj",
     "pubdate": "2026-04-08-20-55-00 +0000"
   },
@@ -1963,13 +1963,13 @@
   },
   {
     "headline": "Opinion | The U.S.-Iran War Isn’t Over",
-    "link": "https://www.wsj.com/opinion/the-u-s-iran-war-isnt-over-177237d7",
+    "link": "https://www.wsj.com/opinion/the-u-s-iran-war-isnt-over-177237d7?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-08-19-31-00 +0000"
   },
   {
     "headline": "Opinion | The U.S.-Iran War Isn’t Over",
-    "link": "https://www.wsj.com/opinion/the-u-s-iran-war-isnt-over-177237d7?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/the-u-s-iran-war-isnt-over-177237d7",
     "source": "wsj",
     "pubdate": "2026-04-08-19-31-00 +0000"
   },
@@ -2065,13 +2065,13 @@
   },
   {
     "headline": "What’s Happening in the Strait of Hormuz Since the Cease-Fire?",
-    "link": "https://www.wsj.com/world/middle-east/whats-happening-in-the-strait-of-hormuz-since-the-cease-fire-902f1ab0",
+    "link": "https://www.wsj.com/world/middle-east/whats-happening-in-the-strait-of-hormuz-since-the-cease-fire-902f1ab0?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-08-19-11-00 +0000"
   },
   {
     "headline": "What’s Happening in the Strait of Hormuz Since the Cease-Fire?",
-    "link": "https://www.wsj.com/world/middle-east/whats-happening-in-the-strait-of-hormuz-since-the-cease-fire-902f1ab0?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/world/middle-east/whats-happening-in-the-strait-of-hormuz-since-the-cease-fire-902f1ab0",
     "source": "wsj",
     "pubdate": "2026-04-08-19-11-00 +0000"
   },
@@ -2430,12 +2430,6 @@
     "pubdate": "2026-04-08-16-38-00 +0000"
   },
   {
-    "headline": "Best Car Insurance Companies of 2026",
-    "link": "https://www.wsj.com/buyside/personal-finance/auto-insurance/best-car-insurance",
-    "source": "wsj",
-    "pubdate": "2026-04-08-16-38-00 +0000"
-  },
-  {
     "headline": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
     "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
     "source": "wsj",
@@ -2450,6 +2444,12 @@
   {
     "headline": "Best Business Debt Consolidation Loans in April 2026",
     "link": "https://www.wsj.com/buyside/personal-finance/business-loans/business-debt-consolidation-loans?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-08-16-38-00 +0000"
+  },
+  {
+    "headline": "Best Car Insurance Companies of 2026",
+    "link": "https://www.wsj.com/buyside/personal-finance/auto-insurance/best-car-insurance",
     "source": "wsj",
     "pubdate": "2026-04-08-16-38-00 +0000"
   },
@@ -2956,83 +2956,5 @@
     "link": "https://www.cbc.ca/news/world/ceasefire-iran-u-s-israel-trump-9.7155860?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-04-08-11-19-28 +0000"
-  },
-  {
-    "headline": "UK house prices fall as Iran war uncertainty dampens demand",
-    "link": "https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-08-11-09-49 +0000"
-  },
-  {
-    "headline": "War Decimated Iran’s Leadership and Pushed Up a New Generation",
-    "link": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-leadership-next-generation.html",
-    "source": "nyt",
-    "pubdate": "2026-04-08-11-07-48 +0000"
-  },
-  {
-    "headline": "War Decimated Iran’s Leadership and Pushed Up a New Generation",
-    "link": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-leadership-next-generation.html",
-    "source": "nyt",
-    "pubdate": "2026-04-08-11-07-48 +0000"
-  },
-  {
-    "headline": "Madagascar declares state of emergency over severe fuel shortages linked to Iran war",
-    "link": "https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-08-11-07-30 +0000"
-  },
-  {
-    "headline": "Madagascar declares state of emergency over severe fuel shortages linked to Iran war",
-    "link": "https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-08-11-07-30 +0000"
-  },
-  {
-    "headline": "Greece to Ban Social Media for Under 15s",
-    "link": "https://www.wsj.com/world/europe/greece-to-ban-social-media-for-under-15s-c73b1a0b",
-    "source": "wsj",
-    "pubdate": "2026-04-08-11-04-00 +0000"
-  },
-  {
-    "headline": "Co-founder of Jalisco New Generation drug cartel pleads guilty",
-    "link": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-08-11-03-40 +0000"
-  },
-  {
-    "headline": "Co-founder of Jalisco New Generation drug cartel pleads guilty",
-    "link": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-08-11-03-40 +0000"
-  },
-  {
-    "headline": "A large team of Wall Street Journal reporters and editors worked to document the final 12 hours before Trump’s Iran deadline. Read more in today’s WSJ politics newsletter:",
-    "link": "https://www.wsj.com/politics/how-the-journal-covered-trumps-12-hour-iran-civilization-countdown-602c7c78",
-    "source": "wsj",
-    "pubdate": "2026-04-08-10-58-00 +0000"
-  },
-  {
-    "headline": "Hospitals coping well with doctors' strike so far - NHS boss",
-    "link": "https://www.bbc.com/news/articles/clyrzrp0x5go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-08-10-56-27 +0000"
-  },
-  {
-    "headline": "Eurozone Retail Sales Fell Ahead of Iran War Energy-Price Surge",
-    "link": "https://www.wsj.com/business/retail/eurozone-retail-sales-fell-back-ahead-of-iran-war-energy-price-surge-7175dced?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-08-10-44-00 +0000"
-  },
-  {
-    "headline": "Supermarket worker fired after 17 years for tackling shoplifter who tried stealing Easter eggs",
-    "link": "https://nypost.com/2026/04/08/world-news/waitrose-supermarket-worker-walker-smith-fired-after-17-years-for-stopping-easter-egg-shoplifter/",
-    "source": "nypost",
-    "pubdate": "2026-04-08-10-35-05 +0000"
-  },
-  {
-    "headline": "Iran Bounce: These TACOs Are Getting Stale",
-    "link": "https://www.wsj.com/finance/stocks/iran-bounce-these-tacos-are-getting-stale-1f69dd3a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-08-10-34-00 +0000"
   }
 ]
