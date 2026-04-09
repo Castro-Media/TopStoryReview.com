@@ -1,17 +1,17 @@
 [
   {
-    "score": 431,
-    "pubdate": "2026-04-08-08-38-12 +0000",
-    "source": "nypost",
-    "headline": "Trump declares Iran cease-fire deal could lead to ‘Golden Age of the Middle East,’ boasts ‘big money will be made’",
-    "link": "https://nypost.com/2026/04/08/world-news/trump-declares-iran-cease-fire-deal-could-lead-to-golden-age-of-the-middle-east-boasts-big-money-will-be-made/"
-  },
-  {
-    "score": 120,
+    "score": 425,
     "pubdate": "2026-04-09-08-11-19 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Cease-Fire Enters Second Day Despite Hormuz and Lebanon Uncertainty",
     "link": "https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon"
+  },
+  {
+    "score": 116,
+    "pubdate": "2026-04-08-18-49-13 +0000",
+    "source": "latimes",
+    "headline": "Iran ceasefire deal frays as attacks continue; Trump's peace terms remain unclear",
+    "link": "https://www.latimes.com/politics/story/2026-04-08/iran-ceasefire-deal-frays-as-attacks-continue-trumps-peace-terms-remain-unclear"
   },
   {
     "score": 94,
@@ -21,13 +21,6 @@
     "link": "https://www.nytimes.com/2026/04/08/business/gas-prices-oil-iran-ceasefire.html"
   },
   {
-    "score": 73,
-    "pubdate": "2026-04-08-18-55-05 +0000",
-    "source": "cbc",
-    "headline": "Despite ceasefire with Iran, Israel's aggressive new attacks on Beirut signal no relief for Lebanon",
-    "link": "https://www.cbc.ca/news/lebanon-israel-attacks-9.7156476?cmp=rss"
-  },
-  {
     "score": 62,
     "pubdate": "2026-04-09-01-38-00 +0000",
     "source": "wsj",
@@ -35,14 +28,21 @@
     "link": "https://www.wsj.com/politics/national-security/trump-allies-u-s-officials-fear-iran-victory-lap-is-premature-96f8e810"
   },
   {
-    "score": 55,
-    "pubdate": "2026-04-08-11-19-28 +0000",
-    "source": "cbc",
-    "headline": "Strikes continue across Gulf countries amid confusion over status of Strait of Hormuz",
-    "link": "https://www.cbc.ca/news/world/ceasefire-iran-u-s-israel-trump-9.7155860?cmp=rss"
+    "score": 52,
+    "pubdate": "2026-04-09-07-52-00 +0000",
+    "source": "wsj",
+    "headline": "Extent of Damage to Middle East Energy Facilities Key to Economic Impact, OECD Says",
+    "link": "https://www.wsj.com/economy/global/extent-of-damage-to-middle-east-energy-facilities-key-to-economic-impact-oecd-says-f9299a12"
   },
   {
-    "score": 53,
+    "score": 52,
+    "pubdate": "2026-04-08-15-42-15 +0000",
+    "source": "nyt",
+    "headline": "World leaders welcome the Iran cease-fire but want the Strait of Hormuz opened soon.",
+    "link": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news/world-leaders-welcome-iran-cease-fire-but-want-strait-of-hormuz-opened-soon"
+  },
+  {
+    "score": 51,
     "pubdate": "2026-04-09-02-55-05 +0000",
     "source": "nypost",
     "headline": "Former top Biden aide urges Va. Gov. Abigail Spanberger to stop using his playbook: ‘Come out of her Biden bunker’",
@@ -50,10 +50,10 @@
   },
   {
     "score": 50,
-    "pubdate": "2026-04-08-11-39-43 +0000",
-    "source": "bbc",
-    "headline": "Greece to ban social media for under-15s from next year",
-    "link": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-04-09-00-15-00 +0000",
+    "source": "wsj",
+    "headline": "Disney Planning Layoffs Under New CEO Josh D’Amaro",
+    "link": "https://www.wsj.com/business/media/disney-planning-layoffs-under-new-ceo-damaro-f1fe10a3?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 49,
@@ -64,9 +64,9 @@
   },
   {
     "score": 48,
-    "pubdate": "2026-04-08-13-07-57 +0000",
-    "source": "bbc",
-    "headline": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
-    "link": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-04-09-05-45-01 +0000",
+    "source": "nypost",
+    "headline": "US Marine killed in stabbing during North Carolina street brawl as disturbing video sparks outrage over police response",
+    "link": "https://nypost.com/2026/04/09/us-news/us-marine-daniel-montano-killed-in-stabbing-during-north-carolina-street-brawl-as-disturbing-video-sparks-outrage-over-police-response/"
   }
 ]
