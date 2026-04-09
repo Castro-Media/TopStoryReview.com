@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "score": 16,
+    "pubdate": "2026-04-09-05-24-42 +0000",
+    "source": "nyt",
+    "headline": "How War in the Middle East Paralyzed an Asian Food Giant",
+    "link": "https://www.nytimes.com/2026/04/08/world/asia/vietnam-rice-food-shortage-iran-war.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-09-05-09-02 +0000",
+    "source": "nypost",
+    "headline": "Popular YouTuber among 3 arrested after shouting, ‘He has a gun!’ in packed movie theater for online clout",
+    "link": "https://nypost.com/2026/04/09/world-news/three-arrested-including-popular-youtuber-after-shouting-he-has-a-gun-in-canadian-movie-theater-to-film-social-media-content/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-09-05-09-19 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Cease-Fire Tested by Confusion Over Strait and Strikes on Lebanon",
+    "link": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-09-05-17-52 +0000",
+    "source": "nypost",
+    "headline": "Massive fire breaks out at Rio de Janeiro’s Olympic Park",
+    "link": "https://nypost.com/2026/04/09/world-news/rio-de-janeiros-olympic-park-caught-on-fire-no-injuries-reported/"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-04-09-05-27-44 +0000",
+    "source": "bbc",
+    "headline": "The food waste 'saints' feeding city's children",
+    "link": "https://www.bbc.com/news/articles/cly9v9g81jzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 2,
+    "pubdate": "2026-04-09-04-58-42 +0000",
+    "source": "nyt",
+    "headline": "A Shaky Truce",
+    "link": "https://www.nytimes.com/2026/04/08/world/iran-trump-ceasefire-israel-lebanon-bitcoin-creator.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-04-09-05-24-42 +0000",
+    "source": "nyt",
+    "headline": "How War in the Middle East Paralyzed an Asian Food Giant",
+    "link": "https://www.nytimes.com/2026/04/08/world/asia/vietnam-rice-food-shortage-iran-war.html"
+  }
+]
