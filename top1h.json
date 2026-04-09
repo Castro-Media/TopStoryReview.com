@@ -1,30 +1,72 @@
 [
   {
+    "score": 41,
+    "pubdate": "2026-04-09-00-56-39 +0000",
+    "source": "nyt",
+    "headline": "Trump Finds Himself With Fragile Iran Cease-Fire After the Scramble to Make a Deal",
+    "link": "https://www.nytimes.com/2026/04/08/us/politics/chaos-cease-fire-iran.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-09-00-30-33 +0000",
+    "source": "nyt",
+    "headline": "Is Strait of Hormuz Open Again? Maybe, but Few Ships Are Using It.",
+    "link": "https://www.nytimes.com/2026/04/08/world/middleeast/strait-of-hormuz-ships-iran.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-09-01-03-19 +0000",
+    "source": "nypost",
+    "headline": "Massive car-killer pothole forces lane closures and triggers major concerns for highway integrity as crews set to descend",
+    "link": "https://nypost.com/2026/04/08/us-news/massive-pothole-forces-lane-closures-and-triggers-major-concerns-for-highway-integrity-as-crews-set-to-descend/"
+  },
+  {
     "score": 13,
-    "pubdate": "2026-04-08-23-01-54 +0000",
+    "pubdate": "2026-04-09-01-03-57 +0000",
+    "source": "startribune",
+    "headline": "Police Chief Brian O’Hara wants a second term. Will the Minneapolis City Council give it to him?",
+    "link": "https://www.startribune.com/minneapolis-police-chief-brian-ohara-support-city-council/601533044"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-09-00-37-30 +0000",
+    "source": "nypost",
+    "headline": "Scandal-plagued Noma restaurant to quietly open LA shop hawking $150 balsamic vinegar",
+    "link": "https://nypost.com/2026/04/08/us-news/scandal-plagued-noma-restaurant-to-quietly-open-la-shop-hawking-150-balsamic-vinegar/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-09-00-39-18 +0000",
+    "source": "cbc",
+    "headline": "Carney applauds Artemis II crew's 'inspiring' example of teamwork in space-to-Earth call",
+    "link": "https://www.cbc.ca/news/politics/prime-minister-mark-carney-speaks-with-artemiss-ii-crew-9.7156646?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-09-00-58-26 +0000",
+    "source": "nypost",
+    "headline": "Olympics CEO says more $28 LA28 tickets will be released — amid backlash over staggering ticket prices",
+    "link": "https://nypost.com/2026/04/08/us-news/more-la28-olympic-tickets-for-28-will-be-available-in-future-drops/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-09-00-50-09 +0000",
+    "source": "nypost",
+    "headline": "Coachella band forced to cancel show over guitarist’s ‘acute brain injury’",
+    "link": "https://nypost.com/2026/04/08/us-news/coachella-band-forced-to-cancel-show-over-guitarists-acute-brain-injury/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-09-01-17-22 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Cease-Fire Tested by Confusion Over Strait and Strikes on Lebanon",
     "link": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news"
   },
   {
-    "score": 10,
-    "pubdate": "2026-04-08-23-01-44 +0000",
-    "source": "nypost",
-    "headline": "Missing UK woman who vanished on solo trip to California after meeting man found safe",
-    "link": "https://nypost.com/2026/04/08/us-news/missing-uk-woman-who-vanished-on-solo-trip-to-california-after-meeting-man-found-safe/"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-04-08-23-04-10 +0000",
-    "source": "bbc",
-    "headline": "The construction boss who built a new life after three years in prison",
-    "link": "https://www.bbc.com/news/articles/ckge155rz10o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-04-08-23-03-53 +0000",
-    "source": "bbc",
-    "headline": "'Even if Iran war ends now, farmers' costs will have to be passed on'",
-    "link": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss"
+    "score": 8,
+    "pubdate": "2026-04-09-01-15-07 +0000",
+    "source": "nyt",
+    "headline": "Martin Gugino, Activist Shoved by Buffalo Police at 2020 Protest, Dies",
+    "link": "https://www.nytimes.com/2026/04/08/us/martin-gugino-dead-buffalo-police.html"
   }
 ]
