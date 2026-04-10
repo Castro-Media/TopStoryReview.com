@@ -1,45 +1,38 @@
 [
   {
-    "score": 508,
-    "pubdate": "2026-04-09-01-38-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s declaration of “total victory” in Iran left some close allies and several senior aides worried that he’s overstating what is a fragile cease-fire with Tehran",
-    "link": "https://www.wsj.com/politics/national-security/trump-allies-u-s-officials-fear-iran-victory-lap-is-premature-96f8e810"
+    "score": 639,
+    "pubdate": "2026-04-10-13-08-26 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Vance Departs for Talks With Iran as Lebanon Impasse Threatens Cease-Fire",
+    "link": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon"
   },
   {
-    "score": 223,
-    "pubdate": "2026-04-10-03-21-00 +0000",
-    "source": "wsj",
-    "headline": "A surge in energy costs triggered by the war in Iran pushed up producer prices in China, snapping a streak of factory deflation in the country that lasted more than three years",
-    "link": "https://www.wsj.com/world/china/middle-east-energy-shock-snaps-chinas-deflationary-streak-c14b6c9e"
-  },
-  {
-    "score": 179,
-    "pubdate": "2026-04-08-18-55-05 +0000",
-    "source": "cbc",
-    "headline": "Despite ceasefire with Iran, Israel's aggressive new attacks on Beirut signal no relief for Lebanon",
-    "link": "https://www.cbc.ca/news/lebanon-israel-attacks-9.7156476?cmp=rss"
-  },
-  {
-    "score": 155,
+    "score": 293,
     "pubdate": "2026-04-09-21-54-00 +0000",
     "source": "wsj",
     "headline": "Just hours after President Trump announced a sudden pause of strikes against Iran, the White House warned staff against improperly leveraging their positions to place well-timed bets in futures markets",
     "link": "https://www.wsj.com/politics/policy/white-house-warns-staff-not-to-place-bets-on-prediction-markets-amid-iran-war-3780668f"
   },
   {
-    "score": 115,
-    "pubdate": "2026-04-07-01-21-36 +0000",
-    "source": "bbc",
-    "headline": "India's high-growth economy gets a Middle East oil shock",
-    "link": "https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss"
+    "score": 136,
+    "pubdate": "2026-04-08-18-55-05 +0000",
+    "source": "cbc",
+    "headline": "Despite ceasefire with Iran, Israel's aggressive new attacks on Beirut signal no relief for Lebanon",
+    "link": "https://www.cbc.ca/news/lebanon-israel-attacks-9.7156476?cmp=rss"
   },
   {
-    "score": 114,
+    "score": 135,
     "pubdate": "2026-04-05-10-00-00 +0000",
     "source": "latimes",
     "headline": "Barabak: For more than 30 years — day in, day out — he's chronicled California. One paragraph at a time",
     "link": "https://www.latimes.com/politics/story/2026-04-05/california-politics-rough-and-tumble-jack-kavanagh"
+  },
+  {
+    "score": 134,
+    "pubdate": "2026-04-10-03-21-00 +0000",
+    "source": "wsj",
+    "headline": "A surge in energy costs triggered by the war in Iran pushed up producer prices in China, snapping a streak of factory deflation in the country that lasted more than three years",
+    "link": "https://www.wsj.com/world/china/middle-east-energy-shock-snaps-chinas-deflationary-streak-c14b6c9e"
   },
   {
     "score": 106,
@@ -49,11 +42,25 @@
     "link": "https://www.wsj.com/politics/melania-trump-denies-any-connection-to-jeffrey-epstein-f5aafcbc"
   },
   {
-    "score": 93,
-    "pubdate": "2026-04-08-11-19-28 +0000",
-    "source": "cbc",
-    "headline": "Strikes continue across Gulf countries amid confusion over status of Strait of Hormuz",
-    "link": "https://www.cbc.ca/news/world/ceasefire-iran-u-s-israel-trump-9.7155860?cmp=rss"
+    "score": 98,
+    "pubdate": "2026-04-10-06-29-00 +0000",
+    "source": "wsj",
+    "headline": "Japan to Release Extra Oil Reserves Amid Middle East Uncertainty",
+    "link": "https://www.wsj.com/economy/japan-to-release-extra-oil-reserves-amid-middle-east-uncertainty-36576d07"
+  },
+  {
+    "score": 94,
+    "pubdate": "2026-04-10-13-00-00 +0000",
+    "source": "nypost",
+    "headline": "Far-left plot to seize control of the LAPD — as cops warn they will destroy the city",
+    "link": "https://nypost.com/2026/04/10/us-news/far-left-plot-to-seize-control-of-the-lapd-as-cops-warn-they-will-destroy-the-city/"
+  },
+  {
+    "score": 92,
+    "pubdate": "2026-04-08-15-42-15 +0000",
+    "source": "nyt",
+    "headline": "World leaders welcome the Iran cease-fire but want the Strait of Hormuz opened soon.",
+    "link": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news/world-leaders-welcome-iran-cease-fire-but-want-strait-of-hormuz-opened-soon"
   },
   {
     "score": 91,
@@ -61,12 +68,5 @@
     "source": "wsj",
     "headline": "A federal appeals court has denied Anthropic’s request for relief from the Defense Department declaring it a supply-chain risk, complicating the legal battle between the government and the AI company",
     "link": "https://www.wsj.com/politics/national-security/court-denies-anthropic-request-to-end-defense-department-punishment-43d3432e"
-  },
-  {
-    "score": 85,
-    "pubdate": "2026-04-10-10-00-00 +0000",
-    "source": "startribune",
-    "headline": "Amy Klobuchar dominated her Senate races. Will she do the same in governor’s race?",
-    "link": "https://www.startribune.com/amy-klobuchar-dominated-her-senate-races-will-she-do-the-same-in-governors-race/601651767"
   }
 ]
