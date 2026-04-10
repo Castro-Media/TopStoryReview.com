@@ -1,37 +1,72 @@
 [
   {
-    "score": 17,
-    "pubdate": "2026-04-09-23-03-27 +0000",
+    "score": 40,
+    "pubdate": "2026-04-10-00-56-22 +0000",
     "source": "nyt",
-    "headline": "Melania Trump Says She Was Not Associated With Jeffrey Epstein",
-    "link": "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html"
+    "headline": "White House Warned Staff Not to Engage in Insider Trading Amid War With Iran",
+    "link": "https://www.nytimes.com/2026/04/09/us/politics/white-house-prediction-markets.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-04-09-23-02-45 +0000",
-    "source": "nyt",
-    "headline": "How Trump’s Advisers Felt About Going to War With Iran",
-    "link": "https://www.nytimes.com/video/us/politics/100000010828478/trump-war-iran-advisers.html"
+    "score": 24,
+    "pubdate": "2026-04-10-00-49-00 +0000",
+    "source": "wsj",
+    "headline": "The Defense Department violated a court order to restore Pentagon access for journalists, a federal judge ruled on Thursday, a setback for the Trump administration",
+    "link": "https://www.wsj.com/politics/national-security/judge-rejects-pentagons-revised-press-policy-fb6d44c5"
   },
   {
-    "score": 3,
-    "pubdate": "2026-04-09-23-04-07 +0000",
+    "score": 19,
+    "pubdate": "2026-04-10-01-00-07 +0000",
     "source": "nyt",
-    "headline": "Trump Again Hits Out at NATO Over Iran War",
-    "link": "https://www.nytimes.com/2026/04/09/world/middleeast/trump-nato-rutte-iran-war.html"
+    "headline": "Oil Prices Edge Higher as Confidence in Cease-Fire Wavers",
+    "link": "https://www.nytimes.com/2026/04/09/business/oil-gas-stocks-iran-war-ceasefire.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-09-23-03-27 +0000",
-    "source": "nyt",
-    "headline": "Melania Trump Says She Was Not Associated With Jeffrey Epstein",
-    "link": "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html"
+    "score": 15,
+    "pubdate": "2026-04-10-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Iran’s chokehold on the Strait of Hormuz shows it isn’t just superpowers that can weaponize economic pinch-points",
+    "link": "https://www.wsj.com/economy/global/iran-economic-warfare-da3be2af"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-09-23-02-45 +0000",
+    "score": 15,
+    "pubdate": "2026-04-10-00-50-21 +0000",
+    "source": "bbc",
+    "headline": "Hip-hop pioneer, Afrika Bambaataa,  dies aged 67",
+    "link": "https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-10-00-32-33 +0000",
     "source": "nyt",
-    "headline": "How Trump’s Advisers Felt About Going to War With Iran",
-    "link": "https://www.nytimes.com/video/us/politics/100000010828478/trump-war-iran-advisers.html"
+    "headline": "White House Secures Foreign Steel for Trump’s Ballroom Project",
+    "link": "https://www.nytimes.com/2026/04/08/us/politics/white-house-foreign-steel-ballroom.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-10-00-20-57 +0000",
+    "source": "nyt",
+    "headline": "Iran’s Battered Leaders Emerge From War Confident — and With New Cards",
+    "link": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-10-00-34-19 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Israel Agrees to Talks With Lebanon but Keeps Striking Hezbollah",
+    "link": "https://www.nytimes.com/live/2026/04/09/world/iran-ceasefire-trump-lebanon"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-10-01-14-27 +0000",
+    "source": "nypost",
+    "headline": "Mother of two snatched by homeless creep and dragged into tent at dangerous encampment near elementary school",
+    "link": "https://nypost.com/2026/04/09/us-news/mother-of-two-snatched-by-homeless-and-dragged-into-tent-at-dangerous-camp-outside-elementary-school/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-10-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Why Gulf Nations Would Bear the Brunt of Hormuz Tolls",
+    "link": "https://www.wsj.com/world/middle-east/why-gulf-nations-would-bear-the-brunt-of-hormuz-tolls-9df1f28a"
   }
 ]
