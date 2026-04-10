@@ -1,30 +1,72 @@
 [
   {
+    "score": 61,
+    "pubdate": "2026-04-10-20-23-00 +0000",
+    "source": "wsj",
+    "headline": "Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon.  And that has severely eaten into U.S. paychecks",
+    "link": "https://www.wsj.com/economy/consumers/how-the-iran-war-is-affecting-your-wages-3fe2eef5"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-04-10-20-21-34 +0000",
+    "source": "nyt",
+    "headline": "Trump Posts Graphic Video of Deadly Attack and Rails Against Haitian Immigrants",
+    "link": "https://www.nytimes.com/2026/04/10/us/politics/trump-hammer-video-florida-attack-immigration.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-04-10-20-35-16 +0000",
+    "source": "nyt",
+    "headline": "Israel and Lebanon Plan Talks in D.C. as War Threatens U.S.-Iran Cease-Fire Deal",
+    "link": "https://www.nytimes.com/2026/04/10/world/middleeast/israel-lebanon-ceasefire-talks-iran-war.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-04-10-20-12-59 +0000",
+    "source": "nypost",
+    "headline": "Eric Swalwell denies sex attack on former staffer — as she makes disturbing claims",
+    "link": "https://nypost.com/2026/04/10/us-news/eric-swalwell-sends-cease-and-desist-over-misconduct-rumor/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-04-10-20-58-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump has repeatedly promised his top administration officials pardons before he leaves office, according to people who have heard his comments",
+    "link": "https://www.wsj.com/politics/policy/trump-promises-mass-pardons-to-staff-before-leaving-office-d7274d32"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-04-10-20-43-34 +0000",
+    "source": "nyt",
+    "headline": "Fuel Protests Cause Transport Chaos in Ireland as Iran War Spikes Prices",
+    "link": "https://www.nytimes.com/2026/04/10/world/europe/ireland-fuel-protests-oil-prices-iran-war.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-04-10-20-29-46 +0000",
+    "source": "nypost",
+    "headline": "Navy cancels Biden-era submarine overhaul as costs inflate to nearly $3B",
+    "link": "https://nypost.com/2026/04/10/us-news/navy-cancels-biden-era-submarine-overhaul-as-costs-inflate-to-nearly-3b/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-10-20-36-18 +0000",
+    "source": "nyt",
+    "headline": "Only two ships passed through the Strait of Hormuz on Friday.",
+    "link": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon/only-two-ships-passed-through-the-strait-of-hormuz-on-friday"
+  },
+  {
     "score": 14,
-    "pubdate": "2026-04-10-19-07-07 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Iran Adds New Condition as Vance Heads to Peace Talks",
-    "link": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon"
+    "pubdate": "2026-04-10-20-52-40 +0000",
+    "source": "latimes",
+    "headline": "Spencer Pratt's time in Santa Barbara County likely won't affect his bid for L.A. mayor, analysts say",
+    "link": "https://www.latimes.com/california/story/2026-04-10/spencer-pratts-time-in-santa-barbara-county-likely-wont-affect-his-bid-for-la-mayor-analysts-say"
   },
   {
-    "score": 8,
-    "pubdate": "2026-04-10-19-08-44 +0000",
-    "source": "nyt",
-    "headline": "Burned Before, Democrats Abruptly Revive the Idea of Impeaching Trump",
-    "link": "https://www.nytimes.com/2026/04/10/us/politics/burned-before-democrats-abruptly-revive-the-idea-of-impeaching-trump.html"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-04-10-19-07-05 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon/heres-the-latest"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-04-10-19-07-05 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon/heres-the-latest"
+    "score": 14,
+    "pubdate": "2026-04-10-20-07-07 +0000",
+    "source": "bbc",
+    "headline": "Gunmen kill at least four people at Afghanistan picnic spot",
+    "link": "https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss"
   }
 ]
