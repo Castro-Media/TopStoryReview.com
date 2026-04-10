@@ -1,16 +1,72 @@
 [
   {
+    "score": 29,
+    "pubdate": "2026-04-10-11-58-51 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Israel Strikes Hezbollah as Lebanon Impasse Threatens Cease-Fire",
+    "link": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-04-10-12-00-00 +0000",
+    "source": "nypost",
+    "headline": "Beloved NYC restaurant owner’s world crumbled when he lost $300K in ‘fraud’ scheme — but a viral post saved his eatery and faith in the city: ‘I couldn’t believe it’",
+    "link": "https://nypost.com/2026/04/10/lifestyle/beloved-nyc-restaurant-owners-world-crumbled-when-he-lost-300k-in-fraud-scheme-but-a-viral-post-saved-his-eatery-and-faith-in-the-city-i-couldnt-believe-it/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-10-11-40-05 +0000",
+    "source": "nyt",
+    "headline": "A Record Jump in U.S. Gasoline Prices Is Squeezing Consumers",
+    "link": "https://www.nytimes.com/2026/04/10/business/economy/gasoline-price-rise.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-10-11-57-53 +0000",
+    "source": "nypost",
+    "headline": "Cops search Lynette Hooker’s yacht as clock ticks on how long husband can be held over suspicious disappearance",
+    "link": "https://nypost.com/2026/04/10/us-news/cops-search-lynette-hookers-yacht-as-clock-ticks-on-how-long-husband-can-be-held-over-suspicious-disappearance/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-10-11-56-12 +0000",
+    "source": "bbc",
+    "headline": "Russia and Ukraine agree to Orthodox Easter truce",
+    "link": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-10-11-30-15 +0000",
+    "source": "nypost",
+    "headline": "Ex-FBI agent suggests costly way to finally crack Nancy Guthrie’s  kidnapping case",
+    "link": "https://nypost.com/2026/04/10/us-news/ex-fbi-suggests-costly-way-to-finally-crack-nancy-guthries-kidnapping-case/"
+  },
+  {
     "score": 9,
-    "pubdate": "2026-04-10-10-15-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Treasury Yields Edge Up Slightly Ahead of Data, Peace Talks",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-amid-ongoing-inflation-worries-a5a47d72?mod=rss_markets_main"
+    "pubdate": "2026-04-10-12-00-00 +0000",
+    "source": "nypost",
+    "headline": "Mamdani pushed combined $23B worth of new NYC taxes in just his first 100 days",
+    "link": "https://nypost.com/2026/04/10/us-news/mamdani-pushed-combined-23b-worth-of-new-nyc-taxes-in-just-his-first-100-days/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-10-11-12-14 +0000",
+    "source": "nypost",
+    "headline": "Philadelphians already attacking Uber Eats delivery robots one month after launch",
+    "link": "https://nypost.com/2026/04/10/us-news/philadelphians-attack-uber-eats-delivery-robots-one-month-after-launch/"
   },
   {
     "score": 8,
-    "pubdate": "2026-04-10-10-14-18 +0000",
-    "source": "nyt",
-    "headline": "With Iran Setting Limits, Strait of Hormuz Remains Thorny Politically",
-    "link": "https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html"
+    "pubdate": "2026-04-10-12-01-20 +0000",
+    "source": "wapo",
+    "headline": "Iran ceasefire under pressure as strikes in Lebanon continue ahead of talks",
+    "link": "https://www.washingtonpost.com/world/2026/04/10/iran-us-war-ceasefire-trump/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-04-10-12-00-00 +0000",
+    "source": "wsj",
+    "headline": "Risk of De-Dollarization Could Resume if Iran Conflict Ends",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-weaken-ahead-of-u-s-iran-talks-7fd468df?mod=rss_markets_main"
   }
 ]
