@@ -21,18 +21,18 @@
     "link": "https://www.wsj.com/politics/policy/white-house-warns-staff-not-to-place-bets-on-prediction-markets-amid-iran-war-3780668f"
   },
   {
-    "score": 145,
-    "pubdate": "2026-04-09-17-16-08 +0000",
-    "source": "bbc",
-    "headline": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
-    "link": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 144,
     "pubdate": "2026-04-08-18-25-25 +0000",
     "source": "nyt",
     "headline": "Gas Prices Won’t Quickly Return to Prewar Levels, Even if the Strait of Hormuz Reopens",
     "link": "https://www.nytimes.com/2026/04/08/business/energy-environment/iran-war-oil-gas-prices-energy.html"
+  },
+  {
+    "score": 144,
+    "pubdate": "2026-04-09-17-16-08 +0000",
+    "source": "bbc",
+    "headline": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
+    "link": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 104,
@@ -50,17 +50,17 @@
   },
   {
     "score": 91,
-    "pubdate": "2026-04-08-23-37-00 +0000",
-    "source": "wsj",
-    "headline": "A federal appeals court has denied Anthropic’s request for relief from the Defense Department declaring it a supply-chain risk, complicating the legal battle between the government and the AI company",
-    "link": "https://www.wsj.com/politics/national-security/court-denies-anthropic-request-to-end-defense-department-punishment-43d3432e"
-  },
-  {
-    "score": 89,
     "pubdate": "2026-04-09-20-18-00 +0000",
     "source": "wsj",
     "headline": "First lady Melania Trump denied having ties to late sex offender Jeffrey Epstein and called on Congress to hold a public hearing for his victims in a surprise announcement at the White House on Thursday",
     "link": "https://www.wsj.com/politics/melania-trump-denies-any-connection-to-jeffrey-epstein-f5aafcbc"
+  },
+  {
+    "score": 88,
+    "pubdate": "2026-04-08-23-37-00 +0000",
+    "source": "wsj",
+    "headline": "A federal appeals court has denied Anthropic’s request for relief from the Defense Department declaring it a supply-chain risk, complicating the legal battle between the government and the AI company",
+    "link": "https://www.wsj.com/politics/national-security/court-denies-anthropic-request-to-end-defense-department-punishment-43d3432e"
   },
   {
     "score": 86,
