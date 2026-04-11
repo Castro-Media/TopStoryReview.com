@@ -1,38 +1,52 @@
 [
   {
-    "score": 259,
+    "score": 260,
     "pubdate": "2026-04-10-13-32-35 +0000",
     "source": "wapo",
     "headline": "Trump fumes as Iran retains choke hold on Strait of Hormuz ahead of peace talks",
     "link": "https://www.washingtonpost.com/world/2026/04/10/iran-us-war-ceasefire-trump/"
   },
   {
-    "score": 139,
+    "score": 147,
     "pubdate": "2026-04-10-20-23-00 +0000",
     "source": "wsj",
     "headline": "Consumer prices in March rose at their fastest annual rate in two years, thanks to Iran war sending gasoline prices above $4 a gallon.  And that has severely eaten into U.S. paychecks",
     "link": "https://www.wsj.com/economy/consumers/how-the-iran-war-is-affecting-your-wages-3fe2eef5"
   },
   {
-    "score": 112,
-    "pubdate": "2026-04-11-02-28-16 +0000",
+    "score": 140,
+    "pubdate": "2026-04-11-03-49-39 +0000",
     "source": "nypost",
-    "headline": "Four women detail horrific sexual assault, misconduct claims against Eric Swalwell — including ex-staffer who alleges he raped her",
-    "link": "https://nypost.com/2026/04/10/us-news/four-women-accuse-eric-swalwell-of-sexual-misconduct/"
+    "headline": "California Rep. Eric Swalwell slams sexual misconduct, rape allegations against him — as he apologizes to wife in new video",
+    "link": "https://nypost.com/2026/04/10/us-news/california-rep-eric-swalwell-slams-sexual-misconduct-rape-allegations-against-him-as-he-apologizes-to-wife-in-new-video/"
   },
   {
-    "score": 71,
+    "score": 73,
     "pubdate": "2026-04-11-01-21-53 +0000",
     "source": "nyt",
     "headline": "Israel and Lebanon Plan Talks in D.C. as War Threatens U.S.-Iran Cease-Fire Deal",
     "link": "https://www.nytimes.com/2026/04/10/world/middleeast/israel-lebanon-ceasefire-talks-iran-war.html"
   },
   {
-    "score": 52,
-    "pubdate": "2026-04-10-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "GOP's best shot at California governor's office in decades mired in angry internal debate",
-    "link": "https://www.latimes.com/california/story/2026-04-10/republicans-angrily-vie-for-best-shot-at-governors-office-in-decades"
+    "score": 64,
+    "pubdate": "2026-04-10-23-43-57 +0000",
+    "source": "nypost",
+    "headline": "Nancy Pelosi told Eric Swalwell to drop out of governor’s race after sex assault reports",
+    "link": "https://nypost.com/2026/04/10/us-news/eric-swalwell-loses-endorsements-for-ca-governor-after-sex-assault-reports/"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-04-11-00-23-00 +0000",
+    "source": "nyt",
+    "headline": "European Airports Warn of Jet Fuel Shortages if Strait of Hormuz Remains Shut",
+    "link": "https://www.nytimes.com/2026/04/10/business/europe-airports-jet-fuel-shortage.html"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-04-10-16-08-45 +0000",
+    "source": "nypost",
+    "headline": "Kamala Harris said she ‘might’ run for president in 2028 — reveals to Al Sharpton her political comeback deliberations",
+    "link": "https://nypost.com/2026/04/10/us-news/kamala-harris-said-she-might-run-for-president-in-2028-reveals-to-al-sharpton-her-political-comeback-deliberations/"
   },
   {
     "score": 51,
@@ -42,31 +56,17 @@
     "link": "https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html"
   },
   {
-    "score": 50,
-    "pubdate": "2026-04-11-00-23-00 +0000",
-    "source": "nyt",
-    "headline": "European Airports Warn of Jet Fuel Shortages if Strait of Hormuz Remains Shut",
-    "link": "https://www.nytimes.com/2026/04/10/business/europe-airports-jet-fuel-shortage.html"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-04-10-21-25-52 +0000",
-    "source": "latimes",
-    "headline": "Vance warns Iran not to 'play us' ahead of diplomatic mission in Pakistan",
-    "link": "https://www.latimes.com/politics/story/2026-04-10/vance-warns-iran-not-to-play-us-ahead-of-diplomatic-mission-in-pakistan"
-  },
-  {
     "score": 45,
-    "pubdate": "2026-04-10-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Chabria: Wipe out a 'civilization'? Minor stuff compared with what just happened in AI",
-    "link": "https://www.latimes.com/california/story/2026-04-10/chabria-column-anthropic-claude-mythos-preview"
-  },
-  {
-    "score": 44,
     "pubdate": "2026-04-10-16-32-01 +0000",
     "source": "nyt",
     "headline": "‘I’m Fed Up.’ Frustrated With Trump, Starmer Embraces Other Allies.",
     "link": "https://www.nytimes.com/2026/04/10/world/europe/trump-starmer-fed-up-iran-war.html"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-04-10-21-25-52 +0000",
+    "source": "latimes",
+    "headline": "Vance warns Iran not to 'play us' ahead of diplomatic mission in Pakistan",
+    "link": "https://www.latimes.com/politics/story/2026-04-10/vance-warns-iran-not-to-play-us-ahead-of-diplomatic-mission-in-pakistan"
   }
 ]
