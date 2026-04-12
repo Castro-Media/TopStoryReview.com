@@ -1,38 +1,52 @@
 [
   {
-    "score": 188,
-    "pubdate": "2026-04-12-12-27-21 +0000",
+    "score": 201,
+    "pubdate": "2026-04-12-16-17-31 +0000",
     "source": "nyt",
     "headline": "The Strait of Hormuz and Iran’s Uranium Stockpiles Were Sticking Points in U.S.-Iran Peace Talks",
     "link": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html"
   },
   {
-    "score": 101,
+    "score": 97,
     "pubdate": "2026-04-11-23-26-00 +0000",
     "source": "wsj",
     "headline": "Powerful Democrats are calling for Rep. Eric Swalwell to end his campaign for California governor, citing allegations of sexual misconduct. Swalwell called the allegations “flat false.”",
     "link": "https://www.wsj.com/politics/elections/democrats-pressure-swalwell-to-exit-california-governors-race-after-allegations-8dc9f56e"
   },
   {
-    "score": 76,
+    "score": 81,
+    "pubdate": "2026-04-12-16-53-41 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Trump Says U.S. Will ‘Blockade’ Strait of Hormuz After No Peace Deal Reached",
+    "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan"
+  },
+  {
+    "score": 66,
+    "pubdate": "2026-04-12-16-43-52 +0000",
+    "source": "nypost",
+    "headline": "Influencer’s husband threatens Eric Swalwell after he allegedly bombarded her with nudes and turned up at her house",
+    "link": "https://nypost.com/2026/04/12/us-news/victims-husband-threatens-eric-swalwell-after-he-allegedly-bombarded-her-nudes-and-stalked-her/"
+  },
+  {
+    "score": 49,
     "pubdate": "2026-04-12-12-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump and his advisers have been considering the Wall Street and Main Street impact of continued fighting in the Middle East",
     "link": "https://www.wsj.com/politics/policy/white-house-fields-warnings-about-iran-wars-economic-hit-e1208cf0"
   },
   {
-    "score": 54,
-    "pubdate": "2026-04-11-23-00-00 +0000",
-    "source": "wsj",
-    "headline": "Before taking office, RFK Jr. promised to end what he dubbed the FDA’s “aggressive suppression” of raw milk. Now leading the HHS, he has pivoted to the politically safer choice of whole milk.",
-    "link": "https://www.wsj.com/politics/policy/rfk-jr-raw-milk-05c321ef"
+    "score": 40,
+    "pubdate": "2026-04-12-15-13-02 +0000",
+    "source": "nypost",
+    "headline": "Nikki Haley says US will ‘probably’ need to use special forces to get Iran’s uranium, rules out 2028 run",
+    "link": "https://nypost.com/2026/04/12/us-news/nikki-haley-says-us-will-probably-need-to-use-special-forces-to-get-irans-uranium/"
   },
   {
-    "score": 44,
-    "pubdate": "2026-04-12-15-00-13 +0000",
+    "score": 40,
+    "pubdate": "2026-04-12-16-43-33 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: Trump Says U.S. Will ‘Blockade’ Strait of Hormuz After No Peace Deal Reached",
-    "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan"
+    "headline": "Israel Launches New Attacks in Lebanon, Days Ahead of Rare Direct Talks",
+    "link": "https://www.nytimes.com/2026/04/12/world/middleeast/israel-lebanon-attacks-talks.html"
   },
   {
     "score": 40,
@@ -42,13 +56,6 @@
     "link": "https://www.nytimes.com/2026/04/12/world/europe/who-peter-magyar-hungary-election-opposition-orban.html"
   },
   {
-    "score": 40,
-    "pubdate": "2026-04-12-11-47-11 +0000",
-    "source": "nyt",
-    "headline": "Israel Launches New Attacks in Lebanon, Days Ahead of Rare Direct Talks",
-    "link": "https://www.nytimes.com/2026/04/12/world/middleeast/israel-lebanon-attacks-talks.html"
-  },
-  {
     "score": 36,
     "pubdate": "2026-04-12-12-55-17 +0000",
     "source": "cbc",
@@ -56,17 +63,10 @@
     "link": "https://www.cbc.ca/news/world/ukraine-russia-easter-ceasefire-violation-9.7160792?cmp=rss"
   },
   {
-    "score": 36,
-    "pubdate": "2026-04-12-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Neither Iran nor China possess anything like America’s economic muscle, but the two have made up for it by using checkpoints, writes @greg_ip",
-    "link": "https://www.wsj.com/economy/global/kryptonite-to-americas-economic-super-powers-chokepoints-351ee72c"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-04-12-01-19-00 +0000",
-    "source": "wsj",
-    "headline": "Wrong-Way Bets on Oil Had a Star Trader Hundreds of Millions in the Hole",
-    "link": "https://www.wsj.com/business/energy-oil/wrong-way-bets-on-oil-had-a-star-trader-hundreds-of-millions-in-the-hole-b4feff18?mod=rss_markets_main"
+    "score": 35,
+    "pubdate": "2026-04-12-16-27-17 +0000",
+    "source": "nyt",
+    "headline": "Mass Stampede at Haitian Tourist Site Leaves Dozens Dead",
+    "link": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html"
   }
 ]
