@@ -1,9 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-04-11-21-00-42 +0000",
+    "score": 29,
+    "pubdate": "2026-04-11-23-26-00 +0000",
+    "source": "wsj",
+    "headline": "Powerful Democrats are calling for Rep. Eric Swalwell to end his campaign for California governor, citing allegations of sexual misconduct. Swalwell called the allegations “flat false.”",
+    "link": "https://www.wsj.com/politics/elections/democrats-pressure-swalwell-to-exit-california-governors-race-after-allegations-8dc9f56e"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-04-11-23-42-55 +0000",
+    "source": "nyt",
+    "headline": "As Election Looms, Will Alito Retire, Giving Trump a New Supreme Court Pick?",
+    "link": "https://www.nytimes.com/2026/04/11/us/politics/alito-trump-retirement-supreme-court.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-04-11-23-08-23 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: U.S. and Iran Hold Marathon Peace Talks Into the Early Morning",
+    "link": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-12-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "Drivers and delivery workers are adjusting schedules, turning down longer drives, and working more hours to make up for lost income",
+    "link": "https://www.wsj.com/business/hospitality/food-delivery-drivers-gas-prices-321107e6"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-11-23-57-21 +0000",
+    "source": "eltecolote",
+    "headline": "San Francisco hosts first Dolores Huerta parade amid Chávez abuse allegations",
+    "link": "https://eltecolote.org/content/en/dolores-huerta-parade-cesar-chavez/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-11-23-41-37 +0000",
+    "source": "cbc",
+    "headline": "Viktor Orbán spent 16 years building Hungary's 'illiberal' democracy. On Sunday, he may be voted out",
+    "link": "https://www.cbc.ca/news/world/hungary-election-orban-9.7160593?cmp=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-11-23-05-07 +0000",
     "source": "nypost",
-    "headline": "SI police ‘spread thin’ with less cops on the street than in the ‘60s — and double the population",
-    "link": "https://nypost.com/2026/04/11/us-news/si-police-spread-thin-with-less-cops-on-the-street-than-in-the-60s-and-double-the-population/"
+    "headline": "Naked boy, 9, found locked inside dad’s van for years after neighbor reported chilling sounds",
+    "link": "https://nypost.com/2026/04/11/world-news/naked-french-boy-9-found-locked-inside-dads-van-for-years-after-neighbor-reported-chilling-sounds/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-11-23-42-40 +0000",
+    "source": "nyt",
+    "headline": "Takeaways From the First Big Gathering of Potential 2028 Democratic Candidates",
+    "link": "https://www.nytimes.com/2026/04/11/us/politics/democrats-president-2028-sharpton-convention-takeaways.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-11-23-50-39 +0000",
+    "source": "nyt",
+    "headline": "Push to Expel Swalwell Could Touch Off Chain Reaction of House Removal Votes",
+    "link": "https://www.nytimes.com/2026/04/11/us/swalwell-house-removal-votes.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-11-23-13-23 +0000",
+    "source": "bbc",
+    "headline": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
+    "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss"
   }
 ]
