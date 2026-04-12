@@ -1,13 +1,13 @@
 [
   {
-    "score": 201,
+    "score": 195,
     "pubdate": "2026-04-12-16-17-31 +0000",
     "source": "nyt",
     "headline": "The Strait of Hormuz and Iran’s Uranium Stockpiles Were Sticking Points in U.S.-Iran Peace Talks",
     "link": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html"
   },
   {
-    "score": 97,
+    "score": 94,
     "pubdate": "2026-04-11-23-26-00 +0000",
     "source": "wsj",
     "headline": "Powerful Democrats are calling for Rep. Eric Swalwell to end his campaign for California governor, citing allegations of sexual misconduct. Swalwell called the allegations “flat false.”",
@@ -43,13 +43,6 @@
   },
   {
     "score": 40,
-    "pubdate": "2026-04-12-16-43-33 +0000",
-    "source": "nyt",
-    "headline": "Israel Launches New Attacks in Lebanon, Days Ahead of Rare Direct Talks",
-    "link": "https://www.nytimes.com/2026/04/12/world/middleeast/israel-lebanon-attacks-talks.html"
-  },
-  {
-    "score": 40,
     "pubdate": "2026-04-12-04-01-23 +0000",
     "source": "nyt",
     "headline": "Who Is Peter Magyar, the Main Rival to Viktor Orban in Hungary’s Election?",
@@ -57,10 +50,17 @@
   },
   {
     "score": 36,
-    "pubdate": "2026-04-12-12-55-17 +0000",
-    "source": "cbc",
-    "headline": "Ukraine, Russia accuse each other of violating Orthodox Easter ceasefire",
-    "link": "https://www.cbc.ca/news/world/ukraine-russia-easter-ceasefire-violation-9.7160792?cmp=rss"
+    "pubdate": "2026-04-12-11-53-37 +0000",
+    "source": "bbc",
+    "headline": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+    "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-04-12-16-43-33 +0000",
+    "source": "nyt",
+    "headline": "Israel Launches New Attacks in Lebanon, Days Ahead of Rare Direct Talks",
+    "link": "https://www.nytimes.com/2026/04/12/world/middleeast/israel-lebanon-attacks-talks.html"
   },
   {
     "score": 35,
