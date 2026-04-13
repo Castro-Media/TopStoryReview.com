@@ -1,23 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-04-13-08-28-35 +0000",
+    "score": 55,
+    "pubdate": "2026-04-13-10-14-54 +0000",
+    "source": "nyt",
+    "headline": "Trump Said Other Countries Would Help Blockade Iran. So Far, There Are No Takers.",
+    "link": "https://www.nytimes.com/2026/04/13/world/middleeast/trump-iran-blockade-strait-of-hormuz.html"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-04-13-10-07-24 +0000",
     "source": "bbc",
-    "headline": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
-    "link": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss"
+    "headline": "UK could adopt EU single market rules under new legislation",
+    "link": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 10,
-    "pubdate": "2026-04-13-08-24-51 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Oil Climbs Back Above $100 as U.S. Plans Hormuz Blockade",
-    "link": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news"
+    "score": 26,
+    "pubdate": "2026-04-13-10-10-00 +0000",
+    "source": "wsj",
+    "headline": "Aluminum Prices Rise to Four-Year High on Hormuz Blockade Fears, Failed Iran Talks",
+    "link": "https://www.wsj.com/finance/commodities-futures/aluminum-prices-rise-to-four-year-high-on-hormuz-blockade-fears-failed-iran-talks-126a01f8"
   },
   {
-    "score": 8,
-    "pubdate": "2026-04-13-08-26-11 +0000",
+    "score": 21,
+    "pubdate": "2026-04-13-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "Palo Alto Networks Founder Agrees to Buy California Bank for AI Revamp",
+    "link": "https://www.wsj.com/business/deals/palo-alto-networks-founder-agrees-to-buy-california-bank-for-ai-revamp-86c89d9a?mod=rss_markets_main"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-04-13-09-54-26 +0000",
     "source": "nyt",
-    "headline": "Trump Attacks Pope Leo as Too Liberal and ‘Weak on Crime’",
-    "link": "https://www.nytimes.com/2026/04/12/us/politics/trump-attacks-pope-leo.html"
+    "headline": "Defeat of Orban Removes Ukraine’s Biggest Nemesis in Europe",
+    "link": "https://www.nytimes.com/2026/04/13/world/europe/hungary-orban-ukraine-zelensky.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-13-09-46-37 +0000",
+    "source": "bbc",
+    "headline": "Ghanaian footballer killed after armed attackers open fire at team bus",
+    "link": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-13-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "CBS boss Bari Weiss and network’s president slammed for ratings woes at ‘Evening News,’ ‘CBS Mornings’: ‘Odd couple’",
+    "link": "https://nypost.com/2026/04/13/media/cbs-boss-bari-weiss-and-networks-president-slammed-for-ratings-woes-at-cbs-mornings-evening-news-odd-couple/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-13-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "He did everything right. His Los Angeles parking fine kept growing anyway",
+    "link": "https://www.latimes.com/california/story/2026-04-13/he-did-everything-right-his-los-angeles-parking-fine-kept-growing-anyway"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-13-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "San Pedro residents fight plans to put an addiction recovery center in their neighborhood",
+    "link": "https://www.latimes.com/california/story/2026-04-13/san-pedro-neighbors-fight-plans-to-build-addiction-recovery-center"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-13-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "With labor-force growth slowing to a crawl, what’s the best way to expand the economy? Make the workers you have more productive.",
+    "link": "https://www.wsj.com/economy/jobs/the-economy-is-growing-jobs-arent-why-that-might-be-ok-5c50a535"
   }
 ]
