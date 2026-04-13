@@ -1,63 +1,369 @@
 [
   {
+    "headline": "Atlanta teen, 14, arrested for fatal shooting of 12-year-old boy",
+    "link": "https://nypost.com/2026/04/12/us-news/atlanta-teen-14-arrested-for-fatal-shooting-of-12-year-old-boy/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-23-02-18 +0000"
+  },
+  {
+    "headline": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+    "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-12-22-57-22 +0000"
+  },
+  {
+    "headline": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+    "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-12-22-57-22 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: U.S. to Blockade Ships From Iranian Ports",
+    "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-55-24 +0000"
+  },
+  {
+    "headline": "Iran’s Top Negotiator Says Talks Failed Because U.S. Failed to Win Trust",
+    "link": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-55-23 +0000"
+  },
+  {
+    "headline": "Iran’s Top Negotiator Says Talks Failed Because U.S. Failed to Win Trust",
+    "link": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-55-23 +0000"
+  },
+  {
+    "headline": "Democrats join calls to expel Eric Swalwell from Congress over misconduct claims",
+    "link": "https://www.bbc.com/news/articles/cn0wz1k9ekeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-12-22-48-22 +0000"
+  },
+  {
+    "headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
+    "link": "https://www.washingtonpost.com/world/2026/04/12/iran-us-talks-ceasefire-vance/",
+    "source": "wapo",
+    "pubdate": "2026-04-12-22-38-11 +0000"
+  },
+  {
+    "headline": "How Hungary's Péter Magyar went from Viktor Orbán's ally to ending his 16-year rule",
+    "link": "https://www.cbc.ca/news/world/peter-magyar-explainer-9.7161141?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-04-12-22-34-19 +0000"
+  },
+  {
+    "headline": "Live: After a slew of free agency departures, Lynx re-sign Courtney Williams, Kayla McBride",
+    "link": "https://www.startribune.com/minnesota-lynx-wnba-free-agency-napheesa-collier-cheryl-reeve-live-blog/601640113",
+    "source": "startribune",
+    "pubdate": "2026-04-12-22-31-35 +0000"
+  },
+  {
+    "headline": "Tristan Gray, Twins rock Max Scherzer to beat Blue Jays 8-2, take series in Toronto",
+    "link": "https://www.startribune.com/tristan-gray-twins-rock-max-scherzer-to-beat-blue-jays-8-2-take-series-in-toronto/601637775",
+    "source": "startribune",
+    "pubdate": "2026-04-12-22-30-57 +0000"
+  },
+  {
+    "headline": "Timberwolves guard Donte DiVincenzo makes sure social media walk-ins have gone to the dogs",
+    "link": "https://www.startribune.com/timberwolves-guard-donte-divincenzo-makes-sure-social-media-walk-ins-have-gone-to-the-dogs/601637336",
+    "source": "startribune",
+    "pubdate": "2026-04-12-22-30-37 +0000"
+  },
+  {
+    "headline": "Oil Prices Surge Above $100 After Peace Talks Fail and Trump Threatens Blockade",
+    "link": "https://www.nytimes.com/2026/04/12/business/oil-prices-surge-above-100-after-peace-talks-fail-and-trump-threatens-blockade.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-27-30 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-26-55 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-26-55 +0000"
+  },
+  {
+    "headline": "Friend claims maniac Grand Central slasher only kept machete for protection: report",
+    "link": "https://nypost.com/2026/04/12/us-news/friend-claims-maniac-grand-central-slasher-only-kept-machete-for-protection-report/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-22-26-42 +0000"
+  },
+  {
+    "headline": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
+    "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-24-01 +0000"
+  },
+  {
+    "headline": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
+    "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-24-01 +0000"
+  },
+  {
+    "headline": "Stampede at Haiti’s Citadelle Laferrière Mars a Haitian Source of Pride",
+    "link": "https://www.nytimes.com/2026/04/12/us/haiti-stampede-citadelle-laferriere.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-23-33 +0000"
+  },
+  {
+    "headline": "Iran talks were a major test for JD Vance. How did he do?",
+    "link": "https://www.bbc.com/news/articles/c5y7k4y0veyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-12-22-22-42 +0000"
+  },
+  {
+    "headline": "Trump Weighs Limited Strikes Against Iran After Peace Talks Collapse",
+    "link": "https://www.wsj.com/world/middle-east/trump-weighs-limited-strikes-on-iran-after-talks-collapse-71908883",
+    "source": "wsj",
+    "pubdate": "2026-04-12-22-19-00 +0000"
+  },
+  {
+    "headline": "Scores Killed in Nigerian Military Strikes as Clashes With Militants Intensify",
+    "link": "https://www.nytimes.com/2026/04/12/world/africa/snigerian-airstrike-insurgents-civilians.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-18-56 +0000"
+  },
+  {
+    "headline": "Scores Killed in Nigerian Military Strikes as Clashes With Militants Intensify",
+    "link": "https://www.nytimes.com/2026/04/12/world/africa/snigerian-airstrike-insurgents-civilians.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-18-56 +0000"
+  },
+  {
+    "headline": "Woman’s body found floating off NYC — near where man’s corpse was discovered last month",
+    "link": "https://nypost.com/2026/04/12/us-news/womans-body-found-floating-off-nyc-near-where-mans-corpse-was-discovered-last-month/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-22-18-01 +0000"
+  },
+  {
+    "headline": "'Out of control' diesel prices threaten Australia's crucial freight industry",
+    "link": "https://www.bbc.com/news/articles/cde5d8y8lx9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-12-22-11-23 +0000"
+  },
+  {
+    "headline": "An Underwater Phantom Is Killing Fish and Breaking Hearts",
+    "link": "https://www.nytimes.com/2026/04/12/world/australia/south-australia-algal-bloom.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-22-11-20 +0000"
+  },
+  {
+    "headline": "Pope Leo, Critic of His Country’s Warlike Turn, Promotes a Global Vision in Africa",
+    "link": "https://www.wsj.com/world/africa/pope-leo-critic-of-his-countrys-warlike-turn-promotes-a-global-vision-in-africa-83878b1f",
+    "source": "wsj",
+    "pubdate": "2026-04-12-22-00-00 +0000"
+  },
+  {
+    "headline": "Shock twist in fight over ‘Venice menace’ whose face was plastered on ‘Wanted’ posters",
+    "link": "https://nypost.com/2026/04/12/us-news/venice-karen-feud-takes-turn-as-hinano-cafe-defends-neighbor-and-slams-wanted-posters/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-21-58-12 +0000"
+  },
+  {
+    "headline": "Christine Fréchette Is Chosen to Lead Coalition Avenir Québec",
+    "link": "https://www.nytimes.com/2026/04/12/world/americas/canada-quebec-premier-christine-frechette.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-21-58-05 +0000"
+  },
+  {
+    "headline": "Christine Fréchette Is Chosen to Lead Coalition Avenir Québec",
+    "link": "https://www.nytimes.com/2026/04/12/world/americas/canada-quebec-premier-christine-frechette.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-21-58-05 +0000"
+  },
+  {
+    "headline": "Christine Fréchette Is Chosen to Lead Coalition Avenir Québec",
+    "link": "https://www.nytimes.com/2026/04/12/world/americas/canada-quebec-premier-christine-frechette.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-21-58-05 +0000"
+  },
+  {
+    "headline": "Opinion | Trump Blockades the Blockaders in Iran",
+    "link": "https://www.wsj.com/opinion/trump-blockades-the-blockaders-in-iran-93c8c8bd?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-12-21-56-00 +0000"
+  },
+  {
+    "headline": "U.S. Threat to Blockade Hormuz Sets Up Risky New Showdown",
+    "link": "https://www.wsj.com/world/middle-east/u-s-threat-to-blockade-hormuz-sets-up-risky-new-showdown-2e9bdb03",
+    "source": "wsj",
+    "pubdate": "2026-04-12-21-56-00 +0000"
+  },
+  {
+    "headline": "Opinion | Trump Blockades the Blockaders in Iran",
+    "link": "https://www.wsj.com/opinion/trump-blockades-the-blockaders-in-iran-93c8c8bd",
+    "source": "wsj",
+    "pubdate": "2026-04-12-21-56-00 +0000"
+  },
+  {
+    "headline": "Deep-fried food banned in new plans for school dinners",
+    "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-12-21-55-13 +0000"
+  },
+  {
+    "headline": "NJ pit bulls kill good Samaritan who tried to break up their fight",
+    "link": "https://nypost.com/2026/04/12/us-news/nj-pitbulls-kill-good-samaritan-who-tried-to-break-up-their-fight/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-21-53-40 +0000"
+  },
+  {
+    "headline": "NY teen blew up portable toilet with homemade bomb: cops",
+    "link": "https://nypost.com/2026/04/12/us-news/ny-teen-blew-up-portable-toilet-with-homemade-bomb-cops/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-21-50-56 +0000"
+  },
+  {
+    "headline": "Gavin Newsom stays mum on discipline for Eric Swalwell allegations",
+    "link": "https://nypost.com/2026/04/12/us-news/gavin-newsom-breaks-silence-on-claims-against-eric-swalwell/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-21-46-37 +0000"
+  },
+  {
+    "headline": "Gavin Newsom stays mum on discipline for Eric Swalwell allegations",
+    "link": "https://nypost.com/2026/04/12/us-news/gavin-newsom-breaks-silence-on-claims-against-eric-swalwell/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-21-46-37 +0000"
+  },
+  {
+    "headline": "California Republicans rejoice over Swalwell scandal, but split on best GOP candidate for governor",
+    "link": "https://www.latimes.com/california/story/2026-04-12/california-republicans-rejoice-over-swalwell-scandal-but-split-on-best-gop-candidate-for-governor",
+    "source": "latimes",
+    "pubdate": "2026-04-12-21-46-26 +0000"
+  },
+  {
+    "headline": "California Republicans rejoice over Swalwell scandal, but split on best GOP candidate for governor",
+    "link": "https://www.latimes.com/california/story/2026-04-12/california-republicans-rejoice-over-swalwell-scandal-but-split-on-best-gop-candidate-for-governor",
+    "source": "latimes",
+    "pubdate": "2026-04-12-21-46-26 +0000"
+  },
+  {
+    "headline": "How Al Sharpton Sized Up the Potential 2028 Democrats at His Convention",
+    "link": "https://www.nytimes.com/2026/04/12/us/politics/2028-democrats-presidential-sharpton.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-21-41-11 +0000"
+  },
+  {
+    "headline": "How Al Sharpton Sized Up the Potential 2028 Democrats at His Convention",
+    "link": "https://www.nytimes.com/2026/04/12/us/politics/2028-democrats-presidential-sharpton.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-21-41-11 +0000"
+  },
+  {
+    "headline": "Four arrested at protest outside Whipple Building where Turning Point reporter was attacked",
+    "link": "https://www.startribune.com/turning-point-journalist-attack-whipple-building-minneapolis-ice/601666116",
+    "source": "startribune",
+    "pubdate": "2026-04-12-21-40-30 +0000"
+  },
+  {
+    "headline": "Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat",
+    "link": "https://www.washingtonpost.com/world/2026/04/12/hungary-election-viktor-orban-trump/",
+    "source": "wapo",
+    "pubdate": "2026-04-12-21-39-53 +0000"
+  },
+  {
+    "headline": "Illinois mom gets face ripped apart by rescue dog after suffering seizure",
+    "link": "https://nypost.com/2026/04/12/us-news/illinois-mom-gets-face-ripped-apart-by-rescue-dog-after-suffering-seizure/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-21-38-23 +0000"
+  },
+  {
+    "headline": "Opinion | Hungarians Oust Viktor Orbán",
+    "link": "https://www.wsj.com/opinion/hungarians-oust-viktor-orban-466302c1",
+    "source": "wsj",
+    "pubdate": "2026-04-12-21-33-00 +0000"
+  },
+  {
+    "headline": "What is a naval blockade and how would it work in Strait of Hormuz?",
+    "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-12-21-31-29 +0000"
+  },
+  {
+    "headline": "Hungary’s Viktor Orbán Concedes Defeat in Election",
+    "link": "https://www.wsj.com/world/europe/hungary-election-results-orban-b2dbd42a",
+    "source": "wsj",
+    "pubdate": "2026-04-12-21-30-00 +0000"
+  },
+  {
+    "headline": "Opinion | Kathy Hochul Takes On the Trial Bar",
+    "link": "https://www.wsj.com/opinion/kathy-hochul-takes-on-the-trial-bar-fb16063c",
+    "source": "wsj",
+    "pubdate": "2026-04-12-21-28-00 +0000"
+  },
+  {
+    "headline": "Dem California governor candidate brutally grades Gov. Gavin Newsom’s time in charge",
+    "link": "https://nypost.com/2026/04/12/us-news/dem-california-governor-candidate-grades-gavin-newsoms-performance/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-21-24-01 +0000"
+  },
+  {
+    "headline": "Dem California governor candidate brutally grades Gov. Gavin Newsom’s time in charge",
+    "link": "https://nypost.com/2026/04/12/us-news/dem-california-governor-candidate-grades-gavin-newsoms-performance/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-21-24-01 +0000"
+  },
+  {
+    "headline": "Olivier Awards 2026: ‘Paddington’ Wins Big, Rachel Zegler and ‘Evita’ Also Triumph",
+    "link": "https://www.nytimes.com/2026/04/12/theater/olivier-awards-winners.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-21-19-22 +0000"
+  },
+  {
+    "headline": "Four arrested after another teen takeover mob swarms popular Washington DC waterfront night spot",
+    "link": "https://nypost.com/2026/04/12/us-news/four-arrested-after-another-rowdy-mob-swarms-popular-washington-dc-waterfront-night-spot/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-21-12-59 +0000"
+  },
+  {
+    "headline": "Swinney says Scottish independence referendum could be held in 2028",
+    "link": "https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-12-21-07-24 +0000"
+  },
+  {
+    "headline": "Swim warning issued for major California beaches — here’s where",
+    "link": "https://nypost.com/2026/04/12/us-news/la-county-issues-urgent-bacteria-warning-for-all-beaches-after-rain/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-21-06-24 +0000"
+  },
+  {
+    "headline": "Southwest Airlines crew surprises 2-year-old cancer patient with emotional tribute on final trip: ‘So very proud of you’",
+    "link": "https://nypost.com/2026/04/12/us-news/southwest-crew-surprises-2-year-old-cancer-patient-with-tribute/",
+    "source": "nypost",
+    "pubdate": "2026-04-12-21-04-17 +0000"
+  },
+  {
+    "headline": "Israel’s War",
+    "link": "https://www.nytimes.com/2026/04/12/world/israel-lebanon-iran-hungary-orban.html",
+    "source": "nyt",
+    "pubdate": "2026-04-12-21-03-43 +0000"
+  },
+  {
     "headline": "UK regulators rushing to assess risks of latest Anthropic AI model: report",
     "link": "https://nypost.com/2026/04/12/business/uk-regulators-rushing-to-assess-risks-of-latest-anthropic-ai-model-report/",
     "source": "nypost",
     "pubdate": "2026-04-12-21-01-09 +0000"
   },
   {
-    "headline": "Hungary’s Viktor Orbán Concedes Defeat in Election",
-    "link": "https://www.wsj.com/world/europe/hungary-election-results-orban-b2dbd42a",
-    "source": "wsj",
-    "pubdate": "2026-04-12-20-59-00 +0000"
-  },
-  {
-    "headline": "Shootout rocks massive street takeover while popular streamer recorded",
+    "headline": "Spencer Pratt rages after shootout at massive street takeover",
     "link": "https://nypost.com/2026/04/12/us-news/shootout-at-massive-street-takeover-in-california-caught-on-streamers-video/",
     "source": "nypost",
     "pubdate": "2026-04-12-20-57-52 +0000"
-  },
-  {
-    "headline": "Tristan Gray, Twins rock Max Scherzer to beat Blue Jays 8-2, take series in Toronto",
-    "link": "https://www.startribune.com/tristan-gray-twins-rock-max-scherzer-to-beat-blue-jays-8-2-take-series-in-toronto/601637775",
-    "source": "startribune",
-    "pubdate": "2026-04-12-20-57-24 +0000"
-  },
-  {
-    "headline": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
-    "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
-    "source": "nyt",
-    "pubdate": "2026-04-12-20-45-11 +0000"
-  },
-  {
-    "headline": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
-    "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html",
-    "source": "nyt",
-    "pubdate": "2026-04-12-20-45-11 +0000"
-  },
-  {
-    "headline": "Trump threatens Strait of Hormuz blockade after US-Iran ceasefire talks end without agreement",
-    "link": "https://www.startribune.com/us-and-iran-end-ceasefire-talks-and-vance-heads-home-without-an-agreement/601665569",
-    "source": "startribune",
-    "pubdate": "2026-04-12-20-45-06 +0000"
   },
   {
     "headline": "First migrants deported from US to third country arrive in Costa Rica",
     "link": "https://nypost.com/2026/04/12/world-news/first-migrants-deported-to-third-country-arrive-in-costa-rica/",
     "source": "nypost",
     "pubdate": "2026-04-12-20-43-16 +0000"
-  },
-  {
-    "headline": "Iran War Live Updates: Trump Plans to ‘Blockade’ Strait He Insisted Must Open",
-    "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
-    "source": "nyt",
-    "pubdate": "2026-04-12-20-41-08 +0000"
-  },
-  {
-    "headline": "Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat",
-    "link": "https://www.washingtonpost.com/world/2026/04/12/hungary-election-viktor-orban-trump/",
-    "source": "wapo",
-    "pubdate": "2026-04-12-20-34-46 +0000"
   },
   {
     "headline": "Eric Swalwell scandal snowballs for Dems as massive new fallout rocks Congress",
@@ -120,18 +426,6 @@
     "pubdate": "2026-04-12-20-14-25 +0000"
   },
   {
-    "headline": "Iran’s Top Negotiator Says Talks Failed Because U.S. Failed to Win Trust",
-    "link": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html",
-    "source": "nyt",
-    "pubdate": "2026-04-12-20-12-36 +0000"
-  },
-  {
-    "headline": "Iran’s Top Negotiator Says Talks Failed Because U.S. Failed to Win Trust",
-    "link": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html",
-    "source": "nyt",
-    "pubdate": "2026-04-12-20-12-36 +0000"
-  },
-  {
     "headline": "Amazing other-worldly next step for Artemis program after successful flight to moon",
     "link": "https://nypost.com/2026/04/12/us-news/whats-next-for-artemis-program-after-successful-flight-to-the-moon/",
     "source": "nypost",
@@ -174,7 +468,7 @@
     "pubdate": "2026-04-12-19-51-43 +0000"
   },
   {
-    "headline": "Hungary’s Viktor Orbán concedes defeat after ‘painful’ election, Trump ally ends 16-year stint in power",
+    "headline": "Hungary’s Viktor Orbán concedes defeat after ‘painful’ election that ended Trump ally’s 16 years in power",
     "link": "https://nypost.com/2026/04/12/world-news/hungarys-viktor-orban-concedes-defeat-after-painful-election/",
     "source": "nypost",
     "pubdate": "2026-04-12-19-50-52 +0000"
@@ -186,12 +480,6 @@
     "pubdate": "2026-04-12-19-48-28 +0000"
   },
   {
-    "headline": "Why Investing in Wind and Solar to Avoid Gas Shocks Hasn’t Added Up for Some",
-    "link": "https://www.nytimes.com/2026/04/10/climate/europe-energy-crisis-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-04-12-19-44-08 +0000"
-  },
-  {
     "headline": "Israel Launches New Attacks in Lebanon, Days Ahead of Rare Direct Talks",
     "link": "https://www.nytimes.com/2026/04/12/world/middleeast/israel-lebanon-attacks-talks.html",
     "source": "nyt",
@@ -202,24 +490,6 @@
     "link": "https://www.nytimes.com/2026/04/12/world/middleeast/israel-lebanon-attacks-talks.html",
     "source": "nyt",
     "pubdate": "2026-04-12-19-43-08 +0000"
-  },
-  {
-    "headline": "Stampede at Haiti’s Citadelle Laferrière Mars a Haitian Source of Pride",
-    "link": "https://www.nytimes.com/2026/04/12/us/haiti-stampede-citadelle-laferriere.html",
-    "source": "nyt",
-    "pubdate": "2026-04-12-19-42-43 +0000"
-  },
-  {
-    "headline": "Oil giant gives Newsom the middle finger — and offers rare peak inside California’s gas lifeline",
-    "link": "https://nypost.com/2026/04/12/us-news/santa-ynez-oil-refinery-roars-back-pumping-60000-barrels-a-day/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-19-41-28 +0000"
-  },
-  {
-    "headline": "Spiders as large as your hand spark panic in SoCal as they spread across the US",
-    "link": "https://nypost.com/2026/04/12/us-news/giant-joro-spiders-spotted-in-california/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-19-34-43 +0000"
   },
   {
     "headline": "Ka-ching! $2.24-million Powerball ticket sold at Calabasas gas station",
@@ -238,18 +508,6 @@
     "link": "https://www.nytimes.com/2026/04/11/business/lauren-sanchez-bezos-jeff-bezos.html",
     "source": "nyt",
     "pubdate": "2026-04-12-19-20-24 +0000"
-  },
-  {
-    "headline": "Ex-longtime Springsteen drummer Vini Lopez says woke Boss should respect Trump",
-    "link": "https://nypost.com/2026/04/12/us-news/ex-longtime-springsteen-drummer-says-woke-boss-should-respect-trump/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-19-15-47 +0000"
-  },
-  {
-    "headline": "Olivier Awards 2026: ‘Paddington’ Wins Big, Rachel Zegler and ‘Evita’ Also Triumph",
-    "link": "https://www.nytimes.com/2026/04/12/theater/olivier-awards-winners.html",
-    "source": "nyt",
-    "pubdate": "2026-04-12-19-11-34 +0000"
   },
   {
     "headline": "FTC in Settlement Talks With Ad Companies in Boycott Probe",
@@ -312,28 +570,10 @@
     "pubdate": "2026-04-12-18-52-48 +0000"
   },
   {
-    "headline": "Trump's blockade threat raises risks and leaves predicaments unchanged",
-    "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-12-18-48-57 +0000"
-  },
-  {
-    "headline": "Trump's blockade threat raises risks and leaves predicaments unchanged",
-    "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-12-18-48-57 +0000"
-  },
-  {
     "headline": "How JD Vance Tried and Failed to End the War in Iran That He Opposed",
     "link": "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html",
     "source": "nyt",
     "pubdate": "2026-04-12-18-45-57 +0000"
-  },
-  {
-    "headline": "Hollywood mega mansion worth $9M burgled as woman returns home to confront them",
-    "link": "https://nypost.com/2026/04/12/us-news/hollywood-mansion-worth-9m-burgled-homeowner-confronts-thieves/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-18-44-57 +0000"
   },
   {
     "headline": "Futuristic AI ‘grape ripeness detector’ could overhaul wine industry",
@@ -348,12 +588,6 @@
     "pubdate": "2026-04-12-18-40-32 +0000"
   },
   {
-    "headline": "Cuba president talks tough about Trump as nation braces for US attack: ‘If we need to die, we’ll die’",
-    "link": "https://nypost.com/2026/04/12/us-news/cuba-president-talks-tough-about-trump-as-nation-braces-for-us-action-if-we-need-to-die-well-die/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-18-40-32 +0000"
-  },
-  {
     "headline": "Peru Votes for President, With 35 Names on the Ballot",
     "link": "https://www.nytimes.com/2026/04/12/world/americas/peru-presidential-election.html",
     "source": "nyt",
@@ -364,12 +598,6 @@
     "link": "https://www.nytimes.com/2026/04/12/world/americas/peru-presidential-election.html",
     "source": "nyt",
     "pubdate": "2026-04-12-18-37-58 +0000"
-  },
-  {
-    "headline": "Live: After a slew of free agency departures, Lynx re-sign Courtney Williams, Kayla McBride",
-    "link": "https://www.startribune.com/minnesota-lynx-wnba-free-agency-napheesa-collier-cheryl-reeve-live-blog/601640113",
-    "source": "startribune",
-    "pubdate": "2026-04-12-18-36-56 +0000"
   },
   {
     "headline": "Mass Stampede at Haitian Tourist Site Leaves Dozens Dead",
@@ -412,24 +640,6 @@
     "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
     "source": "nyt",
     "pubdate": "2026-04-12-18-24-26 +0000"
-  },
-  {
-    "headline": "Mamdani’s trademark smug videos now undermining his agenda, experts say: ‘Price to pay’",
-    "link": "https://nypost.com/2026/04/12/us-news/mamdanis-trademark-smug-videos-now-undermining-agenda/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-18-21-21 +0000"
-  },
-  {
-    "headline": "Teachers earn whopping pay raise as under-fire LAUSD folds to avert strike",
-    "link": "https://nypost.com/2026/04/12/us-news/teachers-earn-whopping-pay-raise-as-under-fire-lausd-folds-to-avert-strike/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-18-19-31 +0000"
-  },
-  {
-    "headline": "Californians erupt over plans for huge expansion of mosque: ‘Not happening here!’",
-    "link": "https://nypost.com/2026/04/12/us-news/californians-erupt-over-plans-for-huge-mosque-expansion/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-18-18-26 +0000"
   },
   {
     "headline": "Opinion | American Indians Don’t All Want Citizenship",
@@ -448,12 +658,6 @@
     "link": "https://www.wsj.com/world/russia-blasts-through-ukraine-cease-fire-as-trump-backed-talks-drift-3b76a90e",
     "source": "wsj",
     "pubdate": "2026-04-12-18-14-00 +0000"
-  },
-  {
-    "headline": "Elite cop caught swiping on dating app during fatal standoff where Batman-like gadget deployed",
-    "link": "https://nypost.com/2026/04/12/us-news/riverside-county-cop-caught-on-dating-app-during-fatal-chase/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-18-13-47 +0000"
   },
   {
     "headline": "Woman accused of stalking, attacking Fleetwood Mac's Lindsey Buckingham arrested",
@@ -486,28 +690,10 @@
     "pubdate": "2026-04-12-18-11-00 +0000"
   },
   {
-    "headline": "Texas teacher admits to sex with two teens after being spotted kissing young student",
-    "link": "https://nypost.com/2026/04/12/us-news/texas-teacher-admits-to-sex-with-teens-after-shes-spotted-kissing-young-student/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-18-10-03 +0000"
-  },
-  {
     "headline": "Opinion | Wisconsin Midterms Will Tell All",
     "link": "https://www.wsj.com/opinion/wisconsin-midterms-will-tell-all-2eaa1bae",
     "source": "wsj",
     "pubdate": "2026-04-12-18-08-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-04-12-18-05-25 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-04-12-18-05-25 +0000"
   },
   {
     "headline": "Majority of Iran’s fast attacks ships patrolling Strait of Hormuz still in tact: report",
@@ -564,16 +750,10 @@
     "pubdate": "2026-04-12-17-37-39 +0000"
   },
   {
-    "headline": "Anti-Defamation League flunks Mamdani’s 100 day tenure over antisemitism: ‘Serious cause for concern’",
-    "link": "https://nypost.com/2026/04/12/us-news/anti-defamation-league-flunks-mamdanis-100-day-tenure-over-antisemitism/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-17-24-06 +0000"
-  },
-  {
-    "headline": "1 dead in NJ Chick-fil-A mass shooting after masked gunmen storm restaurant",
-    "link": "https://nypost.com/2026/04/12/us-news/1-dead-in-nj-chick-fil-a-mass-shooting-after-masked-gunmen-storm-restaurant/",
-    "source": "nypost",
-    "pubdate": "2026-04-12-17-22-07 +0000"
+    "headline": "Shield wins inaugural Rock League championship, capping first season of pro curling venture",
+    "link": "https://www.cbc.ca/sports/olympics/winter/curling/rock-league-playoffs-recap-april12-9.7160967?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-04-12-17-11-17 +0000"
   },
   {
     "headline": "Trump Fires Board That Oversees Presidio in San Francisco",
@@ -634,12 +814,6 @@
     "link": "https://nypost.com/2026/04/12/us-news/victims-husband-threatens-eric-swalwell-after-he-allegedly-bombarded-her-nudes-and-stalked-her/",
     "source": "nypost",
     "pubdate": "2026-04-12-16-43-52 +0000"
-  },
-  {
-    "headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
-    "link": "https://www.washingtonpost.com/world/2026/04/12/iran-us-talks-ceasefire-vance/",
-    "source": "wapo",
-    "pubdate": "2026-04-12-16-40-59 +0000"
   },
   {
     "headline": "In Pakistan Talks, Iran Saw a U.S. Trying to Dictate, Not Negotiate",
@@ -840,7 +1014,7 @@
     "pubdate": "2026-04-12-15-00-00 +0000"
   },
   {
-    "headline": "LAUSD and teachers union reach tentative agreement days before threatened strike",
+    "headline": "LAUSD and teachers union reach tentative agreement, but there could still be a strike Tuesday",
     "link": "https://www.latimes.com/california/story/2026-04-12/lausd-teachers-union-reach-tentative-agreement-days-before-threatened-strike",
     "source": "latimes",
     "pubdate": "2026-04-12-14-59-42 +0000"
@@ -886,12 +1060,6 @@
     "link": "https://www.nytimes.com/2026/04/12/us/cue-the-record-nyc-vinyl-listening-club.html",
     "source": "nyt",
     "pubdate": "2026-04-12-14-10-15 +0000"
-  },
-  {
-    "headline": "Manhattan DA Opens Investigation Into Eric Swalwell After Sexual Assault Allegations",
-    "link": "https://www.nytimes.com/2026/04/11/us/politics/eric-swalwell-california-governor-sexual-misconduct.html",
-    "source": "nyt",
-    "pubdate": "2026-04-12-14-06-50 +0000"
   },
   {
     "headline": "Manhattan DA Opens Investigation Into Eric Swalwell After Sexual Assault Allegations",
@@ -1106,6 +1274,12 @@
   {
     "headline": "Minneapolis public safety debate back in a familiar place: anger, political squabbling",
     "link": "https://www.startribune.com/minneapolis-city-council-goes-to-battle-with-mayor-jacob-frey-over-the-future-of-public-safety/601664663",
+    "source": "startribune",
+    "pubdate": "2026-04-12-10-00-00 +0000"
+  },
+  {
+    "headline": "Sophie and Colin Hortman reflect on grief, legacy as state looks to memorialize their parents",
+    "link": "https://www.startribune.com/sophie-and-colin-hortman-reflect-on-grief-legacy-as-lawmakers-push-to-memorialize-their-parents/601661833",
     "source": "startribune",
     "pubdate": "2026-04-12-10-00-00 +0000"
   },
@@ -1504,137 +1678,5 @@
     "link": "https://www.bbc.com/news/articles/cgqkl2kqkxzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-12-00-16-41 +0000"
-  },
-  {
-    "headline": "Gig drivers and delivery workers are adjusting schedules, turning down longer rides, and working more hours to make up for lost income",
-    "link": "https://www.wsj.com/economy/food-delivery-drivers-gas-prices-321107e6",
-    "source": "wsj",
-    "pubdate": "2026-04-12-00-00-00 +0000"
-  },
-  {
-    "headline": "Gig Workers Have Seconds to Take a Job. Gas Prices Complicate the Decision.",
-    "link": "https://www.wsj.com/economy/food-delivery-drivers-gas-prices-321107e6?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-12-00-00-00 +0000"
-  },
-  {
-    "headline": "Sex toys thrown at detention facility in L.A. anti-ICE protest; police declare unlawful assembly",
-    "link": "https://www.latimes.com/california/story/2026-04-11/anti-ice-sex-toy-protest-outside-la-detention-center-leads-to-arrests",
-    "source": "latimes",
-    "pubdate": "2026-04-11-23-59-02 +0000"
-  },
-  {
-    "headline": "San Francisco hosts first Dolores Huerta parade amid Chávez abuse allegations",
-    "link": "https://eltecolote.org/content/en/dolores-huerta-parade-cesar-chavez/",
-    "source": "eltecolote",
-    "pubdate": "2026-04-11-23-57-21 +0000"
-  },
-  {
-    "headline": "As Election Looms, Will Alito Retire, Giving Trump a New Supreme Court Pick?",
-    "link": "https://www.nytimes.com/2026/04/11/us/politics/alito-trump-retirement-supreme-court.html",
-    "source": "nyt",
-    "pubdate": "2026-04-11-23-42-55 +0000"
-  },
-  {
-    "headline": "Takeaways From the First Big Gathering of Potential 2028 Democratic Candidates",
-    "link": "https://www.nytimes.com/2026/04/11/us/politics/democrats-president-2028-sharpton-convention-takeaways.html",
-    "source": "nyt",
-    "pubdate": "2026-04-11-23-42-40 +0000"
-  },
-  {
-    "headline": "Takeaways From the First Big Gathering of Potential 2028 Democratic Candidates",
-    "link": "https://www.nytimes.com/2026/04/11/us/politics/democrats-president-2028-sharpton-convention-takeaways.html",
-    "source": "nyt",
-    "pubdate": "2026-04-11-23-42-40 +0000"
-  },
-  {
-    "headline": "Viktor Orbán spent 16 years building Hungary's 'illiberal' democracy. On Sunday, he may be voted out",
-    "link": "https://www.cbc.ca/news/world/hungary-election-orban-9.7160593?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-04-11-23-41-37 +0000"
-  },
-  {
-    "headline": "Powerful Democrats are calling for Rep. Eric Swalwell to end his campaign for California governor, citing allegations of sexual misconduct. Swalwell called the allegations “flat false.”",
-    "link": "https://www.wsj.com/politics/elections/democrats-pressure-swalwell-to-exit-california-governors-race-after-allegations-8dc9f56e",
-    "source": "wsj",
-    "pubdate": "2026-04-11-23-26-00 +0000"
-  },
-  {
-    "headline": "Messy and unpredictable: What I learned from election tour of the UK",
-    "link": "https://www.bbc.com/news/articles/c4gxw5dw8vwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-11-23-19-57 +0000"
-  },
-  {
-    "headline": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
-    "link": "https://www.bbc.com/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-11-23-17-07 +0000"
-  },
-  {
-    "headline": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
-    "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-11-23-13-23 +0000"
-  },
-  {
-    "headline": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
-    "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-11-23-13-23 +0000"
-  },
-  {
-    "headline": "Faisal Islam: Why the government is relaxed about Chinese car imports",
-    "link": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-11-23-12-58 +0000"
-  },
-  {
-    "headline": "Iran war lands 'triple blow' to flood-ravaged Sri Lankans",
-    "link": "https://www.bbc.com/news/articles/c4gvkpj0024o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-11-23-06-49 +0000"
-  },
-  {
-    "headline": "Iran war lands 'triple blow' to flood-ravaged Sri Lankans",
-    "link": "https://www.bbc.com/news/articles/c4gvkpj0024o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-11-23-06-49 +0000"
-  },
-  {
-    "headline": "Naked boy, 9, found locked inside dad’s van for years after neighbor reported chilling sounds",
-    "link": "https://nypost.com/2026/04/11/world-news/naked-french-boy-9-found-locked-inside-dads-van-for-years-after-neighbor-reported-chilling-sounds/",
-    "source": "nypost",
-    "pubdate": "2026-04-11-23-05-07 +0000"
-  },
-  {
-    "headline": "Before taking office, RFK Jr. promised to end what he dubbed the FDA’s “aggressive suppression” of raw milk. Now leading the HHS, he has pivoted to the politically safer choice of whole milk.",
-    "link": "https://www.wsj.com/politics/policy/rfk-jr-raw-milk-05c321ef",
-    "source": "wsj",
-    "pubdate": "2026-04-11-23-00-00 +0000"
-  },
-  {
-    "headline": "RFK Jr. Once Touted Raw Milk. Now He’s Stopped Talking About It.",
-    "link": "https://www.wsj.com/politics/policy/rfk-jr-raw-milk-05c321ef?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-11-23-00-00 +0000"
-  },
-  {
-    "headline": "Trump threatens China with ‘big problems’ if they arm Iranian regime with air defense systems",
-    "link": "https://nypost.com/2026/04/11/world-news/trump-threatens-china-with-big-problems-if-they-arm-iranian-regime/",
-    "source": "nypost",
-    "pubdate": "2026-04-11-22-30-26 +0000"
-  },
-  {
-    "headline": "Pakistani Capital Becomes a Ghost Town During Iran Talks",
-    "link": "https://www.wsj.com/world/middle-east/pakistani-capital-becomes-a-ghost-town-during-iran-talks-b57ec9b9",
-    "source": "wsj",
-    "pubdate": "2026-04-11-22-20-00 +0000"
-  },
-  {
-    "headline": "Husband of American woman missing in Bahamas should ‘tell the truth’ about boating incident, his stepmom says",
-    "link": "https://nypost.com/2026/04/11/world-news/the-husband-of-the-missing-us-woman-should-tell-the-truth-about-bahamas-boating-incident-his-stepmom-says/",
-    "source": "nypost",
-    "pubdate": "2026-04-11-22-15-36 +0000"
   }
 ]
