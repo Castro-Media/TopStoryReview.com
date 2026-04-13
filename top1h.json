@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-04-12-23-02-18 +0000",
+    "score": 38,
+    "pubdate": "2026-04-13-02-09-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump lashed out at Pope Leo XIV following the pontiff’s public condemnation of the war in Iran, accusing the leader of the Catholic Church of being weak on crime and catering to liberals",
+    "link": "https://www.wsj.com/politics/elections/trump-criticizes-pope-leo-accuses-him-of-catering-to-radical-left-2cfb5509"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-04-13-02-35-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump and his advisers have been considering the Wall Street and Main Street impact of continued fighting in the Middle East",
+    "link": "https://www.wsj.com/politics/policy/white-house-fields-warnings-about-iran-wars-economic-hit-e1208cf0"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-04-13-02-35-49 +0000",
+    "source": "bbc",
+    "headline": "Congressman Eric Swalwell quits California governor race amid sexual misconduct claims",
+    "link": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-13-02-12-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Climbs as U.S.-Iran Peace Talks Fail, U.S. Navy Starts Blockade of Strait of Hormuz",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-climbs-as-u-s-iran-peace-talks-fail-u-s-navy-starts-blockade-of-strait-of-hormuz-2a16a7b1?mod=rss_markets_main"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-13-02-35-00 +0000",
+    "source": "wsj",
+    "headline": "White House Fields Warnings About Iran War’s Economic Hit",
+    "link": "https://www.wsj.com/politics/policy/white-house-fields-warnings-about-iran-wars-economic-hit-e1208cf0?mod=rss_markets_main"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-13-01-58-32 +0000",
+    "source": "bbc",
+    "headline": "Viktor Orbán's Hungarian experiment runs out of steam",
+    "link": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-13-01-53-19 +0000",
     "source": "nypost",
-    "headline": "Atlanta teen, 14, arrested for fatal shooting of 12-year-old boy",
-    "link": "https://nypost.com/2026/04/12/us-news/atlanta-teen-14-arrested-for-fatal-shooting-of-12-year-old-boy/"
+    "headline": "Terrifying video shows standoff between female homeowner and creep who broke into her house",
+    "link": "https://nypost.com/2026/04/12/us-news/viral-video-shows-deranged-intruder-targeting-fairfield-family/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-13-02-00-06 +0000",
+    "source": "nyt",
+    "headline": "‘Titaníque’ on Broadway: Wild ‘Titanic’ Parody, With Celine Dion as Kooky Guide",
+    "link": "https://www.nytimes.com/2026/04/12/theater/titanique-review-broadway-dion.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-13-02-07-13 +0000",
+    "source": "startribune",
+    "headline": "Severe thunderstorms, tornadoes, hail predicted to hit Twin Cities on Monday",
+    "link": "https://www.startribune.com/tornado-hail-thunderstorm-storm-rain-storm-severe-weather-twin-cities/601666260"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-13-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "A 50% Property Tax Hike Proposal Is Tearing This Massachusetts Town Apart",
+    "link": "https://www.wsj.com/us-news/a-50-property-tax-hike-proposal-is-tearing-this-massachusetts-town-apart-dc1f66ca"
   }
 ]
