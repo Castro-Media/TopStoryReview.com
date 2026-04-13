@@ -1,52 +1,59 @@
 [
   {
-    "score": 240,
+    "score": 225,
     "pubdate": "2026-04-12-16-17-31 +0000",
     "source": "nyt",
     "headline": "The Strait of Hormuz and Iran’s Uranium Stockpiles Were Sticking Points in U.S.-Iran Peace Talks",
     "link": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html"
   },
   {
-    "score": 137,
+    "score": 141,
     "pubdate": "2026-04-13-01-25-00 +0000",
     "source": "wsj",
     "headline": "Rep. Eric Swalwell said he was suspending his campaign for California governor, following allegations of sexual misconduct that sparked outrage among fellow Democrats",
     "link": "https://www.wsj.com/politics/policy/democrats-call-on-swalwell-to-leave-congress-following-sexual-misconduct-allegations-48b1a05e"
   },
   {
-    "score": 117,
+    "score": 128,
     "pubdate": "2026-04-13-02-09-00 +0000",
     "source": "wsj",
     "headline": "President Trump lashed out at Pope Leo XIV following the pontiff’s public condemnation of the war in Iran, accusing the leader of the Catholic Church of being weak on crime and catering to liberals",
     "link": "https://www.wsj.com/politics/elections/trump-criticizes-pope-leo-accuses-him-of-catering-to-radical-left-2cfb5509"
   },
   {
-    "score": 76,
-    "pubdate": "2026-04-12-22-24-01 +0000",
-    "source": "nyt",
-    "headline": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
-    "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
+    "score": 65,
+    "pubdate": "2026-04-13-02-52-39 +0000",
+    "source": "bbc",
+    "headline": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+    "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-04-13-03-40-00 +0000",
+    "source": "wsj",
+    "headline": "Shorter Timeline to Onshore Inventory ‘Angst’ Likely Amid U.S. Blockade of Iranian Oil",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-climbs-as-u-s-iran-peace-talks-fail-u-s-navy-starts-blockade-of-strait-of-hormuz-2a16a7b1?mod=rss_markets_main"
   },
   {
     "score": 43,
-    "pubdate": "2026-04-12-21-56-00 +0000",
+    "pubdate": "2026-04-12-17-47-00 +0000",
     "source": "wsj",
-    "headline": "U.S. Threat to Blockade Hormuz Sets Up Risky New Showdown",
-    "link": "https://www.wsj.com/world/middle-east/u-s-threat-to-blockade-hormuz-sets-up-risky-new-showdown-2e9bdb03"
+    "headline": "Neither Iran nor China possess anything like America’s economic muscle, but the two have made up for it by using checkpoints, writes @greg_ip",
+    "link": "https://www.wsj.com/economy/global/kryptonite-to-americas-economic-super-powers-chokepoints-351ee72c"
   },
   {
-    "score": 39,
+    "score": 38,
+    "pubdate": "2026-04-12-19-43-08 +0000",
+    "source": "nyt",
+    "headline": "Israel Launches New Attacks in Lebanon, Days Ahead of Rare Direct Talks",
+    "link": "https://www.nytimes.com/2026/04/12/world/middleeast/israel-lebanon-attacks-talks.html"
+  },
+  {
+    "score": 37,
     "pubdate": "2026-04-13-02-35-00 +0000",
     "source": "wsj",
     "headline": "President Trump and his advisers have been considering the Wall Street and Main Street impact of continued fighting in the Middle East",
     "link": "https://www.wsj.com/politics/policy/white-house-fields-warnings-about-iran-wars-economic-hit-e1208cf0"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-04-12-19-23-59 +0000",
-    "source": "cbc",
-    "headline": "Irish PM announces fuel tax cuts amid days of protests over soaring prices at the pumps",
-    "link": "https://www.cbc.ca/news/world/ireland-gas-fuel-protest-tax-9.7161046?cmp=rss"
   },
   {
     "score": 36,
@@ -56,17 +63,10 @@
     "link": "https://www.nytimes.com/2026/04/12/world/americas/haiti-stampede-citadelle-laferriere-deaths.html"
   },
   {
-    "score": 34,
-    "pubdate": "2026-04-12-15-13-02 +0000",
-    "source": "nypost",
-    "headline": "Nikki Haley says US will ‘probably’ need to use special forces to get Iran’s uranium, rules out 2028 run",
-    "link": "https://nypost.com/2026/04/12/us-news/nikki-haley-says-us-will-probably-need-to-use-special-forces-to-get-irans-uranium/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-04-12-17-47-00 +0000",
+    "score": 33,
+    "pubdate": "2026-04-12-09-00-00 +0000",
     "source": "wsj",
-    "headline": "Neither Iran nor China possess anything like America’s economic muscle, but the two have made up for it by using checkpoints, writes @greg_ip",
-    "link": "https://www.wsj.com/economy/global/kryptonite-to-americas-economic-super-powers-chokepoints-351ee72c"
+    "headline": "Jeanine Pirro’s ability to manage a mercurial president has helped make her a dark-horse candidate in MAGA circles to become the next U.S. attorney general",
+    "link": "https://www.wsj.com/politics/policy/judge-jeanine-pirro-trump-08d9c664"
   }
 ]
