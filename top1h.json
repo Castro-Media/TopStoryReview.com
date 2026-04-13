@@ -1,23 +1,72 @@
 [
   {
-    "score": 17,
-    "pubdate": "2026-04-13-05-41-20 +0000",
+    "score": 29,
+    "pubdate": "2026-04-13-06-51-45 +0000",
+    "source": "bbc",
+    "headline": "UK could adopt EU single market rules under new legislation",
+    "link": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-04-13-06-59-06 +0000",
+    "source": "nypost",
+    "headline": "Trump says Iran is ‘in very bad shape,’ doesn’t care if regime comes back to table ahead of planned Strait of Hormuz blockade",
+    "link": "https://nypost.com/2026/04/13/world-news/trump-says-iran-is-in-very-bad-shape-doesnt-care-if-regime-comes-back-to-table-ahead-of-planned-strait-of-hormuz-blockade/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-13-07-09-12 +0000",
     "source": "nyt",
-    "headline": "Trump Says Gas Prices Might Not Drop By Midterms, Highlighting G.O.P. Peril",
-    "link": "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
+    "headline": "‘The Strangest Sleepover Ever’: Dutch Skeptical as Their Royals Visit Trump",
+    "link": "https://www.nytimes.com/2026/04/13/world/europe/trump-dutch-royal-visit-white-house.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-13-06-54-56 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Oil Jumps Back Above $100 as Hopes of Quick End to War Fade",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-13-2026?mod=rss_markets_main"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-13-06-48-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Falls as Trump Hormuz Blockade Threats, Failed Iran Talks Raise Inflation Fears",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-dollar-strengthens-after-u-s-iran-peace-talks-collapse-d3d87fee?mod=rss_markets_main"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-13-06-56-23 +0000",
+    "source": "bbc",
+    "headline": "Deep-fried food banned in new plans for school dinners",
+    "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-04-13-06-53-35 +0000",
+    "source": "bbc",
+    "headline": "PM to scrap spy chiefs' Hillsborough Law veto",
+    "link": "https://www.bbc.com/news/articles/c77mezv330lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 6,
-    "pubdate": "2026-04-13-05-42-00 +0000",
+    "pubdate": "2026-04-13-06-44-00 +0000",
     "source": "wsj",
-    "headline": "U.S. Treasury Yields Rise as Oil Prices Move Higher",
-    "link": "https://www.wsj.com/finance/jgbs-slide-on-renewed-inflation-worries-spurred-by-failure-of-u-s-iran-peace-talks-f992a2a1?mod=rss_markets_main"
+    "headline": "Oil Climbs Above $100 a Barrel as Trump’s Hormuz Blockade Deepens Energy Shock",
+    "link": "https://www.wsj.com/business/energy-oil/oil-climbs-above-100-a-barrel-as-trumps-hormuz-blockade-deepens-energy-shock-28fcaca7?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-13-05-41-20 +0000",
+    "score": 4,
+    "pubdate": "2026-04-13-07-17-19 +0000",
     "source": "nyt",
-    "headline": "Trump Says Gas Prices Might Not Drop By Midterms, Highlighting G.O.P. Peril",
-    "link": "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/13/world/iran-war-trump-news/heres-the-latest"
+  },
+  {
+    "score": 3,
+    "pubdate": "2026-04-13-06-46-00 +0000",
+    "source": "wsj",
+    "headline": "Dollar Rises After U.S.-Iran Talks Collapse",
+    "link": "https://www.wsj.com/finance/investing/asian-currencies-likely-to-be-on-back-foot-for-now-090d8ef8?mod=rss_markets_main"
   }
 ]
