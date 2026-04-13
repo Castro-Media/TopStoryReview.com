@@ -1,26 +1,5 @@
 [
   {
-    "score": 22,
-    "pubdate": "2026-04-13-05-24-51 +0000",
-    "source": "bbc",
-    "headline": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
-    "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-04-13-05-11-59 +0000",
-    "source": "nyt",
-    "headline": "After Chaotic Election Day, Peru Orders 2nd Day of Voting for Some Areas",
-    "link": "https://www.nytimes.com/2026/04/13/world/americas/peru-election-extended-voting.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-04-13-05-18-00 +0000",
-    "source": "wsj",
-    "headline": "Philippines Orders Meta to Tighten Measures Against ‘Panic-Inducing’ Fake News",
-    "link": "https://www.wsj.com/business/philippines-orders-meta-to-tighten-measures-against-panic-inducing-fake-news-7514a5c5?mod=pls_whats_news_us_business_f"
-  },
-  {
     "score": 17,
     "pubdate": "2026-04-13-05-41-20 +0000",
     "source": "nyt",
@@ -28,45 +7,17 @@
     "link": "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-04-13-05-27-59 +0000",
-    "source": "nyt",
-    "headline": "How Would a Blockade of the Strait of Hormuz Work? Here Are Some Possibilities.",
-    "link": "https://www.nytimes.com/2026/04/12/world/middleeast/hormuz-us-blockade.html"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-04-13-05-27-56 +0000",
-    "source": "bbc",
-    "headline": "Rising fuel costs puts strain on transport charity",
-    "link": "https://www.bbc.com/news/articles/cwyxljjvnj2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 6,
-    "pubdate": "2026-04-13-05-10-54 +0000",
-    "source": "bbc",
-    "headline": "'School breakfast club has best toast in the world'",
-    "link": "https://www.bbc.com/news/articles/cly02z2pe35o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 5,
     "pubdate": "2026-04-13-05-42-00 +0000",
     "source": "wsj",
     "headline": "U.S. Treasury Yields Rise as Oil Prices Move Higher",
     "link": "https://www.wsj.com/finance/jgbs-slide-on-renewed-inflation-worries-spurred-by-failure-of-u-s-iran-peace-talks-f992a2a1?mod=rss_markets_main"
   },
   {
-    "score": 4,
-    "pubdate": "2026-04-13-05-00-10 +0000",
+    "score": 0,
+    "pubdate": "2026-04-13-05-41-20 +0000",
     "source": "nyt",
-    "headline": "In the Desert, a ‘Cleaning Station’ for Ants",
-    "link": "https://www.nytimes.com/2026/04/13/science/harvester-cone-ants-cleaning.html"
-  },
-  {
-    "score": 1,
-    "pubdate": "2026-04-13-05-28-00 +0000",
-    "source": "nyt",
-    "headline": "U.S. to Blockade Ships From Iranian Ports",
-    "link": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan"
+    "headline": "Trump Says Gas Prices Might Not Drop By Midterms, Highlighting G.O.P. Peril",
+    "link": "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
   }
 ]
