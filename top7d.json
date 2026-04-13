@@ -25,7 +25,7 @@
     "pubdate": "2026-04-13-10-10-00 +0000",
     "source": "wsj",
     "headline": "Aluminum Prices Rise to Four-Year High on Hormuz Blockade Fears, Failed Iran Talks",
-    "link": "https://www.wsj.com/finance/commodities-futures/aluminum-prices-rise-to-four-year-high-on-hormuz-blockade-fears-failed-iran-talks-126a01f8?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/finance/commodities-futures/aluminum-prices-rise-to-four-year-high-on-hormuz-blockade-fears-failed-iran-talks-126a01f8"
   },
   {
     "score": 133,
@@ -36,10 +36,10 @@
   },
   {
     "score": 124,
-    "pubdate": "2026-04-12-19-50-52 +0000",
-    "source": "nypost",
-    "headline": "Hungary’s Viktor Orbán concedes defeat after ‘painful’ election that ended Trump ally’s 16 years in power",
-    "link": "https://nypost.com/2026/04/12/world-news/hungarys-viktor-orban-concedes-defeat-after-painful-election/"
+    "pubdate": "2026-04-12-22-24-01 +0000",
+    "source": "nyt",
+    "headline": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
+    "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
   },
   {
     "score": 119,
@@ -50,17 +50,17 @@
   },
   {
     "score": 97,
-    "pubdate": "2026-04-10-22-37-00 +0000",
-    "source": "wsj",
-    "headline": "MAHA activists visit the White House as Republicans try to win back a key voting bloc ahead of the midterm elections",
-    "link": "https://www.wsj.com/politics/policy/white-house-woos-maha-influencers-amid-rocky-patch-fea40167"
-  },
-  {
-    "score": 97,
     "pubdate": "2026-04-09-23-01-47 +0000",
     "source": "bbc",
     "headline": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
     "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 97,
+    "pubdate": "2026-04-10-22-37-00 +0000",
+    "source": "wsj",
+    "headline": "MAHA activists visit the White House as Republicans try to win back a key voting bloc ahead of the midterm elections",
+    "link": "https://www.wsj.com/politics/policy/white-house-woos-maha-influencers-amid-rocky-patch-fea40167"
   },
   {
     "score": 94,
