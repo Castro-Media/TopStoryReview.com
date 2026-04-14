@@ -1,6 +1,6 @@
 [
   {
-    "score": 210,
+    "score": 204,
     "pubdate": "2026-04-13-22-55-00 +0000",
     "source": "wsj",
     "headline": "President Trump lashed out at Pope Leo XIV following the pontiff’s public condemnation of the war in Iran",
@@ -14,7 +14,7 @@
     "link": "https://www.nytimes.com/2026/04/13/world/middleeast/strait-hormuz-shipping-iran-blockade-trump.html"
   },
   {
-    "score": 107,
+    "score": 106,
     "pubdate": "2026-04-14-12-31-52 +0000",
     "source": "nypost",
     "headline": "New Eric Swalwell victim speaks out for first time, reveals moment that shook her to her core",
@@ -42,18 +42,11 @@
     "link": "https://www.nytimes.com/2026/04/12/business/oil-prices-surge-above-100-after-peace-talks-fail-and-trump-threatens-blockade.html"
   },
   {
-    "score": 66,
+    "score": 65,
     "pubdate": "2026-04-14-09-07-01 +0000",
     "source": "nypost",
     "headline": "At least 16 injured in mass shooting at high school in Turkey after ex-student opens fire: report",
     "link": "https://nypost.com/2026/04/14/world-news/at-least-16-injured-in-mass-shooting-at-high-school-in-turkey-after-ex-student-opens-fire-report/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-04-13-22-55-00 +0000",
-    "source": "wsj",
-    "headline": "Democratic Rep. Eric Swalwell of California and Republican Rep. Tony Gonzales of Texas said Monday they planned to exit Congress in the wake of sexual-misconduct allegations",
-    "link": "https://www.wsj.com/politics/house-removal-vote-eric-swalwell-tony-gonzales-1ffbcc38"
   },
   {
     "score": 57,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Hezbollah calls on Lebanon to reject US-led peace talks with Israel",
     "link": "https://nypost.com/2026/04/13/world-news/hezbollah-calls-on-lebanon-to-reject-us-led-peace-talks-with-israel/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-04-14-18-42-00 +0000",
+    "source": "wsj",
+    "headline": "A disclosure from Fed chair nominee Kevin Warsh details immense financial holdings that suggest a net worth of at least tens of millions of dollars",
+    "link": "https://www.wsj.com/finance/investing/fed-nominee-kevin-warsh-discloses-vast-wealth-15896865"
   }
 ]
