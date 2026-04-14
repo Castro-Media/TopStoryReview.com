@@ -1,17 +1,10 @@
 [
   {
-    "score": 210,
+    "score": 198,
     "pubdate": "2026-04-13-22-55-00 +0000",
     "source": "wsj",
     "headline": "President Trump lashed out at Pope Leo XIV following the pontiff’s public condemnation of the war in Iran",
     "link": "https://www.wsj.com/politics/elections/trump-criticizes-pope-leo-accuses-him-of-catering-to-radical-left-2cfb5509"
-  },
-  {
-    "score": 116,
-    "pubdate": "2026-04-14-13-53-29 +0000",
-    "source": "nyt",
-    "headline": "Two Iran-Linked Ships Passed Through Strait of Hormuz Ahead of U.S. Blockade",
-    "link": "https://www.nytimes.com/2026/04/13/world/middleeast/strait-hormuz-shipping-iran-blockade-trump.html"
   },
   {
     "score": 114,
@@ -21,6 +14,13 @@
     "link": "https://nypost.com/2026/04/14/us-news/millionaire-who-sheltered-eric-swalwell-as-sex-scandal-broke-claims-hes-no-longer-a-democrat-dont-bust-the-trust/"
   },
   {
+    "score": 95,
+    "pubdate": "2026-04-14-13-53-29 +0000",
+    "source": "nyt",
+    "headline": "Two Iran-Linked Ships Passed Through Strait of Hormuz Ahead of U.S. Blockade",
+    "link": "https://www.nytimes.com/2026/04/13/world/middleeast/strait-hormuz-shipping-iran-blockade-trump.html"
+  },
+  {
     "score": 92,
     "pubdate": "2026-04-14-13-50-22 +0000",
     "source": "nyt",
@@ -28,21 +28,21 @@
     "link": "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html"
   },
   {
-    "score": 79,
-    "pubdate": "2026-04-14-16-23-29 +0000",
-    "source": "bbc",
-    "headline": "Oil prices continue to fall on hopes of new US-Iran peace talks",
-    "link": "https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 77,
+    "score": 76,
     "pubdate": "2026-04-14-02-47-00 +0000",
     "source": "wsj",
     "headline": "Canadian Prime Minister Mark Carney has secured a majority government after electoral victories Monday night and defections to his Liberal Party caucus over the past six months",
     "link": "https://www.wsj.com/world/americas/canadas-carney-secures-majority-mandate-after-electoral-wins-political-defections-2f10dcd8"
   },
   {
-    "score": 63,
+    "score": 73,
+    "pubdate": "2026-04-14-16-23-29 +0000",
+    "source": "bbc",
+    "headline": "Oil prices continue to fall on hopes of new US-Iran peace talks",
+    "link": "https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 62,
     "pubdate": "2026-04-14-09-07-01 +0000",
     "source": "nypost",
     "headline": "At least 16 injured in mass shooting at high school in Turkey after ex-student opens fire: report",
@@ -50,17 +50,10 @@
   },
   {
     "score": 56,
-    "pubdate": "2026-04-13-22-55-00 +0000",
-    "source": "wsj",
-    "headline": "Democratic Rep. Eric Swalwell of California and Republican Rep. Tony Gonzales of Texas said Monday they planned to exit Congress in the wake of sexual-misconduct allegations",
-    "link": "https://www.wsj.com/politics/house-removal-vote-eric-swalwell-tony-gonzales-1ffbcc38"
-  },
-  {
-    "score": 56,
-    "pubdate": "2026-04-14-13-50-31 +0000",
-    "source": "nypost",
-    "headline": "Vance defends Trump posting AI image of him as Jesus: ‘Likes to mix it up’",
-    "link": "https://nypost.com/2026/04/14/us-news/jd-vance-defends-trump-posting-ai-image-of-him-as-jesus-likes-to-mix-it-up/"
+    "pubdate": "2026-04-13-23-02-45 +0000",
+    "source": "bbc",
+    "headline": "Democrats were already scrambling in California's governor race. Then Swalwell dropped out",
+    "link": "https://www.bbc.com/news/articles/cje419peejxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 55,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "White House meetings on college sports’ money mess to give athletes key role for first time starting this week",
     "link": "https://nypost.com/2026/04/14/business/white-house-meetings-on-college-sports-money-mess-to-give-athletes-key-role-for-first-time-starting-this-week/"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-04-14-15-29-59 +0000",
+    "source": "nypost",
+    "headline": "JPMorgan CEO Jamie Dimon urges Senate to vote in Fed Chair nominee Kevin Warsh; Bessent voices confidence in outcome",
+    "link": "https://nypost.com/2026/04/14/business/jpmorgan-ceo-jamie-dimon-urges-senate-to-vote-in-fed-chair-nominee-kevin-warsh/"
   }
 ]
