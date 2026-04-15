@@ -1,37 +1,72 @@
 [
   {
-    "score": 18,
-    "pubdate": "2026-04-15-19-14-00 +0000",
-    "source": "wsj",
-    "headline": "Live Nation Illegally Monopolized Concerts and Ticketing, Jury Finds",
-    "link": "https://www.wsj.com/us-news/law/live-nation-illegally-monopolized-concerts-and-ticketing-jury-finds-389afedd"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-04-15-19-14-50 +0000",
+    "score": 49,
+    "pubdate": "2026-04-15-20-34-44 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Pakistani Mediators Arrive in Iran to Keep Peace Talks Alive",
     "link": "https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel"
   },
   {
-    "score": 8,
-    "pubdate": "2026-04-15-19-11-26 +0000",
+    "score": 32,
+    "pubdate": "2026-04-15-20-45-00 +0000",
+    "source": "bbc",
+    "headline": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
+    "link": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-04-15-20-17-00 +0000",
+    "source": "nypost",
+    "headline": "Swalwell donors footed the bill for NYC trip where disgraced Democrat allegedly raped ex-staffer",
+    "link": "https://nypost.com/2026/04/15/us-news/swalwell-donors-footed-the-bill-for-nyc-trip-where-alleged-rape-happened/"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-04-15-20-49-27 +0000",
+    "source": "nypost",
+    "headline": "Hunter Biden, who got rare unconditional pardon from Joe, attacks Trump’s use of clemency",
+    "link": "https://nypost.com/2026/04/15/us-news/hunter-biden-who-got-rare-unconditional-pardon-from-joe-trashes-president-trumps-use-of-clemency/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-04-15-20-57-49 +0000",
     "source": "nyt",
-    "headline": "Yale Report Finds Colleges Deserve Blame for Higher Education’s Problems",
-    "link": "https://www.nytimes.com/2026/04/15/us/yale-report-colleges-unversities-trust.html"
+    "headline": "Labor Department Investigates Texts Sent Among Staff, Secretary and Her Family",
+    "link": "https://www.nytimes.com/2026/04/15/us/politics/labor-secretary-text-messages.html"
   },
   {
-    "score": 4,
-    "pubdate": "2026-04-15-19-15-00 +0000",
-    "source": "wsj",
-    "headline": "Why Everyone Hates the Ivy League",
-    "link": "https://www.wsj.com/us-news/education/why-everyone-hates-the-ivy-league-4c191a25"
+    "score": 20,
+    "pubdate": "2026-04-15-20-59-12 +0000",
+    "source": "nypost",
+    "headline": "HHS reverses staffing cuts to crucial health care program used by 9/11 survivors",
+    "link": "https://nypost.com/2026/04/15/us-news/hhs-reverses-staffing-cuts-for-world-trade-center-health-program/"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-15-19-14-00 +0000",
+    "score": 20,
+    "pubdate": "2026-04-15-20-11-53 +0000",
+    "source": "nyt",
+    "headline": "Saudi Fund to Back Away From LIV Golf Under Mounting Financial Pressures",
+    "link": "https://www.nytimes.com/2026/04/15/world/middleeast/saudi-soverign-fund-liv-golf.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-15-20-13-05 +0000",
+    "source": "nyt",
+    "headline": "South Africa Names Roelf Meyer, Apartheid-Era Negotiator, as U.S. Ambassador",
+    "link": "https://www.nytimes.com/2026/04/15/world/africa/south-africa-us-ambassador-roelf-meyer.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-04-15-21-00-00 +0000",
     "source": "wsj",
-    "headline": "Live Nation Illegally Monopolized Concerts and Ticketing, Jury Finds",
-    "link": "https://www.wsj.com/us-news/law/live-nation-illegally-monopolized-concerts-and-ticketing-jury-finds-389afedd?mod=pls_whats_news_us_business_f"
+    "headline": "For Its Next Act, Allbirds Makes an Unlikely Pivot From Shoes to AI",
+    "link": "https://www.wsj.com/tech/ai/for-its-next-act-allbirds-makes-an-unlikely-pivot-from-shoes-to-ai-a32cc095?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-15-20-20-59 +0000",
+    "source": "nypost",
+    "headline": "Napa Valley elites look to children to save their crumbling empires while plotting new attractions",
+    "link": "https://nypost.com/2026/04/15/us-news/napa-valley-elites-look-to-children-to-save-their-crumbling-empires-while-plotting-new-attractions/"
   }
 ]
