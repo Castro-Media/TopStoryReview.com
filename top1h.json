@@ -1,9 +1,72 @@
 [
   {
-    "score": 5,
-    "pubdate": "2026-04-15-10-15-00 +0000",
+    "score": 45,
+    "pubdate": "2026-04-15-11-39-31 +0000",
+    "source": "nypost",
+    "headline": "Trump predicts Iran war is ‘very close to being over’ after telling The Post peace talks resuming soon",
+    "link": "https://nypost.com/2026/04/15/us-news/trump-predicts-iran-war-is-very-close-to-being-over-after-telling-the-post-peace-talks-resuming-soon/"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-04-15-11-27-32 +0000",
+    "source": "nypost",
+    "headline": "Eric Swalwell’s ‘best friend’ Sen. Ruben Gallego makes stunning admission about ‘predator’ pol: ‘I regret it’",
+    "link": "https://nypost.com/2026/04/15/us-news/eric-swalwells-best-friend-sen-ruben-gallego-makes-stunning-admission-about-predator-pol-i-regret-it/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-04-15-12-02-07 +0000",
+    "source": "bbc",
+    "headline": "South Africa names apartheid-era politician as new ambassador to the US",
+    "link": "https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-15-11-25-09 +0000",
+    "source": "bbc",
+    "headline": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
+    "link": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-15-11-39-11 +0000",
+    "source": "nyt",
+    "headline": "Kanye West Postpones Concert in France as Government Considers Banning It",
+    "link": "https://www.nytimes.com/2026/04/15/world/europe/kanye-west-ye-france-concert.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-15-11-58-02 +0000",
+    "source": "nyt",
+    "headline": "Japan Pledges $10 Billion to Help Countries Cope With Oil Prices",
+    "link": "https://www.nytimes.com/2026/04/15/business/japan-aid-asia-oil.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-15-11-15-18 +0000",
+    "source": "nyt",
+    "headline": "As talks begin, U.S. applies little pressure to Israel to stop the fighting in Lebanon.",
+    "link": "https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel/israel-lebanon-us-talks"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-15-12-01-00 +0000",
+    "source": "nypost",
+    "headline": "Ukraine captures enemy Russian position using only robots, no humans: ‘The future is already on the front line’",
+    "link": "https://nypost.com/2026/04/15/world-news/ukraine-captures-enemy-russian-position-using-only-robots-no-humans-future-on-the-front-line/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-15-11-32-17 +0000",
+    "source": "nyt",
+    "headline": "American Streamer Johnny Somali Is Sentenced to Prison in South Korea",
+    "link": "https://www.nytimes.com/2026/04/15/world/asia/johnny-somali-youtube-prison-korea.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-15-11-35-00 +0000",
     "source": "wsj",
-    "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-89c5b177?mod=rss_markets_main"
+    "headline": "PNC Profit Rises on Robust Client Activity",
+    "link": "https://www.wsj.com/finance/banking/pnc-profit-rises-on-robust-client-activity-9dcad108?mod=pls_whats_news_us_business_f"
   }
 ]
