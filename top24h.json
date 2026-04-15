@@ -1,13 +1,20 @@
 [
   {
-    "score": 166,
-    "pubdate": "2026-04-15-02-58-25 +0000",
-    "source": "bbc",
-    "headline": "Trump hints Iran talks could resume this week as US port blockade continues",
-    "link": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss"
+    "score": 162,
+    "pubdate": "2026-04-14-13-53-29 +0000",
+    "source": "nyt",
+    "headline": "Two Iran-Linked Ships Passed Through Strait of Hormuz Ahead of U.S. Blockade",
+    "link": "https://www.nytimes.com/2026/04/13/world/middleeast/strait-hormuz-shipping-iran-blockade-trump.html"
   },
   {
-    "score": 128,
+    "score": 134,
+    "pubdate": "2026-04-14-23-30-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is expected to start accepting claims next week for refunds from the tariffs President Trump collected illegally",
+    "link": "https://www.wsj.com/politics/policy/process-to-refund-tariffs-to-begin-next-week-403c6eaa"
+  },
+  {
+    "score": 126,
     "pubdate": "2026-04-14-13-50-22 +0000",
     "source": "nyt",
     "headline": "Middle East War Will Slow Global Economic Growth, I.M.F. Warns",
@@ -21,39 +28,39 @@
     "link": "https://www.wsj.com/us-news/law/jeanine-pirros-prosecutors-make-surprise-visit-to-fed-headquarters-86d9d4bd"
   },
   {
-    "score": 89,
+    "score": 88,
     "pubdate": "2026-04-14-17-32-12 +0000",
     "source": "latimes",
     "headline": "Another woman accuses Swalwell of sexual assault; says she was drugged in Beverly Hills in 2018",
     "link": "https://www.latimes.com/california/story/2026-04-14/eric-swalwell-rape-drugged-drink-beverly-hills-allegations"
   },
   {
-    "score": 78,
-    "pubdate": "2026-04-14-13-53-29 +0000",
+    "score": 71,
+    "pubdate": "2026-04-14-14-44-58 +0000",
     "source": "nyt",
-    "headline": "Two Iran-Linked Ships Passed Through Strait of Hormuz Ahead of U.S. Blockade",
-    "link": "https://www.nytimes.com/2026/04/13/world/middleeast/strait-hormuz-shipping-iran-blockade-trump.html"
+    "headline": "Israel and Lebanon Seek Way Forward in Rare Direct Talks",
+    "link": "https://www.nytimes.com/2026/04/14/world/middleeast/israel-lebanon-talks-dc.html"
   },
   {
-    "score": 61,
+    "score": 58,
+    "pubdate": "2026-04-14-09-07-01 +0000",
+    "source": "nypost",
+    "headline": "At least 16 injured in mass shooting at high school in Turkey after ex-student opens fire: report",
+    "link": "https://nypost.com/2026/04/14/world-news/at-least-16-injured-in-mass-shooting-at-high-school-in-turkey-after-ex-student-opens-fire-report/"
+  },
+  {
+    "score": 58,
     "pubdate": "2026-04-14-21-05-47 +0000",
     "source": "nypost",
     "headline": "Millionaire who sheltered Eric Swalwell as sex scandal broke claims he’s no longer a Democrat: ‘Don’t bust the trust’",
     "link": "https://nypost.com/2026/04/14/us-news/millionaire-who-sheltered-eric-swalwell-as-sex-scandal-broke-claims-hes-no-longer-a-democrat-dont-bust-the-trust/"
   },
   {
-    "score": 60,
-    "pubdate": "2026-04-15-00-52-41 +0000",
+    "score": 56,
+    "pubdate": "2026-04-15-04-01-07 +0000",
     "source": "nyt",
-    "headline": "Rubio Hosts Israel and Lebanon for Rare Meeting Shadowed by U.S.-Iran War",
-    "link": "https://www.nytimes.com/2026/04/14/us/politics/israel-lebanon-talks.html"
-  },
-  {
-    "score": 59,
-    "pubdate": "2026-04-14-09-07-01 +0000",
-    "source": "nypost",
-    "headline": "At least 16 injured in mass shooting at high school in Turkey after ex-student opens fire: report",
-    "link": "https://nypost.com/2026/04/14/world-news/at-least-16-injured-in-mass-shooting-at-high-school-in-turkey-after-ex-student-opens-fire-report/"
+    "headline": "Pope Leo’s Challenge in Cameroon: Show African Catholics How Much They Matter",
+    "link": "https://www.nytimes.com/2026/04/15/world/africa/pope-leo-cameroon-africa.html"
   },
   {
     "score": 55,
@@ -61,12 +68,5 @@
     "source": "wsj",
     "headline": "Maine lawmakers passed a ban on large data-center construction, making it the first state to enact such a measure as communities around the U.S. deal with fallout from the AI boom",
     "link": "https://www.wsj.com/politics/policy/maine-lawmakers-pass-ban-on-large-data-centers-b91c5f2c"
-  },
-  {
-    "score": 54,
-    "pubdate": "2026-04-14-04-12-19 +0000",
-    "source": "nypost",
-    "headline": "Canadian Prime Minister Mark Carney secures a majority government with special election wins",
-    "link": "https://nypost.com/2026/04/14/world-news/canadian-prime-minister-mark-carney-secures-majority-government-with-special-election-wins/"
   }
 ]
