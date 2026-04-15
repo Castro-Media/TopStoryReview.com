@@ -1,66 +1,45 @@
 [
   {
-    "score": 235,
+    "score": 233,
     "pubdate": "2026-04-15-13-46-00 +0000",
     "source": "wsj",
     "headline": "President Trump doubled down on the Justice Department’s criminal investigation of Fed Chair Jerome Powell, saying that he won’t drop the probe and threatening to fire Powell if he doesn’t resign",
     "link": "https://www.wsj.com/economy/central-banking/trump-renews-threats-to-fire-fed-chair-powell-768deeb7"
   },
   {
-    "score": 229,
+    "score": 224,
     "pubdate": "2026-04-15-20-34-44 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Pakistani Mediators Arrive in Iran to Keep Peace Talks Alive",
     "link": "https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel"
   },
   {
-    "score": 79,
+    "score": 77,
     "pubdate": "2026-04-15-15-34-22 +0000",
     "source": "nypost",
     "headline": "Eric Swalwell’s hotshot lawyer comes out swinging — after bombshell new rape claim",
     "link": "https://nypost.com/2026/04/15/us-news/eric-swalwells-hotshot-lawyer-comes-out-swinging-regret-is-not-rape/"
   },
   {
-    "score": 67,
-    "pubdate": "2026-04-14-22-00-20 +0000",
-    "source": "nyt",
-    "headline": "Carney Suspends Gas Tax in Canada as War Drives Up Fuel Costs",
-    "link": "https://www.nytimes.com/2026/04/14/world/middleeast/carney-suspends-fuel-tax.html"
+    "score": 61,
+    "pubdate": "2026-04-15-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "L.A.'s Blue Era: How popular are the Dodgers? Even the Lakers look up at them. Way up",
+    "link": "https://www.latimes.com/sports/dodgers/story/2026-04-15/how-popular-are-dodgers-even-lakers-look-up-at-them-way-up"
   },
   {
-    "score": 64,
-    "pubdate": "2026-04-15-00-52-00 +0000",
-    "source": "wsj",
-    "headline": "Maine lawmakers passed a ban on large data-center construction, making it the first state to enact such a measure as communities around the U.S. deal with fallout from the AI boom",
-    "link": "https://www.wsj.com/politics/policy/maine-lawmakers-pass-ban-on-large-data-centers-b91c5f2c"
-  },
-  {
-    "score": 62,
+    "score": 60,
     "pubdate": "2026-04-15-18-13-23 +0000",
     "source": "nyt",
     "headline": "Iran-Linked Ships Slow or Stop as U.S. Navy Enforces Strait of Hormuz Blockade",
     "link": "https://www.nytimes.com/2026/04/15/world/middleeast/iran-ships-strait-hormuz-blockade.html"
   },
   {
-    "score": 59,
-    "pubdate": "2026-04-15-17-12-47 +0000",
-    "source": "nyt",
-    "headline": "Amid Iran War, Companies Look to Extend a Record Profit Run by Raising Prices",
-    "link": "https://www.nytimes.com/2026/04/15/business/economy/companies-profits-prices-iran-war.html"
-  },
-  {
-    "score": 56,
-    "pubdate": "2026-04-15-08-23-13 +0000",
-    "source": "nypost",
-    "headline": "US internet ‘troll’ Johnny Somali sentenced to South Korea labor prison for public nuisance — months after comparing himself to Otto Warmbier",
-    "link": "https://nypost.com/2026/04/15/world-news/american-youtuber-ramsey-khalid-ismael-aka-johnny-somali-sentenced-to-six-months-in-south-korean-labor-prison/"
-  },
-  {
-    "score": 56,
-    "pubdate": "2026-04-15-20-17-39 +0000",
-    "source": "nyt",
-    "headline": "Live Nation and Ticketmaster Illegally Monopolized Ticketing Market, Jury Finds",
-    "link": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html"
+    "score": 58,
+    "pubdate": "2026-04-15-00-52-00 +0000",
+    "source": "wsj",
+    "headline": "Maine lawmakers passed a ban on large data-center construction, making it the first state to enact such a measure as communities around the U.S. deal with fallout from the AI boom",
+    "link": "https://www.wsj.com/politics/policy/maine-lawmakers-pass-ban-on-large-data-centers-b91c5f2c"
   },
   {
     "score": 55,
@@ -68,5 +47,26 @@
     "source": "nyt",
     "headline": "Rubio Hosts Israel and Lebanon for Rare Meeting Shadowed by U.S.-Iran War",
     "link": "https://www.nytimes.com/2026/04/14/us/politics/israel-lebanon-talks.html"
+  },
+  {
+    "score": 55,
+    "pubdate": "2026-04-15-20-17-39 +0000",
+    "source": "nyt",
+    "headline": "Live Nation and Ticketmaster Illegally Monopolized Ticketing Market, Jury Finds",
+    "link": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html"
+  },
+  {
+    "score": 55,
+    "pubdate": "2026-04-15-08-23-13 +0000",
+    "source": "nypost",
+    "headline": "US internet ‘troll’ Johnny Somali sentenced to South Korea labor prison for public nuisance — months after comparing himself to Otto Warmbier",
+    "link": "https://nypost.com/2026/04/15/world-news/american-youtuber-ramsey-khalid-ismael-aka-johnny-somali-sentenced-to-six-months-in-south-korean-labor-prison/"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-04-15-14-47-49 +0000",
+    "source": "nyt",
+    "headline": "Trump Breaks With Meloni, Italy’s Leader, Amid Dispute Over Pope and Iran",
+    "link": "https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html"
   }
 ]
