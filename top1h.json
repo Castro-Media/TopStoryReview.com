@@ -1,9 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-04-14-23-07-42 +0000",
+    "score": 46,
+    "pubdate": "2026-04-15-00-52-41 +0000",
     "source": "nyt",
-    "headline": "How Peter Magyar Defeated Viktor Orban, a Former Ally, In Hungary’s Election",
-    "link": "https://www.nytimes.com/2026/04/14/world/europe/viktor-orban-peter-magyar-election.html"
+    "headline": "Rubio Hosts Israel and Lebanon for Rare Meeting Shadowed by U.S.-Iran War",
+    "link": "https://www.nytimes.com/2026/04/14/us/politics/israel-lebanon-talks.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-04-15-00-59-51 +0000",
+    "source": "nypost",
+    "headline": "Rep. Elise Stefanik’s new book on campus antisemitism tops Amazon bestseller list as she launches tour",
+    "link": "https://nypost.com/2026/04/14/us-news/rep-elise-stefaniks-new-book-on-campus-antisemitism-tops-amazon-bestseller-list-as-she-launches-book-tour/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-04-15-00-52-00 +0000",
+    "source": "wsj",
+    "headline": "Maine lawmakers passed a ban on large data-center construction, making it the first state to enact such a measure as communities around the U.S. deal with fallout from the AI boom",
+    "link": "https://www.wsj.com/politics/policy/maine-lawmakers-pass-ban-on-large-data-centers-b91c5f2c"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-04-15-00-50-57 +0000",
+    "source": "nypost",
+    "headline": "Gavin Newsom announces future of Eric Swalwell’s House seat, here’s who could replace him",
+    "link": "https://nypost.com/2026/04/14/us-news/gavin-newsom-announces-special-election-to-fill-eric-swalwells-house-seat/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-15-01-01-12 +0000",
+    "source": "nyt",
+    "headline": "Ship ‘Spoofing’ in Strait of Hormuz May Compound Confusion",
+    "link": "https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-15-00-44-39 +0000",
+    "source": "nyt",
+    "headline": "House Passes Air Safety Bill, Setting Up Clash with Senate",
+    "link": "https://www.nytimes.com/2026/04/14/us/politics/house-air-safety-bill.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-15-01-05-39 +0000",
+    "source": "nyt",
+    "headline": "Vance Says the Pope Should Be More Careful When Talking About Theology",
+    "link": "https://www.nytimes.com/2026/04/14/us/politics/vance-pope-trump-georgia.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-15-00-35-31 +0000",
+    "source": "nyt",
+    "headline": "Trump Says 2nd Round of U.S.-Iran Talks Could Take Place This Week",
+    "link": "https://www.nytimes.com/2026/04/14/world/middleeast/us-iran-talks-trump.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-15-00-55-47 +0000",
+    "source": "nypost",
+    "headline": "Missing mom Lynette Hooker’s hubby says ‘sole focus’ is finding his wife after her disappearance in Bahamas",
+    "link": "https://nypost.com/2026/04/14/us-news/missing-mom-lynette-hookers-hubby-says-sole-focus-is-finding-his-wife-after-her-disappearance-in-bahamas/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-15-00-47-49 +0000",
+    "source": "latimes",
+    "headline": "Two dogs stabbed, one killed while defending historic L.A. cemetery, says heartbroken owner",
+    "link": "https://www.latimes.com/california/story/2026-04-14/two-dogs-stabbed-one-killed-while-defending-historic-la-cemetery-says-heartbroken-owner"
   }
 ]
