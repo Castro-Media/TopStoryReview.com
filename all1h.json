@@ -1,20 +1,404 @@
 [
   {
+    "headline": "Iran War Live Updates: Israel Agrees to 10-Day Cease-Fire in Lebanon",
+    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
+    "source": "nyt",
+    "pubdate": "2026-04-16-19-17-05 +0000"
+  },
+  {
+    "headline": "Daniel del Prado’s Cardamom will close amid worker controversy",
+    "link": "https://www.startribune.com/rally-for-workers-follows-daniel-del-prados-cardamom-switch-to-qr-codes/601667842",
+    "source": "startribune",
+    "pubdate": "2026-04-16-19-13-39 +0000"
+  },
+  {
+    "headline": "Iran has just weeks of oil storage left before it has to halt crude production: report",
+    "link": "https://nypost.com/2026/04/16/world-news/iran-can-only-go-2-months-without-oil-exports-before-cutting-output-experts-say/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-19-13-18 +0000"
+  },
+  {
+    "headline": "Opinion | The Populism Numbers Game Doesn’t Work",
+    "link": "https://www.wsj.com/opinion/the-populism-numbers-game-doesnt-work-6338ff66",
+    "source": "wsj",
+    "pubdate": "2026-04-16-19-13-00 +0000"
+  },
+  {
+    "headline": "Here’s why tornado sirens will blare across Minnesota, even on a warm and sunny day",
+    "link": "https://www.startribune.com/heres-why-tornado-sirens-will-blare-across-minnesota-even-on-a-warm-and-sunny-day/601748902",
+    "source": "startribune",
+    "pubdate": "2026-04-16-19-07-07 +0000"
+  },
+  {
+    "headline": "ICE Agent Faces Rare Criminal Charge for Pointing Gun at Minnesota Motorist",
+    "link": "https://www.wsj.com/us-news/ice-agent-faces-rare-criminal-charge-for-pointing-gun-at-minnesota-motorist-67e0a027",
+    "source": "wsj",
+    "pubdate": "2026-04-16-19-07-00 +0000"
+  },
+  {
+    "headline": "Sunset Dunes opponents appeal S.F. court decision to keep Great Highway a park",
+    "link": "https://missionlocal.org/2026/04/sf-great-highway-lawsuit-appeal-sunset-dunes/",
+    "source": "missionlocal",
+    "pubdate": "2026-04-16-19-06-28 +0000"
+  },
+  {
+    "headline": "Jurors wail, family leave courtroom as audio of Athena Strand’s last moments and murder is played: ‘Are you a kidnapper?’",
+    "link": "https://nypost.com/2026/04/16/us-news/jurors-wail-family-leave-courtroom-as-audio-of-athena-strands-last-moments-and-murder-is-played-are-you-a-kidnapper/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-19-04-35 +0000"
+  },
+  {
+    "headline": "Former Virginia Lt. Gov. Justin Fairfax Kills Wife, Self in Apparent Murder-Suicide, Police Say",
+    "link": "https://www.wsj.com/us-news/former-virginia-lt-gov-justin-fairfax-kills-wife-and-self-police-say-04cec09d",
+    "source": "wsj",
+    "pubdate": "2026-04-16-19-04-00 +0000"
+  },
+  {
+    "headline": "Netflix, HBO Max, other streaming services subscribers revolt over jacked-up prices: ‘I’m done’",
+    "link": "https://nypost.com/2026/04/16/business/jacked-up-prices-for-netflix-hbo-max-and-other-streaming-services-spark-subscriber-revolt-im-done/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-19-02-55 +0000"
+  },
+  {
+    "headline": "Mission Buzz: New murals coming to Wiese, pop-ups join forces and El Faro for sale",
+    "link": "https://missionlocal.org/2026/04/mission-buzz-pop-ups-join-forces-and-murals-coming-to-wiese-street/",
+    "source": "missionlocal",
+    "pubdate": "2026-04-16-19-02-34 +0000"
+  },
+  {
+    "headline": "Are You an International Student Looking for Work?",
+    "link": "https://www.nytimes.com/2026/04/16/us/international-students-callout.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-59-57 +0000"
+  },
+  {
+    "headline": "Woman Who Took 15 Tequila Shots on Carnival Cruise Gets $300,000 in Damages",
+    "link": "https://www.nytimes.com/2026/04/16/us/carnival-cruise-lawsuit-damages-tequila-shots.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-59-00 +0000"
+  },
+  {
+    "headline": "Facialist to the stars, husband accused of creepy Scientology monitoring and ‘toxic’ behavior by staff: ‘Worst people I’ve ever met’",
+    "link": "https://nypost.com/2026/04/16/lifestyle/joanna-vargas-spa-employees-accuse-facialist-to-the-stars-of-toxic-workplace-post-investigation/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-57-08 +0000"
+  },
+  {
+    "headline": "Bahrain Charges Intelligence Officer in the Death of a Detainee",
+    "link": "https://www.nytimes.com/2026/04/16/world/middleeast/bahrain-detainee-death-charges.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-56-52 +0000"
+  },
+  {
+    "headline": "Bahrain Charges Intelligence Officer in the Death of a Detainee",
+    "link": "https://www.nytimes.com/2026/04/16/world/middleeast/bahrain-detainee-death-charges.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-56-52 +0000"
+  },
+  {
+    "headline": "House Votes to Preserve Deportation Protections for Haitians, Rebuking Trump",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/house-deportation-protections-haitians-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-54-54 +0000"
+  },
+  {
+    "headline": "House Votes to Preserve Deportation Protections for Haitians, Rebuking Trump",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/house-deportation-protections-haitians-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-54-54 +0000"
+  },
+  {
+    "headline": "U.S. Completes Handover of Military Bases in Syria",
+    "link": "https://www.nytimes.com/2026/04/16/world/middleeast/us-handover-military-bases-syria.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-53-21 +0000"
+  },
+  {
+    "headline": "U.S. Completes Handover of Military Bases in Syria",
+    "link": "https://www.nytimes.com/2026/04/16/world/middleeast/us-handover-military-bases-syria.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-53-21 +0000"
+  },
+  {
+    "headline": "Starmer did not know Mandelson failed vetting, government says",
+    "link": "https://www.bbc.com/news/articles/cx2r15151xgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-18-51-37 +0000"
+  },
+  {
+    "headline": "Two cousins caught in outrageous $9M Airbnb scam where they destroyed 10,000 vacations",
+    "link": "https://nypost.com/2026/04/16/us-news/2-cousins-caught-in-9m-airbnb-scam-targeting-black-customers/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-51-03 +0000"
+  },
+  {
+    "headline": "How Trump’s Blockade of the Strait of Hormuz Works",
+    "link": "https://www.nytimes.com/video/world/middleeast/100000010840310/how-trumps-blockade-of-the-strait-of-hormuz-works.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-49-49 +0000"
+  },
+  {
+    "headline": "How Trump’s Blockade of the Strait of Hormuz Works",
+    "link": "https://www.nytimes.com/video/world/middleeast/100000010840310/how-trumps-blockade-of-the-strait-of-hormuz-works.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-49-49 +0000"
+  },
+  {
+    "headline": "Is Trump meeting the moment for US conservatives?",
+    "link": "https://www.bbc.com/news/videos/crr1pk5jkyqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-18-49-01 +0000"
+  },
+  {
+    "headline": "Is Trump meeting the moment for US conservatives?",
+    "link": "https://www.bbc.com/news/videos/crr1pk5jkyqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-18-49-01 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-45-33 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-45-33 +0000"
+  },
+  {
+    "headline": "Colt case! NYPD cop on horseback chases down convicted killer-turned-purse snatcher in wild NYC bust",
+    "link": "https://nypost.com/2026/04/16/us-news/nypd-cop-on-horseback-chases-down-convicted-killer-turned-purse-snatcher-in-wild-uws-bust/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-45-24 +0000"
+  },
+  {
+    "headline": "Suspected Charlie Kirk assassin Tyler Robinson’s ATF ballistics report unsealed by Utah Judge",
+    "link": "https://nypost.com/2026/04/16/us-news/suspected-charlie-kirk-assassin-tyler-robinsons-atf-ballistics-report-unsealed-by-utah-judge/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-45-08 +0000"
+  },
+  {
+    "headline": "ICE Has Detained Marie-Thérèse Ross-Mahé, an 85-Year-Old Widow",
+    "link": "https://www.nytimes.com/2026/04/16/us/ice-detention-alabama-french-woman.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-43-48 +0000"
+  },
+  {
+    "headline": "Dem Congress wannabe’s son is caught in truly vile comments — as cover-up theory emerges",
+    "link": "https://nypost.com/2026/04/16/us-news/montana-candidate-ryan-busse-responds-after-sons-heil-hitler-posts-surface/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-43-29 +0000"
+  },
+  {
+    "headline": "Dem Congress wannabe’s son is caught in truly vile comments — as cover-up theory emerges",
+    "link": "https://nypost.com/2026/04/16/us-news/montana-candidate-ryan-busse-responds-after-sons-heil-hitler-posts-surface/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-43-29 +0000"
+  },
+  {
+    "headline": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+    "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-18-40-45 +0000"
+  },
+  {
+    "headline": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+    "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-18-40-45 +0000"
+  },
+  {
+    "headline": "Panel Advances Trump’s Triumphal Arch, Even as Key Member Suggests Changes",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-triumphal-arch.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-38-07 +0000"
+  },
+  {
+    "headline": "Panel Advances Trump’s Triumphal Arch, Even as Key Member Suggests Changes",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-triumphal-arch.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-38-07 +0000"
+  },
+  {
+    "headline": "Ford Will Partner More With Chinese Automakers Overseas",
+    "link": "https://www.wsj.com/business/autos/ford-will-partner-more-with-chinese-automakers-overseas-66cc23c9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-16-18-38-00 +0000"
+  },
+  {
+    "headline": "Eric Swalwell donors footed $500K in hotel bills, including rooms where alleged rapes happened",
+    "link": "https://nypost.com/2026/04/16/us-news/eric-swalwell-donors-footed-500k-in-hotel-bills-including-rooms-where-alleged-rapes-happened/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-37-54 +0000"
+  },
+  {
+    "headline": "Eric Swalwell donors footed $500K in hotel bills, including rooms where alleged rapes happened",
+    "link": "https://nypost.com/2026/04/16/us-news/eric-swalwell-donors-footed-500k-in-hotel-bills-including-rooms-where-alleged-rapes-happened/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-37-54 +0000"
+  },
+  {
+    "headline": "Los Angeles braces for gusty Santa Ana winds, followed by rain",
+    "link": "https://www.latimes.com/california/story/2026-04-16/los-angeles-braces-for-gusty-santa-ana-winds-followed-by-rain",
+    "source": "latimes",
+    "pubdate": "2026-04-16-18-35-52 +0000"
+  },
+  {
+    "headline": "Israel agrees to 10-day Lebanon ceasefire",
+    "link": "https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/",
+    "source": "wapo",
+    "pubdate": "2026-04-16-18-35-31 +0000"
+  },
+  {
+    "headline": "‘Surprised’ FIFA kicks back at NJ Gov. Mikie Sherrill’s outrage over World Cup transportation costs",
+    "link": "https://nypost.com/2026/04/16/us-news/surprised-fifa-kicks-back-at-nj-gov-mikie-sherrills-outrage-over-world-cup-transportation-costs/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-34-46 +0000"
+  },
+  {
+    "headline": "Redondo Beach residents issued warning about handling baby owls that fall from palm trees",
+    "link": "https://nypost.com/2026/04/16/science/redondo-beach-residents-warned-to-not-touch-baby-owls-they-find/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-34-39 +0000"
+  },
+  {
+    "headline": "US advises against visiting popular, low-cost European beach as global tensions rise",
+    "link": "https://nypost.com/2026/04/16/world-news/popular-low-cost-european-beach-destination-hit-with-us-travel-advisory-as-global-tensions-rise/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-33-58 +0000"
+  },
+  {
     "headline": "White House Shrugs Off Shaky Economy as War Exceeds Trump’s Timeline",
     "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html",
     "source": "nyt",
-    "pubdate": "2026-04-16-16-19-24 +0000"
+    "pubdate": "2026-04-16-18-33-04 +0000"
   },
   {
-    "headline": "Iran War Live Updates: Trump Announces Lebanon-Israel Cease-Fire",
-    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
+    "headline": "White House Shrugs Off Shaky Economy as War Exceeds Trump’s Timeline",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html",
     "source": "nyt",
-    "pubdate": "2026-04-16-16-18-31 +0000"
+    "pubdate": "2026-04-16-18-33-04 +0000"
   },
   {
-    "headline": "Pope Leo decries world ravaged by ‘tyrants’ following Trump’s insults",
-    "link": "https://www.washingtonpost.com/world/2026/04/16/pope-leo-trump-cameroon/",
-    "source": "wapo",
-    "pubdate": "2026-04-16-16-17-10 +0000"
+    "headline": "White House Shrugs Off Shaky Economy as War Exceeds Trump’s Timeline",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-33-04 +0000"
+  },
+  {
+    "headline": "White House Shrugs Off Shaky Economy as War Exceeds Trump’s Timeline",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-33-04 +0000"
+  },
+  {
+    "headline": "White House Shrugs Off Shaky Economy as War Exceeds Trump’s Timeline",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-33-04 +0000"
+  },
+  {
+    "headline": "White House Shrugs Off Shaky Economy as War Exceeds Trump’s Timeline",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-33-04 +0000"
+  },
+  {
+    "headline": "RFK Jr. grilled on whether he’s ever ‘re-parented’ a black child during wild exchange",
+    "link": "https://nypost.com/2026/04/16/us-news/rfk-jr-grilled-on-whether-hes-ever-re-parented-a-black-child-in-wild-exchange/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-32-46 +0000"
+  },
+  {
+    "headline": "RFK Jr. grilled on whether he’s ever ‘re-parented’ a black child during wild exchange",
+    "link": "https://nypost.com/2026/04/16/us-news/rfk-jr-grilled-on-whether-hes-ever-re-parented-a-black-child-in-wild-exchange/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-32-46 +0000"
+  },
+  {
+    "headline": "The Costa Rican Mountain Town Offering Sanctuary to Families Deported by Trump",
+    "link": "https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-32-35 +0000"
+  },
+  {
+    "headline": "The Costa Rican Mountain Town Offering Sanctuary to Families Deported by Trump",
+    "link": "https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-32-35 +0000"
+  },
+  {
+    "headline": "Rescuers to use air cushions in latest effort to save stranded whale",
+    "link": "https://www.bbc.com/news/articles/c2082pljyk1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-18-30-08 +0000"
+  },
+  {
+    "headline": "The House has passed a bipartisan measure that would reinstate temporary legal protections for Haitian immigrants living in the U.S.",
+    "link": "https://www.wsj.com/politics/policy/gop-house-passes-bill-haitian-immigrants-trump-1ff72340",
+    "source": "wsj",
+    "pubdate": "2026-04-16-18-28-00 +0000"
+  },
+  {
+    "headline": "Pope Leo, Amid Standoff With Trump, Says ‘Woe to Those Who Manipulate Religion’",
+    "link": "https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-27-51 +0000"
+  },
+  {
+    "headline": "Pope Leo, Amid Standoff With Trump, Says ‘Woe to Those Who Manipulate Religion’",
+    "link": "https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-27-51 +0000"
+  },
+  {
+    "headline": "Pope Leo, Amid Standoff With Trump, Says ‘Woe to Those Who Manipulate Religion’",
+    "link": "https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-27-51 +0000"
+  },
+  {
+    "headline": "The grandson of Cuban leader Raúl Castro tapped a wealthy Havana entrepreneur to try to personally deliver a letter to the White House last week",
+    "link": "https://www.wsj.com/politics/national-security/cuba-trump-secret-letter-marco-rubio-1951dc9a",
+    "source": "wsj",
+    "pubdate": "2026-04-16-18-27-00 +0000"
+  },
+  {
+    "headline": "Cuba Tried to Deliver Secret Letter Directly to Trump Via Businessman",
+    "link": "https://www.wsj.com/politics/national-security/cuba-trump-secret-letter-marco-rubio-1951dc9a",
+    "source": "wsj",
+    "pubdate": "2026-04-16-18-27-00 +0000"
+  },
+  {
+    "headline": "House resolution to curtail Trump’s war powers in Iran narrowly fails",
+    "link": "https://nypost.com/2026/04/16/us-news/house-resolution-to-curtail-trumps-war-powers-in-iran-narrowly-fails/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-26-35 +0000"
+  },
+  {
+    "headline": "House resolution to curtail Trump’s war powers in Iran narrowly fails",
+    "link": "https://nypost.com/2026/04/16/us-news/house-resolution-to-curtail-trumps-war-powers-in-iran-narrowly-fails/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-26-35 +0000"
+  },
+  {
+    "headline": "Walmart plans major upgrades for California stores — with surprising new foods and cheaper deals",
+    "link": "https://nypost.com/2026/04/16/business/california-walmart-stores-getting-major-overhaul/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-18-25-18 +0000"
+  },
+  {
+    "headline": "Lawyer John Eastman Disbarred for Efforts to Overturn 2020 Election",
+    "link": "https://www.nytimes.com/2026/04/15/us/john-eastman-disbarred-2020-election.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-20-15 +0000"
+  },
+  {
+    "headline": "Condé Nast Shutters Self Magazine",
+    "link": "https://www.nytimes.com/2026/04/16/business/media/conde-nast-self-glamour-magazine.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-18-19-35 +0000"
   }
 ]
