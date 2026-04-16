@@ -1,59 +1,10 @@
 [
   {
-    "score": 29,
-    "pubdate": "2026-04-16-14-15-08 +0000",
-    "source": "nypost",
-    "headline": "Pope Leo decries world ‘ravaged by tyrants’ amid war of words with Trump",
-    "link": "https://nypost.com/2026/04/16/world-news/pope-leo-decries-world-ravaged-by-tyrants-amid-war-of-words-with-trump/"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-04-16-14-00-00 +0000",
-    "source": "wsj",
-    "headline": "Did Medical Neglect Kill Soccer Hero Maradona? A Criminal Trial Seeks Answers",
-    "link": "https://www.wsj.com/world/americas/did-medical-neglect-kill-soccer-hero-maradona-a-criminal-trial-seeks-answers-e3ab55af"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-04-16-13-43-40 +0000",
-    "source": "bbc",
-    "headline": "UK prepares for food shortages in worst case scenario as Iran war continues",
-    "link": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-04-16-14-07-31 +0000",
-    "source": "nyt",
-    "headline": "Virginia Ex-Lt. Gov. Justin Fairfax Kills Wife and Self, Police Say",
-    "link": "https://www.nytimes.com/2026/04/16/us/virginia-lt-governor-justin-fairfax-murder-wife-suicide.html"
-  },
-  {
-    "score": 20,
+    "score": 18,
     "pubdate": "2026-04-16-14-19-10 +0000",
     "source": "nyt",
     "headline": "China’s G.D.P. Stronger Than Expected, Led by Infrastructure Spending",
     "link": "https://www.nytimes.com/2026/04/15/business/china-economy-growth.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-04-16-13-35-19 +0000",
-    "source": "nyt",
-    "headline": "Orban’s Defeat Punctures Europe’s Far Right, but Also Offers It a Road Map",
-    "link": "https://www.nytimes.com/2026/04/16/world/europe/orban-europe-trump-far-right.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-04-16-14-06-40 +0000",
-    "source": "bbc",
-    "headline": "South African opposition figure Malema sentenced to five years in prison for firing a gun",
-    "link": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-04-16-13-53-25 +0000",
-    "source": "nyt",
-    "headline": "More Young Men Say Religion Is ‘Very Important’ to Them, Poll Finds",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/young-men-religion-importance-poll.html"
   },
   {
     "score": 16,
@@ -63,10 +14,59 @@
     "link": "https://nypost.com/2026/04/16/us-news/athena-strands-mother-reveals-heartbreaking-last-words-she-told-7-year-old-before-she-was-kidnapped-murdered/"
   },
   {
-    "score": 16,
-    "pubdate": "2026-04-16-13-50-19 +0000",
+    "score": 12,
+    "pubdate": "2026-04-16-14-21-13 +0000",
+    "source": "nypost",
+    "headline": "Owner of SF coffee shop issues terse message after eruption over yanking down all Pride flags",
+    "link": "https://nypost.com/2026/04/16/us-news/owner-of-sf-coffee-shop-issues-message-after-removing-pride-flags/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-16-14-21-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Gains Further as U.S. Says Blockade Applies to Iranian Ships Beyond Middle East",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-prospects-of-further-u-s-iran-negotiations-a96b4471?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-16-14-21-35 +0000",
+    "source": "wapo",
+    "headline": "Trump says Israeli, Lebanese leaders will speak amid push to extend ceasefire",
+    "link": "https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-16-14-19-00 +0000",
+    "source": "wsj",
+    "headline": "Former Virginia Lt. Gov. Justin Fairfax Kills Wife and Self, Police Say",
+    "link": "https://www.wsj.com/us-news/former-virginia-lt-gov-justin-fairfax-kills-wife-and-self-police-say-04cec09d"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-16-14-26-17 +0000",
+    "source": "bbc",
+    "headline": "India pushes for women's quota bill as row over parliamentary seats intensifies",
+    "link": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-16-14-19-00 +0000",
+    "source": "wsj",
+    "headline": "EQT’s $11 Billion Buyout Bid Rejected by U.K. Testing Specialist Intertek",
+    "link": "https://www.wsj.com/business/deals/eqts-11-billion-buyout-bid-rejected-by-u-k-testing-specialist-intertek-0c5d5eac?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-04-16-14-24-42 +0000",
+    "source": "bbc",
+    "headline": "Minister considers banning over-the-counter flea treatments for pets",
+    "link": "https://www.bbc.com/news/articles/clyxpnz45yzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-04-16-14-19-10 +0000",
     "source": "nyt",
-    "headline": "The Costa Rican Mountain Town Offering Sanctuary to Families Deported by Trump",
-    "link": "https://www.nytimes.com/2026/04/16/world/americas/trump-deportees-costa-rica.html"
+    "headline": "China’s G.D.P. Stronger Than Expected, Led by Infrastructure Spending",
+    "link": "https://www.nytimes.com/2026/04/15/business/china-economy-growth.html"
   }
 ]
