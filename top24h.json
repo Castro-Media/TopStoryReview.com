@@ -1,62 +1,55 @@
 [
   {
     "score": 230,
-    "pubdate": "2026-04-15-15-27-22 +0000",
-    "source": "bbc",
-    "headline": "Starmer says he's 'not going to yield' to pressure from Trump on Iran war",
-    "link": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-04-15-21-44-37 +0000",
+    "source": "cbc",
+    "headline": "Trump administration signals optimism about ending Iran war — even as it levels new threats",
+    "link": "https://www.cbc.ca/news/world/iran-trump-deal-sanctions-9.7165197?cmp=rss"
   },
   {
-    "score": 100,
+    "score": 134,
     "pubdate": "2026-04-15-13-46-00 +0000",
     "source": "wsj",
     "headline": "President Trump doubled down on the Justice Department’s criminal investigation of Fed Chair Jerome Powell, saying that he won’t drop the probe and threatening to fire Powell if he doesn’t resign",
     "link": "https://www.wsj.com/economy/central-banking/trump-renews-threats-to-fire-fed-chair-powell-768deeb7"
   },
   {
-    "score": 92,
-    "pubdate": "2026-04-15-22-40-26 +0000",
-    "source": "nyt",
-    "headline": "Live Nation and Ticketmaster Illegally Monopolized Ticketing Market, Jury Finds",
-    "link": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html"
+    "score": 94,
+    "pubdate": "2026-04-15-22-56-29 +0000",
+    "source": "bbc",
+    "headline": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
+    "link": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 72,
+    "score": 71,
     "pubdate": "2026-04-15-10-00-00 +0000",
     "source": "latimes",
     "headline": "The price of LAUSD union peace will be $1.2 billion a year. Next up is paying for it",
     "link": "https://www.latimes.com/california/story/2026-04-15/lausd-strike-averted-with-utla-seiu-local-99-2026-contract-agreements-raises"
   },
   {
-    "score": 70,
-    "pubdate": "2026-04-16-00-00-00 +0000",
-    "source": "wsj",
-    "headline": "Gov. Kathy Hochul has thrown New York City Mayor Zohran Mamdani a lifeline on his plan to raise taxes on the wealthy, with a proposal to tax luxury second homes",
-    "link": "https://www.wsj.com/politics/policy/new-york-governors-proposed-pied-a-terre-tax-gains-momentum-e8953641"
-  },
-  {
-    "score": 69,
-    "pubdate": "2026-04-15-17-12-48 +0000",
-    "source": "nyt",
-    "headline": "Amid Iran War, Companies Look to Extend a Record Profit Run by Raising Prices",
-    "link": "https://www.nytimes.com/2026/04/15/business/economy/companies-profits-prices-iran-war.html"
-  },
-  {
-    "score": 64,
+    "score": 65,
     "pubdate": "2026-04-16-01-39-00 +0000",
     "source": "wsj",
     "headline": "Rep. Eric Swalwell of California earned endorsements from top Democrats in his bid to become governor before sexual-misconduct allegations became public",
     "link": "https://www.wsj.com/politics/elections/swalwells-stunning-downfall-creates-a-reckoning-for-democrats-ef9c9e9d"
   },
   {
-    "score": 58,
-    "pubdate": "2026-04-15-22-03-57 +0000",
-    "source": "nypost",
-    "headline": "Iran using cease-fire to dig out bombed missile bases hit by US, Israeli strikes: satellite images",
-    "link": "https://nypost.com/2026/04/15/world-news/iran-digging-out-its-bombed-missile-bases-during-cease-fire-satellite-images-show/"
+    "score": 64,
+    "pubdate": "2026-04-15-17-12-48 +0000",
+    "source": "nyt",
+    "headline": "Amid Iran War, Companies Look to Extend a Record Profit Run by Raising Prices",
+    "link": "https://www.nytimes.com/2026/04/15/business/economy/companies-profits-prices-iran-war.html"
   },
   {
-    "score": 57,
+    "score": 58,
+    "pubdate": "2026-04-16-01-53-01 +0000",
+    "source": "latimes",
+    "headline": "An immigration agent shot out his eye at a 'No Kings' rally. His lawyers plan to file claim against Homeland Security",
+    "link": "https://www.latimes.com/california/story/2026-04-15/immigration-agent-shot-out-his-eye-at-no-kings-rally-his-lawyers-plan-to-file-claim-against-homeland-security"
+  },
+  {
+    "score": 58,
     "pubdate": "2026-04-16-04-27-49 +0000",
     "source": "bbc",
     "headline": "Japan pledges $10bn to help Asian countries deal with oil crisis",
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Catholicism Thrives in Africa, but Pope’s Cameroon Visit Highlights a Divide",
     "link": "https://www.nytimes.com/2026/04/15/world/africa/pope-leo-cameroon-africa.html"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-04-16-06-25-14 +0000",
+    "source": "bbc",
+    "headline": "Israeli demolitions levelling towns in south Lebanon, satellite images show",
+    "link": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss"
   }
 ]
