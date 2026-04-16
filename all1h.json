@@ -1,152 +1,242 @@
 [
   {
-    "headline": "Stocks Rally, Oil Steady as Investor Risk Appetite Grows",
-    "link": "https://www.wsj.com/finance/stocks/stocks-rally-oil-steady-as-investor-risk-appetite-grows-b681b7c3?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-16-08-18-00 +0000"
+    "headline": "Iran War Live Updates: Pakistan’s Shuttle Diplomacy Unfolds in Tehran",
+    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
+    "source": "nyt",
+    "pubdate": "2026-04-16-10-17-04 +0000"
   },
   {
-    "headline": "Wave of Russian drone and missile attacks kill at least 15 in Ukraine",
+    "headline": "Pakistan Looks to Play Peacemaker Between U.S. and Iran, Again",
+    "link": "https://www.nytimes.com/2026/04/16/world/asia/iran-pakistan-diplomacy.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-10-17-02 +0000"
+  },
+  {
+    "headline": "Chip Maker TSMC Is More Bullish Than Ever on AI, Despite Iran War",
+    "link": "https://www.wsj.com/business/earnings/tsmc-posts-profit-beat-despite-middle-east-conflict-f0505d7c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-16-10-14-00 +0000"
+  },
+  {
+    "headline": "UK prepares for food shortages in worst case scenario as Iran war continues",
+    "link": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-10-10-21 +0000"
+  },
+  {
+    "headline": "UK prepares for food shortages in worst case scenario as Iran war continues",
+    "link": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-10-10-21 +0000"
+  },
+  {
+    "headline": "Trump Says Leaders From Israel and Lebanon Will Speak Thursday",
+    "link": "https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-talks-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-10-09-13 +0000"
+  },
+  {
+    "headline": "Trump Says Leaders From Israel and Lebanon Will Speak Thursday",
+    "link": "https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-talks-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-10-09-13 +0000"
+  },
+  {
+    "headline": "Kevin Sorbo says he ‘escaped’ California, slams Democratic leadership in fiery remarks",
+    "link": "https://nypost.com/2026/04/16/us-news/kevin-sorbo-says-he-escaped-california-for-florida-slams-democratic-leadership/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-10-06-14 +0000"
+  },
+  {
+    "headline": "What the U.S. Blockade Means for Iran’s Economy",
+    "link": "https://www.nytimes.com/2026/04/16/business/economy/iran-oil-blockade.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-10-05-23 +0000"
+  },
+  {
+    "headline": "What the U.S. Blockade Means for Iran’s Economy",
+    "link": "https://www.nytimes.com/2026/04/16/business/economy/iran-oil-blockade.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-10-05-23 +0000"
+  },
+  {
+    "headline": "What the U.S. Blockade Means for Iran’s Economy",
+    "link": "https://www.nytimes.com/2026/04/16/business/economy/iran-oil-blockade.html",
+    "source": "nyt",
+    "pubdate": "2026-04-16-10-05-23 +0000"
+  },
+  {
+    "headline": "South African opposition figure Malema sentenced to five years in prison",
+    "link": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-10-01-45 +0000"
+  },
+  {
+    "headline": "South African opposition figure Malema sentenced to five years in prison",
+    "link": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-10-01-45 +0000"
+  },
+  {
+    "headline": "This L.A. mailman retired after 42 years. Hundreds showed up to his farewell party",
+    "link": "https://www.latimes.com/lifestyle/story/2026-04-16/mailman-mount-washington-john-ayala",
+    "source": "latimes",
+    "pubdate": "2026-04-16-10-00-00 +0000"
+  },
+  {
+    "headline": "California sees the most measles cases in 7 years as disease resurges nationwide",
+    "link": "https://www.latimes.com/california/story/2026-04-16/california-sees-most-measles-cases-in-7-years-amid-u-s-surge",
+    "source": "latimes",
+    "pubdate": "2026-04-16-10-00-00 +0000"
+  },
+  {
+    "headline": "LAX's long-awaited train to hit the rails as testing begins",
+    "link": "https://www.latimes.com/california/story/2026-04-16/lax-people-mover-hits-rails-as-testing-starts-when-will-it-open",
+    "source": "latimes",
+    "pubdate": "2026-04-16-10-00-00 +0000"
+  },
+  {
+    "headline": "AMC's Adam Aron backs David Ellison's takeover of Warner Bros. Discovery",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-16/amc-adam-aron-backs-david-ellisons-takeover-of-warner-bros-discovery",
+    "source": "latimes",
+    "pubdate": "2026-04-16-10-00-00 +0000"
+  },
+  {
+    "headline": "This Long Beach startup says it has a patch for California's power problems",
+    "link": "https://www.latimes.com/business/story/2026-04-16/la-fi-critical-loop-power",
+    "source": "latimes",
+    "pubdate": "2026-04-16-10-00-00 +0000"
+  },
+  {
+    "headline": "Wanted activist arrested in South Africa over support for Benin coup plot",
+    "link": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-09-58-14 +0000"
+  },
+  {
+    "headline": "Wanted activist arrested in South Africa over support for Benin coup plot",
+    "link": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-09-58-14 +0000"
+  },
+  {
+    "headline": "Russian missiles and drones bombard Ukraine at night, killing at least 16 people",
+    "link": "https://nypost.com/2026/04/16/world-news/russian-missiles-and-drones-bombard-ukraine-at-night-killing-at-least-16-people/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-09-56-41 +0000"
+  },
+  {
+    "headline": "UK economy grew faster than expected in February ahead of Iran war",
+    "link": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-09-56-06 +0000"
+  },
+  {
+    "headline": "UK economy grew faster than expected in February ahead of Iran war",
+    "link": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-09-56-06 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-16-09-53-58 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-16-09-53-58 +0000"
+  },
+  {
+    "headline": "Trump administration calls on other nations to sign ‘trade over aid’ declaration to ‘promote America First values’: report",
+    "link": "https://nypost.com/2026/04/16/us-news/trump-administration-calls-on-other-nations-to-sign-trade-over-aid-declaration-to-promote-america-first-values-report/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-09-47-49 +0000"
+  },
+  {
+    "headline": "Trump administration calls on other nations to sign ‘trade over aid’ declaration to ‘promote America First values’: report",
+    "link": "https://nypost.com/2026/04/16/us-news/trump-administration-calls-on-other-nations-to-sign-trade-over-aid-declaration-to-promote-america-first-values-report/",
+    "source": "nypost",
+    "pubdate": "2026-04-16-09-47-49 +0000"
+  },
+  {
+    "headline": "Airstrike by Nigeria, U.S. ally against Islamist militants, kills scores",
+    "link": "https://www.washingtonpost.com/world/2026/04/16/nigeria-market-attack-boko-haram-iswap/",
+    "source": "wapo",
+    "pubdate": "2026-04-16-09-43-56 +0000"
+  },
+  {
+    "headline": "Wave of Russian drone and missile attacks kill at least 16 in Ukraine",
     "link": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-16-08-17-48 +0000"
+    "pubdate": "2026-04-16-09-43-39 +0000"
   },
   {
-    "headline": "Repsol Signs Agreement With Venezuelan Government to Increase Oil Production",
-    "link": "https://www.wsj.com/world/americas/repsol-signs-agreement-with-venezuelan-government-to-increase-oil-production-30fdf168?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-16-08-07-00 +0000"
-  },
-  {
-    "headline": "Repsol Signs Agreement With Venezuelan Government to Increase Oil Production",
-    "link": "https://www.wsj.com/world/americas/repsol-signs-agreement-with-venezuelan-government-to-increase-oil-production-30fdf168",
-    "source": "wsj",
-    "pubdate": "2026-04-16-08-07-00 +0000"
-  },
-  {
-    "headline": "More Young Men Say Religion Is ‘Very Important’ to Them, Poll Finds",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/young-men-religion-importance-poll.html",
-    "source": "nyt",
-    "pubdate": "2026-04-16-08-00-06 +0000"
-  },
-  {
-    "headline": "More Young Men Say Religion Is ‘Very Important’ to Them, Poll Finds",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/young-men-religion-importance-poll.html",
-    "source": "nyt",
-    "pubdate": "2026-04-16-08-00-06 +0000"
-  },
-  {
-    "headline": "'Here we go again' after CRA pays out another bogus $5M income tax refund, agency insider says",
-    "link": "https://www.cbc.ca/news/canada/cra-bogus-refund-9.7165058?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-04-16-08-00-00 +0000"
-  },
-  {
-    "headline": "Canadian soldier sues Ottawa and U.S. gun maker over accidental shooting",
-    "link": "https://www.cbc.ca/news/politics/pistol-soldier-canada-wounded-p320-9.7165101?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-04-16-08-00-00 +0000"
-  },
-  {
-    "headline": "More young men are attending religious services regularly, poll finds",
-    "link": "https://www.washingtonpost.com/nation/2026/04/16/young-men-religion-church-poll/",
+    "headline": "Trump says Israeli, Lebanese leaders will meet amid push to extend ceasefire",
+    "link": "https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/",
     "source": "wapo",
-    "pubdate": "2026-04-16-08-00-00 +0000"
+    "pubdate": "2026-04-16-09-34-08 +0000"
   },
   {
-    "headline": "Artemis II astronauts set to share more about historic mission around the moon",
-    "link": "https://www.cbc.ca/news/science/artemisii-astronauts-qanda-9.7165256?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-04-16-08-00-00 +0000"
-  },
-  {
-    "headline": "Stock Market Today: Stock Futures Tick Higher as Optimism Continues",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-16-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-16-07-47-47 +0000"
-  },
-  {
-    "headline": "Eurozone Bond Yields Fall, Italian BTPs Outperform",
-    "link": "https://www.wsj.com/finance/investing/jgbs-mixed-may-be-weighed-by-declines-in-u-s-treasurys-ff31e3f7?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-16-07-45-00 +0000"
-  },
-  {
-    "headline": "Asian Stocks Advance on U.S.-Iran Deal Hopes",
-    "link": "https://www.wsj.com/finance/stocks/asian-stocks-advance-on-u-s-iran-deal-hopes-21045362?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-16-07-43-00 +0000"
-  },
-  {
-    "headline": "Asian Stocks Advance on U.S.-Iran Deal Hopes",
-    "link": "https://www.wsj.com/finance/stocks/asian-stocks-advance-on-u-s-iran-deal-hopes-21045362?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-16-07-43-00 +0000"
-  },
-  {
-    "headline": "Pakistani Mediators Arrive in Iran to Keep Peace Talks Alive",
-    "link": "https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel",
-    "source": "nyt",
-    "pubdate": "2026-04-16-07-42-08 +0000"
-  },
-  {
-    "headline": "Physical Oil Squeeze Deepens on Persistent Hormuz Disruptions",
+    "headline": "Oil Prices Possibly Past Peak Despite Continuing Middle East Tensions",
     "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-prospects-of-further-u-s-iran-negotiations-a96b4471?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-04-16-07-42-00 +0000"
+    "pubdate": "2026-04-16-09-34-00 +0000"
   },
   {
-    "headline": "Gold Holds Above $4,800 on Iran Talks Optimism, Softer Oil",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-hopes-for-more-u-s-iran-talks-cf413f2c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-16-07-40-00 +0000"
-  },
-  {
-    "headline": "UK economy grew faster than expected ahead of Iran war",
-    "link": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-16-07-38-33 +0000"
-  },
-  {
-    "headline": "UK economy grew faster than expected ahead of Iran war",
-    "link": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-16-07-38-33 +0000"
-  },
-  {
-    "headline": "Navy reservist accused of murdering wife and hiding her body in freezer arrested after international manhunt",
-    "link": "https://nypost.com/2026/04/16/us-news/navy-reservist-david-varela-arrested-after-wife-lina-maria-guerra-found-in-freezer-at-virginia-home/",
-    "source": "nypost",
-    "pubdate": "2026-04-16-07-36-18 +0000"
-  },
-  {
-    "headline": "easyJet Flags First-Half Loss as Middle East Conflict Bites",
-    "link": "https://www.wsj.com/business/earnings/easyjet-flags-first-half-loss-as-middle-east-conflict-bites-a40e1835?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-16-07-33-00 +0000"
-  },
-  {
-    "headline": "Tesco Broadens Guidance as Iran War Uncertainty Clouds Outlook",
-    "link": "https://www.wsj.com/business/retail/tesco-broadens-guidance-as-iran-war-uncertainty-clouds-outlook-44dbf12b?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-16-07-25-00 +0000"
-  },
-  {
-    "headline": "Pakistani army chief visits Tehran in bid to broker renewed talks between US and Iran",
-    "link": "https://nypost.com/2026/04/16/world-news/pakistani-army-chief-visits-tehran-in-bid-to-broker-renewed-talks-between-us-and-iran/",
-    "source": "nypost",
-    "pubdate": "2026-04-16-07-25-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/heres-the-latest",
+    "headline": "Trump’s ‘Triumphal Arch’ Draws Backlash, Even From an Expert Who Proposed It",
+    "link": "https://www.nytimes.com/2026/04/15/us/politics/trump-arch-dc.html",
     "source": "nyt",
-    "pubdate": "2026-04-16-07-23-05 +0000"
+    "pubdate": "2026-04-16-09-32-59 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news/heres-the-latest",
+    "headline": "Trump’s ‘Triumphal Arch’ Draws Backlash, Even From an Expert Who Proposed It",
+    "link": "https://www.nytimes.com/2026/04/15/us/politics/trump-arch-dc.html",
     "source": "nyt",
-    "pubdate": "2026-04-16-07-23-05 +0000"
+    "pubdate": "2026-04-16-09-32-59 +0000"
+  },
+  {
+    "headline": "Wall Street Is Spending Its Big Windfall on Wall Street",
+    "link": "https://www.wsj.com/finance/banking/wall-street-is-spending-its-big-windfall-on-wall-street-55de0545?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-16-09-30-00 +0000"
+  },
+  {
+    "headline": "The Bar Made Famous by ‘Out of Africa’ Still Bans Women. They’ve Had Enough.",
+    "link": "https://www.wsj.com/lifestyle/muthaiga-club-women-policy-bar-meryl-streep-174b6958",
+    "source": "wsj",
+    "pubdate": "2026-04-16-09-30-00 +0000"
+  },
+  {
+    "headline": "Barry Callebaut Shares Plunge After Profit Warning",
+    "link": "https://www.wsj.com/business/earnings/barry-callebaut-shares-plunge-after-profit-warning-bb7b0f24?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-16-09-21-00 +0000"
+  },
+  {
+    "headline": "Things can't go on like this with online safety, Starmer tells tech bosses",
+    "link": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-09-20-36 +0000"
+  },
+  {
+    "headline": "Things can't go on like this with online safety, Starmer tells tech bosses",
+    "link": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-09-20-36 +0000"
+  },
+  {
+    "headline": "Turkish police order 83 arrests over online praise for school shootings",
+    "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-09-20-20 +0000"
+  },
+  {
+    "headline": "Turkish police order 83 arrests over online praise for school shootings",
+    "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-16-09-20-20 +0000"
   }
 ]
