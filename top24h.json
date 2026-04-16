@@ -1,6 +1,6 @@
 [
   {
-    "score": 242,
+    "score": 235,
     "pubdate": "2026-04-15-20-07-10 +0000",
     "source": "nyt",
     "headline": "Senate Republicans Again Block Bid to Limit Trump’s Iran War Powers",
@@ -21,7 +21,7 @@
     "link": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 70,
+    "score": 69,
     "pubdate": "2026-04-15-17-12-48 +0000",
     "source": "nyt",
     "headline": "Amid Iran War, Companies Look to Extend a Record Profit Run by Raising Prices",
@@ -32,7 +32,7 @@
     "pubdate": "2026-04-16-07-03-00 +0000",
     "source": "wsj",
     "headline": "TotalEnergies Eyes Boost From Oil-Price Surge, Despite Hit to Production",
-    "link": "https://www.wsj.com/business/energy-oil/totalenergies-eyes-boost-from-oil-price-surge-despite-hit-to-production-8491e512?mod=rss_markets_main"
+    "link": "https://www.wsj.com/business/energy-oil/totalenergies-eyes-boost-from-oil-price-surge-despite-hit-to-production-8491e512"
   },
   {
     "score": 57,
@@ -42,14 +42,7 @@
     "link": "https://www.wsj.com/politics/policy/new-york-governors-proposed-pied-a-terre-tax-gains-momentum-e8953641"
   },
   {
-    "score": 57,
-    "pubdate": "2026-04-16-06-42-51 +0000",
-    "source": "bbc",
-    "headline": "Big energy shock will push up prices, Bank boss tells BBC",
-    "link": "https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 55,
+    "score": 54,
     "pubdate": "2026-04-16-02-46-33 +0000",
     "source": "cbc",
     "headline": "Russian strikes kill 16 across Ukraine in worst attack this year",
@@ -57,16 +50,23 @@
   },
   {
     "score": 53,
-    "pubdate": "2026-04-15-19-58-58 +0000",
-    "source": "nyt",
-    "headline": "Catholicism Thrives in Africa, but Pope’s Cameroon Visit Highlights a Divide",
-    "link": "https://www.nytimes.com/2026/04/15/world/africa/pope-leo-cameroon-africa.html"
+    "pubdate": "2026-04-16-13-13-24 +0000",
+    "source": "bbc",
+    "headline": "Europe has 'maybe 6 weeks of jet fuel left', energy boss warns",
+    "link": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 52,
-    "pubdate": "2026-04-15-22-09-13 +0000",
+    "score": 53,
+    "pubdate": "2026-04-16-13-10-10 +0000",
     "source": "bbc",
-    "headline": "Howl recordings and an AI image: Inside South Korea's long hunt for an escaped wolf",
-    "link": "https://www.bbc.com/news/articles/c24882dem6po?at_medium=RSS&at_campaign=rss"
+    "headline": "Blunt-speaking Pope tells Cameroon to root out corruption to find peace",
+    "link": "https://www.bbc.com/news/articles/c5yj796plqmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-04-16-09-09-00 +0000",
+    "source": "wsj",
+    "headline": "Rep. Eric Swalwell of California earned endorsements from top Democrats in his bid to become governor before sexual-misconduct allegations became public",
+    "link": "https://www.wsj.com/politics/elections/swalwells-stunning-downfall-creates-a-reckoning-for-democrats-ef9c9e9d"
   }
 ]
