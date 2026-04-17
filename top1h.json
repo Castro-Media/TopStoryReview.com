@@ -1,24 +1,10 @@
 [
   {
-    "score": 22,
-    "pubdate": "2026-04-17-05-14-24 +0000",
-    "source": "nyt",
-    "headline": "Trump says he might go to Pakistan if an Iran deal were signed there.",
-    "link": "https://www.nytimes.com/2026/04/16/world/middleeast/trump-says-he-might-go-to-pakistan-if-an-iran-deal-were-signed-there.html"
-  },
-  {
     "score": 14,
     "pubdate": "2026-04-17-05-27-41 +0000",
     "source": "bbc",
     "headline": "Singer D4vd arrested on suspicion of murdering teenage girl",
     "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-04-17-04-40-35 +0000",
-    "source": "nyt",
-    "headline": "Why China Isn’t Pushing Iran to Accept U.S. Demands to End War",
-    "link": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html"
   },
   {
     "score": 11,
@@ -28,20 +14,6 @@
     "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news"
   },
   {
-    "score": 11,
-    "pubdate": "2026-04-17-05-08-57 +0000",
-    "source": "nypost",
-    "headline": "Over 200 swarm Atlanta intersection in illegal street takeover roaring with cars racing and doing donuts",
-    "link": "https://nypost.com/2026/04/17/us-news/over-200-swarm-atlanta-intersection-in-illegal-street-takeover-roaring-with-cars-racing-and-doing-donuts/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-04-17-05-21-57 +0000",
-    "source": "nypost",
-    "headline": "Boy, 13, stabbed with large knife during suspected dispute near NYC park",
-    "link": "https://nypost.com/2026/04/17/us-news/boy-13-stabbed-in-leg-during-suspected-dispute-near-nyc-park/"
-  },
-  {
     "score": 8,
     "pubdate": "2026-04-17-05-33-53 +0000",
     "source": "startribune",
@@ -49,24 +21,17 @@
     "link": "https://www.startribune.com/minnesota-lynx-wnba-free-agency-napheesa-collier-cheryl-reeve-live-blog/601640113"
   },
   {
-    "score": 6,
-    "pubdate": "2026-04-17-05-20-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Treasury Yields Edge Higher in Calmer Trade",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-964d5f55?mod=rss_markets_main"
-  },
-  {
-    "score": 3,
-    "pubdate": "2026-04-17-04-50-29 +0000",
-    "source": "nyt",
-    "headline": "Bitcoin’s Greatest Mystery",
-    "link": "https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html"
-  },
-  {
     "score": 2,
     "pubdate": "2026-04-17-05-34-48 +0000",
     "source": "bbc",
     "headline": "What we know about the ceasefire between Lebanon and Israel",
     "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-04-17-05-27-41 +0000",
+    "source": "bbc",
+    "headline": "Singer D4vd arrested on suspicion of murdering teenage girl",
+    "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss"
   }
 ]
