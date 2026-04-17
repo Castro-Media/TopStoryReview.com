@@ -1,37 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-04-17-05-27-41 +0000",
+    "score": 20,
+    "pubdate": "2026-04-17-06-47-00 +0000",
+    "source": "wsj",
+    "headline": "Todd Lyons, the acting director of ICE, the agency central to the Trump administration’s migration crackdown, is set to leave the department in May",
+    "link": "https://www.wsj.com/politics/policy/ice-acting-chief-todd-lyons-to-depart-d4921db0"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-04-17-06-30-00 +0000",
+    "source": "wsj",
+    "headline": "Bouygues, Orange, Iliad in $24 Billion Talks to Buy Altice’s French Telecoms Assets",
+    "link": "https://www.wsj.com/business/telecom/bouygues-orange-iliad-in-24-billion-talks-to-buy-altices-french-telecoms-assets-530a017f?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-04-17-06-25-34 +0000",
     "source": "bbc",
-    "headline": "Singer D4vd arrested on suspicion of murdering teenage girl",
-    "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss"
+    "headline": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+    "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-17-06-59-03 +0000",
+    "source": "nyt",
+    "headline": "Iran War Forces America’s Friends in Asia to Court Its Rivals",
+    "link": "https://www.nytimes.com/2026/04/17/world/asia/iran-war-us-asia-russia.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-17-07-14-38 +0000",
+    "source": "nypost",
+    "headline": "Israel, Lebanon 10-day cease-fire begins after Trump hails ‘historic day’",
+    "link": "https://nypost.com/2026/04/17/world-news/israel-lebanon-10-day-cease-fire-begins-after-trump-hails-historic-day/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-17-07-05-41 +0000",
+    "source": "nypost",
+    "headline": "Murder suspect in Iowa realtor cold-case has bail reduced after attorneys argue she had no criminal history",
+    "link": "https://nypost.com/2026/04/17/us-news/iowa-murder-suspect-kristin-ramsey-released-on-reduced-bond-after-ashley-okland-cold-case-arrest/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-17-06-35-57 +0000",
+    "source": "bbc",
+    "headline": "Chinese carmaker patents voice-controlled 'in-vehicle toilet'",
+    "link": "https://www.bbc.com/news/articles/c1l92yv4mydo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-17-06-29-47 +0000",
+    "source": "nypost",
+    "headline": "Minnesota dad who shoved Turning Point USA journalist at anti-ICE protest says family is ‘absolutely not violent’",
+    "link": "https://nypost.com/2026/04/17/us-news/minnesota-dad-who-assaulted-turning-point-usa-journo-says-family-is-not-violent/"
   },
   {
     "score": 11,
-    "pubdate": "2026-04-17-05-37-34 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: Lebanon-Israel Cease-Fire Goes Into Effect",
-    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news"
+    "pubdate": "2026-04-17-06-58-00 +0000",
+    "source": "wsj",
+    "headline": "Eurozone Bond Yields Rise; Investors Hopeful of Middle East Resolution",
+    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-964d5f55?mod=rss_markets_main"
   },
   {
-    "score": 8,
-    "pubdate": "2026-04-17-05-33-53 +0000",
-    "source": "startribune",
-    "headline": "Live: Napheesa Collier receives one-year, $1.4 million contract with Lynx",
-    "link": "https://www.startribune.com/minnesota-lynx-wnba-free-agency-napheesa-collier-cheryl-reeve-live-blog/601640113"
-  },
-  {
-    "score": 2,
-    "pubdate": "2026-04-17-05-34-48 +0000",
-    "source": "bbc",
-    "headline": "What we know about the ceasefire between Lebanon and Israel",
-    "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-04-17-05-27-41 +0000",
-    "source": "bbc",
-    "headline": "Singer D4vd arrested on suspicion of murdering teenage girl",
-    "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss"
+    "score": 11,
+    "pubdate": "2026-04-17-06-58-00 +0000",
+    "source": "wsj",
+    "headline": "Uber Buys $318 Million Delivery Hero Stake from Prosus as Part of Just Eat Remedy",
+    "link": "https://www.wsj.com/business/deals/uber-buys-part-of-prosus-stake-in-delivery-hero-as-part-of-just-eat-remedy-b338504c?mod=pls_whats_news_us_business_f"
   }
 ]
