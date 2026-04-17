@@ -1,41 +1,48 @@
 [
   {
-    "score": 204,
-    "pubdate": "2026-04-16-19-34-41 +0000",
+    "score": 223,
+    "pubdate": "2026-04-17-03-38-46 +0000",
     "source": "nyt",
-    "headline": "House Again Thwarts Challenge to Trump’s Authority to Continue Iran War",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/house-war-powers-iran.html"
+    "headline": "Trump Promotes ‘No Tax on Tips’ in Las Vegas and Brushes Off Iran War Inflation Concerns",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-taxes-fuel-las-vegas.html"
   },
   {
-    "score": 98,
+    "score": 87,
     "pubdate": "2026-04-16-22-39-46 +0000",
     "source": "nyt",
     "headline": "The cease-fire goes into effect after Israel and Hezbollah exchange fire.",
     "link": "https://www.nytimes.com/2026/04/16/world/middleeast/cease-fire-in-lebanon-set-to-take-effect.html"
   },
   {
-    "score": 73,
-    "pubdate": "2026-04-16-18-33-04 +0000",
-    "source": "nyt",
-    "headline": "White House Shrugs Off Shaky Economy as War Exceeds Trump’s Timeline",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/trump-economy-iran-war.html"
+    "score": 81,
+    "pubdate": "2026-04-17-00-06-14 +0000",
+    "source": "nypost",
+    "headline": "White House budget chief Russ Vought warns DHS ‘disintegrating’ amid partial government shutdown",
+    "link": "https://nypost.com/2026/04/16/us-news/white-house-budget-chief-russ-vought-warns-dhs-is-disintegrating-amid-shutdown/"
   },
   {
     "score": 70,
-    "pubdate": "2026-04-16-09-09-00 +0000",
-    "source": "wsj",
-    "headline": "Rep. Eric Swalwell of California earned endorsements from top Democrats in his bid to become governor before sexual-misconduct allegations became public",
-    "link": "https://www.wsj.com/politics/elections/swalwells-stunning-downfall-creates-a-reckoning-for-democrats-ef9c9e9d"
-  },
-  {
-    "score": 68,
     "pubdate": "2026-04-16-20-48-00 +0000",
     "source": "wsj",
     "headline": "President Trump says he will nominate Dr. Erica Schwartz to direct the CDC, which has been without a permanent director since Susan Monarez was ousted after clashing with RFK Jr. over vaccine policy",
     "link": "https://www.wsj.com/politics/policy/trump-says-hell-nominate-erica-schwartz-to-lead-cdc-1b4d2686"
   },
   {
-    "score": 66,
+    "score": 69,
+    "pubdate": "2026-04-16-09-09-00 +0000",
+    "source": "wsj",
+    "headline": "Rep. Eric Swalwell of California earned endorsements from top Democrats in his bid to become governor before sexual-misconduct allegations became public",
+    "link": "https://www.wsj.com/politics/elections/swalwells-stunning-downfall-creates-a-reckoning-for-democrats-ef9c9e9d"
+  },
+  {
+    "score": 59,
+    "pubdate": "2026-04-16-20-12-23 +0000",
+    "source": "startribune",
+    "headline": "ICE agent charged with two felonies for allegedly pointing gun at motorists during surge",
+    "link": "https://www.startribune.com/ice-agent-charged-with-two-felonies-for-pointing-his-gun-at-motorists-during-operation-metro-surge/601727970"
+  },
+  {
+    "score": 59,
     "pubdate": "2026-04-16-19-19-07 +0000",
     "source": "bbc",
     "headline": "Europe has 'maybe six weeks of jet fuel left', energy boss warns",
@@ -43,30 +50,23 @@
   },
   {
     "score": 56,
-    "pubdate": "2026-04-16-20-12-23 +0000",
-    "source": "startribune",
-    "headline": "ICE agent charged with two felonies for allegedly pointing gun at motorists during surge",
-    "link": "https://www.startribune.com/ice-agent-charged-with-two-felonies-for-pointing-his-gun-at-motorists-during-operation-metro-surge/601727970"
+    "pubdate": "2026-04-17-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "The fight between President Trump and Pope Leo XIV is reverberating in America’s Catholic neighborhoods. Here’s what Catholic voters are saying.",
+    "link": "https://www.wsj.com/politics/elections/trump-pope-leo-american-catholics-9e5b5d9a"
   },
   {
     "score": 54,
-    "pubdate": "2026-04-16-18-27-51 +0000",
-    "source": "nyt",
-    "headline": "Pope Leo, Amid Standoff With Trump, Says ‘Woe to Those Who Manipulate Religion’",
-    "link": "https://www.nytimes.com/2026/04/16/world/africa/pope-leo-trump-peace.html"
-  },
-  {
-    "score": 53,
     "pubdate": "2026-04-16-19-04-00 +0000",
     "source": "wsj",
     "headline": "Former Virginia Lt. Gov. Justin Fairfax Kills Wife, Self in Apparent Murder-Suicide, Police Say",
     "link": "https://www.wsj.com/us-news/former-virginia-lt-gov-justin-fairfax-kills-wife-and-self-police-say-04cec09d"
   },
   {
-    "score": 51,
-    "pubdate": "2026-04-16-20-28-15 +0000",
-    "source": "latimes",
-    "headline": "Netflix co-founder Reed Hastings to leave the company, marking the end of an era",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-16/netflix-co-founder-reed-hastings-exits-company"
+    "score": 49,
+    "pubdate": "2026-04-16-10-22-48 +0000",
+    "source": "bbc",
+    "headline": "UK economy grew faster than expected in February ahead of Iran war",
+    "link": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss"
   }
 ]
