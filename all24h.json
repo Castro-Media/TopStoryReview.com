@@ -1,6 +1,102 @@
 [
   {
-    "headline": "Ex-Philippines MP arrested in Prague over corruption scandal",
+    "headline": "Live Updates: Lebanon-Israel Cease-Fire Goes Into Effect",
+    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
+    "source": "nyt",
+    "pubdate": "2026-04-17-05-37-34 +0000"
+  },
+  {
+    "headline": "What we know about the ceasefire between Lebanon and Israel",
+    "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-17-05-34-48 +0000"
+  },
+  {
+    "headline": "Live: Napheesa Collier receives one-year, $1.4 million contract with Lynx",
+    "link": "https://www.startribune.com/minnesota-lynx-wnba-free-agency-napheesa-collier-cheryl-reeve-live-blog/601640113",
+    "source": "startribune",
+    "pubdate": "2026-04-17-05-33-53 +0000"
+  },
+  {
+    "headline": "Singer D4vd arrested on suspicion of murdering teenage girl",
+    "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-17-05-27-41 +0000"
+  },
+  {
+    "headline": "Singer D4vd arrested on suspicion of murdering teenage girl",
+    "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-17-05-27-41 +0000"
+  },
+  {
+    "headline": "Boy, 13, stabbed with large knife during suspected dispute near NYC park",
+    "link": "https://nypost.com/2026/04/17/us-news/boy-13-stabbed-in-leg-during-suspected-dispute-near-nyc-park/",
+    "source": "nypost",
+    "pubdate": "2026-04-17-05-21-57 +0000"
+  },
+  {
+    "headline": "U.S. Treasury Yields Edge Higher in Calmer Trade",
+    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-964d5f55?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-17-05-20-00 +0000"
+  },
+  {
+    "headline": "Trump says he might go to Pakistan if an Iran deal were signed there.",
+    "link": "https://www.nytimes.com/2026/04/16/world/middleeast/trump-says-he-might-go-to-pakistan-if-an-iran-deal-were-signed-there.html",
+    "source": "nyt",
+    "pubdate": "2026-04-17-05-14-24 +0000"
+  },
+  {
+    "headline": "Trump says he might go to Pakistan if an Iran deal were signed there.",
+    "link": "https://www.nytimes.com/2026/04/16/world/middleeast/trump-says-he-might-go-to-pakistan-if-an-iran-deal-were-signed-there.html",
+    "source": "nyt",
+    "pubdate": "2026-04-17-05-14-24 +0000"
+  },
+  {
+    "headline": "Over 200 swarm Atlanta intersection in illegal street takeover roaring with cars racing and doing donuts",
+    "link": "https://nypost.com/2026/04/17/us-news/over-200-swarm-atlanta-intersection-in-illegal-street-takeover-roaring-with-cars-racing-and-doing-donuts/",
+    "source": "nypost",
+    "pubdate": "2026-04-17-05-08-57 +0000"
+  },
+  {
+    "headline": "Bitcoin’s Greatest Mystery",
+    "link": "https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html",
+    "source": "nyt",
+    "pubdate": "2026-04-17-04-50-29 +0000"
+  },
+  {
+    "headline": "Why China Isn’t Pushing Iran to Accept U.S. Demands to End War",
+    "link": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-04-17-04-40-35 +0000"
+  },
+  {
+    "headline": "Why China Isn’t Pushing Iran to Accept U.S. Demands to End War",
+    "link": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-04-17-04-40-35 +0000"
+  },
+  {
+    "headline": "Gophers gymnastics advances to NCAA final for first time in program history; Brooklyn Rowray wins national title on beam",
+    "link": "https://www.startribune.com/gophers-gymnastics-advances-to-ncaa-final-for-first-time-in-program-history-brooklyn-rowray-wins-national-title-in-beam/601750696",
+    "source": "startribune",
+    "pubdate": "2026-04-17-04-33-55 +0000"
+  },
+  {
+    "headline": "Singapore Dollar Consolidates as Traders Assess Mideast Developments",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-traders-assess-middle-east-developments-883baa0d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-17-04-11-00 +0000"
+  },
+  {
+    "headline": "Eastbound 105 Freeway still closed, hours after man found shot inside car",
+    "link": "https://nypost.com/2026/04/16/us-news/driver-shot-on-las-105-freeway-sparks-massive-shutdown-mystery-gunman-sought/",
+    "source": "nypost",
+    "pubdate": "2026-04-17-03-59-48 +0000"
+  },
+  {
+    "headline": "Marcos says key suspect in Philippine corruption firestorm arrested",
     "link": "https://www.bbc.com/news/articles/cy41221lwqjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-17-03-53-09 +0000"
@@ -10,12 +106,6 @@
     "link": "https://nypost.com/2026/04/16/us-news/sacramento-school-plans-to-install-artificial-turf-raising-concerns-among-parents/",
     "source": "nypost",
     "pubdate": "2026-04-17-03-51-45 +0000"
-  },
-  {
-    "headline": "Gophers gymnastics advances to NCAA final for first time in program history; Brooklyn Rowray wins national title in beam",
-    "link": "https://www.startribune.com/gophers-gymnastics-advances-to-ncaa-final-for-first-time-in-program-history-brooklyn-rowray-wins-national-title-in-beam/601750696",
-    "source": "startribune",
-    "pubdate": "2026-04-17-03-45-52 +0000"
   },
   {
     "headline": "Mamdani jokes Trae Young is reason for expensive Garden playoff tickets — but Knicks nemesis claps back",
@@ -72,22 +162,10 @@
     "pubdate": "2026-04-17-03-22-09 +0000"
   },
   {
-    "headline": "Live Updates: Lebanon-Israel Cease-Fire Goes Into Effect",
-    "link": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
-    "source": "nyt",
-    "pubdate": "2026-04-17-03-20-40 +0000"
-  },
-  {
     "headline": "Harry and Meghan meet Bondi shooting survivors",
     "link": "https://www.bbc.com/news/articles/c625dd1zjy3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-17-03-11-38 +0000"
-  },
-  {
-    "headline": "Live: Napheesa Collier receives one-year, $1.4 million contract with Lynx",
-    "link": "https://www.startribune.com/minnesota-lynx-wnba-free-agency-napheesa-collier-cheryl-reeve-live-blog/601640113",
-    "source": "startribune",
-    "pubdate": "2026-04-17-03-10-26 +0000"
   },
   {
     "headline": "Horrific clues that would lead cops to D4vd — and led to his arrested over 14-year-old girl’s murder",
@@ -100,18 +178,6 @@
     "link": "https://www.startribune.com/federal-agents-search-twin-cities-retailers-snap-trafficking-adminis/601757484",
     "source": "startribune",
     "pubdate": "2026-04-17-02-58-07 +0000"
-  },
-  {
-    "headline": "Why China Isn’t Pushing Iran to Accept U.S. Demands to End War",
-    "link": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-04-17-02-54-32 +0000"
-  },
-  {
-    "headline": "Why China Isn’t Pushing Iran to Accept U.S. Demands to End War",
-    "link": "https://www.nytimes.com/2026/04/16/world/asia/china-iran-trump-diplomacy-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-04-17-02-54-32 +0000"
   },
   {
     "headline": "What Heelys, the Sneakers With Wheels, Taught Me About Momentum as a Child",
@@ -142,12 +208,6 @@
     "link": "https://www.startribune.com/can-it-be-stopped-mine-opponents-see-options-to-halt-development-near-the-boundary-waters/601753681",
     "source": "startribune",
     "pubdate": "2026-04-17-02-32-50 +0000"
-  },
-  {
-    "headline": "U.S. Dollar Index May be Due for Minor Move Higher",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-traders-assess-middle-east-developments-883baa0d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-17-02-31-00 +0000"
   },
   {
     "headline": "Footage shows D4vd arrested surrounded by gun-wielding cops",
@@ -202,18 +262,6 @@
     "link": "https://nypost.com/2026/04/16/us-news/xavier-becerra-gains-ground-in-california-governor-race-as-his-hhs-record-draws-scrutiny/",
     "source": "nypost",
     "pubdate": "2026-04-17-01-57-35 +0000"
-  },
-  {
-    "headline": "Singer D4vd arrested in connection with death of missing teen girl",
-    "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-17-01-43-12 +0000"
-  },
-  {
-    "headline": "Singer D4vd arrested in connection with death of missing teen girl",
-    "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-17-01-43-12 +0000"
   },
   {
     "headline": "Major refinery fire won't lead to fuel rationing, Australian PM says",
@@ -300,13 +348,13 @@
     "pubdate": "2026-04-17-00-43-00 +0000"
   },
   {
-    "headline": "Chris Mason: Mandelson nightmare haunts Starmer again, as senior figure effectively sacked",
+    "headline": "Chris Mason: Mandelson nightmare haunts Starmer again",
     "link": "https://www.bbc.com/news/articles/c8dl8l5l008o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-17-00-40-43 +0000"
   },
   {
-    "headline": "Chris Mason: Mandelson nightmare haunts Starmer again, as senior figure effectively sacked",
+    "headline": "Chris Mason: Mandelson nightmare haunts Starmer again",
     "link": "https://www.bbc.com/news/articles/c8dl8l5l008o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-17-00-40-43 +0000"
@@ -316,12 +364,6 @@
     "link": "https://www.latimes.com/california/story/2026-04-16/d4vd-lapd-girl-dead",
     "source": "latimes",
     "pubdate": "2026-04-17-00-39-26 +0000"
-  },
-  {
-    "headline": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-964d5f55?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-17-00-35-00 +0000"
   },
   {
     "headline": "Panel Advances Trump’s Triumphal Arch, Even as Key Member Suggests Changes",
@@ -375,13 +417,13 @@
     "headline": "‘We Cannot Lose Sight of Ukraine.’ Europeans Promise More Aid to Kyiv.",
     "link": "https://www.nytimes.com/2026/04/15/world/europe/europe-ukraine-aid-iran.html",
     "source": "nyt",
-    "pubdate": "2026-04-17-00-09-31 +0000"
+    "pubdate": "2026-04-17-00-09-32 +0000"
   },
   {
     "headline": "‘We Cannot Lose Sight of Ukraine.’ Europeans Promise More Aid to Kyiv.",
     "link": "https://www.nytimes.com/2026/04/15/world/europe/europe-ukraine-aid-iran.html",
     "source": "nyt",
-    "pubdate": "2026-04-17-00-09-31 +0000"
+    "pubdate": "2026-04-17-00-09-32 +0000"
   },
   {
     "headline": "Yale blames soaring costs, degree doubts and free speech worries for higher ed trust crisis: ‘Fallen short’",
@@ -426,12 +468,6 @@
     "pubdate": "2026-04-17-00-00-00 +0000"
   },
   {
-    "headline": "Animal lovers cry ‘fowl’ as troubled SoCal sanctuary surrenders 500 ducks — saying officials turned a blind eye to bird abuse",
-    "link": "https://nypost.com/2026/04/16/us-news/troubled-socal-animal-sanctuary-shutters-leaving-500-ducks-homeless/",
-    "source": "nypost",
-    "pubdate": "2026-04-16-23-55-23 +0000"
-  },
-  {
     "headline": "Michigan’s Dam Crisis Shows Decay of U.S. Infrastructure, Whitmer Says",
     "link": "https://www.nytimes.com/2026/04/16/us/michigan-dam-height-cheboygan.html",
     "source": "nyt",
@@ -442,12 +478,6 @@
     "link": "https://www.bbc.com/news/articles/cp3lp2r5l2do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-16-23-53-03 +0000"
-  },
-  {
-    "headline": "LAX People Mover to start running empty trains Monday as issues over equipment costs escalate",
-    "link": "https://nypost.com/2026/04/16/us-news/lax-people-mover-to-start-running-empty-trains-monday-as-issues-over-equipment-costs-escalate/",
-    "source": "nypost",
-    "pubdate": "2026-04-16-23-51-07 +0000"
   },
   {
     "headline": "How Gavin Newsom Boosted His Book Sales With $1.5 Million From His PAC",
@@ -466,12 +496,6 @@
     "link": "https://www.nytimes.com/2026/04/16/us/pope-brother-bomb-threat.html",
     "source": "nyt",
     "pubdate": "2026-04-16-23-39-11 +0000"
-  },
-  {
-    "headline": "Kathy Griffin gives incendiary interview on why she gave $10K to accused rapist Eric Swalwell",
-    "link": "https://nypost.com/2026/04/16/us-news/kathy-griffin-explains-why-she-gave-10k-to-eric-swalwell/",
-    "source": "nypost",
-    "pubdate": "2026-04-16-23-37-53 +0000"
   },
   {
     "headline": "Kathy Griffin gives incendiary interview on why she gave $10K to accused rapist Eric Swalwell",
@@ -912,12 +936,6 @@
     "pubdate": "2026-04-16-21-14-54 +0000"
   },
   {
-    "headline": "Bitcoin’s Greatest Mystery",
-    "link": "https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html",
-    "source": "nyt",
-    "pubdate": "2026-04-16-21-12-24 +0000"
-  },
-  {
     "headline": "Nearly two months into the Iran war, Republicans in Congress are increasingly anxious and impatient, but that doesn’t mean they are willing to vote to curb the president’s war powers",
     "link": "https://www.wsj.com/politics/gop-anxiety-iran-war-a6b14e84",
     "source": "wsj",
@@ -1137,7 +1155,7 @@
     "headline": "ICE Has Detained Marie-Thérèse Ross-Mahé, an 85-Year-Old Widow",
     "link": "https://www.nytimes.com/2026/04/16/us/ice-detention-alabama-french-woman.html",
     "source": "nyt",
-    "pubdate": "2026-04-16-20-18-16 +0000"
+    "pubdate": "2026-04-16-20-18-17 +0000"
   },
   {
     "headline": "Trump vows answers on 10 ‘missing’ scientists: ‘I hope it’s random’",
@@ -1245,19 +1263,19 @@
     "headline": "House Again Thwarts Challenge to Trump’s Authority to Continue Iran War",
     "link": "https://www.nytimes.com/2026/04/16/us/politics/house-war-powers-iran.html",
     "source": "nyt",
-    "pubdate": "2026-04-16-19-34-41 +0000"
+    "pubdate": "2026-04-16-19-34-42 +0000"
   },
   {
     "headline": "House Again Thwarts Challenge to Trump’s Authority to Continue Iran War",
     "link": "https://www.nytimes.com/2026/04/16/us/politics/house-war-powers-iran.html",
     "source": "nyt",
-    "pubdate": "2026-04-16-19-34-41 +0000"
+    "pubdate": "2026-04-16-19-34-42 +0000"
   },
   {
     "headline": "House Again Thwarts Challenge to Trump’s Authority to Continue Iran War",
     "link": "https://www.nytimes.com/2026/04/16/us/politics/house-war-powers-iran.html",
     "source": "nyt",
-    "pubdate": "2026-04-16-19-34-41 +0000"
+    "pubdate": "2026-04-16-19-34-42 +0000"
   },
   {
     "headline": "Ex-Rep. Eric Swalwell facing Justice Department investigation over sexual assault allegations",
@@ -1318,6 +1336,12 @@
     "link": "https://missionlocal.org/2026/04/sf-great-highway-lawsuit-appeal-sunset-dunes/",
     "source": "missionlocal",
     "pubdate": "2026-04-16-19-06-28 +0000"
+  },
+  {
+    "headline": "Former Virginia Lt. Gov. Justin Fairfax Kills Wife, Self in Apparent Murder-Suicide, Police Say",
+    "link": "https://www.wsj.com/us-news/former-virginia-lt-gov-justin-fairfax-kills-wife-and-self-police-say-04cec09d",
+    "source": "wsj",
+    "pubdate": "2026-04-16-19-04-00 +0000"
   },
   {
     "headline": "Former Virginia Lt. Gov. Justin Fairfax Kills Wife, Self in Apparent Murder-Suicide, Police Say",
@@ -2526,14 +2550,14 @@
     "pubdate": "2026-04-16-10-00-00 +0000"
   },
   {
-    "headline": "AMC's Adam Aron backs David Ellison's takeover of Warner Bros. Discovery",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-16/amc-adam-aron-backs-david-ellisons-takeover-of-warner-bros-discovery",
+    "headline": "This Long Beach startup says it has a patch for California's power problems",
+    "link": "https://www.latimes.com/business/story/2026-04-16/la-fi-critical-loop-power",
     "source": "latimes",
     "pubdate": "2026-04-16-10-00-00 +0000"
   },
   {
-    "headline": "This Long Beach startup says it has a patch for California's power problems",
-    "link": "https://www.latimes.com/business/story/2026-04-16/la-fi-critical-loop-power",
+    "headline": "AMC's Adam Aron backs David Ellison's takeover of Warner Bros. Discovery",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-16/amc-adam-aron-backs-david-ellisons-takeover-of-warner-bros-discovery",
     "source": "latimes",
     "pubdate": "2026-04-16-10-00-00 +0000"
   },
@@ -2800,119 +2824,5 @@
     "link": "https://www.bbc.com/news/articles/cvgkzpqnvd0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-16-05-52-12 +0000"
-  },
-  {
-    "headline": "Student kills 9 in Turkey’s second school shooting in 2 days",
-    "link": "https://nypost.com/2026/04/16/world-news/turkey-school-shooting-leaves-nine-dead-teen-gunman-killed-in-second-massacre-in-two-days/",
-    "source": "nypost",
-    "pubdate": "2026-04-16-05-23-51 +0000"
-  },
-  {
-    "headline": "Fake damage and imaginary watches - how AI images are being used in insurance scams",
-    "link": "https://www.bbc.com/news/articles/cm2rr9pg4jzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-16-05-17-53 +0000"
-  },
-  {
-    "headline": "Former Trump lawyer John Eastman disbarred for trying to overturn 2020 election",
-    "link": "https://www.latimes.com/california/story/2026-04-15/former-chapman-university-dean-disbarred-for-trump-2020-election-role",
-    "source": "latimes",
-    "pubdate": "2026-04-16-05-14-44 +0000"
-  },
-  {
-    "headline": "Former Trump lawyer John Eastman disbarred for trying to overturn 2020 election",
-    "link": "https://www.latimes.com/california/story/2026-04-15/former-chapman-university-dean-disbarred-for-trump-2020-election-role",
-    "source": "latimes",
-    "pubdate": "2026-04-16-05-14-44 +0000"
-  },
-  {
-    "headline": "Chris Mason: Ministers have to close asylum loopholes while protecting genuinely vulnerable",
-    "link": "https://www.bbc.com/news/articles/c624xgx3g5ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-16-05-02-50 +0000"
-  },
-  {
-    "headline": "Chris Mason: Ministers have to close asylum loopholes while protecting genuinely vulnerable",
-    "link": "https://www.bbc.com/news/articles/c624xgx3g5ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-16-05-02-50 +0000"
-  },
-  {
-    "headline": "Migrants making false domestic abuse claims to stay in UK, BBC investigation finds",
-    "link": "https://www.bbc.com/news/articles/crl19dzdd38o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-16-04-58-15 +0000"
-  },
-  {
-    "headline": "The Pope in Africa",
-    "link": "https://www.nytimes.com/2026/04/15/world/pope-leo-africa-trump-iran-pakistan.html",
-    "source": "nyt",
-    "pubdate": "2026-04-16-04-42-50 +0000"
-  },
-  {
-    "headline": "The price of school prom is extortionate, says teen",
-    "link": "https://www.bbc.com/news/articles/cy01127jjejo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-16-04-27-57 +0000"
-  },
-  {
-    "headline": "Japan pledges $10bn to help Asian countries deal with oil crisis",
-    "link": "https://www.bbc.com/news/articles/c5yxev9v4nyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-16-04-27-49 +0000"
-  },
-  {
-    "headline": "Japan pledges $10bn to help Asian countries deal with oil crisis",
-    "link": "https://www.bbc.com/news/articles/c5yxev9v4nyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-16-04-27-49 +0000"
-  },
-  {
-    "headline": "3 Killed in Boat Strike in the Pacific, Pentagon Says",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/us-military-boat-strike-pacific-drugs.html",
-    "source": "nyt",
-    "pubdate": "2026-04-16-04-15-06 +0000"
-  },
-  {
-    "headline": "3 Killed in Boat Strike in the Pacific, Pentagon Says",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/us-military-boat-strike-pacific-drugs.html",
-    "source": "nyt",
-    "pubdate": "2026-04-16-04-15-06 +0000"
-  },
-  {
-    "headline": "3 Killed in Boat Strike in the Pacific, Pentagon Says",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/us-military-boat-strike-pacific-drugs.html",
-    "source": "nyt",
-    "pubdate": "2026-04-16-04-15-06 +0000"
-  },
-  {
-    "headline": "3 Killed in Boat Strike in the Pacific, Pentagon Says",
-    "link": "https://www.nytimes.com/2026/04/16/us/politics/us-military-boat-strike-pacific-drugs.html",
-    "source": "nyt",
-    "pubdate": "2026-04-16-04-15-06 +0000"
-  },
-  {
-    "headline": "At Least 4 Dead in Second School Shooting in Turkey in 2 Days",
-    "link": "https://www.nytimes.com/2026/04/15/world/europe/turkey-school-shooting-kahramanmaras-province.html",
-    "source": "nyt",
-    "pubdate": "2026-04-16-04-13-06 +0000"
-  },
-  {
-    "headline": "At Least 4 Dead in Second School Shooting in Turkey in 2 Days",
-    "link": "https://www.nytimes.com/2026/04/15/world/europe/turkey-school-shooting-kahramanmaras-province.html",
-    "source": "nyt",
-    "pubdate": "2026-04-16-04-13-06 +0000"
-  },
-  {
-    "headline": "At Least 4 Dead in Second School Shooting in Turkey in 2 Days",
-    "link": "https://www.nytimes.com/2026/04/15/world/europe/turkey-school-shooting-kahramanmaras-province.html",
-    "source": "nyt",
-    "pubdate": "2026-04-16-04-13-06 +0000"
-  },
-  {
-    "headline": "Don’t you dare cut our city internships, say S.F. teens",
-    "link": "https://missionlocal.org/2026/04/dont-you-dare-cut-our-city-internships-say-city-teens/",
-    "source": "missionlocal",
-    "pubdate": "2026-04-16-04-05-11 +0000"
   }
 ]
