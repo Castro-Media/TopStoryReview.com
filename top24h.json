@@ -1,62 +1,48 @@
 [
   {
-    "score": 208,
-    "pubdate": "2026-04-17-15-59-42 +0000",
+    "score": 224,
+    "pubdate": "2026-04-17-21-02-36 +0000",
     "source": "nyt",
-    "headline": "Strait of Hormuz Is Open During Cease-Fire in Lebanon, U.S. and Iran Say",
-    "link": "https://www.nytimes.com/2026/04/17/world/middleeast/strait-hormuz-open-iran-lebanon-ceasefire.html"
+    "headline": "Iran War Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open",
+    "link": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump"
   },
   {
-    "score": 149,
+    "score": 183,
+    "pubdate": "2026-04-17-07-14-38 +0000",
+    "source": "nypost",
+    "headline": "Israel-Lebanon 10-day cease-fire begins after Trump hails ‘historic day’",
+    "link": "https://nypost.com/2026/04/17/world-news/israel-lebanon-10-day-cease-fire-begins-after-trump-hails-historic-day/"
+  },
+  {
+    "score": 86,
     "pubdate": "2026-04-17-02-37-00 +0000",
     "source": "wsj",
     "headline": "A judge’s ruling halting construction on President Trump’s ballroom set off a string of angry social-media posts that overshadowed White House efforts to refocus on accomplishments like his tax law",
     "link": "https://www.wsj.com/politics/policy/trump-fumes-over-ballroom-pause-as-aides-try-to-shift-focus-to-midterms-a659ef4b"
   },
   {
-    "score": 87,
-    "pubdate": "2026-04-16-21-10-00 +0000",
-    "source": "wsj",
-    "headline": "Nearly two months into the Iran war, Republicans in Congress are increasingly anxious and impatient, but that doesn’t mean they are willing to vote to curb the president’s war powers",
-    "link": "https://www.wsj.com/politics/gop-anxiety-iran-war-a6b14e84"
-  },
-  {
-    "score": 70,
+    "score": 83,
     "pubdate": "2026-04-17-14-54-56 +0000",
     "source": "nyt",
     "headline": "New York New Jersey Stadium? Why MetLife Is Changing Its Name for the World Cup",
     "link": "https://www.nytimes.com/2026/04/17/nyregion/fifa-world-cup-stadium-names-sponsors.html"
   },
   {
-    "score": 63,
-    "pubdate": "2026-04-16-20-48-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump says he will nominate Dr. Erica Schwartz to direct the CDC, which has been without a permanent director since Susan Monarez was ousted after clashing with RFK Jr. over vaccine policy",
-    "link": "https://www.wsj.com/politics/policy/trump-says-hell-nominate-erica-schwartz-to-lead-cdc-1b4d2686"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-04-16-21-56-26 +0000",
-    "source": "wapo",
-    "headline": "10-day ceasefire in Lebanon begins as Israel agrees to U.S.-backed deal",
-    "link": "https://www.washingtonpost.com/world/2026/04/16/trump-iran-israel-lebanon-ceasefire-talks/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-04-16-21-33-01 +0000",
-    "source": "nypost",
-    "headline": "JD Vance AI memes flood Pakistan after his visit to Islamabad for Iran peace talks: ‘This is how we do soft power’",
-    "link": "https://nypost.com/2026/04/16/us-news/jd-vance-meme-game-floods-pakistan-following-his-visit-to-islamabad-for-iran-peace-talks/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-04-17-10-46-15 +0000",
-    "source": "nypost",
-    "headline": "UK PM Keir Starmer under pressure to quit over US ambassador security scandal",
-    "link": "https://nypost.com/2026/04/17/world-news/uk-pm-keir-starmer-under-pressure-to-resign-over-us-ambassador-security-scandal/"
+    "score": 64,
+    "pubdate": "2026-04-17-18-32-21 +0000",
+    "source": "bbc",
+    "headline": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
+    "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 49,
+    "pubdate": "2026-04-17-07-39-00 +0000",
+    "source": "wsj",
+    "headline": "Todd Lyons, the acting director of ICE who oversaw the Trump administration’s controversial migration crackdown, is set to leave the department in May",
+    "link": "https://www.wsj.com/politics/policy/ice-acting-chief-todd-lyons-to-depart-d4921db0"
+  },
+  {
+    "score": 48,
     "pubdate": "2026-04-17-10-00-00 +0000",
     "source": "latimes",
     "headline": "Powerful California institutions backed Swalwell's rise. Now they're facing questions",
@@ -64,9 +50,23 @@
   },
   {
     "score": 48,
-    "pubdate": "2026-04-17-13-17-05 +0000",
+    "pubdate": "2026-04-16-21-33-01 +0000",
     "source": "nypost",
-    "headline": "Strait of Hormuz ‘completely open’ as Trump celebrates tumbling oil prices, rips into NATO as ‘Paper Tiger’",
-    "link": "https://nypost.com/2026/04/17/world-news/strait-of-hormuz-completely-open-until-cease-fires-end-iran-foreign-minister-declares/"
+    "headline": "JD Vance AI memes flood Pakistan after his visit to Islamabad for Iran peace talks: ‘This is how we do soft power’",
+    "link": "https://nypost.com/2026/04/16/us-news/jd-vance-meme-game-floods-pakistan-following-his-visit-to-islamabad-for-iran-peace-talks/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-04-17-15-25-57 +0000",
+    "source": "nyt",
+    "headline": "She Made Sure Her Baby Was Born an American. Then Federal Agents Separated Them.",
+    "link": "https://www.nytimes.com/2026/04/17/us/politics/ice-cbp-birth-pregnancy-detention.html"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-04-17-18-41-34 +0000",
+    "source": "nyt",
+    "headline": "Starmer’s Credibility Just Took Another Body Blow Over the Mandelson Scandal",
+    "link": "https://www.nytimes.com/2026/04/17/world/europe/starmer-credibility-mandelson-epstein-scandal.html"
   }
 ]
