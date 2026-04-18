@@ -1,6 +1,6 @@
 [
   {
-    "score": 156,
+    "score": 151,
     "pubdate": "2026-04-18-19-00-28 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Two Ships Are Fired On As Iran Says the Strait of Hormuz is Closed",
@@ -14,13 +14,6 @@
     "link": "https://www.nytimes.com/2026/04/17/us/politics/transgender-prisoners-appeals-court.html"
   },
   {
-    "score": 58,
-    "pubdate": "2026-04-18-01-38-00 +0000",
-    "source": "wsj",
-    "headline": "New York City doormen and building owners reached a deal late Friday, avoiding a strike but showing how the affordability crunch is squeezing nearly everyone who lives or works there",
-    "link": "https://www.wsj.com/economy/housing/the-week-new-york-citys-affordability-crisis-came-to-every-doorstep-ba7f0a2c"
-  },
-  {
     "score": 56,
     "pubdate": "2026-04-18-16-00-00 +0000",
     "source": "wsj",
@@ -28,11 +21,11 @@
     "link": "https://www.wsj.com/economy/america-is-in-the-middle-of-a-stealth-manufacturing-boom-af0702af"
   },
   {
-    "score": 47,
-    "pubdate": "2026-04-17-22-19-00 +0000",
+    "score": 52,
+    "pubdate": "2026-04-18-01-38-00 +0000",
     "source": "wsj",
-    "headline": "Democratic Rep. Ilhan Omar of Minnesota said she isn’t as wealthy as documents she previously submitted to Congress suggest because there were major accounting errors in her filing",
-    "link": "https://www.wsj.com/politics/policy/ilhan-omar-says-she-isnt-a-multimillionaire-blames-accounting-error-e88ee14b"
+    "headline": "New York City doormen and building owners reached a deal late Friday, avoiding a strike but showing how the affordability crunch is squeezing nearly everyone who lives or works there",
+    "link": "https://www.wsj.com/economy/housing/the-week-new-york-citys-affordability-crisis-came-to-every-doorstep-ba7f0a2c"
   },
   {
     "score": 47,
@@ -42,18 +35,18 @@
     "link": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html"
   },
   {
-    "score": 43,
-    "pubdate": "2026-04-18-13-11-41 +0000",
-    "source": "nyt",
-    "headline": "Reopening Strait of Hormuz Would Ease Oil Crisis but Only So Much",
-    "link": "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"
+    "score": 47,
+    "pubdate": "2026-04-17-22-19-00 +0000",
+    "source": "wsj",
+    "headline": "Democratic Rep. Ilhan Omar of Minnesota said she isn’t as wealthy as documents she previously submitted to Congress suggest because there were major accounting errors in her filing",
+    "link": "https://www.wsj.com/politics/policy/ilhan-omar-says-she-isnt-a-multimillionaire-blames-accounting-error-e88ee14b"
   },
   {
     "score": 39,
-    "pubdate": "2026-04-17-20-29-00 +0000",
-    "source": "wsj",
-    "headline": "The DOJ is preparing to file an antitrust lawsuit against some of the country’s biggest egg producers, which significantly hiked prices in 2024 and 2025",
-    "link": "https://www.wsj.com/politics/policy/justice-department-nears-filing-antitrust-case-against-egg-producers-2a019fc3"
+    "pubdate": "2026-04-18-18-00-13 +0000",
+    "source": "nypost",
+    "headline": "Justin Fairfax’s wife was celebrating with these poignant final words hours before murder-suicide, her best friend says",
+    "link": "https://nypost.com/2026/04/18/us-news/justin-fairfaxs-wife-was-celebrating-with-these-final-words-hours-before-murder-suicide-her-best-friend-says/"
   },
   {
     "score": 39,
@@ -64,9 +57,16 @@
   },
   {
     "score": 39,
-    "pubdate": "2026-04-18-18-00-13 +0000",
-    "source": "nypost",
-    "headline": "Justin Fairfax’s wife was celebrating with these poignant final words hours before murder-suicide, her best friend says",
-    "link": "https://nypost.com/2026/04/18/us-news/justin-fairfaxs-wife-was-celebrating-with-these-final-words-hours-before-murder-suicide-her-best-friend-says/"
+    "pubdate": "2026-04-18-13-11-41 +0000",
+    "source": "nyt",
+    "headline": "Reopening Strait of Hormuz Would Ease Oil Crisis but Only So Much",
+    "link": "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"
+  },
+  {
+    "score": 38,
+    "pubdate": "2026-04-17-20-29-00 +0000",
+    "source": "wsj",
+    "headline": "The DOJ is preparing to file an antitrust lawsuit against some of the country’s biggest egg producers, which significantly hiked prices in 2024 and 2025",
+    "link": "https://www.wsj.com/politics/policy/justice-department-nears-filing-antitrust-case-against-egg-producers-2a019fc3"
   }
 ]
