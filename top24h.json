@@ -1,17 +1,10 @@
 [
   {
-    "score": 182,
+    "score": 176,
     "pubdate": "2026-04-18-13-11-43 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz",
     "link": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz"
-  },
-  {
-    "score": 88,
-    "pubdate": "2026-04-18-09-36-55 +0000",
-    "source": "nyt",
-    "headline": "Trump Extends Sanctions Exemption on Some Russian Oil as High Gas Prices Persist",
-    "link": "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html"
   },
   {
     "score": 87,
@@ -21,25 +14,25 @@
     "link": "https://www.nytimes.com/2026/04/17/nyregion/fifa-world-cup-stadium-names-sponsors.html"
   },
   {
-    "score": 85,
+    "score": 86,
+    "pubdate": "2026-04-18-09-36-55 +0000",
+    "source": "nyt",
+    "headline": "Trump Extends Sanctions Exemption on Some Russian Oil as High Gas Prices Persist",
+    "link": "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html"
+  },
+  {
+    "score": 83,
     "pubdate": "2026-04-17-22-39-33 +0000",
     "source": "nyt",
     "headline": "‘I Just Want to Be Back’: Thousands Rush South in Lebanon Under Cease-Fire",
     "link": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-traffic-south.html"
   },
   {
-    "score": 64,
+    "score": 62,
     "pubdate": "2026-04-17-22-19-00 +0000",
     "source": "wsj",
     "headline": "Democratic Rep. Ilhan Omar of Minnesota said she isn’t as wealthy as documents she previously submitted to Congress suggest because there were major accounting errors in her filing",
     "link": "https://www.wsj.com/politics/policy/ilhan-omar-says-she-isnt-a-multimillionaire-blames-accounting-error-e88ee14b"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-04-17-18-45-40 +0000",
-    "source": "nyt",
-    "headline": "Lutnick Says Canada Trade Deal Needs to Be Reworked Ahead of Talks",
-    "link": "https://www.nytimes.com/2026/04/17/world/canada/trump-lutnick-canada-us-talks-trade-deal.html"
   },
   {
     "score": 51,
@@ -49,6 +42,13 @@
     "link": "https://nypost.com/2026/04/17/business/anthropic-ceo-dario-amodei-set-to-meet-white-house-chief-of-staff-susie-wiles-amid-ai-fight-reports/"
   },
   {
+    "score": 51,
+    "pubdate": "2026-04-17-18-45-40 +0000",
+    "source": "nyt",
+    "headline": "Lutnick Says Canada Trade Deal Needs to Be Reworked Ahead of Talks",
+    "link": "https://www.nytimes.com/2026/04/17/world/canada/trump-lutnick-canada-us-talks-trade-deal.html"
+  },
+  {
     "score": 46,
     "pubdate": "2026-04-18-12-33-25 +0000",
     "source": "nyt",
@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket.html"
   },
   {
-    "score": 44,
-    "pubdate": "2026-04-17-13-30-00 +0000",
-    "source": "nypost",
-    "headline": "Trump rips Mayor Mamdani for ‘destroying’ NYC with ‘tax the rich’ agenda: ‘It will only get worse’",
-    "link": "https://nypost.com/2026/04/17/us-news/trump-rips-zohran-mamdani-for-push-nyc-tax-increase/"
-  },
-  {
     "score": 42,
     "pubdate": "2026-04-17-18-25-12 +0000",
     "source": "bbc",
     "headline": "Thousands celebrate open-air Mass with Pope Leo in Cameroon - in pictures",
     "link": "https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-04-17-14-27-26 +0000",
+    "source": "nypost",
+    "headline": "Report of drone with ‘dangerous substances’ near London’s Israeli Embassy sparks UK police probe",
+    "link": "https://nypost.com/2026/04/17/world-news/uk-police-investigate-security-incident-near-londons-israeli-embassy/"
   }
 ]
