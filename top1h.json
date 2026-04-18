@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-04-17-23-05-24 +0000",
+    "score": 22,
+    "pubdate": "2026-04-18-00-25-00 +0000",
+    "source": "cbc",
+    "headline": "U.S. Commerce Secretary Howard Lutnick takes a swipe at Canada's trade strategy ahead of review",
+    "link": "https://www.cbc.ca/news/world/howard-lutnick-canada-trade-strategy-they-suck-semafor-event-9.7168948?cmp=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-04-18-01-03-38 +0000",
     "source": "nyt",
-    "headline": "Thousands of Lebanese Try to Head Home After Israel-Lebanon Truce",
-    "link": "https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah"
+    "headline": "Iran War Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open",
+    "link": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-18-00-30-00 +0000",
+    "source": "wsj",
+    "headline": "Greg Abel Has Been Leading Berkshire for 100 Days. Things Are Already Changing.",
+    "link": "https://www.wsj.com/finance/berkshire-hathaway-ceo-greg-abel-first-100-days-a42fcf27?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-18-00-33-49 +0000",
+    "source": "nypost",
+    "headline": "Long Beach Grand Prix hits full throttle this weekend with high-stakes racing and rock show",
+    "link": "https://nypost.com/2026/04/17/us-news/long-beach-grand-prix-hits-full-throttle-this-weekend-with-high-stakes-racing-and-rock-show/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-18-00-56-16 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Dispute With Pope Leo Deepens Divisions on the Right",
+    "link": "https://www.nytimes.com/2026/04/17/us/politics/republicans-trump-pope-midterms.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-18-00-37-06 +0000",
+    "source": "bbc",
+    "headline": "White House and Anthropic set aside court fight to meet amid fears over Mythos model",
+    "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-18-00-41-33 +0000",
+    "source": "latimes",
+    "headline": "Heroic dog's nonstop barking saves Orange County family from fire, says owner",
+    "link": "https://www.latimes.com/california/story/2026-04-17/heroic-dogs-nonstop-barking-saves-orange-county-family-from-fire-says-owner"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-18-00-48-10 +0000",
+    "source": "nypost",
+    "headline": "Spencer Pratt rips Mayor Bass’ ‘performative proclamations’ after radical climate plan",
+    "link": "https://nypost.com/2026/04/17/us-news/spencer-pratt-rips-la-mayor-karen-bass-climate-plan/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-18-01-13-05 +0000",
+    "source": "nypost",
+    "headline": "Cold front to follow record heat across the East Coast next week",
+    "link": "https://nypost.com/2026/04/17/us-news/cold-front-to-follow-record-heat-across-the-east-coast-next-week/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-18-00-21-57 +0000",
+    "source": "latimes",
+    "headline": "Teen on electric motorcycle hits 81-year-old, leaves him fighting for his life, authorities say",
+    "link": "https://www.latimes.com/california/story/2026-04-17/teen-on-electric-motorcycle-hits-critically-injures-81-year-old-man"
   }
 ]
