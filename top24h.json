@@ -1,27 +1,20 @@
 [
   {
-    "score": 148,
+    "score": 120,
     "pubdate": "2026-04-18-20-51-02 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Two Ships Are Fired On As Iran Says the Strait of Hormuz is Closed",
     "link": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz"
   },
   {
-    "score": 87,
+    "score": 82,
     "pubdate": "2026-04-18-19-18-40 +0000",
     "source": "bbc",
     "headline": "Building of Trump's White House ballroom can resume in full, appeals court says",
     "link": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
-    "pubdate": "2026-04-18-20-55-28 +0000",
-    "source": "nypost",
-    "headline": "Maimed Supreme Leader Khamenei issues new military threats against US, Israel amid truce",
-    "link": "https://nypost.com/2026/04/18/world-news/supreme-leader-khamenei-issues-new-military-threats-against-us-israel-amid-truce/"
-  },
-  {
-    "score": 56,
+    "score": 52,
     "pubdate": "2026-04-18-18-09-57 +0000",
     "source": "bbc",
     "headline": "At least six killed in Kyiv as gunman opens fire and takes hostages",
@@ -29,6 +22,13 @@
   },
   {
     "score": 50,
+    "pubdate": "2026-04-18-20-55-28 +0000",
+    "source": "nypost",
+    "headline": "Maimed Supreme Leader Khamenei issues new military threats against US, Israel amid truce",
+    "link": "https://nypost.com/2026/04/18/world-news/supreme-leader-khamenei-issues-new-military-threats-against-us-israel-amid-truce/"
+  },
+  {
+    "score": 49,
     "pubdate": "2026-04-18-16-00-00 +0000",
     "source": "wsj",
     "headline": "Actual factory output is up sharply and may be picking up speed, even though factory jobs have slid steadily. Credit the most basic economic force of all: demand, writes @greg_ip",
@@ -42,13 +42,6 @@
     "link": "https://www.wsj.com/politics/policy/ilhan-omar-says-she-isnt-a-multimillionaire-blames-accounting-error-e88ee14b"
   },
   {
-    "score": 43,
-    "pubdate": "2026-04-18-19-52-22 +0000",
-    "source": "nypost",
-    "headline": "Zohran Mamdani meets with Barack Obama at NYC childcare center in socialist’s first sit-down with ex-prez",
-    "link": "https://nypost.com/2026/04/18/us-news/zohran-mamdani-meets-with-barack-obama-at-nyc-childcare-center-in-socialists-first-sit-down-with-ex-prez/"
-  },
-  {
     "score": 40,
     "pubdate": "2026-04-18-13-11-41 +0000",
     "source": "nyt",
@@ -56,7 +49,7 @@
     "link": "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"
   },
   {
-    "score": 38,
+    "score": 37,
     "pubdate": "2026-04-18-19-05-54 +0000",
     "source": "nypost",
     "headline": "91-year-old sparked wellness check after missed calls — but she was just playing video games",
@@ -64,9 +57,16 @@
   },
   {
     "score": 37,
-    "pubdate": "2026-04-18-01-17-07 +0000",
-    "source": "latimes",
-    "headline": "Judge blocks Nexstar-Tegna deal, throwing $6.2-billion merger into doubt",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-17/judge-blocks-nexstar-tegna-merger"
+    "pubdate": "2026-04-18-19-52-22 +0000",
+    "source": "nypost",
+    "headline": "Zohran Mamdani meets with Barack Obama at NYC childcare center in socialist’s first sit-down with ex-prez",
+    "link": "https://nypost.com/2026/04/18/us-news/zohran-mamdani-meets-with-barack-obama-at-nyc-childcare-center-in-socialists-first-sit-down-with-ex-prez/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-04-17-22-57-00 +0000",
+    "source": "wsj",
+    "headline": "American Airlines Rejects United CEO’s Merger Proposal",
+    "link": "https://www.wsj.com/business/airlines/american-airlines-rejects-united-ceos-merger-proposal-26f8c56d?mod=pls_whats_news_us_business_f"
   }
 ]
