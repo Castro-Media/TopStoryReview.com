@@ -1,13 +1,13 @@
 [
   {
-    "score": 131,
+    "score": 124,
     "pubdate": "2026-04-19-12-17-29 +0000",
     "source": "nypost",
     "headline": "Iran War negotiations will resume this week, Trump tells The Post — despite new attacks on Hormuz",
     "link": "https://nypost.com/2026/04/19/us-news/iran-war-negotiations-will-resume-this-week-trump-tells-the-post/"
   },
   {
-    "score": 65,
+    "score": 63,
     "pubdate": "2026-04-19-19-56-30 +0000",
     "source": "nyt",
     "headline": "8 Children Killed in Domestic Mass Shooting in Shreveport, Louisiana, Police Say",
@@ -28,7 +28,7 @@
     "link": "https://www.nytimes.com/2026/04/19/world/middleeast/us-iran-cease-fire-violations-strait-of-hormuz.html"
   },
   {
-    "score": 43,
+    "score": 42,
     "pubdate": "2026-04-19-21-02-04 +0000",
     "source": "nypost",
     "headline": "ICE issues furious six-word message to California governor hopeful Tom Steyer after jail threat",
@@ -42,20 +42,6 @@
     "link": "https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html"
   },
   {
-    "score": 36,
-    "pubdate": "2026-04-19-00-00-00 +0000",
-    "source": "wsj",
-    "headline": "Virginians face a ballot measure asking them whether to approve redrawing their state’s congressional districts, which would give a big lift to Democrats’ goal of taking back the U.S. House",
-    "link": "https://www.wsj.com/politics/elections/virginia-congressional-map-ballot-measure-b12f9b2a"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-04-19-20-27-41 +0000",
-    "source": "nypost",
-    "headline": "Family’s collection of old films no one wanted turns out to contain only copy of world’s first sci-fi flick",
-    "link": "https://nypost.com/2026/04/19/us-news/familys-collection-of-old-films-no-one-wanted-turns-out-to-contain-only-copy-of-worlds-first-sci-fi-flick/"
-  },
-  {
     "score": 35,
     "pubdate": "2026-04-18-23-09-49 +0000",
     "source": "bbc",
@@ -63,10 +49,24 @@
     "link": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 34,
+    "pubdate": "2026-04-19-20-27-41 +0000",
+    "source": "nypost",
+    "headline": "Family’s collection of old films no one wanted turns out to contain only copy of world’s first sci-fi flick",
+    "link": "https://nypost.com/2026/04/19/us-news/familys-collection-of-old-films-no-one-wanted-turns-out-to-contain-only-copy-of-worlds-first-sci-fi-flick/"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-04-19-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "Virginians face a ballot measure asking them whether to approve redrawing their state’s congressional districts, which would give a big lift to Democrats’ goal of taking back the U.S. House",
+    "link": "https://www.wsj.com/politics/elections/virginia-congressional-map-ballot-measure-b12f9b2a"
+  },
+  {
     "score": 32,
-    "pubdate": "2026-04-19-12-52-26 +0000",
-    "source": "bbc",
-    "headline": "Rat poison found in HiPP baby food jar in Austria, police say",
-    "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-04-19-14-31-26 +0000",
+    "source": "cbc",
+    "headline": "Rat poison found in Hipp baby food jar in Austria, police say",
+    "link": "https://www.cbc.ca/news/world/rat-poison-austria-baby-food-9.7169654?cmp=rss"
   }
 ]
