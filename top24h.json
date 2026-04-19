@@ -1,6 +1,6 @@
 [
   {
-    "score": 115,
+    "score": 114,
     "pubdate": "2026-04-19-03-49-45 +0000",
     "source": "nypost",
     "headline": "JD Vance ‘grateful’ to Pope Leo for easing tensions amid feud with Trump over Iran war: ‘He will be in our prayers’",
@@ -14,18 +14,18 @@
     "link": "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"
   },
   {
-    "score": 48,
+    "score": 46,
+    "pubdate": "2026-04-18-16-52-36 +0000",
+    "source": "cbc",
+    "headline": "Gunman who killed at least 6, took hostages in Ukraine supermarket shot dead by police",
+    "link": "https://www.cbc.ca/news/world/ukraine-fatal-shooting-gunman-dead-9.7169317?cmp=rss"
+  },
+  {
+    "score": 44,
     "pubdate": "2026-04-18-16-00-00 +0000",
     "source": "wsj",
     "headline": "Actual factory output is up sharply and may be picking up speed, even though factory jobs have slid steadily. Credit the most basic economic force of all: demand, writes @greg_ip",
     "link": "https://www.wsj.com/economy/america-is-in-the-middle-of-a-stealth-manufacturing-boom-af0702af"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-04-18-18-09-57 +0000",
-    "source": "bbc",
-    "headline": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-    "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 41,
@@ -35,7 +35,7 @@
     "link": "https://nypost.com/2026/04/18/world-news/supreme-leader-khamenei-issues-new-military-threats-against-us-israel-amid-truce/"
   },
   {
-    "score": 41,
+    "score": 39,
     "pubdate": "2026-04-19-00-00-00 +0000",
     "source": "wsj",
     "headline": "Virginians face a ballot measure asking them whether to approve redrawing their state’s congressional districts, which would give a big lift to Democrats’ goal of taking back the U.S. House",
@@ -57,16 +57,16 @@
   },
   {
     "score": 31,
-    "pubdate": "2026-04-18-14-52-15 +0000",
-    "source": "bbc",
-    "headline": "French film star Nathalie Baye dies aged 77, media report",
-    "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 31,
     "pubdate": "2026-04-18-17-19-00 +0000",
     "source": "wsj",
     "headline": "President Trump signed an executive order Saturday that seeks to fast-track research into certain psychedelic drugs used to treat PTSD and other disorders",
     "link": "https://www.wsj.com/politics/policy/how-joe-rogan-convinced-trump-to-fast-track-review-of-psychedelic-drugs-3618fd73"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-04-18-14-52-15 +0000",
+    "source": "bbc",
+    "headline": "French film star Nathalie Baye dies aged 77, media report",
+    "link": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss"
   }
 ]
