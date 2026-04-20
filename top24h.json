@@ -1,17 +1,10 @@
 [
   {
-    "score": 136,
+    "score": 134,
     "pubdate": "2026-04-19-12-17-29 +0000",
     "source": "nypost",
     "headline": "Iran War negotiations will resume this week, Trump tells The Post — despite new attacks on Hormuz",
     "link": "https://nypost.com/2026/04/19/us-news/iran-war-negotiations-will-resume-this-week-trump-tells-the-post/"
-  },
-  {
-    "score": 63,
-    "pubdate": "2026-04-19-23-45-21 +0000",
-    "source": "nyt",
-    "headline": "U.S. Attacks Iranian Cargo Ship as Both Countries Claim Cease-Fire Violations",
-    "link": "https://www.nytimes.com/2026/04/19/world/middleeast/us-iran-cease-fire-violations-strait-of-hormuz.html"
   },
   {
     "score": 62,
@@ -28,18 +21,25 @@
     "link": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 44,
-    "pubdate": "2026-04-19-12-52-26 +0000",
-    "source": "bbc",
-    "headline": "Rat poison found in HiPP baby food jar in Austria, police say",
-    "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss"
+    "score": 58,
+    "pubdate": "2026-04-19-23-45-21 +0000",
+    "source": "nyt",
+    "headline": "U.S. Attacks Iranian Cargo Ship as Both Countries Claim Cease-Fire Violations",
+    "link": "https://www.nytimes.com/2026/04/19/world/middleeast/us-iran-cease-fire-violations-strait-of-hormuz.html"
   },
   {
     "score": 42,
-    "pubdate": "2026-04-19-21-16-49 +0000",
-    "source": "nypost",
-    "headline": "Dem Rep. Hillary Scholten fought to conceal divorce docs because they would hurt election chances, cause ‘irreparable reputational harm’",
-    "link": "https://nypost.com/2026/04/19/us-news/dem-rep-hillary-scholten-fought-to-conceal-divorce-docs-because-they-cause-irreparable-reputational-harm/"
+    "pubdate": "2026-04-19-14-31-26 +0000",
+    "source": "cbc",
+    "headline": "Rat poison found in Hipp baby food jar in Austria, police say",
+    "link": "https://www.cbc.ca/news/world/rat-poison-austria-baby-food-9.7169654?cmp=rss"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-04-20-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Big Oil Plows Billions Into Far-Flung Drilling Sites to Escape Iran Turmoil",
+    "link": "https://www.wsj.com/business/energy-oil/big-oil-plows-billions-into-far-flung-drilling-sites-to-escape-iran-turmoil-cdb6ab26?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 35,
@@ -49,18 +49,18 @@
     "link": "https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html"
   },
   {
-    "score": 34,
-    "pubdate": "2026-04-20-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Big Oil Plows Billions Into Far-Flung Drilling Sites to Escape Iran Turmoil",
-    "link": "https://www.wsj.com/business/energy-oil/big-oil-plows-billions-into-far-flung-drilling-sites-to-escape-iran-turmoil-cdb6ab26?mod=pls_whats_news_us_business_f"
-  },
-  {
     "score": 33,
     "pubdate": "2026-04-19-10-00-00 +0000",
     "source": "latimes",
     "headline": "Ordered free, still locked up: Judges fume as Trump administration holds ICE detainees",
     "link": "https://www.latimes.com/california/story/2026-04-19/trump-doj-habeas-corpus-immigration-detention"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-04-20-05-24-03 +0000",
+    "source": "nypost",
+    "headline": "Louisiana shooter Shamar Elkins made chilling remarks about ‘demons’ weeks before killing his 7 kids and their cousin",
+    "link": "https://nypost.com/2026/04/20/us-news/louisiana-shooter-chillingly-told-stepdad-some-people-cant-come-back-from-their-demons-weeks-before-killing-his-7-kids-and-their-cousin/"
   },
   {
     "score": 32,
