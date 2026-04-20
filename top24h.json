@@ -1,31 +1,38 @@
 [
   {
-    "score": 134,
+    "score": 136,
     "pubdate": "2026-04-19-12-17-29 +0000",
     "source": "nypost",
     "headline": "Iran War negotiations will resume this week, Trump tells The Post — despite new attacks on Hormuz",
     "link": "https://nypost.com/2026/04/19/us-news/iran-war-negotiations-will-resume-this-week-trump-tells-the-post/"
   },
   {
-    "score": 61,
+    "score": 63,
     "pubdate": "2026-04-19-23-45-21 +0000",
     "source": "nyt",
     "headline": "U.S. Attacks Iranian Cargo Ship as Both Countries Claim Cease-Fire Violations",
     "link": "https://www.nytimes.com/2026/04/19/world/middleeast/us-iran-cease-fire-violations-strait-of-hormuz.html"
   },
   {
-    "score": 60,
+    "score": 62,
     "pubdate": "2026-04-19-13-48-26 +0000",
     "source": "nypost",
     "headline": "Energy Secretary reveals when gas prices are expected to drop below $3 a gallon— says Iran War price hikes already ‘peaked’",
     "link": "https://nypost.com/2026/04/19/us-news/chris-wright-reveals-when-gas-prices-will-to-drop-below-3-a-gallon-says-iran-war-price-hikes-peaked/"
   },
   {
-    "score": 47,
-    "pubdate": "2026-04-19-22-54-51 +0000",
+    "score": 58,
+    "pubdate": "2026-04-19-23-07-52 +0000",
     "source": "bbc",
-    "headline": "Eight children killed in Louisiana shooting, police say",
-    "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss"
+    "headline": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
+    "link": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-04-19-12-52-26 +0000",
+    "source": "bbc",
+    "headline": "Rat poison found in HiPP baby food jar in Austria, police say",
+    "link": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 42,
@@ -35,20 +42,6 @@
     "link": "https://nypost.com/2026/04/19/us-news/dem-rep-hillary-scholten-fought-to-conceal-divorce-docs-because-they-cause-irreparable-reputational-harm/"
   },
   {
-    "score": 36,
-    "pubdate": "2026-04-19-21-02-04 +0000",
-    "source": "nypost",
-    "headline": "ICE issues furious six-word message to California governor hopeful Tom Steyer after jail threat",
-    "link": "https://nypost.com/2026/04/19/us-news/ice-issues-furious-six-word-message-to-tom-steyer-after-jail-threat/"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-04-19-19-49-34 +0000",
-    "source": "nypost",
-    "headline": "Chinese robot smashes human world record in half-marathon: ‘Just whooshed right past me’",
-    "link": "https://nypost.com/2026/04/19/world-news/chinese-robot-smashes-human-world-record-in-half-marathon/"
-  },
-  {
     "score": 35,
     "pubdate": "2026-04-19-14-20-20 +0000",
     "source": "nyt",
@@ -56,17 +49,24 @@
     "link": "https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html"
   },
   {
-    "score": 31,
-    "pubdate": "2026-04-19-23-07-52 +0000",
-    "source": "bbc",
-    "headline": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
-    "link": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss"
+    "score": 34,
+    "pubdate": "2026-04-20-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Big Oil Plows Billions Into Far-Flung Drilling Sites to Escape Iran Turmoil",
+    "link": "https://www.wsj.com/business/energy-oil/big-oil-plows-billions-into-far-flung-drilling-sites-to-escape-iran-turmoil-cdb6ab26?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 31,
-    "pubdate": "2026-04-19-19-25-22 +0000",
-    "source": "bbc",
-    "headline": "Ontario Premier Doug Ford agrees to sell $21m private jet following outcry",
-    "link": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss"
+    "score": 33,
+    "pubdate": "2026-04-19-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Ordered free, still locked up: Judges fume as Trump administration holds ICE detainees",
+    "link": "https://www.latimes.com/california/story/2026-04-19/trump-doj-habeas-corpus-immigration-detention"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-04-19-19-49-34 +0000",
+    "source": "nypost",
+    "headline": "Chinese robot smashes human world record in half-marathon: ‘Just whooshed right past me’",
+    "link": "https://nypost.com/2026/04/19/world-news/chinese-robot-smashes-human-world-record-in-half-marathon/"
   }
 ]
