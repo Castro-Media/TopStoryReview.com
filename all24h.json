@@ -1,9 +1,147 @@
 [
   {
-    "headline": "Louisiana father kills 7 of his children plus another child in shooting at house, police say",
-    "link": "https://www.startribune.com/8-children-between-the-ages-of-1-and-14-are-dead-after-a-mass-shooting-in-louisiana-police-say/601776195",
+    "headline": "Haunted by ‘Dark Thoughts,’ Louisiana Father Kills 8 Children",
+    "link": "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html",
+    "source": "nyt",
+    "pubdate": "2026-04-20-01-15-10 +0000"
+  },
+  {
+    "headline": "8 kids massacred by deranged Army vet dad Shamar Elkins in Louisiana shooting ID’d",
+    "link": "https://nypost.com/2026/04/19/us-news/8-kids-massacred-by-deranged-army-vet-shamar-elkins-in-louisiana-shooting-idd/",
+    "source": "nypost",
+    "pubdate": "2026-04-20-01-12-45 +0000"
+  },
+  {
+    "headline": "Oil prices jump after Trump says Iranian ship seized",
+    "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-20-01-11-57 +0000"
+  },
+  {
+    "headline": "Jessie Diggins encourages fans to keep shining as she celebrates retirement from cross-country skiing",
+    "link": "https://www.startribune.com/jessie-diggins-encourages-fans-to-keep-shining-as-she-celebrates-retirement-from-cross-country-skiing/601662081",
     "source": "startribune",
-    "pubdate": "2026-04-20-00-00-06 +0000"
+    "pubdate": "2026-04-20-01-10-05 +0000"
+  },
+  {
+    "headline": "California enclave named best small beach town in America — and three others make the top 10",
+    "link": "https://nypost.com/2026/04/19/us-news/californias-pismo-beach-named-best-coastal-small-town-in-the-us/",
+    "source": "nypost",
+    "pubdate": "2026-04-20-01-00-19 +0000"
+  },
+  {
+    "headline": "Stocks Are Back at Records, but Bond Investors Haven’t Joined the Party",
+    "link": "https://www.wsj.com/finance/investing/stocks-are-back-at-records-but-bond-investors-havent-joined-the-party-ccba508d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-20-01-00-00 +0000"
+  },
+  {
+    "headline": "Big Oil Plows Billions Into Far-Flung Drilling Sites to Escape Iran Turmoil",
+    "link": "https://www.wsj.com/business/energy-oil/big-oil-plows-billions-into-far-flung-drilling-sites-to-escape-iran-turmoil-cdb6ab26?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-20-01-00-00 +0000"
+  },
+  {
+    "headline": "Big Oil Plows Billions Into Far-Flung Drilling Sites to Escape Iran Turmoil",
+    "link": "https://www.wsj.com/business/energy-oil/big-oil-plows-billions-into-far-flung-drilling-sites-to-escape-iran-turmoil-cdb6ab26?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-20-01-00-00 +0000"
+  },
+  {
+    "headline": "How Cybercrime Became a Leading Industry in ‘Scambodia’",
+    "link": "https://www.wsj.com/world/asia/cambodia-cybercrime-rise-why-2f2c03cc",
+    "source": "wsj",
+    "pubdate": "2026-04-20-01-00-00 +0000"
+  },
+  {
+    "headline": "5 Injured During a Shooting Near University of Iowa Campus",
+    "link": "https://www.nytimes.com/2026/04/19/us/university-of-iowa-shooting.html",
+    "source": "nyt",
+    "pubdate": "2026-04-20-00-55-32 +0000"
+  },
+  {
+    "headline": "Mexico Car Accident Kills 4 Drug Investigators in Chihuahua.",
+    "link": "https://www.nytimes.com/2026/04/19/world/americas/mexico-investigator-crash.html",
+    "source": "nyt",
+    "pubdate": "2026-04-20-00-47-23 +0000"
+  },
+  {
+    "headline": "Mexico Car Accident Kills 4 Drug Investigators in Chihuahua.",
+    "link": "https://www.nytimes.com/2026/04/19/world/americas/mexico-investigator-crash.html",
+    "source": "nyt",
+    "pubdate": "2026-04-20-00-47-23 +0000"
+  },
+  {
+    "headline": "4 goons steal car, mow down 72-year-old using walker in NYC Lowe’s parking lot: cops",
+    "link": "https://nypost.com/2026/04/19/us-news/4-goons-steal-car-mow-down-72-year-old-using-walker-in-nyc-lowes-parking-lot-cops/",
+    "source": "nypost",
+    "pubdate": "2026-04-20-00-42-52 +0000"
+  },
+  {
+    "headline": "Rohingya Refugee Recounts Rescue From Capsizing Boat That Left Nearly 250 Others Missing",
+    "link": "https://www.nytimes.com/2026/04/16/world/asia/rohingya-bangladesh-migrants-boat-capsizing.html",
+    "source": "nyt",
+    "pubdate": "2026-04-20-00-41-30 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: U.S. Attacks Iranian Cargo Ship While Preparing for New Round of Talks",
+    "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz",
+    "source": "nyt",
+    "pubdate": "2026-04-20-00-41-13 +0000"
+  },
+  {
+    "headline": "Oil Prices Jumped and Stock Futures Fell on Renewed Iran Conflict",
+    "link": "https://www.nytimes.com/2026/04/19/business/oil-stocks-gas-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-04-20-00-41-11 +0000"
+  },
+  {
+    "headline": "Louisiana Gunman Fatally Shoots Eight Children, Seven of His Own",
+    "link": "https://www.wsj.com/us-news/louisiana-shooting-children-killed-458493fc",
+    "source": "wsj",
+    "pubdate": "2026-04-20-00-39-00 +0000"
+  },
+  {
+    "headline": "San Francisco still hasn’t recovered since pandemic exodus: report",
+    "link": "https://nypost.com/2026/04/19/us-news/san-francisco-still-hasnt-recovered-since-pandemic-exodus-report/",
+    "source": "nypost",
+    "pubdate": "2026-04-20-00-36-29 +0000"
+  },
+  {
+    "headline": "Gold, Silver Decline Amid Renewed Inflation Concerns",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-decline-amid-renewed-inflation-concerns-1c6b6330?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-20-00-29-00 +0000"
+  },
+  {
+    "headline": "Harry Keyishian, Lead Plaintiff in Academic Freedom Case, Dies at 93",
+    "link": "https://www.nytimes.com/2026/04/19/us/harry-keyishian-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-04-20-00-20-03 +0000"
+  },
+  {
+    "headline": "Harry Keyishian, Lead Plaintiff in Academic Freedom Case, Dies at 93",
+    "link": "https://www.nytimes.com/2026/04/19/us/harry-keyishian-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-04-20-00-20-03 +0000"
+  },
+  {
+    "headline": "JGB Futures Edge Higher as Investors Focus on Mideast Developments",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-as-investors-focus-on-mideast-developments-d21d4716?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-20-00-17-00 +0000"
+  },
+  {
+    "headline": "Donald Trump’s heartfelt letter to family of teen gunned down in Iran",
+    "link": "https://nypost.com/2026/04/19/us-news/donald-trumps-heartfelt-letter-to-family-of-teen-gunned-down-in-iran/",
+    "source": "nypost",
+    "pubdate": "2026-04-20-00-08-05 +0000"
+  },
+  {
+    "headline": "QXO to Buy Insulation Company TopBuild for $17 Billion",
+    "link": "https://www.wsj.com/business/deals/qxo-to-buy-insulation-company-topbuild-for-17-billion-4c9e6a98?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-20-00-07-00 +0000"
   },
   {
     "headline": "Florida’s migration patterns are changing. Residents in their prime working years are heading to other states, while fewer people are arriving.",
@@ -28,18 +166,6 @@
     "link": "https://nypost.com/2026/04/19/us-news/florida-christian-school-teacher-accused-of-forcefully-slamming-special-needs-student-into-floor/",
     "source": "nypost",
     "pubdate": "2026-04-19-23-58-30 +0000"
-  },
-  {
-    "headline": "Oil prices jump as Strait of Hormuz tensions escalate",
-    "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-19-23-53-44 +0000"
-  },
-  {
-    "headline": "Iran War Live Updates: U.S. Attacks Iranian Cargo Ship While Preparing for New Round of Talks",
-    "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz",
-    "source": "nyt",
-    "pubdate": "2026-04-19-23-45-23 +0000"
   },
   {
     "headline": "U.S. Attacks Iranian Cargo Ship as Both Countries Claim Cease-Fire Violations",
@@ -186,12 +312,6 @@
     "pubdate": "2026-04-19-22-53-18 +0000"
   },
   {
-    "headline": "Oil Prices Jumped and Stock Futures Fell on Renewed Iran Conflict",
-    "link": "https://www.nytimes.com/2026/04/19/business/oil-stocks-gas-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-04-19-22-43-21 +0000"
-  },
-  {
     "headline": "NYC may rename 2 streets for soccer legends to gear up for World Cup — but there’s a catch",
     "link": "https://nypost.com/2026/04/19/us-news/nyc-may-rename-2-streets-for-soccer-legends-to-gear-up-for-world-cup-but-theres-a-catch/",
     "source": "nypost",
@@ -240,12 +360,6 @@
     "pubdate": "2026-04-19-22-06-39 +0000"
   },
   {
-    "headline": "8 Children Killed in Domestic Mass Shooting in Shreveport, Louisiana, Police Say",
-    "link": "https://www.nytimes.com/2026/04/19/us/shreveport-mass-shooting-dead-children.html",
-    "source": "nyt",
-    "pubdate": "2026-04-19-22-05-56 +0000"
-  },
-  {
     "headline": "Secret letter reveals intimate private life of Penthouse Pet now engaged to Dem-backing billionaire",
     "link": "https://nypost.com/2026/04/19/us-news/porn-star-writes-to-judge-about-penthouse-pet-adva-lavies-sex-life/",
     "source": "nypost",
@@ -285,13 +399,13 @@
     "headline": "Hamas Officials Say Group Is Ready to Hand Over Some Weapons",
     "link": "https://www.nytimes.com/2026/04/19/world/middleeast/hamas-weapons-israel.html",
     "source": "nyt",
-    "pubdate": "2026-04-19-21-54-20 +0000"
+    "pubdate": "2026-04-19-21-54-21 +0000"
   },
   {
     "headline": "Hamas Officials Say Group Is Ready to Hand Over Some Weapons",
     "link": "https://www.nytimes.com/2026/04/19/world/middleeast/hamas-weapons-israel.html",
     "source": "nyt",
-    "pubdate": "2026-04-19-21-54-20 +0000"
+    "pubdate": "2026-04-19-21-54-21 +0000"
   },
   {
     "headline": "Michigan Gas Clerk Helps Save Kidnapped Teen Girl Who Mouthed ‘Help’",
@@ -310,18 +424,6 @@
     "link": "https://www.nytimes.com/2026/04/19/world/middleeast/us-iran-blockade-expansion.html",
     "source": "nyt",
     "pubdate": "2026-04-19-21-52-55 +0000"
-  },
-  {
-    "headline": "Harry Keyishian, Lead Plaintiff in Academic Freedom Case, Dies at 93",
-    "link": "https://www.nytimes.com/2026/04/19/us/harry-keyishian-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-04-19-21-50-00 +0000"
-  },
-  {
-    "headline": "Harry Keyishian, Lead Plaintiff in Academic Freedom Case, Dies at 93",
-    "link": "https://www.nytimes.com/2026/04/19/us/harry-keyishian-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-04-19-21-50-00 +0000"
   },
   {
     "headline": "Democrats Eye a Broader Battlefield to Capture Congress in November",
@@ -474,22 +576,16 @@
     "pubdate": "2026-04-19-20-49-36 +0000"
   },
   {
-    "headline": "Shreveport gunman who murdered 8 kids — including 7 of his own — ID’d as Army vet Shamar Elkins who shared post of daughter hours before slaughter",
-    "link": "https://nypost.com/2026/04/19/us-news/shamar-elkins-named-as-louisiana-gunman-who-murdered-8-kids/",
-    "source": "nypost",
-    "pubdate": "2026-04-19-20-48-30 +0000"
+    "headline": "U.S. Installs a Trump Loyalist to Lead ‘Grand Conspiracy’ Case Into Trump Foes",
+    "link": "https://www.nytimes.com/2026/04/18/us/politics/digenova-trump-lawyer-conspiracy.html",
+    "source": "nyt",
+    "pubdate": "2026-04-19-20-48-06 +0000"
   },
   {
     "headline": "U.S. Installs a Trump Loyalist to Lead ‘Grand Conspiracy’ Case Into Trump Foes",
     "link": "https://www.nytimes.com/2026/04/18/us/politics/digenova-trump-lawyer-conspiracy.html",
     "source": "nyt",
-    "pubdate": "2026-04-19-20-48-05 +0000"
-  },
-  {
-    "headline": "U.S. Installs a Trump Loyalist to Lead ‘Grand Conspiracy’ Case Into Trump Foes",
-    "link": "https://www.nytimes.com/2026/04/18/us/politics/digenova-trump-lawyer-conspiracy.html",
-    "source": "nyt",
-    "pubdate": "2026-04-19-20-48-05 +0000"
+    "pubdate": "2026-04-19-20-48-06 +0000"
   },
   {
     "headline": "Energy Secretary Says Gas Prices May Stay Above $3 Until 2027",
@@ -510,22 +606,10 @@
     "pubdate": "2026-04-19-20-32-16 +0000"
   },
   {
-    "headline": "Family’s collection of old films no one wanted turns out to contain only copy of world’s first sci-fi flick",
-    "link": "https://nypost.com/2026/04/19/us-news/familys-collection-of-old-films-no-one-wanted-turns-out-to-contain-only-copy-of-worlds-first-sci-fi-flick/",
-    "source": "nypost",
-    "pubdate": "2026-04-19-20-27-41 +0000"
-  },
-  {
     "headline": "85-year-old widow is released from US custody, returns to France amid messy family dispute",
     "link": "https://nypost.com/2026/04/19/world-news/85-year-old-widow-is-released-from-us-custody-returns-to-france-amid-messy-family-dispute/",
     "source": "nypost",
     "pubdate": "2026-04-19-20-19-00 +0000"
-  },
-  {
-    "headline": "Gavin Newsom’s allies mulling dark horse governor candidate who’s suddenly seen huge spike in polls",
-    "link": "https://nypost.com/2026/04/19/us-news/newsoms-allies-mulling-dark-horse-governor-candidate-xavier-becerra/",
-    "source": "nypost",
-    "pubdate": "2026-04-19-20-18-50 +0000"
   },
   {
     "headline": "Gavin Newsom’s allies mulling dark horse governor candidate who’s suddenly seen huge spike in polls",
@@ -546,18 +630,6 @@
     "pubdate": "2026-04-19-20-05-11 +0000"
   },
   {
-    "headline": "D4vd brings in powerhouse team who fought Hollywood’s most notorious cases after murder arrest",
-    "link": "https://nypost.com/2026/04/19/us-news/d4vd-joins-blair-berks-extensive-list-of-celebrity-clients-including-mel-gibson-lindsey-lohan-britney-spears-harvey-weinstein-and-kanye-west/",
-    "source": "nypost",
-    "pubdate": "2026-04-19-19-58-37 +0000"
-  },
-  {
-    "headline": "Couple marry inside ICE detention center in final bid to keep alleged illegal migrant husband in the US",
-    "link": "https://nypost.com/2026/04/19/us-news/couple-marries-inside-ice-detention-facility/",
-    "source": "nypost",
-    "pubdate": "2026-04-19-19-57-41 +0000"
-  },
-  {
     "headline": "HiPP recalls baby food jars in Austria after testing positive for rat poison",
     "link": "https://nypost.com/2026/04/19/world-news/hipp-recalls-baby-food-jars-in-austria-after-testing-positive-for-rat-poison/",
     "source": "nypost",
@@ -574,12 +646,6 @@
     "link": "https://nypost.com/2026/04/19/world-news/us-navy-destroyer-blows-a-hole-through-iranian-cargo-ship-that-tried-to-break-hormuz-blockade-trump-says/",
     "source": "nypost",
     "pubdate": "2026-04-19-19-46-22 +0000"
-  },
-  {
-    "headline": "Eight Children Killed in Louisiana Shooting",
-    "link": "https://www.wsj.com/us-news/louisiana-shooting-children-killed-458493fc",
-    "source": "wsj",
-    "pubdate": "2026-04-19-19-46-00 +0000"
   },
   {
     "headline": "Opinion | Yale Takes Itself to Reform School",
@@ -717,7 +783,7 @@
     "headline": "Trump Administration Demand for Ballot Info Rebuffed by Michigan",
     "link": "https://www.nytimes.com/2026/04/19/us/michigan-trump-ballots-election.html",
     "source": "nyt",
-    "pubdate": "2026-04-19-18-03-13 +0000"
+    "pubdate": "2026-04-19-18-03-14 +0000"
   },
   {
     "headline": "Removing Iran’s Enriched Uranium Would Be Difficult—But It Has Been Done Before",
@@ -790,12 +856,6 @@
     "link": "https://www.nytimes.com/2026/04/19/world/asia/coastal-village-fire-borneo-malaysia.html",
     "source": "nyt",
     "pubdate": "2026-04-19-16-43-23 +0000"
-  },
-  {
-    "headline": "5 Injured During a Shooting Near University of Iowa Campus",
-    "link": "https://www.nytimes.com/2026/04/19/us/university-of-iowa-shooting.html",
-    "source": "nyt",
-    "pubdate": "2026-04-19-16-39-27 +0000"
   },
   {
     "headline": "British Counterterrorism Police Investigating Attacks Against Jewish Sites",
@@ -1152,12 +1212,6 @@
     "pubdate": "2026-04-19-11-00-00 +0000"
   },
   {
-    "headline": "Minnesota Republicans want Trump’s endorsement. There’s no sure way to get it.",
-    "link": "https://www.startribune.com/minnesota-republicans-want-trumps-endorsement-theres-no-sure-way-to-land-it/601667196",
-    "source": "startribune",
-    "pubdate": "2026-04-19-11-00-00 +0000"
-  },
-  {
     "headline": "In red states, anti-immigrant bills are failing as businesses push back",
     "link": "https://www.washingtonpost.com/business/2026/04/19/trump-states-laws-immigration-business/",
     "source": "wapo",
@@ -1182,14 +1236,14 @@
     "pubdate": "2026-04-19-10-00-00 +0000"
   },
   {
-    "headline": "Supreme Court weighs phone searches to find criminals amid complaints of 'digital dragnets'",
-    "link": "https://www.latimes.com/politics/story/2026-04-19/supreme-court-weighs-phone-searches-to-find-criminals-amid-complaints-of-digital-dragnets",
+    "headline": "Ordered free, still locked up: Judges fume as Trump administration holds ICE detainees",
+    "link": "https://www.latimes.com/california/story/2026-04-19/trump-doj-habeas-corpus-immigration-detention",
     "source": "latimes",
     "pubdate": "2026-04-19-10-00-00 +0000"
   },
   {
-    "headline": "Ordered free, still locked up: Judges fume as Trump administration holds ICE detainees",
-    "link": "https://www.latimes.com/california/story/2026-04-19/trump-doj-habeas-corpus-immigration-detention",
+    "headline": "Supreme Court weighs phone searches to find criminals amid complaints of 'digital dragnets'",
+    "link": "https://www.latimes.com/politics/story/2026-04-19/supreme-court-weighs-phone-searches-to-find-criminals-amid-complaints-of-digital-dragnets",
     "source": "latimes",
     "pubdate": "2026-04-19-10-00-00 +0000"
   },
@@ -1528,35 +1582,5 @@
     "link": "https://www.wsj.com/us-news/law/trump-judges-d3ecf000",
     "source": "wsj",
     "pubdate": "2026-04-19-02-00-00 +0000"
-  },
-  {
-    "headline": "Behind Trump’s public bravado on the war in Iran is a president grappling with his own fears.",
-    "link": "https://www.wsj.com/politics/national-security/trump-public-bravado-private-fear-59814dca",
-    "source": "wsj",
-    "pubdate": "2026-04-19-01-00-00 +0000"
-  },
-  {
-    "headline": "Maine’s new levy shows that wealth taxes aren’t just for states chock-full of tech founders and hedge-fund billionaires",
-    "link": "https://www.wsj.com/politics/policy/wealth-tax-fever-is-spreading-to-less-wealthy-states-f3f55e00",
-    "source": "wsj",
-    "pubdate": "2026-04-19-01-00-00 +0000"
-  },
-  {
-    "headline": "Wealth-Tax Fever Is Spreading to Less-Wealthy States",
-    "link": "https://www.wsj.com/politics/policy/wealth-tax-fever-is-spreading-to-less-wealthy-states-f3f55e00",
-    "source": "wsj",
-    "pubdate": "2026-04-19-01-00-00 +0000"
-  },
-  {
-    "headline": "Concerned SoCal woman reveals terrifying fallout from registering her  pet Boxer to vote",
-    "link": "https://nypost.com/2026/04/18/us-news/california-woman-charged-after-registering-dog-to-vote-says-it-was-a-test/",
-    "source": "nypost",
-    "pubdate": "2026-04-19-00-53-44 +0000"
-  },
-  {
-    "headline": "Nancy Mace calls on Congress to release sexual harassment records, wants an ‘avalanche of resignations’",
-    "link": "https://nypost.com/2026/04/18/us-news/nancy-mace-calls-on-congress-to-release-sexual-harassment-records-wants-an-avalanche-of-resignations/",
-    "source": "nypost",
-    "pubdate": "2026-04-19-00-06-06 +0000"
   }
 ]
