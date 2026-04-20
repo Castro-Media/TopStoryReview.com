@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-04-20-16-16-33 +0000",
+    "score": 32,
+    "pubdate": "2026-04-20-18-01-39 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Fed Pick to Defend Central Bank’s Ability to Set Rates Independently",
+    "link": "https://www.nytimes.com/2026/04/20/us/politics/kevin-warsh-fed-senate-banking-committee-hearing.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-04-20-17-30-00 +0000",
+    "source": "wsj",
+    "headline": "The Justice Department’s antitrust division is investigating whether large meatpackers that supply U.S. consumers engaged in criminal anticompetitive conduct, after President Trump called for a probe",
+    "link": "https://www.wsj.com/politics/policy/justice-department-is-criminally-investigating-beef-companies-1f91a3c6"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-04-20-17-38-22 +0000",
+    "source": "bbc",
+    "headline": "Black beauty queen who represented South Africa at Miss World during apartheid dies aged 76",
+    "link": "https://www.bbc.com/news/articles/cy41kklknreo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-04-20-17-39-36 +0000",
     "source": "nypost",
-    "headline": "$166 billion in tariff refunds at stake in new online portal — but consumers might not benefit",
-    "link": "https://nypost.com/2026/04/20/business/166-billion-in-tariff-refunds-at-stake-in-new-online-portal-but-consumers-might-not-benefit/"
+    "headline": "Israeli troops kill suspected terrorist who crossed truce line in Lebanon, violating 10-day cease-fire",
+    "link": "https://nypost.com/2026/04/20/world-news/israeli-troops-kill-suspected-terrorist-who-crossed-truce-line-in-lebanon-violating-10-day-cease-fire/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-20-17-53-00 +0000",
+    "source": "wsj",
+    "headline": "Governments Could Force ECB’s Hand If Energy Support Is Too Broad, Lagarde Says",
+    "link": "https://www.wsj.com/economy/central-banking/governments-could-force-ecbs-hand-if-energy-support-is-too-broad-lagarde-says-d6099711"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-20-17-17-28 +0000",
+    "source": "nypost",
+    "headline": "Over 250 journalists demand reporters ‘forcefully’ protest Trump at White House Correspondents’ Dinner",
+    "link": "https://nypost.com/2026/04/20/us-news/over-250-journalists-demand-reporters-forcefully-protest-trump-at-white-house-correspondents-dinner/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-20-17-30-00 +0000",
+    "source": "wsj",
+    "headline": "Senate Democrats plan to press Fed chair nominee Kevin Warsh on Tuesday over perceived gaps in his financial disclosures",
+    "link": "https://www.wsj.com/economy/central-banking/kevin-warshs-finances-likely-to-play-key-role-in-confirmation-hearings-6dbde910"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-20-18-04-41 +0000",
+    "source": "nypost",
+    "headline": "Horrific video shows influencer Kaludia Glam being run down by rival’s Mercedes outside London nightclub",
+    "link": "https://nypost.com/2026/04/20/world-news/horrific-video-shows-influencer-kaludia-glam-being-run-down-by-rivals-mercedes-outside-nightclub/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-20-17-17-49 +0000",
+    "source": "nypost",
+    "headline": "Angry Tesla owners sue Elon Musk’s automaker for ‘misleading’ them about self-driving tech",
+    "link": "https://nypost.com/2026/04/20/business/angry-tesla-owners-sue-elon-musks-automaker-for-misleading-them-about-self-driving-tech/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-20-17-41-45 +0000",
+    "source": "nyt",
+    "headline": "A Decisive Win Raises Bulgarians’ Hopes for Change",
+    "link": "https://www.nytimes.com/2026/04/20/world/europe/bulgaria-election-result-rumen-radev.html"
   }
 ]
