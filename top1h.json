@@ -1,51 +1,72 @@
 [
   {
+    "score": 20,
+    "pubdate": "2026-04-20-05-39-42 +0000",
+    "source": "nyt",
+    "headline": "The Iran War Sent Shock Waves Through Asia That Are Likely to Spread",
+    "link": "https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-20-05-13-58 +0000",
+    "source": "bbc",
+    "headline": "The insider trading suspicions looming over Trump's presidency",
+    "link": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 14,
-    "pubdate": "2026-04-20-03-55-16 +0000",
-    "source": "nyt",
-    "headline": "Mexico Car Accident Kills 4 Drug Investigators in Chihuahua.",
-    "link": "https://www.nytimes.com/2026/04/19/world/americas/mexico-investigator-crash.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-04-20-03-57-58 +0000",
+    "pubdate": "2026-04-20-05-24-03 +0000",
     "source": "nypost",
-    "headline": "Wild video captures hot air balloon with 13 aboard making emergency landing in California backyard",
-    "link": "https://nypost.com/2026/04/19/us-news/wild-video-captures-packed-hot-air-balloon-making-emergency-landing-in-california-backyard/"
+    "headline": "Louisiana shooter Shamar Elkins made chilling remarks about ‘demons’ weeks before killing his 7 kids and their cousin",
+    "link": "https://nypost.com/2026/04/20/us-news/louisiana-shooter-chillingly-told-stepdad-some-people-cant-come-back-from-their-demons-weeks-before-killing-his-7-kids-and-their-cousin/"
   },
   {
-    "score": 12,
-    "pubdate": "2026-04-20-03-34-04 +0000",
+    "score": 14,
+    "pubdate": "2026-04-20-04-50-15 +0000",
+    "source": "bbc",
+    "headline": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+    "link": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-20-05-09-34 +0000",
     "source": "latimes",
-    "headline": "He stole Lego pieces, put dried pasta in the box, police say. Shake it, they 'make the same sound'",
-    "link": "https://www.latimes.com/california/story/2026-04-19/he-stole-lego-pieces-put-dried-pasta-in-box-police-say"
+    "headline": "Four structures destroyed and one firefighter injured in Yucca Valley fire",
+    "link": "https://www.latimes.com/california/story/2026-04-19/skyline-fire-yucca-valley-four-structures-destroyed-one-firefighter-injured"
   },
   {
-    "score": 10,
-    "pubdate": "2026-04-20-03-02-27 +0000",
-    "source": "nyt",
-    "headline": "U.S. Military Strikes a Boat in the Caribbean, Killing 3",
-    "link": "https://www.nytimes.com/2026/04/19/us/politics/us-military-strike-boat-strike-caribbean.html"
+    "score": 9,
+    "pubdate": "2026-04-20-05-00-50 +0000",
+    "source": "bbc",
+    "headline": "Reform pledges to review all asylum claims since 2021 if it wins power",
+    "link": "https://www.bbc.com/news/articles/c0rxd5wpyqwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 5,
-    "pubdate": "2026-04-20-03-21-55 +0000",
+    "score": 9,
+    "pubdate": "2026-04-20-05-15-27 +0000",
     "source": "nyt",
-    "headline": "With Trump Novices, Can the U.S. Win the ‘Art Olympics’?",
-    "link": "https://www.nytimes.com/2026/04/19/arts/design/venice-biennale-trump-us-pavilion.html"
+    "headline": "U.S. Attacks Iranian Cargo Ship While Preparing for New Round of Talks",
+    "link": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-20-03-55-16 +0000",
+    "score": 9,
+    "pubdate": "2026-04-20-05-15-25 +0000",
     "source": "nyt",
-    "headline": "Mexico Car Accident Kills 4 Drug Investigators in Chihuahua.",
-    "link": "https://www.nytimes.com/2026/04/19/world/americas/mexico-investigator-crash.html"
+    "headline": "Oil Prices Jumped and Stock Futures Fell on Renewed Iran Conflict",
+    "link": "https://www.nytimes.com/2026/04/19/business/oil-stocks-gas-iran.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-20-03-02-27 +0000",
-    "source": "nyt",
-    "headline": "U.S. Military Strikes a Boat in the Caribbean, Killing 3",
-    "link": "https://www.nytimes.com/2026/04/19/us/politics/us-military-strike-boat-strike-caribbean.html"
+    "score": 7,
+    "pubdate": "2026-04-20-05-30-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Treasury Yields Rise as Tensions Remain Over Strait of Hormuz",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-as-investors-focus-on-mideast-developments-d21d4716?mod=rss_markets_main"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-04-20-05-23-30 +0000",
+    "source": "bbc",
+    "headline": "Debt problems in seaside town among  UK's worst",
+    "link": "https://www.bbc.com/news/articles/c3ex27kkq0xo?at_medium=RSS&at_campaign=rss"
   }
 ]
