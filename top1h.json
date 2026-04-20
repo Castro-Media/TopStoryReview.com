@@ -1,9 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2026-04-20-14-20-30 +0000",
+    "score": 49,
+    "pubdate": "2026-04-20-15-23-45 +0000",
+    "source": "nypost",
+    "headline": "Trump tells The Post he ‘won’t be rushed’ to end Iran war, lashes out at pols urging him to settle: ‘They are helping the other side’",
+    "link": "https://nypost.com/2026/04/20/us-news/trump-tells-the-post-he-wont-be-rushed-to-end-iran-war-lashes-out-at-pols-urging-him-to-settle-they-are-helping-the-other-side/"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-04-20-16-09-04 +0000",
+    "source": "nypost",
+    "headline": "Congress publishes list of 28 House members investigated for sexual misconduct — in wake of major scandals",
+    "link": "https://nypost.com/2026/04/20/us-news/congress-publishes-list-of-28-house-members-investigated-for-sexual-misconduct-in-wake-of-major-scandals/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-04-20-15-25-40 +0000",
+    "source": "nyt",
+    "headline": "Kash Patel Sues The Atlantic for $250 Million Over Article Claiming Excessive Drinking",
+    "link": "https://www.nytimes.com/2026/04/20/us/politics/kash-patel-atlantic-article-alcohol-drinking-fbi-lawsuit.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-04-20-15-44-44 +0000",
     "source": "bbc",
-    "headline": "Another flight leaves passengers behind due to border delays",
-    "link": "https://www.bbc.com/news/articles/cvg3xzxpv32o?at_medium=RSS&at_campaign=rss"
+    "headline": "Elon Musk snubs interview summons by French prosecutors amid X probe",
+    "link": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-20-15-19-08 +0000",
+    "source": "nyt",
+    "headline": "Why Gas Prices Go Up Fast and Take So Long to Fall",
+    "link": "https://www.nytimes.com/2026/04/20/business/economy/gas-stations-pricing.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-04-20-15-24-00 +0000",
+    "source": "wsj",
+    "headline": "The Justice Department’s antitrust division is investigating whether large meatpackers that supply U.S. consumers engaged in criminal anticompetitive conduct, after President Trump called for a probe",
+    "link": "https://www.wsj.com/politics/policy/justice-department-is-criminally-investigating-beef-companies-1f91a3c6"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-20-15-46-00 +0000",
+    "source": "wsj",
+    "headline": "Bipartisan Senators Warn United and American Airlines on Potential Merger",
+    "link": "https://www.wsj.com/business/airlines/bipartisan-senators-warn-united-and-american-airlines-on-potential-merger-8165cb24?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-20-15-23-14 +0000",
+    "source": "nyt",
+    "headline": "Starmer Tells Parliament He Was Kept in the Dark on Mandelson Vetting",
+    "link": "https://www.nytimes.com/2026/04/20/world/europe/uk-starmer-mandelson-statement-parliament.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-20-15-45-00 +0000",
+    "source": "wsj",
+    "headline": "The Cancer Victims Who Could Sink Bayer’s Roundup Settlement",
+    "link": "https://www.wsj.com/business/the-cancer-victims-who-could-sink-bayers-roundup-settlement-a932cfed?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-20-16-12-09 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Tehran and Washington Plan New Talks in Pakistan",
+    "link": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz"
   }
 ]
