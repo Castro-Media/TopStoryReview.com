@@ -1,44 +1,72 @@
 [
   {
-    "score": 13,
-    "pubdate": "2026-04-21-14-23-41 +0000",
+    "score": 39,
+    "pubdate": "2026-04-21-16-04-06 +0000",
+    "source": "nyt",
+    "headline": "Facing Hard-Liners at Home and Bluster From Trump, Iran Sends Mixed Signals on Peace Talks",
+    "link": "https://www.nytimes.com/2026/04/20/world/middleeast/facing-hard-liners-at-home-and-bluster-from-trump-iran-sends-mixed-signals-on-peace-talks.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-04-21-15-24-23 +0000",
     "source": "nypost",
-    "headline": "Famous activist who worked with Oprah Winfrey and Joe Biden stabbed, mother butchered inside their Burbank home",
-    "link": "https://nypost.com/2026/04/21/us-news/mental-health-activist-who-worked-with-biden-oprah-stabbed-in-burbank-home-as-mother-killed/"
+    "headline": "Pentagon releases dramatic footage of moment US forces intercept sanctioned oil tanker",
+    "link": "https://nypost.com/2026/04/21/us-news/pentagon-releases-dramatic-footage-of-moment-us-forces-intercept-sanctioned-oil-tanker/"
   },
   {
-    "score": 7,
-    "pubdate": "2026-04-21-14-23-58 +0000",
+    "score": 20,
+    "pubdate": "2026-04-21-15-37-33 +0000",
+    "source": "cbc",
+    "headline": "Ottawa has asked Israel to investigate Canadian's killing in Lebanon: Anand",
+    "link": "https://www.cbc.ca/news/politics/cbc-ca-politics-anand-israel-canadian-killed-9.7171669?cmp=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-04-21-16-00-02 +0000",
+    "source": "latimes",
+    "headline": "Becerra sees momentum, money and movement in the polls in governor's race",
+    "link": "https://www.latimes.com/california/story/2026-04-21/becerra-momentum-money-polls-governors-race"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-21-16-11-21 +0000",
     "source": "bbc",
-    "headline": "Unemployment rate unexpectedly falls as fewer students look for work",
-    "link": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss"
+    "headline": "South Africa's police boss charged in connection with controversial health contract",
+    "link": "https://www.bbc.com/news/articles/cn784g76v63o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 7,
-    "pubdate": "2026-04-21-14-19-02 +0000",
+    "score": 16,
+    "pubdate": "2026-04-21-16-06-48 +0000",
+    "source": "nypost",
+    "headline": "Mexican pyramid shooting that left tourist dead was on anniversary of Columbine — and Hitler’s birthday",
+    "link": "https://nypost.com/2026/04/21/world-news/mass-shooting-at-ancient-mexican-temple-was-on-anniversary-of-columbine-massacre-and-hitlers-birthday/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-21-16-12-00 +0000",
     "source": "nyt",
-    "headline": "Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.",
-    "link": "https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html"
+    "headline": "Oil Prices Climb and Stocks Wobble as Investors Assess Peace Prospects",
+    "link": "https://www.nytimes.com/2026/04/21/business/oil-stocks-gas-iran.html"
   },
   {
-    "score": 5,
-    "pubdate": "2026-04-21-14-17-00 +0000",
-    "source": "wsj",
-    "headline": "3M Reaffirms Forecast as Macro Uncertainty Lingers",
-    "link": "https://www.wsj.com/business/earnings/3m-quarterly-profit-falls-as-2026-views-reiterated-c2d92fd5?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 3,
-    "pubdate": "2026-04-21-14-17-01 +0000",
+    "score": 15,
+    "pubdate": "2026-04-21-16-12-21 +0000",
     "source": "nyt",
-    "headline": "What to Know About Virginia’s Redistricting Fight",
-    "link": "https://www.nytimes.com/2026/04/21/us/elections/virginia-gerrymandering-election-midterms.html"
+    "headline": "Iran War Live Updates: Cease-Fire Nears End, and It’s Unclear if Peace Talks Will Resume",
+    "link": "https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news"
   },
   {
-    "score": 2,
-    "pubdate": "2026-04-21-14-16-57 +0000",
+    "score": 15,
+    "pubdate": "2026-04-21-15-52-45 +0000",
     "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/21/business/kevin-warsh-fed-chair-hearing/heres-the-latest"
+    "headline": "London Tube Drivers’ Strike Halts a Key Line",
+    "link": "https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-21-15-30-10 +0000",
+    "source": "nyt",
+    "headline": "Fired U.K. Official Describes ‘Pressure’ to Expedite Envoy’s Appointment",
+    "link": "https://www.nytimes.com/2026/04/21/world/europe/starmer-mandelson-olly-robbins.html"
   }
 ]
