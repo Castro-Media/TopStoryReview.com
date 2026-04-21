@@ -1,6 +1,6 @@
 [
   {
-    "score": 189,
+    "score": 181,
     "pubdate": "2026-04-21-01-14-06 +0000",
     "source": "nyt",
     "headline": "Trump and Iran Face Off in Iran War Negotiations",
@@ -14,13 +14,6 @@
     "link": "https://nypost.com/2026/04/20/world-news/iran-says-no-decision-has-been-made-to-attend-second-round-of-peace-talks-with-us/"
   },
   {
-    "score": 81,
-    "pubdate": "2026-04-21-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump picked Kevin Warsh for Fed chair expecting lower interest rates. How Warsh navigates their relationship could shape what he can actually deliver.",
-    "link": "https://www.wsj.com/economy/central-banking/warsh-embarks-on-high-wire-act-of-convincing-investors-without-angering-trump-11a28a3b"
-  },
-  {
     "score": 73,
     "pubdate": "2026-04-21-05-32-03 +0000",
     "source": "nyt",
@@ -28,14 +21,14 @@
     "link": "https://www.nytimes.com/2026/04/20/world/middleeast/touska-iran-ship-sanctions.html"
   },
   {
-    "score": 61,
-    "pubdate": "2026-04-20-09-00-07 +0000",
-    "source": "wapo",
-    "headline": "Gas prices threaten GOP in race that could help determine House control",
-    "link": "https://www.washingtonpost.com/business/2026/04/20/house-republican-election-war-gasoline/"
+    "score": 72,
+    "pubdate": "2026-04-21-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump picked Kevin Warsh for Fed chair expecting lower interest rates. How Warsh navigates their relationship could shape what he can actually deliver.",
+    "link": "https://www.wsj.com/economy/central-banking/warsh-embarks-on-high-wire-act-of-convincing-investors-without-angering-trump-11a28a3b"
   },
   {
-    "score": 57,
+    "score": 56,
     "pubdate": "2026-04-20-20-46-45 +0000",
     "source": "nypost",
     "headline": "Apple names insider John Ternus to succeed Tim Cook as CEO",
@@ -61,6 +54,13 @@
     "source": "nypost",
     "headline": "Former state controller Betty Yee drops bid for California governor",
     "link": "https://nypost.com/2026/04/20/us-news/former-state-controller-betty-yee-drops-bid-for-california-governor/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-04-20-17-11-43 +0000",
+    "source": "cbc",
+    "headline": "Kenya's Korir successfully defends Boston Marathon title; Canadian Linkletter posts personal-best time",
+    "link": "https://www.cbc.ca/sports/olympics/summer/athletics/boston-marathon-korir-linkletter-roundup-2026-9.7170526?cmp=rss"
   },
   {
     "score": 45,
