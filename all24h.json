@@ -1,27 +1,135 @@
 [
   {
+    "headline": "Pop-up shop helps families cope with rising costs",
+    "link": "https://www.bbc.com/news/articles/crk113n080no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-21-05-35-19 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: Tehran and Trump Send Mixed Signals Ahead of Potential Talks",
+    "link": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
+    "source": "nyt",
+    "pubdate": "2026-04-21-05-32-04 +0000"
+  },
+  {
+    "headline": "The Touska, the Iranian-Flagged Ship Seized by U.S. Forces, Was Under Sanctions",
+    "link": "https://www.nytimes.com/2026/04/20/world/middleeast/touska-iran-ship-sanctions.html",
+    "source": "nyt",
+    "pubdate": "2026-04-21-05-32-02 +0000"
+  },
+  {
+    "headline": "The Touska, the Iranian-Flagged Ship Seized by U.S. Forces, Was Under Sanctions",
+    "link": "https://www.nytimes.com/2026/04/20/world/middleeast/touska-iran-ship-sanctions.html",
+    "source": "nyt",
+    "pubdate": "2026-04-21-05-32-02 +0000"
+  },
+  {
+    "headline": "France’s Thales Logs Surge in Defense Orders",
+    "link": "https://www.wsj.com/business/earnings/frances-thales-logs-surge-in-defense-orders-53ef5511?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-21-05-31-00 +0000"
+  },
+  {
+    "headline": "France’s Thales Logs Surge in Defense Orders",
+    "link": "https://www.wsj.com/business/earnings/frances-thales-logs-surge-in-defense-orders-53ef5511",
+    "source": "wsj",
+    "pubdate": "2026-04-21-05-31-00 +0000"
+  },
+  {
+    "headline": "Live from Denver: Anthony Edwards scores 30 points as Timberwolves beat Nuggets 119-114 in Game 2",
+    "link": "https://www.startribune.com/live-blog-minnesota-timberwolves-denver-nuggets-game2-nba-playoffs/601770583",
+    "source": "startribune",
+    "pubdate": "2026-04-21-05-29-35 +0000"
+  },
+  {
+    "headline": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
+    "link": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
+    "source": "nyt",
+    "pubdate": "2026-04-21-05-13-59 +0000"
+  },
+  {
+    "headline": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
+    "link": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
+    "source": "nyt",
+    "pubdate": "2026-04-21-05-13-59 +0000"
+  },
+  {
+    "headline": "Charity offers 'stigma-free' food poverty service",
+    "link": "https://www.bbc.com/news/articles/cjr9pe47lp0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-21-05-09-06 +0000"
+  },
+  {
+    "headline": "Violent teen mob beats Temple University student in dorm in vicious caught-on-video attack",
+    "link": "https://nypost.com/2026/04/21/us-news/temple-university-student-viciously-beaten-by-teen-mob/",
+    "source": "nypost",
+    "pubdate": "2026-04-21-05-05-42 +0000"
+  },
+  {
+    "headline": "'Price of red diesel is putting us in the red'",
+    "link": "https://www.bbc.com/news/articles/c1eq1vz4112o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-21-05-05-19 +0000"
+  },
+  {
+    "headline": "Live from Dallas: Stars even series by beating Wild 4-2 in Game 2",
+    "link": "https://www.startribune.com/live-from-dallas-jesper-wallstedt-starts-again-for-wild-in-game-2/601770578",
+    "source": "startribune",
+    "pubdate": "2026-04-21-05-04-28 +0000"
+  },
+  {
+    "headline": "Sacked civil servant to speak out in Mandelson vetting row",
+    "link": "https://www.bbc.com/news/articles/czrezg3vyzjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-21-04-59-55 +0000"
+  },
+  {
+    "headline": "Oil Likely to Stay Volatile in Near Term",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-prospects-of-u-s-iran-talks-a06f611d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-21-04-35-00 +0000"
+  },
+  {
+    "headline": "Noah’s Ark mystery deepens as researcher blows lid on strange rock formations in Turkey",
+    "link": "https://nypost.com/2026/04/21/science/researcher-blows-lid-on-series-of-strange-rock-corridors-in-turkey-deepening-noahs-ark-mystery/",
+    "source": "nypost",
+    "pubdate": "2026-04-21-04-06-15 +0000"
+  },
+  {
+    "headline": "London Braces for Disruption From Tube Drivers’ Strike",
+    "link": "https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html",
+    "source": "nyt",
+    "pubdate": "2026-04-21-04-01-04 +0000"
+  },
+  {
+    "headline": "London Braces for Disruption From Tube Drivers’ Strike",
+    "link": "https://www.nytimes.com/2026/04/21/world/europe/london-underground-tube-strike.html",
+    "source": "nyt",
+    "pubdate": "2026-04-21-04-01-04 +0000"
+  },
+  {
+    "headline": "Canadian Tourist Is Killed in Shooting at Mexico’s Pyramids",
+    "link": "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html",
+    "source": "nyt",
+    "pubdate": "2026-04-21-03-58-28 +0000"
+  },
+  {
+    "headline": "Canadian Tourist Is Killed in Shooting at Mexico’s Pyramids",
+    "link": "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html",
+    "source": "nyt",
+    "pubdate": "2026-04-21-03-58-28 +0000"
+  },
+  {
     "headline": "Officials deliberately withheld Mandelson vetting result from me, Starmer says",
     "link": "https://www.bbc.com/news/articles/cx2wllel54no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-21-03-52-53 +0000"
   },
   {
-    "headline": "Live from Denver: Timberwolves, Nuggets in tight Game 2 as Anthony Edwards seizes the moment",
-    "link": "https://www.startribune.com/live-blog-minnesota-timberwolves-denver-nuggets-game2-nba-playoffs/601770583",
-    "source": "startribune",
-    "pubdate": "2026-04-21-03-48-14 +0000"
-  },
-  {
     "headline": "Iran to Attend Pakistan Peace Talks",
     "link": "https://www.wsj.com/world/middle-east/iran-to-attend-pakistan-peace-talks-2cba73c8",
     "source": "wsj",
     "pubdate": "2026-04-21-03-45-00 +0000"
-  },
-  {
-    "headline": "Iran War Live Updates: Tehran and Trump Send Mixed Signals Ahead of Potential Talks",
-    "link": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
-    "source": "nyt",
-    "pubdate": "2026-04-21-03-43-41 +0000"
   },
   {
     "headline": "Americans Living Abroad for Lower Costs Now Say Returning Home Is Too Expensive",
@@ -40,12 +148,6 @@
     "link": "https://nypost.com/2026/04/20/world-news/groom-to-be-sells-vintage-pokemon-card-collection-to-pay-for-dream-wedding/",
     "source": "nypost",
     "pubdate": "2026-04-21-03-32-08 +0000"
-  },
-  {
-    "headline": "Live from Dallas: Stars take 2-1 second period lead in physical Game 2 battle",
-    "link": "https://www.startribune.com/live-from-dallas-jesper-wallstedt-starts-again-for-wild-in-game-2/601770578",
-    "source": "startribune",
-    "pubdate": "2026-04-21-03-31-10 +0000"
   },
   {
     "headline": "Nancy Mace introduces resolution to expel Cory Mills from Congress: ‘Protected for far too long’",
@@ -102,16 +204,10 @@
     "pubdate": "2026-04-21-02-27-00 +0000"
   },
   {
-    "headline": "Canadian Tourist Is Killed in Shooting at Mexico’s Pyramids",
-    "link": "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html",
-    "source": "nyt",
-    "pubdate": "2026-04-21-02-25-49 +0000"
-  },
-  {
-    "headline": "Canadian Tourist Is Killed in Shooting at Mexico’s Pyramids",
-    "link": "https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html",
-    "source": "nyt",
-    "pubdate": "2026-04-21-02-25-49 +0000"
+    "headline": "Former Gophers football standout Koi Perich embraces new life at Oregon",
+    "link": "https://www.startribune.com/former-gophers-football-standout-koi-perich-embraces-new-life-at-oregon/601784135",
+    "source": "startribune",
+    "pubdate": "2026-04-21-02-25-02 +0000"
   },
   {
     "headline": "S.F. supe candidate says GrowSF tried talking him out of race, offered to ‘look into’ commission seat",
@@ -132,7 +228,7 @@
     "pubdate": "2026-04-21-02-04-16 +0000"
   },
   {
-    "headline": "The Rival Groups Waging an Expensive Battle Over America’s 250th",
+    "headline": "Companies are getting hit up for money twice, as a bipartisan commission and a Trump-aligned group plan competing events",
     "link": "https://www.wsj.com/politics/policy/the-rival-groups-waging-an-expensive-battle-over-americas-250th-acfb0682",
     "source": "wsj",
     "pubdate": "2026-04-21-02-00-00 +0000"
@@ -142,18 +238,6 @@
     "link": "https://www.wsj.com/us-news/louisiana-armed-robberies-visa-fraud-a0f8425e",
     "source": "wsj",
     "pubdate": "2026-04-21-02-00-00 +0000"
-  },
-  {
-    "headline": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
-    "link": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
-    "source": "nyt",
-    "pubdate": "2026-04-21-01-59-47 +0000"
-  },
-  {
-    "headline": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
-    "link": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
-    "source": "nyt",
-    "pubdate": "2026-04-21-01-59-47 +0000"
   },
   {
     "headline": "Spencer Pratt torches Bass’ $14.85B budget as ‘death sentence for L.A.’",
@@ -219,19 +303,19 @@
     "headline": "Trump and Iran Face Off in Iran War Negotiations",
     "link": "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html",
     "source": "nyt",
-    "pubdate": "2026-04-21-01-14-05 +0000"
+    "pubdate": "2026-04-21-01-14-06 +0000"
   },
   {
     "headline": "Trump and Iran Face Off in Iran War Negotiations",
     "link": "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html",
     "source": "nyt",
-    "pubdate": "2026-04-21-01-14-05 +0000"
+    "pubdate": "2026-04-21-01-14-06 +0000"
   },
   {
     "headline": "Trump and Iran Face Off in Iran War Negotiations",
     "link": "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html",
     "source": "nyt",
-    "pubdate": "2026-04-21-01-14-05 +0000"
+    "pubdate": "2026-04-21-01-14-06 +0000"
   },
   {
     "headline": "Fallen-on-hard-times members club seeks new relevance with upcoming LA-area opening",
@@ -346,12 +430,6 @@
     "link": "https://www.wsj.com/politics/labor-secretary-resigns-after-tumultuous-tenure-21d256e0",
     "source": "wsj",
     "pubdate": "2026-04-21-00-15-00 +0000"
-  },
-  {
-    "headline": "Oil Falls Amid Prospects of U.S.-Iran Talks",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-prospects-of-u-s-iran-talks-a06f611d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-21-00-11-00 +0000"
   },
   {
     "headline": "Here’s the latest.",
@@ -714,12 +792,6 @@
     "pubdate": "2026-04-20-21-35-24 +0000"
   },
   {
-    "headline": "Shamar Elkins wished he ‘could go back and have kids with different woman’ in grim post weeks before massacring children",
-    "link": "https://nypost.com/2026/04/20/us-news/shamar-elkins-wished-he-could-have-kids-with-different-woman-weeks-before-killing-children/",
-    "source": "nypost",
-    "pubdate": "2026-04-20-21-34-16 +0000"
-  },
-  {
     "headline": "Singer D4vd Pleads Not Guilty in Murder of 14-Year-Old Girl Found in His Car Trunk",
     "link": "https://www.wsj.com/us-news/singer-d4vd-charged-with-murder-of-14-year-old-girl-found-in-his-car-trunk-124d2b72",
     "source": "wsj",
@@ -778,12 +850,6 @@
     "link": "https://www.nytimes.com/2026/04/20/world/middleeast/iran-us-talks.html",
     "source": "nyt",
     "pubdate": "2026-04-20-21-10-50 +0000"
-  },
-  {
-    "headline": "Analysis: With Rob Brzezinski at the helm, Vikings badly need a draft class to deliver",
-    "link": "https://www.startribune.com/minnesota-vikings-nfl-draft-preview-kevin-oconnell-rob-brzezinski/601663356",
-    "source": "startribune",
-    "pubdate": "2026-04-20-21-07-59 +0000"
   },
   {
     "headline": "Opinion | Behind the Feud Behind Trump and Leo XIV",
@@ -930,7 +996,7 @@
     "pubdate": "2026-04-20-20-33-01 +0000"
   },
   {
-    "headline": "1 tourist dead, 6 hurt when gunman opens fire atop ancient Mexican pyramid that was used for human sacrifice",
+    "headline": "Gunman who killed tourist, injured 13 others — including Americans — atop ancient Mexican pyramid ID’d",
     "link": "https://nypost.com/2026/04/20/world-news/shooting-from-top-of-ancient-mexican-pyramid-leaves-tourists-killed-injured/",
     "source": "nypost",
     "pubdate": "2026-04-20-20-27-31 +0000"
@@ -1164,18 +1230,6 @@
     "pubdate": "2026-04-20-19-30-56 +0000"
   },
   {
-    "headline": "The Touska, the Iranian-Flagged Ship Seized by U.S. Forces, Was Under Sanctions",
-    "link": "https://www.nytimes.com/2026/04/20/world/middleeast/touska-iran-ship-sanctions.html",
-    "source": "nyt",
-    "pubdate": "2026-04-20-19-22-42 +0000"
-  },
-  {
-    "headline": "The Touska, the Iranian-Flagged Ship Seized by U.S. Forces, Was Under Sanctions",
-    "link": "https://www.nytimes.com/2026/04/20/world/middleeast/touska-iran-ship-sanctions.html",
-    "source": "nyt",
-    "pubdate": "2026-04-20-19-22-42 +0000"
-  },
-  {
     "headline": "Starmer Voices Fury Over Being Kept in the Dark on Mandelson Vetting",
     "link": "https://www.nytimes.com/2026/04/20/world/europe/uk-starmer-mandelson-statement-parliament.html",
     "source": "nyt",
@@ -1240,12 +1294,6 @@
     "link": "https://www.nytimes.com/2026/04/19/us/harry-keyishian-dead.html",
     "source": "nyt",
     "pubdate": "2026-04-20-18-58-29 +0000"
-  },
-  {
-    "headline": "New restaurant chosen for Owamni space along the Mississippi River",
-    "link": "https://www.startribune.com/new-restaurant-named-for-owamni-space-along-the-mississippi-river/601783122",
-    "source": "startribune",
-    "pubdate": "2026-04-20-18-58-10 +0000"
   },
   {
     "headline": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
@@ -2082,12 +2130,6 @@
     "pubdate": "2026-04-20-13-32-58 +0000"
   },
   {
-    "headline": "Iranian woman arrested in US for allegedly trafficking arms to Sudan",
-    "link": "https://www.bbc.com/news/articles/ce9m7m1nmdeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-20-13-32-58 +0000"
-  },
-  {
     "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
     "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
     "source": "wsj",
@@ -2400,14 +2442,14 @@
     "pubdate": "2026-04-20-10-00-00 +0000"
   },
   {
-    "headline": "New COVID subvariant 'Cicada' on the rise in California, just in time for summer",
-    "link": "https://www.latimes.com/california/story/2026-04-20/new-covid-subvariant-cicada-is-on-rise-what-you-need-to-know",
+    "headline": "Uproar over killing of mama bear could help launch a state wildlife coexistence program",
+    "link": "https://www.latimes.com/california/story/2026-04-20/california-could-help-launch-wildlife-coexistence-program-amid-anger-over-mama-bears-death",
     "source": "latimes",
     "pubdate": "2026-04-20-10-00-00 +0000"
   },
   {
-    "headline": "Uproar over killing of mama bear could help launch a state wildlife coexistence program",
-    "link": "https://www.latimes.com/california/story/2026-04-20/california-could-help-launch-wildlife-coexistence-program-amid-anger-over-mama-bears-death",
+    "headline": "New COVID subvariant 'Cicada' on the rise in California, just in time for summer",
+    "link": "https://www.latimes.com/california/story/2026-04-20/new-covid-subvariant-cicada-is-on-rise-what-you-need-to-know",
     "source": "latimes",
     "pubdate": "2026-04-20-10-00-00 +0000"
   },
@@ -2433,6 +2475,12 @@
     "headline": "It’s not just Apple News — left-wing bias rampant on Google News, Yahoo and Bing: bombshell study",
     "link": "https://nypost.com/2026/04/20/business/its-not-just-apple-news-left-wing-bias-rampant-on-google-news-yahoo-and-bing-bombshell-study/",
     "source": "nypost",
+    "pubdate": "2026-04-20-10-00-00 +0000"
+  },
+  {
+    "headline": "Three months into Minnesota’s paid leave plan, interest still higher than expected",
+    "link": "https://www.startribune.com/minnesota-paid-leave-and-payroll-tax-and-hospital-and-deed/601664855",
+    "source": "startribune",
     "pubdate": "2026-04-20-10-00-00 +0000"
   },
   {
@@ -2622,12 +2670,6 @@
     "pubdate": "2026-04-20-07-29-42 +0000"
   },
   {
-    "headline": "Two US Embassy officials among four killed in Mexico car crash after shutting down drug lab",
-    "link": "https://nypost.com/2026/04/20/world-news/two-us-embassy-officials-among-four-killed-in-mexico-car-crash-after-shutting-down-drug-lab/",
-    "source": "nypost",
-    "pubdate": "2026-04-20-07-15-48 +0000"
-  },
-  {
     "headline": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
     "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2668,29 +2710,5 @@
     "link": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-20-05-48-54 +0000"
-  },
-  {
-    "headline": "Debt problems in seaside town among  UK's worst",
-    "link": "https://www.bbc.com/news/articles/c3ex27kkq0xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-20-05-23-30 +0000"
-  },
-  {
-    "headline": "Four structures destroyed and one firefighter injured in Yucca Valley fire",
-    "link": "https://www.latimes.com/california/story/2026-04-19/skyline-fire-yucca-valley-four-structures-destroyed-one-firefighter-injured",
-    "source": "latimes",
-    "pubdate": "2026-04-20-05-09-34 +0000"
-  },
-  {
-    "headline": "Messy War, Happy Stock Markets",
-    "link": "https://www.nytimes.com/2026/04/19/world/iran-war-stock-market-hormuz-attack.html",
-    "source": "nyt",
-    "pubdate": "2026-04-20-04-59-13 +0000"
-  },
-  {
-    "headline": "Man facing divorce kills 8 children, including 7 of his own, in shooting rampage",
-    "link": "https://www.washingtonpost.com/nation/2026/04/19/louisiana-shooting/",
-    "source": "wapo",
-    "pubdate": "2026-04-20-04-28-39 +0000"
   }
 ]
