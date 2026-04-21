@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 33,
+    "pubdate": "2026-04-21-01-14-05 +0000",
+    "source": "nyt",
+    "headline": "Trump and Iran Face Off in Iran War Negotiations",
+    "link": "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-04-21-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump picked Kevin Warsh for Fed chair expecting lower interest rates. How Warsh navigates their relationship could shape what he can actually deliver.",
+    "link": "https://www.wsj.com/economy/central-banking/warsh-embarks-on-high-wire-act-of-convincing-investors-without-angering-trump-11a28a3b"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-21-01-05-41 +0000",
+    "source": "bbc",
+    "headline": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
+    "link": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-21-00-23-00 +0000",
+    "source": "wsj",
+    "headline": "Tim Cook to Step Down as Apple Names New CEO",
+    "link": "https://www.wsj.com/tech/apple-announces-ceo-john-ternus-2826465d?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-21-00-38-59 +0000",
+    "source": "nypost",
+    "headline": "2 Southwest Airlines planes narrowly avoided midair collision at Nashville airport after air traffic control mishap",
+    "link": "https://nypost.com/2026/04/20/us-news/2-southwest-airlines-planes-narrowly-avoided-midair-collision-at-nashville-airport-after-air-traffic-control-mishap/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-21-00-53-48 +0000",
+    "source": "wapo",
+    "headline": "Labor Secretary Lori Chavez-DeRemer will resign amid misconduct allegations",
+    "link": "https://www.washingtonpost.com/business/2026/04/20/chavez-deremer-leaves-cabinet/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-21-01-08-24 +0000",
+    "source": "nypost",
+    "headline": "Fallen-on-hard-times members club seeks new relevance with upcoming LA-area opening",
+    "link": "https://nypost.com/2026/04/20/us-news/peek-inside-soho-desert-house-set-to-open-in-palm-springs-in-2027/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-21-01-00-15 +0000",
+    "source": "startribune",
+    "headline": "Live from Denver: Despite key injury, Timberwolves hope to rebound against Nuggets in Game 2",
+    "link": "https://www.startribune.com/live-blog-minnesota-timberwolves-denver-nuggets-game2-nba-playoffs/601770583"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-21-00-23-06 +0000",
+    "source": "nypost",
+    "headline": "Santa Barbara oil platform barrels ahead with drilling despite legal battle",
+    "link": "https://nypost.com/2026/04/20/us-news/santa-barbara-oil-platform-barrels-ahead-with-drilling-despite-legal-battle/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-21-00-20-53 +0000",
+    "source": "nyt",
+    "headline": "Louisiana Killer’s Threats to Himself and Others Hinted at Future Violence",
+    "link": "https://www.nytimes.com/2026/04/20/us/louisiana-shooter-shamar-elkins-shreveport.html"
+  }
+]
