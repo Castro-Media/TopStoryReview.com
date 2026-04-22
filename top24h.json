@@ -1,17 +1,10 @@
 [
   {
-    "score": 222,
+    "score": 240,
     "pubdate": "2026-04-22-00-32-17 +0000",
     "source": "nyt",
     "headline": "Trump and Iran Face Off in Iran War Negotiations",
     "link": "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html"
-  },
-  {
-    "score": 110,
-    "pubdate": "2026-04-22-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "He was the real Marty Supreme's landlord. Now he's New York's king of talk radio",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-22/marty-supreme-john-catsimatidis-marty-supreme-wabc-radio-cats-cosby-mandani"
   },
   {
     "score": 107,
@@ -21,52 +14,59 @@
     "link": "https://nypost.com/2026/04/22/world-news/iran-opens-fire-on-container-ship-in-strait-of-hormuz/"
   },
   {
-    "score": 98,
+    "score": 88,
     "pubdate": "2026-04-22-07-06-30 +0000",
     "source": "nypost",
     "headline": "Mexico to beef up security at tourist sites after shooting at pyramids in lead up to World Cup",
     "link": "https://nypost.com/2026/04/22/world-news/mexico-to-beef-up-security-at-tourist-sites-after-shooting-at-pyramids-in-lead-up-to-world-cup/"
   },
   {
-    "score": 74,
-    "pubdate": "2026-04-22-12-50-00 +0000",
-    "source": "wsj",
-    "headline": "Virginia voters approved a measure intended to boost the number of Democratic seats in the U.S. House by redrawing the state’s congressional map ahead of the midterms, the Associated Press projected",
-    "link": "https://www.wsj.com/politics/elections/virginia-voters-approve-resolution-to-boost-democrats-in-midterms-fa77284b"
-  },
-  {
-    "score": 72,
+    "score": 84,
     "pubdate": "2026-04-22-01-58-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s pick to lead the Federal Reserve, Kevin Warsh, told senators he would chart a sharp departure from the central bank’s recent approach while promising to maintain institutional independence",
     "link": "https://www.wsj.com/economy/central-banking/warsh-pledges-independence-at-fed-hearing-a0e1cc99"
   },
   {
-    "score": 65,
+    "score": 81,
+    "pubdate": "2026-04-22-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "How a grocery and oil magnate became New York's king of talk radio",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-22/marty-supreme-john-catsimatidis-marty-supreme-wabc-radio-cats-cosby-mandani"
+  },
+  {
+    "score": 70,
+    "pubdate": "2026-04-22-12-50-00 +0000",
+    "source": "wsj",
+    "headline": "Virginia voters approved a measure intended to boost the number of Democratic seats in the U.S. House by redrawing the state’s congressional map ahead of the midterms, the Associated Press projected",
+    "link": "https://www.wsj.com/politics/elections/virginia-voters-approve-resolution-to-boost-democrats-in-midterms-fa77284b"
+  },
+  {
+    "score": 68,
     "pubdate": "2026-04-22-14-36-22 +0000",
     "source": "nypost",
     "headline": "United Airlines says it will raise summer fares as much as 20% as fuel prices surge amid Iran war",
     "link": "https://nypost.com/2026/04/22/business/united-airlines-says-it-will-raise-summer-fares-as-much-as-20-as-fuel-prices-surge-amid-iran-war/"
   },
   {
-    "score": 61,
+    "score": 65,
+    "pubdate": "2026-04-22-16-56-24 +0000",
+    "source": "nypost",
+    "headline": "Outsiders breached Anthropic’s Claude Mythos same day ‘potentially dangerous’ AI model was revealed: report",
+    "link": "https://nypost.com/2026/04/22/business/outsiders-breached-anthropics-claude-mythos-same-day-potentially-dangerous-ai-model-was-revealed-report/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-04-22-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "No Peace Plan, No Problem: Why the Wartime Market Keeps Rising",
+    "link": "https://www.wsj.com/finance/stocks/iran-war-stock-market-588f5a22?mod=rss_markets_main"
+  },
+  {
+    "score": 54,
     "pubdate": "2026-04-22-14-21-12 +0000",
     "source": "cbc",
-    "headline": "At least 3 killed in Israeli strikes on south Lebanon, state media says, ahead of scheduled talks",
+    "headline": "At least 4 killed in Israeli strikes on south Lebanon, state media says, ahead of scheduled talks",
     "link": "https://www.cbc.ca/news/world/israel-lebanon-talks-strike-9.7172966?cmp=rss"
-  },
-  {
-    "score": 60,
-    "pubdate": "2026-04-22-16-00-28 +0000",
-    "source": "nyt",
-    "headline": "Bessent Backs Financial Support for Oil-Rich U.A.E.",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/bessent-support-emirates.html"
-  },
-  {
-    "score": 56,
-    "pubdate": "2026-04-21-18-15-31 +0000",
-    "source": "nypost",
-    "headline": "Rep. Sheila Cherfilus-McCormick resigns from Congress just minutes before House Ethics Committee was to sanction Florida Dem",
-    "link": "https://nypost.com/2026/04/21/us-news/rep-sheila-cherfilus-mccormick-resigns-from-congress-just-minutes-before-house-ethics-committee-was-to-sanction-florida-dem/"
   }
 ]
