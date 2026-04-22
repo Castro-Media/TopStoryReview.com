@@ -1,72 +1,37 @@
 [
   {
-    "score": 35,
-    "pubdate": "2026-04-22-13-39-39 +0000",
-    "source": "nypost",
-    "headline": "Ilhan Omar explodes at reporter for asking about multimillion-dollar disclosure discrepancy: ‘You’re stupid for asking me anything’",
-    "link": "https://nypost.com/2026/04/22/us-news/ilhan-omar-explodes-at-reporter-for-asking-about-multimillion-dollar-disclosure-discrepancy-youre-stupid-for-asking-me-anything/"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-04-22-14-03-40 +0000",
-    "source": "bbc",
-    "headline": "Iran says it has seized two ships in Strait of Hormuz after vessels attacked",
-    "link": "https://www.bbc.com/news/articles/cdxd074kr8go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-04-22-13-50-24 +0000",
-    "source": "nyt",
-    "headline": "Attacks along the Israel-Lebanon border put a cease-fire under strain.",
-    "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks/attacks-along-the-israel-lebanon-border-put-a-cease-fire-under-strain"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-04-22-13-48-29 +0000",
-    "source": "nyt",
-    "headline": "EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban",
-    "link": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-04-22-13-27-13 +0000",
-    "source": "nyt",
-    "headline": "College Where Charlie Kirk Was Killed Revokes Graduation Speaker’s Invite",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/sharon-mcmahon-utah-valley-university-charlie-kirk.html"
-  },
-  {
-    "score": 19,
+    "score": 17,
     "pubdate": "2026-04-22-14-18-08 +0000",
     "source": "nyt",
     "headline": "Anthropic’s New Mythos A.I. Model Sets Off Global Alarms",
     "link": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html"
   },
   {
-    "score": 17,
-    "pubdate": "2026-04-22-13-49-15 +0000",
-    "source": "bbc",
-    "headline": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
-    "link": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-04-22-13-39-33 +0000",
-    "source": "nypost",
-    "headline": "High school basketball coach charged with ‘deviant’ sex with student — and dumped by husband, a fellow coach",
-    "link": "https://nypost.com/2026/04/22/us-news/high-school-basketball-coach-charged-with-deviant-sex-with-student-and-dumped-by-husband-a-fellow-coach/"
-  },
-  {
-    "score": 13,
+    "score": 12,
     "pubdate": "2026-04-22-14-20-04 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Iranian Forces Claim to Seize 2 Ships After Trump Extends Truce",
     "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks"
   },
   {
-    "score": 12,
-    "pubdate": "2026-04-22-14-00-00 +0000",
-    "source": "nypost",
-    "headline": "Controversial LA mayoral candidate drops Hollywood video — name-dropping producer husband",
-    "link": "https://nypost.com/2026/04/22/us-news/controversial-la-mayoral-candidate-nithya-rama-drops-hollywood-video/"
+    "score": 7,
+    "pubdate": "2026-04-22-14-18-45 +0000",
+    "source": "wapo",
+    "headline": "Ukraine will get $105 billion loan after Hungary drops opposition, E.U. says",
+    "link": "https://www.washingtonpost.com/world/2026/04/22/eu-ukraine-loan-hungary-russia/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-04-22-14-17-38 +0000",
+    "source": "nyt",
+    "headline": "Anthropic’s Leaked Code Tests Copyright Challenges in A.I. Era",
+    "link": "https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-04-22-14-18-08 +0000",
+    "source": "nyt",
+    "headline": "Anthropic’s New Mythos A.I. Model Sets Off Global Alarms",
+    "link": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html"
   }
 ]
