@@ -90,15 +90,15 @@
     "pubdate": "2026-04-22-16-00-28 +0000"
   },
   {
-    "headline": "S.F. to lay off ‘community ambassadors,’ including those assisting Marshall Elementary",
-    "link": "https://missionlocal.org/2026/04/sf-16th-mission-marshall-elementary-community-ambassadors/",
-    "source": "missionlocal",
-    "pubdate": "2026-04-22-16-00-00 +0000"
-  },
-  {
     "headline": "Alleged messages, photos suggest D4vd and Celeste Rivas met as early as 2022 when she was 12",
     "link": "https://nypost.com/2026/04/22/us-news/alleged-messages-photos-suggest-d4vd-and-celeste-rivas-met-as-early-as-2022-when-she-was-12/",
     "source": "nypost",
+    "pubdate": "2026-04-22-16-00-00 +0000"
+  },
+  {
+    "headline": "S.F. to lay off ‘community ambassadors,’ including those assisting Marshall Elementary",
+    "link": "https://missionlocal.org/2026/04/sf-16th-mission-marshall-elementary-community-ambassadors/",
+    "source": "missionlocal",
     "pubdate": "2026-04-22-16-00-00 +0000"
   },
   {
@@ -223,17 +223,17 @@
   },
   {
     "headline": "U.S. Crude Oil Stockpiles Rise Amid Increase in Imports",
-    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-amid-increase-in-imports-8aa8de0f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-22-15-17-00 +0000"
-  },
-  {
-    "headline": "U.S. Crude Oil Stockpiles Rise Amid Increase in Imports",
     "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-amid-increase-in-imports-8aa8de0f?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-22-15-17-00 +0000"
   },
   {
+    "headline": "U.S. Crude Oil Stockpiles Rise Amid Increase in Imports",
+    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-amid-increase-in-imports-8aa8de0f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-22-15-17-00 +0000"
+  },
+  {
     "headline": "College Where Charlie Kirk Was Killed Revokes Graduation Speaker’s Invite",
     "link": "https://www.nytimes.com/2026/04/22/us/politics/sharon-mcmahon-utah-valley-university-charlie-kirk.html",
     "source": "nyt",
@@ -247,13 +247,13 @@
   },
   {
     "headline": "Gold Trims Gains as Brent Climbs Above $100",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-after-trump-says-u-s-will-extend-cease-fire-deadline-c463e044?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-after-trump-says-u-s-will-extend-cease-fire-deadline-c463e044?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-22-15-14-00 +0000"
   },
   {
     "headline": "Gold Trims Gains as Brent Climbs Above $100",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-after-trump-says-u-s-will-extend-cease-fire-deadline-c463e044?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-after-trump-says-u-s-will-extend-cease-fire-deadline-c463e044?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-22-15-14-00 +0000"
   },
@@ -378,13 +378,13 @@
     "pubdate": "2026-04-22-14-47-34 +0000"
   },
   {
-    "headline": "IRS Notches Court Win Over ‘Project Soy’ Corporate Tax Maneuver",
+    "headline": "A federal court sided with the IRS over Liberty Global’s “Project Soy,” giving the government more tools to combat corporate tax maneuvers",
     "link": "https://www.wsj.com/politics/policy/irs-defeats-project-soy-corporate-tax-maneuver-ad1ef3b1",
     "source": "wsj",
     "pubdate": "2026-04-22-14-47-00 +0000"
   },
   {
-    "headline": "A federal court sided with the IRS over Liberty Global’s “Project Soy,” giving the government more tools to combat corporate tax maneuvers",
+    "headline": "IRS Notches Court Win Over ‘Project Soy’ Corporate Tax Maneuver",
     "link": "https://www.wsj.com/politics/policy/irs-defeats-project-soy-corporate-tax-maneuver-ad1ef3b1",
     "source": "wsj",
     "pubdate": "2026-04-22-14-47-00 +0000"
@@ -420,14 +420,14 @@
     "pubdate": "2026-04-22-14-37-38 +0000"
   },
   {
-    "headline": "Eurozone Consumers Feel Pinch as Iran War Drives Costs Higher",
-    "link": "https://www.wsj.com/world/europe/eurozone-consumers-feel-pinch-as-iran-war-drives-costs-higher-2bc119b7",
+    "headline": "Brent Above $100 a Barrel After Iran Attacks Three Ships in Hormuz",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-strait-of-hormuz-likely-remaining-closed-c22bf647?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-22-14-37-00 +0000"
   },
   {
-    "headline": "Brent Above $100 a Barrel After Iran Attacks Three Ships in Hormuz",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-strait-of-hormuz-likely-remaining-closed-c22bf647?mod=rss_markets_main",
+    "headline": "Eurozone Consumers Feel Pinch as Iran War Drives Costs Higher",
+    "link": "https://www.wsj.com/world/europe/eurozone-consumers-feel-pinch-as-iran-war-drives-costs-higher-2bc119b7",
     "source": "wsj",
     "pubdate": "2026-04-22-14-37-00 +0000"
   },
@@ -534,12 +534,6 @@
     "pubdate": "2026-04-22-14-00-00 +0000"
   },
   {
-    "headline": "India’s Factory Workers Were Getting By. Then the Strait of Hormuz Closed.",
-    "link": "https://www.wsj.com/world/india/indias-factory-workers-were-getting-by-then-the-strait-of-hormuz-closed-76003964",
-    "source": "wsj",
-    "pubdate": "2026-04-22-14-00-00 +0000"
-  },
-  {
     "headline": "Tariffs taxed Iron Range firm that’s now closing, laying off 75",
     "link": "https://www.startribune.com/trump-tariffs-steel-iron-range-layoffs-plant-closing-minnesota-twist-drill/601783156",
     "source": "startribune",
@@ -548,6 +542,12 @@
   {
     "headline": "A Hot New Memory ETF Just Drew $1 Billion in 10 Days",
     "link": "https://www.wsj.com/finance/investing/investors-are-piling-into-an-obscure-new-fund-for-memory-stocks-5e4498c9?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-22-14-00-00 +0000"
+  },
+  {
+    "headline": "India’s Factory Workers Were Getting By. Then the Strait of Hormuz Closed.",
+    "link": "https://www.wsj.com/world/india/indias-factory-workers-were-getting-by-then-the-strait-of-hormuz-closed-76003964",
     "source": "wsj",
     "pubdate": "2026-04-22-14-00-00 +0000"
   },
@@ -630,14 +630,14 @@
     "pubdate": "2026-04-22-13-34-00 +0000"
   },
   {
-    "headline": "Ukraine Poised to Get $100 Billion From EU, Unlocked by Orbán’s Loss in Hungary",
-    "link": "https://www.wsj.com/world/europe/ukraine-poised-to-get-100-billion-from-eu-unlocked-by-orbans-loss-in-hungary-a4a8bf9a",
+    "headline": "Dollar Turns Higher as Ships Attacked in Strait of Hormuz",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-amid-u-s-iran-cease-fire-extension-d6c32e15?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-22-13-26-00 +0000"
   },
   {
-    "headline": "Dollar Turns Higher as Ships Attacked in Strait of Hormuz",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-amid-u-s-iran-cease-fire-extension-d6c32e15?mod=rss_markets_main",
+    "headline": "Ukraine Poised to Get $100 Billion From EU, Unlocked by Orbán’s Loss in Hungary",
+    "link": "https://www.wsj.com/world/europe/ukraine-poised-to-get-100-billion-from-eu-unlocked-by-orbans-loss-in-hungary-a4a8bf9a",
     "source": "wsj",
     "pubdate": "2026-04-22-13-26-00 +0000"
   },
@@ -696,8 +696,8 @@
     "pubdate": "2026-04-22-13-17-00 +0000"
   },
   {
-    "headline": "Why Gasoline Is So Much Cheaper in the U.S. Than Overseas",
-    "link": "https://www.wsj.com/economy/why-gasoline-is-so-much-cheaper-in-the-u-s-than-overseas-f6bd2309?mod=pls_whats_news_us_business_f",
+    "headline": "American consumers are paying less for gas than many of their counterparts in Europe and Asia even as prices at the pump have remained elevated",
+    "link": "https://www.wsj.com/economy/why-gasoline-is-so-much-cheaper-in-the-u-s-than-overseas-f6bd2309",
     "source": "wsj",
     "pubdate": "2026-04-22-13-15-00 +0000"
   },
@@ -708,8 +708,8 @@
     "pubdate": "2026-04-22-13-15-00 +0000"
   },
   {
-    "headline": "American consumers are paying less for gas than many of their counterparts in Europe and Asia even as prices at the pump have remained elevated",
-    "link": "https://www.wsj.com/economy/why-gasoline-is-so-much-cheaper-in-the-u-s-than-overseas-f6bd2309",
+    "headline": "Why Gasoline Is So Much Cheaper in the U.S. Than Overseas",
+    "link": "https://www.wsj.com/economy/why-gasoline-is-so-much-cheaper-in-the-u-s-than-overseas-f6bd2309?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-22-13-15-00 +0000"
   },
@@ -732,28 +732,16 @@
     "pubdate": "2026-04-22-13-07-00 +0000"
   },
   {
-    "headline": "Best High-Yield Savings Accounts for April 2026: Up to 5.00%",
-    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
-    "source": "wsj",
-    "pubdate": "2026-04-22-13-06-00 +0000"
-  },
-  {
     "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
     "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-22-13-06-00 +0000"
   },
   {
-    "headline": "Turtle island",
-    "link": "https://missionlocal.org/2026/04/turtle-island-2/",
-    "source": "missionlocal",
-    "pubdate": "2026-04-22-13-00-00 +0000"
-  },
-  {
-    "headline": "GOP Rep. Young Kim unveils ‘Stop DEI’ bill as California Dems push affirmative action reboot",
-    "link": "https://nypost.com/2026/04/22/us-news/gop-rep-young-kim-unveils-stop-dei-bill-as-california-dems-push-affirmative-action-reboot/",
-    "source": "nypost",
-    "pubdate": "2026-04-22-13-00-00 +0000"
+    "headline": "Best High-Yield Savings Accounts for April 2026: Up to 5.00%",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
+    "source": "wsj",
+    "pubdate": "2026-04-22-13-06-00 +0000"
   },
   {
     "headline": "GOP Rep. Young Kim unveils ‘Stop DEI’ bill as California Dems push affirmative action reboot",
@@ -765,6 +753,18 @@
     "headline": "Commentary: Tucker Carlson says he didn't intentionally mislead people with his support of Trump. Really?",
     "link": "https://www.latimes.com/world-nation/story/2026-04-22/tucker-carlson-sorry-for-supporting-trump",
     "source": "latimes",
+    "pubdate": "2026-04-22-13-00-00 +0000"
+  },
+  {
+    "headline": "GOP Rep. Young Kim unveils ‘Stop DEI’ bill as California Dems push affirmative action reboot",
+    "link": "https://nypost.com/2026/04/22/us-news/gop-rep-young-kim-unveils-stop-dei-bill-as-california-dems-push-affirmative-action-reboot/",
+    "source": "nypost",
+    "pubdate": "2026-04-22-13-00-00 +0000"
+  },
+  {
+    "headline": "Turtle island",
+    "link": "https://missionlocal.org/2026/04/turtle-island-2/",
+    "source": "missionlocal",
     "pubdate": "2026-04-22-13-00-00 +0000"
   },
   {
@@ -948,12 +948,6 @@
     "pubdate": "2026-04-22-11-00-01 +0000"
   },
   {
-    "headline": "Ethics complaint alleges pro-Matt Mahan PAC, campaign illegally coordinated",
-    "link": "https://missionlocal.org/2026/04/matt-mahan-fppc-complaint-moritz-caruso/",
-    "source": "missionlocal",
-    "pubdate": "2026-04-22-11-00-00 +0000"
-  },
-  {
     "headline": "How to watch chilling new doc ‘Killing Grounds: The Gilgo Beach Murders’",
     "link": "https://nypost.com/2026/04/22/entertainment/how-to-watch-new-gilgo-beach-killer-doc-killing-grounds-for-free/",
     "source": "nypost",
@@ -963,6 +957,12 @@
     "headline": "Palisades reservoir that was empty during fire is dry again. Residents aren't happy about it",
     "link": "https://www.latimes.com/california/story/2026-04-22/palisades-reservoir-that-was-empty-during-fire-is-dry-again-residents-arent-happy-about-it",
     "source": "latimes",
+    "pubdate": "2026-04-22-11-00-00 +0000"
+  },
+  {
+    "headline": "Ethics complaint alleges pro-Matt Mahan PAC, campaign illegally coordinated",
+    "link": "https://missionlocal.org/2026/04/matt-mahan-fppc-complaint-moritz-caruso/",
+    "source": "missionlocal",
     "pubdate": "2026-04-22-11-00-00 +0000"
   },
   {
@@ -1056,30 +1056,6 @@
     "pubdate": "2026-04-22-10-02-00 +0000"
   },
   {
-    "headline": "In Britain, Steve Hilton was inspired by California. Now, he calls it the worst-run state",
-    "link": "https://www.latimes.com/politics/story/2026-04-22/in-uk-california-governor-candidate-steve-hilton-was-inspired-by-california",
-    "source": "latimes",
-    "pubdate": "2026-04-22-10-00-00 +0000"
-  },
-  {
-    "headline": "Workers protest at Carl's Jr. in North Hollywood for protection from violent customers",
-    "link": "https://www.latimes.com/business/story/2026-04-22/north-hollywood-carls-jr-workers-say-theyre-tired-of-getting-beat-up-by-customers",
-    "source": "latimes",
-    "pubdate": "2026-04-22-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump's big promise for veteran housing is AWOL in VA budget proposal, mystifying vets",
-    "link": "https://www.latimes.com/california/story/2026-04-22/trumps-big-promise-for-veteran-housing-is-awol-in-va-budget-proposal-mystifying-vets",
-    "source": "latimes",
-    "pubdate": "2026-04-22-10-00-00 +0000"
-  },
-  {
-    "headline": "Once accused of election fraud, former small-town mayor leaves court to applause",
-    "link": "https://www.washingtonpost.com/nation/2026/04/22/kansas-mayor-noncitizen-voting/",
-    "source": "wapo",
-    "pubdate": "2026-04-22-10-00-00 +0000"
-  },
-  {
     "headline": "Barabak: He honked to support a 'No Kings' rally. A cop busted him",
     "link": "https://www.latimes.com/politics/story/2026-04-22/trump-no-kings-rally-utah-man-ticketed-for-honking-support",
     "source": "latimes",
@@ -1104,6 +1080,42 @@
     "pubdate": "2026-04-22-10-00-00 +0000"
   },
   {
+    "headline": "In Britain, Steve Hilton was inspired by California. Now, he calls it the worst-run state",
+    "link": "https://www.latimes.com/politics/story/2026-04-22/in-uk-california-governor-candidate-steve-hilton-was-inspired-by-california",
+    "source": "latimes",
+    "pubdate": "2026-04-22-10-00-00 +0000"
+  },
+  {
+    "headline": "Workers protest at Carl's Jr. in North Hollywood for protection from violent customers",
+    "link": "https://www.latimes.com/business/story/2026-04-22/north-hollywood-carls-jr-workers-say-theyre-tired-of-getting-beat-up-by-customers",
+    "source": "latimes",
+    "pubdate": "2026-04-22-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump's big promise for veteran housing is AWOL in VA budget proposal, mystifying vets",
+    "link": "https://www.latimes.com/california/story/2026-04-22/trumps-big-promise-for-veteran-housing-is-awol-in-va-budget-proposal-mystifying-vets",
+    "source": "latimes",
+    "pubdate": "2026-04-22-10-00-00 +0000"
+  },
+  {
+    "headline": "Once accused of election fraud, former small-town mayor leaves court to applause",
+    "link": "https://www.washingtonpost.com/nation/2026/04/22/kansas-mayor-noncitizen-voting/",
+    "source": "wapo",
+    "pubdate": "2026-04-22-10-00-00 +0000"
+  },
+  {
+    "headline": "More Banks Are Earning $100 Million Fees for Advising Big M&A Targets",
+    "link": "https://www.wsj.com/cfo-journal/more-banks-are-earning-100-million-fees-for-advising-big-m-a-targets-625babeb?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-22-10-00-00 +0000"
+  },
+  {
+    "headline": "More Banks Are Earning $100 Million Fees for Advising Big M&A Targets",
+    "link": "https://www.wsj.com/cfo-journal/more-banks-are-earning-100-million-fees-for-advising-big-m-a-targets-625babeb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-22-10-00-00 +0000"
+  },
+  {
     "headline": "Controversial hotel and housing complex approved in West Hollywood",
     "link": "https://www.latimes.com/business/story/2026-04-22/controversial-hotel-housing-complex-approved-in-west-hollywood",
     "source": "latimes",
@@ -1125,18 +1137,6 @@
     "headline": "Apple's next era: After Tim Cook's dream run, new CEO has to help the company catch up",
     "link": "https://www.latimes.com/business/story/2026-04-22/apples-next-era-after-tim-cooks-dream-run-new-ceo-has-to-help-company-catch-up",
     "source": "latimes",
-    "pubdate": "2026-04-22-10-00-00 +0000"
-  },
-  {
-    "headline": "More Banks Are Earning $100 Million Fees for Advising Big M&A Targets",
-    "link": "https://www.wsj.com/cfo-journal/more-banks-are-earning-100-million-fees-for-advising-big-m-a-targets-625babeb?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-22-10-00-00 +0000"
-  },
-  {
-    "headline": "More Banks Are Earning $100 Million Fees for Advising Big M&A Targets",
-    "link": "https://www.wsj.com/cfo-journal/more-banks-are-earning-100-million-fees-for-advising-big-m-a-targets-625babeb?mod=rss_markets_main",
-    "source": "wsj",
     "pubdate": "2026-04-22-10-00-00 +0000"
   },
   {
@@ -1344,15 +1344,15 @@
     "pubdate": "2026-04-22-08-00-00 +0000"
   },
   {
-    "headline": "John Ternus is replacing Tim Cook as Apple CEO. But he faces a big challenge in AI",
-    "link": "https://www.cbc.ca/news/business/john-ternus-apple-ceo-9.7172364?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-04-22-08-00-00 +0000"
-  },
-  {
     "headline": "Electrolux to Close Hungary Factory, Flags $65 Million Charge",
     "link": "https://www.wsj.com/business/retail/electrolux-to-close-hungary-factory-flags-65-million-charge-3214b96a?mod=pls_whats_news_us_business_f",
     "source": "wsj",
+    "pubdate": "2026-04-22-08-00-00 +0000"
+  },
+  {
+    "headline": "John Ternus is replacing Tim Cook as Apple CEO. But he faces a big challenge in AI",
+    "link": "https://www.cbc.ca/news/business/john-ternus-apple-ceo-9.7172364?cmp=rss",
+    "source": "cbc",
     "pubdate": "2026-04-22-08-00-00 +0000"
   },
   {
@@ -1398,13 +1398,13 @@
     "pubdate": "2026-04-22-06-26-31 +0000"
   },
   {
-    "headline": "Taiwan president cancels trip after African countries revoke flight permits",
+    "headline": "Taiwan president cancels Eswatini trip after African countries close airspace",
     "link": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-22-06-25-15 +0000"
   },
   {
-    "headline": "Taiwan president cancels Eswatini trip after African countries close airspace",
+    "headline": "Taiwan president cancels trip after African countries revoke flight permits",
     "link": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-22-06-25-15 +0000"
@@ -1974,13 +1974,13 @@
     "pubdate": "2026-04-21-23-27-33 +0000"
   },
   {
-    "headline": "New York Sues Coinbase, Gemini Over Crypto Exchanges’ Prediction Markets",
+    "headline": "New York Attorney General Letitia James has sued exchanges Coinbase and Gemini, accusing them of operating prediction markets that violate state gambling laws",
     "link": "https://www.wsj.com/politics/policy/new-york-sues-coinbase-gemini-over-crypto-exchanges-prediction-markets-d6d007bc",
     "source": "wsj",
     "pubdate": "2026-04-21-23-19-00 +0000"
   },
   {
-    "headline": "New York Attorney General Letitia James has sued exchanges Coinbase and Gemini, accusing them of operating prediction markets that violate state gambling laws",
+    "headline": "New York Sues Coinbase, Gemini Over Crypto Exchanges’ Prediction Markets",
     "link": "https://www.wsj.com/politics/policy/new-york-sues-coinbase-gemini-over-crypto-exchanges-prediction-markets-d6d007bc",
     "source": "wsj",
     "pubdate": "2026-04-21-23-19-00 +0000"
@@ -2671,13 +2671,13 @@
   },
   {
     "headline": "Opinion | Seizing Property Can’t Be ‘Business as Usual’",
-    "link": "https://www.wsj.com/opinion/seizing-property-cant-be-business-as-usual-9f1832c1",
+    "link": "https://www.wsj.com/opinion/seizing-property-cant-be-business-as-usual-9f1832c1?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-21-20-23-00 +0000"
   },
   {
     "headline": "Opinion | Seizing Property Can’t Be ‘Business as Usual’",
-    "link": "https://www.wsj.com/opinion/seizing-property-cant-be-business-as-usual-9f1832c1?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/seizing-property-cant-be-business-as-usual-9f1832c1",
     "source": "wsj",
     "pubdate": "2026-04-21-20-23-00 +0000"
   },
@@ -2851,13 +2851,13 @@
   },
   {
     "headline": "Casey Wasserman’s Talent Agency Draws Takeover Interest",
-    "link": "https://www.wsj.com/finance/casey-wassermans-talent-agency-draws-takeover-interest-2f886ab4?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/finance/casey-wassermans-talent-agency-draws-takeover-interest-2f886ab4?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-21-19-09-00 +0000"
   },
   {
     "headline": "Casey Wasserman’s Talent Agency Draws Takeover Interest",
-    "link": "https://www.wsj.com/finance/casey-wassermans-talent-agency-draws-takeover-interest-2f886ab4?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/casey-wassermans-talent-agency-draws-takeover-interest-2f886ab4?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-21-19-09-00 +0000"
   },
@@ -3100,107 +3100,5 @@
     "link": "https://www.bbc.com/news/articles/cp864d661rro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-21-17-17-33 +0000"
-  },
-  {
-    "headline": "Opinion | The Price Beijing Pays for Backing Tehran",
-    "link": "https://www.wsj.com/opinion/the-price-beijing-pays-for-backing-tehran-c1904deb",
-    "source": "wsj",
-    "pubdate": "2026-04-21-17-08-00 +0000"
-  },
-  {
-    "headline": "Opinion | The Price Beijing Pays for Backing Tehran",
-    "link": "https://www.wsj.com/opinion/the-price-beijing-pays-for-backing-tehran-c1904deb?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-21-17-08-00 +0000"
-  },
-  {
-    "headline": "With Orban Out, the Pianist Andras Schiff Plans a Return to Hungary",
-    "link": "https://www.nytimes.com/2026/04/20/arts/music/andras-schiff-piano-viktor-orban-hungary.html",
-    "source": "nyt",
-    "pubdate": "2026-04-21-17-06-18 +0000"
-  },
-  {
-    "headline": "Luxury-Jacket Brand Moncler Starts Year Strongly as Asian Demand Makes Up for Hit to European Tourism",
-    "link": "https://www.wsj.com/business/retail/luxury-jacket-brand-moncler-starts-year-strongly-as-asian-demand-makes-up-for-hit-to-european-tourism-7a56195c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-21-17-06-00 +0000"
-  },
-  {
-    "headline": "No 10 had 'dismissive attitude' to Mandelson vetting, says ex-official",
-    "link": "https://www.bbc.com/news/articles/c79j0d01x4zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-21-17-00-20 +0000"
-  },
-  {
-    "headline": "What does devolution mean and how does it work across the UK?",
-    "link": "https://www.bbc.com/news/articles/czd7zl7g15po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-21-16-58-50 +0000"
-  },
-  {
-    "headline": "Deutsche Lufthansa to Cancel 20,000 Short-Haul Flights to Save Jet Fuel",
-    "link": "https://www.wsj.com/business/airlines/deutsche-lufthansa-to-cancel-20-000-short-haul-flights-to-save-jet-fuel-d8df664f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-21-16-58-00 +0000"
-  },
-  {
-    "headline": "Deutsche Lufthansa to Cancel 20,000 Short-Haul Flights to Save Jet Fuel",
-    "link": "https://www.wsj.com/business/airlines/deutsche-lufthansa-to-cancel-20-000-short-haul-flights-to-save-jet-fuel-d8df664f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-21-16-58-00 +0000"
-  },
-  {
-    "headline": "Air fares soar by nearly 25% as Iran war forces flights to re-route",
-    "link": "https://www.bbc.com/news/articles/crr14qplxe8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-21-16-57-34 +0000"
-  },
-  {
-    "headline": "Best Car Insurance Companies of 2026",
-    "link": "https://www.wsj.com/buyside/personal-finance/auto-insurance/best-car-insurance",
-    "source": "wsj",
-    "pubdate": "2026-04-21-16-39-00 +0000"
-  },
-  {
-    "headline": "Thousands of cantaloupes recalled over salmonella concerns earlier this year",
-    "link": "https://nypost.com/2026/04/21/business/cantaloupes-recalled-over-salmonella-concerns/",
-    "source": "nypost",
-    "pubdate": "2026-04-21-16-32-07 +0000"
-  },
-  {
-    "headline": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-    "link": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-21-16-25-44 +0000"
-  },
-  {
-    "headline": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-    "link": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-21-16-25-44 +0000"
-  },
-  {
-    "headline": "Poilievre says Carney has been 'losing, losing, losing' on U.S. trade war",
-    "link": "https://www.cbc.ca/news/politics/poilievre-losing-losing-losing-carney-trade-9.7171738?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-04-21-16-25-01 +0000"
-  },
-  {
-    "headline": "Forbes slammed for asking readers to play odds on gun control in mass shooting story: ‘Gross, evil, ghoulish’",
-    "link": "https://nypost.com/2026/04/21/media/forbes-slammed-for-asking-readers-to-play-odds-on-gun-control-in-story-about-mass-shooting-gross-evil-ghoulism/",
-    "source": "nypost",
-    "pubdate": "2026-04-21-16-24-39 +0000"
-  },
-  {
-    "headline": "Beijing tightens its grip on AI firms that try to shed their Chinese ties",
-    "link": "https://www.washingtonpost.com/world/2026/04/21/china-ai-competition-manus-meta/",
-    "source": "wapo",
-    "pubdate": "2026-04-21-16-23-46 +0000"
-  },
-  {
-    "headline": "She Made Sure Her Baby Was Born an American. Then Federal Agents Separated Them.",
-    "link": "https://www.nytimes.com/2026/04/17/us/politics/ice-cbp-birth-pregnancy-detention.html",
-    "source": "nyt",
-    "pubdate": "2026-04-21-16-17-37 +0000"
   }
 ]
