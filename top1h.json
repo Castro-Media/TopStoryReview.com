@@ -1,16 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-04-22-16-14-20 +0000",
+    "score": 35,
+    "pubdate": "2026-04-22-17-19-51 +0000",
+    "source": "nypost",
+    "headline": "Trump says Iran won’t execute 8 women after he demanded their release",
+    "link": "https://nypost.com/2026/04/22/us-news/trump-says-iran-wont-execute-8-women-after-he-pleaded-for-their-release/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-04-22-18-10-42 +0000",
     "source": "bbc",
-    "headline": "Trump family's crypto firm sued over alleged 'extortion'",
+    "headline": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
     "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-22-16-14-20 +0000",
+    "score": 21,
+    "pubdate": "2026-04-22-17-26-25 +0000",
+    "source": "latimes",
+    "headline": "Jury awards $2.25 million to Riverside County sergeant forced to resign after reporting harassment",
+    "link": "https://www.latimes.com/california/story/2026-04-22/riverside-county-sheriffs-department-jury-verdict-former-deputy"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-04-22-18-09-24 +0000",
+    "source": "nyt",
+    "headline": "Rep. David Scott, Longtime Georgia Lawmaker, Dies at 80",
+    "link": "https://www.nytimes.com/2026/04/22/us/politics/david-scott-dead-georgia-congress.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-22-18-07-24 +0000",
+    "source": "nyt",
+    "headline": "Whether for or Against the War, Iranians Say They’re Feeling Economic Pain",
+    "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-turkey-border.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-22-17-48-44 +0000",
     "source": "bbc",
-    "headline": "Trump family's crypto firm sued over alleged 'extortion'",
-    "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss"
+    "headline": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
+    "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-22-17-33-30 +0000",
+    "source": "bbc",
+    "headline": "Nigeria's suspected coup plotters deny treason charges",
+    "link": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-22-17-37-15 +0000",
+    "source": "nypost",
+    "headline": "How a Minnesota dad became ‘the voice of this generation’ of anti-ICE protesters — including vicious attack on Turning Point USA journo",
+    "link": "https://nypost.com/2026/04/22/us-news/a-minnesota-dad-became-the-voice-of-this-generation-of-anti-ice-protestors-then-attacked-a-turning-point-usa-journo/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-22-18-04-45 +0000",
+    "source": "nypost",
+    "headline": "Congresswoman claims ancient Bible story about fallen angels depicts aliens invading Earth: ‘The truth is in plain sight!’",
+    "link": "https://nypost.com/2026/04/22/lifestyle/congresswoman-raises-eyebrows-over-bible-alien-connection/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-22-18-07-27 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Battle Over Strait Intensifies as Iranian Forces Say They Seized 2 Ships",
+    "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks"
   }
 ]
