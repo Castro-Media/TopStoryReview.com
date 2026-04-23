@@ -1,20 +1,20 @@
 [
   {
-    "score": 198,
+    "score": 194,
     "pubdate": "2026-04-22-21-43-54 +0000",
     "source": "nyt",
     "headline": "How the War Powers Act Could Pressure Trump to End the Iran War",
     "link": "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html"
   },
   {
-    "score": 98,
+    "score": 101,
     "pubdate": "2026-04-23-01-55-27 +0000",
     "source": "nypost",
     "headline": "Lufthansa slashes 20K flights to save jet fuel as Iran war drives up oil prices",
     "link": "https://nypost.com/2026/04/22/world-news/lufthansa-slashes-20k-flights-as-iran-war-drives-up-oil-prices/"
   },
   {
-    "score": 92,
+    "score": 91,
     "pubdate": "2026-04-22-22-11-28 +0000",
     "source": "nyt",
     "headline": "Heidi O’Neill, Formerly of Nike, Will Be New Lululemon’s New CEO",
@@ -28,14 +28,21 @@
     "link": "https://www.nytimes.com/2026/04/22/us/california-gubernatorial-debate-swalwell.html"
   },
   {
-    "score": 62,
-    "pubdate": "2026-04-22-12-50-00 +0000",
-    "source": "wsj",
-    "headline": "Virginia voters approved a measure intended to boost the number of Democratic seats in the U.S. House by redrawing the state’s congressional map ahead of the midterms, the Associated Press projected",
-    "link": "https://www.wsj.com/politics/elections/virginia-voters-approve-resolution-to-boost-democrats-in-midterms-fa77284b"
+    "score": 70,
+    "pubdate": "2026-04-23-00-54-06 +0000",
+    "source": "nyt",
+    "headline": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-strait-of-hormuz.html"
   },
   {
     "score": 62,
+    "pubdate": "2026-04-22-21-52-00 +0000",
+    "source": "wsj",
+    "headline": "Here are the key takeaways after Health Secretary Robert F. Kennedy Jr. faced scrutiny during seven congressional hearings in the space of one week",
+    "link": "https://www.wsj.com/politics/policy/lawmakers-grilled-rfk-jr-seven-times-in-a-week-here-are-the-key-takeaways-f01ac301"
+  },
+  {
+    "score": 60,
     "pubdate": "2026-04-23-01-55-03 +0000",
     "source": "nypost",
     "headline": "DeSantis says he’s taking up Jeffries’ invitation to ‘F around and find out’ on Florida redistricting effort",
@@ -43,13 +50,6 @@
   },
   {
     "score": 60,
-    "pubdate": "2026-04-23-00-54-06 +0000",
-    "source": "nyt",
-    "headline": "Iran Says It Seized Two Ships Near the Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-ships-strait-of-hormuz.html"
-  },
-  {
-    "score": 58,
     "pubdate": "2026-04-22-15-48-12 +0000",
     "source": "nyt",
     "headline": "Attacks along the Israel-Lebanon border put a cease-fire under strain.",
@@ -63,10 +63,10 @@
     "link": "https://www.nytimes.com/2026/04/22/us/politics/supreme-court-michigan-pipeline.html"
   },
   {
-    "score": 53,
-    "pubdate": "2026-04-23-01-42-00 +0000",
+    "score": 50,
+    "pubdate": "2026-04-22-12-50-00 +0000",
     "source": "wsj",
-    "headline": "John Phelan has been fired as Navy secretary after months of simmering tension with Defense Secretary Pete Hegseth, according to U.S. officials",
-    "link": "https://www.wsj.com/politics/national-security/john-phelan-quits-as-u-s-navy-secretary-4fcd286b"
+    "headline": "Virginia voters approved a measure intended to boost the number of Democratic seats in the U.S. House by redrawing the state’s congressional map ahead of the midterms, the Associated Press projected",
+    "link": "https://www.wsj.com/politics/elections/virginia-voters-approve-resolution-to-boost-democrats-in-midterms-fa77284b"
   }
 ]
