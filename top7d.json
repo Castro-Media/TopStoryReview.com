@@ -36,17 +36,17 @@
   },
   {
     "score": 115,
-    "pubdate": "2026-04-23-01-31-03 +0000",
-    "source": "nyt",
-    "headline": "Not a Deal-Breaker: White House Downplays Iranian Action Near the Strait",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/trump-iran-strait-of-hormuz-ships.html"
-  },
-  {
-    "score": 115,
     "pubdate": "2026-04-22-21-52-00 +0000",
     "source": "wsj",
     "headline": "Here are the key takeaways after Health Secretary Robert F. Kennedy Jr. faced scrutiny during seven congressional hearings in the space of one week",
     "link": "https://www.wsj.com/politics/policy/lawmakers-grilled-rfk-jr-seven-times-in-a-week-here-are-the-key-takeaways-f01ac301"
+  },
+  {
+    "score": 115,
+    "pubdate": "2026-04-23-01-31-03 +0000",
+    "source": "nyt",
+    "headline": "Not a Deal-Breaker: White House Downplays Iranian Action Near the Strait",
+    "link": "https://www.nytimes.com/2026/04/22/us/politics/trump-iran-strait-of-hormuz-ships.html"
   },
   {
     "score": 93,
@@ -57,16 +57,16 @@
   },
   {
     "score": 92,
-    "pubdate": "2026-04-22-15-48-12 +0000",
-    "source": "nyt",
-    "headline": "Attacks along the Israel-Lebanon border put a cease-fire under strain.",
-    "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks/attacks-along-the-israel-lebanon-border-put-a-cease-fire-under-strain"
-  },
-  {
-    "score": 92,
     "pubdate": "2026-04-23-18-08-12 +0000",
     "source": "nyt",
     "headline": "Rodrigo Duterte Will Stand Trial for Crimes Against Humanity, Court Rules",
     "link": "https://www.nytimes.com/2026/04/23/world/asia/duterte-icc-trial-drug-war.html"
+  },
+  {
+    "score": 92,
+    "pubdate": "2026-04-22-15-48-12 +0000",
+    "source": "nyt",
+    "headline": "Attacks along the Israel-Lebanon border put a cease-fire under strain.",
+    "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks/attacks-along-the-israel-lebanon-border-put-a-cease-fire-under-strain"
   }
 ]
