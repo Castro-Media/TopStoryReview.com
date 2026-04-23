@@ -1,23 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-04-23-03-19-37 +0000",
+    "score": 16,
+    "pubdate": "2026-04-23-05-02-38 +0000",
+    "source": "nyt",
+    "headline": "Navy Secretary John Phelan Is Leaving the Pentagon and the Trump Administration",
+    "link": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-23-04-46-09 +0000",
+    "source": "nypost",
+    "headline": "California governor’s race debate shows why election still a toss-up",
+    "link": "https://nypost.com/2026/04/23/us-news/california-governors-debate-shows-why-race-still-a-toss-up/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-23-04-59-31 +0000",
+    "source": "nypost",
+    "headline": "Mets fans freak over Mamdani’s ‘LGM’ post after Amazin’s snap 12-game ‘Curse of Mambino’ losing streak",
+    "link": "https://nypost.com/2026/04/23/us-news/mets-fans-blast-mamdanis-lgm-post-after-amazins-snap-12-game-curse-of-mambino-losing-streak/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-23-05-02-39 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Reported Seizure of Ships Injects New Uncertainty Over Peace Talks",
     "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks"
   },
   {
-    "score": 10,
-    "pubdate": "2026-04-23-03-49-19 +0000",
-    "source": "startribune",
-    "headline": "Live from Game 3: Michael McCarron’s goal gives Wild 3-2 lead over Stars after two periods",
-    "link": "https://www.startribune.com/minnesota-wild-dallas-stars-game3-live-blog-stanley-cup-playoffs-nhl/601761706"
+    "score": 11,
+    "pubdate": "2026-04-23-05-24-46 +0000",
+    "source": "nypost",
+    "headline": "Human remains belonging to multiple children between ages 3 and 7 discovered in Memphis woods",
+    "link": "https://nypost.com/2026/04/23/us-news/tennessee-human-remains-belonging-to-multiple-children-discovered-in-memphis-woods/"
   },
   {
-    "score": 8,
-    "pubdate": "2026-04-23-03-16-00 +0000",
+    "score": 11,
+    "pubdate": "2026-04-23-05-22-00 +0000",
+    "source": "wsj",
+    "headline": "Safran Posts Double-Digit Revenue Growth on Surge in Engine Deliveries",
+    "link": "https://www.wsj.com/business/earnings/safran-posts-double-digit-revenue-growth-on-surge-in-engine-deliveries-fcc3e1ea?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-23-05-33-00 +0000",
+    "source": "wsj",
+    "headline": "Roche Backs Full-Year View as Quarterly Sales Rise",
+    "link": "https://www.wsj.com/business/retail/roche-backs-full-year-view-as-quarterly-sales-rise-b9f2b3fe?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-23-05-29-03 +0000",
     "source": "bbc",
-    "headline": "Court pauses redistricting in Virginia, day after voters approve new maps",
-    "link": "https://www.bbc.com/news/articles/c5ywnjw7qj2o?at_medium=RSS&at_campaign=rss"
+    "headline": "Taiwan minister makes rare visit to disputed South China Sea island",
+    "link": "https://www.bbc.com/news/articles/c87wzpey8jlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-23-05-22-00 +0000",
+    "source": "wsj",
+    "headline": "Asia Stocks’ Chip-Driven Gains Fade as Middle East Tensions Simmer",
+    "link": "https://www.wsj.com/finance/stocks/asia-stocks-chip-driven-gains-fade-as-middle-east-tensions-simmer-9c04680f?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-23-04-53-12 +0000",
+    "source": "nypost",
+    "headline": "Coachella tickets ‘scam’ sparks influencer war as alleged victims post spicy text messages",
+    "link": "https://nypost.com/2026/04/23/us-news/influencers-allegedly-scammed-out-of-coachella-vip-tickets/"
   }
 ]
