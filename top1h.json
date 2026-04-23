@@ -1,45 +1,10 @@
 [
   {
-    "score": 16,
-    "pubdate": "2026-04-23-05-02-38 +0000",
-    "source": "nyt",
-    "headline": "Navy Secretary John Phelan Is Leaving the Pentagon and the Trump Administration",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-04-23-04-46-09 +0000",
-    "source": "nypost",
-    "headline": "California governor’s race debate shows why election still a toss-up",
-    "link": "https://nypost.com/2026/04/23/us-news/california-governors-debate-shows-why-race-still-a-toss-up/"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-04-23-04-59-31 +0000",
-    "source": "nypost",
-    "headline": "Mets fans freak over Mamdani’s ‘LGM’ post after Amazin’s snap 12-game ‘Curse of Mambino’ losing streak",
-    "link": "https://nypost.com/2026/04/23/us-news/mets-fans-blast-mamdanis-lgm-post-after-amazins-snap-12-game-curse-of-mambino-losing-streak/"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-04-23-05-02-39 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Reported Seizure of Ships Injects New Uncertainty Over Peace Talks",
-    "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-04-23-05-24-46 +0000",
-    "source": "nypost",
-    "headline": "Human remains belonging to multiple children between ages 3 and 7 discovered in Memphis woods",
-    "link": "https://nypost.com/2026/04/23/us-news/tennessee-human-remains-belonging-to-multiple-children-discovered-in-memphis-woods/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-04-23-05-22-00 +0000",
-    "source": "wsj",
-    "headline": "Safran Posts Double-Digit Revenue Growth on Surge in Engine Deliveries",
-    "link": "https://www.wsj.com/business/earnings/safran-posts-double-digit-revenue-growth-on-surge-in-engine-deliveries-fcc3e1ea?mod=pls_whats_news_us_business_f"
+    "score": 10,
+    "pubdate": "2026-04-23-05-29-03 +0000",
+    "source": "bbc",
+    "headline": "Taiwan minister makes rare visit to disputed South China Sea island",
+    "link": "https://www.bbc.com/news/articles/c87wzpey8jlo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 10,
@@ -49,24 +14,31 @@
     "link": "https://www.wsj.com/business/retail/roche-backs-full-year-view-as-quarterly-sales-rise-b9f2b3fe?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 10,
-    "pubdate": "2026-04-23-05-29-03 +0000",
-    "source": "bbc",
-    "headline": "Taiwan minister makes rare visit to disputed South China Sea island",
-    "link": "https://www.bbc.com/news/articles/c87wzpey8jlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-04-23-05-22-00 +0000",
+    "score": 9,
+    "pubdate": "2026-04-23-05-36-00 +0000",
     "source": "wsj",
-    "headline": "Asia Stocks’ Chip-Driven Gains Fade as Middle East Tensions Simmer",
-    "link": "https://www.wsj.com/finance/stocks/asia-stocks-chip-driven-gains-fade-as-middle-east-tensions-simmer-9c04680f?mod=rss_markets_main"
+    "headline": "Heineken Says Higher Pricing, Volume Recovery Boosted First-Quarter Revenue",
+    "link": "https://www.wsj.com/business/earnings/heineken-says-higher-pricing-volume-recovery-boosted-first-quarter-revenue-c02e0b5a?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 10,
-    "pubdate": "2026-04-23-04-53-12 +0000",
-    "source": "nypost",
-    "headline": "Coachella tickets ‘scam’ sparks influencer war as alleged victims post spicy text messages",
-    "link": "https://nypost.com/2026/04/23/us-news/influencers-allegedly-scammed-out-of-coachella-vip-tickets/"
+    "score": 9,
+    "pubdate": "2026-04-23-05-35-53 +0000",
+    "source": "startribune",
+    "headline": "Live from Game 3: Wild, Stars tied 3-3 in double overtime in St. Paul",
+    "link": "https://www.startribune.com/minnesota-wild-dallas-stars-game3-live-blog-stanley-cup-playoffs-nhl/601761706"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-04-23-05-35-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Treasury Yields Rise Amid Standoff Over Strait of Hormuz",
+    "link": "https://www.wsj.com/finance/investing/jgbs-consolidate-as-investors-focus-on-middle-east-developments-d9998f54?mod=rss_markets_main"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-04-23-05-31-00 +0000",
+    "source": "wsj",
+    "headline": "Nestle Reports Drop in Sales Amid Strategic Overhaul",
+    "link": "https://www.wsj.com/business/nestle-reports-drop-in-sales-amid-strategic-overhaul-d7eeb229?mod=pls_whats_news_us_business_f"
   }
 ]
