@@ -1,24 +1,24 @@
 [
   {
-    "score": 190,
+    "score": 195,
     "pubdate": "2026-04-23-01-55-27 +0000",
     "source": "nypost",
     "headline": "Lufthansa slashes 20K flights to save jet fuel as Iran war drives up oil prices",
     "link": "https://nypost.com/2026/04/22/world-news/lufthansa-slashes-20k-flights-as-iran-war-drives-up-oil-prices/"
   },
   {
-    "score": 103,
+    "score": 122,
+    "pubdate": "2026-04-23-13-06-10 +0000",
+    "source": "nypost",
+    "headline": "Trump says he ordered Navy to ‘shoot and kill’ Iran mine-laying boats in Strait of Hormuz",
+    "link": "https://nypost.com/2026/04/23/us-news/trump-says-he-ordered-navy-to-shoot-and-kill-iran-mine-laying-boats-in-strait-of-hormuz/"
+  },
+  {
+    "score": 101,
     "pubdate": "2026-04-22-22-11-28 +0000",
     "source": "nyt",
     "headline": "Heidi O’Neill, Formerly of Nike, Will Be New Lululemon’s New CEO",
     "link": "https://www.nytimes.com/2026/04/22/business/lululemon-new-ceo-heidi-oneill.html"
-  },
-  {
-    "score": 103,
-    "pubdate": "2026-04-22-21-33-05 +0000",
-    "source": "wapo",
-    "headline": "Iran says it seized 2 ships in Strait of Hormuz, hours after Trump’s ceasefire extension",
-    "link": "https://www.washingtonpost.com/world/2026/04/22/hormuz-strait-us-iran-talks-war/"
   },
   {
     "score": 76,
@@ -28,15 +28,15 @@
     "link": "https://www.nytimes.com/2026/04/22/us/california-gubernatorial-debate-swalwell.html"
   },
   {
-    "score": 64,
-    "pubdate": "2026-04-22-15-48-12 +0000",
-    "source": "nyt",
-    "headline": "Attacks along the Israel-Lebanon border put a cease-fire under strain.",
-    "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks/attacks-along-the-israel-lebanon-border-put-a-cease-fire-under-strain"
+    "score": 63,
+    "pubdate": "2026-04-23-08-12-48 +0000",
+    "source": "nypost",
+    "headline": "Senate passes $70B budget plan to fund ICE, Border Patrol in latest bid to reopen DHS",
+    "link": "https://nypost.com/2026/04/23/us-news/senate-passes-budget-plan-for-ice-and-border-patrol-in-bid-to-reopen-homeland-security/"
   },
   {
-    "score": 64,
-    "pubdate": "2026-04-23-09-00-00 +0000",
+    "score": 62,
+    "pubdate": "2026-04-23-13-09-00 +0000",
     "source": "wsj",
     "headline": "The main outside group supporting Democrats’ efforts to flip the House is reserving $272 million in TV and digital advertising ahead of the midterms, mostly targeting seats held by Republicans",
     "link": "https://www.wsj.com/politics/elections/democrats-ad-plans-show-party-going-on-offense-d5a15d84"
@@ -56,17 +56,17 @@
     "link": "https://www.wsj.com/politics/policy/lawmakers-grilled-rfk-jr-seven-times-in-a-week-here-are-the-key-takeaways-f01ac301"
   },
   {
-    "score": 52,
-    "pubdate": "2026-04-23-07-58-19 +0000",
+    "score": 55,
+    "pubdate": "2026-04-22-15-48-12 +0000",
     "source": "nyt",
-    "headline": "EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban",
-    "link": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html"
+    "headline": "Attacks along the Israel-Lebanon border put a cease-fire under strain.",
+    "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks/attacks-along-the-israel-lebanon-border-put-a-cease-fire-under-strain"
   },
   {
-    "score": 52,
-    "pubdate": "2026-04-23-08-12-48 +0000",
-    "source": "nypost",
-    "headline": "Senate passes $70B budget plan to fund ICE, Border Patrol in latest bid to reopen DHS",
-    "link": "https://nypost.com/2026/04/23/us-news/senate-passes-budget-plan-for-ice-and-border-patrol-in-bid-to-reopen-homeland-security/"
+    "score": 53,
+    "pubdate": "2026-04-22-21-46-54 +0000",
+    "source": "nyt",
+    "headline": "Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair",
+    "link": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html"
   }
 ]
