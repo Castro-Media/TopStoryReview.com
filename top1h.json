@@ -1,30 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-04-24-08-23-36 +0000",
+    "score": 17,
+    "pubdate": "2026-04-24-11-28-38 +0000",
     "source": "bbc",
-    "headline": "South Korea police arrest man for posting AI photo of runaway wolf",
-    "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss"
+    "headline": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
+    "link": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-24-12-08-54 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: U.S. Defense Officials Speak About War Effort",
+    "link": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-24-11-11-00 +0000",
+    "source": "wsj",
+    "headline": "First ​psychedelics​, then ​pot​: ​inside the White House’s ​legalization ​binge​. Read more in today’s WSJ Politics newsletter:",
+    "link": "https://www.wsj.com/politics/policy/first-psychedelics-then-pot-inside-the-white-houses-legalization-binge-b8cb51af"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-24-12-01-39 +0000",
+    "source": "bbc",
+    "headline": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+    "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-24-12-00-00 +0000",
+    "source": "nypost",
+    "headline": "California dominates top 25 most polluted cities ranking — as state’s clean air shame laid bare",
+    "link": "https://nypost.com/2026/04/24/us-news/california-dominates-pollution-ratings-with-eight-cities-in-top-25/"
   },
   {
     "score": 9,
-    "pubdate": "2026-04-24-08-25-47 +0000",
-    "source": "nypost",
-    "headline": "Prosecutors seek 30-year prison term for South Korea’s Yoon for drone flights over Pyongyang",
-    "link": "https://nypost.com/2026/04/24/world-news/prosecutors-seek-30-year-prison-term-for-south-koreas-yoon-for-drone-flights-over-pyongyang/"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-04-24-08-22-00 +0000",
-    "source": "wsj",
-    "headline": "Kuehne + Nagel Lifts Lower-End of Earnings Guidance",
-    "link": "https://www.wsj.com/business/earnings/kuehne-nagel-lifts-lower-end-of-earnings-guidance-d74f7e0a?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-04-24-08-23-36 +0000",
+    "pubdate": "2026-04-24-11-49-29 +0000",
     "source": "bbc",
-    "headline": "South Korea police arrest man for posting AI photo of runaway wolf",
-    "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss"
+    "headline": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
+    "link": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-24-11-38-44 +0000",
+    "source": "cbc",
+    "headline": "Syrian authorities arrest suspected leader of notorious Tadamon massacre",
+    "link": "https://www.cbc.ca/news/world/syria-arrest-tadamon-massacre-9.7175757?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-24-11-29-00 +0000",
+    "source": "wsj",
+    "headline": "SLB Profit Falls as Iran War Disrupts Operations, Clouds Outlook",
+    "link": "https://www.wsj.com/business/earnings/slb-profit-falls-as-iran-war-disrupts-operations-clouds-outlook-a460d695?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-24-11-27-46 +0000",
+    "source": "nypost",
+    "headline": "Elderly married couple killed in Russian attack on Odesa, Ukraine, officials say",
+    "link": "https://nypost.com/2026/04/24/world-news/russian-attack-on-odesa-ukraine-kills-married-couple-officials-say/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-24-11-37-21 +0000",
+    "source": "nypost",
+    "headline": "Iran delegation heading to Pakistan as cease-fire talks with US hang in balance",
+    "link": "https://nypost.com/2026/04/24/world-news/iran-delegation-heading-to-pakistan-as-cease-fire-talks-with-us-hang-in-balance/"
   }
 ]
