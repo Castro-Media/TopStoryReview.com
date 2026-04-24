@@ -1,50 +1,314 @@
 [
   {
-    "headline": "The assisted dying bill has failed - but the debate isn't over",
-    "link": "https://www.bbc.com/news/articles/cm2k59l2l02o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-24-14-19-46 +0000"
-  },
-  {
-    "headline": "Western Union Profit Falls as Immigration Policy Hurts Remittances",
-    "link": "https://www.wsj.com/business/earnings/western-union-posts-lower-profit-9d41fe48?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-24-14-18-00 +0000"
-  },
-  {
-    "headline": "Assisted dying bill runs out of time to become law",
-    "link": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-24-14-17-42 +0000"
-  },
-  {
     "headline": "Iran War Live Updates: U.S. Blockade Will Last ‘as Long as It Takes,’ Hegseth Says",
     "link": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz",
     "source": "nyt",
-    "pubdate": "2026-04-24-14-17-39 +0000"
+    "pubdate": "2026-04-24-16-11-24 +0000"
   },
   {
-    "headline": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-    "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-24-14-17-38 +0000"
+    "headline": "EU, U.S. Launch Partnership on Critical Minerals",
+    "link": "https://www.wsj.com/world/europe/eu-u-s-launch-partnership-on-critical-minerals-c67e058a",
+    "source": "wsj",
+    "pubdate": "2026-04-24-16-11-00 +0000"
   },
   {
-    "headline": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-    "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-24-14-17-38 +0000"
+    "headline": "Arrest of U.S. Soldier Signals Polymarket’s Wild-West Days Are Ending",
+    "link": "https://www.wsj.com/finance/currencies/arrest-of-u-s-soldier-signals-polymarkets-wild-west-days-are-ending-5d31ea69?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-24-16-10-00 +0000"
+  },
+  {
+    "headline": "Archaeologists make ‘remarkable’ discovery from bloodiest battle in Scottish history after nearly 280 years",
+    "link": "https://nypost.com/2026/04/24/world-news/archaeologists-make-remarkable-discovery-from-bloodiest-battle-in-scottish-history-after-nearly-280-years/",
+    "source": "nypost",
+    "pubdate": "2026-04-24-16-09-22 +0000"
+  },
+  {
+    "headline": "Both Iran and U.S. Blockade Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/04/24/world/middleeast/both-iran-and-us-blockade-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-16-06-57 +0000"
+  },
+  {
+    "headline": "Both Iran and U.S. Blockade Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/04/24/world/middleeast/both-iran-and-us-blockade-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-16-06-57 +0000"
+  },
+  {
+    "headline": "Charter Stock Drops More Than 20% After Company Tempers Full-Year Expectations",
+    "link": "https://www.wsj.com/business/earnings/charter-revenue-falls-as-internet-video-subscriptions-decline-bb71ad41?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-24-16-06-00 +0000"
   },
   {
     "headline": "Trump Extends Waiver Allowing Foreign Ships to Move Goods Between U.S. Ports",
     "link": "https://www.nytimes.com/2026/04/24/world/middleeast/trump-extends-waiver-allowing-foreign-ships-to-move-goods-between-us-ports.html",
     "source": "nyt",
-    "pubdate": "2026-04-24-14-17-10 +0000"
+    "pubdate": "2026-04-24-16-05-08 +0000"
   },
   {
     "headline": "Trump Extends Waiver Allowing Foreign Ships to Move Goods Between U.S. Ports",
     "link": "https://www.nytimes.com/2026/04/24/world/middleeast/trump-extends-waiver-allowing-foreign-ships-to-move-goods-between-us-ports.html",
     "source": "nyt",
-    "pubdate": "2026-04-24-14-17-10 +0000"
+    "pubdate": "2026-04-24-16-05-08 +0000"
+  },
+  {
+    "headline": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+    "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-24-16-04-29 +0000"
+  },
+  {
+    "headline": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+    "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-24-16-04-29 +0000"
+  },
+  {
+    "headline": "The unemployment rate is low. The stock market is high. Consumer spending is healthy. But ask Americans how they’re doing, and you’d think we were in a recession.",
+    "link": "https://www.wsj.com/economy/most-americans-think-the-job-market-will-get-worse-heres-why-that-matters-d121585a",
+    "source": "wsj",
+    "pubdate": "2026-04-24-16-01-00 +0000"
+  },
+  {
+    "headline": "The Most Impactful U.S. Inventions",
+    "link": "https://www.wsj.com/us-news/the-most-impactful-u-s-inventions-bf44040d",
+    "source": "wsj",
+    "pubdate": "2026-04-24-16-00-00 +0000"
+  },
+  {
+    "headline": "The Most Impactful U.S. Inventions",
+    "link": "https://www.wsj.com/us-news/the-most-impactful-u-s-inventions-bf44040d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-24-16-00-00 +0000"
+  },
+  {
+    "headline": "The ‘Make America Healthy Again’ Movement Is Cooling on Trump and Republicans",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/maha-voters-midterms.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-57-12 +0000"
+  },
+  {
+    "headline": "The ‘Make America Healthy Again’ Movement Is Cooling on Trump and Republicans",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/maha-voters-midterms.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-57-12 +0000"
+  },
+  {
+    "headline": "Intel shares skyrocket to all-time high as AI boom triggers remarkable turnaround",
+    "link": "https://nypost.com/2026/04/24/business/intel-shares-skyrocket-to-all-time-high-as-ai-boom-triggers-remarkable-turnaround/",
+    "source": "nypost",
+    "pubdate": "2026-04-24-15-55-51 +0000"
+  },
+  {
+    "headline": "Justice Department Drops Criminal Investigation of Fed Chair Jerome Powell",
+    "link": "https://www.nytimes.com/2026/04/24/business/doj-investigation-federal-reserve-powell.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-54-41 +0000"
+  },
+  {
+    "headline": "Justice Department Drops Criminal Investigation of Fed Chair Jerome Powell",
+    "link": "https://www.nytimes.com/2026/04/24/business/doj-investigation-federal-reserve-powell.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-54-41 +0000"
+  },
+  {
+    "headline": "Why Everyone, Including Trump, Is Talking About Airline Mergers",
+    "link": "https://www.nytimes.com/2026/04/24/business/trump-airline-mergers-bailouts.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-54-36 +0000"
+  },
+  {
+    "headline": "Why Everyone, Including Trump, Is Talking About Airline Mergers",
+    "link": "https://www.nytimes.com/2026/04/24/business/trump-airline-mergers-bailouts.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-54-36 +0000"
+  },
+  {
+    "headline": "Why Everyone, Including Trump, Is Talking About Airline Mergers",
+    "link": "https://www.nytimes.com/2026/04/24/business/trump-airline-mergers-bailouts.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-54-36 +0000"
+  },
+  {
+    "headline": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
+    "link": "https://www.nytimes.com/2026/04/24/world/middleeast/netanyahu-cancer-treatment.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-51-09 +0000"
+  },
+  {
+    "headline": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
+    "link": "https://www.nytimes.com/2026/04/24/world/middleeast/netanyahu-cancer-treatment.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-51-09 +0000"
+  },
+  {
+    "headline": "‘Startup Cowboys’ Are Making This Texas Town the New Tech Hotspot",
+    "link": "https://www.wsj.com/business/entrepreneurship/lockhart-texas-tech-hub-fd1bf380?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-24-15-51-00 +0000"
+  },
+  {
+    "headline": "Mexican pyramid shooter caught on video calmly setting up gun, shooting as shocked tourists flee",
+    "link": "https://nypost.com/2026/04/24/world-news/mexican-pyramid-shooter-caught-on-video-calmly-setting-up-gun-shooting-as-shocked-tourists-flee/",
+    "source": "nypost",
+    "pubdate": "2026-04-24-15-50-58 +0000"
+  },
+  {
+    "headline": "DeepSeek’s Sequel Set to Extend China’s Reach in Open-Source A.I.",
+    "link": "https://www.nytimes.com/2026/04/24/business/china-ai-deepseek-open-source.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-47-45 +0000"
+  },
+  {
+    "headline": "DeepSeek’s Sequel Set to Extend China’s Reach in Open-Source A.I.",
+    "link": "https://www.nytimes.com/2026/04/24/business/china-ai-deepseek-open-source.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-47-45 +0000"
+  },
+  {
+    "headline": "The Peril of Piloting Ships Through the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/04/24/business/strait-hormuz-ship-captain.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-47-32 +0000"
+  },
+  {
+    "headline": "The Peril of Piloting Ships Through the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/04/24/business/strait-hormuz-ship-captain.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-47-32 +0000"
+  },
+  {
+    "headline": "The assisted dying bill has failed - but the debate isn't over",
+    "link": "https://www.bbc.com/news/articles/cm2k59l2l02o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-24-15-45-51 +0000"
+  },
+  {
+    "headline": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
+    "link": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-42-48 +0000"
+  },
+  {
+    "headline": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
+    "link": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-42-48 +0000"
+  },
+  {
+    "headline": "Thrive Capital to Take a Stake in the San Francisco Giants",
+    "link": "https://www.wsj.com/tech/thrive-capital-to-take-a-stake-in-the-san-francisco-giants-75986dc4?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-24-15-42-00 +0000"
+  },
+  {
+    "headline": "As Trump Officials Pushed Health Savings Accounts, RFK Jr. Aide Ran Wellness Company Poised to Benefit",
+    "link": "https://www.nytimes.com/2026/04/24/health/calley-means-truemed-trump-health-savings.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-37-46 +0000"
+  },
+  {
+    "headline": "As Trump Officials Pushed Health Savings Accounts, RFK Jr. Aide Ran Wellness Company Poised to Benefit",
+    "link": "https://www.nytimes.com/2026/04/24/health/calley-means-truemed-trump-health-savings.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-37-46 +0000"
+  },
+  {
+    "headline": "A boy declared him 'Father of the Year.' Then, they died in a murder-suicide",
+    "link": "https://www.latimes.com/california/story/2026-04-24/california-family-crushed-by-dads-murder-suicide-killing-11-year-old",
+    "source": "latimes",
+    "pubdate": "2026-04-24-15-33-00 +0000"
+  },
+  {
+    "headline": "Polymarket Bets on Paris Temperature Prompt Investigation After Unusual Spikes",
+    "link": "https://www.nytimes.com/2026/04/24/world/europe/polymarket-bets-france-paris-temperature-weather.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-31-57 +0000"
+  },
+  {
+    "headline": "Polymarket Bets on Paris Temperature Prompt Investigation After Unusual Spikes",
+    "link": "https://www.nytimes.com/2026/04/24/world/europe/polymarket-bets-france-paris-temperature-weather.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-31-57 +0000"
+  },
+  {
+    "headline": "Polymarket Bets on Paris Temperature Prompt Investigation After Unusual Spikes",
+    "link": "https://www.nytimes.com/2026/04/24/world/europe/polymarket-bets-france-paris-temperature-weather.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-31-57 +0000"
+  },
+  {
+    "headline": "Under the Stars: OM Records announces 30-year Embarcadero blast",
+    "link": "https://48hills.org/2026/04/under-the-stars-om-records-announces-30-year-embarcadero-blast/",
+    "source": "48hills",
+    "pubdate": "2026-04-24-15-31-03 +0000"
+  },
+  {
+    "headline": "It Was Just a Podcast. Now, It’s Kelce Land.",
+    "link": "https://www.nytimes.com/2026/04/24/business/media/jason-travis-kelce-amazon-podcast.html",
+    "source": "nyt",
+    "pubdate": "2026-04-24-15-30-23 +0000"
+  },
+  {
+    "headline": "Travelers warn JetBlue’s new boarding process could make delays even worse",
+    "link": "https://nypost.com/2026/04/24/world-news/jetblues-new-boarding-process-could-make-delays-even-worse-travelers-fear/",
+    "source": "nypost",
+    "pubdate": "2026-04-24-15-27-10 +0000"
+  },
+  {
+    "headline": "Iran has ‘open window’ to negotiate, but ‘clock is not on their side,’ Pete Hegseth says",
+    "link": "https://nypost.com/2026/04/24/us-news/iran-has-open-window-to-negotiate-but-clock-is-not-on-their-side-pete-hegseth-says/",
+    "source": "nypost",
+    "pubdate": "2026-04-24-15-23-11 +0000"
+  },
+  {
+    "headline": "Iran has ‘open window’ to negotiate, but ‘clock is not on their side,’ Pete Hegseth says",
+    "link": "https://nypost.com/2026/04/24/us-news/iran-has-open-window-to-negotiate-but-clock-is-not-on-their-side-pete-hegseth-says/",
+    "source": "nypost",
+    "pubdate": "2026-04-24-15-23-11 +0000"
+  },
+  {
+    "headline": "SpaceX warns probes into sexually abusive AI imagery could cause headaches as it gears up for IPO",
+    "link": "https://nypost.com/2026/04/24/business/elon-musks-spacex-warns-probes-into-sexually-abusive-ai-imagery-could-hurt-ahead-of-ipo/",
+    "source": "nypost",
+    "pubdate": "2026-04-24-15-21-54 +0000"
+  },
+  {
+    "headline": "US justice department drops probe into Fed chairman Jerome Powell",
+    "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-24-15-21-27 +0000"
+  },
+  {
+    "headline": "US justice department drops probe into Fed chairman Jerome Powell",
+    "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-24-15-21-27 +0000"
+  },
+  {
+    "headline": "US justice department drops probe into Fed chairman Jerome Powell",
+    "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-24-15-21-27 +0000"
+  },
+  {
+    "headline": "How the Kremlin's internet crackdown is frustrating Russians",
+    "link": "https://www.bbc.com/news/videos/c75kpx2w452o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-24-15-19-37 +0000"
+  },
+  {
+    "headline": "The DOJ said it would end its criminal investigation of Federal Reserve Chair Jerome Powell, clearing the obstacle that has stalled Kevin Warsh’s confirmation as his successor",
+    "link": "https://www.wsj.com/economy/central-banking/justice-department-will-end-probe-of-powell-clearing-path-for-kevin-warsh-e6774dfa",
+    "source": "wsj",
+    "pubdate": "2026-04-24-15-19-00 +0000"
+  },
+  {
+    "headline": "The DOJ said it would end its criminal investigation of Federal Reserve Chair Jerome Powell, clearing the obstacle that has stalled Kevin Warsh’s confirmation as his successor",
+    "link": "https://www.wsj.com/economy/central-banking/justice-department-will-end-probe-of-powell-clearing-path-for-kevin-warsh-e6774dfa",
+    "source": "wsj",
+    "pubdate": "2026-04-24-15-19-00 +0000"
   }
 ]
