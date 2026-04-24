@@ -1,58 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-04-24-14-17-10 +0000",
-    "source": "nyt",
-    "headline": "Trump Extends Waiver Allowing Foreign Ships to Move Goods Between U.S. Ports",
-    "link": "https://www.nytimes.com/2026/04/24/world/middleeast/trump-extends-waiver-allowing-foreign-ships-to-move-goods-between-us-ports.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-04-24-14-17-38 +0000",
-    "source": "bbc",
-    "headline": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-    "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-04-24-14-17-42 +0000",
-    "source": "bbc",
-    "headline": "Assisted dying bill runs out of time to become law",
-    "link": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-04-24-14-17-39 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: U.S. Blockade Will Last ‘as Long as It Takes,’ Hegseth Says",
-    "link": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-04-24-14-18-00 +0000",
+    "score": 51,
+    "pubdate": "2026-04-24-15-19-00 +0000",
     "source": "wsj",
-    "headline": "Western Union Profit Falls as Immigration Policy Hurts Remittances",
-    "link": "https://www.wsj.com/business/earnings/western-union-posts-lower-profit-9d41fe48?mod=pls_whats_news_us_business_f"
+    "headline": "The DOJ said it would end its criminal investigation of Federal Reserve Chair Jerome Powell, clearing the obstacle that has stalled Kevin Warsh’s confirmation as his successor",
+    "link": "https://www.wsj.com/economy/central-banking/justice-department-will-end-probe-of-powell-clearing-path-for-kevin-warsh-e6774dfa"
   },
   {
-    "score": 3,
-    "pubdate": "2026-04-24-14-19-46 +0000",
+    "score": 34,
+    "pubdate": "2026-04-24-15-37-46 +0000",
+    "source": "nyt",
+    "headline": "As Trump Officials Pushed Health Savings Accounts, RFK Jr. Aide Ran Wellness Company Poised to Benefit",
+    "link": "https://www.nytimes.com/2026/04/24/health/calley-means-truemed-trump-health-savings.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-04-24-15-21-27 +0000",
     "source": "bbc",
-    "headline": "The assisted dying bill has failed - but the debate isn't over",
-    "link": "https://www.bbc.com/news/articles/cm2k59l2l02o?at_medium=RSS&at_campaign=rss"
+    "headline": "US justice department drops probe into Fed chairman Jerome Powell",
+    "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-24-14-17-38 +0000",
-    "source": "bbc",
-    "headline": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-    "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss"
+    "score": 24,
+    "pubdate": "2026-04-24-15-23-11 +0000",
+    "source": "nypost",
+    "headline": "Iran has ‘open window’ to negotiate, but ‘clock is not on their side,’ Pete Hegseth says",
+    "link": "https://nypost.com/2026/04/24/us-news/iran-has-open-window-to-negotiate-but-clock-is-not-on-their-side-pete-hegseth-says/"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-24-14-17-10 +0000",
+    "score": 22,
+    "pubdate": "2026-04-24-15-31-57 +0000",
+    "source": "nyt",
+    "headline": "Polymarket Bets on Paris Temperature Prompt Investigation After Unusual Spikes",
+    "link": "https://www.nytimes.com/2026/04/24/world/europe/polymarket-bets-france-paris-temperature-weather.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-04-24-16-01-00 +0000",
+    "source": "wsj",
+    "headline": "The unemployment rate is low. The stock market is high. Consumer spending is healthy. But ask Americans how they’re doing, and you’d think we were in a recession.",
+    "link": "https://www.wsj.com/economy/most-americans-think-the-job-market-will-get-worse-heres-why-that-matters-d121585a"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-04-24-16-05-08 +0000",
     "source": "nyt",
     "headline": "Trump Extends Waiver Allowing Foreign Ships to Move Goods Between U.S. Ports",
     "link": "https://www.nytimes.com/2026/04/24/world/middleeast/trump-extends-waiver-allowing-foreign-ships-to-move-goods-between-us-ports.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-24-16-04-29 +0000",
+    "source": "bbc",
+    "headline": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+    "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-24-15-51-09 +0000",
+    "source": "nyt",
+    "headline": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
+    "link": "https://www.nytimes.com/2026/04/24/world/middleeast/netanyahu-cancer-treatment.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-24-15-54-36 +0000",
+    "source": "nyt",
+    "headline": "Why Everyone, Including Trump, Is Talking About Airline Mergers",
+    "link": "https://www.nytimes.com/2026/04/24/business/trump-airline-mergers-bailouts.html"
   }
 ]
