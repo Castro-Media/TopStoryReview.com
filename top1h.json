@@ -1,51 +1,72 @@
 [
   {
-    "score": 22,
-    "pubdate": "2026-04-24-05-38-26 +0000",
+    "score": 28,
+    "pubdate": "2026-04-24-06-39-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration announced criminal charges, sanctions and multimillion-dollar rewards aimed at combating online scams coming out of Southeast Asia and targeting Americans",
+    "link": "https://www.wsj.com/politics/policy/u-s-steps-up-crackdown-on-online-scams-directed-from-southeast-asia-f17f2d03"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-04-24-06-52-27 +0000",
+    "source": "bbc",
+    "headline": "Stock markets are too high and set to fall, says Bank of England deputy",
+    "link": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-24-06-52-08 +0000",
     "source": "nyt",
-    "headline": "Rubio Says Iran’s Soccer Team Can Attend World Cup",
-    "link": "https://www.nytimes.com/2026/04/24/us/politics/trump-rubio-iran-world-cup.html"
+    "headline": "Europe Mulls What Mutual Defense Looks Like Outside NATO",
+    "link": "https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-24-06-56-27 +0000",
+    "source": "nypost",
+    "headline": "Israel, Lebanon extend cease-fire as Trump seeks ‘best deal’ with Iran",
+    "link": "https://nypost.com/2026/04/24/world-news/israel-lebanon-extend-cease-fire-as-trump-seeks-best-deal-with-iran/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-24-07-20-49 +0000",
+    "source": "bbc",
+    "headline": "Which airlines are cancelling flights to the UK - and what can you do?",
+    "link": "https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-24-06-31-41 +0000",
+    "source": "nypost",
+    "headline": "Trans killer housed in Oregon women’s prison wins high-dollar legal settlement in sex abuse suit",
+    "link": "https://nypost.com/2026/04/24/us-news/trans-killer-zera-lola-zombie-housed-in-oregon-womens-prison-wins-high-dollar-legal-settlement-in-sex-abuse-suit/"
   },
   {
     "score": 11,
-    "pubdate": "2026-04-24-05-34-56 +0000",
+    "pubdate": "2026-04-24-07-12-00 +0000",
+    "source": "wsj",
+    "headline": "Japan’s Central Bank Confronts Two-Way Risk Fueled by War in Middle East",
+    "link": "https://www.wsj.com/economy/central-banking/japans-central-bank-confronts-two-way-risk-fueled-by-war-in-middle-east-35dc294d"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-24-06-36-41 +0000",
     "source": "nypost",
-    "headline": "Tennessee Rep. Tim Burchett says he’s seen UFO pictures, videos that ‘defy’ logic",
-    "link": "https://nypost.com/2026/04/24/us-news/tennessee-rep-tim-burchett-says-hes-seen-ufo-pictures-videos-that-defy-logic/"
+    "headline": "New Hofstra softball coach, an ex-NYPD captain, taking program to great heights",
+    "link": "https://nypost.com/2026/04/24/sports/new-hofstra-softball-coach-taking-program-to-great-heights/"
   },
   {
     "score": 10,
-    "pubdate": "2026-04-24-05-31-57 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Trump Says Israel and Lebanon Agree to Extend Cease-Fire",
-    "link": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news"
+    "pubdate": "2026-04-24-07-11-40 +0000",
+    "source": "nypost",
+    "headline": "Tourist trapped waist-deep in sewage for hours after toilet collapses during family stop",
+    "link": "https://nypost.com/2026/04/24/world-news/australian-tourist-trapped-waist-deep-in-sewage-after-outback-toilet-collapses/"
   },
   {
-    "score": 8,
-    "pubdate": "2026-04-24-05-41-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Treasury Yields Edge Up as Oil Price Remain High",
-    "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-9c6b35b0?mod=rss_markets_main"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-04-24-05-39-00 +0000",
-    "source": "wsj",
-    "headline": "Kuehne + Nagel Lifts Lower-End of Earnings Guidance",
-    "link": "https://www.wsj.com/business/earnings/kuehne-nagel-lifts-lower-end-of-earnings-guidance-d74f7e0a?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-04-24-05-38-26 +0000",
-    "source": "nyt",
-    "headline": "Rubio Says Iran’s Soccer Team Can Attend World Cup",
-    "link": "https://www.nytimes.com/2026/04/24/us/politics/trump-rubio-iran-world-cup.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-04-24-05-38-26 +0000",
-    "source": "nyt",
-    "headline": "Rubio Says Iran’s Soccer Team Can Attend World Cup",
-    "link": "https://www.nytimes.com/2026/04/24/us/politics/trump-rubio-iran-world-cup.html"
+    "score": 10,
+    "pubdate": "2026-04-24-06-45-49 +0000",
+    "source": "nypost",
+    "headline": "Tornado barrels through Oklahoma, ripping roofs off buildings and shutting down roads",
+    "link": "https://nypost.com/2026/04/24/us-news/oklahoma-tornado-barrels-through-enid-damaging-homes-and-shutting-down-roads/"
   }
 ]
