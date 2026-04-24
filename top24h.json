@@ -35,18 +35,11 @@
     "link": "https://nypost.com/2026/04/23/business/as-us-soldier-is-charged-for-alleged-maduro-bets-sec-conducts-strikingly-low-key-probe-of-futures-and-prediction-markets/"
   },
   {
-    "score": 62,
+    "score": 60,
     "pubdate": "2026-04-23-20-10-35 +0000",
     "source": "nyt",
     "headline": "Oil Prices Rise and Stocks Slide Amid Uncertainty Over Next Steps in War",
     "link": "https://www.nytimes.com/2026/04/23/business/oil-stocks-gas-iran.html"
-  },
-  {
-    "score": 54,
-    "pubdate": "2026-04-23-13-09-00 +0000",
-    "source": "wsj",
-    "headline": "The main outside group supporting Democrats’ efforts to flip the House is reserving $272 million in TV and digital advertising ahead of the midterms, mostly targeting seats held by Republicans",
-    "link": "https://www.wsj.com/politics/elections/democrats-ad-plans-show-party-going-on-offense-d5a15d84"
   },
   {
     "score": 54,
@@ -56,6 +49,13 @@
     "link": "https://www.nytimes.com/2026/04/23/world/asia/duterte-icc-trial-drug-war.html"
   },
   {
+    "score": 53,
+    "pubdate": "2026-04-23-13-09-00 +0000",
+    "source": "wsj",
+    "headline": "The main outside group supporting Democrats’ efforts to flip the House is reserving $272 million in TV and digital advertising ahead of the midterms, mostly targeting seats held by Republicans",
+    "link": "https://www.wsj.com/politics/elections/democrats-ad-plans-show-party-going-on-offense-d5a15d84"
+  },
+  {
     "score": 50,
     "pubdate": "2026-04-23-15-54-10 +0000",
     "source": "nypost",
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2026/04/23/business/teslas-stock-drops-on-elon-musks-25b-ai-bet-why-investors-are-worried/"
   },
   {
-    "score": 49,
-    "pubdate": "2026-04-23-18-35-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. has burned through so many munitions in Iran that some administration officials assess that America couldn’t fully execute contingency plans to defend Taiwan from a Chinese invasion if it occurred in the near term, U.S. officials said",
-    "link": "https://www.wsj.com/politics/national-security/iran-war-complicates-contingency-plans-to-defend-taiwan-some-u-s-officials-say-4384f7c1"
+    "score": 48,
+    "pubdate": "2026-04-23-21-02-19 +0000",
+    "source": "nyt",
+    "headline": "Lebanese Journalist Killed in Israeli Strike Was Known for Being Intrepid",
+    "link": "https://www.nytimes.com/2026/04/23/world/middleeast/lebanese-journalist-amal-khalil-killed-israeli-strike.html"
   }
 ]
