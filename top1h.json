@@ -1,72 +1,58 @@
 [
   {
-    "score": 33,
-    "pubdate": "2026-04-24-13-57-43 +0000",
-    "source": "nyt",
-    "headline": "Tariffs Raised Consumers’ Prices, but the Refunds Go Only to Businesses",
-    "link": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html"
-  },
-  {
-    "score": 29,
-    "pubdate": "2026-04-24-13-59-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration announced criminal charges, sanctions and multimillion-dollar rewards aimed at combating online scams coming out of Southeast Asia and targeting Americans",
-    "link": "https://www.wsj.com/politics/policy/u-s-steps-up-crackdown-on-online-scams-directed-from-southeast-asia-f17f2d03"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-04-24-14-00-00 +0000",
-    "source": "wsj",
-    "headline": "The road to war last year featured rising profits at the weapons makers that supply the Pentagon with bombs, missiles and planes. Yet the war has been a different story.",
-    "link": "https://www.wsj.com/politics/national-security/war-buoys-arms-makers-sales-but-not-their-stocks-9b629d6c"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-04-24-14-08-12 +0000",
-    "source": "nyt",
-    "headline": "How Kevin Warsh Could Shrink the Fed’s Footprint in Financial Markets",
-    "link": "https://www.nytimes.com/2026/04/24/us/politics/kevin-warsh-fed-rates-balance-sheet.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-04-24-14-17-38 +0000",
-    "source": "bbc",
-    "headline": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-    "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-04-24-13-57-20 +0000",
-    "source": "bbc",
-    "headline": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
-    "link": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 18,
+    "score": 20,
     "pubdate": "2026-04-24-14-17-10 +0000",
     "source": "nyt",
     "headline": "Trump Extends Waiver Allowing Foreign Ships to Move Goods Between U.S. Ports",
     "link": "https://www.nytimes.com/2026/04/24/world/middleeast/trump-extends-waiver-allowing-foreign-ships-to-move-goods-between-us-ports.html"
   },
   {
-    "score": 15,
-    "pubdate": "2026-04-24-13-59-12 +0000",
-    "source": "nyt",
-    "headline": "Why Everyone, Including Trump, Is Talking About Airline Mergers",
-    "link": "https://www.nytimes.com/2026/04/24/business/trump-airline-mergers-bailouts.html"
-  },
-  {
     "score": 14,
-    "pubdate": "2026-04-24-13-52-50 +0000",
-    "source": "nypost",
-    "headline": "CBS News anchor Tony Dokoupil ripped by insiders as ‘good eye candy’ and ‘useful idiot,’ brutal report reveals",
-    "link": "https://nypost.com/2026/04/24/media/bari-weisss-cbs-news-anchor-tony-dokoupil-ripped-by-insiders-as-useful-idiot/"
+    "pubdate": "2026-04-24-14-17-38 +0000",
+    "source": "bbc",
+    "headline": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+    "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 13,
-    "pubdate": "2026-04-24-13-27-00 +0000",
+    "score": 11,
+    "pubdate": "2026-04-24-14-17-42 +0000",
+    "source": "bbc",
+    "headline": "Assisted dying bill runs out of time to become law",
+    "link": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-24-14-17-39 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: U.S. Blockade Will Last ‘as Long as It Takes,’ Hegseth Says",
+    "link": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-24-14-18-00 +0000",
     "source": "wsj",
-    "headline": "German Government Bond Yields Rise Faster Than Corporate Bond Yields",
-    "link": "https://www.wsj.com/finance/jgbs-fall-tracking-declines-in-u-s-treasurys-9c6b35b0?mod=rss_markets_main"
+    "headline": "Western Union Profit Falls as Immigration Policy Hurts Remittances",
+    "link": "https://www.wsj.com/business/earnings/western-union-posts-lower-profit-9d41fe48?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 3,
+    "pubdate": "2026-04-24-14-19-46 +0000",
+    "source": "bbc",
+    "headline": "The assisted dying bill has failed - but the debate isn't over",
+    "link": "https://www.bbc.com/news/articles/cm2k59l2l02o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-04-24-14-17-38 +0000",
+    "source": "bbc",
+    "headline": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+    "link": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-04-24-14-17-10 +0000",
+    "source": "nyt",
+    "headline": "Trump Extends Waiver Allowing Foreign Ships to Move Goods Between U.S. Ports",
+    "link": "https://www.nytimes.com/2026/04/24/world/middleeast/trump-extends-waiver-allowing-foreign-ships-to-move-goods-between-us-ports.html"
   }
 ]
