@@ -1,17 +1,10 @@
 [
   {
-    "score": 160,
+    "score": 155,
     "pubdate": "2026-04-24-06-56-27 +0000",
     "source": "nypost",
     "headline": "Israel, Lebanon extend cease-fire as Trump seeks ‘best deal’ with Iran",
     "link": "https://nypost.com/2026/04/24/world-news/israel-lebanon-extend-cease-fire-as-trump-seeks-best-deal-with-iran/"
-  },
-  {
-    "score": 97,
-    "pubdate": "2026-04-24-14-00-00 +0000",
-    "source": "wsj",
-    "headline": "The road to war last year featured rising profits at the weapons makers that supply the Pentagon with bombs, missiles and planes. Yet the war has been a different story.",
-    "link": "https://www.wsj.com/politics/national-security/war-buoys-arms-makers-sales-but-not-their-stocks-9b629d6c"
   },
   {
     "score": 94,
@@ -21,6 +14,13 @@
     "link": "https://www.wsj.com/economy/central-banking/justice-department-will-end-probe-of-powell-clearing-path-for-kevin-warsh-e6774dfa"
   },
   {
+    "score": 91,
+    "pubdate": "2026-04-24-14-00-00 +0000",
+    "source": "wsj",
+    "headline": "The road to war last year featured rising profits at the weapons makers that supply the Pentagon with bombs, missiles and planes. Yet the war has been a different story.",
+    "link": "https://www.wsj.com/politics/national-security/war-buoys-arms-makers-sales-but-not-their-stocks-9b629d6c"
+  },
+  {
     "score": 82,
     "pubdate": "2026-04-23-23-51-41 +0000",
     "source": "nypost",
@@ -28,7 +28,7 @@
     "link": "https://nypost.com/2026/04/23/business/as-us-soldier-is-charged-for-alleged-maduro-bets-sec-conducts-strikingly-low-key-probe-of-futures-and-prediction-markets/"
   },
   {
-    "score": 66,
+    "score": 64,
     "pubdate": "2026-04-24-19-27-47 +0000",
     "source": "nypost",
     "headline": "Vegan meat mogul charged with strangling social media star ex in ritzy NYC hotel — where he was allegedly ‘hiding’ from crypto fraud suit",
@@ -36,24 +36,24 @@
   },
   {
     "score": 55,
+    "pubdate": "2026-04-24-13-59-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration announced criminal charges, sanctions and multimillion-dollar rewards aimed at combating online scams coming out of Southeast Asia and targeting Americans",
+    "link": "https://www.wsj.com/politics/policy/u-s-steps-up-crackdown-on-online-scams-directed-from-southeast-asia-f17f2d03"
+  },
+  {
+    "score": 50,
     "pubdate": "2026-04-24-16-01-00 +0000",
     "source": "wsj",
     "headline": "The unemployment rate is low. The stock market is high. Consumer spending is healthy. But ask Americans how they’re doing, and you’d think we were in a recession.",
     "link": "https://www.wsj.com/economy/most-americans-think-the-job-market-will-get-worse-heres-why-that-matters-d121585a"
   },
   {
-    "score": 54,
+    "score": 48,
     "pubdate": "2026-04-24-13-11-29 +0000",
     "source": "nypost",
     "headline": "Hegseth warns Iran laying mines violates cease-fire, won’t deny report it could take six months to clear the Strait of Hormuz",
     "link": "https://nypost.com/2026/04/24/us-news/pete-hegseth-warns-iran-laying-mines-violates-cease-fire-wont-deny-report-it-could-take-six-months-to-clear-the-strait-of-hormuz/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-04-24-19-29-09 +0000",
-    "source": "nyt",
-    "headline": "Venice Biennale Bars Awards for Countries Facing Crimes Against Humanity Charges",
-    "link": "https://www.nytimes.com/2026/04/24/arts/venice-biennale-russia-israel.html"
   },
   {
     "score": 47,
@@ -63,7 +63,7 @@
     "link": "https://www.startribune.com/could-vance-boelter-get-the-death-penalty-if-convicted-decision-now-rests-with-justice-department-in-dc/601795871"
   },
   {
-    "score": 46,
+    "score": 44,
     "pubdate": "2026-04-24-00-58-58 +0000",
     "source": "bbc",
     "headline": "White House memo claims mass AI theft by Chinese firms",
