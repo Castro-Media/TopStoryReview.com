@@ -1,45 +1,52 @@
 [
   {
-    "score": 440,
+    "score": 442,
     "pubdate": "2026-04-22-00-32-17 +0000",
     "source": "nyt",
     "headline": "Trump and Iran Face Off in Iran War Negotiations",
     "link": "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html"
   },
   {
-    "score": 174,
+    "score": 170,
     "pubdate": "2026-04-23-10-00-00 +0000",
     "source": "latimes",
     "headline": "California's rail systems need more riders. High gas prices could be fueling a new surge",
     "link": "https://www.latimes.com/california/story/2026-04-23/californias-rail-systems-need-more-riders-high-gas-prices-could-be-fueling-new-surge"
   },
   {
-    "score": 124,
-    "pubdate": "2026-04-22-14-21-12 +0000",
-    "source": "cbc",
-    "headline": "At least 5 killed in Israeli strikes on south Lebanon, state media says, ahead of scheduled talks",
-    "link": "https://www.cbc.ca/news/world/israel-lebanon-talks-strike-9.7172966?cmp=rss"
-  },
-  {
-    "score": 121,
-    "pubdate": "2026-04-23-01-55-27 +0000",
+    "score": 135,
+    "pubdate": "2026-04-24-06-56-27 +0000",
     "source": "nypost",
-    "headline": "Lufthansa slashes 20K flights to save jet fuel as Iran war drives up oil prices",
-    "link": "https://nypost.com/2026/04/22/world-news/lufthansa-slashes-20k-flights-as-iran-war-drives-up-oil-prices/"
+    "headline": "Israel, Lebanon extend cease-fire as Trump seeks ‘best deal’ with Iran",
+    "link": "https://nypost.com/2026/04/24/world-news/israel-lebanon-extend-cease-fire-as-trump-seeks-best-deal-with-iran/"
   },
   {
-    "score": 115,
+    "score": 117,
     "pubdate": "2026-04-19-23-07-52 +0000",
     "source": "bbc",
     "headline": "'They told me he was dead': Children born near Kenyan army base learn truth about UK soldier dads",
     "link": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 112,
-    "pubdate": "2026-04-22-20-12-03 +0000",
-    "source": "bbc",
-    "headline": "Tracking ships under fire in the Strait of Hormuz",
-    "link": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss"
+    "score": 111,
+    "pubdate": "2026-04-23-01-55-27 +0000",
+    "source": "nypost",
+    "headline": "Lufthansa slashes 20K flights to save jet fuel as Iran war drives up oil prices",
+    "link": "https://nypost.com/2026/04/22/world-news/lufthansa-slashes-20k-flights-as-iran-war-drives-up-oil-prices/"
+  },
+  {
+    "score": 106,
+    "pubdate": "2026-04-22-14-00-00 +0000",
+    "source": "wsj",
+    "headline": "India’s Factory Workers Were Getting By. Then the Strait of Hormuz Closed.",
+    "link": "https://www.wsj.com/world/india/indias-factory-workers-were-getting-by-then-the-strait-of-hormuz-closed-76003964"
+  },
+  {
+    "score": 101,
+    "pubdate": "2026-04-22-14-21-12 +0000",
+    "source": "cbc",
+    "headline": "At least 5 killed in Israeli strikes on south Lebanon, state media says, ahead of scheduled talks",
+    "link": "https://www.cbc.ca/news/world/israel-lebanon-talks-strike-9.7172966?cmp=rss"
   },
   {
     "score": 97,
@@ -56,17 +63,10 @@
     "link": "https://www.wsj.com/politics/policy/lawmakers-grilled-rfk-jr-seven-times-in-a-week-here-are-the-key-takeaways-f01ac301"
   },
   {
-    "score": 90,
-    "pubdate": "2026-04-22-16-58-00 +0000",
+    "score": 91,
+    "pubdate": "2026-04-24-06-39-00 +0000",
     "source": "wsj",
-    "headline": "More than a year into President Trump’s immigration crackdown, there is little evidence of widespread disruptions in the labor market, or of meaningful benefits to American workers",
-    "link": "https://www.wsj.com/economy/jobs/immigration-crackdown-labor-market-fcfed2d6"
-  },
-  {
-    "score": 82,
-    "pubdate": "2026-04-19-00-00-00 +0000",
-    "source": "wsj",
-    "headline": "Virginians face a ballot measure asking them whether to approve redrawing their state’s congressional districts, which would give a big lift to Democrats’ goal of taking back the U.S. House",
-    "link": "https://www.wsj.com/politics/elections/virginia-congressional-map-ballot-measure-b12f9b2a"
+    "headline": "The Trump administration announced criminal charges, sanctions and multimillion-dollar rewards aimed at combating online scams coming out of Southeast Asia and targeting Americans",
+    "link": "https://www.wsj.com/politics/policy/u-s-steps-up-crackdown-on-online-scams-directed-from-southeast-asia-f17f2d03"
   }
 ]
