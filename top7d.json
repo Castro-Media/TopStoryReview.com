@@ -1,6 +1,6 @@
 [
   {
-    "score": 312,
+    "score": 305,
     "pubdate": "2026-04-22-21-43-55 +0000",
     "source": "nyt",
     "headline": "How the War Powers Act Could Pressure Trump to End the Iran War",
@@ -28,18 +28,25 @@
     "link": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 120,
-    "pubdate": "2026-04-24-13-11-29 +0000",
-    "source": "nypost",
-    "headline": "Hegseth warns Iran laying mines violates cease-fire, won’t deny report it could take six months to clear the Strait of Hormuz",
-    "link": "https://nypost.com/2026/04/24/us-news/pete-hegseth-warns-iran-laying-mines-violates-cease-fire-wont-deny-report-it-could-take-six-months-to-clear-the-strait-of-hormuz/"
-  },
-  {
-    "score": 108,
+    "score": 112,
     "pubdate": "2026-04-25-01-00-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration has lobbied against legislation to regulate artificial intelligence in at least six Republican-led states, deepening a split in the party over the White House’s industry-friendly AI agenda",
     "link": "https://www.wsj.com/politics/policy/trump-republican-state-ai-regulation-74fd83c6"
+  },
+  {
+    "score": 103,
+    "pubdate": "2026-04-22-15-48-12 +0000",
+    "source": "nyt",
+    "headline": "Attacks along the Israel-Lebanon border put a cease-fire under strain.",
+    "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks/attacks-along-the-israel-lebanon-border-put-a-cease-fire-under-strain"
+  },
+  {
+    "score": 99,
+    "pubdate": "2026-04-22-16-58-00 +0000",
+    "source": "wsj",
+    "headline": "More than a year into President Trump’s immigration crackdown, there is little evidence of widespread disruptions in the labor market, or of meaningful benefits to American workers",
+    "link": "https://www.wsj.com/economy/jobs/immigration-crackdown-labor-market-fcfed2d6"
   },
   {
     "score": 99,
@@ -49,14 +56,7 @@
     "link": "https://www.nytimes.com/2026/04/21/world/middleeast/palestinians-killed-israeli-shooting-west-bank-school.html"
   },
   {
-    "score": 88,
-    "pubdate": "2026-04-22-16-58-00 +0000",
-    "source": "wsj",
-    "headline": "More than a year into President Trump’s immigration crackdown, there is little evidence of widespread disruptions in the labor market, or of meaningful benefits to American workers",
-    "link": "https://www.wsj.com/economy/jobs/immigration-crackdown-labor-market-fcfed2d6"
-  },
-  {
-    "score": 85,
+    "score": 86,
     "pubdate": "2026-04-23-17-00-11 +0000",
     "source": "wapo",
     "headline": "Once accused of election fraud, former small-town mayor leaves court to applause",
@@ -64,9 +64,9 @@
   },
   {
     "score": 84,
-    "pubdate": "2026-04-23-10-00-00 +0000",
+    "pubdate": "2026-04-22-10-00-00 +0000",
     "source": "latimes",
-    "headline": "A $40-million project will clean MacArthur Lake. Will it help fix the park?",
-    "link": "https://www.latimes.com/california/story/2026-04-23/macarthur-park-stormwater-40m-project"
+    "headline": "Apple's next era: After Tim Cook's dream run, new CEO has to help the company catch up",
+    "link": "https://www.latimes.com/business/story/2026-04-22/apples-next-era-after-tim-cooks-dream-run-new-ceo-has-to-help-company-catch-up"
   }
 ]

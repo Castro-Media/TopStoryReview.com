@@ -1,17 +1,10 @@
 [
   {
-    "score": 143,
+    "score": 146,
     "pubdate": "2026-04-24-14-30-32 +0000",
     "source": "nypost",
     "headline": "Trump DOJ dropping criminal probe of Fed Chair Jerome Powell over central bank renovations",
     "link": "https://nypost.com/2026/04/24/us-news/trump-doj-dropping-criminal-probe-of-jerome-powell-over-central-bank-renovations/"
-  },
-  {
-    "score": 132,
-    "pubdate": "2026-04-25-03-35-19 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Witkoff and Kushner to Go to Pakistan for Talks on Iran",
-    "link": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz"
   },
   {
     "score": 92,
@@ -21,11 +14,18 @@
     "link": "https://www.wsj.com/economy/central-banking/justice-department-will-end-probe-of-powell-clearing-path-for-kevin-warsh-e6774dfa"
   },
   {
-    "score": 68,
-    "pubdate": "2026-04-25-01-00-00 +0000",
+    "score": 84,
+    "pubdate": "2026-04-24-17-19-26 +0000",
+    "source": "nypost",
+    "headline": "US negotiators heading to Pakistan Saturday for Iran talks, White House confirms",
+    "link": "https://nypost.com/2026/04/24/us-news/us-negotiators-heading-to-pakistan-saturday-for-iran-talks-white-house-confirms/"
+  },
+  {
+    "score": 64,
+    "pubdate": "2026-04-24-14-00-00 +0000",
     "source": "wsj",
-    "headline": "The Trump administration has lobbied against legislation to regulate artificial intelligence in at least six Republican-led states, deepening a split in the party over the White House’s industry-friendly AI agenda",
-    "link": "https://www.wsj.com/politics/policy/trump-republican-state-ai-regulation-74fd83c6"
+    "headline": "The road to war last year featured rising profits at the weapons makers that supply the Pentagon with bombs, missiles and planes. Yet the war has been a different story.",
+    "link": "https://www.wsj.com/politics/national-security/war-buoys-arms-makers-sales-but-not-their-stocks-9b629d6c"
   },
   {
     "score": 58,
@@ -35,38 +35,38 @@
     "link": "https://nypost.com/2026/04/24/world-news/benjamin-netanyahu-reveals-he-was-treated-for-early-stage-prostate-cancer/"
   },
   {
-    "score": 57,
-    "pubdate": "2026-04-24-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "California's jet fuel stockpile hits two-year low, putting 'black cloud' over summer travel",
-    "link": "https://www.latimes.com/business/story/2026-04-24/california-jet-fuel-inventory-dips-to-two-year-low-as-war-strangles-global-oil-supply"
+    "score": 54,
+    "pubdate": "2026-04-24-19-29-09 +0000",
+    "source": "nyt",
+    "headline": "Venice Biennale Bars Awards for Countries Facing Crimes Against Humanity Charges",
+    "link": "https://www.nytimes.com/2026/04/24/arts/venice-biennale-russia-israel.html"
   },
   {
-    "score": 51,
-    "pubdate": "2026-04-24-13-11-29 +0000",
-    "source": "nypost",
-    "headline": "Hegseth warns Iran laying mines violates cease-fire, won’t deny report it could take six months to clear the Strait of Hormuz",
-    "link": "https://nypost.com/2026/04/24/us-news/pete-hegseth-warns-iran-laying-mines-violates-cease-fire-wont-deny-report-it-could-take-six-months-to-clear-the-strait-of-hormuz/"
-  },
-  {
-    "score": 47,
+    "score": 50,
     "pubdate": "2026-04-24-16-01-00 +0000",
     "source": "wsj",
     "headline": "The unemployment rate is low. The stock market is high. Consumer spending is healthy. But ask Americans how they’re doing, and you’d think we were in a recession.",
     "link": "https://www.wsj.com/economy/most-americans-think-the-job-market-will-get-worse-heres-why-that-matters-d121585a"
   },
   {
-    "score": 46,
+    "score": 49,
     "pubdate": "2026-04-24-23-58-03 +0000",
     "source": "nypost",
     "headline": "HUD urges real estate industry to share neighborhood school and crime data after listing platforms stopped under Biden",
     "link": "https://nypost.com/2026/04/24/us-news/hud-encourages-real-estate-industry-to-share-neighborhood-school-and-crime-data-after-listing-platforms-stopped-under-biden-wrongly-equated-with-racial-discrimination/"
   },
   {
-    "score": 44,
-    "pubdate": "2026-04-24-19-29-09 +0000",
-    "source": "nyt",
-    "headline": "Venice Biennale Bars Awards for Countries Facing Crimes Against Humanity Charges",
-    "link": "https://www.nytimes.com/2026/04/24/arts/venice-biennale-russia-israel.html"
+    "score": 48,
+    "pubdate": "2026-04-24-08-23-36 +0000",
+    "source": "bbc",
+    "headline": "South Korea police arrest man for posting AI photo of runaway wolf",
+    "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-04-24-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "California's jet fuel stockpile hits two-year low, putting 'black cloud' over summer travel",
+    "link": "https://www.latimes.com/business/story/2026-04-24/california-jet-fuel-inventory-dips-to-two-year-low-as-war-strangles-global-oil-supply"
   }
 ]
