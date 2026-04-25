@@ -1,20 +1,20 @@
 [
   {
-    "score": 165,
+    "score": 155,
     "pubdate": "2026-04-25-17-03-26 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks",
     "link": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan"
   },
   {
-    "score": 88,
+    "score": 81,
     "pubdate": "2026-04-24-21-54-00 +0000",
     "source": "wsj",
     "headline": "The Justice Department said it would end its criminal investigation of Federal Reserve Chair Jerome Powell, clearing the obstacle that has stalled Kevin Warsh’s confirmation as his successor",
     "link": "https://www.wsj.com/economy/central-banking/justice-department-will-end-probe-of-powell-clearing-path-for-kevin-warsh-e6774dfa"
   },
   {
-    "score": 68,
+    "score": 64,
     "pubdate": "2026-04-25-16-55-54 +0000",
     "source": "nyt",
     "headline": "At White House Correspondents Dinner, Trump Will Dine With Reporters He’s Been Roasting",
@@ -42,13 +42,6 @@
     "link": "https://www.bbc.com/news/videos/ceqw389d5yvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 39,
-    "pubdate": "2026-04-25-14-18-53 +0000",
-    "source": "nyt",
-    "headline": "Lebanese Ask, ‘What Cease-Fire?’ as Israel and Hezbollah Trade Attacks in the South",
-    "link": "https://www.nytimes.com/2026/04/25/world/middleeast/lebanon-israel-cease-fire.html"
-  },
-  {
     "score": 36,
     "pubdate": "2026-04-24-22-42-22 +0000",
     "source": "missionlocal",
@@ -57,16 +50,23 @@
   },
   {
     "score": 35,
+    "pubdate": "2026-04-25-14-18-53 +0000",
+    "source": "nyt",
+    "headline": "Lebanese Ask, ‘What Cease-Fire?’ as Israel and Hezbollah Trade Attacks in the South",
+    "link": "https://www.nytimes.com/2026/04/25/world/middleeast/lebanon-israel-cease-fire.html"
+  },
+  {
+    "score": 34,
     "pubdate": "2026-04-25-01-00-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration has lobbied against legislation to regulate artificial intelligence in at least six Republican-led states, deepening a split in the party over the White House’s industry-friendly AI agenda",
     "link": "https://www.wsj.com/politics/policy/trump-republican-state-ai-regulation-74fd83c6"
   },
   {
-    "score": 34,
-    "pubdate": "2026-04-24-22-54-14 +0000",
-    "source": "bbc",
-    "headline": "'My living nightmare' - Rob Reiner's son bares soul on how he found out parents were dead",
-    "link": "https://www.bbc.com/news/articles/c74v2enw8l7o?at_medium=RSS&at_campaign=rss"
+    "score": 33,
+    "pubdate": "2026-04-24-21-42-00 +0000",
+    "source": "wsj",
+    "headline": "The Justice Department will end its Powell probe, federal firing-squad executions are back, and startup cowboys mosey on over to Texas. Read more in today’s What’s News newsletter:",
+    "link": "https://www.wsj.com/politics/policy/with-powells-probe-dropped-all-eyes-on-warshs-fed-nomination-8148ca0d"
   }
 ]
