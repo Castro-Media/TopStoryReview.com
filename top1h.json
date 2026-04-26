@@ -1,9 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-04-25-23-03-40 +0000",
+    "score": 51,
+    "pubdate": "2026-04-26-01-16-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump was evacuated from the White House Correspondents’ Dinner in Washington, D.C., after loud sounds were heard in the ballroom of the hotel where the event is being staged",
+    "link": "https://www.wsj.com/us-news/trump-evacuated-white-house-correspondents-dinner-00f54d75"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-04-26-00-33-41 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks",
+    "link": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-26-01-17-35 +0000",
+    "source": "startribune",
+    "headline": "Live from Game 4: Timberwolves’ Donte DiVincenzo out after noncontact injury 71 seconds into game",
+    "link": "https://www.startribune.com/minnesota-timberwolves-denver-nuggets-game4-live-blog-nba-playoffs-jokic-edwards-gobert-murray/601763002"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-26-01-07-47 +0000",
+    "source": "nyt",
+    "headline": "Trump Fires Board Members of Group That Oversees U.S. Science Funding",
+    "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-fires-board-members-scientific-research-group.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-26-00-56-40 +0000",
     "source": "nypost",
-    "headline": "Crews roll out blue coating on Lincoln Memorial Reflecting Pool",
-    "link": "https://nypost.com/2026/04/25/us-news/crews-roll-out-blue-coating-on-lincoln-memorial-reflecting-pool/"
+    "headline": "Trump rushed out of White House Correspondents’ Dinner after shots fired outside ballroom, gunman down",
+    "link": "https://nypost.com/2026/04/25/us-news/shots-fired-at-white-house-correspondents-dinner-trump-evacuated/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-26-00-33-39 +0000",
+    "source": "nyt",
+    "headline": "Trump Cancels Witkoff and Kushner’s Trip for Iran Talks, Saying, ‘We Have All the Cards.’",
+    "link": "https://www.nytimes.com/2026/04/25/world/middleeast/trump-witkoff-kushner-pakistan-trip-canceled.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-26-00-46-48 +0000",
+    "source": "nypost",
+    "headline": "Staggering drop in LA tourism as rest of California sees spike in visitors",
+    "link": "https://nypost.com/2026/04/25/us-news/staggering-drop-in-la-tourism-as-nearly-every-other-california-destination-saw-gains/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-26-01-13-22 +0000",
+    "source": "startribune",
+    "headline": "Live from Game 4: Matt Boldy scores in overtime to lift Wild past Stars 3-2",
+    "link": "https://www.startribune.com/minnesota-wild-dallas-stars-live-blog-game4-nhl-stanley-cup-playoffs/601762546"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-26-00-35-00 +0000",
+    "source": "latimes",
+    "headline": "Growing brush fire triggers evacuation warnings in Orange County",
+    "link": "https://www.latimes.com/california/story/2026-04-25/carbon-fire-evacuation-warnings-orange-county"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-04-26-00-45-30 +0000",
+    "source": "48hills",
+    "headline": "Joffrey Ballet plunged into bizarre and wondrous ‘Midsummer’s Night Dream’",
+    "link": "https://48hills.org/2026/04/joffrey-ballet-plunged-into-bizarre-and-wondrous-midsummers-night-dream/"
   }
 ]
