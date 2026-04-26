@@ -1,24 +1,17 @@
 [
   {
-    "score": 264,
+    "score": 268,
     "pubdate": "2026-04-26-05-18-00 +0000",
     "source": "wsj",
     "headline": "President Trump is safe after what he described as a shooting at the White House Correspondents’ Dinner, where he was due to address the annual event in here on Saturday night",
     "link": "https://www.wsj.com/us-news/trump-evacuated-white-house-correspondents-dinner-00f54d75"
   },
   {
-    "score": 80,
+    "score": 79,
     "pubdate": "2026-04-25-21-34-12 +0000",
     "source": "bbc",
     "headline": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
     "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-04-26-01-58-52 +0000",
-    "source": "nypost",
-    "headline": "White House Correspondents’ Dinner gunman ‘assembled long weapon in unsecured room’ before firing near ballroom, volunteer reveals",
-    "link": "https://nypost.com/2026/04/25/us-news/white-house-correspondents-dinner-gunman-assembled-long-weapon-in-unsecured-room-before-firing-volunteer/"
   },
   {
     "score": 52,
@@ -28,32 +21,39 @@
     "link": "https://www.nytimes.com/2026/04/25/world/africa/mali-attacks-jnim-al-qaeda-bamako.html"
   },
   {
+    "score": 51,
+    "pubdate": "2026-04-26-01-58-52 +0000",
+    "source": "nypost",
+    "headline": "White House Correspondents’ Dinner gunman ‘assembled long weapon in unsecured room’ before firing near ballroom, volunteer reveals",
+    "link": "https://nypost.com/2026/04/25/us-news/white-house-correspondents-dinner-gunman-assembled-long-weapon-in-unsecured-room-before-firing-volunteer/"
+  },
+  {
     "score": 44,
-    "pubdate": "2026-04-25-09-02-37 +0000",
-    "source": "nyt",
-    "headline": "Under Trump, Green Card Seekers Face New Scrutiny for Views on Israel",
-    "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-green-cards-scrutiny.html"
-  },
-  {
-    "score": 40,
-    "pubdate": "2026-04-25-17-40-51 +0000",
+    "pubdate": "2026-04-25-14-57-47 +0000",
     "source": "bbc",
-    "headline": "Mexico says US agents killed in crash weren't permitted to operate there",
-    "link": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss"
+    "headline": "Two killed in strike on alleged drug boat in Pacific Ocean, US military says",
+    "link": "https://www.bbc.com/news/articles/cge03pjv2zqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 37,
+    "score": 36,
     "pubdate": "2026-04-26-03-01-49 +0000",
     "source": "nypost",
     "headline": "Cole Allen, 31-year-old California teacher, ID’d as White House Correspondents’ Dinner shooter",
     "link": "https://nypost.com/2026/04/25/us-news/gunman-at-white-house-correspondents-dinner-identified-as-cole-allen-from-california/"
   },
   {
-    "score": 36,
+    "score": 34,
     "pubdate": "2026-04-26-01-59-28 +0000",
     "source": "nypost",
     "headline": "Chaos at the White House Correspondents’ Dinner after shots rang out and Trump was evacuated: photos",
     "link": "https://nypost.com/2026/04/25/us-news/chaos-at-the-white-house-correspondents-dinner-after-shots-rang-out-and-trump-was-evacuated-photos/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-04-26-09-04-17 +0000",
+    "source": "nyt",
+    "headline": "What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base",
+    "link": "https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html"
   },
   {
     "score": 32,
@@ -63,7 +63,7 @@
     "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html"
   },
   {
-    "score": 32,
+    "score": 31,
     "pubdate": "2026-04-25-16-45-12 +0000",
     "source": "nypost",
     "headline": "King Charles will be treated to historic military first during US visit, White House schedule reveals",
