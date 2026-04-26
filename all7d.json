@@ -1,9 +1,417 @@
 [
   {
-    "headline": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents’ Dinner",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
+    "headline": "What Our Reporter Saw During the D.C. Shooting",
+    "link": "https://www.nytimes.com/video/us/politics/100000010863950/white-house-correspondents-dinner-trump-gunman.html",
     "source": "nyt",
-    "pubdate": "2026-04-26-17-03-19 +0000"
+    "pubdate": "2026-04-26-19-11-34 +0000"
+  },
+  {
+    "headline": "Inside WHCD shooter’s deadly arsenal of weapons — and the two California stores he bought them",
+    "link": "https://nypost.com/2026/04/26/us-news/cole-allen-bought-guns-at-two-california-stores-before-whcd-attack/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-19-08-11 +0000"
+  },
+  {
+    "headline": "Colombia Hit by Deadliest Wave of Bombings for Civilians in Years",
+    "link": "https://www.wsj.com/world/americas/colombia-hit-by-deadliest-wave-of-bombings-for-civilians-in-years-db2c47c8",
+    "source": "wsj",
+    "pubdate": "2026-04-26-19-08-00 +0000"
+  },
+  {
+    "headline": "Historic feet: London Marathon runner is first person to finish in under 2 hours",
+    "link": "https://nypost.com/2026/04/26/world-news/historic-feet-london-marathon-runner-is-first-person-to-finish-in-under-2-hours/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-19-06-06 +0000"
+  },
+  {
+    "headline": "Zelensky marks 40th anniversary of Chernobyl disaster with warning on Russian strikes near infamous nuclear plant",
+    "link": "https://nypost.com/2026/04/26/world-news/zelensky-marks-40th-anniversary-of-chernobyl-disaster-with-warning-on-russian-strikes-near-infamous-nuclear-plant/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-18-54-58 +0000"
+  },
+  {
+    "headline": "Mayor Frey, Rep. Tom Emmer in attendance, unharmed at White House correspondents’ dinner shooting",
+    "link": "https://www.startribune.com/mayor-frey-in-attendance-at-white-house-correspondents-dinner-during-reported-shooting/601800541",
+    "source": "startribune",
+    "pubdate": "2026-04-26-18-53-40 +0000"
+  },
+  {
+    "headline": "NJ man raked in crazy amount of money every day after setting up illegal weed vending machines: prosecutor",
+    "link": "https://nypost.com/2026/04/26/us-news/new-jersey-man-raked-in-20k-a-day-from-illegal-marijuana-vending-machines-prosecutors/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-18-51-25 +0000"
+  },
+  {
+    "headline": "Gaza Holds First Local Election in 20 Years",
+    "link": "https://www.wsj.com/world/middle-east/gaza-election-vote-b25d8206",
+    "source": "wsj",
+    "pubdate": "2026-04-26-18-50-00 +0000"
+  },
+  {
+    "headline": "Poilievre demands Carney cap federal deficit at $31B ahead of spring economic update",
+    "link": "https://www.cbc.ca/news/politics/poilievre-carney-budget-update-us-trade-war-donald-trump-tariffs-9.7177934?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-04-26-18-49-17 +0000"
+  },
+  {
+    "headline": "Trump Praises WHCA President Weijia Jiang After Shooting at Dinner",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/weijia-jiang-cbs-whca-shooting-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-49-15 +0000"
+  },
+  {
+    "headline": "Trump Praises WHCA President Weijia Jiang After Shooting at Dinner",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/weijia-jiang-cbs-whca-shooting-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-49-15 +0000"
+  },
+  {
+    "headline": "DC gala shooting suspect aired grievances against Trump in writings to family",
+    "link": "https://www.startribune.com/gunman-at-trump-dinner-was-believed-to-have-been-targeting-administration-officials-blanche-says/601801503",
+    "source": "startribune",
+    "pubdate": "2026-04-26-18-45-02 +0000"
+  },
+  {
+    "headline": "Powerful Storm Hits North Texas and Kills 2 as Thousands Remain Without Power",
+    "link": "https://www.nytimes.com/2026/04/26/us/texas-storm-deaths-hail-wind-runaway-bay.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-44-28 +0000"
+  },
+  {
+    "headline": "Cushman & Wakefield’s 101 Park Ave. at 98% after three new leases",
+    "link": "https://nypost.com/2026/04/26/business/cushman-wakefields-101-park-ave-at-98-after-three-new-leases/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-18-40-58 +0000"
+  },
+  {
+    "headline": "AIDS Creeps Back in Parts of Zambia, a Year After U.S. Cuts to H.I.V. Assistance",
+    "link": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-38-33 +0000"
+  },
+  {
+    "headline": "AIDS Creeps Back in Parts of Zambia, a Year After U.S. Cuts to H.I.V. Assistance",
+    "link": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-38-33 +0000"
+  },
+  {
+    "headline": "Gas giant plows $10M into ‘Stop Steyer’ crusade to unseat billionaire as governor favorite",
+    "link": "https://nypost.com/2026/04/26/us-news/pge-plows-10m-into-stop-tom-steyer-crusade-in-california-governor-race/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-18-35-23 +0000"
+  },
+  {
+    "headline": "Gas giant plows $10M into ‘Stop Steyer’ crusade to unseat billionaire as governor favorite",
+    "link": "https://nypost.com/2026/04/26/us-news/pge-plows-10m-into-stop-tom-steyer-crusade-in-california-governor-race/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-18-35-23 +0000"
+  },
+  {
+    "headline": "King's US visit will go ahead as planned, Buckingham Palace says",
+    "link": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-26-18-33-04 +0000"
+  },
+  {
+    "headline": "King's US visit will go ahead as planned, Buckingham Palace says",
+    "link": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-26-18-33-04 +0000"
+  },
+  {
+    "headline": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold",
+    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-25-30 +0000"
+  },
+  {
+    "headline": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold",
+    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-25-30 +0000"
+  },
+  {
+    "headline": "Correspondents’ Dinner Suspect Appears to Have Targeted Trump Officials, Blanche Says",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/gunman-shooting-motive-correspondents-dinner-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-24-56 +0000"
+  },
+  {
+    "headline": "Correspondents’ Dinner Suspect Appears to Have Targeted Trump Officials, Blanche Says",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/gunman-shooting-motive-correspondents-dinner-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-24-56 +0000"
+  },
+  {
+    "headline": "Shooting Prompts Discussions About King Charles III and Queen Camilla’s U.S. Visit",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/washington-shooting-king-charles-camilla-us-visit.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-24-51 +0000"
+  },
+  {
+    "headline": "Shooting Prompts Discussions About King Charles III and Queen Camilla’s U.S. Visit",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/washington-shooting-king-charles-camilla-us-visit.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-24-51 +0000"
+  },
+  {
+    "headline": "Shooting Prompts Discussions About King Charles III and Queen Camilla’s U.S. Visit",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/washington-shooting-king-charles-camilla-us-visit.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-24-51 +0000"
+  },
+  {
+    "headline": "Family Detained for Months at Texas ICE Facility Released",
+    "link": "https://www.nytimes.com/2026/04/26/us/family-ice-detention-released-dilley-texas.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-19-18 +0000"
+  },
+  {
+    "headline": "What Our Reporter Saw During the D.C. Shooting",
+    "link": "https://www.nytimes.com/video/us/politics/100000010863950/white-house-correspondents-dinner-trump-gunman.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-16-49 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/26/us/correspondents-dinner-shooting-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-15-05 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/26/us/correspondents-dinner-shooting-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-15-05 +0000"
+  },
+  {
+    "headline": "What to Know About U.S.-Iran Peace Talks",
+    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/us-iran-peace-talks-pakistan.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-11-12 +0000"
+  },
+  {
+    "headline": "What to Know About U.S.-Iran Peace Talks",
+    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/us-iran-peace-talks-pakistan.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-11-12 +0000"
+  },
+  {
+    "headline": "One of Israel’s famed Iron Dome systems sent to United Arab Emirates",
+    "link": "https://nypost.com/2026/04/26/world-news/one-of-israels-famed-iron-dome-systems-sent-to-united-arab-emirates/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-18-09-06 +0000"
+  },
+  {
+    "headline": "D.C. gala gunman wrote 'manifesto,' traveled from California before attack, officials say",
+    "link": "https://www.latimes.com/world-nation/story/2026-04-26/d-c-gunman-penned-manifesto-traveled-from-california",
+    "source": "latimes",
+    "pubdate": "2026-04-26-18-08-19 +0000"
+  },
+  {
+    "headline": "D.C. gala gunman wrote 'manifesto,' traveled from California before attack, officials say",
+    "link": "https://www.latimes.com/world-nation/story/2026-04-26/d-c-gunman-penned-manifesto-traveled-from-california",
+    "source": "latimes",
+    "pubdate": "2026-04-26-18-08-19 +0000"
+  },
+  {
+    "headline": "How the War in Iran Is Draining the U.S. of Critical Weapons",
+    "link": "https://www.nytimes.com/video/us/politics/100000010857432/how-the-war-in-iran-is-draining-the-us-of-critical-weapons.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-00-47 +0000"
+  },
+  {
+    "headline": "How the War in Iran Is Draining the U.S. of Critical Weapons",
+    "link": "https://www.nytimes.com/video/us/politics/100000010857432/how-the-war-in-iran-is-draining-the-us-of-critical-weapons.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-18-00-47 +0000"
+  },
+  {
+    "headline": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
+    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-17-57-24 +0000"
+  },
+  {
+    "headline": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
+    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-17-57-24 +0000"
+  },
+  {
+    "headline": "2 gunmen involved in mass shooting near Indiana U. that left 9 injured: cops",
+    "link": "https://nypost.com/2026/04/26/us-news/2-gunmen-involved-in-mass-shooting-near-indiana-university-cops/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-54-50 +0000"
+  },
+  {
+    "headline": "'Michael' moonwalks into a big box office debut",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-26/michael-box-office-ticket-sales-totals",
+    "source": "latimes",
+    "pubdate": "2026-04-26-17-53-42 +0000"
+  },
+  {
+    "headline": "Gavin Newsom issues awkward statement on WHCD shooting — hours after trolling event",
+    "link": "https://nypost.com/2026/04/26/us-news/gavin-newsom-issues-awkward-statement-on-whcd-shooting-hours-after-trolling-event/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-47-44 +0000"
+  },
+  {
+    "headline": "Gavin Newsom issues awkward statement on WHCD shooting — hours after trolling event",
+    "link": "https://nypost.com/2026/04/26/us-news/gavin-newsom-issues-awkward-statement-on-whcd-shooting-hours-after-trolling-event/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-47-44 +0000"
+  },
+  {
+    "headline": "Woman seen snatching wine bottles in aftermath of White House Correspondents’ Dinner shooting",
+    "link": "https://nypost.com/2026/04/26/us-news/woman-seen-snatching-wine-bottles-in-aftermath-of-white-house-correspondents-dinner-shooting/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-47-19 +0000"
+  },
+  {
+    "headline": "Woman seen snatching wine bottles in aftermath of White House Correspondents’ Dinner shooting",
+    "link": "https://nypost.com/2026/04/26/us-news/woman-seen-snatching-wine-bottles-in-aftermath-of-white-house-correspondents-dinner-shooting/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-47-19 +0000"
+  },
+  {
+    "headline": "Dem DA whose sign is on WHCD shooter Cole Allen’s front lawn speaks out — revealing close ties to the family",
+    "link": "https://nypost.com/2026/04/26/us-news/dem-da-whose-sign-is-on-whcd-shooters-front-lawn-speaks-out/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-43-35 +0000"
+  },
+  {
+    "headline": "Dem DA whose sign is on WHCD shooter Cole Allen’s front lawn speaks out — revealing close ties to the family",
+    "link": "https://nypost.com/2026/04/26/us-news/dem-da-whose-sign-is-on-whcd-shooters-front-lawn-speaks-out/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-43-35 +0000"
+  },
+  {
+    "headline": "Transit officials warn NY, NJ commuters to work from home during World Cup as rideshares put on notice",
+    "link": "https://nypost.com/2026/04/26/us-news/transit-officials-warn-ny-nj-commuters-to-work-from-home-during-world-cup-as-rideshares-put-on-notice/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-43-09 +0000"
+  },
+  {
+    "headline": "Dana White’s wild reaction to being present for WHCD shooting goes viral: ‘F–king awesome’",
+    "link": "https://nypost.com/2026/04/26/us-news/dana-whites-wild-reaction-to-being-present-for-whcd-shooting-goes-viral/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-42-05 +0000"
+  },
+  {
+    "headline": "Dana White’s wild reaction to being present for WHCD shooting goes viral: ‘F–king awesome’",
+    "link": "https://nypost.com/2026/04/26/us-news/dana-whites-wild-reaction-to-being-present-for-whcd-shooting-goes-viral/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-42-05 +0000"
+  },
+  {
+    "headline": "Iran and U.S. Sink Into Awkward Limbo of ‘No War, No Peace’",
+    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-17-41-06 +0000"
+  },
+  {
+    "headline": "Iran and U.S. Sink Into Awkward Limbo of ‘No War, No Peace’",
+    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-17-41-06 +0000"
+  },
+  {
+    "headline": "The security loopholes that allowed Cole Allen to get near White House Correspondents’ Dinner — as Trump says this proves need for his ballroom",
+    "link": "https://nypost.com/2026/04/26/us-news/the-security-loopholes-that-allowed-gunman-to-get-near-white-house-correspondents-dinner/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-40-07 +0000"
+  },
+  {
+    "headline": "The security loopholes that allowed Cole Allen to get near White House Correspondents’ Dinner — as Trump says this proves need for his ballroom",
+    "link": "https://nypost.com/2026/04/26/us-news/the-security-loopholes-that-allowed-gunman-to-get-near-white-house-correspondents-dinner/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-40-07 +0000"
+  },
+  {
+    "headline": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
+    "link": "https://www.nytimes.com/2026/04/24/world/middleeast/netanyahu-cancer-treatment.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-17-40-05 +0000"
+  },
+  {
+    "headline": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
+    "link": "https://www.nytimes.com/2026/04/24/world/middleeast/netanyahu-cancer-treatment.html",
+    "source": "nyt",
+    "pubdate": "2026-04-26-17-40-05 +0000"
+  },
+  {
+    "headline": "Suspect sprinted 60 feet, reached staircase to correspondents’ dinner ballroom",
+    "link": "https://www.washingtonpost.com/investigations/2026/04/26/correspondents-dinner-ballroom-security-suspect/",
+    "source": "wapo",
+    "pubdate": "2026-04-26-17-36-22 +0000"
+  },
+  {
+    "headline": "Illegal vendors swarm NYC’s Chinatown months after ICE raids in cat-and-mouse game with authorities",
+    "link": "https://nypost.com/2026/04/26/us-news/illegal-vendors-swarm-nycs-chinatown-months-after-ice-raids-in-cat-and-mouse-game-with-authorities/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-30-35 +0000"
+  },
+  {
+    "headline": "Opinion | Trump Stands Tall Under Fire",
+    "link": "https://www.wsj.com/opinion/trump-stands-tall-under-fire-045bb330",
+    "source": "wsj",
+    "pubdate": "2026-04-26-17-25-00 +0000"
+  },
+  {
+    "headline": "Opinion | Gambling by Another Name",
+    "link": "https://www.wsj.com/opinion/gambling-by-another-name-4c562389",
+    "source": "wsj",
+    "pubdate": "2026-04-26-17-24-00 +0000"
+  },
+  {
+    "headline": "Opinion | Gambling by Another Name",
+    "link": "https://www.wsj.com/opinion/gambling-by-another-name-4c562389?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-26-17-24-00 +0000"
+  },
+  {
+    "headline": "Mali defence minister killed in rebel attacks",
+    "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-26-17-23-46 +0000"
+  },
+  {
+    "headline": "‘Michael’ Sets New Box-Office Record for Biopics",
+    "link": "https://www.wsj.com/business/media/michael-sets-new-box-office-record-for-biopics-027d62b0?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-26-17-19-00 +0000"
+  },
+  {
+    "headline": "Mamdani acted like ‘Godfather’ mobster by pulling ‘dangerous’ stunt outside Ken Griffin’s pad to tout new wealth tax: ex-gov",
+    "link": "https://nypost.com/2026/04/26/us-news/mamdani-acted-like-godfather-mobster-in-dangerous-stunt-outside-ken-griffins-pad-ex-gov/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-15-29 +0000"
+  },
+  {
+    "headline": "NYC’s Third Avenue resurgence continuing with commercial, residential projects",
+    "link": "https://nypost.com/2026/04/26/business/third-avenues-resurgence-continuing-with-commercial-residential-projects/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-17-13-15 +0000"
+  },
+  {
+    "headline": "Five takeaways from the Lynx’s preseason victory at Washington",
+    "link": "https://www.startribune.com/five-takeaways-from-the-lynxs-preseason-victory-at-washington/601786594",
+    "source": "startribune",
+    "pubdate": "2026-04-26-17-07-52 +0000"
+  },
+  {
+    "headline": "Opinion | When ‘School Choice’ Is No Choice At All",
+    "link": "https://www.wsj.com/opinion/when-school-choice-is-no-choice-at-all-a9004ece",
+    "source": "wsj",
+    "pubdate": "2026-04-26-17-07-00 +0000"
+  },
+  {
+    "headline": "Opinion | U.S. Oil and Gas Fight Tyrants",
+    "link": "https://www.wsj.com/opinion/u-s-oil-and-gas-fight-tyrants-f6575dd2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-26-17-05-00 +0000"
   },
   {
     "headline": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents’ Dinner",
@@ -12,16 +420,10 @@
     "pubdate": "2026-04-26-17-03-19 +0000"
   },
   {
-    "headline": "In Deep Blue California, a G.O.P.-Backed Voter ID Proposal Makes the Ballot",
-    "link": "https://www.nytimes.com/2026/04/25/us/politics/california-voter-id-citizenship-ballot.html",
+    "headline": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents’ Dinner",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
     "source": "nyt",
-    "pubdate": "2026-04-26-17-00-14 +0000"
-  },
-  {
-    "headline": "In Deep Blue California, a G.O.P.-Backed Voter ID Proposal Makes the Ballot",
-    "link": "https://www.nytimes.com/2026/04/25/us/politics/california-voter-id-citizenship-ballot.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-17-00-14 +0000"
+    "pubdate": "2026-04-26-17-03-19 +0000"
   },
   {
     "headline": "Opinion | Cutting Law Degree Convolution",
@@ -30,12 +432,6 @@
     "pubdate": "2026-04-26-16-59-00 +0000"
   },
   {
-    "headline": "Media dinner shooting suspect wrote about targeting  administration officials, Trump says",
-    "link": "https://www.startribune.com/gunman-at-trump-dinner-was-believed-to-have-been-targeting-administration-officials-blanche-says/601801503",
-    "source": "startribune",
-    "pubdate": "2026-04-26-16-55-02 +0000"
-  },
-  {
     "headline": "After Shooting, Trump Demands Approval for His White House Ballroom",
     "link": "https://www.nytimes.com/2026/04/26/us/politics/trump-white-house-ballroom-dinner-shooting.html",
     "source": "nyt",
@@ -48,22 +444,10 @@
     "pubdate": "2026-04-26-16-50-13 +0000"
   },
   {
-    "headline": "Critics blast Trump's purge of National Science Board: 'Wholesale evisceration of American leadership in science'",
+    "headline": "Critics slam Trump's purge of National Science Board: 'Wholesale evisceration of American leadership in science'",
     "link": "https://www.latimes.com/world-nation/story/2026-04-26/trump-purges-national-science-board-scientists-warn-of-ai-shift",
     "source": "latimes",
     "pubdate": "2026-04-26-16-48-29 +0000"
-  },
-  {
-    "headline": "Correspondents’ Dinner Suspect Appears to Have Targeted Trump Officials, Blanche Says",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/gunman-shooting-motive-correspondents-dinner-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-16-47-52 +0000"
-  },
-  {
-    "headline": "Correspondents’ Dinner Suspect Appears to Have Targeted Trump Officials, Blanche Says",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/gunman-shooting-motive-correspondents-dinner-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-16-47-52 +0000"
   },
   {
     "headline": "WHCD shooting suspect Cole Allen mocked lack of security on every leg of cross-country journey in manifesto: ‘Actually insane’",
@@ -93,7 +477,7 @@
     "headline": "‘Michael’ is Expected to Collect $200 Million in First Weekend, Shaking Off Bad Reviews",
     "link": "https://www.nytimes.com/2026/04/25/business/media/box-office-michael.html",
     "source": "nyt",
-    "pubdate": "2026-04-26-16-42-10 +0000"
+    "pubdate": "2026-04-26-16-42-11 +0000"
   },
   {
     "headline": "White House Correspondents’ Dinner Is a Washington Institution",
@@ -132,22 +516,16 @@
     "pubdate": "2026-04-26-16-30-18 +0000"
   },
   {
+    "headline": "Gas station owner speaks for every Californian with four-word message to Gavin Newsom — as another hike looms",
+    "link": "https://nypost.com/2026/04/26/us-news/gas-station-owner-speaks-for-every-californian-with-four-word-message-to-gavin-newsom-as-another-hike-looms/",
+    "source": "nypost",
+    "pubdate": "2026-04-26-16-30-18 +0000"
+  },
+  {
     "headline": "Aborted Pakistan Trip Leaves Trump With Tough Choices on Iran Talks",
     "link": "https://www.wsj.com/world/middle-east/aborted-pakistan-trip-leaves-trump-with-tough-choices-on-iran-talks-e062f8fd",
     "source": "wsj",
     "pubdate": "2026-04-26-16-27-00 +0000"
-  },
-  {
-    "headline": "Final decision expected on King's US visit after DC shooting",
-    "link": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-26-16-26-25 +0000"
-  },
-  {
-    "headline": "Final decision expected on King's US visit after DC shooting",
-    "link": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-26-16-26-25 +0000"
   },
   {
     "headline": "The shooting outside Trump’s dinner with the press has left Washington shaken, the soldier charged over bets on Maduro chased business success while in the Army, and San Francisco loves Chonkers the sea lion. Read more in today’s What’s News newsletter:",
@@ -166,18 +544,6 @@
     "link": "https://www.wsj.com/politics/trumps-fears-on-the-iran-war-2a28b672",
     "source": "wsj",
     "pubdate": "2026-04-26-16-18-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/26/us/correspondents-dinner-shooting-trump/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-04-26-16-17-52 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/26/us/correspondents-dinner-shooting-trump/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-04-26-16-17-52 +0000"
   },
   {
     "headline": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
@@ -252,18 +618,6 @@
     "pubdate": "2026-04-26-15-50-31 +0000"
   },
   {
-    "headline": "Trump Praises WHCA President Weijia Jiang After Shooting at Dinner",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/weijia-jiang-cbs-whca-shooting-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-15-42-23 +0000"
-  },
-  {
-    "headline": "Trump Praises WHCA President Weijia Jiang After Shooting at Dinner",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/weijia-jiang-cbs-whca-shooting-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-15-42-23 +0000"
-  },
-  {
     "headline": "Read White House Correspondents’ Dinner gunman Cole Allen’s full anti-Trump manifesto",
     "link": "https://nypost.com/2026/04/26/us-news/read-whcd-gunman-cole-allens-full-anti-trump-manifesto/",
     "source": "nypost",
@@ -318,30 +672,6 @@
     "pubdate": "2026-04-26-15-29-16 +0000"
   },
   {
-    "headline": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold",
-    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-15-23-06 +0000"
-  },
-  {
-    "headline": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold",
-    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-15-23-06 +0000"
-  },
-  {
-    "headline": "Russian mercenaries to withdraw from Mali city after attacks",
-    "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-26-15-23-04 +0000"
-  },
-  {
-    "headline": "Trump recounts political unity after White House Correspondents’ Dinner shooting: ‘Place was just coming together’",
-    "link": "https://nypost.com/2026/04/26/us-news/trump-recounts-political-unity-after-white-house-correspondents-dinner-shooting/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-15-22-31 +0000"
-  },
-  {
     "headline": "Trump recounts political unity after White House Correspondents’ Dinner shooting: ‘Place was just coming together’",
     "link": "https://nypost.com/2026/04/26/us-news/trump-recounts-political-unity-after-white-house-correspondents-dinner-shooting/",
     "source": "nypost",
@@ -352,24 +682,6 @@
     "link": "https://www.bbc.com/news/articles/c2484nln8zeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-26-15-20-18 +0000"
-  },
-  {
-    "headline": "Iran and U.S. Sink Into Awkward Limbo of ‘No War, No Peace’",
-    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-15-19-22 +0000"
-  },
-  {
-    "headline": "Iran and U.S. Sink Into Awkward Limbo of ‘No War, No Peace’",
-    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-15-19-22 +0000"
-  },
-  {
-    "headline": "Bride who stunned in $47 wedding dress during viral $500 wedding dies in childbirth at 32",
-    "link": "https://nypost.com/2026/04/26/us-news/bride-who-stunned-in-47-wedding-dress-dies-in-childbirth/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-15-16-09 +0000"
   },
   {
     "headline": "Caltech Grad, ‘Teacher of the Month’ Named as Washington Shooting Suspect",
@@ -408,40 +720,10 @@
     "pubdate": "2026-04-26-14-59-53 +0000"
   },
   {
-    "headline": "WHCD gunman Cole Allen sent anti-Trump manifesto, said he wanted to take out Trump officials: ‘The Friendly Federal Assassin’",
-    "link": "https://nypost.com/2026/04/26/us-news/whcd-gunman-cole-allen-sent-anti-trump-manifesto-to-family-just-before-opening/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-14-59-53 +0000"
-  },
-  {
     "headline": "Report: Wolves’ Anthony Edwards out multiple weeks with hyperextended knee, bone bruise",
     "link": "https://www.startribune.com/report-wolves-anthony-edwards-likely-out-multiple-weeks-with-hyperextended-left-knee-bone-bruise/601801771",
     "source": "startribune",
     "pubdate": "2026-04-26-14-58-25 +0000"
-  },
-  {
-    "headline": "Shooting Prompts Discussions About King Charles III and Queen Camilla’s U.S. Visit",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/washington-shooting-king-charles-camilla-us-visit.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-14-49-18 +0000"
-  },
-  {
-    "headline": "Shooting Prompts Discussions About King Charles III and Queen Camilla’s U.S. Visit",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/washington-shooting-king-charles-camilla-us-visit.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-14-49-18 +0000"
-  },
-  {
-    "headline": "Shooting Prompts Discussions About King Charles III and Queen Camilla’s U.S. Visit",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/washington-shooting-king-charles-camilla-us-visit.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-14-49-18 +0000"
-  },
-  {
-    "headline": "GOP Sen. Thom Tillis says he’s ready to advance confirmation of Warsh as Fed chair",
-    "link": "https://nypost.com/2026/04/26/us-news/us-senator-tillis-says-hes-ready-to-advance-confirmation-of-warsh-as-fed-chair/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-14-35-33 +0000"
   },
   {
     "headline": "Quickfire questions with Jane Dodds",
@@ -474,7 +756,7 @@
     "pubdate": "2026-04-26-14-29-07 +0000"
   },
   {
-    "headline": "Top Iranian negotiator arrives in Pakistan after regime skipped peace talks and Trump canceled his team’s trip",
+    "headline": "Top Iranian negotiator arrives back in Pakistan — while Trump orders chief US aides to phone it in",
     "link": "https://nypost.com/2026/04/26/world-news/top-iranian-negotiation-arrives-in-pakistan-after-regime-skipped-peace-talks-and-trump-canceled-his-teams-trip/",
     "source": "nypost",
     "pubdate": "2026-04-26-14-10-36 +0000"
@@ -504,28 +786,10 @@
     "pubdate": "2026-04-26-13-58-54 +0000"
   },
   {
-    "headline": "White House Correspondents’ Dinner shooting suspect Cole Allen seen on local news segment from 2017 touting his invention",
-    "link": "https://nypost.com/2026/04/26/us-news/white-house-correspondents-dinner-shooting-suspect-cole-allen-seen-on-local-news-segment-from-2017-touting-his-invention/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-13-58-04 +0000"
-  },
-  {
     "headline": "Al-Qaeda-linked militants launch coordinated attacks across Mali",
     "link": "https://www.washingtonpost.com/world/2026/04/25/mali-attacks-militants/",
     "source": "wapo",
     "pubdate": "2026-04-26-13-57-38 +0000"
-  },
-  {
-    "headline": "Amid the hockey chaos, Wild winger Matt Boldy keeps a cool head",
-    "link": "https://www.startribune.com/matt-boldy-overtime-winner-minnesota-wild-dallas-stars-nhl-playoffs/601787081",
-    "source": "startribune",
-    "pubdate": "2026-04-26-13-20-37 +0000"
-  },
-  {
-    "headline": "Melania Trump has stunned reaction as gunfire erupts at White House Correspondents’ Dinner",
-    "link": "https://nypost.com/2026/04/26/us-news/melania-trump-has-stunned-reaction-as-gunfire-erupts-at-white-house-correspondents-dinner/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-13-07-16 +0000"
   },
   {
     "headline": "Melania Trump has stunned reaction as gunfire erupts at White House Correspondents’ Dinner",
@@ -546,12 +810,6 @@
     "pubdate": "2026-04-26-12-58-04 +0000"
   },
   {
-    "headline": "Lawler foe championed secret ‘Gender Support’ policy that let schools bypass parents on transitioning children",
-    "link": "https://nypost.com/2026/04/26/us-news/mike-lawler-foe-championed-confidential-gender-support-policy-for-transgender-kids/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-12-58-04 +0000"
-  },
-  {
     "headline": "Federal authorities swarm the suspect’s home in an L.A. suburb.",
     "link": "https://www.nytimes.com/live/2026/04/26/us/correspondents-dinner-shooting-trump/federal-authorities-swarm-the-suspects-home-in-an-la-suburb",
     "source": "nyt",
@@ -562,6 +820,12 @@
     "link": "https://www.nytimes.com/live/2026/04/26/us/correspondents-dinner-shooting-trump/federal-authorities-swarm-the-suspects-home-in-an-la-suburb",
     "source": "nyt",
     "pubdate": "2026-04-26-12-52-38 +0000"
+  },
+  {
+    "headline": "Correspondents' dinner shooting suspect allegedly wrote about targeting U.S. officials, says Trump",
+    "link": "https://www.cbc.ca/news/world/livestory/white-house-correspondents-dinner-shooting-trump-targeted-9.7177721?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-04-26-12-50-33 +0000"
   },
   {
     "headline": "Kenya's Sawe smashes two-hour barrier to make history at London Marathon",
@@ -586,12 +850,6 @@
     "link": "https://www.nytimes.com/2026/04/24/world/europe/trump-britain-spain-falklands.html",
     "source": "nyt",
     "pubdate": "2026-04-26-12-13-57 +0000"
-  },
-  {
-    "headline": "FBI raids home of suspected White House Correspondents’ Dinner shooter Cole Allen outside Los Angeles",
-    "link": "https://nypost.com/2026/04/26/us-news/fbi-raids-home-of-suspected-white-house-correspondents-dinner-shooter-cole-allen-outside-los-angeles/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-12-12-16 +0000"
   },
   {
     "headline": "What We Know About the Shooting at the White House Correspondents’ Dinner Trump Was Attending",
@@ -648,10 +906,10 @@
     "pubdate": "2026-04-26-11-55-00 +0000"
   },
   {
-    "headline": "Mass shooting near Indiana U. campus wounds 9 after ‘Little 500’",
-    "link": "https://nypost.com/2026/04/26/us-news/indiana-university-mass-shooting-on-kirkwood-leaves-9-wounded/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-11-18-46 +0000"
+    "headline": "‘I Don’t Want to Die Here:’ As Shots Rang Out, Guests Dived Under Tables",
+    "link": "https://www.wsj.com/us-news/a-shooter-throws-trumps-night-with-the-press-into-chaos-9db9b9f7",
+    "source": "wsj",
+    "pubdate": "2026-04-26-11-55-00 +0000"
   },
   {
     "headline": "Colin Hutton’s Video Wave makes an old format work",
@@ -688,12 +946,6 @@
     "link": "https://www.wsj.com/business/die-with-zero-bill-perkins-wsj-money-interview-2a4440f4?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-26-11-00-00 +0000"
-  },
-  {
-    "headline": "WHCD shooting suspect Cole Allen was targeting Trump officials in attack on ballroom, officials say",
-    "link": "https://nypost.com/2026/04/26/us-news/white-house-correspondents-dinner-shooting-suspect-cole-allen-admits-he-was-targeting-trump-officials-report/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-10-58-40 +0000"
   },
   {
     "headline": "World leaders condemn violence after gunfire at the White House correspondents’ dinner.",
@@ -738,12 +990,6 @@
     "pubdate": "2026-04-26-10-00-55 +0000"
   },
   {
-    "headline": "National parks brace for summer surge as Trump administration proposes more staff cuts",
-    "link": "https://www.latimes.com/politics/story/2026-04-26/national-parks-brace-for-summer-surge-as-trump-administration-proposes-more-staff-cuts",
-    "source": "latimes",
-    "pubdate": "2026-04-26-10-00-00 +0000"
-  },
-  {
     "headline": "Sexual misconduct scandals in Washington spark scramble for reforms, expedited investigations",
     "link": "https://www.latimes.com/politics/story/2026-04-26/sexual-misconduct-scandals-in-washington-spark-scramble-for-reforms-expedited-investigations",
     "source": "latimes",
@@ -752,6 +998,12 @@
   {
     "headline": "Barabak: The congressional landmine stirring fears about the midterm election — and a Trump power grab",
     "link": "https://www.latimes.com/politics/story/2026-04-26/midterm-election-trump-congress-republicans-fear-of-procedural-landmine",
+    "source": "latimes",
+    "pubdate": "2026-04-26-10-00-00 +0000"
+  },
+  {
+    "headline": "National parks brace for summer surge as Trump administration proposes more staff cuts",
+    "link": "https://www.latimes.com/politics/story/2026-04-26/national-parks-brace-for-summer-surge-as-trump-administration-proposes-more-staff-cuts",
     "source": "latimes",
     "pubdate": "2026-04-26-10-00-00 +0000"
   },
@@ -784,12 +1036,6 @@
     "link": "https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html",
     "source": "nyt",
     "pubdate": "2026-04-26-09-50-37 +0000"
-  },
-  {
-    "headline": "Close to one-third of Democratic Socialists of America members make more than $100K",
-    "link": "https://nypost.com/2026/04/26/us-news/close-to-one-third-of-democratic-socialists-of-america-members-make-more-than-100k/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-09-48-18 +0000"
   },
   {
     "headline": "San Francisco Is Going Nuts Over a Giant Sea Lion Named Chonkers",
@@ -838,18 +1084,6 @@
     "link": "https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html",
     "source": "nyt",
     "pubdate": "2026-04-26-09-20-15 +0000"
-  },
-  {
-    "headline": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
-    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-09-20-11 +0000"
-  },
-  {
-    "headline": "Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal",
-    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html",
-    "source": "nyt",
-    "pubdate": "2026-04-26-09-20-11 +0000"
   },
   {
     "headline": "US embassy in London warns to ‘exercise increased caution’ near Jewish sites in UK, Europe after antisemitic attacks",
@@ -952,12 +1186,6 @@
     "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-26-08-56-02 +0000"
-  },
-  {
-    "headline": "North Dakota state legislator Liz Conmy, pilot killed in Minneapolis plane crash",
-    "link": "https://nypost.com/2026/04/26/us-news/north-dakota-state-rep-liz-conmy-killed-in-plane-crash-in-minneapolis/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-08-55-56 +0000"
   },
   {
     "headline": "Officer shot at White House Correspondents’ Dinner is ‘doing great,’ Trump says",
@@ -1215,13 +1443,13 @@
     "headline": "Trump Fires Board Members of Group That Oversees U.S. Science Funding",
     "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-fires-board-members-scientific-research-group.html",
     "source": "nyt",
-    "pubdate": "2026-04-26-01-17-33 +0000"
+    "pubdate": "2026-04-26-01-17-34 +0000"
   },
   {
     "headline": "Trump Fires Board Members of Group That Oversees U.S. Science Funding",
     "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-fires-board-members-scientific-research-group.html",
     "source": "nyt",
-    "pubdate": "2026-04-26-01-17-33 +0000"
+    "pubdate": "2026-04-26-01-17-34 +0000"
   },
   {
     "headline": "Trump rushed off stage after shooting at White House Correspondents' Assn. dinner",
@@ -1234,12 +1462,6 @@
     "link": "https://www.wsj.com/finance/commodities-futures/see-how-the-energy-crisis-is-spreading-across-the-world-dc497d72?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-26-01-00-00 +0000"
-  },
-  {
-    "headline": "Chaos at White House Correspondents’ Dinner as gunman storms hotel, opens fire outside ballroom and Trump is evacuated",
-    "link": "https://nypost.com/2026/04/25/us-news/shots-fired-at-white-house-correspondents-dinner-trump-evacuated/",
-    "source": "nypost",
-    "pubdate": "2026-04-26-00-56-40 +0000"
   },
   {
     "headline": "Trump unharmed after 'shooting incident' at White House correspondents' dinner",
@@ -1282,18 +1504,6 @@
     "link": "https://www.wsj.com/us-news/the-small-midwest-community-leading-americas-crusade-against-data-centers-92621c55",
     "source": "wsj",
     "pubdate": "2026-04-26-00-00-00 +0000"
-  },
-  {
-    "headline": "How the War in Iran Is Draining the U.S. of Critical Weapons",
-    "link": "https://www.nytimes.com/video/us/politics/100000010857432/how-the-war-in-iran-is-draining-the-us-of-critical-weapons.html",
-    "source": "nyt",
-    "pubdate": "2026-04-25-23-39-30 +0000"
-  },
-  {
-    "headline": "How the War in Iran Is Draining the U.S. of Critical Weapons",
-    "link": "https://www.nytimes.com/video/us/politics/100000010857432/how-the-war-in-iran-is-draining-the-us-of-critical-weapons.html",
-    "source": "nyt",
-    "pubdate": "2026-04-25-23-39-30 +0000"
   },
   {
     "headline": "Netanyahu calls for IDF to strike Hezbollah targets ‘with force’ after terrorist group repeatedly attacks Israel",
@@ -1350,12 +1560,6 @@
     "pubdate": "2026-04-25-22-28-21 +0000"
   },
   {
-    "headline": "Chicago Hospital Shooting Leaves 1 Officer Dead and Another in Critical Condition",
-    "link": "https://www.nytimes.com/2026/04/25/us/chicago-police-shot-swedish-hospital.html",
-    "source": "nyt",
-    "pubdate": "2026-04-25-22-21-25 +0000"
-  },
-  {
     "headline": "Sedated, injured, even dead: Exotic bird smuggling cases underscore a problem at the border",
     "link": "https://www.latimes.com/california/story/2026-04-25/socal-men-sentenced-for-exotic-bird-smuggling-at-u-s-border",
     "source": "latimes",
@@ -1398,12 +1602,6 @@
     "pubdate": "2026-04-25-21-55-18 +0000"
   },
   {
-    "headline": "Mamdani releases propaganda video promoting Soviet-style city-run grocery stores: ‘A f–king con’",
-    "link": "https://nypost.com/2026/04/25/us-news/mamdani-releases-propaganda-video-promoting-soviet-style-city-run-grocery-stores/",
-    "source": "nypost",
-    "pubdate": "2026-04-25-21-41-29 +0000"
-  },
-  {
     "headline": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
     "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1432,30 +1630,6 @@
     "link": "https://www.nytimes.com/2026/04/25/world/americas/2-cia-officers-killed-in-mexico-crash-lacked-proper-authorization.html",
     "source": "nyt",
     "pubdate": "2026-04-25-21-29-17 +0000"
-  },
-  {
-    "headline": "Mamdani’s photography director has long history of anti-NYPD rants",
-    "link": "https://nypost.com/2026/04/25/us-news/freaking-hate-cops-mamdanis-photography-director-has-long-history-of-anti-nypd-rants/",
-    "source": "nypost",
-    "pubdate": "2026-04-25-21-11-25 +0000"
-  },
-  {
-    "headline": "AIDS Creeps Back in Parts of Zambia, a Year After U.S. Cuts to H.I.V. Assistance",
-    "link": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
-    "source": "nyt",
-    "pubdate": "2026-04-25-21-10-53 +0000"
-  },
-  {
-    "headline": "AIDS Creeps Back in Parts of Zambia, a Year After U.S. Cuts to H.I.V. Assistance",
-    "link": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
-    "source": "nyt",
-    "pubdate": "2026-04-25-21-10-53 +0000"
-  },
-  {
-    "headline": "Trump tells Post scribe to ‘come home’ from Pakistan as Iran talks fizzle",
-    "link": "https://nypost.com/2026/04/25/us-news/donald-trump-tells-post-scribe-to-come-home-from-pakistan-as-iran-talks-fizzle/",
-    "source": "nypost",
-    "pubdate": "2026-04-25-21-09-37 +0000"
   },
   {
     "headline": "Trump tells Post scribe to ‘come home’ from Pakistan as Iran talks fizzle",
@@ -1479,13 +1653,7 @@
     "headline": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
     "link": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
     "source": "nyt",
-    "pubdate": "2026-04-25-19-57-07 +0000"
-  },
-  {
-    "headline": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
-    "link": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
-    "source": "nyt",
-    "pubdate": "2026-04-25-19-57-07 +0000"
+    "pubdate": "2026-04-25-19-57-08 +0000"
   },
   {
     "headline": "Texas Can Arrest and Deport People Who Illegally Cross at Mexico Border, Court Says",
@@ -1521,13 +1689,7 @@
     "headline": "How Will BTS Endure a Grueling World Tour? We Asked Their Ex-Trainer.",
     "link": "https://www.nytimes.com/2026/04/25/arts/music/bts-kpop-arirang-world-tour-fitness-training.html",
     "source": "nyt",
-    "pubdate": "2026-04-25-19-22-20 +0000"
-  },
-  {
-    "headline": "Spencer Pratt’s fundraising haul puts Karen Bass on notice in mayor’s race",
-    "link": "https://nypost.com/2026/04/25/us-news/spencer-pratt-outraises-karen-bass-in-mayors-race/",
-    "source": "nypost",
-    "pubdate": "2026-04-25-19-21-38 +0000"
+    "pubdate": "2026-04-25-19-22-21 +0000"
   },
   {
     "headline": "Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters",
@@ -1545,7 +1707,7 @@
     "headline": "Queen Elizabeth II’s Off-Duty Wardrobe Goes on View at Buckingham Palace",
     "link": "https://www.nytimes.com/2026/04/25/style/queen-elizabeth-ii-exhibition-her-life-in-style.html",
     "source": "nyt",
-    "pubdate": "2026-04-25-19-16-13 +0000"
+    "pubdate": "2026-04-25-19-16-14 +0000"
   },
   {
     "headline": "News of the World: What you missed this week internationally",
@@ -1632,18 +1794,6 @@
     "pubdate": "2026-04-25-17-32-19 +0000"
   },
   {
-    "headline": "Sonia Pressman Fuentes, Early Women’s Rights Lawyer, Dies at 97",
-    "link": "https://www.nytimes.com/2026/04/25/us/politics/sonia-pressman-fuentes-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-04-25-17-31-11 +0000"
-  },
-  {
-    "headline": "Sonia Pressman Fuentes, Early Women’s Rights Lawyer, Dies at 97",
-    "link": "https://www.nytimes.com/2026/04/25/us/politics/sonia-pressman-fuentes-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-04-25-17-31-11 +0000"
-  },
-  {
     "headline": "In Wine Country, Sales Are Down and Fraud Is Rampant",
     "link": "https://www.nytimes.com/2026/04/25/business/dealbook/wine-fraud.html",
     "source": "nyt",
@@ -1666,12 +1816,6 @@
     "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-25-17-01-55 +0000"
-  },
-  {
-    "headline": "Trump set to skewer the press at tonight’s White House Correspondents’ Dinner",
-    "link": "https://nypost.com/2026/04/25/us-news/trump-to-skewer-the-press-at-white-house-correspondents-dinner/",
-    "source": "nypost",
-    "pubdate": "2026-04-25-17-01-33 +0000"
   },
   {
     "headline": "Iran releases vile school textbooks teaching children to destroy ‘Great Satan’ US and Israel",
@@ -1878,12 +2022,6 @@
     "pubdate": "2026-04-25-12-00-00 +0000"
   },
   {
-    "headline": "Greta Thunberg and apparent beau skip Gaza flotilla following sexual misconduct allegations",
-    "link": "https://nypost.com/2026/04/25/world-news/greta-thunberg-and-beau-skip-gaza-flotilla-amid-sexual-misconduct-allegations/",
-    "source": "nypost",
-    "pubdate": "2026-04-25-12-00-00 +0000"
-  },
-  {
     "headline": "Europe Prepares for a Longer War in Ukraine, With No Strategy to End It",
     "link": "https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html",
     "source": "nyt",
@@ -1962,12 +2100,6 @@
     "pubdate": "2026-04-25-09-48-38 +0000"
   },
   {
-    "headline": "Gunmen stage simultaneous attacks in and outside Mali capital, army says",
-    "link": "https://nypost.com/2026/04/25/world-news/mali-gunmen-stage-simultaneous-attacks-in-and-outside-bamako-capital/",
-    "source": "nypost",
-    "pubdate": "2026-04-25-09-42-00 +0000"
-  },
-  {
     "headline": "Who’s Getting a Tariff Refund?",
     "link": "https://www.nytimes.com/video/business/100000010852324/whos-getting-a-tariff-refund.html",
     "source": "nyt",
@@ -1984,12 +2116,6 @@
     "link": "https://www.wsj.com/style/fashion/glp-1-weight-loss-medication-wedding-dress-waiver-15f51978?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-25-09-30-00 +0000"
-  },
-  {
-    "headline": "Sam Altman apologizes after OpenAI failed to alert police before Canada trans shooter’s deadly rampage",
-    "link": "https://nypost.com/2026/04/25/world-news/sam-altman-apologizes-after-openai-failed-to-alert-police-before-canada-trans-shooters-deadly-rampage/",
-    "source": "nypost",
-    "pubdate": "2026-04-25-09-26-39 +0000"
   },
   {
     "headline": "Under Trump, Green Card Seekers Face New Scrutiny for Views on Israel",
@@ -2562,18 +2688,6 @@
     "pubdate": "2026-04-24-21-29-00 +0000"
   },
   {
-    "headline": "Opinion | A Tort Roundup at the Supreme Court",
-    "link": "https://www.wsj.com/opinion/monsanto-v-durnell-roundup-tort-case-supreme-court-a8d08598",
-    "source": "wsj",
-    "pubdate": "2026-04-24-21-28-00 +0000"
-  },
-  {
-    "headline": "Opinion | Kevin Warsh Can Head to the Fed",
-    "link": "https://www.wsj.com/opinion/jerome-powell-investigation-justice-department-federal-reserve-kevin-warsh-donald-trump-5c988c6f",
-    "source": "wsj",
-    "pubdate": "2026-04-24-21-28-00 +0000"
-  },
-  {
     "headline": "China car giant BYD says it can thrive without US",
     "link": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2692,12 +2806,6 @@
     "link": "https://www.wsj.com/us-news/law/openai-ceo-apologizes-for-not-flagging-mass-shooting-suspect-to-police-afa53d1d",
     "source": "wsj",
     "pubdate": "2026-04-24-20-32-00 +0000"
-  },
-  {
-    "headline": "Opinion | The SPLC Allegedly Mimics the Worst FBI Abuses",
-    "link": "https://www.wsj.com/opinion/the-splc-allegedly-mimics-the-worst-fbi-abuses-792c2424",
-    "source": "wsj",
-    "pubdate": "2026-04-24-20-31-00 +0000"
   },
   {
     "headline": "Driver accused of murder in S.F. hit-and-run to stay in jail – judge cites public threat",
@@ -2910,22 +3018,10 @@
     "pubdate": "2026-04-24-18-48-31 +0000"
   },
   {
-    "headline": "Netanyahu says he hid prostate cancer from public because of Iran war",
-    "link": "https://www.washingtonpost.com/world/2026/04/24/netanyahu-prostate-cancer-treatment-iran-war/",
-    "source": "wapo",
-    "pubdate": "2026-04-24-18-40-51 +0000"
-  },
-  {
     "headline": "Alexandre Boulerice, NDP's sole Quebec MP, to leave party and run provincially: sources",
     "link": "https://www.cbc.ca/news/canada/montreal/ndp-quebec-solidaire-boulerice-9.7176474?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-04-24-18-40-35 +0000"
-  },
-  {
-    "headline": "Hezbollah defiant in face of Israel-Lebanon ceasefire extension",
-    "link": "https://www.washingtonpost.com/world/2026/04/24/iran-us-israel-lebanon-ceasefire/",
-    "source": "wapo",
-    "pubdate": "2026-04-24-18-26-12 +0000"
   },
   {
     "headline": "Dedicated student, track athlete, and now a suspect in the killing of a Burbank teacher",
@@ -3256,18 +3352,6 @@
     "link": "https://www.nytimes.com/2026/04/24/business/trump-airline-mergers-bailouts.html",
     "source": "nyt",
     "pubdate": "2026-04-24-15-54-37 +0000"
-  },
-  {
-    "headline": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
-    "link": "https://www.nytimes.com/2026/04/24/world/middleeast/netanyahu-cancer-treatment.html",
-    "source": "nyt",
-    "pubdate": "2026-04-24-15-51-10 +0000"
-  },
-  {
-    "headline": "Netanyahu Reveals He Had Prostate Cancer and Underwent Radiation Therapy",
-    "link": "https://www.nytimes.com/2026/04/24/world/middleeast/netanyahu-cancer-treatment.html",
-    "source": "nyt",
-    "pubdate": "2026-04-24-15-51-10 +0000"
   },
   {
     "headline": "‘Startup Cowboys’ Are Making This Texas Town the New Tech Hotspot",
@@ -3768,12 +3852,6 @@
     "pubdate": "2026-04-24-10-00-00 +0000"
   },
   {
-    "headline": "AI influencers are just the tip of the iceberg for ‘synthetic’ talent",
-    "link": "https://nypost.com/2026/04/24/business/ai-influencers-are-just-the-tip-of-the-iceberg-for-synthetic-talent/",
-    "source": "nypost",
-    "pubdate": "2026-04-24-10-00-00 +0000"
-  },
-  {
     "headline": "California's jet fuel stockpile hits two-year low, putting 'black cloud' over summer travel",
     "link": "https://www.latimes.com/business/story/2026-04-24/california-jet-fuel-inventory-dips-to-two-year-low-as-war-strangles-global-oil-supply",
     "source": "latimes",
@@ -3912,22 +3990,10 @@
     "pubdate": "2026-04-24-09-00-00 +0000"
   },
   {
-    "headline": "Trump threatens UK PM Starmer with ‘big tariff’ over tech tax: report",
-    "link": "https://nypost.com/2026/04/24/business/trump-threatens-uk-pm-starmer-with-big-tariff-over-tech-tax-report/",
-    "source": "nypost",
-    "pubdate": "2026-04-24-08-48-30 +0000"
-  },
-  {
     "headline": "Woman trapped in poo for three hours after outback toilet collapses",
     "link": "https://www.bbc.com/news/articles/clyedj166k5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-24-08-39-02 +0000"
-  },
-  {
-    "headline": "Essential Minnesota Podcast",
-    "link": "https://www.startribune.com/essential-minnesota/601583462",
-    "source": "startribune",
-    "pubdate": "2026-04-24-08-23-49 +0000"
   },
   {
     "headline": "South Korea police arrest man for posting AI photo of runaway wolf",
@@ -4194,12 +4260,6 @@
     "pubdate": "2026-04-24-00-30-12 +0000"
   },
   {
-    "headline": "U.S. soldier involved in Maduro capture accused of profiting from knowledge of raid on Polymarket",
-    "link": "https://www.cbc.ca/news/world/us-soldier-charged-polymarket-maduro-bets-9.7175491?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-04-24-00-30-00 +0000"
-  },
-  {
     "headline": "Trump on Spirit Airlines: ‘I Think We’d Just Buy It’",
     "link": "https://www.wsj.com/business/airlines/trump-on-spirit-airlines-i-think-wed-just-buy-it-ccdc608e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -4402,12 +4462,6 @@
     "link": "https://www.latimes.com/business/story/2026-04-23/senate-committee-kills-bill-mandating-insurance-coverage-for-wildfire-safe-homes",
     "source": "latimes",
     "pubdate": "2026-04-23-21-05-55 +0000"
-  },
-  {
-    "headline": "Rescue Effort for Russian Tanker Fails, in a New Era of Maritime Peril",
-    "link": "https://www.nytimes.com/2026/04/23/world/europe/russian-tanker-mediterranean.html",
-    "source": "nyt",
-    "pubdate": "2026-04-23-21-05-08 +0000"
   },
   {
     "headline": "Rescue Effort for Russian Tanker Fails, in a New Era of Maritime Peril",
@@ -4678,12 +4732,6 @@
     "link": "https://www.bbc.com/news/articles/cq59nqv8v88o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-23-17-34-04 +0000"
-  },
-  {
-    "headline": "CBC president denies broadcaster is biased or poaches journalists from smaller markets",
-    "link": "https://www.cbc.ca/news/politics/cbc-president-marie-philippe-bouchard-committee-9.7174302?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-04-23-17-19-00 +0000"
   },
   {
     "headline": "S.F. Board of Supervisors is too deferential to Mayor Lurie, Supervisor Melgar says",
@@ -5028,14 +5076,14 @@
     "pubdate": "2026-04-23-10-05-49 +0000"
   },
   {
-    "headline": "A $40-million project will clean MacArthur Lake. Will it help fix the park?",
-    "link": "https://www.latimes.com/california/story/2026-04-23/macarthur-park-stormwater-40m-project",
+    "headline": "California's rail systems need more riders. High gas prices could be fueling a new surge",
+    "link": "https://www.latimes.com/california/story/2026-04-23/californias-rail-systems-need-more-riders-high-gas-prices-could-be-fueling-new-surge",
     "source": "latimes",
     "pubdate": "2026-04-23-10-00-00 +0000"
   },
   {
-    "headline": "California's rail systems need more riders. High gas prices could be fueling a new surge",
-    "link": "https://www.latimes.com/california/story/2026-04-23/californias-rail-systems-need-more-riders-high-gas-prices-could-be-fueling-new-surge",
+    "headline": "A $40-million project will clean MacArthur Lake. Will it help fix the park?",
+    "link": "https://www.latimes.com/california/story/2026-04-23/macarthur-park-stormwater-40m-project",
     "source": "latimes",
     "pubdate": "2026-04-23-10-00-00 +0000"
   },
@@ -5772,12 +5820,6 @@
     "pubdate": "2026-04-22-10-02-00 +0000"
   },
   {
-    "headline": "Barabak: He honked to support a 'No Kings' rally. A cop busted him",
-    "link": "https://www.latimes.com/politics/story/2026-04-22/trump-no-kings-rally-utah-man-ticketed-for-honking-support",
-    "source": "latimes",
-    "pubdate": "2026-04-22-10-00-00 +0000"
-  },
-  {
     "headline": "Hiltzik: Trump's Labor secretary departs, leaving scandal and vast disappointment in her wake",
     "link": "https://www.latimes.com/business/story/2026-04-22/trumps-labor-secretary-departs-leaving-scandal-vast-disappointment-in-her-wake",
     "source": "latimes",
@@ -5786,6 +5828,12 @@
   {
     "headline": "How a Trump-endorsed Republican could become California's next governor",
     "link": "https://www.latimes.com/politics/story/2026-04-22/in-uk-california-governor-candidate-steve-hilton-was-inspired-by-california",
+    "source": "latimes",
+    "pubdate": "2026-04-22-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: He honked to support a 'No Kings' rally. A cop busted him",
+    "link": "https://www.latimes.com/politics/story/2026-04-22/trump-no-kings-rally-utah-man-ticketed-for-honking-support",
     "source": "latimes",
     "pubdate": "2026-04-22-10-00-00 +0000"
   },
@@ -5796,12 +5844,6 @@
     "pubdate": "2026-04-22-10-00-00 +0000"
   },
   {
-    "headline": "Trump's big promise for veteran housing is AWOL in VA budget proposal, mystifying vets",
-    "link": "https://www.latimes.com/california/story/2026-04-22/trumps-big-promise-for-veteran-housing-is-awol-in-va-budget-proposal-mystifying-vets",
-    "source": "latimes",
-    "pubdate": "2026-04-22-10-00-00 +0000"
-  },
-  {
     "headline": "How a Trump-endorsed Republican could become California's next governor",
     "link": "https://www.latimes.com/politics/story/2026-04-22/in-uk-california-governor-candidate-steve-hilton-was-inspired-by-california",
     "source": "latimes",
@@ -5814,15 +5856,15 @@
     "pubdate": "2026-04-22-10-00-00 +0000"
   },
   {
-    "headline": "More Banks Are Earning $100 Million Fees for Advising Big M&A Targets",
-    "link": "https://www.wsj.com/cfo-journal/more-banks-are-earning-100-million-fees-for-advising-big-m-a-targets-625babeb?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
+    "headline": "Trump's big promise for veteran housing is AWOL in VA budget proposal, mystifying vets",
+    "link": "https://www.latimes.com/california/story/2026-04-22/trumps-big-promise-for-veteran-housing-is-awol-in-va-budget-proposal-mystifying-vets",
+    "source": "latimes",
     "pubdate": "2026-04-22-10-00-00 +0000"
   },
   {
-    "headline": "Controversial hotel and housing complex approved in West Hollywood",
-    "link": "https://www.latimes.com/business/story/2026-04-22/controversial-hotel-housing-complex-approved-in-west-hollywood",
-    "source": "latimes",
+    "headline": "More Banks Are Earning $100 Million Fees for Advising Big M&A Targets",
+    "link": "https://www.wsj.com/cfo-journal/more-banks-are-earning-100-million-fees-for-advising-big-m-a-targets-625babeb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
     "pubdate": "2026-04-22-10-00-00 +0000"
   },
   {
@@ -5832,14 +5874,20 @@
     "pubdate": "2026-04-22-10-00-00 +0000"
   },
   {
-    "headline": "Apple's next era: After Tim Cook's dream run, new CEO has to help the company catch up",
-    "link": "https://www.latimes.com/business/story/2026-04-22/apples-next-era-after-tim-cooks-dream-run-new-ceo-has-to-help-company-catch-up",
+    "headline": "Controversial hotel and housing complex approved in West Hollywood",
+    "link": "https://www.latimes.com/business/story/2026-04-22/controversial-hotel-housing-complex-approved-in-west-hollywood",
     "source": "latimes",
     "pubdate": "2026-04-22-10-00-00 +0000"
   },
   {
     "headline": "Hiltzik: Trump's Labor secretary departs, leaving scandal and vast disappointment in her wake",
     "link": "https://www.latimes.com/business/story/2026-04-22/trumps-labor-secretary-departs-leaving-scandal-vast-disappointment-in-her-wake",
+    "source": "latimes",
+    "pubdate": "2026-04-22-10-00-00 +0000"
+  },
+  {
+    "headline": "Apple's next era: After Tim Cook's dream run, new CEO has to help the company catch up",
+    "link": "https://www.latimes.com/business/story/2026-04-22/apples-next-era-after-tim-cooks-dream-run-new-ceo-has-to-help-company-catch-up",
     "source": "latimes",
     "pubdate": "2026-04-22-10-00-00 +0000"
   },
@@ -5872,12 +5920,6 @@
     "link": "https://www.bbc.com/news/articles/c1krxlvjezro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-22-09-28-49 +0000"
-  },
-  {
-    "headline": "Iranian Expats in U.A.E. Caught Between Home and Homeland",
-    "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-war-uae-dubai.html",
-    "source": "nyt",
-    "pubdate": "2026-04-22-09-00-29 +0000"
   },
   {
     "headline": "UK inflation rises after Iran war pushes up fuel prices",
@@ -6204,12 +6246,6 @@
     "pubdate": "2026-04-21-17-28-39 +0000"
   },
   {
-    "headline": "Opinion | The Price Beijing Pays for Backing Tehran",
-    "link": "https://www.wsj.com/opinion/the-price-beijing-pays-for-backing-tehran-c1904deb?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-21-17-08-00 +0000"
-  },
-  {
     "headline": "What does devolution mean and how does it work across the UK?",
     "link": "https://www.bbc.com/news/articles/czd7zl7g15po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -6258,12 +6294,6 @@
     "pubdate": "2026-04-21-15-40-56 +0000"
   },
   {
-    "headline": "China’s Cyberspying Targets Western Defense Industry, Dutch Intel Chief Says",
-    "link": "https://www.wsj.com/world/chinas-cyberspying-targets-western-defense-industry-dutch-intel-chief-says-c98a710a",
-    "source": "wsj",
-    "pubdate": "2026-04-21-15-38-00 +0000"
-  },
-  {
     "headline": "Arrest made in Burbank double stabbing that left local teacher dead, her daughter in critical condition",
     "link": "https://www.latimes.com/california/story/2026-04-21/burbank-stabbing-victims-mother-daughter",
     "source": "latimes",
@@ -6306,12 +6336,6 @@
     "pubdate": "2026-04-21-12-16-18 +0000"
   },
   {
-    "headline": "Japan Lifts Ban on Arms Exports",
-    "link": "https://www.wsj.com/world/asia/japan-lifts-ban-on-arms-exports-b41c7574",
-    "source": "wsj",
-    "pubdate": "2026-04-21-11-39-00 +0000"
-  },
-  {
     "headline": "Rules of Origin Set Up U.S.-China Clash in Asia",
     "link": "https://www.wsj.com/world/china/rules-of-origin-set-up-u-s-china-clash-in-asia-1eea1d01",
     "source": "wsj",
@@ -6324,14 +6348,14 @@
     "pubdate": "2026-04-21-10-00-00 +0000"
   },
   {
-    "headline": "Rainstorm and fierce winds strike California. Here's what's in store",
-    "link": "https://www.latimes.com/california/story/2026-04-21/rainstorm-fierce-winds-strike-california-whats-expected-for-socal",
+    "headline": "An L.A. girl's death and the darkest side of bullying at school: 'They did nothing'",
+    "link": "https://www.latimes.com/california/story/2026-04-21/alleged-bullying-left-12-year-old-dead-could-lausd-have-prevented-it",
     "source": "latimes",
     "pubdate": "2026-04-21-10-00-00 +0000"
   },
   {
-    "headline": "An L.A. girl's death and the darkest side of bullying at school: 'They did nothing'",
-    "link": "https://www.latimes.com/california/story/2026-04-21/alleged-bullying-left-12-year-old-dead-could-lausd-have-prevented-it",
+    "headline": "Rainstorm and fierce winds strike California. Here's what's in store",
+    "link": "https://www.latimes.com/california/story/2026-04-21/rainstorm-fierce-winds-strike-california-whats-expected-for-socal",
     "source": "latimes",
     "pubdate": "2026-04-21-10-00-00 +0000"
   },
@@ -6394,12 +6418,6 @@
     "link": "https://www.wsj.com/world/middle-east/saudi-arabia-iraq-conflict-iran-war-0d9dd8d8",
     "source": "wsj",
     "pubdate": "2026-04-21-03-00-00 +0000"
-  },
-  {
-    "headline": "Police Chiefs Allegedly Faked Robberies in $5,000-a-Pop Visa Fraud Scheme",
-    "link": "https://www.wsj.com/us-news/louisiana-armed-robberies-visa-fraud-a0f8425e",
-    "source": "wsj",
-    "pubdate": "2026-04-21-02-00-00 +0000"
   },
   {
     "headline": "Woman says chatbot pushed her son to suicide and these 'guardrails' are crucial",
@@ -6508,12 +6526,6 @@
     "link": "https://www.latimes.com/california/story/2026-04-20/480-ducks-find-homes-after-emergency-rescue-operation-in-riverside-county",
     "source": "latimes",
     "pubdate": "2026-04-20-18-38-37 +0000"
-  },
-  {
-    "headline": "Former state Controller Betty Yee drops out of the governor's race",
-    "link": "https://www.latimes.com/politics/story/2026-04-20/former-state-controller-betty-yee-drops-out-of-governors-race",
-    "source": "latimes",
-    "pubdate": "2026-04-20-18-33-57 +0000"
   },
   {
     "headline": "Former state Controller Betty Yee drops out of the governor's race",
@@ -6670,11 +6682,5 @@
     "link": "https://www.bbc.com/news/articles/c62kg63k8v6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-19-23-02-11 +0000"
-  },
-  {
-    "headline": "Opinion | The Justices Can Rein In an Overzealous SEC",
-    "link": "https://www.wsj.com/opinion/the-justices-can-rein-in-an-overzealous-sec-a7dbb094?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-19-19-04-00 +0000"
   }
 ]
