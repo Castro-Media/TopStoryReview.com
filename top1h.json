@@ -1,54 +1,5 @@
 [
   {
-    "score": 37,
-    "pubdate": "2026-04-26-18-24-51 +0000",
-    "source": "nyt",
-    "headline": "Shooting Prompts Discussions About King Charles III and Queen Camilla’s U.S. Visit",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/washington-shooting-king-charles-camilla-us-visit.html"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-04-26-18-24-56 +0000",
-    "source": "nyt",
-    "headline": "Correspondents’ Dinner Suspect Appears to Have Targeted Trump Officials, Blanche Says",
-    "link": "https://www.nytimes.com/2026/04/26/us/politics/gunman-shooting-motive-correspondents-dinner-trump.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-04-26-18-25-30 +0000",
-    "source": "nyt",
-    "headline": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold",
-    "link": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-04-26-18-35-23 +0000",
-    "source": "nypost",
-    "headline": "Gas giant plows $10M into ‘Stop Steyer’ crusade to unseat billionaire as governor favorite",
-    "link": "https://nypost.com/2026/04/26/us-news/pge-plows-10m-into-stop-tom-steyer-crusade-in-california-governor-race/"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-04-26-18-51-25 +0000",
-    "source": "nypost",
-    "headline": "NJ man raked in crazy amount of money every day after setting up illegal weed vending machines: prosecutor",
-    "link": "https://nypost.com/2026/04/26/us-news/new-jersey-man-raked-in-20k-a-day-from-illegal-marijuana-vending-machines-prosecutors/"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-04-26-18-38-33 +0000",
-    "source": "nyt",
-    "headline": "AIDS Creeps Back in Parts of Zambia, a Year After U.S. Cuts to H.I.V. Assistance",
-    "link": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-04-26-18-33-04 +0000",
-    "source": "bbc",
-    "headline": "King's US visit will go ahead as planned, Buckingham Palace says",
-    "link": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 12,
     "pubdate": "2026-04-26-19-08-11 +0000",
     "source": "nypost",
@@ -56,17 +7,24 @@
     "link": "https://nypost.com/2026/04/26/us-news/cole-allen-bought-guns-at-two-california-stores-before-whcd-attack/"
   },
   {
-    "score": 12,
-    "pubdate": "2026-04-26-18-54-58 +0000",
-    "source": "nypost",
-    "headline": "Zelensky marks 40th anniversary of Chernobyl disaster with warning on Russian strikes near infamous nuclear plant",
-    "link": "https://nypost.com/2026/04/26/world-news/zelensky-marks-40th-anniversary-of-chernobyl-disaster-with-warning-on-russian-strikes-near-infamous-nuclear-plant/"
-  },
-  {
-    "score": 11,
+    "score": 10,
     "pubdate": "2026-04-26-19-06-06 +0000",
     "source": "nypost",
     "headline": "Historic feet: London Marathon runner is first person to finish in under 2 hours",
     "link": "https://nypost.com/2026/04/26/world-news/historic-feet-london-marathon-runner-is-first-person-to-finish-in-under-2-hours/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-04-26-19-08-00 +0000",
+    "source": "wsj",
+    "headline": "Colombia Hit by Deadliest Wave of Bombings for Civilians in Years",
+    "link": "https://www.wsj.com/world/americas/colombia-hit-by-deadliest-wave-of-bombings-for-civilians-in-years-db2c47c8"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-04-26-19-11-34 +0000",
+    "source": "nyt",
+    "headline": "What Our Reporter Saw During the D.C. Shooting",
+    "link": "https://www.nytimes.com/video/us/politics/100000010863950/white-house-correspondents-dinner-trump-gunman.html"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
-    "score": 352,
+    "score": 348,
     "pubdate": "2026-04-26-05-18-00 +0000",
     "source": "wsj",
     "headline": "President Trump is safe after what he described as a shooting at the White House Correspondents’ Dinner, where he was due to address the annual event in here on Saturday night",
     "link": "https://www.wsj.com/us-news/trump-evacuated-white-house-correspondents-dinner-00f54d75"
   },
   {
-    "score": 90,
+    "score": 89,
     "pubdate": "2026-04-26-16-47-42 +0000",
     "source": "nypost",
     "headline": "WHCD shooting suspect Cole Allen mocked lack of security on every leg of cross-country journey in manifesto: ‘Actually insane’",
@@ -28,14 +28,14 @@
     "link": "https://www.wsj.com/politics/policy/panic-at-the-white-house-correspondents-dinner-b71d8d61"
   },
   {
-    "score": 45,
+    "score": 44,
     "pubdate": "2026-04-26-01-58-52 +0000",
     "source": "nypost",
     "headline": "White House Correspondents’ Dinner gunman ‘assembled long weapon in unsecured room’ before firing near ballroom, volunteer reveals",
     "link": "https://nypost.com/2026/04/25/us-news/white-house-correspondents-dinner-gunman-assembled-long-weapon-in-unsecured-room-before-firing-volunteer/"
   },
   {
-    "score": 44,
+    "score": 43,
     "pubdate": "2026-04-26-18-24-51 +0000",
     "source": "nyt",
     "headline": "Shooting Prompts Discussions About King Charles III and Queen Camilla’s U.S. Visit",
@@ -43,17 +43,10 @@
   },
   {
     "score": 41,
-    "pubdate": "2026-04-26-16-30-18 +0000",
+    "pubdate": "2026-04-26-17-43-35 +0000",
     "source": "nypost",
-    "headline": "Gas station owner speaks for every Californian with four-word message to Gavin Newsom — as another hike looms",
-    "link": "https://nypost.com/2026/04/26/us-news/gas-station-owner-speaks-for-every-californian-with-four-word-message-to-gavin-newsom-as-another-hike-looms/"
-  },
-  {
-    "score": 39,
-    "pubdate": "2026-04-26-09-50-37 +0000",
-    "source": "nyt",
-    "headline": "What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base",
-    "link": "https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html"
+    "headline": "Dem DA whose sign is on WHCD shooter Cole Allen’s front lawn speaks out — revealing close ties to the family",
+    "link": "https://nypost.com/2026/04/26/us-news/dem-da-whose-sign-is-on-whcd-shooters-front-lawn-speaks-out/"
   },
   {
     "score": 39,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Al Qaeda-Linked Militants Launch Major Attacks on Cities Across Mali",
     "link": "https://www.nytimes.com/2026/04/25/world/africa/mali-attacks-jnim-al-qaeda-bamako.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-04-26-09-50-37 +0000",
+    "source": "nyt",
+    "headline": "What Happened After The New York Times Found a Cartel Mine on a Colombian Military Base",
+    "link": "https://www.nytimes.com/2026/04/26/world/americas/colombia-cartel-illegal-gold-mining-military-base.html"
   }
 ]
