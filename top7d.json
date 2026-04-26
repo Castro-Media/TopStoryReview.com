@@ -50,17 +50,10 @@
   },
   {
     "score": 96,
-    "pubdate": "2026-04-24-13-59-00 +0000",
+    "pubdate": "2026-04-24-16-01-00 +0000",
     "source": "wsj",
-    "headline": "The Trump administration announced criminal charges, sanctions and multimillion-dollar rewards aimed at combating online scams coming out of Southeast Asia and targeting Americans",
-    "link": "https://www.wsj.com/politics/policy/u-s-steps-up-crackdown-on-online-scams-directed-from-southeast-asia-f17f2d03"
-  },
-  {
-    "score": 94,
-    "pubdate": "2026-04-24-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "California's jet fuel stockpile hits two-year low, putting 'black cloud' over summer travel",
-    "link": "https://www.latimes.com/business/story/2026-04-24/california-jet-fuel-inventory-dips-to-two-year-low-as-war-strangles-global-oil-supply"
+    "headline": "The unemployment rate is low. The stock market is high. Consumer spending is healthy. But ask Americans how they’re doing, and you’d think we were in a recession.",
+    "link": "https://www.wsj.com/economy/most-americans-think-the-job-market-will-get-worse-heres-why-that-matters-d121585a"
   },
   {
     "score": 92,
@@ -68,5 +61,12 @@
     "source": "latimes",
     "headline": "Stabbing in Burbank leaves one woman dead, another hospitalized. No arrests made",
     "link": "https://www.latimes.com/california/story/2026-04-20/stabbing-in-burbank-leaves-one-woman-dead-another-hospitalized-no-arrests-made"
+  },
+  {
+    "score": 92,
+    "pubdate": "2026-04-25-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration has lobbied against legislation to regulate artificial intelligence in at least six Republican-led states, deepening a split in the party over the White House’s industry-friendly AI agenda",
+    "link": "https://www.wsj.com/politics/policy/trump-republican-state-ai-regulation-74fd83c6"
   }
 ]
