@@ -1,34 +1,41 @@
 [
   {
-    "score": 501,
+    "score": 512,
     "pubdate": "2026-04-26-05-18-00 +0000",
     "source": "wsj",
     "headline": "President Trump is safe after what he described as a shooting at the White House Correspondents’ Dinner, where he was due to address the annual event in here on Saturday night",
     "link": "https://www.wsj.com/us-news/trump-evacuated-white-house-correspondents-dinner-00f54d75"
   },
   {
-    "score": 248,
+    "score": 241,
     "pubdate": "2026-04-22-21-43-55 +0000",
     "source": "nyt",
     "headline": "How the War Powers Act Could Pressure Trump to End the Iran War",
     "link": "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html"
   },
   {
-    "score": 146,
+    "score": 141,
     "pubdate": "2026-04-23-10-00-00 +0000",
     "source": "latimes",
     "headline": "California's rail systems need more riders. High gas prices could be fueling a new surge",
     "link": "https://www.latimes.com/california/story/2026-04-23/californias-rail-systems-need-more-riders-high-gas-prices-could-be-fueling-new-surge"
   },
   {
-    "score": 121,
+    "score": 123,
+    "pubdate": "2026-04-26-20-57-58 +0000",
+    "source": "nypost",
+    "headline": "WHCD shooting suspect Cole Allen flooded social media with anti-Trump fury: ‘you are f–king damned’",
+    "link": "https://nypost.com/2026/04/26/us-news/whcd-shooting-suspect-cole-allen-flooded-social-media-with-anti-trump-fury/"
+  },
+  {
+    "score": 117,
     "pubdate": "2026-04-24-21-54-00 +0000",
     "source": "wsj",
     "headline": "The Justice Department said it would end its criminal investigation of Federal Reserve Chair Jerome Powell, clearing the obstacle that has stalled Kevin Warsh’s confirmation as his successor",
     "link": "https://www.wsj.com/economy/central-banking/justice-department-will-end-probe-of-powell-clearing-path-for-kevin-warsh-e6774dfa"
   },
   {
-    "score": 117,
+    "score": 115,
     "pubdate": "2026-04-26-18-25-30 +0000",
     "source": "nyt",
     "headline": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold",
@@ -42,31 +49,24 @@
     "link": "https://www.wsj.com/politics/policy/panic-at-the-white-house-correspondents-dinner-b71d8d61"
   },
   {
-    "score": 108,
-    "pubdate": "2026-04-26-16-47-42 +0000",
-    "source": "nypost",
-    "headline": "WHCD shooting suspect Cole Allen mocked lack of security on every leg of cross-country journey in manifesto: ‘Actually insane’",
-    "link": "https://nypost.com/2026/04/26/us-news/whcd-shooting-suspect-cole-allen-mocked-lack-of-security-in-manifesto/"
+    "score": 97,
+    "pubdate": "2026-04-24-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "California's jet fuel stockpile hits two-year low, putting 'black cloud' over summer travel",
+    "link": "https://www.latimes.com/business/story/2026-04-24/california-jet-fuel-inventory-dips-to-two-year-low-as-war-strangles-global-oil-supply"
   },
   {
-    "score": 96,
-    "pubdate": "2026-04-24-16-01-00 +0000",
+    "score": 92,
+    "pubdate": "2026-04-24-13-59-00 +0000",
     "source": "wsj",
-    "headline": "The unemployment rate is low. The stock market is high. Consumer spending is healthy. But ask Americans how they’re doing, and you’d think we were in a recession.",
-    "link": "https://www.wsj.com/economy/most-americans-think-the-job-market-will-get-worse-heres-why-that-matters-d121585a"
+    "headline": "The Trump administration announced criminal charges, sanctions and multimillion-dollar rewards aimed at combating online scams coming out of Southeast Asia and targeting Americans",
+    "link": "https://www.wsj.com/politics/policy/u-s-steps-up-crackdown-on-online-scams-directed-from-southeast-asia-f17f2d03"
   },
   {
-    "score": 95,
+    "score": 90,
     "pubdate": "2026-04-20-19-35-35 +0000",
     "source": "latimes",
     "headline": "Stabbing in Burbank leaves one woman dead, another hospitalized. No arrests made",
     "link": "https://www.latimes.com/california/story/2026-04-20/stabbing-in-burbank-leaves-one-woman-dead-another-hospitalized-no-arrests-made"
-  },
-  {
-    "score": 89,
-    "pubdate": "2026-04-25-14-57-47 +0000",
-    "source": "bbc",
-    "headline": "Two killed in strike on alleged drug boat in Pacific Ocean, US military says",
-    "link": "https://www.bbc.com/news/articles/cge03pjv2zqo?at_medium=RSS&at_campaign=rss"
   }
 ]
