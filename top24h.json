@@ -1,31 +1,38 @@
 [
   {
-    "score": 146,
-    "pubdate": "2026-04-25-20-59-48 +0000",
+    "score": 142,
+    "pubdate": "2026-04-25-22-14-40 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Calls Off Witkoff and Kushner’s Travel to Pakistan for Peace Talks",
     "link": "https://www.nytimes.com/live/2026/04/25/world/iran-war-us-talks-pakistan"
   },
   {
-    "score": 62,
-    "pubdate": "2026-04-25-16-45-12 +0000",
-    "source": "nypost",
-    "headline": "King Charles will be treated to historic military first during US visit, White House schedule reveals",
-    "link": "https://nypost.com/2026/04/25/us-news/king-charles-will-be-treated-to-historic-military-first-during-us-visit-white-house-schedule-reveals/"
-  },
-  {
-    "score": 52,
+    "score": 50,
     "pubdate": "2026-04-25-09-02-36 +0000",
     "source": "nyt",
     "headline": "Under Trump, Green Card Seekers Face New Scrutiny for Views on Israel",
     "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-green-cards-scrutiny.html"
   },
   {
-    "score": 42,
-    "pubdate": "2026-04-25-17-40-51 +0000",
+    "score": 46,
+    "pubdate": "2026-04-25-21-31-01 +0000",
+    "source": "nypost",
+    "headline": "Wild bodycam footage shows California cop’s life-or-death struggle in crazed robbery suspect’s getaway car: ‘I will shoot you!’",
+    "link": "https://nypost.com/2026/04/25/us-news/antioch-cop-and-suspect-end-up-in-same-car-as-life-or-death-struggle-is-caught-on-camera/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-04-25-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration has lobbied against legislation to regulate artificial intelligence in at least six Republican-led states, deepening a split in the party over the White House’s industry-friendly AI agenda",
+    "link": "https://www.wsj.com/politics/policy/trump-republican-state-ai-regulation-74fd83c6"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-04-25-14-57-47 +0000",
     "source": "bbc",
-    "headline": "Mexico says US agents killed in crash weren't permitted to operate there",
-    "link": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss"
+    "headline": "Two killed in strike on alleged drug boat in Pacific Ocean, US military says",
+    "link": "https://www.bbc.com/news/articles/cge03pjv2zqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 37,
@@ -35,38 +42,31 @@
     "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html"
   },
   {
-    "score": 37,
-    "pubdate": "2026-04-24-22-42-22 +0000",
-    "source": "missionlocal",
-    "headline": "Oculto de la vista: la mitad de los arrestos locales de ICE tuvieron lugar a puerta cerrada, muestra un nuevo análisis",
-    "link": "https://missionlocal.org/2026/04/oculto-de-la-vista-la-mitad-de-los-arrestos-locales-de-ice-tuvieron-lugar-a-puerta-cerrada-muestra-un-nuevo-analisis/"
-  },
-  {
     "score": 36,
-    "pubdate": "2026-04-25-17-33-40 +0000",
+    "pubdate": "2026-04-25-21-41-29 +0000",
     "source": "nypost",
-    "headline": "Two police officers shot, one fatally, during prisoner transport at Chicago hospital, suspect in custody",
-    "link": "https://nypost.com/2026/04/25/us-news/two-police-officers-shot-during-prisoner-transport-at-chicago-hospital-suspect-in-custody/"
+    "headline": "Mamdani releases propaganda video promoting Soviet-style city-run grocery stores: ‘A f–king con’",
+    "link": "https://nypost.com/2026/04/25/us-news/mamdani-releases-propaganda-video-promoting-soviet-style-city-run-grocery-stores/"
   },
   {
     "score": 35,
-    "pubdate": "2026-04-25-20-49-09 +0000",
+    "pubdate": "2026-04-25-21-13-49 +0000",
     "source": "bbc",
     "headline": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
     "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 33,
-    "pubdate": "2026-04-25-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration has lobbied against legislation to regulate artificial intelligence in at least six Republican-led states, deepening a split in the party over the White House’s industry-friendly AI agenda",
-    "link": "https://www.wsj.com/politics/policy/trump-republican-state-ai-regulation-74fd83c6"
-  },
-  {
-    "score": 32,
+    "score": 30,
     "pubdate": "2026-04-25-19-57-07 +0000",
     "source": "nyt",
     "headline": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
     "link": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-04-25-12-29-37 +0000",
+    "source": "bbc",
+    "headline": "Seven dead in major Russian attack on Ukraine",
+    "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss"
   }
 ]
