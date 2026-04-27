@@ -1,31 +1,24 @@
 [
   {
-    "score": 534,
+    "score": 526,
     "pubdate": "2026-04-26-05-18-00 +0000",
     "source": "wsj",
     "headline": "President Trump is safe after what he described as a shooting at the White House Correspondents’ Dinner, where he was due to address the annual event in here on Saturday night",
     "link": "https://www.wsj.com/us-news/trump-evacuated-white-house-correspondents-dinner-00f54d75"
   },
   {
-    "score": 237,
+    "score": 214,
     "pubdate": "2026-04-22-21-43-55 +0000",
     "source": "nyt",
     "headline": "How the War Powers Act Could Pressure Trump to End the Iran War",
     "link": "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html"
   },
   {
-    "score": 137,
+    "score": 134,
     "pubdate": "2026-04-23-10-00-00 +0000",
     "source": "latimes",
     "headline": "California's rail systems need more riders. High gas prices could be fueling a new surge",
     "link": "https://www.latimes.com/california/story/2026-04-23/californias-rail-systems-need-more-riders-high-gas-prices-could-be-fueling-new-surge"
-  },
-  {
-    "score": 129,
-    "pubdate": "2026-04-26-20-57-58 +0000",
-    "source": "nypost",
-    "headline": "WHCD shooting suspect Cole Allen flooded social media with anti-Trump fury: ‘you are f–king damned’",
-    "link": "https://nypost.com/2026/04/26/us-news/whcd-shooting-suspect-cole-allen-flooded-social-media-with-anti-trump-fury/"
   },
   {
     "score": 117,
@@ -43,6 +36,13 @@
   },
   {
     "score": 115,
+    "pubdate": "2026-04-27-00-15-40 +0000",
+    "source": "nypost",
+    "headline": "Ex-President Barack Obama claims ‘we don’t know’ WHCD gunman Cole Allen’s motives — despite raving anti-Trump manifesto",
+    "link": "https://nypost.com/2026/04/26/us-news/ex-president-barack-obama-claims-we-dont-know-whcd-gunmans-motives-despite-raving-anti-trump-manifesto/"
+  },
+  {
+    "score": 113,
     "pubdate": "2026-04-26-16-20-00 +0000",
     "source": "wsj",
     "headline": "The shooting outside Trump’s dinner with the press has left Washington shaken, the soldier charged over bets on Maduro chased business success while in the Army, and San Francisco loves Chonkers the sea lion. Read more in today’s What’s News newsletter:",
@@ -50,23 +50,23 @@
   },
   {
     "score": 97,
-    "pubdate": "2026-04-24-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "California's jet fuel stockpile hits two-year low, putting 'black cloud' over summer travel",
-    "link": "https://www.latimes.com/business/story/2026-04-24/california-jet-fuel-inventory-dips-to-two-year-low-as-war-strangles-global-oil-supply"
-  },
-  {
-    "score": 96,
     "pubdate": "2026-04-24-13-59-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration announced criminal charges, sanctions and multimillion-dollar rewards aimed at combating online scams coming out of Southeast Asia and targeting Americans",
     "link": "https://www.wsj.com/politics/policy/u-s-steps-up-crackdown-on-online-scams-directed-from-southeast-asia-f17f2d03"
   },
   {
-    "score": 88,
-    "pubdate": "2026-04-20-03-55-16 +0000",
-    "source": "nyt",
-    "headline": "2 U.S. Government Workers Among 4 Killed in Car Crash in Mexico",
-    "link": "https://www.nytimes.com/2026/04/19/world/americas/mexico-investigator-crash.html"
+    "score": 95,
+    "pubdate": "2026-04-24-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "California's jet fuel stockpile hits two-year low, putting 'black cloud' over summer travel",
+    "link": "https://www.latimes.com/business/story/2026-04-24/california-jet-fuel-inventory-dips-to-two-year-low-as-war-strangles-global-oil-supply"
+  },
+  {
+    "score": 87,
+    "pubdate": "2026-04-26-11-00-00 +0000",
+    "source": "wsj",
+    "headline": "Bill Perkins Doesn’t Think You Should Wait to Spend Your Money. He Told Us Why.",
+    "link": "https://www.wsj.com/business/die-with-zero-bill-perkins-wsj-money-interview-2a4440f4?mod=rss_markets_main"
   }
 ]
