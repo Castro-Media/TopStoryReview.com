@@ -1,9 +1,37 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-04-27-19-17-26 +0000",
+    "score": 18,
+    "pubdate": "2026-04-27-21-14-23 +0000",
+    "source": "bbc",
+    "headline": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+    "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-27-21-11-47 +0000",
+    "source": "bbc",
+    "headline": "What we're learning about suspected Washington press dinner gunman",
+    "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-04-27-21-10-05 +0000",
     "source": "nyt",
-    "headline": "Judge Delays Order to Force Penn to Turn Over List of Jews to Trump Administration",
-    "link": "https://www.nytimes.com/2026/04/27/us/trump-subpoena-list-jews-university-pennsylvania.html"
+    "headline": "C.E.O.s Lean In on ‘Resilience’ to Manage Global Turmoil",
+    "link": "https://www.nytimes.com/2026/04/27/business/ceo-companies-resilience-iran-war-inflation.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-04-27-21-14-23 +0000",
+    "source": "bbc",
+    "headline": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+    "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-04-27-21-11-47 +0000",
+    "source": "bbc",
+    "headline": "What we're learning about suspected Washington press dinner gunman",
+    "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss"
   }
 ]
