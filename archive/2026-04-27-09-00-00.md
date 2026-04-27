@@ -31,7 +31,7 @@ title: World News
     </div>
 </div>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-04-27 09:00 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-04-27 09:56 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -39,75 +39,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss">Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-06-52-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/04/27/us-news/patricia-heaton-urges-friends-on-the-left-to-tone-down-extreme-rhetoric-after-whcd-shooting/">Patricia Heaton urges &#8216;friends on the left&#8217; to tone down extreme rhetoric after WHCD shooting</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-27-07-27-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/cn7871n27nlo?at_medium=RSS&at_campaign=rss">Pirates seize another vessel off Somali coast as threat level increased</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-06-53-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&at_campaign=rss">The Chinese sports brand taking on Nike and Adidas</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-07-09-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/gold-falls-amid-dollars-strength-f6cad6e0?mod=rss_markets_main">Gold Slips as Stalled U.S.-Iran Talks Push Oil Higher</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-07-37-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-rising-strait-of-hormuz-tensions-1dad911a?mod=rss_markets_main">Oil Rises, Asian Markets Divided as AI Boom Overshadows Middle East Tensions</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-07-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/tech/taiwan-court-hands-down-prison-sentences-over-leaks-of-tsmc-trade-secrets-55d5bdf9">Taiwan Court Hands Down Prison Sentences Over Leaks of TSMC Trade Secrets</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-07-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/c8dl3z9878no?at_medium=RSS&at_campaign=rss">Less bread and WFH Fridays &#8211; what Pret boss knows about our habits</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-06-44-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/jgb-futures-edge-lower-as-bojs-two-day-meeting-kicks-off-7273fafa?mod=rss_markets_main">Eurozone Bond Yield Edge Higher; ECB Meeting Awaited</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-07-27-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/galps-key-earnings-metric-boosted-by-higher-production-prices-d5c7dd02?mod=pls_whats_news_us_business_f">Galp&#8217;s Key Earnings Metric Boosted by Higher Production, Prices</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-06-50-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -267,124 +198,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-532e6dea?mod=rss_markets_main">Oil Gains More Than 2% on Stalled Iran Peace Talks</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-07-38-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/gold-falls-amid-dollars-strength-f6cad6e0?mod=rss_markets_main">Gold Slips as Stalled U.S.-Iran Talks Push Oil Higher</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-07-37-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-rising-strait-of-hormuz-tensions-1dad911a?mod=rss_markets_main">Oil Rises, Asian Markets Divided as AI Boom Overshadows Middle East Tensions</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-07-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/04/27/us-news/patricia-heaton-urges-friends-on-the-left-to-tone-down-extreme-rhetoric-after-whcd-shooting/">Patricia Heaton urges &#8216;friends on the left&#8217; to tone down extreme rhetoric after WHCD shooting</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-27-07-27-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/04/27/us-news/patricia-heaton-urges-friends-on-the-left-to-tone-down-extreme-rhetoric-after-whcd-shooting/">Patricia Heaton urges &#8216;friends on the left&#8217; to tone down extreme rhetoric after WHCD shooting</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-27-07-27-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/jgb-futures-edge-lower-as-bojs-two-day-meeting-kicks-off-7273fafa?mod=rss_markets_main">Eurozone Bond Yield Edge Higher; ECB Meeting Awaited</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-07-27-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&at_campaign=rss">The Chinese sports brand taking on Nike and Adidas</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-07-09-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&at_campaign=rss">The Chinese sports brand taking on Nike and Adidas</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-07-09-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&at_campaign=rss">The Chinese sports brand taking on Nike and Adidas</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-07-09-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/tech/taiwan-court-hands-down-prison-sentences-over-leaks-of-tsmc-trade-secrets-55d5bdf9">Taiwan Court Hands Down Prison Sentences Over Leaks of TSMC Trade Secrets</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-07-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/cn7871n27nlo?at_medium=RSS&at_campaign=rss">Pirates seize another vessel off Somali coast as threat level increased</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-06-53-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/cn7871n27nlo?at_medium=RSS&at_campaign=rss">Pirates seize another vessel off Somali coast as threat level increased</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-06-53-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-mostly-edge-higher-as-traders-weigh-mideast-developments-d1d60607?mod=rss_markets_main">Dollar Steady as Iran War Uncertainty Persists</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-06-53-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss">Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-06-52-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss">Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-06-52-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/galps-key-earnings-metric-boosted-by-higher-production-prices-d5c7dd02?mod=pls_whats_news_us_business_f">Galp&#8217;s Key Earnings Metric Boosted by Higher Production, Prices</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-27-06-50-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/c8dl3z9878no?at_medium=RSS&at_campaign=rss">Less bread and WFH Fridays &#8211; what Pret boss knows about our habits</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-27-06-44-54 +0000</span></div>
-            </li>
         
     </ul>
 </div>
