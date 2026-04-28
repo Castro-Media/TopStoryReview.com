@@ -1,13 +1,13 @@
 [
   {
-    "score": 201,
-    "pubdate": "2026-04-27-19-43-00 +0000",
+    "score": 209,
+    "pubdate": "2026-04-28-07-40-00 +0000",
     "source": "wsj",
     "headline": "President Trump is calling on Disney’s ABC to remove late-night host Jimmy Kimmel over a comedy bit last week that referred to first lady Melania Trump as an “expectant widow”",
     "link": "https://www.wsj.com/business/media/jimmy-kimmel-melania-trump-widow-comments-40f9478a"
   },
   {
-    "score": 105,
+    "score": 100,
     "pubdate": "2026-04-27-17-57-06 +0000",
     "source": "nyt",
     "headline": "Iran’s Foreign Minister Is in Russia for Talks With Putin on Middle East War",
@@ -21,32 +21,39 @@
     "link": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html"
   },
   {
-    "score": 92,
+    "score": 95,
     "pubdate": "2026-04-27-22-50-26 +0000",
     "source": "nyt",
     "headline": "King Charles Visits Trump’s Washington After Chaos From Press Dinner Shooting",
     "link": "https://www.nytimes.com/2026/04/27/us/politics/trump-king-charles-royals-dc-visit.html"
   },
   {
-    "score": 69,
-    "pubdate": "2026-04-27-09-27-55 +0000",
-    "source": "nypost",
-    "headline": "Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI",
-    "link": "https://nypost.com/2026/04/27/business/elon-musk-and-openai-ceo-sam-altman-head-to-court-in-high-stakes-showdown-over-ai/"
-  },
-  {
-    "score": 68,
+    "score": 66,
     "pubdate": "2026-04-27-21-49-42 +0000",
     "source": "nyt",
     "headline": "Billionaires Are Dominating California Politics, From Governor’s Race to Wealth Tax Proposal",
     "link": "https://www.nytimes.com/2026/04/27/us/politics/california-billionaires-tax-governor.html"
   },
   {
-    "score": 63,
+    "score": 65,
+    "pubdate": "2026-04-27-09-27-55 +0000",
+    "source": "nypost",
+    "headline": "Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI",
+    "link": "https://nypost.com/2026/04/27/business/elon-musk-and-openai-ceo-sam-altman-head-to-court-in-high-stakes-showdown-over-ai/"
+  },
+  {
+    "score": 64,
     "pubdate": "2026-04-28-01-00-00 +0000",
     "source": "wsj",
     "headline": "Pushing past a third assassination attempt, this time at a Washington, D.C. hotel, President Trump is forging ahead with his $400 million White House ballroom",
     "link": "https://www.wsj.com/politics/policy/pushing-past-third-assassination-attempt-trump-forges-ahead-with-his-ballroom-ae7da3ba"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-04-28-07-20-39 +0000",
+    "source": "nypost",
+    "headline": "EPA chief Lee Zeldin slams ‘uninformed’ Democrat lawmaker who suggested he drink weed killer during heated congressional hearing",
+    "link": "https://nypost.com/2026/04/28/us-news/epa-chief-lee-zeldin-slams-uninformed-democrat-lawmaker-who-suggested-he-drink-weed-killer-during-heated-congressional-hearing-self-implosion/"
   },
   {
     "score": 51,
@@ -56,17 +63,10 @@
     "link": "https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html"
   },
   {
-    "score": 47,
-    "pubdate": "2026-04-27-21-47-10 +0000",
+    "score": 48,
+    "pubdate": "2026-04-27-20-12-17 +0000",
     "source": "nyt",
-    "headline": "Cole Tomas Allen, Correspondents’ Dinner Shooting Suspect, Was Propelled by Outrage, Authorities Say",
-    "link": "https://www.nytimes.com/2026/04/27/us/politics/cole-allen-suspect-washington-correspondents-dinner-shooting.html"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-04-27-17-43-00 +0000",
-    "source": "wsj",
-    "headline": "The Year of the Molotov Cocktail: American Antigovernment Violence Hits a 30-Year High",
-    "link": "https://www.wsj.com/politics/policy/the-year-of-the-molotov-cocktail-american-antigovernment-violence-hits-a-30-year-high-bca03a67"
+    "headline": "Oil Rises, and Stocks Tick Higher, as Iran Makes New Peace Offer",
+    "link": "https://www.nytimes.com/2026/04/26/business/oil-stocks-gas-iran.html"
   }
 ]
