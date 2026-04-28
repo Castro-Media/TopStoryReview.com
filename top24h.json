@@ -1,6 +1,6 @@
 [
   {
-    "score": 230,
+    "score": 223,
     "pubdate": "2026-04-28-07-40-00 +0000",
     "source": "wsj",
     "headline": "President Trump is calling on Disney’s ABC to remove late-night host Jimmy Kimmel over a comedy bit last week that referred to first lady Melania Trump as an “expectant widow”",
@@ -14,14 +14,14 @@
     "link": "https://www.nytimes.com/2026/04/27/world/europe/iran-foreign-minister-russia.html"
   },
   {
-    "score": 96,
+    "score": 95,
     "pubdate": "2026-04-27-14-08-53 +0000",
     "source": "nyt",
     "headline": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
     "link": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html"
   },
   {
-    "score": 89,
+    "score": 81,
     "pubdate": "2026-04-27-22-50-26 +0000",
     "source": "nyt",
     "headline": "King Charles Visits Trump’s Washington After Chaos From Press Dinner Shooting",
@@ -35,18 +35,11 @@
     "link": "https://www.wsj.com/politics/policy/pushing-past-third-assassination-attempt-trump-forges-ahead-with-his-ballroom-ae7da3ba"
   },
   {
-    "score": 65,
+    "score": 63,
     "pubdate": "2026-04-28-01-05-00 +0000",
     "source": "wsj",
     "headline": "The Defense Department can temporarily require journalists to be escorted inside the Pentagon, a federal appeals court ruled Monday, a win for the department in its efforts to limit media access",
     "link": "https://www.wsj.com/politics/national-security/appeals-court-says-pentagon-can-temporarily-mandate-escorts-for-journalists-84042f19"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-04-27-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Becerra's surge in California governor race draws fresh scrutiny to candidacy, long government record",
-    "link": "https://www.latimes.com/california/story/2026-04-27/becerras-surge-california-governor-race-draws-attention-to-candidacy-long-government-record"
   },
   {
     "score": 60,
@@ -56,17 +49,24 @@
     "link": "https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html"
   },
   {
-    "score": 53,
+    "score": 52,
     "pubdate": "2026-04-28-07-32-35 +0000",
     "source": "bbc",
     "headline": "Austrian goes on trial accused of plotting attack on Taylor Swift concert",
     "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 52,
+    "score": 51,
     "pubdate": "2026-04-28-07-20-39 +0000",
     "source": "nypost",
     "headline": "EPA chief Lee Zeldin slams ‘uninformed’ Democrat lawmaker who suggested he drink weed killer during heated congressional hearing",
     "link": "https://nypost.com/2026/04/28/us-news/epa-chief-lee-zeldin-slams-uninformed-democrat-lawmaker-who-suggested-he-drink-weed-killer-during-heated-congressional-hearing-self-implosion/"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-04-27-18-07-33 +0000",
+    "source": "nypost",
+    "headline": "California’s billionaire tax gamble — insiders warn of fallout no one is talking about",
+    "link": "https://nypost.com/2026/04/27/business/billionaire-tax-could-kill-100000-california-jobs-and-sink-revenue-study/"
   }
 ]
