@@ -1,72 +1,72 @@
 [
   {
-    "score": 223,
-    "pubdate": "2026-04-28-07-40-00 +0000",
+    "score": 241,
+    "pubdate": "2026-04-28-10-53-00 +0000",
     "source": "wsj",
-    "headline": "President Trump is calling on Disney’s ABC to remove late-night host Jimmy Kimmel over a comedy bit last week that referred to first lady Melania Trump as an “expectant widow”",
+    "headline": "Late-night host Jimmy Kimmel dismissed President Trump’s calls for Disney’s ABC to remove him over a joke he made last week about Melania Trump, calling his prior remarks a “very light roast”",
     "link": "https://www.wsj.com/business/media/jimmy-kimmel-melania-trump-widow-comments-40f9478a"
   },
   {
-    "score": 97,
+    "score": 99,
+    "pubdate": "2026-04-28-05-33-17 +0000",
+    "source": "bbc",
+    "headline": "In pictures: King Charles and Queen Camilla at garden party and White House on US state visit",
+    "link": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 95,
     "pubdate": "2026-04-27-17-57-06 +0000",
     "source": "nyt",
     "headline": "Iran’s Foreign Minister Is in Russia for Talks With Putin on Middle East War",
     "link": "https://www.nytimes.com/2026/04/27/world/europe/iran-foreign-minister-russia.html"
   },
   {
-    "score": 95,
+    "score": 92,
     "pubdate": "2026-04-27-14-08-53 +0000",
     "source": "nyt",
     "headline": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
     "link": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html"
   },
   {
-    "score": 81,
-    "pubdate": "2026-04-27-22-50-26 +0000",
-    "source": "nyt",
-    "headline": "King Charles Visits Trump’s Washington After Chaos From Press Dinner Shooting",
-    "link": "https://www.nytimes.com/2026/04/27/us/politics/trump-king-charles-royals-dc-visit.html"
+    "score": 82,
+    "pubdate": "2026-04-28-05-48-17 +0000",
+    "source": "bbc",
+    "headline": "Inside Trump press dinner shooting suspect's court appearance",
+    "link": "https://www.bbc.com/news/videos/cj6p277r3k4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 67,
-    "pubdate": "2026-04-28-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Pushing past a third assassination attempt, this time at a Washington, D.C. hotel, President Trump is forging ahead with his $400 million White House ballroom",
-    "link": "https://www.wsj.com/politics/policy/pushing-past-third-assassination-attempt-trump-forges-ahead-with-his-ballroom-ae7da3ba"
+    "score": 56,
+    "pubdate": "2026-04-27-17-45-34 +0000",
+    "source": "startribune",
+    "headline": "Renee Good’s widow asks feds to hand over vehicle late wife was driving when she was shot",
+    "link": "https://www.startribune.com/renee-goods-widow-asks-feds-to-hand-over-vehicle-late-wife-was-driving-during-fatal-ice-shooting/601804458"
   },
   {
-    "score": 63,
-    "pubdate": "2026-04-28-01-05-00 +0000",
-    "source": "wsj",
-    "headline": "The Defense Department can temporarily require journalists to be escorted inside the Pentagon, a federal appeals court ruled Monday, a win for the department in its efforts to limit media access",
-    "link": "https://www.wsj.com/politics/national-security/appeals-court-says-pentagon-can-temporarily-mandate-escorts-for-journalists-84042f19"
-  },
-  {
-    "score": 60,
+    "score": 55,
     "pubdate": "2026-04-27-22-00-56 +0000",
     "source": "nyt",
     "headline": "Carney to Launch Sovereign Wealth Fund to Distance Canada’s Economy From U.S.",
     "link": "https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html"
   },
   {
-    "score": 52,
-    "pubdate": "2026-04-28-07-32-35 +0000",
-    "source": "bbc",
-    "headline": "Austrian goes on trial accused of plotting attack on Taylor Swift concert",
-    "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-04-28-07-20-39 +0000",
-    "source": "nypost",
-    "headline": "EPA chief Lee Zeldin slams ‘uninformed’ Democrat lawmaker who suggested he drink weed killer during heated congressional hearing",
-    "link": "https://nypost.com/2026/04/28/us-news/epa-chief-lee-zeldin-slams-uninformed-democrat-lawmaker-who-suggested-he-drink-weed-killer-during-heated-congressional-hearing-self-implosion/"
-  },
-  {
-    "score": 51,
+    "score": 55,
     "pubdate": "2026-04-27-18-07-33 +0000",
     "source": "nypost",
     "headline": "California’s billionaire tax gamble — insiders warn of fallout no one is talking about",
     "link": "https://nypost.com/2026/04/27/business/billionaire-tax-could-kill-100000-california-jobs-and-sink-revenue-study/"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-04-28-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Pushing past a third assassination attempt, this time at a Washington, D.C. hotel, President Trump is forging ahead with his $400 million White House ballroom",
+    "link": "https://www.wsj.com/politics/policy/pushing-past-third-assassination-attempt-trump-forges-ahead-with-his-ballroom-ae7da3ba"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-04-27-16-48-00 +0000",
+    "source": "wsj",
+    "headline": "United Airlines Abandons Pursuit of Rival American Airlines",
+    "link": "https://www.wsj.com/business/airlines/united-airlines-abandons-pursuit-of-rival-american-airlines-7cda3ca6?mod=pls_whats_news_us_business_f"
   }
 ]

@@ -1,13 +1,493 @@
 [
   {
+    "headline": "Coca-Cola Profit Rises on Concentrate Sales Growth",
+    "link": "https://www.wsj.com/business/retail/coca-cola-profit-rises-on-concentrate-sales-growth-18aac9e9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-11-26-00 +0000"
+  },
+  {
+    "headline": "Mexican cartel leader found hiding in a ditch",
+    "link": "https://www.bbc.com/news/articles/cj6p2r9gk8go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-11-14-25 +0000"
+  },
+  {
+    "headline": "'It's bizarre': Californians grapple with revelation that press gala gunman suspect was neighbour",
+    "link": "https://www.bbc.com/news/articles/c392knk3w2jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-11-14-23 +0000"
+  },
+  {
+    "headline": "BYD’s Quarterly Profit Slides 55%",
+    "link": "https://www.wsj.com/business/earnings/byds-quarterly-profit-slides-55-0bc13c7b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-11-09-00 +0000"
+  },
+  {
+    "headline": "Melania and Donald Trump vs. Jimmy Kimmel revives a debate about the First Amendment, broadcast licenses and tolerance for this sort of discussion. Read more in today’s WSJ politics newsletter:",
+    "link": "https://www.wsj.com/politics/melania-and-donald-trump-vs-jimmy-kimmel-714bf166",
+    "source": "wsj",
+    "pubdate": "2026-04-28-11-07-00 +0000"
+  },
+  {
+    "headline": "How South Korea Uses A.I. to Check on Its Elderly",
+    "link": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
+    "source": "nyt",
+    "pubdate": "2026-04-28-11-02-17 +0000"
+  },
+  {
+    "headline": "How South Korea Uses A.I. to Check on Its Elderly",
+    "link": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
+    "source": "nyt",
+    "pubdate": "2026-04-28-11-02-17 +0000"
+  },
+  {
+    "headline": "Titan submarine victims’ bodies were returned as ‘slush’ in ‘shoeboxes’",
+    "link": "https://nypost.com/2026/04/28/us-news/titan-submarine-victims-bodies-were-returned-as-slush-in-shoeboxes/",
+    "source": "nypost",
+    "pubdate": "2026-04-28-11-01-59 +0000"
+  },
+  {
+    "headline": "Molly Sinclair McCartney, globe-trotting traveler and Post reporter, dies at 84",
+    "link": "https://www.washingtonpost.com/obituaries/2026/04/28/molly-sinclair-mccartney-dead/",
+    "source": "wapo",
+    "pubdate": "2026-04-28-11-00-18 +0000"
+  },
+  {
+    "headline": "Michele Tafoya must win over fellow Republicans before she can chase a U.S. Senate seat",
+    "link": "https://www.startribune.com/michele-tafoya-must-win-over-her-own-party-before-she-can-chase-a-us-senate-seat/601640250",
+    "source": "startribune",
+    "pubdate": "2026-04-28-11-00-01 +0000"
+  },
+  {
+    "headline": "Souhan: Jaden McDaniels blows off subpar performance, predicts Wolves in six",
+    "link": "https://www.startribune.com/jaden-mcdaniels-timberwolves-nuggets-playoff-series-jim-souhan-column/601802793",
+    "source": "startribune",
+    "pubdate": "2026-04-28-11-00-01 +0000"
+  },
+  {
+    "headline": "Minnesota’s Bizzy Cold Brew believes it can beat Starbucks",
+    "link": "https://www.startribune.com/north-star-insider-bizzy-alex-french-andrew-healy/601804677",
+    "source": "startribune",
+    "pubdate": "2026-04-28-11-00-01 +0000"
+  },
+  {
+    "headline": "Gunman, reportedly age 89, opens fire at 2 locations in Greek capital, wounding several people",
+    "link": "https://nypost.com/2026/04/28/world-news/gunman-reportedly-age-89-opens-fire-at-2-locations-in-greek-capital-wounding-several-people/",
+    "source": "nypost",
+    "pubdate": "2026-04-28-10-57-07 +0000"
+  },
+  {
+    "headline": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d82155ae?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-57-00 +0000"
+  },
+  {
+    "headline": "Charges Against Suspect in Trump Assassination Attempt Based on Shotgun Shell and a Screed",
+    "link": "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html",
+    "source": "nyt",
+    "pubdate": "2026-04-28-10-55-21 +0000"
+  },
+  {
+    "headline": "Charges Against Suspect in Trump Assassination Attempt Based on Shotgun Shell and a Screed",
+    "link": "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html",
+    "source": "nyt",
+    "pubdate": "2026-04-28-10-55-21 +0000"
+  },
+  {
+    "headline": "When America and China Were Friendlier—and 10,000 Soldiers Built a Bike Track",
+    "link": "https://www.wsj.com/world/china/when-america-and-china-were-friendlierand-10-000-soldiers-built-a-bike-track-d24da136",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-55-00 +0000"
+  },
+  {
+    "headline": "Late-night host Jimmy Kimmel dismissed President Trump’s calls for Disney’s ABC to remove him over a joke he made last week about Melania Trump, calling his prior remarks a “very light roast”",
+    "link": "https://www.wsj.com/business/media/jimmy-kimmel-melania-trump-widow-comments-40f9478a",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-53-00 +0000"
+  },
+  {
+    "headline": "Kimmel Pushes Back on Trump’s Calls for Disney to Fire Him After Melania Joke",
+    "link": "https://www.wsj.com/business/media/jimmy-kimmel-melania-trump-widow-comments-40f9478a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-53-00 +0000"
+  },
+  {
+    "headline": "Kimmel Pushes Back on Trump’s Calls for Disney to Fire Him After Melania Joke",
+    "link": "https://www.wsj.com/business/media/jimmy-kimmel-melania-trump-widow-comments-40f9478a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-53-00 +0000"
+  },
+  {
+    "headline": "Hilton Boosts Adjusted Earnings Per Share Target",
+    "link": "https://www.wsj.com/business/earnings/hilton-boosts-adjusted-earnings-per-share-target-d8c6ed83?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-52-00 +0000"
+  },
+  {
+    "headline": "One Person Appears to Be Missing From King Charles’s U.S. Itinerary: Prince Harry",
+    "link": "https://www.nytimes.com/2026/04/28/us/prince-harry-king-charles-us-visit.html",
+    "source": "nyt",
+    "pubdate": "2026-04-28-10-51-17 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-a8ac190c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-51-00 +0000"
+  },
+  {
+    "headline": "BBC reports from scene of fatal Indonesia train crash",
+    "link": "https://www.bbc.com/news/videos/c4g0zep6yl9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-50-37 +0000"
+  },
+  {
+    "headline": "Social media restrictions for under-16s even if no ban, minister says",
+    "link": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-46-55 +0000"
+  },
+  {
+    "headline": "UPS Plots Return to Growth After Profit, Revenue Falls",
+    "link": "https://www.wsj.com/business/earnings/ups-plots-return-to-growth-after-profit-revenue-falls-7a4f9290?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-46-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-28be79f7?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-45-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-28be79f7?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-45-00 +0000"
+  },
+  {
+    "headline": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/health/pharma/health-care-roundup-market-talk-1de5df6c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-40-00 +0000"
+  },
+  {
+    "headline": "Kimberly-Clark Posts Higher Profit and Revenue",
+    "link": "https://www.wsj.com/business/earnings/kimberly-clark-posts-higher-profit-and-revenue-bcaa2887?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-39-00 +0000"
+  },
+  {
+    "headline": "Lip reader reveals what President Trump said to King Charles III after royals arrived at White House",
+    "link": "https://nypost.com/2026/04/28/us-news/lip-reader-reveals-what-president-trump-said-to-king-charles-iii-after-royals-arrived-at-white-house/",
+    "source": "nypost",
+    "pubdate": "2026-04-28-10-37-24 +0000"
+  },
+  {
+    "headline": "Lip reader reveals what President Trump said to King Charles III after royals arrived at White House",
+    "link": "https://nypost.com/2026/04/28/us-news/lip-reader-reveals-what-president-trump-said-to-king-charles-iii-after-royals-arrived-at-white-house/",
+    "source": "nypost",
+    "pubdate": "2026-04-28-10-37-24 +0000"
+  },
+  {
+    "headline": "GM Raises Adjusted-Profit Guidance on Lower Tariff Costs",
+    "link": "https://www.wsj.com/business/earnings/gm-raises-adjusted-profit-guidance-on-lower-tariff-costs-52a449ab?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-37-00 +0000"
+  },
+  {
+    "headline": "Austrian citizen pleads guilty to Taylor Swift concert attack plot",
+    "link": "https://www.cbc.ca/news/world/austria-guilty-plea-taylor-swift-concert-plot-9.7179609?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-04-28-10-33-36 +0000"
+  },
+  {
+    "headline": "Hipster NYC straphangers fear third straight summer of hell on G train: ‘Here we are again’",
+    "link": "https://nypost.com/2026/04/28/us-news/hipster-nyc-straphangers-fear-third-straight-summer-of-hell-on-g-train/",
+    "source": "nypost",
+    "pubdate": "2026-04-28-10-30-00 +0000"
+  },
+  {
+    "headline": "Trouble in Paradise? Timeshares Hint at Consumer Angst",
+    "link": "https://www.wsj.com/finance/stocks/trouble-in-paradise-timeshares-hint-at-consumer-angst-db4239ed?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-30-00 +0000"
+  },
+  {
+    "headline": "Airlines cutting fares to lure hesitant customers, says Wizz Air",
+    "link": "https://www.bbc.com/news/articles/c3exel4p1yqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-25-31 +0000"
+  },
+  {
+    "headline": "Airlines cutting fares to lure hesitant customers, says Wizz Air",
+    "link": "https://www.bbc.com/news/articles/c3exel4p1yqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-25-31 +0000"
+  },
+  {
+    "headline": "'I jumped around the house': Sabastian Sawe's parents celebrate marathon record",
+    "link": "https://www.bbc.com/news/videos/cn0pl57xlppo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-17-08 +0000"
+  },
+  {
+    "headline": "'I jumped around the house': Sabastian Sawe's parents celebrate marathon record",
+    "link": "https://www.bbc.com/news/videos/cn0pl57xlppo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-17-08 +0000"
+  },
+  {
+    "headline": "'I jumped around the house': Sabastian Sawe's parents celebrate marathon record",
+    "link": "https://www.bbc.com/news/videos/cn0pl57xlppo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-17-08 +0000"
+  },
+  {
+    "headline": "Bill Maher and David Cross’ interview turns into an argument on trans rights: ‘Looney left’",
+    "link": "https://nypost.com/2026/04/28/us-news/bill-maher-and-david-cross-in-war-of-words-over-looney-left-and-trans-rights/",
+    "source": "nypost",
+    "pubdate": "2026-04-28-10-13-12 +0000"
+  },
+  {
+    "headline": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
+    "link": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-04-28-10-12-06 +0000"
+  },
+  {
+    "headline": "What to Know About King Charles and Queen Camilla’s U.S. State Visit Hosted by Trump",
+    "link": "https://www.nytimes.com/2026/04/26/world/europe/king-charles-queen-camilla-us-visit-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-04-28-10-12-06 +0000"
+  },
+  {
+    "headline": "No way to raise Mandelson concerns, former senior official says",
+    "link": "https://www.bbc.com/news/articles/c4g8x7vez4no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-12-00 +0000"
+  },
+  {
+    "headline": "'Emergency handbrake' needed on sickness benefits, Blair think tank says",
+    "link": "https://www.bbc.com/news/articles/c1krkdnwv1yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-11-28 +0000"
+  },
+  {
+    "headline": "'Emergency handbrake' needed on sickness benefits, Blair think tank says",
+    "link": "https://www.bbc.com/news/articles/c1krkdnwv1yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-11-28 +0000"
+  },
+  {
+    "headline": "U.K. Population to Grow More Slowly on Fewer Migrants",
+    "link": "https://www.wsj.com/world/americas/u-k-population-to-grow-more-slowly-on-fewer-migrants-b924b67c",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-11-00 +0000"
+  },
+  {
+    "headline": "Musk v Altman: Why the tech billionaires and former friends are now facing off in court",
+    "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-10-54 +0000"
+  },
+  {
+    "headline": "The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-04-28-10-08-10 +0000"
+  },
+  {
+    "headline": "The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-04-28-10-08-10 +0000"
+  },
+  {
+    "headline": "The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-04-28-10-08-10 +0000"
+  },
+  {
+    "headline": "Man admits plotting attack on Taylor Swift concert in Vienna",
+    "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-08-01 +0000"
+  },
+  {
+    "headline": "Man admits plotting attack on Taylor Swift concert in Vienna",
+    "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-08-01 +0000"
+  },
+  {
+    "headline": "Japan Airlines trials humanoid robots as ground handlers",
+    "link": "https://www.bbc.com/news/articles/cpwp87j1llvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-03-46 +0000"
+  },
+  {
+    "headline": "BP profits more than double as Iran war sends oil prices higher",
+    "link": "https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-10-02-19 +0000"
+  },
+  {
+    "headline": "Spotify Hits 293 Million Subscribers",
+    "link": "https://www.wsj.com/business/earnings/spotify-spot-q1-earnings-report-2026-stock-0fa4e106?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-01-00 +0000"
+  },
+  {
+    "headline": "Commentary: A cheat sheet for the California governor debate: Here's what to watch for",
+    "link": "https://www.latimes.com/california/story/2026-04-28/california-governor-debate-times-columnists-on-what-to-watch-for",
+    "source": "latimes",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Supreme Court will hear Trump's bid to end legal protection for up to 1.3 million immigrants",
+    "link": "https://www.latimes.com/politics/story/2026-04-28/supreme-court-will-hear-trumps-bid-to-end-legal-protection-for-up-to-1-3-million-immigrants",
+    "source": "latimes",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Woke NYC commission outsources its own job to study slavery reparations",
+    "link": "https://nypost.com/2026/04/28/us-news/woke-nyc-commission-outsources-its-own-job-to-study-reparations/",
+    "source": "nypost",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "NYC claims more than 25% of Airbnb hosts are flouting short-term rental laws — including landlord posting phony profiles of glamorous women",
+    "link": "https://nypost.com/2026/04/28/business/nyc-claims-more-than-25-of-airbnb-hosts-are-flouting-short-term-rental-laws/",
+    "source": "nypost",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Drones join LAPD helicopters in city skies for standoffs, chases — and surveillance",
+    "link": "https://www.latimes.com/california/story/2026-04-28/lapd-drone-helicopter-program",
+    "source": "latimes",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Supreme Court will hear Trump's bid to end legal protection for up to 1.3 million immigrants",
+    "link": "https://www.latimes.com/politics/story/2026-04-28/supreme-court-will-hear-trumps-bid-to-end-legal-protection-for-up-to-1-3-million-immigrants",
+    "source": "latimes",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Contributor: How Spanish speakers are shut out of L.A.'s planning processes",
+    "link": "https://www.latimes.com/opinion/story/2026-04-28/spanish-input-public-comment-transit-projects",
+    "source": "latimes",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Commentary: A cheat sheet for the California governor debate: Here's what to watch for",
+    "link": "https://www.latimes.com/california/story/2026-04-28/california-governor-debate-times-columnists-on-what-to-watch-for",
+    "source": "latimes",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Cole Tomas Allen purchased weapons in L.A.'s South Bay, a hot spot for gun sales",
+    "link": "https://www.latimes.com/california/story/2026-04-28/torrance-hometown-of-suspect-in-press-gala-shooting-oasis-for-la-county-gun-lovers",
+    "source": "latimes",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "NYC claims more than 25% of Airbnb hosts are flouting short-term rental laws — including landlord posting phony profiles of glamorous women",
+    "link": "https://nypost.com/2026/04/28/business/nyc-claims-more-than-25-of-airbnb-hosts-are-flouting-short-term-rental-laws/",
+    "source": "nypost",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Best Place for a Data Center? Croatia",
+    "link": "https://www.wsj.com/opinion/the-best-place-for-a-data-center-croatia-1e096b90?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "California drone maker to spend billions of dollars as it expands manufacturing in the state",
+    "link": "https://www.latimes.com/business/story/2026-04-28/california-drone-maker-to-spend-billions-of-dollars-as-it-expands-manufacturing-in-state",
+    "source": "latimes",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Hiltzik: A crypto mogul's lawsuit against a Trump-linked crypto firm shows the peril of investing with Trump",
+    "link": "https://www.latimes.com/business/story/2026-04-28/a-crypto-moguls-case-against-a-trump-crypto-firm-shows-the-peril-of-investing-with-trump",
+    "source": "latimes",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Best Place for a Data Center? Croatia",
+    "link": "https://www.wsj.com/opinion/the-best-place-for-a-data-center-croatia-1e096b90",
+    "source": "wsj",
+    "pubdate": "2026-04-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Sterling Could Fall Further as U.K. PM Faces Vote Over Mandelson Appointment",
+    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-as-traders-focus-on-bojs-guidance-4c3a1d3c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-28-09-59-00 +0000"
+  },
+  {
+    "headline": "Hot Chocolate founder and You Sexy Thing co-writer Tony Wilson dies",
+    "link": "https://www.bbc.com/news/articles/czx26yvgw64o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-09-58-36 +0000"
+  },
+  {
+    "headline": "U.S. Treasury Yields, Dollar Rise",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-lower-ahead-of-boj-decision-6a0a4e35?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-28-09-55-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/28/us/king-charles-us-visit-trump/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-04-28-09-48-30 +0000"
+  },
+  {
+    "headline": "Barclays Posts Higher Profit Despite One-Off Costs",
+    "link": "https://www.wsj.com/business/earnings/barclays-posts-higher-profit-on-top-line-growth-1aea3fa6?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-04-28-09-44-00 +0000"
+  },
+  {
+    "headline": "Barclays Posts Higher Profit Despite One-Off Costs",
+    "link": "https://www.wsj.com/business/earnings/barclays-posts-higher-profit-on-top-line-growth-1aea3fa6?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-28-09-44-00 +0000"
+  },
+  {
+    "headline": "Megan Thee Stallion pulls out of Moulin Rouge show",
+    "link": "https://www.bbc.com/news/articles/czj2ynnkkdwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-09-36-27 +0000"
+  },
+  {
     "headline": "Key points as MPs question former Foreign Office boss on Mandelson vetting row",
     "link": "https://www.bbc.com/news/articles/cn8p7vn759xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-28-09-36-01 +0000"
   },
   {
-    "headline": "Chip Startup Aims to Shatter AI’s Dreaded Memory Wall",
-    "link": "https://www.wsj.com/tech/chip-startup-aims-to-shatter-ais-dreaded-memory-wall-b5f4c563?mod=pls_whats_news_us_business_f",
+    "headline": "The other life of US soldier accused of betting on Maduro's removal",
+    "link": "https://www.bbc.com/news/articles/clyxd5wrr0wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-09-33-21 +0000"
+  },
+  {
+    "headline": "The other life of US soldier accused of betting on Maduro's removal",
+    "link": "https://www.bbc.com/news/articles/clyxd5wrr0wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-09-33-21 +0000"
+  },
+  {
+    "headline": "Federal Reserve officials are watching how the U.S. economy digests its fourth supply shock in five years—the pandemic reopening, Russia’s invasion of Ukraine, tariffs and now the Middle East",
+    "link": "https://www.wsj.com/economy/central-banking/the-feds-rate-cuts-are-on-pause-but-are-they-also-off-the-table-6e7cbae1",
     "source": "wsj",
     "pubdate": "2026-04-28-09-30-00 +0000"
   },
@@ -18,50 +498,26 @@
     "pubdate": "2026-04-28-09-30-00 +0000"
   },
   {
-    "headline": "Can Social-Media Fame Power an IPO? Bill Ackman Is About to Find Out.",
+    "headline": "Can Social-Media Fame Power an IPO? Bill Ackman Is About to Find Out",
     "link": "https://www.wsj.com/finance/investing/can-social-media-fame-power-an-ipo-bill-ackman-is-about-to-find-out-e36fea9b?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-28-09-30-00 +0000"
   },
   {
-    "headline": "Federal Reserve officials are watching how the U.S. economy digests its fourth supply shock in five years—the pandemic reopening, Russia’s invasion of Ukraine, tariffs and now the Middle East",
-    "link": "https://www.wsj.com/economy/central-banking/the-feds-rate-cuts-are-on-pause-but-are-they-also-off-the-table-6e7cbae1",
+    "headline": "Chip Startup Aims to Shatter AI’s Dreaded Memory Wall",
+    "link": "https://www.wsj.com/tech/chip-startup-aims-to-shatter-ais-dreaded-memory-wall-b5f4c563?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-28-09-30-00 +0000"
   },
   {
-    "headline": "BP profits more than double as Iran war sends oil prices higher",
-    "link": "https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-28-09-28-56 +0000"
-  },
-  {
-    "headline": "The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-04-28-09-27-34 +0000"
-  },
-  {
-    "headline": "The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-04-28-09-27-34 +0000"
-  },
-  {
-    "headline": "The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-04-28-09-27-34 +0000"
-  },
-  {
     "headline": "Anglo American Continues Portfolio Optimization, Backs Guidance",
-    "link": "https://www.wsj.com/business/earnings/anglo-american-confirms-guidance-on-steady-copper-iron-production-65b95169?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/earnings/anglo-american-confirms-guidance-on-steady-copper-iron-production-65b95169?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-28-09-22-00 +0000"
   },
   {
     "headline": "Anglo American Continues Portfolio Optimization, Backs Guidance",
-    "link": "https://www.wsj.com/business/earnings/anglo-american-confirms-guidance-on-steady-copper-iron-production-65b95169?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/earnings/anglo-american-confirms-guidance-on-steady-copper-iron-production-65b95169?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-28-09-22-00 +0000"
   },
@@ -111,13 +567,13 @@
     "headline": "Republicans Brace for Brutal Midterms as Trump’s Popularity Slips",
     "link": "https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html",
     "source": "nyt",
-    "pubdate": "2026-04-28-09-04-07 +0000"
+    "pubdate": "2026-04-28-09-04-08 +0000"
   },
   {
     "headline": "Republicans Brace for Brutal Midterms as Trump’s Popularity Slips",
     "link": "https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html",
     "source": "nyt",
-    "pubdate": "2026-04-28-09-04-07 +0000"
+    "pubdate": "2026-04-28-09-04-08 +0000"
   },
   {
     "headline": "Texas Lawmakers to Question Camp Mystic’s Owners Over Deadly Flood",
@@ -129,13 +585,13 @@
     "headline": "Graduates Reset Ambitions in Pursuit of First Jobs",
     "link": "https://www.nytimes.com/2026/04/28/business/economy/college-graduates-job-market.html",
     "source": "nyt",
-    "pubdate": "2026-04-28-09-03-27 +0000"
+    "pubdate": "2026-04-28-09-03-28 +0000"
   },
   {
     "headline": "Graduates Reset Ambitions in Pursuit of First Jobs",
     "link": "https://www.nytimes.com/2026/04/28/business/economy/college-graduates-job-market.html",
     "source": "nyt",
-    "pubdate": "2026-04-28-09-03-27 +0000"
+    "pubdate": "2026-04-28-09-03-28 +0000"
   },
   {
     "headline": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
@@ -219,25 +675,25 @@
     "headline": "Trump’s Top Child Care Official Wants a ‘Bonfire of Regulations’",
     "link": "https://www.nytimes.com/2026/04/28/us/politics/child-care-regulations.html",
     "source": "nyt",
-    "pubdate": "2026-04-28-09-00-18 +0000"
+    "pubdate": "2026-04-28-09-00-19 +0000"
   },
   {
     "headline": "Trump’s Top Child Care Official Wants a ‘Bonfire of Regulations’",
     "link": "https://www.nytimes.com/2026/04/28/us/politics/child-care-regulations.html",
     "source": "nyt",
-    "pubdate": "2026-04-28-09-00-18 +0000"
+    "pubdate": "2026-04-28-09-00-19 +0000"
   },
   {
     "headline": "Ron Paul Saw The U.S. Mint’s Gold Problems Coming",
     "link": "https://www.nytimes.com/2026/04/28/world/americas/us-mint-gold-program-ron-paul.html",
     "source": "nyt",
-    "pubdate": "2026-04-28-09-00-06 +0000"
+    "pubdate": "2026-04-28-09-00-07 +0000"
   },
   {
     "headline": "Ron Paul Saw The U.S. Mint’s Gold Problems Coming",
     "link": "https://www.nytimes.com/2026/04/28/world/americas/us-mint-gold-program-ron-paul.html",
     "source": "nyt",
-    "pubdate": "2026-04-28-09-00-06 +0000"
+    "pubdate": "2026-04-28-09-00-07 +0000"
   },
   {
     "headline": "New DHS chief’s call for quieter immigration enforcement alarms MAGA base",
@@ -258,10 +714,10 @@
     "pubdate": "2026-04-28-09-00-00 +0000"
   },
   {
-    "headline": "U.K. 10-Year Gilt Yields Hit 5% Amid Political Turmoil",
-    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-lower-ahead-of-boj-decision-6a0a4e35?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-28-08-58-00 +0000"
+    "headline": "What happened when Rebel Wilson gave evidence in court?",
+    "link": "https://www.bbc.com/news/videos/cwy27njv3wvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-28-08-54-42 +0000"
   },
   {
     "headline": "What happened when Rebel Wilson gave evidence in court?",
@@ -276,30 +732,12 @@
     "pubdate": "2026-04-28-08-53-04 +0000"
   },
   {
-    "headline": "Barclays Posts Higher Profit Despite One-Off Costs",
-    "link": "https://www.wsj.com/business/earnings/barclays-posts-higher-profit-on-top-line-growth-1aea3fa6?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-28-08-52-00 +0000"
-  },
-  {
-    "headline": "Barclays Posts Higher Profit Despite One-Off Costs",
-    "link": "https://www.wsj.com/business/earnings/barclays-posts-higher-profit-on-top-line-growth-1aea3fa6?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-28-08-52-00 +0000"
-  },
-  {
     "headline": "MP's website shut down in suspected cyber attack",
     "link": "https://www.bbc.com/news/articles/c4g7v2ddvyko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-28-08-42-15 +0000"
   },
   {
-    "headline": "Equity Market Resilience, Month-End Flows Limit Dollar’s Rise",
-    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-as-traders-focus-on-bojs-guidance-4c3a1d3c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-28-08-27-00 +0000"
-  },
-  {
     "headline": "UK and US always find ways to come together, King to tell Congress",
     "link": "https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -310,12 +748,6 @@
     "link": "https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-28-08-25-45 +0000"
-  },
-  {
-    "headline": "Oil Back Above $111 as Peace Talks Remain Stalled",
-    "link": "https://www.wsj.com/finance/stocks/oil-back-above-111-as-peace-talks-remain-stalled-fa1faefd?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-28-08-18-00 +0000"
   },
   {
     "headline": "Eurozone Inflation Expectations Jumped in March, But Pay Growth Outlook Unchanged",
@@ -348,16 +780,10 @@
     "pubdate": "2026-04-28-08-08-43 +0000"
   },
   {
-    "headline": "Stock Market Today: Oil Extends Gains, U.S. Stock Futures Slip",
+    "headline": "Stock Market Today: AI Stocks Falter on OpenAI Concerns",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-28-2026?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-28-08-05-51 +0000"
-  },
-  {
-    "headline": "Live replay: Timberwolves can’t deliver knockout punch in Game 5, lose to Nuggets 125-113",
-    "link": "https://www.startribune.com/live-from-game-5-timberwolves-without-anthony-edwards-and-donte-divincenzo-try-to-eliminate-nuggets/601763017",
-    "source": "startribune",
-    "pubdate": "2026-04-28-08-05-05 +0000"
   },
   {
     "headline": "NZ axes plan for WW2 sex slaves statue after Japan protest",
@@ -396,24 +822,6 @@
     "pubdate": "2026-04-28-07-49-00 +0000"
   },
   {
-    "headline": "President Trump is calling on Disney’s ABC to remove late-night host Jimmy Kimmel over a comedy bit last week that referred to first lady Melania Trump as an “expectant widow”",
-    "link": "https://www.wsj.com/business/media/jimmy-kimmel-melania-trump-widow-comments-40f9478a",
-    "source": "wsj",
-    "pubdate": "2026-04-28-07-40-00 +0000"
-  },
-  {
-    "headline": "Trump Calls on Disney to Fire Jimmy Kimmel After Melania Joke",
-    "link": "https://www.wsj.com/business/media/jimmy-kimmel-melania-trump-widow-comments-40f9478a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-28-07-40-00 +0000"
-  },
-  {
-    "headline": "Trump Calls on Disney to Fire Jimmy Kimmel After Melania Joke",
-    "link": "https://www.wsj.com/business/media/jimmy-kimmel-melania-trump-widow-comments-40f9478a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-28-07-40-00 +0000"
-  },
-  {
     "headline": "Oil Up More Than 2.5% as Supply Fears Intensify",
     "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-as-traders-assess-irans-strait-of-hormuz-proposal-bf8401b0?mod=rss_markets_main",
     "source": "wsj",
@@ -424,18 +832,6 @@
     "link": "https://nypost.com/2026/04/28/world-news/trial-of-austrian-man-accused-of-plotting-to-attack-a-taylor-swift-concert-set-to-begin/",
     "source": "nypost",
     "pubdate": "2026-04-28-07-34-09 +0000"
-  },
-  {
-    "headline": "Austrian goes on trial accused of plotting attack on Taylor Swift concert",
-    "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-28-07-32-35 +0000"
-  },
-  {
-    "headline": "Austrian goes on trial accused of plotting attack on Taylor Swift concert",
-    "link": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-28-07-32-35 +0000"
   },
   {
     "headline": "Telenor Cuts Outlook as Growth in Nordics Slows",
@@ -486,12 +882,6 @@
     "pubdate": "2026-04-28-07-13-49 +0000"
   },
   {
-    "headline": "'Some form' of social media restrictions for under-16s, minister promises",
-    "link": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-28-07-12-44 +0000"
-  },
-  {
     "headline": "WPP Key Metric Slides as Main Segments Decline",
     "link": "https://www.wsj.com/business/earnings/wpp-posts-decline-in-key-metric-amid-broad-growth-slowdown-b1d50c9e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -540,18 +930,6 @@
     "pubdate": "2026-04-28-06-03-22 +0000"
   },
   {
-    "headline": "Rebel Wilson says claims she bullied women on her film are 'absolute nonsense'",
-    "link": "https://www.bbc.com/news/articles/c7v953jyj76o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-28-06-03-22 +0000"
-  },
-  {
-    "headline": "Air Liquide Revenue Rises on Gas, Services Business Strength",
-    "link": "https://www.wsj.com/business/earnings/air-liquide-revenue-rises-on-gas-services-business-strength-fe949a59?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-28-06-00-00 +0000"
-  },
-  {
     "headline": "Inside Trump press dinner shooting suspect's court appearance",
     "link": "https://www.bbc.com/news/videos/cj6p277r3k4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -562,18 +940,6 @@
     "link": "https://www.bbc.com/news/videos/cj6p277r3k4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-28-05-48-17 +0000"
-  },
-  {
-    "headline": "How South Korea Uses A.I. to Check on Its Elderly",
-    "link": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
-    "source": "nyt",
-    "pubdate": "2026-04-28-05-41-52 +0000"
-  },
-  {
-    "headline": "How South Korea Uses A.I. to Check on Its Elderly",
-    "link": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html",
-    "source": "nyt",
-    "pubdate": "2026-04-28-05-41-52 +0000"
   },
   {
     "headline": "Colorado grandpa finishes world’s largest jigsaw puzzle with 60K pieces 4 years after starting it",
@@ -588,7 +954,7 @@
     "pubdate": "2026-04-28-05-34-00 +0000"
   },
   {
-    "headline": "In pictures: King Charles and Queen Camilla begin US state visit",
+    "headline": "In pictures: King Charles and Queen Camilla at garden party and White House on US state visit",
     "link": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-28-05-33-17 +0000"
@@ -714,13 +1080,13 @@
     "pubdate": "2026-04-28-03-29-51 +0000"
   },
   {
-    "headline": "IS claims responsibility for Nigeria attack that killed 29 people",
+    "headline": "IS says it was behind deadly Nigeria attack on football pitch",
     "link": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-28-03-28-48 +0000"
   },
   {
-    "headline": "IS claims responsibility for Nigeria attack that killed 29 people",
+    "headline": "IS says it was behind deadly Nigeria attack on football pitch",
     "link": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-28-03-28-48 +0000"
@@ -876,12 +1242,6 @@
     "pubdate": "2026-04-28-01-28-41 +0000"
   },
   {
-    "headline": "Missing, slain USF students’ families demand ‘highest possible punishment’ for alleged killer roommate",
-    "link": "https://nypost.com/2026/04/27/us-news/missing-slain-usf-students-families-demand-highest-possible-punishment-for-alleged-killer-roommate/",
-    "source": "nypost",
-    "pubdate": "2026-04-28-01-24-41 +0000"
-  },
-  {
     "headline": "Panera workers slam new menu item as ‘huge waste’ as customers question value",
     "link": "https://nypost.com/2026/04/27/lifestyle/panera-workers-slam-new-menu-item-as-huge-waste-as-customers-question-value/",
     "source": "nypost",
@@ -930,12 +1290,6 @@
     "pubdate": "2026-04-28-00-58-36 +0000"
   },
   {
-    "headline": "Mayor Mamdani begs lawmakers to allow him to miss NYC budget deadline: sources",
-    "link": "https://nypost.com/2026/04/27/us-news/mayor-mamdani-to-delay-budget-release-asks-council-for-extension-sources/",
-    "source": "nypost",
-    "pubdate": "2026-04-28-00-52-13 +0000"
-  },
-  {
     "headline": "What the King and Queen did on their first day in the US",
     "link": "https://www.bbc.com/news/videos/c78q59ynj4vo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -972,12 +1326,6 @@
     "pubdate": "2026-04-28-00-30-58 +0000"
   },
   {
-    "headline": "Viral video of man knocking out drunk creep who groped his wife at bar divides the internet",
-    "link": "https://nypost.com/2026/04/27/us-news/viral-video-of-man-knocking-out-drunk-creep-who-groped-his-wife-at-bar-divides-the-internet/",
-    "source": "nypost",
-    "pubdate": "2026-04-28-00-26-54 +0000"
-  },
-  {
     "headline": "Paramount Requests FCC Approval for Hefty Middle East Ownership",
     "link": "https://www.wsj.com/business/deals/paramount-requests-fcc-approval-for-hefty-middle-east-ownership-940cb6c8?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1008,12 +1356,6 @@
     "pubdate": "2026-04-28-00-15-55 +0000"
   },
   {
-    "headline": "Acupuncturist mom accused of killing her kids made horrifying admission amid messy divorce",
-    "link": "https://nypost.com/2026/04/27/us-news/acupuncturist-mom-accused-of-killing-her-kids-made-horrifying-admission-amid-messy-divorce/",
-    "source": "nypost",
-    "pubdate": "2026-04-28-00-10-47 +0000"
-  },
-  {
     "headline": "My tenant owes £15,000 in rent, but I can't get them out of the property",
     "link": "https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1024,12 +1366,6 @@
     "link": "https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-27-23-56-45 +0000"
-  },
-  {
-    "headline": "All the clues that photo of accused WHCD gunman Cole Allen in IDF shirt is AI",
-    "link": "https://nypost.com/2026/04/27/us-news/all-the-clues-that-pic-of-whcd-gunman-cole-allen-in-idf-shirt-is-ai/",
-    "source": "nypost",
-    "pubdate": "2026-04-27-23-45-45 +0000"
   },
   {
     "headline": "Homeowners Fight for Control of Their Community in China",
@@ -1078,12 +1414,6 @@
     "link": "https://www.nytimes.com/2026/04/27/business/ceo-companies-resilience-iran-war-inflation.html",
     "source": "nyt",
     "pubdate": "2026-04-27-23-25-30 +0000"
-  },
-  {
-    "headline": "Sneaky billionaire tax clause could eventually target middle class taxpayers, business group warns",
-    "link": "https://nypost.com/2026/04/27/us-news/billionaire-tax-could-later-target-californias-middle-class/",
-    "source": "nypost",
-    "pubdate": "2026-04-27-23-21-04 +0000"
   },
   {
     "headline": "Sneaky billionaire tax clause could eventually target middle class taxpayers, business group warns",
@@ -1170,12 +1500,6 @@
     "pubdate": "2026-04-27-22-55-45 +0000"
   },
   {
-    "headline": "Nucor First-Quarter Profit Rises, Boosted by Steel Mills Business",
-    "link": "https://www.wsj.com/business/earnings/nucor-logs-profit-rises-boosted-by-steel-mills-business-d97a932c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-27-22-53-00 +0000"
-  },
-  {
     "headline": "King Charles Visits Trump’s Washington After Chaos From Press Dinner Shooting",
     "link": "https://www.nytimes.com/2026/04/27/us/politics/trump-king-charles-royals-dc-visit.html",
     "source": "nyt",
@@ -1230,12 +1554,6 @@
     "pubdate": "2026-04-27-22-01-35 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/27/us/white-house-dinner-trump-shooting/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-04-27-22-01-35 +0000"
-  },
-  {
     "headline": "On Isle Royale, wolves rebound as moose numbers plunge",
     "link": "https://www.startribune.com/on-isle-royale-wolves-rebound-as-moose-numbers-plunge/601805047",
     "source": "startribune",
@@ -1252,18 +1570,6 @@
     "link": "https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html",
     "source": "nyt",
     "pubdate": "2026-04-27-22-00-56 +0000"
-  },
-  {
-    "headline": "Charges Against Suspect in Trump Assassination Attempt Based on Shotgun Shell and a Screed",
-    "link": "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html",
-    "source": "nyt",
-    "pubdate": "2026-04-27-21-59-14 +0000"
-  },
-  {
-    "headline": "Charges Against Suspect in Trump Assassination Attempt Based on Shotgun Shell and a Screed",
-    "link": "https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html",
-    "source": "nyt",
-    "pubdate": "2026-04-27-21-59-14 +0000"
   },
   {
     "headline": "Embattled NJ Rep. Tom Kean finally addresses ‘personal medical issue’ that has kept him away from Congress for weeks",
@@ -1321,13 +1627,13 @@
   },
   {
     "headline": "Opinion | China’s AI ‘Hotel California’",
-    "link": "https://www.wsj.com/opinion/china-manus-meta-ai-xi-jinping-699851a3",
+    "link": "https://www.wsj.com/opinion/china-manus-meta-ai-xi-jinping-699851a3?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-27-21-47-00 +0000"
   },
   {
     "headline": "Opinion | China’s AI ‘Hotel California’",
-    "link": "https://www.wsj.com/opinion/china-manus-meta-ai-xi-jinping-699851a3?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/china-manus-meta-ai-xi-jinping-699851a3",
     "source": "wsj",
     "pubdate": "2026-04-27-21-47-00 +0000"
   },
@@ -1375,13 +1681,13 @@
   },
   {
     "headline": "Opinion | Private Companies Wait Too Long to Go Public",
-    "link": "https://www.wsj.com/opinion/private-companies-wait-too-long-to-go-public-2debab74?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/private-companies-wait-too-long-to-go-public-2debab74?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-27-21-43-00 +0000"
   },
   {
     "headline": "Opinion | Private Companies Wait Too Long to Go Public",
-    "link": "https://www.wsj.com/opinion/private-companies-wait-too-long-to-go-public-2debab74?mod=rss_markets_main",
+    "link": "https://www.wsj.com/opinion/private-companies-wait-too-long-to-go-public-2debab74?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-27-21-43-00 +0000"
   },
@@ -1470,12 +1776,6 @@
     "pubdate": "2026-04-27-21-07-55 +0000"
   },
   {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5c45c181?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-27-21-06-00 +0000"
-  },
-  {
     "headline": "Basic Materials Roundup: Market Talk",
     "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-ac3d55f5?mod=rss_markets_main",
     "source": "wsj",
@@ -1513,15 +1813,9 @@
   },
   {
     "headline": "Trump says ABC should fire Jimmy Kimmel over his 'expectant widow' joke",
-    "link": "https://www.cbc.ca/news/entertainment/trump-kimmel-melania-9.7179036?cmp=rss",
+    "link": "https://www.cbc.ca/news/entertainment/trump-kimmel-melania-expectant-widow-9.7179036?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-04-27-20-53-01 +0000"
-  },
-  {
-    "headline": "Bed Bath & Beyond Narrows Loss, Returns to Revenue Growth",
-    "link": "https://www.wsj.com/business/earnings/bed-bath-beyond-first-quarter-loss-narrows-on-cost-cuts-improved-efficiency-c620e59a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-27-20-52-00 +0000"
   },
   {
     "headline": "MAHA moms are rallying in D.C. to protest the Trump administration’s handling of glyphosate, the weedkiller sold as Roundup: “It’s just crazy, its ubiquitous presence in our lives.”",
@@ -1788,12 +2082,6 @@
     "pubdate": "2026-04-27-19-21-31 +0000"
   },
   {
-    "headline": "U.S. Natural Gas Futures Inch Up in Rangebound Trade",
-    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-in-early-trade-45f2458f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-27-19-21-00 +0000"
-  },
-  {
     "headline": "Lawyers for Sam Altman’s sister quit representing her in sex-abuse lawsuit against OpenAI CEO",
     "link": "https://nypost.com/2026/04/27/business/sam-altmans-sister-loses-lawyers-in-her-sex-abuse-lawsuit-against-openai-ceo/",
     "source": "nypost",
@@ -1828,18 +2116,6 @@
     "link": "https://www.washingtonpost.com/business/2026/04/27/whcd-shooting-conspiracy-theories-trump/",
     "source": "wapo",
     "pubdate": "2026-04-27-19-02-47 +0000"
-  },
-  {
-    "headline": "European flight prices are falling in short term, Wizz Air boss says",
-    "link": "https://www.bbc.com/news/articles/c3exel4p1yqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-27-18-44-10 +0000"
-  },
-  {
-    "headline": "European flight prices are falling in short term, Wizz Air boss says",
-    "link": "https://www.bbc.com/news/articles/c3exel4p1yqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-27-18-44-10 +0000"
   },
   {
     "headline": "Forvis Mazars Lays Off U.S. Workers in Restructuring",
@@ -1914,13 +2190,13 @@
     "pubdate": "2026-04-27-17-45-34 +0000"
   },
   {
-    "headline": "The Year of the Molotov Cocktail: American Antigovernment Violence Hits a 30-Year High",
+    "headline": "The year of the Molotov cocktail: U.S. antigovernment violence hits 30-year high",
     "link": "https://www.wsj.com/politics/policy/the-year-of-the-molotov-cocktail-american-antigovernment-violence-hits-a-30-year-high-bca03a67",
     "source": "wsj",
     "pubdate": "2026-04-27-17-43-00 +0000"
   },
   {
-    "headline": "The year of the Molotov cocktail: U.S. antigovernment violence hits 30-year high",
+    "headline": "The Year of the Molotov Cocktail: American Antigovernment Violence Hits a 30-Year High",
     "link": "https://www.wsj.com/politics/policy/the-year-of-the-molotov-cocktail-american-antigovernment-violence-hits-a-30-year-high-bca03a67",
     "source": "wsj",
     "pubdate": "2026-04-27-17-43-00 +0000"
@@ -2149,21 +2425,15 @@
   },
   {
     "headline": "Cerebras IPO Sets Up Test for Secondary-Market Valuations",
-    "link": "https://www.wsj.com/pro/venture-capital/cerebras-ipo-sets-up-test-for-secondary-market-valuations-fa7b4ef5?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-27-16-02-00 +0000"
-  },
-  {
-    "headline": "Cerebras IPO Sets Up Test for Secondary-Market Valuations",
     "link": "https://www.wsj.com/pro/venture-capital/cerebras-ipo-sets-up-test-for-secondary-market-valuations-fa7b4ef5?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-27-16-02-00 +0000"
   },
   {
-    "headline": "Georgia GOP gubernatorial contender Rick Jackson employed illegal immigrants at his mansion, court documents show",
-    "link": "https://nypost.com/2026/04/27/us-news/georgia-gop-gubernatorial-contender-rick-jackson-employed-illegal-immigrants-at-his-mansion-court-documents-show/",
-    "source": "nypost",
-    "pubdate": "2026-04-27-16-00-08 +0000"
+    "headline": "Cerebras IPO Sets Up Test for Secondary-Market Valuations",
+    "link": "https://www.wsj.com/pro/venture-capital/cerebras-ipo-sets-up-test-for-secondary-market-valuations-fa7b4ef5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-27-16-02-00 +0000"
   },
   {
     "headline": "The Executive Who Made Starbucks BFFs With MrBeast and Taylor Swift",
@@ -2184,26 +2454,26 @@
     "pubdate": "2026-04-27-15-52-51 +0000"
   },
   {
-    "headline": "Plane crash in South Sudan kills all 15 on board",
+    "headline": "Plane crash in South Sudan kills all 14 on board",
     "link": "https://www.bbc.com/news/articles/cg737x2pe4ko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-27-15-52-09 +0000"
   },
   {
-    "headline": "Plane crash in South Sudan kills all 15 on board",
+    "headline": "Plane crash in South Sudan kills all 14 on board",
     "link": "https://www.bbc.com/news/articles/cg737x2pe4ko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-27-15-52-09 +0000"
   },
   {
     "headline": "Thrift App Vinted Valued at Over $9 Billion in Secondary Share Sale",
-    "link": "https://www.wsj.com/pro/private-equity/thrift-app-vinted-valued-at-over-9-billion-in-secondary-share-sale-0004d7f3?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/pro/private-equity/thrift-app-vinted-valued-at-over-9-billion-in-secondary-share-sale-0004d7f3?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-27-15-48-00 +0000"
   },
   {
     "headline": "Thrift App Vinted Valued at Over $9 Billion in Secondary Share Sale",
-    "link": "https://www.wsj.com/pro/private-equity/thrift-app-vinted-valued-at-over-9-billion-in-secondary-share-sale-0004d7f3?mod=rss_markets_main",
+    "link": "https://www.wsj.com/pro/private-equity/thrift-app-vinted-valued-at-over-9-billion-in-secondary-share-sale-0004d7f3?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-04-27-15-48-00 +0000"
   },
@@ -2346,12 +2616,6 @@
     "pubdate": "2026-04-27-13-59-15 +0000"
   },
   {
-    "headline": "Thermo Fisher to Sell Microbiology Business to Astorg",
-    "link": "https://www.wsj.com/pro/private-equity/thermo-fisher-to-sell-microbiology-business-to-astorg-a366eb66?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-27-13-59-00 +0000"
-  },
-  {
     "headline": "Tea, Scones and Geopolitics: What to Know About King Charles’s U.S. Visit",
     "link": "https://www.wsj.com/world/uk/tea-scones-and-geopolitics-what-to-know-about-king-charless-u-s-visit-0b9f50a6",
     "source": "wsj",
@@ -2448,14 +2712,14 @@
     "pubdate": "2026-04-27-13-31-46 +0000"
   },
   {
-    "headline": "Best High-Yield Savings Accounts for April 2026: Up to 5.00%",
-    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
+    "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-04-27-13-20-00 +0000"
   },
   {
-    "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+    "headline": "Best High-Yield Savings Accounts for April 2026: Up to 5.00%",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
     "source": "wsj",
     "pubdate": "2026-04-27-13-20-00 +0000"
   },
@@ -2500,131 +2764,5 @@
     "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-04-27-12-21-42 +0000"
-  },
-  {
-    "headline": "Sri Lankan monks arrested after 110kg of cannabis discovered in their luggage",
-    "link": "https://www.bbc.com/news/articles/cn4v4nzwj94o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-27-12-13-58 +0000"
-  },
-  {
-    "headline": "Ligand Pharmaceuticals Is Buying Xoma for Nearly $740 Million",
-    "link": "https://www.wsj.com/health/pharma/ligand-pharmaceuticals-is-buying-xoma-for-nearly-740-million-5bb4a22f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-27-12-10-00 +0000"
-  },
-  {
-    "headline": "Ligand Pharmaceuticals Is Buying Xoma for Nearly $740 Million",
-    "link": "https://www.wsj.com/health/pharma/ligand-pharmaceuticals-is-buying-xoma-for-nearly-740-million-5bb4a22f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-27-12-10-00 +0000"
-  },
-  {
-    "headline": "Meta Platforms Enters Solar-Power Pact",
-    "link": "https://www.wsj.com/business/energy-oil/meta-platforms-enters-solar-power-pact-002dfe42?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-27-11-51-00 +0000"
-  },
-  {
-    "headline": "How special Sawe broke iconic sub-two-hour barrier",
-    "link": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-27-11-49-24 +0000"
-  },
-  {
-    "headline": "How Kenya's Sabastian Sawe broke iconic sub-two-hour barrier at the London Marathon",
-    "link": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-27-11-49-24 +0000"
-  },
-  {
-    "headline": "Musk vs. Altman: A High-Stakes A.I. Clash Goes to Court on Monday",
-    "link": "https://www.nytimes.com/2026/04/27/business/dealbook/musk-altman-ai-trial.html",
-    "source": "nyt",
-    "pubdate": "2026-04-27-11-44-57 +0000"
-  },
-  {
-    "headline": "China Bans Meta’s Acquisition of Manus on National Security Grounds",
-    "link": "https://www.wsj.com/world/china/china-bans-metas-acquisition-of-manus-on-national-security-grounds-71e10c3f",
-    "source": "wsj",
-    "pubdate": "2026-04-27-11-44-00 +0000"
-  },
-  {
-    "headline": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
-    "link": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-27-11-42-59 +0000"
-  },
-  {
-    "headline": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
-    "link": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-27-11-42-59 +0000"
-  },
-  {
-    "headline": "Carney announces creation of Canada's first national sovereign wealth fund",
-    "link": "https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-04-27-11-39-55 +0000"
-  },
-  {
-    "headline": "Nordex Shares Hit 24-year High after Earnings Beat",
-    "link": "https://www.wsj.com/business/earnings/nordex-shares-hit-24-year-high-after-earnings-beat-20f05ff3?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-27-11-20-00 +0000"
-  },
-  {
-    "headline": "The gunman at the White House Correspondents’ Dinner had an impact on many people—including journalists from The Wall Street Journal. Read more in today’s WSJ politics newsletter:",
-    "link": "https://www.wsj.com/politics/what-the-wsj-saw-at-the-hilton-saturday-night-74b83811",
-    "source": "wsj",
-    "pubdate": "2026-04-27-11-02-00 +0000"
-  },
-  {
-    "headline": "District 4 shaping up to be San Francisco’s loudest and silliest race. As predicted.",
-    "link": "https://missionlocal.org/2026/04/district-4-supervisor-silly/",
-    "source": "missionlocal",
-    "pubdate": "2026-04-27-11-01-00 +0000"
-  },
-  {
-    "headline": "Book lovers: Five couples wed at Minneapolis library",
-    "link": "https://www.startribune.com/hennepin-county-library-minneapolis-central-library-national-library-week-weddings/601662855",
-    "source": "startribune",
-    "pubdate": "2026-04-27-11-00-00 +0000"
-  },
-  {
-    "headline": "Quantum Computing Companies Are in a Race to Go Public",
-    "link": "https://www.wsj.com/cio-journal/quantum-computing-companies-are-in-a-race-to-go-public-303f8a87?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-27-11-00-00 +0000"
-  },
-  {
-    "headline": "Taiwan Court Hands Down Prison Sentences Over Leaks of TSMC Trade Secrets",
-    "link": "https://www.wsj.com/tech/taiwan-court-hands-down-prison-sentences-over-leaks-of-tsmc-trade-secrets-55d5bdf9",
-    "source": "wsj",
-    "pubdate": "2026-04-27-10-59-00 +0000"
-  },
-  {
-    "headline": "Moody’s Upgrades China’s Outlook, Citing Resilience in Face of Challenges",
-    "link": "https://www.wsj.com/economy/moodys-upgrades-chinas-outlook-citing-resilience-in-face-of-challenges-4d2ad6dc",
-    "source": "wsj",
-    "pubdate": "2026-04-27-10-53-00 +0000"
-  },
-  {
-    "headline": "What does devolution mean and how does it work across the UK?",
-    "link": "https://www.bbc.com/news/articles/czd7zl7g15po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-27-10-39-41 +0000"
-  },
-  {
-    "headline": "Lib Dems pledge £5k rewards for illegal waste tip-offs",
-    "link": "https://www.bbc.com/news/articles/cq8w8ygkdnlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-27-10-38-26 +0000"
-  },
-  {
-    "headline": "Nissan Flags Narrower Annual Net Loss as Cost Cuts Make Progress",
-    "link": "https://www.wsj.com/business/autos/nissan-flags-narrower-annual-net-loss-as-cost-cuts-make-progress-56350552?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-27-10-37-00 +0000"
   }
 ]
