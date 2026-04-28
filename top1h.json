@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 24,
+    "pubdate": "2026-04-28-09-02-28 +0000",
+    "source": "nyt",
+    "headline": "The World Needs Natural Gas Now, but the U.S. Is Exporting All It Can",
+    "link": "https://www.nytimes.com/2026/04/28/business/energy-environment/iran-hormuz-lng-united-states.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-04-28-09-00-18 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Top Child Care Official Wants a ‘Bonfire of Regulations’",
+    "link": "https://www.nytimes.com/2026/04/28/us/politics/child-care-regulations.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-04-28-09-04-31 +0000",
+    "source": "nyt",
+    "headline": "Transition to a New Fed Chair Is Unlikely to Mean Immediate Rate Cuts",
+    "link": "https://www.nytimes.com/2026/04/28/business/federal-reserve-chair-rates-warsh-powell.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-28-09-03-20 +0000",
+    "source": "nyt",
+    "headline": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
+    "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-28-09-01-00 +0000",
+    "source": "nyt",
+    "headline": "They Lost Their Homes in Cuba to the Communist Government. Will They Ever Get Them Back?",
+    "link": "https://www.nytimes.com/2026/04/28/world/americas/cuba-communist-government-confiscated-property.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-28-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Federal Reserve officials are watching how the U.S. economy digests its fourth supply shock in five years—the pandemic reopening, Russia’s invasion of Ukraine, tariffs and now the Middle East",
+    "link": "https://www.wsj.com/economy/central-banking/the-feds-rate-cuts-are-on-pause-but-are-they-also-off-the-table-6e7cbae1"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-28-09-27-34 +0000",
+    "source": "nyt",
+    "headline": "The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/04/28/world/europe/ukmto-shipping-strait-hormuz.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-28-08-52-00 +0000",
+    "source": "wsj",
+    "headline": "Barclays Posts Higher Profit Despite One-Off Costs",
+    "link": "https://www.wsj.com/business/earnings/barclays-posts-higher-profit-on-top-line-growth-1aea3fa6?mod=rss_markets_main"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-28-09-22-00 +0000",
+    "source": "wsj",
+    "headline": "Anglo American Continues Portfolio Optimization, Backs Guidance",
+    "link": "https://www.wsj.com/business/earnings/anglo-american-confirms-guidance-on-steady-copper-iron-production-65b95169?mod=rss_markets_main"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-28-09-00-06 +0000",
+    "source": "nyt",
+    "headline": "Ron Paul Saw The U.S. Mint’s Gold Problems Coming",
+    "link": "https://www.nytimes.com/2026/04/28/world/americas/us-mint-gold-program-ron-paul.html"
+  }
+]
