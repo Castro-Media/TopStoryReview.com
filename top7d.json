@@ -1,45 +1,38 @@
 [
   {
-    "score": 367,
+    "score": 375,
     "pubdate": "2026-04-28-07-40-00 +0000",
     "source": "wsj",
     "headline": "President Trump is calling on Disney’s ABC to remove late-night host Jimmy Kimmel over a comedy bit last week that referred to first lady Melania Trump as an “expectant widow”",
     "link": "https://www.wsj.com/business/media/jimmy-kimmel-melania-trump-widow-comments-40f9478a"
   },
   {
-    "score": 250,
+    "score": 242,
     "pubdate": "2026-04-27-17-57-06 +0000",
     "source": "nyt",
     "headline": "Iran’s Foreign Minister Is in Russia for Talks With Putin on Middle East War",
     "link": "https://www.nytimes.com/2026/04/27/world/europe/iran-foreign-minister-russia.html"
   },
   {
-    "score": 191,
+    "score": 181,
     "pubdate": "2026-04-26-09-23-59 +0000",
     "source": "cbc",
     "headline": "White House correspondents' dinner shooting suspect a part-time teacher, game developer",
     "link": "https://www.cbc.ca/news/world/white-house-correspondents-dinner-suspect-9.7177665?cmp=rss"
   },
   {
-    "score": 165,
+    "score": 163,
     "pubdate": "2026-04-27-14-36-00 +0000",
     "source": "wsj",
     "headline": "The Federal Reserve succession drama now comes down to a decision only Jerome Powell can make: Will he give up his seat on the Fed’s board when his chairmanship ends or stay on as a governor?",
     "link": "https://www.wsj.com/economy/central-banking/fed-chair-powell-confronts-his-final-big-decision-stay-or-go-635eb131"
   },
   {
-    "score": 143,
+    "score": 146,
     "pubdate": "2026-04-23-10-00-00 +0000",
     "source": "latimes",
     "headline": "California's rail systems need more riders. High gas prices could be fueling a new surge",
     "link": "https://www.latimes.com/california/story/2026-04-23/californias-rail-systems-need-more-riders-high-gas-prices-could-be-fueling-new-surge"
-  },
-  {
-    "score": 115,
-    "pubdate": "2026-04-26-09-00-00 +0000",
-    "source": "wapo",
-    "headline": "Americans’ electricity was shut off 13 million times in a year, data shows",
-    "link": "https://www.washingtonpost.com/business/2026/04/26/utility-power-electricity-shutoff-bills/"
   },
   {
     "score": 113,
@@ -50,23 +43,30 @@
   },
   {
     "score": 107,
-    "pubdate": "2026-04-25-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration has lobbied against legislation to regulate artificial intelligence in at least six Republican-led states, deepening a split in the party over the White House’s industry-friendly AI agenda",
-    "link": "https://www.wsj.com/politics/policy/trump-republican-state-ai-regulation-74fd83c6"
-  },
-  {
-    "score": 104,
     "pubdate": "2026-04-26-16-20-00 +0000",
     "source": "wsj",
     "headline": "The shooting outside Trump’s dinner with the press has left Washington shaken, the soldier charged over bets on Maduro chased business success while in the Army, and San Francisco loves Chonkers the sea lion. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/panic-at-the-white-house-correspondents-dinner-b71d8d61"
   },
   {
-    "score": 93,
-    "pubdate": "2026-04-27-22-00-56 +0000",
-    "source": "nyt",
-    "headline": "Carney to Launch Sovereign Wealth Fund to Distance Canada’s Economy From U.S.",
-    "link": "https://www.nytimes.com/2026/04/27/world/canada/canada-sovereign-wealth-fund.html"
+    "score": 105,
+    "pubdate": "2026-04-25-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration has lobbied against legislation to regulate artificial intelligence in at least six Republican-led states, deepening a split in the party over the White House’s industry-friendly AI agenda",
+    "link": "https://www.wsj.com/politics/policy/trump-republican-state-ai-regulation-74fd83c6"
+  },
+  {
+    "score": 95,
+    "pubdate": "2026-04-22-16-58-00 +0000",
+    "source": "wsj",
+    "headline": "More than a year into President Trump’s immigration crackdown, there is little evidence of widespread disruptions in the labor market, or of meaningful benefits to American workers",
+    "link": "https://www.wsj.com/economy/jobs/immigration-crackdown-labor-market-fcfed2d6"
+  },
+  {
+    "score": 92,
+    "pubdate": "2026-04-23-04-25-30 +0000",
+    "source": "bbc",
+    "headline": "Lebanon accuses Israel of targeting journalist killed in air strike",
+    "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss"
   }
 ]
