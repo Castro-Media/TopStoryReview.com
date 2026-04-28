@@ -1,9 +1,72 @@
 [
   {
+    "score": 26,
+    "pubdate": "2026-04-28-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Pushing past a third assassination attempt, this time at a Washington, D.C. hotel, President Trump is forging ahead with his $400 million White House ballroom",
+    "link": "https://www.wsj.com/politics/policy/pushing-past-third-assassination-attempt-trump-forges-ahead-with-his-ballroom-ae7da3ba"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-04-28-01-05-00 +0000",
+    "source": "wsj",
+    "headline": "The Defense Department can temporarily require journalists to be escorted inside the Pentagon, a federal appeals court ruled Monday, a win for the department in its efforts to limit media access",
+    "link": "https://www.wsj.com/politics/national-security/appeals-court-says-pentagon-can-temporarily-mandate-escorts-for-journalists-84042f19"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-04-28-00-58-36 +0000",
+    "source": "bbc",
+    "headline": "What we're learning about suspected Washington press dinner gunman",
+    "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-04-28-01-07-30 +0000",
+    "source": "nyt",
+    "headline": "Raghu Rai, Photographer Who Captured Modern India, Dies at 83",
+    "link": "https://www.nytimes.com/2026/04/27/world/asia/raghu-rai-photographer-dead.html"
+  },
+  {
     "score": 12,
-    "pubdate": "2026-04-27-23-09-00 +0000",
+    "pubdate": "2026-04-28-01-24-41 +0000",
     "source": "nypost",
-    "headline": "Middle schoolers laugh, smile at camera as brawling peers stomp on victim in wild street fight",
-    "link": "https://nypost.com/2026/04/27/us-news/middle-schoolers-laugh-smile-at-camera-as-brawling-peers-stomp-on-victim-in-wild-street-fight/"
+    "headline": "Missing, slain USF students’ families demand ‘highest possible punishment’ for alleged killer roommate",
+    "link": "https://nypost.com/2026/04/27/us-news/missing-slain-usf-students-families-demand-highest-possible-punishment-for-alleged-killer-roommate/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-04-28-01-00-05 +0000",
+    "source": "startribune",
+    "headline": "Live from Game 5: Timberwolves, without Anthony Edwards and Donte DiVincenzo, try to eliminate Nuggets",
+    "link": "https://www.startribune.com/live-from-game-5-timberwolves-without-anthony-edwards-and-donte-divincenzo-try-to-eliminate-nuggets/601763017"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-28-01-08-19 +0000",
+    "source": "nypost",
+    "headline": "Panera workers slam new menu item as ‘huge waste’ as customers question value",
+    "link": "https://nypost.com/2026/04/27/lifestyle/panera-workers-slam-new-menu-item-as-huge-waste-as-customers-question-value/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-28-00-52-13 +0000",
+    "source": "nypost",
+    "headline": "Mayor Mamdani begs lawmakers to allow him to miss NYC budget deadline: sources",
+    "link": "https://nypost.com/2026/04/27/us-news/mayor-mamdani-to-delay-budget-release-asks-council-for-extension-sources/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-28-00-40-53 +0000",
+    "source": "cbc",
+    "headline": "Dances with Wolves actor Nathan Chasing Horse handed life sentence for sexual assaults",
+    "link": "https://www.cbc.ca/news/world/nathan-chasing-horse-life-sentence-sexual-assault-9.7179404?cmp=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-04-28-00-26-54 +0000",
+    "source": "nypost",
+    "headline": "Viral video of man knocking out drunk creep who groped his wife at bar divides the internet",
+    "link": "https://nypost.com/2026/04/27/us-news/viral-video-of-man-knocking-out-drunk-creep-who-groped-his-wife-at-bar-divides-the-internet/"
   }
 ]
