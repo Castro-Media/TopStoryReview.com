@@ -1,23 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-04-29-05-47-02 +0000",
-    "source": "nypost",
-    "headline": "Viral Twitch streamer struck by car in wild moment during live stream walk across US to raise money",
-    "link": "https://nypost.com/2026/04/29/us-news/twitch-streamer-hmblzayy-struck-by-car-in-indiana-during-live-stream-walk-across-us/"
+    "score": 23,
+    "pubdate": "2026-04-29-07-25-07 +0000",
+    "source": "nyt",
+    "headline": "Full Guest List for Trump’s State Dinner With Charles and Camilla",
+    "link": "https://www.nytimes.com/2026/04/28/us/politics/state-dinner-guest-list.html"
   },
   {
-    "score": 14,
-    "pubdate": "2026-04-29-05-41-00 +0000",
-    "source": "wsj",
-    "headline": "Deutsche Bank Posts Rise in Profit on Stable Performance",
-    "link": "https://www.wsj.com/finance/banking/deutsche-bank-posts-rise-in-profit-on-stable-performance-989cf9cf?mod=rss_markets_main"
+    "score": 18,
+    "pubdate": "2026-04-29-06-42-29 +0000",
+    "source": "bbc",
+    "headline": "Japan zoo staffer allegedly dumps wife's body inside incinerator",
+    "link": "https://www.bbc.com/news/articles/cm2p3gn3yzno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-29-05-41-00 +0000",
+    "score": 16,
+    "pubdate": "2026-04-29-07-30-00 +0000",
     "source": "wsj",
-    "headline": "Deutsche Bank Posts Rise in Profit on Stable Performance",
-    "link": "https://www.wsj.com/finance/banking/deutsche-bank-posts-rise-in-profit-on-stable-performance-989cf9cf?mod=pls_whats_news_us_business_f"
+    "headline": "Spanish Inflation Rises Further as Iran War Drives Energy Prices Higher",
+    "link": "https://www.wsj.com/economy/central-banking/spanish-inflation-rises-further-as-iran-war-drives-energy-prices-higher-3701d7e2"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-29-07-24-00 +0000",
+    "source": "wsj",
+    "headline": "Finland’s Kone to Buy German Rival TK Elevator For Around $24 Billion",
+    "link": "https://www.wsj.com/business/deals/finlands-kone-agrees-to-buy-german-rival-tk-elevator-in-34-4-billion-deal-d61654cb?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-04-29-07-22-00 +0000",
+    "source": "wsj",
+    "headline": "Eurozone Bond Yields Edge Higher, Data Awaited Prior Thursday’s ECB Meet",
+    "link": "https://www.wsj.com/articles/energy-prices-key-factor-in-driving-volatility-in-u-s-treasurys-52af78d1?mod=rss_markets_main"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-29-07-26-00 +0000",
+    "source": "wsj",
+    "headline": "Gold’s Underlying Demand Remains Intact Amid Broader Macro Uncertainty",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-on-prospects-of-dollar-strength-0b24e4d8?mod=rss_markets_main"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-04-29-07-08-00 +0000",
+    "source": "wsj",
+    "headline": "Danish Brewer Carlsberg Books Boost From Soft Drinks, Premium Beers",
+    "link": "https://www.wsj.com/business/earnings/danish-brewer-carlsberg-books-boost-from-soft-drinks-premium-beers-019cf981?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-04-29-07-00-06 +0000",
+    "source": "nyt",
+    "headline": "A City Hall Reporter Reveals Where the Scoops Come From",
+    "link": "https://www.nytimes.com/2026/04/29/insider/sally-goldenberg-new-york-times.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-04-29-07-22-49 +0000",
+    "source": "bbc",
+    "headline": "What you need to know about the 7 May elections in England, Scotland and Wales",
+    "link": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-04-29-06-45-00 +0000",
+    "source": "wsj",
+    "headline": "GSK Earnings Boosted by Higher Specialty Medicine Sales",
+    "link": "https://www.wsj.com/business/earnings/gsk-earnings-boosted-by-higher-specialty-medicine-sales-64d5ee9f?mod=pls_whats_news_us_business_f"
   }
 ]
