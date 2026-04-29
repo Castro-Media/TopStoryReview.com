@@ -1,30 +1,72 @@
 [
   {
-    "score": 11,
-    "pubdate": "2026-04-29-16-19-56 +0000",
+    "score": 58,
+    "pubdate": "2026-04-29-17-46-06 +0000",
+    "source": "nyt",
+    "headline": "All Six Conservative Supreme Court Justices Attended Trump’s Dinner With King Charles",
+    "link": "https://www.nytimes.com/2026/04/29/us/politics/trump-state-dinner-conservative-justices.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-04-29-17-19-26 +0000",
     "source": "nypost",
-    "headline": "Australia to require Google, Meta, TikTok to pay for local news — or face new tax",
-    "link": "https://nypost.com/2026/04/29/business/australia-to-require-google-meta-tiktok-to-pay-for-local-news-or-face-new-tax/"
+    "headline": "Ex-FBI Director James Comey surrenders to feds on charges he threatened to kill Trump in Instagram post",
+    "link": "https://nypost.com/2026/04/29/us-news/ex-fbi-director-james-comey-surrenders-to-feds-on-charges-he-threatened-to-kill-trump-in-instagram-post/"
   },
   {
-    "score": 8,
-    "pubdate": "2026-04-29-16-20-11 +0000",
+    "score": 31,
+    "pubdate": "2026-04-29-17-36-59 +0000",
     "source": "nyt",
-    "headline": "Men Accused in Fires Targeting Starmer Received Orders in Russian, Prosecutors Say",
-    "link": "https://www.nytimes.com/2026/04/29/world/europe/arson-keir-starmer-homes.html"
+    "headline": "Pentagon Puts Iran War Cost at $25 Billion as Hegseth Berates Skeptics",
+    "link": "https://www.nytimes.com/2026/04/29/us/politics/hegseth-iran-war-cost.html"
   },
   {
-    "score": 6,
-    "pubdate": "2026-04-29-16-21-07 +0000",
-    "source": "nyt",
-    "headline": "Key Moments in the Life of the Voting Rights Act",
-    "link": "https://www.nytimes.com/2026/04/29/us/voting-rights-act-history.html"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-04-29-16-19-00 +0000",
+    "score": 31,
+    "pubdate": "2026-04-29-18-01-00 +0000",
     "source": "wsj",
-    "headline": "Robinhood Shares Tumble After Trading Results Disappoint",
-    "link": "https://www.wsj.com/finance/stocks/robinhood-shares-tumble-after-trading-results-disappoint-3fb7b659?mod=rss_markets_main"
+    "headline": "The Fed held rates steady. Powell’s final meeting as chair featured the most dissents since 1992 amid divisions on the outlook for cuts.",
+    "link": "https://www.wsj.com/economy/central-banking/fed-closes-powell-era-with-rates-on-hold-and-divide-over-what-comes-next-0aec10c2"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-04-29-17-58-00 +0000",
+    "source": "wsj",
+    "headline": "The Supreme Court appeared closely divided on allowing Trump to end legal protections for hundreds of thousands of immigrants who have been allowed to stay in the U.S. for humanitarian reasons",
+    "link": "https://www.wsj.com/politics/policy/supreme-court-appears-divided-on-allowing-trump-to-end-protections-for-some-migrants-5480cdce"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-04-29-18-03-37 +0000",
+    "source": "nyt",
+    "headline": "Meta Charged With Failing to Keep Children Off Instagram and Facebook in Europe",
+    "link": "https://www.nytimes.com/2026/04/29/business/meta-instagram-facebook-children.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-04-29-18-02-47 +0000",
+    "source": "nyt",
+    "headline": "Stabbing in Jewish Area in North London Treated as a Terrorist Incident, Police Say",
+    "link": "https://www.nytimes.com/2026/04/29/world/europe/london-stabbing-golders-green.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-04-29-17-32-35 +0000",
+    "source": "nyt",
+    "headline": "Russia’s Victory Day Parade Will Be Missing Tanks and Other Heavy Military Armor",
+    "link": "https://www.nytimes.com/2026/04/29/world/europe/russia-victory-day-parade-tanks.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-04-29-17-58-21 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Strikes Down Louisiana Map, Another Blow to Voting Rights Act",
+    "link": "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-act.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-04-29-17-20-23 +0000",
+    "source": "nypost",
+    "headline": "Chilling audio captured moment cops found bodies of children allegedly strangled by acupuncturist mom in their Mass. home",
+    "link": "https://nypost.com/2026/04/29/us-news/audio-captured-moment-cops-found-bodies-of-kids-allegedly-strangled-by-acupuncturist-mom/"
   }
 ]
