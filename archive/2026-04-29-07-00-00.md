@@ -31,7 +31,7 @@ title: World News
     </div>
 </div>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-04-29 07:00 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-04-29 07:50 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -40,20 +40,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.wsj.com/finance/banking/deutsche-bank-posts-rise-in-profit-on-stable-performance-989cf9cf?mod=rss_markets_main">Deutsche Bank Posts Rise in Profit on Stable Performance</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-29-05-41-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/04/29/world-news/german-tourist-dies-at-egypt-resort-after-cobra-from-snake-show-climbs-up-pants-bites-him/">Tourist dies at luxury resort after cobra from snake show climbs up pants, bites him: police</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-29-05-32-59 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/04/29/us-news/twitch-streamer-hmblzayy-struck-by-car-in-indiana-during-live-stream-walk-across-us/">Viral Twitch streamer struck by car in wild moment during live stream walk across US to raise money</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -61,52 +47,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/04/29/world-news/fugitive-busted-in-the-philippines-nearly-4-decades-after-allegedly-raping-and-abducting-florida-7-year-old/">Fugitive found hiding out in the Philippines nearly 4 decades after allegedly raping and abducting Florida 7-year-old</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-29-04-58-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/04/29/us-news/person-threatening-to-jump-freezes-101-freeway-traffic-for-hours-as-swat-and-lapd-descend/">Person threatening to jump freezes 101 Freeway traffic for hours as SWAT and LAPD descend</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-29-04-55-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/videos/c0l28k659lno?at_medium=RSS&at_campaign=rss">Hampshire: local elections explained in 60 seconds</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-29-05-14-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/ubs-net-profit-climbs-on-investment-banking-boost-b43bd638?mod=pls_whats_news_us_business_f">UBS Net Profit Climbs on Investment-Banking Boost</a>
+            <li><a href="https://www.wsj.com/finance/banking/deutsche-bank-posts-rise-in-profit-on-stable-performance-989cf9cf?mod=rss_markets_main">Deutsche Bank Posts Rise in Profit on Stable Performance</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-04-29-05-13-00 +0000</span></div>
+            <span class="datetime">2026-04-29-05-41-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/04/29/us-news/stepbrother-timothy-hudson-16-accused-of-raping-killing-anna-kepner-on-cruise-set-to-go-to-trial-in-june/">Stepbrother, 16, accused of raping, killing Anna Kepner on cruise set to go to trial in June</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-29-05-28-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/04/29/us-news/iconic-northeastern-grocery-chain-pathmark-opens-new-concept-store-in-nassau-county/">Supermarket staple Pathmark returns to Long Island with new streamlined concept</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-29-05-00-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/mercedes-benz-upbeat-on-full-year-despite-booking-lower-revenue-profit-5728b7de?mod=pls_whats_news_us_business_f">Mercedes-Benz Strikes Upbeat Tone Despite Little Cheer From China</a>
+            <li><a href="https://www.wsj.com/finance/banking/deutsche-bank-posts-rise-in-profit-on-stable-performance-989cf9cf?mod=pls_whats_news_us_business_f">Deutsche Bank Posts Rise in Profit on Stable Performance</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-04-29-05-37-00 +0000</span></div>
+            <span class="datetime">2026-04-29-05-41-00 +0000</span></div>
             </li>
         
     </ul>
@@ -172,10 +123,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/04/28/world/canada/carney-budget-update.html">Prime Minister Mark Carney Says Canada&#8217;s Economy Is Expected to Grow and Deficit to Fall</a>
+            <li><a href="https://www.wsj.com/world/middle-east/iranians-feel-the-pain-as-their-economy-descends-into-a-death-spiral-47dba669">War has imposed a heavy cost on Iran&#8217;s economy: more than a million people are out of work, food prices are soaring and a prolonged internet shutdown has slammed online businesses</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-04-28-22-44-16 +0000</span></div>
+            wsj, 
+            <span class="datetime">2026-04-29-02-00-00 +0000</span></div>
             </li>
         
 
@@ -286,111 +237,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-04-29-05-41-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/mercedes-benz-upbeat-on-full-year-despite-booking-lower-revenue-profit-5728b7de?mod=pls_whats_news_us_business_f">Mercedes-Benz Strikes Upbeat Tone Despite Little Cheer From China</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-29-05-37-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/04/29/world-news/german-tourist-dies-at-egypt-resort-after-cobra-from-snake-show-climbs-up-pants-bites-him/">Tourist dies at luxury resort after cobra from snake show climbs up pants, bites him: police</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-29-05-32-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/04/29/us-news/stepbrother-timothy-hudson-16-accused-of-raping-killing-anna-kepner-on-cruise-set-to-go-to-trial-in-june/">Stepbrother, 16, accused of raping, killing Anna Kepner on cruise set to go to trial in June</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-29-05-28-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/04/29/us/elections/california-governor-debate-pomona.html">Takeaways From the California Governor Debate at Pomona College</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-04-29-05-27-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/santander-books-jump-in-profit-on-top-line-growth-lower-costs-157421d3?mod=pls_whats_news_us_business_f">Santander Books Jump in Profit on Top-Line Growth, Lower Costs</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-29-05-16-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/videos/c0l28k659lno?at_medium=RSS&at_campaign=rss">Hampshire: local elections explained in 60 seconds</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-29-05-14-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/videos/clypw1kvqweo?at_medium=RSS&at_campaign=rss">Hampshire: local elections explained in 60 seconds</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-29-05-13-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/ubs-net-profit-climbs-on-investment-banking-boost-b43bd638?mod=rss_markets_main">UBS Net Profit Climbs on Investment-Banking Boost</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-29-05-13-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/hong-kong-exchange-operator-posts-record-quarterly-profit-revenue-1cc26df8?mod=pls_whats_news_us_business_f">Hong Kong Exchange Operator Posts Record Quarterly Profit, Revenue</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-29-05-13-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/ubs-net-profit-climbs-on-investment-banking-boost-b43bd638?mod=pls_whats_news_us_business_f">UBS Net Profit Climbs on Investment-Banking Boost</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-29-05-13-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/oil-falls-on-uaes-plan-to-exit-opec-but-mideast-tensions-limit-decline-2a3b2f5e?mod=rss_markets_main">Oil Prices Could Rise Further if Shipping Disruptions Continue</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-04-29-05-06-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/04/28/us/king-charles-address-congress-history.html">More Than 120 Foreign Leaders Have Addressed Congress. Not Many Have Been Kings.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-04-29-05-04-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/04/29/us-news/iconic-northeastern-grocery-chain-pathmark-opens-new-concept-store-in-nassau-county/">Supermarket staple Pathmark returns to Long Island with new streamlined concept</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-29-05-00-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/04/29/world-news/fugitive-busted-in-the-philippines-nearly-4-decades-after-allegedly-raping-and-abducting-florida-7-year-old/">Fugitive found hiding out in the Philippines nearly 4 decades after allegedly raping and abducting Florida 7-year-old</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-29-04-58-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/04/29/us-news/person-threatening-to-jump-freezes-101-freeway-traffic-for-hours-as-swat-and-lapd-descend/">Person threatening to jump freezes 101 Freeway traffic for hours as SWAT and LAPD descend</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-04-29-04-55-29 +0000</span></div>
             </li>
         
     </ul>
@@ -4247,27 +4093,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-04-28-06-45-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/04/27/world/europe/royal-visits-america-history-trump-uk.html">8 Memorable Moments From Past British Royal Visits to the U.S.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-04-28-06-38-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/04/27/world/europe/royal-visits-america-history-trump-uk.html">8 Memorable Moments From Past British Royal Visits to the U.S.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-04-28-06-38-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.com/news/articles/ce3p1nrz5qqo?at_medium=RSS&at_campaign=rss">Prada launches Indian-made sandals after cultural appropriation backlash</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-04-28-06-17-03 +0000</span></div>
             </li>
         
     </ul>
