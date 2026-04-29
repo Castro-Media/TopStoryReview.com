@@ -1,6 +1,6 @@
 [
   {
-    "score": 414,
+    "score": 412,
     "pubdate": "2026-04-29-04-15-00 +0000",
     "source": "wsj",
     "headline": "Business leaders, cabinet secretaries, Supreme Court justices and Trump family members were among the guests at the White House Tuesday evening to attend a state dinner with King Charles III and Queen Camilla",
@@ -35,28 +35,21 @@
     "link": "https://www.wsj.com/world/china/chinas-ban-on-meta-manus-deal-shows-strains-in-u-s-china-business-ties-3f58f0d7"
   },
   {
-    "score": 114,
+    "score": 113,
     "pubdate": "2026-04-27-20-08-59 +0000",
     "source": "latimes",
     "headline": "OpenAI CEO Sam Altman apologizes for not alerting police about Canada shooting suspect",
     "link": "https://www.latimes.com/business/story/2026-04-27/openai-ceo-sam-altman-sorry-he-didnt-report-canada-shooting-suspect"
   },
   {
-    "score": 101,
+    "score": 100,
     "pubdate": "2026-04-27-16-19-50 +0000",
     "source": "nyt",
     "headline": "Mali Terror Attack: Defense Minister Killed by Al Qaeda-Linked JNIM",
     "link": "https://www.nytimes.com/2026/04/27/world/africa/mali-defense-minster-killed.html"
   },
   {
-    "score": 100,
-    "pubdate": "2026-04-22-16-58-00 +0000",
-    "source": "wsj",
-    "headline": "More than a year into President Trump’s immigration crackdown, there is little evidence of widespread disruptions in the labor market, or of meaningful benefits to American workers",
-    "link": "https://www.wsj.com/economy/jobs/immigration-crackdown-labor-market-fcfed2d6"
-  },
-  {
-    "score": 92,
+    "score": 91,
     "pubdate": "2026-04-28-09-30-00 +0000",
     "source": "wsj",
     "headline": "Federal Reserve officials are watching how the U.S. economy digests its fourth supply shock in five years—the pandemic reopening, Russia’s invasion of Ukraine, tariffs and now the Middle East",
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "The Defense Department can temporarily require journalists to be escorted inside the Pentagon, a federal appeals court ruled Monday, a win for the department in its efforts to limit media access",
     "link": "https://www.wsj.com/politics/national-security/appeals-court-says-pentagon-can-temporarily-mandate-escorts-for-journalists-84042f19"
+  },
+  {
+    "score": 86,
+    "pubdate": "2026-04-27-20-12-55 +0000",
+    "source": "nyt",
+    "headline": "Iran Offers Plan to Focus on Strait of Hormuz and Delay Nuclear Talks",
+    "link": "https://www.nytimes.com/2026/04/27/world/middleeast/iran-trump-talks-strait-of-hormuz-nuclear.html"
   }
 ]

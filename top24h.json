@@ -1,17 +1,24 @@
 [
   {
-    "score": 286,
+    "score": 281,
     "pubdate": "2026-04-29-04-15-00 +0000",
     "source": "wsj",
     "headline": "Business leaders, cabinet secretaries, Supreme Court justices and Trump family members were among the guests at the White House Tuesday evening to attend a state dinner with King Charles III and Queen Camilla",
     "link": "https://www.wsj.com/politics/policy/jeff-bezos-and-tim-cook-among-guests-at-state-dinner-honoring-king-charles-iii-and-queen-camilla-6b60b9d5"
   },
   {
-    "score": 139,
-    "pubdate": "2026-04-28-16-51-51 +0000",
-    "source": "nyt",
-    "headline": "UAE Says It Will Leave OPEC as Iran War Strains Oil Markets",
-    "link": "https://www.nytimes.com/2026/04/28/world/middleeast/uae-opec.html"
+    "score": 104,
+    "pubdate": "2026-04-29-10-46-00 +0000",
+    "source": "wsj",
+    "headline": "War has imposed a heavy cost on Iran’s economy: more than a million people are out of work, food prices are soaring and a prolonged internet shutdown has slammed online businesses",
+    "link": "https://www.wsj.com/world/middle-east/iranians-feel-the-pain-as-their-economy-descends-into-a-death-spiral-47dba669"
+  },
+  {
+    "score": 78,
+    "pubdate": "2026-04-28-21-40-00 +0000",
+    "source": "wsj",
+    "headline": "A seashell photo gets Comey charged with threatening Trump, the U.A.E. is leaving OPEC, and lube glosses hairdos. Read more in today’s What’s News newsletter:",
+    "link": "https://www.wsj.com/politics/policy/seashell-photo-gets-comey-charged-with-threatening-trump-acf8f513"
   },
   {
     "score": 68,
@@ -21,25 +28,25 @@
     "link": "https://www.wsj.com/politics/policy/senate-democrats-press-kevin-warsh-on-fed-independence-f9a31a05"
   },
   {
-    "score": 63,
-    "pubdate": "2026-04-29-00-08-21 +0000",
+    "score": 65,
+    "pubdate": "2026-04-29-16-15-29 +0000",
     "source": "nyt",
-    "headline": "DOJ Secures New James Comey Indictment Over Alleged Threat Against Trump",
-    "link": "https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html"
+    "headline": "Russia’s Victory Day Parade Will Be Missing Tanks and Other Heavy Military Armor",
+    "link": "https://www.nytimes.com/2026/04/29/world/europe/russia-victory-day-parade-tanks.html"
   },
   {
     "score": 63,
+    "pubdate": "2026-04-29-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Tupac's stepbrother files wrongful death suit, cites new turns in 29-year-old murder case",
+    "link": "https://www.latimes.com/entertainment-arts/story/2026-04-29/tupacs-stepbrother-files-wrongful-death-suit-cites-new-turns-in-29-year-old-murder-case"
+  },
+  {
+    "score": 61,
     "pubdate": "2026-04-29-14-11-03 +0000",
     "source": "nypost",
     "headline": "Supreme Court tosses Louisiana House map in major Voting Rights Act win for GOP ahead of midterms",
     "link": "https://nypost.com/2026/04/29/us-news/supreme-court-tosses-louisiana-house-map-in-major-voting-rights-act-decision/"
-  },
-  {
-    "score": 60,
-    "pubdate": "2026-04-29-10-46-00 +0000",
-    "source": "wsj",
-    "headline": "War has imposed a heavy cost on Iran’s economy: more than a million people are out of work, food prices are soaring and a prolonged internet shutdown has slammed online businesses",
-    "link": "https://www.wsj.com/world/middle-east/iranians-feel-the-pain-as-their-economy-descends-into-a-death-spiral-47dba669"
   },
   {
     "score": 60,
@@ -56,17 +63,10 @@
     "link": "https://nypost.com/2026/04/29/us-news/whcd-suspect-cole-allen-took-smirking-selfie-while-armed-to-the-teeth-before-attack-on-ballroom-docs/"
   },
   {
-    "score": 58,
-    "pubdate": "2026-04-28-17-16-12 +0000",
-    "source": "nypost",
-    "headline": "FCC orders a review of ABC’s broadcast licenses after Jimmy Kimmel’s controversial Melania ‘joke’",
-    "link": "https://nypost.com/2026/04/28/media/fcc-preps-review-of-disneys-broadcast-licenses-amid-controversial-jimmy-kimmel-monologue-report/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-04-28-21-40-00 +0000",
-    "source": "wsj",
-    "headline": "A seashell photo gets Comey charged with threatening Trump, the U.A.E. is leaving OPEC, and lube glosses hairdos. Read more in today’s What’s News newsletter:",
-    "link": "https://www.wsj.com/politics/policy/seashell-photo-gets-comey-charged-with-threatening-trump-acf8f513"
+    "score": 55,
+    "pubdate": "2026-04-28-20-12-46 +0000",
+    "source": "nyt",
+    "headline": "Treasury Issues More Sanctions on Iranian Oil Exports",
+    "link": "https://www.nytimes.com/2026/04/28/us/politics/treasury-iran-oil-sanctions.html"
   }
 ]
