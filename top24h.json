@@ -1,34 +1,34 @@
 [
   {
-    "score": 237,
+    "score": 236,
     "pubdate": "2026-04-29-22-40-00 +0000",
     "source": "wsj",
     "headline": "In his first public testimony since the war in Iran began two months ago, Defense Secretary Pete Hegseth sparred with Democrats on his handling of the war in Iran and management of the Pentagon",
     "link": "https://www.wsj.com/politics/national-security/hegseth-testified-for-first-time-since-iran-war-began-here-are-five-takeaways-b1d4a3c9"
   },
   {
-    "score": 191,
+    "score": 187,
     "pubdate": "2026-04-30-01-14-00 +0000",
     "source": "wsj",
     "headline": "President Trump is leaning toward endorsing Rep. Andy Barr in the Kentucky Senate race, a move that would put Trump at odds with Elon Musk and several of his own allies, who are backing one of Barr’s opponents",
     "link": "https://www.wsj.com/politics/elections/trump-leans-toward-backing-barr-in-kentucky-senate-race-breaking-with-allies-e6370bde"
   },
   {
-    "score": 152,
+    "score": 143,
     "pubdate": "2026-04-29-21-26-00 +0000",
     "source": "wsj",
     "headline": "Powell said he’ll stay on the Fed board, the Supreme Court curbs election map protections, and a private island in Scotland is for sale. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/powelland-interest-ratesstay-where-they-are-e6271b5f"
   },
   {
-    "score": 127,
+    "score": 125,
     "pubdate": "2026-04-30-11-27-08 +0000",
     "source": "cbc",
     "headline": "Oil prices hit new wartime high before easing, as gas prices expected to go up",
     "link": "https://www.cbc.ca/news/world/iran-war-oil-price-markets-9.7182448?cmp=rss"
   },
   {
-    "score": 79,
+    "score": 77,
     "pubdate": "2026-04-30-05-00-04 +0000",
     "source": "bbc",
     "headline": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
@@ -42,13 +42,6 @@
     "link": "https://www.wsj.com/politics/policy/doj-launches-new-west-coast-health-fraud-strike-force-ec3caaab"
   },
   {
-    "score": 69,
-    "pubdate": "2026-04-29-22-23-00 +0000",
-    "source": "wsj",
-    "headline": "The Fed held rates steady; but in a contentious end to Jerome Powell’s eight-year chairmanship—the central bank’s interest-rate stance drew four dissents",
-    "link": "https://www.wsj.com/economy/central-banking/fed-closes-powell-era-with-rates-on-hold-and-divide-over-what-comes-next-0aec10c2"
-  },
-  {
     "score": 68,
     "pubdate": "2026-04-30-16-39-29 +0000",
     "source": "nyt",
@@ -56,17 +49,24 @@
     "link": "https://www.nytimes.com/2026/04/30/us/politics/voting-rights-act-young-black-democrats.html"
   },
   {
-    "score": 67,
-    "pubdate": "2026-04-30-02-53-37 +0000",
-    "source": "cbc",
-    "headline": "Report into Bondi Beach mass shooting calls for increased security at Jewish public events, more gun reforms",
-    "link": "https://www.cbc.ca/news/world/bondi-beach-shooting-interim-report-9.7182399?cmp=rss"
+    "score": 65,
+    "pubdate": "2026-04-29-22-23-00 +0000",
+    "source": "wsj",
+    "headline": "The Fed held rates steady; but in a contentious end to Jerome Powell’s eight-year chairmanship—the central bank’s interest-rate stance drew four dissents",
+    "link": "https://www.wsj.com/economy/central-banking/fed-closes-powell-era-with-rates-on-hold-and-divide-over-what-comes-next-0aec10c2"
   },
   {
-    "score": 64,
+    "score": 63,
     "pubdate": "2026-04-29-20-43-00 +0000",
     "source": "wsj",
     "headline": "MGM Resorts Reports Lower First-Quarter Profit, Higher Revenue on China Growth",
     "link": "https://www.wsj.com/business/earnings/mgm-resorts-reports-lower-first-quarter-profit-higher-revenue-on-china-growth-731fc9c1?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-04-30-02-53-37 +0000",
+    "source": "cbc",
+    "headline": "Report into Bondi Beach mass shooting calls for increased security at Jewish public events, more gun reforms",
+    "link": "https://www.cbc.ca/news/world/bondi-beach-shooting-interim-report-9.7182399?cmp=rss"
   }
 ]
