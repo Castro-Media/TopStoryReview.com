@@ -1,338 +1,278 @@
 [
   {
-    "headline": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
-    "link": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-13-19-13 +0000"
-  },
-  {
-    "headline": "The Commerce Department said U.S. gross domestic product rose at a seasonally and inflation adjusted 2% annual rate in the first quarter",
-    "link": "https://www.wsj.com/economy/central-banking/u-s-economy-grew-at-2-rate-in-first-quarter-6e0c18cc",
-    "source": "wsj",
-    "pubdate": "2026-04-30-13-18-00 +0000"
-  },
-  {
-    "headline": "U.S. Data Halt Treasury Yields Decline",
-    "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-265b2fb4?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-30-13-18-00 +0000"
-  },
-  {
-    "headline": "Janet Mills Drops Out of Maine Senate Democratic Primary Race",
-    "link": "https://www.wsj.com/politics/policy/janet-mills-drops-out-of-maine-senate-democratic-primary-race-c3444cd1",
-    "source": "wsj",
-    "pubdate": "2026-04-30-13-15-00 +0000"
-  },
-  {
-    "headline": "Janet Mills, Governor of Maine, Suspends Senate Campaign",
-    "link": "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-13-14-45 +0000"
-  },
-  {
-    "headline": "Janet Mills, Governor of Maine, Suspends Senate Campaign",
-    "link": "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-13-14-45 +0000"
-  },
-  {
-    "headline": "Eurozone Economy Slows in First Quarter on Energy Shock",
-    "link": "https://www.wsj.com/world/europe/frances-economy-stalled-in-first-quarter-1cb5de65",
-    "source": "wsj",
-    "pubdate": "2026-04-30-13-12-00 +0000"
-  },
-  {
-    "headline": "Eurozone Economy Slows in First Quarter on Energy Shock",
-    "link": "https://www.wsj.com/world/europe/frances-economy-stalled-in-first-quarter-1cb5de65",
-    "source": "wsj",
-    "pubdate": "2026-04-30-13-12-00 +0000"
-  },
-  {
-    "headline": "U.S. Economy Grew 2 Percent in Early 2026 Even as War in Iran Began to Hit Energy Prices",
-    "link": "https://www.nytimes.com/2026/04/30/business/us-economy-gdp-oil-war.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-13-11-53 +0000"
-  },
-  {
-    "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-30-13-09-00 +0000"
-  },
-  {
-    "headline": "Best High-Yield Savings Accounts for April 2026: Up to 5.00%",
-    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
-    "source": "wsj",
-    "pubdate": "2026-04-30-13-09-00 +0000"
-  },
-  {
-    "headline": "Economy picked up in early 2026, but inflation jumped, too",
-    "link": "https://www.washingtonpost.com/business/2026/04/30/economy-gdp-growth-first-quarter/",
-    "source": "wapo",
-    "pubdate": "2026-04-30-13-06-35 +0000"
-  },
-  {
-    "headline": "Iran War Lifts Fed’s Targeted Inflation Metric",
-    "link": "https://www.wsj.com/economy/central-banking/iran-war-lifts-feds-targeted-inflation-metric-24fc61d6",
-    "source": "wsj",
-    "pubdate": "2026-04-30-13-06-00 +0000"
-  },
-  {
-    "headline": "New York rabbi found dismembered, stuffed in closet after being killed by Colombian gang",
-    "link": "https://nypost.com/2026/04/30/world-news/new-york-rabbi-found-dismembered-stuffed-in-closet-after-being-killed-by-colombian-gang/",
-    "source": "nypost",
-    "pubdate": "2026-04-30-13-01-01 +0000"
-  },
-  {
-    "headline": "California Republican goes scorched earth in Congress over oil armageddon crippling the state",
-    "link": "https://nypost.com/2026/04/30/us-news/gop-rep-ken-calvert-slams-californias-energy-insanity/",
-    "source": "nypost",
-    "pubdate": "2026-04-30-13-00-00 +0000"
-  },
-  {
-    "headline": "Bayview Plaza",
-    "link": "https://missionlocal.org/2026/04/bayview-plaza/",
-    "source": "missionlocal",
-    "pubdate": "2026-04-30-13-00-00 +0000"
-  },
-  {
-    "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+    "headline": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
+    "link": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-30-12-59-04 +0000"
+    "pubdate": "2026-04-30-14-32-23 +0000"
   },
   {
-    "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+    "headline": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
+    "link": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-30-12-59-04 +0000"
+    "pubdate": "2026-04-30-14-32-23 +0000"
   },
   {
-    "headline": "The U.S. national debt now exceeds 100% of gross domestic product, crossing a once-unthinkable threshold",
-    "link": "https://www.wsj.com/economy/u-s-debt-tops-100-of-gdp-81c013d7",
-    "source": "wsj",
-    "pubdate": "2026-04-30-12-59-00 +0000"
-  },
-  {
-    "headline": "Maine Gov. Janet Mills ends Senate campaign, clearing way for left-winger Graham Platner",
-    "link": "https://nypost.com/2026/04/30/us-news/maine-gov-janet-mills-ends-senate-campaign-clearing-way-for-left-winger-graham-platner/",
+    "headline": "Scottish mother found guilty of killing newborn after blaming another child",
+    "link": "https://nypost.com/2026/04/30/world-news/scottish-mother-found-guilty-of-killing-newborn-after-blaming-another-child/",
     "source": "nypost",
-    "pubdate": "2026-04-30-12-58-24 +0000"
-  },
-  {
-    "headline": "Maine Gov. Janet Mills ends Senate campaign, clearing way for left-winger Graham Platner",
-    "link": "https://nypost.com/2026/04/30/us-news/maine-gov-janet-mills-ends-senate-campaign-clearing-way-for-left-winger-graham-platner/",
-    "source": "nypost",
-    "pubdate": "2026-04-30-12-58-24 +0000"
-  },
-  {
-    "headline": "Rising Fuel Prices Force Policymakers to Weigh Excruciating Choices",
-    "link": "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-56-45 +0000"
-  },
-  {
-    "headline": "Rising Fuel Prices Force Policymakers to Weigh Excruciating Choices",
-    "link": "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-56-45 +0000"
-  },
-  {
-    "headline": "Rising Fuel Prices Force Policymakers to Weigh Excruciating Choices",
-    "link": "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-56-45 +0000"
+    "pubdate": "2026-04-30-14-31-59 +0000"
   },
   {
     "headline": "Oil Price Hits Wartime High Above $120 a Barrel as Iran War Standoff Continues",
     "link": "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html",
     "source": "nyt",
-    "pubdate": "2026-04-30-12-53-59 +0000"
+    "pubdate": "2026-04-30-14-31-57 +0000"
   },
   {
-    "headline": "Oil Price Hits Wartime High Above $120 a Barrel as Iran War Standoff Continues",
-    "link": "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-53-59 +0000"
-  },
-  {
-    "headline": "Attacks on Jewish Targets in Europe Suggest Hybrid Warfare",
-    "link": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-53-17 +0000"
-  },
-  {
-    "headline": "Attacks on Jewish Targets in Europe Suggest Hybrid Warfare",
-    "link": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-53-17 +0000"
-  },
-  {
-    "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-    "link": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+    "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-30-12-50-41 +0000"
+    "pubdate": "2026-04-30-14-31-49 +0000"
   },
   {
-    "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-    "link": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+    "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-30-12-50-41 +0000"
+    "pubdate": "2026-04-30-14-31-49 +0000"
   },
   {
-    "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-    "link": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+    "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-30-12-50-41 +0000"
-  },
-  {
-    "headline": "Trump May Pull Troops From Germany. That Isn’t as Scary as It Once Was.",
-    "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-49-45 +0000"
-  },
-  {
-    "headline": "Trump May Pull Troops From Germany. That Isn’t as Scary as It Once Was.",
-    "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-49-45 +0000"
-  },
-  {
-    "headline": "U.S. Jobless Claims Fell Last Week",
-    "link": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-fell-last-week-91521f9b",
-    "source": "wsj",
-    "pubdate": "2026-04-30-12-49-00 +0000"
-  },
-  {
-    "headline": "Trump said Iran’s oil pipelines will soon ‘explode.’ Energy experts doubt it.",
-    "link": "https://www.washingtonpost.com/business/2026/04/30/trump-iran-oil-explode-strait/",
-    "source": "wapo",
-    "pubdate": "2026-04-30-12-43-21 +0000"
-  },
-  {
-    "headline": "Israel Intercepts Aid Flotilla Heading to Breach Naval Blockade of Gaza",
-    "link": "https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-40-00 +0000"
-  },
-  {
-    "headline": "Israel Intercepts Aid Flotilla Heading to Breach Naval Blockade of Gaza",
-    "link": "https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-40-00 +0000"
-  },
-  {
-    "headline": "Israel Intercepts Aid Flotilla Heading to Breach Naval Blockade of Gaza",
-    "link": "https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-40-00 +0000"
-  },
-  {
-    "headline": "International Paper Swings to Profit, Issues Downbeat Outlook",
-    "link": "https://www.wsj.com/business/earnings/international-paper-swings-to-profit-issues-downbeat-outlook-b5811670?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-30-12-38-00 +0000"
-  },
-  {
-    "headline": "Bank of England hints at higher rates as Iran war fuels inflation",
-    "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-30-12-34-53 +0000"
-  },
-  {
-    "headline": "Bank of England hints at higher rates as Iran war fuels inflation",
-    "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-30-12-34-53 +0000"
-  },
-  {
-    "headline": "Bank of England hints at higher rates as Iran war fuels inflation",
-    "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-04-30-12-34-53 +0000"
-  },
-  {
-    "headline": "Mamdani Suggested UK Should Return the Koh-i-Noor Diamond. Here’s the Back Story.",
-    "link": "https://www.nytimes.com/2026/04/30/nyregion/kohinoor-diamond-india-history-mamdani-king-charles.html",
-    "source": "nyt",
-    "pubdate": "2026-04-30-12-31-17 +0000"
-  },
-  {
-    "headline": "$600,000 worth of tools taken from Home Depot stores across SoCal",
-    "link": "https://nypost.com/2026/04/30/us-news/600000-worth-of-tools-taken-from-home-depot-stores-across-socal/",
-    "source": "nypost",
-    "pubdate": "2026-04-30-12-30-00 +0000"
-  },
-  {
-    "headline": "Sports Streamer DAZN Makes $100 Million Bet on Technology Company ViewLift",
-    "link": "https://www.wsj.com/business/media/sports-streamer-dazn-makes-100-million-bet-on-technology-company-viewlift-d9ed892c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-30-12-30-00 +0000"
-  },
-  {
-    "headline": "U.K. investigates attacks on Jewish targets for possible links to Iran",
-    "link": "https://www.washingtonpost.com/world/2026/04/29/london-stabbing-jewish-starmer-investigation/",
-    "source": "wapo",
-    "pubdate": "2026-04-30-12-29-21 +0000"
+    "pubdate": "2026-04-30-14-31-49 +0000"
   },
   {
     "headline": "Both the ECB and BOE, facing a mix of weaker growth and higher inflation, held interest rates steady",
     "link": "https://www.wsj.com/economy/global/boe-signals-it-may-raise-rates-as-energy-prices-stay-high-02873fbd",
     "source": "wsj",
-    "pubdate": "2026-04-30-12-28-00 +0000"
-  },
-  {
-    "headline": "Sterling Softens, Yields Fall as Rate-Rise Bets Fall After BOE Decision",
-    "link": "https://www.wsj.com/finance/currencies/dollars-bullish-bias-against-yen-holding-above-160-technical-analysis-shows-f6bc46e7?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-04-30-12-28-00 +0000"
+    "pubdate": "2026-04-30-14-31-00 +0000"
   },
   {
     "headline": "Europe’s Economy Stutters as War Drives Up Inflation",
     "link": "https://www.wsj.com/economy/global/boe-signals-it-may-raise-rates-as-energy-prices-stay-high-02873fbd",
     "source": "wsj",
-    "pubdate": "2026-04-30-12-28-00 +0000"
+    "pubdate": "2026-04-30-14-31-00 +0000"
   },
   {
-    "headline": "Florida teacher admits having sex with underage student multiple times on campus: sheriff",
-    "link": "https://nypost.com/2026/04/30/us-news/florida-teacher-admits-having-sex-with-underage-student-multiple-times-on-campus-sheriff/",
-    "source": "nypost",
-    "pubdate": "2026-04-30-12-26-35 +0000"
+    "headline": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
+    "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-30-14-29-30 +0000"
   },
   {
-    "headline": "How Powell Just Complicated Trump’s Fed Plans",
-    "link": "https://www.nytimes.com/2026/04/30/business/dealbook/powell-fed-trump-warsh.html",
+    "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-30-14-29-13 +0000"
+  },
+  {
+    "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-30-14-29-13 +0000"
+  },
+  {
+    "headline": "Janet Mills Bows Out of Maine Senate Race as an Insurgent Democrat Rises",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html",
     "source": "nyt",
-    "pubdate": "2026-04-30-12-26-12 +0000"
+    "pubdate": "2026-04-30-14-28-05 +0000"
   },
   {
-    "headline": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-    "link": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Janet Mills Bows Out of Maine Senate Race as an Insurgent Democrat Rises",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-28-05 +0000"
+  },
+  {
+    "headline": "In Blow to Voting Rights Act, Supreme Court Embraces Claim of Racial Progress",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/supreme-court-voting-rights-act-conservatives.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-24-37 +0000"
+  },
+  {
+    "headline": "In Blow to Voting Rights Act, Supreme Court Embraces Claim of Racial Progress",
+    "link": "https://www.nytimes.com/2026/04/30/us/politics/supreme-court-voting-rights-act-conservatives.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-24-37 +0000"
+  },
+  {
+    "headline": "Attacks on Jewish Targets in Europe Hint at Ripple Effects of War",
+    "link": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-24-05 +0000"
+  },
+  {
+    "headline": "Attacks on Jewish Targets in Europe Hint at Ripple Effects of War",
+    "link": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-24-05 +0000"
+  },
+  {
+    "headline": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
+    "link": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-23-28 +0000"
+  },
+  {
+    "headline": "What to Know About the Stabbing Attack Against 2 Jewish Men in London",
+    "link": "https://www.nytimes.com/2026/04/30/world/europe/stabbing-attack-jewish-men-london.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-23-28 +0000"
+  },
+  {
+    "headline": "Law and MBA graduates earn more if classes are racially diverse, study shows",
+    "link": "https://www.washingtonpost.com/education/2026/04/30/diversity-graduate-school-earnings/",
+    "source": "wapo",
+    "pubdate": "2026-04-30-14-22-51 +0000"
+  },
+  {
+    "headline": "Oil Price Hits Wartime High Above $120 a Barrel as Iran War Standoff Continues",
+    "link": "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-22-01 +0000"
+  },
+  {
+    "headline": "The Strait of Hormuz",
+    "link": "https://www.wsj.com/world/middle-east/the-strait-of-hormuz-2e95e470",
+    "source": "wsj",
+    "pubdate": "2026-04-30-14-22-00 +0000"
+  },
+  {
+    "headline": "Molson Coors Says Beer Buying Holds Strong Despite Consumer Pressure",
+    "link": "https://www.wsj.com/business/earnings/molson-coors-profit-sales-rise-on-higher-pricing-5a061009?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-30-14-19-00 +0000"
+  },
+  {
+    "headline": "Bombardier Lifts Outlook as Services Segment Drives Revenue, Cash Flow Higher",
+    "link": "https://www.wsj.com/business/earnings/bombardier-lifts-outlook-as-services-segment-drives-revenue-cash-flow-higher-de853c0b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-04-30-14-18-00 +0000"
+  },
+  {
+    "headline": "House adopts blueprint to fund ICE on day 74 of DHS shutdown after dramatic 5-hour struggle",
+    "link": "https://nypost.com/2026/04/30/us-news/house-adopts-blueprint-to-fund-ice-on-day-74-of-dhs-shutdown-after-dramatic-5-hour-struggle/",
+    "source": "nypost",
+    "pubdate": "2026-04-30-14-16-53 +0000"
+  },
+  {
+    "headline": "House adopts blueprint to fund ICE on day 74 of DHS shutdown after dramatic 5-hour struggle",
+    "link": "https://nypost.com/2026/04/30/us-news/house-adopts-blueprint-to-fund-ice-on-day-74-of-dhs-shutdown-after-dramatic-5-hour-struggle/",
+    "source": "nypost",
+    "pubdate": "2026-04-30-14-16-53 +0000"
+  },
+  {
+    "headline": "'Vote Plaid Cymru' gaffe from Welsh Labour leader",
+    "link": "https://www.bbc.com/news/videos/c392l4ekyjko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-30-12-24-12 +0000"
+    "pubdate": "2026-04-30-14-13-12 +0000"
   },
   {
-    "headline": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-    "link": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
+    "headline": "Behind Powell’s High-Stakes Decision to Stay at the Fed",
+    "link": "https://www.nytimes.com/2026/04/30/business/powell-fed-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-13-11 +0000"
+  },
+  {
+    "headline": "U.K. suspect accused of stabbing 2 Jewish men was previously flagged by counterterrorism program",
+    "link": "https://www.cbc.ca/news/world/uk-fallout-golders-green-terror-attack-9.7182584?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-04-30-14-13-06 +0000"
+  },
+  {
+    "headline": "Janet Mills Drops Out of Maine Senate Democratic Primary Race",
+    "link": "https://www.wsj.com/politics/policy/janet-mills-drops-out-of-maine-senate-democratic-primary-race-c3444cd1",
+    "source": "wsj",
+    "pubdate": "2026-04-30-14-13-00 +0000"
+  },
+  {
+    "headline": "Rising Fuel Prices Force Policymakers to Weigh Excruciating Choices",
+    "link": "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-08-49 +0000"
+  },
+  {
+    "headline": "Rising Fuel Prices Force Policymakers to Weigh Excruciating Choices",
+    "link": "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-08-49 +0000"
+  },
+  {
+    "headline": "Rising Fuel Prices Force Policymakers to Weigh Excruciating Choices",
+    "link": "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-14-08-49 +0000"
+  },
+  {
+    "headline": "New rules won't stop me donating, says billionaire Reform backer",
+    "link": "https://www.bbc.com/news/articles/cq5pe068dyyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-04-30-12-24-12 +0000"
+    "pubdate": "2026-04-30-14-07-04 +0000"
   },
   {
-    "headline": "Oil Futures Retreat After Rising to Four-Year Highs",
+    "headline": "Murdered Mexican beauty queen’s  mother-in-law busted after fleeing the country",
+    "link": "https://nypost.com/2026/04/30/world-news/mother-in-law-of-murdered-mexican-beauty-queen-carolina-flores-arrested/",
+    "source": "nypost",
+    "pubdate": "2026-04-30-13-58-55 +0000"
+  },
+  {
+    "headline": "Antisemitism 'a national security emergency', government terror adviser says",
+    "link": "https://www.bbc.com/news/articles/cy820jz41w8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-30-13-57-27 +0000"
+  },
+  {
+    "headline": "Economy picked up in early 2026, but inflation jumped, too",
+    "link": "https://www.washingtonpost.com/business/2026/04/30/economy-gdp-growth-first-quarter/",
+    "source": "wapo",
+    "pubdate": "2026-04-30-13-55-15 +0000"
+  },
+  {
+    "headline": "Citi paid ex-JPMorgan banker $52M despite allegations of bullying, abusive behavior: report",
+    "link": "https://nypost.com/2026/04/30/business/citi-paid-ex-jpmorgan-banker-52m-bullying-allegations-report/",
+    "source": "nypost",
+    "pubdate": "2026-04-30-13-53-09 +0000"
+  },
+  {
+    "headline": "Fed Meeting Underscores Tough Task Ahead for Warsh",
+    "link": "https://www.nytimes.com/2026/04/29/business/economy/what-to-watch-at-the-federal-reserves-april-meeting.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-13-51-04 +0000"
+  },
+  {
+    "headline": "Fed Meeting Underscores Tough Task Ahead for Warsh",
+    "link": "https://www.nytimes.com/2026/04/29/business/economy/what-to-watch-at-the-federal-reserves-april-meeting.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-13-51-04 +0000"
+  },
+  {
+    "headline": "U.S. Economy Grew 2 Percent in Early 2026 Even as War in Iran Began to Hit Energy Prices",
+    "link": "https://www.nytimes.com/2026/04/30/business/us-economy-gdp-oil-war.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-13-47-25 +0000"
+  },
+  {
+    "headline": "Oil Futures Pull Back In Volatile Trade on Middle East Uncertainty",
     "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-prospect-of-prolonged-strait-of-hormuz-closure-may-buoy-e4f2616f?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-04-30-12-23-00 +0000"
+    "pubdate": "2026-04-30-13-45-00 +0000"
   },
   {
-    "headline": "Gildan Activewear Revenue Climbs",
-    "link": "https://www.wsj.com/business/retail/gildan-activewear-revenue-climbs-c1a71633?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-30-12-22-00 +0000"
+    "headline": "Casa, a Handyman Start-Up, Aims to Automate Home Maintenance",
+    "link": "https://www.nytimes.com/2026/04/30/business/dealbook/casa-handyman-start-up.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-13-42-17 +0000"
   },
   {
-    "headline": "Mastercard Profit, Sales Rise as Payment Network Arm Grows",
-    "link": "https://www.wsj.com/business/earnings/mastercard-profit-sales-rise-as-payment-network-arm-grows-e797453a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-04-30-12-22-00 +0000"
+    "headline": "Saudi Arabia to stop funding LIV Golf next season",
+    "link": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-04-30-13-38-45 +0000"
+  },
+  {
+    "headline": "Mamdani’s Advice to Royals: Give That Priceless Diamond Back to India",
+    "link": "https://www.nytimes.com/2026/04/29/us/mamdani-diamond-king-charles.html",
+    "source": "nyt",
+    "pubdate": "2026-04-30-13-35-50 +0000"
   }
 ]
