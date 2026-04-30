@@ -1,37 +1,72 @@
 [
   {
-    "score": 24,
-    "pubdate": "2026-04-30-11-17-14 +0000",
+    "score": 47,
+    "pubdate": "2026-04-30-12-34-53 +0000",
+    "source": "bbc",
+    "headline": "Bank of England hints at higher rates as Iran war fuels inflation",
+    "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-04-30-12-40-00 +0000",
     "source": "nyt",
-    "headline": "Rising Fuel Prices Could Force Excruciating Choices on Economic Policies",
+    "headline": "Israel Intercepts Aid Flotilla Heading to Breach Naval Blockade of Gaza",
+    "link": "https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-04-30-12-58-24 +0000",
+    "source": "nypost",
+    "headline": "Maine Gov. Janet Mills ends Senate campaign, clearing way for left-winger Graham Platner",
+    "link": "https://nypost.com/2026/04/30/us-news/maine-gov-janet-mills-ends-senate-campaign-clearing-way-for-left-winger-graham-platner/"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-04-30-12-59-04 +0000",
+    "source": "bbc",
+    "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-04-30-12-56-45 +0000",
+    "source": "nyt",
+    "headline": "Rising Fuel Prices Force Policymakers to Weigh Excruciating Choices",
     "link": "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html"
   },
   {
-    "score": 13,
-    "pubdate": "2026-04-30-11-21-00 +0000",
-    "source": "nypost",
-    "headline": "Sicko FedEx driver Tanner Horner had sex with his fiancée hours after murdering little Athena Strand",
-    "link": "https://nypost.com/2026/04/30/us-news/sicko-fedex-driver-tanner-horner-had-sex-with-his-fiancee-hours-after-murdering-little-athena-strand/"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-04-30-11-22-00 +0000",
+    "score": 21,
+    "pubdate": "2026-04-30-13-12-00 +0000",
     "source": "wsj",
     "headline": "Eurozone Economy Slows in First Quarter on Energy Shock",
     "link": "https://www.wsj.com/world/europe/frances-economy-stalled-in-first-quarter-1cb5de65"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-30-11-17-14 +0000",
+    "score": 19,
+    "pubdate": "2026-04-30-12-53-17 +0000",
     "source": "nyt",
-    "headline": "Rising Fuel Prices Could Force Excruciating Choices on Economic Policies",
-    "link": "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html"
+    "headline": "Attacks on Jewish Targets in Europe Suggest Hybrid Warfare",
+    "link": "https://www.nytimes.com/2026/04/30/world/europe/european-antisemitism-hybrid-warfare.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-04-30-11-17-14 +0000",
+    "score": 17,
+    "pubdate": "2026-04-30-12-49-45 +0000",
     "source": "nyt",
-    "headline": "Rising Fuel Prices Could Force Excruciating Choices on Economic Policies",
-    "link": "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html"
+    "headline": "Trump May Pull Troops From Germany. That Isn’t as Scary as It Once Was.",
+    "link": "https://www.nytimes.com/2026/04/30/world/europe/trump-germany-troops-merz-threat.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-04-30-12-28-00 +0000",
+    "source": "wsj",
+    "headline": "Sterling Softens, Yields Fall as Rate-Rise Bets Fall After BOE Decision",
+    "link": "https://www.wsj.com/finance/currencies/dollars-bullish-bias-against-yen-holding-above-160-technical-analysis-shows-f6bc46e7?mod=rss_markets_main"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-04-30-12-53-59 +0000",
+    "source": "nyt",
+    "headline": "Oil Price Hits Wartime High Above $120 a Barrel as Iran War Standoff Continues",
+    "link": "https://www.nytimes.com/2026/04/30/business/oil-gas-price-iran.html"
   }
 ]
