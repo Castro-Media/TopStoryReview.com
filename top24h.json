@@ -7,25 +7,18 @@
     "link": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-state-superintendent-public-instruction-voter-guide"
   },
   {
-    "score": 204,
+    "score": 197,
     "pubdate": "2026-04-30-18-05-26 +0000",
     "source": "bbc",
     "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
     "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 131,
+    "score": 127,
     "pubdate": "2026-04-30-21-24-00 +0000",
     "source": "wsj",
     "headline": "The House approved a long-delayed measure to fund most of the Department of Homeland Security and end a 76-day shutdown, after the Trump administration warned it had run out of emergency funds to pay workers next week",
     "link": "https://www.wsj.com/politics/policy/house-votes-to-reopen-most-of-dhs-ending-long-shutdown-739f2401"
-  },
-  {
-    "score": 124,
-    "pubdate": "2026-05-01-12-36-00 +0000",
-    "source": "wsj",
-    "headline": "The Minneapolis Fed president wrote that heightened inflation risks from the Iran war led him to object to the Fed’s policy statement this week that implied the central bank’s next move is likely to be a rate cut",
-    "link": "https://www.wsj.com/economy/central-banking/risks-from-iran-war-swayed-kashkaris-fed-dissent-80de9873"
   },
   {
     "score": 122,
@@ -33,6 +26,13 @@
     "source": "latimes",
     "headline": "Your guide to the L.A. City Council District 13 race: Hugo Soto-Martínez faces three challengers",
     "link": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-13-voter-guide"
+  },
+  {
+    "score": 115,
+    "pubdate": "2026-05-01-12-36-00 +0000",
+    "source": "wsj",
+    "headline": "The Minneapolis Fed president wrote that heightened inflation risks from the Iran war led him to object to the Fed’s policy statement this week that implied the central bank’s next move is likely to be a rate cut",
+    "link": "https://www.wsj.com/economy/central-banking/risks-from-iran-war-swayed-kashkaris-fed-dissent-80de9873"
   },
   {
     "score": 84,
@@ -56,17 +56,17 @@
     "link": "https://www.wsj.com/economy/trade/trump-says-u-s-will-remove-tariffs-on-scotch-whisky-industry-e5cb833e"
   },
   {
-    "score": 64,
+    "score": 59,
     "pubdate": "2026-05-01-01-33-00 +0000",
     "source": "wsj",
     "headline": "U.S. economic growth picked up in the first quarter as businesses invested heavily in AI, rebounding from a fourth quarter dented by a government shutdown",
     "link": "https://www.wsj.com/economy/central-banking/u-s-economy-grew-at-2-rate-in-first-quarter-6e0c18cc"
   },
   {
-    "score": 57,
-    "pubdate": "2026-04-30-17-47-52 +0000",
-    "source": "nyt",
-    "headline": "Israel Intercepts Aid Flotilla Heading to Breach Naval Blockade of Gaza",
-    "link": "https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html"
+    "score": 55,
+    "pubdate": "2026-05-01-09-32-19 +0000",
+    "source": "nypost",
+    "headline": "Acupuncturist mom had picture-perfect life, $1.5M house before it all fell apart — now she’s accused of killing her young kids",
+    "link": "https://nypost.com/2026/05/01/us-news/acupuncturist-mom-janette-macausland-had-picture-perfect-life-1-5m-house-before-it-all-fell-apart/"
   }
 ]
