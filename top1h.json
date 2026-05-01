@@ -1,30 +1,72 @@
 [
   {
+    "score": 40,
+    "pubdate": "2026-05-01-15-16-49 +0000",
+    "source": "nypost",
+    "headline": "US imposes sanctions on three Iranian currency exchanges — accusing them of laundering billions",
+    "link": "https://nypost.com/2026/05/01/business/us-imposes-sanctions-on-three-iranian-currency-exchanges-accusing-them-of-laundering-billions/"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-05-01-15-17-00 +0000",
+    "source": "wsj",
+    "headline": "Spirit Airlines Prepares to Shut Down as Rescue Deal Falls Apart",
+    "link": "https://www.wsj.com/business/airlines/spirit-airlines-prepares-to-shut-down-as-rescue-deal-falls-apart-5a2d5936?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-05-01-15-32-23 +0000",
+    "source": "nyt",
+    "headline": "Oil Companies’ Huge Profits Revive Calls for Temporary Windfall Taxes",
+    "link": "https://www.nytimes.com/2026/05/01/business/economy/iran-war-oil-profits-tax.html"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-05-01-15-54-53 +0000",
+    "source": "nypost",
+    "headline": "DHS bars Dem ex-Rep. Sheila Cherfilus-McCormick, her family and friends from federal funds over alleged $5M FEMA theft",
+    "link": "https://nypost.com/2026/05/01/us-news/dhs-bars-ex-dem-rep-sheila-cherfilus-mccormick-her-family-and-friends-from-federal-funds-over-alleged-5m-fema-theft/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-05-01-16-01-04 +0000",
+    "source": "nyt",
+    "headline": "What the End of Saudi Arabia’s Big-Spending Era Means for the Kingdom and Beyond",
+    "link": "https://www.nytimes.com/2026/05/01/world/middleeast/saudi-arabia-spending-sports-liv-golf.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-05-01-15-22-33 +0000",
+    "source": "nypost",
+    "headline": "Spencer Pratt shreds mayoral rival with nine-word reality check over his viral campaign ad",
+    "link": "https://nypost.com/2026/05/01/us-news/spencer-pratt-shreds-mayoral-rival-with-nine-word-reality-check-over-his-viral-campaign-ad/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-05-01-15-40-08 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Pushes Forward With Tariffs Based on Forced Labor Laws",
+    "link": "https://www.nytimes.com/2026/05/01/business/economy/trump-forced-labor-tariffs.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-05-01-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "Winning Big in Options Trading, Is It More Luck or Skill? I Asked Bill Perkins.",
+    "link": "https://www.wsj.com/business/bill-perkins-luck-vs-skill-a165d2a0?mod=rss_markets_main"
+  },
+  {
     "score": 16,
-    "pubdate": "2026-05-01-14-14-24 +0000",
+    "pubdate": "2026-05-01-15-25-30 +0000",
     "source": "nyt",
-    "headline": "Very Dramatique! 4 Are Rescued After Trainee Driver Plunges Bus Into Seine",
-    "link": "https://www.nytimes.com/2026/05/01/world/europe/bus-driver-rescue-seine-paris.html"
+    "headline": "Iran Sends New Proposal for Peace Talks with U.S., State Media Says",
+    "link": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html"
   },
   {
-    "score": 6,
-    "pubdate": "2026-05-01-14-16-21 +0000",
-    "source": "bbc",
-    "headline": "Polanski apologises for sharing post criticising police",
-    "link": "https://www.bbc.com/news/articles/cp8p7k4k8xno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-05-01-14-14-00 +0000",
-    "source": "nyt",
-    "headline": "Obamacare Enrollment Drops Sharply as Costs Rise",
-    "link": "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-05-01-14-14-24 +0000",
-    "source": "nyt",
-    "headline": "Very Dramatique! 4 Are Rescued After Trainee Driver Plunges Bus Into Seine",
-    "link": "https://www.nytimes.com/2026/05/01/world/europe/bus-driver-rescue-seine-paris.html"
+    "score": 15,
+    "pubdate": "2026-05-01-15-16-00 +0000",
+    "source": "wsj",
+    "headline": "Suddenly U.S. Oil Giants Are Taking Another Look at ‘Uninvestable’ Venezuela",
+    "link": "https://www.wsj.com/business/energy-oil/venezuela-oil-risk-exxon-mobil-conocophillips-86add7ce?mod=pls_whats_news_us_business_f"
   }
 ]
