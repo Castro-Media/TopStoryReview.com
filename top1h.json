@@ -1,44 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-05-01-11-09-55 +0000",
-    "source": "nyt",
-    "headline": "War in Iran Is Making the Hajj, the Muslim Pilgrimage, More Expensive",
-    "link": "https://www.nytimes.com/2026/05/01/world/asia/iran-war-hajj-cost-india.html"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-05-01-11-15-00 +0000",
+    "score": 42,
+    "pubdate": "2026-05-01-12-36-00 +0000",
     "source": "wsj",
-    "headline": "Health Care Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-4b83c615?mod=rss_markets_main"
+    "headline": "The Minneapolis Fed president wrote that heightened inflation risks from the Iran war led him to object to the Fed’s policy statement this week that implied the central bank’s next move is likely to be a rate cut",
+    "link": "https://www.wsj.com/economy/central-banking/risks-from-iran-war-swayed-kashkaris-fed-dissent-80de9873"
   },
   {
-    "score": 8,
-    "pubdate": "2026-05-01-11-10-26 +0000",
-    "source": "nyt",
-    "headline": "Jeffrey Epstein’s Possible Suicide Note Hidden From Public View",
-    "link": "https://www.nytimes.com/2026/04/30/us/jeffrey-epstein-suicide-note-sealed.html"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-05-01-11-10-23 +0000",
+    "score": 27,
+    "pubdate": "2026-05-01-12-42-29 +0000",
     "source": "bbc",
-    "headline": "No evidence of widespread fuel price-gouging, watchdog says",
-    "link": "https://www.bbc.com/news/articles/c62djjj0z09o?at_medium=RSS&at_campaign=rss"
+    "headline": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
+    "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 2,
-    "pubdate": "2026-05-01-11-11-00 +0000",
+    "score": 13,
+    "pubdate": "2026-05-01-13-05-00 +0000",
     "source": "wsj",
-    "headline": "Basic Materials Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-dcb6a7b0?mod=rss_markets_main"
+    "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main"
   },
   {
-    "score": 0,
-    "pubdate": "2026-05-01-11-09-55 +0000",
+    "score": 13,
+    "pubdate": "2026-05-01-12-23-29 +0000",
+    "source": "nypost",
+    "headline": "Double killer’s new wife screams ‘I love you!’ as he’s executed while professing his innocence",
+    "link": "https://nypost.com/2026/05/01/us-news/double-killers-new-wife-screams-i-love-you-as-he-is-executed-while-professing-his-innocence/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-01-13-12-10 +0000",
+    "source": "bbc",
+    "headline": "Billions of meals at risk due to Iran war, says fertiliser boss",
+    "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-01-12-32-30 +0000",
+    "source": "bbc",
+    "headline": "Bin strike deal 'gets done when it gets done'",
+    "link": "https://www.bbc.com/news/videos/c794z1xewx4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-01-12-58-51 +0000",
+    "source": "nyt",
+    "headline": "As Israel Entrenches, Frustration With Hezbollah Turns to Support",
+    "link": "https://www.nytimes.com/2026/05/01/world/middleeast/lebanon-hezbollah-ceasefire-israel.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-01-13-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "Mission District housing nonprofit MEDA cuts staff, slashes salaries as fiscal troubles mount",
+    "link": "https://missionlocal.org/2026/05/mission-meda-layoffs-pay-cuts-housing/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-01-13-12-06 +0000",
     "source": "nyt",
     "headline": "War in Iran Is Making the Hajj, the Muslim Pilgrimage, More Expensive",
     "link": "https://www.nytimes.com/2026/05/01/world/asia/iran-war-hajj-cost-india.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-01-12-41-42 +0000",
+    "source": "nyt",
+    "headline": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work",
+    "link": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html"
   }
 ]
