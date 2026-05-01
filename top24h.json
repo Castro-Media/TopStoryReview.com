@@ -7,28 +7,28 @@
     "link": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congresstional-district-45-north-orange-county-voter-guide"
   },
   {
-    "score": 180,
+    "score": 177,
     "pubdate": "2026-05-01-18-38-33 +0000",
     "source": "nyt",
     "headline": "As Iran War Reaches 60-Day Mark, Republicans in Congress Grow Impatient With Trump",
     "link": "https://www.nytimes.com/2026/05/01/us/politics/trump-war-powers-republicans.html"
   },
   {
-    "score": 94,
+    "score": 91,
     "pubdate": "2026-05-01-13-54-56 +0000",
     "source": "nypost",
     "headline": "Chirayu Rana — former JPMorgan banker at center of ‘completely fabricated’ ‘sex slave’ allegations against Lorna Hajdini — left new job 3 weeks ago",
     "link": "https://nypost.com/2026/05/01/business/chirayu-rana-former-jpmorgan-banker-at-center-of-completely-fabricated-sex-slave-allegations-against-lorna-hajdini-left-new-job-3-weeks-ago/"
   },
   {
-    "score": 91,
+    "score": 90,
     "pubdate": "2026-04-30-21-24-00 +0000",
     "source": "wsj",
     "headline": "The House approved a long-delayed measure to fund most of the Department of Homeland Security and end a 76-day shutdown, after the Trump administration warned it had run out of emergency funds to pay workers next week",
     "link": "https://www.wsj.com/politics/policy/house-votes-to-reopen-most-of-dhs-ending-long-shutdown-739f2401"
   },
   {
-    "score": 87,
+    "score": 81,
     "pubdate": "2026-04-30-21-46-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he would remove tariffs on products associated with whisky from the United Kingdom, saying King Charles III had persuaded him to lift the levies",
@@ -42,18 +42,11 @@
     "link": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-3-voter-guide"
   },
   {
-    "score": 68,
+    "score": 66,
     "pubdate": "2026-05-01-19-06-01 +0000",
     "source": "nypost",
     "headline": "Nithya Raman whines about LA police union attack ads despite anti-police voting history",
     "link": "https://nypost.com/2026/05/01/us-news/nithya-raman-whines-about-la-police-union-attack-ads-despite-anti-police-voting-history/"
-  },
-  {
-    "score": 60,
-    "pubdate": "2026-05-01-00-00-00 +0000",
-    "source": "wsj",
-    "headline": "Republican leaders are pushing Southern states to redraw congressional maps ahead of the midterm elections after a Supreme Court decision sharply curbed the use of race in crafting electoral districts",
-    "link": "https://www.wsj.com/politics/policy/republicans-rush-to-redraw-maps-after-supreme-court-race-ruling-3d498556"
   },
   {
     "score": 60,
@@ -63,10 +56,17 @@
     "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
+    "score": 58,
     "pubdate": "2026-05-01-10-31-34 +0000",
     "source": "nyt",
     "headline": "Why U.S. Oil Companies Are Not Plugging the World’s Energy Gap",
     "link": "https://www.nytimes.com/2026/05/01/business/energy-environment/exxon-mobile-chevron-oil-iran-war.html"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-05-01-01-33-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. economic growth picked up in the first quarter as businesses invested heavily in AI, rebounding from a fourth quarter dented by a government shutdown",
+    "link": "https://www.wsj.com/economy/central-banking/u-s-economy-grew-at-2-rate-in-first-quarter-6e0c18cc"
   }
 ]
