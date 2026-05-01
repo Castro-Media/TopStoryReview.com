@@ -1,38 +1,38 @@
 [
   {
-    "score": 198,
+    "score": 199,
+    "pubdate": "2026-04-30-18-05-26 +0000",
+    "source": "bbc",
+    "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 116,
     "pubdate": "2026-04-30-21-24-00 +0000",
     "source": "wsj",
     "headline": "The House approved a long-delayed measure to fund most of the Department of Homeland Security and end a 76-day shutdown, after the Trump administration warned it had run out of emergency funds to pay workers next week",
     "link": "https://www.wsj.com/politics/policy/house-votes-to-reopen-most-of-dhs-ending-long-shutdown-739f2401"
   },
   {
-    "score": 150,
+    "score": 95,
     "pubdate": "2026-04-30-16-47-49 +0000",
     "source": "nypost",
     "headline": "Fed’s preferred inflation gauge hits 3-year high as gas prices spiked on Iran war",
     "link": "https://nypost.com/2026/04/30/business/feds-preferred-inflation-gauge-hits-3-year-high-as-gas-prices-spiked-on-iran-war/"
   },
   {
-    "score": 118,
-    "pubdate": "2026-04-30-19-56-03 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Voting Rights Ruling Could Fuel New Era of Redistricting Wars",
-    "link": "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+    "score": 88,
+    "pubdate": "2026-05-01-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "Republican leaders are pushing Southern states to redraw congressional maps ahead of the midterm elections after a Supreme Court decision sharply curbed the use of race in crafting electoral districts",
+    "link": "https://www.wsj.com/politics/policy/republicans-rush-to-redraw-maps-after-supreme-court-race-ruling-3d498556"
   },
   {
-    "score": 79,
-    "pubdate": "2026-04-30-16-22-00 +0000",
+    "score": 85,
+    "pubdate": "2026-05-01-01-33-00 +0000",
     "source": "wsj",
     "headline": "U.S. economic growth picked up in the first quarter as businesses invested heavily in AI, rebounding from a fourth quarter dented by a government shutdown",
     "link": "https://www.wsj.com/economy/central-banking/u-s-economy-grew-at-2-rate-in-first-quarter-6e0c18cc"
-  },
-  {
-    "score": 65,
-    "pubdate": "2026-04-30-21-46-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he would remove tariffs on products associated with whisky from the United Kingdom, saying King Charles III had persuaded him to lift the levies",
-    "link": "https://www.wsj.com/economy/trade/trump-says-u-s-will-remove-tariffs-on-scotch-whisky-industry-e5cb833e"
   },
   {
     "score": 64,
@@ -42,31 +42,31 @@
     "link": "https://www.wsj.com/politics/policy/doj-launches-new-west-coast-health-fraud-strike-force-ec3caaab"
   },
   {
-    "score": 62,
-    "pubdate": "2026-05-01-00-00-00 +0000",
+    "score": 63,
+    "pubdate": "2026-04-30-21-46-00 +0000",
     "source": "wsj",
-    "headline": "Republican leaders are pushing Southern states to redraw congressional maps ahead of the midterm elections after a Supreme Court decision sharply curbed the use of race in crafting electoral districts",
-    "link": "https://www.wsj.com/politics/policy/republicans-rush-to-redraw-maps-after-supreme-court-race-ruling-3d498556"
+    "headline": "President Trump said he would remove tariffs on products associated with whisky from the United Kingdom, saying King Charles III had persuaded him to lift the levies",
+    "link": "https://www.wsj.com/economy/trade/trump-says-u-s-will-remove-tariffs-on-scotch-whisky-industry-e5cb833e"
   },
   {
-    "score": 57,
-    "pubdate": "2026-05-01-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "“This is a warning. We know you live right here.” Federal agents nationwide can access your personal data, including communications and daily travels in America’s new surveillance dragnet.",
-    "link": "https://www.wsj.com/politics/policy/immigration-ice-arrests-surveillance-6f1cef64"
-  },
-  {
-    "score": 54,
+    "score": 53,
     "pubdate": "2026-04-30-17-10-40 +0000",
     "source": "nypost",
     "headline": "Trump pulls nomination of RFK Jr. ally Casey Means for surgeon general — taps Dr. Nicole Saphier to replace her",
     "link": "https://nypost.com/2026/04/30/us-news/trump-pulls-nomination-of-rfk-jr-ally-casey-means-for-surgeon-general-taps-dr-nicole-saphier-to-replace-him/"
   },
   {
-    "score": 54,
-    "pubdate": "2026-04-30-08-26-15 +0000",
-    "source": "nyt",
-    "headline": "Police in Australia Were Warned of Terror Risk Before Bondi Attack, Report Says",
-    "link": "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html"
+    "score": 52,
+    "pubdate": "2026-05-01-04-11-53 +0000",
+    "source": "bbc",
+    "headline": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+    "link": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-05-01-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "“This is a warning. We know you live right here.” Federal agents nationwide can access your personal data, including communications and daily travels in America’s new surveillance dragnet.",
+    "link": "https://www.wsj.com/politics/policy/immigration-ice-arrests-surveillance-6f1cef64"
   }
 ]
