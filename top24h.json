@@ -1,20 +1,20 @@
 [
   {
-    "score": 213,
-    "pubdate": "2026-04-30-10-43-45 +0000",
-    "source": "nypost",
-    "headline": "Oil prices briefly hit wartime high as Trump weighs new strikes on Iran",
-    "link": "https://nypost.com/2026/04/30/us-news/oil-prices-briefly-hit-wartime-high-as-trump-weighs-new-strikes-on-iran/"
-  },
-  {
-    "score": 136,
+    "score": 198,
     "pubdate": "2026-04-30-21-24-00 +0000",
     "source": "wsj",
     "headline": "The House approved a long-delayed measure to fund most of the Department of Homeland Security and end a 76-day shutdown, after the Trump administration warned it had run out of emergency funds to pay workers next week",
     "link": "https://www.wsj.com/politics/policy/house-votes-to-reopen-most-of-dhs-ending-long-shutdown-739f2401"
   },
   {
-    "score": 80,
+    "score": 150,
+    "pubdate": "2026-04-30-16-47-49 +0000",
+    "source": "nypost",
+    "headline": "Fed’s preferred inflation gauge hits 3-year high as gas prices spiked on Iran war",
+    "link": "https://nypost.com/2026/04/30/business/feds-preferred-inflation-gauge-hits-3-year-high-as-gas-prices-spiked-on-iran-war/"
+  },
+  {
+    "score": 118,
     "pubdate": "2026-04-30-19-56-03 +0000",
     "source": "nyt",
     "headline": "Supreme Court Voting Rights Ruling Could Fuel New Era of Redistricting Wars",
@@ -28,45 +28,45 @@
     "link": "https://www.wsj.com/economy/central-banking/u-s-economy-grew-at-2-rate-in-first-quarter-6e0c18cc"
   },
   {
-    "score": 75,
-    "pubdate": "2026-04-30-09-30-00 +0000",
+    "score": 65,
+    "pubdate": "2026-04-30-21-46-00 +0000",
     "source": "wsj",
-    "headline": "If these were normal times, Jerome Powell would have just finished his last Fed meeting and would next month relinquish his chairmanship and his separate seat as governor. These are not normal times.",
-    "link": "https://www.wsj.com/economy/central-banking/why-powell-is-right-to-stay-on-at-the-fed-efc31b63"
+    "headline": "President Trump said he would remove tariffs on products associated with whisky from the United Kingdom, saying King Charles III had persuaded him to lift the levies",
+    "link": "https://www.wsj.com/economy/trade/trump-says-u-s-will-remove-tariffs-on-scotch-whisky-industry-e5cb833e"
   },
   {
-    "score": 74,
-    "pubdate": "2026-04-30-15-45-00 +0000",
-    "source": "wsj",
-    "headline": "Three American Farmers on How the Iran War Is Changing Their Plans",
-    "link": "https://www.wsj.com/business/three-american-farmers-on-how-the-iran-war-is-changing-their-plans-0c317c4f?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 71,
-    "pubdate": "2026-04-30-21-49-27 +0000",
-    "source": "nypost",
-    "headline": "Prince Harry’s estrangement from the royal family was glaring during the king’s US trip — why he only has his own silly behavior to blame",
-    "link": "https://nypost.com/2026/04/30/opinion/prince-harry-absence-from-the-kings-us-trip-was-glaring/"
-  },
-  {
-    "score": 66,
+    "score": 64,
     "pubdate": "2026-04-30-16-00-00 +0000",
     "source": "wsj",
     "headline": "The Justice Department is launching a West Coast-focused healthcare-fraud strike force to help target fraud schemes against Medicare and Medicaid that are spreading in California, Nevada and Arizona, federal officials familiar with the matter said",
     "link": "https://www.wsj.com/politics/policy/doj-launches-new-west-coast-health-fraud-strike-force-ec3caaab"
   },
   {
-    "score": 57,
-    "pubdate": "2026-04-30-20-06-26 +0000",
-    "source": "nyt",
-    "headline": "Gov. Janet Mills Exits Maine Senate Race as an Insurgent Democrat Rises",
-    "link": "https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html"
+    "score": 62,
+    "pubdate": "2026-05-01-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "Republican leaders are pushing Southern states to redraw congressional maps ahead of the midterm elections after a Supreme Court decision sharply curbed the use of race in crafting electoral districts",
+    "link": "https://www.wsj.com/politics/policy/republicans-rush-to-redraw-maps-after-supreme-court-race-ruling-3d498556"
   },
   {
-    "score": 52,
-    "pubdate": "2026-04-30-06-16-36 +0000",
-    "source": "bbc",
-    "headline": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds",
-    "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss"
+    "score": 57,
+    "pubdate": "2026-05-01-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "“This is a warning. We know you live right here.” Federal agents nationwide can access your personal data, including communications and daily travels in America’s new surveillance dragnet.",
+    "link": "https://www.wsj.com/politics/policy/immigration-ice-arrests-surveillance-6f1cef64"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-04-30-17-10-40 +0000",
+    "source": "nypost",
+    "headline": "Trump pulls nomination of RFK Jr. ally Casey Means for surgeon general — taps Dr. Nicole Saphier to replace her",
+    "link": "https://nypost.com/2026/04/30/us-news/trump-pulls-nomination-of-rfk-jr-ally-casey-means-for-surgeon-general-taps-dr-nicole-saphier-to-replace-him/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-04-30-08-26-15 +0000",
+    "source": "nyt",
+    "headline": "Police in Australia Were Warned of Terror Risk Before Bondi Attack, Report Says",
+    "link": "https://www.nytimes.com/2026/04/30/world/asia/australia-bondi-beach-attack-antisemitism.html"
   }
 ]
