@@ -7,21 +7,28 @@
     "link": "https://www.wsj.com/politics/policy/trump-says-iran-conflict-is-overand-sidesteps-congress-4ff532c1"
   },
   {
-    "score": 74,
+    "score": 73,
     "pubdate": "2026-05-01-19-21-00 +0000",
     "source": "wsj",
     "headline": "Trump’s new Air Force One will arrive this summer, combining all the Qatari royal opulence with a $400 million security overhaul",
     "link": "https://www.wsj.com/politics/national-security/trumps-qatari-gifted-air-force-one-will-keep-its-luxurious-royal-interior-c37a6451"
   },
   {
-    "score": 62,
+    "score": 69,
+    "pubdate": "2026-05-02-12-00-00 +0000",
+    "source": "wsj",
+    "headline": "Despite Iowa’s history of voting Republican, nonpartisan analysts rate the state’s race for governor and two of its four U.S. House contests as tossups that either party could win in November",
+    "link": "https://www.wsj.com/politics/elections/ruby-red-iowa-backed-trump-by-13-points-in-2024-now-its-a-battleground-b808c363"
+  },
+  {
+    "score": 58,
     "pubdate": "2026-05-01-12-36-00 +0000",
     "source": "wsj",
     "headline": "The Minneapolis Fed president wrote that heightened inflation risks from the Iran war led him to object to the Fed’s policy statement this week that implied the central bank’s next move is likely to be a rate cut",
     "link": "https://www.wsj.com/economy/central-banking/risks-from-iran-war-swayed-kashkaris-fed-dissent-80de9873"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2026-05-01-12-09-18 +0000",
     "source": "nypost",
     "headline": "Rep. Max Miller’s lawyers admit he lied about witness in domestic violence case against ex-wife",
@@ -36,20 +43,6 @@
   },
   {
     "score": 49,
-    "pubdate": "2026-05-01-16-33-27 +0000",
-    "source": "latimes",
-    "headline": "Your guide to the L.A. City Council District 5 race: Katy Yaroslavsky faces two challengers",
-    "link": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-5-voter-guide"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-05-01-19-06-01 +0000",
-    "source": "nypost",
-    "headline": "Nithya Raman whines about LA police union attack ads despite anti-police voting history",
-    "link": "https://nypost.com/2026/05/01/us-news/nithya-raman-whines-about-la-police-union-attack-ads-despite-anti-police-voting-history/"
-  },
-  {
-    "score": 47,
     "pubdate": "2026-05-01-13-54-56 +0000",
     "source": "nypost",
     "headline": "Chirayu Rana — former JPMorgan banker at center of ‘completely fabricated’ ‘sex slave’ allegations against Lorna Hajdini — left new job 3 weeks ago",
@@ -64,9 +57,16 @@
   },
   {
     "score": 43,
-    "pubdate": "2026-05-01-15-34-51 +0000",
-    "source": "bbc",
-    "headline": "Whisky tariffs deal sparks political squabble over who claims credit",
-    "link": "https://www.bbc.com/news/articles/cg5p7yg82jro?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-05-01-15-16-49 +0000",
+    "source": "nypost",
+    "headline": "US imposes sanctions on three Iranian currency exchanges — accusing them of laundering billions",
+    "link": "https://nypost.com/2026/05/01/business/us-imposes-sanctions-on-three-iranian-currency-exchanges-accusing-them-of-laundering-billions/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-05-01-16-20-08 +0000",
+    "source": "nypost",
+    "headline": "Trump announces tariffs on European cars going to 25% next week — claims bloc ‘not complying’ with trade deal",
+    "link": "https://nypost.com/2026/05/01/us-news/trump-announces-tariffs-on-european-cars-going-to-25-next-week-claims-block-not-complying-with-trade-deal/"
   }
 ]
