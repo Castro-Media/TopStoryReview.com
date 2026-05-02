@@ -28,7 +28,7 @@
     "link": "https://www.cbc.ca/news/world/iran-war-oil-price-markets-9.7182448?cmp=rss"
   },
   {
-    "score": 161,
+    "score": 162,
     "pubdate": "2026-04-29-23-07-49 +0000",
     "source": "nyt",
     "headline": "Powell Says He Will Stay On as Fed Governor After Term as Chair Ends",
@@ -57,16 +57,16 @@
   },
   {
     "score": 86,
+    "pubdate": "2026-05-02-06-45-00 +0000",
+    "source": "wsj",
+    "headline": "Spirit Airlines Is Shutting Down. Here’s What to Do If You Had Tickets.",
+    "link": "https://www.wsj.com/business/airlines/if-you-bought-spirit-airlines-tickets-heres-what-to-do-next-5e937468?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 86,
     "pubdate": "2026-05-01-18-43-04 +0000",
     "source": "nypost",
     "headline": "Chirayu Rana, ex-JPMorgan staffer accused of ‘fabricated’ sex-assault claims once apparently asked legal chatbot for advice: ‘I was raped’",
     "link": "https://nypost.com/2026/05/01/business/male-ex-jpmorgan-staffer-accused-of-fabricated-sex-assault-claims-once-apparently-asked-legal-chatbot-for-advice-i-was-raped/"
-  },
-  {
-    "score": 86,
-    "pubdate": "2026-05-01-16-22-11 +0000",
-    "source": "cbc",
-    "headline": "10 killed in Israeli strikes in south Lebanon as Hezbollah drone wounds 2 Israeli soldiers",
-    "link": "https://www.cbc.ca/news/world/israel-south-lebanon-hezbollah-drone-9.7184356?cmp=rss"
   }
 ]
