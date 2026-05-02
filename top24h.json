@@ -1,6 +1,6 @@
 [
   {
-    "score": 192,
+    "score": 189,
     "pubdate": "2026-05-01-21-44-00 +0000",
     "source": "wsj",
     "headline": "Trump says the Iran war is over, Spirit Airlines prepares to shut down, and a horse racing star wants a derby victory. Read more in today’s What’s News newsletter:",
@@ -28,7 +28,7 @@
     "link": "https://www.wsj.com/politics/elections/ruby-red-iowa-backed-trump-by-13-points-in-2024-now-its-a-battleground-b808c363"
   },
   {
-    "score": 47,
+    "score": 45,
     "pubdate": "2026-05-01-18-43-04 +0000",
     "source": "nypost",
     "headline": "Chirayu Rana, ex-JPMorgan staffer accused of ‘fabricated’ sex-assault claims once apparently asked legal chatbot for advice: ‘I was raped’",
@@ -40,13 +40,6 @@
     "source": "nypost",
     "headline": "Humpback whale ‘Timmy’ released in the North Sea after weeks stranded off Germany",
     "link": "https://nypost.com/2026/05/02/world-news/timmy-the-humpback-whale-freed-in-north-sea-after-weeks-stranded-near-germany/"
-  },
-  {
-    "score": 40,
-    "pubdate": "2026-05-01-20-02-12 +0000",
-    "source": "nyt",
-    "headline": "Suspect in UK Stabbing Attack on Jewish Men Faces Third Attempted Murder Charge",
-    "link": "https://www.nytimes.com/2026/05/01/world/europe/uk-jewish-stabbings-attempted-murder-charges.html"
   },
   {
     "score": 40,
@@ -68,5 +61,12 @@
     "source": "wapo",
     "headline": "You could be losing thousands every time you change jobs",
     "link": "https://www.washingtonpost.com/business/2026/05/02/retirement-account-rollover-401k/"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-05-01-20-02-12 +0000",
+    "source": "nyt",
+    "headline": "Suspect in UK Stabbing Attack on Jewish Men Faces Third Attempted Murder Charge",
+    "link": "https://www.nytimes.com/2026/05/01/world/europe/uk-jewish-stabbings-attempted-murder-charges.html"
   }
 ]
