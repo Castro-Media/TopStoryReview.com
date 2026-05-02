@@ -1,13 +1,13 @@
 [
   {
-    "score": 443,
+    "score": 441,
     "pubdate": "2026-04-30-01-14-00 +0000",
     "source": "wsj",
     "headline": "President Trump is leaning toward endorsing Rep. Andy Barr in the Kentucky Senate race, a move that would put Trump at odds with Elon Musk and several of his own allies, who are backing one of Barr’s opponents",
     "link": "https://www.wsj.com/politics/elections/trump-leans-toward-backing-barr-in-kentucky-senate-race-breaking-with-allies-e6370bde"
   },
   {
-    "score": 420,
+    "score": 418,
     "pubdate": "2026-04-29-22-40-00 +0000",
     "source": "wsj",
     "headline": "In his first public testimony since the war in Iran began two months ago, Defense Secretary Pete Hegseth sparred with Democrats on his handling of the war in Iran and management of the Pentagon",
@@ -21,7 +21,7 @@
     "link": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-congresstional-district-45-north-orange-county-voter-guide"
   },
   {
-    "score": 198,
+    "score": 196,
     "pubdate": "2026-04-30-11-27-08 +0000",
     "source": "cbc",
     "headline": "Oil prices hit new wartime high before easing, as gas prices expected to go up",
@@ -57,16 +57,16 @@
   },
   {
     "score": 86,
-    "pubdate": "2026-05-02-06-45-00 +0000",
-    "source": "wsj",
-    "headline": "Spirit Airlines Is Shutting Down. Here’s What to Do If You Had Tickets.",
-    "link": "https://www.wsj.com/business/airlines/if-you-bought-spirit-airlines-tickets-heres-what-to-do-next-5e937468?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 86,
     "pubdate": "2026-05-01-18-43-04 +0000",
     "source": "nypost",
     "headline": "Chirayu Rana, ex-JPMorgan staffer accused of ‘fabricated’ sex-assault claims once apparently asked legal chatbot for advice: ‘I was raped’",
     "link": "https://nypost.com/2026/05/01/business/male-ex-jpmorgan-staffer-accused-of-fabricated-sex-assault-claims-once-apparently-asked-legal-chatbot-for-advice-i-was-raped/"
+  },
+  {
+    "score": 86,
+    "pubdate": "2026-05-02-06-45-00 +0000",
+    "source": "wsj",
+    "headline": "Spirit Airlines Is Shutting Down. Here’s What to Do If You Had Tickets.",
+    "link": "https://www.wsj.com/business/airlines/if-you-bought-spirit-airlines-tickets-heres-what-to-do-next-5e937468?mod=pls_whats_news_us_business_f"
   }
 ]
