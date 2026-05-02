@@ -7,7 +7,7 @@
     "link": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-state-superintendent-public-instruction-voter-guide"
   },
   {
-    "score": 194,
+    "score": 199,
     "pubdate": "2026-05-02-00-41-43 +0000",
     "source": "bbc",
     "headline": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
@@ -21,14 +21,21 @@
     "link": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-13-voter-guide"
   },
   {
-    "score": 94,
+    "score": 92,
     "pubdate": "2026-05-01-19-21-00 +0000",
     "source": "wsj",
     "headline": "Trump’s new Air Force One will arrive this summer, combining all the Qatari royal opulence with a $400 million security overhaul",
     "link": "https://www.wsj.com/politics/national-security/trumps-qatari-gifted-air-force-one-will-keep-its-luxurious-royal-interior-c37a6451"
   },
   {
-    "score": 67,
+    "score": 68,
+    "pubdate": "2026-05-01-20-06-00 +0000",
+    "source": "wsj",
+    "headline": "Spirit Airlines Prepares to Shut Down as Rescue Deal Falls Apart",
+    "link": "https://www.wsj.com/business/airlines/spirit-airlines-prepares-to-shut-down-as-rescue-deal-falls-apart-5a2d5936?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 68,
     "pubdate": "2026-05-01-12-36-00 +0000",
     "source": "wsj",
     "headline": "The Minneapolis Fed president wrote that heightened inflation risks from the Iran war led him to object to the Fed’s policy statement this week that implied the central bank’s next move is likely to be a rate cut",
@@ -42,11 +49,18 @@
     "link": "https://nypost.com/2026/05/01/business/chirayu-rana-former-jpmorgan-banker-at-center-of-completely-fabricated-sex-slave-allegations-against-lorna-hajdini-left-new-job-3-weeks-ago/"
   },
   {
-    "score": 59,
-    "pubdate": "2026-05-01-10-31-34 +0000",
+    "score": 56,
+    "pubdate": "2026-05-02-00-21-30 +0000",
+    "source": "missionlocal",
+    "headline": "Gap’s CEO-to-worker pay is 1,690-to-1. Other firms fighting S.F. CEO tax are close behind.",
+    "link": "https://missionlocal.org/2026/05/sf-ceo-tax-pay-gap/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-05-01-15-32-23 +0000",
     "source": "nyt",
-    "headline": "Why U.S. Oil Companies Are Not Plugging the World’s Energy Gap",
-    "link": "https://www.nytimes.com/2026/05/01/business/energy-environment/exxon-mobile-chevron-oil-iran-war.html"
+    "headline": "Oil Companies’ Huge Profits Revive Calls for Temporary Windfall Taxes",
+    "link": "https://www.nytimes.com/2026/05/01/business/economy/iran-war-oil-profits-tax.html"
   },
   {
     "score": 54,
@@ -54,19 +68,5 @@
     "source": "nypost",
     "headline": "Nithya Raman whines about LA police union attack ads despite anti-police voting history",
     "link": "https://nypost.com/2026/05/01/us-news/nithya-raman-whines-about-la-police-union-attack-ads-despite-anti-police-voting-history/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-05-02-00-21-30 +0000",
-    "source": "missionlocal",
-    "headline": "Gap’s CEO-to-worker pay is 1,690-to-1. Other firms fighting S.F. CEO tax are close behind.",
-    "link": "https://missionlocal.org/2026/05/sf-ceo-tax-pay-gap/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-05-01-20-06-00 +0000",
-    "source": "wsj",
-    "headline": "Spirit Airlines Prepares to Shut Down as Rescue Deal Falls Apart",
-    "link": "https://www.wsj.com/business/airlines/spirit-airlines-prepares-to-shut-down-as-rescue-deal-falls-apart-5a2d5936?mod=pls_whats_news_us_business_f"
   }
 ]
