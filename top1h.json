@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 22,
+    "pubdate": "2026-05-03-00-37-00 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He Is Reviewing Iran’s Latest Offer but Doubts It Is Acceptable",
+    "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-says-he-is-reviewing-irans-latest-offer-but-doubts-it-is-acceptable.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-03-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Inside the big spending and internal drama at ActBlue, which faces investigations from the Justice Department and congressional Republicans six months before the 2026 midterms",
+    "link": "https://www.wsj.com/politics/elections/inside-democratic-fundraiser-actblues-big-spending-and-internal-drama-1ae5d0b5"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-03-00-35-14 +0000",
+    "source": "nyt",
+    "headline": "Delayed Louisiana Primaries Stoke Confusion at Ballot Box",
+    "link": "https://www.nytimes.com/2026/05/02/us/politics/louisiana-voting-confusion-court.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-03-01-06-52 +0000",
+    "source": "nypost",
+    "headline": "‘Sexology 101’ truck hits NJ colleges, handing out sex toys, condoms and ‘pleasure expert’ advice",
+    "link": "https://nypost.com/2026/05/02/us-news/sexology-101-truck-hits-nj-college-hands-out-sex-toys-condoms-and-pleasure-expert-advice/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-03-01-01-44 +0000",
+    "source": "nypost",
+    "headline": "Naked man screams threats as neighbors say their concerns are being ignored",
+    "link": "https://nypost.com/2026/05/02/us-news/naked-man-screams-threats-as-neighbors-say-their-concerns-are-being-ignored/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-03-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "ChatGPT Wrestles With Its Most Chilling Conversation: How Do I Plan an Attack?",
+    "link": "https://www.wsj.com/us-news/chatgpt-mass-shooting-openai-78a436d1"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-03-00-25-22 +0000",
+    "source": "nyt",
+    "headline": "Car With Explosive Devices Crashes Into Athletic Club in Portland, Ore.",
+    "link": "https://www.nytimes.com/2026/05/02/us/portland-athletic-club-car-crash.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-05-03-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Fuel-Price Crunch That’s Turning Into a Disaster for Airlines",
+    "link": "https://www.wsj.com/business/airlines/iran-war-airline-impact-flight-costs-310c8cc7?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-05-03-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Actors Reach Tentative Deal With Studios and Streamers",
+    "link": "https://www.wsj.com/business/media/actors-reach-tentative-deal-with-studios-and-streamers-cd07c701?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-05-03-00-42-35 +0000",
+    "source": "startribune",
+    "headline": "Frost open playoffs with 5-4 overtime victory at Montreal",
+    "link": "https://www.startribune.com/frost-open-playoffs-with-5-4-overtime-victory-at-montreal/601829741"
+  }
+]
