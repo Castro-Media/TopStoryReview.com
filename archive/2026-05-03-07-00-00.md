@@ -31,7 +31,7 @@ title: World News
     </div>
 </div>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-05-03 07:00 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-05-03 07:43 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -39,33 +39,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/05/03/us-news/idaho-dominos-pizza-driver-dan-the-man-retires-after-strangers-raise-170k-for-his-act-of-kindness/">Viral Idaho Domino&#8217;s pizza driver &#8216;Dan the Man&#8217; retires after strangers raise $170K for his act of kindness</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-05-03-05-22-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/05/03/us-news/6-georgia-teens-injured-in-high-speed-rollover-crash-on-deadly-winding-road/">6 Georgia teens injured in high-speed rollover crash on deadly winding road</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-05-03-05-17-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html">How A.I. Is Transforming China&#8217;s Entertainment Industry</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-05-03-05-41-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html">How A.I. Is Transforming China&#8217;s Entertainment Industry</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-05-03-05-41-27 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -225,33 +198,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html">How A.I. Is Transforming China&#8217;s Entertainment Industry</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-05-03-05-41-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html">How A.I. Is Transforming China&#8217;s Entertainment Industry</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-05-03-05-41-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/05/03/us-news/idaho-dominos-pizza-driver-dan-the-man-retires-after-strangers-raise-170k-for-his-act-of-kindness/">Viral Idaho Domino&#8217;s pizza driver &#8216;Dan the Man&#8217; retires after strangers raise $170K for his act of kindness</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-05-03-05-22-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/05/03/us-news/6-georgia-teens-injured-in-high-speed-rollover-crash-on-deadly-winding-road/">6 Georgia teens injured in high-speed rollover crash on deadly winding road</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-05-03-05-17-27 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -1909,13 +1855,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-05-02-06-49-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/05/02/business/spirit-airlines-says-its-going-out-of-business-ending-operations-immediately/">Spirit Airlines says it&#8217;s going out of business after 34 years and is ending operations immediately</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-05-02-06-40-45 +0000</span></div>
             </li>
         
     </ul>
