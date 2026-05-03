@@ -1,20 +1,20 @@
 [
   {
-    "score": 99,
+    "score": 98,
     "pubdate": "2026-05-03-09-00-00 +0000",
     "source": "wsj",
     "headline": "Jerome Powell didn’t want to remain on the Fed’s board after his term as chair ended. He concluded he had no choice as President Trump’s legal challenges threatened to change how the Fed operates.",
     "link": "https://www.wsj.com/economy/central-banking/jerome-powell-federal-reserve-decision-89f4ff22"
   },
   {
-    "score": 68,
+    "score": 65,
     "pubdate": "2026-05-03-16-49-30 +0000",
     "source": "cbc",
     "headline": "Cargo ship near Strait of Hormuz reports being attacked, as Iran makes new peace proposal",
     "link": "https://www.cbc.ca/news/world/cargo-ship-strait-of-hormuz-attack-reports-9.7186056?cmp=rss"
   },
   {
-    "score": 66,
+    "score": 64,
     "pubdate": "2026-05-03-08-41-23 +0000",
     "source": "bbc",
     "headline": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
@@ -29,17 +29,10 @@
   },
   {
     "score": 45,
-    "pubdate": "2026-05-03-02-00-00 +0000",
+    "pubdate": "2026-05-03-03-00-00 +0000",
     "source": "wsj",
-    "headline": "The U.S. is striving to dominate the drone evolution in military technology the way it has with previous wartime innovations. There is just one problem: China got there first.",
-    "link": "https://www.wsj.com/politics/national-security/the-u-s-wants-to-break-chinas-drone-dominance-heres-where-it-will-struggle-39e69e18"
-  },
-  {
-    "score": 44,
-    "pubdate": "2026-05-03-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Barabak: Not too early, not too late. Here's the sweet spot for voting in California",
-    "link": "https://www.latimes.com/politics/story/2026-05-03/california-primary-governor-race-ballots-when-best-to-vote"
+    "headline": "A mammoth economic stimulus passed last year in Germany was meant to jolt the country—and Europe—out of its economic slumber. The problem: Germans just aren’t good at spending money.",
+    "link": "https://www.wsj.com/world/europe/germany-has-the-cash-to-revitalize-its-economy-but-cant-seem-to-spend-it-5bd38dfe"
   },
   {
     "score": 44,
@@ -49,11 +42,18 @@
     "link": "https://nypost.com/2026/05/03/world-news/ukraine-attacks-russian-oil-port-shadow-fleet-tankers-as-moscow-hits-civilians-targets/"
   },
   {
+    "score": 44,
+    "pubdate": "2026-05-03-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: Not too early, not too late. Here's the sweet spot for voting in California",
+    "link": "https://www.latimes.com/politics/story/2026-05-03/california-primary-governor-race-ballots-when-best-to-vote"
+  },
+  {
     "score": 37,
-    "pubdate": "2026-05-03-03-00-00 +0000",
+    "pubdate": "2026-05-03-02-00-00 +0000",
     "source": "wsj",
-    "headline": "A mammoth economic stimulus passed last year in Germany was meant to jolt the country—and Europe—out of its economic slumber. The problem: Germans just aren’t good at spending money.",
-    "link": "https://www.wsj.com/world/europe/germany-has-the-cash-to-revitalize-its-economy-but-cant-seem-to-spend-it-5bd38dfe"
+    "headline": "The U.S. is striving to dominate the drone evolution in military technology the way it has with previous wartime innovations. There is just one problem: China got there first.",
+    "link": "https://www.wsj.com/politics/national-security/the-u-s-wants-to-break-chinas-drone-dominance-heres-where-it-will-struggle-39e69e18"
   },
   {
     "score": 34,
