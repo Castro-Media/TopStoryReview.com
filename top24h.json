@@ -1,7 +1,7 @@
 [
   {
-    "score": 138,
-    "pubdate": "2026-05-04-11-00-31 +0000",
+    "score": 134,
+    "pubdate": "2026-05-04-12-25-43 +0000",
     "source": "nyt",
     "headline": "Oil Jumps as Iran Resists Trump’s Offer to Help Ships Through Strait of Hormuz",
     "link": "https://www.nytimes.com/2026/05/03/business/oil-prices-stocks-iran.html"
@@ -14,18 +14,11 @@
     "link": "https://nypost.com/2026/05/03/world-news/3-mv-hondius-cruise-ship-passengers-dead-after-suspected-hantavirus-outbreak/"
   },
   {
-    "score": 59,
+    "score": 61,
     "pubdate": "2026-05-04-09-02-13 +0000",
     "source": "nypost",
     "headline": "House Democrats add eight new battleground targets to their ‘Red to Blue’ seats program ahead of 2026 midterm elections",
     "link": "https://nypost.com/2026/05/04/us-news/house-democrats-add-eight-new-targets-to-their-red-to-blue-program/"
-  },
-  {
-    "score": 54,
-    "pubdate": "2026-05-04-11-00-00 +0000",
-    "source": "nypost",
-    "headline": "NYC Italian enclaves left out of the party as World Cup comes to US with Italy on sidelines:  ‘Turned the lights off’",
-    "link": "https://nypost.com/2026/05/04/us-news/nyc-italian-enclaves-left-out-of-the-party-as-world-cup-comes-to-us-with-italy-on-sidelines-turned-the-lights-off/"
   },
   {
     "score": 53,
@@ -35,6 +28,13 @@
     "link": "https://www.nytimes.com/2026/05/04/world/africa/ukraine-russia-war-african-soldiers.html"
   },
   {
+    "score": 52,
+    "pubdate": "2026-05-04-11-00-00 +0000",
+    "source": "nypost",
+    "headline": "NYC Italian enclaves left out of the party as World Cup comes to US with Italy on sidelines:  ‘Turned the lights off’",
+    "link": "https://nypost.com/2026/05/04/us-news/nyc-italian-enclaves-left-out-of-the-party-as-world-cup-comes-to-us-with-italy-on-sidelines-turned-the-lights-off/"
+  },
+  {
     "score": 45,
     "pubdate": "2026-05-04-10-08-52 +0000",
     "source": "nyt",
@@ -42,7 +42,7 @@
     "link": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html"
   },
   {
-    "score": 41,
+    "score": 40,
     "pubdate": "2026-05-04-08-43-06 +0000",
     "source": "bbc",
     "headline": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
@@ -50,23 +50,23 @@
   },
   {
     "score": 39,
+    "pubdate": "2026-05-03-15-39-22 +0000",
+    "source": "nypost",
+    "headline": "WHCD shooting suspect Cole Allen ‘thought he was Rambo,’ wanted Trump dead: top DC fed",
+    "link": "https://nypost.com/2026/05/03/us-news/whcd-suspect-cole-allen-thought-he-was-rambo-wanted-trump-dead-pirro/"
+  },
+  {
+    "score": 37,
     "pubdate": "2026-05-03-17-27-21 +0000",
     "source": "bbc",
     "headline": "Two US service members reported missing in Morocco, officials say",
     "link": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 36,
-    "pubdate": "2026-05-03-14-25-27 +0000",
-    "source": "nypost",
-    "headline": "Former top Biden official all but admits admin killed Spirit Airlines by rejecting JetBlue merger",
-    "link": "https://nypost.com/2026/05/03/us-news/ex-biden-official-all-but-admits-admin-killed-spirit-airlines-by-rejecting-jetblue-merger/"
-  },
-  {
     "score": 35,
-    "pubdate": "2026-05-04-01-41-22 +0000",
-    "source": "nypost",
-    "headline": "United plane strikes light pole, tractor-trailer on NJ Turnpike while landing at Newark Airport: officials",
-    "link": "https://nypost.com/2026/05/03/us-news/united-plane-strikes-light-pole-tractor-trailer-while-landing-at-newark-airport-officials/"
+    "pubdate": "2026-05-04-12-25-00 +0000",
+    "source": "wsj",
+    "headline": "American Express Global Business Travel Enters $6.3 Billion Take-Private Deal",
+    "link": "https://www.wsj.com/business/deals/american-express-global-business-travel-enters-6-3-billion-take-private-deal-b72badb3?mod=pls_whats_news_us_business_f"
   }
 ]
