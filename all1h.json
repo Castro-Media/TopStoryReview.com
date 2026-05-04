@@ -1,32 +1,50 @@
 [
   {
-    "headline": "Yen Surges After Hitting Day’s Weakest Level",
+    "headline": "Three dead after monster truck crashes into crowd",
+    "link": "https://www.bbc.com/news/articles/czx2d54wwr4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-04-07-45-13 +0000"
+  },
+  {
+    "headline": "Canada Says Its Gold Is Traceable and Clean. So We Traced It.",
+    "link": "https://www.nytimes.com/2026/04/27/world/canada/royal-canadian-mint-gold-drug-cartel-colombia.html",
+    "source": "nyt",
+    "pubdate": "2026-05-04-07-38-06 +0000"
+  },
+  {
+    "headline": "Oil Prices Jump While Stock Futures Inch Up",
+    "link": "https://www.nytimes.com/2026/05/03/business/oil-prices-stocks-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-05-04-07-30-39 +0000"
+  },
+  {
+    "headline": "Tractor-Trailer and Light Post Damaged as Plane Lands at Newark Airport",
+    "link": "https://www.nytimes.com/2026/05/03/nyregion/newark-airport-plane-light-pole.html",
+    "source": "nyt",
+    "pubdate": "2026-05-04-07-30-25 +0000"
+  },
+  {
+    "headline": "Treasury Yields Rise as Inflation Concerns Persist",
+    "link": "https://www.wsj.com/articles/treasury-yields-steady-as-oil-trades-well-below-thursdays-peak-99a78de1?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-04-07-17-00 +0000"
+  },
+  {
+    "headline": "Dollar Steady After Trump Announces Plan to Guide Stranded Ships Through Hormuz",
     "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-buoyed-by-mild-risk-on-sentiment-4c3f6c02?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-05-04-05-33-00 +0000"
+    "pubdate": "2026-05-04-07-04-00 +0000"
   },
   {
-    "headline": "Seattle’s socialist mayor slammed for dismissive wave to tax-weary residents",
-    "link": "https://nypost.com/2026/05/04/us-news/seattles-socialist-mayor-katie-wilson-slammed-by-washington-post-editorial-board/",
-    "source": "nypost",
-    "pubdate": "2026-05-04-05-30-45 +0000"
+    "headline": "Gold Falls in Thin Trade as U.S.-Iran Uncertainty Clouds Rate Outlook",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-signs-of-resilience-627248e3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-04-07-00-00 +0000"
   },
   {
-    "headline": "Jimmy Kimmel joked about ex-NYC Mayor Rudy Giuliani being in ‘the grave’ before hospitalization",
-    "link": "https://nypost.com/2026/05/04/us-news/jimmy-kimmel-joked-about-ex-nyc-mayor-rudy-giuliani-being-in-the-grave-before-hospitalization/",
-    "source": "nypost",
-    "pubdate": "2026-05-04-05-11-17 +0000"
-  },
-  {
-    "headline": "At least 10 wounded in shooting at Oklahoma’s Arcadia Lake following large party of young people",
-    "link": "https://nypost.com/2026/05/04/us-news/at-least-10-wounded-in-shooting-at-oklahomas-arcadia-lake-following-large-party-of-young-people/",
-    "source": "nypost",
-    "pubdate": "2026-05-04-05-04-44 +0000"
-  },
-  {
-    "headline": "What an empty car park tells us about the UK's debt problem",
-    "link": "https://www.bbc.com/news/articles/cy816xdp226o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-04-05-00-06 +0000"
+    "headline": "Oil Slips After Trump Says U.S. Will Assist Stranded Ships in Hormuz",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-amid-mild-risk-on-sentiment-05d8051f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-04-06-58-00 +0000"
   }
 ]
