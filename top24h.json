@@ -7,6 +7,13 @@
     "link": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html"
   },
   {
+    "score": 63,
+    "pubdate": "2026-05-03-16-49-30 +0000",
+    "source": "cbc",
+    "headline": "Trump says operation will start Monday to help stranded ships leave Strait of Hormuz",
+    "link": "https://www.cbc.ca/news/world/cargo-ship-strait-of-hormuz-attack-reports-9.7186056?cmp=rss"
+  },
+  {
     "score": 62,
     "pubdate": "2026-05-03-08-41-23 +0000",
     "source": "bbc",
@@ -14,25 +21,11 @@
     "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 61,
+    "score": 59,
     "pubdate": "2026-05-03-09-00-00 +0000",
     "source": "wsj",
     "headline": "Jerome Powell didn’t want to remain on the Fed’s board after his term as chair ended. He concluded he had no choice as President Trump’s legal challenges threatened to change how the Fed operates.",
     "link": "https://www.wsj.com/economy/central-banking/jerome-powell-federal-reserve-decision-89f4ff22"
-  },
-  {
-    "score": 60,
-    "pubdate": "2026-05-03-16-49-30 +0000",
-    "source": "cbc",
-    "headline": "Trump says operation will start Monday to help stranded ships leave Strait of Hormuz",
-    "link": "https://www.cbc.ca/news/world/cargo-ship-strait-of-hormuz-attack-reports-9.7186056?cmp=rss"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-05-03-19-08-13 +0000",
-    "source": "nypost",
-    "headline": "Ukraine attacks Russian oil port, ‘shadow fleet’ tankers as Moscow hits civilians targets",
-    "link": "https://nypost.com/2026/05/03/world-news/ukraine-attacks-russian-oil-port-shadow-fleet-tankers-as-moscow-hits-civilians-targets/"
   },
   {
     "score": 52,
@@ -42,6 +35,20 @@
     "link": "https://nypost.com/2026/05/03/world-news/3-mv-hondius-cruise-ship-passengers-dead-after-suspected-hantavirus-outbreak/"
   },
   {
+    "score": 52,
+    "pubdate": "2026-05-03-19-08-13 +0000",
+    "source": "nypost",
+    "headline": "Ukraine attacks Russian oil port, ‘shadow fleet’ tankers as Moscow hits civilians targets",
+    "link": "https://nypost.com/2026/05/03/world-news/ukraine-attacks-russian-oil-port-shadow-fleet-tankers-as-moscow-hits-civilians-targets/"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-05-03-22-04-20 +0000",
+    "source": "nypost",
+    "headline": "Food delivery apps would be barred from hiding fees, surveillance pricing under new federal bill",
+    "link": "https://nypost.com/2026/05/03/us-news/food-delivery-apps-would-be-barred-from-hiding-fees-surveillance-pricing-under-new-bill/"
+  },
+  {
     "score": 47,
     "pubdate": "2026-05-03-10-00-00 +0000",
     "source": "latimes",
@@ -49,24 +56,17 @@
     "link": "https://www.latimes.com/politics/story/2026-05-03/california-primary-governor-race-ballots-when-best-to-vote"
   },
   {
-    "score": 46,
-    "pubdate": "2026-05-03-22-04-20 +0000",
-    "source": "nypost",
-    "headline": "Food delivery apps would be barred from hiding fees, surveillance pricing under new federal bill",
-    "link": "https://nypost.com/2026/05/03/us-news/food-delivery-apps-would-be-barred-from-hiding-fees-surveillance-pricing-under-new-bill/"
-  },
-  {
-    "score": 40,
+    "score": 41,
     "pubdate": "2026-05-03-14-25-27 +0000",
     "source": "nypost",
     "headline": "Former top Biden official all but admits admin killed Spirit Airlines by rejecting JetBlue merger",
     "link": "https://nypost.com/2026/05/03/us-news/ex-biden-official-all-but-admits-admin-killed-spirit-airlines-by-rejecting-jetblue-merger/"
   },
   {
-    "score": 36,
-    "pubdate": "2026-05-03-22-27-48 +0000",
+    "score": 39,
+    "pubdate": "2026-05-04-05-11-17 +0000",
     "source": "nypost",
-    "headline": "Michigan Dem Senate candidate Mallory McMorrow defends tweet trashing rural America, extolling coastal elites",
-    "link": "https://nypost.com/2026/05/03/us-news/michigan-dem-mallory-mcmorrow-defends-tweet-trashing-rural-america-extolling-coastal-elites/"
+    "headline": "Jimmy Kimmel joked about ex-NYC Mayor Rudy Giuliani being in ‘the grave’ before hospitalization",
+    "link": "https://nypost.com/2026/05/04/us-news/jimmy-kimmel-joked-about-ex-nyc-mayor-rudy-giuliani-being-in-the-grave-before-hospitalization/"
   }
 ]
