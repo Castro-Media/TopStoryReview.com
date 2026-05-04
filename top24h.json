@@ -1,62 +1,55 @@
 [
   {
-    "score": 101,
-    "pubdate": "2026-05-03-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "Jerome Powell didn’t want to remain on the Fed’s board after his term as chair ended. He concluded he had no choice as President Trump’s legal challenges threatened to change how the Fed operates.",
-    "link": "https://www.wsj.com/economy/central-banking/jerome-powell-federal-reserve-decision-89f4ff22"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-05-03-16-49-30 +0000",
-    "source": "cbc",
-    "headline": "Trump says operation will start Monday to help stranded ships leave Strait of Hormuz",
-    "link": "https://www.cbc.ca/news/world/cargo-ship-strait-of-hormuz-attack-reports-9.7186056?cmp=rss"
-  },
-  {
-    "score": 59,
-    "pubdate": "2026-05-03-08-41-23 +0000",
-    "source": "bbc",
-    "headline": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-    "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 57,
+    "score": 104,
     "pubdate": "2026-05-04-00-40-22 +0000",
     "source": "nyt",
     "headline": "China Seeks an Advantage With Both Trump and Iran as War Evolves",
     "link": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html"
   },
   {
-    "score": 51,
-    "pubdate": "2026-05-03-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Barabak: Not too early, not too late. Here's the sweet spot for voting in California",
-    "link": "https://www.latimes.com/politics/story/2026-05-03/california-primary-governor-race-ballots-when-best-to-vote"
+    "score": 62,
+    "pubdate": "2026-05-03-08-41-23 +0000",
+    "source": "bbc",
+    "headline": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+    "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
-    "pubdate": "2026-05-03-21-14-10 +0000",
-    "source": "nypost",
-    "headline": "3 MV Hondius cruise ship passengers dead, another fighting for their life after suspected hantavirus outbreak",
-    "link": "https://nypost.com/2026/05/03/world-news/3-mv-hondius-cruise-ship-passengers-dead-after-suspected-hantavirus-outbreak/"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-05-03-03-00-00 +0000",
+    "score": 61,
+    "pubdate": "2026-05-03-09-00-00 +0000",
     "source": "wsj",
-    "headline": "A mammoth economic stimulus passed last year in Germany was meant to jolt the country—and Europe—out of its economic slumber. The problem: Germans just aren’t good at spending money.",
-    "link": "https://www.wsj.com/world/europe/germany-has-the-cash-to-revitalize-its-economy-but-cant-seem-to-spend-it-5bd38dfe"
+    "headline": "Jerome Powell didn’t want to remain on the Fed’s board after his term as chair ended. He concluded he had no choice as President Trump’s legal challenges threatened to change how the Fed operates.",
+    "link": "https://www.wsj.com/economy/central-banking/jerome-powell-federal-reserve-decision-89f4ff22"
   },
   {
-    "score": 47,
+    "score": 60,
+    "pubdate": "2026-05-03-16-49-30 +0000",
+    "source": "cbc",
+    "headline": "Trump says operation will start Monday to help stranded ships leave Strait of Hormuz",
+    "link": "https://www.cbc.ca/news/world/cargo-ship-strait-of-hormuz-attack-reports-9.7186056?cmp=rss"
+  },
+  {
+    "score": 52,
     "pubdate": "2026-05-03-19-08-13 +0000",
     "source": "nypost",
     "headline": "Ukraine attacks Russian oil port, ‘shadow fleet’ tankers as Moscow hits civilians targets",
     "link": "https://nypost.com/2026/05/03/world-news/ukraine-attacks-russian-oil-port-shadow-fleet-tankers-as-moscow-hits-civilians-targets/"
   },
   {
-    "score": 41,
+    "score": 52,
+    "pubdate": "2026-05-03-21-14-10 +0000",
+    "source": "nypost",
+    "headline": "3 MV Hondius cruise ship passengers dead, another fighting for their life after suspected hantavirus outbreak",
+    "link": "https://nypost.com/2026/05/03/world-news/3-mv-hondius-cruise-ship-passengers-dead-after-suspected-hantavirus-outbreak/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-05-03-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Barabak: Not too early, not too late. Here's the sweet spot for voting in California",
+    "link": "https://www.latimes.com/politics/story/2026-05-03/california-primary-governor-race-ballots-when-best-to-vote"
+  },
+  {
+    "score": 46,
     "pubdate": "2026-05-03-22-04-20 +0000",
     "source": "nypost",
     "headline": "Food delivery apps would be barred from hiding fees, surveillance pricing under new federal bill",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Former top Biden official all but admits admin killed Spirit Airlines by rejecting JetBlue merger",
     "link": "https://nypost.com/2026/05/03/us-news/ex-biden-official-all-but-admits-admin-killed-spirit-airlines-by-rejecting-jetblue-merger/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-05-03-22-27-48 +0000",
+    "source": "nypost",
+    "headline": "Michigan Dem Senate candidate Mallory McMorrow defends tweet trashing rural America, extolling coastal elites",
+    "link": "https://nypost.com/2026/05/03/us-news/michigan-dem-mallory-mcmorrow-defends-tweet-trashing-rural-america-extolling-coastal-elites/"
   }
 ]
