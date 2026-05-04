@@ -1,23 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2026-05-04-16-21-13 +0000",
+    "score": 47,
+    "pubdate": "2026-05-04-17-32-17 +0000",
     "source": "nyt",
-    "headline": "What to Know About Elections in West Bengal and Other Indian States",
-    "link": "https://www.nytimes.com/2026/05/03/world/asia/india-elections-modi-bjp-what-to-know.html"
+    "headline": "U.S. Warns China Over Iranian Oil as Sanctions Fight Intensifies",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/us-china-iranian-oil-sanctions.html"
   },
   {
-    "score": 9,
-    "pubdate": "2026-05-04-16-24-50 +0000",
+    "score": 30,
+    "pubdate": "2026-05-04-17-24-35 +0000",
+    "source": "nypost",
+    "headline": "Overwhelming number of voters back key Trump policies — including deportation of criminals and girl-sport rules: new poll",
+    "link": "https://nypost.com/2026/05/04/us-news/overwhelming-number-of-voters-back-key-trump-policies-including-deportation-of-criminals-and-girl-sport-rules-new-poll/"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-05-04-18-06-28 +0000",
+    "source": "nypost",
+    "headline": "Judge apologizes to White House Correspondents’ Dinner shooting suspect Cole Allen over jail conditions",
+    "link": "https://nypost.com/2026/05/04/us-news/judge-apologizes-to-white-house-correspondents-dinner-shooting-suspect-cole-allen-over-jail-conditions/"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-05-04-17-45-02 +0000",
+    "source": "startribune",
+    "headline": "Supreme Court restores access to abortion pill mifepristone through telehealth, mail and pharmacies",
+    "link": "https://www.startribune.com/supreme-court-restores-access-to-abortion-pill-mifepristone-through-telehealth-mail-and-pharmacies/601836337"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-05-04-18-03-03 +0000",
+    "source": "nyt",
+    "headline": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+    "link": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-05-04-17-32-35 +0000",
+    "source": "nyt",
+    "headline": "After the Hong Kong Fire Killed 3 Generations of His Family, A Son Searches for Justice",
+    "link": "https://www.nytimes.com/2026/05/04/world/asia/hong-kong-apartment-fire-family.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-05-04-18-05-39 +0000",
+    "source": "latimes",
+    "headline": "Regulators seek to suspend State Farm's license, citing widespread mishandling of L.A. wildfire claims",
+    "link": "https://www.latimes.com/business/story/2026-05-04/state-farm-wild-fires-fines-regulators-license-mishandling-fire-claims-eaton-palisades"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-05-04-17-46-12 +0000",
+    "source": "nyt",
+    "headline": "Modi’s B.J.P. Wins West Bengal State Election for the First Time",
+    "link": "https://www.nytimes.com/2026/05/04/world/asia/india-modi-hindu-bjp-west-bengal.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-04-18-09-26 +0000",
+    "source": "nyt",
+    "headline": "Strikes in U.A.E., Oman and at Sea Strain Iran Truce to the Breaking Point",
+    "link": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-04-17-48-02 +0000",
     "source": "bbc",
-    "headline": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-    "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-05-04-16-21-13 +0000",
-    "source": "nyt",
-    "headline": "What to Know About Elections in West Bengal and Other Indian States",
-    "link": "https://www.nytimes.com/2026/05/03/world/asia/india-elections-modi-bjp-what-to-know.html"
+    "headline": "Mali junta leader names himself defence minister after predecessor killed",
+    "link": "https://www.bbc.com/news/articles/c8r8jr7x8mlo?at_medium=RSS&at_campaign=rss"
   }
 ]
