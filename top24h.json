@@ -1,13 +1,13 @@
 [
   {
-    "score": 134,
-    "pubdate": "2026-05-04-12-25-43 +0000",
+    "score": 145,
+    "pubdate": "2026-05-04-13-34-48 +0000",
     "source": "nyt",
     "headline": "Oil Jumps as Iran Resists Trump’s Offer to Help Ships Through Strait of Hormuz",
     "link": "https://www.nytimes.com/2026/05/03/business/oil-prices-stocks-iran.html"
   },
   {
-    "score": 66,
+    "score": 74,
     "pubdate": "2026-05-03-21-14-10 +0000",
     "source": "nypost",
     "headline": "3 MV Hondius cruise ship passengers dead, another fighting for their life after suspected hantavirus outbreak",
@@ -21,8 +21,8 @@
     "link": "https://nypost.com/2026/05/04/us-news/house-democrats-add-eight-new-targets-to-their-red-to-blue-program/"
   },
   {
-    "score": 53,
-    "pubdate": "2026-05-04-04-01-20 +0000",
+    "score": 52,
+    "pubdate": "2026-05-04-14-17-47 +0000",
     "source": "nyt",
     "headline": "How the Kremlin Lures Africans Into Russia’s War in Ukraine",
     "link": "https://www.nytimes.com/2026/05/04/world/africa/ukraine-russia-war-african-soldiers.html"
@@ -35,38 +35,38 @@
     "link": "https://nypost.com/2026/05/04/us-news/nyc-italian-enclaves-left-out-of-the-party-as-world-cup-comes-to-us-with-italy-on-sidelines-turned-the-lights-off/"
   },
   {
-    "score": 45,
-    "pubdate": "2026-05-04-10-08-52 +0000",
+    "score": 51,
+    "pubdate": "2026-05-04-13-24-04 +0000",
+    "source": "nypost",
+    "headline": "My darling boy was slain in cold blood. Now, thanks to Gavin Newsom, his killer will go free",
+    "link": "https://nypost.com/2026/05/04/us-news/grieving-mom-says-california-law-lets-teen-accused-of-killing-her-son-walk-free-by-25/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-05-04-13-28-14 +0000",
     "source": "nyt",
     "headline": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
     "link": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html"
   },
   {
-    "score": 40,
-    "pubdate": "2026-05-04-08-43-06 +0000",
-    "source": "bbc",
-    "headline": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
-    "link": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 39,
-    "pubdate": "2026-05-03-15-39-22 +0000",
-    "source": "nypost",
-    "headline": "WHCD shooting suspect Cole Allen ‘thought he was Rambo,’ wanted Trump dead: top DC fed",
-    "link": "https://nypost.com/2026/05/03/us-news/whcd-suspect-cole-allen-thought-he-was-rambo-wanted-trump-dead-pirro/"
-  },
-  {
-    "score": 37,
     "pubdate": "2026-05-03-17-27-21 +0000",
     "source": "bbc",
     "headline": "Two US service members reported missing in Morocco, officials say",
     "link": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 35,
+    "score": 37,
     "pubdate": "2026-05-04-12-25-00 +0000",
     "source": "wsj",
     "headline": "American Express Global Business Travel Enters $6.3 Billion Take-Private Deal",
     "link": "https://www.wsj.com/business/deals/american-express-global-business-travel-enters-6-3-billion-take-private-deal-b72badb3?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-05-03-15-39-22 +0000",
+    "source": "nypost",
+    "headline": "WHCD shooting suspect Cole Allen ‘thought he was Rambo,’ wanted Trump dead: top DC fed",
+    "link": "https://nypost.com/2026/05/03/us-news/whcd-suspect-cole-allen-thought-he-was-rambo-wanted-trump-dead-pirro/"
   }
 ]
