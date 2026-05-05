@@ -1,13 +1,13 @@
 [
   {
-    "score": 197,
+    "score": 188,
     "pubdate": "2026-05-05-00-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s desire to end the Iran war is being put to the test after Tehran fired at American warships and violently disrupted a U.S. effort to revive shipping in the Strait of Hormuz",
     "link": "https://www.wsj.com/politics/national-security/attacks-on-u-s-warships-in-strait-test-trumps-desire-to-end-iran-war-182f2f2b"
   },
   {
-    "score": 93,
+    "score": 90,
     "pubdate": "2026-05-04-17-32-17 +0000",
     "source": "nyt",
     "headline": "U.S. Warns China Over Iranian Oil as Sanctions Fight Intensifies",
@@ -21,32 +21,25 @@
     "link": "https://nypost.com/2026/05/05/world-news/cruise-ship-infected-with-terrifying-hantavirus-strain-that-has-40-mortality-rate-who-believes-heres-what-happens-next/"
   },
   {
-    "score": 69,
+    "score": 67,
     "pubdate": "2026-05-04-21-30-31 +0000",
     "source": "nypost",
     "headline": "Ex-JPMorgan banker Chirayu Rana files wild new claims against exec — including lurid threesome invitation — days after going viral with ‘fabricated’ sex slave allegations",
     "link": "https://nypost.com/2026/05/04/business/ex-jpmorgan-banker-chirayu-rana-files-wild-new-claims-against-lorna-hajdini/"
   },
   {
-    "score": 56,
+    "score": 54,
     "pubdate": "2026-05-05-04-25-49 +0000",
     "source": "bbc",
     "headline": "Deadly China plane crash was caused by fuel cut-off, says report",
     "link": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
-    "pubdate": "2026-05-05-10-56-53 +0000",
-    "source": "bbc",
-    "headline": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-    "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-05-05-14-01-43 +0000",
-    "source": "cbc",
-    "headline": "Russian strikes kill 5 in Ukraine right before brief ceasefire takes hold",
-    "link": "https://www.cbc.ca/news/world/ukraine-russia-strikes-truce-9.7187926?cmp=rss"
+    "score": 47,
+    "pubdate": "2026-05-04-17-32-35 +0000",
+    "source": "nyt",
+    "headline": "After the Hong Kong Fire Killed 3 Generations of His Family, A Son Searches for Justice",
+    "link": "https://www.nytimes.com/2026/05/04/world/asia/hong-kong-apartment-fire-family.html"
   },
   {
     "score": 47,
@@ -56,17 +49,24 @@
     "link": "https://nypost.com/2026/05/04/business/elon-musk-pressured-openais-greg-brockman-to-settle-lawsuit-or-be-one-of-most-hated-men-in-america-filing/"
   },
   {
-    "score": 47,
-    "pubdate": "2026-05-05-12-38-17 +0000",
-    "source": "nypost",
-    "headline": "Hegseth insists US-Iran cease-fire ‘not over’ despite at least 10 attacks on American troops",
-    "link": "https://nypost.com/2026/05/05/us-news/hegseth-insists-cease-fire-with-iran-is-not-over/"
+    "score": 45,
+    "pubdate": "2026-05-05-14-01-43 +0000",
+    "source": "cbc",
+    "headline": "Russian strikes kill 5 in Ukraine right before brief ceasefire takes hold",
+    "link": "https://www.cbc.ca/news/world/ukraine-russia-strikes-truce-9.7187926?cmp=rss"
   },
   {
-    "score": 46,
+    "score": 43,
     "pubdate": "2026-05-04-20-03-07 +0000",
     "source": "nypost",
     "headline": "Gap co‑founder Doris Fisher — driving force behind iconic retailer’s rise — dead at 94",
     "link": "https://nypost.com/2026/05/04/business/gap-cofounder-doris-fisher-driving-force-behind-iconic-retailers-rise-dead-at-94/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-05-05-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Secret Team Blowing Up Ford’s Assembly Line to Make a $30,000 Electric Truck",
+    "link": "https://www.wsj.com/business/autos/ford-ev-electric-truck-7fdb0e0a?mod=pls_whats_news_us_business_f"
   }
 ]
