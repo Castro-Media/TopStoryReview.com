@@ -1,34 +1,34 @@
 [
   {
-    "score": 172,
+    "score": 171,
     "pubdate": "2026-05-05-00-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s desire to end the Iran war is being put to the test after Tehran fired at American warships and violently disrupted a U.S. effort to revive shipping in the Strait of Hormuz",
     "link": "https://www.wsj.com/politics/national-security/attacks-on-u-s-warships-in-strait-test-trumps-desire-to-end-iran-war-182f2f2b"
   },
   {
-    "score": 84,
-    "pubdate": "2026-05-04-21-30-31 +0000",
-    "source": "nypost",
-    "headline": "Ex-JPMorgan banker Chirayu Rana files wild new claims against exec — including lurid threesome invitation — days after going viral with ‘fabricated’ sex slave allegations",
-    "link": "https://nypost.com/2026/05/04/business/ex-jpmorgan-banker-chirayu-rana-files-wild-new-claims-against-lorna-hajdini/"
-  },
-  {
-    "score": 77,
+    "score": 76,
     "pubdate": "2026-05-04-17-32-17 +0000",
     "source": "nyt",
     "headline": "U.S. Warns China Over Iranian Oil as Sanctions Fight Intensifies",
     "link": "https://www.nytimes.com/2026/05/04/us/politics/us-china-iranian-oil-sanctions.html"
   },
   {
-    "score": 71,
-    "pubdate": "2026-05-04-14-01-35 +0000",
+    "score": 75,
+    "pubdate": "2026-05-04-14-41-39 +0000",
     "source": "nypost",
-    "headline": "American cruise passenger sobs about being stuck on cruise ship where 3 have died in hantavirus outbreak",
-    "link": "https://nypost.com/2026/05/04/world-news/cruise-passenger-breaks-down-over-very-real-fears-as-3-dead-from-hantavirus-outbreak-all-we-want-is-to-feel-safe-and-get-home/"
+    "headline": "MV Hondius cruise ship at center of suspected deadly hantavirus outbreak refused permission to dock",
+    "link": "https://nypost.com/2026/05/04/world-news/mv-hondius-cruise-ship-at-center-of-suspected-deadly-hantavirus-outbreak-refused-permission-to-dock/"
   },
   {
-    "score": 55,
+    "score": 61,
+    "pubdate": "2026-05-04-21-30-31 +0000",
+    "source": "nypost",
+    "headline": "Ex-JPMorgan banker Chirayu Rana files wild new claims against exec — including lurid threesome invitation — days after going viral with ‘fabricated’ sex slave allegations",
+    "link": "https://nypost.com/2026/05/04/business/ex-jpmorgan-banker-chirayu-rana-files-wild-new-claims-against-lorna-hajdini/"
+  },
+  {
+    "score": 54,
     "pubdate": "2026-05-04-22-57-12 +0000",
     "source": "nypost",
     "headline": "Ron DeSantis brands NYC mayor  Zohran Mamdani ‘realtor of the year’ for driving taxpayers to Florida",
@@ -42,6 +42,13 @@
     "link": "https://nypost.com/2026/05/04/us-news/supreme-court-restores-access-to-abortion-pill-mifepristone-after-appeals-court-ruling/"
   },
   {
+    "score": 51,
+    "pubdate": "2026-05-04-19-09-14 +0000",
+    "source": "bbc",
+    "headline": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+    "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 50,
     "pubdate": "2026-05-04-18-21-11 +0000",
     "source": "nyt",
@@ -49,24 +56,17 @@
     "link": "https://www.nytimes.com/2026/05/04/us/politics/correspondents-dinner-shooting-suspect-suicide-watch.html"
   },
   {
-    "score": 49,
-    "pubdate": "2026-05-04-19-09-14 +0000",
-    "source": "bbc",
-    "headline": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-    "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 46,
+    "score": 48,
     "pubdate": "2026-05-04-17-52-47 +0000",
     "source": "nypost",
     "headline": "Elon Musk pressured OpenAI’s Greg Brockman to settle lawsuit or become one of ‘most hated men in America’: filing",
     "link": "https://nypost.com/2026/05/04/business/elon-musk-pressured-openais-greg-brockman-to-settle-lawsuit-or-be-one-of-most-hated-men-in-america-filing/"
   },
   {
-    "score": 44,
-    "pubdate": "2026-05-04-17-46-12 +0000",
-    "source": "nyt",
-    "headline": "Modi’s B.J.P. Wins West Bengal State Election for the First Time",
-    "link": "https://www.nytimes.com/2026/05/04/world/asia/india-modi-hindu-bjp-west-bengal.html"
+    "score": 43,
+    "pubdate": "2026-05-04-13-25-00 +0000",
+    "source": "wsj",
+    "headline": "Anthropic Unveils $1.5 Billion Joint Venture With Wall Street Firms",
+    "link": "https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee?mod=pls_whats_news_us_business_f"
   }
 ]
