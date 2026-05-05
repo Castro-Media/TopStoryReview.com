@@ -1,72 +1,65 @@
 [
   {
-    "score": 26,
-    "pubdate": "2026-05-05-01-14-04 +0000",
+    "score": 12,
+    "pubdate": "2026-05-05-03-58-57 +0000",
+    "source": "nypost",
+    "headline": "MV Hondius hantavirus cases rise to 7 as cruise passengers remain trapped off Cape Verde: WHO",
+    "link": "https://nypost.com/2026/05/04/world-news/mv-hondius-hantavirus-cases-rise-to-7-as-cruise-passengers-remain-trapped-off-cape-verde-who/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-05-03-55-59 +0000",
     "source": "bbc",
-    "headline": "Three dead in suspected virus outbreak on cruise ship off Cape Verde",
-    "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
+    "headline": "The most talked-about looks at this year's Met Gala",
+    "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 26,
-    "pubdate": "2026-05-05-00-39-47 +0000",
-    "source": "nypost",
-    "headline": "Michigan Dems’ vote-by-phone convention results in ‘material errors’ — including 200 ineligible ballots cast, candidate claims",
-    "link": "https://nypost.com/2026/05/04/us-news/michigan-dems-vote-by-phone-convention-results-in-material-errors-including-200-ineligible-ballots-cast-candidate-claims/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-05-05-00-57-23 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Agrees to Fast-Track Louisiana Voting Map Decision",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-louisiana-voting-rights-act.html"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-05-05-01-13-49 +0000",
-    "source": "nyt",
-    "headline": "Secret Service Shoots and Wounds Armed Man Near Washington Monument",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-05-05-00-40-05 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Demands Names of 2020 Election Workers in Georgia",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-05-05-01-06-30 +0000",
-    "source": "nypost",
-    "headline": "Angelina Jolie lists her iconic Los Angeles estate for $30M — as rumors swirl she’s set to quit US for good",
-    "link": "https://nypost.com/2026/05/04/real-estate/angelina-jolie-lists-her-la-estate-for-30m-amid-rumors-of-us-exodus/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-05-05-00-44-48 +0000",
-    "source": "nypost",
-    "headline": "Jury throws book at Napa hitman who killed CHP captain lover’s husband — despite his kids’ pleas",
-    "link": "https://nypost.com/2026/05/04/us-news/jury-throws-book-at-napa-hitman-who-killed-chp-captain-lovers-husband-despite-his-kids-pleas/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-05-05-00-51-27 +0000",
-    "source": "nypost",
-    "headline": "JetBlue returns to Charlotte Airport for first time since 2024 to cover ‘rescue fares’ for Spirit customers",
-    "link": "https://nypost.com/2026/05/04/us-news/jetblue-returns-to-charlotte-airport-for-first-time-since-2024-to-cover-rescue-fares-for-spirit-customers/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-05-05-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions",
-    "link": "https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706?mod=pls_whats_news_us_business_f"
+    "score": 11,
+    "pubdate": "2026-05-05-03-32-30 +0000",
+    "source": "startribune",
+    "headline": "Live from Game 1: Anthony Edwards on limited minutes as Timberwolves battle Spurs in fourth quarter",
+    "link": "https://www.startribune.com/timberwolves-spurs-live-san-antonio-nba-playoffs/601833706"
   },
   {
     "score": 9,
-    "pubdate": "2026-05-05-01-09-55 +0000",
+    "pubdate": "2026-05-05-03-44-00 +0000",
+    "source": "wsj",
+    "headline": "Regis Resources to Acquire Vault Minerals to Create $7.67 Billion Gold Miner",
+    "link": "https://www.wsj.com/business/deals/regis-resources-to-acquire-vault-minerals-to-create-7-67-billion-gold-miner-f128e6db?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-05-03-02-26 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict",
-    "link": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy"
+    "headline": "Shootings On the National Mall Are Rare",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/secret-service-shooting-white-house-washington.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-05-05-03-47-25 +0000",
+    "source": "startribune",
+    "headline": "Justin: Minnesota’s Chris Tungseth eliminated from ‘American Idol’",
+    "link": "https://www.startribune.com/justin-minnesotas-chris-tungseth-eliminated-from-american-idol/601836474"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-05-05-03-30-42 +0000",
+    "source": "bbc",
+    "headline": "Explosion at China fireworks factory kills 21 people",
+    "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-05-03-55-59 +0000",
+    "source": "bbc",
+    "headline": "The most talked-about looks at this year's Met Gala",
+    "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-05-03-02-26 +0000",
+    "source": "nyt",
+    "headline": "Shootings On the National Mall Are Rare",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/secret-service-shooting-white-house-washington.html"
   }
 ]
