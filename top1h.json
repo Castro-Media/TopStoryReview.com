@@ -1,23 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2026-05-05-10-24-00 +0000",
+    "score": 25,
+    "pubdate": "2026-05-05-13-00-06 +0000",
+    "source": "nyt",
+    "headline": "Ford Says an Affordable Electric Pickup Truck is Still Coming Next Year",
+    "link": "https://www.nytimes.com/2026/05/05/business/ford-motor-electric-pickup-truck.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-05-05-12-49-00 +0000",
     "source": "wsj",
-    "headline": "Bud Brewer AB InBev Says Sales Are Rebounding, Eyes Fresh Lift From Summer’s World Cup",
-    "link": "https://www.wsj.com/business/earnings/bud-brewer-ab-inbev-returns-to-volume-growth-bb8c9bc0?mod=pls_whats_news_us_business_f"
+    "headline": "Human-to-Human Transmission of Hantavirus May Have Occurred on Cruise Ship",
+    "link": "https://www.wsj.com/world/asia/human-to-human-transmission-of-hantavirus-may-have-occurred-on-cruise-ship-e041b990"
   },
   {
-    "score": 12,
-    "pubdate": "2026-05-05-10-23-35 +0000",
+    "score": 19,
+    "pubdate": "2026-05-05-13-01-55 +0000",
     "source": "nyt",
-    "headline": "Cruise Ship Struck by Hantavirus Remains at Sea",
-    "link": "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html"
+    "headline": "Iran War Live Updates: Hegseth Calls U.S. Military Effort in Strait Defensive and Temporary",
+    "link": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz"
   },
   {
-    "score": 0,
-    "pubdate": "2026-05-05-10-23-35 +0000",
+    "score": 18,
+    "pubdate": "2026-05-05-13-00-39 +0000",
     "source": "nyt",
-    "headline": "Cruise Ship Struck by Hantavirus Remains at Sea",
-    "link": "https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html"
+    "headline": "China’s Big Bet on Wind Power Is Paying Off",
+    "link": "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-05-13-04-11 +0000",
+    "source": "nyt",
+    "headline": "The Growing Rift Between the UAE and Saudi Arabia, Explained",
+    "link": "https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-05-13-08-13 +0000",
+    "source": "nyt",
+    "headline": "U.S. Trade Deficit Grew in March",
+    "link": "https://www.nytimes.com/2026/05/05/business/economy/us-trade-deficit-grew-in-march.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-05-05-13-04-00 +0000",
+    "source": "wsj",
+    "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-05-12-39-22 +0000",
+    "source": "nyt",
+    "headline": "In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.",
+    "link": "https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-05-12-37-00 +0000",
+    "source": "wsj",
+    "headline": "Sterling Could Remain Supported as Markets Price Aggressive BOE Rate Rises",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-renewed-middle-east-tensions-2c3c669b?mod=rss_markets_main"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-05-13-00-07 +0000",
+    "source": "nyt",
+    "headline": "U.S.C. Will Infuse A.I. Across University with $200 Million Donation",
+    "link": "https://www.nytimes.com/2026/05/05/us/usc-ai-200-million-donation.html"
   }
 ]
