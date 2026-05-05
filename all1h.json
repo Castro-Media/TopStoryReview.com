@@ -1,8 +1,158 @@
 [
   {
-    "headline": "Health Officials Work to Contain Hantavirus Outbreak on Cruise Ship",
-    "link": "https://www.wsj.com/health/three-people-dead-in-suspected-hantavirus-outbreak-on-cruise-ship-d3777a4f",
+    "headline": "Rescuers among three dead after yacht sinks off Australian coast",
+    "link": "https://www.bbc.com/news/articles/cr5p36v5q79o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-01-21-23 +0000"
+  },
+  {
+    "headline": "Three dead in suspected virus outbreak on cruise ship off Cape Verde",
+    "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-01-14-04 +0000"
+  },
+  {
+    "headline": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
+    "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-01-14-04 +0000"
+  },
+  {
+    "headline": "Oil Futures Fall on Possible Technical Correction",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-technical-correction-21216651?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-05-04-23-10-00 +0000"
+    "pubdate": "2026-05-05-01-14-00 +0000"
+  },
+  {
+    "headline": "Secret Service Shoots and Wounds Armed Man Near Washington Monument",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-01-13-49 +0000"
+  },
+  {
+    "headline": "Secret Service Shoots and Wounds Armed Man Near Washington Monument",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-01-13-49 +0000"
+  },
+  {
+    "headline": "Behind ‘Angel Island Project,’ a starry ensemble and dark history",
+    "link": "https://48hills.org/2026/05/behind-angel-island-project-a-starry-ensemble-and-dark-history/",
+    "source": "48hills",
+    "pubdate": "2026-05-05-01-11-26 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict",
+    "link": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
+    "source": "nyt",
+    "pubdate": "2026-05-05-01-09-55 +0000"
+  },
+  {
+    "headline": "Confusion in Strait of Hormuz Leaves Shipping Firms Guessing",
+    "link": "https://www.nytimes.com/2026/05/04/business/trump-hormuz-shipping-companies.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-01-09-52 +0000"
+  },
+  {
+    "headline": "Angelina Jolie lists her iconic Los Angeles estate for $30M — as rumors swirl she’s set to quit US for good",
+    "link": "https://nypost.com/2026/05/04/real-estate/angelina-jolie-lists-her-la-estate-for-30m-amid-rumors-of-us-exodus/",
+    "source": "nypost",
+    "pubdate": "2026-05-05-01-06-30 +0000"
+  },
+  {
+    "headline": "What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship",
+    "link": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-01-04-49 +0000"
+  },
+  {
+    "headline": "What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship",
+    "link": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-01-04-49 +0000"
+  },
+  {
+    "headline": "Asian Currencies Consolidate; May Be Weighed by Renewed Middle East Tensions",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-renewed-middle-east-tensions-2c3c669b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-05-01-01-00 +0000"
+  },
+  {
+    "headline": "Morgan Stanley’s Investment Banking Program in Budapest Hit by U.S. Probe",
+    "link": "https://www.wsj.com/finance/banking/morgan-stanleys-investment-banking-program-in-budapest-hit-by-u-s-probe-72e03e93?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-05-01-00-00 +0000"
+  },
+  {
+    "headline": "The Secret Team Blowing Up Ford’s Assembly Line to Make a $30,000 Electric Truck",
+    "link": "https://www.wsj.com/business/autos/ford-ev-electric-truck-7fdb0e0a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-05-01-00-00 +0000"
+  },
+  {
+    "headline": "Ahead of Race to IPO, OpenAI Discussed Spinning Out Robotics, Hardware Divisions",
+    "link": "https://www.wsj.com/tech/ahead-of-race-to-ipo-openai-discussed-spinning-out-robotics-hardware-divisions-18c89706?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-05-01-00-00 +0000"
+  },
+  {
+    "headline": "Supreme Court Agrees to Fast-Track Louisiana Voting Map Decision",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-louisiana-voting-rights-act.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-00-57-23 +0000"
+  },
+  {
+    "headline": "Supreme Court Agrees to Fast-Track Louisiana Voting Map Decision",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-louisiana-voting-rights-act.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-00-57-23 +0000"
+  },
+  {
+    "headline": "JetBlue returns to Charlotte Airport for first time since 2024 to cover ‘rescue fares’ for Spirit customers",
+    "link": "https://nypost.com/2026/05/04/us-news/jetblue-returns-to-charlotte-airport-for-first-time-since-2024-to-cover-rescue-fares-for-spirit-customers/",
+    "source": "nypost",
+    "pubdate": "2026-05-05-00-51-27 +0000"
+  },
+  {
+    "headline": "Jury throws book at Napa hitman who killed CHP captain lover’s husband — despite his kids’ pleas",
+    "link": "https://nypost.com/2026/05/04/us-news/jury-throws-book-at-napa-hitman-who-killed-chp-captain-lovers-husband-despite-his-kids-pleas/",
+    "source": "nypost",
+    "pubdate": "2026-05-05-00-44-48 +0000"
+  },
+  {
+    "headline": "Trump Administration Demands Names of 2020 Election Workers in Georgia",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-00-40-05 +0000"
+  },
+  {
+    "headline": "Trump Administration Demands Names of 2020 Election Workers in Georgia",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-00-40-05 +0000"
+  },
+  {
+    "headline": "Michigan Dems’ vote-by-phone convention results in ‘material errors’ — including 200 ineligible ballots cast, candidate claims",
+    "link": "https://nypost.com/2026/05/04/us-news/michigan-dems-vote-by-phone-convention-results-in-material-errors-including-200-ineligible-ballots-cast-candidate-claims/",
+    "source": "nypost",
+    "pubdate": "2026-05-05-00-39-47 +0000"
+  },
+  {
+    "headline": "Michigan Dems’ vote-by-phone convention results in ‘material errors’ — including 200 ineligible ballots cast, candidate claims",
+    "link": "https://nypost.com/2026/05/04/us-news/michigan-dems-vote-by-phone-convention-results-in-material-errors-including-200-ineligible-ballots-cast-candidate-claims/",
+    "source": "nypost",
+    "pubdate": "2026-05-05-00-39-47 +0000"
+  },
+  {
+    "headline": "Starmer to host Downing Street summit to address antisemitism",
+    "link": "https://www.bbc.com/news/articles/czd2l55d1e7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-00-38-20 +0000"
+  },
+  {
+    "headline": "Regis Resources to Acquire Vault Minerals to Create $7.67-Billion Gold Miner",
+    "link": "https://www.wsj.com/business/deals/regis-resources-to-acquire-vault-minerals-to-create-7-67-billion-gold-miner-f128e6db?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-05-00-36-00 +0000"
   }
 ]
