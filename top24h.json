@@ -36,13 +36,6 @@
   },
   {
     "score": 53,
-    "pubdate": "2026-05-04-18-21-11 +0000",
-    "source": "nyt",
-    "headline": "Judge Questions Why Correspondents’ Dinner Shooting Suspect Was Placed on Suicide Watch",
-    "link": "https://www.nytimes.com/2026/05/04/us/politics/correspondents-dinner-shooting-suspect-suicide-watch.html"
-  },
-  {
-    "score": 53,
     "pubdate": "2026-05-04-15-22-38 +0000",
     "source": "nypost",
     "headline": "Supreme Court restores access to abortion pill mifepristone after appeals court ruling",
@@ -56,6 +49,13 @@
     "link": "https://nypost.com/2026/05/04/business/ron-desantis-brands-nyc-mayor-zohran-mamdani-realtor-of-the-year-for-driving-taxpayers-to-florida/"
   },
   {
+    "score": 52,
+    "pubdate": "2026-05-04-18-21-11 +0000",
+    "source": "nyt",
+    "headline": "Judge Questions Why Correspondents’ Dinner Shooting Suspect Was Placed on Suicide Watch",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/correspondents-dinner-shooting-suspect-suicide-watch.html"
+  },
+  {
     "score": 49,
     "pubdate": "2026-05-04-17-52-47 +0000",
     "source": "nypost",
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2026/05/04/business/elon-musk-pressured-openais-greg-brockman-to-settle-lawsuit-or-be-one-of-most-hated-men-in-america-filing/"
   },
   {
-    "score": 46,
+    "score": 45,
     "pubdate": "2026-05-04-13-25-00 +0000",
     "source": "wsj",
     "headline": "Anthropic Unveils $1.5 Billion Joint Venture With Wall Street Firms",
-    "link": "https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee?mod=rss_markets_main"
+    "link": "https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee?mod=pls_whats_news_us_business_f"
   }
 ]
