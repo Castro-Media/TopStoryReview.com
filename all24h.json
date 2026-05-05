@@ -1,21 +1,213 @@
 [
   {
+    "headline": "Oil Prices Slide but Remain Elevated as Middle East Tensions Escalate",
+    "link": "https://www.nytimes.com/2026/05/05/business/oil-gas-prices-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-05-46-16 +0000"
+  },
+  {
+    "headline": "Australia’s Central Bank Raises Rates for Third Straight Meeting",
+    "link": "https://www.wsj.com/economy/central-banking/australias-central-bank-raises-rates-for-third-straight-meeting-3422fd85",
+    "source": "wsj",
+    "pubdate": "2026-05-05-05-30-00 +0000"
+  },
+  {
+    "headline": "Bud Brewer AB InBev Returns to Volume Growth",
+    "link": "https://www.wsj.com/business/earnings/bud-brewer-ab-inbev-returns-to-volume-growth-bb8c9bc0?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-05-05-29-00 +0000"
+  },
+  {
+    "headline": "Popular Australian author pleads guilty over child exploitation material",
+    "link": "https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-05-28-28 +0000"
+  },
+  {
+    "headline": "CK Hutchison Exits Vodafone Joint Venture for $5.8 Billion",
+    "link": "https://www.wsj.com/business/telecom/ck-hutchison-exits-vodafone-joint-venture-for-5-8-billion-ca6659ee?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-05-05-06-00 +0000"
+  },
+  {
+    "headline": "U.S. Military Strikes Boat in Caribbean, Killing 2",
+    "link": "https://www.nytimes.com/2026/05/05/us/us-military-boat-strike-caribbean.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-05-01-49 +0000"
+  },
+  {
+    "headline": "U.S. Military Strikes Boat in Caribbean, Killing 2",
+    "link": "https://www.nytimes.com/2026/05/05/us/us-military-boat-strike-caribbean.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-05-01-49 +0000"
+  },
+  {
+    "headline": "Live from Game 1: Timberwolves hold off Spurs 104-102 to win playoff series opener",
+    "link": "https://www.startribune.com/timberwolves-spurs-live-san-antonio-nba-playoffs/601833706",
+    "source": "startribune",
+    "pubdate": "2026-05-05-05-01-45 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict",
+    "link": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-59-17 +0000"
+  },
+  {
+    "headline": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+    "link": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-58-11 +0000"
+  },
+  {
+    "headline": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+    "link": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-58-11 +0000"
+  },
+  {
+    "headline": "New looks now: Academy of Art fashion students bloom into view",
+    "link": "https://48hills.org/2026/05/new-looks-now-academy-of-art-fashion-students-bloom-into-view/",
+    "source": "48hills",
+    "pubdate": "2026-05-05-04-57-12 +0000"
+  },
+  {
+    "headline": "Most Asian Currencies Weaken Amid Risk-Off Sentiment",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-renewed-middle-east-tensions-2c3c669b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-05-04-55-00 +0000"
+  },
+  {
+    "headline": "HSBC Posts Flat Quarterly Net Profit",
+    "link": "https://www.wsj.com/finance/banking/hsbc-posts-flat-quarterly-net-profit-11339e59?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-05-04-42-00 +0000"
+  },
+  {
+    "headline": "HSBC Posts Flat Quarterly Net Profit",
+    "link": "https://www.wsj.com/finance/banking/hsbc-posts-flat-quarterly-net-profit-11339e59?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-05-04-42-00 +0000"
+  },
+  {
+    "headline": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+    "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-04-34-15 +0000"
+  },
+  {
+    "headline": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+    "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-04-34-15 +0000"
+  },
+  {
+    "headline": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+    "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-04-34-15 +0000"
+  },
+  {
+    "headline": "Tricked Into Fighting for Russia",
+    "link": "https://www.nytimes.com/2026/05/04/world/africa-russia-ukraine-war-attacks-strait-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-30-42 +0000"
+  },
+  {
+    "headline": "1,500 beagles rescued from troubled Ridglan Farms after animal activists stormed Wisconsin research facility",
+    "link": "https://nypost.com/2026/05/05/us-news/1500-beagles-rescued-from-troubled-ridglan-farms-after-animal-activists-stormed-facility/",
+    "source": "nypost",
+    "pubdate": "2026-05-05-04-29-49 +0000"
+  },
+  {
+    "headline": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+    "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-04-27-00 +0000"
+  },
+  {
+    "headline": "Deadly China plane crash was caused by fuel cut-off, says report",
+    "link": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-04-25-49 +0000"
+  },
+  {
+    "headline": "Deadly China plane crash was caused by fuel cut-off, says report",
+    "link": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-04-25-49 +0000"
+  },
+  {
+    "headline": "Fireworks Factory Explosion in China Kills at Least 21",
+    "link": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-07-17 +0000"
+  },
+  {
+    "headline": "Fireworks Factory Explosion in China Kills at Least 21",
+    "link": "https://www.nytimes.com/2026/05/05/world/asia/china-fireworks-factory-explosion.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-07-17 +0000"
+  },
+  {
+    "headline": "The most talked-about looks at this year's Met Gala",
+    "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-04-05-39 +0000"
+  },
+  {
+    "headline": "The most talked-about looks at this year's Met Gala",
+    "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-04-05-39 +0000"
+  },
+  {
+    "headline": "What a Bike Ride in Cape Town Taught Me About Apartheid",
+    "link": "https://www.nytimes.com/2026/05/05/world/africa/cape-town-apartheid-bike-ride.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-01-15 +0000"
+  },
+  {
+    "headline": "What a Bike Ride in Cape Town Taught Me About Apartheid",
+    "link": "https://www.nytimes.com/2026/05/05/world/africa/cape-town-apartheid-bike-ride.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-01-15 +0000"
+  },
+  {
+    "headline": "Taiwan Could Learn From Ukraine. Informally, Connections Are Growing.",
+    "link": "https://www.nytimes.com/2026/05/05/world/europe/ukraine-taiwan-drones.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-01-07 +0000"
+  },
+  {
+    "headline": "Taiwan Could Learn From Ukraine. Informally, Connections Are Growing.",
+    "link": "https://www.nytimes.com/2026/05/05/world/europe/ukraine-taiwan-drones.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-01-07 +0000"
+  },
+  {
+    "headline": "As Oil Prices Stay High, China Doubles Down on Wind Power",
+    "link": "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-00-11 +0000"
+  },
+  {
+    "headline": "As Oil Prices Stay High, China Doubles Down on Wind Power",
+    "link": "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-00-11 +0000"
+  },
+  {
+    "headline": "As Oil Prices Stay High, China Doubles Down on Wind Power",
+    "link": "https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html",
+    "source": "nyt",
+    "pubdate": "2026-05-05-04-00-11 +0000"
+  },
+  {
     "headline": "MV Hondius hantavirus cases rise to 7 as cruise passengers remain trapped off Cape Verde: WHO",
     "link": "https://nypost.com/2026/05/04/world-news/mv-hondius-hantavirus-cases-rise-to-7-as-cruise-passengers-remain-trapped-off-cape-verde-who/",
     "source": "nypost",
     "pubdate": "2026-05-05-03-58-57 +0000"
-  },
-  {
-    "headline": "The most talked-about looks at this year's Met Gala",
-    "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-05-03-55-59 +0000"
-  },
-  {
-    "headline": "The most talked-about looks at this year's Met Gala",
-    "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-05-03-55-59 +0000"
   },
   {
     "headline": "Justin: Minnesota’s Chris Tungseth eliminated from ‘American Idol’",
@@ -28,12 +220,6 @@
     "link": "https://www.wsj.com/business/deals/regis-resources-to-acquire-vault-minerals-to-create-7-67-billion-gold-miner-f128e6db?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-05-03-44-00 +0000"
-  },
-  {
-    "headline": "Live from Game 1: Anthony Edwards on limited minutes as Timberwolves battle Spurs in fourth quarter",
-    "link": "https://www.startribune.com/timberwolves-spurs-live-san-antonio-nba-playoffs/601833706",
-    "source": "startribune",
-    "pubdate": "2026-05-05-03-32-30 +0000"
   },
   {
     "headline": "Explosion at China fireworks factory kills 21 people",
@@ -84,6 +270,18 @@
     "pubdate": "2026-05-05-02-40-00 +0000"
   },
   {
+    "headline": "Watch: Met Gala sees Beyoncé's return and a star-studded red carpet",
+    "link": "https://www.bbc.com/news/videos/cglpy0d7k5jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-02-31-00 +0000"
+  },
+  {
+    "headline": "Watch: Met Gala sees Beyoncé's return and a star-studded red carpet",
+    "link": "https://www.bbc.com/news/videos/cglpy0d7k5jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-05-02-31-00 +0000"
+  },
+  {
     "headline": "Trump Administration Demands Names of 2020 Election Workers in Georgia",
     "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html",
     "source": "nyt",
@@ -106,24 +304,12 @@
     "link": "https://www.nytimes.com/2026/05/04/world/asia/ejae-kpop-demon-hunters.html",
     "source": "nyt",
     "pubdate": "2026-05-05-02-13-12 +0000"
-  },
-  {
-    "headline": "Better Opportunities to Accumulate Australian Dollar Likely Loom",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-renewed-middle-east-tensions-2c3c669b?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-05-02-04-00 +0000"
   },
   {
     "headline": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm",
     "link": "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html",
     "source": "nyt",
     "pubdate": "2026-05-05-02-03-14 +0000"
-  },
-  {
-    "headline": "Iran War Live Updates: Attacks in Gulf Threaten to Reignite Conflict",
-    "link": "https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy",
-    "source": "nyt",
-    "pubdate": "2026-05-05-02-03-09 +0000"
   },
   {
     "headline": "Inside The Old Skydiving Plane Hunting Drones in Ukraine",
@@ -160,18 +346,6 @@
     "link": "https://www.bbc.com/news/articles/c9d355nw7jzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-05-01-55-39 +0000"
-  },
-  {
-    "headline": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-    "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-05-01-50-39 +0000"
-  },
-  {
-    "headline": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-    "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-05-01-50-39 +0000"
   },
   {
     "headline": "Trump Tries to Downplay Economic Effects of the Iran War",
@@ -352,12 +526,6 @@
     "link": "https://www.nytimes.com/2026/05/04/world/americas/costa-rica-newspaper-us-visas.html",
     "source": "nyt",
     "pubdate": "2026-05-05-00-13-54 +0000"
-  },
-  {
-    "headline": "UK Driving-Test Backlog Leaves Learners Waiting Months",
-    "link": "https://www.nytimes.com/2026/05/02/world/europe/uk-driving-tests-backlog.html",
-    "source": "nyt",
-    "pubdate": "2026-05-05-00-10-24 +0000"
   },
   {
     "headline": "UK Driving-Test Backlog Leaves Learners Waiting Months",
@@ -627,7 +795,7 @@
     "headline": "White House Considers Vetting A.I. Models Before They Are Released",
     "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
     "source": "nyt",
-    "pubdate": "2026-05-04-22-37-29 +0000"
+    "pubdate": "2026-05-04-22-37-30 +0000"
   },
   {
     "headline": "Palantir Beats Forecasts With $1.63 Billion Quarter as Sales Accelerate",
@@ -693,13 +861,13 @@
     "headline": "Pakistan Says It Helped Iranian Crew From Ship That U.S. Seized",
     "link": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html",
     "source": "nyt",
-    "pubdate": "2026-05-04-22-15-32 +0000"
+    "pubdate": "2026-05-04-22-15-33 +0000"
   },
   {
     "headline": "Pakistan Says It Helped Iranian Crew From Ship That U.S. Seized",
     "link": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html",
     "source": "nyt",
-    "pubdate": "2026-05-04-22-15-32 +0000"
+    "pubdate": "2026-05-04-22-15-33 +0000"
   },
   {
     "headline": "Amazon Expands Logistics Arm to Outside Companies",
@@ -712,12 +880,6 @@
     "link": "https://www.bbc.com/news/articles/c936q7np647o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-04-22-05-37 +0000"
-  },
-  {
-    "headline": "Why there are 61 names on your ballot for governor – including Barack Obama",
-    "link": "https://nypost.com/2026/05/04/us-news/why-there-are-61-names-on-your-ballot-for-governor-including-barack-obama/",
-    "source": "nypost",
-    "pubdate": "2026-05-04-22-05-28 +0000"
   },
   {
     "headline": "Why there are 61 names on your ballot for governor – including Barack Obama",
@@ -844,12 +1006,6 @@
     "link": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html",
     "source": "nyt",
     "pubdate": "2026-05-04-21-33-45 +0000"
-  },
-  {
-    "headline": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-    "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-04-21-33-17 +0000"
   },
   {
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
@@ -1026,12 +1182,6 @@
     "pubdate": "2026-05-04-21-05-00 +0000"
   },
   {
-    "headline": "Tricked Into Fighting for Russia",
-    "link": "https://www.nytimes.com/2026/05/04/world/africa-russia-ukraine-war-attacks-strait-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-05-04-21-03-08 +0000"
-  },
-  {
     "headline": "1,500 Beagles From Ridglan Farms in Wisconsin Are Getting New Homes",
     "link": "https://www.nytimes.com/2026/05/04/us/beagles-ridglan-farms-wisconsin.html",
     "source": "nyt",
@@ -1060,12 +1210,6 @@
     "link": "https://www.nytimes.com/2026/05/04/us/politics/american-commentator-charges-russia.html",
     "source": "nyt",
     "pubdate": "2026-05-04-20-57-33 +0000"
-  },
-  {
-    "headline": "ON Semiconductor Narrows First-Quarter Loss on AI Data-Center Demand",
-    "link": "https://www.wsj.com/business/earnings/on-semiconductor-narrows-first-quarter-loss-on-ai-data-center-demand-008e28d3?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-04-20-56-00 +0000"
   },
   {
     "headline": "Oil Jumps as Violence Flares After Trump’s Offer to Help Ships Through Strait",
@@ -1173,13 +1317,13 @@
     "headline": "Strikes in U.A.E., Oman and at Sea Strain Iran Truce to the Breaking Point",
     "link": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html",
     "source": "nyt",
-    "pubdate": "2026-05-04-19-43-04 +0000"
+    "pubdate": "2026-05-04-19-43-05 +0000"
   },
   {
     "headline": "Strikes in U.A.E., Oman and at Sea Strain Iran Truce to the Breaking Point",
     "link": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-trump-ships-hormuz-strait.html",
     "source": "nyt",
-    "pubdate": "2026-05-04-19-43-04 +0000"
+    "pubdate": "2026-05-04-19-43-05 +0000"
   },
   {
     "headline": "Venice Biennale Jury Resigns Amid Tension Over Awards Ban",
@@ -1233,13 +1377,13 @@
     "headline": "Mark Carney Pulls Canada Closer to Europe as Both Struggle With Trump",
     "link": "https://www.nytimes.com/2026/05/04/world/canada/carney-europe-trump.html",
     "source": "nyt",
-    "pubdate": "2026-05-04-19-27-18 +0000"
+    "pubdate": "2026-05-04-19-27-19 +0000"
   },
   {
     "headline": "Mark Carney Pulls Canada Closer to Europe as Both Struggle With Trump",
     "link": "https://www.nytimes.com/2026/05/04/world/canada/carney-europe-trump.html",
     "source": "nyt",
-    "pubdate": "2026-05-04-19-27-18 +0000"
+    "pubdate": "2026-05-04-19-27-19 +0000"
   },
   {
     "headline": "Supreme Court Temporarily Restores Access to Abortion Pill by Mail",
@@ -1482,18 +1626,6 @@
     "pubdate": "2026-05-04-18-04-24 +0000"
   },
   {
-    "headline": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
-    "link": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
-    "source": "nyt",
-    "pubdate": "2026-05-04-18-03-03 +0000"
-  },
-  {
-    "headline": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
-    "link": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
-    "source": "nyt",
-    "pubdate": "2026-05-04-18-03-03 +0000"
-  },
-  {
     "headline": "GameStop Proposes Acquiring eBay for $55 Billion",
     "link": "https://www.nytimes.com/2026/05/04/business/gamestop-ebay-acquisition-offer.html",
     "source": "nyt",
@@ -1504,12 +1636,6 @@
     "link": "https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-04-18-01-26 +0000"
-  },
-  {
-    "headline": "Norwegian Cruise Line Cuts Outlook on Weak Demand, Higher Fuel Costs",
-    "link": "https://www.wsj.com/business/earnings/norwegian-cruise-line-cuts-outlook-054df35c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-04-18-00-00 +0000"
   },
   {
     "headline": "EBay pops 6% as GameStop’s Ryan Cohen makes unsolicited $56B offer to buy company",
@@ -1714,12 +1840,6 @@
     "link": "https://www.nytimes.com/2026/05/04/business/india-iran-fuel-glass.html",
     "source": "nyt",
     "pubdate": "2026-05-04-16-47-28 +0000"
-  },
-  {
-    "headline": "School Cellphone Ban Study Finds Mixed Results",
-    "link": "https://www.nytimes.com/2026/05/04/us/did-school-cellphone-bans-study.html",
-    "source": "nyt",
-    "pubdate": "2026-05-04-16-42-04 +0000"
   },
   {
     "headline": "Dow tumbles 500 points, oil spikes 5% as Iran tensions stoke fear on Wall Street",
@@ -2079,13 +2199,13 @@
     "headline": "Trump Backed Forced Treatment for Homeless People. Utah Shows the Challenges.",
     "link": "https://www.nytimes.com/2026/05/04/us/politics/utah-homeless-camp-stalls.html",
     "source": "nyt",
-    "pubdate": "2026-05-04-13-08-45 +0000"
+    "pubdate": "2026-05-04-13-08-46 +0000"
   },
   {
     "headline": "Trump Backed Forced Treatment for Homeless People. Utah Shows the Challenges.",
     "link": "https://www.nytimes.com/2026/05/04/us/politics/utah-homeless-camp-stalls.html",
     "source": "nyt",
-    "pubdate": "2026-05-04-13-08-45 +0000"
+    "pubdate": "2026-05-04-13-08-46 +0000"
   },
   {
     "headline": "Reform pledges to open migrant detention centres in Green-voting areas",
@@ -2226,12 +2346,6 @@
     "pubdate": "2026-05-04-10-36-48 +0000"
   },
   {
-    "headline": "Why U.S. Officials Are in Venezuela Right Now",
-    "link": "https://www.nytimes.com/video/world/americas/100000010874870/why-us-officials-are-in-venezuela-right-now.html",
-    "source": "nyt",
-    "pubdate": "2026-05-04-10-36-48 +0000"
-  },
-  {
     "headline": "Trump Says U.S. Will Guide Stranded Ships Through Strait of Hormuz",
     "link": "https://www.wsj.com/world/middle-east/trump-says-u-s-will-guide-stranded-ships-through-strait-of-hormuz-09e0d7cf",
     "source": "wsj",
@@ -2364,12 +2478,6 @@
     "pubdate": "2026-05-04-08-41-42 +0000"
   },
   {
-    "headline": "Met Gala 2026: How to watch, the price of tickets and this year's theme",
-    "link": "https://www.bbc.com/news/articles/cdrm7gp5er3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-04-08-41-42 +0000"
-  },
-  {
     "headline": "This mother says Air Canada ignored refund plea for months after her child's death",
     "link": "https://www.cbc.ca/news/gopublic/air-canada-bereavement-policy-refund-9.7181506?cmp=rss",
     "source": "cbc",
@@ -2452,35 +2560,5 @@
     "link": "https://www.bbc.com/sport/football/articles/cx216122kv1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-04-05-58-28 +0000"
-  },
-  {
-    "headline": "What an empty car park tells us about the UK's debt problem",
-    "link": "https://www.bbc.com/news/articles/cy816xdp226o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-04-05-00-06 +0000"
-  },
-  {
-    "headline": "DeepSeek’s Sequel",
-    "link": "https://www.nytimes.com/2026/05/03/world/deepseek-china-ai-iran-india-elections.html",
-    "source": "nyt",
-    "pubdate": "2026-05-04-04-45-38 +0000"
-  },
-  {
-    "headline": "Samsung family pays off record $8bn inheritance tax bill",
-    "link": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-04-04-24-22 +0000"
-  },
-  {
-    "headline": "Samsung family pays off record $8bn inheritance tax bill",
-    "link": "https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-04-04-24-22 +0000"
-  },
-  {
-    "headline": "Antisemitism 'allowed to come into the open' says Bondi victim's daughter",
-    "link": "https://www.bbc.com/news/articles/c1m2rk209mzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-04-04-12-04 +0000"
   }
 ]
