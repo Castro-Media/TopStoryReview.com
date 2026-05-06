@@ -1,6 +1,6 @@
 [
   {
-    "score": 211,
+    "score": 204,
     "pubdate": "2026-05-05-22-35-56 +0000",
     "source": "nypost",
     "headline": "Trump pauses Project Freedom rescue operation to give way to Iran peace talks — as more ships break through Strait of Hormuz",
@@ -14,7 +14,7 @@
     "link": "https://www.washingtonpost.com/health/2026/05/06/hantavirus-cruise-ship-hondius-outbreak-spain/"
   },
   {
-    "score": 94,
+    "score": 93,
     "pubdate": "2026-05-06-14-03-53 +0000",
     "source": "bbc",
     "headline": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
@@ -28,32 +28,25 @@
     "link": "https://www.latimes.com/california/story/2026-05-05/top-takeaways-from-fiery-at-times-ugly-california-governor-debate"
   },
   {
-    "score": 77,
+    "score": 73,
     "pubdate": "2026-05-05-20-05-00 +0000",
     "source": "wsj",
     "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s job cuts are stacking up.",
     "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
-    "score": 74,
+    "score": 70,
     "pubdate": "2026-05-05-21-32-17 +0000",
     "source": "cbc",
     "headline": "Prosecutors add assault charge to case against suspect in White House press gala shooting",
     "link": "https://www.cbc.ca/news/world/assault-charge-white-house-correspondents-dinner-suspect-9.7188774?cmp=rss"
   },
   {
-    "score": 65,
+    "score": 63,
     "pubdate": "2026-05-06-06-50-24 +0000",
     "source": "nypost",
     "headline": "Russian attacks kill at least 27 before deadline for cease-fire proposed by Ukraine",
     "link": "https://nypost.com/2026/05/06/world-news/russian-attacks-kill-27-in-ukraine-hours-before-proposed-ceasefire-deadline/"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-05-05-21-13-00 +0000",
-    "source": "wsj",
-    "headline": "After pressure from Trump, the FDA OKs some flavored vapes, the president’s feud with Pope Leo escalates, and Cary Elwes is what bwings us togetha today. Read more in today’s What’s News newsletter:",
-    "link": "https://www.wsj.com/politics/policy/after-trump-pressure-fda-chief-oks-some-flavored-vapes-d443b907"
   },
   {
     "score": 60,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Modi’s Triumph in West Bengal Elections Puts Him Closer to an Opposition-Free India",
     "link": "https://www.nytimes.com/2026/05/05/world/asia/india-modi-congress-west-bengal-elections.html"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-05-05-21-13-00 +0000",
+    "source": "wsj",
+    "headline": "After pressure from Trump, the FDA OKs some flavored vapes, the president’s feud with Pope Leo escalates, and Cary Elwes is what bwings us togetha today. Read more in today’s What’s News newsletter:",
+    "link": "https://www.wsj.com/politics/policy/after-trump-pressure-fda-chief-oks-some-flavored-vapes-d443b907"
   }
 ]
