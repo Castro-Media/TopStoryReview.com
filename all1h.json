@@ -1,8 +1,440 @@
 [
   {
-    "headline": "Howard Lutnick Is Grilled by Lawmakers Over Epstein Ties",
-    "link": "https://www.nytimes.com/2026/05/06/business/economy/howard-lutnick-jeffrey-epstein-house-oversight.html",
+    "headline": "Warner Bros. Discovery Logs $2.92 Billion Loss Tied to Netflix Termination Fee",
+    "link": "https://www.wsj.com/business/media/warner-bros-discovery-logs-2-92-billion-loss-tied-to-netflix-termination-fee-07f83bc0?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-06-21-15-00 +0000"
+  },
+  {
+    "headline": "Arm Holdings Reports Higher Profit, Strong Demand for New CPUs",
+    "link": "https://www.wsj.com/business/earnings/arm-holdings-reports-higher-profit-strong-demand-for-new-cpus-250748ed?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-06-21-14-00 +0000"
+  },
+  {
+    "headline": "DOJ sues Colorado over high-capacity magazine ban passed after Aurora shooting",
+    "link": "https://www.washingtonpost.com/nation/2026/05/06/colorado-lawsuit-high-capacity-magazines-doj/",
+    "source": "wapo",
+    "pubdate": "2026-05-06-21-12-31 +0000"
+  },
+  {
+    "headline": "Feds smash huge drug ring fueling MacArthur Park fentanyl trade — as narco queen caught in desperate final act",
+    "link": "https://nypost.com/2026/05/06/us-news/feds-smash-huge-drug-ring-fueling-macarthur-park-fentanyl-trade/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-21-11-51 +0000"
+  },
+  {
+    "headline": "Trump hosts UFC fighters to promote upcoming White House lawn event — with special title belt",
+    "link": "https://nypost.com/2026/05/06/us-news/trump-hosts-ufc-fighters-to-promote-upcoming-white-house-lawn-event-with-special-title-belt/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-21-11-41 +0000"
+  },
+  {
+    "headline": "LA Council president Marqueece Harris-Dawson flashes subtle message to cops at crucial hearing",
+    "link": "https://nypost.com/2026/05/06/us-news/la-council-president-marqueece-harris-dawson-flashes-subtle-message-to-cops-at-crucial-hearing/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-21-11-40 +0000"
+  },
+  {
+    "headline": "Justice Dept. Accuses U.C.L.A. Medical School of Bias Against White and Asian Applicants",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/justice-department-ucla-medical-school-race-admissions.html",
     "source": "nyt",
-    "pubdate": "2026-05-06-19-19-27 +0000"
+    "pubdate": "2026-05-06-21-10-40 +0000"
+  },
+  {
+    "headline": "Justice Dept. Accuses U.C.L.A. Medical School of Bias Against White and Asian Applicants",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/justice-department-ucla-medical-school-race-admissions.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-21-10-40 +0000"
+  },
+  {
+    "headline": "The Iran War and Angry Voters",
+    "link": "https://www.nytimes.com/2026/05/06/world/britain-elections-far-right-europe-iran-deal.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-21-08-21 +0000"
+  },
+  {
+    "headline": "3 People Are Evacuated From Cruise Ship With Hantavirus Outbreak",
+    "link": "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-21-07-13 +0000"
+  },
+  {
+    "headline": "The Iran War Is Crushing Whirlpool’s Profits—and Higher Prices Are Coming",
+    "link": "https://www.wsj.com/business/earnings/the-iran-war-is-crushing-whirlpools-profitsand-higher-prices-are-coming-98dd10bc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-06-21-07-00 +0000"
+  },
+  {
+    "headline": "Goodyear Tire & Rubber Swings to Loss, Citing Weak Demand",
+    "link": "https://www.wsj.com/business/earnings/goodyear-tire-rubber-swings-to-loss-citing-weak-demand-2f778c3e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-06-21-06-00 +0000"
+  },
+  {
+    "headline": "Attack on French Cargo Ship Highlights Continued Risks in Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/05/06/business/french-ship-hormuz-central-command.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-21-04-54 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: Tehran and U.S. Offer Conflicting Messages on State of Negotiations",
+    "link": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
+    "source": "nyt",
+    "pubdate": "2026-05-06-21-03-44 +0000"
+  },
+  {
+    "headline": "Jack Smith Calls the Justice Dept. ‘Corrupted’ by Trump and His Allies",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/jack-smith-justice-dept-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-21-03-21 +0000"
+  },
+  {
+    "headline": "Jack Smith Calls the Justice Dept. ‘Corrupted’ by Trump and His Allies",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/jack-smith-justice-dept-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-21-03-21 +0000"
+  },
+  {
+    "headline": "Iran Says It Is Reviewing a U.S. Proposal to End the War",
+    "link": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-21-02-23 +0000"
+  },
+  {
+    "headline": "Iran Says It Is Reviewing a U.S. Proposal to End the War",
+    "link": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-21-02-23 +0000"
+  },
+  {
+    "headline": "Queer politicos blast S.F. congressional candidate, Lurie ally Marie Hurabiell for homophobia",
+    "link": "https://missionlocal.org/2026/05/sf-marie-hurabiell-connectedsf-homophobia/",
+    "source": "missionlocal",
+    "pubdate": "2026-05-06-21-01-55 +0000"
+  },
+  {
+    "headline": "U.S. Troops in Middle East Wait for the Next Big Moment",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/us-troops-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-21-00-45 +0000"
+  },
+  {
+    "headline": "U.S. Troops in Middle East Wait for the Next Big Moment",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/us-troops-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-21-00-45 +0000"
+  },
+  {
+    "headline": "F.B.I. Director Kash Patel Criticizes How Nancy Guthrie Case Was Handled",
+    "link": "https://www.nytimes.com/2026/05/06/us/kash-patel-nancy-guthrie-arizona.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-58-20 +0000"
+  },
+  {
+    "headline": "Gas tax: How beer fuelled a debate on Australia's energy giants",
+    "link": "https://www.bbc.com/news/articles/cy02pzxd4y4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-06-20-58-03 +0000"
+  },
+  {
+    "headline": "Kendall Myers, American Spy for Cuba, Dies at 88",
+    "link": "https://www.nytimes.com/2026/05/06/us/kendall-myers-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-54-19 +0000"
+  },
+  {
+    "headline": "Kendall Myers, American Spy for Cuba, Dies at 88",
+    "link": "https://www.nytimes.com/2026/05/06/us/kendall-myers-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-54-19 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-53-13 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-53-13 +0000"
+  },
+  {
+    "headline": "Foreign actors like Russia interfering in Alberta separatist debate, new report says",
+    "link": "https://www.bbc.com/news/articles/cze2dnn8kgwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-06-20-51-54 +0000"
+  },
+  {
+    "headline": "American cruise passenger dies from drowning while at popular island hot spot",
+    "link": "https://nypost.com/2026/05/06/us-news/american-cruise-passenger-dies-from-drowning-while-at-popular-island-hot-spot/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-51-37 +0000"
+  },
+  {
+    "headline": "Illinois State Police to Investigate Fatal ICE Shooting",
+    "link": "https://www.nytimes.com/2026/05/06/us/illinois-state-police-ice-shooting-suburban-chicago.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-51-29 +0000"
+  },
+  {
+    "headline": "Texas Gov. Abbott threatens to yank state funds if city doesn’t cancel ‘Muslim only’ waterpark event",
+    "link": "https://nypost.com/2026/05/06/us-news/texas-gov-abbott-threatens-to-yank-state-funds-if-city-doesnt-cancel-muslim-only-waterpark-event/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-50-16 +0000"
+  },
+  {
+    "headline": "Conservative Group’s Connections at the State Department Raise Some Alarms",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/conservative-groups-influence-inside-the-state-department-raises-alarms.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-49-33 +0000"
+  },
+  {
+    "headline": "Conservative Group’s Connections at the State Department Raise Some Alarms",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/conservative-groups-influence-inside-the-state-department-raises-alarms.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-49-33 +0000"
+  },
+  {
+    "headline": "Carney to 'take into account' advice on Senate appointments from Trudeau-era committee",
+    "link": "https://www.cbc.ca/news/politics/carney-senate-appointment-process-committee-9.7190198?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-05-06-20-49-23 +0000"
+  },
+  {
+    "headline": "Athena Strand’s mother makes heartbreaking fashion choice as she learns daughter’s killer will be put to death",
+    "link": "https://nypost.com/2026/05/06/us-news/athena-strands-mother-makes-bold-fashion-statement/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-48-27 +0000"
+  },
+  {
+    "headline": "Wall Street giant Apollo aims to open ‘second headquarters’ outside NYC — in latest fallout from Mamdani’s war on the wealthy",
+    "link": "https://nypost.com/2026/05/06/business/wall-street-giant-apollo-aims-to-open-second-headquarters-outside-nyc-in-latest-fallout-from-mamdanis-war-on-the-wealthy/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-48-09 +0000"
+  },
+  {
+    "headline": "Wall Street giant Apollo aims to open ‘second headquarters’ outside NYC — in latest fallout from Mamdani’s war on the wealthy",
+    "link": "https://nypost.com/2026/05/06/business/wall-street-giant-apollo-aims-to-open-second-headquarters-outside-nyc-in-latest-fallout-from-mamdanis-war-on-the-wealthy/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-48-09 +0000"
+  },
+  {
+    "headline": "Opinion | India’s Ruling Party Beats the Odds",
+    "link": "https://www.wsj.com/opinion/indias-ruling-party-beats-the-odds-b840a6c7",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-46-00 +0000"
+  },
+  {
+    "headline": "Khaled Sabsabi’s Rocky Road From Australia to the Biennale",
+    "link": "https://www.nytimes.com/2026/05/06/arts/design/khaled-sabsabi-australia-venice-biennale.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-45-59 +0000"
+  },
+  {
+    "headline": "FIFA president Gianni Infantino appears to blame US resale market for sky-high World Cup prices",
+    "link": "https://nypost.com/2026/05/06/business/fifa-president-gianni-infantino-blames-us-resale-market-for-world-cup-prices/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-42-53 +0000"
+  },
+  {
+    "headline": "Howard Lutnick Grilled by Lawmakers Over Epstein Ties",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/howard-lutnick-jeffrey-epstein-house-oversight.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-42-43 +0000"
+  },
+  {
+    "headline": "Howard Lutnick Grilled by Lawmakers Over Epstein Ties",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/howard-lutnick-jeffrey-epstein-house-oversight.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-42-43 +0000"
+  },
+  {
+    "headline": "Howard Lutnick Grilled by Lawmakers Over Epstein Ties",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/howard-lutnick-jeffrey-epstein-house-oversight.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-42-43 +0000"
+  },
+  {
+    "headline": "Quaint California wine city ranked among the best small towns in the American West",
+    "link": "https://nypost.com/2026/05/06/lifestyle/small-california-city-makes-best-small-towns-in-western-us-list/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-40-19 +0000"
+  },
+  {
+    "headline": "Over 20,000 Sailors Are Trapped in the Strait of Hormuz. This Is Who They Call.",
+    "link": "https://www.wsj.com/world/middle-east/over-20-000-sailors-are-trapped-in-the-strait-of-hormuz-this-is-who-they-call-2bb8ac1a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-39-00 +0000"
+  },
+  {
+    "headline": "Over 20,000 Sailors Are Trapped in the Strait of Hormuz. This Is Who They Call.",
+    "link": "https://www.wsj.com/world/middle-east/over-20-000-sailors-are-trapped-in-the-strait-of-hormuz-this-is-who-they-call-2bb8ac1a",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-39-00 +0000"
+  },
+  {
+    "headline": "Merger costs add up as Warner Bros. Discovery posts $2.9-billion quarterly loss",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-05-06/warner-discovery-posts-2-point-9-billion-quarterly-loss-paramount-merger",
+    "source": "latimes",
+    "pubdate": "2026-05-06-20-38-59 +0000"
+  },
+  {
+    "headline": "Merger costs add up as Warner Bros. Discovery posts $2.9-billion quarterly loss",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-05-06/warner-discovery-posts-2-point-9-billion-quarterly-loss-paramount-merger",
+    "source": "latimes",
+    "pubdate": "2026-05-06-20-38-59 +0000"
+  },
+  {
+    "headline": "Children’s Minnesota fights Trump administration over trans patients’ health records",
+    "link": "https://www.startribune.com/childrens-minnesota-resists-federal-subpoena-for-private-health-records-of-patients/601837248",
+    "source": "startribune",
+    "pubdate": "2026-05-06-20-38-52 +0000"
+  },
+  {
+    "headline": "While real estate far from big cities is cheaper, fueling up for long commutes has become painful",
+    "link": "https://www.wsj.com/economy/consumers/high-gas-prices-wreak-havoc-on-americas-army-of-supercommuters-99ee6cc0",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-37-00 +0000"
+  },
+  {
+    "headline": "Israel strikes Beirut suburbs, threatening already shaky ceasefire",
+    "link": "https://www.washingtonpost.com/world/2026/05/06/israel-hezbollah-radwan-beirut-attack-haret-hreik/",
+    "source": "wapo",
+    "pubdate": "2026-05-06-20-36-41 +0000"
+  },
+  {
+    "headline": "Rupert Murdoch, David Zaslav and More Media Moguls Remember Ted Turner, CNN’s Founder",
+    "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-death-cnn-media-reaction.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-36-21 +0000"
+  },
+  {
+    "headline": "Opinion | To End Racial Gerrymandering, Congress Needs to Act",
+    "link": "https://www.wsj.com/opinion/to-end-racial-gerrymandering-congress-needs-to-act-7f69c716",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-36-00 +0000"
+  },
+  {
+    "headline": "Zillow Posts Higher Profit, Lower Traffic in First Quarter",
+    "link": "https://www.wsj.com/business/earnings/zillow-posts-higher-profit-lower-traffic-in-first-quarter-d016fa4f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-36-00 +0000"
+  },
+  {
+    "headline": "Immigration crackdown souring Orange County's view of Trump, poll finds",
+    "link": "https://www.latimes.com/california/story/2026-05-06/immigration-crackdown-souring-orange-countys-view-of-trump-poll-finds",
+    "source": "latimes",
+    "pubdate": "2026-05-06-20-34-47 +0000"
+  },
+  {
+    "headline": "Opinion | The U.N. Will Make Airfares More Expensive",
+    "link": "https://www.wsj.com/opinion/the-u-n-will-make-airfares-more-expensive-d1b2a66e",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-34-00 +0000"
+  },
+  {
+    "headline": "Opinion | The GOP Defeats Itself in Indiana",
+    "link": "https://www.wsj.com/opinion/the-gop-defeats-itself-in-indiana-1927c4cd",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-34-00 +0000"
+  },
+  {
+    "headline": "Opinion | The U.N. Will Make Airfares More Expensive",
+    "link": "https://www.wsj.com/opinion/the-u-n-will-make-airfares-more-expensive-d1b2a66e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-34-00 +0000"
+  },
+  {
+    "headline": "Opinion | More Colleges Are Closing. It’s About Time",
+    "link": "https://www.wsj.com/opinion/more-colleges-are-closing-its-about-time-3786b33a",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-30-00 +0000"
+  },
+  {
+    "headline": "Tennessee Republicans Unveil New Congressional Map Carving Up Majority-Black House District",
+    "link": "https://www.nytimes.com/2026/05/06/us/gop-memphis-tennessee-house-map.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-29-53 +0000"
+  },
+  {
+    "headline": "GameStop’s CEO Ryan Cohen Baffles Fans With eBay Bid",
+    "link": "https://www.nytimes.com/2026/05/06/business/ebay-gamestop-deal-ryan-cohen.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-27-54 +0000"
+  },
+  {
+    "headline": "Snap, Perplexity Mutually End AI Deal",
+    "link": "https://www.wsj.com/business/earnings/snap-perplexity-mutually-end-ai-deal-071f83ed?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-26-00 +0000"
+  },
+  {
+    "headline": "Hantavirus Case in Switzerland Spurs Race to Trace Contacts",
+    "link": "https://www.wsj.com/world/europe/hantavirus-case-in-switzerland-spurs-race-to-trace-contacts-60f21548",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-26-00 +0000"
+  },
+  {
+    "headline": "Hantavirus Case in Switzerland Spurs Race to Trace Contacts",
+    "link": "https://www.wsj.com/world/europe/hantavirus-case-in-switzerland-spurs-race-to-trace-contacts-60f21548",
+    "source": "wsj",
+    "pubdate": "2026-05-06-20-26-00 +0000"
+  },
+  {
+    "headline": "Jack Bass, Dean of South Carolina Political Journalism, Dies at 91",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/jack-bass-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-25-21 +0000"
+  },
+  {
+    "headline": "Jack Bass, Dean of South Carolina Political Journalism, Dies at 91",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/jack-bass-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-25-21 +0000"
+  },
+  {
+    "headline": "‘Cat therapy’ is a real thing — and stressed NY college students are lapping up the purr-fect remedy",
+    "link": "https://nypost.com/2026/05/06/us-news/cat-therapy-brings-purr-fect-relief-to-stressed-ny-students/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-24-26 +0000"
+  },
+  {
+    "headline": "Mamdani doubles down on supporting anti-Israel protesters outside of UES synagogue",
+    "link": "https://nypost.com/2026/05/06/us-news/mayor-mamdani-doubles-down-on-supporting-anti-israel-protesters-outside-of-ues-synagogue/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-22-11 +0000"
+  },
+  {
+    "headline": "Office of Virginia State Senator Louise Lucas Searched by F.B.I. Agents",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/louise-lucas-fbi-raid.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-21-11 +0000"
+  },
+  {
+    "headline": "Office of Virginia State Senator Louise Lucas Searched by F.B.I. Agents",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/louise-lucas-fbi-raid.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-20-21-11 +0000"
+  },
+  {
+    "headline": "Italian PM Giorgia Meloni shares spicy AI photo of herself as she blasts misinfo — but admits it ‘improved me quite a bit’",
+    "link": "https://nypost.com/2026/05/06/world-news/italian-prime-minister-shares-haters-sexy-ai-photo-of-her-it-improved-me-a-lot/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-20-19 +0000"
+  },
+  {
+    "headline": "Spencer Pratt transforms into Batman in ‘amazing’ new video",
+    "link": "https://nypost.com/2026/05/06/us-news/spencer-pratt-transforms-into-batman-in-amazing-new-video/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-18-43 +0000"
+  },
+  {
+    "headline": "Spencer Pratt transforms into Batman in ‘amazing’ new video",
+    "link": "https://nypost.com/2026/05/06/us-news/spencer-pratt-transforms-into-batman-in-amazing-new-video/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-20-18-43 +0000"
   }
 ]
