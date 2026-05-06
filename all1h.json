@@ -1,14 +1,344 @@
 [
   {
+    "headline": "We answered your questions about the Minnesota fishing opener",
+    "link": "https://www.startribune.com/what-questions-do-you-have-about-the-2026-fishing-opener/601836576",
+    "source": "startribune",
+    "pubdate": "2026-05-06-18-18-01 +0000"
+  },
+  {
     "headline": "Iran War Live Updates: Tehran Says It Is Reviewing U.S. Proposal as Trump Makes New Threats",
     "link": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
     "source": "nyt",
-    "pubdate": "2026-05-06-16-20-10 +0000"
+    "pubdate": "2026-05-06-18-16-56 +0000"
   },
   {
-    "headline": "AI Rally, Strong Earnings Continue to Power Stocks",
-    "link": "https://www.wsj.com/finance/stocks/oil-falls-risk-sentiment-rises-as-u-s-avoids-iran-escalation-a802b6f1?mod=rss_markets_main",
+    "headline": "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87",
+    "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-18-14-52 +0000"
+  },
+  {
+    "headline": "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87",
+    "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-18-14-52 +0000"
+  },
+  {
+    "headline": "Live: Lynx trade for guard Maya Caldwell, waive three as season opener approaches",
+    "link": "https://www.startribune.com/minnesota-lynx-wnba-training-camp-free-agents-season-opener/601754868",
+    "source": "startribune",
+    "pubdate": "2026-05-06-18-14-17 +0000"
+  },
+  {
+    "headline": "Russia fires dozens of drones at Ukraine in 'obvious spurning' of ceasefire, says Zelenskyy",
+    "link": "https://www.cbc.ca/news/world/russia-ukraine-ceasefire-9.7189856?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-05-06-18-13-32 +0000"
+  },
+  {
+    "headline": "New Study Shows Risks of Amazon Deforestation. And Rewards of Protection.",
+    "link": "https://www.nytimes.com/2026/05/06/climate/amazon-rain-forest-deforestation-climate.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-18-13-30 +0000"
+  },
+  {
+    "headline": "Argentine Fans Are Struggling to Afford This World Cup",
+    "link": "https://www.nytimes.com/video/world/americas/100000010825941/argentine-fans-are-struggling-to-afford-this-world-cup.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-18-11-14 +0000"
+  },
+  {
+    "headline": "Argentine Fans Are Struggling to Afford This World Cup",
+    "link": "https://www.nytimes.com/video/world/americas/100000010825941/argentine-fans-are-struggling-to-afford-this-world-cup.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-18-11-14 +0000"
+  },
+  {
+    "headline": "Minnesota Supreme Court: Parents of teenager who killed blind boss in crash can be held liable",
+    "link": "https://www.startribune.com/minnesota-supreme-court-parents-of-teenager-who-killed-blind-boss-in-crash-can-be-held-liable/601837644",
+    "source": "startribune",
+    "pubdate": "2026-05-06-18-06-55 +0000"
+  },
+  {
+    "headline": "Last gambling resorts on California-Nevada border to close — and Primm employees told to vacate housing",
+    "link": "https://nypost.com/2026/05/06/business/primm-valley-casino-resorts-to-permanently-close-july-4/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-18-05-09 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-05-06-18-05-02 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-05-06-18-05-02 +0000"
+  },
+  {
+    "headline": "Where is Kristin Smart? Search warrant served at killer's mother's property after remains detected",
+    "link": "https://www.latimes.com/california/story/2026-05-06/kristin-smart-search-resumes-slo-county",
+    "source": "latimes",
+    "pubdate": "2026-05-06-18-04-42 +0000"
+  },
+  {
+    "headline": "Paralyzed NYC subway shove victim breaks down as her attacker is sentenced — but can’t wipe away her own tears",
+    "link": "https://nypost.com/2026/05/06/us-news/paralyzed-nyc-subway-shove-victim-breaks-down-as-her-attacker-is-sentenced-but-cant-wipe-away-her-own-tears/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-18-03-03 +0000"
+  },
+  {
+    "headline": "Selling Pot Is a Tough Business, but One California Company Is Beating the Odds",
+    "link": "https://www.wsj.com/business/entrepreneurship/california-cannabis-dispensary-business-d11981eb?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-05-06-16-20-00 +0000"
+    "pubdate": "2026-05-06-18-00-00 +0000"
+  },
+  {
+    "headline": "Church of Scientology scrambles as viral trend wreaks havoc on top secret fortresses across California",
+    "link": "https://nypost.com/2026/05/06/us-news/church-of-scientology-scrambles-as-viral-trend-wreaks-havoc-on-top-secret-fortresses-across-california/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-17-58-10 +0000"
+  },
+  {
+    "headline": "Tricked Into Fighting for Russia",
+    "link": "https://www.nytimes.com/2026/05/04/world/africa-russia-ukraine-war-attacks-strait-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-56-41 +0000"
+  },
+  {
+    "headline": "Higher Gas Prices Are Hitting Lower-Income Americans the Hardest",
+    "link": "https://www.nytimes.com/2026/05/06/business/economy/gas-prices-inequality-lower-income-consumers.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-54-44 +0000"
+  },
+  {
+    "headline": "Higher Gas Prices Are Hitting Lower-Income Americans the Hardest",
+    "link": "https://www.nytimes.com/2026/05/06/business/economy/gas-prices-inequality-lower-income-consumers.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-54-44 +0000"
+  },
+  {
+    "headline": "3 People Are Evacuated From Cruise Ship With Hantavirus Outbreak",
+    "link": "https://www.nytimes.com/2026/05/06/world/hantavirus-cruise-ship.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-54-32 +0000"
+  },
+  {
+    "headline": "Culver City takes extreme spying measure to ensure homes are complying with lefty laws",
+    "link": "https://nypost.com/2026/05/06/us-news/culver-city-takes-extreme-spying-measure-over-lefty-laws/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-17-52-36 +0000"
+  },
+  {
+    "headline": "Israel strikes Beirut suburbs for 1st time since ceasefire was announced",
+    "link": "https://www.cbc.ca/news/world/israel-beirut-suburbs-air-strike-ceasefire-lebanon-9.7189905?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-05-06-17-50-36 +0000"
+  },
+  {
+    "headline": "Ex-JPMorgan banker Chirayu Rana made eye-popping, 8-figure settlement demand before filing ‘fabricated’ ‘sex slave’ suit: sources",
+    "link": "https://nypost.com/2026/05/06/business/ex-jpmorgan-banker-chirayu-rana-made-eye-popping-8-figure-settlement-demand-before-filing-fabricated-sex-slave-suit-sources/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-17-50-21 +0000"
+  },
+  {
+    "headline": "California governor candidate Matt Mahan floats revolutionary new EV tax",
+    "link": "https://nypost.com/2026/05/06/us-news/california-governor-candidate-matt-mahan-floats-revolutionary-new-ev-tax/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-17-48-47 +0000"
+  },
+  {
+    "headline": "California governor candidate Matt Mahan floats revolutionary new EV tax",
+    "link": "https://nypost.com/2026/05/06/us-news/california-governor-candidate-matt-mahan-floats-revolutionary-new-ev-tax/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-17-48-47 +0000"
+  },
+  {
+    "headline": "Ted Turner, Who Shaped Cable TV and Launched CNN, Has Died at 87",
+    "link": "https://www.wsj.com/business/media/ted-turner-who-shaped-cable-tv-and-launched-cnn-has-died-at-87-ed8a4deb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-06-17-48-00 +0000"
+  },
+  {
+    "headline": "How the Fight Over Israel Is Playing Out Inside MAGA",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-47-12 +0000"
+  },
+  {
+    "headline": "How the Fight Over Israel Is Playing Out Inside MAGA",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-47-12 +0000"
+  },
+  {
+    "headline": "How the Fight Over Israel Is Playing Out Inside MAGA",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-47-12 +0000"
+  },
+  {
+    "headline": "Chinese companies blacklisted for ‘force labor’ saw a boon in NYC pension investments under Brad Lander",
+    "link": "https://nypost.com/2026/05/06/us-news/ex-nyc-comptroller-brad-lander-increased-pension-funds-in-7-chinese-companies-linked-to-forced-labor/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-17-43-53 +0000"
+  },
+  {
+    "headline": "Comex Gold Settles 2.77% Higher at $4681.90",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-trump-pauses-project-freedom-to-see-if-iran-deal-can-be-finalized-886f9244?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-06-17-42-00 +0000"
+  },
+  {
+    "headline": "Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites",
+    "link": "https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-41-14 +0000"
+  },
+  {
+    "headline": "Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites",
+    "link": "https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-41-14 +0000"
+  },
+  {
+    "headline": "Candidates for California Governor Debate Tonight: What to Know",
+    "link": "https://www.nytimes.com/2026/05/06/us/california-governor-debate-newsletter.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-40-44 +0000"
+  },
+  {
+    "headline": "Ex-JPMorgan banker Chirayu Rana was referred for mental treatment by DA’s office after probe into ‘sex slave’ claims found nothing: source",
+    "link": "https://nypost.com/2026/05/06/business/ex-jpmorgan-banker-chirayu-rana-referred-to-mental-treatment-by-das-office-source/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-17-38-42 +0000"
+  },
+  {
+    "headline": "Ex-JPMorgan banker Chirayu Rana was referred for mental treatment by DA’s office after probe into ‘sex slave’ claims found nothing: source",
+    "link": "https://nypost.com/2026/05/06/business/ex-jpmorgan-banker-chirayu-rana-referred-to-mental-treatment-by-das-office-source/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-17-38-42 +0000"
+  },
+  {
+    "headline": "A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters",
+    "link": "https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-37-58 +0000"
+  },
+  {
+    "headline": "A Hotel in Venezuela’s Capital Has Become the U.S. Embassy’s De Facto Headquarters",
+    "link": "https://www.nytimes.com/2026/05/06/world/americas/venezuela-caracas-us-embassy-marriott-hotel.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-37-58 +0000"
+  },
+  {
+    "headline": "Justice Department Sues Colorado Over Gun Law",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/doj-colorado-lawsuit-guns.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-35-56 +0000"
+  },
+  {
+    "headline": "Justice Department Sues Colorado Over Gun Law",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/doj-colorado-lawsuit-guns.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-35-56 +0000"
+  },
+  {
+    "headline": "How Burger King’s turnaround is taking a bite out of McDonald’s",
+    "link": "https://nypost.com/2026/05/06/business/how-burger-kings-turnaround-is-taking-a-bite-out-of-mcdonalds/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-17-32-42 +0000"
+  },
+  {
+    "headline": "Trump's hopes for an Iran peace deal come with caveats",
+    "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-06-17-32-04 +0000"
+  },
+  {
+    "headline": "Airlines Are Cracking Down on Portable Power Banks",
+    "link": "https://www.wsj.com/business/airlines/airlines-are-cracking-down-on-portable-power-banks-9735e4f2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-06-17-30-00 +0000"
+  },
+  {
+    "headline": "RandBall: Why are the Wild down 2-0 to Colorado? It depends on who you ask.",
+    "link": "https://www.startribune.com/minnesota-wild-colorado-avalanche-western-conference-nhl-playoffs/601837609",
+    "source": "startribune",
+    "pubdate": "2026-05-06-17-28-14 +0000"
+  },
+  {
+    "headline": "Obama Talks Trump, Mamdani, Aliens and More in Colbert Interview",
+    "link": "https://www.nytimes.com/2026/05/06/us/obama-colbert-interview-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-28-10 +0000"
+  },
+  {
+    "headline": "Berkshire Hathaway’s nearly $400B in cash reserves turn heads on Wall Street",
+    "link": "https://nypost.com/2026/05/06/business/berkshire-hathaways-nearly-400b-in-cash-reserves-turn-heads-on-wall-street/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-17-27-53 +0000"
+  },
+  {
+    "headline": "Why Is Gas So Much More Expensive in Some States Than Others?",
+    "link": "https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-26-32 +0000"
+  },
+  {
+    "headline": "Why Is Gas So Much More Expensive in Some States Than Others?",
+    "link": "https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-26-32 +0000"
+  },
+  {
+    "headline": "Why Is Gas So Much More Expensive in Some States Than Others?",
+    "link": "https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-26-32 +0000"
+  },
+  {
+    "headline": "Rupert Murdoch, David Zaslav and More Media Moguls Remember Ted Turner, CNN’s Founder",
+    "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-death-cnn-media-reaction.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-26-29 +0000"
+  },
+  {
+    "headline": "Opinion | A Tricky Handoff at the Federal Reserve",
+    "link": "https://www.wsj.com/opinion/a-tricky-handoff-at-the-federal-reserve-8cfb272d",
+    "source": "wsj",
+    "pubdate": "2026-05-06-17-25-00 +0000"
+  },
+  {
+    "headline": "Macron Wants U.S. and Iran to Open Strait While They Negotiate",
+    "link": "https://www.nytimes.com/2026/05/06/world/middleeast/france-macron-strait-of-hormuz-iran-us.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-24-05 +0000"
+  },
+  {
+    "headline": "Macron Wants U.S. and Iran to Open Strait While They Negotiate",
+    "link": "https://www.nytimes.com/2026/05/06/world/middleeast/france-macron-strait-of-hormuz-iran-us.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-24-05 +0000"
+  },
+  {
+    "headline": "Tennessee Republicans Unveil New Congressional Map Carving Up Majority-Black House District",
+    "link": "https://www.nytimes.com/2026/05/06/us/gop-memphis-tennessee-house-map.html",
+    "source": "nyt",
+    "pubdate": "2026-05-06-17-22-52 +0000"
+  },
+  {
+    "headline": "Haskell’s in Excelsior damaged by fire",
+    "link": "https://www.startribune.com/haskells-in-excelsior-damaged-by-fire/601837545",
+    "source": "startribune",
+    "pubdate": "2026-05-06-17-21-58 +0000"
+  },
+  {
+    "headline": "Trump, Ric Flair, Atlanta Braves,  media personalities react to Ted Turner’s death: ‘One of the Greats of All Time’",
+    "link": "https://nypost.com/2026/05/06/media/trump-ric-flair-media-personalities-react-to-ted-turners-death-one-of-the-greats-of-all-time/",
+    "source": "nypost",
+    "pubdate": "2026-05-06-17-21-15 +0000"
   }
 ]
