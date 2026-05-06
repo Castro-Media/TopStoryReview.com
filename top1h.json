@@ -1,30 +1,72 @@
 [
   {
-    "score": 11,
-    "pubdate": "2026-05-06-09-37-00 +0000",
-    "source": "wsj",
-    "headline": "BMW Shares Jump After Automaker Reassures on Outlook Amid Tariffs, China Woes",
-    "link": "https://www.wsj.com/business/earnings/bmw-posts-lower-earnings-as-competition-hurts-sales-dc815209?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-05-06-09-34-00 +0000",
-    "source": "wsj",
-    "headline": "Global Bond Yields, Dollar Slide on Expectation of Middle East De-Escalation",
-    "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-seen-vulnerable-to-break-out-from-range-trading-bb2b1ff5?mod=rss_markets_main"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-05-06-09-35-39 +0000",
-    "source": "bbc",
-    "headline": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
-    "link": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-05-06-09-37-38 +0000",
+    "score": 38,
+    "pubdate": "2026-05-06-10-56-07 +0000",
     "source": "nyt",
-    "headline": "5 Takeaways From the California Gubernatorial Debate",
-    "link": "https://www.nytimes.com/2026/05/06/us/elections/california-governor-debate-cnn-takeaways.html"
+    "headline": "Oil Falls as Trump Changes Course in Strait of Hormuz, but Gas Prices Keep Rising",
+    "link": "https://www.nytimes.com/2026/05/06/business/oil-gas-price-iran.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-05-06-11-01-00 +0000",
+    "source": "wsj",
+    "headline": "Saudi Aramco Cuts Oil Price For June From Record High in May",
+    "link": "https://www.wsj.com/world/middle-east/saudi-aramco-cuts-oil-price-for-june-from-record-high-in-may-2f93fbca?mod=rss_markets_main"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-05-06-11-14-45 +0000",
+    "source": "bbc",
+    "headline": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+    "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-05-06-11-00-00 +0000",
+    "source": "nypost",
+    "headline": "GOP lawmakers urge Trump administration to defund ‘woke’ National Academies",
+    "link": "https://nypost.com/2026/05/06/us-news/gop-lawmakers-urge-trump-admin-to-defund-woke-national-academies/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-06-10-43-49 +0000",
+    "source": "bbc",
+    "headline": "Cruise passengers tell of life on board ship stranded off Cape Verde after hantavirus outbreak",
+    "link": "https://www.bbc.com/news/articles/clype7ededzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-06-11-04-06 +0000",
+    "source": "bbc",
+    "headline": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+    "link": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-06-11-23-23 +0000",
+    "source": "nypost",
+    "headline": "Twisted ‘human safari’ hunters competed to kill the most beautiful women during Sarajevo siege, book claims",
+    "link": "https://nypost.com/2026/05/06/world-news/twisted-human-safari-hunters-competed-to-kill-the-most-beautiful-women-during-sarajevo-siege-book-claims/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-06-11-07-00 +0000",
+    "source": "wsj",
+    "headline": "New Disney CEO Gives Vision for Company as Revenue Rises",
+    "link": "https://www.wsj.com/business/earnings/disney-dis-q2-earnings-report-2026-b6102f6c?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-06-11-00-00 +0000",
+    "source": "nypost",
+    "headline": "NY eateries, bars ban ‘Philly’ cheesesteaks from menu as Knicks-Sixers fight gets greasy",
+    "link": "https://nypost.com/2026/05/06/us-news/ny-eateries-bars-ban-philly-cheesesteaks-amid-knicks-sixers-fight/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-06-11-25-00 +0000",
+    "source": "wsj",
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-2e71e9b8?mod=rss_markets_main"
   }
 ]
