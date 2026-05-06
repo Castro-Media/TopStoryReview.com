@@ -1,52 +1,66 @@
 [
   {
-    "score": 180,
-    "pubdate": "2026-05-05-21-40-07 +0000",
-    "source": "cbc",
-    "headline": "Trump pauses U.S. effort to guide vessels through Strait of Hormuz in bid to make deal with Iran",
-    "link": "https://www.cbc.ca/news/world/rubio-hegseth-iran-strait-hormuz-blockade-9.7188754?cmp=rss"
+    "score": 157,
+    "pubdate": "2026-05-06-01-21-47 +0000",
+    "source": "nyt",
+    "headline": "Trump and Rubio Insist Iran War Is Over, Even as Missiles Fly During Cease-Fire",
+    "link": "https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html"
   },
   {
-    "score": 107,
-    "pubdate": "2026-05-06-14-16-51 +0000",
-    "source": "wapo",
-    "headline": "Hantavirus-hit cruise ship to head to Canary Islands as Swiss confirm new case",
-    "link": "https://www.washingtonpost.com/health/2026/05/06/hantavirus-cruise-ship-hondius-outbreak-spain/"
-  },
-  {
-    "score": 98,
+    "score": 95,
     "pubdate": "2026-05-06-06-46-38 +0000",
     "source": "latimes",
     "headline": "Top takeaways from fiery, at times ugly, California governor debate on CNN",
     "link": "https://www.latimes.com/california/story/2026-05-05/top-takeaways-from-fiery-at-times-ugly-california-governor-debate"
   },
   {
-    "score": 84,
-    "pubdate": "2026-05-06-20-48-09 +0000",
-    "source": "nypost",
-    "headline": "Wall Street giant Apollo aims to open ‘second headquarters’ outside NYC — in latest fallout from Mamdani’s war on the wealthy",
-    "link": "https://nypost.com/2026/05/06/business/wall-street-giant-apollo-aims-to-open-second-headquarters-outside-nyc-in-latest-fallout-from-mamdanis-war-on-the-wealthy/"
+    "score": 91,
+    "pubdate": "2026-05-06-14-16-51 +0000",
+    "source": "wapo",
+    "headline": "Hantavirus-hit cruise ship to head to Canary Islands as Swiss confirm new case",
+    "link": "https://www.washingtonpost.com/health/2026/05/06/hantavirus-cruise-ship-hondius-outbreak-spain/"
   },
   {
-    "score": 72,
-    "pubdate": "2026-05-05-21-32-17 +0000",
-    "source": "cbc",
-    "headline": "Prosecutors add assault charge to case against suspect in White House press gala shooting",
-    "link": "https://www.cbc.ca/news/world/assault-charge-white-house-correspondents-dinner-suspect-9.7188774?cmp=rss"
+    "score": 71,
+    "pubdate": "2026-05-06-09-58-55 +0000",
+    "source": "nyt",
+    "headline": "In Talks With Iran, China Calls for Opening of Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/05/06/world/asia/china-iran-us-trump-hormuz.html"
   },
   {
-    "score": 62,
+    "score": 67,
+    "pubdate": "2026-05-06-16-11-44 +0000",
+    "source": "bbc",
+    "headline": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+    "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 60,
     "pubdate": "2026-05-06-20-10-00 +0000",
     "source": "wsj",
     "headline": "Commerce Secretary Howard Lutnick told a congressional he had no personal or professional relationship with sex offender Jeffrey Epstein",
     "link": "https://www.wsj.com/politics/policy/lutnick-said-he-was-surprised-by-invite-to-visit-epsteins-island-ffd2b9fb"
   },
   {
-    "score": 58,
-    "pubdate": "2026-05-06-20-42-53 +0000",
+    "score": 56,
+    "pubdate": "2026-05-06-20-48-09 +0000",
     "source": "nypost",
-    "headline": "FIFA president Gianni Infantino appears to blame US resale market for sky-high World Cup prices",
-    "link": "https://nypost.com/2026/05/06/business/fifa-president-gianni-infantino-blames-us-resale-market-for-world-cup-prices/"
+    "headline": "Wall Street giant Apollo aims to open ‘second headquarters’ outside NYC — in latest fallout from Mamdani’s war on the wealthy",
+    "link": "https://nypost.com/2026/05/06/business/wall-street-giant-apollo-aims-to-open-second-headquarters-outside-nyc-in-latest-fallout-from-mamdanis-war-on-the-wealthy/"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-05-06-14-11-28 +0000",
+    "source": "nyt",
+    "headline": "Suspect in National Mall Shooting Expressed Hostility Toward White House, Pirro Says",
+    "link": "https://www.nytimes.com/2026/05/05/us/politics/secret-service-shooting-gunman-identified.html"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-05-06-15-28-00 +0000",
+    "source": "wsj",
+    "headline": "The job market is starting to show glimmers of good news with some solid data this week. The real test will come with the April jobs report on Friday.",
+    "link": "https://www.wsj.com/economy/jobs/jobs-payroll-data-adp-hiring-ff16b64a"
   },
   {
     "score": 54,
@@ -54,19 +68,5 @@
     "source": "nypost",
     "headline": "Trump, Ric Flair, Atlanta Braves,  media personalities react to Ted Turner’s death: ‘One of the Greats of All Time’",
     "link": "https://nypost.com/2026/05/06/media/trump-ric-flair-media-personalities-react-to-ted-turners-death-one-of-the-greats-of-all-time/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-05-06-17-38-42 +0000",
-    "source": "nypost",
-    "headline": "Ex-JPMorgan banker Chirayu Rana was referred for mental treatment after probe into ‘sex slave’ claims found nothing: sources",
-    "link": "https://nypost.com/2026/05/06/business/ex-jpmorgan-banker-chirayu-rana-referred-to-mental-treatment-by-das-office-source/"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-05-06-20-38-59 +0000",
-    "source": "latimes",
-    "headline": "Merger costs add up as Warner Bros. Discovery posts $2.9-billion quarterly loss",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-05-06/warner-discovery-posts-2-point-9-billion-quarterly-loss-paramount-merger"
   }
 ]

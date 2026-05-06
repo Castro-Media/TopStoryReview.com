@@ -39,7 +39,7 @@
     "pubdate": "2026-05-06-11-01-00 +0000",
     "source": "wsj",
     "headline": "Saudi Aramco Cuts Oil Price For June From Record High in May",
-    "link": "https://www.wsj.com/world/middle-east/saudi-aramco-cuts-oil-price-for-june-from-record-high-in-may-2f93fbca?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/world/middle-east/saudi-aramco-cuts-oil-price-for-june-from-record-high-in-may-2f93fbca"
   },
   {
     "score": 115,
@@ -50,17 +50,10 @@
   },
   {
     "score": 107,
-    "pubdate": "2026-05-06-15-28-00 +0000",
+    "pubdate": "2026-05-01-19-21-00 +0000",
     "source": "wsj",
-    "headline": "The job market is starting to show glimmers of good news with some solid data this week. The real test will come with the April jobs report on Friday.",
-    "link": "https://www.wsj.com/economy/jobs/jobs-payroll-data-adp-hiring-ff16b64a"
-  },
-  {
-    "score": 104,
-    "pubdate": "2026-05-03-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. is striving to dominate the drone evolution in military technology the way it has with previous wartime innovations. There is just one problem: China got there first.",
-    "link": "https://www.wsj.com/politics/national-security/the-u-s-wants-to-break-chinas-drone-dominance-heres-where-it-will-struggle-39e69e18"
+    "headline": "Trump’s new Air Force One will arrive this summer, combining all the Qatari royal opulence with a $400 million security overhaul",
+    "link": "https://www.wsj.com/politics/national-security/trumps-qatari-gifted-air-force-one-will-keep-its-luxurious-royal-interior-c37a6451"
   },
   {
     "score": 103,
@@ -68,5 +61,12 @@
     "source": "latimes",
     "headline": "Your guide to the L.A. City Council District 5 race: Katy Yaroslavsky faces two challengers",
     "link": "https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-city-council-district-5-voter-guide"
+  },
+  {
+    "score": 101,
+    "pubdate": "2026-05-06-06-46-38 +0000",
+    "source": "latimes",
+    "headline": "Top takeaways from fiery, at times ugly, California governor debate on CNN",
+    "link": "https://www.latimes.com/california/story/2026-05-05/top-takeaways-from-fiery-at-times-ugly-california-governor-debate"
   }
 ]
