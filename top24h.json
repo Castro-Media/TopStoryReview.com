@@ -1,52 +1,45 @@
 [
   {
-    "score": 177,
+    "score": 174,
     "pubdate": "2026-05-05-21-40-07 +0000",
     "source": "cbc",
     "headline": "Trump pauses U.S. effort to guide vessels through Strait of Hormuz in bid to make deal with Iran",
     "link": "https://www.cbc.ca/news/world/rubio-hegseth-iran-strait-hormuz-blockade-9.7188754?cmp=rss"
   },
   {
-    "score": 109,
+    "score": 104,
     "pubdate": "2026-05-05-22-48-22 +0000",
     "source": "nypost",
     "headline": "Oil production won’t return to normal until after midterm elections — no matter when Iran war ends, new analysis says",
     "link": "https://nypost.com/2026/05/05/world-news/oil-production-wont-return-to-normal-until-after-midterm-elections-new-analysis-says/"
   },
   {
-    "score": 102,
+    "score": 100,
     "pubdate": "2026-05-06-06-46-38 +0000",
     "source": "latimes",
     "headline": "Top takeaways from fiery, at times ugly, California governor's debate on CNN",
     "link": "https://www.latimes.com/california/story/2026-05-05/top-takeaways-from-fiery-at-times-ugly-california-governor-debate"
   },
   {
-    "score": 78,
+    "score": 76,
     "pubdate": "2026-05-06-17-38-42 +0000",
     "source": "nypost",
     "headline": "Ex-JPMorgan banker Chirayu Rana was referred for mental treatment by DA’s office after probe into ‘sex slave’ claims found nothing: source",
     "link": "https://nypost.com/2026/05/06/business/ex-jpmorgan-banker-chirayu-rana-referred-to-mental-treatment-by-das-office-source/"
   },
   {
-    "score": 77,
+    "score": 76,
     "pubdate": "2026-05-06-11-52-42 +0000",
     "source": "bbc",
     "headline": "Cruise passengers tell of life on board ship stranded off Cape Verde after hantavirus outbreak",
     "link": "https://www.bbc.com/news/articles/clype7ededzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 67,
+    "score": 65,
     "pubdate": "2026-05-05-21-32-17 +0000",
     "source": "cbc",
     "headline": "Prosecutors add assault charge to case against suspect in White House press gala shooting",
     "link": "https://www.cbc.ca/news/world/assault-charge-white-house-correspondents-dinner-suspect-9.7188774?cmp=rss"
-  },
-  {
-    "score": 66,
-    "pubdate": "2026-05-05-20-05-00 +0000",
-    "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s job cuts are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
     "score": 61,
@@ -56,17 +49,24 @@
     "link": "https://www.wsj.com/politics/policy/after-trump-pressure-fda-chief-oks-some-flavored-vapes-d443b907"
   },
   {
-    "score": 58,
-    "pubdate": "2026-05-06-06-50-24 +0000",
-    "source": "nypost",
-    "headline": "Russian attacks kill at least 27 before deadline for cease-fire proposed by Ukraine",
-    "link": "https://nypost.com/2026/05/06/world-news/russian-attacks-kill-27-in-ukraine-hours-before-proposed-ceasefire-deadline/"
-  },
-  {
-    "score": 54,
+    "score": 53,
     "pubdate": "2026-05-06-16-25-00 +0000",
     "source": "wsj",
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
     "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-2e71e9b8?mod=rss_markets_main"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-05-06-03-52-55 +0000",
+    "source": "nypost",
+    "headline": "Trump-backed candidates take out GOP incumbents in Indiana, dominate Ohio primary in big night for president",
+    "link": "https://nypost.com/2026/05/05/us-news/trump-backed-candidates-take-out-gop-incumbents-in-indiana-dominate-ohio-primary-in-big-night-for-president/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-05-06-06-50-24 +0000",
+    "source": "nypost",
+    "headline": "Russian attacks kill at least 27 before deadline for cease-fire proposed by Ukraine",
+    "link": "https://nypost.com/2026/05/06/world-news/russian-attacks-kill-27-in-ukraine-hours-before-proposed-ceasefire-deadline/"
   }
 ]
