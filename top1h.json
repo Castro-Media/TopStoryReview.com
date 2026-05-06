@@ -1,72 +1,58 @@
 [
   {
-    "score": 37,
-    "pubdate": "2026-05-06-20-48-09 +0000",
-    "source": "nypost",
-    "headline": "Wall Street giant Apollo aims to open ‘second headquarters’ outside NYC — in latest fallout from Mamdani’s war on the wealthy",
-    "link": "https://nypost.com/2026/05/06/business/wall-street-giant-apollo-aims-to-open-second-headquarters-outside-nyc-in-latest-fallout-from-mamdanis-war-on-the-wealthy/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-05-06-20-38-59 +0000",
-    "source": "latimes",
-    "headline": "Merger costs add up as Warner Bros. Discovery posts $2.9-billion quarterly loss",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-05-06/warner-discovery-posts-2-point-9-billion-quarterly-loss-paramount-merger"
-  },
-  {
-    "score": 25,
+    "score": 21,
     "pubdate": "2026-05-06-21-10-40 +0000",
     "source": "nyt",
     "headline": "Justice Dept. Accuses U.C.L.A. Medical School of Bias Against White and Asian Applicants",
     "link": "https://www.nytimes.com/2026/05/06/us/politics/justice-department-ucla-medical-school-race-admissions.html"
   },
   {
-    "score": 21,
-    "pubdate": "2026-05-06-20-25-21 +0000",
-    "source": "nyt",
-    "headline": "Jack Bass, Dean of South Carolina Political Journalism, Dies at 91",
-    "link": "https://www.nytimes.com/2026/05/06/us/politics/jack-bass-dead.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-05-06-20-20-19 +0000",
-    "source": "nypost",
-    "headline": "Italian PM Giorgia Meloni shares spicy AI photo of herself as she blasts misinfo — but admits it ‘improved me quite a bit’",
-    "link": "https://nypost.com/2026/05/06/world-news/italian-prime-minister-shares-haters-sexy-ai-photo-of-her-it-improved-me-a-lot/"
-  },
-  {
-    "score": 18,
+    "score": 16,
     "pubdate": "2026-05-06-21-11-51 +0000",
     "source": "nypost",
     "headline": "Feds smash huge drug ring fueling MacArthur Park fentanyl trade — as narco queen caught in desperate final act",
     "link": "https://nypost.com/2026/05/06/us-news/feds-smash-huge-drug-ring-fueling-macarthur-park-fentanyl-trade/"
   },
   {
-    "score": 18,
-    "pubdate": "2026-05-06-20-42-43 +0000",
-    "source": "nyt",
-    "headline": "Howard Lutnick Grilled by Lawmakers Over Epstein Ties",
-    "link": "https://www.nytimes.com/2026/05/06/us/politics/howard-lutnick-jeffrey-epstein-house-oversight.html"
+    "score": 12,
+    "pubdate": "2026-05-06-21-11-40 +0000",
+    "source": "nypost",
+    "headline": "LA Council president Marqueece Harris-Dawson flashes subtle message to cops at crucial hearing",
+    "link": "https://nypost.com/2026/05/06/us-news/la-council-president-marqueece-harris-dawson-flashes-subtle-message-to-cops-at-crucial-hearing/"
   },
   {
-    "score": 18,
+    "score": 12,
     "pubdate": "2026-05-06-21-11-41 +0000",
     "source": "nypost",
     "headline": "Trump hosts UFC fighters to promote upcoming White House lawn event — with special title belt",
     "link": "https://nypost.com/2026/05/06/us-news/trump-hosts-ufc-fighters-to-promote-upcoming-white-house-lawn-event-with-special-title-belt/"
   },
   {
-    "score": 17,
+    "score": 10,
+    "pubdate": "2026-05-06-21-15-00 +0000",
+    "source": "wsj",
+    "headline": "Warner Bros. Discovery Logs $2.92 Billion Loss Tied to Netflix Termination Fee",
+    "link": "https://www.wsj.com/business/media/warner-bros-discovery-logs-2-92-billion-loss-tied-to-netflix-termination-fee-07f83bc0?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-06-21-12-31 +0000",
+    "source": "wapo",
+    "headline": "DOJ sues Colorado over high-capacity magazine ban passed after Aurora shooting",
+    "link": "https://www.washingtonpost.com/nation/2026/05/06/colorado-lawsuit-high-capacity-magazines-doj/"
+  },
+  {
+    "score": 9,
     "pubdate": "2026-05-06-21-14-00 +0000",
     "source": "wsj",
     "headline": "Arm Holdings Reports Higher Profit, Strong Demand for New CPUs",
     "link": "https://www.wsj.com/business/earnings/arm-holdings-reports-higher-profit-strong-demand-for-new-cpus-250748ed?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 16,
-    "pubdate": "2026-05-06-20-26-00 +0000",
-    "source": "wsj",
-    "headline": "Hantavirus Case in Switzerland Spurs Race to Trace Contacts",
-    "link": "https://www.wsj.com/world/europe/hantavirus-case-in-switzerland-spurs-race-to-trace-contacts-60f21548"
+    "score": 0,
+    "pubdate": "2026-05-06-21-10-40 +0000",
+    "source": "nyt",
+    "headline": "Justice Dept. Accuses U.C.L.A. Medical School of Bias Against White and Asian Applicants",
+    "link": "https://www.nytimes.com/2026/05/06/us/politics/justice-department-ucla-medical-school-race-admissions.html"
   }
 ]
