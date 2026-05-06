@@ -1,72 +1,16 @@
 [
   {
-    "score": 42,
-    "pubdate": "2026-05-06-15-46-06 +0000",
-    "source": "bbc",
-    "headline": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
-    "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-05-06-16-11-44 +0000",
-    "source": "bbc",
-    "headline": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-    "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-05-06-16-07-42 +0000",
+    "score": 11,
+    "pubdate": "2026-05-06-16-20-10 +0000",
     "source": "nyt",
-    "headline": "World Cup Dynamic Ticket Pricing Drives Argentine Soccer Fans To Extremes",
-    "link": "https://www.nytimes.com/2026/05/06/world/americas/2026-world-cup-ticket-prices-argentina.html"
+    "headline": "Iran War Live Updates: Tehran Says It Is Reviewing U.S. Proposal as Trump Makes New Threats",
+    "link": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil"
   },
   {
-    "score": 22,
-    "pubdate": "2026-05-06-16-09-50 +0000",
-    "source": "nypost",
-    "headline": "FBI raids office of powerful Virginia Democrat as part of major corruption, marijuana probe",
-    "link": "https://nypost.com/2026/05/06/us-news/fbi-raids-office-of-powerful-virginia-democrat-as-part-of-major-corruption-marijuana-probe/"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-05-06-16-05-59 +0000",
-    "source": "nypost",
-    "headline": "California governor candidate Chad Bianco caught in awkward word salad by CNN’s Kaitlan Collins",
-    "link": "https://nypost.com/2026/05/06/us-news/california-governor-candidate-caught-in-super-awkward-word-salad-by-cnns-kaitlan-collins/"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-05-06-16-17-42 +0000",
-    "source": "nypost",
-    "headline": "28-year-old woman attends NYC high school posing as teen student but social media profile gives her away: cops",
-    "link": "https://nypost.com/2026/05/06/us-news/28-year-old-woman-attends-nyc-high-school-posing-as-teen-student-but-social-media-profile-gives-her-away-cops/"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-05-06-15-28-00 +0000",
+    "score": 7,
+    "pubdate": "2026-05-06-16-20-00 +0000",
     "source": "wsj",
-    "headline": "The job market is starting to show glimmers of good news with some solid data this week. The real test will come with the April jobs report on Friday.",
-    "link": "https://www.wsj.com/economy/jobs/jobs-payroll-data-adp-hiring-ff16b64a"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-05-06-16-19-14 +0000",
-    "source": "nyt",
-    "headline": "Howard Lutnick Faces Questions From Congress About Epstein Ties",
-    "link": "https://www.nytimes.com/2026/05/06/business/economy/howard-lutnick-jeffrey-epstein-house-oversight.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-05-06-15-29-00 +0000",
-    "source": "nypost",
-    "headline": "Bombshell new theory in Chiara Poggi case revives Italy’s infamous Garlasco murder mystery",
-    "link": "https://nypost.com/2026/05/06/world-news/bombshell-new-theory-emerges-in-chiara-poggi-murder-case/"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-05-06-16-08-32 +0000",
-    "source": "nyt",
-    "headline": "Conservative Group’s Influence Inside the State Department Raises Alarms",
-    "link": "https://www.nytimes.com/2026/05/06/us/politics/conservative-groups-influence-inside-the-state-department-raises-alarms.html"
+    "headline": "AI Rally, Strong Earnings Continue to Power Stocks",
+    "link": "https://www.wsj.com/finance/stocks/oil-falls-risk-sentiment-rises-as-u-s-avoids-iran-escalation-a802b6f1?mod=rss_markets_main"
   }
 ]
