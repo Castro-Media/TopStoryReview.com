@@ -1,6 +1,6 @@
 [
   {
-    "score": 199,
+    "score": 194,
     "pubdate": "2026-05-07-01-00-00 +0000",
     "source": "wsj",
     "headline": "The airline industry is warning the Trump administration about the economic impact of high jet-fuel prices, saying the Iran war needs to end soon",
@@ -22,31 +22,24 @@
   },
   {
     "score": 78,
-    "pubdate": "2026-05-07-09-33-00 +0000",
-    "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
-  },
-  {
-    "score": 78,
     "pubdate": "2026-05-07-18-22-13 +0000",
     "source": "nypost",
     "headline": "Voters overwhelmingly back age, term limits for House and Senate candidates after five lawmakers die in office over past 14 months: poll",
     "link": "https://nypost.com/2026/05/07/us-news/voters-overwhelmingly-back-age-term-limits-for-members-of-congress-after-five-lawmakers-die-in-office-over-past-14-months-poll/"
   },
   {
-    "score": 75,
-    "pubdate": "2026-05-07-19-17-56 +0000",
-    "source": "nypost",
-    "headline": "California gas station chain offering 40 cents off gas for three hours only",
-    "link": "https://nypost.com/2026/05/07/business/california-circle-ks-offering-huge-gas-discount-for-one-day-only/"
+    "score": 78,
+    "pubdate": "2026-05-07-09-33-00 +0000",
+    "source": "wsj",
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
-    "score": 58,
-    "pubdate": "2026-05-06-20-05-02 +0000",
-    "source": "bbc",
-    "headline": "Former OpenAI board member says Elon Musk offered her sperm donations",
-    "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss"
+    "score": 72,
+    "pubdate": "2026-05-07-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Sweeping California law on single-use plastic meets with outrage from all sides as it goes live",
+    "link": "https://www.latimes.com/environment/story/2026-05-07/californias-single-use-plastic-law-is-angering-all-sides"
   },
   {
     "score": 58,
@@ -56,6 +49,13 @@
     "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 58,
+    "pubdate": "2026-05-07-14-53-13 +0000",
+    "source": "nypost",
+    "headline": "Ted Turner’s eerie CNN ‘doomsday video’ — only to be aired when the world ends  — resurfaces after media mogul’s death",
+    "link": "https://nypost.com/2026/05/07/media/ted-turners-eerie-cnn-doomsday-video-resurfaces-after-media-moguls-death/"
+  },
+  {
     "score": 54,
     "pubdate": "2026-05-07-18-37-27 +0000",
     "source": "nypost",
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2026/05/07/us-news/white-house-lashes-out-after-star-wars-star-mark-hamill-posts-photo-of-trump-in-grave/"
   },
   {
-    "score": 52,
-    "pubdate": "2026-05-07-17-57-11 +0000",
-    "source": "nyt",
-    "headline": "Shell Reports Nearly $7 Billion Profit After Oil Prices Surged Amid U.S.-Iran War",
-    "link": "https://www.nytimes.com/2026/05/07/business/shell-profit-oil-iran-war.html"
+    "score": 53,
+    "pubdate": "2026-05-07-13-29-41 +0000",
+    "source": "nypost",
+    "headline": "Trump halted ‘Project Freedom’ Hormuz plan after Saudi Arabia cut off airspace, air base access: report",
+    "link": "https://nypost.com/2026/05/07/us-news/trump-halted-project-freedom-hormuz-plan-after-saudi-arabia-cut-off-airspace-air-base-access-report/"
   }
 ]
