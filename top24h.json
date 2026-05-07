@@ -1,72 +1,72 @@
 [
   {
-    "score": 192,
+    "score": 183,
     "pubdate": "2026-05-07-01-00-00 +0000",
     "source": "wsj",
     "headline": "The airline industry is warning the Trump administration about the economic impact of high jet-fuel prices, saying the Iran war needs to end soon",
     "link": "https://www.wsj.com/politics/policy/jet-fuel-prices-are-spiking-and-trumps-advisers-are-worried-b0932f3c"
   },
   {
-    "score": 101,
-    "pubdate": "2026-05-06-14-16-51 +0000",
+    "score": 103,
+    "pubdate": "2026-05-07-12-53-06 +0000",
+    "source": "nyt",
+    "headline": "U.S. Health Authorities Monitor Hantavirus Cruise Passengers in Georgia, California and Arizona",
+    "link": "https://www.nytimes.com/2026/05/06/us/hantavirus-cruise-us-passengers.html"
+  },
+  {
+    "score": 78,
+    "pubdate": "2026-05-07-09-33-00 +0000",
+    "source": "wsj",
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-05-07-13-49-37 +0000",
     "source": "wapo",
-    "headline": "Hantavirus-hit cruise ship to head to Canary Islands as Swiss confirm new case",
-    "link": "https://www.washingtonpost.com/health/2026/05/06/hantavirus-cruise-ship-hondius-outbreak-spain/"
+    "headline": "As U.S. blockades Iran, its oil still flows ship to ship an ocean away",
+    "link": "https://www.washingtonpost.com/investigations/2026/05/07/iran-blockade-oil-ship-transfers/"
   },
   {
-    "score": 72,
-    "pubdate": "2026-05-07-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Sweeping California law on single-use plastic meets with outrage from all sides as it goes live",
-    "link": "https://www.latimes.com/environment/story/2026-05-07/californias-single-use-plastic-law-is-angering-all-sides"
-  },
-  {
-    "score": 68,
-    "pubdate": "2026-05-07-03-20-25 +0000",
-    "source": "bbc",
-    "headline": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
-    "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 66,
+    "score": 61,
     "pubdate": "2026-05-07-00-45-00 +0000",
     "source": "wsj",
     "headline": "Commerce Secretary Howard Lutnick told a congressional he had no personal or professional relationship with sex offender Jeffrey Epstein",
     "link": "https://www.wsj.com/politics/policy/lutnick-said-he-was-surprised-by-invite-to-visit-epsteins-island-ffd2b9fb"
   },
   {
-    "score": 65,
-    "pubdate": "2026-05-06-14-57-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump escalated his public feud with Pope Leo XIV, accusing the pontiff of endangering Catholics by opposing U.S. military action against Iran",
-    "link": "https://www.wsj.com/politics/national-security/trump-accuses-pope-leo-of-endangering-catholics-by-opposing-iran-war-4805fe38"
-  },
-  {
-    "score": 62,
-    "pubdate": "2026-05-06-15-28-00 +0000",
-    "source": "wsj",
-    "headline": "The job market is starting to show glimmers of good news with some solid data this week. The real test will come with the April jobs report on Friday.",
-    "link": "https://www.wsj.com/economy/jobs/jobs-payroll-data-adp-hiring-ff16b64a"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-05-06-20-38-59 +0000",
-    "source": "latimes",
-    "headline": "Merger costs add up as Warner Bros. Discovery posts $2.9-billion quarterly loss",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-05-06/warner-discovery-posts-2-point-9-billion-quarterly-loss-paramount-merger"
+    "score": 58,
+    "pubdate": "2026-05-06-17-21-15 +0000",
+    "source": "nypost",
+    "headline": "Trump, Ric Flair, Atlanta Braves,  media personalities react to Ted Turner’s death: ‘One of the Greats of All Time’",
+    "link": "https://nypost.com/2026/05/06/media/trump-ric-flair-media-personalities-react-to-ted-turners-death-one-of-the-greats-of-all-time/"
   },
   {
     "score": 58,
+    "pubdate": "2026-05-07-10-45-51 +0000",
+    "source": "nypost",
+    "headline": "Rubio meets with Pope Leo XIV days after latest Trump attack",
+    "link": "https://nypost.com/2026/05/07/us-news/rubio-arrives-for-audience-with-pope-leo-xiv-days-after-latest-trump-attack/"
+  },
+  {
+    "score": 56,
     "pubdate": "2026-05-06-18-47-00 +0000",
     "source": "wsj",
     "headline": "JPMorgan Offered $1 Million Settlement Before Sexual Assault Claims Went Viral",
     "link": "https://www.wsj.com/business/jpmorgan-offered-1-million-settlement-before-sexual-assault-claims-went-viral-1be296a9?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 57,
+    "score": 56,
     "pubdate": "2026-05-07-12-39-00 +0000",
     "source": "wsj",
     "headline": "UniCredit Strikes Deal to Sell Part of Russia Business to U.A.E. Investor",
-    "link": "https://www.wsj.com/business/deals/unicredit-strikes-deal-to-sell-part-of-russia-business-to-u-a-e-investor-576f16bb?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/business/deals/unicredit-strikes-deal-to-sell-part-of-russia-business-to-u-a-e-investor-576f16bb"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-05-07-13-29-41 +0000",
+    "source": "nypost",
+    "headline": "Trump halted ‘Project Freedom’ Hormuz plan after Saudi Arabia cut off airspace, air base access: report",
+    "link": "https://nypost.com/2026/05/07/us-news/trump-halted-project-freedom-hormuz-plan-after-saudi-arabia-cut-off-airspace-air-base-access-report/"
   }
 ]
