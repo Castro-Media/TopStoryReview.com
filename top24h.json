@@ -1,38 +1,31 @@
 [
   {
-    "score": 193,
+    "score": 191,
     "pubdate": "2026-05-07-01-00-00 +0000",
     "source": "wsj",
     "headline": "The airline industry is warning the Trump administration about the economic impact of high jet-fuel prices, saying the Iran war needs to end soon",
     "link": "https://www.wsj.com/politics/policy/jet-fuel-prices-are-spiking-and-trumps-advisers-are-worried-b0932f3c"
   },
   {
-    "score": 104,
+    "score": 103,
     "pubdate": "2026-05-07-12-53-06 +0000",
     "source": "nyt",
     "headline": "U.S. Health Authorities Monitor Hantavirus Cruise Passengers in Georgia, California and Arizona",
     "link": "https://www.nytimes.com/2026/05/06/us/hantavirus-cruise-us-passengers.html"
   },
   {
-    "score": 81,
+    "score": 80,
     "pubdate": "2026-05-07-09-33-00 +0000",
     "source": "wsj",
     "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
     "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
-    "score": 67,
+    "score": 64,
     "pubdate": "2026-05-07-14-53-13 +0000",
     "source": "nypost",
     "headline": "Ted Turner’s eerie CNN ‘doomsday video’ — only to be aired when the world ends  — resurfaces after media mogul’s death",
     "link": "https://nypost.com/2026/05/07/media/ted-turners-eerie-cnn-doomsday-video-resurfaces-after-media-moguls-death/"
-  },
-  {
-    "score": 63,
-    "pubdate": "2026-05-07-00-45-00 +0000",
-    "source": "wsj",
-    "headline": "Commerce Secretary Howard Lutnick told a congressional he had no personal or professional relationship with sex offender Jeffrey Epstein",
-    "link": "https://www.wsj.com/politics/policy/lutnick-said-he-was-surprised-by-invite-to-visit-epsteins-island-ffd2b9fb"
   },
   {
     "score": 63,
@@ -42,6 +35,13 @@
     "link": "https://www.washingtonpost.com/investigations/2026/05/07/iran-blockade-oil-ship-transfers/"
   },
   {
+    "score": 63,
+    "pubdate": "2026-05-07-00-45-00 +0000",
+    "source": "wsj",
+    "headline": "Commerce Secretary Howard Lutnick told a congressional he had no personal or professional relationship with sex offender Jeffrey Epstein",
+    "link": "https://www.wsj.com/politics/policy/lutnick-said-he-was-surprised-by-invite-to-visit-epsteins-island-ffd2b9fb"
+  },
+  {
     "score": 62,
     "pubdate": "2026-05-06-20-05-02 +0000",
     "source": "bbc",
@@ -49,18 +49,18 @@
     "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 62,
-    "pubdate": "2026-05-07-13-29-41 +0000",
-    "source": "nypost",
-    "headline": "Trump halted ‘Project Freedom’ Hormuz plan after Saudi Arabia cut off airspace, air base access: report",
-    "link": "https://nypost.com/2026/05/07/us-news/trump-halted-project-freedom-hormuz-plan-after-saudi-arabia-cut-off-airspace-air-base-access-report/"
-  },
-  {
     "score": 61,
     "pubdate": "2026-05-07-15-16-51 +0000",
     "source": "nypost",
     "headline": "McDonald’s posts strong earnings — but viral CEO warns gas prices may take bite out of future profits",
     "link": "https://nypost.com/2026/05/07/business/mcdonalds-posts-strong-earnings-but-ceo-warns-gas-prices-may-take-bite-out-of-future-profits/"
+  },
+  {
+    "score": 61,
+    "pubdate": "2026-05-07-13-29-41 +0000",
+    "source": "nypost",
+    "headline": "Trump halted ‘Project Freedom’ Hormuz plan after Saudi Arabia cut off airspace, air base access: report",
+    "link": "https://nypost.com/2026/05/07/us-news/trump-halted-project-freedom-hormuz-plan-after-saudi-arabia-cut-off-airspace-air-base-access-report/"
   },
   {
     "score": 57,
