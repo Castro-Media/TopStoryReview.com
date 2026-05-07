@@ -1,24 +1,17 @@
 [
   {
-    "score": 185,
+    "score": 180,
     "pubdate": "2026-05-07-01-00-00 +0000",
     "source": "wsj",
     "headline": "The airline industry is warning the Trump administration about the economic impact of high jet-fuel prices, saying the Iran war needs to end soon",
     "link": "https://www.wsj.com/politics/policy/jet-fuel-prices-are-spiking-and-trumps-advisers-are-worried-b0932f3c"
   },
   {
-    "score": 95,
+    "score": 92,
     "pubdate": "2026-05-06-14-16-51 +0000",
     "source": "wapo",
     "headline": "Hantavirus-hit cruise ship to head to Canary Islands as Swiss confirm new case",
     "link": "https://www.washingtonpost.com/health/2026/05/06/hantavirus-cruise-ship-hondius-outbreak-spain/"
-  },
-  {
-    "score": 71,
-    "pubdate": "2026-05-06-12-00-00 +0000",
-    "source": "latimes",
-    "headline": "Last resort in Primm, former gambling mecca at the California-Nevada border, will close",
-    "link": "https://www.latimes.com/california/story/2026-05-06/last-gambling-resort-in-primm-nevada-former-gambling-mecca-is-set-to-close"
   },
   {
     "score": 70,
@@ -35,25 +28,32 @@
     "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 63,
+    "score": 68,
+    "pubdate": "2026-05-07-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Sweeping California law on single-use plastic meets with outrage from all sides as it goes live",
+    "link": "https://www.latimes.com/environment/story/2026-05-07/californias-single-use-plastic-law-is-angering-all-sides"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-05-06-15-28-00 +0000",
+    "source": "wsj",
+    "headline": "The job market is starting to show glimmers of good news with some solid data this week. The real test will come with the April jobs report on Friday.",
+    "link": "https://www.wsj.com/economy/jobs/jobs-payroll-data-adp-hiring-ff16b64a"
+  },
+  {
+    "score": 61,
     "pubdate": "2026-05-06-14-57-00 +0000",
     "source": "wsj",
     "headline": "President Trump escalated his public feud with Pope Leo XIV, accusing the pontiff of endangering Catholics by opposing U.S. military action against Iran",
     "link": "https://www.wsj.com/politics/national-security/trump-accuses-pope-leo-of-endangering-catholics-by-opposing-iran-war-4805fe38"
   },
   {
-    "score": 58,
-    "pubdate": "2026-05-06-18-47-00 +0000",
-    "source": "wsj",
-    "headline": "JPMorgan Offered $1 Million Settlement Before Sexual Assault Claims Went Viral",
-    "link": "https://www.wsj.com/business/jpmorgan-offered-1-million-settlement-before-sexual-assault-claims-went-viral-1be296a9?mod=rss_markets_main"
-  },
-  {
-    "score": 56,
-    "pubdate": "2026-05-06-18-28-39 +0000",
-    "source": "nypost",
-    "headline": "Elon Musk’s SpaceX joins forces with Anthropic in AI deal ahead of blockbuster IPO",
-    "link": "https://nypost.com/2026/05/06/business/elon-musks-spacex-joins-forces-with-anthropic-in-ai-deal-ahead-of-blockbuster-ipo/"
+    "score": 57,
+    "pubdate": "2026-05-06-20-05-02 +0000",
+    "source": "bbc",
+    "headline": "Former OpenAI board member says Elon Musk offered her sperm donations",
+    "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 55,
@@ -63,10 +63,10 @@
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-05-06/warner-discovery-posts-2-point-9-billion-quarterly-loss-paramount-merger"
   },
   {
-    "score": 53,
-    "pubdate": "2026-05-07-02-24-48 +0000",
+    "score": 51,
+    "pubdate": "2026-05-07-10-00-00 +0000",
     "source": "latimes",
-    "headline": "Bass, Raman and Pratt square off on Palisades fire, police hiring in bruising mayoral debate",
-    "link": "https://www.latimes.com/california/story/2026-05-06/karen-bass-spencer-pratt-nithya-raman-square-off-at-three-way-candidate-debate"
+    "headline": "Hiltzik: Why do gas prices rise so sharply and fall so slowly? Blame gas stations — and yourself",
+    "link": "https://www.latimes.com/business/story/2026-05-07/why-do-gas-prices-rise-so-sharply-and-fall-so-slowly-blame-gas-stations-and-yourself"
   }
 ]
