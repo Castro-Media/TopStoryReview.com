@@ -1,38 +1,45 @@
 [
   {
-    "score": 180,
+    "score": 192,
     "pubdate": "2026-05-07-01-00-00 +0000",
     "source": "wsj",
     "headline": "The airline industry is warning the Trump administration about the economic impact of high jet-fuel prices, saying the Iran war needs to end soon",
     "link": "https://www.wsj.com/politics/policy/jet-fuel-prices-are-spiking-and-trumps-advisers-are-worried-b0932f3c"
   },
   {
-    "score": 92,
+    "score": 101,
     "pubdate": "2026-05-06-14-16-51 +0000",
     "source": "wapo",
     "headline": "Hantavirus-hit cruise ship to head to Canary Islands as Swiss confirm new case",
     "link": "https://www.washingtonpost.com/health/2026/05/06/hantavirus-cruise-ship-hondius-outbreak-spain/"
   },
   {
-    "score": 70,
-    "pubdate": "2026-05-07-00-45-00 +0000",
-    "source": "wsj",
-    "headline": "Commerce Secretary Howard Lutnick told a congressional he had no personal or professional relationship with sex offender Jeffrey Epstein",
-    "link": "https://www.wsj.com/politics/policy/lutnick-said-he-was-surprised-by-invite-to-visit-epsteins-island-ffd2b9fb"
+    "score": 72,
+    "pubdate": "2026-05-07-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Sweeping California law on single-use plastic meets with outrage from all sides as it goes live",
+    "link": "https://www.latimes.com/environment/story/2026-05-07/californias-single-use-plastic-law-is-angering-all-sides"
   },
   {
-    "score": 69,
+    "score": 68,
     "pubdate": "2026-05-07-03-20-25 +0000",
     "source": "bbc",
     "headline": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
     "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 68,
-    "pubdate": "2026-05-07-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Sweeping California law on single-use plastic meets with outrage from all sides as it goes live",
-    "link": "https://www.latimes.com/environment/story/2026-05-07/californias-single-use-plastic-law-is-angering-all-sides"
+    "score": 66,
+    "pubdate": "2026-05-07-00-45-00 +0000",
+    "source": "wsj",
+    "headline": "Commerce Secretary Howard Lutnick told a congressional he had no personal or professional relationship with sex offender Jeffrey Epstein",
+    "link": "https://www.wsj.com/politics/policy/lutnick-said-he-was-surprised-by-invite-to-visit-epsteins-island-ffd2b9fb"
+  },
+  {
+    "score": 65,
+    "pubdate": "2026-05-06-14-57-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump escalated his public feud with Pope Leo XIV, accusing the pontiff of endangering Catholics by opposing U.S. military action against Iran",
+    "link": "https://www.wsj.com/politics/national-security/trump-accuses-pope-leo-of-endangering-catholics-by-opposing-iran-war-4805fe38"
   },
   {
     "score": 62,
@@ -43,30 +50,23 @@
   },
   {
     "score": 61,
-    "pubdate": "2026-05-06-14-57-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump escalated his public feud with Pope Leo XIV, accusing the pontiff of endangering Catholics by opposing U.S. military action against Iran",
-    "link": "https://www.wsj.com/politics/national-security/trump-accuses-pope-leo-of-endangering-catholics-by-opposing-iran-war-4805fe38"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-05-06-20-05-02 +0000",
-    "source": "bbc",
-    "headline": "Former OpenAI board member says Elon Musk offered her sperm donations",
-    "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 55,
     "pubdate": "2026-05-06-20-38-59 +0000",
     "source": "latimes",
     "headline": "Merger costs add up as Warner Bros. Discovery posts $2.9-billion quarterly loss",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-05-06/warner-discovery-posts-2-point-9-billion-quarterly-loss-paramount-merger"
   },
   {
-    "score": 51,
-    "pubdate": "2026-05-07-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Hiltzik: Why do gas prices rise so sharply and fall so slowly? Blame gas stations — and yourself",
-    "link": "https://www.latimes.com/business/story/2026-05-07/why-do-gas-prices-rise-so-sharply-and-fall-so-slowly-blame-gas-stations-and-yourself"
+    "score": 58,
+    "pubdate": "2026-05-06-18-47-00 +0000",
+    "source": "wsj",
+    "headline": "JPMorgan Offered $1 Million Settlement Before Sexual Assault Claims Went Viral",
+    "link": "https://www.wsj.com/business/jpmorgan-offered-1-million-settlement-before-sexual-assault-claims-went-viral-1be296a9?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-05-07-12-39-00 +0000",
+    "source": "wsj",
+    "headline": "UniCredit Strikes Deal to Sell Part of Russia Business to U.A.E. Investor",
+    "link": "https://www.wsj.com/business/deals/unicredit-strikes-deal-to-sell-part-of-russia-business-to-u-a-e-investor-576f16bb?mod=pls_whats_news_us_business_f"
   }
 ]
