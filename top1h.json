@@ -1,72 +1,37 @@
 [
   {
-    "score": 46,
-    "pubdate": "2026-05-07-12-53-05 +0000",
-    "source": "nyt",
-    "headline": "U.S. Health Authorities Monitor Hantavirus Cruise Passengers in Georgia, California and Arizona",
-    "link": "https://www.nytimes.com/2026/05/06/us/hantavirus-cruise-us-passengers.html"
-  },
-  {
-    "score": 40,
-    "pubdate": "2026-05-07-13-06-35 +0000",
-    "source": "nyt",
-    "headline": "Shell Reports Nearly $7 Billion Profit After Oil Prices Surged Amid U.S.-Iran War",
-    "link": "https://www.nytimes.com/2026/05/07/business/shell-profit-oil-iran-war.html"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-05-07-12-39-00 +0000",
-    "source": "wsj",
-    "headline": "UniCredit Strikes Deal to Sell Part of Russia Business to U.A.E. Investor",
-    "link": "https://www.wsj.com/business/deals/unicredit-strikes-deal-to-sell-part-of-russia-business-to-u-a-e-investor-576f16bb?mod=rss_markets_main"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-05-07-12-24-53 +0000",
-    "source": "bbc",
-    "headline": "Watch: Passengers told virus-hit ship 'not infectious' after first death",
-    "link": "https://www.bbc.com/news/videos/cx21gp04gglo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-05-07-12-29-58 +0000",
-    "source": "nyt",
-    "headline": "Rubio Meets Pope Leo Amid Growing Tensions Between Trump and Vatican",
-    "link": "https://www.nytimes.com/2026/05/07/us/politics/rubio-pope-meeting.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-05-07-12-27-38 +0000",
-    "source": "nyt",
-    "headline": "China Sentences 2 Former Defense Ministers on Bribery Charges",
-    "link": "https://www.nytimes.com/2026/05/07/world/asia/china-ministers-death-sentences-military-corruption.html"
-  },
-  {
     "score": 16,
-    "pubdate": "2026-05-07-13-20-03 +0000",
-    "source": "nyt",
-    "headline": "German Tourist Wins Lawsuit After Not Getting a Lounge Chair by the Pool",
-    "link": "https://www.nytimes.com/2026/05/07/world/europe/tourist-pool-loungers-refund-germany.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-05-07-12-30-32 +0000",
-    "source": "nyt",
-    "headline": "U.S. Awaits Iran’s Response to Latest Peace Proposal to End War",
-    "link": "https://www.nytimes.com/2026/05/07/world/middleeast/iran-war-us-peace-plan-trump.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-05-07-13-14-51 +0000",
-    "source": "nyt",
-    "headline": "Netherlands Tests Flight Attendant for Hantavirus as Officials Track Cruise Ship Outbreak",
-    "link": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
+    "pubdate": "2026-05-07-14-43-47 +0000",
+    "source": "nypost",
+    "headline": "How many crunches, squats and push-ups you should be able to do at every age — as Trump brings back Presidential Fitness Test",
+    "link": "https://nypost.com/2026/05/07/health/how-many-crunches-squats-and-push-ups-you-should-be-able-to-do-at-every-age/"
   },
   {
     "score": 12,
-    "pubdate": "2026-05-07-13-08-46 +0000",
+    "pubdate": "2026-05-07-14-41-18 +0000",
     "source": "nypost",
-    "headline": "New York City real estate tycoon rips socialist Mamdani as ‘dangerous’ and anti-American",
-    "link": "https://nypost.com/2026/05/07/us-news/new-york-city-real-estate-tycoon-rips-socialist-mamdani-as-dangerous-and-anti-american/"
+    "headline": "Scandal erupts at Menlo College wrestling program as stars break cover to reveal vile texts",
+    "link": "https://nypost.com/2026/05/07/us-news/bay-area-college-wrestling-champs-accused-of-racist-slurs-by-black-teammates/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-07-14-40-04 +0000",
+    "source": "nyt",
+    "headline": "Ted Turner’s Mark on Atlanta Lived On, Even After He Left the Spotlight",
+    "link": "https://www.nytimes.com/2026/05/07/us/ted-turner-atlanta-legacy.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-05-07-14-39-27 +0000",
+    "source": "bbc",
+    "headline": "Superdry co-founder James Holder jailed for rape",
+    "link": "https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-05-07-14-39-10 +0000",
+    "source": "bbc",
+    "headline": "What you need to know about the elections in England, Scotland and Wales",
+    "link": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&at_campaign=rss"
   }
 ]
