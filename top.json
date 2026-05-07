@@ -1,13 +1,20 @@
 [
   {
-    "score": 96,
-    "pubdate": "2026-05-06-00-12-00 +0000",
+    "score": 102,
+    "pubdate": "2026-05-06-14-57-00 +0000",
     "source": "wsj",
-    "title": "Trump Administration Sues New York Times Over Claim It Discriminated Against White Man",
-    "link": "https://www.wsj.com/us-news/law/trump-administration-sues-new-york-times-over-claim-it-discriminated-against-white-man-1b16072d"
+    "title": "President Trump escalated his public feud with Pope Leo XIV, accusing the pontiff of endangering Catholics by opposing U.S. military action against Iran",
+    "link": "https://www.wsj.com/politics/national-security/trump-accuses-pope-leo-of-endangering-catholics-by-opposing-iran-war-4805fe38"
   },
   {
-    "score": 88,
+    "score": 82,
+    "pubdate": "2026-05-06-14-16-51 +0000",
+    "source": "wapo",
+    "title": "Hantavirus-hit cruise ship to head to Canary Islands as Swiss confirm new case",
+    "link": "https://www.washingtonpost.com/health/2026/05/06/hantavirus-cruise-ship-hondius-outbreak-spain/"
+  },
+  {
+    "score": 66,
     "pubdate": "2026-05-06-16-11-44 +0000",
     "source": "bbc",
     "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
@@ -21,52 +28,45 @@
     "link": "https://www.latimes.com/california/story/2026-05-05/top-takeaways-from-fiery-at-times-ugly-california-governor-debate"
   },
   {
-    "score": 62,
-    "pubdate": "2026-05-06-11-52-42 +0000",
-    "source": "bbc",
-    "title": "Cruise passengers tell of life on board ship stranded off Cape Verde after hantavirus outbreak",
-    "link": "https://www.bbc.com/news/articles/clype7ededzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 51,
+    "score": 60,
     "pubdate": "2026-05-06-15-28-00 +0000",
     "source": "wsj",
     "title": "The job market is starting to show glimmers of good news with some solid data this week. The real test will come with the April jobs report on Friday.",
     "link": "https://www.wsj.com/economy/jobs/jobs-payroll-data-adp-hiring-ff16b64a"
   },
   {
-    "score": 50,
+    "score": 55,
     "pubdate": "2026-05-06-17-38-42 +0000",
     "source": "nypost",
     "title": "Ex-JPMorgan banker Chirayu Rana was referred for mental treatment after probe into &#8216;sex slave&#8217; claims found nothing: sources",
     "link": "https://nypost.com/2026/05/06/business/ex-jpmorgan-banker-chirayu-rana-referred-to-mental-treatment-by-das-office-source/"
   },
   {
-    "score": 45,
-    "pubdate": "2026-05-06-03-52-55 +0000",
-    "source": "nypost",
-    "title": "Trump-backed candidates take out GOP incumbents in Indiana, dominate Ohio primary in big night for president",
-    "link": "https://nypost.com/2026/05/05/us-news/trump-backed-candidates-take-out-gop-incumbents-in-indiana-dominate-ohio-primary-in-big-night-for-president/"
-  },
-  {
-    "score": 45,
+    "score": 48,
     "pubdate": "2026-05-06-17-21-15 +0000",
     "source": "nypost",
     "title": "Trump, Ric Flair, Atlanta Braves,  media personalities react to Ted Turner&#8217;s death: &#8216;One of the Greats of All Time&#8217;",
     "link": "https://nypost.com/2026/05/06/media/trump-ric-flair-media-personalities-react-to-ted-turners-death-one-of-the-greats-of-all-time/"
   },
   {
-    "score": 42,
-    "pubdate": "2026-05-06-19-43-50 +0000",
+    "score": 45,
+    "pubdate": "2026-05-06-21-28-43 +0000",
     "source": "nypost",
-    "title": "France deploys country&#8217;s sole aircraft carrier toward Strait of Hormuz as part of joint military effort",
-    "link": "https://nypost.com/2026/05/06/world-news/france-deploys-its-sole-aircraft-carrier-toward-strait-of-hormuz/"
+    "title": "Shivon Zilis, mother of Elon Musk&#8217;s kids and former OpenAI board member, testifies in explosive case",
+    "link": "https://nypost.com/2026/05/06/business/shivon-zilis-mother-of-elon-musks-kids-and-former-openai-board-member-testifies-in-explosive-case/"
   },
   {
-    "score": 41,
-    "pubdate": "2026-05-06-20-10-00 +0000",
+    "score": 42,
+    "pubdate": "2026-05-06-21-21-00 +0000",
     "source": "wsj",
     "title": "Commerce Secretary Howard Lutnick told a congressional he had no personal or professional relationship with sex offender Jeffrey Epstein",
     "link": "https://www.wsj.com/politics/policy/lutnick-said-he-was-surprised-by-invite-to-visit-epsteins-island-ffd2b9fb"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-05-06-03-52-55 +0000",
+    "source": "nypost",
+    "title": "Trump-backed candidates take out GOP incumbents in Indiana, dominate Ohio primary in big night for president",
+    "link": "https://nypost.com/2026/05/05/us-news/trump-backed-candidates-take-out-gop-incumbents-in-indiana-dominate-ohio-primary-in-big-night-for-president/"
   }
 ]
