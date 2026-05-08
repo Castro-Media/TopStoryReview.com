@@ -1,8 +1,236 @@
 [
   {
-    "headline": "Wacker Chemie Reaches Agreement to Cut Around 10% of Workforce",
-    "link": "https://www.wsj.com/business/retail/wacker-chemie-reaches-agreement-to-cut-around-10-of-workforce-94fb222c?mod=pls_whats_news_us_business_f",
+    "headline": "Iran War Live Updates: Trump Insists Cease-Fire Holds Despite Exchange of Fire",
+    "link": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
+    "source": "nyt",
+    "pubdate": "2026-05-08-12-16-47 +0000"
+  },
+  {
+    "headline": "What latest election results show us in maps and charts",
+    "link": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-12-14-35 +0000"
+  },
+  {
+    "headline": "3 Hikers Dead After Volcano Erupts in Indonesia",
+    "link": "https://www.nytimes.com/2026/05/08/world/asia/indonesia-volcano-eruption-dukono-hikers.html",
+    "source": "nyt",
+    "pubdate": "2026-05-08-12-14-32 +0000"
+  },
+  {
+    "headline": "Artists’ Strike Closes Pavilions at Venice Biennale, Adding to Upheaval",
+    "link": "https://www.nytimes.com/2026/05/08/arts/venice-biennale-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-05-08-12-14-06 +0000"
+  },
+  {
+    "headline": "Artists’ Strike Closes Pavilions at Venice Biennale, Adding to Upheaval",
+    "link": "https://www.nytimes.com/2026/05/08/arts/venice-biennale-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-05-08-12-14-06 +0000"
+  },
+  {
+    "headline": "South Africa president faces call to resign after court ruling",
+    "link": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-12-11-28 +0000"
+  },
+  {
+    "headline": "South Africa president faces call to resign after court ruling",
+    "link": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-12-11-28 +0000"
+  },
+  {
+    "headline": "Trump says ceasefire still intact after burst of violence with Iran",
+    "link": "https://www.washingtonpost.com/national-security/2026/05/07/us-strikes-iran-ceasefire/",
+    "source": "wapo",
+    "pubdate": "2026-05-08-12-07-34 +0000"
+  },
+  {
+    "headline": "Labour won't form next Welsh government, says deputy FM",
+    "link": "https://www.bbc.com/news/videos/cyv2qem5rv9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-12-00-17 +0000"
+  },
+  {
+    "headline": "S.F.’s hottest homegrown establishments are flocking to Mission Bay",
+    "link": "https://missionlocal.org/2026/05/san-francisco-mission-bay-restaurants/",
+    "source": "missionlocal",
+    "pubdate": "2026-05-08-12-00-00 +0000"
+  },
+  {
+    "headline": "Neal: Maggie Flaherty returns home looking to finish off her old team",
+    "link": "https://www.startribune.com/neal-maggie-flaherty-returns-home-looking-to-finish-off-her-old-team/601836172",
+    "source": "startribune",
+    "pubdate": "2026-05-08-12-00-00 +0000"
+  },
+  {
+    "headline": "Canvas Hack Temporarily Disrupts Thousands of Schools",
+    "link": "https://www.wsj.com/us-news/education/canvas-hack-instructure-inc-outage-b4299a7f",
     "source": "wsj",
-    "pubdate": "2026-05-08-10-17-00 +0000"
+    "pubdate": "2026-05-08-11-57-00 +0000"
+  },
+  {
+    "headline": "What’s Happened So Far at the Musk v. OpenAI Trial",
+    "link": "https://www.nytimes.com/2026/05/08/business/dealbook/musk-openai-trial.html",
+    "source": "nyt",
+    "pubdate": "2026-05-08-11-56-05 +0000"
+  },
+  {
+    "headline": "Live Updates: Early U.K. Local Election Results Point to Big Losses for Starmer’s Party",
+    "link": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results",
+    "source": "nyt",
+    "pubdate": "2026-05-08-11-55-46 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-05-08-11-55-45 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-05-08-11-55-45 +0000"
+  },
+  {
+    "headline": "Three dead after volcano erupts on Indonesian island",
+    "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-11-54-14 +0000"
+  },
+  {
+    "headline": "Three dead after volcano erupts on Indonesian island",
+    "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-11-54-14 +0000"
+  },
+  {
+    "headline": "Doctor vacationing on hantavirus cruise forced to treat patients after ship’s medic sickened",
+    "link": "https://nypost.com/2026/05/08/world-news/doctor-vacationing-on-hantavirus-cruise-forced-to-treat-patients-after-ships-medic-sickened/",
+    "source": "nypost",
+    "pubdate": "2026-05-08-11-45-22 +0000"
+  },
+  {
+    "headline": "UK PM Keir Starmer says he won’t resign after his Labour Party hammered in local elections",
+    "link": "https://nypost.com/2026/05/08/world-news/uk-prime-minister-keir-starmer-says-he-wont-resign-after-his-labour-party-hammered-in-local-elections/",
+    "source": "nypost",
+    "pubdate": "2026-05-08-11-43-45 +0000"
+  },
+  {
+    "headline": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+    "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-11-42-35 +0000"
+  },
+  {
+    "headline": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+    "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-11-42-35 +0000"
+  },
+  {
+    "headline": "Wendy’s Posts Higher Sales Amid U.S. Turnaround Efforts",
+    "link": "https://www.wsj.com/business/earnings/wendys-posts-higher-sales-amid-u-s-turnaround-efforts-90be8714?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-08-11-40-00 +0000"
+  },
+  {
+    "headline": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread",
+    "link": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html",
+    "source": "nyt",
+    "pubdate": "2026-05-08-11-38-25 +0000"
+  },
+  {
+    "headline": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread",
+    "link": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html",
+    "source": "nyt",
+    "pubdate": "2026-05-08-11-38-25 +0000"
+  },
+  {
+    "headline": "Tough election results hurt but don't weaken my resolve, says PM",
+    "link": "https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-11-36-52 +0000"
+  },
+  {
+    "headline": "Rubio Meets Meloni as U.S.-Italy Relations Strained and Trump’s Attacks on Pope",
+    "link": "https://www.nytimes.com/2026/05/08/us/politics/rubio-meloni-italy-us-trump-pope.html",
+    "source": "nyt",
+    "pubdate": "2026-05-08-11-30-45 +0000"
+  },
+  {
+    "headline": "Rubio Meets Meloni as U.S.-Italy Relations Strained and Trump’s Attacks on Pope",
+    "link": "https://www.nytimes.com/2026/05/08/us/politics/rubio-meloni-italy-us-trump-pope.html",
+    "source": "nyt",
+    "pubdate": "2026-05-08-11-30-45 +0000"
+  },
+  {
+    "headline": "Chris Mason: Emerging picture shows Reform gains as Labour counts losses in heartland seats",
+    "link": "https://www.bbc.com/news/articles/cvgz8d556zpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-11-29-08 +0000"
+  },
+  {
+    "headline": "Emerging picture shows Reform gains as Labour counts losses in heartland seats",
+    "link": "https://www.bbc.com/news/articles/cvgz8d556zpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-11-29-08 +0000"
+  },
+  {
+    "headline": "What is the turnout in this election?",
+    "link": "https://www.bbc.com/news/videos/cx21w0egvy1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-11-26-12 +0000"
+  },
+  {
+    "headline": "Intesa Posts Net Profit Rise as Corporate, Investment Banking Drives Growth",
+    "link": "https://www.wsj.com/business/earnings/intesa-posts-net-profit-rise-as-corporate-investment-banking-drives-growth-124fbd0d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-08-11-26-00 +0000"
+  },
+  {
+    "headline": "Intesa Posts Net Profit Rise as Corporate, Investment Banking Drives Growth",
+    "link": "https://www.wsj.com/business/earnings/intesa-posts-net-profit-rise-as-corporate-investment-banking-drives-growth-124fbd0d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-08-11-26-00 +0000"
+  },
+  {
+    "headline": "Georgia mayor fires entire police force for upsetting his wife",
+    "link": "https://nypost.com/2026/05/08/us-news/georgia-mayor-fires-entire-police-force-for-upsetting-his-wife/",
+    "source": "nypost",
+    "pubdate": "2026-05-08-11-25-44 +0000"
+  },
+  {
+    "headline": "South East Water boss quits after supply failures",
+    "link": "https://www.bbc.com/news/articles/cn7pxm13lrro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-11-20-48 +0000"
+  },
+  {
+    "headline": "Dollar Could Fall if U.S. Jobs Data Favors Rate Cuts",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-risk-off-mood-c5ea71e0?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-08-11-20-00 +0000"
+  },
+  {
+    "headline": "Farage Celebrates Reform UK’s Strong Performance in Local Elections",
+    "link": "https://www.nytimes.com/2026/05/08/world/europe/reform-uk-election-results-farage.html",
+    "source": "nyt",
+    "pubdate": "2026-05-08-11-18-38 +0000"
+  },
+  {
+    "headline": "Farage Celebrates Reform UK’s Strong Performance in Local Elections",
+    "link": "https://www.nytimes.com/2026/05/08/world/europe/reform-uk-election-results-farage.html",
+    "source": "nyt",
+    "pubdate": "2026-05-08-11-18-38 +0000"
+  },
+  {
+    "headline": "Labour says it's lost Senedd election, and Eluned Morgan could be out",
+    "link": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-11-17-57 +0000"
   }
 ]
