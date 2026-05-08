@@ -1,23 +1,72 @@
 [
   {
+    "score": 27,
+    "pubdate": "2026-05-08-01-18-23 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: U.S. and Iran Exchange Fire Amid a Declared Truce",
+    "link": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal"
+  },
+  {
     "score": 24,
-    "pubdate": "2026-05-07-23-11-35 +0000",
-    "source": "bbc",
-    "headline": "Trump gives EU ultimatum deadline to approve trade deal with US",
-    "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-05-08-00-48-05 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Weighs Citing ‘Emergency’ to Admit More White South Africans as Refugees",
+    "link": "https://www.nytimes.com/2026/05/07/us/politics/trump-afrikaner-refugees-emergency.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-05-07-23-11-35 +0000",
-    "source": "bbc",
-    "headline": "Trump gives EU ultimatum deadline to approve trade deal with US",
-    "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss"
+    "score": 20,
+    "pubdate": "2026-05-08-00-55-32 +0000",
+    "source": "nyt",
+    "headline": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread",
+    "link": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-05-07-23-11-35 +0000",
-    "source": "bbc",
-    "headline": "Trump gives EU ultimatum deadline to approve trade deal with US",
-    "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss"
+    "score": 18,
+    "pubdate": "2026-05-08-00-36-03 +0000",
+    "source": "latimes",
+    "headline": "Newsom pledges to move forward with Delta water tunnel in California",
+    "link": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-08-00-41-42 +0000",
+    "source": "nyt",
+    "headline": "Tennessee Approves New Map Aimed at Flipping the Last Democratic Seat",
+    "link": "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-08-00-57-51 +0000",
+    "source": "nyt",
+    "headline": "A Project in Europe Tested Whether Students Could Live Without Smartphones",
+    "link": "https://www.nytimes.com/2026/05/07/world/europe/smartphones-austria-children-experiment.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-08-00-54-51 +0000",
+    "source": "nypost",
+    "headline": "Metro’s 12-mile ‘light rail on wheels’ aims to slash commute times on LA’s busiest bus routes by 17 minutes",
+    "link": "https://nypost.com/2026/05/07/us-news/construction-on-las-busiest-bus-route-aims-to-slash-commute-times/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-08-01-05-54 +0000",
+    "source": "latimes",
+    "headline": "'Ghost stops' with no body cam footage land LAPD gang unit members under investigation",
+    "link": "https://www.latimes.com/california/story/2026-05-07/lapd-gang-unit-investigated-ghost-stops-body-cameras"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-08-00-31-37 +0000",
+    "source": "nypost",
+    "headline": "Boozed-up British Airways flight attendant canned after showing up to work 8 times legal limit",
+    "link": "https://nypost.com/2026/05/07/world-news/boozed-up-british-airways-flight-attendant-canned-after-showing-up-work-8-times-legal-limit/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-08-00-58-03 +0000",
+    "source": "nyt",
+    "headline": "U.S. Awaits Iran’s Response to Latest Peace Proposal to End War",
+    "link": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal/iran-war-us-peace-plan-trump"
   }
 ]
