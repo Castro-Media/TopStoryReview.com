@@ -1,30 +1,72 @@
 [
   {
+    "score": 42,
+    "pubdate": "2026-05-08-06-21-38 +0000",
+    "source": "nyt",
+    "headline": "As Stockpiles Fall, U.S. Sells More Missiles Worth $17 Billion to Gulf Nations",
+    "link": "https://www.nytimes.com/2026/05/07/us/politics/weapons-stockpiles-iran-war.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-05-08-07-08-16 +0000",
+    "source": "nypost",
+    "headline": "‘Star Wars’ actor Mark Hamill deletes image depicting Trump as deceased, posts new photo to ‘apologize’ after backlash",
+    "link": "https://nypost.com/2026/05/08/us-news/star-wars-actor-mark-hamill-deletes-trump-death-image-posts-apology/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-05-08-07-04-24 +0000",
+    "source": "bbc",
+    "headline": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+    "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-05-08-06-33-35 +0000",
+    "source": "bbc",
+    "headline": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
+    "link": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-08-06-57-26 +0000",
+    "source": "nyt",
+    "headline": "3 Hikers Dead and Several Missing After Volcano Erupts in Indonesia",
+    "link": "https://www.nytimes.com/2026/05/08/world/asia/indonesia-volcano-eruption-dukono-hikers.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-08-06-48-20 +0000",
+    "source": "bbc",
+    "headline": "Ethiopian woman's joy at rare quintuplets after 12 years trying for a baby",
+    "link": "https://www.bbc.com/news/articles/c893y34zlv0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-08-06-44-27 +0000",
+    "source": "nypost",
+    "headline": "Haitian illegal immigrant who fatally beat Florida store clerk with hammer will face death penalty",
+    "link": "https://nypost.com/2026/05/08/us-news/rolbert-joachin-the-haitian-illegal-immigrant-who-fatally-beat-florida-store-clerk-with-hammer-will-face-the-death-penalty/"
+  },
+  {
     "score": 12,
-    "pubdate": "2026-05-08-05-29-11 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: U.S. and Iran Exchange Fire Amid a Declared Truce",
-    "link": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-05-08-05-34-00 +0000",
+    "pubdate": "2026-05-08-07-08-00 +0000",
     "source": "wsj",
-    "headline": "U.S. Treasury Yields Edge Lower as Market Awaits April Payrolls",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-5d214a6d?mod=rss_markets_main"
+    "headline": "Sterling Rises Even as Labour Suffers Losses in Initial Election Results",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-risk-off-mood-c5ea71e0?mod=rss_markets_main"
   },
   {
-    "score": 4,
-    "pubdate": "2026-05-08-05-32-13 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results/heres-the-latest"
+    "score": 12,
+    "pubdate": "2026-05-08-07-04-00 +0000",
+    "source": "wsj",
+    "headline": "German Industry Slumped in March on Outbreak of Iran War",
+    "link": "https://www.wsj.com/economy/german-industry-slumped-in-march-on-outbreak-of-iran-war-92f168b9"
   },
   {
-    "score": 0,
-    "pubdate": "2026-05-08-05-32-13 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results/heres-the-latest"
+    "score": 12,
+    "pubdate": "2026-05-08-06-32-57 +0000",
+    "source": "nypost",
+    "headline": "Inmate accused of murdering pedophile ex-rock star Ian Watkins boasted about being famous after attack: prosecutors",
+    "link": "https://nypost.com/2026/05/08/world-news/lostprophets-singer-ian-watkins-accused-killer-boasted-about-fame-after-prison-stabbing/"
   }
 ]
