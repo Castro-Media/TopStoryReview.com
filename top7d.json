@@ -1,34 +1,27 @@
 [
   {
-    "score": 413,
+    "score": 407,
     "pubdate": "2026-05-05-00-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s desire to end the Iran war is being put to the test after Tehran fired at American warships and violently disrupted a U.S. effort to revive shipping in the Strait of Hormuz",
     "link": "https://www.wsj.com/politics/national-security/attacks-on-u-s-warships-in-strait-test-trumps-desire-to-end-iran-war-182f2f2b"
   },
   {
-    "score": 199,
+    "score": 195,
     "pubdate": "2026-05-08-15-43-00 +0000",
     "source": "wsj",
     "headline": "A federal trade court ruled President Trump didn’t have the authority to impose new global tariffs after a previous set of levies was struck down by the Supreme Court in February",
     "link": "https://www.wsj.com/economy/trade/trade-court-rules-against-trumps-new-global-tariffs-b18134d7"
   },
   {
-    "score": 157,
+    "score": 160,
     "pubdate": "2026-05-07-20-52-12 +0000",
     "source": "nypost",
     "headline": "Argentina will start testing rats for hantavirus after couple contracted deadly strain — and cases shot up 86% in just a year",
     "link": "https://nypost.com/2026/05/07/world-news/argentina-will-start-testing-rats-for-hantavirus-after-couple-contracted-deadly-strain/"
   },
   {
-    "score": 130,
-    "pubdate": "2026-05-07-15-16-51 +0000",
-    "source": "nypost",
-    "headline": "McDonald’s posts strong earnings — but viral CEO warns gas prices may take bite out of future profits",
-    "link": "https://nypost.com/2026/05/07/business/mcdonalds-posts-strong-earnings-but-ceo-warns-gas-prices-may-take-bite-out-of-future-profits/"
-  },
-  {
-    "score": 125,
+    "score": 128,
     "pubdate": "2026-05-08-11-43-45 +0000",
     "source": "nypost",
     "headline": "UK PM Keir Starmer says he won’t resign after his Labour party hammered in local elections",
@@ -36,37 +29,44 @@
   },
   {
     "score": 120,
+    "pubdate": "2026-05-08-13-12-34 +0000",
+    "source": "nyt",
+    "headline": "Shell Reports Nearly $7 Billion Profit After Oil Prices Surged Amid U.S.-Iran War",
+    "link": "https://www.nytimes.com/2026/05/07/business/shell-profit-oil-iran-war.html"
+  },
+  {
+    "score": 117,
     "pubdate": "2026-05-03-02-00-00 +0000",
     "source": "wsj",
     "headline": "The U.S. is striving to dominate the drone evolution in military technology the way it has with previous wartime innovations. There is just one problem: China got there first.",
     "link": "https://www.wsj.com/politics/national-security/the-u-s-wants-to-break-chinas-drone-dominance-heres-where-it-will-struggle-39e69e18"
   },
   {
-    "score": 114,
+    "score": 115,
     "pubdate": "2026-05-07-22-15-00 +0000",
     "source": "wsj",
     "headline": "A trade court ruled against Trump’s global tariffs, France summoned Elon Musk to face criminal charges, and no-display health trackers are hot. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/tech/court-strikes-down-trumps-global-tariffs-2356e96a"
   },
   {
-    "score": 113,
+    "score": 112,
     "pubdate": "2026-05-07-10-00-00 +0000",
     "source": "latimes",
     "headline": "Sweeping California law on single-use plastic meets with outrage from all sides as it goes live",
     "link": "https://www.latimes.com/environment/story/2026-05-07/californias-single-use-plastic-law-is-angering-all-sides"
   },
   {
-    "score": 103,
-    "pubdate": "2026-05-02-12-00-00 +0000",
-    "source": "wsj",
-    "headline": "Despite Iowa’s history of voting Republican, nonpartisan analysts rate the state’s race for governor and two of its four U.S. House contests as tossups that either party could win in November",
-    "link": "https://www.wsj.com/politics/elections/ruby-red-iowa-backed-trump-by-13-points-in-2024-now-its-a-battleground-b808c363"
-  },
-  {
-    "score": 100,
+    "score": 102,
     "pubdate": "2026-05-06-15-28-00 +0000",
     "source": "wsj",
     "headline": "The job market is starting to show glimmers of good news with some solid data this week. The real test will come with the April jobs report on Friday.",
     "link": "https://www.wsj.com/economy/jobs/jobs-payroll-data-adp-hiring-ff16b64a"
+  },
+  {
+    "score": 98,
+    "pubdate": "2026-05-06-11-35-00 +0000",
+    "source": "wsj",
+    "headline": "On Eve of Proposed Cease-Fire, Russia Launches Huge Attack on Ukraine",
+    "link": "https://www.wsj.com/world/on-eve-of-proposed-cease-fire-russia-launches-huge-attack-on-ukraine-9ada3daa"
   }
 ]
