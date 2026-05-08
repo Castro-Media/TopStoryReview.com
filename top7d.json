@@ -36,20 +36,20 @@
   },
   {
     "score": 123,
-    "pubdate": "2026-05-07-22-08-00 +0000",
-    "source": "wsj",
-    "headline": "The Centers for Disease Control and Prevention is coordinating with the World Health Organization to help global authorities contain a hantavirus outbreak aboard a cruise ship",
-    "link": "https://www.wsj.com/politics/policy/cdc-coordinates-with-world-health-organization-amid-hantavirus-scare-2c61751a"
-  },
-  {
-    "score": 123,
     "pubdate": "2026-05-06-15-28-00 +0000",
     "source": "wsj",
     "headline": "The job market is starting to show glimmers of good news with some solid data this week. The real test will come with the April jobs report on Friday.",
     "link": "https://www.wsj.com/economy/jobs/jobs-payroll-data-adp-hiring-ff16b64a"
   },
   {
-    "score": 116,
+    "score": 123,
+    "pubdate": "2026-05-07-22-08-00 +0000",
+    "source": "wsj",
+    "headline": "The Centers for Disease Control and Prevention is coordinating with the World Health Organization to help global authorities contain a hantavirus outbreak aboard a cruise ship",
+    "link": "https://www.wsj.com/politics/policy/cdc-coordinates-with-world-health-organization-amid-hantavirus-scare-2c61751a"
+  },
+  {
+    "score": 115,
     "pubdate": "2026-05-06-10-00-00 +0000",
     "source": "latimes",
     "headline": "Hiltzik: WNBA star Kelsey Plum is taking heat for getting California tax law wrong. But don't blame her",
