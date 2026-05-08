@@ -1,41 +1,55 @@
 [
   {
-    "score": 172,
+    "score": 183,
     "pubdate": "2026-05-07-01-00-00 +0000",
     "source": "wsj",
     "headline": "The airline industry is warning the Trump administration about the economic impact of high jet-fuel prices, saying the Iran war needs to end soon",
     "link": "https://www.wsj.com/politics/policy/jet-fuel-prices-are-spiking-and-trumps-advisers-are-worried-b0932f3c"
   },
   {
-    "score": 105,
-    "pubdate": "2026-05-07-12-53-06 +0000",
-    "source": "nyt",
-    "headline": "U.S. Health Authorities Monitor Hantavirus Cruise Passengers in Georgia, California and Arizona",
-    "link": "https://www.nytimes.com/2026/05/06/us/hantavirus-cruise-us-passengers.html"
-  },
-  {
-    "score": 76,
-    "pubdate": "2026-05-07-09-33-00 +0000",
+    "score": 130,
+    "pubdate": "2026-05-07-22-08-00 +0000",
     "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
+    "headline": "The Centers for Disease Control and Prevention is coordinating with the World Health Organization to help global authorities contain a hantavirus outbreak aboard a cruise ship",
+    "link": "https://www.wsj.com/politics/policy/cdc-coordinates-with-world-health-organization-amid-hantavirus-scare-2c61751a"
   },
   {
-    "score": 64,
-    "pubdate": "2026-05-07-00-45-00 +0000",
+    "score": 104,
+    "pubdate": "2026-05-07-23-02-00 +0000",
     "source": "wsj",
-    "headline": "Commerce Secretary Howard Lutnick told a congressional he had no personal or professional relationship with sex offender Jeffrey Epstein",
-    "link": "https://www.wsj.com/politics/policy/lutnick-said-he-was-surprised-by-invite-to-visit-epsteins-island-ffd2b9fb"
+    "headline": "A federal trade court ruled President Trump didn’t have the authority to impose new global tariffs after a previous set of levies was struck down by the Supreme Court in February",
+    "link": "https://www.wsj.com/economy/trade/trade-court-rules-against-trumps-new-global-tariffs-b18134d7"
   },
   {
-    "score": 60,
-    "pubdate": "2026-05-07-18-22-13 +0000",
+    "score": 71,
+    "pubdate": "2026-05-07-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Sweeping California law on single-use plastic meets with outrage from all sides as it goes live",
+    "link": "https://www.latimes.com/environment/story/2026-05-07/californias-single-use-plastic-law-is-angering-all-sides"
+  },
+  {
+    "score": 69,
+    "pubdate": "2026-05-07-22-06-55 +0000",
     "source": "nypost",
-    "headline": "Voters overwhelmingly back age, term limits for House and Senate candidates after five lawmakers die in office over past 14 months: poll",
-    "link": "https://nypost.com/2026/05/07/us-news/voters-overwhelmingly-back-age-term-limits-for-members-of-congress-after-five-lawmakers-die-in-office-over-past-14-months-poll/"
+    "headline": "US launches ‘self-defense’ strikes after Iran targets Navy destroyers — but US official insists cease-fire still stands: report",
+    "link": "https://nypost.com/2026/05/07/us-news/us-launches-self-defense-strikes-in-iran-after-navy-destroyers-targeted-american-official-insists-cease-fire-still-stands-report/"
   },
   {
-    "score": 57,
+    "score": 63,
+    "pubdate": "2026-05-07-20-35-32 +0000",
+    "source": "nyt",
+    "headline": "Russia Ramps Up Threats Toward Ukraine Over Victory Day Parade",
+    "link": "https://www.nytimes.com/2026/05/07/world/europe/ukraine-russia-victory-day.html"
+  },
+  {
+    "score": 61,
+    "pubdate": "2026-05-07-00-37-54 +0000",
+    "source": "latimes",
+    "headline": "Purported Jeffrey Epstein suicide note had echoes of messages he had sent earlier",
+    "link": "https://www.latimes.com/politics/story/2026-05-06/purported-jeffrey-epstein-suicide-note-had-echoes-of-messages-he-had-sent-earlier"
+  },
+  {
+    "score": 55,
     "pubdate": "2026-05-07-20-32-43 +0000",
     "source": "nyt",
     "headline": "As Stockpiles Fall, U.S. Sells More Missiles Worth $17 Billion to Gulf Nations",
@@ -43,30 +57,16 @@
   },
   {
     "score": 55,
-    "pubdate": "2026-05-07-12-24-53 +0000",
-    "source": "bbc",
-    "headline": "Watch: Passengers told virus-hit ship 'not infectious' after first death",
-    "link": "https://www.bbc.com/news/videos/cx21gp04gglo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-05-07-18-37-27 +0000",
+    "source": "nypost",
+    "headline": "White House lashes out at ‘Star Wars’ actor Mark Hamill for post of Trump in grave: ‘One sick individual’",
+    "link": "https://nypost.com/2026/05/07/us-news/white-house-lashes-out-after-star-wars-star-mark-hamill-posts-photo-of-trump-in-grave/"
   },
   {
-    "score": 55,
+    "score": 50,
     "pubdate": "2026-05-07-15-09-42 +0000",
     "source": "nyt",
     "headline": "Rubio Meets Pope Leo Amid Growing Tensions Between Trump and Vatican",
     "link": "https://www.nytimes.com/2026/05/07/us/politics/rubio-pope-meeting.html"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-05-07-16-00-05 +0000",
-    "source": "bbc",
-    "headline": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-    "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-05-07-02-24-48 +0000",
-    "source": "latimes",
-    "headline": "Bass, Raman and Pratt square off on Palisades fire, police hiring in bruising mayoral debate",
-    "link": "https://www.latimes.com/california/story/2026-05-06/karen-bass-spencer-pratt-nithya-raman-square-off-at-three-way-candidate-debate"
   }
 ]
