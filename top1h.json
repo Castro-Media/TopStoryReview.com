@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-05-08-10-17-00 +0000",
+    "score": 29,
+    "pubdate": "2026-05-08-11-43-45 +0000",
+    "source": "nypost",
+    "headline": "UK PM Keir Starmer says he won’t resign after his Labour Party hammered in local elections",
+    "link": "https://nypost.com/2026/05/08/world-news/uk-prime-minister-keir-starmer-says-he-wont-resign-after-his-labour-party-hammered-in-local-elections/"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-05-08-11-29-08 +0000",
+    "source": "bbc",
+    "headline": "Chris Mason: Emerging picture shows Reform gains as Labour counts losses in heartland seats",
+    "link": "https://www.bbc.com/news/articles/cvgz8d556zpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-05-08-11-38-25 +0000",
+    "source": "nyt",
+    "headline": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread",
+    "link": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-05-08-11-26-00 +0000",
     "source": "wsj",
-    "headline": "Wacker Chemie Reaches Agreement to Cut Around 10% of Workforce",
-    "link": "https://www.wsj.com/business/retail/wacker-chemie-reaches-agreement-to-cut-around-10-of-workforce-94fb222c?mod=pls_whats_news_us_business_f"
+    "headline": "Intesa Posts Net Profit Rise as Corporate, Investment Banking Drives Growth",
+    "link": "https://www.wsj.com/business/earnings/intesa-posts-net-profit-rise-as-corporate-investment-banking-drives-growth-124fbd0d?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-05-08-11-30-45 +0000",
+    "source": "nyt",
+    "headline": "Rubio Meets Meloni as U.S.-Italy Relations Strained and Trump’s Attacks on Pope",
+    "link": "https://www.nytimes.com/2026/05/08/us/politics/rubio-meloni-italy-us-trump-pope.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-05-08-11-42-35 +0000",
+    "source": "bbc",
+    "headline": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+    "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-08-12-14-06 +0000",
+    "source": "nyt",
+    "headline": "Artists’ Strike Closes Pavilions at Venice Biennale, Adding to Upheaval",
+    "link": "https://www.nytimes.com/2026/05/08/arts/venice-biennale-protests.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-08-12-16-47 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Trump Insists Cease-Fire Holds Despite Exchange of Fire",
+    "link": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-08-11-54-14 +0000",
+    "source": "bbc",
+    "headline": "Three dead after volcano erupts on Indonesian island",
+    "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-08-12-14-35 +0000",
+    "source": "bbc",
+    "headline": "What latest election results show us in maps and charts",
+    "link": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss"
   }
 ]
