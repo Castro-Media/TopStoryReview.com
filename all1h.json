@@ -1,188 +1,86 @@
 [
   {
-    "headline": "State Department Will Revoke Passports of Parents Who Owe Child Support",
-    "link": "https://www.nytimes.com/2026/05/07/us/politics/passports-revoked-child-support-state-dept.html",
+    "headline": "How Energy Prices Are Driving Demand for Solar Panels and Heat Pumps",
+    "link": "https://www.nytimes.com/2026/05/08/business/europe-solar-panels-iran-war.html",
     "source": "nyt",
-    "pubdate": "2026-05-08-01-21-06 +0000"
+    "pubdate": "2026-05-08-04-00-09 +0000"
+  },
+  {
+    "headline": "Election results so far at a glance - and what's still to come",
+    "link": "https://www.bbc.com/news/articles/cvgz155y9exo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-03-59-03 +0000"
+  },
+  {
+    "headline": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
+    "link": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-08-03-45-06 +0000"
   },
   {
     "headline": "Iran War Live Updates: U.S. and Iran Exchange Fire Amid a Declared Truce",
     "link": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal",
     "source": "nyt",
-    "pubdate": "2026-05-08-01-18-23 +0000"
+    "pubdate": "2026-05-08-03-35-19 +0000"
   },
   {
-    "headline": "The complete failure of Lurie’s tax cuts for developers on full display at hearing",
-    "link": "https://48hills.org/2026/05/the-complete-failure-of-luries-tax-cuts-for-developers-on-full-display-at-hearing/",
-    "source": "48hills",
-    "pubdate": "2026-05-08-01-18-17 +0000"
+    "headline": "Trump says ceasefire intact after trade of attacks in Strait of Hormuz",
+    "link": "https://www.startribune.com/trump-says-ceasefire-intact-after-trade-of-attacks-in-strait-of-hormuz/601838753",
+    "source": "startribune",
+    "pubdate": "2026-05-08-03-31-11 +0000"
   },
   {
-    "headline": "Asian Currencies Consolidate; May be Weighed by Risk-Off Mood",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-risk-off-mood-c5ea71e0?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-08-01-18-00 +0000"
-  },
-  {
-    "headline": "Vile NJ vanity plate appearing to target Trump yanked over a year after being approved: ‘This isn’t funny’",
-    "link": "https://nypost.com/2026/05/07/us-news/vile-nj-vanity-plate-appearing-to-target-trump-yanked-over-a-year-after-being-approved/",
-    "source": "nypost",
-    "pubdate": "2026-05-08-01-12-05 +0000"
-  },
-  {
-    "headline": "Massive Canvas data breach hits colleges across California and nation, crippling student work",
-    "link": "https://www.latimes.com/california/story/2026-05-07/canvas-data-breach-california-colleges-uc-ucla-berkeley-csu-laccd",
+    "headline": "Police seek suspect in hit-and-run that killed baseball fan visiting L.A. for Dodgers game",
+    "link": "https://www.latimes.com/california/story/2026-05-07/he-came-to-town-for-family-dodgers-game-but-died-in-hit-and-run",
     "source": "latimes",
-    "pubdate": "2026-05-08-01-07-01 +0000"
+    "pubdate": "2026-05-08-03-31-04 +0000"
   },
   {
-    "headline": "'Ghost stops' with no body cam footage land LAPD gang unit members under investigation",
-    "link": "https://www.latimes.com/california/story/2026-05-07/lapd-gang-unit-investigated-ghost-stops-body-cameras",
-    "source": "latimes",
-    "pubdate": "2026-05-08-01-05-54 +0000"
-  },
-  {
-    "headline": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-    "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-08-01-02-00 +0000"
-  },
-  {
-    "headline": "Rupert Murdoch’s High-Stakes Blitz Against the NFL",
-    "link": "https://www.wsj.com/business/media/murdoch-nfl-television-fight-35aa3587?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-08-01-00-00 +0000"
-  },
-  {
-    "headline": "Inside Project Freedom, Trump’s Aborted Bid to Reopen the Persian Gulf",
-    "link": "https://www.wsj.com/world/middle-east/project-freedom-trump-iran-persian-gulf-ff02c827",
-    "source": "wsj",
-    "pubdate": "2026-05-08-01-00-00 +0000"
-  },
-  {
-    "headline": "U.S. Awaits Iran’s Response to Latest Peace Proposal to End War",
-    "link": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal/iran-war-us-peace-plan-trump",
-    "source": "nyt",
-    "pubdate": "2026-05-08-00-58-03 +0000"
-  },
-  {
-    "headline": "U.S. Awaits Iran’s Response to Latest Peace Proposal to End War",
-    "link": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal/iran-war-us-peace-plan-trump",
-    "source": "nyt",
-    "pubdate": "2026-05-08-00-58-03 +0000"
-  },
-  {
-    "headline": "A Project in Europe Tested Whether Students Could Live Without Smartphones",
-    "link": "https://www.nytimes.com/2026/05/07/world/europe/smartphones-austria-children-experiment.html",
-    "source": "nyt",
-    "pubdate": "2026-05-08-00-57-51 +0000"
-  },
-  {
-    "headline": "A Project in Europe Tested Whether Students Could Live Without Smartphones",
-    "link": "https://www.nytimes.com/2026/05/07/world/europe/smartphones-austria-children-experiment.html",
-    "source": "nyt",
-    "pubdate": "2026-05-08-00-57-51 +0000"
-  },
-  {
-    "headline": "Newsom’s housing program that spent billions exposed in brutal report",
-    "link": "https://nypost.com/2026/05/07/us-news/gavin-newsoms-homekey-program-plagued-by-lack-of-oversight-according-to-new-report/",
+    "headline": "Ant-infested Canadian hospital pauses surgeries after insect invasion",
+    "link": "https://nypost.com/2026/05/07/world-news/ant-infested-canadian-hospital-pauses-surgeries-after-insect-invasion/",
     "source": "nypost",
-    "pubdate": "2026-05-08-00-57-09 +0000"
+    "pubdate": "2026-05-08-03-27-37 +0000"
   },
   {
-    "headline": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread",
-    "link": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html",
+    "headline": "China Hands Suspended Death Sentences to 2 Former Defense Ministers",
+    "link": "https://www.nytimes.com/2026/05/07/world/asia/china-ministers-death-sentences-military-corruption.html",
     "source": "nyt",
-    "pubdate": "2026-05-08-00-55-32 +0000"
+    "pubdate": "2026-05-08-03-27-28 +0000"
   },
   {
-    "headline": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread",
-    "link": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html",
+    "headline": "China Hands Suspended Death Sentences to 2 Former Defense Ministers",
+    "link": "https://www.nytimes.com/2026/05/07/world/asia/china-ministers-death-sentences-military-corruption.html",
     "source": "nyt",
-    "pubdate": "2026-05-08-00-55-32 +0000"
+    "pubdate": "2026-05-08-03-27-28 +0000"
   },
   {
-    "headline": "Metro’s 12-mile ‘light rail on wheels’ aims to slash commute times on LA’s busiest bus routes by 17 minutes",
-    "link": "https://nypost.com/2026/05/07/us-news/construction-on-las-busiest-bus-route-aims-to-slash-commute-times/",
-    "source": "nypost",
-    "pubdate": "2026-05-08-00-54-51 +0000"
-  },
-  {
-    "headline": "Trump Administration Weighs Citing ‘Emergency’ to Admit More White South Africans as Refugees",
-    "link": "https://www.nytimes.com/2026/05/07/us/politics/trump-afrikaner-refugees-emergency.html",
+    "headline": "U.S. to Review Mexican Consulates After Right-Wing Claims Against Them",
+    "link": "https://www.nytimes.com/2026/05/07/us/politics/mexico-consulates-state-department.html",
     "source": "nyt",
-    "pubdate": "2026-05-08-00-48-05 +0000"
+    "pubdate": "2026-05-08-03-18-11 +0000"
   },
   {
-    "headline": "Trump Administration Weighs Citing ‘Emergency’ to Admit More White South Africans as Refugees",
-    "link": "https://www.nytimes.com/2026/05/07/us/politics/trump-afrikaner-refugees-emergency.html",
+    "headline": "U.S. to Review Mexican Consulates After Right-Wing Claims Against Them",
+    "link": "https://www.nytimes.com/2026/05/07/us/politics/mexico-consulates-state-department.html",
     "source": "nyt",
-    "pubdate": "2026-05-08-00-48-05 +0000"
+    "pubdate": "2026-05-08-03-18-11 +0000"
   },
   {
-    "headline": "U.S. strikes Iran in response to attacks on warships, military says",
-    "link": "https://www.washingtonpost.com/national-security/2026/05/07/us-strikes-iran-ceasefire/",
-    "source": "wapo",
-    "pubdate": "2026-05-08-00-46-59 +0000"
-  },
-  {
-    "headline": "Tennessee Approves New Map Aimed at Flipping the Last Democratic Seat",
-    "link": "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html",
+    "headline": "U.S. to Review Mexican Consulates After Right-Wing Claims Against Them",
+    "link": "https://www.nytimes.com/2026/05/07/us/politics/mexico-consulates-state-department.html",
     "source": "nyt",
-    "pubdate": "2026-05-08-00-41-42 +0000"
+    "pubdate": "2026-05-08-03-18-11 +0000"
   },
   {
-    "headline": "Tennessee Approves New Map Aimed at Flipping the Last Democratic Seat",
-    "link": "https://www.nytimes.com/2026/05/07/us/elections/tennessee-house-redistricting.html",
+    "headline": "U.S. to Review Mexican Consulates After Right-Wing Claims Against Them",
+    "link": "https://www.nytimes.com/2026/05/07/us/politics/mexico-consulates-state-department.html",
     "source": "nyt",
-    "pubdate": "2026-05-08-00-41-42 +0000"
+    "pubdate": "2026-05-08-03-18-11 +0000"
   },
   {
-    "headline": "Trade court rules against Trump’s global tariff",
-    "link": "https://www.washingtonpost.com/business/2026/05/07/tariffs-trade-court-ruling-trump/",
-    "source": "wapo",
-    "pubdate": "2026-05-08-00-39-56 +0000"
-  },
-  {
-    "headline": "Newsom pledges to move forward with Delta water tunnel in California",
-    "link": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
-    "source": "latimes",
-    "pubdate": "2026-05-08-00-36-03 +0000"
-  },
-  {
-    "headline": "Newsom pledges to move forward with Delta water tunnel in California",
-    "link": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
-    "source": "latimes",
-    "pubdate": "2026-05-08-00-36-03 +0000"
-  },
-  {
-    "headline": "Opinion | Rule of Law 2, Trump’s Tariffs 0",
-    "link": "https://www.wsj.com/opinion/donald-trump-section-122-tariffs-court-of-international-trade-6890d273",
+    "headline": "China Hands Suspended Death Sentences to Former Defense Ministers for Corruption",
+    "link": "https://www.wsj.com/world/china/china-hands-suspended-death-sentences-to-former-defense-ministers-for-corruption-6802b078",
     "source": "wsj",
-    "pubdate": "2026-05-08-00-36-00 +0000"
-  },
-  {
-    "headline": "JGBs Edge Lower, Tracking Declines in U.S. Treasurys",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-5d214a6d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-08-00-35-00 +0000"
-  },
-  {
-    "headline": "Illegal migrant freed by Biden and accused of killing innocent dad cowers in court",
-    "link": "https://nypost.com/2026/05/07/us-news/illegal-migrant-freed-by-biden-and-accused-of-killing-innocent-dad-cowers-in-court/",
-    "source": "nypost",
-    "pubdate": "2026-05-08-00-32-08 +0000"
-  },
-  {
-    "headline": "Boozed-up British Airways flight attendant canned after showing up to work 8 times legal limit",
-    "link": "https://nypost.com/2026/05/07/world-news/boozed-up-british-airways-flight-attendant-canned-after-showing-up-work-8-times-legal-limit/",
-    "source": "nypost",
-    "pubdate": "2026-05-08-00-31-37 +0000"
-  },
-  {
-    "headline": "Oil Rises Amid Signs of Rising Strait of Hormuz Tensions",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-signs-of-rising-strait-of-hormuz-tensions-25f85896?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-08-00-29-00 +0000"
+    "pubdate": "2026-05-08-03-14-00 +0000"
   }
 ]
