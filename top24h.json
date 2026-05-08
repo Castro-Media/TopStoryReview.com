@@ -1,6 +1,6 @@
 [
   {
-    "score": 193,
+    "score": 192,
     "pubdate": "2026-05-07-19-06-43 +0000",
     "source": "bbc",
     "headline": "Marco Rubio meets Pope Leo amid tensions with Trump over Iran war",
@@ -29,13 +29,6 @@
   },
   {
     "score": 64,
-    "pubdate": "2026-05-07-20-52-12 +0000",
-    "source": "nypost",
-    "headline": "Argentina will start testing rats for hantavirus after couple contracted deadly strain — and cases shot up 86% in just a year",
-    "link": "https://nypost.com/2026/05/07/world-news/argentina-will-start-testing-rats-for-hantavirus-after-couple-contracted-deadly-strain/"
-  },
-  {
-    "score": 64,
     "pubdate": "2026-05-07-16-00-05 +0000",
     "source": "bbc",
     "headline": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
@@ -49,6 +42,13 @@
     "link": "https://www.latimes.com/environment/story/2026-05-07/californias-single-use-plastic-law-is-angering-all-sides"
   },
   {
+    "score": 63,
+    "pubdate": "2026-05-07-20-52-12 +0000",
+    "source": "nypost",
+    "headline": "Argentina will start testing rats for hantavirus after couple contracted deadly strain — and cases shot up 86% in just a year",
+    "link": "https://nypost.com/2026/05/07/world-news/argentina-will-start-testing-rats-for-hantavirus-after-couple-contracted-deadly-strain/"
+  },
+  {
     "score": 62,
     "pubdate": "2026-05-08-03-14-00 +0000",
     "source": "wsj",
@@ -56,7 +56,7 @@
     "link": "https://www.wsj.com/world/china/china-hands-suspended-death-sentences-to-former-defense-ministers-for-corruption-6802b078"
   },
   {
-    "score": 58,
+    "score": 57,
     "pubdate": "2026-05-07-20-32-43 +0000",
     "source": "nyt",
     "headline": "As Stockpiles Fall, U.S. Sells More Missiles Worth $17 Billion to Gulf Nations",
