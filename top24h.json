@@ -1,34 +1,34 @@
 [
   {
-    "score": 196,
+    "score": 194,
     "pubdate": "2026-05-08-15-43-00 +0000",
     "source": "wsj",
     "headline": "A federal trade court ruled President Trump didn’t have the authority to impose new global tariffs after a previous set of levies was struck down by the Supreme Court in February",
     "link": "https://www.wsj.com/economy/trade/trade-court-rules-against-trumps-new-global-tariffs-b18134d7"
   },
   {
-    "score": 156,
+    "score": 147,
     "pubdate": "2026-05-08-13-12-34 +0000",
     "source": "nyt",
     "headline": "Shell Reports Nearly $7 Billion Profit After Oil Prices Surged Amid U.S.-Iran War",
     "link": "https://www.nytimes.com/2026/05/07/business/shell-profit-oil-iran-war.html"
   },
   {
-    "score": 88,
+    "score": 92,
     "pubdate": "2026-05-07-22-08-00 +0000",
     "source": "wsj",
     "headline": "The Centers for Disease Control and Prevention is coordinating with the World Health Organization to help global authorities contain a hantavirus outbreak aboard a cruise ship",
     "link": "https://www.wsj.com/politics/policy/cdc-coordinates-with-world-health-organization-amid-hantavirus-scare-2c61751a"
   },
   {
-    "score": 80,
+    "score": 84,
     "pubdate": "2026-05-08-11-43-45 +0000",
     "source": "nypost",
     "headline": "UK PM Keir Starmer says he won’t resign after his Labour party hammered in local elections",
     "link": "https://nypost.com/2026/05/08/world-news/uk-prime-minister-keir-starmer-says-he-wont-resign-after-his-labour-party-hammered-in-local-elections/"
   },
   {
-    "score": 63,
+    "score": 62,
     "pubdate": "2026-05-08-14-53-10 +0000",
     "source": "nypost",
     "headline": "Apollo 17 crew reported seeing unidentified bright sparks that lit up space like ‘Fourth of July’: UFO files",
@@ -42,6 +42,13 @@
     "link": "https://nypost.com/2026/05/07/us-news/us-launches-self-defense-strikes-in-iran-after-navy-destroyers-targeted-american-official-insists-cease-fire-still-stands-report/"
   },
   {
+    "score": 57,
+    "pubdate": "2026-05-08-15-35-11 +0000",
+    "source": "startribune",
+    "headline": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
+    "link": "https://www.startribune.com/uae-reports-drone-and-missile-attack-as-iran-war-ceasefire-is-challenged/601838750"
+  },
+  {
     "score": 52,
     "pubdate": "2026-05-07-22-15-00 +0000",
     "source": "wsj",
@@ -49,11 +56,11 @@
     "link": "https://www.wsj.com/tech/court-strikes-down-trumps-global-tariffs-2356e96a"
   },
   {
-    "score": 52,
-    "pubdate": "2026-05-07-17-25-00 +0000",
-    "source": "wsj",
-    "headline": "Gulf States Lift Restrictions That Blocked ‘Project Freedom’ in Strait of Hormuz",
-    "link": "https://www.wsj.com/world/middle-east/saudi-arabia-kuwait-lift-restrictions-on-u-s-military-access-to-bases-airspace-8504c830"
+    "score": 50,
+    "pubdate": "2026-05-08-17-16-38 +0000",
+    "source": "nypost",
+    "headline": "Nintendo hiking Switch 2 prices by hefty amount — and still warns sales will fall next year",
+    "link": "https://nypost.com/2026/05/08/business/nintendo-hiking-switch-2-prices-by-hefty-amount-and-still-warns-sales-will-fall-next-year/"
   },
   {
     "score": 49,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "Reform election gains show historic shift in British politics, says Farage",
     "link": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-05-08-13-17-15 +0000",
-    "source": "bbc",
-    "headline": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
-    "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss"
   }
 ]
