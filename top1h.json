@@ -1,9 +1,72 @@
 [
   {
-    "score": 6,
-    "pubdate": "2026-05-09-14-11-55 +0000",
+    "score": 36,
+    "pubdate": "2026-05-09-15-12-49 +0000",
+    "source": "nyt",
+    "headline": "Before Hantavirus Outbreak, the MV Hondius Attracted ‘a Different Type of Traveler’",
+    "link": "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-05-09-15-24-47 +0000",
+    "source": "nyt",
+    "headline": "China’s Exports and Imports Set Records in April Amid High Energy Costs",
+    "link": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-09-15-44-54 +0000",
+    "source": "nyt",
+    "headline": "Frontier Jet Hits Person on Runway During Takeoff at Denver Airport",
+    "link": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-09-15-12-04 +0000",
     "source": "bbc",
-    "headline": "Labour lose all seats on Kirklees Council",
-    "link": "https://www.bbc.com/news/videos/cp8pk0g3gv4o?at_medium=RSS&at_campaign=rss"
+    "headline": "I will serve - not rule over Hungary, says new PM",
+    "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-05-09-15-54-41 +0000",
+    "source": "nypost",
+    "headline": "Army vet’s alleged close encounter with 9-foot-tall Bigfoot beasts changes his life",
+    "link": "https://nypost.com/2026/05/09/us-news/army-vets-alleged-close-encounter-with-9-foot-tall-bigfoot-beasts/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-09-16-02-36 +0000",
+    "source": "nypost",
+    "headline": "IDF kills Hamas terrorist linked to Mia Schem abduction, dismantles 8 tunnels",
+    "link": "https://nypost.com/2026/05/09/world-news/idf-kills-hamas-terrorist-linked-to-mia-schem-abduction-dismantles-8-tunnels/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-09-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "Iran War Puts the World’s Most Used Chemical in Short Supply",
+    "link": "https://www.wsj.com/finance/commodities-futures/iran-sulfuric-acid-supply-0f666c18?mod=rss_markets_main"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-09-16-05-13 +0000",
+    "source": "nypost",
+    "headline": "Flotilla activist Thiago Avila to be released from Israeli jail — faces deportation",
+    "link": "https://nypost.com/2026/05/09/world-news/flotilla-activist-thiago-avila-to-be-released-from-israeli-jail-faces-deportation/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-09-15-37-19 +0000",
+    "source": "nyt",
+    "headline": "Artists’ Strike Closes Pavilions at Venice Biennale, Adding to Upheaval",
+    "link": "https://www.nytimes.com/2026/05/08/arts/venice-biennale-protests.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-09-15-20-15 +0000",
+    "source": "bbc",
+    "headline": "PM turns to old Labour hands after election losses but some MPs left baffled",
+    "link": "https://www.bbc.com/news/articles/c2k2vyw88n8o?at_medium=RSS&at_campaign=rss"
   }
 ]
