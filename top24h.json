@@ -1,13 +1,13 @@
 [
   {
-    "score": 153,
+    "score": 159,
     "pubdate": "2026-05-08-15-43-00 +0000",
     "source": "wsj",
     "headline": "A federal trade court ruled President Trump didn’t have the authority to impose new global tariffs after a previous set of levies was struck down by the Supreme Court in February",
     "link": "https://www.wsj.com/economy/trade/trade-court-rules-against-trumps-new-global-tariffs-b18134d7"
   },
   {
-    "score": 111,
+    "score": 112,
     "pubdate": "2026-05-08-13-12-34 +0000",
     "source": "nyt",
     "headline": "Shell Reports Nearly $7 Billion Profit After Oil Prices Surged Amid U.S.-Iran War",
@@ -28,7 +28,7 @@
     "link": "https://www.wsj.com/economy/jobs/job-market-unemployment-rates-charts-55c8e85c"
   },
   {
-    "score": 78,
+    "score": 75,
     "pubdate": "2026-05-08-16-55-56 +0000",
     "source": "nyt",
     "headline": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread",
@@ -42,31 +42,31 @@
     "link": "https://nypost.com/2026/05/08/us-news/trump-announces-three-day-ukraine-russia-cease-fire-prisoner-swap/"
   },
   {
-    "score": 55,
+    "score": 58,
+    "pubdate": "2026-05-09-06-19-55 +0000",
+    "source": "nyt",
+    "headline": "China’s Exports and Imports Set Records in April Amid High Energy Costs",
+    "link": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"
+  },
+  {
+    "score": 54,
     "pubdate": "2026-05-09-00-08-37 +0000",
     "source": "nypost",
     "headline": "Tax hike on California employers spurs plea for help to cover Gavin Newsom’s ‘failures’",
     "link": "https://nypost.com/2026/05/08/us-news/tax-hike-on-california-employers-spurs-plea-for-help-to-cover-gavin-newsoms-failures/"
   },
   {
-    "score": 51,
-    "pubdate": "2026-05-08-22-15-00 +0000",
-    "source": "wsj",
-    "headline": "Virginia’s highest court threw out Democrats’ effort to draw more blue-leaning seats ahead of the midterm elections, in a major win for Republicans",
-    "link": "https://www.wsj.com/politics/elections/virginia-supreme-court-democrats-redistricting-40807eea"
-  },
-  {
-    "score": 51,
+    "score": 50,
     "pubdate": "2026-05-08-22-34-46 +0000",
     "source": "bbc",
     "headline": "Reform election gains show historic shift in British politics, says Farage",
     "link": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 44,
-    "pubdate": "2026-05-08-20-45-01 +0000",
-    "source": "startribune",
-    "headline": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
-    "link": "https://www.startribune.com/uae-reports-drone-and-missile-attack-as-iran-war-ceasefire-is-challenged/601838750"
+    "score": 50,
+    "pubdate": "2026-05-08-22-15-00 +0000",
+    "source": "wsj",
+    "headline": "Virginia’s highest court threw out Democrats’ effort to draw more blue-leaning seats ahead of the midterm elections, in a major win for Republicans",
+    "link": "https://www.wsj.com/politics/elections/virginia-supreme-court-democrats-redistricting-40807eea"
   }
 ]
