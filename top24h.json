@@ -1,6 +1,6 @@
 [
   {
-    "score": 95,
+    "score": 90,
     "pubdate": "2026-05-10-06-34-10 +0000",
     "source": "nypost",
     "headline": "Hantavirus-ridden MV Hondius cruise ship anchors in Canary Islands after deadly outbreak — as passengers evacuate",
@@ -42,13 +42,6 @@
     "link": "https://nypost.com/2026/05/10/us-news/nypd-captains-transfer-after-viral-rant-shows-city-hall-has-two-sets-of-rules-for-dems-and-republicans-critics/"
   },
   {
-    "score": 39,
-    "pubdate": "2026-05-09-12-30-25 +0000",
-    "source": "nyt",
-    "headline": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
-    "link": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
-  },
-  {
     "score": 37,
     "pubdate": "2026-05-09-15-24-48 +0000",
     "source": "nyt",
@@ -56,11 +49,11 @@
     "link": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"
   },
   {
-    "score": 35,
-    "pubdate": "2026-05-10-07-41-36 +0000",
-    "source": "nypost",
-    "headline": "Texas cold-case fugitive busted in Mexico as new DNA tech allegedly ties him to teen’s roadside killing",
-    "link": "https://nypost.com/2026/05/10/us-news/texas-fugitive-arrested-in-mexico-as-new-dna-tech-allegedly-ties-him-to-teens-killing/"
+    "score": 36,
+    "pubdate": "2026-05-09-12-30-25 +0000",
+    "source": "nyt",
+    "headline": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
+    "link": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
   },
   {
     "score": 32,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
     "link": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-05-10-07-41-36 +0000",
+    "source": "nypost",
+    "headline": "Texas cold-case fugitive busted in Mexico as new DNA tech allegedly ties him to teen’s roadside killing",
+    "link": "https://nypost.com/2026/05/10/us-news/texas-fugitive-arrested-in-mexico-as-new-dna-tech-allegedly-ties-him-to-teens-killing/"
   }
 ]
