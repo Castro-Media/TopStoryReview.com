@@ -1,17 +1,24 @@
 [
   {
-    "score": 86,
+    "score": 95,
     "pubdate": "2026-05-10-06-34-10 +0000",
     "source": "nypost",
-    "headline": "Hantavirus-ridden MV Hondius cruise ship anchors in Canary Islands after deadly outbreak",
+    "headline": "Hantavirus-ridden MV Hondius cruise ship anchors in Canary Islands after deadly outbreak — as passengers evacuate",
     "link": "https://nypost.com/2026/05/10/world-news/hantavirus-ridden-mv-hondius-cruise-ship-arrives-in-canary-islands-after-deadly-outbreak/"
   },
   {
-    "score": 63,
+    "score": 68,
     "pubdate": "2026-05-09-23-10-03 +0000",
     "source": "nyt",
     "headline": "A Scaled-Back Victory Day Parade Shows Putin’s Growing Vulnerability in Ukraine War",
     "link": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-05-10-10-00-44 +0000",
+    "source": "wapo",
+    "headline": "N.J. World Cup games will be in a county that bans most shopping on Sundays",
+    "link": "https://www.washingtonpost.com/nation/2026/05/10/bergen-county-blue-laws-world-cup/"
   },
   {
     "score": 44,
@@ -22,27 +29,27 @@
   },
   {
     "score": 42,
-    "pubdate": "2026-05-09-19-40-55 +0000",
-    "source": "bbc",
-    "headline": "Mexican parents criticise ending school year a month early for World Cup",
-    "link": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 40,
     "pubdate": "2026-05-09-22-22-08 +0000",
     "source": "nypost",
     "headline": "Trump waits for answer from Iran on peace proposal, says ball is in Tehran’s court: ‘We may go back to Project Freedom’",
     "link": "https://nypost.com/2026/05/09/world-news/trump-waits-for-answer-from-iran-on-peace-proposal-says-ball-is-in-tehrans-court/"
   },
   {
-    "score": 38,
+    "score": 39,
+    "pubdate": "2026-05-10-10-06-32 +0000",
+    "source": "nypost",
+    "headline": "NYPD captain’s transfer after viral rant bashing Mamdani shows City Hall has two sets of rules for Dems, Republicans: critics",
+    "link": "https://nypost.com/2026/05/10/us-news/nypd-captains-transfer-after-viral-rant-shows-city-hall-has-two-sets-of-rules-for-dems-and-republicans-critics/"
+  },
+  {
+    "score": 39,
     "pubdate": "2026-05-09-12-30-25 +0000",
     "source": "nyt",
     "headline": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
     "link": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
   },
   {
-    "score": 36,
+    "score": 37,
     "pubdate": "2026-05-09-15-24-48 +0000",
     "source": "nyt",
     "headline": "China’s Exports and Imports Set Records in April Amid High Energy Costs",
@@ -50,23 +57,16 @@
   },
   {
     "score": 35,
-    "pubdate": "2026-05-10-00-38-45 +0000",
-    "source": "nyt",
-    "headline": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
-    "link": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
-  },
-  {
-    "score": 33,
     "pubdate": "2026-05-10-07-41-36 +0000",
     "source": "nypost",
     "headline": "Texas cold-case fugitive busted in Mexico as new DNA tech allegedly ties him to teen’s roadside killing",
     "link": "https://nypost.com/2026/05/10/us-news/texas-fugitive-arrested-in-mexico-as-new-dna-tech-allegedly-ties-him-to-teens-killing/"
   },
   {
-    "score": 29,
-    "pubdate": "2026-05-10-00-00-00 +0000",
-    "source": "wsj",
-    "headline": "Republicans are playing defense in Ohio and a growing number of other red states, where Democrats are counting on voter backlash to power them to victory this fall in their fight to retake the Senate",
-    "link": "https://www.wsj.com/politics/elections/in-bid-to-flip-senate-democrats-push-deep-into-trump-territory-97ed6b8d"
+    "score": 32,
+    "pubdate": "2026-05-10-10-35-13 +0000",
+    "source": "nyt",
+    "headline": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
+    "link": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html"
   }
 ]
