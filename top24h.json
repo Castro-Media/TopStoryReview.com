@@ -1,17 +1,17 @@
 [
   {
-    "score": 73,
+    "score": 70,
+    "pubdate": "2026-05-10-00-38-45 +0000",
+    "source": "nyt",
+    "headline": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
+    "link": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
+  },
+  {
+    "score": 69,
     "pubdate": "2026-05-09-23-10-03 +0000",
     "source": "nyt",
     "headline": "A Scaled-Back Victory Day Parade Shows Putin’s Growing Vulnerability in Ukraine War",
     "link": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html"
-  },
-  {
-    "score": 70,
-    "pubdate": "2026-05-09-19-58-34 +0000",
-    "source": "nyt",
-    "headline": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
-    "link": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
   },
   {
     "score": 55,
@@ -21,25 +21,18 @@
     "link": "https://nypost.com/2026/05/09/world-news/trump-waits-for-answer-from-iran-on-peace-proposal-says-ball-is-in-tehrans-court/"
   },
   {
-    "score": 48,
-    "pubdate": "2026-05-09-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "It’s a labor market unlike any other: Unemployment has drifted up, layoffs are low, hiring is slow, and the economy needs far fewer new jobs than it did before",
-    "link": "https://www.wsj.com/economy/jobs/job-market-unemployment-rates-charts-55c8e85c"
-  },
-  {
-    "score": 45,
-    "pubdate": "2026-05-09-15-24-47 +0000",
+    "score": 46,
+    "pubdate": "2026-05-09-15-24-48 +0000",
     "source": "nyt",
     "headline": "China’s Exports and Imports Set Records in April Amid High Energy Costs",
     "link": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"
   },
   {
     "score": 41,
-    "pubdate": "2026-05-09-12-30-25 +0000",
-    "source": "nyt",
-    "headline": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
-    "link": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
+    "pubdate": "2026-05-09-19-40-55 +0000",
+    "source": "bbc",
+    "headline": "Mexican parents criticise ending school year a month early for World Cup",
+    "link": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 41,
@@ -50,23 +43,30 @@
   },
   {
     "score": 40,
-    "pubdate": "2026-05-09-19-40-55 +0000",
-    "source": "bbc",
-    "headline": "Mexican parents criticise ending school year a month early for World Cup",
-    "link": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 35,
     "pubdate": "2026-05-09-15-12-49 +0000",
     "source": "nyt",
     "headline": "Before Hantavirus Outbreak, the MV Hondius Attracted ‘a Different Type of Traveler’",
     "link": "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html"
   },
   {
+    "score": 40,
+    "pubdate": "2026-05-09-12-30-25 +0000",
+    "source": "nyt",
+    "headline": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
+    "link": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-05-09-04-01-23 +0000",
+    "source": "nyt",
+    "headline": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
+    "link": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html"
+  },
+  {
     "score": 33,
     "pubdate": "2026-05-10-00-00-00 +0000",
     "source": "wsj",
-    "headline": "Republicans are playing defense in Ohio and a growing number of other red states, where Democrats are counting on voter backlash to power them to victory this fall in their fight to retake the Senate.",
+    "headline": "Republicans are playing defense in Ohio and a growing number of other red states, where Democrats are counting on voter backlash to power them to victory this fall in their fight to retake the Senate",
     "link": "https://www.wsj.com/politics/elections/in-bid-to-flip-senate-democrats-push-deep-into-trump-territory-97ed6b8d"
   }
 ]
