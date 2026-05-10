@@ -1,10 +1,10 @@
 [
   {
-    "score": 71,
-    "pubdate": "2026-05-10-00-38-45 +0000",
-    "source": "nyt",
-    "headline": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
-    "link": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
+    "score": 83,
+    "pubdate": "2026-05-10-06-34-10 +0000",
+    "source": "nypost",
+    "headline": "Hantavirus-ridden MV Hondius cruise ship anchors in Canary Islands after deadly outbreak",
+    "link": "https://nypost.com/2026/05/10/world-news/hantavirus-ridden-mv-hondius-cruise-ship-arrives-in-canary-islands-after-deadly-outbreak/"
   },
   {
     "score": 67,
@@ -14,7 +14,7 @@
     "link": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html"
   },
   {
-    "score": 53,
+    "score": 49,
     "pubdate": "2026-05-09-22-22-08 +0000",
     "source": "nypost",
     "headline": "Trump waits for answer from Iran on peace proposal, says ball is in Tehran’s court: ‘We may go back to Project Freedom’",
@@ -29,27 +29,20 @@
   },
   {
     "score": 41,
-    "pubdate": "2026-05-09-12-30-25 +0000",
-    "source": "nyt",
-    "headline": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
-    "link": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
-  },
-  {
-    "score": 41,
     "pubdate": "2026-05-09-19-40-55 +0000",
     "source": "bbc",
     "headline": "Mexican parents criticise ending school year a month early for World Cup",
     "link": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 40,
-    "pubdate": "2026-05-09-15-12-49 +0000",
+    "score": 41,
+    "pubdate": "2026-05-09-12-30-25 +0000",
     "source": "nyt",
-    "headline": "Before Hantavirus Outbreak, the MV Hondius Attracted ‘a Different Type of Traveler’",
-    "link": "https://www.nytimes.com/2026/05/08/world/hantavirus-mv-hondius-cruise.html"
+    "headline": "One Nation Wins Australia Special Election, Claiming Seat in Lower House",
+    "link": "https://www.nytimes.com/2026/05/09/world/australia/one-nation-election-lower-house.html"
   },
   {
-    "score": 40,
+    "score": 39,
     "pubdate": "2026-05-09-15-24-48 +0000",
     "source": "nyt",
     "headline": "China’s Exports and Imports Set Records in April Amid High Energy Costs",
@@ -61,6 +54,13 @@
     "source": "wsj",
     "headline": "Republicans are playing defense in Ohio and a growing number of other red states, where Democrats are counting on voter backlash to power them to victory this fall in their fight to retake the Senate",
     "link": "https://www.wsj.com/politics/elections/in-bid-to-flip-senate-democrats-push-deep-into-trump-territory-97ed6b8d"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-05-10-00-38-45 +0000",
+    "source": "nyt",
+    "headline": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
+    "link": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
   },
   {
     "score": 30,
