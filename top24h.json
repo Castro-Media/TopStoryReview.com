@@ -8,17 +8,24 @@
   },
   {
     "score": 69,
+    "pubdate": "2026-05-10-00-38-46 +0000",
+    "source": "nyt",
+    "headline": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
+    "link": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
+  },
+  {
+    "score": 68,
     "pubdate": "2026-05-09-21-21-22 +0000",
     "source": "nypost",
     "headline": "Vladimir Putin suggests war in Ukraine is ‘coming to an end’ — hours after dismal Victory Day parade",
     "link": "https://nypost.com/2026/05/09/world-news/vladimir-putin-suggests-war-in-ukraine-is-coming-to-an-end-hours-after-dismal-victory-day-parade/"
   },
   {
-    "score": 68,
-    "pubdate": "2026-05-10-00-38-46 +0000",
+    "score": 44,
+    "pubdate": "2026-05-10-10-35-13 +0000",
     "source": "nyt",
-    "headline": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
-    "link": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
+    "headline": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
+    "link": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html"
   },
   {
     "score": 44,
@@ -26,13 +33,6 @@
     "source": "nypost",
     "headline": "NYPD captain’s transfer after viral rant bashing Mamdani shows City Hall has two sets of rules for Dems, Republicans: critics",
     "link": "https://nypost.com/2026/05/10/us-news/nypd-captains-transfer-after-viral-rant-shows-city-hall-has-two-sets-of-rules-for-dems-and-republicans-critics/"
-  },
-  {
-    "score": 43,
-    "pubdate": "2026-05-10-10-35-13 +0000",
-    "source": "nyt",
-    "headline": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
-    "link": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html"
   },
   {
     "score": 43,
@@ -63,7 +63,7 @@
     "link": "https://nypost.com/2026/05/10/us-news/texas-fugitive-arrested-in-mexico-as-new-dna-tech-allegedly-ties-him-to-teens-killing/"
   },
   {
-    "score": 31,
+    "score": 30,
     "pubdate": "2026-05-10-10-00-00 +0000",
     "source": "latimes",
     "headline": "Barabak: This is the most compelling California governor's race in ages. Really.",
