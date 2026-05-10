@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 31,
+    "pubdate": "2026-05-10-15-16-18 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Is Considering Pausing the Federal Gas Tax to Lower Prices, Energy Secretary Says",
+    "link": "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-05-10-16-03-45 +0000",
+    "source": "nyt",
+    "headline": "Iran Responds to Latest U.S. Plan to End War",
+    "link": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-05-10-15-25-49 +0000",
+    "source": "nypost",
+    "headline": "Sen. John Fetterman admits to being ‘lonely’ as moderate Dem willing to break party ranks",
+    "link": "https://nypost.com/2026/05/10/us-news/john-fetterman-admits-to-being-lonely-as-moderate-dem-willing-to-break-party-ranks/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-05-10-15-58-05 +0000",
+    "source": "nyt",
+    "headline": "After Virginia Redistricting Map Is Tossed, Democrats Search Desperately for a Response",
+    "link": "https://www.nytimes.com/2026/05/10/us/politics/democrats-virginia-plans-gerrymandering.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-10-15-28-57 +0000",
+    "source": "nyt",
+    "headline": "Lebanese Mourn Eight Members of One Family Killed in Israeli Strike",
+    "link": "https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-10-15-20-11 +0000",
+    "source": "bbc",
+    "headline": "Countries airlift nationals evacuated from from virus-hit cruise ship",
+    "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-10-15-52-28 +0000",
+    "source": "nypost",
+    "headline": "Trump vows to confiscate Iran’s nuclear material, says it’s monitored by Space Force",
+    "link": "https://nypost.com/2026/05/10/us-news/trump-vows-to-confiscate-irans-nuclear-material/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-05-10-15-32-42 +0000",
+    "source": "nypost",
+    "headline": "Kristin Smart’s remains not found at house belonging to killer’s mother following search 30 years after her death",
+    "link": "https://nypost.com/2026/05/10/us-news/kristin-smarts-remains-not-found-at-house-belonging-to-killers-mother-after-search/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-10-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Simple Fix Small-Town Schools Are Using to Keep Teens Out of Dead-End Jobs",
+    "link": "https://www.wsj.com/personal-finance/the-simple-fix-small-town-schools-are-using-to-keep-teens-out-of-dead-end-jobs-89383278"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-10-15-12-09 +0000",
+    "source": "nyt",
+    "headline": "Trial in 2000 Bombing Case Is Delayed Weeks Before It Was Set to Finally Start",
+    "link": "https://www.nytimes.com/2026/05/10/us/trial-in-2000-bombing-case-is-delayed-weeks-before-it-was-set-to-finally-start.html"
+  }
+]
