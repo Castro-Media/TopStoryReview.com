@@ -1,128 +1,212 @@
 [
   {
-    "headline": "Starmer to promise bolder action as leadership threats mount",
-    "link": "https://www.bbc.com/news/articles/cjwpq1dg5q3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-11-07-58-13 +0000"
-  },
-  {
-    "headline": "BBC tours England and Argentina's World Cup training grounds",
-    "link": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-11-07-53-53 +0000"
-  },
-  {
-    "headline": "BBC tours England and Argentina's World Cup training grounds",
-    "link": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-11-07-53-53 +0000"
-  },
-  {
-    "headline": "India Asks Locals to Pause Gold Buying in Bid to Shore Up FX Defenses",
-    "link": "https://www.wsj.com/economy/india-asks-locals-to-pause-gold-buying-in-bid-to-shore-up-fx-defenses-9da22889",
+    "headline": "U.S. Hantavirus Cruise Passengers Fly to Quarantine Center After Positive Test",
+    "link": "https://www.wsj.com/world/china/u-s-hantavirus-cruise-passengers-fly-to-quarantine-center-after-positive-test-726e2392",
     "source": "wsj",
-    "pubdate": "2026-05-11-07-49-00 +0000"
+    "pubdate": "2026-05-11-10-01-00 +0000"
   },
   {
-    "headline": "India Asks Locals to Pause Gold Buying in Bid to Shore Up FX Defenses",
-    "link": "https://www.wsj.com/economy/india-asks-locals-to-pause-gold-buying-in-bid-to-shore-up-fx-defenses-9da22889?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-11-07-49-00 +0000"
-  },
-  {
-    "headline": "India Asks Locals to Pause Gold Buying in Bid to Shore Up FX Defenses",
-    "link": "https://www.wsj.com/economy/india-asks-locals-to-pause-gold-buying-in-bid-to-shore-up-fx-defenses-9da22889",
-    "source": "wsj",
-    "pubdate": "2026-05-11-07-49-00 +0000"
-  },
-  {
-    "headline": "Oil Prices Rise as Prospects for U.S.-Iran Peace Deal Fizzle",
-    "link": "https://www.nytimes.com/2026/05/10/business/oil-stocks-iran-war.html",
+    "headline": "A Single Infusion Could Suppress H.I.V. for Years, Study Suggests",
+    "link": "https://www.nytimes.com/2026/05/11/health/hiv-infusion-immunotherapy.html",
     "source": "nyt",
-    "pubdate": "2026-05-11-07-47-02 +0000"
+    "pubdate": "2026-05-11-10-00-09 +0000"
   },
   {
-    "headline": "Can Starmer survive as PM? Seven scenarios for what might happen next",
-    "link": "https://www.bbc.com/news/articles/cr7pz99l370o?at_medium=RSS&at_campaign=rss",
+    "headline": "Texas Gov. Abbott welcomes NY companies after Mamdani demonizes wealthy Big Apple CEO Ken Griffin",
+    "link": "https://nypost.com/2026/05/11/us-news/texas-gov-abbott-welcomes-ny-companies-after-mamdani-demonizes-ken-griffin/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "S.F. nurses demanding Kaiser help colleague who  may lose job over delayed DACA renewal",
+    "link": "https://missionlocal.org/2026/05/kaiser-nurse-daca-renewal-delay-san-francisco/",
+    "source": "missionlocal",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "Texas Gov. Abbott welcomes NY companies after Mamdani demonizes wealthy Big Apple CEO Ken Griffin",
+    "link": "https://nypost.com/2026/05/11/us-news/texas-gov-abbott-welcomes-ny-companies-after-mamdani-demonizes-ken-griffin/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "Hong Kong helped bankroll Iran’s terror network, bombshell report claims",
+    "link": "https://nypost.com/2026/05/11/business/hong-kong-helped-bankroll-irans-terror-network-bombshell-report-claims/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "Inside Meta’s threat to exit New Mexico over kids safety rules — and whether experts believe the ploy will work",
+    "link": "https://nypost.com/2026/05/11/business/inside-metas-threat-to-exit-new-mexico-over-kids-safety-rules/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "The Next Frontier for Hantavirus: Finding Vaccines and Treatments",
+    "link": "https://www.wsj.com/health/healthcare/the-next-frontier-for-hantavirus-finding-vaccines-and-treatments-959ecc2e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "Apollo Strikes Deals for Two Live-Events Businesses",
+    "link": "https://www.wsj.com/business/deals/apollo-strikes-deals-for-two-live-events-businesses-4fc7f032?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "Many Americans think Trump assassination attempts were fake, survey finds",
+    "link": "https://www.washingtonpost.com/business/2026/05/11/trump-assassinations-staged-conspiracy/",
+    "source": "wapo",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "British Steel set to be nationalised, Starmer says",
+    "link": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-05-11-07-44-04 +0000"
+    "pubdate": "2026-05-11-09-57-11 +0000"
   },
   {
-    "headline": "Stock Market Today: Oil Climbs as U.S.-Iran Diplomacy Yields Little Progress",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-11-2026?mod=rss_markets_main",
+    "headline": "American Passengers Exposed to Hantavirus Land in U.S.",
+    "link": "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-return-nebraska.html",
+    "source": "nyt",
+    "pubdate": "2026-05-11-09-53-16 +0000"
+  },
+  {
+    "headline": "Starmer Promises Urgent Change as He Battles to Save Premiership",
+    "link": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
+    "source": "nyt",
+    "pubdate": "2026-05-11-09-49-51 +0000"
+  },
+  {
+    "headline": "Starmer Promises Urgent Change as He Battles to Save Premiership",
+    "link": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
+    "source": "nyt",
+    "pubdate": "2026-05-11-09-49-51 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-05-11-09-48-46 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-05-11-09-48-46 +0000"
+  },
+  {
+    "headline": "Police find body believed to be of fugitive Australian shooter",
+    "link": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-09-44-29 +0000"
+  },
+  {
+    "headline": "Police find body believed to be of fugitive Australian shooter",
+    "link": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-09-44-29 +0000"
+  },
+  {
+    "headline": "Vodacom Shares Rise After Dividend Boost",
+    "link": "https://www.wsj.com/business/earnings/vodacom-shares-rise-after-dividend-boost-9acfec90?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-05-11-07-40-17 +0000"
+    "pubdate": "2026-05-11-09-44-00 +0000"
   },
   {
-    "headline": "European Gas Prices Rise on Stalled Peace Talks But LNG Transits Limit Gains",
-    "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-on-stalled-peace-talks-but-lng-transits-limit-gains-d58e7a57?mod=rss_markets_main",
+    "headline": "As Iran war hits U.S. weapons stocks, allies fear impact on Ukraine",
+    "link": "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
+    "source": "wapo",
+    "pubdate": "2026-05-11-09-32-24 +0000"
+  },
+  {
+    "headline": "Families of Americans imprisoned in China have ‘glimmer of hope’ that Trump can free loved ones during Xi meeting",
+    "link": "https://nypost.com/2026/05/11/us-news/family-of-pastor-ezra-jin-dawn-hunt-ask-trump-to-free-them-from-china/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-09-30-00 +0000"
+  },
+  {
+    "headline": "Families of Americans imprisoned in China have ‘glimmer of hope’ that Trump can free loved ones during Xi meeting",
+    "link": "https://nypost.com/2026/05/11/us-news/family-of-pastor-ezra-jin-dawn-hunt-ask-trump-to-free-them-from-china/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-09-30-00 +0000"
+  },
+  {
+    "headline": "Family of tragic NYC tots who died under ACS care slam agency over scathing report: ‘Someone has to pay’",
+    "link": "https://nypost.com/2026/05/11/us-news/family-of-tragic-nyc-tots-who-died-under-acs-care-slam-agency-over-scathing-report/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-09-30-00 +0000"
+  },
+  {
+    "headline": "AI’s Next Phase Plays Into TSMC’s Hands",
+    "link": "https://www.wsj.com/tech/ais-next-phase-plays-into-tsmcs-hands-3d1f2b60?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-05-11-07-38-00 +0000"
+    "pubdate": "2026-05-11-09-30-00 +0000"
   },
   {
-    "headline": "European Gas Prices Rise on Stalled Peace Talks But LNG Transits Limit Gains",
-    "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-on-stalled-peace-talks-but-lng-transits-limit-gains-d58e7a57?mod=pls_whats_news_us_business_f",
+    "headline": "New Vanguard Hire Highlights Bond-Picking Push",
+    "link": "https://www.wsj.com/finance/investing/new-vanguard-hire-highlights-bond-picking-push-064da41e?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-05-11-07-38-00 +0000"
+    "pubdate": "2026-05-11-09-30-00 +0000"
   },
   {
-    "headline": "US national on repatriation flight tests positive for hantavirus",
+    "headline": "Think $6 Gas Is Bad? It’s About to Get Even Worse in California.",
+    "link": "https://www.wsj.com/business/energy-oil/think-6-gas-is-bad-its-about-to-get-even-worse-in-california-354d3d2f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-11-09-30-00 +0000"
+  },
+  {
+    "headline": "The World’s Highest-Flying Repo Men Are Collecting Spirit Airlines’ Jets",
+    "link": "https://www.wsj.com/business/airlines/spirit-airlines-jets-liquidation-repo-men-5c44a46f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-11-09-30-00 +0000"
+  },
+  {
+    "headline": "Philippine VP Sara Duterte impeached for a second time",
+    "link": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-09-28-53 +0000"
+  },
+  {
+    "headline": "Philippine VP Sara Duterte impeached for a second time",
+    "link": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-09-28-53 +0000"
+  },
+  {
+    "headline": "Mississippi gunmaker, wife shot dead by relative in murder-suicide over land dispute: cops",
+    "link": "https://nypost.com/2026/05/11/us-news/mississippi-gunmaker-walter-earnest-birdsong-jr-wife-shot-dead-by-relative-kurt-birdsong-in-murder-suicide-over-land-dispute-cops/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-09-28-50 +0000"
+  },
+  {
+    "headline": "Trump's China visit set to test fragile truce",
+    "link": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-09-26-33 +0000"
+  },
+  {
+    "headline": "Trump's China visit set to test fragile truce",
+    "link": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-09-26-33 +0000"
+  },
+  {
+    "headline": "Trump's China visit set to test fragile truce",
+    "link": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-09-26-33 +0000"
+  },
+  {
+    "headline": "US and French nationals test positive for hantavirus after leaving ship",
     "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-05-11-07-30-06 +0000"
+    "pubdate": "2026-05-11-09-11-12 +0000"
   },
   {
-    "headline": "Terrifying videos show Frontier Airlines passengers fleeing smoke-filled cabin after jet strikes person on Denver runway",
-    "link": "https://nypost.com/2026/05/11/us-news/terrifying-videos-show-frontier-airlines-passengers-fleeing-smoke-filled-cabin-after-jet-strikes-person-on-denver-runway/",
-    "source": "nypost",
-    "pubdate": "2026-05-11-07-27-45 +0000"
-  },
-  {
-    "headline": "How to Win Eurovision With Just a Few Hundred Voters",
-    "link": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-votes.html",
-    "source": "nyt",
-    "pubdate": "2026-05-11-07-27-18 +0000"
-  },
-  {
-    "headline": "How to Win Eurovision With Just a Few Hundred Voters",
-    "link": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-votes.html",
-    "source": "nyt",
-    "pubdate": "2026-05-11-07-27-18 +0000"
-  },
-  {
-    "headline": "How Israel Turned Eurovision’s Stage Into a Soft Power Tool",
-    "link": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
-    "source": "nyt",
-    "pubdate": "2026-05-11-07-26-03 +0000"
-  },
-  {
-    "headline": "How Israel Turned Eurovision’s Stage Into a Soft Power Tool",
-    "link": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
-    "source": "nyt",
-    "pubdate": "2026-05-11-07-26-03 +0000"
-  },
-  {
-    "headline": "Gold Falls 1% as U.S.-Iran Deadlock Fuels Oil-Driven Inflation Fears",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-renewed-inflation-concerns-b40dcaa2?mod=rss_markets_main",
+    "headline": "ECB Rate-Rise Bets Limit Euro’s Fall Against Dollar on Iran War",
+    "link": "https://www.wsj.com/finance/currencies/yen-mostly-weakens-amid-mild-risk-on-sentiment-a64abcde?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-05-11-07-26-00 +0000"
-  },
-  {
-    "headline": "Hegseth says Pentagon will review Mark Kelly’s public statements about classified briefing amid ongoing feud",
-    "link": "https://nypost.com/2026/05/11/us-news/hegseth-says-pentagon-will-review-mark-kellys-public-statements-about-classified-briefing-amid-ongoing-feud/",
-    "source": "nypost",
-    "pubdate": "2026-05-11-07-14-52 +0000"
-  },
-  {
-    "headline": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
-    "link": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-11-07-13-41 +0000"
-  },
-  {
-    "headline": "Prosus Sells Part of Delivery Hero Stake to Aspex Management for About $395 Million",
-    "link": "https://www.wsj.com/business/deals/prosus-sells-part-of-delivery-hero-stake-to-aspex-management-for-about-395-million-ca9f0183?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-11-07-04-00 +0000"
+    "pubdate": "2026-05-11-09-08-00 +0000"
   }
 ]
