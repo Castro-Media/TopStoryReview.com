@@ -1,27 +1,225 @@
 [
   {
+    "headline": "China’s Factory-Gate Price Growth Beats Expectations as Mideast War Fuels Inflation",
+    "link": "https://www.wsj.com/economy/china-factory-gate-prices-rise-for-second-straight-month-3a2acbb2",
+    "source": "wsj",
+    "pubdate": "2026-05-11-04-11-00 +0000"
+  },
+  {
+    "headline": "6 people found dead inside Texas railroad boxcar",
+    "link": "https://nypost.com/2026/05/11/us-news/6-people-found-dead-inside-texas-railroad-boxcar/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-04-03-03 +0000"
+  },
+  {
+    "headline": "What Middle Powers Fear from the Trump-Xi Summit",
+    "link": "https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-05-11-04-01-08 +0000"
+  },
+  {
+    "headline": "What Middle Powers Fear from the Trump-Xi Summit",
+    "link": "https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-05-11-04-01-08 +0000"
+  },
+  {
+    "headline": "Live from Game 4: Anthony Edwards scores 36 points as Timberwolves rally late to beat Spurs 114-109",
+    "link": "https://www.startribune.com/live-from-game-4-timberwolves-hope-to-even-playoff-series-with-spurs-at-target-center/601836814",
+    "source": "startribune",
+    "pubdate": "2026-05-11-03-56-30 +0000"
+  },
+  {
+    "headline": "China Exports More EVs Than Traditional Cars for First Time in April",
+    "link": "https://www.wsj.com/business/autos/china-exports-more-evs-than-traditional-cars-for-first-time-in-april-e43cccbb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-11-03-47-00 +0000"
+  },
+  {
+    "headline": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+    "link": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-03-41-34 +0000"
+  },
+  {
+    "headline": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+    "link": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-03-41-34 +0000"
+  },
+  {
+    "headline": "American Passengers Exposed to Hantavirus Are Flying Back to the U.S.",
+    "link": "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-return-nebraska.html",
+    "source": "nyt",
+    "pubdate": "2026-05-11-03-40-35 +0000"
+  },
+  {
+    "headline": "Georgia teacher, 25, accused of sexually assaulting high school student in classroom closet",
+    "link": "https://nypost.com/2026/05/10/us-news/georgia-teacher-25-allegedly-had-sex-with-high-school-student-in-classroom-closet/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-03-38-29 +0000"
+  },
+  {
+    "headline": "1 American returning from hantavirus-stricken cruise showing symptoms, another US passenger postive: HHS",
+    "link": "https://nypost.com/2026/05/10/us-news/1-american-returning-from-hantavirus-stricken-cruise-showing-symptoms-another-postive-hhs/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-03-33-52 +0000"
+  },
+  {
+    "headline": "French national shows symptoms on return from hantavirus-hit ship",
+    "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-03-29-58 +0000"
+  },
+  {
+    "headline": "French national shows symptoms on return from hantavirus-hit ship",
+    "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-03-29-58 +0000"
+  },
+  {
+    "headline": "Pennsylvania creep allegedly sparked house fire that left Army vet dead after resident ‘rejected’ his advances",
+    "link": "https://nypost.com/2026/05/10/us-news/pennsylvania-man-allegedly-sparked-deadly-house-fire-after-resident-rejected-his-advances/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-03-12-54 +0000"
+  },
+  {
+    "headline": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
+    "link": "https://www.nytimes.com/2026/05/10/world/asia/thailand-thaksin-shinawatra-released-prison.html",
+    "source": "nyt",
+    "pubdate": "2026-05-11-03-10-52 +0000"
+  },
+  {
+    "headline": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
+    "link": "https://www.nytimes.com/2026/05/10/world/asia/thailand-thaksin-shinawatra-released-prison.html",
+    "source": "nyt",
+    "pubdate": "2026-05-11-03-10-52 +0000"
+  },
+  {
+    "headline": "Singapore Dollar Weakens Slightly Amid Rising Crude Oil Prices",
+    "link": "https://www.wsj.com/finance/currencies/yen-mostly-weakens-amid-mild-risk-on-sentiment-a64abcde?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-11-03-00-00 +0000"
+  },
+  {
+    "headline": "The U.S. Tied His Bank to Iran Proxies. Now He’s Trump’s Choice to Run Iraq.",
+    "link": "https://www.wsj.com/world/middle-east/the-u-s-tied-his-bank-to-iran-proxies-now-hes-trumps-choice-to-run-iraq-ea6117ae",
+    "source": "wsj",
+    "pubdate": "2026-05-11-03-00-00 +0000"
+  },
+  {
+    "headline": "Flooding expected in parts of Boundary Waters",
+    "link": "https://www.startribune.com/boundary-waters-ely-spring-flooding/601840843",
+    "source": "startribune",
+    "pubdate": "2026-05-11-02-53-51 +0000"
+  },
+  {
+    "headline": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+    "link": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-02-48-53 +0000"
+  },
+  {
+    "headline": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+    "link": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-02-48-53 +0000"
+  },
+  {
+    "headline": "French national suffering symptoms on return trip from hantavirus-striken cruise",
+    "link": "https://nypost.com/2026/05/10/world-news/french-national-suffering-symptoms-on-return-trip-from-hantavirus-hit-cruise/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-02-48-20 +0000"
+  },
+  {
+    "headline": "Dark plot to destroy Spencer Pratt as unions go on brutal ad blitz — and even drop the ‘R’ bomb",
+    "link": "https://nypost.com/2026/05/10/us-news/spencer-pratts-details-plans-for-la-as-unions-launch-ad-blitz/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-02-33-40 +0000"
+  },
+  {
+    "headline": "Dark plot to destroy Spencer Pratt as unions go on brutal ad blitz — and even drop the ‘R’ bomb",
+    "link": "https://nypost.com/2026/05/10/us-news/spencer-pratts-details-plans-for-la-as-unions-launch-ad-blitz/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-02-33-40 +0000"
+  },
+  {
+    "headline": "Looking for trustworthy health info? Here are six sites that cut through the noise",
+    "link": "https://48hills.org/2026/05/looking-for-trustworthy-health-info-here-are-six-sites-that-cut-through-the-noise/",
+    "source": "48hills",
+    "pubdate": "2026-05-11-02-33-30 +0000"
+  },
+  {
+    "headline": "Hawaiian hailed a hero for beating entitled tourist caught hurling rock at beloved seal ‘Lani’ in viral video",
+    "link": "https://nypost.com/2026/05/10/us-news/seattle-tourist-beat-up-by-local-after-viral-video-of-him-tossing-huge-rock-at-endangered-seal/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-02-11-00 +0000"
+  },
+  {
+    "headline": "State senator demands California escalate war with State Farm by hitting it where it hurts most",
+    "link": "https://nypost.com/2026/05/10/us-news/state-senator-demands-california-escalate-war-with-state-farm-by-hitting-it-where-it-hurts-most/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-02-05-37 +0000"
+  },
+  {
+    "headline": "Women are playing a bigger role in the American labor market. Occupations with heavily male workforces have been losing jobs, and the share of men working has flatlined.",
+    "link": "https://www.wsj.com/economy/jobs/a-changing-job-market-leans-against-men-ec4d6d68",
+    "source": "wsj",
+    "pubdate": "2026-05-11-02-00-00 +0000"
+  },
+  {
+    "headline": "Private Credit’s Hot Streak Is Over",
+    "link": "https://www.wsj.com/finance/investing/private-credits-hot-streak-is-over-aa9acfc1?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-11-02-00-00 +0000"
+  },
+  {
+    "headline": "Desperate LA mayor hopeful drops huge U-turn on key policy that’ll infuriate lefties",
+    "link": "https://nypost.com/2026/05/10/us-news/desperate-la-mayor-hopeful-drops-huge-u-turn-on-key-policy-thatll-infuriate-lefties/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-01-55-28 +0000"
+  },
+  {
+    "headline": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+    "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-01-55-13 +0000"
+  },
+  {
+    "headline": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+    "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-01-55-13 +0000"
+  },
+  {
+    "headline": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+    "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-01-55-13 +0000"
+  },
+  {
+    "headline": "Fury as trans volleyball player switches to track and field and dominates, ‘coward’ Newsom told to act",
+    "link": "https://nypost.com/2026/05/10/us-news/fury-as-trans-volleyball-player-switches-to-track-and-field-and-dominates/",
+    "source": "nypost",
+    "pubdate": "2026-05-11-01-48-07 +0000"
+  },
+  {
+    "headline": "Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It",
+    "link": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html",
+    "source": "nyt",
+    "pubdate": "2026-05-11-01-42-50 +0000"
+  },
+  {
+    "headline": "Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It",
+    "link": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html",
+    "source": "nyt",
+    "pubdate": "2026-05-11-01-42-50 +0000"
+  },
+  {
     "headline": "Moment Frontier Airlines plane strikes person on Denver runway seen in horrifying new video",
     "link": "https://nypost.com/2026/05/10/us-news/moment-frontier-airlines-plane-strikes-person-on-denver-runway-seen-in-new-video/",
     "source": "nypost",
     "pubdate": "2026-05-11-01-22-31 +0000"
-  },
-  {
-    "headline": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
-    "link": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-11-01-22-00 +0000"
-  },
-  {
-    "headline": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
-    "link": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-11-01-22-00 +0000"
-  },
-  {
-    "headline": "Live from Game 4: Timberwolves battle Spurs in second half after San Antonio star Victor Wembanyama ejected",
-    "link": "https://www.startribune.com/live-from-game-4-timberwolves-hope-to-even-playoff-series-with-spurs-at-target-center/601836814",
-    "source": "startribune",
-    "pubdate": "2026-05-11-01-19-00 +0000"
   },
   {
     "headline": "San Francisco could tax the rich—locally—and avoid brutal cuts to city services. Here’s how",
@@ -30,34 +228,22 @@
     "pubdate": "2026-05-11-01-15-17 +0000"
   },
   {
-    "headline": "Yen Mostly Weakens Amid Mild Risk-on Sentiment",
-    "link": "https://www.wsj.com/finance/currencies/yen-mostly-weakens-amid-mild-risk-on-sentiment-a64abcde?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-11-01-10-00 +0000"
+    "headline": "Oil prices jump after Trump dismisses Iran proposal to end war",
+    "link": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-01-12-30 +0000"
+  },
+  {
+    "headline": "Oil prices jump after Trump dismisses Iran proposal to end war",
+    "link": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-11-01-12-30 +0000"
   },
   {
     "headline": "'How I Met Your Mother' actor Nick Pasqual convicted of attempted murder",
     "link": "https://www.latimes.com/california/story/2026-05-10/how-i-met-your-mother-actor-nick-pasqual-convicted-attempted-murder",
     "source": "latimes",
     "pubdate": "2026-05-11-01-07-41 +0000"
-  },
-  {
-    "headline": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
-    "link": "https://www.nytimes.com/2026/05/10/world/asia/thailand-thaksin-shinawatra-released-prison.html",
-    "source": "nyt",
-    "pubdate": "2026-05-11-01-07-05 +0000"
-  },
-  {
-    "headline": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
-    "link": "https://www.nytimes.com/2026/05/10/world/asia/thailand-thaksin-shinawatra-released-prison.html",
-    "source": "nyt",
-    "pubdate": "2026-05-11-01-07-05 +0000"
-  },
-  {
-    "headline": "Spurs star Victor Wembanyama ejected for flagrant foul after elbowing Wolves’ Naz Reid",
-    "link": "https://www.startribune.com/victor-wembanyama-ejected-flagrant-foul-timberwolves-nba-playoffs/601840761",
-    "source": "startribune",
-    "pubdate": "2026-05-11-01-03-28 +0000"
   },
   {
     "headline": "Wichita Is a Rare Mecca of Affordability for America’s New Middle Class",
@@ -68,6 +254,12 @@
   {
     "headline": "Wichita, Kan., is that rare American city betting its future on the middle class",
     "link": "https://www.wsj.com/economy/housing/wichita-kansas-middle-class-affordability-9db486ef",
+    "source": "wsj",
+    "pubdate": "2026-05-11-01-00-00 +0000"
+  },
+  {
+    "headline": "How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom",
+    "link": "https://www.wsj.com/tech/openai-employee-stock-sales-71ed10bd?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-11-01-00-00 +0000"
   },
@@ -93,25 +285,25 @@
     "headline": "Trump Says Iran’s Response to Latest U.S. Proposal ‘Totally Unacceptable’",
     "link": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html",
     "source": "nyt",
-    "pubdate": "2026-05-11-00-48-29 +0000"
+    "pubdate": "2026-05-11-00-48-30 +0000"
   },
   {
     "headline": "Trump Says Iran’s Response to Latest U.S. Proposal ‘Totally Unacceptable’",
     "link": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html",
     "source": "nyt",
-    "pubdate": "2026-05-11-00-48-29 +0000"
+    "pubdate": "2026-05-11-00-48-30 +0000"
   },
   {
     "headline": "Trump Says Iran’s Response to Latest U.S. Proposal ‘Totally Unacceptable’",
     "link": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html",
     "source": "nyt",
-    "pubdate": "2026-05-11-00-48-29 +0000"
+    "pubdate": "2026-05-11-00-48-30 +0000"
   },
   {
     "headline": "Trump Says Iran’s Response to Latest U.S. Proposal ‘Totally Unacceptable’",
     "link": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html",
     "source": "nyt",
-    "pubdate": "2026-05-11-00-48-29 +0000"
+    "pubdate": "2026-05-11-00-48-30 +0000"
   },
   {
     "headline": "Ailing Iran Nobel laureate given bail and hospital transfer",
@@ -297,13 +489,13 @@
     "headline": "Democratic Candidates Scramble in Virginia After Court Tosses Map",
     "link": "https://www.nytimes.com/2026/05/10/us/politics/virginia-democratic-candidates-redistricting.html",
     "source": "nyt",
-    "pubdate": "2026-05-10-22-59-38 +0000"
+    "pubdate": "2026-05-10-22-59-39 +0000"
   },
   {
     "headline": "Democratic Candidates Scramble in Virginia After Court Tosses Map",
     "link": "https://www.nytimes.com/2026/05/10/us/politics/virginia-democratic-candidates-redistricting.html",
     "source": "nyt",
-    "pubdate": "2026-05-10-22-59-38 +0000"
+    "pubdate": "2026-05-10-22-59-39 +0000"
   },
   {
     "headline": "Knicks fans score against hapless Philly even at Sixers’ arena: ‘All you can see is blue and orange’",
@@ -327,13 +519,13 @@
     "headline": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
     "link": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
     "source": "nyt",
-    "pubdate": "2026-05-10-22-27-57 +0000"
+    "pubdate": "2026-05-10-22-27-58 +0000"
   },
   {
     "headline": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
     "link": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
     "source": "nyt",
-    "pubdate": "2026-05-10-22-27-57 +0000"
+    "pubdate": "2026-05-10-22-27-58 +0000"
   },
   {
     "headline": "Iran’s Supreme Leader Is MIA, Just When Negotiators Need Him Most",
@@ -432,12 +624,6 @@
     "pubdate": "2026-05-10-21-20-35 +0000"
   },
   {
-    "headline": "Spencer Pratt shares emotional Mother’s Day video showing their wildfire hell",
-    "link": "https://nypost.com/2026/05/10/us-news/spencer-pratt-shares-mothers-day-video-showing-destroyed-home/",
-    "source": "nypost",
-    "pubdate": "2026-05-10-21-19-39 +0000"
-  },
-  {
     "headline": "BBC speaks with civilians inside Iran struggling with impact of war",
     "link": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -448,12 +634,6 @@
     "link": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-10-21-13-47 +0000"
-  },
-  {
-    "headline": "San Francisco plots outdoor smoking ban as locals erupt",
-    "link": "https://nypost.com/2026/05/10/us-news/liberal-haven-plots-draconian-outdoor-smoking-ban-as-locals-erupt/",
-    "source": "nypost",
-    "pubdate": "2026-05-10-21-12-15 +0000"
   },
   {
     "headline": "Remains of US soldier who fell off cliff in Morocco recovered, 2nd soldier still missing",
@@ -492,24 +672,6 @@
     "pubdate": "2026-05-10-21-00-00 +0000"
   },
   {
-    "headline": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-    "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-10-20-57-22 +0000"
-  },
-  {
-    "headline": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-    "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-10-20-57-22 +0000"
-  },
-  {
-    "headline": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-    "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-10-20-57-22 +0000"
-  },
-  {
     "headline": "Californian exposed to hantavirus aboard cruise ship resides in Bay Area, officials say",
     "link": "https://www.latimes.com/california/story/2026-05-10/californian-exposed-to-hantavirus-lives-in-bay-area-officials-say",
     "source": "latimes",
@@ -528,46 +690,10 @@
     "pubdate": "2026-05-10-20-53-29 +0000"
   },
   {
-    "headline": "Zohran Mamdani rubs elbows with Spike Lee to cheer on English soccer team in NYC",
-    "link": "https://nypost.com/2026/05/10/us-news/zohran-mamdani-rubs-elbows-with-spike-lee-to-cheer-on-english-soccer-team-in-nyc/",
-    "source": "nypost",
-    "pubdate": "2026-05-10-20-45-47 +0000"
-  },
-  {
-    "headline": "Health officials issue warning after 2nd case of measles on Long Island — with possible restaurant exposure",
-    "link": "https://nypost.com/2026/05/10/us-news/health-officials-issue-warning-after-2nd-case-of-measles-on-long-island-with-possible-restaurant-exposure/",
-    "source": "nypost",
-    "pubdate": "2026-05-10-20-35-39 +0000"
-  },
-  {
-    "headline": "Small-town female cop named person of interest in 2004 fatal hit-and-run — years after going to victim’s funeral",
-    "link": "https://nypost.com/2026/05/10/us-news/small-town-female-cop-named-person-of-interest-in-2004-fatal-hit-and-run/",
-    "source": "nypost",
-    "pubdate": "2026-05-10-20-30-41 +0000"
-  },
-  {
-    "headline": "Trump rages that NFL is ‘gouging’ fans with new push to move games to Netflix, Amazon: ‘Killing the golden goose’",
-    "link": "https://nypost.com/2026/05/10/us-news/trump-rages-that-nfl-is-gouging-fans-with-new-push-to-move-games-to-netflix-amazon/",
-    "source": "nypost",
-    "pubdate": "2026-05-10-20-25-42 +0000"
-  },
-  {
-    "headline": "Footage captures horrific moment maniac fatally shoves retired elderly teacher, 76, down NYC subway stairs",
-    "link": "https://nypost.com/2026/05/10/us-news/footage-captures-horrific-moment-maniac-fatally-shoves-retired-elderly-teacher-76-down-nyc-subway-stairs/",
-    "source": "nypost",
-    "pubdate": "2026-05-10-20-20-54 +0000"
-  },
-  {
     "headline": "Abraham Foxman, influential leader of Anti-Defamation League, dies at 86",
     "link": "https://www.washingtonpost.com/obituaries/2026/05/10/abraham-foxman-anti-defamation-league-dead/",
     "source": "wapo",
     "pubdate": "2026-05-10-20-19-39 +0000"
-  },
-  {
-    "headline": "Snap heatwave set to blast California as forecasters issue warning for millions",
-    "link": "https://nypost.com/2026/05/10/us-news/sudden-california-heatwave-as-forecasters-warn-millions/",
-    "source": "nypost",
-    "pubdate": "2026-05-10-20-16-11 +0000"
   },
   {
     "headline": "New AI office leases stoking hot Manhattan market",
@@ -598,12 +724,6 @@
     "link": "https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-10-20-05-53 +0000"
-  },
-  {
-    "headline": "Biden advisor points out huge hypocrisy in supporters of Tom Steyer for California governor",
-    "link": "https://nypost.com/2026/05/10/us-news/biden-aide-points-out-hypocrisy-in-supporters-of-tom-steyer-for-calif-governor/",
-    "source": "nypost",
-    "pubdate": "2026-05-10-20-03-24 +0000"
   },
   {
     "headline": "Biden advisor points out huge hypocrisy in supporters of Tom Steyer for California governor",
@@ -723,25 +843,13 @@
     "headline": "Lebanese Mourn Eight Members of One Family Killed in Israeli Strike",
     "link": "https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html",
     "source": "nyt",
-    "pubdate": "2026-05-10-19-46-40 +0000"
+    "pubdate": "2026-05-10-19-46-41 +0000"
   },
   {
     "headline": "Lebanese Mourn Eight Members of One Family Killed in Israeli Strike",
     "link": "https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html",
     "source": "nyt",
-    "pubdate": "2026-05-10-19-46-40 +0000"
-  },
-  {
-    "headline": "French national shows symptoms on return from hantavirus-hit ship",
-    "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-10-19-43-57 +0000"
-  },
-  {
-    "headline": "French national shows symptoms on return from hantavirus-hit ship",
-    "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-10-19-43-57 +0000"
+    "pubdate": "2026-05-10-19-46-41 +0000"
   },
   {
     "headline": "Britain’s Electorate Is ‘Splintering.’ Can Its System Stand the Strain?",
@@ -762,7 +870,7 @@
     "pubdate": "2026-05-10-19-11-13 +0000"
   },
   {
-    "headline": "Fearing an All-Republican Governor’s Race, Democrats Push for New Primary Rules in California",
+    "headline": "Democratic Angst Could Lead California to Change Primary Rules",
     "link": "https://www.nytimes.com/2026/05/10/us/california-primary-rules-change-democrats.html",
     "source": "nyt",
     "pubdate": "2026-05-10-19-09-51 +0000"
@@ -804,7 +912,7 @@
     "pubdate": "2026-05-10-18-47-00 +0000"
   },
   {
-    "headline": "Huge fire at L.A. office supplies store dwindles, then leaps in size; firefighter injured",
+    "headline": "Crews gain upper hand on fire in downtown L.A. fed by office supplies; firefighter injured",
     "link": "https://www.latimes.com/travel/story/2026-05-10/firefighter-injured-in-blaze-at-downtown-la-office-supplies-store",
     "source": "latimes",
     "pubdate": "2026-05-10-18-43-26 +0000"
@@ -825,7 +933,7 @@
     "headline": "After Stumbles, Technology Meant for Self-Driving Cars Finds a Second Act",
     "link": "https://www.nytimes.com/2026/05/07/business/autonomous-vehicles-technology-other-uses.html",
     "source": "nyt",
-    "pubdate": "2026-05-10-18-24-20 +0000"
+    "pubdate": "2026-05-10-18-24-21 +0000"
   },
   {
     "headline": "Rayner issues 'last chance' warning to Starmer and backs Burnham to return",
@@ -1140,12 +1248,6 @@
     "pubdate": "2026-05-10-13-49-01 +0000"
   },
   {
-    "headline": "Bobby Cox, One of Baseball’s Top Managers, Dies at 84",
-    "link": "https://www.nytimes.com/2026/05/09/us/bobby-cox-dead.html",
-    "source": "nyt",
-    "pubdate": "2026-05-10-13-46-51 +0000"
-  },
-  {
     "headline": "Sales Are Up. Celebrities Are In. Is Gap Officially Back?",
     "link": "https://www.nytimes.com/2026/05/10/business/richard-dickson-gap.html",
     "source": "nyt",
@@ -1404,14 +1506,14 @@
     "pubdate": "2026-05-10-10-00-44 +0000"
   },
   {
-    "headline": "Barabak: This is the most compelling California governor's race in ages. Really.",
-    "link": "https://www.latimes.com/politics/story/2026-05-10/california-governors-race-elitism-snobbery-voter-disconnect",
+    "headline": "Taiwan fears Trump will speak off-script on its fate in Beijing",
+    "link": "https://www.latimes.com/politics/story/2026-05-10/taiwan-fears-trump-will-speak-off-script-on-its-fate-in-beijing",
     "source": "latimes",
     "pubdate": "2026-05-10-10-00-00 +0000"
   },
   {
-    "headline": "Taiwan fears Trump will speak off-script on its fate in Beijing",
-    "link": "https://www.latimes.com/politics/story/2026-05-10/taiwan-fears-trump-will-speak-off-script-on-its-fate-in-beijing",
+    "headline": "Barabak: This is the most compelling California governor's race in ages. Really.",
+    "link": "https://www.latimes.com/politics/story/2026-05-10/california-governors-race-elitism-snobbery-voter-disconnect",
     "source": "latimes",
     "pubdate": "2026-05-10-10-00-00 +0000"
   },
@@ -1485,13 +1587,13 @@
     "headline": "What to Do About the White House Correspondents Dinner After an Attack?",
     "link": "https://www.nytimes.com/2026/05/10/us/politics/white-house-trump-dinner.html",
     "source": "nyt",
-    "pubdate": "2026-05-10-09-02-08 +0000"
+    "pubdate": "2026-05-10-09-02-09 +0000"
   },
   {
     "headline": "What to Do About the White House Correspondents Dinner After an Attack?",
     "link": "https://www.nytimes.com/2026/05/10/us/politics/white-house-trump-dinner.html",
     "source": "nyt",
-    "pubdate": "2026-05-10-09-02-08 +0000"
+    "pubdate": "2026-05-10-09-02-09 +0000"
   },
   {
     "headline": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
@@ -1564,95 +1666,5 @@
     "link": "https://nypost.com/2026/05/10/world-news/hantavirus-ridden-mv-hondius-cruise-ship-arrives-in-canary-islands-after-deadly-outbreak/",
     "source": "nypost",
     "pubdate": "2026-05-10-06-34-10 +0000"
-  },
-  {
-    "headline": "Campaigners call for ban on use of weedkiller glyphosate at harvest time",
-    "link": "https://www.bbc.com/news/articles/cvgz420ee0zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-10-05-33-42 +0000"
-  },
-  {
-    "headline": "Two people killed in in head-on car crash near Palmdale",
-    "link": "https://www.latimes.com/california/story/2026-05-09/two-people-killed-in-in-head-on-car-crash-near-palmdale",
-    "source": "latimes",
-    "pubdate": "2026-05-10-04-14-15 +0000"
-  },
-  {
-    "headline": "Red Card or Black Card? The Conscription Lottery in Thailand.",
-    "link": "https://www.nytimes.com/2026/05/10/world/asia/thailand-conscription-lottery.html",
-    "source": "nyt",
-    "pubdate": "2026-05-10-04-01-11 +0000"
-  },
-  {
-    "headline": "Red Card or Black Card? The Conscription Lottery in Thailand.",
-    "link": "https://www.nytimes.com/2026/05/10/world/asia/thailand-conscription-lottery.html",
-    "source": "nyt",
-    "pubdate": "2026-05-10-04-01-11 +0000"
-  },
-  {
-    "headline": "Suspected boat explosion injures 11 in Miami",
-    "link": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-10-03-24-44 +0000"
-  },
-  {
-    "headline": "Suspected boat explosion injures 11 in Miami",
-    "link": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-10-03-24-44 +0000"
-  },
-  {
-    "headline": "Kristin Smart's body not found, search ends at home tied to killer despite signs of remains",
-    "link": "https://www.latimes.com/california/story/2026-05-09/kristin-smarts-body-not-found-search-ends-at-home-tied-to-killer-despite-signs-of-remains",
-    "source": "latimes",
-    "pubdate": "2026-05-10-03-09-47 +0000"
-  },
-  {
-    "headline": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
-    "link": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-10-03-09-45 +0000"
-  },
-  {
-    "headline": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
-    "link": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-10-03-09-45 +0000"
-  },
-  {
-    "headline": "Private Credit Isn’t a Major Threat—Probably",
-    "link": "https://www.wsj.com/finance/investing/private-credit-financial-system-6039b39e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-10-03-00-00 +0000"
-  },
-  {
-    "headline": "How could extreme weather affect World Cup 2026?",
-    "link": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-10-02-56-30 +0000"
-  },
-  {
-    "headline": "NYC’s elites are tired of being painted as the enemy by Mamdani and his ilk",
-    "link": "https://nypost.com/2026/05/09/business/mamdani-has-made-enemies-with-nyc-business-leaders-after-griffin-video-fiasco/",
-    "source": "nypost",
-    "pubdate": "2026-05-10-02-53-27 +0000"
-  },
-  {
-    "headline": "A British Bookseller Rebuilds Barnes & Noble for a New Era",
-    "link": "https://www.wsj.com/business/media/barnes-and-noble-book-store-strategy-25c67016?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-10-02-00-00 +0000"
-  },
-  {
-    "headline": "A British Bookseller Rebuilds Barnes & Noble for a New Era",
-    "link": "https://www.wsj.com/business/media/barnes-and-noble-book-store-strategy-25c67016?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-10-02-00-00 +0000"
-  },
-  {
-    "headline": "One dead following fire, fireworks explosions in South L.A.",
-    "link": "https://www.latimes.com/california/story/2026-05-09/one-dead-following-fire-fireworks-explosions-in-south-la",
-    "source": "latimes",
-    "pubdate": "2026-05-10-01-49-15 +0000"
   }
 ]

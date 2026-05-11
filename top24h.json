@@ -1,31 +1,31 @@
 [
   {
-    "score": 123,
-    "pubdate": "2026-05-10-20-57-22 +0000",
+    "score": 140,
+    "pubdate": "2026-05-11-01-55-13 +0000",
     "source": "bbc",
     "headline": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
     "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 65,
+    "score": 70,
     "pubdate": "2026-05-10-18-47-00 +0000",
     "source": "nypost",
     "headline": "British army drops paratroopers onto remote Atlantic island to help hantavirus-infected cruise ship passenger",
     "link": "https://nypost.com/2026/05/10/world-news/british-army-uses-paratroopers-help-hantavirus-infected-cruise-ship-passenger/"
   },
   {
-    "score": 61,
-    "pubdate": "2026-05-10-19-09-51 +0000",
-    "source": "nyt",
-    "headline": "Fearing an All-Republican Governor’s Race, Democrats Push for New Primary Rules in California",
-    "link": "https://www.nytimes.com/2026/05/10/us/california-primary-rules-change-democrats.html"
-  },
-  {
-    "score": 48,
+    "score": 46,
     "pubdate": "2026-05-10-10-35-13 +0000",
     "source": "nyt",
     "headline": "Punch, the Lonely Monkey Who Drew Crowds to a Small Japan Zoo, Is Growing Up. He’s Still a Star.",
     "link": "https://www.nytimes.com/2026/05/09/world/asia/punch-baby-monkey-japan-zoo.html"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-05-11-00-35-41 +0000",
+    "source": "latimes",
+    "headline": "'Extremely scary': Specter of an all-GOP governor's race spurs push to remake open primary",
+    "link": "https://www.latimes.com/politics/story/2026-05-10/push-to-change-california-open-primary"
   },
   {
     "score": 42,
@@ -35,28 +35,21 @@
     "link": "https://www.bbc.com/news/articles/cx215yldr13o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 37,
+    "score": 40,
     "pubdate": "2026-05-10-19-52-44 +0000",
     "source": "nyt",
     "headline": "Trump Administration Is Considering Pausing the Federal Gas Tax to Lower Prices, Energy Secretary Says",
     "link": "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html"
   },
   {
-    "score": 37,
-    "pubdate": "2026-05-10-19-56-45 +0000",
-    "source": "bbc",
-    "headline": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
-    "link": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss"
+    "score": 39,
+    "pubdate": "2026-05-11-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Women are playing a bigger role in the American labor market. Occupations with heavily male workforces have been losing jobs, and the share of men working has flatlined.",
+    "link": "https://www.wsj.com/economy/jobs/a-changing-job-market-leans-against-men-ec4d6d68"
   },
   {
-    "score": 36,
-    "pubdate": "2026-05-11-01-07-05 +0000",
-    "source": "nyt",
-    "headline": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
-    "link": "https://www.nytimes.com/2026/05/10/world/asia/thailand-thaksin-shinawatra-released-prison.html"
-  },
-  {
-    "score": 35,
+    "score": 38,
     "pubdate": "2026-05-10-11-00-00 +0000",
     "source": "wsj",
     "headline": "China is increasingly dominating high-tech industries, while the low-value manufacturing sectors that powered the country’s rise are becoming less important economic drivers",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "NYPD captain’s transfer after viral rant bashing Mamdani shows City Hall has two sets of rules for Dems, Republicans: critics",
     "link": "https://nypost.com/2026/05/10/us-news/nypd-captains-transfer-after-viral-rant-shows-city-hall-has-two-sets-of-rules-for-dems-and-republicans-critics/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-05-11-03-10-52 +0000",
+    "source": "nyt",
+    "headline": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
+    "link": "https://www.nytimes.com/2026/05/10/world/asia/thailand-thaksin-shinawatra-released-prison.html"
   }
 ]
