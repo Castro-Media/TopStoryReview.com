@@ -1,17 +1,24 @@
 [
   {
-    "score": 160,
-    "pubdate": "2026-05-11-01-55-13 +0000",
-    "source": "bbc",
-    "headline": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-    "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
+    "score": 153,
+    "pubdate": "2026-05-11-13-47-26 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Iran Lists Demands That Trump Deemed ‘Unacceptable’",
+    "link": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz"
   },
   {
-    "score": 81,
+    "score": 75,
     "pubdate": "2026-05-10-18-47-00 +0000",
     "source": "nypost",
     "headline": "British army drops paratroopers onto remote Atlantic island to help hantavirus-infected cruise ship passenger",
     "link": "https://nypost.com/2026/05/10/world-news/british-army-uses-paratroopers-help-hantavirus-infected-cruise-ship-passenger/"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-05-10-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Simple Fix Small-Town Schools Are Using to Keep Teens Out of Dead-End Jobs",
+    "link": "https://www.wsj.com/personal-finance/the-simple-fix-small-town-schools-are-using-to-keep-teens-out-of-dead-end-jobs-89383278"
   },
   {
     "score": 52,
@@ -21,25 +28,11 @@
     "link": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 51,
-    "pubdate": "2026-05-11-09-02-12 +0000",
-    "source": "nyt",
-    "headline": "As Visa Policies Tighten, International Students Find Tougher Job Market",
-    "link": "https://www.nytimes.com/2026/05/11/us/politics/trump-visas-international-students-us-job-market.html"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-05-11-07-38-00 +0000",
-    "source": "wsj",
-    "headline": "European Gas Prices Rise on Stalled Peace Talks But LNG Transits Limit Gains",
-    "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-on-stalled-peace-talks-but-lng-transits-limit-gains-d58e7a57?mod=pls_whats_news_us_business_f"
-  },
-  {
     "score": 48,
-    "pubdate": "2026-05-11-09-30-00 +0000",
+    "pubdate": "2026-05-10-19-08-42 +0000",
     "source": "nypost",
-    "headline": "Families of Americans imprisoned in China have ‘glimmer of hope’ that Trump can free loved ones during Xi meeting",
-    "link": "https://nypost.com/2026/05/11/us-news/family-of-pastor-ezra-jin-dawn-hunt-ask-trump-to-free-them-from-china/"
+    "headline": "Trump admin open to pausing gas tax, Energy secretary says — here’s how much it would save drivers",
+    "link": "https://nypost.com/2026/05/10/us-news/trump-admin-open-to-pausing-gas-tax-energy-secretary-says/"
   },
   {
     "score": 47,
@@ -49,11 +42,18 @@
     "link": "https://nypost.com/2026/05/11/us-news/texas-gov-abbott-welcomes-ny-companies-after-mamdani-demonizes-ken-griffin/"
   },
   {
-    "score": 44,
-    "pubdate": "2026-05-10-23-32-40 +0000",
-    "source": "bbc",
-    "headline": "This couple lost £1,000 after their flight was cancelled - here is what to check so you don't",
-    "link": "https://www.bbc.com/news/articles/cx215yldr13o?at_medium=RSS&at_campaign=rss"
+    "score": 47,
+    "pubdate": "2026-05-11-09-30-00 +0000",
+    "source": "nypost",
+    "headline": "Families of Americans imprisoned in China have ‘glimmer of hope’ that Trump can free loved ones during Xi meeting",
+    "link": "https://nypost.com/2026/05/11/us-news/family-of-pastor-ezra-jin-dawn-hunt-ask-trump-to-free-them-from-china/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-05-11-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Inside Meta’s threat to exit New Mexico over kids safety rules — and whether experts believe the ploy will work",
+    "link": "https://nypost.com/2026/05/11/business/inside-metas-threat-to-exit-new-mexico-over-kids-safety-rules/"
   },
   {
     "score": 43,
@@ -63,10 +63,10 @@
     "link": "https://www.latimes.com/politics/story/2026-05-10/push-to-change-california-open-primary"
   },
   {
-    "score": 43,
-    "pubdate": "2026-05-11-03-10-52 +0000",
+    "score": 38,
+    "pubdate": "2026-05-11-11-41-23 +0000",
     "source": "nyt",
-    "headline": "Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now?",
-    "link": "https://www.nytimes.com/2026/05/10/world/asia/thailand-thaksin-shinawatra-released-prison.html"
+    "headline": "Starmer Promises Urgent Change as He Battles to Save Premiership",
+    "link": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html"
   }
 ]
