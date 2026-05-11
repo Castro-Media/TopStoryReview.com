@@ -1,27 +1,27 @@
 [
   {
-    "score": 391,
+    "score": 388,
     "pubdate": "2026-05-05-00-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s desire to end the Iran war is being put to the test after Tehran fired at American warships and violently disrupted a U.S. effort to revive shipping in the Strait of Hormuz",
     "link": "https://www.wsj.com/politics/national-security/attacks-on-u-s-warships-in-strait-test-trumps-desire-to-end-iran-war-182f2f2b"
   },
   {
-    "score": 183,
+    "score": 181,
     "pubdate": "2026-05-10-00-38-46 +0000",
     "source": "nyt",
     "headline": "Passengers on Hantavirus Cruise Ship Will Disembark in Tenerife and Return to Home Countries",
     "link": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html"
   },
   {
-    "score": 172,
-    "pubdate": "2026-05-07-09-33-00 +0000",
+    "score": 177,
+    "pubdate": "2026-05-09-01-00-00 +0000",
     "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
+    "headline": "It’s a labor market unlike any other: Unemployment has drifted up, layoffs are low, hiring is slow, and the economy needs far fewer new jobs than it did before",
+    "link": "https://www.wsj.com/economy/jobs/job-market-unemployment-rates-charts-55c8e85c"
   },
   {
-    "score": 119,
+    "score": 122,
     "pubdate": "2026-05-06-10-00-00 +0000",
     "source": "latimes",
     "headline": "Hiltzik: WNBA star Kelsey Plum is taking heat for getting California tax law wrong. But don't blame her",
@@ -35,38 +35,38 @@
     "link": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"
   },
   {
-    "score": 117,
+    "score": 111,
     "pubdate": "2026-05-10-00-00-00 +0000",
     "source": "wsj",
     "headline": "Republicans are playing defense in Ohio and a growing number of other red states, where Democrats are counting on voter backlash to power them to victory this fall in their fight to retake the Senate",
     "link": "https://www.wsj.com/politics/elections/in-bid-to-flip-senate-democrats-push-deep-into-trump-territory-97ed6b8d"
   },
   {
-    "score": 106,
+    "score": 101,
     "pubdate": "2026-05-10-13-12-05 +0000",
     "source": "nypost",
     "headline": "Iran tests cease-fire yet again with drone strikes on Gulf states, cargo ship as Trump awaits peace proposal response",
     "link": "https://nypost.com/2026/05/10/world-news/iran-continues-to-test-cease-fire-with-drone-strikes-on-gulf-states-and-cargo-ship/"
   },
   {
-    "score": 103,
+    "score": 99,
     "pubdate": "2026-05-08-22-15-00 +0000",
     "source": "wsj",
     "headline": "Virginia’s highest court threw out Democrats’ effort to draw more blue-leaning seats ahead of the midterm elections, in a major win for Republicans",
     "link": "https://www.wsj.com/politics/elections/virginia-supreme-court-democrats-redistricting-40807eea"
   },
   {
-    "score": 89,
-    "pubdate": "2026-05-05-21-22-00 +0000",
-    "source": "wsj",
-    "headline": "Canada Antitrust Watchdog Seeks to Block Keyera Deal for Plains’ Canada Gas Business",
-    "link": "https://www.wsj.com/business/energy-oil/canada-antitrust-watchdog-seeks-to-block-keyera-deal-for-plains-canada-gas-business-275758d2"
-  },
-  {
-    "score": 88,
+    "score": 96,
     "pubdate": "2026-05-11-00-35-41 +0000",
     "source": "latimes",
     "headline": "'Extremely scary': Specter of an all-GOP governor's race spurs push to remake open primary",
     "link": "https://www.latimes.com/politics/story/2026-05-10/push-to-change-california-open-primary"
+  },
+  {
+    "score": 95,
+    "pubdate": "2026-05-07-09-33-00 +0000",
+    "source": "wsj",
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   }
 ]
