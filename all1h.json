@@ -1,212 +1,188 @@
 [
   {
+    "headline": "Netflix is spying on children and selling user data, Texas AG Ken Paxton alleges in lawsuit",
+    "link": "https://nypost.com/2026/05/11/business/netflix-is-spying-on-children-and-selling-user-data-texas-ag-lawsuit/",
+    "source": "nypost",
+    "pubdate": "2026-05-12-01-23-06 +0000"
+  },
+  {
+    "headline": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+    "link": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-12-01-15-03 +0000"
+  },
+  {
+    "headline": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+    "link": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-12-01-15-03 +0000"
+  },
+  {
+    "headline": "Kari Lake, Who Led Effort to Shutter Voice of America, Is Named Ambassador to Jamaica",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/kari-lake-who-led-effort-to-shutter-voice-of-america-is-named-ambassador-to-jamaica.html",
+    "source": "nyt",
+    "pubdate": "2026-05-12-01-06-11 +0000"
+  },
+  {
+    "headline": "Kari Lake, Who Led Effort to Shutter Voice of America, Is Named Ambassador to Jamaica",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/kari-lake-who-led-effort-to-shutter-voice-of-america-is-named-ambassador-to-jamaica.html",
+    "source": "nyt",
+    "pubdate": "2026-05-12-01-06-11 +0000"
+  },
+  {
+    "headline": "Americans on both coasts who weren’t on MV Hondius being monitored for hantavirus after possible flight exposure",
+    "link": "https://nypost.com/2026/05/11/us-news/americans-on-both-coasts-who-werent-on-mv-hondius-being-monitored-for-hantavirus-after-possible-flight-exposure/",
+    "source": "nypost",
+    "pubdate": "2026-05-12-01-05-41 +0000"
+  },
+  {
     "headline": "Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
     "link": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
     "source": "nyt",
-    "pubdate": "2026-05-12-00-07-49 +0000"
+    "pubdate": "2026-05-12-01-02-13 +0000"
   },
   {
-    "headline": "Trump administration asks trade court to pause ruling on global tariffs",
-    "link": "https://www.cbc.ca/news/world/trump-administration-tariffs-ruling-9.7195850?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-05-12-00-07-11 +0000"
+    "headline": "Minnesota Senate votes to unmask immigration agents, allow residents to sue",
+    "link": "https://www.startribune.com/minnesota-senate-votes-to-unmask-immigration-agents-allow-residents-to-sue/601841495",
+    "source": "startribune",
+    "pubdate": "2026-05-12-01-01-51 +0000"
   },
   {
-    "headline": "After Capturing Maduro, Trump Celebrated Victory. Did It Bring Venezuelans Home?",
-    "link": "https://www.nytimes.com/2026/05/10/world/americas/venezuela-maduro-trump-migration.html",
-    "source": "nyt",
-    "pubdate": "2026-05-12-00-03-41 +0000"
-  },
-  {
-    "headline": "After Capturing Maduro, Trump Celebrated Victory. Did It Bring Venezuelans Home?",
-    "link": "https://www.nytimes.com/2026/05/10/world/americas/venezuela-maduro-trump-migration.html",
-    "source": "nyt",
-    "pubdate": "2026-05-12-00-03-41 +0000"
-  },
-  {
-    "headline": "UAE launched secret counter-strike against Iran that crippled oil refinery before cease-fire: report",
-    "link": "https://nypost.com/2026/05/11/world-news/uae-launched-secret-retaliatory-attacks-on-irans-oil-refinery-report/",
-    "source": "nypost",
-    "pubdate": "2026-05-12-00-03-27 +0000"
-  },
-  {
-    "headline": "China should stop hoarding food and fertiliser, says former World Bank chief",
-    "link": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-12-00-02-58 +0000"
-  },
-  {
-    "headline": "Big-city drivers are finding gas is a lot cheaper next door in red states — here are the biggest discounts",
-    "link": "https://nypost.com/2026/05/11/us-news/americans-on-the-hunt-for-cheaper-gas-and-willing-to-cross-state-lines/",
-    "source": "nypost",
-    "pubdate": "2026-05-12-00-02-51 +0000"
-  },
-  {
-    "headline": "Inside the Hantavirus Isolation Unit Where 15 Americans Wait",
-    "link": "https://www.nytimes.com/2026/05/11/us/nebraska-quarantine-hantavirus-ship-americans.html",
-    "source": "nyt",
-    "pubdate": "2026-05-12-00-02-01 +0000"
-  },
-  {
-    "headline": "Virginia Officials Ask Supreme Court to Restore Voting Map Drawn by Democrats",
-    "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-virginia-redistricting.html",
-    "source": "nyt",
-    "pubdate": "2026-05-11-23-59-19 +0000"
-  },
-  {
-    "headline": "Virginia Officials Ask Supreme Court to Restore Voting Map Drawn by Democrats",
-    "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-virginia-redistricting.html",
-    "source": "nyt",
-    "pubdate": "2026-05-11-23-59-19 +0000"
-  },
-  {
-    "headline": "Yen Consolidates as Traders Await Bessent’s Meetings",
-    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-as-traders-await-bessents-meetings-0f6b99b9?mod=rss_markets_main",
+    "headline": "The Insider-Trading Scandal That Is Rocking M&A Law Firms",
+    "link": "https://www.wsj.com/us-news/law/the-insider-trading-scandal-that-is-rocking-m-a-law-firms-67a561cc",
     "source": "wsj",
-    "pubdate": "2026-05-11-23-57-00 +0000"
+    "pubdate": "2026-05-12-01-00-00 +0000"
+  },
+  {
+    "headline": "The Insider-Trading Scandal That Is Rocking M&A Law Firms",
+    "link": "https://www.wsj.com/us-news/law/the-insider-trading-scandal-that-is-rocking-m-a-law-firms-67a561cc?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-12-01-00-00 +0000"
+  },
+  {
+    "headline": "The World’s Most Surprising Capitalist Makeover Is Under Way in Sweden",
+    "link": "https://www.wsj.com/world/europe/the-worlds-most-surprising-capitalist-makeover-is-under-way-in-sweden-a7830619",
+    "source": "wsj",
+    "pubdate": "2026-05-12-01-00-00 +0000"
+  },
+  {
+    "headline": "U.S. and Iran Are Locked in a Stalemate That’s Neither Peace Nor War",
+    "link": "https://www.wsj.com/articles/u-s-and-iran-are-locked-in-a-stalemate-thats-neither-peace-nor-war-8aac0066",
+    "source": "wsj",
+    "pubdate": "2026-05-12-01-00-00 +0000"
+  },
+  {
+    "headline": "Trump says Iran ceasefire is on 'massive life support'",
+    "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-12-00-59-12 +0000"
+  },
+  {
+    "headline": "Trump says Iran ceasefire is on 'massive life support'",
+    "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-12-00-59-12 +0000"
+  },
+  {
+    "headline": "Why Republicans Are Still Drawing House Maps, While Democrats Are Stuck",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/redistricting-republicans-democrats.html",
+    "source": "nyt",
+    "pubdate": "2026-05-12-00-57-44 +0000"
+  },
+  {
+    "headline": "Why Republicans Are Still Drawing House Maps, While Democrats Are Stuck",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/redistricting-republicans-democrats.html",
+    "source": "nyt",
+    "pubdate": "2026-05-12-00-57-44 +0000"
+  },
+  {
+    "headline": "Live from Game 4: Wild lead Avalanche 1-0 after one period on Danila Yurov’s power-play goal",
+    "link": "https://www.startribune.com/live-minnesota-wild-colorado-avalanche-nhl-playoffs-mackinnon-kaprizov-makar-hughes-boldy/601836818",
+    "source": "startribune",
+    "pubdate": "2026-05-12-00-54-05 +0000"
+  },
+  {
+    "headline": "Gavin Newsom faces growing pressure to suspend California gas tax as Trump takes action",
+    "link": "https://nypost.com/2026/05/11/us-news/gavin-newsom-faces-calls-to-cancel-gas-tax-as-trump-acts/",
+    "source": "nypost",
+    "pubdate": "2026-05-12-00-50-43 +0000"
+  },
+  {
+    "headline": "Gavin Newsom faces growing pressure to suspend California gas tax as Trump takes action",
+    "link": "https://nypost.com/2026/05/11/us-news/gavin-newsom-faces-calls-to-cancel-gas-tax-as-trump-acts/",
+    "source": "nypost",
+    "pubdate": "2026-05-12-00-50-43 +0000"
+  },
+  {
+    "headline": "Arcadia Mayor Eileen Wang Will Plead Guilty to Working as Chinese Agent",
+    "link": "https://www.nytimes.com/2026/05/11/us/arcadia-california-mayor-chinese-agent.html",
+    "source": "nyt",
+    "pubdate": "2026-05-12-00-45-11 +0000"
+  },
+  {
+    "headline": "The new battleship to be named after Trump will be nuclear-powered, a move expected to boost the cost and complexity of a project that was facing questions about its feasibility",
+    "link": "https://www.wsj.com/politics/national-security/trumps-battleship-will-be-nuclear-powered-navy-says-2e360ea9",
+    "source": "wsj",
+    "pubdate": "2026-05-12-00-43-00 +0000"
+  },
+  {
+    "headline": "Trump’s Battleship Will Be Nuclear Powered, Navy Says",
+    "link": "https://www.wsj.com/politics/national-security/trumps-battleship-will-be-nuclear-powered-navy-says-2e360ea9",
+    "source": "wsj",
+    "pubdate": "2026-05-12-00-43-00 +0000"
+  },
+  {
+    "headline": "The Trump administration said it would delay a plan to address high beef prices, which would have suspended tariffs on imported beef",
+    "link": "https://www.wsj.com/politics/policy/trump-clears-way-for-more-beef-imports-aiming-to-bring-down-record-high-prices-acf83faa",
+    "source": "wsj",
+    "pubdate": "2026-05-12-00-34-00 +0000"
   },
   {
     "headline": "Supreme Court Clears Path for Alabama to Use New Voting Map",
     "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html",
     "source": "nyt",
-    "pubdate": "2026-05-11-23-54-25 +0000"
+    "pubdate": "2026-05-12-00-33-02 +0000"
   },
   {
     "headline": "Supreme Court Clears Path for Alabama to Use New Voting Map",
     "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html",
     "source": "nyt",
-    "pubdate": "2026-05-11-23-54-25 +0000"
+    "pubdate": "2026-05-12-00-33-02 +0000"
   },
   {
-    "headline": "Long Island golf pro brings one simple to goal to his PGA Championship debut",
-    "link": "https://nypost.com/2026/05/11/sports/golf-pro-chris-gabriele-has-simple-to-goal-for-pga-championship-debut/",
-    "source": "nypost",
-    "pubdate": "2026-05-11-23-50-31 +0000"
-  },
-  {
-    "headline": "The Senate took another procedural step toward confirming Kevin Warsh as the next Federal Reserve chair, advancing his nomination to a final vote to join the Fed’s board",
-    "link": "https://www.wsj.com/economy/central-banking/senate-advances-to-final-vote-on-kevin-warsh-nomination-to-fed-board-a3396e98",
+    "headline": "Ukraine Corruption Investigation Ensnares Zelensky’s Ex-Top Aide",
+    "link": "https://www.wsj.com/world/ukraine-corruption-investigation-ensnares-zelenskys-ex-top-aide-f6298cec",
     "source": "wsj",
-    "pubdate": "2026-05-11-23-45-00 +0000"
+    "pubdate": "2026-05-12-00-33-00 +0000"
   },
   {
-    "headline": "Man who died on Mt. Wilson identified as film and TV composer Mark Smythe, 53",
-    "link": "https://www.latimes.com/entertainment-arts/story/2026-05-11/mark-smythe-mt-wilson-death-composer",
-    "source": "latimes",
-    "pubdate": "2026-05-11-23-41-33 +0000"
+    "headline": "Chris Mason: PM confronts his most difficult day as party revolts",
+    "link": "https://www.bbc.com/news/articles/cn9py15w5yxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-12-00-32-38 +0000"
   },
   {
-    "headline": "Pressure on Starmer Mounts as Dozens of Labour Lawmakers Call on Him to Quit",
-    "link": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
-    "source": "nyt",
-    "pubdate": "2026-05-11-23-41-32 +0000"
+    "headline": "Chris Mason: PM confronts his most difficult day as party revolts",
+    "link": "https://www.bbc.com/news/articles/cn9py15w5yxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-12-00-32-38 +0000"
   },
   {
-    "headline": "Pressure on Starmer Mounts as Dozens of Labour Lawmakers Call on Him to Quit",
-    "link": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
-    "source": "nyt",
-    "pubdate": "2026-05-11-23-41-32 +0000"
-  },
-  {
-    "headline": "Byron Allen taking over as BuzzFeed CEO after buying majority stake for $120M",
-    "link": "https://nypost.com/2026/05/11/media/byron-allen-taking-over-as-buzzfeed-ceo-after-buying-majority-stake-for-120m/",
-    "source": "nypost",
-    "pubdate": "2026-05-11-23-38-14 +0000"
-  },
-  {
-    "headline": "Gold Rises on Possible Position Adjustments",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-possible-position-adjustments-4b5f61f2?mod=rss_markets_main",
+    "headline": "JGBs Fall, Tracking Declines in U.S. Treasurys",
+    "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-2899a087?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-05-11-23-38-00 +0000"
+    "pubdate": "2026-05-12-00-32-00 +0000"
   },
   {
-    "headline": "Gold Rises on Possible Position Adjustments",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-possible-position-adjustments-4b5f61f2",
-    "source": "wsj",
-    "pubdate": "2026-05-11-23-38-00 +0000"
-  },
-  {
-    "headline": "Israeli parliament backs death penalty tribunal for Palestinians accused in Oct. 7 attack",
-    "link": "https://www.cbc.ca/news/world/israel-knesset-tribunal-oct-7-attackers-9.7195839?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-05-11-23-35-00 +0000"
-  },
-  {
-    "headline": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
-    "link": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-11-23-31-37 +0000"
-  },
-  {
-    "headline": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
-    "link": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-11-23-31-37 +0000"
-  },
-  {
-    "headline": "PM under pressure as aides quit and MPs call for him to resign",
-    "link": "https://www.bbc.com/news/articles/c7v9r38d24do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-11-23-30-55 +0000"
-  },
-  {
-    "headline": "U.S. Passengers Exposed to Hantavirus Begin Quarantine, Including One With Positive Test",
-    "link": "https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-quarantine-nebraska.html",
-    "source": "nyt",
-    "pubdate": "2026-05-11-23-30-13 +0000"
-  },
-  {
-    "headline": "Walmart braces for new $18 California law — it’s slightly different for every city",
-    "link": "https://nypost.com/2026/05/11/business/walmart-preps-for-southern-california-18-minimum-wage/",
+    "headline": "Influencer Jonathan ‘Foodgod’ Cheban vows to move back to California if Spencer Pratt brings the ‘old LA back’",
+    "link": "https://nypost.com/2026/05/11/us-news/influencer-jonathan-foodgod-cheban-vows-to-move-back-to-california-if-spencer-pratt-brings-the-old-la-back/",
     "source": "nypost",
-    "pubdate": "2026-05-11-23-24-14 +0000"
+    "pubdate": "2026-05-12-00-31-57 +0000"
   },
   {
-    "headline": "President Trump said he supports suspending the federal gasoline tax, responding to a surge in fuel prices driven by the war in Iran",
-    "link": "https://www.wsj.com/politics/policy/federal-gas-tax-trump-973a4d95",
-    "source": "wsj",
-    "pubdate": "2026-05-11-23-24-00 +0000"
-  },
-  {
-    "headline": "Not so dusty: How tech is changing woodworking",
-    "link": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-11-23-23-48 +0000"
-  },
-  {
-    "headline": "How the Trump-Xi summit could set superpower relations for many years to come",
-    "link": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-11-23-20-53 +0000"
-  },
-  {
-    "headline": "More hell for California parents as major school district quietly plots mass closures without telling board",
-    "link": "https://nypost.com/2026/05/11/us-news/more-hell-for-california-parents-as-major-school-district-quietly-plots-mass-closures-without-telling-board/",
+    "headline": "Influencer Jonathan ‘Foodgod’ Cheban vows to move back to California if Spencer Pratt brings the ‘old LA back’",
+    "link": "https://nypost.com/2026/05/11/us-news/influencer-jonathan-foodgod-cheban-vows-to-move-back-to-california-if-spencer-pratt-brings-the-old-la-back/",
     "source": "nypost",
-    "pubdate": "2026-05-11-23-19-38 +0000"
-  },
-  {
-    "headline": "Moment wide-eyed Hunter Biden panicks over plea deal in leaked clip from new documentary: ‘Who’s going to protect me?’",
-    "link": "https://nypost.com/2026/05/11/us-news/moment-wide-eyed-hunter-biden-panicks-over-plea-deal-in-leaked-clip-from-new-documentary-whos-going-to-protect-me/",
-    "source": "nypost",
-    "pubdate": "2026-05-11-23-19-35 +0000"
-  },
-  {
-    "headline": "Moment wide-eyed Hunter Biden panicks over plea deal in leaked clip from new documentary: ‘Who’s going to protect me?’",
-    "link": "https://nypost.com/2026/05/11/us-news/moment-wide-eyed-hunter-biden-panicks-over-plea-deal-in-leaked-clip-from-new-documentary-whos-going-to-protect-me/",
-    "source": "nypost",
-    "pubdate": "2026-05-11-23-19-35 +0000"
-  },
-  {
-    "headline": "US passengers from hantavirus cruise are quarantining at world-class hospitals — but nobody knows when they can leave",
-    "link": "https://nypost.com/2026/05/11/us-news/us-passengers-from-hantavirus-cruise-are-quarantining-at-world-class-hospitals-but-nobody-knows-when-they-can-leave/",
-    "source": "nypost",
-    "pubdate": "2026-05-11-23-17-29 +0000"
-  },
-  {
-    "headline": "Fraudster cheated poor 83-year-old woman out of her NYC brownstone: prosecutors",
-    "link": "https://nypost.com/2026/05/11/us-news/fraudster-cheated-83-year-old-woman-out-of-nyc-brownstone-prosecutors/",
-    "source": "nypost",
-    "pubdate": "2026-05-11-23-16-55 +0000"
+    "pubdate": "2026-05-12-00-31-57 +0000"
   }
 ]

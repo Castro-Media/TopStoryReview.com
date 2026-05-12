@@ -1,24 +1,24 @@
 [
   {
-    "score": 186,
+    "score": 181,
     "pubdate": "2026-05-11-23-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he supports suspending the federal gasoline tax, responding to a surge in fuel prices driven by the war in Iran",
     "link": "https://www.wsj.com/politics/policy/federal-gas-tax-trump-973a4d95"
   },
   {
-    "score": 100,
+    "score": 99,
     "pubdate": "2026-05-11-08-43-19 +0000",
     "source": "cbc",
     "headline": "3 more passengers, Spanish, French and American, evacuated from cruise ship test positive for hantavirus",
     "link": "https://www.cbc.ca/news/world/hantavirus-cruise-ship-evacuation-9.7194723?cmp=rss"
   },
   {
-    "score": 84,
-    "pubdate": "2026-05-11-16-39-00 +0000",
-    "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
+    "score": 81,
+    "pubdate": "2026-05-11-22-38-18 +0000",
+    "source": "nypost",
+    "headline": "DOJ weighing new criminal case against Dr. Anthony Fauci — despite Biden’s autopen pardon and statute of limitations running out",
+    "link": "https://nypost.com/2026/05/11/us-news/doj-weighing-new-criminal-case-against-dr-fauci-despite-bidens-autopen-pardon-and-statute-of-limitations/"
   },
   {
     "score": 72,
@@ -28,14 +28,14 @@
     "link": "https://nypost.com/2026/05/11/us-news/elon-musk-to-join-trump-in-china-for-high-stakes-xi-meeting/"
   },
   {
-    "score": 63,
+    "score": 61,
     "pubdate": "2026-05-11-22-38-31 +0000",
     "source": "nypost",
     "headline": "Supreme Court allows Alabama to redraw congressional maps before 2026 midterms — could eliminate two Dem seats",
     "link": "https://nypost.com/2026/05/11/us-news/supreme-court-allows-alabama-to-redraw-congressional-maps-before-2026-midterms/"
   },
   {
-    "score": 62,
+    "score": 61,
     "pubdate": "2026-05-11-21-38-00 +0000",
     "source": "nyt",
     "headline": "Nations Brace for Long-Term Economic Woes as Trump Calls Iran Truce Plan ‘Garbage’",
@@ -43,30 +43,30 @@
   },
   {
     "score": 60,
-    "pubdate": "2026-05-11-22-38-18 +0000",
-    "source": "nypost",
-    "headline": "DOJ weighing new criminal case against Dr. Anthony Fauci — despite Biden’s autopen pardon and statute of limitations running out",
-    "link": "https://nypost.com/2026/05/11/us-news/doj-weighing-new-criminal-case-against-dr-fauci-despite-bidens-autopen-pardon-and-statute-of-limitations/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-05-11-00-35-41 +0000",
-    "source": "latimes",
-    "headline": "'Extremely scary': Specter of an all-GOP governor's race spurs push to remake open primary",
-    "link": "https://www.latimes.com/politics/story/2026-05-10/push-to-change-california-open-primary"
-  },
-  {
-    "score": 47,
-    "pubdate": "2026-05-11-22-06-21 +0000",
-    "source": "nypost",
-    "headline": "Meta planning to take their Ray-Ban Display glasses to the next level: translating, remembering faces, where you put your keys and how much you tip",
-    "link": "https://nypost.com/2026/05/11/business/ai-takes-metas-ray-ban-display-glasses-to-the-next-level/"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-05-11-21-01-00 +0000",
+    "pubdate": "2026-05-11-16-39-00 +0000",
     "source": "wsj",
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-128f9a24?mod=rss_markets_main"
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-05-12-00-43-00 +0000",
+    "source": "wsj",
+    "headline": "The new battleship to be named after Trump will be nuclear-powered, a move expected to boost the cost and complexity of a project that was facing questions about its feasibility",
+    "link": "https://www.wsj.com/politics/national-security/trumps-battleship-will-be-nuclear-powered-navy-says-2e360ea9"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-05-12-00-50-43 +0000",
+    "source": "nypost",
+    "headline": "Gavin Newsom faces growing pressure to suspend California gas tax as Trump takes action",
+    "link": "https://nypost.com/2026/05/11/us-news/gavin-newsom-faces-calls-to-cancel-gas-tax-as-trump-acts/"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-05-11-13-56-00 +0000",
+    "source": "wsj",
+    "headline": "Aramco Sees Oil Market Losing 100 Million Barrels a Week if Hormuz Remains Closed",
+    "link": "https://www.wsj.com/business/energy-oil/aramco-sees-oil-market-losing-100-million-barrels-a-week-if-hormuz-remains-closed-6d5039e1?mod=pls_whats_news_us_business_f"
   }
 ]
