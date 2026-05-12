@@ -1,52 +1,59 @@
 [
   {
-    "score": 191,
+    "score": 207,
     "pubdate": "2026-05-11-23-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he supports suspending the federal gasoline tax, responding to a surge in fuel prices driven by the war in Iran",
     "link": "https://www.wsj.com/politics/policy/federal-gas-tax-trump-973a4d95"
   },
   {
-    "score": 85,
+    "score": 86,
+    "pubdate": "2026-05-12-11-12-09 +0000",
+    "source": "nypost",
+    "headline": "Trump heads to China for Xi Jinping summit that will test ‘great relationship’",
+    "link": "https://nypost.com/2026/05/12/us-news/trump-heads-to-china-for-xi-jinping-summit-that-will-test-great-relationship/"
+  },
+  {
+    "score": 84,
     "pubdate": "2026-05-12-01-39-11 +0000",
     "source": "bbc",
     "headline": "What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship",
     "link": "https://www.bbc.com/news/articles/cn4pq1y1zjgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 75,
-    "pubdate": "2026-05-11-16-34-44 +0000",
-    "source": "nypost",
-    "headline": "Elon Musk to join Trump in China for high-stakes Xi meeting – along with Apple, Meta and Boeing bigwigs",
-    "link": "https://nypost.com/2026/05/11/us-news/elon-musk-to-join-trump-in-china-for-high-stakes-xi-meeting/"
-  },
-  {
-    "score": 73,
-    "pubdate": "2026-05-12-00-43-00 +0000",
-    "source": "wsj",
-    "headline": "The new battleship to be named after Trump will be nuclear-powered, a move expected to boost the cost and complexity of a project that was facing questions about its feasibility",
-    "link": "https://www.wsj.com/politics/national-security/trumps-battleship-will-be-nuclear-powered-navy-says-2e360ea9"
-  },
-  {
-    "score": 66,
+    "score": 77,
     "pubdate": "2026-05-12-02-26-06 +0000",
     "source": "nyt",
     "headline": "Starmer Faces Mounting Calls From Own Party to Resign as British Prime Minister",
     "link": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html"
   },
   {
-    "score": 64,
+    "score": 73,
     "pubdate": "2026-05-11-17-43-38 +0000",
     "source": "nypost",
     "headline": "OpenAI employees cashed out $6.6B in stock sales last fall, earning up to $30M each: report",
     "link": "https://nypost.com/2026/05/11/business/openai-employees-cashed-out-6-6b-in-stock-sales-last-fall-earning-up-to-30m-each-report/"
   },
   {
-    "score": 62,
+    "score": 61,
+    "pubdate": "2026-05-11-16-39-00 +0000",
+    "source": "wsj",
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
+  },
+  {
+    "score": 59,
     "pubdate": "2026-05-12-05-34-02 +0000",
     "source": "nypost",
     "headline": "Saudi Aramco CEO warns oil markets may not recover until 2027 due to Hormuz disruptions",
     "link": "https://nypost.com/2026/05/12/business/saudi-aramco-ceo-warns-oil-markets-may-not-recover-until-2027-due-to-hormuz-disruptions/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-05-11-21-38-00 +0000",
+    "source": "nyt",
+    "headline": "Nations Brace for Long-Term Economic Woes as Trump Calls Iran Truce Plan ‘Garbage’",
+    "link": "https://www.nytimes.com/2026/05/11/world/middleeast/economic-woes-trump-iran-truce.html"
   },
   {
     "score": 50,
@@ -56,17 +63,10 @@
     "link": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d"
   },
   {
-    "score": 49,
-    "pubdate": "2026-05-11-22-38-31 +0000",
-    "source": "nypost",
-    "headline": "Supreme Court allows Alabama to redraw congressional maps before 2026 midterms — could eliminate two Dem seats",
-    "link": "https://nypost.com/2026/05/11/us-news/supreme-court-allows-alabama-to-redraw-congressional-maps-before-2026-midterms/"
-  },
-  {
     "score": 48,
-    "pubdate": "2026-05-11-21-38-00 +0000",
-    "source": "nyt",
-    "headline": "Nations Brace for Long-Term Economic Woes as Trump Calls Iran Truce Plan ‘Garbage’",
-    "link": "https://www.nytimes.com/2026/05/11/world/middleeast/economic-woes-trump-iran-truce.html"
+    "pubdate": "2026-05-11-19-37-17 +0000",
+    "source": "bbc",
+    "headline": "EU agrees sanctions on Israeli settlers over West Bank violence",
+    "link": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss"
   }
 ]
