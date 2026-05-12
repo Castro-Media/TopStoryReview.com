@@ -1,72 +1,72 @@
 [
   {
-    "score": 44,
-    "pubdate": "2026-05-12-07-38-59 +0000",
+    "score": 31,
+    "pubdate": "2026-05-12-09-26-23 +0000",
+    "source": "nyt",
+    "headline": "Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
+    "link": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-05-12-09-00-30 +0000",
+    "source": "nyt",
+    "headline": "How do Two London Luxury Hotels Compare? Testing the Chancery Rosewood and Raffles at the OWO.",
+    "link": "https://www.nytimes.com/2026/05/12/travel/luxury-hotels-london-chancery-rosewood-raffles-owo.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-05-12-09-31-45 +0000",
     "source": "bbc",
-    "headline": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
-    "link": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss"
+    "headline": "US in closely guarded talks to open new bases in Greenland",
+    "link": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 20,
-    "pubdate": "2026-05-12-06-52-56 +0000",
-    "source": "bbc",
-    "headline": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
-    "link": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss"
+    "score": 19,
+    "pubdate": "2026-05-12-09-03-42 +0000",
+    "source": "nyt",
+    "headline": "China Sought Access to Anthropic’s Newest A.I. The Answer Was No.",
+    "link": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html"
   },
   {
-    "score": 15,
-    "pubdate": "2026-05-12-07-16-45 +0000",
-    "source": "nypost",
-    "headline": "Pennsylvania liberal arts college drops professor’s name from campus building after he excavated Native American burial site",
-    "link": "https://nypost.com/2026/05/12/us-news/swarthmore-college-drops-professors-name-from-campus-building-after-he-excavated-native-american-burial-site/"
+    "score": 19,
+    "pubdate": "2026-05-12-09-01-34 +0000",
+    "source": "nyt",
+    "headline": "Russia Keeps Attacking U.S. Firms in Ukraine. The White House Is Silent.",
+    "link": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html"
   },
   {
-    "score": 11,
-    "pubdate": "2026-05-12-06-56-00 +0000",
+    "score": 18,
+    "pubdate": "2026-05-12-09-00-30 +0000",
+    "source": "wapo",
+    "headline": "Most deportees under Trump are men, leaving women to care for families alone",
+    "link": "https://www.washingtonpost.com/immigration/interactive/2026/trump-deportations-ice-fathers-families/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-05-12-09-29-23 +0000",
+    "source": "nyt",
+    "headline": "Who Might Challenge Starmer in a Leadership Contest?",
+    "link": "https://www.nytimes.com/2026/05/12/world/europe/who-might-challenge-starmer-in-a-leadership-contest.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-12-09-00-00 +0000",
     "source": "wsj",
-    "headline": "Monte dei Paschi Net Profit Rises on Mediobanca Contribution",
-    "link": "https://www.wsj.com/business/earnings/monte-dei-paschi-net-profit-rises-on-mediobanca-contribution-735dd323?mod=pls_whats_news_us_business_f"
+    "headline": "Louisiana Republican Rep. Julia Letlow is locked in a bitter primary that is testing the president’s power to shape MAGA’s next generation",
+    "link": "https://www.wsj.com/politics/elections/louisiana-julia-letlow-republican-midterm-election-6620d0a2"
   },
   {
-    "score": 10,
-    "pubdate": "2026-05-12-07-46-37 +0000",
-    "source": "nypost",
-    "headline": "Xi’s anti-corruption crackdown sentences former Chinese defense ministers to death",
-    "link": "https://nypost.com/2026/05/12/world-news/xis-anti-corruption-crackdown-sentences-former-chinese-defense-ministers-to-death/"
+    "score": 12,
+    "pubdate": "2026-05-12-09-03-09 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Rise on U.S.-Iran Standoff",
+    "link": "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-05-12-07-17-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Gains 2% as Fragile U.S.-Iran Cease-Fire Fuels Concerns",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-as-markets-weigh-prolonged-hormuz-strait-closure-09c43797?mod=rss_markets_main"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-05-12-07-31-14 +0000",
-    "source": "bbc",
-    "headline": "Pakistan struck a rehab centre and killed 269 Afghans. Their families want to know why",
-    "link": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-05-12-07-17-00 +0000",
-    "source": "wsj",
-    "headline": "Tencent Shareholder Prosus Hits Targets, Plans to Accelerate Investments in iFood",
-    "link": "https://www.wsj.com/business/earnings/tencent-shareholder-prosus-hits-targets-plans-to-accelerate-investments-in-ifood-3066cba2?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-05-12-07-27-00 +0000",
-    "source": "wsj",
-    "headline": "Imperial Brands Revenue Rises, Fueled By Next-Generation Products",
-    "link": "https://www.wsj.com/business/earnings/imperial-brands-revenue-rises-fueled-by-next-generation-products-6c4ca8f7?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-05-12-07-25-00 +0000",
-    "source": "wsj",
-    "headline": "Gilt Yields Advance Due to U.K. Political Crisis, Inflation Concerns",
-    "link": "https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-2899a087?mod=rss_markets_main"
+    "score": 12,
+    "pubdate": "2026-05-12-09-02-35 +0000",
+    "source": "nyt",
+    "headline": "What to Watch in Tuesday’s Primaries in Nebraska and West Virginia",
+    "link": "https://www.nytimes.com/2026/05/12/us/politics/what-to-watch-nebraska-west-virginia-primaries.html"
   }
 ]
