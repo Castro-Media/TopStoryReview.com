@@ -1,31 +1,38 @@
 [
   {
-    "score": 181,
+    "score": 182,
     "pubdate": "2026-05-11-23-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he supports suspending the federal gasoline tax, responding to a surge in fuel prices driven by the war in Iran",
     "link": "https://www.wsj.com/politics/policy/federal-gas-tax-trump-973a4d95"
   },
   {
-    "score": 91,
+    "score": 89,
     "pubdate": "2026-05-12-01-39-11 +0000",
     "source": "bbc",
     "headline": "What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship",
     "link": "https://www.bbc.com/news/articles/cn4pq1y1zjgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 76,
+    "score": 80,
     "pubdate": "2026-05-11-16-34-44 +0000",
     "source": "nypost",
     "headline": "Elon Musk to join Trump in China for high-stakes Xi meeting – along with Apple, Meta and Boeing bigwigs",
     "link": "https://nypost.com/2026/05/11/us-news/elon-musk-to-join-trump-in-china-for-high-stakes-xi-meeting/"
   },
   {
-    "score": 75,
-    "pubdate": "2026-05-11-16-39-00 +0000",
+    "score": 78,
+    "pubdate": "2026-05-12-00-43-00 +0000",
     "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
+    "headline": "The new battleship to be named after Trump will be nuclear-powered, a move expected to boost the cost and complexity of a project that was facing questions about its feasibility",
+    "link": "https://www.wsj.com/politics/national-security/trumps-battleship-will-be-nuclear-powered-navy-says-2e360ea9"
+  },
+  {
+    "score": 64,
+    "pubdate": "2026-05-11-17-43-38 +0000",
+    "source": "nypost",
+    "headline": "OpenAI employees cashed out $6.6B in stock sales last fall, earning up to $30M each: report",
+    "link": "https://nypost.com/2026/05/11/business/openai-employees-cashed-out-6-6b-in-stock-sales-last-fall-earning-up-to-30m-each-report/"
   },
   {
     "score": 60,
@@ -36,37 +43,30 @@
   },
   {
     "score": 56,
-    "pubdate": "2026-05-12-00-43-00 +0000",
+    "pubdate": "2026-05-12-02-00-00 +0000",
     "source": "wsj",
-    "headline": "The new battleship to be named after Trump will be nuclear-powered, a move expected to boost the cost and complexity of a project that was facing questions about its feasibility",
-    "link": "https://www.wsj.com/politics/national-security/trumps-battleship-will-be-nuclear-powered-navy-says-2e360ea9"
+    "headline": "An effort from Democrats to redraw maps in more states comes as two court rulings shatter the party’s optimism for beating Republicans in a gerrymandering battle",
+    "link": "https://www.wsj.com/politics/elections/democrats-target-new-states-to-win-redistricting-war-27804282"
   },
   {
-    "score": 56,
-    "pubdate": "2026-05-12-03-20-00 +0000",
-    "source": "wsj",
-    "headline": "OpenAI’s Sam Altman’s personal investments are coming under intensifying scrutiny from Republicans following an April article in The Wall Street Journal",
-    "link": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-05-11-07-53-53 +0000",
-    "source": "bbc",
-    "headline": "BBC tests out England and Argentina's World Cup training grounds in Kansas City",
-    "link": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 54,
+    "score": 53,
     "pubdate": "2026-05-12-05-34-02 +0000",
     "source": "nypost",
     "headline": "Saudi Aramco CEO warns oil markets may not recover until 2027 due to Hormuz disruptions",
     "link": "https://nypost.com/2026/05/12/business/saudi-aramco-ceo-warns-oil-markets-may-not-recover-until-2027-due-to-hormuz-disruptions/"
   },
   {
-    "score": 52,
+    "score": 53,
     "pubdate": "2026-05-12-00-50-43 +0000",
     "source": "nypost",
     "headline": "Gavin Newsom faces growing pressure to suspend California gas tax as Trump takes action",
     "link": "https://nypost.com/2026/05/11/us-news/gavin-newsom-faces-calls-to-cancel-gas-tax-as-trump-acts/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-05-12-04-11-42 +0000",
+    "source": "bbc",
+    "headline": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
+    "link": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss"
   }
 ]
