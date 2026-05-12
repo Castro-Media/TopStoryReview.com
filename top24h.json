@@ -1,27 +1,20 @@
 [
   {
-    "score": 236,
+    "score": 235,
     "pubdate": "2026-05-11-23-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he supports suspending the federal gasoline tax, responding to a surge in fuel prices driven by the war in Iran",
     "link": "https://www.wsj.com/politics/policy/federal-gas-tax-trump-973a4d95"
   },
   {
-    "score": 89,
+    "score": 82,
     "pubdate": "2026-05-12-11-12-09 +0000",
     "source": "nypost",
     "headline": "Trump heads to China for Xi Jinping summit that will test ‘great relationship’",
     "link": "https://nypost.com/2026/05/12/us-news/trump-heads-to-china-for-xi-jinping-summit-that-will-test-great-relationship/"
   },
   {
-    "score": 82,
-    "pubdate": "2026-05-12-01-39-11 +0000",
-    "source": "bbc",
-    "headline": "What comes next for US and Canada passengers evacuated from hantavirus-hit cruise ship",
-    "link": "https://www.bbc.com/news/articles/cn4pq1y1zjgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 74,
+    "score": 77,
     "pubdate": "2026-05-12-02-26-06 +0000",
     "source": "nyt",
     "headline": "Starmer Faces Mounting Calls From Own Party to Resign as British Prime Minister",
@@ -29,31 +22,38 @@
   },
   {
     "score": 73,
+    "pubdate": "2026-05-11-18-21-50 +0000",
+    "source": "nypost",
+    "headline": "Hantavirus cruise ship captain bids emotional farewell to passengers as they evacuate:  ‘I’ve witnessed your caring, your unity’",
+    "link": "https://nypost.com/2026/05/11/world-news/hantavirus-cruise-ship-captain-bids-emotional-farewell-to-passengers-as-they-are-evacuated/"
+  },
+  {
+    "score": 68,
     "pubdate": "2026-05-11-16-39-00 +0000",
     "source": "wsj",
     "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
     "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
-    "score": 65,
-    "pubdate": "2026-05-12-03-20-00 +0000",
+    "score": 63,
+    "pubdate": "2026-05-12-15-34-00 +0000",
     "source": "wsj",
     "headline": "OpenAI’s Sam Altman’s personal investments are coming under intensifying scrutiny from Republicans following an April article in The Wall Street Journal",
     "link": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d"
   },
   {
-    "score": 57,
+    "score": 52,
+    "pubdate": "2026-05-12-14-49-00 +0000",
+    "source": "nypost",
+    "headline": "Hochul forks over another $4B to bail out Mamdani’s NYC budget woes as she faces intense election pressure",
+    "link": "https://nypost.com/2026/05/12/us-news/hochul-forks-over-another-4b-to-bail-out-mamdanis-nyc-budget-woes-as-she-faces-intense-election-pressure/"
+  },
+  {
+    "score": 52,
     "pubdate": "2026-05-12-05-34-02 +0000",
     "source": "nypost",
     "headline": "Saudi Aramco CEO warns oil markets may not recover until 2027 due to Hormuz disruptions",
     "link": "https://nypost.com/2026/05/12/business/saudi-aramco-ceo-warns-oil-markets-may-not-recover-until-2027-due-to-hormuz-disruptions/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-05-12-04-11-42 +0000",
-    "source": "bbc",
-    "headline": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
-    "link": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 50,
@@ -64,9 +64,9 @@
   },
   {
     "score": 49,
-    "pubdate": "2026-05-11-17-43-38 +0000",
-    "source": "nypost",
-    "headline": "OpenAI employees cashed out $6.6B in stock sales last fall, earning up to $30M each: report",
-    "link": "https://nypost.com/2026/05/11/business/openai-employees-cashed-out-6-6b-in-stock-sales-last-fall-earning-up-to-30m-each-report/"
+    "pubdate": "2026-05-12-04-11-42 +0000",
+    "source": "bbc",
+    "headline": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
+    "link": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss"
   }
 ]
