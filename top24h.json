@@ -1,6 +1,6 @@
 [
   {
-    "score": 247,
+    "score": 238,
     "pubdate": "2026-05-12-19-30-07 +0000",
     "source": "nyt",
     "headline": "Trump and Xi Enter China Summit Distracted by Iran War",
@@ -15,45 +15,38 @@
   },
   {
     "score": 82,
-    "pubdate": "2026-05-13-01-59-53 +0000",
-    "source": "bbc",
-    "headline": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
-    "link": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 79,
     "pubdate": "2026-05-12-22-09-00 +0000",
     "source": "wsj",
     "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
     "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
-    "score": 68,
-    "pubdate": "2026-05-12-22-42-49 +0000",
-    "source": "nypost",
-    "headline": "Fugitive Malaysian financier Jho Low, alleged mastermind of 1MDB scandal, seeks Trump pardon: report",
-    "link": "https://nypost.com/2026/05/12/business/fugitive-malaysian-financier-jho-low-seeks-trump-pardon-report/"
+    "score": 79,
+    "pubdate": "2026-05-13-01-59-53 +0000",
+    "source": "bbc",
+    "headline": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
+    "link": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 63,
+    "score": 68,
+    "pubdate": "2026-05-13-00-36-41 +0000",
+    "source": "cbc",
+    "headline": "Sexual violence was 'deliberate tactic' and integral to Hamas-led Oct. 7 attacks, report finds",
+    "link": "https://www.cbc.ca/news/world/sexual-violence-oct-7-attacks-hamas-report-9.7197456?cmp=rss"
+  },
+  {
+    "score": 62,
     "pubdate": "2026-05-12-18-39-39 +0000",
     "source": "nypost",
     "headline": "WHO warns that more hantavirus cases are likely — but ‘no sign’ of widespread outbreak from cruise ship",
     "link": "https://nypost.com/2026/05/12/world-news/who-says-more-hantavirus-cases-likely-but-no-sign-of-widespread-outbreak/"
   },
   {
-    "score": 58,
-    "pubdate": "2026-05-12-20-34-39 +0000",
-    "source": "latimes",
-    "headline": "EBay rejects GameStop's $56-billion takeover offer",
-    "link": "https://www.latimes.com/business/story/2026-05-12/ebay-rejects-gamestops-56-billion-takeover-offer"
-  },
-  {
     "score": 57,
-    "pubdate": "2026-05-12-17-25-14 +0000",
+    "pubdate": "2026-05-13-01-20-35 +0000",
     "source": "nypost",
-    "headline": "Sam Altman faces heat as he takes witness stand in landmark OpenAI trial: ‘Are you completely trustworthy?’",
-    "link": "https://nypost.com/2026/05/12/business/altman-goes-on-offensive-in-landmark-openai-trial/"
+    "headline": "Cindy Burbank — who plans to drop out of general election — defeats alleged GOP ‘plant’ in bizarre Nebraska Democratic Senate primary",
+    "link": "https://nypost.com/2026/05/12/us-news/cindy-burbank-a-disloyal-hack-who-plans-to-drop-senate-bid-defeats-gop-plant-in-bizarre-nebraska-democratic-primary/"
   },
   {
     "score": 56,
@@ -64,9 +57,16 @@
   },
   {
     "score": 55,
-    "pubdate": "2026-05-13-09-30-00 +0000",
+    "pubdate": "2026-05-12-17-25-14 +0000",
     "source": "nypost",
-    "headline": "Divorcée accused of blackmailing billionaire Bucks owner Wesley Edens was bailed out by Chinese foreign agent",
-    "link": "https://nypost.com/2026/05/13/us-news/wesley-edens-blackmail-suspect-bailed-out-by-chinese-foreign-agent/"
+    "headline": "Sam Altman faces heat as he takes witness stand in landmark OpenAI trial: ‘Are you completely trustworthy?’",
+    "link": "https://nypost.com/2026/05/12/business/altman-goes-on-offensive-in-landmark-openai-trial/"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-05-13-00-40-54 +0000",
+    "source": "bbc",
+    "headline": "Jason Collins, NBA's first openly gay player, dies aged 47",
+    "link": "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss"
   }
 ]
