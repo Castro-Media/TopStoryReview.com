@@ -1,6 +1,6 @@
 [
   {
-    "score": 350,
+    "score": 339,
     "pubdate": "2026-05-14-09-23-29 +0000",
     "source": "nypost",
     "headline": "Taiwan says no surprises from Trump-Xi summit, China should end military pressure",
@@ -14,39 +14,32 @@
     "link": "https://www.wsj.com/politics/policy/warsh-confirmed-as-fed-chair-in-narrowest-margin-since-1977-7e59e8a0"
   },
   {
-    "score": 120,
+    "score": 115,
     "pubdate": "2026-05-14-13-00-05 +0000",
     "source": "nyt",
     "headline": "A Fact Check of Trump’s Claims on Inflation and Gas Prices in Iran War",
     "link": "https://www.nytimes.com/2026/05/14/us/politics/trump-iran-war-economy-cost.html"
   },
   {
-    "score": 79,
+    "score": 77,
     "pubdate": "2026-05-13-22-29-26 +0000",
     "source": "latimes",
     "headline": "Vance says $1.3 billion in Medicaid payments to California will be deferred over fraud concerns",
     "link": "https://www.latimes.com/california/story/2026-05-13/vance-says-1-3-billion-in-medicaid-payments-to-california-will-be-deferred-over-fraud-concerns"
   },
   {
-    "score": 68,
+    "score": 65,
     "pubdate": "2026-05-14-11-56-53 +0000",
     "source": "nyt",
     "headline": "Chinese Media Cast Trump’s Visit as a Sign of Beijing’s Rising Stature",
     "link": "https://www.nytimes.com/2026/05/14/world/asia/china-trump-xi-media.html"
   },
   {
-    "score": 63,
+    "score": 62,
     "pubdate": "2026-05-14-09-06-23 +0000",
     "source": "bbc",
     "headline": "Cuba has run out of diesel and oil, energy minister says",
     "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-05-13-15-35-15 +0000",
-    "source": "bbc",
-    "headline": "Gunshots fired in Philippine Senate where lawmaker wanted by ICC is holed up",
-    "link": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 50,
@@ -68,5 +61,12 @@
     "source": "latimes",
     "headline": "Another Californian was exposed to hantavirus in deadly cruise ship outbreak, officials announce",
     "link": "https://www.latimes.com/california/story/2026-05-14/fifth-californian-was-exposed-to-hantavirus-on-cruise-ship-officials-say"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-05-14-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Jerome Powell is wrapping up eight hazard-filled years as Fed chair, and weathered the most sustained political assault on the central bank in its modern history",
+    "link": "https://www.wsj.com/economy/central-banking/how-eight-tumultuous-years-pushed-jerome-powell-and-the-fed-to-the-limit-96388c46"
   }
 ]
