@@ -1,31 +1,38 @@
 [
   {
-    "score": 336,
-    "pubdate": "2026-05-14-16-17-32 +0000",
+    "score": 309,
+    "pubdate": "2026-05-14-10-47-10 +0000",
     "source": "nypost",
-    "headline": "Xi Jinping said China ‘would love to be a help’ with Iran, Trump claims",
-    "link": "https://nypost.com/2026/05/14/us-news/xi-jinping-said-china-would-love-to-be-a-help-with-iran-trump-claims/"
+    "headline": "Trump sets date for Xi Jinping White House visit, touts ‘special relationship’ with China",
+    "link": "https://nypost.com/2026/05/14/us-news/trump-invites-xi-jinping-to-visit-white-house-later-this-year-touts-special-relationship-with-china/"
   },
   {
-    "score": 174,
+    "score": 124,
     "pubdate": "2026-05-13-21-29-00 +0000",
     "source": "wsj",
     "headline": "Kevin Warsh is officially the new Fed chair, the White House considers 250 pardons to mark America’s birthday, and Drake is back with a new album. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/warsh-confirmed-as-fed-chair-in-narrowest-margin-since-1977-7e59e8a0"
   },
   {
-    "score": 95,
-    "pubdate": "2026-05-14-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Hiltzik: Trump's 'weird war' on wind power will jeopardize our energy future and cost Americans billions",
-    "link": "https://www.latimes.com/business/story/2026-05-14/trumps-weird-war-on-wind-power-will-cost-americans-billions-of-dollars"
+    "score": 105,
+    "pubdate": "2026-05-14-13-00-05 +0000",
+    "source": "nyt",
+    "headline": "A Fact Check of Trump’s Claims on Inflation and Gas Prices in Iran War",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/trump-iran-war-economy-cost.html"
   },
   {
-    "score": 78,
-    "pubdate": "2026-05-14-05-57-05 +0000",
-    "source": "nyt",
-    "headline": "Trump’s 2017 visit to Beijing offers clues for this year’s summit.",
-    "link": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china/trumps-2017-visit-to-beijing-offers-clues-for-this-years-summit"
+    "score": 73,
+    "pubdate": "2026-05-14-13-36-51 +0000",
+    "source": "nypost",
+    "headline": "Taiwan becomes flashpoint of Trump-Xi summit as Rubio warns Beijing of ‘repercussions’ for invasion",
+    "link": "https://nypost.com/2026/05/14/us-news/taiwan-becomes-flashpoint-of-trump-xi-summit-as-rubio-warns-beijing-of-repercussions-for-invasion/"
+  },
+  {
+    "score": 72,
+    "pubdate": "2026-05-13-22-29-26 +0000",
+    "source": "latimes",
+    "headline": "Vance says $1.3 billion in Medicaid payments to California will be deferred over fraud concerns",
+    "link": "https://www.latimes.com/california/story/2026-05-13/vance-says-1-3-billion-in-medicaid-payments-to-california-will-be-deferred-over-fraud-concerns"
   },
   {
     "score": 67,
@@ -35,21 +42,14 @@
     "link": "https://nypost.com/2026/05/14/us-news/gavin-newsoms-ex-aide-dana-williamson-pleads-guilty/"
   },
   {
-    "score": 59,
-    "pubdate": "2026-05-13-22-29-26 +0000",
-    "source": "latimes",
-    "headline": "Vance says $1.3 billion in Medicaid payments to California will be deferred over fraud concerns",
-    "link": "https://www.latimes.com/california/story/2026-05-13/vance-says-1-3-billion-in-medicaid-payments-to-california-will-be-deferred-over-fraud-concerns"
-  },
-  {
-    "score": 57,
+    "score": 56,
     "pubdate": "2026-05-14-15-07-26 +0000",
     "source": "nyt",
     "headline": "Who Is Wes Streeting, the Cabinet Minister Who Just Resigned From Keir Starmer’s Government?",
     "link": "https://www.nytimes.com/2026/05/14/world/europe/uk-who-is-wes-streeting.html"
   },
   {
-    "score": 55,
+    "score": 54,
     "pubdate": "2026-05-14-01-44-00 +0000",
     "source": "wsj",
     "headline": "The Pentagon abruptly canceled deployment of an armored brigade to Europe, a major step toward shrinking the U.S. military posture in Europe that caught some military officials by surprise",
@@ -63,10 +63,10 @@
     "link": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html"
   },
   {
-    "score": 52,
-    "pubdate": "2026-05-13-20-43-00 +0000",
+    "score": 49,
+    "pubdate": "2026-05-13-21-01-00 +0000",
     "source": "wsj",
-    "headline": "Boston Fed President Susan Collins flagged the possibility that the central bank might need to raise interest rates if inflation pressures broaden in coming months",
-    "link": "https://www.wsj.com/economy/central-banking/boston-feds-collins-flags-rate-hike-scenario-as-inflation-risks-tilt-higher-0406efe6"
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-b5749826?mod=pls_whats_news_us_business_f"
   }
 ]
