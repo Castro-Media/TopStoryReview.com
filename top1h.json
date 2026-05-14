@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 56,
+    "pubdate": "2026-05-14-13-12-39 +0000",
+    "source": "nyt",
+    "headline": "Beijing Tightens Security As Trump and Xi Meet in China",
+    "link": "https://www.nytimes.com/2026/05/13/world/asia/trump-china-xi-beijing-security.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-05-14-13-15-12 +0000",
+    "source": "nyt",
+    "headline": "Wes Streeting Resigns, Setting Stage for Possible UK Leadership Challenge to Starmer",
+    "link": "https://www.nytimes.com/2026/05/14/world/europe/wes-streeting-resigns-starmer-uk-prime-minister.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-05-14-13-00-05 +0000",
+    "source": "nyt",
+    "headline": "A Fact Check of Trump’s Claims on Inflation and Gas Prices in Iran War",
+    "link": "https://www.nytimes.com/2026/05/14/us/politics/trump-iran-war-economy-cost.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-05-14-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "Todd Blanche, the acting head of the Justice Department, isn’t wasting any time in his audition to be the next U.S. attorney general",
+    "link": "https://www.wsj.com/politics/policy/todd-blanche-is-wasting-no-time-in-his-audition-to-be-the-next-attorney-general-0e1247f0"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-05-14-13-16-32 +0000",
+    "source": "bbc",
+    "headline": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+    "link": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-05-14-12-53-06 +0000",
+    "source": "nyt",
+    "headline": "Who Owns These Artworks? Musée d’Orsay Hopes Visitors Can Help Find Out.",
+    "link": "https://www.nytimes.com/2026/05/14/arts/design/musee-dorsay-art-world-war-ii.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-14-13-20-06 +0000",
+    "source": "nypost",
+    "headline": "Israel to sue New York Times over article alleging Israeli soldiers used dogs to rape Palestinians: ‘Hideous and distorted lies’",
+    "link": "https://nypost.com/2026/05/14/world-news/israel-hits-nyt-with-defamation-suit-over-hideous-article-alleging-rape-of-palestinians/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-14-13-02-13 +0000",
+    "source": "bbc",
+    "headline": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+    "link": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-14-13-18-24 +0000",
+    "source": "bbc",
+    "headline": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit",
+    "link": "https://www.bbc.com/news/articles/cdxp0g4q3q2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-14-12-36-36 +0000",
+    "source": "nypost",
+    "headline": "Former BLM activist goes scorched earth on ‘scam’ group, insists systemic racism in US isn’t real",
+    "link": "https://nypost.com/2026/05/14/us-news/ex-blm-activist-goes-scorched-earth-on-scam-group-insists-systemic-racism-in-us-isnt-real/"
+  }
+]
