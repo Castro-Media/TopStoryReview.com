@@ -1,30 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-05-15-16-24-53 +0000",
-    "source": "nypost",
-    "headline": "Fidelity Investments makes $2.5M class action settlement — see if you qualify for $5K payout",
-    "link": "https://nypost.com/2026/05/15/lifestyle/fidelity-to-pay-2-5-million-data-breach-settlement/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-05-15-16-24-00 +0000",
-    "source": "wsj",
-    "headline": "Bill Ackman’s Pershing Square Bets on Microsoft’s AI Ambitions With New Stake",
-    "link": "https://www.wsj.com/finance/investing/ackman-says-pershing-square-has-taken-new-stake-in-microsoft-b68120d9?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-05-15-16-24-36 +0000",
-    "source": "bbc",
-    "headline": "Mandelson papers being withheld, says intelligence watchdog",
-    "link": "https://www.bbc.com/news/articles/c98rewjjwg9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-05-15-16-19-41 +0000",
+    "score": 49,
+    "pubdate": "2026-05-15-18-15-36 +0000",
     "source": "nyt",
-    "headline": "Replacing a Royal Hand-Me-Down That Finally Frayed",
-    "link": "https://www.nytimes.com/2026/05/15/arts/music/london-royal-opera-house-curtains.html"
+    "headline": "Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran",
+    "link": "https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-05-15-17-57-12 +0000",
+    "source": "bbc",
+    "headline": "Judge declares another mistrial in Harvey Weinstein New York rape charge",
+    "link": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-05-15-17-49-24 +0000",
+    "source": "nyt",
+    "headline": "Justice Dept. Aims to Use Terrorism Laws to Target Mexican Officials",
+    "link": "https://www.nytimes.com/2026/05/15/world/americas/doj-terrorism-charges-mexican-officials.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-05-15-17-25-00 +0000",
+    "source": "nypost",
+    "headline": "New Yorkers create encampment for $400 fad watch — filled with paid line-sitters and a shocking overdose",
+    "link": "https://nypost.com/2026/05/15/lifestyle/new-yorkers-create-encampment-for-400-plastic-watch-filled-with-paid-line-sitters-and-a-shocking-overdose/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-05-15-17-58-47 +0000",
+    "source": "nypost",
+    "headline": "Wife of tech CEO who just laid off hundreds appointed to cushy new position",
+    "link": "https://nypost.com/2026/05/15/us-news/wife-of-salesforce-ceo-marc-benioff-appointed-to-cushy-new-sf-position/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-05-15-17-50-59 +0000",
+    "source": "bbc",
+    "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+    "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-05-15-17-33-26 +0000",
+    "source": "latimes",
+    "headline": "The Steyer campaign pays influencers. Their posts don't always make that clear",
+    "link": "https://www.latimes.com/politics/story/2026-05-15/steyer-campaign-pays-influencers-their-posts-dont-always-make-that-clear"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-15-17-43-02 +0000",
+    "source": "nyt",
+    "headline": "Trump Announces Boeing Jet Order From China. Beijing Stays Silent.",
+    "link": "https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-15-17-47-19 +0000",
+    "source": "bbc",
+    "headline": "CIA chief visits Cuba as energy crisis worsens",
+    "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-15-17-53-23 +0000",
+    "source": "bbc",
+    "headline": "New outbreak of Ebola kills 65 in eastern DR Congo",
+    "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
   }
 ]
