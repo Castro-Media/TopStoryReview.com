@@ -1,52 +1,45 @@
 [
   {
-    "score": 266,
+    "score": 258,
+    "pubdate": "2026-05-15-07-43-59 +0000",
+    "source": "nypost",
+    "headline": "Trump and Xi’s footing was a big ‘tell’ on how their historic China summit went: body language expert",
+    "link": "https://nypost.com/2026/05/15/us-news/trump-and-xis-footing-was-a-big-tell-on-how-their-historic-china-summit-went-body-language-expert/"
+  },
+  {
+    "score": 102,
+    "pubdate": "2026-05-15-02-08-00 +0000",
+    "source": "wsj",
+    "headline": "New York Governor Says Fewer Second Homes to Pay Pied-à-Terre Tax Under New Proposal",
+    "link": "https://www.wsj.com/us-news/n-y-gov-hochul-says-fewer-second-homes-to-pay-pied-a-terre-tax-under-new-proposal-a0a5c3ce?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 95,
     "pubdate": "2026-05-15-14-22-07 +0000",
     "source": "nyt",
     "headline": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War",
     "link": "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"
   },
   {
-    "score": 118,
-    "pubdate": "2026-05-15-02-08-00 +0000",
-    "source": "wsj",
-    "headline": "New York Governor Says Fewer Second Homes to Pay Pied-à-Terre Tax Under New Proposal",
-    "link": "https://www.wsj.com/us-news/n-y-gov-hochul-says-fewer-second-homes-to-pay-pied-a-terre-tax-under-new-proposal-a0a5c3ce"
-  },
-  {
-    "score": 106,
-    "pubdate": "2026-05-15-16-05-17 +0000",
-    "source": "nypost",
-    "headline": "Trump says he’ll decide on Taiwan arms sale soon, wants China to ‘cool down’ rhetoric toward island",
-    "link": "https://nypost.com/2026/05/15/us-news/trump-claims-xi-doesnt-want-to-see-a-war-over-taiwan-will-decide-on-arms-sale-soon/"
-  },
-  {
-    "score": 63,
-    "pubdate": "2026-05-15-15-45-53 +0000",
-    "source": "nypost",
-    "headline": "AI scammer tricks ‘lonely’ retiree into giving up $10K by making her think she was dating James Blunt",
-    "link": "https://nypost.com/2026/05/15/us-news/ai-scammer-tricks-lonely-retiree-into-thinking-shes-in-relationship-with-singer-james-blunt/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-05-15-07-34-35 +0000",
-    "source": "nypost",
-    "headline": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
-    "link": "https://nypost.com/2026/05/15/us-news/supreme-court-preserves-access-to-widely-used-abortion-pill-while-lawsuit-plays-out/"
-  },
-  {
-    "score": 56,
-    "pubdate": "2026-05-15-17-14-03 +0000",
-    "source": "nypost",
-    "headline": "CIA Director John Ratcliffe warns Cuba ‘can no longer be a safe haven for adversaries’ on Havana trip",
-    "link": "https://nypost.com/2026/05/15/us-news/cia-director-john-ratcliffe-warns-cuba-can-no-longer-be-a-safe-haven-for-adversaries-on-havana-trip/"
-  },
-  {
-    "score": 54,
+    "score": 55,
     "pubdate": "2026-05-15-05-01-55 +0000",
     "source": "bbc",
     "headline": "US hotel owners expected a World Cup boom - so far it hasn't happened",
     "link": "https://www.bbc.com/news/articles/cn0p2532xn4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-05-15-16-37-30 +0000",
+    "source": "nypost",
+    "headline": "Arizona school district accused of letting kids cut class for anti-ICE protest — while keeping parents in the dark",
+    "link": "https://nypost.com/2026/05/15/us-news/arizona-school-district-accused-of-letting-kids-cut-class-for-anti-ice-protest-while-keeping-parents-in-the-dark/"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-05-15-07-34-35 +0000",
+    "source": "nypost",
+    "headline": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
+    "link": "https://nypost.com/2026/05/15/us-news/supreme-court-preserves-access-to-widely-used-abortion-pill-while-lawsuit-plays-out/"
   },
   {
     "score": 52,
@@ -56,6 +49,13 @@
     "link": "https://www.wsj.com/politics/policy/southern-poverty-law-center-trump-587424b5"
   },
   {
+    "score": 52,
+    "pubdate": "2026-05-15-17-14-03 +0000",
+    "source": "nypost",
+    "headline": "CIA Director John Ratcliffe warns Cuba ‘can no longer be a safe haven for adversaries’ on Havana trip",
+    "link": "https://nypost.com/2026/05/15/us-news/cia-director-john-ratcliffe-warns-cuba-can-no-longer-be-a-safe-haven-for-adversaries-on-havana-trip/"
+  },
+  {
     "score": 51,
     "pubdate": "2026-05-15-05-03-31 +0000",
     "source": "bbc",
@@ -63,10 +63,10 @@
     "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
-    "pubdate": "2026-05-15-16-37-30 +0000",
+    "score": 48,
+    "pubdate": "2026-05-15-16-05-17 +0000",
     "source": "nypost",
-    "headline": "Arizona school district accused of letting kids cut class for anti-ICE protest — while keeping parents in the dark",
-    "link": "https://nypost.com/2026/05/15/us-news/arizona-school-district-accused-of-letting-kids-cut-class-for-anti-ice-protest-while-keeping-parents-in-the-dark/"
+    "headline": "Trump says he’ll decide on Taiwan arms sale soon, wants China to ‘cool down’ rhetoric toward island",
+    "link": "https://nypost.com/2026/05/15/us-news/trump-claims-xi-doesnt-want-to-see-a-war-over-taiwan-will-decide-on-arms-sale-soon/"
   }
 ]
