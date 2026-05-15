@@ -36,6 +36,12 @@
     "pubdate": "2026-05-15-09-33-45 +0000"
   },
   {
+    "headline": "The Blockbuster Cerebras IPO Is a Huge Bet on Nvidia Fatigue",
+    "link": "https://www.wsj.com/opinion/the-blockbuster-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue-d4b09261?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-15-09-30-00 +0000"
+  },
+  {
     "headline": "Live Q&A: Ask Me Your Questions About EVs",
     "link": "https://www.wsj.com/business/autos/live-q-a-ask-me-your-questions-about-evs-8b7c0189?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -44,12 +50,6 @@
   {
     "headline": "Used EVs Are Now the Most Affordable Cars. Here’s How to Buy a Good One.",
     "link": "https://www.wsj.com/business/autos/ev-used-car-gas-prices-57623274?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-15-09-30-00 +0000"
-  },
-  {
-    "headline": "The Blockbuster Cerebras IPO Is a Huge Bet on Nvidia Fatigue",
-    "link": "https://www.wsj.com/opinion/the-blockbuster-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue-d4b09261?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-15-09-30-00 +0000"
   },
@@ -907,25 +907,25 @@
   },
   {
     "headline": "New York Governor Says Fewer Second Homes to Pay Pied-à-Terre Tax Under New Proposal",
-    "link": "https://www.wsj.com/us-news/n-y-gov-hochul-says-fewer-second-homes-to-pay-pied-a-terre-tax-under-new-proposal-a0a5c3ce?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-15-02-08-00 +0000"
-  },
-  {
-    "headline": "New York Governor Says Fewer Second Homes to Pay Pied-à-Terre Tax Under New Proposal",
     "link": "https://www.wsj.com/us-news/n-y-gov-hochul-says-fewer-second-homes-to-pay-pied-a-terre-tax-under-new-proposal-a0a5c3ce",
     "source": "wsj",
     "pubdate": "2026-05-15-02-08-00 +0000"
   },
   {
+    "headline": "New York Governor Says Fewer Second Homes to Pay Pied-à-Terre Tax Under New Proposal",
+    "link": "https://www.wsj.com/us-news/n-y-gov-hochul-says-fewer-second-homes-to-pay-pied-a-terre-tax-under-new-proposal-a0a5c3ce?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-15-02-08-00 +0000"
+  },
+  {
     "headline": "The World Is Burning Through Its Oil Safety Net",
-    "link": "https://www.wsj.com/business/energy-oil/the-world-is-burning-through-its-oil-safety-net-ebf9d4fa?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/energy-oil/the-world-is-burning-through-its-oil-safety-net-ebf9d4fa?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-15-02-00-00 +0000"
   },
   {
     "headline": "The World Is Burning Through Its Oil Safety Net",
-    "link": "https://www.wsj.com/business/energy-oil/the-world-is-burning-through-its-oil-safety-net-ebf9d4fa?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/energy-oil/the-world-is-burning-through-its-oil-safety-net-ebf9d4fa?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-15-02-00-00 +0000"
   },
@@ -1044,12 +1044,6 @@
     "pubdate": "2026-05-15-01-03-51 +0000"
   },
   {
-    "headline": "Southern Poverty Law Center Got Rich Opposing Trump. Now He’s Trying to Crush It.",
-    "link": "https://www.wsj.com/politics/policy/southern-poverty-law-center-trump-587424b5",
-    "source": "wsj",
-    "pubdate": "2026-05-15-01-00-00 +0000"
-  },
-  {
     "headline": "The Southern Poverty Law Center built a fortune opposing Trump during his first term. The president is now trying to crush it. The antiracism group faces federal charges it says are bogus.",
     "link": "https://www.wsj.com/politics/policy/southern-poverty-law-center-trump-587424b5",
     "source": "wsj",
@@ -1058,6 +1052,12 @@
   {
     "headline": "Homeland Security Secretary Markwayne Mullin faces a difficult task: improve the department’s image while still implementing President Trump’s central campaign promise of mass deportations",
     "link": "https://www.wsj.com/politics/policy/the-new-boss-at-dhs-is-trying-to-clean-house-after-kristi-noem-d8a72116",
+    "source": "wsj",
+    "pubdate": "2026-05-15-01-00-00 +0000"
+  },
+  {
+    "headline": "Southern Poverty Law Center Got Rich Opposing Trump. Now He’s Trying to Crush It.",
+    "link": "https://www.wsj.com/politics/policy/southern-poverty-law-center-trump-587424b5",
     "source": "wsj",
     "pubdate": "2026-05-15-01-00-00 +0000"
   },
@@ -1453,13 +1453,13 @@
   },
   {
     "headline": "The WSJ Dollar Index Rises 0.31% to 95.49",
-    "link": "https://www.wsj.com/finance/currencies/singapore-dollar-steady-as-traders-focus-on-trump-xi-summit-e57087c5?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/currencies/singapore-dollar-steady-as-traders-focus-on-trump-xi-summit-e57087c5",
     "source": "wsj",
     "pubdate": "2026-05-14-22-19-00 +0000"
   },
   {
     "headline": "The WSJ Dollar Index Rises 0.31% to 95.49",
-    "link": "https://www.wsj.com/finance/currencies/singapore-dollar-steady-as-traders-focus-on-trump-xi-summit-e57087c5",
+    "link": "https://www.wsj.com/finance/currencies/singapore-dollar-steady-as-traders-focus-on-trump-xi-summit-e57087c5?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-14-22-19-00 +0000"
   },
@@ -1572,12 +1572,6 @@
     "pubdate": "2026-05-14-21-29-56 +0000"
   },
   {
-    "headline": "Opinion | This Economic Weapon Is Worth Congress’s Attention",
-    "link": "https://www.wsj.com/opinion/this-economic-weapon-is-worth-congresss-attention-c7f5244a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-14-21-28-00 +0000"
-  },
-  {
     "headline": "Opinion | ObamaCare’s Rising Inflation Tax",
     "link": "https://www.wsj.com/opinion/obamacare-inflation-tax-middle-class-3927e6d7",
     "source": "wsj",
@@ -1586,6 +1580,12 @@
   {
     "headline": "Opinion | This Economic Weapon Is Worth Congress’s Attention",
     "link": "https://www.wsj.com/opinion/this-economic-weapon-is-worth-congresss-attention-c7f5244a",
+    "source": "wsj",
+    "pubdate": "2026-05-14-21-28-00 +0000"
+  },
+  {
+    "headline": "Opinion | This Economic Weapon Is Worth Congress’s Attention",
+    "link": "https://www.wsj.com/opinion/this-economic-weapon-is-worth-congresss-attention-c7f5244a?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-14-21-28-00 +0000"
   },
@@ -1603,7 +1603,7 @@
   },
   {
     "headline": "Opinion | Cut Off Hong Kong’s Support for Iran",
-    "link": "https://www.wsj.com/opinion/cut-off-hong-kongs-support-for-iran-e765200e?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/cut-off-hong-kongs-support-for-iran-e765200e",
     "source": "wsj",
     "pubdate": "2026-05-14-21-26-00 +0000"
   },
@@ -1615,7 +1615,7 @@
   },
   {
     "headline": "Opinion | Cut Off Hong Kong’s Support for Iran",
-    "link": "https://www.wsj.com/opinion/cut-off-hong-kongs-support-for-iran-e765200e",
+    "link": "https://www.wsj.com/opinion/cut-off-hong-kongs-support-for-iran-e765200e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-14-21-26-00 +0000"
   },
@@ -1717,13 +1717,13 @@
   },
   {
     "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5883f625?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5883f625?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-14-20-53-00 +0000"
   },
   {
     "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5883f625?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5883f625?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-14-20-53-00 +0000"
   },
@@ -1746,15 +1746,15 @@
     "pubdate": "2026-05-14-20-51-47 +0000"
   },
   {
-    "headline": "Cerebras Shares Soar in Hotly Anticipated Year for AI Debuts",
-    "link": "https://www.wsj.com/finance/stocks/cerebras-to-kick-off-hotly-anticipated-year-for-artificial-intelligence-ipos-8b08ead7?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-14-20-49-00 +0000"
-  },
-  {
     "headline": "Strategist Tied to Becerra and Newsom Pleads Guilty to 3 Felonies",
     "link": "https://www.nytimes.com/2026/05/14/us/becerra-newsom-strategist-plea-california-governor-race.html",
     "source": "nyt",
+    "pubdate": "2026-05-14-20-49-00 +0000"
+  },
+  {
+    "headline": "Cerebras Shares Soar in Hotly Anticipated Year for AI Debuts",
+    "link": "https://www.wsj.com/finance/stocks/cerebras-to-kick-off-hotly-anticipated-year-for-artificial-intelligence-ipos-8b08ead7?mod=rss_markets_main",
+    "source": "wsj",
     "pubdate": "2026-05-14-20-49-00 +0000"
   },
   {
@@ -1914,8 +1914,8 @@
     "pubdate": "2026-05-14-19-53-09 +0000"
   },
   {
-    "headline": "Treasury Yield Recover from Early Decline to Settle Mixed",
-    "link": "https://www.wsj.com/articles/treasury-yields-fall-back-from-high-levels-u-s-data-awaited-e13522fd?mod=rss_markets_main",
+    "headline": "A Connecticut Republican quit the governor’s race after a report alleged she used a government credit card for tens of thousands of dollars in personal purchases while mayor of New Britain",
+    "link": "https://www.wsj.com/politics/policy/improper-spending-allegations-drive-top-candidate-from-conn-governors-race-ff9b89b4",
     "source": "wsj",
     "pubdate": "2026-05-14-19-42-00 +0000"
   },
@@ -1926,8 +1926,8 @@
     "pubdate": "2026-05-14-19-42-00 +0000"
   },
   {
-    "headline": "A Connecticut Republican quit the governor’s race after a report alleged she used a government credit card for tens of thousands of dollars in personal purchases while mayor of New Britain",
-    "link": "https://www.wsj.com/politics/policy/improper-spending-allegations-drive-top-candidate-from-conn-governors-race-ff9b89b4",
+    "headline": "Treasury Yield Recover from Early Decline to Settle Mixed",
+    "link": "https://www.wsj.com/articles/treasury-yields-fall-back-from-high-levels-u-s-data-awaited-e13522fd?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-14-19-42-00 +0000"
   },
@@ -1975,13 +1975,13 @@
   },
   {
     "headline": "New State Laws to Bar Private Equity From Medicine Start to Show Their Teeth",
-    "link": "https://www.wsj.com/pro/private-equity/new-state-laws-to-bar-private-equity-from-medicine-start-to-show-their-teeth-f8922168?mod=rss_markets_main",
+    "link": "https://www.wsj.com/pro/private-equity/new-state-laws-to-bar-private-equity-from-medicine-start-to-show-their-teeth-f8922168",
     "source": "wsj",
     "pubdate": "2026-05-14-19-17-00 +0000"
   },
   {
     "headline": "New State Laws to Bar Private Equity From Medicine Start to Show Their Teeth",
-    "link": "https://www.wsj.com/pro/private-equity/new-state-laws-to-bar-private-equity-from-medicine-start-to-show-their-teeth-f8922168",
+    "link": "https://www.wsj.com/pro/private-equity/new-state-laws-to-bar-private-equity-from-medicine-start-to-show-their-teeth-f8922168?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-14-19-17-00 +0000"
   },
@@ -2106,14 +2106,14 @@
     "pubdate": "2026-05-14-18-31-20 +0000"
   },
   {
-    "headline": "Crypto Industry Notches Win in Washington After Brawl With Banks",
-    "link": "https://www.wsj.com/politics/policy/crypto-industry-notches-win-in-washington-after-brawl-with-banks-21e53443?mod=rss_markets_main",
+    "headline": "A bill that would create a pathway for crypto to further upend the world of traditional finance moved one step closer to law",
+    "link": "https://www.wsj.com/politics/policy/crypto-industry-notches-win-in-washington-after-brawl-with-banks-21e53443",
     "source": "wsj",
     "pubdate": "2026-05-14-18-23-00 +0000"
   },
   {
-    "headline": "A bill that would create a pathway for crypto to further upend the world of traditional finance moved one step closer to law",
-    "link": "https://www.wsj.com/politics/policy/crypto-industry-notches-win-in-washington-after-brawl-with-banks-21e53443",
+    "headline": "Crypto Industry Notches Win in Washington After Brawl With Banks",
+    "link": "https://www.wsj.com/politics/policy/crypto-industry-notches-win-in-washington-after-brawl-with-banks-21e53443?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-14-18-23-00 +0000"
   },
@@ -2791,13 +2791,13 @@
   },
   {
     "headline": "A Climate Fix That Could Cut Your Water Bill",
-    "link": "https://www.wsj.com/finance/investing/a-climate-fix-that-could-cut-your-water-bill-37ba25e8?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/finance/investing/a-climate-fix-that-could-cut-your-water-bill-37ba25e8?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-14-13-33-00 +0000"
   },
   {
     "headline": "A Climate Fix That Could Cut Your Water Bill",
-    "link": "https://www.wsj.com/finance/investing/a-climate-fix-that-could-cut-your-water-bill-37ba25e8?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/investing/a-climate-fix-that-could-cut-your-water-bill-37ba25e8?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-14-13-33-00 +0000"
   },
@@ -2851,13 +2851,13 @@
   },
   {
     "headline": "Retailers’ Sales Growth Cooled Last Month",
-    "link": "https://www.wsj.com/business/retail/retailers-sales-growth-cooled-last-month-b121db6e?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/retail/retailers-sales-growth-cooled-last-month-b121db6e",
     "source": "wsj",
     "pubdate": "2026-05-14-13-18-00 +0000"
   },
   {
     "headline": "Retailers’ Sales Growth Cooled Last Month",
-    "link": "https://www.wsj.com/business/retail/retailers-sales-growth-cooled-last-month-b121db6e",
+    "link": "https://www.wsj.com/business/retail/retailers-sales-growth-cooled-last-month-b121db6e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-14-13-18-00 +0000"
   },
@@ -2964,15 +2964,15 @@
     "pubdate": "2026-05-14-13-00-05 +0000"
   },
   {
-    "headline": "Is that ball lying?",
-    "link": "https://missionlocal.org/2026/05/is-that-ball-lying/",
-    "source": "missionlocal",
+    "headline": "Todd Blanche, the acting head of the Justice Department, isn’t wasting any time in his audition to be the next U.S. attorney general",
+    "link": "https://www.wsj.com/politics/policy/todd-blanche-is-wasting-no-time-in-his-audition-to-be-the-next-attorney-general-0e1247f0",
+    "source": "wsj",
     "pubdate": "2026-05-14-13-00-00 +0000"
   },
   {
-    "headline": "Casting shade on shadows: S.F. supervisor targets a favorite tool for blocking housing",
-    "link": "https://missionlocal.org/2026/05/sf-bilal-mahmood-shadow-ceqa-housing/",
-    "source": "missionlocal",
+    "headline": "Tax windfall may rescue Newsom's final budget as governor",
+    "link": "https://www.latimes.com/california/story/2026-05-14/newsom-offers-early-peek-at-rosy-budget-projections",
+    "source": "latimes",
     "pubdate": "2026-05-14-13-00-00 +0000"
   },
   {
@@ -2988,15 +2988,15 @@
     "pubdate": "2026-05-14-13-00-00 +0000"
   },
   {
-    "headline": "Todd Blanche, the acting head of the Justice Department, isn’t wasting any time in his audition to be the next U.S. attorney general",
-    "link": "https://www.wsj.com/politics/policy/todd-blanche-is-wasting-no-time-in-his-audition-to-be-the-next-attorney-general-0e1247f0",
-    "source": "wsj",
+    "headline": "Is that ball lying?",
+    "link": "https://missionlocal.org/2026/05/is-that-ball-lying/",
+    "source": "missionlocal",
     "pubdate": "2026-05-14-13-00-00 +0000"
   },
   {
-    "headline": "Tax windfall may rescue Newsom's final budget as governor",
-    "link": "https://www.latimes.com/california/story/2026-05-14/newsom-offers-early-peek-at-rosy-budget-projections",
-    "source": "latimes",
+    "headline": "Casting shade on shadows: S.F. supervisor targets a favorite tool for blocking housing",
+    "link": "https://missionlocal.org/2026/05/sf-bilal-mahmood-shadow-ceqa-housing/",
+    "source": "missionlocal",
     "pubdate": "2026-05-14-13-00-00 +0000"
   },
   {
@@ -3144,14 +3144,14 @@
     "pubdate": "2026-05-14-11-31-00 +0000"
   },
   {
-    "headline": "Watches of Switzerland’s Shares Climb After Strong Demand in U.S.",
-    "link": "https://www.wsj.com/business/retail/watches-of-switzerland-expects-revenue-growth-on-strong-demand-51f27a66?mod=pls_whats_news_us_business_f",
+    "headline": "The WSJ used both AI analysis and traditional reporting to decipher President Trump’s Truth Social behavior. Read more in today’s WSJ Politics newsletter:",
+    "link": "https://www.wsj.com/politics/policy/how-the-wsj-deciphered-trumps-truth-social-behavior-4ee0ce6b",
     "source": "wsj",
     "pubdate": "2026-05-14-10-59-00 +0000"
   },
   {
-    "headline": "The WSJ used both AI analysis and traditional reporting to decipher President Trump’s Truth Social behavior. Read more in today’s WSJ Politics newsletter:",
-    "link": "https://www.wsj.com/politics/policy/how-the-wsj-deciphered-trumps-truth-social-behavior-4ee0ce6b",
+    "headline": "Watches of Switzerland’s Shares Climb After Strong Demand in U.S.",
+    "link": "https://www.wsj.com/business/retail/watches-of-switzerland-expects-revenue-growth-on-strong-demand-51f27a66?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-14-10-59-00 +0000"
   },
@@ -3204,12 +3204,6 @@
     "pubdate": "2026-05-14-10-01-00 +0000"
   },
   {
-    "headline": "Waymo recalls thousands of its driverless cars after some failed to avoid flooded roads",
-    "link": "https://www.latimes.com/business/story/2026-05-14/waymo-recalls-thousands-of-its-driverless-cars-after-some-failed-to-avoid-flooded-roads",
-    "source": "latimes",
-    "pubdate": "2026-05-14-10-00-00 +0000"
-  },
-  {
     "headline": "Hiltzik: Trump's 'weird war' on wind power will jeopardize our energy future and cost Americans billions",
     "link": "https://www.latimes.com/business/story/2026-05-14/trumps-weird-war-on-wind-power-will-cost-americans-billions-of-dollars",
     "source": "latimes",
@@ -3236,6 +3230,12 @@
   {
     "headline": "200,000 Californians create as much power as a nuclear plant to help the grid. Now that's up in the air",
     "link": "https://www.latimes.com/environment/story/2026-05-14/200-000-californians-help-grid-out-in-tough-times-get-paid-for-it-now-thats-up-in-air",
+    "source": "latimes",
+    "pubdate": "2026-05-14-10-00-00 +0000"
+  },
+  {
+    "headline": "Waymo recalls thousands of its driverless cars after some failed to avoid flooded roads",
+    "link": "https://www.latimes.com/business/story/2026-05-14/waymo-recalls-thousands-of-its-driverless-cars-after-some-failed-to-avoid-flooded-roads",
     "source": "latimes",
     "pubdate": "2026-05-14-10-00-00 +0000"
   },
@@ -3582,15 +3582,15 @@
     "pubdate": "2026-05-14-02-00-00 +0000"
   },
   {
-    "headline": "Mamdani Urges State to Block Western Union’s Deal for Intermex",
-    "link": "https://www.nytimes.com/2026/05/13/business/zohran-mamdani-western-union-intermex.html",
-    "source": "nyt",
-    "pubdate": "2026-05-14-01-44-00 +0000"
-  },
-  {
     "headline": "The Pentagon abruptly canceled deployment of an armored brigade to Europe, a major step toward shrinking the U.S. military posture in Europe that caught some military officials by surprise",
     "link": "https://www.wsj.com/politics/national-security/pentagon-abruptly-cancels-deployment-to-europe-as-part-of-trumps-drawdown-7365b3b5",
     "source": "wsj",
+    "pubdate": "2026-05-14-01-44-00 +0000"
+  },
+  {
+    "headline": "Mamdani Urges State to Block Western Union’s Deal for Intermex",
+    "link": "https://www.nytimes.com/2026/05/13/business/zohran-mamdani-western-union-intermex.html",
+    "source": "nyt",
     "pubdate": "2026-05-14-01-44-00 +0000"
   },
   {
@@ -3618,14 +3618,14 @@
     "pubdate": "2026-05-14-01-07-11 +0000"
   },
   {
-    "headline": "Hedge Funds Are Making a Killing in the ‘Golden Age’ of AI Hardware",
-    "link": "https://www.wsj.com/finance/investing/hedge-funds-are-making-a-killing-in-the-golden-age-of-ai-hardware-3a8dc34a?mod=rss_markets_main",
+    "headline": "Trump administration health officials are walking a tightrope on hantavirus: trying to avoid public panic and a repeat of what they view as pandemic-era missteps",
+    "link": "https://www.wsj.com/politics/policy/cdc-is-walking-a-tightrope-with-its-response-to-hantavirus-d2cdfc73",
     "source": "wsj",
     "pubdate": "2026-05-14-01-00-00 +0000"
   },
   {
-    "headline": "Trump administration health officials are walking a tightrope on hantavirus: trying to avoid public panic and a repeat of what they view as pandemic-era missteps",
-    "link": "https://www.wsj.com/politics/policy/cdc-is-walking-a-tightrope-with-its-response-to-hantavirus-d2cdfc73",
+    "headline": "Hedge Funds Are Making a Killing in the ‘Golden Age’ of AI Hardware",
+    "link": "https://www.wsj.com/finance/investing/hedge-funds-are-making-a-killing-in-the-golden-age-of-ai-hardware-3a8dc34a?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-14-01-00-00 +0000"
   },
@@ -4530,12 +4530,6 @@
     "pubdate": "2026-05-13-14-00-58 +0000"
   },
   {
-    "headline": "Chips Startup Fractile Raises $220 Million to Speed Up AI Queries",
-    "link": "https://www.wsj.com/tech/ai/chips-startup-fractile-raises-220-million-to-speed-up-ai-queries-c8681944?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-13-14-00-00 +0000"
-  },
-  {
     "headline": "Bipartisan Senate Push Aims to Reduce Water Waste at Data Centers",
     "link": "https://www.wsj.com/pro/sustainable-business/bipartisan-senate-push-aims-to-reduce-water-waste-at-data-centers-7814f5a1",
     "source": "wsj",
@@ -4544,6 +4538,12 @@
   {
     "headline": "U.S. Drug Overdose Deaths Fall for Third Straight Year",
     "link": "https://www.wsj.com/health/us-drug-overdose-data-fentanyl-deaths-4cba4079",
+    "source": "wsj",
+    "pubdate": "2026-05-13-14-00-00 +0000"
+  },
+  {
+    "headline": "Chips Startup Fractile Raises $220 Million to Speed Up AI Queries",
+    "link": "https://www.wsj.com/tech/ai/chips-startup-fractile-raises-220-million-to-speed-up-ai-queries-c8681944?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-13-14-00-00 +0000"
   },
@@ -4644,9 +4644,9 @@
     "pubdate": "2026-05-13-12-19-00 +0000"
   },
   {
-    "headline": "Labor’s love lost? Union favorite Connie Chan has labor’s backing, but little of its cash.",
-    "link": "https://missionlocal.org/2026/05/connie-chan-labor-congress/",
-    "source": "missionlocal",
+    "headline": "Judge acquits former Mountie on allegation of foreign interference",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/majcher-verdict-trial-foreign-interference-9.7196926?cmp=rss",
+    "source": "cbc",
     "pubdate": "2026-05-13-12-00-00 +0000"
   },
   {
@@ -4662,9 +4662,9 @@
     "pubdate": "2026-05-13-12-00-00 +0000"
   },
   {
-    "headline": "Judge acquits former Mountie on allegation of foreign interference",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/majcher-verdict-trial-foreign-interference-9.7196926?cmp=rss",
-    "source": "cbc",
+    "headline": "Labor’s love lost? Union favorite Connie Chan has labor’s backing, but little of its cash.",
+    "link": "https://missionlocal.org/2026/05/connie-chan-labor-congress/",
+    "source": "missionlocal",
     "pubdate": "2026-05-13-12-00-00 +0000"
   },
   {
@@ -4722,14 +4722,14 @@
     "pubdate": "2026-05-13-10-01-00 +0000"
   },
   {
-    "headline": "L.A.'s surging real estate prices have cooled, so why is nobody buying condos?",
-    "link": "https://www.latimes.com/business/story/2026-05-13/why-la-condo-sales-have-slumped-to-20-year-low",
+    "headline": "Disabled veterans may be getting a big property tax break in California",
+    "link": "https://www.latimes.com/california/story/2026-05-13/disabled-veterans-may-be-getting-big-property-tax-break-in-california",
     "source": "latimes",
     "pubdate": "2026-05-13-10-00-00 +0000"
   },
   {
-    "headline": "Why this Hollywood director thinks AI can save L.A. film jobs",
-    "link": "https://www.latimes.com/business/story/2026-05-13/why-house-of-david-director-thinks-ai-can-save-hollywood-jobs",
+    "headline": "Arellano: How a fast food taco showed us who Steve Hilton really is",
+    "link": "https://www.latimes.com/california/story/2026-05-13/steve-hilton-barstow-street-taco",
     "source": "latimes",
     "pubdate": "2026-05-13-10-00-00 +0000"
   },
@@ -4770,14 +4770,14 @@
     "pubdate": "2026-05-13-10-00-00 +0000"
   },
   {
-    "headline": "Disabled veterans may be getting a big property tax break in California",
-    "link": "https://www.latimes.com/california/story/2026-05-13/disabled-veterans-may-be-getting-big-property-tax-break-in-california",
+    "headline": "L.A.'s surging real estate prices have cooled, so why is nobody buying condos?",
+    "link": "https://www.latimes.com/business/story/2026-05-13/why-la-condo-sales-have-slumped-to-20-year-low",
     "source": "latimes",
     "pubdate": "2026-05-13-10-00-00 +0000"
   },
   {
-    "headline": "Arellano: How a fast food taco showed us who Steve Hilton really is",
-    "link": "https://www.latimes.com/california/story/2026-05-13/steve-hilton-barstow-street-taco",
+    "headline": "Why this Hollywood director thinks AI can save L.A. film jobs",
+    "link": "https://www.latimes.com/business/story/2026-05-13/why-house-of-david-director-thinks-ai-can-save-hollywood-jobs",
     "source": "latimes",
     "pubdate": "2026-05-13-10-00-00 +0000"
   },
@@ -4788,14 +4788,14 @@
     "pubdate": "2026-05-13-09-56-28 +0000"
   },
   {
-    "headline": "The More You Know About This Private-Credit Fund, the Less You Understand",
-    "link": "https://www.wsj.com/finance/investing/blue-owl-fund-private-credit-d896719f?mod=rss_markets_main",
+    "headline": "A Spending Splurge by Baltimore City Hall Is Stoking Taxpayer Outrage",
+    "link": "https://www.wsj.com/us-news/a-spending-splurge-by-baltimore-city-hall-is-stoking-taxpayer-outrage-5b53d0bb",
     "source": "wsj",
     "pubdate": "2026-05-13-09-30-00 +0000"
   },
   {
-    "headline": "A Spending Splurge by Baltimore City Hall Is Stoking Taxpayer Outrage",
-    "link": "https://www.wsj.com/us-news/a-spending-splurge-by-baltimore-city-hall-is-stoking-taxpayer-outrage-5b53d0bb",
+    "headline": "The More You Know About This Private-Credit Fund, the Less You Understand",
+    "link": "https://www.wsj.com/finance/investing/blue-owl-fund-private-credit-d896719f?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-13-09-30-00 +0000"
   },
@@ -5143,13 +5143,13 @@
   },
   {
     "headline": "There Is a Fire Sale on M.B.A.s",
-    "link": "https://www.wsj.com/lifestyle/careers/there-is-a-fire-sale-on-m-b-a-s-87d56c69?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/lifestyle/careers/there-is-a-fire-sale-on-m-b-a-s-87d56c69",
     "source": "wsj",
     "pubdate": "2026-05-12-20-58-00 +0000"
   },
   {
     "headline": "There Is a Fire Sale on M.B.A.s",
-    "link": "https://www.wsj.com/lifestyle/careers/there-is-a-fire-sale-on-m-b-a-s-87d56c69",
+    "link": "https://www.wsj.com/lifestyle/careers/there-is-a-fire-sale-on-m-b-a-s-87d56c69?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-12-20-58-00 +0000"
   },
@@ -5514,20 +5514,26 @@
     "pubdate": "2026-05-12-10-01-52 +0000"
   },
   {
-    "headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
-    "link": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
+    "headline": "In war with Iran, China sees a familiar pattern of U.S. mistakes",
+    "link": "https://www.latimes.com/politics/story/2026-05-12/in-war-with-iran-china-sees-familiar-pattern-of-u-s-mistakes",
     "source": "latimes",
     "pubdate": "2026-05-12-10-00-00 +0000"
   },
   {
-    "headline": "A Route 66 road trip is all about the people you'll meet. Start with these legends.",
-    "link": "https://www.latimes.com/travel/story/2026-05-12/people-youll-meet-on-route-66-angel-delgadillo",
+    "headline": "California's Democratic incumbents face primary challenges from political newcomers",
+    "link": "https://www.latimes.com/politics/story/2026-05-12/californias-democratic-incumbents-face-primary-challenges-from-political-newcomers",
     "source": "latimes",
     "pubdate": "2026-05-12-10-00-00 +0000"
   },
   {
-    "headline": "California consumers accuse popular Italian food brand of tomato fraud",
-    "link": "https://www.latimes.com/business/story/2026-05-12/california-consumers-accuse-popular-italian-food-brand-of-tomato-fraud",
+    "headline": "Another sales tax hike? Rising costs a concern for L.A. voters in healthcare measure",
+    "link": "https://www.latimes.com/california/story/2026-05-12/la-county-healthcare-sales-tax-2026-election-money",
+    "source": "latimes",
+    "pubdate": "2026-05-12-10-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: Tom Steyer courts Latinos in Santa Ana. A young voter wonders if it's just a show",
+    "link": "https://www.latimes.com/california/story/2026-05-12/tom-steyer-santa-ana-latino-voters",
     "source": "latimes",
     "pubdate": "2026-05-12-10-00-00 +0000"
   },
@@ -5586,26 +5592,20 @@
     "pubdate": "2026-05-12-10-00-00 +0000"
   },
   {
-    "headline": "In war with Iran, China sees a familiar pattern of U.S. mistakes",
-    "link": "https://www.latimes.com/politics/story/2026-05-12/in-war-with-iran-china-sees-familiar-pattern-of-u-s-mistakes",
+    "headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
+    "link": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
     "source": "latimes",
     "pubdate": "2026-05-12-10-00-00 +0000"
   },
   {
-    "headline": "California's Democratic incumbents face primary challenges from political newcomers",
-    "link": "https://www.latimes.com/politics/story/2026-05-12/californias-democratic-incumbents-face-primary-challenges-from-political-newcomers",
+    "headline": "A Route 66 road trip is all about the people you'll meet. Start with these legends.",
+    "link": "https://www.latimes.com/travel/story/2026-05-12/people-youll-meet-on-route-66-angel-delgadillo",
     "source": "latimes",
     "pubdate": "2026-05-12-10-00-00 +0000"
   },
   {
-    "headline": "Another sales tax hike? Rising costs a concern for L.A. voters in healthcare measure",
-    "link": "https://www.latimes.com/california/story/2026-05-12/la-county-healthcare-sales-tax-2026-election-money",
-    "source": "latimes",
-    "pubdate": "2026-05-12-10-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: Tom Steyer courts Latinos in Santa Ana. A young voter wonders if it's just a show",
-    "link": "https://www.latimes.com/california/story/2026-05-12/tom-steyer-santa-ana-latino-voters",
+    "headline": "California consumers accuse popular Italian food brand of tomato fraud",
+    "link": "https://www.latimes.com/business/story/2026-05-12/california-consumers-accuse-popular-italian-food-brand-of-tomato-fraud",
     "source": "latimes",
     "pubdate": "2026-05-12-10-00-00 +0000"
   },
@@ -5616,14 +5616,14 @@
     "pubdate": "2026-05-12-10-00-00 +0000"
   },
   {
-    "headline": "Duration Ventures, Founded by Alumni of GC and Lightspeed, Aims for $375 Million Fund",
-    "link": "https://www.wsj.com/pro/venture-capital/duration-ventures-founded-by-alumni-of-gc-and-lightspeed-aims-for-375-million-fund-16980937?mod=pls_whats_news_us_business_f",
+    "headline": "Despite the War, Energy Stocks Are Cheap",
+    "link": "https://www.wsj.com/finance/stocks/despite-the-war-energy-stocks-are-cheap-20477bc2?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-12-09-30-00 +0000"
   },
   {
-    "headline": "Despite the War, Energy Stocks Are Cheap",
-    "link": "https://www.wsj.com/finance/stocks/despite-the-war-energy-stocks-are-cheap-20477bc2?mod=rss_markets_main",
+    "headline": "Duration Ventures, Founded by Alumni of GC and Lightspeed, Aims for $375 Million Fund",
+    "link": "https://www.wsj.com/pro/venture-capital/duration-ventures-founded-by-alumni-of-gc-and-lightspeed-aims-for-375-million-fund-16980937?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-12-09-30-00 +0000"
   },
@@ -5695,13 +5695,13 @@
   },
   {
     "headline": "The Insider-Trading Scandal That Is Rocking M&A Law Firms",
-    "link": "https://www.wsj.com/us-news/law/the-insider-trading-scandal-that-is-rocking-m-a-law-firms-67a561cc?mod=rss_markets_main",
+    "link": "https://www.wsj.com/us-news/law/the-insider-trading-scandal-that-is-rocking-m-a-law-firms-67a561cc",
     "source": "wsj",
     "pubdate": "2026-05-12-01-00-00 +0000"
   },
   {
     "headline": "The Insider-Trading Scandal That Is Rocking M&A Law Firms",
-    "link": "https://www.wsj.com/us-news/law/the-insider-trading-scandal-that-is-rocking-m-a-law-firms-67a561cc",
+    "link": "https://www.wsj.com/us-news/law/the-insider-trading-scandal-that-is-rocking-m-a-law-firms-67a561cc?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-12-01-00-00 +0000"
   },
@@ -6072,8 +6072,38 @@
     "pubdate": "2026-05-11-10-16-50 +0000"
   },
   {
+    "headline": "Republicans feud, and fume, in the battle for a Southern California congressional district",
+    "link": "https://www.latimes.com/california/story/2026-05-11/republicans-feud-fume-in-battle-for-southern-california-congressional-district",
+    "source": "latimes",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
     "headline": "Fears of an AI breakthrough force the U.S. and China to talk",
     "link": "https://www.latimes.com/politics/story/2026-05-11/fears-of-ai-breakthrough-force-u-s-china-to-talk",
+    "source": "latimes",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "As questions of temperament persist, Katie Porter tries to regain edge in governor's race",
+    "link": "https://www.latimes.com/california/story/2026-05-11/as-questions-of-temperament-persist-katie-porter-tries-to-regain-edge",
+    "source": "latimes",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "Fears of an AI breakthrough force the U.S. and China to talk",
+    "link": "https://www.latimes.com/politics/story/2026-05-11/fears-of-ai-breakthrough-force-u-s-china-to-talk",
+    "source": "latimes",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "Republicans feud, and fume, in the battle for a Southern California congressional district",
+    "link": "https://www.latimes.com/california/story/2026-05-11/republicans-feud-fume-in-battle-for-southern-california-congressional-district",
+    "source": "latimes",
+    "pubdate": "2026-05-11-10-00-00 +0000"
+  },
+  {
+    "headline": "As questions of temperament persist, Katie Porter tries to regain edge in governor's race",
+    "link": "https://www.latimes.com/california/story/2026-05-11/as-questions-of-temperament-persist-katie-porter-tries-to-regain-edge",
     "source": "latimes",
     "pubdate": "2026-05-11-10-00-00 +0000"
   },
@@ -6090,42 +6120,6 @@
     "pubdate": "2026-05-11-10-00-00 +0000"
   },
   {
-    "headline": "Republicans feud, and fume, in the battle for a Southern California congressional district",
-    "link": "https://www.latimes.com/california/story/2026-05-11/republicans-feud-fume-in-battle-for-southern-california-congressional-district",
-    "source": "latimes",
-    "pubdate": "2026-05-11-10-00-00 +0000"
-  },
-  {
-    "headline": "As questions of temperament persist, Katie Porter tries to regain edge in governor's race",
-    "link": "https://www.latimes.com/california/story/2026-05-11/as-questions-of-temperament-persist-katie-porter-tries-to-regain-edge",
-    "source": "latimes",
-    "pubdate": "2026-05-11-10-00-00 +0000"
-  },
-  {
-    "headline": "Republicans feud, and fume, in the battle for a Southern California congressional district",
-    "link": "https://www.latimes.com/california/story/2026-05-11/republicans-feud-fume-in-battle-for-southern-california-congressional-district",
-    "source": "latimes",
-    "pubdate": "2026-05-11-10-00-00 +0000"
-  },
-  {
-    "headline": "Fears of an AI breakthrough force the U.S. and China to talk",
-    "link": "https://www.latimes.com/politics/story/2026-05-11/fears-of-ai-breakthrough-force-u-s-china-to-talk",
-    "source": "latimes",
-    "pubdate": "2026-05-11-10-00-00 +0000"
-  },
-  {
-    "headline": "As questions of temperament persist, Katie Porter tries to regain edge in governor's race",
-    "link": "https://www.latimes.com/california/story/2026-05-11/as-questions-of-temperament-persist-katie-porter-tries-to-regain-edge",
-    "source": "latimes",
-    "pubdate": "2026-05-11-10-00-00 +0000"
-  },
-  {
-    "headline": "The World’s Highest-Flying Repo Men Are Collecting Spirit Airlines’ Jets",
-    "link": "https://www.wsj.com/business/airlines/spirit-airlines-jets-liquidation-repo-men-5c44a46f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-11-09-30-00 +0000"
-  },
-  {
     "headline": "AI’s Next Phase Plays Into TSMC’s Hands",
     "link": "https://www.wsj.com/tech/ais-next-phase-plays-into-tsmcs-hands-3d1f2b60?mod=rss_markets_main",
     "source": "wsj",
@@ -6134,6 +6128,12 @@
   {
     "headline": "Think $6 Gas Is Bad? It’s About to Get Even Worse in California",
     "link": "https://www.wsj.com/business/energy-oil/think-6-gas-is-bad-its-about-to-get-even-worse-in-california-354d3d2f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-11-09-30-00 +0000"
+  },
+  {
+    "headline": "The World’s Highest-Flying Repo Men Are Collecting Spirit Airlines’ Jets",
+    "link": "https://www.wsj.com/business/airlines/spirit-airlines-jets-liquidation-repo-men-5c44a46f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-11-09-30-00 +0000"
   },
@@ -6324,14 +6324,14 @@
     "pubdate": "2026-05-10-16-53-26 +0000"
   },
   {
-    "headline": "Higher Gas Prices Are Seeping Into the Produce Aisle",
-    "link": "https://www.wsj.com/business/logistics/higher-gas-prices-are-seeping-into-the-produce-aisle-0f3579a9?mod=pls_whats_news_us_business_f",
+    "headline": "The Simple Fix Small-Town Schools Are Using to Keep Teens Out of Dead-End Jobs",
+    "link": "https://www.wsj.com/personal-finance/the-simple-fix-small-town-schools-are-using-to-keep-teens-out-of-dead-end-jobs-89383278",
     "source": "wsj",
     "pubdate": "2026-05-10-16-00-00 +0000"
   },
   {
-    "headline": "The Simple Fix Small-Town Schools Are Using to Keep Teens Out of Dead-End Jobs",
-    "link": "https://www.wsj.com/personal-finance/the-simple-fix-small-town-schools-are-using-to-keep-teens-out-of-dead-end-jobs-89383278",
+    "headline": "Higher Gas Prices Are Seeping Into the Produce Aisle",
+    "link": "https://www.wsj.com/business/logistics/higher-gas-prices-are-seeping-into-the-produce-aisle-0f3579a9?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-10-16-00-00 +0000"
   },
@@ -6390,28 +6390,16 @@
     "pubdate": "2026-05-10-11-29-29 +0000"
   },
   {
-    "headline": "Meet the Candidates: San Francisco’s District 4 supervisor race",
-    "link": "https://missionlocal.org/2026/05/sf-election-district-4-sunset-candidates/",
-    "source": "missionlocal",
-    "pubdate": "2026-05-10-11-00-00 +0000"
-  },
-  {
     "headline": "We Asked a Church Group to Weigh In on Trump. Here’s What They Said.",
     "link": "https://www.wsj.com/us-news/we-asked-a-church-group-to-weigh-in-on-trump-heres-what-they-said-df0809fa",
     "source": "wsj",
     "pubdate": "2026-05-10-11-00-00 +0000"
   },
   {
-    "headline": "After exile, California tribes could help oversee ancestral redwoods again",
-    "link": "https://www.latimes.com/environment/story/2026-05-10/california-bill-shifts-away-from-logging-toward-tribal-co-management",
-    "source": "latimes",
-    "pubdate": "2026-05-10-10-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: This is the most compelling California governor's race in ages. Really.",
-    "link": "https://www.latimes.com/politics/story/2026-05-10/california-governors-race-elitism-snobbery-voter-disconnect",
-    "source": "latimes",
-    "pubdate": "2026-05-10-10-00-00 +0000"
+    "headline": "Meet the Candidates: San Francisco’s District 4 supervisor race",
+    "link": "https://missionlocal.org/2026/05/sf-election-district-4-sunset-candidates/",
+    "source": "missionlocal",
+    "pubdate": "2026-05-10-11-00-00 +0000"
   },
   {
     "headline": "Taiwan fears Trump will speak off-script on its fate in Beijing",
@@ -6438,14 +6426,26 @@
     "pubdate": "2026-05-10-10-00-00 +0000"
   },
   {
-    "headline": "IMAX Has a Front-Row Seat to the Box Office Recovery",
-    "link": "https://www.wsj.com/business/media/imax-has-a-front-row-seat-to-the-box-office-recovery-1e024a3f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-10-09-30-00 +0000"
+    "headline": "After exile, California tribes could help oversee ancestral redwoods again",
+    "link": "https://www.latimes.com/environment/story/2026-05-10/california-bill-shifts-away-from-logging-toward-tribal-co-management",
+    "source": "latimes",
+    "pubdate": "2026-05-10-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: This is the most compelling California governor's race in ages. Really.",
+    "link": "https://www.latimes.com/politics/story/2026-05-10/california-governors-race-elitism-snobbery-voter-disconnect",
+    "source": "latimes",
+    "pubdate": "2026-05-10-10-00-00 +0000"
   },
   {
     "headline": "Fortress Co-Founder Allegedly Extorted by Sexual Partner",
     "link": "https://www.wsj.com/us-news/law/fortress-co-founder-allegedly-extorted-by-sexual-partner-ee9d6666",
+    "source": "wsj",
+    "pubdate": "2026-05-10-09-30-00 +0000"
+  },
+  {
+    "headline": "IMAX Has a Front-Row Seat to the Box Office Recovery",
+    "link": "https://www.wsj.com/business/media/imax-has-a-front-row-seat-to-the-box-office-recovery-1e024a3f?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-10-09-30-00 +0000"
   },
@@ -6892,23 +6892,5 @@
     "link": "https://www.wsj.com/world/uk/gilt-yields-fall-sterling-rises-after-pm-starmer-vows-to-stay-on-despite-heavy-local-election-losses-7f728c0f",
     "source": "wsj",
     "pubdate": "2026-05-08-10-52-00 +0000"
-  },
-  {
-    "headline": "Contributor: 'Trump 2028' could be a vote for Ivanka, Eric or Don Jr.",
-    "link": "https://www.latimes.com/opinion/story/2026-05-08/trump-succession-2028-ivanka-eric-don-jr",
-    "source": "latimes",
-    "pubdate": "2026-05-08-10-26-00 +0000"
-  },
-  {
-    "headline": "Ships at L.A.'s ports face a fuel shock that's shaking the economy",
-    "link": "https://www.latimes.com/business/story/2026-05-08/ships-are-paying-millions-more-for-fuel-at-l-a-long-beach-ports-costs-wont-stay-there",
-    "source": "latimes",
-    "pubdate": "2026-05-08-10-00-00 +0000"
-  },
-  {
-    "headline": "Nordstrom Rack expands in Southern California with new stores",
-    "link": "https://www.latimes.com/business/story/2026-05-08/nordstrom-rack-new-stores",
-    "source": "latimes",
-    "pubdate": "2026-05-08-10-00-00 +0000"
   }
 ]
