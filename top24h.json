@@ -1,31 +1,24 @@
 [
   {
-    "score": 256,
+    "score": 250,
     "pubdate": "2026-05-15-07-43-59 +0000",
     "source": "nypost",
     "headline": "Trump and Xi’s footing was a big ‘tell’ on how their historic China summit went: body language expert",
     "link": "https://nypost.com/2026/05/15/us-news/trump-and-xis-footing-was-a-big-tell-on-how-their-historic-china-summit-went-body-language-expert/"
   },
   {
-    "score": 104,
+    "score": 103,
     "pubdate": "2026-05-15-02-08-00 +0000",
     "source": "wsj",
     "headline": "New York Governor Says Fewer Second Homes to Pay Pied-à-Terre Tax Under New Proposal",
     "link": "https://www.wsj.com/us-news/n-y-gov-hochul-says-fewer-second-homes-to-pay-pied-a-terre-tax-under-new-proposal-a0a5c3ce?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 93,
+    "score": 83,
     "pubdate": "2026-05-15-20-10-44 +0000",
     "source": "nyt",
     "headline": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War",
     "link": "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"
-  },
-  {
-    "score": 58,
-    "pubdate": "2026-05-15-07-34-35 +0000",
-    "source": "nypost",
-    "headline": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
-    "link": "https://nypost.com/2026/05/15/us-news/supreme-court-preserves-access-to-widely-used-abortion-pill-while-lawsuit-plays-out/"
   },
   {
     "score": 56,
@@ -36,24 +29,24 @@
   },
   {
     "score": 53,
+    "pubdate": "2026-05-15-07-34-35 +0000",
+    "source": "nypost",
+    "headline": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
+    "link": "https://nypost.com/2026/05/15/us-news/supreme-court-preserves-access-to-widely-used-abortion-pill-while-lawsuit-plays-out/"
+  },
+  {
+    "score": 53,
     "pubdate": "2026-05-15-01-00-00 +0000",
     "source": "wsj",
     "headline": "The Southern Poverty Law Center built a fortune opposing Trump during his first term. The president is now trying to crush it. The antiracism group faces federal charges it says are bogus.",
     "link": "https://www.wsj.com/politics/policy/southern-poverty-law-center-trump-587424b5"
   },
   {
-    "score": 49,
+    "score": 46,
     "pubdate": "2026-05-15-05-03-31 +0000",
     "source": "bbc",
     "headline": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
     "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-05-15-20-24-25 +0000",
-    "source": "nypost",
-    "headline": "Sex therapist running for Congress says Dem primary opponent should be ‘tried for treason’ over Israel support— then doubles down",
-    "link": "https://nypost.com/2026/05/15/us-news/sex-therapist-running-for-congress-says-dem-primary-opponent-should-be-tried-for-treason-over-israel-support-then-doubles-down/"
   },
   {
     "score": 46,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Checkmates: Plucky Brooklyn public school kids trounce private school foes to land national chess trophy",
     "link": "https://nypost.com/2026/05/15/lifestyle/checkmates-plucky-brooklyn-public-school-kids-trounce-private-school-foes-to-land-national-chess-trophy/"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-05-15-12-53-57 +0000",
+    "source": "bbc",
+    "headline": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
+    "link": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss"
   }
 ]
