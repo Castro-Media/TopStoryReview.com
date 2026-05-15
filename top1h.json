@@ -1,16 +1,72 @@
 [
   {
-    "score": 6,
-    "pubdate": "2026-05-15-14-35-04 +0000",
+    "score": 51,
+    "pubdate": "2026-05-15-16-07-18 +0000",
     "source": "nyt",
-    "headline": "Replacing a Royal Hand-Me-Down That Finally Frayed",
-    "link": "https://www.nytimes.com/2026/05/15/arts/music/london-royal-opera-house-curtains.html"
+    "headline": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
+    "link": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html"
   },
   {
-    "score": 4,
-    "pubdate": "2026-05-15-14-35-00 +0000",
+    "score": 26,
+    "pubdate": "2026-05-15-16-10-57 +0000",
+    "source": "nyt",
+    "headline": "Justice Dept. Aims to Use Terrorism Laws to Target Mexican Officials",
+    "link": "https://www.nytimes.com/2026/05/15/world/americas/doj-terrorism-charges-mexican-officials.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-05-15-16-05-17 +0000",
+    "source": "nypost",
+    "headline": "Trump claims Xi ‘doesn’t want to see a war’ over Taiwan, and he’ll decide on arms sale soon",
+    "link": "https://nypost.com/2026/05/15/us-news/trump-claims-xi-doesnt-want-to-see-a-war-over-taiwan-will-decide-on-arms-sale-soon/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-05-15-15-32-21 +0000",
+    "source": "nypost",
+    "headline": "Xavier Becerra accused of breaking campaign finance laws as Democrat rivals pile-on",
+    "link": "https://nypost.com/2026/05/15/us-news/becerra-accused-of-breaking-campaign-finance-laws-while-he-accepts-500k-from-big-oil/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-15-16-09-06 +0000",
+    "source": "nypost",
+    "headline": "Rep. Steve Cohen won’t seek re-election after Tennessee redistricting",
+    "link": "https://nypost.com/2026/05/15/us-news/rep-steve-cohen-wont-seek-re-election-after-tennessee-redistricting/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-05-15-15-45-53 +0000",
+    "source": "nypost",
+    "headline": "AI scammer tricks ‘lonely’ retiree into giving up $10K by making her think she was dating James Blunt",
+    "link": "https://nypost.com/2026/05/15/us-news/ai-scammer-tricks-lonely-retiree-into-thinking-shes-in-relationship-with-singer-james-blunt/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-15-15-59-48 +0000",
     "source": "bbc",
-    "headline": "What does Makerfield make of by-election and can Burnham win?",
-    "link": "https://www.bbc.com/news/articles/cyv26e7yd89o?at_medium=RSS&at_campaign=rss"
+    "headline": "Five Italians die during cave scuba dive in Maldives",
+    "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-15-16-06-00 +0000",
+    "source": "wsj",
+    "headline": "Is Selling a Company Driven More by Luck or Skill? I Asked Poppi’s Founder",
+    "link": "https://www.wsj.com/business/allison-ellsworth-luck-vs-skill-7ffcd77a?mod=rss_markets_main"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-15-16-12-11 +0000",
+    "source": "startribune",
+    "headline": "Live: Joel Eriksson Ek, Jonas Brodin missed Wild’s series against Avalanche with broken bones",
+    "link": "https://www.startribune.com/minnesota-wild-free-agents-john-hynes-news-kirill-kaprizov-contract-mn-nhl-players-injury-update/601842661"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-15-16-16-12 +0000",
+    "source": "nyt",
+    "headline": "Omaha Bar Is Not a Barbershop, State Barber Board Tells a Bar Named ‘Barber Shop’",
+    "link": "https://www.nytimes.com/2026/05/15/us/nebraska-barber-shop-bar-name-lawsuit.html"
   }
 ]
