@@ -1,134 +1,164 @@
 [
   {
+    "headline": "Freight train and bus crash kills at least eight in Bangkok",
+    "link": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-16-14-14-19 +0000"
+  },
+  {
+    "headline": "Man Stole Medieval Skull From Church and Sealed it in Concrete, Police Say",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/czech-saint-skull-theft-stolen-church.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-14-09-21 +0000"
+  },
+  {
+    "headline": "Man Stole Medieval Skull From Church and Sealed it in Concrete, Police Say",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/czech-saint-skull-theft-stolen-church.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-14-09-21 +0000"
+  },
+  {
+    "headline": "LA’s $30 minimum wage pushes hotel owners to breaking point",
+    "link": "https://nypost.com/2026/05/16/us-news/la-hotels-sound-alarm-over-30-minimum-wage-threat/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-14-00-00 +0000"
+  },
+  {
+    "headline": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+    "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-16-13-55-14 +0000"
+  },
+  {
+    "headline": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+    "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-16-13-55-14 +0000"
+  },
+  {
+    "headline": "How a Nature Cruise Turned Into a Nightmare",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-13-53-59 +0000"
+  },
+  {
+    "headline": "How a Nature Cruise Turned Into a Nightmare",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-13-53-59 +0000"
+  },
+  {
+    "headline": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-13-51-48 +0000"
+  },
+  {
+    "headline": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-13-51-48 +0000"
+  },
+  {
+    "headline": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-13-51-48 +0000"
+  },
+  {
+    "headline": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-13-51-48 +0000"
+  },
+  {
+    "headline": "In Congress, a Sexual Harassment ‘Minefield’ Persists, Aides and Former Staff Say",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/on-capitol-hill-a-sexual-harassment-minefield-persists.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-13-51-07 +0000"
+  },
+  {
+    "headline": "In Congress, a Sexual Harassment ‘Minefield’ Persists, Aides and Former Staff Say",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/on-capitol-hill-a-sexual-harassment-minefield-persists.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-13-51-07 +0000"
+  },
+  {
+    "headline": "Trump Uses Taiwan Arms Sales as Bargaining Chip With China, in a Risky Move",
+    "link": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-13-48-22 +0000"
+  },
+  {
+    "headline": "Trump Uses Taiwan Arms Sales as Bargaining Chip With China, in a Risky Move",
+    "link": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-13-48-22 +0000"
+  },
+  {
+    "headline": "Last words of Italian marine biologist who died in Maldives scuba tragedy revealed",
+    "link": "https://nypost.com/2026/05/16/world-news/last-words-of-italian-marine-biologist-who-died-in-maldives-scuba-accident-revealed/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-13-48-15 +0000"
+  },
+  {
+    "headline": "Scientists find ‘holy grail’ of genes that could regrow human limbs",
+    "link": "https://nypost.com/2026/05/16/us-news/scientists-find-the-holy-grail-of-genes-that-could-regrow-human-limbs/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-13-44-42 +0000"
+  },
+  {
+    "headline": "Texas man faces jailtime for gunning down bald eagle that landed in his tree",
+    "link": "https://nypost.com/2026/05/16/us-news/texas-man-faces-jailtime-for-killing-bald-eagle-that-landed-in-his-tree/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-13-44-20 +0000"
+  },
+  {
+    "headline": "The state with the biggest drug problems revealed — and its teens are most addicted",
+    "link": "https://nypost.com/2026/05/16/us-news/american-states-with-the-most-and-least-drug-problems/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-13-42-55 +0000"
+  },
+  {
     "headline": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
     "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-05-16-13-09-47 +0000"
-  },
-  {
-    "headline": "Oysters, Champagne and Billionaires Buying Art",
-    "link": "https://www.nytimes.com/2026/05/16/style/tefaf-auction-nyc-art.html",
-    "source": "nyt",
-    "pubdate": "2026-05-16-13-00-05 +0000"
-  },
-  {
-    "headline": "The Tween Whisperer Rebranding Claire’s for the YouTube Generation",
-    "link": "https://www.wsj.com/cmo-today/the-tween-whisperer-rebranding-claires-for-the-youtube-generation-cfe62c03?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-16-13-00-00 +0000"
-  },
-  {
-    "headline": "Really old Volvo",
-    "link": "https://missionlocal.org/2026/05/really-old-volvo/",
-    "source": "missionlocal",
-    "pubdate": "2026-05-16-13-00-00 +0000"
-  },
-  {
-    "headline": "Chow time! NYC’s 2026 summer food festivals are a tasty trip around the world",
-    "link": "https://nypost.com/2026/05/16/lifestyle/chow-time-nycs-2026-summer-food-festivals-are-a-tasty-trip-around-the-world/",
-    "source": "nypost",
-    "pubdate": "2026-05-16-12-58-31 +0000"
-  },
-  {
-    "headline": "The Push to Indict Raúl Castro, Cuba’s Former President",
-    "link": "https://www.nytimes.com/2026/05/15/world/americas/cuba-raul-castro-us-indictment.html",
-    "source": "nyt",
-    "pubdate": "2026-05-16-12-55-33 +0000"
-  },
-  {
-    "headline": "The Push to Indict Raúl Castro, Cuba’s Former President",
-    "link": "https://www.nytimes.com/2026/05/15/world/americas/cuba-raul-castro-us-indictment.html",
-    "source": "nyt",
-    "pubdate": "2026-05-16-12-55-33 +0000"
-  },
-  {
-    "headline": "Trump Turns Taiwan Arms Sales Into Bargaining Chip With China",
-    "link": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html",
-    "source": "nyt",
-    "pubdate": "2026-05-16-12-55-21 +0000"
-  },
-  {
-    "headline": "Trump Turns Taiwan Arms Sales Into Bargaining Chip With China",
-    "link": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html",
-    "source": "nyt",
-    "pubdate": "2026-05-16-12-55-21 +0000"
-  },
-  {
-    "headline": "Buzz kill! Feds nix VA contract to buy thousands of vibrators for female vets",
-    "link": "https://nypost.com/2026/05/16/us-news/feds-nix-va-contract-to-buy-thousands-of-vibrators-for-female-vets/",
-    "source": "nypost",
-    "pubdate": "2026-05-16-12-53-49 +0000"
-  },
-  {
-    "headline": "Buzz kill! Feds nix VA contract to buy thousands of vibrators for female vets",
-    "link": "https://nypost.com/2026/05/16/us-news/feds-nix-va-contract-to-buy-thousands-of-vibrators-for-female-vets/",
-    "source": "nypost",
-    "pubdate": "2026-05-16-12-53-49 +0000"
-  },
-  {
-    "headline": "Fake heiress Anna Delvey reveals how she puts on tights under her ICE-mandated ankle monitor in viral video",
-    "link": "https://nypost.com/2026/05/16/us-news/fake-heiress-anna-delvey-shows-how-she-puts-tights-under-her-ankle-monitor-in-viral-video/",
-    "source": "nypost",
-    "pubdate": "2026-05-16-12-52-32 +0000"
-  },
-  {
-    "headline": "4 alien species have been pulled from crashed UFOs, ex-government researcher claims",
-    "link": "https://nypost.com/2026/05/16/us-news/four-species-of-aliens-have-been-pulled-from-crashed-ufos-ex-government-researcher-claims/",
-    "source": "nypost",
-    "pubdate": "2026-05-16-12-50-55 +0000"
-  },
-  {
-    "headline": "Blakeman rips into Hochul over LIRR strike, says gov ‘failed to do her job’",
-    "link": "https://nypost.com/2026/05/16/us-news/bruce-blakeman-rips-into-kathy-hochul-over-lirr-strike-says-gov-failed-to-do-her-job/",
-    "source": "nypost",
-    "pubdate": "2026-05-16-12-48-02 +0000"
-  },
-  {
-    "headline": "What to Watch in Saturday’s Republican Senate Primary in Louisiana",
-    "link": "https://www.nytimes.com/2026/05/16/us/politics/what-to-watch-louisiana-senate-primary.html",
-    "source": "nyt",
-    "pubdate": "2026-05-16-12-43-17 +0000"
-  },
-  {
-    "headline": "What to Watch in Saturday’s Republican Senate Primary in Louisiana",
-    "link": "https://www.nytimes.com/2026/05/16/us/politics/what-to-watch-louisiana-senate-primary.html",
-    "source": "nyt",
-    "pubdate": "2026-05-16-12-43-17 +0000"
-  },
-  {
-    "headline": "Transgender pedo ‘witch’ demands to be allowed to conduct nude Wiccan rituals in NJ women’s prison",
-    "link": "https://nypost.com/2026/05/16/us-news/transgender-pedo-witch-demands-to-be-allowed-to-conduct-nude-wiccan-rituals-in-nj-womens-prison/",
-    "source": "nypost",
-    "pubdate": "2026-05-16-12-30-00 +0000"
-  },
-  {
-    "headline": "Israel Kills Hamas’s ‘Ghost’ After Years of Failed Attempts",
-    "link": "https://www.wsj.com/world/middle-east/israel-kills-hamass-ghost-after-years-of-failed-attempts-665130fe",
-    "source": "wsj",
-    "pubdate": "2026-05-16-12-30-00 +0000"
-  },
-  {
-    "headline": "Rival Protests Begin in London, With a Major Security Effort",
-    "link": "https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html",
-    "source": "nyt",
-    "pubdate": "2026-05-16-12-25-18 +0000"
-  },
-  {
-    "headline": "Rival Protests Begin in London, With a Major Security Effort",
-    "link": "https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html",
-    "source": "nyt",
-    "pubdate": "2026-05-16-12-25-18 +0000"
+    "pubdate": "2026-05-16-13-42-41 +0000"
   },
   {
     "headline": "Israel Says It Killed Hamas’s Top Leader in Gaza",
     "link": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html",
     "source": "nyt",
-    "pubdate": "2026-05-16-12-21-19 +0000"
+    "pubdate": "2026-05-16-13-41-37 +0000"
   },
   {
     "headline": "Israel Says It Killed Hamas’s Top Leader in Gaza",
     "link": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html",
     "source": "nyt",
-    "pubdate": "2026-05-16-12-21-19 +0000"
+    "pubdate": "2026-05-16-13-41-37 +0000"
+  },
+  {
+    "headline": "Michael Jackson admitted he was molested as a child, had sickening word to describe disgusting acts: close friend",
+    "link": "https://nypost.com/2026/05/16/us-news/michael-jackson-confessed-he-was-molested-as-a-child-friend-reveals/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-13-41-02 +0000"
+  },
+  {
+    "headline": "Suspected drunk driver who killed 2 in NYC sidewalk crash to be criminally charged: police",
+    "link": "https://nypost.com/2026/05/16/us-news/suspected-drunk-driver-who-killed-2-in-nyc-sidewalk-crash-to-be-crimically-charged-police/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-13-41-02 +0000"
+  },
+  {
+    "headline": "Trump says top ISIS leader killed in Nigeria strike",
+    "link": "https://www.washingtonpost.com/world/2026/05/16/senior-isis-commander-killed-by-us-nigerian-forces-trump-says/",
+    "source": "wapo",
+    "pubdate": "2026-05-16-13-33-17 +0000"
+  },
+  {
+    "headline": "Hochul and Mamdani’s new fees may cause chaos in NYC property tax system as critics wonder ‘who gets targeted next’",
+    "link": "https://nypost.com/2026/05/16/us-news/hochul-mamdanis-new-fees-may-cause-chaos-in-nyc-property-tax-system-as-critics-wonder-who-gets-targeted-next/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-13-31-32 +0000"
   }
 ]
