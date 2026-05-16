@@ -1,9 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2026-05-16-14-14-19 +0000",
+    "score": 29,
+    "pubdate": "2026-05-16-15-11-59 +0000",
+    "source": "nypost",
+    "headline": "Ex-Council GOP leader betting on new outdoor beer garden in NYC’s popular pedestrian plaza",
+    "link": "https://nypost.com/2026/05/16/us-news/ex-nyc-council-gop-leader-betting-on-new-outdoor-beer-garden-at-staten-island-mall/"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-05-16-15-42-22 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Weighs $1.7 Billion Fund for Allies Investigated Under Biden",
+    "link": "https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-16-16-07-28 +0000",
+    "source": "nypost",
+    "headline": "Remains found behind Texas home belong to 6-year-old allegedly killed by abusive mother",
+    "link": "https://nypost.com/2026/05/16/us-news/remains-found-behind-texas-home-belong-to-6-year-old-allegedly-killed-by-abusive-mother/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-16-15-19-05 +0000",
+    "source": "nypost",
+    "headline": "Chaos at NYC Swatch stores as brand launches limited-edition collaboration — with one store forced to close",
+    "link": "https://nypost.com/2026/05/16/us-news/chaos-erupts-outside-nyc-swatch-stores-as-brand-launches-limited-edition-collaboration/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-16-15-16-41 +0000",
+    "source": "nypost",
+    "headline": "Invasive Asian jumping worms inching to backyards, parks across 38 states — including NY, NJ",
+    "link": "https://nypost.com/2026/05/16/us-news/invasive-asian-jumping-worms-inching-across-us-to-new-york-new-jersey-and-connecticut/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-16-15-46-44 +0000",
+    "source": "nyt",
+    "headline": "It’s Been a Wild Week in British Politics. What Happens Next?",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/britain-politics-labour-whats-next.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-05-16-15-50-09 +0000",
     "source": "bbc",
-    "headline": "Freight train and bus crash kills at least eight in Bangkok",
-    "link": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss"
+    "headline": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+    "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-05-16-15-18-02 +0000",
+    "source": "nypost",
+    "headline": "Pets are getting into owners’ weed stash — landing them at emergency vet in record numbers",
+    "link": "https://nypost.com/2026/05/16/us-news/pets-getting-into-owners-weed-stash-landing-them-at-the-emergency-vet/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-16-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "California ‘Rich Dude’ Fights $2.5 Million Fine Over Public Beach Access",
+    "link": "https://www.wsj.com/us-news/california-rich-dude-fights-2-5-million-fine-over-public-beach-access-a3addaaa"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-16-15-43-00 +0000",
+    "source": "cbc",
+    "headline": "Humpback whale released after spectacular rescue effort found dead off Denmark",
+    "link": "https://www.cbc.ca/news/world/humpback-whale-released-found-dead-denmark-9.7202341?cmp=rss"
   }
 ]
