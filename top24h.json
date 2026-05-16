@@ -1,59 +1,45 @@
 [
   {
-    "score": 236,
-    "pubdate": "2026-05-15-21-28-25 +0000",
+    "score": 233,
+    "pubdate": "2026-05-16-03-30-57 +0000",
     "source": "bbc",
     "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
     "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 120,
-    "pubdate": "2026-05-15-02-08-00 +0000",
-    "source": "wsj",
-    "headline": "New York Governor Says Fewer Second Homes to Pay Pied-à-Terre Tax Under New Proposal",
-    "link": "https://www.wsj.com/us-news/n-y-gov-hochul-says-fewer-second-homes-to-pay-pied-a-terre-tax-under-new-proposal-a0a5c3ce"
-  },
-  {
-    "score": 93,
+    "score": 92,
     "pubdate": "2026-05-15-21-29-00 +0000",
     "source": "wsj",
     "headline": "Elon Musk’s SpaceX aims to go public on June 12, bond yields hit the highest level in more than a year, and tips for buying a good used EV. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/economy/central-banking/spacex-to-go-public-june-12-0ed4a402"
   },
   {
-    "score": 79,
+    "score": 85,
+    "pubdate": "2026-05-16-00-48-06 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map",
+    "link": "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
+  },
+  {
+    "score": 78,
     "pubdate": "2026-05-15-16-07-18 +0000",
     "source": "nyt",
     "headline": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
     "link": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html"
   },
   {
-    "score": 70,
-    "pubdate": "2026-05-15-23-13-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. Supreme Court on Friday rejected a petition from Virginia Democrats to use a voter-approved congressional map that would have added as many as four blue-leaning districts for the midterms",
-    "link": "https://www.wsj.com/politics/policy/supreme-court-rejects-virginia-democrats-bid-to-restore-congressional-map-964dc84f"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-05-15-05-01-55 +0000",
-    "source": "bbc",
-    "headline": "US hotel owners expected a World Cup boom - so far it hasn't happened",
-    "link": "https://www.bbc.com/news/articles/cn0p2532xn4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-05-15-22-15-24 +0000",
-    "source": "nyt",
-    "headline": "Tina Peters, Colorado Election Denier, Will Be Freed by Gov. Jared Polis",
-    "link": "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-05-15-21-32-00 +0000",
+    "score": 59,
+    "pubdate": "2026-05-16-01-52-00 +0000",
     "source": "wsj",
     "headline": "The Federal Reserve said that outgoing Chair Jerome Powell would remain as its acting leader until Kevin Warsh, who was confirmed to a four-year term by the Senate this week, could be sworn in",
     "link": "https://www.wsj.com/economy/central-banking/powell-named-as-interim-fed-leader-pending-swearing-in-of-warsh-c31f76ad"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-05-15-19-51-00 +0000",
+    "source": "wsj",
+    "headline": "So You Think You Own Shares in a Hot Startup? Anthropic Says Not So Fast.",
+    "link": "https://www.wsj.com/finance/investing/so-you-think-you-own-shares-in-a-hot-startup-anthropic-says-not-so-fast-7b60f938?mod=rss_markets_main"
   },
   {
     "score": 51,
@@ -63,10 +49,24 @@
     "link": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 50,
+    "pubdate": "2026-05-15-22-15-24 +0000",
+    "source": "nyt",
+    "headline": "Tina Peters, Colorado Election Denier, Will Be Freed by Gov. Jared Polis",
+    "link": "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
+  },
+  {
     "score": 44,
-    "pubdate": "2026-05-15-21-44-06 +0000",
+    "pubdate": "2026-05-16-03-55-42 +0000",
     "source": "nypost",
-    "headline": "Best student life experiences in America ranked — as California clinches top spots",
-    "link": "https://nypost.com/2026/05/15/us-news/best-student-life-experiences-in-america-ranked-as-california-clinches-top-spots/"
+    "headline": "US and Nigerian forces kill top ISIS leader hiding out in Africa in ‘very complex mission,’ Trump says",
+    "link": "https://nypost.com/2026/05/15/us-news/us-and-nigerian-forces-eliminate-top-isis-leader-abu-bilal-al-minuki-in-africa-mission-trump-says/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-05-15-21-33-38 +0000",
+    "source": "bbc",
+    "headline": "Five Italians die during cave scuba dive in Maldives",
+    "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
   }
 ]
