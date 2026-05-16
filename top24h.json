@@ -1,13 +1,13 @@
 [
   {
-    "score": 141,
+    "score": 124,
     "pubdate": "2026-05-15-20-10-44 +0000",
     "source": "nyt",
     "headline": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War",
     "link": "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"
   },
   {
-    "score": 81,
+    "score": 76,
     "pubdate": "2026-05-16-00-48-07 +0000",
     "source": "nyt",
     "headline": "Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map",
@@ -21,35 +21,28 @@
     "link": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
   },
   {
-    "score": 60,
-    "pubdate": "2026-05-15-21-29-00 +0000",
-    "source": "wsj",
-    "headline": "Elon Musk’s SpaceX aims to go public on June 12, bond yields hit the highest level in more than a year, and tips for buying a good used EV. Read more in today’s What’s News newsletter:",
-    "link": "https://www.wsj.com/economy/central-banking/spacex-to-go-public-june-12-0ed4a402"
-  },
-  {
-    "score": 59,
+    "score": 55,
     "pubdate": "2026-05-15-21-24-12 +0000",
     "source": "nyt",
     "headline": "Trump Touts ‘Fantastic Trade Deals’ With China, but Details Are Scarce",
     "link": "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html"
   },
   {
-    "score": 47,
-    "pubdate": "2026-05-15-19-51-00 +0000",
+    "score": 50,
+    "pubdate": "2026-05-15-21-29-00 +0000",
     "source": "wsj",
-    "headline": "So You Think You Own Shares in a Hot Startup? Anthropic Says Not So Fast.",
-    "link": "https://www.wsj.com/finance/investing/so-you-think-you-own-shares-in-a-hot-startup-anthropic-says-not-so-fast-7b60f938?mod=rss_markets_main"
+    "headline": "Elon Musk’s SpaceX aims to go public on June 12, bond yields hit the highest level in more than a year, and tips for buying a good used EV. Read more in today’s What’s News newsletter:",
+    "link": "https://www.wsj.com/economy/central-banking/spacex-to-go-public-june-12-0ed4a402"
   },
   {
-    "score": 44,
+    "score": 43,
     "pubdate": "2026-05-15-22-15-25 +0000",
     "source": "nyt",
     "headline": "Tina Peters, Colorado Election Denier, Will Be Freed by Gov. Jared Polis",
     "link": "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   },
   {
-    "score": 43,
+    "score": 42,
     "pubdate": "2026-05-15-20-30-00 +0000",
     "source": "wsj",
     "headline": "Republican and Democratic lawmakers on Friday assailed the Pentagon’s decision to cancel the deployment of an armored brigade to Poland, saying the move caught them and U.S. allies by surprise",
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
     "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-05-16-01-52-00 +0000",
+    "source": "wsj",
+    "headline": "The Federal Reserve said that outgoing Chair Jerome Powell would remain as its acting leader until Kevin Warsh, who was confirmed to a four-year term by the Senate this week, could be sworn in",
+    "link": "https://www.wsj.com/economy/central-banking/powell-named-as-interim-fed-leader-pending-swearing-in-of-warsh-c31f76ad"
   }
 ]
