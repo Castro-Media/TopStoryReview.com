@@ -1,13 +1,13 @@
 [
   {
-    "score": 233,
+    "score": 229,
     "pubdate": "2026-05-16-03-30-57 +0000",
     "source": "bbc",
     "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
     "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 92,
+    "score": 89,
     "pubdate": "2026-05-15-21-29-00 +0000",
     "source": "wsj",
     "headline": "Elon Musk’s SpaceX aims to go public on June 12, bond yields hit the highest level in more than a year, and tips for buying a good used EV. Read more in today’s What’s News newsletter:",
@@ -28,18 +28,11 @@
     "link": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html"
   },
   {
-    "score": 59,
-    "pubdate": "2026-05-16-01-52-00 +0000",
-    "source": "wsj",
-    "headline": "The Federal Reserve said that outgoing Chair Jerome Powell would remain as its acting leader until Kevin Warsh, who was confirmed to a four-year term by the Senate this week, could be sworn in",
-    "link": "https://www.wsj.com/economy/central-banking/powell-named-as-interim-fed-leader-pending-swearing-in-of-warsh-c31f76ad"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-05-15-19-51-00 +0000",
-    "source": "wsj",
-    "headline": "So You Think You Own Shares in a Hot Startup? Anthropic Says Not So Fast.",
-    "link": "https://www.wsj.com/finance/investing/so-you-think-you-own-shares-in-a-hot-startup-anthropic-says-not-so-fast-7b60f938?mod=rss_markets_main"
+    "score": 54,
+    "pubdate": "2026-05-16-03-55-42 +0000",
+    "source": "nypost",
+    "headline": "US and Nigerian forces kill top ISIS leader hiding out in Africa in ‘very complex mission,’ Trump says",
+    "link": "https://nypost.com/2026/05/15/us-news/us-and-nigerian-forces-eliminate-top-isis-leader-abu-bilal-al-minuki-in-africa-mission-trump-says/"
   },
   {
     "score": 51,
@@ -56,17 +49,24 @@
     "link": "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
   },
   {
-    "score": 44,
-    "pubdate": "2026-05-16-03-55-42 +0000",
-    "source": "nypost",
-    "headline": "US and Nigerian forces kill top ISIS leader hiding out in Africa in ‘very complex mission,’ Trump says",
-    "link": "https://nypost.com/2026/05/15/us-news/us-and-nigerian-forces-eliminate-top-isis-leader-abu-bilal-al-minuki-in-africa-mission-trump-says/"
+    "score": 47,
+    "pubdate": "2026-05-15-19-51-00 +0000",
+    "source": "wsj",
+    "headline": "So You Think You Own Shares in a Hot Startup? Anthropic Says Not So Fast.",
+    "link": "https://www.wsj.com/finance/investing/so-you-think-you-own-shares-in-a-hot-startup-anthropic-says-not-so-fast-7b60f938?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 43,
-    "pubdate": "2026-05-15-21-33-38 +0000",
-    "source": "bbc",
-    "headline": "Five Italians die during cave scuba dive in Maldives",
-    "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-05-16-01-52-00 +0000",
+    "source": "wsj",
+    "headline": "The Federal Reserve said that outgoing Chair Jerome Powell would remain as its acting leader until Kevin Warsh, who was confirmed to a four-year term by the Senate this week, could be sworn in",
+    "link": "https://www.wsj.com/economy/central-banking/powell-named-as-interim-fed-leader-pending-swearing-in-of-warsh-c31f76ad"
+  },
+  {
+    "score": 42,
+    "pubdate": "2026-05-15-13-42-00 +0000",
+    "source": "wsj",
+    "headline": "New State Laws to Bar Private Equity From Medicine Start to Show Their Teeth",
+    "link": "https://www.wsj.com/pro/private-equity/new-state-laws-to-bar-private-equity-from-medicine-start-to-show-their-teeth-f8922168?mod=rss_markets_main"
   }
 ]
