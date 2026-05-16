@@ -1,9 +1,72 @@
 [
   {
-    "score": 5,
-    "pubdate": "2026-05-16-19-15-09 +0000",
+    "score": 23,
+    "pubdate": "2026-05-16-20-21-52 +0000",
+    "source": "nyt",
+    "headline": "Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-16-21-03-29 +0000",
+    "source": "nyt",
+    "headline": "Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission",
+    "link": "https://www.nytimes.com/2026/05/16/world/africa/trump-isis-nigeria-al-minuki.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-05-16-20-30-20 +0000",
     "source": "nypost",
-    "headline": "News of the World: What you missed this week internationally",
-    "link": "https://nypost.com/2026/05/16/world-news/news-of-the-world-may-16-2026/"
+    "headline": "‘Shoot him in the neck, like Charlie Kirk,’ vile chant erupts during massive London protests",
+    "link": "https://nypost.com/2026/05/16/world-news/shoot-him-in-the-neck-like-charlie-kirk-vile-chant-erupts-during-massive-london-protests/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-16-20-51-26 +0000",
+    "source": "nyt",
+    "headline": "Félicien Kabuga Dies; an Accused Mastermind of Rwanda’s Genocide",
+    "link": "https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-16-20-36-53 +0000",
+    "source": "bbc",
+    "headline": "Canadian from hantavirus-hit cruise ship tests positive",
+    "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-16-20-53-14 +0000",
+    "source": "nypost",
+    "headline": "Suspected drunk driver mowed down long-time friend who was waiting for mom in NYC horror crash",
+    "link": "https://nypost.com/2026/05/16/us-news/suspected-drunk-driver-mowed-down-long-time-friend-who-was-waiting-for-mom-in-nyc-horror-crash/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-05-16-21-04-22 +0000",
+    "source": "nyt",
+    "headline": "Israel’s Noam Bettan Brings French Flair to Eurovision Amid Controversy",
+    "link": "https://www.nytimes.com/2026/05/16/arts/music/eurovision-israel-noam-bettan-michelle.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-05-16-20-32-57 +0000",
+    "source": "nypost",
+    "headline": "New footage shows man fatally stuck in a Massachusetts escalator as a dozen people walk by without helping",
+    "link": "https://nypost.com/2026/05/16/us-news/new-footage-shows-man-fatally-stuck-in-a-massachusetts-escalator-as-a-dozen-people-walk-by-without-helping/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-16-21-03-13 +0000",
+    "source": "nyt",
+    "headline": "Rival Protests Take Place in London, With a Major Security Effort",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-16-20-55-29 +0000",
+    "source": "nypost",
+    "headline": "Inside Nithya Raman’s social media team-up with secretive antisemitic account",
+    "link": "https://nypost.com/2026/05/16/us-news/la-mayoral-hopeful-nithya-raman-criticized-over-dear-white-staffers-ties/"
   }
 ]
