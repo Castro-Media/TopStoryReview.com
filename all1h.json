@@ -1,8 +1,158 @@
 [
   {
-    "headline": "News of the World: What you missed this week internationally",
-    "link": "https://nypost.com/2026/05/16/world-news/news-of-the-world-may-16-2026/",
+    "headline": "Israel’s Noam Bettan Brings French Flair to Eurovision Amid Controversy",
+    "link": "https://www.nytimes.com/2026/05/16/arts/music/eurovision-israel-noam-bettan-michelle.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-21-04-22 +0000"
+  },
+  {
+    "headline": "Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission",
+    "link": "https://www.nytimes.com/2026/05/16/world/africa/trump-isis-nigeria-al-minuki.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-21-03-29 +0000"
+  },
+  {
+    "headline": "Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission",
+    "link": "https://www.nytimes.com/2026/05/16/world/africa/trump-isis-nigeria-al-minuki.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-21-03-29 +0000"
+  },
+  {
+    "headline": "Rival Protests Take Place in London, With a Major Security Effort",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-21-03-13 +0000"
+  },
+  {
+    "headline": "Rival Protests Take Place in London, With a Major Security Effort",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-21-03-13 +0000"
+  },
+  {
+    "headline": "From Italy, a disco anthem about the joys of marriage.",
+    "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/italy-eurovision-sal-da-vinci-per-sempre-si",
+    "source": "nyt",
+    "pubdate": "2026-05-16-20-59-45 +0000"
+  },
+  {
+    "headline": "Horror as train collides with truck carrying septic tank, seriously injuring driver: video",
+    "link": "https://nypost.com/2026/05/16/us-news/horror-as-train-collides-with-truck-carrying-septic-tank-seriously-injuring-driver-video/",
     "source": "nypost",
-    "pubdate": "2026-05-16-19-15-09 +0000"
+    "pubdate": "2026-05-16-20-55-40 +0000"
+  },
+  {
+    "headline": "Inside Nithya Raman’s social media team-up with secretive antisemitic account",
+    "link": "https://nypost.com/2026/05/16/us-news/la-mayoral-hopeful-nithya-raman-criticized-over-dear-white-staffers-ties/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-20-55-29 +0000"
+  },
+  {
+    "headline": "Suspected drunk driver mowed down long-time friend who was waiting for mom in NYC horror crash",
+    "link": "https://nypost.com/2026/05/16/us-news/suspected-drunk-driver-mowed-down-long-time-friend-who-was-waiting-for-mom-in-nyc-horror-crash/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-20-53-14 +0000"
+  },
+  {
+    "headline": "Can Felicia overcome the odds for Sweden?",
+    "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/eurovision-sweden-felicia",
+    "source": "nyt",
+    "pubdate": "2026-05-16-20-52-11 +0000"
+  },
+  {
+    "headline": "Félicien Kabuga Dies; an Accused Mastermind of Rwanda’s Genocide",
+    "link": "https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-20-51-26 +0000"
+  },
+  {
+    "headline": "Félicien Kabuga Dies; an Accused Mastermind of Rwanda’s Genocide",
+    "link": "https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-20-51-26 +0000"
+  },
+  {
+    "headline": "Republican senator who voted to convict Trump battles for re-election",
+    "link": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-16-20-50-04 +0000"
+  },
+  {
+    "headline": "Finland, the Eurovision Favorite, Is Here for Revenge",
+    "link": "https://www.nytimes.com/2026/05/16/arts/music/finland-eurovision-liekinheitin.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-20-46-29 +0000"
+  },
+  {
+    "headline": "Taliban legalizes sick child marriages with special rules for ‘virgin girls’ in Afghanistan",
+    "link": "https://nypost.com/2026/05/16/world-news/taliban-legalizes-sickening-child-marriages-with-rules-in-afghanistan/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-20-39-58 +0000"
+  },
+  {
+    "headline": "Canadian from hantavirus-hit cruise ship tests positive",
+    "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-16-20-36-53 +0000"
+  },
+  {
+    "headline": "Canadian from hantavirus-hit cruise ship tests positive",
+    "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-16-20-36-53 +0000"
+  },
+  {
+    "headline": "Man drives car into pedestrians in Italy, injuring eight",
+    "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-16-20-36-17 +0000"
+  },
+  {
+    "headline": "Man drives car into pedestrians in Italy, injuring eight",
+    "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-16-20-36-17 +0000"
+  },
+  {
+    "headline": "New footage shows man fatally stuck in a Massachusetts escalator as a dozen people walk by without helping",
+    "link": "https://nypost.com/2026/05/16/us-news/new-footage-shows-man-fatally-stuck-in-a-massachusetts-escalator-as-a-dozen-people-walk-by-without-helping/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-20-32-57 +0000"
+  },
+  {
+    "headline": "‘Shoot him in the neck, like Charlie Kirk,’ vile chant erupts during massive London protests",
+    "link": "https://nypost.com/2026/05/16/world-news/shoot-him-in-the-neck-like-charlie-kirk-vile-chant-erupts-during-massive-london-protests/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-20-30-20 +0000"
+  },
+  {
+    "headline": "Shark season could be brutal in SoCal this summer, experts warn",
+    "link": "https://nypost.com/2026/05/16/us-news/great-white-sharks-expected-to-swarm-socal-this-summer-expert/",
+    "source": "nypost",
+    "pubdate": "2026-05-16-20-28-56 +0000"
+  },
+  {
+    "headline": "France’s Eurovision act is just as much America’s.",
+    "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/frances-eurovision-monroe-opera",
+    "source": "nyt",
+    "pubdate": "2026-05-16-20-24-33 +0000"
+  },
+  {
+    "headline": "Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-20-21-52 +0000"
+  },
+  {
+    "headline": "Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html",
+    "source": "nyt",
+    "pubdate": "2026-05-16-20-21-52 +0000"
+  },
+  {
+    "headline": "Hwy. 61 remains closed for several miles as North Shore wildfire grows",
+    "link": "https://www.startribune.com/north-shore-wildfire-continues-to-burn-hwy-61-remains-closed-for-several-miles/601844027",
+    "source": "startribune",
+    "pubdate": "2026-05-16-20-18-08 +0000"
   }
 ]
