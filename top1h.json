@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 24,
+    "pubdate": "2026-05-16-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "With under six months to go before the midterm elections, Trump’s allies are counting on massive financial resources and closer coordination on a strategy to flip the economy on Democrats",
+    "link": "https://www.wsj.com/politics/elections/trump-republican-midterm-election-strategy-81278c65"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-16-00-48-06 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map",
+    "link": "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-16-00-40-56 +0000",
+    "source": "nyt",
+    "headline": "André Cerdini, Judge in Trial of Nazi Klaus Barbie, Dies at 96",
+    "link": "https://www.nytimes.com/2026/05/15/world/europe/andre-cerdini-dead.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-16-00-28-28 +0000",
+    "source": "cbc",
+    "headline": "White House points to 'longstanding unfair trade practices' when asked about Gordie Howe bridge opening",
+    "link": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-opening-negotiations-trump-windsor-detroit-9.7201921?cmp=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-16-01-17-31 +0000",
+    "source": "nypost",
+    "headline": "Mamdani slammed for ‘corrupting history’ about the creation of Israel in social media post marking ‘Nakba Day’",
+    "link": "https://nypost.com/2026/05/15/us-news/mamdani-slammed-for-corrupting-history-about-the-creation-of-israel-in-social-media-post-marking-nakba-day/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-16-00-27-41 +0000",
+    "source": "nypost",
+    "headline": "Chelsea Handler ignites feud with Spencer Pratt in Trump-comparison profanity-laced attack",
+    "link": "https://nypost.com/2026/05/15/us-news/chelsea-handler-ignites-feud-with-spencer-pratt/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-16-01-14-48 +0000",
+    "source": "nypost",
+    "headline": "Out-of-control NYC driver plows into group of men on sidewalk, killing 2",
+    "link": "https://nypost.com/2026/05/15/us-news/out-of-control-nyc-driver-plows-into-group-of-men-on-sidewalk-killing-2/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-16-01-14-16 +0000",
+    "source": "nypost",
+    "headline": "Theo Von breaks silence after Joe Rogan expresses suicide concerns",
+    "link": "https://nypost.com/2026/05/15/us-news/theo-von-breaks-silence-after-joe-rogan-expresses-suicide-concerns/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-16-01-14-12 +0000",
+    "source": "nyt",
+    "headline": "Navy Aircraft Carrier to Complete Longest Deployment Since Vietnam",
+    "link": "https://www.nytimes.com/2026/05/15/us/uss-ford-long-deployment.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-16-00-31-49 +0000",
+    "source": "nyt",
+    "headline": "Top Drug Regulator Is Fired From the F.D.A.",
+    "link": "https://www.nytimes.com/2026/05/15/us/politics/fda-drug-regulator-fired.html"
+  }
+]
