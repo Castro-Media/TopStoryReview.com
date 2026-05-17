@@ -1,13 +1,13 @@
 [
   {
-    "score": 141,
-    "pubdate": "2026-05-17-11-08-00 +0000",
-    "source": "wsj",
-    "headline": "Sen. Bill Cassidy’s run for re-election was cut short Saturday as voters heeded Trump’s call to oust the two-term Louisiana Republican, with the incumbent expected to finish third in the GOP primary",
-    "link": "https://www.wsj.com/politics/elections/trump-nemesis-sen-bill-cassidy-defeated-in-gop-primary-8087c281"
+    "score": 139,
+    "pubdate": "2026-05-17-02-56-27 +0000",
+    "source": "nypost",
+    "headline": "Republican Sen. Bill Cassidy — who voted to convict Trump — loses Louisiana primary as president takes victory lap: ‘Political career is OVER!",
+    "link": "https://nypost.com/2026/05/16/us-news/la-republican-sen-bill-cassidy-fails-to-make-runoff-in-primary-as-trump-backed-challenger-tops-vote/"
   },
   {
-    "score": 67,
+    "score": 62,
     "pubdate": "2026-05-17-03-23-00 +0000",
     "source": "wsj",
     "headline": "The Senate parliamentarian has found that $1 billion in federal funding related to President Trump’s White House ballroom is subject to a 60-vote threshold in the Senate rather than a simple majority",
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2026/05/17/world-news/ukrainian-drone-strike-kills-3-in-moscow-largest-attack-in-months/"
   },
   {
-    "score": 45,
+    "score": 47,
     "pubdate": "2026-05-17-09-01-05 +0000",
     "source": "nyt",
     "headline": "The Iran War Is Crippling One of the World’s Wealthiest Nations",
@@ -29,17 +29,10 @@
   },
   {
     "score": 42,
-    "pubdate": "2026-05-16-17-01-10 +0000",
-    "source": "nyt",
-    "headline": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.",
-    "link": "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-05-17-02-11-04 +0000",
-    "source": "nypost",
-    "headline": "Trump could shake up LA mayor race with bombshell Spencer Pratt endorsement",
-    "link": "https://nypost.com/2026/05/16/us-news/donald-trump-reportedly-considers-endorsing-spencer-pratt-for-la-mayor/"
+    "pubdate": "2026-05-17-11-08-00 +0000",
+    "source": "wsj",
+    "headline": "Sen. Bill Cassidy’s run for re-election was cut short Saturday as voters heeded Trump’s call to oust the two-term Louisiana Republican, with the incumbent expected to finish third in the GOP primary",
+    "link": "https://www.wsj.com/politics/elections/trump-nemesis-sen-bill-cassidy-defeated-in-gop-primary-8087c281"
   },
   {
     "score": 40,
@@ -49,6 +42,13 @@
     "link": "https://nypost.com/2026/05/17/us-news/ex-google-ceo-eric-schmidt-booed-at-arizona-commencement-over-ai-sex-harassment-claims/"
   },
   {
+    "score": 40,
+    "pubdate": "2026-05-17-02-11-04 +0000",
+    "source": "nypost",
+    "headline": "Trump could shake up LA mayor race with bombshell Spencer Pratt endorsement",
+    "link": "https://nypost.com/2026/05/16/us-news/donald-trump-reportedly-considers-endorsing-spencer-pratt-for-la-mayor/"
+  },
+  {
     "score": 38,
     "pubdate": "2026-05-17-00-24-08 +0000",
     "source": "nyt",
@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2026/05/16/business/swatch-audemars-piguet-watch-launch-closures.html"
   },
   {
-    "score": 37,
-    "pubdate": "2026-05-17-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "Thomas Massie, the seven-term GOP congressman from Kentucky and leading Trump antagonist, will soon find out whether his political career in the House can survive a break with the president",
-    "link": "https://www.wsj.com/politics/elections/thomas-massies-lonely-and-expensive-fight-against-trump-40dad789"
+    "score": 38,
+    "pubdate": "2026-05-16-17-01-10 +0000",
+    "source": "nyt",
+    "headline": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html"
   },
   {
-    "score": 34,
-    "pubdate": "2026-05-17-13-00-26 +0000",
-    "source": "bbc",
-    "headline": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-    "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
+    "score": 36,
+    "pubdate": "2026-05-17-13-39-00 +0000",
+    "source": "wsj",
+    "headline": "WHO Declares Global Health Emergency After Ebola Outbreak in Congo",
+    "link": "https://www.wsj.com/world/africa/who-declares-global-health-emergency-after-ebola-outbreak-in-congo-4ec2b74b"
   }
 ]
