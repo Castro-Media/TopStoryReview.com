@@ -1,24 +1,24 @@
 [
   {
     "score": 117,
-    "pubdate": "2026-05-17-03-55-00 +0000",
+    "pubdate": "2026-05-17-04-57-00 +0000",
     "source": "wsj",
     "headline": "Sen. Bill Cassidy’s run for re-election was cut short Saturday as voters heeded Trump’s call to oust the two-term Louisiana Republican, with the incumbent expected to finish third in the GOP primary",
     "link": "https://www.wsj.com/politics/elections/trump-nemesis-sen-bill-cassidy-defeated-in-gop-primary-8087c281"
   },
   {
-    "score": 52,
-    "pubdate": "2026-05-17-03-23-00 +0000",
-    "source": "wsj",
-    "headline": "The Senate parliamentarian has found that $1 billion in federal funding related to President Trump’s White House ballroom is subject to a 60-vote threshold in the Senate rather than a simple majority",
-    "link": "https://www.wsj.com/politics/policy/funding-tied-to-trumps-ballroom-hits-snag-in-senate-457019af"
-  },
-  {
-    "score": 50,
+    "score": 55,
     "pubdate": "2026-05-16-14-29-20 +0000",
     "source": "nyt",
     "headline": "Hamas’s Top Leader in Gaza Is Killed in Israeli Strike",
     "link": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-05-17-03-23-00 +0000",
+    "source": "wsj",
+    "headline": "The Senate parliamentarian has found that $1 billion in federal funding related to President Trump’s White House ballroom is subject to a 60-vote threshold in the Senate rather than a simple majority",
+    "link": "https://www.wsj.com/politics/policy/funding-tied-to-trumps-ballroom-hits-snag-in-senate-457019af"
   },
   {
     "score": 43,
@@ -35,38 +35,38 @@
     "link": "https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html"
   },
   {
-    "score": 37,
+    "score": 38,
     "pubdate": "2026-05-17-00-24-08 +0000",
     "source": "nyt",
     "headline": "Shoppers’ Frenzy for ‘Royal Pop’ Pocket Watches Forces Swatch to Shut Stores",
     "link": "https://www.nytimes.com/2026/05/16/business/swatch-audemars-piguet-watch-launch-closures.html"
   },
   {
-    "score": 34,
+    "score": 37,
     "pubdate": "2026-05-16-16-42-27 +0000",
     "source": "nypost",
     "headline": "Terror not ruled out as 8 injured after suspect plows car into crowd, stabs man who tried to stop him from fleeing scene in Italy",
     "link": "https://nypost.com/2026/05/16/world-news/many-injured-as-suspect-plows-vehicle-into-crowd-stabs-a-passerby-in-modena-italy/"
   },
   {
-    "score": 33,
-    "pubdate": "2026-05-16-14-14-19 +0000",
-    "source": "bbc",
-    "headline": "Freight train and bus crash kills at least eight in Bangkok",
-    "link": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 33,
+    "score": 35,
     "pubdate": "2026-05-16-15-01-40 +0000",
     "source": "bbc",
     "headline": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
     "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 32,
-    "pubdate": "2026-05-17-02-11-04 +0000",
+    "score": 34,
+    "pubdate": "2026-05-16-23-10-22 +0000",
     "source": "nypost",
-    "headline": "Trump could shake up LA mayor race with bombshell Spencer Pratt endorsement",
-    "link": "https://nypost.com/2026/05/16/us-news/donald-trump-reportedly-considers-endorsing-spencer-pratt-for-la-mayor/"
+    "headline": "Hochul pushed LIRR strike to pick up votes on Long Island from GOP rival Blakeman: transit union chief",
+    "link": "https://nypost.com/2026/05/16/us-news/hochul-pushed-lirr-strike-to-pick-up-votes-on-long-island-from-gop-opponent-transit-union-chief/"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-05-16-14-14-19 +0000",
+    "source": "bbc",
+    "headline": "Freight train and bus crash kills at least eight in Bangkok",
+    "link": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss"
   }
 ]
