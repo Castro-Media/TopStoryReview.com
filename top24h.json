@@ -1,20 +1,13 @@
 [
   {
-    "score": 103,
+    "score": 101,
     "pubdate": "2026-05-16-15-59-19 +0000",
     "source": "wapo",
     "headline": "Trump says top Islamic State leader was killed in Nigeria strike",
     "link": "https://www.washingtonpost.com/world/2026/05/16/senior-isis-commander-killed-by-us-nigerian-forces-trump-says/"
   },
   {
-    "score": 71,
-    "pubdate": "2026-05-16-00-48-07 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map",
-    "link": "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
-  },
-  {
-    "score": 47,
+    "score": 44,
     "pubdate": "2026-05-16-17-01-10 +0000",
     "source": "nyt",
     "headline": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.",
@@ -22,51 +15,58 @@
   },
   {
     "score": 42,
-    "pubdate": "2026-05-16-09-01-31 +0000",
-    "source": "nyt",
-    "headline": "Which Countries Are Profiting From the Iran War Oil Shock",
-    "link": "https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html"
+    "pubdate": "2026-05-16-21-25-16 +0000",
+    "source": "nypost",
+    "headline": "Terror ‘commander’ worked through new Iran-backed terror group to kill Trump",
+    "link": "https://nypost.com/2026/05/16/world-news/terror-commander-urged-followers-of-brand-new-iran-backed-terror-group-to-kill-president-trump/"
   },
   {
-    "score": 39,
+    "score": 40,
     "pubdate": "2026-05-16-15-01-40 +0000",
     "source": "bbc",
     "headline": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
     "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 35,
-    "pubdate": "2026-05-16-20-21-52 +0000",
-    "source": "nyt",
-    "headline": "Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8",
-    "link": "https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-05-16-19-25-21 +0000",
-    "source": "nypost",
-    "headline": "Mamdani’s $124.7B budget cuts a third of NYC Parks Enforcement Patrol — and critics warn it will leave major gap in public safety",
-    "link": "https://nypost.com/2026/05/16/us-news/one-third-of-nyc-parks-patrols-to-be-axed-under-mamdanis-budget-plan-every-neighborhood-park-would-be-affected/"
-  },
-  {
-    "score": 35,
+    "score": 37,
     "pubdate": "2026-05-16-02-06-00 +0000",
     "source": "wsj",
     "headline": "With under six months to go before the midterm elections, Trump’s allies are counting on massive financial resources and closer coordination on a strategy to flip the economy on Democrats",
     "link": "https://www.wsj.com/politics/elections/trump-republican-midterm-election-strategy-81278c65"
   },
   {
-    "score": 34,
-    "pubdate": "2026-05-15-23-41-23 +0000",
+    "score": 36,
+    "pubdate": "2026-05-16-20-21-52 +0000",
     "source": "nyt",
-    "headline": "With Possible Raúl Castro Indictment, U.S. Eyes Venezuela Playbook",
-    "link": "https://www.nytimes.com/2026/05/15/us/politics/trump-cuba-pressue-castro.html"
+    "headline": "Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/car-crash-modena-italy.html"
   },
   {
-    "score": 31,
-    "pubdate": "2026-05-16-21-32-06 +0000",
-    "source": "latimes",
-    "headline": "Train cart found with 6 dead migrants inside came from Long Beach, officials say",
-    "link": "https://www.latimes.com/california/story/2026-05-16/texas-train-cart-found-with-6-dead-migrants-inside-came-from-long-beach"
+    "score": 33,
+    "pubdate": "2026-05-16-20-53-14 +0000",
+    "source": "nypost",
+    "headline": "Suspected drunk driver mowed down long-time friend who was waiting for mom in NYC horror crash",
+    "link": "https://nypost.com/2026/05/16/us-news/suspected-drunk-driver-mowed-down-long-time-friend-who-was-waiting-for-mom-in-nyc-horror-crash/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-05-16-17-01-28 +0000",
+    "source": "bbc",
+    "headline": "Whale found dead near Danish island after German rescue operation",
+    "link": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-05-16-18-33-59 +0000",
+    "source": "nypost",
+    "headline": "Minnesota ‘Squad’ Rep. Ilhan Omar knew about $250M COVID meal fraud, scheme ‘mastermind’ claims in jailhouse interview",
+    "link": "https://nypost.com/2026/05/16/us-news/minnesota-rep-ilhan-omar-knew-about-250m-covid-meal-fraud-mastermind/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-05-16-16-29-04 +0000",
+    "source": "nyt",
+    "headline": "Have You Experienced Sexual Harassment in Congress? Share Your Story.",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/sexual-harassment-congress-share-your-story.html"
   }
 ]
