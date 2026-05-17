@@ -1,31 +1,24 @@
 [
   {
-    "score": 139,
-    "pubdate": "2026-05-17-02-56-27 +0000",
-    "source": "nypost",
-    "headline": "Republican Sen. Bill Cassidy — who voted to convict Trump — loses Louisiana primary as president takes victory lap: ‘Political career is OVER!",
-    "link": "https://nypost.com/2026/05/16/us-news/la-republican-sen-bill-cassidy-fails-to-make-runoff-in-primary-as-trump-backed-challenger-tops-vote/"
+    "score": 136,
+    "pubdate": "2026-05-17-11-08-00 +0000",
+    "source": "wsj",
+    "headline": "Sen. Bill Cassidy’s run for re-election was cut short Saturday as voters heeded Trump’s call to oust the two-term Louisiana Republican, with the incumbent expected to finish third in the GOP primary",
+    "link": "https://www.wsj.com/politics/elections/trump-nemesis-sen-bill-cassidy-defeated-in-gop-primary-8087c281"
   },
   {
-    "score": 61,
+    "score": 69,
     "pubdate": "2026-05-17-03-23-00 +0000",
     "source": "wsj",
     "headline": "The Senate parliamentarian has found that $1 billion in federal funding related to President Trump’s White House ballroom is subject to a 60-vote threshold in the Senate rather than a simple majority",
     "link": "https://www.wsj.com/politics/policy/funding-tied-to-trumps-ballroom-hits-snag-in-senate-457019af"
   },
   {
-    "score": 57,
+    "score": 55,
     "pubdate": "2026-05-17-09-04-10 +0000",
     "source": "nypost",
     "headline": "At least 4 people killed in largest Ukrainian drone strike on Moscow in months",
     "link": "https://nypost.com/2026/05/17/world-news/ukrainian-drone-strike-kills-3-in-moscow-largest-attack-in-months/"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-05-16-17-01-10 +0000",
-    "source": "nyt",
-    "headline": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.",
-    "link": "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html"
   },
   {
     "score": 44,
@@ -35,11 +28,11 @@
     "link": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html"
   },
   {
-    "score": 40,
-    "pubdate": "2026-05-17-11-08-00 +0000",
-    "source": "wsj",
-    "headline": "Sen. Bill Cassidy’s run for re-election was cut short Saturday as voters heeded Trump’s call to oust the two-term Louisiana Republican, with the incumbent expected to finish third in the GOP primary",
-    "link": "https://www.wsj.com/politics/elections/trump-nemesis-sen-bill-cassidy-defeated-in-gop-primary-8087c281"
+    "score": 43,
+    "pubdate": "2026-05-16-17-01-10 +0000",
+    "source": "nyt",
+    "headline": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html"
   },
   {
     "score": 40,
@@ -50,10 +43,10 @@
   },
   {
     "score": 39,
-    "pubdate": "2026-05-17-09-26-53 +0000",
-    "source": "bbc",
-    "headline": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-    "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-05-16-12-18-02 +0000",
+    "source": "cbc",
+    "headline": "WHO declares deadly Ebola outbreak in Congo, Uganda a global health emergency",
+    "link": "https://www.cbc.ca/news/world/congo-ebola-outbreak-9.7202245?cmp=rss"
   },
   {
     "score": 38,
@@ -63,10 +56,17 @@
     "link": "https://www.nytimes.com/2026/05/16/business/swatch-audemars-piguet-watch-launch-closures.html"
   },
   {
+    "score": 38,
+    "pubdate": "2026-05-17-09-00-00 +0000",
+    "source": "wsj",
+    "headline": "Thomas Massie, the seven-term GOP congressman from Kentucky and leading Trump antagonist, will soon find out whether his political career in the House can survive a break with the president",
+    "link": "https://www.wsj.com/politics/elections/thomas-massies-lonely-and-expensive-fight-against-trump-40dad789"
+  },
+  {
     "score": 35,
-    "pubdate": "2026-05-16-17-01-28 +0000",
+    "pubdate": "2026-05-16-15-01-40 +0000",
     "source": "bbc",
-    "headline": "Whale found dead near Danish island after German rescue operation",
-    "link": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss"
+    "headline": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
+    "link": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss"
   }
 ]
