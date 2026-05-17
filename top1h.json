@@ -1,72 +1,58 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-05-17-01-07-25 +0000",
-    "source": "latimes",
-    "headline": "Mayoral hopeful Spencer Pratt heads to the Valley, wooing voters in his rival's district",
-    "link": "https://www.latimes.com/california/story/2026-05-16/mayoral-hopeful-spencer-pratt-woos-valley-voters-in-rivals-district"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-05-17-01-18-42 +0000",
-    "source": "nypost",
-    "headline": "SF pet store owners prepare to fight as city plots ban on sale of live animals",
-    "link": "https://nypost.com/2026/05/16/us-news/sf-pet-store-owners-prepare-to-fight-as-city-plots-ban-on-sale-of-live-animals/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-05-17-01-01-07 +0000",
-    "source": "nyt",
-    "headline": "What to Watch in Saturday’s Republican Senate Primary in Louisiana",
-    "link": "https://www.nytimes.com/2026/05/16/us/politics/what-to-watch-louisiana-senate-primary.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-05-17-00-42-07 +0000",
-    "source": "nypost",
-    "headline": "Foul ball ‘cracking’ skull of woman at Padres game heard around the world",
-    "link": "https://nypost.com/2026/05/16/us-news/foul-ball-cracking-skull-of-woman-at-padres-game-heard-around-the-world/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-05-17-00-35-50 +0000",
-    "source": "nypost",
-    "headline": "Good Samaritan who turned in missing $500 lottery ticket later wins massive jackpot",
-    "link": "https://nypost.com/2026/05/16/us-news/man-wins-over-500k-lotto-ticket-two-months-after-returning-winning-ticket-to-rightful-owner/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-05-17-00-45-22 +0000",
-    "source": "nypost",
-    "headline": "‘Timmy’ the humpback whale, subject of heroic rescue effort, found dead, officials confirm",
-    "link": "https://nypost.com/2026/05/16/world-news/humpback-whale-found-dead-denmark-identified-timmy/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-05-17-01-00-00 +0000",
+    "score": 37,
+    "pubdate": "2026-05-17-03-55-00 +0000",
     "source": "wsj",
-    "headline": "Suspicious Betting in Washington Is on the Rise—and Authorities Are Playing Catch-Up",
-    "link": "https://www.wsj.com/finance/regulation/government-prediction-markets-betting-2126dcb3?mod=rss_markets_main"
+    "headline": "Sen. Bill Cassidy’s run for re-election was cut short Saturday as voters heeded Trump’s call to oust the two-term Louisiana Republican, with the incumbent expected to finish third in the GOP primary",
+    "link": "https://www.wsj.com/politics/elections/trump-nemesis-sen-bill-cassidy-defeated-in-gop-primary-8087c281"
   },
   {
-    "score": 8,
-    "pubdate": "2026-05-17-00-40-23 +0000",
-    "source": "latimes",
-    "headline": "The world's largest wildlife crossing and five others are coming to Southern California",
-    "link": "https://www.latimes.com/california/story/2026-05-16/six-wildlife-crossings-are-coming-to-southern-california"
+    "score": 23,
+    "pubdate": "2026-05-17-03-23-00 +0000",
+    "source": "wsj",
+    "headline": "The Senate parliamentarian has found that $1 billion in federal funding related to President Trump’s White House ballroom is subject to a 60-vote threshold in the Senate rather than a simple majority",
+    "link": "https://www.wsj.com/politics/policy/funding-tied-to-trumps-ballroom-hits-snag-in-senate-457019af"
   },
   {
-    "score": 6,
-    "pubdate": "2026-05-17-00-46-41 +0000",
+    "score": 16,
+    "pubdate": "2026-05-17-03-39-14 +0000",
     "source": "nyt",
-    "headline": "Bulgaria Wins Eurovision Song Contest as Israel Comes Second",
-    "link": "https://www.nytimes.com/2026/05/16/arts/music/dara-bulgaria-bangaranga-eurovision-winner.html"
+    "headline": "7 Republicans Voted to Convict Trump. Most Are No Longer in Office.",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/republicans-trump-cassidy-conviction-impeachment.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-05-17-03-39-34 +0000",
+    "source": "latimes",
+    "headline": "L.A. County health officials confirm fifth measles case this year",
+    "link": "https://www.latimes.com/california/story/2026-05-16/la-county-health-officials-confirm-fifth-measles-case-this-year"
   },
   {
     "score": 6,
-    "pubdate": "2026-05-17-00-52-25 +0000",
-    "source": "nypost",
-    "headline": "8 dead, 32 injured after freight train smashes into a bus in Thailand",
-    "link": "https://nypost.com/2026/05/16/world-news/8-dead-32-injured-after-freight-train-smashes-into-a-bus-in-thailand/"
+    "pubdate": "2026-05-17-04-00-54 +0000",
+    "source": "nyt",
+    "headline": "Cassidy Loses Senate Primary in Louisiana, as Trump Vanquishes G.O.P. Foe",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-05-17-03-23-08 +0000",
+    "source": "bbc",
+    "headline": "Trump-backed challenger defeats Republican senator who voted to convict president",
+    "link": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-17-04-00-54 +0000",
+    "source": "nyt",
+    "headline": "Cassidy Loses Senate Primary in Louisiana, as Trump Vanquishes G.O.P. Foe",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-17-03-39-14 +0000",
+    "source": "nyt",
+    "headline": "7 Republicans Voted to Convict Trump. Most Are No Longer in Office.",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/republicans-trump-cassidy-conviction-impeachment.html"
   }
 ]
