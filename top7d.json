@@ -1,6 +1,6 @@
 [
   {
-    "score": 408,
+    "score": 407,
     "pubdate": "2026-05-15-20-10-44 +0000",
     "source": "nyt",
     "headline": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War",
@@ -14,7 +14,7 @@
     "link": "https://www.wsj.com/economy/central-banking/kevin-warsh-fed-chair-senate-vote-9eab1277"
   },
   {
-    "score": 160,
+    "score": 158,
     "pubdate": "2026-05-17-04-57-00 +0000",
     "source": "wsj",
     "headline": "Sen. Bill Cassidy’s run for re-election was cut short Saturday as voters heeded Trump’s call to oust the two-term Louisiana Republican, with the incumbent expected to finish third in the GOP primary",
@@ -35,18 +35,25 @@
     "link": "https://www.wsj.com/economy/central-banking/spacex-to-go-public-june-12-0ed4a402"
   },
   {
-    "score": 113,
+    "score": 112,
+    "pubdate": "2026-05-16-14-29-20 +0000",
+    "source": "nyt",
+    "headline": "Hamas’s Top Leader in Gaza Is Killed in Israeli Strike",
+    "link": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+  },
+  {
+    "score": 111,
     "pubdate": "2026-05-13-22-29-26 +0000",
     "source": "latimes",
     "headline": "Vance says $1.3 billion in Medicaid payments to California will be deferred over fraud concerns",
     "link": "https://www.latimes.com/california/story/2026-05-13/vance-says-1-3-billion-in-medicaid-payments-to-california-will-be-deferred-over-fraud-concerns"
   },
   {
-    "score": 112,
-    "pubdate": "2026-05-16-03-55-42 +0000",
-    "source": "nypost",
-    "headline": "US and Nigerian forces kill top ISIS leader hiding out in Africa in ‘very complex mission,’ Trump says",
-    "link": "https://nypost.com/2026/05/15/us-news/us-and-nigerian-forces-eliminate-top-isis-leader-abu-bilal-al-minuki-in-africa-mission-trump-says/"
+    "score": 107,
+    "pubdate": "2026-05-11-07-53-53 +0000",
+    "source": "bbc",
+    "headline": "BBC tests out England and Argentina's World Cup training grounds in Kansas City",
+    "link": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 100,
@@ -56,17 +63,10 @@
     "link": "https://www.wsj.com/politics/policy/southern-poverty-law-center-trump-587424b5"
   },
   {
-    "score": 98,
-    "pubdate": "2026-05-15-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "FIFA World Cup turns up gentrification pressures in Mexico City, say experts",
-    "link": "https://www.cbc.ca/news/world/mexico-gentrification-fifa-9.7200235?cmp=rss"
-  },
-  {
-    "score": 95,
+    "score": 93,
     "pubdate": "2026-05-15-19-51-00 +0000",
     "source": "wsj",
     "headline": "So You Think You Own Shares in a Hot Startup? Anthropic Says Not So Fast.",
-    "link": "https://www.wsj.com/finance/investing/so-you-think-you-own-shares-in-a-hot-startup-anthropic-says-not-so-fast-7b60f938?mod=rss_markets_main"
+    "link": "https://www.wsj.com/finance/investing/so-you-think-you-own-shares-in-a-hot-startup-anthropic-says-not-so-fast-7b60f938?mod=pls_whats_news_us_business_f"
   }
 ]
