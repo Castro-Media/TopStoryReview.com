@@ -1,20 +1,20 @@
 [
   {
-    "score": 409,
+    "score": 414,
     "pubdate": "2026-05-15-20-10-44 +0000",
     "source": "nyt",
     "headline": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War",
     "link": "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"
   },
   {
-    "score": 177,
+    "score": 181,
     "pubdate": "2026-05-13-20-51-00 +0000",
     "source": "wsj",
     "headline": "The Senate confirmed Kevin Warsh as the Fed’s new chair on Wednesday in a party-line vote that reflected how tensions with the White House have dragged the Fed deeper into the political fray",
     "link": "https://www.wsj.com/economy/central-banking/kevin-warsh-fed-chair-senate-vote-9eab1277"
   },
   {
-    "score": 153,
+    "score": 150,
     "pubdate": "2026-05-18-04-45-00 +0000",
     "source": "wsj",
     "headline": "China’s economic momentum slowed broadly in April, underscoring persistent areas of weakness in the world’s second-largest economy, even as exports continue to climb",
@@ -28,18 +28,18 @@
     "link": "https://www.wsj.com/politics/elections/trump-nemesis-sen-bill-cassidy-defeated-in-gop-primary-8087c281"
   },
   {
+    "score": 125,
+    "pubdate": "2026-05-12-22-09-00 +0000",
+    "source": "wsj",
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
+  },
+  {
     "score": 124,
     "pubdate": "2026-05-17-18-20-28 +0000",
     "source": "nypost",
     "headline": "Spencer Pratt says he’ll move family out of Los Angeles if he loses election for mayor",
     "link": "https://nypost.com/2026/05/17/us-news/spencer-pratt-says-hell-move-family-out-of-los-angeles-if-he-loses-election-for-mayor/"
-  },
-  {
-    "score": 123,
-    "pubdate": "2026-05-12-22-09-00 +0000",
-    "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
     "score": 113,
@@ -49,7 +49,7 @@
     "link": "https://www.latimes.com/california/story/2026-05-13/vance-says-1-3-billion-in-medicaid-payments-to-california-will-be-deferred-over-fraud-concerns"
   },
   {
-    "score": 100,
+    "score": 96,
     "pubdate": "2026-05-16-14-29-20 +0000",
     "source": "nyt",
     "headline": "Hamas’s Top Leader in Gaza Is Killed in Israeli Strike",
@@ -57,16 +57,16 @@
   },
   {
     "score": 91,
-    "pubdate": "2026-05-15-21-29-00 +0000",
-    "source": "wsj",
-    "headline": "Elon Musk’s SpaceX aims to go public on June 12, bond yields hit the highest level in more than a year, and tips for buying a good used EV. Read more in today’s What’s News newsletter:",
-    "link": "https://www.wsj.com/economy/central-banking/spacex-to-go-public-june-12-0ed4a402"
-  },
-  {
-    "score": 90,
     "pubdate": "2026-05-13-06-40-00 +0000",
     "source": "wsj",
     "headline": "A Nebraska state senator and a former communications executive were in a tight Democratic congressional primary early Wednesday for a House seat left open by retiring GOP Rep. Don Bacon",
     "link": "https://www.wsj.com/politics/elections/nebraska-democrats-in-tight-primary-for-open-house-seat-party-hopes-to-flip-240fa796"
+  },
+  {
+    "score": 89,
+    "pubdate": "2026-05-15-21-29-00 +0000",
+    "source": "wsj",
+    "headline": "Elon Musk’s SpaceX aims to go public on June 12, bond yields hit the highest level in more than a year, and tips for buying a good used EV. Read more in today’s What’s News newsletter:",
+    "link": "https://www.wsj.com/economy/central-banking/spacex-to-go-public-june-12-0ed4a402"
   }
 ]
