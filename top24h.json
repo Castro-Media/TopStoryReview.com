@@ -1,6 +1,6 @@
 [
   {
-    "score": 150,
+    "score": 149,
     "pubdate": "2026-05-18-19-43-45 +0000",
     "source": "bbc",
     "headline": "Trump says he called off new Iran attack at request of Gulf states",
@@ -36,13 +36,6 @@
   },
   {
     "score": 49,
-    "pubdate": "2026-05-18-19-32-10 +0000",
-    "source": "nypost",
-    "headline": "Kentucky battle for Rep. Thomas Massie’s seat is the most expensive House primary race in history",
-    "link": "https://nypost.com/2026/05/18/us-news/kentucky-battle-for-rep-thomas-massies-seat-is-the-most-expensive-house-primary-race-in-history/"
-  },
-  {
-    "score": 49,
     "pubdate": "2026-05-18-19-05-07 +0000",
     "source": "startribune",
     "headline": "Justice Department announces a $1.7B fund to compensate Trump allies in a deal to drop IRS suit",
@@ -50,10 +43,10 @@
   },
   {
     "score": 48,
-    "pubdate": "2026-05-18-03-08-13 +0000",
-    "source": "bbc",
-    "headline": "Taiwan will not provoke conflict nor give up sovereignty, says president",
-    "link": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-05-18-19-32-10 +0000",
+    "source": "nypost",
+    "headline": "Kentucky battle for Rep. Thomas Massie’s seat is the most expensive House primary race in history",
+    "link": "https://nypost.com/2026/05/18/us-news/kentucky-battle-for-rep-thomas-massies-seat-is-the-most-expensive-house-primary-race-in-history/"
   },
   {
     "score": 47,
@@ -61,6 +54,13 @@
     "source": "wsj",
     "headline": "The World Can’t Get Enough U.S. Energy, Keeping Prices High for Americans",
     "link": "https://www.wsj.com/business/energy-oil/the-world-cant-get-enough-u-s-energy-keeping-prices-high-for-americans-77f0b63f?mod=rss_markets_main"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-05-18-03-08-13 +0000",
+    "source": "bbc",
+    "headline": "Taiwan will not provoke conflict nor give up sovereignty, says president",
+    "link": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 44,
