@@ -1,72 +1,72 @@
 [
   {
-    "score": 412,
+    "score": 415,
     "pubdate": "2026-05-15-20-10-44 +0000",
     "source": "nyt",
     "headline": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War",
     "link": "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"
   },
   {
-    "score": 177,
+    "score": 187,
     "pubdate": "2026-05-13-20-51-00 +0000",
     "source": "wsj",
     "headline": "The Senate confirmed Kevin Warsh as the Fed’s new chair on Wednesday in a party-line vote that reflected how tensions with the White House have dragged the Fed deeper into the political fray",
     "link": "https://www.wsj.com/economy/central-banking/kevin-warsh-fed-chair-senate-vote-9eab1277"
   },
   {
-    "score": 140,
+    "score": 139,
+    "pubdate": "2026-05-18-11-46-14 +0000",
+    "source": "nypost",
+    "headline": "Ex-CIA chief, Defense Secretary Robert Gates predicts China won’t invade Taiwan anytime soon: ‘Don’t think they want to go in’",
+    "link": "https://nypost.com/2026/05/18/world-news/ex-cia-chief-defense-secretary-robert-gates-predicts-china-wont-invade-taiwan-anytime-soon-dont-think-they-want-to-go-in/"
+  },
+  {
+    "score": 138,
     "pubdate": "2026-05-17-18-20-28 +0000",
     "source": "nypost",
     "headline": "Spencer Pratt says he’ll move family out of Los Angeles if he loses election for mayor",
     "link": "https://nypost.com/2026/05/17/us-news/spencer-pratt-says-hell-move-family-out-of-los-angeles-if-he-loses-election-for-mayor/"
   },
   {
-    "score": 124,
-    "pubdate": "2026-05-17-15-53-00 +0000",
-    "source": "wsj",
-    "headline": "Sen. Bill Cassidy’s run for re-election was cut short Saturday as voters heeded President Trump’s call to oust the two-term Louisiana Republican",
-    "link": "https://www.wsj.com/politics/elections/trump-nemesis-sen-bill-cassidy-defeated-in-gop-primary-8087c281"
-  },
-  {
-    "score": 122,
+    "score": 125,
     "pubdate": "2026-05-18-10-00-00 +0000",
     "source": "latimes",
     "headline": "Tech leaders funding Matt Mahan's campaign for California governor say it's not about tech",
     "link": "https://www.latimes.com/california/story/2026-05-18/tech-leaders-funding-matt-mahans-campaign-for-california-governor-say-its-not-about-tech"
   },
   {
-    "score": 121,
-    "pubdate": "2026-05-15-19-22-40 +0000",
-    "source": "bbc",
-    "headline": "BBC asks Trump if China will help open the Strait of Hormuz",
-    "link": "https://www.bbc.com/news/videos/cy42rpex87ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 119,
+    "score": 123,
     "pubdate": "2026-05-12-22-09-00 +0000",
     "source": "wsj",
     "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
     "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
-    "score": 103,
-    "pubdate": "2026-05-16-14-29-20 +0000",
-    "source": "nyt",
-    "headline": "Hamas’s Top Leader in Gaza Is Killed in Israeli Strike",
-    "link": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+    "score": 119,
+    "pubdate": "2026-05-17-15-53-00 +0000",
+    "source": "wsj",
+    "headline": "Sen. Bill Cassidy’s run for re-election was cut short Saturday as voters heeded President Trump’s call to oust the two-term Louisiana Republican",
+    "link": "https://www.wsj.com/politics/elections/trump-nemesis-sen-bill-cassidy-defeated-in-gop-primary-8087c281"
   },
   {
-    "score": 100,
+    "score": 114,
     "pubdate": "2026-05-17-17-26-51 +0000",
     "source": "nypost",
     "headline": "World’s best divers in race against time to recover bodies of Maldives tourists before sharks get to them",
     "link": "https://nypost.com/2026/05/17/world-news/worlds-best-divers-in-maldives-in-race-to-recover-italian-tourists-bodies/"
   },
   {
-    "score": 94,
-    "pubdate": "2026-05-15-19-51-00 +0000",
-    "source": "wsj",
-    "headline": "So You Think You Own Shares in a Hot Startup? Anthropic Says Not So Fast.",
-    "link": "https://www.wsj.com/finance/investing/so-you-think-you-own-shares-in-a-hot-startup-anthropic-says-not-so-fast-7b60f938?mod=pls_whats_news_us_business_f"
+    "score": 101,
+    "pubdate": "2026-05-16-14-29-20 +0000",
+    "source": "nyt",
+    "headline": "Hamas’s Top Leader in Gaza Is Killed in Israeli Strike",
+    "link": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html"
+  },
+  {
+    "score": 97,
+    "pubdate": "2026-05-18-10-46-34 +0000",
+    "source": "bbc",
+    "headline": "At least six Americans exposed to Ebola during DR Congo outbreak",
+    "link": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss"
   }
 ]
