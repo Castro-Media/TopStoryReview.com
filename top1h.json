@@ -1,44 +1,72 @@
 [
   {
-    "score": 22,
-    "pubdate": "2026-05-18-20-19-21 +0000",
+    "score": 47,
+    "pubdate": "2026-05-18-22-08-37 +0000",
+    "source": "bbc",
+    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-05-18-22-13-08 +0000",
+    "source": "bbc",
+    "headline": "Trump says he called off new Iran attack at request of Gulf states",
+    "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-05-18-21-27-42 +0000",
     "source": "nyt",
-    "headline": "Oil Prices Climb and Bonds Falter as Iran War Raises Inflation Fears",
-    "link": "https://www.nytimes.com/2026/05/18/business/oil-gas-price-iran-bonds.html"
+    "headline": "Étienne Davignon Dies Before Trial in Patrice Lumumba Killing",
+    "link": "https://www.nytimes.com/2026/05/18/world/africa/etienne-davignon-patrice-lumumba-belgium-congo.html"
   },
   {
     "score": 16,
-    "pubdate": "2026-05-18-20-19-59 +0000",
+    "pubdate": "2026-05-18-21-40-08 +0000",
+    "source": "startribune",
+    "headline": "Shooting at San Diego mosque kills 3 men and both suspects are dead, police say",
+    "link": "https://www.startribune.com/san-diego-police-say-they-are-responding-to-an-active-shooter-at-a-local-islamic-center/601845336"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-18-21-24-44 +0000",
     "source": "nypost",
-    "headline": "California shopper sues fashion retailer for too many early promo texts – now she wants every American to join her class action",
-    "link": "https://nypost.com/2026/05/18/us-news/california-shopper-sues-fashion-nova-over-early-promo-texts/"
+    "headline": "Principal of VA school where first grader shot teacher faces decades in prison if convicted in criminal trial",
+    "link": "https://nypost.com/2026/05/18/us-news/trial-begins-for-principal-who-failed-to-stop-abby-zwerner-by-6-year-old/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-18-22-11-06 +0000",
+    "source": "nyt",
+    "headline": "Keisha Lance Bottoms Was Atlanta’s Mayor in the Pandemic. Can She Win the Governor’s Race?",
+    "link": "https://www.nytimes.com/2026/05/18/us/keisha-lance-bottoms-georgia-governor-primary.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-18-21-27-03 +0000",
+    "source": "nypost",
+    "headline": "Man blew himself up with explosives inside his own home after tax auction heartbreak — as map shows seized homes",
+    "link": "https://nypost.com/2026/05/18/us-news/man-blew-himself-up-with-explosives-inside-his-own-home-after-tax-auction-heartbreak/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-18-21-37-43 +0000",
+    "source": "nypost",
+    "headline": "LIRR strike forces NYC workers into ‘nightmare’ travel that adds hours to commute",
+    "link": "https://nypost.com/2026/05/18/us-news/lirr-strike-forces-nyc-workers-into-nightmare-travel-that-adds-hours-to-commute/"
   },
   {
     "score": 11,
-    "pubdate": "2026-05-18-20-17-11 +0000",
+    "pubdate": "2026-05-18-22-03-34 +0000",
     "source": "nyt",
-    "headline": "What is Trump’s $1.776 Billion ‘Anti-Weaponization’ Fund?",
-    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html"
+    "headline": "Harvard Asks Federal Judge to Dismiss Trump Lawsuit",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/harvard-trump-lawsuit.html"
   },
   {
-    "score": 6,
-    "pubdate": "2026-05-18-20-20-29 +0000",
-    "source": "bbc",
-    "headline": "Oil price slumps as Trump says he called off Iran attacks",
-    "link": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-05-18-20-19-21 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Climb and Bonds Falter as Iran War Raises Inflation Fears",
-    "link": "https://www.nytimes.com/2026/05/18/business/oil-gas-price-iran-bonds.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-05-18-20-17-11 +0000",
-    "source": "nyt",
-    "headline": "What is Trump’s $1.776 Billion ‘Anti-Weaponization’ Fund?",
-    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html"
+    "score": 11,
+    "pubdate": "2026-05-18-21-21-56 +0000",
+    "source": "nypost",
+    "headline": "Pakistan deploys 8,000 troops, jet squadron to Saudi Arabia as Iran war tensions escalate",
+    "link": "https://nypost.com/2026/05/18/world-news/pakistan-deploys-8000-troops-jet-squadron-to-saudi-arabia-as-iran-war-tensions-escalate/"
   }
 ]

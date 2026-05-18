@@ -1,17 +1,31 @@
 [
   {
-    "score": 149,
-    "pubdate": "2026-05-18-19-43-45 +0000",
+    "score": 182,
+    "pubdate": "2026-05-18-22-13-08 +0000",
     "source": "bbc",
     "headline": "Trump says he called off new Iran attack at request of Gulf states",
     "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 68,
+    "score": 78,
     "pubdate": "2026-05-18-18-34-46 +0000",
     "source": "cbc",
     "headline": "American tests positive for Ebola virus amid outbreak in Congo and Uganda: CDC",
     "link": "https://www.cbc.ca/news/health/american-tests-positive-ebola-virus-9.7203382?cmp=rss"
+  },
+  {
+    "score": 76,
+    "pubdate": "2026-05-18-19-15-11 +0000",
+    "source": "nypost",
+    "headline": "3 dead, including hero security guard, after two teen gunmen open fire at San Diego mosque before shooting selves",
+    "link": "https://nypost.com/2026/05/18/us-news/cops-rush-to-active-shooter-at-islamic-center-of-san-diego/"
+  },
+  {
+    "score": 65,
+    "pubdate": "2026-05-18-22-08-37 +0000",
+    "source": "bbc",
+    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 62,
@@ -21,39 +35,25 @@
     "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 58,
-    "pubdate": "2026-05-18-19-18-58 +0000",
-    "source": "bbc",
-    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-05-18-00-49-25 +0000",
-    "source": "bbc",
-    "headline": "Moment two fighter jets collide mid-air at US air show",
-    "link": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-05-18-19-05-07 +0000",
-    "source": "startribune",
-    "headline": "Justice Department announces a $1.7B fund to compensate Trump allies in a deal to drop IRS suit",
-    "link": "https://www.startribune.com/trump-moves-to-dismiss-10b-suit-over-leak-of-tax-returns-after-reports-of-a-resolution/601845040"
-  },
-  {
-    "score": 48,
+    "score": 54,
     "pubdate": "2026-05-18-19-32-10 +0000",
     "source": "nypost",
     "headline": "Kentucky battle for Rep. Thomas Massie’s seat is the most expensive House primary race in history",
     "link": "https://nypost.com/2026/05/18/us-news/kentucky-battle-for-rep-thomas-massies-seat-is-the-most-expensive-house-primary-race-in-history/"
   },
   {
-    "score": 47,
-    "pubdate": "2026-05-18-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "The World Can’t Get Enough U.S. Energy, Keeping Prices High for Americans",
-    "link": "https://www.wsj.com/business/energy-oil/the-world-cant-get-enough-u-s-energy-keeping-prices-high-for-americans-77f0b63f?mod=rss_markets_main"
+    "score": 51,
+    "pubdate": "2026-05-18-21-40-07 +0000",
+    "source": "startribune",
+    "headline": "Justice Department announces a $1.7B fund to compensate Trump allies in a deal to drop IRS suit",
+    "link": "https://www.startribune.com/trump-moves-to-dismiss-10b-suit-over-leak-of-tax-returns-after-reports-of-a-resolution/601845040"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-05-18-16-49-45 +0000",
+    "source": "bbc",
+    "headline": "Four killed in protests during Kenyan strikes over high fuel prices",
+    "link": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 47,
@@ -63,10 +63,10 @@
     "link": "https://www.bbc.com/news/articles/c7591gq10qko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 44,
-    "pubdate": "2026-05-18-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Tech leaders funding Matt Mahan's campaign for California governor say it's not about tech",
-    "link": "https://www.latimes.com/california/story/2026-05-18/tech-leaders-funding-matt-mahans-campaign-for-california-governor-say-its-not-about-tech"
+    "score": 47,
+    "pubdate": "2026-05-18-11-39-12 +0000",
+    "source": "nypost",
+    "headline": "Remaining bodies of missing tourists found in ‘shark cave’ after Maldives’ worst-ever diving disaster",
+    "link": "https://nypost.com/2026/05/18/world-news/remaining-bodies-of-missing-tourists-found-in-shark-cave-after-maldives-worst-ever-diving-disaster/"
   }
 ]
