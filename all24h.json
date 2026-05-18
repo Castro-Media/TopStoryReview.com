@@ -1,12 +1,624 @@
 [
   {
+    "headline": "Trump says he called off new Iran attack at request of Gulf states",
+    "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-22-13-08 +0000"
+  },
+  {
+    "headline": "Keisha Lance Bottoms Was Atlanta’s Mayor in the Pandemic. Can She Win the Governor’s Race?",
+    "link": "https://www.nytimes.com/2026/05/18/us/keisha-lance-bottoms-georgia-governor-primary.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-22-11-06 +0000"
+  },
+  {
+    "headline": "Mark Fuhrman, Flawed Witness in O.J. Simpson Trial, Dies at 74",
+    "link": "https://www.nytimes.com/2026/05/18/us/mark-fuhrman-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-22-10-58 +0000"
+  },
+  {
+    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-22-08-37 +0000"
+  },
+  {
+    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-22-08-37 +0000"
+  },
+  {
+    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-22-08-37 +0000"
+  },
+  {
+    "headline": "Faisal Islam: Burnham seeks to manage the markets and Makerfield",
+    "link": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-22-07-25 +0000"
+  },
+  {
+    "headline": "Three People Killed in Shooting at San Diego Mosque",
+    "link": "https://www.wsj.com/us-news/san-diego-mosque-shooting-50142167",
+    "source": "wsj",
+    "pubdate": "2026-05-18-22-04-00 +0000"
+  },
+  {
+    "headline": "Harvard Asks Federal Judge to Dismiss Trump Lawsuit",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/harvard-trump-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-22-03-34 +0000"
+  },
+  {
+    "headline": "Harvard Asks Federal Judge to Dismiss Trump Lawsuit",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/harvard-trump-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-22-03-34 +0000"
+  },
+  {
+    "headline": "L.A. County Response to Altadena Fire Was Not Biased, Report Finds",
+    "link": "https://www.nytimes.com/2026/05/18/us/eaton-fire-los-angeles.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-59-50 +0000"
+  },
+  {
+    "headline": "ICE Agent Is Charged in Shooting During Minneapolis Immigration Crackdown",
+    "link": "https://www.wsj.com/us-news/law/ice-agent-is-charged-in-shooting-during-minneapolis-immigration-crackdown-e17a66ec",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-58-00 +0000"
+  },
+  {
+    "headline": "Trump says he called off new Iran attack at request of Gulf states",
+    "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-21-53-50 +0000"
+  },
+  {
+    "headline": "Channel Islands Fire Started Accidentally by Shipwrecked Sailor",
+    "link": "https://www.nytimes.com/2026/05/18/us/santa-rosa-channel-island-wildfire.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-52-48 +0000"
+  },
+  {
+    "headline": "Opinion | The Proxy Advisers Strike Back",
+    "link": "https://www.wsj.com/opinion/iss-glass-lewis-exxon-mobil-texas-mark-levine-4559fb65?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-47-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Proxy Advisers Strike Back",
+    "link": "https://www.wsj.com/opinion/iss-glass-lewis-exxon-mobil-texas-mark-levine-4559fb65",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-47-00 +0000"
+  },
+  {
+    "headline": "Opinion | School Choice Benefits Low-Income Families",
+    "link": "https://www.wsj.com/opinion/school-choice-benefits-low-income-families-37bb8381",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-46-00 +0000"
+  },
+  {
+    "headline": "Contractor Dies at SpaceX’s Starbase Facility in Texas",
+    "link": "https://www.wsj.com/tech/contractor-dies-at-spacexs-starbase-facility-in-texas-429b8e91?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-42-00 +0000"
+  },
+  {
+    "headline": "Contractor Dies at SpaceX’s Starbase Facility in Texas",
+    "link": "https://www.wsj.com/tech/contractor-dies-at-spacexs-starbase-facility-in-texas-429b8e91",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-42-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Railroad Union’s New York Blackmail",
+    "link": "https://www.wsj.com/opinion/long-island-rail-road-strike-new-york-mta-kathy-hochul-b97da8a6",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-42-00 +0000"
+  },
+  {
+    "headline": "Opinion | Trump Bugs Out on Poland",
+    "link": "https://www.wsj.com/opinion/donald-trump-poland-troops-europe-pentagon-f828b1a5",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-41-00 +0000"
+  },
+  {
+    "headline": "Opinion | Trump Bugs Out on Poland",
+    "link": "https://www.wsj.com/opinion/donald-trump-poland-troops-europe-pentagon-f828b1a5",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-41-00 +0000"
+  },
+  {
+    "headline": "Shooting at San Diego mosque kills 3 men and both suspects are dead, police say",
+    "link": "https://www.startribune.com/san-diego-police-say-they-are-responding-to-an-active-shooter-at-a-local-islamic-center/601845336",
+    "source": "startribune",
+    "pubdate": "2026-05-18-21-40-08 +0000"
+  },
+  {
+    "headline": "Justice Department announces a $1.7B fund to compensate Trump allies in a deal to drop IRS suit",
+    "link": "https://www.startribune.com/trump-moves-to-dismiss-10b-suit-over-leak-of-tax-returns-after-reports-of-a-resolution/601845040",
+    "source": "startribune",
+    "pubdate": "2026-05-18-21-40-07 +0000"
+  },
+  {
+    "headline": "Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?",
+    "link": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-21-39-45 +0000"
+  },
+  {
+    "headline": "LIRR strike forces NYC workers into ‘nightmare’ travel that adds hours to commute",
+    "link": "https://nypost.com/2026/05/18/us-news/lirr-strike-forces-nyc-workers-into-nightmare-travel-that-adds-hours-to-commute/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-21-37-43 +0000"
+  },
+  {
+    "headline": "Mayor Mamdani Meets With JPMorgan’s Dimon",
+    "link": "https://www.wsj.com/finance/mayor-mamdani-meets-with-jpmorgans-dimon-d957b59a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-32-00 +0000"
+  },
+  {
+    "headline": "Opinion | We Must Resist the Impulse to Forget the Evils of Hamas",
+    "link": "https://www.wsj.com/opinion/we-must-resist-the-impulse-to-forget-the-evils-of-hamas-c2d582d3",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-32-00 +0000"
+  },
+  {
+    "headline": "The economy Kevin Warsh is inheriting isn't the one he wanted",
+    "link": "https://www.wsj.com/economy/central-banking/the-economy-kevin-warsh-is-inheriting-is-not-the-one-he-wanted-73ab43c2",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-31-00 +0000"
+  },
+  {
+    "headline": "Trump Says Planned Iran Attack On Hold After Gulf Leaders’ Request",
+    "link": "https://www.wsj.com/world/middle-east/trump-says-he-will-hold-off-on-iran-attack-as-serious-negotiations-are-under-way-7ff01a96",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-30-00 +0000"
+  },
+  {
+    "headline": "Booming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak",
+    "link": "https://www.wsj.com/lifestyle/travel/why-hantavirus-might-not-dent-the-booming-expedition-cruise-business-2e3f3eb6?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-29-00 +0000"
+  },
+  {
+    "headline": "Étienne Davignon Dies Before Trial in Patrice Lumumba Killing",
+    "link": "https://www.nytimes.com/2026/05/18/world/africa/etienne-davignon-patrice-lumumba-belgium-congo.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-27-42 +0000"
+  },
+  {
+    "headline": "Étienne Davignon Dies Before Trial in Patrice Lumumba Killing",
+    "link": "https://www.nytimes.com/2026/05/18/world/africa/etienne-davignon-patrice-lumumba-belgium-congo.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-27-42 +0000"
+  },
+  {
+    "headline": "Étienne Davignon Dies Before Trial in Patrice Lumumba Killing",
+    "link": "https://www.nytimes.com/2026/05/18/world/africa/etienne-davignon-patrice-lumumba-belgium-congo.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-27-42 +0000"
+  },
+  {
+    "headline": "Man blew himself up with explosives inside his own home after tax auction heartbreak — as map shows seized homes",
+    "link": "https://nypost.com/2026/05/18/us-news/man-blew-himself-up-with-explosives-inside-his-own-home-after-tax-auction-heartbreak/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-21-27-03 +0000"
+  },
+  {
+    "headline": "Ford Details European Growth Strategy, Signs EDF Energy-Storage Agreement",
+    "link": "https://www.wsj.com/business/autos/ford-details-european-growth-strategy-signs-edf-energy-storage-agreement-b9f79f63?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-26-00 +0000"
+  },
+  {
+    "headline": "Disgraced OJ Simpson detective Mark Fuhrman dead at 74",
+    "link": "https://nypost.com/2026/05/18/us-news/disgraced-oj-simpson-detective-mark-fuhrman-dead-at-74/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-21-25-52 +0000"
+  },
+  {
+    "headline": "HCMC wins while other hospitals lose in legislative battle",
+    "link": "https://www.startribune.com/hcmc-wins-while-other-hospitals-lose-in-legislative-battle/601845081",
+    "source": "startribune",
+    "pubdate": "2026-05-18-21-24-58 +0000"
+  },
+  {
+    "headline": "Principal of VA school where first grader shot teacher faces decades in prison if convicted in criminal trial",
+    "link": "https://nypost.com/2026/05/18/us-news/trial-begins-for-principal-who-failed-to-stop-abby-zwerner-by-6-year-old/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-21-24-44 +0000"
+  },
+  {
+    "headline": "Swatch’s New Watch Debut Descends Into Chaos",
+    "link": "https://www.wsj.com/business/retail/swatchs-new-watch-debut-descends-into-chaos-815306d0?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-22-00 +0000"
+  },
+  {
+    "headline": "The WSJ Dollar Index Falls 0.23% to 95.66",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-weaken-amid-rising-oil-prices-65c0852f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-22-00 +0000"
+  },
+  {
+    "headline": "Pakistan deploys 8,000 troops, jet squadron to Saudi Arabia as Iran war tensions escalate",
+    "link": "https://nypost.com/2026/05/18/world-news/pakistan-deploys-8000-troops-jet-squadron-to-saudi-arabia-as-iran-war-tensions-escalate/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-21-21-56 +0000"
+  },
+  {
+    "headline": "Thyssenkrupp to Close U.S. Plant as Part of Automotive Restructuring",
+    "link": "https://www.wsj.com/business/thyssenkrupp-to-close-u-s-plant-as-part-of-automotive-restructuring-e21c8d60?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-21-00 +0000"
+  },
+  {
+    "headline": "Ryanair Shares Fall After Company Warns of Weaker Pricing, Late Bookings",
+    "link": "https://www.wsj.com/business/airlines/ryanair-sees-weaker-pricing-as-travelers-hold-off-on-bookings-98208d6f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-21-00 +0000"
+  },
+  {
+    "headline": "New York Times Files Second Lawsuit Against Pentagon",
+    "link": "https://www.wsj.com/us-news/law/new-york-times-files-second-lawsuit-against-pentagon-fdea4e99",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-21-00 +0000"
+  },
+  {
+    "headline": "Musk’s OpenAI Claims Rejected by Jury",
+    "link": "https://www.wsj.com/tech/musks-openai-claims-rejected-by-jury-e4511cac?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-20-00 +0000"
+  },
+  {
+    "headline": "Musk’s OpenAI Claims Rejected by Jury",
+    "link": "https://www.wsj.com/tech/musks-openai-claims-rejected-by-jury-e4511cac",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-20-00 +0000"
+  },
+  {
+    "headline": "Opinion | Trump’s Primary Campaign Against Massie",
+    "link": "https://www.wsj.com/opinion/trumps-primary-campaign-against-massie-7016df11",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-19-00 +0000"
+  },
+  {
+    "headline": "Opinion | Ukraine Offers a Glimpse at the Future of War",
+    "link": "https://www.wsj.com/opinion/ukraine-offers-a-glimpse-at-the-future-of-war-fd848caa",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-19-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/18/us/san-diego-islamic-center-shooting/san-diego-mosque-shooting",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-18-57 +0000"
+  },
+  {
+    "headline": "Opinion | Where Life Is Sweet—and Salty",
+    "link": "https://www.wsj.com/opinion/where-life-is-sweetand-salty-b7676be1?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-18-00 +0000"
+  },
+  {
+    "headline": "Two wildfires are burning in northern Minnesota. Here’s the latest.",
+    "link": "https://www.startribune.com/mn-wildfires-flanders-fire/601844956",
+    "source": "startribune",
+    "pubdate": "2026-05-18-21-17-25 +0000"
+  },
+  {
+    "headline": "U.S. Home Builder Sentiment Improved in May But Affordability Challenges Persist",
+    "link": "https://www.wsj.com/economy/housing/u-s-home-builder-sentiment-improved-in-may-but-affordability-challenges-persist-76a4695f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-16-00 +0000"
+  },
+  {
+    "headline": "American Man Tests Positive for Ebola Amid Outbreak, Officials Say",
+    "link": "https://www.nytimes.com/2026/05/18/us/ebola-outbreak-congo-uganda-americans-cdc.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-14-16 +0000"
+  },
+  {
+    "headline": "ICE Agent Charged in Shooting of a Venezuelan Immigrant in Minnesota",
+    "link": "https://www.nytimes.com/2026/05/18/us/ice-agent-charges-venezuelan-immigrant.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-13-49 +0000"
+  },
+  {
+    "headline": "Federal Prosecutors Move to Drop Bribery Case Against Indian Magnate",
+    "link": "https://www.nytimes.com/2026/05/18/nyregion/gautam-adani-indictment-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-11-24 +0000"
+  },
+  {
+    "headline": "Federal Prosecutors Move to Drop Bribery Case Against Indian Magnate",
+    "link": "https://www.nytimes.com/2026/05/18/nyregion/gautam-adani-indictment-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-11-24 +0000"
+  },
+  {
+    "headline": "Sandy Fire in Simi Valley Forces Immediate Evacuations",
+    "link": "https://www.nytimes.com/2026/05/18/us/sandy-fire-simi-valley-california.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-10-54 +0000"
+  },
+  {
+    "headline": "Move Over CoreWeave, Here Comes Nebius",
+    "link": "https://www.wsj.com/tech/ai/move-over-coreweave-here-comes-nebius-5fbe89bf?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-18-21-10-00 +0000"
+  },
+  {
+    "headline": "Selling children to survive: Afghan fathers forced to make impossible choices",
+    "link": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-21-09-07 +0000"
+  },
+  {
+    "headline": "Selling children to survive: Afghan fathers forced to make impossible choices",
+    "link": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-21-09-07 +0000"
+  },
+  {
+    "headline": "Justice Dept. Announces $1.8 Billion Fund in Settling I.R.S. Suit",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-08-51 +0000"
+  },
+  {
+    "headline": "Justice Dept. Announces $1.8 Billion Fund in Settling I.R.S. Suit",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-08-51 +0000"
+  },
+  {
+    "headline": "Justice Dept. Announces $1.8 Billion Fund in Settling I.R.S. Suit",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-08-51 +0000"
+  },
+  {
+    "headline": "New High Street crime unit to target gangs fronting shops after BBC investigation",
+    "link": "https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-21-06-38 +0000"
+  },
+  {
+    "headline": "San Diego Islamic Center leader speaks out after shooting leaves two gunman dead",
+    "link": "https://nypost.com/2026/05/18/us-news/san-diego-islamic-center-leader-speaks-out-after-shooting-leaves-two-gunman-dead/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-21-05-40 +0000"
+  },
+  {
+    "headline": "Plane battling wildfire near Canadian border shot at, tearing hole through tail",
+    "link": "https://nypost.com/2026/05/18/us-news/plane-battling-wildfire-near-canadian-border-shot-at/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-21-04-54 +0000"
+  },
+  {
+    "headline": "When Nationalism Beats Nationalism",
+    "link": "https://www.nytimes.com/2026/05/18/world/welsh-scottish-nationalism-immigration.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-01-29 +0000"
+  },
+  {
+    "headline": "Trump Says He Authorized New Strikes on Iran, but Has Decided to Hold Off",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-00-48 +0000"
+  },
+  {
+    "headline": "Trump Says He Authorized New Strikes on Iran, but Has Decided to Hold Off",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-00-48 +0000"
+  },
+  {
+    "headline": "Trump Says He Authorized New Strikes on Iran, but Has Decided to Hold Off",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-00-48 +0000"
+  },
+  {
+    "headline": "Trump Says He Authorized New Strikes on Iran, but Has Decided to Hold Off",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-00-48 +0000"
+  },
+  {
+    "headline": "South Korea and Japan’s Leaders Are Set to Meet: What to Know",
+    "link": "https://www.nytimes.com/2026/05/18/world/asia/lee-takaichi-meeting-korea-japan.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-00-06 +0000"
+  },
+  {
+    "headline": "South Korea and Japan’s Leaders Are Set to Meet: What to Know",
+    "link": "https://www.nytimes.com/2026/05/18/world/asia/lee-takaichi-meeting-korea-japan.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-21-00-06 +0000"
+  },
+  {
+    "headline": "Two kids injured after gunfire shatters windshield of NYC mom’s car: cops",
+    "link": "https://nypost.com/2026/05/18/us-news/2-kids-cut-with-glass-fragments-when-gunfire-shatters-windshield-of-moms-car-in-nyc-cops/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-20-59-04 +0000"
+  },
+  {
+    "headline": "Opinion | Why Everything Feels More Expensive",
+    "link": "https://www.wsj.com/opinion/why-everything-feels-more-expensive-c6d216a8?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-18-20-56-00 +0000"
+  },
+  {
+    "headline": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-c8b1e802?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-18-20-56-00 +0000"
+  },
+  {
+    "headline": "The Little-Known Hedge Fund That Stands to Make Over $10 Billion on SpaceX",
+    "link": "https://www.wsj.com/finance/investing/the-little-known-hedge-fund-that-stands-to-make-over-10-billion-on-spacex-44504c7a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-20-55-00 +0000"
+  },
+  {
+    "headline": "The Little-Known Hedge Fund That Stands to Make Over $10 Billion on SpaceX",
+    "link": "https://www.wsj.com/finance/investing/the-little-known-hedge-fund-that-stands-to-make-over-10-billion-on-spacex-44504c7a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-18-20-55-00 +0000"
+  },
+  {
+    "headline": "American Hantavirus Patient Ordered to Stay in Quarantine Despite Plans to Leave",
+    "link": "https://www.nytimes.com/2026/05/18/us/hantavirus-ship-passenger-quarantine-order.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-20-51-54 +0000"
+  },
+  {
+    "headline": "Earnings-Fueled Stock Rally Faces Key Test",
+    "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-05-18-2026-f8053b68?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-18-20-48-00 +0000"
+  },
+  {
+    "headline": "Top 5 LIRR earners make over $200K in overtime — with highest paid foreman raking in nearly $400K",
+    "link": "https://nypost.com/2026/05/18/us-news/top-5-lirr-earners-make-over-200k-in-overtime-with-highest-paid-foreman-raking-in-nearly-400k/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-20-47-33 +0000"
+  },
+  {
+    "headline": "World Cup heats up gentrification battle in Mexico City",
+    "link": "https://www.cbc.ca/player/play/9.7203435?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-05-18-20-46-23 +0000"
+  },
+  {
+    "headline": "Farage facing new questions over home purchase funding",
+    "link": "https://www.bbc.com/news/articles/c936nqy00rwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-20-46-13 +0000"
+  },
+  {
+    "headline": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+    "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-20-44-57 +0000"
+  },
+  {
+    "headline": "Cuba accuses US of building 'fraudulent case' for military action",
+    "link": "https://www.bbc.com/news/articles/ckgpyg9peq9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-20-41-34 +0000"
+  },
+  {
+    "headline": "Cuba accuses US of building 'fraudulent case' for military action",
+    "link": "https://www.bbc.com/news/articles/ckgpyg9peq9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-20-41-34 +0000"
+  },
+  {
+    "headline": "Scientists Tweaked the Global Warming Outlook. So Trump Weighed In.",
+    "link": "https://www.nytimes.com/2026/05/18/climate/trump-global-warming-truth-social.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-20-40-43 +0000"
+  },
+  {
+    "headline": "Meta employees told to work remotely Wednesday as company prepares to slash 10% of workforce: report",
+    "link": "https://nypost.com/2026/05/18/business/meta-employees-told-to-work-remotely-wednesday-as-company-prepares-to-slash-10-of-workforce-report/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-20-40-20 +0000"
+  },
+  {
+    "headline": "Citing Ebola Outbreak, U.S. Restricts Entry From Congo, Uganda and South Sudan",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/cdc-ebola-congo-uganda-south-sudan.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-20-39-15 +0000"
+  },
+  {
+    "headline": "Citing Ebola Outbreak, U.S. Restricts Entry From Congo, Uganda and South Sudan",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/cdc-ebola-congo-uganda-south-sudan.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-20-39-15 +0000"
+  },
+  {
+    "headline": "Justice Department Creates Unusual $1.8 Billion ‘Anti-Weaponization Fund’",
+    "link": "https://www.wsj.com/us-news/law/trump-irs-lawsuit-settlement-fund-c3edaf3f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-20-37-00 +0000"
+  },
+  {
+    "headline": "Fewer illegal migrants crossed the border in one month under Trump than in one hour during Biden admin",
+    "link": "https://nypost.com/2026/05/18/us-news/fewer-migrants-crossed-border-in-one-month-under-trump-than-in-one-hour-during-biden-admin/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-20-35-40 +0000"
+  },
+  {
+    "headline": "Gavin Newsom is leaving California ‘ill prepared’ for downturns, analysts warn",
+    "link": "https://nypost.com/2026/05/18/us-news/gavin-newsom-budget-sparks-warnings-over-california-finances/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-20-33-26 +0000"
+  },
+  {
+    "headline": "New York Times Sues Pentagon for a Second Time",
+    "link": "https://www.nytimes.com/2026/05/18/business/media/new-york-times-pentagon-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-20-32-50 +0000"
+  },
+  {
+    "headline": "TrumpRx expands to offer 600 generic drugs, partners with Mark Cuban",
+    "link": "https://nypost.com/2026/05/18/business/mark-cuban-to-join-trump-at-white-house-rollout-of-expanded-trumprx-drug-initiative-report/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-20-30-08 +0000"
+  },
+  {
+    "headline": "What is Trump’s $1.776 Billion ‘Anti-Weaponization’ Fund?",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-20-29-12 +0000"
+  },
+  {
+    "headline": "What is Trump’s $1.776 Billion ‘Anti-Weaponization’ Fund?",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-20-29-12 +0000"
+  },
+  {
+    "headline": "Russia’s New Human Rights Commissioner Accused of Helping Kidnap Ukrainian Children",
+    "link": "https://www.nytimes.com/2026/05/18/world/europe/russia-ukraine-children-kidnapping.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-20-26-44 +0000"
+  },
+  {
+    "headline": "Russia’s New Human Rights Commissioner Accused of Helping Kidnap Ukrainian Children",
+    "link": "https://www.nytimes.com/2026/05/18/world/europe/russia-ukraine-children-kidnapping.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-20-26-44 +0000"
+  },
+  {
+    "headline": "Hegseth Campaigns for Trump Loyalist in Kentucky House Race",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/hegseth-gallrein-campaign.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-20-24-25 +0000"
+  },
+  {
+    "headline": "Hegseth Campaigns for Trump Loyalist in Kentucky House Race",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/hegseth-gallrein-campaign.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-20-24-25 +0000"
+  },
+  {
     "headline": "Oil price slumps as Trump says he called off Iran attacks",
     "link": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-18-20-20-29 +0000"
   },
   {
-    "headline": "California shopper sues fashion retailer for too many early promo texts – now she wants every American to join her class action",
+    "headline": "California shopper sues fashion retailer for too many early promo texts — now she wants every American to join her class action",
     "link": "https://nypost.com/2026/05/18/us-news/california-shopper-sues-fashion-nova-over-early-promo-texts/",
     "source": "nypost",
     "pubdate": "2026-05-18-20-19-59 +0000"
@@ -24,18 +636,6 @@
     "pubdate": "2026-05-18-20-19-21 +0000"
   },
   {
-    "headline": "What is Trump’s $1.776 Billion ‘Anti-Weaponization’ Fund?",
-    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-20-17-11 +0000"
-  },
-  {
-    "headline": "What is Trump’s $1.776 Billion ‘Anti-Weaponization’ Fund?",
-    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-20-17-11 +0000"
-  },
-  {
     "headline": "Spencer Pratt channels Will Smith for ‘fresh’ new campaign ad at Hotel Bel-Air",
     "link": "https://nypost.com/2026/05/18/us-news/spencer-pratt-channels-fresh-prince-of-bel-air-for-campaign-ad-at-hotel-bel-air/",
     "source": "nypost",
@@ -46,12 +646,6 @@
     "link": "https://nypost.com/2026/05/18/us-news/spencer-pratt-channels-fresh-prince-of-bel-air-for-campaign-ad-at-hotel-bel-air/",
     "source": "nypost",
     "pubdate": "2026-05-18-20-14-18 +0000"
-  },
-  {
-    "headline": "Man suspected of shooting at firefighting aircraft arrested",
-    "link": "https://www.startribune.com/man-suspected-of-shooting-at-firefighting-aircraft-arrested/601845094",
-    "source": "startribune",
-    "pubdate": "2026-05-18-20-13-50 +0000"
   },
   {
     "headline": "What to Know About the Ebola Outbreak, as U.S. Restricts Travelers",
@@ -66,13 +660,13 @@
     "pubdate": "2026-05-18-20-11-04 +0000"
   },
   {
-    "headline": "US Attorney Jeanine Pirro threatens to charge DC teens — and parents — after wild Chipotle brawl",
+    "headline": "US Attorney Jeanine Pirro calls for stricter curfew, threatens to charge DC teens — and parents — after wild Chipotle brawl",
     "link": "https://nypost.com/2026/05/18/us-news/us-attorney-jeanine-pirro-will-charge-dc-teens-and-parents-after-chipotle-brawl/",
     "source": "nypost",
     "pubdate": "2026-05-18-20-09-22 +0000"
   },
   {
-    "headline": "US Attorney Jeanine Pirro threatens to charge DC teens — and parents — after wild Chipotle brawl",
+    "headline": "US Attorney Jeanine Pirro calls for stricter curfew, threatens to charge DC teens — and parents — after wild Chipotle brawl",
     "link": "https://nypost.com/2026/05/18/us-news/us-attorney-jeanine-pirro-will-charge-dc-teens-and-parents-after-chipotle-brawl/",
     "source": "nypost",
     "pubdate": "2026-05-18-20-09-22 +0000"
@@ -132,40 +726,10 @@
     "pubdate": "2026-05-18-19-52-52 +0000"
   },
   {
-    "headline": "Guard Killed in Shooting at San Diego Islamic Center, Mosque Leader Says",
-    "link": "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-19-49-22 +0000"
-  },
-  {
-    "headline": "Sandy Fire in Simi Valley Forces Immediate Evacuations",
-    "link": "https://www.nytimes.com/2026/05/18/us/sandy-fire-simi-valley-california.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-19-48-12 +0000"
-  },
-  {
-    "headline": "Trump Says He Will Hold Off on Iran Attack as ‘Serious Negotiations’ Are Under Way",
-    "link": "https://www.wsj.com/world/middle-east/trump-says-he-will-hold-off-on-iran-attack-as-serious-negotiations-are-under-way-7ff01a96",
-    "source": "wsj",
-    "pubdate": "2026-05-18-19-48-00 +0000"
-  },
-  {
     "headline": "Mamdani doubles down on Nakba video, brushes off snubs to his ‘Jewish Heritage’ event",
     "link": "https://nypost.com/2026/05/18/us-news/mamdani-doubles-down-on-nakba-video-brushes-off-snubs-to-his-jewish-heritage-event/",
     "source": "nypost",
     "pubdate": "2026-05-18-19-46-30 +0000"
-  },
-  {
-    "headline": "Trump says he called off new Iran attack at request of Gulf states",
-    "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-19-43-45 +0000"
-  },
-  {
-    "headline": "Trump says he called off new Iran attack at request of Gulf states",
-    "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-19-43-45 +0000"
   },
   {
     "headline": "‘Looksmaxxing’ influencer Clavicular gets brutally mogged by studly Florida judge during court appearance",
@@ -180,13 +744,13 @@
     "pubdate": "2026-05-18-19-40-49 +0000"
   },
   {
-    "headline": "California police say officers responding to active shooter at San Diego mosque",
+    "headline": "3 killed in California mosque shooting, 2 suspects also dead: authorities",
     "link": "https://www.cbc.ca/news/world/san-diego-mosque-shooting-9.7203421?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-05-18-19-37-23 +0000"
   },
   {
-    "headline": "Threat at Islamic center in San Diego 'neutralized' after active shooter reports, police say",
+    "headline": "5 dead, including teen gunmen, following attack at Islamic Center of San Diego, police say",
     "link": "https://www.latimes.com/california/story/2026-05-18/san-diego-police-swarm-islamic-center-amid-reports-of-active-shooter",
     "source": "latimes",
     "pubdate": "2026-05-18-19-35-20 +0000"
@@ -196,6 +760,12 @@
     "link": "https://www.cbc.ca/news/world/trump-iran-strike-called-off-gulf-leaders-9.7203411?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-05-18-19-35-00 +0000"
+  },
+  {
+    "headline": "Scoggins: Tim Connelly needs to rid the Timberwolves roster of “moody” behavior this offseason",
+    "link": "https://www.startribune.com/minnesota-timberwolves-tim-connelly-chris-finch-anthony-edwards-julius-randle-rudy-gobert/601844824",
+    "source": "startribune",
+    "pubdate": "2026-05-18-19-34-38 +0000"
   },
   {
     "headline": "Kentucky battle for Rep. Thomas Massie’s seat is the most expensive House primary race in history",
@@ -228,12 +798,6 @@
     "pubdate": "2026-05-18-19-31-18 +0000"
   },
   {
-    "headline": "ICE Agent Is Charged in Shooting During Minneapolis Immigration Crackdown",
-    "link": "https://www.wsj.com/us-news/law/ice-agent-is-charged-in-shooting-during-minneapolis-immigration-crackdown-e17a66ec",
-    "source": "wsj",
-    "pubdate": "2026-05-18-19-31-00 +0000"
-  },
-  {
     "headline": "American doctor confirmed to have Ebola as Congo outbreak surpasses 300 suspected cases",
     "link": "https://nypost.com/2026/05/18/world-news/american-doctor-confirmed-to-have-ebola-as-congo-outbreak-surpasses-300-suspected-cases/",
     "source": "nypost",
@@ -246,22 +810,10 @@
     "pubdate": "2026-05-18-19-25-50 +0000"
   },
   {
-    "headline": "Elon Musk just lost another lawsuit. Will he keep fighting?",
-    "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-19-24-05 +0000"
-  },
-  {
     "headline": "Iranian president admits nation has suffered ‘harm’ from US, Israeli war and must face ‘reality’",
     "link": "https://nypost.com/2026/05/18/world-news/iranian-president-admits-nation-has-suffered-harm-from-us-israeli-war-and-must-face-reality/",
     "source": "nypost",
     "pubdate": "2026-05-18-19-23-44 +0000"
-  },
-  {
-    "headline": "New York Times Files Second Lawsuit Against Pentagon",
-    "link": "https://www.wsj.com/us-news/law/new-york-times-files-second-lawsuit-against-pentagon-fdea4e99",
-    "source": "wsj",
-    "pubdate": "2026-05-18-19-23-00 +0000"
   },
   {
     "headline": "An American Has Tested Positive for the Deadly Ebola Virus",
@@ -270,30 +822,6 @@
     "pubdate": "2026-05-18-19-22-00 +0000"
   },
   {
-    "headline": "Booming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak",
-    "link": "https://www.wsj.com/lifestyle/travel/why-hantavirus-might-not-dent-the-booming-expedition-cruise-business-2e3f3eb6?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-18-19-21-00 +0000"
-  },
-  {
-    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-19-18-58 +0000"
-  },
-  {
-    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-19-18-58 +0000"
-  },
-  {
-    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-19-18-58 +0000"
-  },
-  {
     "headline": "In Massie’s Kentucky Primary, Fidelity to Trump Is on the Ballot",
     "link": "https://www.nytimes.com/2026/05/18/us/politics/thomas-massie-kentucky-trump-election.html",
     "source": "nyt",
@@ -318,7 +846,7 @@
     "pubdate": "2026-05-18-19-16-09 +0000"
   },
   {
-    "headline": "Two shooters dead after cops swarm San Diego mosque, schools evacuated",
+    "headline": "3 dead, including hero security guard, after two teen gunmen open fire at San Diego mosque before shooting selves",
     "link": "https://nypost.com/2026/05/18/us-news/cops-rush-to-active-shooter-at-islamic-center-of-san-diego/",
     "source": "nypost",
     "pubdate": "2026-05-18-19-15-11 +0000"
@@ -348,28 +876,10 @@
     "pubdate": "2026-05-18-19-08-00 +0000"
   },
   {
-    "headline": "American Hantavirus Patient Ordered to Stay in Quarantine Despite Plans to Leave",
-    "link": "https://www.nytimes.com/2026/05/18/us/hantavirus-ship-passenger-quarantine-order.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-19-07-25 +0000"
-  },
-  {
     "headline": "Nationwide arrest warrant issued for ICE agent accused of shooting illegal immigrant in Minneapolis",
     "link": "https://nypost.com/2026/05/18/us-news/ice-agent-charged-in-alleged-shooting-of-illegal-immigrant-in-minneapolis/",
     "source": "nypost",
     "pubdate": "2026-05-18-19-05-39 +0000"
-  },
-  {
-    "headline": "Justice Department announces a $1.7B fund to compensate Trump allies in a deal to drop IRS suit",
-    "link": "https://www.startribune.com/trump-moves-to-dismiss-10b-suit-over-leak-of-tax-returns-after-reports-of-a-resolution/601845040",
-    "source": "startribune",
-    "pubdate": "2026-05-18-19-05-07 +0000"
-  },
-  {
-    "headline": "Report warns that LIRR union strike is costing the regional economy tens of millions a day",
-    "link": "https://nypost.com/2026/05/18/us-news/report-warns-that-lirr-union-strike-is-costing-the-regional-economy-tens-of-millions-a-day/",
-    "source": "nypost",
-    "pubdate": "2026-05-18-19-00-09 +0000"
   },
   {
     "headline": "PlayStation Plus to raise monthly subscription by £1 in UK",
@@ -396,12 +906,6 @@
     "pubdate": "2026-05-18-18-56-16 +0000"
   },
   {
-    "headline": "Dramatic race against time to rescue group trapped in cave with rising water",
-    "link": "https://nypost.com/2026/05/18/us-news/race-against-time-to-rescue-group-trapped-in-california-cave-with-rising-water/",
-    "source": "nypost",
-    "pubdate": "2026-05-18-18-56-10 +0000"
-  },
-  {
     "headline": "He’s Been Impeached and Indicted. He Has a Chance in Texas’s Senate Race.",
     "link": "https://www.nytimes.com/2026/05/18/us/politics/ken-paxton-texas-senate-race.html",
     "source": "nyt",
@@ -414,30 +918,6 @@
     "pubdate": "2026-05-18-18-55-43 +0000"
   },
   {
-    "headline": "ICE Agent Charged in Shooting of a Venezuelan Immigrant in Minnesota",
-    "link": "https://www.nytimes.com/2026/05/18/us/ice-agent-charges-venezuelan-immigrant.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-18-54-19 +0000"
-  },
-  {
-    "headline": "Evacuations ordered as fast-moving Sandy Fire threatens Simi Valley homes",
-    "link": "https://nypost.com/2026/05/18/us-news/simi-valley-wildfire-forces-evacuations-as-blaze-grows/",
-    "source": "nypost",
-    "pubdate": "2026-05-18-18-52-12 +0000"
-  },
-  {
-    "headline": "Los Angeles’s Response to Altadena Fire Hampered by Chaos, Report Finds",
-    "link": "https://www.nytimes.com/2026/05/18/us/eaton-fire-los-angeles.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-18-52-07 +0000"
-  },
-  {
-    "headline": "Farage facing new questions over home purchase funding",
-    "link": "https://www.bbc.com/news/articles/c936nqy00rwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-18-52-00 +0000"
-  },
-  {
     "headline": "Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East",
     "link": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
     "source": "nyt",
@@ -448,30 +928,12 @@
     "link": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
     "source": "nyt",
     "pubdate": "2026-05-18-18-51-43 +0000"
-  },
-  {
-    "headline": "LIRR strike has Knicks fans panicking over MSG commute — but there’s a reason labor stop could be good luck",
-    "link": "https://nypost.com/2026/05/18/us-news/lirr-strike-has-knicks-fans-panicking-over-msg-commute-but-theres-a-reason-labor-stop-could-be-good-luck/",
-    "source": "nypost",
-    "pubdate": "2026-05-18-18-47-59 +0000"
   },
   {
     "headline": "Homeless people on Skid Row were paid to register to vote, feds charge",
     "link": "https://www.latimes.com/california/story/2026-05-18/skid-row-voter-charges",
     "source": "latimes",
     "pubdate": "2026-05-18-18-41-19 +0000"
-  },
-  {
-    "headline": "Hockey leaders push for change to NCAA eligibility plan",
-    "link": "https://www.startribune.com/minnesota-junior-hockey-high-school-age-ncaa-division-i-five-year-eligibility-rule/601845089",
-    "source": "startribune",
-    "pubdate": "2026-05-18-18-41-12 +0000"
-  },
-  {
-    "headline": "New York Times Sues Pentagon for a Second Time",
-    "link": "https://www.nytimes.com/2026/05/18/business/media/new-york-times-pentagon-lawsuit.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-18-40-04 +0000"
   },
   {
     "headline": "American tests positive for Ebola virus amid outbreak in Congo and Uganda: CDC",
@@ -508,36 +970,6 @@
     "link": "https://nypost.com/2026/05/18/us-news/steve-hilton-gives-reality-check-to-california-gubernatorial-rival-matt-mahan-on-san-jose/",
     "source": "nypost",
     "pubdate": "2026-05-18-18-25-20 +0000"
-  },
-  {
-    "headline": "Steve Hilton gives brutal reality check to California gubernatorial rival",
-    "link": "https://nypost.com/2026/05/18/us-news/steve-hilton-gives-reality-check-to-california-gubernatorial-rival-matt-mahan-on-san-jose/",
-    "source": "nypost",
-    "pubdate": "2026-05-18-18-25-20 +0000"
-  },
-  {
-    "headline": "Justice Dept. Announces $1.8 Billion Fund in Settling I.R.S. Suit",
-    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-18-22-05 +0000"
-  },
-  {
-    "headline": "Justice Dept. Announces $1.8 Billion Fund in Settling I.R.S. Suit",
-    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-18-22-05 +0000"
-  },
-  {
-    "headline": "Justice Dept. Announces $1.8 Billion Fund in Settling I.R.S. Suit",
-    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-18-22-05 +0000"
-  },
-  {
-    "headline": "College grad, 22, was shot dead by boyfriend’s dad while he showed off antique gun: lawsuit",
-    "link": "https://nypost.com/2026/05/18/us-news/college-grad-22-was-shot-dead-by-boyfriends-dad-while-he-showed-off-antique-gun-lawsuit/",
-    "source": "nypost",
-    "pubdate": "2026-05-18-18-21-53 +0000"
   },
   {
     "headline": "Opinion | Overpaid Government Workers on Strike",
@@ -624,7 +1056,7 @@
     "pubdate": "2026-05-18-17-52-23 +0000"
   },
   {
-    "headline": "Elon Musk loses lawsuit against OpenAI in unanimous verdict",
+    "headline": "Elon Musk loses landmark lawsuit against bitter rival Sam Altman, OpenAI in unanimous verdict",
     "link": "https://nypost.com/2026/05/18/business/elon-musk-loses-lawsuit-against-openai-in-unanimous-verdict/",
     "source": "nypost",
     "pubdate": "2026-05-18-17-52-08 +0000"
@@ -640,24 +1072,6 @@
     "link": "https://nypost.com/2026/05/18/business/doj-dropping-fraud-charges-against-billionaire-indian-businessman-gautam-adani/",
     "source": "nypost",
     "pubdate": "2026-05-18-17-49-46 +0000"
-  },
-  {
-    "headline": "Google Maps slammed for hiding brutal reality of LA fires ahead of elections",
-    "link": "https://nypost.com/2026/05/18/us-news/google-maps-scrubs-images-of-la-wildfires-ahead-of-elections/",
-    "source": "nypost",
-    "pubdate": "2026-05-18-17-47-11 +0000"
-  },
-  {
-    "headline": "‘Proud trans woman,’ 41, murdered inside NYC home by deranged boyfriend: ‘You didn’t deserve this!’",
-    "link": "https://nypost.com/2026/05/18/us-news/proud-trans-woman-41-murdered-inside-nyc-home-by-deranged-boyfriend-you-didnt-deserve-this/",
-    "source": "nypost",
-    "pubdate": "2026-05-18-17-47-10 +0000"
-  },
-  {
-    "headline": "Embarrassing Scientology clip comes back to haunt Xavier Becerra in California governor’s race",
-    "link": "https://nypost.com/2026/05/18/us-news/xavier-becerra-haunted-by-embarrassing-scientology-video/",
-    "source": "nypost",
-    "pubdate": "2026-05-18-17-46-23 +0000"
   },
   {
     "headline": "Embarrassing Scientology clip comes back to haunt Xavier Becerra in California governor’s race",
@@ -696,12 +1110,6 @@
     "pubdate": "2026-05-18-17-41-02 +0000"
   },
   {
-    "headline": "Should Americans worry about Ebola? What to know about the latest outbreak",
-    "link": "https://nypost.com/health/should-ebola-concern-americans-what-to-know-about-latest-outbreak/",
-    "source": "nypost",
-    "pubdate": "2026-05-18-17-41-02 +0000"
-  },
-  {
     "headline": "Justice Department Drops Criminal Case Against Indian Billionaire Gautam Adani",
     "link": "https://www.wsj.com/us-news/law/gautam-adani-fraud-case-dropped-84b0a51a",
     "source": "wsj",
@@ -712,12 +1120,6 @@
     "link": "https://nypost.com/2026/05/18/world-news/pope-and-co-founder-of-anthropic-to-launch-pontiffs-ai-encyclical-on-may-25/",
     "source": "nypost",
     "pubdate": "2026-05-18-17-38-09 +0000"
-  },
-  {
-    "headline": "The economy Kevin Warsh is inheriting isn't the one he wanted",
-    "link": "https://www.wsj.com/economy/central-banking/the-economy-kevin-warsh-is-inheriting-is-not-the-one-he-wanted-73ab43c2",
-    "source": "wsj",
-    "pubdate": "2026-05-18-17-34-00 +0000"
   },
   {
     "headline": "World Gymnastics lifts all restrictions on Russian, Belarusian athletes",
@@ -738,12 +1140,6 @@
     "pubdate": "2026-05-18-17-19-56 +0000"
   },
   {
-    "headline": "Justice Department Creates Unusual $1.8 Billion ‘Anti-Weaponization Fund’",
-    "link": "https://www.wsj.com/us-news/law/trump-irs-lawsuit-settlement-fund-c3edaf3f",
-    "source": "wsj",
-    "pubdate": "2026-05-18-17-18-00 +0000"
-  },
-  {
     "headline": "Commentary: Spencer Pratt, like Donald Trump, is a product of the reality TV industrial complex",
     "link": "https://www.latimes.com/california/story/2026-05-18/spencer-pratt-trump-reality-tv-industrial-complex",
     "source": "latimes",
@@ -760,12 +1156,6 @@
     "link": "https://nypost.com/2026/05/18/business/applebees-and-red-lobster-bring-back-bottomless-food-deals-how-to-get-the-most-bang-for-your-buck/",
     "source": "nypost",
     "pubdate": "2026-05-18-17-07-03 +0000"
-  },
-  {
-    "headline": "Keisha Lance Bottoms Was Atlanta’s Mayor in the Pandemic. Can She Win the Governor’s Race?",
-    "link": "https://www.nytimes.com/2026/05/18/us/keisha-lance-bottoms-georgia-governor-primary.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-17-06-17 +0000"
   },
   {
     "headline": "Catastrophe Is Emerging in the World’s Most Vulnerable Places",
@@ -802,6 +1192,12 @@
     "link": "https://nypost.com/2026/05/18/world-news/us-about-to-resume-full-throttle-combat-in-iran-former-top-general-jack-keane-says/",
     "source": "nypost",
     "pubdate": "2026-05-18-16-56-04 +0000"
+  },
+  {
+    "headline": "Bodies of missing Italian divers found in Maldives",
+    "link": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-16-51-09 +0000"
   },
   {
     "headline": "Bodies of missing Italian divers found in Maldives",
@@ -864,34 +1260,10 @@
     "pubdate": "2026-05-18-16-30-39 +0000"
   },
   {
-    "headline": "Conspiracy Trial Will Test Trump’s Aggressive Tactics Against Protesters",
-    "link": "https://www.nytimes.com/2026/05/17/us/a-federal-case-will-test-if-protesters-are-conspirators.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-16-27-52 +0000"
-  },
-  {
     "headline": "Trump stuns internet with AI photo of himself next to buff alien in chains",
     "link": "https://nypost.com/2026/05/18/us-news/trump-stuns-internet-with-ai-photo-of-alien-in-chains/",
     "source": "nypost",
     "pubdate": "2026-05-18-16-25-05 +0000"
-  },
-  {
-    "headline": "Basic Materials Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-c8b1e802?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-18-16-25-00 +0000"
-  },
-  {
-    "headline": "Federal Prosecutors Move to Drop Bribery Case Against Indian Magnate",
-    "link": "https://www.nytimes.com/2026/05/18/nyregion/gautam-adani-indictment-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-16-24-22 +0000"
-  },
-  {
-    "headline": "Federal Prosecutors Move to Drop Bribery Case Against Indian Magnate",
-    "link": "https://www.nytimes.com/2026/05/18/nyregion/gautam-adani-indictment-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-16-24-22 +0000"
   },
   {
     "headline": "Santa Monica kidnapping suspect arrested after police shooting",
@@ -934,12 +1306,6 @@
     "link": "https://nypost.com/2026/05/18/us-news/la-woman-illegally-paid-homeless-people-to-register-to-vote/",
     "source": "nypost",
     "pubdate": "2026-05-18-15-58-03 +0000"
-  },
-  {
-    "headline": "Two wildfires are burning in northern Minnesota. Here’s the latest.",
-    "link": "https://www.startribune.com/mn-wildfires-flanders-fire/601844956",
-    "source": "startribune",
-    "pubdate": "2026-05-18-15-55-10 +0000"
   },
   {
     "headline": "What is Ebola and why is stopping this outbreak so difficult?",
@@ -1024,18 +1390,6 @@
     "link": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-18-15-30-30 +0000"
-  },
-  {
-    "headline": "Russia’s New Human Rights Commissioner Accused of Helping Kidnap Ukrainian Children",
-    "link": "https://www.nytimes.com/2026/05/18/world/europe/russia-ukraine-children-kidnapping.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-15-26-23 +0000"
-  },
-  {
-    "headline": "Russia’s New Human Rights Commissioner Accused of Helping Kidnap Ukrainian Children",
-    "link": "https://www.nytimes.com/2026/05/18/world/europe/russia-ukraine-children-kidnapping.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-15-26-23 +0000"
   },
   {
     "headline": "Former Google CEO Eric Schmidt booed by graduates at mention of AI",
@@ -1140,28 +1494,10 @@
     "pubdate": "2026-05-18-14-50-27 +0000"
   },
   {
-    "headline": "Opinion | School Choice Benefits Low-Income Families",
-    "link": "https://www.wsj.com/opinion/school-choice-benefits-low-income-families-37bb8381",
-    "source": "wsj",
-    "pubdate": "2026-05-18-14-48-00 +0000"
-  },
-  {
     "headline": "How would a Labour leadership contest work?",
     "link": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-18-14-47-21 +0000"
-  },
-  {
-    "headline": "Opinion | We Must Resist the Impulse to Forget the Evils of Hamas",
-    "link": "https://www.wsj.com/opinion/we-must-resist-the-impulse-to-forget-the-evils-of-hamas-c2d582d3",
-    "source": "wsj",
-    "pubdate": "2026-05-18-14-46-00 +0000"
-  },
-  {
-    "headline": "Dollar Has Scope to Rise as U.S. Rate-Hike Prospects Grow",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-weaken-amid-rising-oil-prices-65c0852f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-18-14-45-00 +0000"
   },
   {
     "headline": "Canada confirms hantavirus case linked to deadly cruise ship outbreak",
@@ -1240,18 +1576,6 @@
     "link": "https://www.bbc.com/news/articles/cze2wrk08kko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-18-14-25-14 +0000"
-  },
-  {
-    "headline": "U.S. Home Builder Sentiment Improved in May But Affordability Challenges Persist",
-    "link": "https://www.wsj.com/economy/housing/u-s-home-builder-sentiment-improved-in-may-but-affordability-challenges-persist-76a4695f",
-    "source": "wsj",
-    "pubdate": "2026-05-18-14-16-00 +0000"
-  },
-  {
-    "headline": "Ford Details European Growth Strategy, Signs EDF Energy-Storage Agreement",
-    "link": "https://www.wsj.com/business/autos/ford-details-european-growth-strategy-signs-edf-energy-storage-agreement-b9f79f63?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-18-14-12-00 +0000"
   },
   {
     "headline": "Photos: Cuba Plunges Into Darkness as U.S. Cuts Off Oil Supply",
@@ -1344,18 +1668,6 @@
     "pubdate": "2026-05-18-13-47-26 +0000"
   },
   {
-    "headline": "Hegseth to Campaign for a Republican House Candidate",
-    "link": "https://www.nytimes.com/2026/05/18/us/politics/hegseth-gallrein-campaign.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-13-25-33 +0000"
-  },
-  {
-    "headline": "Hegseth to Campaign for a Republican House Candidate",
-    "link": "https://www.nytimes.com/2026/05/18/us/politics/hegseth-gallrein-campaign.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-13-25-33 +0000"
-  },
-  {
     "headline": "France’s Publicis to Acquire LiveRamp for $2.55 Billion in AI Push",
     "link": "https://www.wsj.com/business/deals/frances-publicis-to-acquire-liveramp-for-2-55-billion-in-ai-push-fd04a740?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1446,12 +1758,6 @@
     "pubdate": "2026-05-18-11-46-14 +0000"
   },
   {
-    "headline": "Two Military Jets Collide in Midair at Idaho Air Show",
-    "link": "https://www.nytimes.com/2026/05/17/us/planes-crash-gunfighter-skies-show.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-11-45-18 +0000"
-  },
-  {
     "headline": "Supervisor Jackie Fielder taps City Hall veteran to join office",
     "link": "https://missionlocal.org/2026/05/supervisor-jackie-fielder-taps-city-hall-veteran-to-join-office/",
     "source": "missionlocal",
@@ -1512,18 +1818,6 @@
     "pubdate": "2026-05-18-10-56-21 +0000"
   },
   {
-    "headline": "Cuba accuses US of building 'fraudulent case' for military action",
-    "link": "https://www.bbc.com/news/articles/ckgpyg9peq9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-10-55-04 +0000"
-  },
-  {
-    "headline": "Cuba accuses US of building 'fraudulent case' for military action",
-    "link": "https://www.bbc.com/news/articles/ckgpyg9peq9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-10-55-04 +0000"
-  },
-  {
     "headline": "Sen. Lindsey Graham calls for Trump to create ‘circle of death’ around Iran’s nuclear sites",
     "link": "https://nypost.com/2026/05/18/world-news/sen-lindsey-graham-calls-for-trump-to-create-circle-of-death-around-irans-nuclear-sites/",
     "source": "nypost",
@@ -1578,12 +1872,6 @@
     "pubdate": "2026-05-18-10-20-00 +0000"
   },
   {
-    "headline": "Thyssenkrupp to Close U.S. Plant as Part of Automotive Restructuring",
-    "link": "https://www.wsj.com/business/thyssenkrupp-to-close-u-s-plant-as-part-of-automotive-restructuring-e21c8d60?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-18-10-17-00 +0000"
-  },
-  {
     "headline": "Russian attacks kill one, injure more than 30 in Ukraine overnight, officials say",
     "link": "https://nypost.com/2026/05/18/world-news/russian-attacks-kill-one-injure-more-than-30-in-ukraine-overnight-officials-say/",
     "source": "nypost",
@@ -1632,6 +1920,12 @@
     "pubdate": "2026-05-18-10-00-00 +0000"
   },
   {
+    "headline": "19 Legionella bacteria infections linked to Kaiser Bay Area hospital",
+    "link": "https://www.latimes.com/california/story/2026-05-18/19-cases-of-legionella-infection-linked-to-kaiser-bay-area-hospital",
+    "source": "latimes",
+    "pubdate": "2026-05-18-10-00-00 +0000"
+  },
+  {
     "headline": "Tech leaders funding Matt Mahan's campaign for California governor say it's not about tech",
     "link": "https://www.latimes.com/california/story/2026-05-18/tech-leaders-funding-matt-mahans-campaign-for-california-governor-say-its-not-about-tech",
     "source": "latimes",
@@ -1644,20 +1938,14 @@
     "pubdate": "2026-05-18-10-00-00 +0000"
   },
   {
-    "headline": "19 Legionella bacteria infections linked to Kaiser Bay Area hospital",
-    "link": "https://www.latimes.com/california/story/2026-05-18/19-cases-of-legionella-infection-linked-to-kaiser-bay-area-hospital",
+    "headline": "L.A.'s 100 most problematic rental properties spotlighted in new city database",
+    "link": "https://www.latimes.com/california/story/2026-05-18/l-a-s-100-most-problematic-rental-properties-spotlighted-in-database",
     "source": "latimes",
     "pubdate": "2026-05-18-10-00-00 +0000"
   },
   {
     "headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
     "link": "https://www.latimes.com/california/story/2026-05-18/crowds-yosemite-visitors-worry-high-season-will-be-disaster",
-    "source": "latimes",
-    "pubdate": "2026-05-18-10-00-00 +0000"
-  },
-  {
-    "headline": "L.A.'s 100 most problematic rental properties spotlighted in new city database",
-    "link": "https://www.latimes.com/california/story/2026-05-18/l-a-s-100-most-problematic-rental-properties-spotlighted-in-database",
     "source": "latimes",
     "pubdate": "2026-05-18-10-00-00 +0000"
   },
@@ -1704,12 +1992,6 @@
     "pubdate": "2026-05-18-09-30-07 +0000"
   },
   {
-    "headline": "Senators Work to Ban Gambling Ads Targeting Minors",
-    "link": "https://www.wsj.com/business/media/senators-work-to-ban-gambling-ads-targeting-minors-9cf39d00?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-18-09-30-00 +0000"
-  },
-  {
     "headline": "TSA Experiments With Off-Site Screening to Relieve Airport Congestion",
     "link": "https://www.wsj.com/business/airlines/tsa-offsite-security-screening-be866b31?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -1722,14 +2004,14 @@
     "pubdate": "2026-05-18-09-30-00 +0000"
   },
   {
-    "headline": "TSA Experiments With Off-Site Screening to Relieve Airport Congestion",
-    "link": "https://www.wsj.com/business/airlines/tsa-offsite-security-screening-be866b31?mod=pls_whats_news_us_business_f",
+    "headline": "Senators Work to Ban Gambling Ads Targeting Minors",
+    "link": "https://www.wsj.com/business/media/senators-work-to-ban-gambling-ads-targeting-minors-9cf39d00?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-18-09-30-00 +0000"
   },
   {
-    "headline": "Move Over CoreWeave, Here Comes Nebius",
-    "link": "https://www.wsj.com/tech/ai/move-over-coreweave-here-comes-nebius-5fbe89bf?mod=rss_markets_main",
+    "headline": "TSA Experiments With Off-Site Screening to Relieve Airport Congestion",
+    "link": "https://www.wsj.com/business/airlines/tsa-offsite-security-screening-be866b31?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-05-18-09-30-00 +0000"
   },
@@ -1860,18 +2142,6 @@
     "pubdate": "2026-05-18-08-50-15 +0000"
   },
   {
-    "headline": "Americans Are Among Those Affected by Ebola Outbreak, C.D.C. Says",
-    "link": "https://www.nytimes.com/2026/05/18/us/ebola-outbreak-congo-uganda-americans-cdc.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-08-36-31 +0000"
-  },
-  {
-    "headline": "Ryanair Shares Fall After Company Warns of Weaker Pricing, Late Bookings",
-    "link": "https://www.wsj.com/business/airlines/ryanair-sees-weaker-pricing-as-travelers-hold-off-on-bookings-98208d6f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-18-08-34-00 +0000"
-  },
-  {
     "headline": "Escaped tiger shot by German police after attacking man",
     "link": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1954,12 +2224,6 @@
     "link": "https://www.latimes.com/california/story/2026-05-17/santa-rosa-island-fire-burns-more-than-10-000-acres-threatening-rare-plants-animals",
     "source": "latimes",
     "pubdate": "2026-05-18-04-51-03 +0000"
-  },
-  {
-    "headline": "Shanghai-bound Delta flight forced to divert to Seattle over disruptive passenger — stranding travelers overnight",
-    "link": "https://nypost.com/2026/05/18/world-news/shanghai-bound-delta-flight-forced-to-divert-to-seattle-over-disruptive-passenger/",
-    "source": "nypost",
-    "pubdate": "2026-05-18-04-33-56 +0000"
   },
   {
     "headline": "'Everest Man' and 'Mountain Queen' break own records scaling world's tallest peak",
@@ -2170,41 +2434,5 @@
     "link": "https://nypost.com/2026/05/17/us-news/calif-dem-antonio-villaraigosa-says-trumps-not-to-blame-for-homelessness-cost-crises/",
     "source": "nypost",
     "pubdate": "2026-05-17-22-23-56 +0000"
-  },
-  {
-    "headline": "Local news headlines get the economic impact of Prop. D totally wrong. Please: Do the math",
-    "link": "https://48hills.org/2026/05/local-news-headlines-get-the-economic-impact-of-prop-d-totally-wrong-please-do-the-math/",
-    "source": "48hills",
-    "pubdate": "2026-05-17-22-13-50 +0000"
-  },
-  {
-    "headline": "French Prosecutors Have Identified More Victims in Epstein Probe",
-    "link": "https://www.wsj.com/world/europe/french-prosecutors-have-identified-more-victims-in-epstein-probe-69f1060b",
-    "source": "wsj",
-    "pubdate": "2026-05-17-21-49-00 +0000"
-  },
-  {
-    "headline": "Wave of Ukrainian Strikes Kills at Least 4, Russia Says",
-    "link": "https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html",
-    "source": "nyt",
-    "pubdate": "2026-05-17-21-48-37 +0000"
-  },
-  {
-    "headline": "Wave of Ukrainian Strikes Kills at Least 4, Russia Says",
-    "link": "https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html",
-    "source": "nyt",
-    "pubdate": "2026-05-17-21-48-37 +0000"
-  },
-  {
-    "headline": "Bittersweet Pride: Joy at the Long Beach parade, outrage over canceled festival",
-    "link": "https://www.latimes.com/california/story/2026-05-17/long-beach-pride-joyful-parade-meets-outrage-over-canceled-festival",
-    "source": "latimes",
-    "pubdate": "2026-05-17-21-47-40 +0000"
-  },
-  {
-    "headline": "Tennessee Dem Steve Cohen tears up on air after redistricting destroys his reelection bid",
-    "link": "https://nypost.com/2026/05/17/us-news/tennesse-dem-steve-cohen-tears-up-on-air-after-redistricting-destroys-his-reelection-bid/",
-    "source": "nypost",
-    "pubdate": "2026-05-17-21-28-39 +0000"
   }
 ]
