@@ -1,38 +1,10 @@
 [
   {
-    "score": 47,
-    "pubdate": "2026-05-18-17-04-39 +0000",
+    "score": 19,
+    "pubdate": "2026-05-18-17-27-10 +0000",
     "source": "nyt",
-    "headline": "G7 Finance Ministers Look to Contain Iran Economic Fallout",
-    "link": "https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-05-18-16-59-02 +0000",
-    "source": "nypost",
-    "headline": "Trump tells The Post Iran knows what’s ‘going to be happening soon’ after prez huddles with national security team",
-    "link": "https://nypost.com/2026/05/18/us-news/trump-tells-the-post-iran-knows-whats-going-to-be-happening-soon-after-prez-fumes-over-latest-peace-talk-offer/"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-05-18-17-05-49 +0000",
-    "source": "nyt",
-    "headline": "Catastrophe Is Emerging in the World’s Most Vulnerable Places",
-    "link": "https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-05-18-16-49-45 +0000",
-    "source": "bbc",
-    "headline": "Four killed in protests during Kenyan strikes over high fuel prices",
-    "link": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-05-18-17-00-02 +0000",
-    "source": "startribune",
-    "headline": "Justice Department announces a $1.7B fund to compensate Trump allies in a deal to drop IRS suit",
-    "link": "https://www.startribune.com/trump-moves-to-dismiss-10b-suit-over-leak-of-tax-returns-after-reports-of-a-resolution/601845040"
+    "headline": "Abortion Pill Lawsuit Leaves Trump Silent, and in a Political Bind",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html"
   },
   {
     "score": 15,
@@ -42,31 +14,59 @@
     "link": "https://www.wsj.com/economy/central-banking/trump-will-host-swearing-in-ceremony-for-new-fed-chair-warsh-8d20d962"
   },
   {
-    "score": 15,
-    "pubdate": "2026-05-18-17-27-10 +0000",
-    "source": "nyt",
-    "headline": "Abortion Pill Lawsuit Leaves Trump Silent, and in a Political Bind",
-    "link": "https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-05-18-17-02-38 +0000",
-    "source": "nypost",
-    "headline": "Alex Murdaugh sues South Carolina clerk who interfered with jury that found him guilty of killing his wife and son",
-    "link": "https://nypost.com/2026/05/18/us-news/alex-murdaugh-sues-south-carolina-clerk-who-interfered-with-jury-that-found-him-guilty-of-killing-his-wife-and-son/"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-05-18-17-11-35 +0000",
-    "source": "nyt",
-    "headline": "Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East",
-    "link": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html"
-  },
-  {
     "score": 13,
-    "pubdate": "2026-05-18-16-48-03 +0000",
+    "pubdate": "2026-05-18-17-34-33 +0000",
+    "source": "nypost",
+    "headline": "Prosecutors reveal twisted reason McDonald’s manager licked, spit on fries before handing them to customer",
+    "link": "https://nypost.com/2026/05/18/us-news/prosecutors-reveal-twisted-reason-mcdonalds-manager-licked-spit-on-fries-before-handing-them-to-customer/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-18-17-38-09 +0000",
+    "source": "nypost",
+    "headline": "Pope and co-founder of Anthropic to launch pontiff’s AI encyclical on May 25",
+    "link": "https://nypost.com/2026/05/18/world-news/pope-and-co-founder-of-anthropic-to-launch-pontiffs-ai-encyclical-on-may-25/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-18-17-32-27 +0000",
+    "source": "cbc",
+    "headline": "World Gymnastics lifts all restrictions on Russian, Belarusian athletes",
+    "link": "https://www.cbc.ca/sports/olympics/summer/gymnastics/world-gymnastics-lifts-restrictions-russian-belarussian-athletes-9.7203327?cmp=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-05-18-17-28-03 +0000",
     "source": "bbc",
-    "headline": "'I sold it for over £1k': Swatch launch sparks 'chaotic' scenes",
-    "link": "https://www.bbc.com/news/videos/cdep67ej9z2o?at_medium=RSS&at_campaign=rss"
+    "headline": "Trump drops $10bn lawsuit against IRS in exchange for a settlement fund",
+    "link": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-05-18-17-38-11 +0000",
+    "source": "bbc",
+    "headline": "Farage facing new questions over home purchase funding",
+    "link": "https://www.bbc.com/news/articles/c936nqy00rwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-05-18-17-34-00 +0000",
+    "source": "wsj",
+    "headline": "The economy Kevin Warsh is inheriting isn't the one he wanted",
+    "link": "https://www.wsj.com/economy/central-banking/the-economy-kevin-warsh-is-inheriting-is-not-the-one-he-wanted-73ab43c2"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-05-18-17-31-39 +0000",
+    "source": "nypost",
+    "headline": "Monday is the last day to register to vote in California’s June 2 Primary",
+    "link": "https://nypost.com/2026/05/18/us-news/may-18-is-the-last-day-to-register-to-vote-in-the-california-primary/"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-05-18-17-30-00 +0000",
+    "source": "startribune",
+    "headline": "Predicting all 32 softball section playoffs",
+    "link": "https://www.startribune.com/minnesota-high-school-softball-section-tournament-predictions/601841375"
   }
 ]
