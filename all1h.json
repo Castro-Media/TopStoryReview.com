@@ -1,98 +1,266 @@
 [
   {
-    "headline": "Escaped tiger shot by German police after attacking man",
-    "link": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-08-12-30 +0000"
-  },
-  {
-    "headline": "Escaped tiger shot by German police after attacking man",
-    "link": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-08-12-30 +0000"
-  },
-  {
-    "headline": "Americans Are Among Those Affected by Ebola Outbreak, C.D.C. Says",
-    "link": "https://www.nytimes.com/2026/05/18/us/ebola-outbreak-congo-uganda-americans-cdc.html",
-    "source": "nyt",
-    "pubdate": "2026-05-18-08-08-21 +0000"
-  },
-  {
-    "headline": "European Gas Prices Rise as Iran War Drags on",
-    "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-iran-war-drags-on-0466ca50?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-18-08-05-00 +0000"
-  },
-  {
-    "headline": "European Gas Prices Rise as Iran War Drags on",
-    "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-iran-war-drags-on-0466ca50?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-18-08-05-00 +0000"
-  },
-  {
-    "headline": "Stock Market Today: Stock Futures Slip Amid Mideast Pessimism",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-18-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-18-08-04-15 +0000"
-  },
-  {
-    "headline": "Gold Falls as Middle East Fears Grow",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-consolidates-may-be-weighed-by-fed-rate-hike-expectations-0d9492fb?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-18-07-59-00 +0000"
-  },
-  {
-    "headline": "Oil Trims Earlier Gains But Risks Remain High",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-prolonged-strait-of-hormuz-closure-a6aba1c3?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-18-07-55-00 +0000"
-  },
-  {
-    "headline": "Euro Could Fall if Long-Dated Yields Rise Further",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-weaken-amid-rising-oil-prices-65c0852f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-18-07-55-00 +0000"
-  },
-  {
-    "headline": "Early intervention and tougher action against parents to tackle youth crime",
-    "link": "https://www.bbc.com/news/articles/cx21p5qp23xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-18-07-49-02 +0000"
-  },
-  {
-    "headline": "Anglo American to Sell Australian Steelmaking Coal Assets for Up to $3.875 Billion",
-    "link": "https://www.wsj.com/business/deals/anglo-american-to-sell-steelmaking-coal-assets-to-dhilmar-for-up-to-3-875-billion-064418cc?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-18-07-47-00 +0000"
-  },
-  {
-    "headline": "Hantavirus-stricken cruise ship expected to arrive in the Netherlands",
-    "link": "https://nypost.com/2026/05/18/world-news/hantavirus-stricken-cruise-ship-expected-to-arrive-in-the-netherlands/",
+    "headline": "Russian attacks kill one, injure more than 30 in Ukraine overnight, officials say",
+    "link": "https://nypost.com/2026/05/18/world-news/russian-attacks-kill-one-injure-more-than-30-in-ukraine-overnight-officials-say/",
     "source": "nypost",
-    "pubdate": "2026-05-18-07-45-39 +0000"
+    "pubdate": "2026-05-18-10-09-14 +0000"
   },
   {
-    "headline": "Swiss Economy Expands Again",
-    "link": "https://www.wsj.com/economy/swiss-economy-expands-again-7c5e2890",
+    "headline": "At least six Americans exposed to Ebola in DR Congo, US media report",
+    "link": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-10-07-57 +0000"
+  },
+  {
+    "headline": "HS2 failings blamed on high-speed focus and political pressure",
+    "link": "https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-10-07-56 +0000"
+  },
+  {
+    "headline": "HS2 failings blamed on high-speed focus and political pressure",
+    "link": "https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-10-07-56 +0000"
+  },
+  {
+    "headline": "China’s economic momentum slowed broadly in April, underscoring persistent areas of weakness as risks from the Iran war mount",
+    "link": "https://www.wsj.com/economy/chinas-april-activity-data-weakens-despite-export-strength-d6e12d09",
     "source": "wsj",
-    "pubdate": "2026-05-18-07-33-00 +0000"
+    "pubdate": "2026-05-18-10-05-00 +0000"
   },
   {
-    "headline": "Why does Amazon have no Western rivals?",
-    "link": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
+    "headline": "China’s Economy Unexpectedly Weakens as Iran War Fallout Mounts",
+    "link": "https://www.wsj.com/economy/chinas-april-activity-data-weakens-despite-export-strength-d6e12d09",
+    "source": "wsj",
+    "pubdate": "2026-05-18-10-05-00 +0000"
+  },
+  {
+    "headline": "Lammy urges Labour unity as he says Starmer 'fights on' as PM",
+    "link": "https://www.bbc.com/news/articles/cx21en4807wo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-05-18-07-25-14 +0000"
+    "pubdate": "2026-05-18-10-02-11 +0000"
   },
   {
-    "headline": "Oil prices rise after Trump warns Iran over stalled peace talks",
-    "link": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
+    "headline": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
+    "link": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-05-18-07-20-34 +0000"
+    "pubdate": "2026-05-18-10-00-47 +0000"
   },
   {
-    "headline": "Eurozone Bond Yields Rise, 10-Year Bund Yield Hits New 15-Year High",
+    "headline": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
+    "link": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-10-00-47 +0000"
+  },
+  {
+    "headline": "TikTok was set to pay $1B in 2024 over kids privacy breaches – years before DOJ’s sweetheart $400M deal: sources",
+    "link": "https://nypost.com/2026/05/18/business/tiktok-was-set-to-pay-1b-in-2024-over-kids-privacy-breaches-years-before-dojs-sweetheart-400m-deal-sources/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Teen leads charge to block ICE detention centers from opening near schools",
+    "link": "https://www.washingtonpost.com/nation/2026/05/18/student-tries-stop-ice-detention-center-opening-by-her-high-school/",
+    "source": "wapo",
+    "pubdate": "2026-05-18-10-00-00 +0000"
+  },
+  {
+    "headline": "AI has invaded the L.A. mayor's race. Some fear it's just the beginning",
+    "link": "https://www.latimes.com/california/story/2026-05-18/ai-has-invaded-la-mayors-race-some-fear-its-just-beginning",
+    "source": "latimes",
+    "pubdate": "2026-05-18-10-00-00 +0000"
+  },
+  {
+    "headline": "19 Legionella bacteria infections linked to Kaiser Bay Area hospital",
+    "link": "https://www.latimes.com/california/story/2026-05-18/19-cases-of-legionella-infection-linked-to-kaiser-bay-area-hospital",
+    "source": "latimes",
+    "pubdate": "2026-05-18-10-00-00 +0000"
+  },
+  {
+    "headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
+    "link": "https://www.latimes.com/california/story/2026-05-18/crowds-yosemite-visitors-worry-high-season-will-be-disaster",
+    "source": "latimes",
+    "pubdate": "2026-05-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Tech leaders funding Matt Mahan's campaign for California governor say it's not about tech",
+    "link": "https://www.latimes.com/california/story/2026-05-18/tech-leaders-funding-matt-mahans-campaign-for-california-governor-say-its-not-about-tech",
+    "source": "latimes",
+    "pubdate": "2026-05-18-10-00-00 +0000"
+  },
+  {
+    "headline": "L.A.'s 100 most problematic rental properties spotlighted in new city database",
+    "link": "https://www.latimes.com/california/story/2026-05-18/l-a-s-100-most-problematic-rental-properties-spotlighted-in-database",
+    "source": "latimes",
+    "pubdate": "2026-05-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Tech leaders funding Matt Mahan's campaign for California governor say it's not about tech",
+    "link": "https://www.latimes.com/california/story/2026-05-18/tech-leaders-funding-matt-mahans-campaign-for-california-governor-say-its-not-about-tech",
+    "source": "latimes",
+    "pubdate": "2026-05-18-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+    "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-09-58-35 +0000"
+  },
+  {
+    "headline": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+    "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-09-58-35 +0000"
+  },
+  {
+    "headline": "A Search for Ways Around Blocked Strait Leads to Syria",
+    "link": "https://www.nytimes.com/2026/05/18/world/middleeast/a-search-for-ways-around-blocked-strait-leads-to-syria.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-09-55-24 +0000"
+  },
+  {
+    "headline": "A Search for Ways Around Blocked Strait Leads to Syria",
+    "link": "https://www.nytimes.com/2026/05/18/world/middleeast/a-search-for-ways-around-blocked-strait-leads-to-syria.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-09-55-24 +0000"
+  },
+  {
+    "headline": "Oil Prices Largely Explain Movements in Bond Markets",
     "link": "https://www.wsj.com/finance/investing/jgbs-slide-on-global-bond-selloff-789740a2?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-05-18-07-20-00 +0000"
+    "pubdate": "2026-05-18-09-55-00 +0000"
+  },
+  {
+    "headline": "Texas toddler crushed to death by antique dresser as she climbed it to reach a toy: ‘It happened so quickly’",
+    "link": "https://nypost.com/2026/05/18/us-news/texas-toddler-crushed-to-death-by-antique-dresser-as-she-climbed-it-to-reach-a-toy/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-09-54-51 +0000"
+  },
+  {
+    "headline": "Catastrophe Is Emerging in the World’s Most Vulnerable Places",
+    "link": "https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-09-53-35 +0000"
+  },
+  {
+    "headline": "Catastrophe Is Emerging in the World’s Most Vulnerable Places",
+    "link": "https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-09-53-35 +0000"
+  },
+  {
+    "headline": "Catastrophe Is Emerging in the World’s Most Vulnerable Places",
+    "link": "https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-09-53-35 +0000"
+  },
+  {
+    "headline": "Thousands of New York commuters braced for Monday morning chaos due to rail strike",
+    "link": "https://www.bbc.com/news/articles/cvgzvp10y6go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-09-43-26 +0000"
+  },
+  {
+    "headline": "Strike over high fuel prices paralyses transport in Kenya",
+    "link": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-09-40-27 +0000"
+  },
+  {
+    "headline": "Strike over high fuel prices paralyses transport in Kenya",
+    "link": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-09-40-27 +0000"
+  },
+  {
+    "headline": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
+    "link": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-18-09-33-53 +0000"
+  },
+  {
+    "headline": "Israeli forces intercept vessels from flotilla trying to breach Gaza blockade",
+    "link": "https://www.cbc.ca/news/world/israel-vessels-flotilla-gaza-blockade-9.7203134?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-05-18-09-30-07 +0000"
+  },
+  {
+    "headline": "Senators Work to Ban Gambling Ads Targeting Minors",
+    "link": "https://www.wsj.com/business/media/senators-work-to-ban-gambling-ads-targeting-minors-9cf39d00?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-09-30-00 +0000"
+  },
+  {
+    "headline": "TSA Experiments With Off-Site Screening to Relieve Airport Congestion",
+    "link": "https://www.wsj.com/business/airlines/tsa-offsite-security-screening-be866b31?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-09-30-00 +0000"
+  },
+  {
+    "headline": "The Academic Scramble to Prepare Future Accountants for AI",
+    "link": "https://www.wsj.com/cfo-journal/the-academic-scramble-to-prepare-future-accountants-for-ai-ac9208fc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-09-30-00 +0000"
+  },
+  {
+    "headline": "Move Over CoreWeave, Here Comes Nebius",
+    "link": "https://www.wsj.com/tech/ai/move-over-coreweave-here-comes-nebius-5fbe89bf?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-18-09-30-00 +0000"
+  },
+  {
+    "headline": "Hundreds of picketing LIRR workers strike it rich with $100K-plus overtime hauls: ‘System is so distorted’",
+    "link": "https://nypost.com/2026/05/18/us-news/hundreds-of-picketing-lirr-workers-make-100k-plus-in-overtime/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-09-30-00 +0000"
+  },
+  {
+    "headline": "The Academic Scramble to Prepare Future Accountants for AI",
+    "link": "https://www.wsj.com/cfo-journal/the-academic-scramble-to-prepare-future-accountants-for-ai-ac9208fc",
+    "source": "wsj",
+    "pubdate": "2026-05-18-09-30-00 +0000"
+  },
+  {
+    "headline": "Senators are working to ban gambling ads targeting minors",
+    "link": "https://www.wsj.com/business/media/senators-work-to-ban-gambling-ads-targeting-minors-9cf39d00",
+    "source": "wsj",
+    "pubdate": "2026-05-18-09-30-00 +0000"
+  },
+  {
+    "headline": "The economy Kevin Warsh is inheriting isn't the one he wanted",
+    "link": "https://www.wsj.com/economy/central-banking/the-economy-kevin-warsh-is-inheriting-is-not-the-one-he-wanted-73ab43c2",
+    "source": "wsj",
+    "pubdate": "2026-05-18-09-30-00 +0000"
+  },
+  {
+    "headline": "Baidu’s Profit Slides Again Amid Slow AI Payoff",
+    "link": "https://www.wsj.com/business/earnings/baidus-profit-slides-again-amid-slow-ai-payoff-1060fbdb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-18-09-25-00 +0000"
+  },
+  {
+    "headline": "Louvre Announces Architects for Expansion That Will Include New Mona Lisa Space",
+    "link": "https://www.nytimes.com/2026/05/18/arts/louvre-expansion-architect.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-09-23-55 +0000"
+  },
+  {
+    "headline": "Louvre Announces Architects for Expansion That Will Include New Mona Lisa Space",
+    "link": "https://www.nytimes.com/2026/05/18/arts/louvre-expansion-architect.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-09-23-55 +0000"
+  },
+  {
+    "headline": "Russian drone strikes Chinese ship, Ukraine says, ahead of Putin’s meeting with Xi",
+    "link": "https://nypost.com/2026/05/18/world-news/russian-drone-strikes-chinese-ship-ahead-of-putins-trip-to-meet-xi/",
+    "source": "nypost",
+    "pubdate": "2026-05-18-09-18-40 +0000"
+  },
+  {
+    "headline": "A Crack in the Polling Floor Puts Trump in New Territory",
+    "link": "https://www.nytimes.com/2026/05/18/upshot/trump-poll-times-siena-analyis.html",
+    "source": "nyt",
+    "pubdate": "2026-05-18-09-18-38 +0000"
   }
 ]
