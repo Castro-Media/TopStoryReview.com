@@ -1,72 +1,44 @@
 [
   {
-    "score": 48,
-    "pubdate": "2026-05-18-19-43-45 +0000",
-    "source": "bbc",
-    "headline": "Trump says he called off new Iran attack at request of Gulf states",
-    "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-05-18-19-31-18 +0000",
-    "source": "bbc",
-    "headline": "At least 100 dead in Ebola outbreak in DR Congo, official says",
-    "link": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-05-18-20-14-18 +0000",
-    "source": "nypost",
-    "headline": "Spencer Pratt channels Will Smith for ‘fresh’ new campaign ad at Hotel Bel-Air",
-    "link": "https://nypost.com/2026/05/18/us-news/spencer-pratt-channels-fresh-prince-of-bel-air-for-campaign-ad-at-hotel-bel-air/"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-05-18-19-32-10 +0000",
-    "source": "nypost",
-    "headline": "Kentucky battle for Rep. Thomas Massie’s seat is the most expensive House primary race in history",
-    "link": "https://nypost.com/2026/05/18/us-news/kentucky-battle-for-rep-thomas-massies-seat-is-the-most-expensive-house-primary-race-in-history/"
-  },
-  {
     "score": 22,
-    "pubdate": "2026-05-18-20-09-22 +0000",
-    "source": "nypost",
-    "headline": "US Attorney Jeanine Pirro threatens to charge DC teens — and parents — after wild Chipotle brawl",
-    "link": "https://nypost.com/2026/05/18/us-news/us-attorney-jeanine-pirro-will-charge-dc-teens-and-parents-after-chipotle-brawl/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-05-18-20-19-59 +0000",
-    "source": "nypost",
-    "headline": "California shopper sues fashion retailer for too many early promo texts – now she wants every American to join her class action",
-    "link": "https://nypost.com/2026/05/18/us-news/california-shopper-sues-fashion-nova-over-early-promo-texts/"
-  },
-  {
-    "score": 20,
     "pubdate": "2026-05-18-20-19-21 +0000",
     "source": "nyt",
     "headline": "Oil Prices Climb and Bonds Falter as Iran War Raises Inflation Fears",
     "link": "https://www.nytimes.com/2026/05/18/business/oil-gas-price-iran-bonds.html"
   },
   {
-    "score": 19,
-    "pubdate": "2026-05-18-19-35-20 +0000",
-    "source": "latimes",
-    "headline": "Threat at Islamic center in San Diego 'neutralized' after active shooter reports, police say",
-    "link": "https://www.latimes.com/california/story/2026-05-18/san-diego-police-swarm-islamic-center-amid-reports-of-active-shooter"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-05-18-19-43-35 +0000",
+    "score": 16,
+    "pubdate": "2026-05-18-20-19-59 +0000",
     "source": "nypost",
-    "headline": "‘Looksmaxxing’ influencer Clavicular gets brutally mogged by studly Florida judge during court appearance",
-    "link": "https://nypost.com/2026/05/18/us-news/clavicular-gets-brutally-mogged-by-studly-florida-judge/"
+    "headline": "California shopper sues fashion retailer for too many early promo texts – now she wants every American to join her class action",
+    "link": "https://nypost.com/2026/05/18/us-news/california-shopper-sues-fashion-nova-over-early-promo-texts/"
   },
   {
-    "score": 13,
-    "pubdate": "2026-05-18-19-40-49 +0000",
-    "source": "latimes",
-    "headline": "For the first time in a century, a gray wolf entered Sequoia National Park. She's traveled hundreds of miles to get there",
-    "link": "https://www.latimes.com/environment/story/2026-05-18/wolf-enters-sequoia-national-park-for-first-time-in-century-bey03f"
+    "score": 11,
+    "pubdate": "2026-05-18-20-17-11 +0000",
+    "source": "nyt",
+    "headline": "What is Trump’s $1.776 Billion ‘Anti-Weaponization’ Fund?",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-05-18-20-20-29 +0000",
+    "source": "bbc",
+    "headline": "Oil price slumps as Trump says he called off Iran attacks",
+    "link": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-18-20-19-21 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Climb and Bonds Falter as Iran War Raises Inflation Fears",
+    "link": "https://www.nytimes.com/2026/05/18/business/oil-gas-price-iran-bonds.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-18-20-17-11 +0000",
+    "source": "nyt",
+    "headline": "What is Trump’s $1.776 Billion ‘Anti-Weaponization’ Fund?",
+    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-anti-weaponization-fund.html"
   }
 ]
