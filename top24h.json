@@ -1,6 +1,6 @@
 [
   {
-    "score": 207,
+    "score": 189,
     "pubdate": "2026-05-18-22-30-58 +0000",
     "source": "bbc",
     "headline": "Trump says he called off new Iran attack at request of Gulf states",
@@ -15,17 +15,17 @@
   },
   {
     "score": 67,
-    "pubdate": "2026-05-18-18-34-46 +0000",
-    "source": "cbc",
-    "headline": "American tests positive for Ebola virus amid outbreak in Congo and Uganda: CDC",
-    "link": "https://www.cbc.ca/news/health/american-tests-positive-ebola-virus-9.7203382?cmp=rss"
+    "pubdate": "2026-05-19-09-43-49 +0000",
+    "source": "nyt",
+    "headline": "W.H.O. Chief Is ‘Deeply Concerned’ by Speed and Scale of Ebola Outbreak as Cases Rise",
+    "link": "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html"
   },
   {
     "score": 67,
-    "pubdate": "2026-05-18-18-06-15 +0000",
-    "source": "latimes",
-    "headline": "Jury rejects Elon Musk's lawsuit, sides with OpenAI in bitter feud over AI future",
-    "link": "https://www.latimes.com/business/story/2026-05-18/jury-sides-with-openai-tossing-out-elons-claim-that-sam-altman-stole-charity"
+    "pubdate": "2026-05-18-22-08-37 +0000",
+    "source": "bbc",
+    "headline": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+    "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 66,
@@ -35,11 +35,11 @@
     "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html"
   },
   {
-    "score": 61,
-    "pubdate": "2026-05-19-01-16-46 +0000",
-    "source": "nypost",
-    "headline": "San Diego mosque shooter Cain Clark identified as former high school wrestler",
-    "link": "https://nypost.com/2026/05/18/us-news/san-diego-mosque-shooting-alleged-gunmen-identified-as-cain-clark-and-caleb-velasquez/"
+    "score": 59,
+    "pubdate": "2026-05-19-03-48-21 +0000",
+    "source": "nyt",
+    "headline": "San Diego Mosque Shooting Comes Amid Rising Reports of Islamophobia in the U.S.",
+    "link": "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-islamaphobia.html"
   },
   {
     "score": 59,
@@ -49,24 +49,24 @@
     "link": "https://www.wsj.com/politics/policy/gop-senator-vanquished-by-trump-says-he-has-no-regrets-6dae57a3"
   },
   {
-    "score": 54,
-    "pubdate": "2026-05-18-19-32-10 +0000",
+    "score": 56,
+    "pubdate": "2026-05-18-11-39-12 +0000",
     "source": "nypost",
-    "headline": "Kentucky battle for Rep. Thomas Massie’s seat is the most expensive House primary race in history",
-    "link": "https://nypost.com/2026/05/18/us-news/kentucky-battle-for-rep-thomas-massies-seat-is-the-most-expensive-house-primary-race-in-history/"
+    "headline": "Remaining bodies of missing tourists found in ‘shark cave’ after Maldives’ worst-ever diving disaster",
+    "link": "https://nypost.com/2026/05/18/world-news/remaining-bodies-of-missing-tourists-found-in-shark-cave-after-maldives-worst-ever-diving-disaster/"
   },
   {
-    "score": 49,
+    "score": 46,
+    "pubdate": "2026-05-18-16-49-45 +0000",
+    "source": "bbc",
+    "headline": "Four killed in protests during Kenyan strikes over high fuel prices",
+    "link": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 46,
     "pubdate": "2026-05-19-04-43-35 +0000",
     "source": "nyt",
     "headline": "Millions Recovered in FIFA Corruption Scandal May Now Be Missing Again Before World Cup",
     "link": "https://www.nytimes.com/2026/05/18/world/americas/fifa-south-america-conmebol-dominguez.html"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-05-18-13-54-06 +0000",
-    "source": "nyt",
-    "headline": "Bodies of Four Italian Divers Found in Maldives Cave",
-    "link": "https://www.nytimes.com/2026/05/18/world/asia/maldives-divers-accident-bodies-found.html"
   }
 ]
