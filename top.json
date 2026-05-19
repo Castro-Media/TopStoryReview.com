@@ -1,10 +1,17 @@
 [
   {
-    "score": 127,
+    "score": 124,
     "pubdate": "2026-05-18-22-30-58 +0000",
     "source": "bbc",
     "title": "Trump says he called off new Iran attack at request of Gulf states",
     "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 71,
+    "pubdate": "2026-05-19-08-32-21 +0000",
+    "source": "nypost",
+    "title": "Terrifying moment small children evacuated from San Diego mosque amid shooting",
+    "link": "https://nypost.com/2026/05/19/us-news/terrifying-moment-small-children-evacuated-from-islamic-center-of-san-diego-amid-mass-shooting/"
   },
   {
     "score": 66,
@@ -14,25 +21,11 @@
     "link": "https://nypost.com/2026/05/19/us-news/texas-mom-marlene-vidal-sobs-in-court-after-allegedly-killing-her-two-children-in-burning-car/"
   },
   {
-    "score": 58,
-    "pubdate": "2026-05-19-08-32-21 +0000",
-    "source": "nypost",
-    "title": "Terrifying moment small children evacuated from San Diego mosque amid shooting",
-    "link": "https://nypost.com/2026/05/19/us-news/terrifying-moment-small-children-evacuated-from-islamic-center-of-san-diego-amid-mass-shooting/"
-  },
-  {
-    "score": 50,
+    "score": 51,
     "pubdate": "2026-05-18-18-34-46 +0000",
     "source": "cbc",
     "title": "American tests positive for Ebola virus amid outbreak in Congo and Uganda: CDC",
     "link": "https://www.cbc.ca/news/health/american-tests-positive-ebola-virus-9.7203382?cmp=rss"
-  },
-  {
-    "score": 47,
-    "pubdate": "2026-05-18-18-06-15 +0000",
-    "source": "latimes",
-    "title": "Jury rejects Elon Musk's lawsuit, sides with OpenAI in bitter feud over AI future",
-    "link": "https://www.latimes.com/business/story/2026-05-18/jury-sides-with-openai-tossing-out-elons-claim-that-sam-altman-stole-charity"
   },
   {
     "score": 46,
@@ -42,31 +35,38 @@
     "link": "https://www.wsj.com/politics/policy/gop-senator-vanquished-by-trump-says-he-has-no-regrets-6dae57a3"
   },
   {
-    "score": 44,
-    "pubdate": "2026-05-19-10-00-00 +0000",
+    "score": 45,
+    "pubdate": "2026-05-18-18-06-15 +0000",
     "source": "latimes",
-    "title": "Forced treatment and jail: Spencer Pratt's pledges to end homelessness stir up mayor's race",
-    "link": "https://www.latimes.com/california/story/2026-05-19/forced-treatment-jail-spencer-pratts-pledges-to-end-homelessness-roil-mayors-race"
+    "title": "Jury rejects Elon Musk's lawsuit, sides with OpenAI in bitter feud over AI future",
+    "link": "https://www.latimes.com/business/story/2026-05-18/jury-sides-with-openai-tossing-out-elons-claim-that-sam-altman-stole-charity"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-05-18-19-32-10 +0000",
+    "source": "nypost",
+    "title": "Kentucky battle for Rep. Thomas Massie&#8217;s seat is the most expensive House primary race in history",
+    "link": "https://nypost.com/2026/05/18/us-news/kentucky-battle-for-rep-thomas-massies-seat-is-the-most-expensive-house-primary-race-in-history/"
   },
   {
     "score": 41,
+    "pubdate": "2026-05-18-16-40-26 +0000",
+    "source": "nypost",
+    "title": "Carl&#8217;s Jr. crushed by California&#8217;s high minimum wage, as violence-stricken workers walk out on the job",
+    "link": "https://nypost.com/2026/05/18/business/carls-jr-crushed-by-californias-economic-climate-violence-stricken-workers/"
+  },
+  {
+    "score": 40,
     "pubdate": "2026-05-19-11-01-00 +0000",
     "source": "wsj",
     "title": "The nearly $1.8 billion &#8220;anti-weaponization fund&#8221; could be very consequential in Trump&#8217;s second term, but how might it actually work? Read more in today&#8217;s WSJ Politics newsletter:",
     "link": "https://www.wsj.com/politics/how-trumps-1-776-billion-anti-weaponization-fund-might-work-3ec6b12c"
   },
   {
-    "score": 37,
+    "score": 38,
     "pubdate": "2026-05-18-17-41-00 +0000",
     "source": "wsj",
     "title": "Justice Department Drops Criminal Case Against Indian Billionaire Gautam Adani",
     "link": "https://www.wsj.com/us-news/law/gautam-adani-fraud-case-dropped-84b0a51a"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-05-18-16-40-26 +0000",
-    "source": "nypost",
-    "title": "Carl&#8217;s Jr. crushed by California&#8217;s high minimum wage, as violence-stricken workers walk out on the job",
-    "link": "https://nypost.com/2026/05/18/business/carls-jr-crushed-by-californias-economic-climate-violence-stricken-workers/"
   }
 ]
