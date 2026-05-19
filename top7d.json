@@ -7,7 +7,7 @@
     "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 149,
+    "score": 148,
     "pubdate": "2026-05-15-20-10-44 +0000",
     "source": "nyt",
     "headline": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War",
@@ -29,24 +29,17 @@
   },
   {
     "score": 118,
-    "pubdate": "2026-05-12-22-09-00 +0000",
-    "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
-  },
-  {
-    "score": 118,
     "pubdate": "2026-05-19-18-17-41 +0000",
     "source": "bbc",
     "headline": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
     "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 116,
-    "pubdate": "2026-05-17-09-00-00 +0000",
+    "score": 118,
+    "pubdate": "2026-05-12-22-09-00 +0000",
     "source": "wsj",
-    "headline": "Thomas Massie, the seven-term GOP congressman from Kentucky and leading Trump antagonist, will soon find out whether his political career in the House can survive a break with the president",
-    "link": "https://www.wsj.com/politics/elections/thomas-massies-lonely-and-expensive-fight-against-trump-40dad789"
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
     "score": 116,
@@ -54,6 +47,13 @@
     "source": "nypost",
     "headline": "Fundraiser for hero security guard killed in San Diego mosque shooting tops $1M in less than 24 hours",
     "link": "https://nypost.com/2026/05/19/us-news/fundraiser-for-guard-killed-in-san-diego-mosque-shooting-tops-1m/"
+  },
+  {
+    "score": 115,
+    "pubdate": "2026-05-17-09-00-00 +0000",
+    "source": "wsj",
+    "headline": "Thomas Massie, the seven-term GOP congressman from Kentucky and leading Trump antagonist, will soon find out whether his political career in the House can survive a break with the president",
+    "link": "https://www.wsj.com/politics/elections/thomas-massies-lonely-and-expensive-fight-against-trump-40dad789"
   },
   {
     "score": 94,
