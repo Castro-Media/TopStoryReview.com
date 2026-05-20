@@ -1,31 +1,38 @@
 [
   {
-    "score": 334,
+    "score": 348,
     "pubdate": "2026-05-19-23-59-00 +0000",
     "source": "wsj",
     "headline": "Days after President Trump celebrated ousting incumbent Sen. Bill Cassidy in Louisiana’s GOP primary, Cassidy voted in favor of advancing a resolution that would limit Trump’s ability to wage war in Iran without congressional approval",
     "link": "https://www.wsj.com/politics/policy/senate-advances-war-powers-measure-after-gops-cassidy-switches-sides-29a6e7e6"
   },
   {
-    "score": 145,
+    "score": 118,
     "pubdate": "2026-05-20-04-45-00 +0000",
     "source": "wsj",
     "headline": "A Georgia congressman and a former college football coach will meet in a runoff next month after neither captured 50% of the vote in the GOP Senate primary Tuesday to challenge Democrat Jon Ossoff for his Senate seat",
     "link": "https://www.wsj.com/politics/elections/georgias-gop-senate-primary-goes-to-a-runoff-in-fight-to-unseat-jon-ossoff-fc6af4f5"
   },
   {
-    "score": 117,
+    "score": 103,
+    "pubdate": "2026-05-20-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "Two police officers who defended the Capitol during the Jan. 6, 2021, attack filed a lawsuit seeking to stop the Trump administration’s plan to create a nearly $1.8 billion fund for payouts to purported victims of “weaponization and lawfare”",
+    "link": "https://www.wsj.com/us-news/law/two-jan-6-police-officers-sue-to-stop-trumps-anti-weaponization-fund-7ca74cb5"
+  },
+  {
+    "score": 102,
+    "pubdate": "2026-05-20-18-30-42 +0000",
+    "source": "nyt",
+    "headline": "Justice Dept. Charges Raúl Castro as Trump Escalates Pressure Campaign Against Cuba",
+    "link": "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html"
+  },
+  {
+    "score": 101,
     "pubdate": "2026-05-20-02-30-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s handpicked House candidate defeated longtime GOP antagonist Rep. Thomas Massie of Kentucky, underscoring the president’s iron grip on the Republican Party",
     "link": "https://www.wsj.com/politics/elections/thomas-massie-defeated-in-gop-primary-after-attacks-from-trump-211c5066"
-  },
-  {
-    "score": 96,
-    "pubdate": "2026-05-20-16-00-00 +0000",
-    "source": "wsj",
-    "headline": "Two police officers who defended the Capitol during the Jan. 6, 2021, attack filed a lawsuit seeking to stop the Trump administration’s plan to create a nearly $1.8 billion fund for payouts to purported victims of “weaponization and lawfare”",
-    "link": "https://www.wsj.com/politics/policy/two-jan-6-police-officers-sue-to-stop-trumps-anti-weaponization-fund-7ca74cb5"
   },
   {
     "score": 91,
@@ -35,38 +42,31 @@
     "link": "https://www.cbc.ca/news/world/putin-china-xi-jinping-visit-9.7205510?cmp=rss"
   },
   {
-    "score": 86,
+    "score": 90,
     "pubdate": "2026-05-20-13-45-49 +0000",
     "source": "bbc",
     "headline": "UK waters down new Russian oil sanctions as fuel prices rise",
     "link": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 76,
-    "pubdate": "2026-05-20-17-45-18 +0000",
-    "source": "nypost",
-    "headline": "Ex-Cuba leader Raul Castro, 94, charged with murder, conspiracy to kill Americans in 1996 shootdown of humanitarian planes",
-    "link": "https://nypost.com/2026/05/20/us-news/ex-cuba-leader-raul-castro-94-charged-with-murder-conspiracy-to-kill-americans-in-1996-shootdown-of-humanitarian-planes/"
-  },
-  {
-    "score": 62,
+    "score": 66,
     "pubdate": "2026-05-20-10-48-00 +0000",
     "source": "wsj",
     "headline": "EU negotiators reached a provisional deal to remove some tariffs on U.S. imports as part of the bloc’s trade deal signed last summer, ahead of a U.S. deadline to ramp up tariffs on cars",
     "link": "https://www.wsj.com/economy/trade/eu-reaches-agreement-to-move-forward-on-u-s-trade-deal-f62d4952"
   },
   {
-    "score": 61,
+    "score": 62,
     "pubdate": "2026-05-19-21-35-00 +0000",
     "source": "wsj",
     "headline": "Mango Founder’s Son Accused of Playing Role in Father’s Death",
     "link": "https://www.wsj.com/business/retail/mango-founders-son-arrested-in-probe-into-fathers-death-50aeb683"
   },
   {
-    "score": 54,
-    "pubdate": "2026-05-20-13-55-10 +0000",
-    "source": "cbc",
-    "headline": "Canada among several countries to summon Israeli ambassador over video taunting flotilla activists",
-    "link": "https://www.cbc.ca/news/world/israel-gaza-flotilla-activists-detained-9.7205666?cmp=rss"
+    "score": 62,
+    "pubdate": "2026-05-20-18-28-00 +0000",
+    "source": "wsj",
+    "headline": "Fed officials all but retired the question that had dominated their debates for the past two years—whether to cut interest rates—and began at their April meeting to more seriously weigh whether to raise them",
+    "link": "https://www.wsj.com/economy/central-banking/fed-minutes-reveal-support-for-rate-hikes-if-inflation-proves-persistent-97e63b1c"
   }
 ]
