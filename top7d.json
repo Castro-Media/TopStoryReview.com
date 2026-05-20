@@ -1,27 +1,27 @@
 [
   {
-    "score": 398,
+    "score": 573,
+    "pubdate": "2026-05-19-23-59-00 +0000",
+    "source": "wsj",
+    "headline": "Days after President Trump celebrated ousting incumbent Sen. Bill Cassidy in Louisiana’s GOP primary, Cassidy voted in favor of advancing a resolution that would limit Trump’s ability to wage war in Iran without congressional approval",
+    "link": "https://www.wsj.com/politics/policy/senate-advances-war-powers-measure-after-gops-cassidy-switches-sides-29a6e7e6"
+  },
+  {
+    "score": 157,
     "pubdate": "2026-05-18-22-30-58 +0000",
     "source": "bbc",
     "headline": "Trump says he called off new Iran attack at request of Gulf states",
     "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 154,
-    "pubdate": "2026-05-15-20-10-44 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War",
-    "link": "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"
-  },
-  {
-    "score": 154,
+    "score": 149,
     "pubdate": "2026-05-17-09-00-00 +0000",
     "source": "wsj",
     "headline": "Thomas Massie, the seven-term GOP congressman from Kentucky and leading Trump antagonist, will soon find out whether his political career in the House can survive a break with the president",
     "link": "https://www.wsj.com/politics/elections/thomas-massies-lonely-and-expensive-fight-against-trump-40dad789"
   },
   {
-    "score": 143,
+    "score": 146,
     "pubdate": "2026-05-19-18-03-38 +0000",
     "source": "latimes",
     "headline": "Hilton and Becerra lead in a tightening race in final weeks of California governor's campaign, poll shows",
@@ -29,13 +29,20 @@
   },
   {
     "score": 125,
-    "pubdate": "2026-05-19-21-31-00 +0000",
+    "pubdate": "2026-05-19-23-59-00 +0000",
     "source": "wsj",
     "headline": "President Trump on Tuesday endorsed Texas Attorney General Ken Paxton for Senate over incumbent Sen. John Cornyn, throwing an 11th-hour curveball into a tightly contested Republican primary",
     "link": "https://www.wsj.com/politics/elections/trump-texas-senate-endorsement-cornyn-paxton-8e7af62d"
   },
   {
-    "score": 116,
+    "score": 115,
+    "pubdate": "2026-05-14-21-36-36 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Waver as Trump Meets China’s Xi to Discuss Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/05/14/business/oil-stocks-gas-iran-trump-china.html"
+  },
+  {
+    "score": 112,
     "pubdate": "2026-05-19-19-32-22 +0000",
     "source": "bbc",
     "headline": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
@@ -49,24 +56,17 @@
     "link": "https://www.wsj.com/economy/central-banking/spacex-to-go-public-june-12-0ed4a402"
   },
   {
-    "score": 93,
-    "pubdate": "2026-05-17-15-53-00 +0000",
-    "source": "wsj",
-    "headline": "Sen. Bill Cassidy’s run for re-election was cut short Saturday as voters heeded President Trump’s call to oust the two-term Louisiana Republican",
-    "link": "https://www.wsj.com/politics/elections/trump-nemesis-sen-bill-cassidy-defeated-in-gop-primary-8087c281"
+    "score": 97,
+    "pubdate": "2026-05-14-23-57-43 +0000",
+    "source": "latimes",
+    "headline": "Suspect in Playa del Rey crash that killed toddler was already wanted in two DUIs, records show",
+    "link": "https://www.latimes.com/california/story/2026-05-14/suspect-in-deadly-playa-del-rey-crash-two-dui-cases"
   },
   {
-    "score": 90,
-    "pubdate": "2026-05-19-20-32-36 +0000",
-    "source": "bbc",
-    "headline": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
-    "link": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 88,
-    "pubdate": "2026-05-19-18-28-59 +0000",
-    "source": "nyt",
-    "headline": "Justice Dept. Sets Up $1.8 Billion Fund That Could Funnel Money to Trump Allies",
-    "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html"
+    "score": 89,
+    "pubdate": "2026-05-19-22-31-27 +0000",
+    "source": "nypost",
+    "headline": "Cain Clark’s neighbor reveals haunting encounter with San Diego mosque shooter day before deadly rampage",
+    "link": "https://nypost.com/2026/05/19/us-news/cain-clarks-neighbor-reveals-haunting-encounter-with-san-diego-mosque-shooter-day-before-deadly-rampage/"
   }
 ]
