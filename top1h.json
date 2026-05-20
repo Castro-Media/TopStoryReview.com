@@ -1,59 +1,10 @@
 [
   {
-    "score": 52,
-    "pubdate": "2026-05-20-16-57-10 +0000",
-    "source": "nypost",
-    "headline": "Trump says Netanyahu will do ‘whatever I want him to do’ following ‘dramatic’ call about Iran strikes",
-    "link": "https://nypost.com/2026/05/20/world-news/trump-netanyahu-will-do-whatever-i-want-him-to-do-with-iran/"
-  },
-  {
-    "score": 43,
+    "score": 33,
     "pubdate": "2026-05-20-17-45-18 +0000",
     "source": "nypost",
     "headline": "Ex-Cuba leader Raul Castro, 94, charged with murder, conspiracy to kill Americans in 1996 shootdown of humanitarian planes",
     "link": "https://nypost.com/2026/05/20/us-news/ex-cuba-leader-raul-castro-94-charged-with-murder-conspiracy-to-kill-americans-in-1996-shootdown-of-humanitarian-planes/"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-05-20-17-29-54 +0000",
-    "source": "nypost",
-    "headline": "Rubio, Mullin urged to crack down on Labubu dolls made with cotton from Chinese region notorious for forced labor concerns",
-    "link": "https://nypost.com/2026/05/20/us-news/marco-rubio-markwayne-mullin-urged-to-crack-down-on-labubu-dolls-made-with-cotton-from-chinese-region-notorious-for-forced-labor-concerns/"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-05-20-17-24-13 +0000",
-    "source": "nypost",
-    "headline": "Trump reportedly planning to limit US military resources for NATO allies in Europe during crises",
-    "link": "https://nypost.com/2026/05/20/us-news/trump-planning-to-limit-us-military-resources-for-nato-allies-in-europe-during-crises-report/"
-  },
-  {
-    "score": 29,
-    "pubdate": "2026-05-20-17-11-00 +0000",
-    "source": "wsj",
-    "headline": "The GOP-controlled House passed a new version of the federal housing bill, throwing a lifeline to homebuilders by striking a provision that builders said would have destroyed part of their business",
-    "link": "https://www.wsj.com/politics/policy/newly-passed-housing-bill-throws-lifeline-to-homebuilders-d5dec1d4"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-05-20-17-18-16 +0000",
-    "source": "bbc",
-    "headline": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
-    "link": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 27,
-    "pubdate": "2026-05-20-17-33-33 +0000",
-    "source": "bbc",
-    "headline": "Final two bodies of missing Italians recovered from inside Maldives cave",
-    "link": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-05-20-17-12-00 +0000",
-    "source": "wsj",
-    "headline": "The Fashion Scion Facing Suspicion Over His Father’s Fatal Fall",
-    "link": "https://www.wsj.com/business/the-fashion-scion-facing-suspicion-over-his-fathers-fatal-fall-c6528c6b?mod=rss_markets_main"
   },
   {
     "score": 20,
@@ -63,10 +14,59 @@
     "link": "https://www.wsj.com/economy/housing/los-angeles-tried-to-tax-mansions-apartment-construction-tanked-1b908564"
   },
   {
-    "score": 19,
-    "pubdate": "2026-05-20-17-10-12 +0000",
+    "score": 9,
+    "pubdate": "2026-05-20-17-48-39 +0000",
+    "source": "nypost",
+    "headline": "Video shows massive ‘smokenado’ tower over Verona Fire in Riverside County",
+    "link": "https://nypost.com/2026/05/20/us-news/smokenado-towers-over-verona-fire-in-riverside-county/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-20-17-45-22 +0000",
+    "source": "missionlocal",
+    "headline": "Hunger strike at California’s ICE facility as detainees decry ‘Inhumane’ conditions",
+    "link": "https://missionlocal.org/2026/05/hunger-strike-ice-facility-detainees-decry-inhumane-conditions/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-20-17-43-26 +0000",
+    "source": "nypost",
+    "headline": "Parents accused of killing 1-day-old baby boy in hospital maternity room",
+    "link": "https://nypost.com/2026/05/20/us-news/parents-accused-of-killing-1-day-old-baby-boy-in-hospital-maternity-room/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-20-17-47-08 +0000",
     "source": "nyt",
-    "headline": "Israel Minister Taunts Pro-Palestinian Flotilla Activists in Video",
-    "link": "https://www.nytimes.com/2026/05/20/world/middleeast/israel-minister-taunts-pro-palestine-activists-video.html"
+    "headline": "Justice Dept. Charges Former Cuban President in Fatal Downing of Planes",
+    "link": "https://www.nytimes.com/2026/05/20/us/raul-castro-cuba-doj-indictment.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-20-17-45-03 +0000",
+    "source": "nyt",
+    "headline": "How Rubio Is Driving the U.S. Pressure Campaign on Cuba",
+    "link": "https://www.nytimes.com/video/us/politics/100000010911595/why-marco-rubio-trump-want-regime-change-cuba.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-05-20-17-44-00 +0000",
+    "source": "wsj",
+    "headline": "Canada Has ‘Fallen Way Behind’ on Port Logistics, Carney Says",
+    "link": "https://www.wsj.com/world/americas/canada-has-fallen-way-behind-on-port-logistics-carney-says-530763c4"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-05-20-17-44-00 +0000",
+    "source": "wsj",
+    "headline": "Fink’s Big Payday Gets Lukewarm Reception From BlackRock Shareholders",
+    "link": "https://www.wsj.com/finance/investing/finks-big-payday-gets-lukewarm-reception-from-blackrock-shareholders-4149444c?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-05-20-17-46-48 +0000",
+    "source": "bbc",
+    "headline": "Are supermarkets profiting from higher food prices?",
+    "link": "https://www.bbc.com/news/videos/cd6pwgz21nvo?at_medium=RSS&at_campaign=rss"
   }
 ]
