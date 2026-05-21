@@ -1,13 +1,20 @@
 [
   {
     "score": 343,
+    "pubdate": "2026-05-20-20-03-00 +0000",
+    "source": "wsj",
+    "headline": "Q&A: Here’s what to know about the Trump administration’s ending of tax audits of President Trump",
+    "link": "https://www.wsj.com/politics/policy/what-to-know-about-the-trump-administration-ending-tax-audits-of-trump-5c1e81c1"
+  },
+  {
+    "score": 198,
     "pubdate": "2026-05-18-22-30-58 +0000",
     "source": "bbc",
     "headline": "Trump says he called off new Iran attack at request of Gulf states",
     "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 155,
+    "score": 153,
     "pubdate": "2026-05-21-17-49-00 +0000",
     "source": "wsj",
     "headline": "Supreme Court revives large Cuba property claims against cruise lines as Trump escalates pressure on Havana and Raúl Castro",
@@ -56,17 +63,10 @@
     "link": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 116,
+    "score": 114,
     "pubdate": "2026-05-20-19-46-00 +0000",
     "source": "wsj",
     "headline": "Federal Reserve officials all but retired the question that had dominated their debates for the past two years—whether to cut interest rates—and began more seriously at their April meeting to weigh the opposite: whether to raise them",
     "link": "https://www.wsj.com/economy/central-banking/fed-minutes-reveal-support-for-rate-hikes-if-inflation-proves-persistent-97e63b1c"
-  },
-  {
-    "score": 105,
-    "pubdate": "2026-05-17-23-02-56 +0000",
-    "source": "bbc",
-    "headline": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
-    "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss"
   }
 ]
