@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-05-20-23-16-30 +0000",
+    "score": 24,
+    "pubdate": "2026-05-21-00-53-00 +0000",
+    "source": "wsj",
+    "headline": "Some $1 billion in funding tied to President Trump’s planned White House ballroom project is in doubt, as the “YOLO caucus” on Capitol Hill grows",
+    "link": "https://www.wsj.com/politics/policy/trump-ballroom-gop-senators-725af4d4"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-05-21-01-15-18 +0000",
+    "source": "nypost",
+    "headline": "Outrage as Gavin Newsom’s parole board that freed killer pedos is confirmed  — despite chilling admissions",
+    "link": "https://nypost.com/2026/05/20/us-news/democrats-confirm-gavin-newsoms-board-of-parole-members-despite-backlash/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-05-21-00-40-47 +0000",
+    "source": "nypost",
+    "headline": "Spencer Pratt fires up the grill and his campaign in South LA",
+    "link": "https://nypost.com/2026/05/20/us-news/spencer-pratt-trades-the-debate-stage-for-bbq-in-south-la/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-21-01-28-39 +0000",
     "source": "nyt",
-    "headline": "Trump’s Government Moves to Spare an Unhappy Taxpayer Named Trump",
-    "link": "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-presidents-self-dealing.html"
+    "headline": "Video Shows Itamar Ben-Gvir Taunting Pro-Palestinian Activists",
+    "link": "https://www.nytimes.com/2026/05/20/world/middleeast/israel-minister-taunts-pro-palestine-activists-video.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-21-01-16-51 +0000",
+    "source": "bbc",
+    "headline": "UK agrees £3.7bn trade deal with six Gulf states",
+    "link": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-21-01-26-36 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Coast Guard Address: ‘Good Looking Men’ and Deja Vu",
+    "link": "https://www.nytimes.com/2026/05/20/us/politics/trump-commencement-address-iran-coast-guard.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-21-00-55-07 +0000",
+    "source": "nypost",
+    "headline": "40-year-old Virginia cold case finally cracked after new DNA leads to arrest in library worker’s savage slaying",
+    "link": "https://nypost.com/2026/05/20/us-news/40-year-old-virginia-cold-case-finally-cracked-with-new-dna-findings/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-21-01-01-36 +0000",
+    "source": "nyt",
+    "headline": "Nimitz Aircraft Carrier Enters Caribbean as Trump Pressures Cuba",
+    "link": "https://www.nytimes.com/2026/05/20/us/politics/aircraft-carrier-caribbean-cuba-trump.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-21-00-58-33 +0000",
+    "source": "nyt",
+    "headline": "News of U.S. Indictment Slow to Reach Cubans Waiting for a Breakthrough",
+    "link": "https://www.nytimes.com/2026/05/20/world/americas/cuba-reaction-castro-indictment.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-21-01-24-56 +0000",
+    "source": "nyt",
+    "headline": "Ebola Outbreak Is Unlikely to Become Global Threat, W.H.O. Says",
+    "link": "https://www.nytimes.com/2026/05/20/world/africa/ebola-congo-tedros-rubio.html"
   }
 ]
