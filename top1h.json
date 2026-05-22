@@ -1,30 +1,72 @@
 [
   {
-    "score": 13,
-    "pubdate": "2026-05-22-20-19-49 +0000",
+    "score": 36,
+    "pubdate": "2026-05-22-21-47-15 +0000",
+    "source": "nyt",
+    "headline": "Judge Dismisses Criminal Case Against Kilmar Armando Abrego Garcia",
+    "link": "https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-05-22-21-30-47 +0000",
     "source": "nypost",
-    "headline": "Texas mom suing cops who arrested her for drawing attention to city’s ‘unsafe’ brown drinking water",
-    "link": "https://nypost.com/2026/05/22/us-news/texas-mom-suing-cops-who-arrested-her-for-drawing-attention-to-citys-unsafe-brown-drinking-water/"
+    "headline": "Trump admin announces green card applicants must leave US and apply from home country",
+    "link": "https://nypost.com/2026/05/22/us-news/trump-admin-announces-green-card-applicants-must-leave-us-apply-from-home-country/"
   },
   {
-    "score": 12,
-    "pubdate": "2026-05-22-20-21-31 +0000",
-    "source": "bbc",
-    "headline": "Tulsi Gabbard to resign as US director of national intelligence",
-    "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-05-22-20-23-00 +0000",
+    "score": 25,
+    "pubdate": "2026-05-22-21-27-00 +0000",
     "source": "wsj",
-    "headline": "Senior Walmart Executives Depart in Reshuffling Under New CEO",
-    "link": "https://www.wsj.com/business/retail/senior-walmart-executives-depart-in-reshuffling-under-new-ceo-af5b9b36?mod=pls_whats_news_us_business_f"
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-fd64e1cd?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 0,
-    "pubdate": "2026-05-22-20-21-31 +0000",
-    "source": "bbc",
-    "headline": "Tulsi Gabbard to resign as US director of national intelligence",
-    "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss"
+    "score": 23,
+    "pubdate": "2026-05-22-21-34-45 +0000",
+    "source": "nyt",
+    "headline": "Tulsi Gabbard Resigns as Director of National Intelligence. Trump Names Aaron Lukas Acting Chief.",
+    "link": "https://www.nytimes.com/2026/05/22/us/politics/tulsi-gabbard-resigns.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-22-21-24-50 +0000",
+    "source": "nyt",
+    "headline": "Waymo Suspends Service in Six Cities After Cars Drove Into Flooded Roads",
+    "link": "https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-22-21-22-40 +0000",
+    "source": "nyt",
+    "headline": "Kevin Warsh is Sworn in as Fed Chair Against Backdrop of Rising Inflation Threat",
+    "link": "https://www.nytimes.com/2026/05/22/us/politics/kevin-warsh-federal-reserve-swearing-in.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-05-22-21-27-29 +0000",
+    "source": "nyt",
+    "headline": "White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.",
+    "link": "https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-22-21-58-08 +0000",
+    "source": "nypost",
+    "headline": "New York’s most popular baby names trend towards ‘traditional’ as reaction to woke Mayor Mamdani: expert",
+    "link": "https://nypost.com/2026/05/22/us-news/new-yorks-most-popular-baby-names-trend-towards-traditional-as-reaction-to-woke-mayor-mamdani-expert/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-22-21-43-17 +0000",
+    "source": "nyt",
+    "headline": "Europeans Remain Wary After Trump Promises to Send Troops to Poland",
+    "link": "https://www.nytimes.com/2026/05/22/world/europe/poland-troops-trump.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-22-21-20-41 +0000",
+    "source": "nypost",
+    "headline": "California driver trapped behind Waymos for 1 hour makes frantic plea — as robotaxis ripped from freeways",
+    "link": "https://nypost.com/2026/05/22/us-news/california-driver-trapped-behind-waymos-for-1-hour-makes-frantic-plea-as-robotaxis-ripped-from-freeways/"
   }
 ]
