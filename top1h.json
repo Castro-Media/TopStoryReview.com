@@ -1,33 +1,5 @@
 [
   {
-    "score": 26,
-    "pubdate": "2026-05-22-15-17-17 +0000",
-    "source": "nypost",
-    "headline": "Rubio warns Iran against tolling system with Oman for Strait of Hormuz passage: ‘It can’t happen’",
-    "link": "https://nypost.com/2026/05/22/us-news/marco-rubio-warns-iran-against-tolling-system-with-oman-for-strait-of-hormuz-passage-it-cant-happen/"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-05-22-15-05-00 +0000",
-    "source": "wsj",
-    "headline": "Trump said he plans to send 5,000 troops to Poland, a move that is intended to reassure an ally",
-    "link": "https://www.wsj.com/politics/national-security/trump-says-poland-will-get-an-extra-5-000-u-s-troops-d71d6d6e"
-  },
-  {
-    "score": 25,
-    "pubdate": "2026-05-22-14-54-53 +0000",
-    "source": "nypost",
-    "headline": "DHS chief wants to halt customs processing at all airports in ‘sanctuary cities’ including NYC — and even Sean Duffy is pushing back",
-    "link": "https://nypost.com/2026/05/22/us-news/sean-duffy-airlines-bristle-at-dhs-chief-markwayne-mullins-pitch-to-pause-processing-at-sanctuary-city-airports/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-05-22-15-03-51 +0000",
-    "source": "bbc",
-    "headline": "UK scientists developing Ebola vaccine that could be ready for trials in months",
-    "link": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 18,
     "pubdate": "2026-05-22-15-44-05 +0000",
     "source": "nyt",
@@ -35,7 +7,7 @@
     "link": "https://www.nytimes.com/2026/05/22/us/politics/wasserman-schultz-redistricting.html"
   },
   {
-    "score": 16,
+    "score": 17,
     "pubdate": "2026-05-22-15-45-00 +0000",
     "source": "wsj",
     "headline": "This spring’s college grads are heading into a tough job market. For anyone without a bachelor’s degree, it’s even tougher",
@@ -43,30 +15,30 @@
   },
   {
     "score": 16,
-    "pubdate": "2026-05-22-15-20-55 +0000",
+    "pubdate": "2026-05-22-15-42-00 +0000",
     "source": "nyt",
-    "headline": "Warsh Takes Charge of Fed Facing Rising Inflation Threat",
-    "link": "https://www.nytimes.com/2026/05/22/us/politics/kevin-warsh-federal-reserve-swearing-in.html"
+    "headline": "Fact-Checking the Trump Administration’s Inaccurate Claims About the $1.8 Billion Fund",
+    "link": "https://www.nytimes.com/2026/05/22/us/politics/trump-fund-irs-fact-check.html"
   },
   {
-    "score": 15,
-    "pubdate": "2026-05-22-15-08-54 +0000",
-    "source": "nypost",
-    "headline": "Dow soars 300 points to an all-time high — first record hit since Iran war began",
-    "link": "https://nypost.com/2026/05/22/business/dow-soars-300-points-to-an-all-time-high-first-record-since-iran-war-began/"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-05-22-14-57-53 +0000",
-    "source": "cbc",
-    "headline": "Carney says Alberta plays 'essential' role in building Canada after premier announces referendum question",
-    "link": "https://www.cbc.ca/news/politics/alberta-referendum-carney-9.7208441?cmp=rss"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-05-22-15-06-00 +0000",
+    "score": 4,
+    "pubdate": "2026-05-22-15-45-00 +0000",
     "source": "wsj",
-    "headline": "Bank Boss Apologizes for ‘Lower-Value Human Capital’ Comment",
-    "link": "https://www.wsj.com/business/bank-boss-apologizes-for-lower-value-human-capital-comment-36f837d5?mod=pls_whats_news_us_business_f"
+    "headline": "New College Grads Confront a Tight Job Market but Still Have an Edge",
+    "link": "https://www.wsj.com/economy/jobs/young-college-graduate-job-market-dd0f8d6e"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-22-15-44-05 +0000",
+    "source": "nyt",
+    "headline": "Wasserman Schultz Will Run in Majority-Black District in South Florida",
+    "link": "https://www.nytimes.com/2026/05/22/us/politics/wasserman-schultz-redistricting.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-22-15-42-00 +0000",
+    "source": "nyt",
+    "headline": "Fact-Checking the Trump Administration’s Inaccurate Claims About the $1.8 Billion Fund",
+    "link": "https://www.nytimes.com/2026/05/22/us/politics/trump-fund-irs-fact-check.html"
   }
 ]
