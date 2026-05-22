@@ -1,62 +1,6 @@
 [
   {
-    "score": 34,
-    "pubdate": "2026-05-22-20-02-00 +0000",
-    "source": "wsj",
-    "headline": "Judge Dismisses Criminal Case Against Kilmar Abrego Garcia",
-    "link": "https://www.wsj.com/us-news/law/judge-dismisses-criminal-case-against-kilmar-abrego-garcia-50965808"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-05-22-20-09-09 +0000",
-    "source": "nyt",
-    "headline": "Waymo Suspends Service in Six Cities After Cars Drove Into Flooded Roads",
-    "link": "https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-05-22-19-40-14 +0000",
-    "source": "bbc",
-    "headline": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-    "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-05-22-20-12-12 +0000",
-    "source": "nyt",
-    "headline": "Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says",
-    "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-05-22-19-52-36 +0000",
-    "source": "nypost",
-    "headline": "Mamdani met with radical anti-Israel sheikh multiple times — after he praised Hamas’ attack for inspiring ‘great change’",
-    "link": "https://nypost.com/2026/05/22/us-news/mamdani-met-with-radical-anti-israel-sheikh-multiple-times-after-he-praised-hamas/"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-05-22-19-31-26 +0000",
-    "source": "latimes",
-    "headline": "California gets $27.5 million to find and replace toxic lead pipes that deliver water to homes",
-    "link": "https://www.latimes.com/california/story/2026-05-22/california-gets-27-5-million-to-find-replace-lead-pipes"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-05-22-20-21-31 +0000",
-    "source": "bbc",
-    "headline": "Tulsi Gabbard to resign as US director of national intelligence",
-    "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-05-22-19-33-22 +0000",
-    "source": "nyt",
-    "headline": "Regional Mediators Rush to Save U.S.-Iran Cease-Fire",
-    "link": "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html"
-  },
-  {
-    "score": 12,
+    "score": 13,
     "pubdate": "2026-05-22-20-19-49 +0000",
     "source": "nypost",
     "headline": "Texas mom suing cops who arrested her for drawing attention to city’s ‘unsafe’ brown drinking water",
@@ -64,9 +8,23 @@
   },
   {
     "score": 12,
-    "pubdate": "2026-05-22-20-12-28 +0000",
-    "source": "startribune",
-    "headline": "Minnesota’s push to curb social media harms for kids faces steep hurdles",
-    "link": "https://www.startribune.com/minnesotas-push-to-curb-social-media-harms-for-kids-faces-steep-hurdles/601845168"
+    "pubdate": "2026-05-22-20-21-31 +0000",
+    "source": "bbc",
+    "headline": "Tulsi Gabbard to resign as US director of national intelligence",
+    "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-22-20-23-00 +0000",
+    "source": "wsj",
+    "headline": "Senior Walmart Executives Depart in Reshuffling Under New CEO",
+    "link": "https://www.wsj.com/business/retail/senior-walmart-executives-depart-in-reshuffling-under-new-ceo-af5b9b36?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-22-20-21-31 +0000",
+    "source": "bbc",
+    "headline": "Tulsi Gabbard to resign as US director of national intelligence",
+    "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss"
   }
 ]
