@@ -1,31 +1,38 @@
 [
   {
-    "score": 176,
-    "pubdate": "2026-05-22-18-08-00 +0000",
+    "score": 198,
+    "pubdate": "2026-05-23-00-00-00 +0000",
     "source": "wsj",
-    "headline": "President Trump told his new Fed chair, Kevin Warsh, to ignore the political pressure during his swearing-in ceremony—and then the president laid out what he’d like to see",
-    "link": "https://www.wsj.com/economy/central-banking/key-moments-from-kevin-warshs-swearing-in-ceremony-26d987b5"
+    "headline": "For more than a year, Republican senators had largely been deferential to President Trump‘s wishes. This week, they revolted over a Trump endorsement and his $1.776 billion ‘anti-weaponization fund.’",
+    "link": "https://www.wsj.com/politics/policy/trump-republican-congress-control-98a13bd9"
   },
   {
-    "score": 76,
-    "pubdate": "2026-05-22-15-08-54 +0000",
-    "source": "nypost",
-    "headline": "Dow soars 300 points to an all-time high — first record hit since Iran war began",
-    "link": "https://nypost.com/2026/05/22/business/dow-soars-300-points-to-an-all-time-high-first-record-since-iran-war-began/"
-  },
-  {
-    "score": 75,
-    "pubdate": "2026-05-22-10-52-48 +0000",
-    "source": "nypost",
-    "headline": "Feds dramatically drop charges against Illinois anti-ICE activists – including ex-congressional candidate Kat Abughazaleh – amid grand jury misconduct claims",
-    "link": "https://nypost.com/2026/05/22/us-news/feds-drop-charges-against-illinois-anti-ice-activists-amid-grand-jury-misconduct-claims/"
-  },
-  {
-    "score": 69,
+    "score": 102,
     "pubdate": "2026-05-22-16-30-51 +0000",
     "source": "cbc",
     "headline": "No Ebola cases in Canada and no new hantavirus cases, chief public health officer says",
     "link": "https://www.cbc.ca/news/health/livestory/phac-public-health-agency-canada-ebola-hantavirus-9.7208488?cmp=rss"
+  },
+  {
+    "score": 78,
+    "pubdate": "2026-05-22-16-57-00 +0000",
+    "source": "wsj",
+    "headline": "Kevin Warsh is to be sworn in as Fed chair on Friday, and some investors say the central bank’s next move could be a rate hike—not the cut he was hired to deliver",
+    "link": "https://www.wsj.com/economy/central-banking/trump-fed-chair-warsh-interest-rates-fbd8664a"
+  },
+  {
+    "score": 77,
+    "pubdate": "2026-05-22-23-43-22 +0000",
+    "source": "nypost",
+    "headline": "Hunter Biden claims Israeli intelligence is behind corruption allegations against him and Joe",
+    "link": "https://nypost.com/2026/05/22/us-news/hunter-biden-claims-israeli-intelligence-is-behind-corruption-allegations-against-him-and-joe/"
+  },
+  {
+    "score": 72,
+    "pubdate": "2026-05-22-15-08-54 +0000",
+    "source": "nypost",
+    "headline": "Dow soars 300 points to an all-time high — first record hit since Iran war began",
+    "link": "https://nypost.com/2026/05/22/business/dow-soars-300-points-to-an-all-time-high-first-record-since-iran-war-began/"
   },
   {
     "score": 61,
@@ -35,38 +42,31 @@
     "link": "https://www.wsj.com/politics/policy/trump-administration-to-make-green-card-applicants-file-overseas-f1b492d2"
   },
   {
-    "score": 57,
-    "pubdate": "2026-05-22-20-50-05 +0000",
-    "source": "startribune",
-    "headline": "Tulsi Gabbard resigns as director of national intelligence, citing her husband's health",
-    "link": "https://www.startribune.com/tulsi-gabbard-resigns-as-director-of-national-intelligence-citing-her-husbands-health/601847975"
+    "score": 56,
+    "pubdate": "2026-05-22-23-06-58 +0000",
+    "source": "nypost",
+    "headline": "Trump touts GOP backed-tax cuts for New Yorkers, ‘Mr. SALT’ Mike Lawler in visit to key swing House district",
+    "link": "https://nypost.com/2026/05/22/us-news/trump-touts-gop-backed-tax-cuts-for-new-yorkers-mr-salt-mike-lawler/"
   },
   {
     "score": 50,
-    "pubdate": "2026-05-22-16-37-12 +0000",
-    "source": "latimes",
-    "headline": "A frantic two hours as police struggled to assess threat before San Diego shooters opened fire",
-    "link": "https://www.latimes.com/california/story/2026-05-22/la-me-san-diego-attack-final-hours-police"
+    "pubdate": "2026-05-22-09-02-02 +0000",
+    "source": "nyt",
+    "headline": "Before Europe Anoints Someone to Talk to Putin, It Debates What to Talk About",
+    "link": "https://www.nytimes.com/2026/05/22/world/europe/ukraine-russia-putin-europe-peace-talks.html"
   },
   {
-    "score": 50,
-    "pubdate": "2026-05-22-21-47-15 +0000",
-    "source": "nyt",
-    "headline": "Judge Dismisses Criminal Case Against Kilmar Armando Abrego Garcia",
-    "link": "https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html"
+    "score": 49,
+    "pubdate": "2026-05-22-17-14-22 +0000",
+    "source": "nypost",
+    "headline": "Tulsi Gabbard resigns as director of national intelligence, citing husband’s cancer diagnosis",
+    "link": "https://nypost.com/2026/05/22/us-news/tulsi-gabbard-resigns-as-director-of-national-intelligence/"
   },
   {
-    "score": 48,
-    "pubdate": "2026-05-22-21-27-29 +0000",
-    "source": "nyt",
-    "headline": "White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.",
-    "link": "https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html"
-  },
-  {
-    "score": 47,
-    "pubdate": "2026-05-22-14-50-10 +0000",
-    "source": "nyt",
-    "headline": "Cuba Celebrates Raúl Castro After the U.S. Accuses Him of Murder",
-    "link": "https://www.nytimes.com/2026/05/21/world/americas/cuba-raul-castro-murder-indictment.html"
+    "score": 45,
+    "pubdate": "2026-05-22-17-13-00 +0000",
+    "source": "wsj",
+    "headline": "China and Russia have in recent years expanded their intelligence operations in Cuba, investing in facilities used to spy on U.S. military sites in Florida, according to officials",
+    "link": "https://www.wsj.com/politics/national-security/u-s-warns-of-growing-russian-and-chinese-spying-in-cuba-a99059dd"
   }
 ]
