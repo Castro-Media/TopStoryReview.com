@@ -1,24 +1,17 @@
 [
   {
-    "score": 201,
+    "score": 197,
     "pubdate": "2026-05-23-00-00-00 +0000",
     "source": "wsj",
     "headline": "For more than a year, Republican senators had largely been deferential to President Trump‘s wishes. This week, they revolted over a Trump endorsement and his $1.776 billion ‘anti-weaponization fund.’",
     "link": "https://www.wsj.com/politics/policy/trump-republican-congress-control-98a13bd9"
   },
   {
-    "score": 91,
+    "score": 87,
     "pubdate": "2026-05-22-18-08-00 +0000",
     "source": "wsj",
     "headline": "President Trump told his new Fed chair, Kevin Warsh, to ignore the political pressure during his swearing-in ceremony—and then the president laid out what he’d like to see",
     "link": "https://www.wsj.com/economy/central-banking/key-moments-from-kevin-warshs-swearing-in-ceremony-26d987b5"
-  },
-  {
-    "score": 72,
-    "pubdate": "2026-05-23-10-44-38 +0000",
-    "source": "nyt",
-    "headline": "White House Tells Congo’s Soccer Team to Isolate, Citing Ebola Outbreak",
-    "link": "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html"
   },
   {
     "score": 70,
@@ -28,14 +21,21 @@
     "link": "https://www.wsj.com/politics/tulsi-gabbard-is-preparing-to-resign-as-u-s-intelligence-chief-2d6b2951"
   },
   {
-    "score": 63,
+    "score": 69,
+    "pubdate": "2026-05-23-10-44-38 +0000",
+    "source": "nyt",
+    "headline": "White House Tells Congo’s Soccer Team to Isolate, Citing Ebola Outbreak",
+    "link": "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html"
+  },
+  {
+    "score": 61,
     "pubdate": "2026-05-22-15-17-17 +0000",
     "source": "nypost",
     "headline": "Rubio warns Iran against ‘unacceptable’ tolling system with Oman for Strait of Hormuz passage — signals ‘Plan B’ in the works",
     "link": "https://nypost.com/2026/05/22/us-news/marco-rubio-warns-iran-against-tolling-system-with-oman-for-strait-of-hormuz-passage-it-cant-happen/"
   },
   {
-    "score": 62,
+    "score": 60,
     "pubdate": "2026-05-23-13-43-24 +0000",
     "source": "nyt",
     "headline": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 90 in China",
@@ -50,23 +50,23 @@
   },
   {
     "score": 44,
-    "pubdate": "2026-05-23-12-33-57 +0000",
-    "source": "nypost",
-    "headline": "NYC Rep Nicole Malliotakis calls on US military to grab Raúl Castro and drag him to justice — just like Maduro",
-    "link": "https://nypost.com/2026/05/23/world-news/staten-island-rep-calls-on-us-military-to-grab-raul-castro-and-drag-him-to-justice-just-like-maduro/"
-  },
-  {
-    "score": 44,
-    "pubdate": "2026-05-22-16-30-51 +0000",
-    "source": "cbc",
-    "headline": "No Ebola cases in Canada and no new hantavirus cases, chief public health officer says",
-    "link": "https://www.cbc.ca/news/health/livestory/phac-public-health-agency-canada-ebola-hantavirus-9.7208488?cmp=rss"
-  },
-  {
-    "score": 44,
     "pubdate": "2026-05-23-13-41-34 +0000",
     "source": "nyt",
     "headline": "Before Europe Anoints Someone to Talk to Putin, It Debates What to Talk About",
     "link": "https://www.nytimes.com/2026/05/22/world/europe/ukraine-russia-putin-europe-peace-talks.html"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-05-22-21-47-15 +0000",
+    "source": "nyt",
+    "headline": "Judge Dismisses Criminal Case Against Kilmar Armando Abrego Garcia",
+    "link": "https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-05-23-12-49-12 +0000",
+    "source": "nypost",
+    "headline": "Trump posts AI-generated video of himself throwing Stephen Colbert into dumpster after final ‘Late Night Show’ episode",
+    "link": "https://nypost.com/2026/05/23/us-news/trump-shows-where-he-wants-to-shove-colbert-with-ai-generated-dumpster-slam/"
   }
 ]
