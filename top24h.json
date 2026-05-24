@@ -1,6 +1,6 @@
 [
   {
-    "score": 133,
+    "score": 131,
     "pubdate": "2026-05-23-16-05-30 +0000",
     "source": "nypost",
     "headline": "Trump says he’s a ‘solid 50/50’ on Iran as he weighs peace deal — warns he may blast regime ‘to kingdom come’",
@@ -35,7 +35,7 @@
     "link": "https://www.cbc.ca/news/world/chemical-tank-overheat-offensive-9.7210073?cmp=rss"
   },
   {
-    "score": 45,
+    "score": 44,
     "pubdate": "2026-05-23-23-24-03 +0000",
     "source": "bbc",
     "headline": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
@@ -47,13 +47,6 @@
     "source": "latimes",
     "headline": "Lopez: Spencer Pratt, please call me. You don't know what you're getting yourself into",
     "link": "https://www.latimes.com/california/story/2026-05-23/la-mayoral-hopeful-spencer-pratt-is-making-big-splash-but-can-he-swim"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-05-23-08-14-10 +0000",
-    "source": "bbc",
-    "headline": "DR Congo players told to isolate before World Cup",
-    "link": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 35,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Empty streets and packed shelters across Orange County as thousands wait for toxic leak to end",
     "link": "https://nypost.com/2026/05/23/us-news/empty-streets-and-packed-shelters-across-orange-county-as-thousands-wait-for-toxic-leak-to-end/"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-05-23-19-55-16 +0000",
+    "source": "bbc",
+    "headline": "Red Cross volunteers die from suspected Ebola in DR Congo",
+    "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss"
   }
 ]
