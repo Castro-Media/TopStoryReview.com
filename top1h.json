@@ -1,59 +1,24 @@
 [
   {
-    "score": 37,
+    "score": 27,
     "pubdate": "2026-05-24-11-14-29 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: U.S. and Iran Signal Move Toward Initial Peace Deal, but Details Remain Murky",
     "link": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump"
   },
   {
-    "score": 22,
-    "pubdate": "2026-05-24-10-52-46 +0000",
-    "source": "bbc",
-    "headline": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-    "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-05-24-10-38-16 +0000",
-    "source": "nyt",
-    "headline": "How a Curious FIFA Deal Gave Fox a Huge Bargain for World Cup Broadcast Rights",
-    "link": "https://www.nytimes.com/2026/05/24/world/europe/fifa-world-cup-fox-broadcast-rights.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-05-24-11-00-00 +0000",
-    "source": "wsj",
-    "headline": "Fernando De Leon Turned $100,000 Into a Billion-Dollar Empire. His Mantra? Be Frugal.",
-    "link": "https://www.wsj.com/business/leon-capital-group-fernando-de-leon-wsj-money-interview-bdb2218c?mod=rss_markets_main"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-05-24-11-09-54 +0000",
-    "source": "bbc",
-    "headline": "Red Cross volunteers die from suspected Ebola in DR Congo",
-    "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 13,
+    "score": 11,
     "pubdate": "2026-05-24-11-12-17 +0000",
     "source": "nyt",
     "headline": "Israeli Leaders Say Little About Trump’s Potential Iran Deal",
     "link": "https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html"
   },
   {
-    "score": 12,
-    "pubdate": "2026-05-24-10-21-58 +0000",
-    "source": "bbc",
-    "headline": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
-    "link": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 7,
-    "pubdate": "2026-05-24-10-34-52 +0000",
-    "source": "bbc",
-    "headline": "BBC at the site of China's worst mining disaster in more than a decade",
-    "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-05-24-11-12-00 +0000",
+    "source": "wsj",
+    "headline": "Kyiv Suffers One of Ukraine War’s Heaviest Russian Barrages",
+    "link": "https://www.wsj.com/world/kyiv-suffers-one-of-ukraine-wars-heaviest-russian-barrages-37a191d9"
   },
   {
     "score": 6,
@@ -63,10 +28,17 @@
     "link": "https://www.nytimes.com/2026/05/24/us/ivf-embryos-custody.html"
   },
   {
-    "score": 5,
-    "pubdate": "2026-05-24-11-12-00 +0000",
+    "score": 4,
+    "pubdate": "2026-05-24-11-14-00 +0000",
     "source": "wsj",
-    "headline": "Kyiv Suffers One of Ukraine War’s Heaviest Russian Barrages",
-    "link": "https://www.wsj.com/world/kyiv-suffers-one-of-ukraine-wars-heaviest-russian-barrages-37a191d9"
+    "headline": "Trump Says a Deal for Talks With Iran to End War Is Near Finalization",
+    "link": "https://www.wsj.com/world/middle-east/trump-announces-near-finalization-of-deal-to-end-iran-war-8244e2f6"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-24-11-12-17 +0000",
+    "source": "nyt",
+    "headline": "Israeli Leaders Say Little About Trump’s Potential Iran Deal",
+    "link": "https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html"
   }
 ]
