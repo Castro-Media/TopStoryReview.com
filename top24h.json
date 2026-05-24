@@ -14,18 +14,11 @@
     "link": "https://nypost.com/2026/05/23/us-news/white-house-on-lockdown-after-dozens-of-shots-fired/"
   },
   {
-    "score": 66,
+    "score": 63,
     "pubdate": "2026-05-23-20-45-32 +0000",
     "source": "nyt",
     "headline": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
     "link": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-05-23-22-14-35 +0000",
-    "source": "nypost",
-    "headline": "Ukraine bracing for ‘significant air attack’ from Russian hypersonic missiles — day after Putin orders military to prep retaliations options",
-    "link": "https://nypost.com/2026/05/23/world-news/ukraine-bracing-for-significant-air-attack-from-russian-hypersonic-missiles/"
   },
   {
     "score": 53,
@@ -35,21 +28,28 @@
     "link": "https://www.wsj.com/politics/elections/texas-senate-race-trump-d8a54348"
   },
   {
-    "score": 43,
+    "score": 53,
+    "pubdate": "2026-05-24-13-02-02 +0000",
+    "source": "bbc",
+    "headline": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+    "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 42,
     "pubdate": "2026-05-23-21-36-13 +0000",
     "source": "cbc",
     "headline": "California governor declares state of emergency due to overheating chemical tank",
     "link": "https://www.cbc.ca/news/world/chemical-tank-overheat-offensive-9.7210073?cmp=rss"
   },
   {
-    "score": 39,
-    "pubdate": "2026-05-24-12-56-43 +0000",
-    "source": "nyt",
-    "headline": "Rubio Says U.S.-India Ties Are Strong, Despite Fury Over Trump’s Actions",
-    "link": "https://www.nytimes.com/2026/05/24/us/politics/rubio-india-trump-visit.html"
+    "score": 37,
+    "pubdate": "2026-05-24-03-38-18 +0000",
+    "source": "nypost",
+    "headline": "Timeline of Iran war from strikes that killed Ayatollah Khamenei to deal that capped day of frenzied negotiations",
+    "link": "https://nypost.com/2026/05/23/world-news/timeline-of-iran-war-from-strikes-that-killed-ayatollah-ali-khamenei-to-negotiated-deal/"
   },
   {
-    "score": 36,
+    "score": 35,
     "pubdate": "2026-05-23-14-44-00 +0000",
     "source": "wsj",
     "headline": "For more than a year, Republican senators had largely been deferential to President Trump‘s wishes. This week, they revolted over a Trump endorsement and his $1.776 billion “anti-weaponization fund.”",
@@ -57,16 +57,16 @@
   },
   {
     "score": 34,
-    "pubdate": "2026-05-23-15-00-47 +0000",
-    "source": "nypost",
-    "headline": "Hakeem Jeffries’ re-election bid boosted by ‘sick’ NYC Dems running ‘beloved’ dead community leader on same ticket: critics",
-    "link": "https://nypost.com/2026/05/23/us-news/hakeem-jeffries-re-election-bid-boosted-by-sick-brooklyn-dems-running-beloved-dead-community-leader-on-same-ticket-critics/"
+    "pubdate": "2026-05-24-12-56-43 +0000",
+    "source": "nyt",
+    "headline": "Rubio Says U.S.-India Ties Are Strong, Despite Fury Over Trump’s Actions",
+    "link": "https://www.nytimes.com/2026/05/24/us/politics/rubio-india-trump-visit.html"
   },
   {
-    "score": 33,
-    "pubdate": "2026-05-24-03-38-18 +0000",
-    "source": "nypost",
-    "headline": "Timeline of Iran war from strikes that killed Ayatollah Khamenei to deal that capped day of frenzied negotiations",
-    "link": "https://nypost.com/2026/05/23/world-news/timeline-of-iran-war-from-strikes-that-killed-ayatollah-ali-khamenei-to-negotiated-deal/"
+    "score": 30,
+    "pubdate": "2026-05-23-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "As cities race to control surging healthcare costs, many point to expenses related to the use of weight-loss drugs",
+    "link": "https://www.wsj.com/us-news/u-s-towns-paid-for-teachers-and-cops-to-use-weight-loss-drugs-it-broke-the-bank-3c46ec87"
   }
 ]
