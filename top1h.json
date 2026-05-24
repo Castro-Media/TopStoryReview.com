@@ -1,72 +1,58 @@
 [
   {
-    "score": 36,
-    "pubdate": "2026-05-24-12-56-43 +0000",
-    "source": "nyt",
-    "headline": "Rubio Says U.S.-India Ties Are Strong, Despite Fury Over Trump’s Actions",
-    "link": "https://www.nytimes.com/2026/05/24/us/politics/rubio-india-trump-visit.html"
-  },
-  {
-    "score": 25,
-    "pubdate": "2026-05-24-13-05-45 +0000",
+    "score": 30,
+    "pubdate": "2026-05-24-14-11-09 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: U.S. and Iran Signal Move Toward Initial Peace Deal, but Details Remain Murky",
     "link": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump"
   },
   {
-    "score": 25,
-    "pubdate": "2026-05-24-13-02-02 +0000",
-    "source": "bbc",
-    "headline": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-    "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-05-24-13-06-35 +0000",
-    "source": "nyt",
-    "headline": "At Least 14 Killed in Bombing Attack That Derailed a Train in Pakistan",
-    "link": "https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-05-24-12-34-40 +0000",
+    "score": 17,
+    "pubdate": "2026-05-24-13-24-25 +0000",
     "source": "nypost",
-    "headline": "Doug McCain, the oldest son of Sen. John McCain, dead at 66",
-    "link": "https://nypost.com/2026/05/24/us-news/doug-mccain-the-oldest-son-of-sen-john-mccain-dead-at-66/"
+    "headline": "Deranged Luigi Mangione fangirl says she would kill her own pharmacist mom if she became a healthcare exec",
+    "link": "https://nypost.com/2026/05/24/us-news/luigi-mangione-fangirl-says-she-would-kill-her-own-pharmacist-mom-if-she-became-healthcare-exec/"
   },
   {
-    "score": 8,
-    "pubdate": "2026-05-24-13-05-44 +0000",
+    "score": 16,
+    "pubdate": "2026-05-24-14-10-12 +0000",
+    "source": "bbc",
+    "headline": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
+    "link": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-24-14-09-44 +0000",
     "source": "nyt",
     "headline": "Iran Projects Victory in Potential Deal With Washington",
-    "link": "https://www.nytimes.com/2026/05/24/world/europe/iran-projects-victory-in-potential-deal-with-washington.html"
+    "link": "https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html"
   },
   {
-    "score": 8,
-    "pubdate": "2026-05-24-12-51-27 +0000",
-    "source": "wapo",
-    "headline": "Russia’s overnight barrage on Ukraine includes use of powerful Oreshnik missile",
-    "link": "https://www.washingtonpost.com/world/2026/05/24/russian-attack-kills-4-ukraine-uses-oreshnik-missile/"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-05-24-13-13-58 +0000",
-    "source": "nyt",
-    "headline": "How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency",
-    "link": "https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-05-24-13-00-00 +0000",
-    "source": "wsj",
-    "headline": "It’s China’s Answer to a Rolls-Royce—and It’s Stuffed With Gadgets",
-    "link": "https://www.wsj.com/business/autos/its-chinas-answer-to-a-rolls-royceand-its-stuffed-with-gadgets-ef27bdf9?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-05-24-12-26-09 +0000",
+    "score": 0,
+    "pubdate": "2026-05-24-14-10-12 +0000",
     "source": "bbc",
-    "headline": "Blast targeting train kills at least 20 in Pakistan",
-    "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss"
+    "headline": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
+    "link": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-24-14-09-44 +0000",
+    "source": "nyt",
+    "headline": "Iran Projects Victory in Potential Deal With Washington",
+    "link": "https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-24-13-42-58 +0000",
+    "source": "nyt",
+    "headline": "What to Know About the Potential U.S.-Iran Peace Deal",
+    "link": "https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-24-13-42-58 +0000",
+    "source": "nyt",
+    "headline": "What to Know About the Potential U.S.-Iran Peace Deal",
+    "link": "https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html"
   }
 ]
