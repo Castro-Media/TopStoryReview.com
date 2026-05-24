@@ -1,13 +1,13 @@
 [
   {
-    "score": 132,
+    "score": 133,
     "pubdate": "2026-05-23-16-05-30 +0000",
     "source": "nypost",
     "headline": "Trump says he’s a ‘solid 50/50’ on Iran as he weighs peace deal — warns he may blast regime ‘to kingdom come’",
     "link": "https://nypost.com/2026/05/23/us-news/trump-a-solid-50-50-on-iran-as-he-weighs-peace-deal-but-he-may-blast-them-to-kingdom-come/"
   },
   {
-    "score": 85,
+    "score": 88,
     "pubdate": "2026-05-24-05-13-11 +0000",
     "source": "nyt",
     "headline": "Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service",
@@ -21,6 +21,13 @@
     "link": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
   },
   {
+    "score": 49,
+    "pubdate": "2026-05-23-22-14-35 +0000",
+    "source": "nypost",
+    "headline": "Ukraine bracing for ‘significant air attack’ from Russian hypersonic missiles — day after Putin orders military to prep retaliations options",
+    "link": "https://nypost.com/2026/05/23/world-news/ukraine-bracing-for-significant-air-attack-from-russian-hypersonic-missiles/"
+  },
+  {
     "score": 47,
     "pubdate": "2026-05-23-21-36-13 +0000",
     "source": "cbc",
@@ -28,18 +35,11 @@
     "link": "https://www.cbc.ca/news/world/chemical-tank-overheat-offensive-9.7210073?cmp=rss"
   },
   {
-    "score": 44,
+    "score": 45,
     "pubdate": "2026-05-23-23-24-03 +0000",
     "source": "bbc",
     "headline": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
     "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-05-23-22-14-35 +0000",
-    "source": "nypost",
-    "headline": "Ukraine bracing for ‘significant air attack’ from Russian hypersonic missiles — day after Putin orders military to prep retaliations options",
-    "link": "https://nypost.com/2026/05/23/world-news/ukraine-bracing-for-significant-air-attack-from-russian-hypersonic-missiles/"
   },
   {
     "score": 41,
@@ -47,13 +47,6 @@
     "source": "latimes",
     "headline": "Lopez: Spencer Pratt, please call me. You don't know what you're getting yourself into",
     "link": "https://www.latimes.com/california/story/2026-05-23/la-mayoral-hopeful-spencer-pratt-is-making-big-splash-but-can-he-swim"
-  },
-  {
-    "score": 40,
-    "pubdate": "2026-05-23-11-46-38 +0000",
-    "source": "nypost",
-    "headline": "Dead Maldives divers were just minutes away from reaching surface as tragic new details emerge",
-    "link": "https://nypost.com/2026/05/23/world-news/maldives-divers-were-just-minutes-away-from-reaching-surface-as-tragic-new-details-emerge/"
   },
   {
     "score": 36,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Rubio meets Modi during India visit with energy high on agenda",
     "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-05-23-23-48-58 +0000",
+    "source": "nypost",
+    "headline": "Empty streets and packed shelters across Orange County as thousands wait for toxic leak to end",
+    "link": "https://nypost.com/2026/05/23/us-news/empty-streets-and-packed-shelters-across-orange-county-as-thousands-wait-for-toxic-leak-to-end/"
   }
 ]
