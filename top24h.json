@@ -1,52 +1,38 @@
 [
   {
-    "score": 123,
-    "pubdate": "2026-05-23-14-44-00 +0000",
-    "source": "wsj",
-    "headline": "For more than a year, Republican senators had largely been deferential to President Trump‘s wishes. This week, they revolted over a Trump endorsement and his $1.776 billion “anti-weaponization fund.”",
-    "link": "https://www.wsj.com/politics/policy/trump-republican-congress-control-98a13bd9"
-  },
-  {
-    "score": 81,
+    "score": 119,
     "pubdate": "2026-05-23-16-05-30 +0000",
     "source": "nypost",
     "headline": "Trump says he’s a ‘solid 50/50’ on Iran as he weighs peace deal — warns he may blast regime ‘to kingdom come’",
     "link": "https://nypost.com/2026/05/23/us-news/trump-a-solid-50-50-on-iran-as-he-weighs-peace-deal-but-he-may-blast-them-to-kingdom-come/"
   },
   {
-    "score": 67,
+    "score": 68,
     "pubdate": "2026-05-23-20-07-01 +0000",
     "source": "bbc",
     "headline": "California declares state of emergency as fire crews race to contain toxic chemical leak",
     "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 67,
+    "score": 66,
     "pubdate": "2026-05-23-20-45-31 +0000",
     "source": "nyt",
     "headline": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
     "link": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
   },
   {
-    "score": 57,
-    "pubdate": "2026-05-23-01-35-27 +0000",
+    "score": 62,
+    "pubdate": "2026-05-23-10-44-38 +0000",
     "source": "nyt",
-    "headline": "Mob Burns Congo Ebola Center Amid Rare Strain Outbreak",
-    "link": "https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html"
+    "headline": "White House Tells Congo’s Soccer Team to Isolate, Citing Ebola Outbreak",
+    "link": "https://www.nytimes.com/2026/05/23/world/africa/congo-soccer-ebola-world-cup.html"
   },
   {
-    "score": 46,
+    "score": 44,
     "pubdate": "2026-05-23-11-46-38 +0000",
     "source": "nypost",
     "headline": "Dead Maldives divers were just minutes away from reaching surface as tragic new details emerge",
     "link": "https://nypost.com/2026/05/23/world-news/maldives-divers-were-just-minutes-away-from-reaching-surface-as-tragic-new-details-emerge/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-05-22-22-47-45 +0000",
-    "source": "cbc",
-    "headline": "911 audio reveals NASCAR's Kyle Busch was short of breath, coughing up blood day before death",
-    "link": "https://www.cbc.ca/sports/kyle-busch-death-follow-up-911-call-nascar-9.7209600?cmp=rss"
   },
   {
     "score": 40,
@@ -56,17 +42,31 @@
     "link": "https://nypost.com/2026/05/23/us-news/blakeman-courts-deep-pocketed-ny-elite-at-hamptons-power-breakfast/"
   },
   {
-    "score": 38,
+    "score": 40,
     "pubdate": "2026-05-23-12-00-00 +0000",
     "source": "latimes",
     "headline": "Lopez: Spencer Pratt, please call me. You don't know what you're getting yourself into",
     "link": "https://www.latimes.com/california/story/2026-05-23/la-mayoral-hopeful-spencer-pratt-is-making-big-splash-but-can-he-swim"
   },
   {
-    "score": 38,
+    "score": 37,
     "pubdate": "2026-05-23-11-55-39 +0000",
     "source": "bbc",
     "headline": "Rubio meets Modi during India visit with energy high on agenda",
     "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-05-23-14-44-00 +0000",
+    "source": "wsj",
+    "headline": "For more than a year, Republican senators had largely been deferential to President Trump‘s wishes. This week, they revolted over a Trump endorsement and his $1.776 billion “anti-weaponization fund.”",
+    "link": "https://www.wsj.com/politics/policy/trump-republican-congress-control-98a13bd9"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-05-23-17-25-54 +0000",
+    "source": "nypost",
+    "headline": "Gas prices near historic highs as Memorial Day travelers prepare to hit the road",
+    "link": "https://nypost.com/2026/05/23/business/gas-prices-near-historic-highs-as-memorial-day-travelers-prepare-to-hit-the-road/"
   }
 ]
