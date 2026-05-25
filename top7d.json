@@ -1,6 +1,6 @@
 [
   {
-    "score": 453,
+    "score": 452,
     "pubdate": "2026-05-24-11-57-13 +0000",
     "source": "nypost",
     "headline": "Trump says Iran peace deal is near ‘finalization’ — here’s how it would reopen the Strait of Hormuz and deal with the nuclear issue",
@@ -29,17 +29,17 @@
   },
   {
     "score": 109,
+    "pubdate": "2026-05-23-20-45-32 +0000",
+    "source": "nyt",
+    "headline": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China",
+    "link": "https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html"
+  },
+  {
+    "score": 109,
     "pubdate": "2026-05-20-04-45-00 +0000",
     "source": "wsj",
     "headline": "A Georgia congressman and a former college football coach will meet in a runoff next month after neither captured 50% of the vote in the GOP Senate primary Tuesday to challenge Democrat Jon Ossoff for his Senate seat",
     "link": "https://www.wsj.com/politics/elections/georgias-gop-senate-primary-goes-to-a-runoff-in-fight-to-unseat-jon-ossoff-fc6af4f5"
-  },
-  {
-    "score": 109,
-    "pubdate": "2026-05-22-17-13-00 +0000",
-    "source": "wsj",
-    "headline": "China and Russia have in recent years expanded their intelligence operations in Cuba, investing in facilities used to spy on U.S. military sites in Florida, according to officials",
-    "link": "https://www.wsj.com/politics/national-security/u-s-warns-of-growing-russian-and-chinese-spying-in-cuba-a99059dd"
   },
   {
     "score": 99,
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2026/05/24/us-news/trump-admin-declares-no-dust-no-dollars-for-iran-islamic-republic-must-give-up-nuclear-material/"
   },
   {
-    "score": 91,
-    "pubdate": "2026-05-24-22-56-21 +0000",
-    "source": "latimes",
-    "headline": "Potential crack found on Garden Grove chemical tank, reducing explosion risk",
-    "link": "https://www.latimes.com/california/story/2026-05-24/garden-grove-chemical-tank-crack-reduces-explosion-risk"
-  },
-  {
     "score": 90,
     "pubdate": "2026-05-24-09-00-00 +0000",
     "source": "wsj",
     "headline": "Texas Sen. John Cornyn’s primary runoff against firebrand state Attorney General Ken Paxton this week is being closely watched as a barometer of the Republican Party’s future in Texas and the country",
     "link": "https://www.wsj.com/politics/elections/texas-senate-race-trump-d8a54348"
+  },
+  {
+    "score": 86,
+    "pubdate": "2026-05-25-20-00-49 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Negotiations to End the War Resume in Qatar",
+    "link": "https://www.nytimes.com/live/2026/05/25/world/iran-war-trump"
   }
 ]
