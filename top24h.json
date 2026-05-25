@@ -1,6 +1,6 @@
 [
   {
-    "score": 151,
+    "score": 148,
     "pubdate": "2026-05-25-09-55-01 +0000",
     "source": "cbc",
     "headline": "Trump demands Arab countries sign Abraham Accords with Israel as part of deal to end Iran war",
@@ -15,17 +15,17 @@
   },
   {
     "score": 53,
+    "pubdate": "2026-05-25-02-32-08 +0000",
+    "source": "nyt",
+    "headline": "Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service",
+    "link": "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html"
+  },
+  {
+    "score": 52,
     "pubdate": "2026-05-24-21-02-08 +0000",
     "source": "bbc",
     "headline": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
     "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-05-25-15-45-27 +0000",
-    "source": "bbc",
-    "headline": "White House gunman had previous run-ins with Secret Service, court documents show",
-    "link": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 47,
@@ -35,11 +35,11 @@
     "link": "https://nypost.com/2026/05/25/us-news/spencer-pratt-uses-stencil-pressure-washer-on-las-dirty-streets/"
   },
   {
-    "score": 46,
-    "pubdate": "2026-05-25-11-23-36 +0000",
-    "source": "cbc",
-    "headline": "Pope Leo warns that AI challenges must be confronted with regulation, transparency in his 1st encyclical",
-    "link": "https://www.cbc.ca/news/world/pope-leo-magnifica-humanitas-encylical-9.7210842?cmp=rss"
+    "score": 45,
+    "pubdate": "2026-05-25-11-01-39 +0000",
+    "source": "nypost",
+    "headline": "Pope Leo calls for robust regulation of AI, pondering the future of humanity in first encyclical",
+    "link": "https://nypost.com/2026/05/25/world-news/pope-leo-xiv-calls-for-robust-regulation-of-ai-in-manifesto-that-ponders-the-future-of-humanity/"
   },
   {
     "score": 43,
@@ -50,10 +50,10 @@
   },
   {
     "score": 41,
-    "pubdate": "2026-05-25-09-01-55 +0000",
-    "source": "nyt",
-    "headline": "He Name-Drops Ocasio-Cortez in His Bid for Congress. She Doesn’t Talk About Him at All.",
-    "link": "https://www.nytimes.com/2026/05/25/us/politics/saikat-chakrabarti-aoc-sf-pelosi-seat.html"
+    "pubdate": "2026-05-25-11-32-23 +0000",
+    "source": "nypost",
+    "headline": "Rep. Ilhan Omar shrugs off Nancy Mace bill to ban her, other foreign-born pols from Congress",
+    "link": "https://nypost.com/2026/05/25/us-news/omar-confronted-on-camera-over-gop-proposal-targeting-foreign-born-lawmakers-good-luck-to-her/"
   },
   {
     "score": 40,
@@ -64,9 +64,9 @@
   },
   {
     "score": 37,
-    "pubdate": "2026-05-25-11-32-23 +0000",
+    "pubdate": "2026-05-24-20-05-50 +0000",
     "source": "nypost",
-    "headline": "Rep. Ilhan Omar shrugs off Nancy Mace bill to ban her, other foreign-born pols from Congress",
-    "link": "https://nypost.com/2026/05/25/us-news/omar-confronted-on-camera-over-gop-proposal-targeting-foreign-born-lawmakers-good-luck-to-her/"
+    "headline": "Trump admin declares ‘no dust, no dollars’ for Iran — Islamic Republic must give up nuclear material before sanctions relief",
+    "link": "https://nypost.com/2026/05/24/us-news/trump-admin-declares-no-dust-no-dollars-for-iran-islamic-republic-must-give-up-nuclear-material/"
   }
 ]
