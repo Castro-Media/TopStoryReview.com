@@ -1,72 +1,58 @@
 [
   {
-    "score": 38,
-    "pubdate": "2026-05-25-04-03-51 +0000",
-    "source": "nyt",
-    "headline": "Rubio Says U.S.-India Ties Are Strong, Despite Fury Over Trump’s Actions",
-    "link": "https://www.nytimes.com/2026/05/24/us/politics/rubio-india-trump-visit.html"
-  },
-  {
-    "score": 27,
-    "pubdate": "2026-05-25-04-13-20 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: U.S.-Iran Peace Deal Nearer, But Could Take Days to Nail Down, U.S. Official Says",
-    "link": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-05-25-03-48-45 +0000",
-    "source": "nyt",
-    "headline": "Can Concrete Molds Revive Coral Reefs Ruined by Bombs and Climate Change?",
-    "link": "https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-05-25-04-01-10 +0000",
-    "source": "nyt",
-    "headline": "$140,000 E.V.s and Heritage Gold: The Rise of China’s Homegrown Luxury Market",
-    "link": "https://www.nytimes.com/2026/05/25/business/chinese-luxury-brands.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-05-25-04-01-17 +0000",
-    "source": "nyt",
-    "headline": "How Wine, Truffles and Honey Could Help Europe Fight Wildfires",
-    "link": "https://www.nytimes.com/2026/05/25/world/europe/wine-truffles-firefighting-climate-change.html"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-05-25-03-53-35 +0000",
-    "source": "nypost",
-    "headline": "Texas preschool teacher allegedly pointed gun at driver during road-rage confrontation",
-    "link": "https://nypost.com/2026/05/24/us-news/texas-preschool-teacher-allegedly-pointed-gun-at-driver-during-road-rage-confrontation/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-05-25-03-40-49 +0000",
-    "source": "latimes",
-    "headline": "Failing Orange County chemical tank rises to 100 degrees — the maximum temperature on the gauge",
-    "link": "https://www.latimes.com/california/story/2026-05-24/failing-orange-county-chemical-tank-rises-to-100-degrees-maximum-temperature-on-gauge"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-05-25-04-01-05 +0000",
-    "source": "nyt",
-    "headline": "Pope Leo Is Set to Release an Encyclical About A.I. Why Is That Important?",
-    "link": "https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical-ai.html"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-05-25-03-38-25 +0000",
+    "score": 24,
+    "pubdate": "2026-05-25-06-01-59 +0000",
     "source": "bbc",
     "headline": "Oil prices slide on hopes of US-Iran peace deal",
     "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 7,
-    "pubdate": "2026-05-25-04-13-18 +0000",
+    "score": 10,
+    "pubdate": "2026-05-25-06-09-36 +0000",
+    "source": "nypost",
+    "headline": "Mom of three allegedly murdered by man who lured her to West Virginia with job offer",
+    "link": "https://nypost.com/2026/05/25/us-news/mom-of-three-angel-whitaker-allegedly-murdered-by-man-who-lured-her-to-west-virginia-with-job-offer/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-25-06-00-01 +0000",
     "source": "nyt",
-    "headline": "To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later",
-    "link": "https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html"
+    "headline": "Crack Forms in Garden Grove Chemical Tank, a Positive Sign for Firefighters",
+    "link": "https://www.nytimes.com/2026/05/24/us/chemical-tank-garden-grove-southern-california.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-05-25-05-46-20 +0000",
+    "source": "missionlocal",
+    "headline": "Victim in life-threatening condition after Mission District stabbing",
+    "link": "https://missionlocal.org/2026/05/sf-mission-district-stabbing-life-threatening-carnaval/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-05-25-05-58-08 +0000",
+    "source": "bbc",
+    "headline": "'I don't think I'll ever be able to retire'",
+    "link": "https://www.bbc.com/news/articles/cd6pn9y36p8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-05-25-06-13-48 +0000",
+    "source": "nyt",
+    "headline": "U.S.-Iran Peace Deal Nearer, But Could Take Days to Nail Down, U.S. Official Says",
+    "link": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-25-06-01-59 +0000",
+    "source": "bbc",
+    "headline": "Oil prices slide on hopes of US-Iran peace deal",
+    "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-25-06-01-59 +0000",
+    "source": "bbc",
+    "headline": "Oil prices slide on hopes of US-Iran peace deal",
+    "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
   }
 ]
