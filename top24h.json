@@ -1,45 +1,31 @@
 [
   {
-    "score": 144,
+    "score": 140,
     "pubdate": "2026-05-26-18-17-13 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: U.S. Said to Observe Threatening Actions From Iran Ahead of Strikes",
     "link": "https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal"
   },
   {
-    "score": 86,
-    "pubdate": "2026-05-26-11-00-00 +0000",
-    "source": "wsj",
-    "headline": "Here are three political story lines to watch this week: Texas face-off, Trump’s health and the Iran talks. Read more in today’s WSJ Politics newsletter:",
-    "link": "https://www.wsj.com/politics/three-big-political-story-lines-to-watch-this-week-144778e0"
-  },
-  {
-    "score": 85,
+    "score": 84,
     "pubdate": "2026-05-26-16-37-20 +0000",
     "source": "nypost",
     "headline": "Spencer Pratt reveals stunning West Coast destination for LA’s homeless if he wins election: ‘The mayor will welcome them’",
     "link": "https://nypost.com/2026/05/26/us-news/spencer-pratt-says-hell-bus-las-homeless-to-seattle/"
   },
   {
-    "score": 63,
+    "score": 84,
+    "pubdate": "2026-05-26-11-00-00 +0000",
+    "source": "wsj",
+    "headline": "Here are three political story lines to watch this week: Texas face-off, Trump’s health and the Iran talks. Read more in today’s WSJ Politics newsletter:",
+    "link": "https://www.wsj.com/politics/three-big-political-story-lines-to-watch-this-week-144778e0"
+  },
+  {
+    "score": 62,
     "pubdate": "2026-05-26-15-55-06 +0000",
     "source": "nyt",
     "headline": "Israel Steps Up Lebanon Offensive as U.S. Pushes for Iran Peace Deal",
     "link": "https://www.nytimes.com/2026/05/26/world/middleeast/israel-strikes-escalation-lebanon.html"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-05-25-20-23-05 +0000",
-    "source": "nypost",
-    "headline": "Latest Russian attack melts golden arches on Ukraine’s first McDonald’s",
-    "link": "https://nypost.com/2026/05/25/world-news/latest-russian-attack-melts-golden-arches-on-ukraines-first-mcdonalds/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2026-05-26-16-51-30 +0000",
-    "source": "nypost",
-    "headline": "Ferrari’s new $640K electric car already a massive fail — and looks just like a $30K Nissan: ‘Monstrosity’",
-    "link": "https://nypost.com/2026/05/26/business/ferraris-new-640k-electric-car-already-a-massive-fail-and-looks-just-like-a-30k-nissan-monstrosity/"
   },
   {
     "score": 43,
@@ -47,6 +33,20 @@
     "source": "wsj",
     "headline": "Texas Sen. John Cornyn’s primary runoff against firebrand state Attorney General Ken Paxton this week is being closely watched as a barometer of the Republican Party’s future in Texas and the country",
     "link": "https://www.wsj.com/politics/elections/texas-senate-race-trump-d8a54348"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-05-26-16-51-30 +0000",
+    "source": "nypost",
+    "headline": "Ferrari’s new $640K electric car already a massive fail — and looks just like a $30K Nissan: ‘Monstrosity’",
+    "link": "https://nypost.com/2026/05/26/business/ferraris-new-640k-electric-car-already-a-massive-fail-and-looks-just-like-a-30k-nissan-monstrosity/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-05-25-20-23-05 +0000",
+    "source": "nypost",
+    "headline": "Latest Russian attack melts golden arches on Ukraine’s first McDonald’s",
+    "link": "https://nypost.com/2026/05/25/world-news/latest-russian-attack-melts-golden-arches-on-ukraines-first-mcdonalds/"
   },
   {
     "score": 42,
@@ -57,16 +57,16 @@
   },
   {
     "score": 41,
-    "pubdate": "2026-05-26-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Record-setting outside money pouring into California governor's race",
-    "link": "https://www.latimes.com/california/story/2026-05-26/record-setting-outside-money-pouring-into-california-governors-race"
+    "pubdate": "2026-05-26-13-52-29 +0000",
+    "source": "nyt",
+    "headline": "UK Heat Wave Could Break May Temperature Record",
+    "link": "https://www.nytimes.com/2026/05/25/weather/uk-heat-wave-may-weather-record.html"
   },
   {
     "score": 39,
-    "pubdate": "2026-05-26-18-00-09 +0000",
-    "source": "cbc",
-    "headline": "Temperature records fall as Western Europe swelters under intense heat wave",
-    "link": "https://www.cbc.ca/news/world/western-europe-heat-wave-temperature-records-u-k-france-9.7212529?cmp=rss"
+    "pubdate": "2026-05-26-01-48-34 +0000",
+    "source": "bbc",
+    "headline": "Rescuers race to free seven people trapped in flooded Laos cave",
+    "link": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss"
   }
 ]
