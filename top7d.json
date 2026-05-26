@@ -1,34 +1,48 @@
 [
   {
-    "score": 326,
-    "pubdate": "2026-05-25-19-07-57 +0000",
-    "source": "wapo",
-    "headline": "As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords",
-    "link": "https://www.washingtonpost.com/world/2026/05/25/trump-seeks-widen-abraham-accords-new-iran-deal-faces-sharp-criticism/"
+    "score": 338,
+    "pubdate": "2026-05-26-13-31-16 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Tensions Rise as Iran Threatens to Retaliate Against U.S. Strikes",
+    "link": "https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal"
   },
   {
-    "score": 139,
+    "score": 308,
+    "pubdate": "2026-05-23-14-44-00 +0000",
+    "source": "wsj",
+    "headline": "For more than a year, Republican senators had largely been deferential to President Trump‘s wishes. This week, they revolted over a Trump endorsement and his $1.776 billion “anti-weaponization fund.”",
+    "link": "https://www.wsj.com/politics/policy/trump-republican-congress-control-98a13bd9"
+  },
+  {
+    "score": 201,
+    "pubdate": "2026-05-20-10-48-00 +0000",
+    "source": "wsj",
+    "headline": "EU negotiators reached a provisional deal to remove some tariffs on U.S. imports as part of the bloc’s trade deal signed last summer, ahead of a U.S. deadline to ramp up tariffs on cars",
+    "link": "https://www.wsj.com/economy/trade/eu-reaches-agreement-to-move-forward-on-u-s-trade-deal-f62d4952"
+  },
+  {
+    "score": 144,
     "pubdate": "2026-05-22-18-08-00 +0000",
     "source": "wsj",
     "headline": "President Trump told his new Fed chair, Kevin Warsh, to ignore the political pressure during his swearing-in ceremony—and then the president laid out what he’d like to see",
     "link": "https://www.wsj.com/economy/central-banking/key-moments-from-kevin-warshs-swearing-in-ceremony-26d987b5"
   },
   {
-    "score": 117,
+    "score": 123,
     "pubdate": "2026-05-19-18-03-38 +0000",
     "source": "latimes",
     "headline": "Hilton and Becerra lead in a tightening race in final weeks of California governor's campaign, poll shows",
     "link": "https://www.latimes.com/california/story/2026-05-19/hilton-becerra-in-tightening-race-in-final-weeks-of-california-governors-campaign"
   },
   {
-    "score": 114,
+    "score": 120,
     "pubdate": "2026-05-20-04-45-00 +0000",
     "source": "wsj",
     "headline": "A Georgia congressman and a former college football coach will meet in a runoff next month after neither captured 50% of the vote in the GOP Senate primary Tuesday to challenge Democrat Jon Ossoff for his Senate seat",
     "link": "https://www.wsj.com/politics/elections/georgias-gop-senate-primary-goes-to-a-runoff-in-fight-to-unseat-jon-ossoff-fc6af4f5"
   },
   {
-    "score": 112,
+    "score": 106,
     "pubdate": "2026-05-25-13-32-10 +0000",
     "source": "bbc",
     "headline": "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre",
@@ -42,31 +56,17 @@
     "link": "https://www.wsj.com/politics/national-security/u-s-warns-of-growing-russian-and-chinese-spying-in-cuba-a99059dd"
   },
   {
-    "score": 93,
-    "pubdate": "2026-05-25-15-45-27 +0000",
-    "source": "bbc",
-    "headline": "White House gunman had previous run-ins with Secret Service, court documents show",
-    "link": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss"
+    "score": 96,
+    "pubdate": "2026-05-26-11-00-00 +0000",
+    "source": "wsj",
+    "headline": "Here are three political story lines to watch this week: Texas face-off, Trump’s health and the Iran talks. Read more in today’s WSJ Politics newsletter:",
+    "link": "https://www.wsj.com/politics/three-big-political-story-lines-to-watch-this-week-144778e0"
   },
   {
-    "score": 93,
+    "score": 92,
     "pubdate": "2026-05-25-11-01-39 +0000",
     "source": "nypost",
     "headline": "Pope Leo issues dire warning on ‘anti-human’ AI and new ‘Tower of Babel’ in first encyclical",
     "link": "https://nypost.com/2026/05/25/world-news/pope-leo-xiv-calls-for-robust-regulation-of-ai-in-manifesto-that-ponders-the-future-of-humanity/"
-  },
-  {
-    "score": 91,
-    "pubdate": "2026-05-25-08-45-00 +0000",
-    "source": "wsj",
-    "headline": "Global Markets Gain and Oil Prices Retreat as U.S-Iran Peace Talks Continue",
-    "link": "https://www.wsj.com/finance/commodities-futures/global-markets-gain-and-oil-prices-retreat-as-u-s-iran-peace-talks-continue-4b2847a5?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 90,
-    "pubdate": "2026-05-20-10-48-00 +0000",
-    "source": "wsj",
-    "headline": "EU negotiators reached a provisional deal to remove some tariffs on U.S. imports as part of the bloc’s trade deal signed last summer, ahead of a U.S. deadline to ramp up tariffs on cars",
-    "link": "https://www.wsj.com/economy/trade/eu-reaches-agreement-to-move-forward-on-u-s-trade-deal-f62d4952"
   }
 ]
