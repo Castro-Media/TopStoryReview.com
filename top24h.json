@@ -1,59 +1,52 @@
 [
   {
-    "score": 140,
-    "pubdate": "2026-05-26-18-17-13 +0000",
+    "score": 150,
+    "pubdate": "2026-05-26-20-19-12 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: U.S. Said to Observe Threatening Actions From Iran Ahead of Strikes",
+    "headline": "Iran War Live Updates: U.S. Saw Threats From Iran Before Renewing Strikes, Officials Said",
     "link": "https://www.nytimes.com/live/2026/05/26/world/iran-war-trump-deal"
   },
   {
-    "score": 84,
-    "pubdate": "2026-05-26-16-37-20 +0000",
-    "source": "nypost",
-    "headline": "Spencer Pratt reveals stunning West Coast destination for LA’s homeless if he wins election: ‘The mayor will welcome them’",
-    "link": "https://nypost.com/2026/05/26/us-news/spencer-pratt-says-hell-bus-las-homeless-to-seattle/"
-  },
-  {
-    "score": 84,
+    "score": 100,
     "pubdate": "2026-05-26-11-00-00 +0000",
     "source": "wsj",
     "headline": "Here are three political story lines to watch this week: Texas face-off, Trump’s health and the Iran talks. Read more in today’s WSJ Politics newsletter:",
     "link": "https://www.wsj.com/politics/three-big-political-story-lines-to-watch-this-week-144778e0"
   },
   {
-    "score": 62,
+    "score": 69,
     "pubdate": "2026-05-26-15-55-06 +0000",
     "source": "nyt",
     "headline": "Israel Steps Up Lebanon Offensive as U.S. Pushes for Iran Peace Deal",
     "link": "https://www.nytimes.com/2026/05/26/world/middleeast/israel-strikes-escalation-lebanon.html"
   },
   {
-    "score": 43,
-    "pubdate": "2026-05-25-21-07-00 +0000",
+    "score": 59,
+    "pubdate": "2026-05-26-20-16-00 +0000",
     "source": "wsj",
-    "headline": "Texas Sen. John Cornyn’s primary runoff against firebrand state Attorney General Ken Paxton this week is being closely watched as a barometer of the Republican Party’s future in Texas and the country",
-    "link": "https://www.wsj.com/politics/elections/texas-senate-race-trump-d8a54348"
+    "headline": "Lawyer for Former JPMorgan Banker Resigns Ahead of First Court Appearance",
+    "link": "https://www.wsj.com/finance/lawyer-for-former-jpmorgan-banker-resigns-ahead-of-first-court-appearance-e98d96c8?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 43,
-    "pubdate": "2026-05-26-16-51-30 +0000",
+    "score": 58,
+    "pubdate": "2026-05-26-20-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration announced a new green card policy Friday that, if carried out as intended, would force most applicants for permanent residency to leave the country and apply from abroad",
+    "link": "https://www.wsj.com/politics/policy/green-card-policy-changes-explained-9243ee08"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-05-26-16-37-20 +0000",
     "source": "nypost",
-    "headline": "Ferrari’s new $640K electric car already a massive fail — and looks just like a $30K Nissan: ‘Monstrosity’",
-    "link": "https://nypost.com/2026/05/26/business/ferraris-new-640k-electric-car-already-a-massive-fail-and-looks-just-like-a-30k-nissan-monstrosity/"
+    "headline": "Spencer Pratt reveals stunning West Coast destination for LA’s homeless if he wins election: ‘The mayor will welcome them’",
+    "link": "https://nypost.com/2026/05/26/us-news/spencer-pratt-says-hell-bus-las-homeless-to-seattle/"
   },
   {
-    "score": 43,
-    "pubdate": "2026-05-25-20-23-05 +0000",
+    "score": 57,
+    "pubdate": "2026-05-26-19-10-27 +0000",
     "source": "nypost",
-    "headline": "Latest Russian attack melts golden arches on Ukraine’s first McDonald’s",
-    "link": "https://nypost.com/2026/05/25/world-news/latest-russian-attack-melts-golden-arches-on-ukraines-first-mcdonalds/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-05-26-14-04-51 +0000",
-    "source": "bbc",
-    "headline": "White House gunman had previous run-ins with Secret Service, court documents show",
-    "link": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss"
+    "headline": "Race against time to snare California dad who ‘abducted’ daughter, 4, as her mom is found murdered",
+    "link": "https://nypost.com/2026/05/26/us-news/race-against-time-to-snare-dad-who-abducted-daughter-after-her-mom-killed/"
   },
   {
     "score": 41,
@@ -64,9 +57,16 @@
   },
   {
     "score": 39,
-    "pubdate": "2026-05-26-01-48-34 +0000",
+    "pubdate": "2026-05-26-14-44-44 +0000",
     "source": "bbc",
-    "headline": "Rescuers race to free seven people trapped in flooded Laos cave",
-    "link": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss"
+    "headline": "DR Congo seek World Cup ticket refunds after Ebola outbreak",
+    "link": "https://www.bbc.com/sport/football/articles/c0j2220jn9lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-05-26-17-14-00 +0000",
+    "source": "wsj",
+    "headline": "Factory activity in Canada rose strongly last month, with an early estimate pointing to a further advance in sales on the back of a surge in oil prices",
+    "link": "https://www.wsj.com/economy/canada-factory-sales-jump-an-estimated-4-6-in-april-59ef2ae8"
   }
 ]

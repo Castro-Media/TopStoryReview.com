@@ -1,16 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-05-26-18-34-34 +0000",
+    "score": 44,
+    "pubdate": "2026-05-26-19-46-30 +0000",
     "source": "nyt",
-    "headline": "Ken Paxton has a history of winning primaries and make-or-break runoffs.",
-    "link": "https://www.nytimes.com/live/2026/05/26/us/texas-primary-runoff-elections/ken-paxton-has-a-history-of-winning-primaries-and-make-or-break-runoffs"
+    "headline": "Iran Threatens to Renew Strikes Against U.S. Amid Push for Diplomatic Deal",
+    "link": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-threats-strikes-us-ceasefire.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-05-26-18-34-34 +0000",
+    "score": 39,
+    "pubdate": "2026-05-26-20-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration announced a new green card policy Friday that, if carried out as intended, would force most applicants for permanent residency to leave the country and apply from abroad",
+    "link": "https://www.wsj.com/politics/policy/green-card-policy-changes-explained-9243ee08"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-05-26-20-16-00 +0000",
+    "source": "wsj",
+    "headline": "Lawyer for Former JPMorgan Banker Resigns Ahead of First Court Appearance",
+    "link": "https://www.wsj.com/finance/lawyer-for-former-jpmorgan-banker-resigns-ahead-of-first-court-appearance-e98d96c8"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-05-26-19-36-55 +0000",
     "source": "nyt",
-    "headline": "Ken Paxton has a history of winning primaries and make-or-break runoffs.",
-    "link": "https://www.nytimes.com/live/2026/05/26/us/texas-primary-runoff-elections/ken-paxton-has-a-history-of-winning-primaries-and-make-or-break-runoffs"
+    "headline": "Court Rejects Alabama House Map, Calling It Unfair to Black Voters",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-05-26-19-50-54 +0000",
+    "source": "nyt",
+    "headline": "You Can’t Stop This Data Center, a Mom Was Told. She Won’t Quit.",
+    "link": "https://www.nytimes.com/2026/05/26/us/data-centers-kassi-solberg.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-05-26-19-47-26 +0000",
+    "source": "nypost",
+    "headline": "Luxury automaker McLaren coming to Midtown NYC, helping complete remarkable rebirth of landmark tower: sources",
+    "link": "https://nypost.com/2026/05/26/business/luxury-automaker-mclaren-coming-to-midtown-nyc-helping-complete-remarkable-rebirth-of-landmark-tower-sources/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-05-26-20-18-41 +0000",
+    "source": "nypost",
+    "headline": "Nine anonymous crypto owners hold massive sway over Polymarket outcomes, drawing traders’ ire: report",
+    "link": "https://nypost.com/2026/05/26/business/nine-anonymous-crypto-owners-hold-massive-sway-over-polymarket-outcomes-drawing-traders-ire-report/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-26-19-40-35 +0000",
+    "source": "bbc",
+    "headline": "Eleven killed in Lebanon village as Israel intensifies strikes",
+    "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-26-19-45-03 +0000",
+    "source": "nypost",
+    "headline": "Vile antisemitic UCLA students formed Jewish exclusion zone, beat them unconscious, attacked with sticks: suit",
+    "link": "https://nypost.com/2026/05/26/us-news/ucla-faces-doj-lawsuit-over-alleged-antisemitic-harassment-of-jewish-students/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-26-19-38-03 +0000",
+    "source": "nyt",
+    "headline": "Trump embraced an ally over an incumbent in the Texas Senate race.",
+    "link": "https://www.nytimes.com/live/2026/05/26/us/texas-primary-runoff-elections/trump-texas-senate-endorsement-paxton-cornyn"
   }
 ]
