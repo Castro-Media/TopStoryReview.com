@@ -1,13 +1,13 @@
 [
   {
-    "score": 148,
+    "score": 145,
     "pubdate": "2026-05-25-09-55-01 +0000",
     "source": "cbc",
     "headline": "Trump demands Arab countries sign Abraham Accords with Israel as part of deal to end Iran war",
     "link": "https://www.cbc.ca/news/world/iran-u-s-ceasefire-deal-9.7210824?cmp=rss"
   },
   {
-    "score": 75,
+    "score": 72,
     "pubdate": "2026-05-25-11-01-39 +0000",
     "source": "nypost",
     "headline": "Pope Leo issues dire warning on ‘anti-human’ AI and new ‘Tower of Babel’ in first encyclical",
@@ -18,7 +18,7 @@
     "pubdate": "2026-05-25-08-45-00 +0000",
     "source": "wsj",
     "headline": "Global Markets Gain and Oil Prices Retreat as U.S-Iran Peace Talks Continue",
-    "link": "https://www.wsj.com/finance/commodities-futures/global-markets-gain-and-oil-prices-retreat-as-u-s-iran-peace-talks-continue-4b2847a5?mod=rss_markets_main"
+    "link": "https://www.wsj.com/finance/commodities-futures/global-markets-gain-and-oil-prices-retreat-as-u-s-iran-peace-talks-continue-4b2847a5?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 47,
@@ -28,28 +28,21 @@
     "link": "https://www.wsj.com/politics/elections/texas-senate-race-trump-d8a54348"
   },
   {
-    "score": 45,
+    "score": 43,
     "pubdate": "2026-05-25-15-45-27 +0000",
     "source": "bbc",
     "headline": "White House gunman had previous run-ins with Secret Service, court documents show",
     "link": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 44,
+    "score": 42,
     "pubdate": "2026-05-25-09-01-55 +0000",
     "source": "nyt",
     "headline": "He Name-Drops Ocasio-Cortez in His Bid for Congress. She Doesn’t Talk About Him at All.",
     "link": "https://www.nytimes.com/2026/05/25/us/politics/saikat-chakrabarti-aoc-sf-pelosi-seat.html"
   },
   {
-    "score": 39,
-    "pubdate": "2026-05-24-22-56-21 +0000",
-    "source": "latimes",
-    "headline": "Potential crack found on Garden Grove chemical tank, reducing explosion risk",
-    "link": "https://www.latimes.com/california/story/2026-05-24/garden-grove-chemical-tank-crack-reduces-explosion-risk"
-  },
-  {
-    "score": 38,
+    "score": 40,
     "pubdate": "2026-05-25-21-16-21 +0000",
     "source": "nypost",
     "headline": "Wet Memorial Day scares off NYC beach crowds — but diehard locals stick it out",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Minneapolis mayor bashed over X post on 6-year anniversary of George Floyd’s death: ‘I thought this had to be a parody’",
     "link": "https://nypost.com/2026/05/25/us-news/minneapolis-mayor-reflects-on-6-year-anniversary-of-george-floyds-death-weve-changed/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-05-25-17-10-42 +0000",
+    "source": "bbc",
+    "headline": "Threat of massive chemical tank explosion is 'eliminated', California officials say",
+    "link": "https://www.bbc.com/news/articles/cx2119er9glo?at_medium=RSS&at_campaign=rss"
   }
 ]
