@@ -1,72 +1,58 @@
 [
   {
-    "score": 21,
-    "pubdate": "2026-05-27-03-35-00 +0000",
-    "source": "wsj",
-    "headline": "State Attorney General Ken Paxton clinched the Texas Republican nomination for U.S. Senate, defeating longtime Sen. John Cornyn",
-    "link": "https://www.wsj.com/politics/elections/paxton-wins-texas-republican-primary-after-trump-endorsement-9d92d587"
+    "score": 26,
+    "pubdate": "2026-05-27-05-21-29 +0000",
+    "source": "nypost",
+    "headline": "Trump blasts ‘terrible’ Dem Chicago leaders after driver allegedly plows into 5 cops during ‘teen takeover’",
+    "link": "https://nypost.com/2026/05/27/us-news/trump-blasts-terrible-dem-chicago-leaders-after-driver-allegedly-plows-into-5-cops-during-teen-takeover/"
   },
   {
     "score": 18,
-    "pubdate": "2026-05-27-04-01-09 +0000",
-    "source": "nyt",
-    "headline": "Inventor of the Basque Cheesecake Plans to Retire. His Secret: He Prefers Chocolate",
-    "link": "https://www.nytimes.com/2026/05/27/world/europe/basque-cheesecake-inventor-rivera-spain.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-05-27-03-39-00 +0000",
-    "source": "wsj",
-    "headline": "SK Hynix Joins Trillion-Dollar Club Alongside Nvidia, TSMC",
-    "link": "https://www.wsj.com/business/sk-hynix-joins-trillion-dollar-club-alongside-nvidia-tsmc-b71fc8a0"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-05-27-04-01-18 +0000",
-    "source": "nyt",
-    "headline": "Can Nigel Farage’s Right-Wing Party Win It All in Britain?",
-    "link": "https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-05-27-04-02-43 +0000",
-    "source": "bbc",
-    "headline": "Ferrari shares slump after it unveils first fully electric car",
-    "link": "https://www.bbc.com/news/articles/cwy22rddy5no?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-05-27-05-26-01 +0000",
+    "source": "nypost",
+    "headline": "Elderly thong-wearing Florida man busted for exposing himself around apartment complex, claimed it was his ‘right to walk around naked’",
+    "link": "https://nypost.com/2026/05/27/us-news/florida-man-tyrone-causey-arrested-for-exposing-himself-around-apartment-complex-claimed-it-was-his-right-to-be-naked/"
   },
   {
     "score": 14,
-    "pubdate": "2026-05-27-04-01-11 +0000",
-    "source": "nyt",
-    "headline": "Where Time Is Always 15 Minutes Apart From Everywhere Else",
-    "link": "https://www.nytimes.com/2026/05/27/world/asia/nepal-time-15-minutes.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-05-27-04-07-27 +0000",
+    "pubdate": "2026-05-27-06-07-17 +0000",
     "source": "bbc",
-    "headline": "Dozens killed in Lebanon as Israel intensifies strikes",
-    "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss"
+    "headline": "Iran war impact to raise energy bills by £221 a year",
+    "link": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 12,
-    "pubdate": "2026-05-27-04-01-16 +0000",
-    "source": "nyt",
-    "headline": "Trump May Appear at N.B.A. Finals in New York",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-nba-finals.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-05-27-04-00-09 +0000",
-    "source": "nyt",
-    "headline": "Xi Jinping Quit Smoking. China Still Cannot.",
-    "link": "https://www.nytimes.com/2026/05/27/business/china-smoking-economy.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-05-27-03-35-52 +0000",
+    "score": 11,
+    "pubdate": "2026-05-27-05-38-24 +0000",
     "source": "nypost",
-    "headline": "Long Island’s Joe Scally continues meteoric soccer rise with second USMNT World Cup selection",
-    "link": "https://nypost.com/2026/05/26/sports/long-islands-joe-scally-makes-second-usmnt-world-cup-team/"
+    "headline": "Illegal migrant charged with killing 4 young people in wrong-way DUI crash on Oklahoma highway",
+    "link": "https://nypost.com/2026/05/27/us-news/oklahoma-illegal-immigrant-michael-rosario-cruz-charged-with-killing-four-in-dui-crash/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-27-05-56-44 +0000",
+    "source": "bbc",
+    "headline": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
+    "link": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-05-27-06-07-00 +0000",
+    "source": "wsj",
+    "headline": "Capgemini Aims to Harness AI Surge in 2028 Strategic Plan",
+    "link": "https://www.wsj.com/tech/ai/capgemini-aims-to-harness-ai-surge-in-2028-strategic-plan-0e89643d?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-27-06-07-17 +0000",
+    "source": "bbc",
+    "headline": "Iran war impact to raise energy bills by £221 a year",
+    "link": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-05-27-05-21-29 +0000",
+    "source": "nypost",
+    "headline": "Trump blasts ‘terrible’ Dem Chicago leaders after driver allegedly plows into 5 cops during ‘teen takeover’",
+    "link": "https://nypost.com/2026/05/27/us-news/trump-blasts-terrible-dem-chicago-leaders-after-driver-allegedly-plows-into-5-cops-during-teen-takeover/"
   }
 ]
