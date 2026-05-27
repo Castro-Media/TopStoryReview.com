@@ -1,194 +1,266 @@
 [
   {
-    "headline": "Samsung Unions Approve Pay Deal That Highlights Inequality of A.I. Age",
-    "link": "https://www.nytimes.com/2026/05/27/world/asia/samsung-ai-profit-bonus-workers.html",
+    "headline": "The Viruses Causing New Outbreaks Are Much Less Familiar to Science",
+    "link": "https://www.nytimes.com/2026/05/27/science/ebola-hantavirus-species-strains.html",
     "source": "nyt",
-    "pubdate": "2026-05-27-11-56-50 +0000"
-  },
-  {
-    "headline": "Texas Attorney General Paxton routs veteran incumbent Cornyn in US Senate primary",
-    "link": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-53-06 +0000"
-  },
-  {
-    "headline": "Trump-backed challenger beats veteran US senator in Texas primary",
-    "link": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-53-06 +0000"
-  },
-  {
-    "headline": "Five people found alive after week trapped in flooded Laos cave",
-    "link": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-52-46 +0000"
-  },
-  {
-    "headline": "Five people found alive after week trapped in flooded Laos cave",
-    "link": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-52-46 +0000"
-  },
-  {
-    "headline": "Dick’s Sales Jump as Foot Locker Turnaround Takes Hold",
-    "link": "https://www.wsj.com/business/retail/dicks-sales-jump-as-foot-locker-turnaround-takes-hold-ae8e7cfd?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-27-11-51-00 +0000"
-  },
-  {
-    "headline": "Lululemon Settles Dispute With Founder",
-    "link": "https://www.wsj.com/business/retail/lululemon-settles-dispute-with-founder-78c6bb80?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-27-11-46-00 +0000"
-  },
-  {
-    "headline": "Former member of German militant group jailed for armed robberies after decades on the run",
-    "link": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-38-55 +0000"
-  },
-  {
-    "headline": "Woman caught after 30 years on the run is jailed for armed robberies",
-    "link": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-38-55 +0000"
+    "pubdate": "2026-05-27-14-00-07 +0000"
   },
   {
     "headline": "Iran War Live Updates: Fighting Flares in Lebanon, Complicating U.S.-Iran Peace Talks",
     "link": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal",
     "source": "nyt",
-    "pubdate": "2026-05-27-11-36-57 +0000"
+    "pubdate": "2026-05-27-13-58-09 +0000"
   },
   {
-    "headline": "Judge allegedly made racial comments about white clerk, postponed critical hearings to walk her dogs",
-    "link": "https://nypost.com/2026/05/27/us-news/judge-accused-of-postponing-hearings-to-walk-her-dogs-keeping-patients-in-hospitals-complaint/",
-    "source": "nypost",
-    "pubdate": "2026-05-27-11-36-27 +0000"
-  },
-  {
-    "headline": "Bath & Body Works Sales Fall Amid Turnaround Efforts",
-    "link": "https://www.wsj.com/business/retail/bath-body-works-sales-fall-amid-turnaround-efforts-54862c5a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-27-11-35-00 +0000"
-  },
-  {
-    "headline": "Bolivian Congress allows deployment of troops to quell protests",
-    "link": "https://www.bbc.com/news/articles/c8932y4d4w7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-34-27 +0000"
-  },
-  {
-    "headline": "Why it's now harder to get a Saturday job",
-    "link": "https://www.bbc.com/news/videos/cpqp37577x7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-32-15 +0000"
-  },
-  {
-    "headline": "Labour has 'no coherent plan' for country, says Blair",
-    "link": "https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-30-52 +0000"
-  },
-  {
-    "headline": "Tech titans stand to make more than $1M from every American’s data — with AI firms reaping millions more: shocking study",
-    "link": "https://nypost.com/2026/05/27/tech/tech-titans-stand-to-make-more-than-1m-from-every-americans-data-study/",
-    "source": "nypost",
-    "pubdate": "2026-05-27-11-30-00 +0000"
-  },
-  {
-    "headline": "Bank of Montreal Raises Dividend After Logging Stronger Earnings",
-    "link": "https://www.wsj.com/finance/banking/bank-of-montreal-raises-dividend-after-logging-stronger-earnings-bcc90a81?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-27-11-18-00 +0000"
-  },
-  {
-    "headline": "Bank of Montreal Raises Dividend After Logging Stronger Earnings",
-    "link": "https://www.wsj.com/finance/banking/bank-of-montreal-raises-dividend-after-logging-stronger-earnings-bcc90a81?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-27-11-18-00 +0000"
-  },
-  {
-    "headline": "What will the energy cap changes mean for my bills?",
-    "link": "https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-13-34 +0000"
-  },
-  {
-    "headline": "What will the energy cap changes mean for my bills?",
-    "link": "https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-13-34 +0000"
-  },
-  {
-    "headline": "South Korea detains dissident who fled China in rubber boat",
-    "link": "https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-12-33 +0000"
-  },
-  {
-    "headline": "South Korea detains dissident who fled China in rubber boat",
-    "link": "https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-12-33 +0000"
-  },
-  {
-    "headline": "'I've given up eating hot meals to pay energy bills to keep my son alive'",
-    "link": "https://www.bbc.com/news/articles/c0j2ep13le2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-11-12-29 +0000"
-  },
-  {
-    "headline": "Iranians Emerge From a ‘Black Hole’ as Internet Shutdown Eases",
-    "link": "https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html",
+    "headline": "Residents Watch as Israeli War Planes Circle Over Southern Lebanon",
+    "link": "https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html",
     "source": "nyt",
-    "pubdate": "2026-05-27-11-12-10 +0000"
+    "pubdate": "2026-05-27-13-56-21 +0000"
   },
   {
-    "headline": "Iranians Emerge From a ‘Black Hole’ as Internet Shutdown Eases",
-    "link": "https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html",
+    "headline": "Residents Watch as Israeli War Planes Circle Over Southern Lebanon",
+    "link": "https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html",
     "source": "nyt",
-    "pubdate": "2026-05-27-11-12-10 +0000"
+    "pubdate": "2026-05-27-13-56-21 +0000"
+  },
+  {
+    "headline": "Canada, Bahamas impose Ebola travel ban as epidemic spreads in Africa",
+    "link": "https://nypost.com/2026/05/27/world-news/canada-bahamas-impose-ebola-related-travel-bans/",
+    "source": "nypost",
+    "pubdate": "2026-05-27-13-56-12 +0000"
+  },
+  {
+    "headline": "Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman.",
+    "link": "https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-53-20 +0000"
+  },
+  {
+    "headline": "Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman.",
+    "link": "https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-53-20 +0000"
+  },
+  {
+    "headline": "EU Plans to Reserve Most of Mobile Satellite Spectrum for Homegrown Operators",
+    "link": "https://www.wsj.com/business/telecom/eu-plans-to-reserve-most-of-mobile-satellite-spectrum-for-homegrown-operators-92b77f8c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-27-13-53-00 +0000"
+  },
+  {
+    "headline": "EU Plans to Reserve Most of Mobile Satellite Spectrum for Homegrown Operators",
+    "link": "https://www.wsj.com/business/telecom/eu-plans-to-reserve-most-of-mobile-satellite-spectrum-for-homegrown-operators-92b77f8c",
+    "source": "wsj",
+    "pubdate": "2026-05-27-13-53-00 +0000"
+  },
+  {
+    "headline": "Oil Prices Fall as Uneasy Truce Holds Between U.S. and Iran",
+    "link": "https://www.nytimes.com/2026/05/27/business/oil-gas-price-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-46-25 +0000"
+  },
+  {
+    "headline": "Cornyn’s Defeat Fuels Tensions With President Trump in Senate G.O.P.",
+    "link": "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-44-32 +0000"
+  },
+  {
+    "headline": "Heat wave hits Canada’s prairies, with warnings in Alberta, Saskatchewan and Manitoba",
+    "link": "https://www.nytimes.com/2026/05/27/weather/canada-heat-warnings.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-42-02 +0000"
+  },
+  {
+    "headline": "Oil plunges to $89 per barrel after Iran reports that peace deal would reopen Strait of Hormuz in 1 month",
+    "link": "https://nypost.com/2026/05/27/business/oil-plunges-to-89-per-barrel-after-iran-reports-that-peace-deal-would-reopen-strait-of-hormuz-in-1-month/",
+    "source": "nypost",
+    "pubdate": "2026-05-27-13-38-04 +0000"
+  },
+  {
+    "headline": "5 Things to Know About Christian Menefee, Democratic House Nominee in Texas",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/christian-menefee-democrat-house-candidate.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-37-37 +0000"
+  },
+  {
+    "headline": "5 Things to Know About Christian Menefee, Democratic House Nominee in Texas",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/christian-menefee-democrat-house-candidate.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-37-37 +0000"
+  },
+  {
+    "headline": "Donald E. Newhouse, newspaper publisher and heir to media empire, dies at 96",
+    "link": "https://www.latimes.com/obituaries/story/2026-05-26/donald-e-newhouse-dead-newspaper-publisher-was-96",
+    "source": "latimes",
+    "pubdate": "2026-05-27-13-34-55 +0000"
+  },
+  {
+    "headline": "Fast-growing coffee giant plans California expansion with multiple locations",
+    "link": "https://nypost.com/2026/05/27/us-news/7-brew-coffee-planning-westward-california-expansion/",
+    "source": "nypost",
+    "pubdate": "2026-05-27-13-30-00 +0000"
+  },
+  {
+    "headline": "Global Supply Shortages Deepen as War Drags On, Risking Jobs and Growth",
+    "link": "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-28-42 +0000"
+  },
+  {
+    "headline": "Global Supply Shortages Deepen as War Drags On, Risking Jobs and Growth",
+    "link": "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-28-42 +0000"
+  },
+  {
+    "headline": "Universal Music Shareholder Deals Blow to Bill Ackman’s $65 Billion Bid",
+    "link": "https://www.wsj.com/business/universal-music-shareholder-bollore-throws-cold-water-on-ackmans-65-billion-bid-for-record-label-dee48872?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-27-13-27-00 +0000"
+  },
+  {
+    "headline": "Universal Music Shareholder Deals Blow to Bill Ackman’s $65 Billion Bid",
+    "link": "https://www.wsj.com/business/universal-music-shareholder-bollore-throws-cold-water-on-ackmans-65-billion-bid-for-record-label-dee48872?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-05-27-13-27-00 +0000"
+  },
+  {
+    "headline": "Evacuation Orders Lifted as Southern California Chemical Tank Cools",
+    "link": "https://www.nytimes.com/2026/05/26/us/chemical-tank-orange-county-california.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-25-05 +0000"
+  },
+  {
+    "headline": "Court Rejects Alabama House Map, Calling It Unfair to Black Voters",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-22-19 +0000"
+  },
+  {
+    "headline": "Court Rejects Alabama House Map, Calling It Unfair to Black Voters",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-22-19 +0000"
+  },
+  {
+    "headline": "Ghana welcomes Pope's apology over Catholic Church's role in slavery",
+    "link": "https://www.bbc.com/news/articles/cwy2d6j14l5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-27-13-17-41 +0000"
+  },
+  {
+    "headline": "Ghana welcomes Pope's apology over Catholic Church's role in slavery",
+    "link": "https://www.bbc.com/news/articles/cwy2d6j14l5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-27-13-17-41 +0000"
+  },
+  {
+    "headline": "BP’s Former Chairman, Albert Manifold, Disputes How Company Characterized His Dismissal",
+    "link": "https://www.nytimes.com/2026/05/27/business/bp-albert-manifold.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-17-00 +0000"
+  },
+  {
+    "headline": "Israel Kills New Hamas Military Chief 11 Days After Strike on Predecessor",
+    "link": "https://www.wsj.com/world/middle-east/israel-kills-new-hamas-military-chief-11-days-after-strike-on-predecessor-d151df38",
+    "source": "wsj",
+    "pubdate": "2026-05-27-13-17-00 +0000"
+  },
+  {
+    "headline": "BP’s Former Chairman, Albert Manifold, Disputes How Company Characterized His Dismissal",
+    "link": "https://www.nytimes.com/2026/05/27/business/bp-albert-manifold.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-17-00 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2026-05-27-11-11-11 +0000"
+    "pubdate": "2026-05-27-13-16-07 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2026-05-27-11-11-11 +0000"
+    "pubdate": "2026-05-27-13-16-07 +0000"
   },
   {
-    "headline": "AkzoNobel Shares Jump After $14.5 Billion Nippon Paint, Sherwin-Williams Bid",
-    "link": "https://www.wsj.com/business/deals/akzonobel-rejects-14-5-billion-nippon-paint-sherwin-williams-takeover-bid-b4ff700b?mod=pls_whats_news_us_business_f",
+    "headline": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+    "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-27-13-15-26 +0000"
+  },
+  {
+    "headline": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+    "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-27-13-15-26 +0000"
+  },
+  {
+    "headline": "How a rise in energy bills will affect you from July",
+    "link": "https://www.bbc.com/news/videos/c8xw2g7485zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-27-13-14-50 +0000"
+  },
+  {
+    "headline": "How a rise in energy bills will affect you from July",
+    "link": "https://www.bbc.com/news/videos/c8xw2g7485zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-27-13-14-50 +0000"
+  },
+  {
+    "headline": "Two Survivors Left at Sea After U.S. Attacks Boat in Pacific",
+    "link": "https://www.nytimes.com/2026/05/27/us/politics/two-survivors-boat-strike.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-14-09 +0000"
+  },
+  {
+    "headline": "Two Survivors Left at Sea After U.S. Attacks Boat in Pacific",
+    "link": "https://www.nytimes.com/2026/05/27/us/politics/two-survivors-boat-strike.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-14-09 +0000"
+  },
+  {
+    "headline": "Two Survivors Left at Sea After U.S. Attacks Boat in Pacific",
+    "link": "https://www.nytimes.com/2026/05/27/us/politics/two-survivors-boat-strike.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-14-09 +0000"
+  },
+  {
+    "headline": "Ken Paxton Victory Tests Whether Texas Republicans Can Reunite for November",
+    "link": "https://www.nytimes.com/2026/05/27/us/texas-republicans-ken-paxton-primary-aftermath.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-10-32 +0000"
+  },
+  {
+    "headline": "A Quiet Pacific Village Becomes China’s Security Testing Ground",
+    "link": "https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-09-29 +0000"
+  },
+  {
+    "headline": "A Quiet Pacific Village Becomes China’s Security Testing Ground",
+    "link": "https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html",
+    "source": "nyt",
+    "pubdate": "2026-05-27-13-09-29 +0000"
+  },
+  {
+    "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-05-27-11-09-00 +0000"
+    "pubdate": "2026-05-27-13-08-00 +0000"
   },
   {
-    "headline": "Race against time to rescue villagers trapped in flooded cave — as 5 are found alive",
-    "link": "https://nypost.com/2026/05/27/world-news/race-against-time-to-rescue-villagers-trapped-in-flooded-cave-in-laos-as-5-are-found-alive/",
-    "source": "nypost",
-    "pubdate": "2026-05-27-11-03-03 +0000"
-  },
-  {
-    "headline": "Temu Owner PDD Posts Profit Miss Amid Fierce Competition in China",
-    "link": "https://www.wsj.com/business/earnings/temu-owner-pdd-posts-profit-miss-amid-fierce-competition-in-china-a8cf3b0a?mod=pls_whats_news_us_business_f",
+    "headline": "Best High-Yield Savings Accounts for May 2026: Up to 5.00%",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
     "source": "wsj",
-    "pubdate": "2026-05-27-11-02-00 +0000"
+    "pubdate": "2026-05-27-13-08-00 +0000"
   },
   {
-    "headline": "U.S. Stock Futures Rise as Chip Rally Rolls On",
-    "link": "https://www.wsj.com/finance/commodities-futures/u-s-stocks-set-to-extend-record-highs-as-peace-talks-optimism-holds-ac262b7d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-05-27-11-02-00 +0000"
-  },
-  {
-    "headline": "State Attorney General Ken Paxton clinched the Texas Republican nomination for U.S. Senate, defeating longtime Sen. John Cornyn",
-    "link": "https://www.wsj.com/politics/elections/paxton-wins-texas-republican-primary-after-trump-endorsement-9d92d587",
-    "source": "wsj",
-    "pubdate": "2026-05-27-11-02-00 +0000"
+    "headline": "Lebanon ceasefire falters as Trump pushes for Iran deal",
+    "link": "https://www.washingtonpost.com/world/2026/05/26/lebanon-ceasefire-falters-trump-pushes-iran-deal/",
+    "source": "wapo",
+    "pubdate": "2026-05-27-13-05-40 +0000"
   }
 ]
