@@ -1,13 +1,13 @@
 [
   {
-    "score": 326,
+    "score": 325,
     "pubdate": "2026-05-27-14-37-09 +0000",
     "source": "cbc",
     "headline": "U.S. strikes Iran again after Trump denies report of deal to reopen Strait of Hormuz",
     "link": "https://www.cbc.ca/news/world/iran-war-day-89-9.7213423?cmp=rss"
   },
   {
-    "score": 166,
+    "score": 165,
     "pubdate": "2026-05-28-14-01-45 +0000",
     "source": "cbc",
     "headline": "A strong Canada 'will help make America great again,' Carney tells New York business leaders",
@@ -21,13 +21,6 @@
     "link": "https://nypost.com/2026/05/28/us-news/jill-biden-wondered-if-husband-joe-had-been-drugged-during-presidential-debate-disaster/"
   },
   {
-    "score": 103,
-    "pubdate": "2026-05-27-23-55-24 +0000",
-    "source": "latimes",
-    "headline": "Newsom vows to levy 100% tax on California recipients of Trump's $1.8-billion 'slush fund'",
-    "link": "https://www.latimes.com/california/story/2026-05-27/newsom-vows-to-levy-100-tax-on-california-recipients-of-trumps-1-8-billion-slush-fund"
-  },
-  {
     "score": 101,
     "pubdate": "2026-05-28-10-00-00 +0000",
     "source": "latimes",
@@ -35,11 +28,18 @@
     "link": "https://www.latimes.com/business/story/2026-05-28/garden-grove-chemical-leak-plant-faces-lawsuits-supply-disruption"
   },
   {
+    "score": 100,
+    "pubdate": "2026-05-27-23-55-24 +0000",
+    "source": "latimes",
+    "headline": "Newsom vows to levy 100% tax on California recipients of Trump's $1.8-billion 'slush fund'",
+    "link": "https://www.latimes.com/california/story/2026-05-27/newsom-vows-to-levy-100-tax-on-california-recipients-of-trumps-1-8-billion-slush-fund"
+  },
+  {
     "score": 98,
-    "pubdate": "2026-05-28-10-47-00 +0000",
+    "pubdate": "2026-05-26-10-35-00 +0000",
     "source": "wsj",
-    "headline": "Sen. John Cornyn of Texas becomes a member of the swelling YOLO Caucus after losing his primary against a Trump-backed opponent. Read more in today’s WSJ Politics newsletter:",
-    "link": "https://www.wsj.com/politics/elections/the-yolo-caucus-is-growing-what-does-it-have-planned-00e4211d"
+    "headline": "War with Iran has halted a hard-won improvement in housing affordability. The problem is rising mortgage rates on the back of worries that the energy crisis will stoke inflation. Read more in today's Markets A.M. newsletter:",
+    "link": "https://www.wsj.com/economy/housing/how-the-iran-war-put-housings-spring-thaw-back-on-ice-1adcccca"
   },
   {
     "score": 97,
@@ -49,7 +49,7 @@
     "link": "https://www.wsj.com/politics/national-security/u-s-warns-of-growing-russian-and-chinese-spying-in-cuba-a99059dd"
   },
   {
-    "score": 97,
+    "score": 90,
     "pubdate": "2026-05-28-15-34-00 +0000",
     "source": "wsj",
     "headline": "Michigan Gov. Gretchen Whitmer said she won’t seek the presidency in 2028, taking one of the Democratic Party’s high-profile stars out of the running",
@@ -64,9 +64,9 @@
   },
   {
     "score": 87,
-    "pubdate": "2026-05-28-21-04-00 +0000",
+    "pubdate": "2026-05-27-23-59-00 +0000",
     "source": "wsj",
-    "headline": "The Trump administration has been holding talks about putting President Trump’s face on a newly created $250 bill, though Treasury Secretary Scott Bessent said the idea would need to be approved by Congress",
-    "link": "https://www.wsj.com/politics/policy/putting-trumps-face-on-250-bill-faces-hurdles-b0add402"
+    "headline": "President Trump and Democrats rarely find themselves in alignment. Yet both sides wanted the same outcome in Tuesday’s Texas Senate primary runoff election.",
+    "link": "https://www.wsj.com/politics/elections/trump-and-democrats-get-paxton-in-texas-the-senate-nominee-they-all-wanted-f5e6ba16"
   }
 ]
