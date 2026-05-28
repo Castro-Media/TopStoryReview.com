@@ -1,9 +1,72 @@
 [
   {
-    "score": 13,
-    "pubdate": "2026-05-27-23-15-48 +0000",
+    "score": 29,
+    "pubdate": "2026-05-28-01-23-45 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: U.S. Conducts New Strikes on Southern Iran",
+    "link": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-05-28-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is pursuing funding deals with a group of drone companies as part of its effort to increase domestic production and lower costs, according to people familiar with the matter",
+    "link": "https://www.wsj.com/politics/national-security/ttrump-us-drone-company-funding-cadef1f7"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-05-28-00-28-45 +0000",
+    "source": "bbc",
+    "headline": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
+    "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-28-00-57-34 +0000",
+    "source": "nyt",
+    "headline": "Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll, Who Accused Trump of Rape",
+    "link": "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-05-28-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The High-Seas Black Market That Keeps Iran’s Illicit Oil Flowing",
+    "link": "https://www.wsj.com/world/middle-east/iranian-oil-shadow-fleet-black-market-3dc7fb6c?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-28-01-02-09 +0000",
+    "source": "nyt",
+    "headline": "Five People Stuck in Flooded Laos Cave Are Found Alive",
+    "link": "https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-28-01-06-53 +0000",
+    "source": "nyt",
+    "headline": "U.S. Strikes Military Sites in Iran for Second Time in 3 Days",
+    "link": "https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-28-00-58-48 +0000",
+    "source": "nyt",
+    "headline": "Trump Says He Feels No Political Pressure to Make an Iran Deal",
+    "link": "https://www.nytimes.com/2026/05/27/world/middleeast/trump-iran-peace-talks.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-05-28-00-38-28 +0000",
     "source": "nypost",
-    "headline": "Park Slope Coop rips Israeli products from store hours after boycott vote: ‘Enjoy your mediocre hummus!’",
-    "link": "https://nypost.com/2026/05/27/us-news/park-slope-coop-removes-israeli-products-hours-after-boycott-vote/"
+    "headline": "Former CIA official arrested after feds find $40M worth of gold bars stashed at his home: report",
+    "link": "https://nypost.com/2026/05/27/us-news/former-cia-official-arrested-after-feds-find-40m-worth-of-gold-bars-stashed-at-his-home-report/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-05-28-01-10-00 +0000",
+    "source": "wsj",
+    "headline": "Bank of Korea Holds Rates Steady, Raises Inflation and Growth Forecasts",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-korea-holds-rates-steady-raises-inflation-and-growth-forecasts-544c955e"
   }
 ]
