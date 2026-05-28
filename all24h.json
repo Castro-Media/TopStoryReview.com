@@ -1,39 +1,207 @@
 [
   {
+    "headline": "Uganda Closes Border With Congo as Ebola Fears Rise",
+    "link": "https://www.nytimes.com/2026/05/27/world/africa/ebola-congo-uganda.html",
+    "source": "nyt",
+    "pubdate": "2026-05-28-06-11-04 +0000"
+  },
+  {
+    "headline": "Uganda Closes Border With Congo as Ebola Fears Rise",
+    "link": "https://www.nytimes.com/2026/05/27/world/africa/ebola-congo-uganda.html",
+    "source": "nyt",
+    "pubdate": "2026-05-28-06-11-04 +0000"
+  },
+  {
+    "headline": "Legal bid to block UK-backed French migrant detention centre",
+    "link": "https://www.bbc.com/news/articles/cdxpdqvdyz7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-06-10-33 +0000"
+  },
+  {
+    "headline": "Michigan teen girl fights off repeat sex offender who attacked her while walking home from school",
+    "link": "https://nypost.com/2026/05/28/us-news/michigan-teen-girl-fights-off-repeat-sex-offender-who-attacked-her-while-walking-home-from-school/",
+    "source": "nypost",
+    "pubdate": "2026-05-28-05-52-34 +0000"
+  },
+  {
+    "headline": "U.S. Conducts New Strikes on Southern Iran",
+    "link": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal",
+    "source": "nyt",
+    "pubdate": "2026-05-28-05-41-41 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-05-28-05-37-59 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-05-28-05-37-59 +0000"
+  },
+  {
+    "headline": "Bank of Korea Stands Pat But Signals Tighter Policy Ahead",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-korea-holds-rates-steady-raises-inflation-and-growth-forecasts-544c955e",
+    "source": "wsj",
+    "pubdate": "2026-05-28-05-35-00 +0000"
+  },
+  {
+    "headline": "Why Pakistan and Afghanistan Are Still Fighting",
+    "link": "https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html",
+    "source": "nyt",
+    "pubdate": "2026-05-28-05-33-17 +0000"
+  },
+  {
+    "headline": "Why Pakistan and Afghanistan Are Still Fighting",
+    "link": "https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html",
+    "source": "nyt",
+    "pubdate": "2026-05-28-05-33-17 +0000"
+  },
+  {
+    "headline": "Oil prices jump after US launches new attacks on Iran",
+    "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-05-32-06 +0000"
+  },
+  {
+    "headline": "Oil prices jump after US launches new attacks on Iran",
+    "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-05-32-06 +0000"
+  },
+  {
+    "headline": "White House commemorates ‘true patriot’ Harambe on what would have been gorilla’s 27th birthday in bizarre post: ‘Rest easy’",
+    "link": "https://nypost.com/2026/05/28/us-news/white-house-commemorates-true-patriot-harambe-on-what-would-have-been-slain-gorillas-27th-birthday-in-biazarre-post-rest-easy/",
+    "source": "nypost",
+    "pubdate": "2026-05-28-05-09-50 +0000"
+  },
+  {
+    "headline": "White House commemorates ‘true patriot’ Harambe on what would have been gorilla’s 27th birthday in bizarre post: ‘Rest easy’",
+    "link": "https://nypost.com/2026/05/28/us-news/white-house-commemorates-true-patriot-harambe-on-what-would-have-been-slain-gorillas-27th-birthday-in-biazarre-post-rest-easy/",
+    "source": "nypost",
+    "pubdate": "2026-05-28-05-09-50 +0000"
+  },
+  {
+    "headline": "Oil Prices Climb and Stocks Fall After U.S. Strikes Iranian Drones",
+    "link": "https://www.nytimes.com/2026/05/28/business/oil-gas-price-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-05-28-05-01-05 +0000"
+  },
+  {
+    "headline": "US strikes Iran targets for second time in three days",
+    "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-04-59-02 +0000"
+  },
+  {
+    "headline": "US strikes Iran targets for second time in three days",
+    "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-04-59-02 +0000"
+  },
+  {
+    "headline": "Missouri concertgoer dies after being kicked in head by crowd surfer at rock festival",
+    "link": "https://nypost.com/2026/05/28/us-news/missouri-concertgoer-danielle-uskiwich-dies-week-after-being-kicked-in-head-by-crowd-surfer-at-pointfest-rock-festival/",
+    "source": "nypost",
+    "pubdate": "2026-05-28-04-54-34 +0000"
+  },
+  {
+    "headline": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+    "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-04-53-51 +0000"
+  },
+  {
+    "headline": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+    "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-04-53-51 +0000"
+  },
+  {
+    "headline": "Cease-Fires, but No Peace",
+    "link": "https://www.nytimes.com/2026/05/27/world/cease-fires-peace-lebanon-israel-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-05-28-04-52-37 +0000"
+  },
+  {
+    "headline": "Trump Files Revised Defamation Lawsuit Against WSJ Publisher",
+    "link": "https://www.wsj.com/us-news/law/trump-files-revised-defamation-lawsuit-against-wsj-publisher-3c944f80",
+    "source": "wsj",
+    "pubdate": "2026-05-28-04-51-00 +0000"
+  },
+  {
+    "headline": "Israel issues evacuation order for swathes of southern Lebanon",
+    "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-04-44-52 +0000"
+  },
+  {
+    "headline": "Israel issues evacuation order for swathes of southern Lebanon",
+    "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-04-44-52 +0000"
+  },
+  {
+    "headline": "Bat-wielding driver allegedly hurls antisemitic slurs while terrorizing shoppers in Santa Monica",
+    "link": "https://nypost.com/2026/05/28/us-news/bat-wielding-driver-and-dog-terrorize-shoppers-in-santa-monica-as-city-struggles-to-control-crime-crisis/",
+    "source": "nypost",
+    "pubdate": "2026-05-28-04-28-21 +0000"
+  },
+  {
+    "headline": "2 adults and 2 children fatally shot in possible murder-suicide in North Hills home",
+    "link": "https://www.latimes.com/california/story/2026-05-27/four-people-found-fatally-shot-north-hills-home",
+    "source": "latimes",
+    "pubdate": "2026-05-28-04-24-36 +0000"
+  },
+  {
+    "headline": "James Talarico Opens Texas Senate Campaign Against Ken Paxton With Houston Rally",
+    "link": "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html",
+    "source": "nyt",
+    "pubdate": "2026-05-28-04-21-10 +0000"
+  },
+  {
+    "headline": "James Talarico Opens Texas Senate Campaign Against Ken Paxton With Houston Rally",
+    "link": "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html",
+    "source": "nyt",
+    "pubdate": "2026-05-28-04-21-10 +0000"
+  },
+  {
+    "headline": "4 people including 2 kids found dead in North Hills — authorities begin murder investigation",
+    "link": "https://nypost.com/2026/05/28/us-news/four-people-shot-killed-in-north-hills/",
+    "source": "nypost",
+    "pubdate": "2026-05-28-04-19-59 +0000"
+  },
+  {
     "headline": "U.S. Military Conducts New Strikes on Iran",
     "link": "https://www.wsj.com/world/middle-east/u-s-military-conducts-new-strikes-on-iran-416f76cf",
     "source": "wsj",
     "pubdate": "2026-05-28-04-03-00 +0000"
   },
   {
-    "headline": "Why Pakistan and Afghanistan Are Still Fighting",
-    "link": "https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html",
-    "source": "nyt",
-    "pubdate": "2026-05-28-04-01-08 +0000"
-  },
-  {
-    "headline": "Why Pakistan and Afghanistan Are Still Fighting",
-    "link": "https://www.nytimes.com/2026/05/28/world/asia/pakistan-afghanistan-conflict.html",
-    "source": "nyt",
-    "pubdate": "2026-05-28-04-01-08 +0000"
+    "headline": "Australia charges woman who returned from Syria with joining Islamic State",
+    "link": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-04-01-17 +0000"
   },
   {
     "headline": "How to Watch the Scripps National Spelling Bee",
     "link": "https://www.nytimes.com/2026/05/28/us/how-to-watch-scripps-national-spelling-bee-2026.html",
     "source": "nyt",
-    "pubdate": "2026-05-28-04-01-04 +0000"
+    "pubdate": "2026-05-28-04-01-05 +0000"
   },
   {
     "headline": "What Plunging Pork Prices Say About China’s Economy",
     "link": "https://www.nytimes.com/2026/05/28/business/china-pork-prices-economy.html",
     "source": "nyt",
-    "pubdate": "2026-05-28-04-00-06 +0000"
+    "pubdate": "2026-05-28-04-00-07 +0000"
   },
   {
     "headline": "What Plunging Pork Prices Say About China’s Economy",
     "link": "https://www.nytimes.com/2026/05/28/business/china-pork-prices-economy.html",
     "source": "nyt",
-    "pubdate": "2026-05-28-04-00-06 +0000"
+    "pubdate": "2026-05-28-04-00-07 +0000"
   },
   {
     "headline": "Florida cop pulls over disabled, one-handed woman for holding cellphone while driving — but drops charges over ‘lack of evidence’",
@@ -54,16 +222,16 @@
     "pubdate": "2026-05-28-03-43-50 +0000"
   },
   {
-    "headline": "Iran War Live Updates: U.S. Conducts New Strikes on Southern Iran",
-    "link": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal",
-    "source": "nyt",
-    "pubdate": "2026-05-28-03-42-57 +0000"
-  },
-  {
     "headline": "Missing girl spotted near Mexican border with person suspected of killing her mother",
     "link": "https://nypost.com/2026/05/27/us-news/la-missing-girl-spotted-near-mexico-border-with-father-wanted-in-murder-case/",
     "source": "nypost",
     "pubdate": "2026-05-28-03-38-31 +0000"
+  },
+  {
+    "headline": "Duterte ICC trial to start on 30 November: What you need to know",
+    "link": "https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-03-14-56 +0000"
   },
   {
     "headline": "Outrage after man caught kicking American flag on Memorial Day while walking his dog in Orange County",
@@ -102,18 +270,6 @@
     "pubdate": "2026-05-28-02-58-53 +0000"
   },
   {
-    "headline": "US strikes Iran targets for second time in three days",
-    "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-28-02-58-27 +0000"
-  },
-  {
-    "headline": "US strikes Iran targets for second time in three days",
-    "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-28-02-58-27 +0000"
-  },
-  {
     "headline": "Massie Visits Greene in Costa Rica for Fishing and ‘Spicy’ Political Talks",
     "link": "https://www.nytimes.com/2026/05/27/us/politics/massie-marjorie-taylor-greene-costa-rica.html",
     "source": "nyt",
@@ -150,7 +306,13 @@
     "pubdate": "2026-05-28-02-47-53 +0000"
   },
   {
-    "headline": "Australia sues US giant 3M for $2bn over 'forever chemicals' in firefighting foam",
+    "headline": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+    "link": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-02-47-19 +0000"
+  },
+  {
+    "headline": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
     "link": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-28-02-47-19 +0000"
@@ -196,6 +358,12 @@
     "link": "https://48hills.org/2026/05/ladytron-resurfaces-with-the-cool-synth-pleasures-of-paradises/",
     "source": "48hills",
     "pubdate": "2026-05-28-02-17-25 +0000"
+  },
+  {
+    "headline": "Google worker charged with using internal data to make $1.2m on bets",
+    "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-28-02-14-19 +0000"
   },
   {
     "headline": "Google worker charged with using internal data to make $1.2m on bets",
@@ -300,12 +468,6 @@
     "pubdate": "2026-05-28-01-32-33 +0000"
   },
   {
-    "headline": "Bank of Korea Holds Rates Steady, Raises Inflation and Growth Forecasts",
-    "link": "https://www.wsj.com/economy/central-banking/bank-of-korea-holds-rates-steady-raises-inflation-and-growth-forecasts-544c955e",
-    "source": "wsj",
-    "pubdate": "2026-05-28-01-26-00 +0000"
-  },
-  {
     "headline": "Five People Stuck in Flooded Laos Cave Are Found Alive",
     "link": "https://www.nytimes.com/2026/05/27/world/asia/five-rescued-laos-cave.html",
     "source": "nyt",
@@ -402,18 +564,6 @@
     "pubdate": "2026-05-28-00-30-30 +0000"
   },
   {
-    "headline": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
-    "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-28-00-28-45 +0000"
-  },
-  {
-    "headline": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
-    "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-28-00-28-45 +0000"
-  },
-  {
     "headline": "Gold Edges Down as Middle East Tensions, Inflation Worries Persist",
     "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-down-as-middle-east-tensions-inflation-worries-persist-52e33b70?mod=rss_markets_main",
     "source": "wsj",
@@ -424,12 +574,6 @@
     "link": "https://nypost.com/2026/05/27/us-news/death-toll-in-massive-chemical-implosion-rises-as-officials-make-terrible-admission/",
     "source": "nypost",
     "pubdate": "2026-05-28-00-22-06 +0000"
-  },
-  {
-    "headline": "Matthew Perry’s business manager accused assistant of leaving actor to die in scathing takedown",
-    "link": "https://nypost.com/2026/05/27/us-news/matthew-perrys-business-manager-lisa-ferguson-rips-kenneth-iwamasa-at-ketamine-sentencing/",
-    "source": "nypost",
-    "pubdate": "2026-05-28-00-20-17 +0000"
   },
   {
     "headline": "Israel Continues Its Escalation in Lebanon With New Evacuation Warnings",
@@ -448,12 +592,6 @@
     "link": "https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-05-28-00-14-24 +0000"
-  },
-  {
-    "headline": "NYC man hired by Iranian regime to ‘stalk and murder’ dissident journalist sentenced",
-    "link": "https://nypost.com/2026/05/27/us-news/nyc-man-hired-by-iranian-regime-to-stalk-and-murder-dissident-journalist-sentenced/",
-    "source": "nypost",
-    "pubdate": "2026-05-28-00-05-07 +0000"
   },
   {
     "headline": "NYC man hired by Iranian regime to ‘stalk and murder’ dissident journalist sentenced",
@@ -498,28 +636,10 @@
     "pubdate": "2026-05-27-23-55-24 +0000"
   },
   {
-    "headline": "US launches new strikes in Iran targeting military site that posed threat to troops, commercial shipping",
+    "headline": "Iran says it targeted US airbase in retaliation of latest strikes on Tehran after ‘threat around Strait of Hormuz’",
     "link": "https://nypost.com/2026/05/27/us-news/us-launches-new-strikes-in-iran-targeting-military-site-that-posed-threat-to-troops-commercial-shipping-report/",
     "source": "nypost",
     "pubdate": "2026-05-27-23-55-05 +0000"
-  },
-  {
-    "headline": "US launches new strikes in Iran targeting military site that posed threat to troops, commercial shipping",
-    "link": "https://nypost.com/2026/05/27/us-news/us-launches-new-strikes-in-iran-targeting-military-site-that-posed-threat-to-troops-commercial-shipping-report/",
-    "source": "nypost",
-    "pubdate": "2026-05-27-23-55-05 +0000"
-  },
-  {
-    "headline": "Sea lion makes splash at Monterey Bay race as it joins canoe crew",
-    "link": "https://nypost.com/2026/05/27/us-news/sea-lion-makes-splash-at-monterey-bay-race-as-it-joins-canoe-crew/",
-    "source": "nypost",
-    "pubdate": "2026-05-27-23-48-23 +0000"
-  },
-  {
-    "headline": "Gavin Newsom calls for 100% tax on Trump’s Jan. 6 ‘slush fund’",
-    "link": "https://nypost.com/2026/05/27/us-news/gavin-newsom-calls-for-100-tax-on-trumps-jan-6-slush-fund/",
-    "source": "nypost",
-    "pubdate": "2026-05-27-23-48-23 +0000"
   },
   {
     "headline": "Gavin Newsom calls for 100% tax on Trump’s Jan. 6 ‘slush fund’",
@@ -574,12 +694,6 @@
     "link": "https://www.nytimes.com/2026/05/27/us/longview-washington-paper-mill-implosion.html",
     "source": "nyt",
     "pubdate": "2026-05-27-23-18-40 +0000"
-  },
-  {
-    "headline": "Legal bid to block UK-backed French migrant detention centre",
-    "link": "https://www.bbc.com/news/articles/cdxpdqvdyz7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-23-17-16 +0000"
   },
   {
     "headline": "Is 'out of control' US tipping culture spreading overseas?",
@@ -684,18 +798,6 @@
     "pubdate": "2026-05-27-22-24-43 +0000"
   },
   {
-    "headline": "Uganda Closes Border With Congo as Ebola Fears Rise",
-    "link": "https://www.nytimes.com/2026/05/27/world/africa/ebola-congo-uganda.html",
-    "source": "nyt",
-    "pubdate": "2026-05-27-22-23-17 +0000"
-  },
-  {
-    "headline": "Uganda Closes Border With Congo as Ebola Fears Rise",
-    "link": "https://www.nytimes.com/2026/05/27/world/africa/ebola-congo-uganda.html",
-    "source": "nyt",
-    "pubdate": "2026-05-27-22-23-17 +0000"
-  },
-  {
     "headline": "How would Chakrabarti, Chan or Wiener turn big talk into big deeds?",
     "link": "https://missionlocal.org/2026/05/congress-chakrabarti-chan-wiener-governance/",
     "source": "missionlocal",
@@ -706,6 +808,12 @@
     "link": "https://www.startribune.com/investigations-and-new-evidence-what-led-to-minneapolis-police-chief-brian-oharas-downfall/601841527",
     "source": "startribune",
     "pubdate": "2026-05-27-22-19-22 +0000"
+  },
+  {
+    "headline": "In court as Matthew Perry's assistant sentenced",
+    "link": "https://www.bbc.com/news/videos/ckgp8mrj5ggo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-05-27-22-11-08 +0000"
   },
   {
     "headline": "Former Judges Urge Inquiry Into Deal Trump Struck With I.R.S.",
@@ -742,12 +850,6 @@
     "link": "https://www.nytimes.com/2026/05/27/us/politics/jill-biden-joe-biden-2024-debate.html",
     "source": "nyt",
     "pubdate": "2026-05-27-22-00-48 +0000"
-  },
-  {
-    "headline": "The world's carmakers are struggling to compete with China",
-    "link": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-22-00-38 +0000"
   },
   {
     "headline": "The world's carmakers are struggling to compete with China",
@@ -840,7 +942,7 @@
     "pubdate": "2026-05-27-21-41-00 +0000"
   },
   {
-    "headline": "FTSE Russell Latest to Make U.S. Index Inclusion Easier ahead of SpaceX IPO",
+    "headline": "FTSE Russell Latest to Make U.S. Index Inclusion Easier Ahead of SpaceX IPO",
     "link": "https://www.wsj.com/finance/stocks/ftse-russell-latest-to-make-u-s-index-inclusion-easier-ahead-of-spacex-ipo-35157adf?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-05-27-21-41-00 +0000"
@@ -1056,12 +1158,6 @@
     "pubdate": "2026-05-27-21-09-07 +0000"
   },
   {
-    "headline": "Cease-Fires, but No Peace",
-    "link": "https://www.nytimes.com/2026/05/27/world/cease-fires-peace-lebanon-israel-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-05-27-21-05-01 +0000"
-  },
-  {
     "headline": "Condé Nast Pays Over $400,000 to 3 Journalists Fired Over Protest",
     "link": "https://www.nytimes.com/2026/05/27/business/media/conde-nast-fired-journalists-settlement.html",
     "source": "nyt",
@@ -1200,22 +1296,16 @@
     "pubdate": "2026-05-27-20-30-58 +0000"
   },
   {
+    "headline": "How a Canadian Epstein survivor found her voice",
+    "link": "https://www.cbc.ca/player/play/9.7214059?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-05-27-20-28-55 +0000"
+  },
+  {
     "headline": "Jill Biden shockingly admits she thought Joe was ‘having a stroke’ during disastrous 2024 debate with Trump",
     "link": "https://nypost.com/2026/05/27/us-news/jill-biden-thought-joe-was-having-a-stroke-during-disastrous-debate-with-trump/",
     "source": "nypost",
     "pubdate": "2026-05-27-20-28-26 +0000"
-  },
-  {
-    "headline": "Israel issues evacuation order for swathes of southern Lebanon",
-    "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-20-26-03 +0000"
-  },
-  {
-    "headline": "Israel issues evacuation order for swathes of southern Lebanon",
-    "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-20-26-03 +0000"
   },
   {
     "headline": "HP Cuts Full-Year Outlook Despite Higher Second-Quarter Profit, Revenue",
@@ -1842,12 +1932,6 @@
     "pubdate": "2026-05-27-16-14-34 +0000"
   },
   {
-    "headline": "First Ghanaians evacuated from South Africa over immigration protests land in Accra",
-    "link": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-16-14-34 +0000"
-  },
-  {
     "headline": "How you can save money on your energy bill",
     "link": "https://www.bbc.com/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1920,6 +2004,12 @@
     "pubdate": "2026-05-27-15-50-00 +0000"
   },
   {
+    "headline": "The Brewing Fight Over the World’s Most Popular Electric Guitar",
+    "link": "https://www.wsj.com/business/the-brewing-fight-over-the-worlds-most-popular-electric-guitar-d7ba6596?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-05-27-15-50-00 +0000"
+  },
+  {
     "headline": "Spanish police raid HQ of governing Socialists as corruption probe escalates",
     "link": "https://www.bbc.com/news/articles/c78qy78dlj1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1930,12 +2020,6 @@
     "link": "https://nypost.com/2026/05/27/business/fired-jpmorgan-employee-who-claimed-wrongful-termination-over-642-50-super-bowl-deli-platter-awarded-4m/",
     "source": "nypost",
     "pubdate": "2026-05-27-15-46-51 +0000"
-  },
-  {
-    "headline": "Trump claims Iran ‘negotiating on fumes’ after US rejects reported peace framework as ‘fabrication’",
-    "link": "https://nypost.com/2026/05/27/us-news/white-house-rejects-reported-draft-framework-with-iran-as-fabrication/",
-    "source": "nypost",
-    "pubdate": "2026-05-27-15-23-26 +0000"
   },
   {
     "headline": "Bossy BP chair’s sudden ouster over alleged bullying: ‘Impossible to work with’",
@@ -2490,20 +2574,14 @@
     "pubdate": "2026-05-27-10-00-00 +0000"
   },
   {
-    "headline": "Parental mental health — not medication — drives autism correlation, new study finds",
-    "link": "https://www.latimes.com/science/story/2026-05-27/parental-mental-health-not-medication-drives-autism-correlation-study-finds",
-    "source": "latimes",
-    "pubdate": "2026-05-27-10-00-00 +0000"
-  },
-  {
-    "headline": "'Easily discarded': Processing delays leave DACA recipients jobless and fearing deportation",
-    "link": "https://www.latimes.com/politics/story/2026-05-27/renewal-delays-leave-daca-recipients-jobless-fearing-deportation",
-    "source": "latimes",
-    "pubdate": "2026-05-27-10-00-00 +0000"
-  },
-  {
     "headline": "Industry knew about chemical 'runaway' dangers for years. Then came near-catastrophe in O.C.",
     "link": "https://www.latimes.com/california/story/2026-05-27/industry-was-warned-for-years-about-chemical-runaway-dangers-then-came-near-catastrophe-in-o-c",
+    "source": "latimes",
+    "pubdate": "2026-05-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Parental mental health — not medication — drives autism correlation, new study finds",
+    "link": "https://www.latimes.com/science/story/2026-05-27/parental-mental-health-not-medication-drives-autism-correlation-study-finds",
     "source": "latimes",
     "pubdate": "2026-05-27-10-00-00 +0000"
   },
@@ -2522,6 +2600,12 @@
   {
     "headline": "Barabak: Texas is where Democratic dreams die. Did Trump change that with his Senate pick?",
     "link": "https://www.latimes.com/politics/story/2026-05-27/texas-senate-paxton-talarico-trump",
+    "source": "latimes",
+    "pubdate": "2026-05-27-10-00-00 +0000"
+  },
+  {
+    "headline": "'Easily discarded': Processing delays leave DACA recipients jobless and fearing deportation",
+    "link": "https://www.latimes.com/politics/story/2026-05-27/renewal-delays-leave-daca-recipients-jobless-fearing-deportation",
     "source": "latimes",
     "pubdate": "2026-05-27-10-00-00 +0000"
   },
@@ -2728,47 +2812,5 @@
     "link": "https://nypost.com/2026/05/27/world-news/russia-relentlessly-targeting-uk-allies-in-cyberspace-spy-chief-warns/",
     "source": "nypost",
     "pubdate": "2026-05-27-06-31-31 +0000"
-  },
-  {
-    "headline": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
-    "link": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-05-56-44 +0000"
-  },
-  {
-    "headline": "Farmers' warning as milk prices fall below cost",
-    "link": "https://www.bbc.com/news/articles/c5ye37jrk3go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-05-27-05-23-16 +0000"
-  },
-  {
-    "headline": "China’s Industrial Profits Rise, Defying Economic Headwinds",
-    "link": "https://www.wsj.com/economy/chinas-industrial-profits-rise-defying-economic-headwinds-58d3c3bb",
-    "source": "wsj",
-    "pubdate": "2026-05-27-04-59-00 +0000"
-  },
-  {
-    "headline": "Tesla Logs Strong Growth in European Monthly Sales",
-    "link": "https://www.wsj.com/business/autos/tesla-logs-strong-growth-in-european-monthly-sales-5fbe07a2?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-27-04-56-00 +0000"
-  },
-  {
-    "headline": "Newspaper Magnate Donald Newhouse Dies at 96",
-    "link": "https://www.wsj.com/business/media/newspaper-magnate-donald-newhouse-dies-at-96-e303d17f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-05-27-04-29-00 +0000"
-  },
-  {
-    "headline": "Newspaper Magnate Donald Newhouse Dies at 96",
-    "link": "https://www.wsj.com/business/media/newspaper-magnate-donald-newhouse-dies-at-96-e303d17f",
-    "source": "wsj",
-    "pubdate": "2026-05-27-04-29-00 +0000"
-  },
-  {
-    "headline": "Iceland Warms to Europe",
-    "link": "https://www.nytimes.com/2026/05/26/world/iceland-europe-iran-us-strikes.html",
-    "source": "nyt",
-    "pubdate": "2026-05-27-04-18-55 +0000"
   }
 ]
