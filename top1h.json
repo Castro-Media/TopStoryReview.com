@@ -1,9 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2026-05-28-23-16-58 +0000",
+    "score": 76,
+    "pubdate": "2026-05-29-01-29-56 +0000",
+    "source": "wapo",
+    "headline": "Live updates: Scripps National Spelling Bee finalists face off in D.C. - Quick Post",
+    "link": "https://www.washingtonpost.com/dc-md-va/2026/05/29/live-updates-scripps-national-spelling-bee-finalists-face-off-dc-quick-post-11/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-05-29-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Labor’s share of economic output just hit an all-time low, while the profit share hit a near-record. The divide helps explain why consumers feel so glum, writes @greg_ip",
+    "link": "https://www.wsj.com/finance/stocks/the-record-divide-between-corporate-profits-and-worker-pay-ea4c75bc"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-05-29-01-31-47 +0000",
+    "source": "nyt",
+    "headline": "In Carroll Lawsuits Inquiry, Scrutiny Turns Toward Private Citizens Who Antagonized Trump",
+    "link": "https://www.nytimes.com/2026/05/28/us/politics/justice-department-carroll-hoffman-lawsuit-trump.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-05-29-00-42-00 +0000",
+    "source": "wsj",
+    "headline": "Shares in Dell soared nearly 40% in after-hours trading Thursday after the computer hardware maker reported red-hot growth in AI servers for data centers and details emerged about a $9.7 billion military contract",
+    "link": "https://www.wsj.com/tech/dell-stock-soars-on-data-center-revenue-and-pentagon-deal-6645700b"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-29-00-46-41 +0000",
     "source": "nypost",
-    "headline": "Shocking moment Amazon delivery driver snatches family’s beloved cat ‘Junie’ off doorstep",
-    "link": "https://nypost.com/2026/05/28/us-news/shocking-moment-amazon-delivery-driver-snatches-familys-beloved-cat-junie-off-doorstep/"
+    "headline": "3-year-old California girl hospitalized with acute kidney failure after eating at Costa Mesa spot amid E. coli outbreak, lawsuit claims",
+    "link": "https://nypost.com/2026/05/28/us-news/california-girl-hospitalized-amid-kebab-shop-e-coli-outbreak-lawsuit-claims/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-05-29-01-03-18 +0000",
+    "source": "nypost",
+    "headline": "Gretchen Whitmer reveals she’s not seeking presidency despite 2028 campaign speculation",
+    "link": "https://nypost.com/2026/05/28/us-news/gretchen-whitmer-reveals-shes-not-seeking-presidency-despite-2028-campaign-speculation/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-29-01-28-00 +0000",
+    "source": "wsj",
+    "headline": "Bari Weiss Overhauls ‘60 Minutes’ With New Executive Producer",
+    "link": "https://www.wsj.com/business/media/cbs-news-cuts-ties-with-60-minutes-correspondent-sharyn-alfonsi-73ad85c9?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-05-29-01-14-33 +0000",
+    "source": "nyt",
+    "headline": "Judge Declines, for Now, to Block Mail-In Voting Changes Ordered by Trump",
+    "link": "https://www.nytimes.com/2026/05/28/us/politics/trump-voting-executive-order.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-05-29-00-42-00 +0000",
+    "source": "wsj",
+    "headline": "Dell Stock Soars on Data-Center Revenue and Pentagon Deal",
+    "link": "https://www.wsj.com/tech/dell-stock-soars-on-data-center-revenue-and-pentagon-deal-6645700b?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-05-29-01-20-18 +0000",
+    "source": "nyt",
+    "headline": "Where Do E. Jean Carroll’s Lawsuits Against President Trump Stand?",
+    "link": "https://www.nytimes.com/2026/05/28/us/politics/e-jean-carroll-trump-lawsuits.html"
   }
 ]
