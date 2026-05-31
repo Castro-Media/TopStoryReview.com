@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 21,
+    "pubdate": "2026-05-30-23-21-00 +0000",
+    "source": "wsj",
+    "headline": "After several musicians dropped out of the festivities on the National Mall celebrating America’s 250th birthday, President Trump has put himself forward as the alternative act",
+    "link": "https://www.wsj.com/politics/policy/trump-names-himself-headliner-for-250th-birthday-kickoff-adac3374"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-05-31-00-11-56 +0000",
+    "source": "bbc",
+    "headline": "Cuba’s blackouts leave high-rise residents with constant uncertainty",
+    "link": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-05-30-23-43-36 +0000",
+    "source": "nypost",
+    "headline": "Bill Maher blasts California’s education results, cites two surging red states",
+    "link": "https://nypost.com/2026/05/30/us-news/bill-maher-blasts-californias-education-results-cites-two-surging-red-states/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-31-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Family Farmers Making More From Clicks Than Crops",
+    "link": "https://www.wsj.com/business/the-family-farmers-making-more-from-clicks-than-crops-9404e1e9?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-30-23-55-51 +0000",
+    "source": "nyt",
+    "headline": "Inside Trump’s Deal With the I.R.S. to Drop His $10 Billion Lawsuit",
+    "link": "https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-30-23-28-05 +0000",
+    "source": "startribune",
+    "headline": "As summer break begins, Annuniciation community goes fishing to honor Fletcher Merkel",
+    "link": "https://www.startribune.com/as-summer-break-begins-annuniciation-community-goes-fishing-to-honor-fletcher-merkel/601850629"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-05-30-23-48-52 +0000",
+    "source": "nypost",
+    "headline": "‘Double boom’:  New England residents terrified by massive explosion from outer space",
+    "link": "https://nypost.com/2026/05/30/us-news/double-boom-meteor-fireball-shakes-homes-spooks-new-england-residents/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-05-30-23-17-26 +0000",
+    "source": "bbc",
+    "headline": "How Putin became master of the image",
+    "link": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-05-31-00-06-33 +0000",
+    "source": "startribune",
+    "headline": "Live: GOP governor endorsement disrupted by voting ‘anomalies’",
+    "link": "https://www.startribune.com/live-battle-for-gop-endorsement-in-us-senate-race-heats-up-dfls-klobuchar-names-running-mate/601783137"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-05-31-00-10-30 +0000",
+    "source": "nyt",
+    "headline": "Trump Sends Tougher Terms to Iran for Peace Framework, Officials Say",
+    "link": "https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html"
+  }
+]
