@@ -1,38 +1,24 @@
 [
   {
-    "score": 75,
+    "score": 73,
     "pubdate": "2026-05-31-12-32-58 +0000",
     "source": "nypost",
     "headline": "Maine Senate Dem Graham Platner puts wife Amy on video to defend against claims he was posting on creepy hookup app",
     "link": "https://nypost.com/2026/05/31/us-news/graham-platners-wife-defends-against-claims-he-was-posting-on-creepy-hookup-app/"
   },
   {
-    "score": 75,
-    "pubdate": "2026-05-30-20-59-39 +0000",
-    "source": "nypost",
-    "headline": "Trump rages over fed judge who ordered his name off Trump Kennedy Center after intimate connection to Biden revealed",
-    "link": "https://nypost.com/2026/05/30/us-news/trump-rages-over-fed-judge-who-ordered-his-name-off-trump-kennedy-center-after-intimate-connection-to-biden-revealed/"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-05-30-17-34-30 +0000",
-    "source": "bbc",
-    "headline": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
-    "link": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 44,
+    "score": 68,
     "pubdate": "2026-05-30-16-34-30 +0000",
     "source": "nyt",
     "headline": "As Trump Mulls Decision About Iran War Deal, a Restive Middle East Waits to Hear",
     "link": "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html"
   },
   {
-    "score": 43,
-    "pubdate": "2026-05-31-02-29-17 +0000",
-    "source": "nypost",
-    "headline": "Republican candidate Steve Hilton demands Chad Bianco drop out of CA governor race",
-    "link": "https://nypost.com/2026/05/30/us-news/republican-candidate-steve-hilton-demands-chad-bianco-drop-out-of-ga-governor-race/"
+    "score": 46,
+    "pubdate": "2026-05-30-17-34-30 +0000",
+    "source": "bbc",
+    "headline": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
+    "link": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 41,
@@ -40,6 +26,13 @@
     "source": "bbc",
     "headline": "South Africa made to look like fools after World Cup visa issues, says minister",
     "link": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-05-31-02-29-17 +0000",
+    "source": "nypost",
+    "headline": "Republican candidate Steve Hilton demands Chad Bianco drop out of CA governor race",
+    "link": "https://nypost.com/2026/05/30/us-news/republican-candidate-steve-hilton-demands-chad-bianco-drop-out-of-ga-governor-race/"
   },
   {
     "score": 39,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
     "link": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-05-31-11-26-08 +0000",
+    "source": "bbc",
+    "headline": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+    "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss"
   }
 ]
