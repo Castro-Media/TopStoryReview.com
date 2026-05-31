@@ -1,31 +1,45 @@
 [
   {
-    "score": 69,
-    "pubdate": "2026-05-31-12-32-58 +0000",
-    "source": "nypost",
-    "headline": "Maine Dem candidate Graham Platner sends wife to defend against claims he was posting on creepy hookup app: ‘Like a hostage video’",
-    "link": "https://nypost.com/2026/05/31/us-news/graham-platners-wife-defends-against-claims-he-was-posting-on-creepy-hookup-app/"
-  },
-  {
-    "score": 69,
+    "score": 78,
     "pubdate": "2026-05-30-20-59-39 +0000",
     "source": "nypost",
     "headline": "Trump rages over fed judge who ordered his name off Trump Kennedy Center after intimate connection to Biden revealed",
     "link": "https://nypost.com/2026/05/30/us-news/trump-rages-over-fed-judge-who-ordered-his-name-off-trump-kennedy-center-after-intimate-connection-to-biden-revealed/"
   },
   {
-    "score": 65,
+    "score": 63,
+    "pubdate": "2026-05-31-12-32-58 +0000",
+    "source": "nypost",
+    "headline": "Maine Dem candidate Graham Platner sends wife to defend against claims he was posting on creepy hookup app: ‘Like a hostage video’",
+    "link": "https://nypost.com/2026/05/31/us-news/graham-platners-wife-defends-against-claims-he-was-posting-on-creepy-hookup-app/"
+  },
+  {
+    "score": 46,
     "pubdate": "2026-05-31-14-15-12 +0000",
     "source": "nypost",
     "headline": "Mamdani skips Israel Day Parade to instead talk about running for re-election — just 5 months into NYC mayoral tenure",
     "link": "https://nypost.com/2026/05/31/us-news/mamdani-already-cant-wait-to-run-for-re-election-just-5-months-into-nyc-mayoral-tenure/"
   },
   {
-    "score": 44,
+    "score": 41,
+    "pubdate": "2026-05-31-18-10-50 +0000",
+    "source": "latimes",
+    "headline": "Judge denies Bill Cosby's request for a new trial in Los Angeles County",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-05-31/judge-denies-bill-cosbys-request-for-new-trial-in-los-angeles-county"
+  },
+  {
+    "score": 40,
     "pubdate": "2026-05-31-16-34-09 +0000",
     "source": "nypost",
     "headline": "NJ Gov. Sherrill claims victory on ICE detention center Delaney Hall — but DHS says she solved a problem she created",
     "link": "https://nypost.com/2026/05/31/us-news/nj-gov-sherrill-claims-victory-on-ice-detention-center-but-dhs-says-she-created-the-problem/"
+  },
+  {
+    "score": 38,
+    "pubdate": "2026-05-31-02-39-00 +0000",
+    "source": "wsj",
+    "headline": "China’s manufacturing activity stayed flat in May after expanding for two straight months, reflecting the pressure from rising energy costs since the Middle East conflict began",
+    "link": "https://www.wsj.com/economy/china-manufacturing-activity-stays-flat-in-may-as-energy-costs-weigh-61f8c5ce"
   },
   {
     "score": 36,
@@ -35,13 +49,6 @@
     "link": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 36,
-    "pubdate": "2026-05-31-02-39-00 +0000",
-    "source": "wsj",
-    "headline": "China’s manufacturing activity stayed flat in May after expanding for two straight months, reflecting the pressure from rising energy costs since the Middle East conflict began",
-    "link": "https://www.wsj.com/economy/china-manufacturing-activity-stays-flat-in-may-as-energy-costs-weigh-61f8c5ce"
-  },
-  {
     "score": 34,
     "pubdate": "2026-05-30-22-23-32 +0000",
     "source": "bbc",
@@ -49,24 +56,17 @@
     "link": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 34,
-    "pubdate": "2026-05-30-22-00-00 +0000",
-    "source": "nypost",
-    "headline": "Spencer Pratt gets most support in these LA neighborhoods, new poll shows",
-    "link": "https://nypost.com/2026/05/30/us-news/spencer-pratt-gets-most-support-in-these-la-neighborhoods-new-poll-shows/"
+    "score": 32,
+    "pubdate": "2026-05-31-15-41-28 +0000",
+    "source": "latimes",
+    "headline": "Trying to be 'strategic,' California Democrats wait to vote amid fears of governor's lockout",
+    "link": "https://www.latimes.com/california/story/2026-05-31/california-democrats-hang-onto-ballots-amid-fears-of-governor-lockout"
   },
   {
-    "score": 33,
-    "pubdate": "2026-05-31-16-57-08 +0000",
-    "source": "nypost",
-    "headline": "Donald Trump’s damning five-word verdict on California’s elections — as Gavin Newsom bites back",
-    "link": "https://nypost.com/2026/05/31/us-news/trumps-damning-five-word-verdict-on-californias-elections/"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-05-31-17-06-02 +0000",
-    "source": "nyt",
-    "headline": "Timeline: Where and When Trump Has Involved the U.S. Military in International Conflicts",
-    "link": "https://www.nytimes.com/2026/05/31/us/politics/trumps-military-wars.html"
+    "score": 31,
+    "pubdate": "2026-05-31-18-13-39 +0000",
+    "source": "bbc",
+    "headline": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+    "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss"
   }
 ]
