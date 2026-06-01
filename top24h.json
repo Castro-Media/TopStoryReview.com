@@ -1,34 +1,55 @@
 [
   {
-    "score": 56,
-    "pubdate": "2026-05-31-17-06-02 +0000",
+    "score": 75,
+    "pubdate": "2026-05-31-09-01-06 +0000",
     "source": "nyt",
-    "headline": "Timeline: Where and When Trump Has Involved the U.S. Military in International Conflicts",
-    "link": "https://www.nytimes.com/2026/05/31/us/politics/trumps-military-wars.html"
+    "headline": "He Was Satirized on British TV. Now He’s Trump’s Pick to Lead California.",
+    "link": "https://www.nytimes.com/2026/05/31/us/steve-hilton-california-governor.html"
   },
   {
-    "score": 44,
+    "score": 54,
+    "pubdate": "2026-05-31-12-32-58 +0000",
+    "source": "nypost",
+    "headline": "Maine Dem candidate Graham Platner sends wife to defend against claims he was posting on creepy hookup app: ‘Like a hostage video’",
+    "link": "https://nypost.com/2026/05/31/us-news/graham-platners-wife-defends-against-claims-he-was-posting-on-creepy-hookup-app/"
+  },
+  {
+    "score": 47,
     "pubdate": "2026-05-31-02-39-00 +0000",
     "source": "wsj",
     "headline": "China’s manufacturing activity stayed flat in May after expanding for two straight months, reflecting the pressure from rising energy costs since the Middle East conflict began",
     "link": "https://www.wsj.com/economy/china-manufacturing-activity-stays-flat-in-may-as-energy-costs-weigh-61f8c5ce"
   },
   {
-    "score": 41,
+    "score": 46,
     "pubdate": "2026-05-31-17-12-49 +0000",
     "source": "latimes",
     "headline": "Your last-minute guide to the Los Angeles city attorney, controller elections",
     "link": "https://www.latimes.com/california/story/2026-05-31/your-last-minute-guide-to-los-angeles-city-attorney-controller-elections"
   },
   {
-    "score": 38,
-    "pubdate": "2026-05-31-17-27-18 +0000",
-    "source": "bbc",
-    "headline": "South Africa made to look like fools over World Cup visa issues, says minister",
-    "link": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss"
+    "score": 45,
+    "pubdate": "2026-05-31-14-15-12 +0000",
+    "source": "nypost",
+    "headline": "Mamdani skips Israel Day Parade to instead talk about running for re-election — just 5 months into NYC mayoral tenure",
+    "link": "https://nypost.com/2026/05/31/us-news/mamdani-already-cant-wait-to-run-for-re-election-just-5-months-into-nyc-mayoral-tenure/"
   },
   {
-    "score": 35,
+    "score": 37,
+    "pubdate": "2026-05-31-14-45-20 +0000",
+    "source": "nyt",
+    "headline": "To Improve Ukraine’s Military, She Calls Out the Ugly Parts",
+    "link": "https://www.nytimes.com/2026/05/31/world/europe/ukraine-military-soldiers-ombudsman.html"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-05-31-21-40-48 +0000",
+    "source": "nypost",
+    "headline": "Stephen A. Smith trashes Jill Biden for covering up for hubby Joe while thinking he had a stroke: ‘Really disturbed me’",
+    "link": "https://nypost.com/2026/05/31/us-news/stephen-a-smith-trashes-jill-biden-for-covering-up-for-joe-while-thinking-he-had-a-stroke-really-disturbed-me/"
+  },
+  {
+    "score": 36,
     "pubdate": "2026-05-31-21-27-00 +0000",
     "source": "wsj",
     "headline": "The congressional recess is typically a cooling-off period that eases tensions between the White House and Capitol Hill. But this time, Senate Republicans are staying just as hot.",
@@ -36,37 +57,16 @@
   },
   {
     "score": 32,
-    "pubdate": "2026-05-31-18-57-27 +0000",
-    "source": "nyt",
-    "headline": "Israel Captures Crusader Castle That Symbolized Its Long Lebanon Occupation",
-    "link": "https://www.nytimes.com/2026/05/31/world/middleeast/israel-lebanon-beaufort-iran.html"
+    "pubdate": "2026-05-31-13-45-48 +0000",
+    "source": "cbc",
+    "headline": "Israeli army captures strategic castle in Lebanon in deepest incursion into the country in a quarter-century",
+    "link": "https://www.cbc.ca/news/world/israel-captures-strategic-lebanon-castle-9.7218332?cmp=rss"
   },
   {
-    "score": 30,
-    "pubdate": "2026-05-31-21-34-21 +0000",
-    "source": "latimes",
-    "headline": "L.A.'s top mayoral candidates fan out across the city making final case to voters",
-    "link": "https://www.latimes.com/california/story/2026-05-31/la-mayoral-hopefuls-bass-pratt-raman-make-final-primary-push"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-05-31-15-41-28 +0000",
-    "source": "latimes",
-    "headline": "Trying to be 'strategic,' California Democrats wait to vote amid fears of governor's lockout",
-    "link": "https://www.latimes.com/california/story/2026-05-31/california-democrats-hang-onto-ballots-amid-fears-of-governor-lockout"
-  },
-  {
-    "score": 29,
-    "pubdate": "2026-05-31-18-13-39 +0000",
+    "score": 32,
+    "pubdate": "2026-05-31-17-27-18 +0000",
     "source": "bbc",
-    "headline": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-    "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-05-31-01-06-41 +0000",
-    "source": "nyt",
-    "headline": "Platner’s Wife Flagged His Sexual Texts With Other Women as Maine Senate Race Began",
-    "link": "https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html"
+    "headline": "South Africa made to look like fools over World Cup visa issues, says minister",
+    "link": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss"
   }
 ]
