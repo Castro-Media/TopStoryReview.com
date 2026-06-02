@@ -1,63 +1,249 @@
 [
   {
-    "headline": "U.S. Treasury Yields Fall as U.S.-Iran Deal Still Awaited",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-as-investors-focus-on-middle-east-developments-a3f916c2?mod=rss_markets_main",
+    "headline": "British American Tobacco Cuts Cigarette Outlook But Expects Lift in New-Category Revenue",
+    "link": "https://www.wsj.com/business/earnings/british-american-tobacco-cuts-cigarette-outlook-but-expects-lift-in-new-category-revenue-31c86c80?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-06-02-06-10-00 +0000"
+    "pubdate": "2026-06-02-08-18-00 +0000"
   },
   {
-    "headline": "Massive Russian attack on cities across Ukraine kills at least ten people",
-    "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+    "headline": "Russian attack on Ukraine kills at least 11 and traps others in damaged buildings",
+    "link": "https://nypost.com/2026/06/02/world-news/russian-attack-on-ukraine-kills-at-least-11-and-traps-others-in-damaged-buildings/",
+    "source": "nypost",
+    "pubdate": "2026-06-02-08-16-26 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: Israel Appears to Pull Back From Threat to Strike Beirut",
+    "link": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon",
+    "source": "nyt",
+    "pubdate": "2026-06-02-08-13-27 +0000"
+  },
+  {
+    "headline": "Watch: Explosion at fireworks factory in Malta",
+    "link": "https://www.bbc.com/news/videos/c5y0n0qvkkxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-02-06-07-35 +0000"
+    "pubdate": "2026-06-02-08-06-20 +0000"
   },
   {
-    "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-    "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+    "headline": "Watch: Explosion at fireworks factory in Malta",
+    "link": "https://www.bbc.com/news/videos/c5y0n0qvkkxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-02-06-04-55 +0000"
+    "pubdate": "2026-06-02-08-06-20 +0000"
   },
   {
-    "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-    "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-02-06-04-55 +0000"
+    "headline": "Stock Market Today: Oil Prices Slip, U.S. Stock Futures Pause",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-02-2026?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-02-08-01-52 +0000"
   },
   {
-    "headline": "China cracks down on 'ghost kitchens' in food delivery apps",
+    "headline": "STMicroelectronics Shares Rally After Chip Maker Raises Data-Center Revenue Target",
+    "link": "https://www.wsj.com/business/stmicroelectronics-shares-rally-after-chip-maker-raises-data-center-revenue-target-9d9a9ba1?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-02-07-59-00 +0000"
+  },
+  {
+    "headline": "Trump Targets Brazil With 25% Tariff, Citing Unfair Trade Practices",
+    "link": "https://www.nytimes.com/2026/06/02/business/trump-tariffs-brazil.html",
+    "source": "nyt",
+    "pubdate": "2026-06-02-07-54-21 +0000"
+  },
+  {
+    "headline": "Trump Targets Brazil With 25% Tariff, Citing Unfair Trade Practices",
+    "link": "https://www.nytimes.com/2026/06/02/business/trump-tariffs-brazil.html",
+    "source": "nyt",
+    "pubdate": "2026-06-02-07-54-21 +0000"
+  },
+  {
+    "headline": "Trump Targets Brazil With 25% Tariff, Citing Unfair Trade Practices",
+    "link": "https://www.nytimes.com/2026/06/02/business/trump-tariffs-brazil.html",
+    "source": "nyt",
+    "pubdate": "2026-06-02-07-54-21 +0000"
+  },
+  {
+    "headline": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
     "link": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-02-05-56-37 +0000"
+    "pubdate": "2026-06-02-07-52-47 +0000"
+  },
+  {
+    "headline": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
+    "link": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-07-52-47 +0000"
+  },
+  {
+    "headline": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
+    "link": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-07-52-47 +0000"
+  },
+  {
+    "headline": "Gold Rises But Middle East Uncertainty Weighs on Outlook",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-appears-trapped-between-two-powerful-narratives-3cb8517b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-02-07-48-00 +0000"
+  },
+  {
+    "headline": "Trump makes late-night endorsements in six states ahead of Tuesday primaries, including California",
+    "link": "https://nypost.com/2026/06/02/us-news/trump-makes-late-night-endorsements-in-six-states-ahead-of-tuesday-primaries-including-california/",
+    "source": "nypost",
+    "pubdate": "2026-06-02-07-46-30 +0000"
+  },
+  {
+    "headline": "Trump makes late-night endorsements in six states ahead of Tuesday primaries, including California",
+    "link": "https://nypost.com/2026/06/02/us-news/trump-makes-late-night-endorsements-in-six-states-ahead-of-tuesday-primaries-including-california/",
+    "source": "nypost",
+    "pubdate": "2026-06-02-07-46-30 +0000"
+  },
+  {
+    "headline": "Massive Russian attack on cities across Ukraine kills at least 13 people",
+    "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-07-39-16 +0000"
+  },
+  {
+    "headline": "Massive Russian attack on cities across Ukraine kills at least 13 people",
+    "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-07-39-16 +0000"
+  },
+  {
+    "headline": "European Gas Prices Fall But Winter Supply Risks Loom",
+    "link": "https://www.wsj.com/articles/european-gas-prices-fall-but-winter-supply-risks-loom-3bb8a853?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-02-07-38-00 +0000"
+  },
+  {
+    "headline": "Russia Launches Deadly Strikes on Ukraine",
+    "link": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-06-02-07-35-45 +0000"
+  },
+  {
+    "headline": "Russia Launches Deadly Strikes on Ukraine",
+    "link": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-06-02-07-35-45 +0000"
+  },
+  {
+    "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+    "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-07-31-10 +0000"
+  },
+  {
+    "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+    "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-07-31-10 +0000"
+  },
+  {
+    "headline": "Oil Falls as Traders Weigh Mixed Messages Over U.S.-Iran Talks",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-trump-seeks-to-quell-israel-hezbollah-conflict-b1508967?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-02-07-27-00 +0000"
+  },
+  {
+    "headline": "Oil Falls as Traders Weigh Mixed Messages Over U.S.-Iran Talks",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-trump-seeks-to-quell-israel-hezbollah-conflict-b1508967?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-02-07-27-00 +0000"
+  },
+  {
+    "headline": "Eurozone Bond Yields Fall as Oil Prices Move Lower",
+    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-as-investors-focus-on-middle-east-developments-a3f916c2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-02-07-24-00 +0000"
+  },
+  {
+    "headline": "The World Capital of French Fries Has a Problem: Too Many Potatoes",
+    "link": "https://www.nytimes.com/2026/05/30/world/europe/europe-belgium-potato-surplus.html",
+    "source": "nyt",
+    "pubdate": "2026-06-02-07-04-31 +0000"
+  },
+  {
+    "headline": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
+    "link": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-07-00-21 +0000"
+  },
+  {
+    "headline": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
+    "link": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-07-00-21 +0000"
+  },
+  {
+    "headline": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
+    "link": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-07-00-21 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-02-06-59-56 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-02-06-59-56 +0000"
+  },
+  {
+    "headline": "Archaeologists uncover ‘mysterious’ ancient tunnel near biblical Kingdom of Judah site in Jerusalem",
+    "link": "https://nypost.com/2026/06/02/world-news/archaeologists-uncover-mysterious-ancient-tunnel-near-biblical-kingdom-of-judah-site-in-jerusalem/",
+    "source": "nypost",
+    "pubdate": "2026-06-02-06-57-21 +0000"
+  },
+  {
+    "headline": "Dollar Eases After Partial Ceasefire Between Hezbollah and Israel",
+    "link": "https://www.wsj.com/finance/currencies/japan-likely-near-edge-of-historic-yen-collapse-fdf1a70b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-02-06-55-00 +0000"
+  },
+  {
+    "headline": "Dollar Eases After Partial Ceasefire Between Hezbollah and Israel",
+    "link": "https://www.wsj.com/finance/currencies/japan-likely-near-edge-of-historic-yen-collapse-fdf1a70b",
+    "source": "wsj",
+    "pubdate": "2026-06-02-06-55-00 +0000"
+  },
+  {
+    "headline": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
+    "link": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
+    "source": "nyt",
+    "pubdate": "2026-06-02-06-44-21 +0000"
+  },
+  {
+    "headline": "Steph Curry signs with Chinese brand after Under Armour split",
+    "link": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-06-29-35 +0000"
+  },
+  {
+    "headline": "Steph Curry signs with Chinese brand after Under Armour split",
+    "link": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-06-29-35 +0000"
+  },
+  {
+    "headline": "Steph Curry signs with Chinese brand after Under Armour split",
+    "link": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-06-29-35 +0000"
+  },
+  {
+    "headline": "Partey named in Ghana squad for World Cup",
+    "link": "https://www.bbc.com/sport/football/articles/cp9ppezl4v1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-02-06-28-20 +0000"
   },
   {
     "headline": "Explosion and fire at defense company in South Korea kills 5",
     "link": "https://nypost.com/2026/06/02/world-news/explosion-and-fire-at-defense-company-in-south-korea-kills-5/",
     "source": "nypost",
     "pubdate": "2026-06-02-05-39-00 +0000"
-  },
-  {
-    "headline": "Steph Curry signs with Chinese brand after Under Armour split",
-    "link": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-02-05-11-20 +0000"
-  },
-  {
-    "headline": "Steph Curry signs with Chinese brand after Under Armour split",
-    "link": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-02-05-11-20 +0000"
-  },
-  {
-    "headline": "Steph Curry signs with Chinese brand after Under Armour split",
-    "link": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-02-05-11-20 +0000"
-  },
-  {
-    "headline": "Israel and Iran Step Back From Threats After Day of Tension",
-    "link": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
-    "source": "nyt",
-    "pubdate": "2026-06-02-04-53-06 +0000"
   },
   {
     "headline": "Trump Finds High-Wire Iran Negotiations ‘Very Boring’",
@@ -129,13 +315,13 @@
     "headline": "The New Zealand Parakeet Pair That Are Saving Their Species",
     "link": "https://www.nytimes.com/2026/06/02/world/australia/kakariki-karaka-bird-parakeet-new-zealand-endangered.html",
     "source": "nyt",
-    "pubdate": "2026-06-02-04-00-01 +0000"
+    "pubdate": "2026-06-02-04-00-02 +0000"
   },
   {
     "headline": "The New Zealand Parakeet Pair That Are Saving Their Species",
     "link": "https://www.nytimes.com/2026/06/02/world/australia/kakariki-karaka-bird-parakeet-new-zealand-endangered.html",
     "source": "nyt",
-    "pubdate": "2026-06-02-04-00-01 +0000"
+    "pubdate": "2026-06-02-04-00-02 +0000"
   },
   {
     "headline": "Sex offender allegedly cut open camping tent, kidnapped and bound two women from Oregon hiking trail",
@@ -154,12 +340,6 @@
     "link": "https://www.bbc.com/news/articles/cg4p7e6301do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-02-03-50-34 +0000"
-  },
-  {
-    "headline": "Singapore Dollar Consolidates Amid Mixed Signals",
-    "link": "https://www.wsj.com/finance/currencies/japan-likely-near-edge-of-historic-yen-collapse-fdf1a70b?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-02-03-35-00 +0000"
   },
   {
     "headline": "A.I. Doesn’t Have to Mean Layoffs",
@@ -291,13 +471,13 @@
     "headline": "Security Council Members Call for Israel to Withdraw From Southern Lebanon",
     "link": "https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html",
     "source": "nyt",
-    "pubdate": "2026-06-02-02-18-29 +0000"
+    "pubdate": "2026-06-02-02-18-30 +0000"
   },
   {
     "headline": "Security Council Members Call for Israel to Withdraw From Southern Lebanon",
     "link": "https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html",
     "source": "nyt",
-    "pubdate": "2026-06-02-02-18-29 +0000"
+    "pubdate": "2026-06-02-02-18-30 +0000"
   },
   {
     "headline": "Blackstone Raises $13.1 Billion in Its Largest Asia Private-Equity Fund",
@@ -352,12 +532,6 @@
     "link": "https://www.wsj.com/world/americas/colombia-elections-abelardo-espriella-daf81653",
     "source": "wsj",
     "pubdate": "2026-06-02-02-00-00 +0000"
-  },
-  {
-    "headline": "Gold Edges Lower; Investors Focus on Energy-Driven Inflation",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-appears-trapped-between-two-powerful-narratives-3cb8517b?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-02-01-49-00 +0000"
   },
   {
     "headline": "Mavericks Pass on Dallas City Hall Site, Choose Valley View for New Arena",
@@ -576,12 +750,6 @@
     "pubdate": "2026-06-02-00-00-00 +0000"
   },
   {
-    "headline": "Oil Edges Higher; Trump Seeks to Quell Israel-Hezbollah Conflict",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-trump-seeks-to-quell-israel-hezbollah-conflict-b1508967?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-01-23-54-00 +0000"
-  },
-  {
     "headline": "Trump Pushes to End Lebanon Conflict in Hope of Unlocking a Deal With Iran",
     "link": "https://www.wsj.com/world/middle-east/u-s-strikes-iranian-air-defenses-drone-site-in-new-hormuz-skirmish-727b9193",
     "source": "wsj",
@@ -594,10 +762,10 @@
     "pubdate": "2026-06-01-23-54-00 +0000"
   },
   {
-    "headline": "Raccoons bite 7-year-old boy, adult in separate broad daylight attacks in tony NYC suburb",
-    "link": "https://nypost.com/2026/06/01/us-news/raccoons-bite-7-year-old-boy-adult-in-separate-broad-daylight-attacks-in-nyc-suburb/",
-    "source": "nypost",
-    "pubdate": "2026-06-01-23-51-58 +0000"
+    "headline": "Bus driver in deadly Virginia crash charged with involuntary manslaughter",
+    "link": "https://www.bbc.com/news/articles/clypj8z4yz2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-01-23-51-01 +0000"
   },
   {
     "headline": "This 83-Year-Old Investor Is Elon Musk’s Biggest Fanboy",
@@ -892,6 +1060,12 @@
     "link": "https://www.wsj.com/politics/national-security/hegseth-blocks-eight-navy-senior-officer-promotions-aa536aa2",
     "source": "wsj",
     "pubdate": "2026-06-01-21-51-00 +0000"
+  },
+  {
+    "headline": "Bowen: Trump needs this war to end but Iran is not backing down",
+    "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-01-21-50-52 +0000"
   },
   {
     "headline": "Bowen: Trump needs this war to end but Iran is not backing down",
@@ -1458,34 +1632,10 @@
     "pubdate": "2026-06-01-18-50-33 +0000"
   },
   {
-    "headline": "AI giant Anthropic says it plans to list on US stock market",
-    "link": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-01-18-50-13 +0000"
-  },
-  {
-    "headline": "AI giant Anthropic says it plans to list on US stock market",
-    "link": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-01-18-50-13 +0000"
-  },
-  {
-    "headline": "AI giant Anthropic says it plans to list on US stock market",
-    "link": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-01-18-50-13 +0000"
-  },
-  {
     "headline": "Mandelson files: What you need to know",
     "link": "https://www.bbc.com/news/articles/clyp3gvvxkyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-01-18-46-36 +0000"
-  },
-  {
-    "headline": "Precious Metals Fall to Start June",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-as-uncertainty-clouds-u-s-iran-talks-89d5c7c6?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-01-18-45-00 +0000"
   },
   {
     "headline": "To Understand the American Revolution, a Writer Went to Barbados",
@@ -1498,12 +1648,6 @@
     "link": "https://nypost.com/2026/06/01/business/mcdonalds-unveils-new-corporate-strategy-that-will-make-stores-easier-to-run/",
     "source": "nypost",
     "pubdate": "2026-06-01-18-39-51 +0000"
-  },
-  {
-    "headline": "Serena Williams, 44, to return to action in Queen's doubles",
-    "link": "https://www.bbc.com/sport/tennis/articles/cx21k06ddvyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-01-18-39-48 +0000"
   },
   {
     "headline": "Williams, 44, to return to action in Queen's doubles",
@@ -1872,6 +2016,12 @@
     "pubdate": "2026-06-01-15-40-58 +0000"
   },
   {
+    "headline": "US political commentators denied entry to UK by Home Office",
+    "link": "https://www.bbc.com/news/articles/cwy2rxyvvl1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-01-15-40-58 +0000"
+  },
+  {
     "headline": "Ethiopia’s Election Comes at a Critical Moment for the Country: What to Know",
     "link": "https://www.nytimes.com/2026/06/01/world/africa/ethiopia-election-abiy-ahmed-explained.html",
     "source": "nyt",
@@ -1966,12 +2116,6 @@
     "link": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-01-14-30-39 +0000"
-  },
-  {
-    "headline": "Jill Biden makes shocking admission about hubby Joe’s decision to run for second term",
-    "link": "https://nypost.com/2026/06/01/us-news/jill-biden-admits-she-wouldnt-have-advised-a-second-term-for-joe/",
-    "source": "nypost",
-    "pubdate": "2026-06-01-14-29-25 +0000"
   },
   {
     "headline": "Ex-CNN reporter blasts Jill Biden over new memoir: ‘Act of supreme selfishness’",
@@ -2376,14 +2520,14 @@
     "pubdate": "2026-06-01-10-00-00 +0000"
   },
   {
-    "headline": "Commentary: TikTok? Crazy neighbor? A new poll sheds light on where voters get their information",
-    "link": "https://www.latimes.com/california/story/2026-06-01/tiktok-crazy-neighbor-new-poll-sheds-light-on-where-voters-get-their-information",
+    "headline": "Steyer and Hilton scrap for second top spot in tight Tuesday governor's race primary",
+    "link": "https://www.latimes.com/california/story/2026-06-01/steyer-hilton-becerra-tuesday-governor-primary-race-newsom",
     "source": "latimes",
     "pubdate": "2026-06-01-10-00-00 +0000"
   },
   {
-    "headline": "Steyer and Hilton scrap for second top spot in tight Tuesday governor's race primary",
-    "link": "https://www.latimes.com/california/story/2026-06-01/steyer-hilton-becerra-tuesday-governor-primary-race-newsom",
+    "headline": "Commentary: TikTok? Crazy neighbor? A new poll sheds light on where voters get their information",
+    "link": "https://www.latimes.com/california/story/2026-06-01/tiktok-crazy-neighbor-new-poll-sheds-light-on-where-voters-get-their-information",
     "source": "latimes",
     "pubdate": "2026-06-01-10-00-00 +0000"
   },
@@ -2524,47 +2668,5 @@
     "link": "https://www.bbc.com/news/articles/c4g4vqex028o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-01-08-29-03 +0000"
-  },
-  {
-    "headline": "Iran shoots down US drone, attacks Kuwait — as American forces target ‘missile city’ island: ‘Our finger remains on the trigger’",
-    "link": "https://nypost.com/2026/06/01/world-news/us-launches-self-defense-strikes-on-iran-radar-sites-as-tehran-claims-it-retaliated-by-attacking-air-base/",
-    "source": "nypost",
-    "pubdate": "2026-06-01-08-18-41 +0000"
-  },
-  {
-    "headline": "Alberta considering 3 oil pipeline routes through northern B.C., documents show",
-    "link": "https://www.cbc.ca/news/canada/calgary/bakx-alberta-smith-pipeline-oil-documents-bc-9.7216983?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-01-08-00-00 +0000"
-  },
-  {
-    "headline": "Stock Market News, June 1, 2026: Nvidia Fuels AI Enthusiasm; Oil Rises",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-01-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-01-07-47-29 +0000"
-  },
-  {
-    "headline": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
-    "link": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-01-06-52-40 +0000"
-  },
-  {
-    "headline": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
-    "link": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-01-06-52-40 +0000"
-  },
-  {
-    "headline": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
-    "link": "https://www.bbc.com/news/videos/cj4p7vwxr05o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-01-06-28-52 +0000"
-  },
-  {
-    "headline": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
-    "link": "https://www.bbc.com/news/videos/cj4p7vwxr05o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-01-06-28-52 +0000"
   }
 ]
