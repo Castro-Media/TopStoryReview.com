@@ -1,9 +1,72 @@
 [
   {
-    "score": 11,
-    "pubdate": "2026-06-01-23-18-46 +0000",
+    "score": 25,
+    "pubdate": "2026-06-02-01-21-18 +0000",
+    "source": "nyt",
+    "headline": "Trump Says Israel and Hezbollah Will Hold Off on New Military Action",
+    "link": "https://www.nytimes.com/2026/06/01/world/middleeast/trump-iran-israel-hezbollah.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-06-02-00-59-46 +0000",
     "source": "nypost",
-    "headline": "Illegal alleged to have stabbed a two week year old infant and family to death smiles arrogantly in court",
-    "link": "https://nypost.com/2026/06/01/us-news/illegal-migrant-joaquin-escoto-accused-of-murdering-infant-and-two-women-in-modesto-grins-in-court/"
+    "headline": "San Francisco school ‘adult supremacy’ workshop brands teachers as oppressors — as fringe trend spreads in California schools",
+    "link": "https://nypost.com/2026/06/01/us-news/san-francisco-adultism-workshop-calls-teachers-oppressors/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-06-02-01-22-13 +0000",
+    "source": "nyt",
+    "headline": "Dozens Killed as Explosion Flattens Rebel-Held Village in Myanmar",
+    "link": "https://www.nytimes.com/2026/06/01/world/asia/myanmar-explosion-blast-warehouse-deaths.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-06-02-01-32-06 +0000",
+    "source": "nypost",
+    "headline": "Shocked NYC tenant fatally stabs violent ex-con burglar with own knife in struggle to disarm him: sources, report",
+    "link": "https://nypost.com/2026/06/01/us-news/nyc-tenant-fatally-stabs-burglar-with-his-own-knife-during-struggle-sources-report/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-06-02-01-01-03 +0000",
+    "source": "nyt",
+    "headline": "Hegseth Strikes Female and Black Navy Officers From Promotion List",
+    "link": "https://www.nytimes.com/2026/06/01/us/politics/hegseth-navy-promotion-list.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-02-01-31-11 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Israel and Iran Step Back From Threats After Day of Tension",
+    "link": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-02-01-28-00 +0000",
+    "source": "wsj",
+    "headline": "Prominent Short Seller Andrew Left Convicted of Fraud",
+    "link": "https://www.wsj.com/finance/stocks/prominent-short-seller-andrew-left-convicted-of-fraud-85c945cb?mod=rss_markets_main"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-02-00-46-41 +0000",
+    "source": "cbc",
+    "headline": "Laos cave rescuers race against time to find remaining missing men | Hanomansing Tonight",
+    "link": "https://www.cbc.ca/player/play/9.7220032?cmp=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-02-01-33-26 +0000",
+    "source": "nypost",
+    "headline": "Anti-ICE protesters all the way from Portland arrested during Delaney Hall clashes, DHS says",
+    "link": "https://nypost.com/2026/06/01/us-news/anti-ice-protesters-all-the-way-from-portland-arrested-during-delaney-hall-clashes/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-02-01-15-00 +0000",
+    "source": "nypost",
+    "headline": "Steve Hilton says it’s ‘now or never for California’ ahead of election for governor",
+    "link": "https://nypost.com/2026/06/01/us-news/steve-hilton-says-its-now-or-never-for-california-ahead-of-election-for-governor/"
   }
 ]
