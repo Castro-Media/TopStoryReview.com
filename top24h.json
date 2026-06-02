@@ -1,62 +1,62 @@
 [
   {
-    "score": 143,
+    "score": 161,
     "pubdate": "2026-06-02-01-21-18 +0000",
     "source": "nyt",
     "headline": "Trump Says Israel and Hezbollah Will Hold Off on New Military Action",
     "link": "https://www.nytimes.com/2026/06/01/world/middleeast/trump-iran-israel-hezbollah.html"
   },
   {
-    "score": 83,
+    "score": 89,
+    "pubdate": "2026-06-02-16-06-52 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Israel Strikes Southern Lebanon After Pulling Back From Threat to Beirut",
+    "link": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
+  },
+  {
+    "score": 81,
+    "pubdate": "2026-06-02-15-58-23 +0000",
+    "source": "bbc",
+    "headline": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+    "link": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 80,
     "pubdate": "2026-06-02-12-53-24 +0000",
     "source": "latimes",
     "headline": "Your last-minute guide to election day challenges in California's 2026 primary election",
     "link": "https://www.latimes.com/california/story/2026-06-02/election-day-challenges-california-2026-primary-election"
   },
   {
-    "score": 79,
-    "pubdate": "2026-06-02-14-17-06 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Israel Strikes Southern Lebanon After Pulling Back From Threat to Beirut",
-    "link": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
-  },
-  {
-    "score": 79,
-    "pubdate": "2026-06-01-21-51-00 +0000",
+    "score": 72,
+    "pubdate": "2026-06-02-15-46-00 +0000",
     "source": "wsj",
-    "headline": "Defense Secretary Pete Hegseth has blocked the promotion of eight Navy captains to be one-star admirals, including two female and two Black officers, according to current and former U.S. officials",
-    "link": "https://www.wsj.com/politics/national-security/hegseth-blocks-eight-navy-senior-officer-promotions-aa536aa2"
+    "headline": "President Trump said he was appointing Bill Pulte, a close ally who leads the Federal Housing Finance Agency, as acting director of national intelligence",
+    "link": "https://www.wsj.com/politics/policy/bill-pulte-director-national-intelligence-85c65c29"
   },
   {
-    "score": 70,
+    "score": 64,
     "pubdate": "2026-06-01-16-34-49 +0000",
     "source": "latimes",
     "headline": "AI company Anthropic files to list shares, heating up race with OpenAI",
     "link": "https://www.latimes.com/business/story/2026-06-01/ai-company-anthropic-files-to-list-shares-heating-up-race-with-openai"
   },
   {
-    "score": 67,
-    "pubdate": "2026-06-02-10-53-37 +0000",
-    "source": "bbc",
-    "headline": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-    "link": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 61,
-    "pubdate": "2026-06-02-14-10-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he was appointing Bill Pulte, a close ally who leads the Federal Housing Finance Agency, as acting director of national intelligence",
-    "link": "https://www.wsj.com/politics/policy/bill-pulte-director-national-intelligence-85c65c29"
-  },
-  {
-    "score": 59,
     "pubdate": "2026-06-02-03-06-00 +0000",
     "source": "wsj",
     "headline": "In a WSJ interview, Jill Biden talks about her new memoir, her husband’s health and a marriage where certain things weren't discussed.",
     "link": "https://www.wsj.com/arts-culture/books/jill-biden-on-her-memoir-and-a-marriage-where-difficult-things-werent-discussed-aec2265b"
   },
   {
-    "score": 47,
+    "score": 55,
+    "pubdate": "2026-06-01-21-51-00 +0000",
+    "source": "wsj",
+    "headline": "Defense Secretary Pete Hegseth has blocked the promotion of eight Navy captains to be one-star admirals, including two female and two Black officers, according to current and former U.S. officials",
+    "link": "https://www.wsj.com/politics/national-security/hegseth-blocks-eight-navy-senior-officer-promotions-aa536aa2"
+  },
+  {
+    "score": 53,
     "pubdate": "2026-06-01-22-17-37 +0000",
     "source": "cbc",
     "headline": "Trump administration to pause controversial anti-weaponization fund after court ruling",
@@ -64,9 +64,9 @@
   },
   {
     "score": 46,
-    "pubdate": "2026-06-02-12-58-15 +0000",
-    "source": "nypost",
-    "headline": "Mamdani-backed House hopeful Darializa Avila Chevalier called for ‘world without borders,’ claimed ‘Israel doesn’t exist’",
-    "link": "https://nypost.com/2026/06/02/us-news/mamdani-backed-house-hopeful-darializa-avila-chevalier-called-for-world-without-borders-claimed-israel-doesnt-exist/"
+    "pubdate": "2026-06-02-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Berkshire Hathaway’s $6.8 billion deal to acquire a major home builder reflects its conviction that the housing market will shake off its long slump and recover as it always has",
+    "link": "https://www.wsj.com/economy/housing/berkshire-is-convinced-the-american-dream-of-homeownership-will-stay-alive-aede1610"
   }
 ]
