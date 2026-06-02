@@ -1,72 +1,72 @@
 [
   {
-    "score": 25,
-    "pubdate": "2026-06-02-11-55-30 +0000",
+    "score": 35,
+    "pubdate": "2026-06-02-13-59-42 +0000",
     "source": "nyt",
-    "headline": "Rubio to Testify Before Senate, Arguing for Budget Amid Iran War and Pressure on Cuba",
-    "link": "https://www.nytimes.com/2026/06/02/us/politics/marco-rubio-senate-budget-iran-cuba.html"
+    "headline": "Trump Megadonor Gave $5.5 Million Estate to Robert F. Kennedy Jr. Nonprofit",
+    "link": "https://www.nytimes.com/2026/06/02/business/economy/mellon-kennedy-childrens-health-defense.html"
   },
   {
     "score": 24,
-    "pubdate": "2026-06-02-11-18-06 +0000",
+    "pubdate": "2026-06-02-13-51-15 +0000",
+    "source": "nypost",
+    "headline": "Utter chaos of California’s voting system revealed as woman walks into unlocked ballot booth after it’s shut",
+    "link": "https://nypost.com/2026/06/02/us-news/utter-chaos-of-californias-voting-system-revealed-as-woman-walks-into-unlocked-ballot-booth-after-its-shut/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-06-02-14-10-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said he was appointing Bill Pulte, a close ally who leads the Federal Housing Finance Agency, as acting director of national intelligence",
+    "link": "https://www.wsj.com/politics/policy/bill-pulte-director-national-intelligence-85c65c29"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-06-02-13-24-40 +0000",
     "source": "nyt",
-    "headline": "Russia Launches Deadly Strikes on Kyiv After Threatening Ukraine for a Week",
-    "link": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html"
+    "headline": "Trump Targets Brazil With 25% Tariff, Citing Unfair Trade Practices",
+    "link": "https://www.nytimes.com/2026/06/02/business/trump-tariffs-brazil.html"
   },
   {
     "score": 18,
-    "pubdate": "2026-06-02-11-35-00 +0000",
-    "source": "wsj",
-    "headline": "Genco Board Unanimously Rejects Diana Shipping’s Latest Buyout Offer",
-    "link": "https://www.wsj.com/finance/investing/genco-board-unanimously-rejects-diana-shippings-latest-buyout-offer-86428847?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-06-02-12-04-53 +0000",
+    "pubdate": "2026-06-02-14-07-25 +0000",
     "source": "bbc",
-    "headline": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
+    "headline": "Ukraine rescuers pull dead from rubble after Russian strikes kill 21 people",
     "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 12,
-    "pubdate": "2026-06-02-11-51-19 +0000",
+    "score": 14,
+    "pubdate": "2026-06-02-14-11-37 +0000",
+    "source": "nypost",
+    "headline": "Ex-MSNBC host Joy Reid rants she’s a ‘former’ Giants fan after ‘idiot’ Jaxson Dart introduced Trump",
+    "link": "https://nypost.com/2026/06/02/media/joy-reid-rants-shes-former-giants-fan-rips-jaxson-dart-as-idiot-after-trump-event/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-02-14-16-45 +0000",
+    "source": "nypost",
+    "headline": "Jill Biden says White House docs ‘missed’ Joe’s cancer, says ‘I don’t know’ if husband would have finished a second term",
+    "link": "https://nypost.com/2026/06/02/us-news/jill-biden-says-white-house-docs-missed-joes-cancer-says-i-dont-know-if-husband-would-have-finished-a-second-term/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-02-14-04-40 +0000",
     "source": "nyt",
-    "headline": "Russia Is Showing Signs of Weakness in Ukraine. So It Hits Harder.",
-    "link": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-russia-war-strikes.html"
+    "headline": "Battling a Deadly Ebola Outbreak in Eastern Congo",
+    "link": "https://www.nytimes.com/video/world/africa/100000010936755/ebola-virus-outbreak-congo-treatment.html"
   },
   {
     "score": 12,
-    "pubdate": "2026-06-02-12-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "Live election updates: S.F. turns out to vote (or not). Here’s what to look out for.",
-    "link": "https://missionlocal.org/2026/06/san-francisco-2026-june-primary-election-live-updates/"
+    "pubdate": "2026-06-02-14-08-25 +0000",
+    "source": "nypost",
+    "headline": "Great-grandmother stabbed to death on MARTA train carried a knife but ‘didn’t have time protect herself’",
+    "link": "https://nypost.com/2026/06/02/us-news/great-grandmother-fatally-stabbed-on-atlanta-marta-carried-a-knife-but-didnt-have-time-protect-herself/"
   },
   {
-    "score": 9,
-    "pubdate": "2026-06-02-12-05-00 +0000",
-    "source": "wsj",
-    "headline": "Eurozone Inflation Climbs Further, Paving Way for ECB Rate Hike",
-    "link": "https://www.wsj.com/economy/eurozone-inflation-climbs-further-as-ecb-weighs-rate-hike-8f330404"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-06-02-11-40-02 +0000",
-    "source": "bbc",
-    "headline": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
-    "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-06-02-12-07-37 +0000",
-    "source": "wapo",
-    "headline": "Israel says it is holding off on striking Beirut after U.S. request",
-    "link": "https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-06-02-11-28-45 +0000",
-    "source": "bbc",
-    "headline": "Cara Delevingne says new music was inspired by getting sober",
-    "link": "https://www.bbc.com/news/articles/crkpypyv2d2o?at_medium=RSS&at_campaign=rss"
+    "score": 10,
+    "pubdate": "2026-06-02-14-17-06 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Israel Strikes Southern Lebanon After Pulling Back From Threat to Beirut",
+    "link": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
   }
 ]
