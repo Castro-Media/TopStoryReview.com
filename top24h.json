@@ -7,66 +7,66 @@
     "link": "https://www.nytimes.com/2026/06/01/world/middleeast/trump-iran-israel-hezbollah.html"
   },
   {
-    "score": 89,
-    "pubdate": "2026-06-02-16-06-52 +0000",
+    "score": 91,
+    "pubdate": "2026-06-02-14-51-39 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: Israel Strikes Southern Lebanon After Pulling Back From Threat to Beirut",
-    "link": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon"
+    "headline": "Rubio to Testify Before Senate, Arguing for Budget Amid Iran War and Pressure on Cuba",
+    "link": "https://www.nytimes.com/2026/06/02/us/politics/marco-rubio-senate-budget-iran-cuba.html"
   },
   {
-    "score": 81,
+    "score": 84,
+    "pubdate": "2026-06-02-09-02-22 +0000",
+    "source": "nyt",
+    "headline": "California Primary Elections: What to Watch in the Governor’s Race, L.A. Mayoral Race and More",
+    "link": "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html"
+  },
+  {
+    "score": 77,
     "pubdate": "2026-06-02-15-58-23 +0000",
     "source": "bbc",
     "headline": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
     "link": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 80,
-    "pubdate": "2026-06-02-12-53-24 +0000",
-    "source": "latimes",
-    "headline": "Your last-minute guide to election day challenges in California's 2026 primary election",
-    "link": "https://www.latimes.com/california/story/2026-06-02/election-day-challenges-california-2026-primary-election"
-  },
-  {
     "score": 72,
-    "pubdate": "2026-06-02-15-46-00 +0000",
+    "pubdate": "2026-06-02-17-23-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he was appointing Bill Pulte, a close ally who leads the Federal Housing Finance Agency, as acting director of national intelligence",
     "link": "https://www.wsj.com/politics/policy/bill-pulte-director-national-intelligence-85c65c29"
   },
   {
-    "score": 64,
-    "pubdate": "2026-06-01-16-34-49 +0000",
-    "source": "latimes",
-    "headline": "AI company Anthropic files to list shares, heating up race with OpenAI",
-    "link": "https://www.latimes.com/business/story/2026-06-01/ai-company-anthropic-files-to-list-shares-heating-up-race-with-openai"
+    "score": 63,
+    "pubdate": "2026-06-02-14-16-45 +0000",
+    "source": "nypost",
+    "headline": "Jill Biden claims White House docs ‘missed’ Joe’s cancer, says ‘I don’t know’ if husband would have finished a second term",
+    "link": "https://nypost.com/2026/06/02/us-news/jill-biden-says-white-house-docs-missed-joes-cancer-says-i-dont-know-if-husband-would-have-finished-a-second-term/"
   },
   {
-    "score": 61,
-    "pubdate": "2026-06-02-03-06-00 +0000",
-    "source": "wsj",
-    "headline": "In a WSJ interview, Jill Biden talks about her new memoir, her husband’s health and a marriage where certain things weren't discussed.",
-    "link": "https://www.wsj.com/arts-culture/books/jill-biden-on-her-memoir-and-a-marriage-where-difficult-things-werent-discussed-aec2265b"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-06-01-21-51-00 +0000",
-    "source": "wsj",
-    "headline": "Defense Secretary Pete Hegseth has blocked the promotion of eight Navy captains to be one-star admirals, including two female and two Black officers, according to current and former U.S. officials",
-    "link": "https://www.wsj.com/politics/national-security/hegseth-blocks-eight-navy-senior-officer-promotions-aa536aa2"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-06-01-22-17-37 +0000",
-    "source": "cbc",
-    "headline": "Trump administration to pause controversial anti-weaponization fund after court ruling",
-    "link": "https://www.cbc.ca/news/world/anti-weaponization-fund-trump-administration-court-pause-9.7219739?cmp=rss"
-  },
-  {
-    "score": 46,
+    "score": 54,
     "pubdate": "2026-06-02-09-30-00 +0000",
     "source": "wsj",
     "headline": "Berkshire Hathaway’s $6.8 billion deal to acquire a major home builder reflects its conviction that the housing market will shake off its long slump and recover as it always has",
     "link": "https://www.wsj.com/economy/housing/berkshire-is-convinced-the-american-dream-of-homeownership-will-stay-alive-aede1610"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-06-01-20-34-11 +0000",
+    "source": "nypost",
+    "headline": "NJ congressional candidate Adam Hamawy ‘lied’ in court to protect ‘Blind Sheikh,’ incited 1993 World Trade Center bombing: Watchdog group",
+    "link": "https://nypost.com/2026/06/01/world-news/nj-congress-candidate-adam-hamawy-lied-in-court-to-protect-blind-sheikh-incited-1993-world-trade-center-bombing-watchdog-group/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-06-01-18-21-01 +0000",
+    "source": "nypost",
+    "headline": "Oil prices jump after US and Iran exchange strikes; Exxon exec warns inventories could reach ‘unheard of’ lows",
+    "link": "https://nypost.com/2026/06/01/business/oil-prices-jump-after-us-and-iran-exchange-strikes-exxon-exec-warns-inventories-could-reach-unheard-of-lows/"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-06-01-23-03-39 +0000",
+    "source": "bbc",
+    "headline": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
+    "link": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss"
   }
 ]
