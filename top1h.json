@@ -1,72 +1,44 @@
 [
   {
-    "score": 36,
-    "pubdate": "2026-06-02-03-24-43 +0000",
-    "source": "nypost",
-    "headline": "NY Sen. Kirsten Gillibrand, Texas Sen. Ted Cruz set friendly wager ahead of states’ showdown in NBA Finals",
-    "link": "https://nypost.com/2026/06/01/us-news/ny-sen-kirsten-gillibrand-texas-sen-ted-cruz-set-friendly-wager-ahead-of-states-showdown-in-nba-finals/"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-06-02-04-10-05 +0000",
-    "source": "nypost",
-    "headline": "Iowa man suspected of shooting 6 relatives before turning gun on himself when confronted by cops: ‘Act of evil’",
-    "link": "https://nypost.com/2026/06/02/us-news/iowa-man-suspected-of-shooting-6-relatives-before-turning-gun-on-himself/"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-06-02-04-00-01 +0000",
-    "source": "nyt",
-    "headline": "The New Zealand Parakeet Pair That Are Saving Their Species",
-    "link": "https://www.nytimes.com/2026/06/02/world/australia/kakariki-karaka-bird-parakeet-new-zealand-endangered.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-06-02-03-51-10 +0000",
-    "source": "nypost",
-    "headline": "Sex offender allegedly cut open camping tent, kidnapped and bound two women from Oregon hiking trail",
-    "link": "https://nypost.com/2026/06/01/us-news/oregon-sex-offender-allegedly-cut-open-camping-tent-and-kidnapped-two-women-from-hiking-trail/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-06-02-04-15-45 +0000",
-    "source": "nypost",
-    "headline": "Sen. Chuck Schumer thrown under the bus during House debate between Dan Goldman and Brad Lander",
-    "link": "https://nypost.com/2026/06/02/us-news/sen-chuck-schumer-thrown-under-the-bus-during-goldman-lander-house-debate/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-06-02-04-06-47 +0000",
-    "source": "nypost",
-    "headline": "Rabid Disney adults harass, doxx widow, 61, over her Magic Kingdom social media videos",
-    "link": "https://nypost.com/2026/06/02/us-news/rabid-disney-adults-harass-doxx-widow-over-her-magic-kingdom-videos/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-06-02-03-40-36 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Israel and Iran Step Back From Threats After Day of Tension",
-    "link": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon"
+    "score": 18,
+    "pubdate": "2026-06-02-06-04-55 +0000",
+    "source": "bbc",
+    "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+    "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 10,
-    "pubdate": "2026-06-02-03-50-34 +0000",
+    "pubdate": "2026-06-02-06-07-35 +0000",
     "source": "bbc",
-    "headline": "Six people killed in Iowa domestic dispute, police say",
-    "link": "https://www.bbc.com/news/articles/cg4p7e6301do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-06-02-03-40-38 +0000",
-    "source": "bbc",
-    "headline": "Massive Russian attack on cities across Ukraine kills at least nine people",
+    "headline": "Massive Russian attack on cities across Ukraine kills at least ten people",
     "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 9,
-    "pubdate": "2026-06-02-03-30-00 +0000",
+    "score": 7,
+    "pubdate": "2026-06-02-05-56-37 +0000",
+    "source": "bbc",
+    "headline": "China cracks down on 'ghost kitchens' in food delivery apps",
+    "link": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-06-02-06-10-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Treasury Yields Fall as U.S.-Iran Deal Still Awaited",
+    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-as-investors-focus-on-middle-east-developments-a3f916c2?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-06-02-05-39-00 +0000",
     "source": "nypost",
-    "headline": "Beloved SeaWorld San Diego staple Dottie the 39-year-old dolphin dies",
-    "link": "https://nypost.com/2026/06/01/us-news/beloved-seaworld-san-diego-staple-dottie-the-39-year-old-dolphin-dies/"
+    "headline": "Explosion and fire at defense company in South Korea kills 5",
+    "link": "https://nypost.com/2026/06/02/world-news/explosion-and-fire-at-defense-company-in-south-korea-kills-5/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-02-06-04-55 +0000",
+    "source": "bbc",
+    "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+    "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss"
   }
 ]
