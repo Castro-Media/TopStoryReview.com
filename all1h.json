@@ -1,104 +1,152 @@
 [
   {
+    "headline": "U.S., Iran Exchange Fire, With Drone Attack Closing Kuwait Airport",
+    "link": "https://www.wsj.com/world/middle-east/u-s-iran-trade-heavy-fire-in-persian-gulf-testing-fragile-ceasefire-d4787573",
+    "source": "wsj",
+    "pubdate": "2026-06-03-08-33-00 +0000"
+  },
+  {
+    "headline": "Iranian drone attack hits Kuwait airport, causing injuries",
+    "link": "https://nypost.com/2026/06/03/world-news/iranian-drone-attack-hits-kuwait-airport-causing-injuries/",
+    "source": "nypost",
+    "pubdate": "2026-06-03-08-25-40 +0000"
+  },
+  {
     "headline": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
     "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-03-06-30-51 +0000"
+    "pubdate": "2026-06-03-08-23-55 +0000"
   },
   {
-    "headline": "Spencer Pratt lays out plan to defeat Mayor Karen Bass in November runoff: ‘I could not be more excited’",
-    "link": "https://nypost.com/2026/06/03/us-news/spencer-pratt-lays-out-plan-to-defeat-mayor-karen-bass-in-november-runoff-election/",
-    "source": "nypost",
-    "pubdate": "2026-06-03-06-21-10 +0000"
-  },
-  {
-    "headline": "Inditex Sales Accelerate Despite Tough Market Backdrop",
-    "link": "https://www.wsj.com/business/retail/inditex-sales-accelerate-despite-war-backdrop-bf1b70d9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-03-06-18-00 +0000"
-  },
-  {
-    "headline": "5 Things to Know About the Iowa Senate Candidate Josh Turek",
-    "link": "https://www.nytimes.com/2026/06/02/us/politics/josh-turek-iowa-senate-democrats.html",
+    "headline": "Democratic Voters Acted Strategically in a Turbulent California Election",
+    "link": "https://www.nytimes.com/2026/06/02/us/politics/california-primary-elections-early-takeaways.html",
     "source": "nyt",
-    "pubdate": "2026-06-03-06-17-56 +0000"
+    "pubdate": "2026-06-03-08-23-53 +0000"
   },
   {
-    "headline": "5 Things to Know About the Iowa Senate Candidate Josh Turek",
-    "link": "https://www.nytimes.com/2026/06/02/us/politics/josh-turek-iowa-senate-democrats.html",
+    "headline": "Democratic Voters Acted Strategically in a Turbulent California Election",
+    "link": "https://www.nytimes.com/2026/06/02/us/politics/california-primary-elections-early-takeaways.html",
     "source": "nyt",
-    "pubdate": "2026-06-03-06-17-56 +0000"
+    "pubdate": "2026-06-03-08-23-53 +0000"
   },
   {
-    "headline": "FBI charges 35 in West Virginia drug and firearms operation, launches nationwide summer crime initiative",
-    "link": "https://nypost.com/2026/06/03/us-news/fbi-charges-35-in-west-virginia-drug-and-firearms-operation-launches-new-crime-initiative/",
-    "source": "nypost",
-    "pubdate": "2026-06-03-06-16-52 +0000"
+    "headline": "California Governor’s Race Remains Too Close to Call",
+    "link": "https://www.nytimes.com/2026/06/03/us/politics/california-governor-race-hilton-becerra-steyer.html",
+    "source": "nyt",
+    "pubdate": "2026-06-03-08-15-59 +0000"
   },
   {
-    "headline": "Drama Masks: Berkeley Rep’s ‘The Lunchbox’ is a delicious charmer",
-    "link": "https://48hills.org/2026/06/drama-masks-berkeley-reps-the-lunchbox-is-a-delicious-charmer/",
-    "source": "48hills",
-    "pubdate": "2026-06-03-06-11-45 +0000"
+    "headline": "California Governor’s Race Remains Too Close to Call",
+    "link": "https://www.nytimes.com/2026/06/03/us/politics/california-governor-race-hilton-becerra-steyer.html",
+    "source": "nyt",
+    "pubdate": "2026-06-03-08-15-59 +0000"
   },
   {
-    "headline": "The U.S. has proposed tariffs of at least 10% on many trading partners following an investigation into goods allegedly produced by forced labor",
-    "link": "https://www.wsj.com/economy/trade/u-s-proposes-at-least-10-tariffs-on-trading-partners-after-probe-into-forced-labor-511511f5",
-    "source": "wsj",
-    "pubdate": "2026-06-03-06-09-00 +0000"
-  },
-  {
-    "headline": "Student Murder Sparks Accusations U.K. Police Are Biased Against White Victims",
-    "link": "https://www.wsj.com/world/uk/student-murder-sparks-accusations-u-k-police-are-biased-against-white-victims-e91f374f",
-    "source": "wsj",
-    "pubdate": "2026-06-03-06-01-00 +0000"
-  },
-  {
-    "headline": "Student Murder Sparks Accusations U.K. Police Are Biased Against White Victims",
-    "link": "https://www.wsj.com/world/uk/student-murder-sparks-accusations-u-k-police-are-biased-against-white-victims-e91f374f",
-    "source": "wsj",
-    "pubdate": "2026-06-03-06-01-00 +0000"
-  },
-  {
-    "headline": "Californians wrapped voting in their state’s primary elections Tuesday, but results for the messy gubernatorial and the Los Angeles mayor’s race could take a while to be finalized",
-    "link": "https://www.wsj.com/politics/elections/polls-close-in-messy-primaries-for-california-governor-and-los-angeles-mayor-c43be1c0",
-    "source": "wsj",
-    "pubdate": "2026-06-03-06-00-00 +0000"
-  },
-  {
-    "headline": "Chan besting Chakrabarti for No. 2 slot in S.F congressional race",
-    "link": "https://missionlocal.org/2026/06/connie-chan-saikat-chakrabarti-san-francisco-congress-pelosi/",
+    "headline": "San Francisco ‘Overpaid CEO tax’ losing, rival measure trounced",
+    "link": "https://missionlocal.org/2026/06/sf-prop-d-business-tax-labor-budget/",
     "source": "missionlocal",
-    "pubdate": "2026-06-03-05-52-40 +0000"
+    "pubdate": "2026-06-03-08-12-38 +0000"
   },
   {
-    "headline": "Representative Brad Sherman to Face Larry Thompson in November",
-    "link": "https://www.nytimes.com/2026/06/03/us/politics/sherman-thompson-california-house-district-32.html",
-    "source": "nyt",
-    "pubdate": "2026-06-03-05-49-43 +0000"
+    "headline": "Conservative school board president Sonja Shaw leads in primary for state superintendent",
+    "link": "https://www.latimes.com/california/story/2026-06-03/conservative-sonja-shaw-leads-california-state-superintendent-race",
+    "source": "latimes",
+    "pubdate": "2026-06-03-08-11-32 +0000"
   },
   {
-    "headline": "Representative Brad Sherman to Face Larry Thompson in November",
-    "link": "https://www.nytimes.com/2026/06/03/us/politics/sherman-thompson-california-house-district-32.html",
-    "source": "nyt",
-    "pubdate": "2026-06-03-05-49-43 +0000"
-  },
-  {
-    "headline": "Incumbent Karen Bass Advances to L.A. Mayoral Election in November",
-    "link": "https://www.nytimes.com/2026/06/03/us/politics/karen-bass-la-mayor-race.html",
-    "source": "nyt",
-    "pubdate": "2026-06-03-05-40-38 +0000"
-  },
-  {
-    "headline": "Incumbent Karen Bass Advances to L.A. Mayoral Election in November",
-    "link": "https://www.nytimes.com/2026/06/03/us/politics/karen-bass-la-mayor-race.html",
-    "source": "nyt",
-    "pubdate": "2026-06-03-05-40-38 +0000"
-  },
-  {
-    "headline": "U.S. Treasury Yields Rise as Mideast Diplomatic Efforts Stall",
-    "link": "https://www.wsj.com/finance/investing/jgbs-fall-on-likely-technical-correction-356ff65a?mod=rss_markets_main",
+    "headline": "Euro Could Extend Falls Vs Dollar on More Strong U.S. Data",
+    "link": "https://www.wsj.com/finance/currencies/australian-dollar-could-fall-following-1q-gdp-data-051f2a81?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-06-03-05-40-00 +0000"
+    "pubdate": "2026-06-03-08-10-00 +0000"
+  },
+  {
+    "headline": "Gold Falls as U.S.-Iran Hostilities Push Oil Higher",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-futures-technical-backdrop-likely-improved-charts-show-6fea3b21?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-03-08-08-00 +0000"
+  },
+  {
+    "headline": "Republican support for same-sex marriage has fallen by 18 percentage points since 2022.",
+    "link": "https://www.nytimes.com/2026/06/03/us/politics/support-gay-rights-decline.html",
+    "source": "nyt",
+    "pubdate": "2026-06-03-08-00-06 +0000"
+  },
+  {
+    "headline": "Republican support for same-sex marriage has fallen by 18 percentage points since 2022.",
+    "link": "https://www.nytimes.com/2026/06/03/us/politics/support-gay-rights-decline.html",
+    "source": "nyt",
+    "pubdate": "2026-06-03-08-00-06 +0000"
+  },
+  {
+    "headline": "Above World Cup venues, fighter jets will be on patrol",
+    "link": "https://www.cbc.ca/news/canada/world-cup-norad-no-fly-zones-9.7220813?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-03-08-00-00 +0000"
+  },
+  {
+    "headline": "Erin Brockovich takes aim at rapid growth of AI data centres with new project",
+    "link": "https://www.cbc.ca/news/world/erin-brockovich-ai-data-centres-website-9.7221109?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-03-08-00-00 +0000"
+  },
+  {
+    "headline": "Canada endorses plan to send remaining Marineland belugas to Spain, across U.S.",
+    "link": "https://www.cbc.ca/news/canada/hamilton/marineland-belugas-rescue-spain-9.7220888?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-03-08-00-00 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Oil Ticks Up After Mideast Fighting",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-03-07-56-25 +0000"
+  },
+  {
+    "headline": "AkzoNobel Shares Plunge After Sherwin-Williams, Nippon Paint Drop $14.5 Billion Bid",
+    "link": "https://www.wsj.com/business/deals/akzonobel-shares-plunge-after-sherwin-williams-nippon-paint-drop-14-5-billion-bid-f9aef6a3?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-03-07-52-00 +0000"
+  },
+  {
+    "headline": "Indiana University grad, 23, shot dead in parking garage while on way to meet with his family",
+    "link": "https://nypost.com/2026/06/03/us-news/indiana-university-business-grad-brett-scrogham-shot-dead-in-parking-garage-while-on-way-to-meet-his-parents-at-baseball-game/",
+    "source": "nypost",
+    "pubdate": "2026-06-03-07-46-32 +0000"
+  },
+  {
+    "headline": "Oil Climbs on Fresh U.S.-Iran Hostilities",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-signs-of-u-s-iran-peace-talks-stalling-c497548f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-03-07-42-00 +0000"
+  },
+  {
+    "headline": "Oil Climbs on Fresh U.S.-Iran Hostilities",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-signs-of-u-s-iran-peace-talks-stalling-c497548f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-03-07-42-00 +0000"
+  },
+  {
+    "headline": "Wiener and Chan Will Face Off in House Race to Succeed Nancy Pelosi",
+    "link": "https://www.nytimes.com/2026/06/03/us/politics/wiener-chan-pelosi-sf-election-house.html",
+    "source": "nyt",
+    "pubdate": "2026-06-03-07-40-55 +0000"
+  },
+  {
+    "headline": "Wiener and Chan Will Face Off in House Race to Succeed Nancy Pelosi",
+    "link": "https://www.nytimes.com/2026/06/03/us/politics/wiener-chan-pelosi-sf-election-house.html",
+    "source": "nyt",
+    "pubdate": "2026-06-03-07-40-55 +0000"
+  },
+  {
+    "headline": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+    "link": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-03-07-39-32 +0000"
+  },
+  {
+    "headline": "Sunset supervisor Alan Wong handily beating opponents to stay in seat",
+    "link": "https://missionlocal.org/2026/06/sf-sunset-district-4-alan-wong-stay-in-seat/",
+    "source": "missionlocal",
+    "pubdate": "2026-06-03-07-37-52 +0000"
   }
 ]
