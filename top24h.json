@@ -1,17 +1,24 @@
 [
   {
-    "score": 161,
-    "pubdate": "2026-06-03-21-31-00 +0000",
+    "score": 131,
+    "pubdate": "2026-06-04-11-00-00 +0000",
     "source": "wsj",
-    "headline": "Months after the Supreme Court struck down President Trump’s most sweeping global tariffs, the administration said it would levy new tariffs using a different legal mechanism",
-    "link": "https://www.wsj.com/economy/trade/what-to-know-about-trumps-latest-tariffs-362fa148"
+    "headline": "After the $1.8 billion “anti-weaponization fund” lost support, the DOJ is eyeing other legal channels to pay Trump allies who claim the government targeted them for political reasons",
+    "link": "https://www.wsj.com/politics/policy/justice-department-eyes-alternative-weaponization-payouts-after-fund-pushback-6b8ca548"
   },
   {
-    "score": 101,
+    "score": 95,
     "pubdate": "2026-06-04-04-01-06 +0000",
     "source": "nyt",
     "headline": "Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup",
     "link": "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html"
+  },
+  {
+    "score": 88,
+    "pubdate": "2026-06-04-16-38-00 +0000",
+    "source": "wsj",
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
     "score": 85,
@@ -21,21 +28,14 @@
     "link": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon"
   },
   {
-    "score": 74,
-    "pubdate": "2026-06-04-11-00-00 +0000",
-    "source": "wsj",
-    "headline": "After the $1.8 billion “anti-weaponization fund” lost support, the DOJ is eyeing other legal channels to pay Trump allies who claim the government targeted them for political reasons",
-    "link": "https://www.wsj.com/politics/policy/justice-department-eyes-alternative-weaponization-payouts-after-fund-pushback-6b8ca548"
+    "score": 61,
+    "pubdate": "2026-06-04-17-15-13 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Finds S.E.C. Can Strip Wrongdoers of Illegal Financial Gains, Even Without Proof of Victim Loss",
+    "link": "https://www.nytimes.com/2026/06/04/us/politics/supreme-court-sec-disgorgement.html"
   },
   {
-    "score": 65,
-    "pubdate": "2026-06-04-16-38-00 +0000",
-    "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
-  },
-  {
-    "score": 55,
+    "score": 53,
     "pubdate": "2026-06-04-20-21-14 +0000",
     "source": "nypost",
     "headline": "NY set to pass one-year pause on data centers — but tech leaders warn it’s latest move to stifle economy",
@@ -49,18 +49,11 @@
     "link": "https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue"
   },
   {
-    "score": 50,
+    "score": 49,
     "pubdate": "2026-06-04-20-19-21 +0000",
     "source": "cbc",
     "headline": "House committee asks U.S. DOJ to examine sexual abuse allegations made by ex-Epstein assistant",
     "link": "https://www.cbc.ca/news/world/epstein-committee-interview-kellen-9.7223371?cmp=rss"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-06-04-07-03-48 +0000",
-    "source": "nyt",
-    "headline": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
-    "link": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html"
   },
   {
     "score": 47,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Missing Mount Everest Sherpa guide found crawling to base camp after family had given up hope",
     "link": "https://nypost.com/2026/06/04/world-news/sherpa-guide-missing-for-a-week-on-mount-everest-rescued-while-crawling-to-base-camp/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-06-04-05-30-28 +0000",
+    "source": "bbc",
+    "headline": "Watch: New footage shows moment Iranian drone struck Kuwait airport",
+    "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss"
   }
 ]
