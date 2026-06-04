@@ -1,52 +1,17 @@
 [
   {
-    "score": 39,
-    "pubdate": "2026-06-04-17-15-13 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Finds S.E.C. Can Strip Wrongdoers of Illegal Financial Gains, Even Without Proof of Victim Loss",
-    "link": "https://www.nytimes.com/2026/06/04/us/politics/supreme-court-sec-disgorgement.html"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-06-04-17-08-39 +0000",
-    "source": "nyt",
-    "headline": "Granted Clemency by Trump, Scores of Jan. 6 Rioters Have Been Accused of New Crimes",
-    "link": "https://www.nytimes.com/2026/06/04/us/politics/jan-6-new-crimes.html"
-  },
-  {
-    "score": 24,
+    "score": 22,
     "pubdate": "2026-06-04-17-42-27 +0000",
     "source": "nypost",
     "headline": "Marco Rubio drops Kanye West  lyrics to describe Israel-Hezbollah war in Lebanon",
     "link": "https://nypost.com/2026/06/04/us-news/marco-rubio-drops-kanye-west-lyrics-to-describe-israel-hezbollah-war-in-lebanon/"
   },
   {
-    "score": 24,
-    "pubdate": "2026-06-04-17-19-19 +0000",
-    "source": "bbc",
-    "headline": "Starmer accuses Musk of trying to whip up division over Henry Nowak murder",
-    "link": "https://www.bbc.com/news/articles/c1e2ww900zno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 14,
+    "score": 17,
     "pubdate": "2026-06-04-17-43-08 +0000",
     "source": "nyt",
     "headline": "Republicans Defeat Move to Bar Trump From Creating Compensation Fund",
     "link": "https://www.nytimes.com/2026/06/04/us/politics/trump-payout-fund.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-06-04-16-57-00 +0000",
-    "source": "wsj",
-    "headline": "Trump moves to make Todd Blanche attorney general, setting up a potentially contentious Senate confirmation battle over his Justice Department agenda",
-    "link": "https://www.wsj.com/politics/policy/trump-says-he-will-nominate-todd-blanche-as-attorney-general-19343a47"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-06-04-16-51-57 +0000",
-    "source": "bbc",
-    "headline": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
-    "link": "https://www.bbc.com/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 13,
@@ -68,5 +33,40 @@
     "source": "nypost",
     "headline": "Knicks ‘superfan’ leads party in the NYC streets with ‘knickerbocker’ costume and dreams of being official mascot",
     "link": "https://nypost.com/2026/06/04/us-news/nico-knickerbocker-brings-joy-to-fans-in-bid-to-be-offical-mascot/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-06-04-17-45-31 +0000",
+    "source": "nypost",
+    "headline": "AG’s antitrust probe decimates Compass stock price by nearly 13%",
+    "link": "https://nypost.com/2026/06/04/business/ny-ag-probe-decimates-compass-stock-price/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-04-17-44-18 +0000",
+    "source": "nyt",
+    "headline": "Kennedy Center Tells Staff to Immediately Remove Trump’s Name From Documents",
+    "link": "https://www.nytimes.com/2026/06/04/arts/music/kennedy-center-trump-name-memo.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-04-17-42-08 +0000",
+    "source": "bbc",
+    "headline": "Qualifier Chwalinska sets up final against Andreeva",
+    "link": "https://www.bbc.com/sport/tennis/articles/c93x35p2pqpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-06-04-17-45-00 +0000",
+    "source": "wsj",
+    "headline": "Comex Gold Settles 0.88% Higher at $4475.80",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-mild-dollar-weakness-2448af71?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-04-17-43-08 +0000",
+    "source": "nyt",
+    "headline": "Republicans Defeat Move to Bar Trump From Creating Compensation Fund",
+    "link": "https://www.nytimes.com/2026/06/04/us/politics/trump-payout-fund.html"
   }
 ]
