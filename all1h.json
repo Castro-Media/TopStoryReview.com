@@ -1,56 +1,176 @@
 [
   {
+    "headline": "Commerzbank Asks German Regulator to Review UniCredit Offer Support Levels",
+    "link": "https://www.wsj.com/business/deals/commerzbank-asks-german-regulator-to-review-unicredit-offer-support-levels-ed3e727f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-04-08-11-00 +0000"
+  },
+  {
+    "headline": "Commerzbank Asks German Regulator to Review UniCredit Offer Support Levels",
+    "link": "https://www.wsj.com/business/deals/commerzbank-asks-german-regulator-to-review-unicredit-offer-support-levels-ed3e727f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-04-08-11-00 +0000"
+  },
+  {
+    "headline": "Four New Zealand Lawmakers Banned From China After Taiwan Trip",
+    "link": "https://www.nytimes.com/2026/06/04/world/australia/new-zealand-taiwan-china-travel-ban.html",
+    "source": "nyt",
+    "pubdate": "2026-06-04-08-10-56 +0000"
+  },
+  {
+    "headline": "Four New Zealand Lawmakers Banned From China After Taiwan Trip",
+    "link": "https://www.nytimes.com/2026/06/04/world/australia/new-zealand-taiwan-china-travel-ban.html",
+    "source": "nyt",
+    "pubdate": "2026-06-04-08-10-56 +0000"
+  },
+  {
+    "headline": "Heavy gunfire in Somali capital as row over election delay escalates",
+    "link": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-04-08-05-33 +0000"
+  },
+  {
+    "headline": "North Korea unveils new plant to produce fuel for nuclear weapons",
+    "link": "https://nypost.com/2026/06/04/world-news/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons/",
+    "source": "nypost",
+    "pubdate": "2026-06-04-08-05-25 +0000"
+  },
+  {
+    "headline": "Euro Could Fall if Middle East Conflict Persists Ahead of ECB Decision",
+    "link": "https://www.wsj.com/finance/currencies/dollar-likely-supported-by-sticky-u-s-inflation-hawkish-fed-signals-e08fc7fa?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-04-08-02-00 +0000"
+  },
+  {
+    "headline": "MP sues Musk's xAI after deepfake bikini picture",
+    "link": "https://www.bbc.com/news/articles/c62xpv34d9do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-04-08-00-38 +0000"
+  },
+  {
+    "headline": "Gold Rises After Israel-Lebanon Ceasefire But Remains Rangebound",
+    "link": "https://www.wsj.com/finance/banking/gold-rises-amid-mild-dollar-weakness-2448af71?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-04-07-57-00 +0000"
+  },
+  {
+    "headline": "Universal Music Shares Fall After Ackman Fund Offloads $1.5 Billion Stake",
+    "link": "https://www.wsj.com/business/universal-music-shares-fall-after-ackman-fund-offloads-1-5-billion-stake-96e62814?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-04-07-56-00 +0000"
+  },
+  {
+    "headline": "Universal Music Shares Fall After Ackman Fund Offloads $1.5 Billion Stake",
+    "link": "https://www.wsj.com/business/universal-music-shares-fall-after-ackman-fund-offloads-1-5-billion-stake-96e62814?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-04-07-56-00 +0000"
+  },
+  {
+    "headline": "Oil Futures Fall After Israel, Lebanon Agree to Conditional Ceasefire",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-technical-correction-4af14a1d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-04-07-56-00 +0000"
+  },
+  {
+    "headline": "Pennsylvania kindergarten graduation ceremony descends into chaos as baby caught up in brawl among adults",
+    "link": "https://nypost.com/2026/06/04/us-news/pennsylvania-kindergarten-graduation-ceremony-descends-into-chaos-as-baby-caught-up-in-brawl-among-adults/",
+    "source": "nypost",
+    "pubdate": "2026-06-04-07-55-48 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Broadcom Earnings Weigh on Markets",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-04-2026?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-04-07-54-05 +0000"
+  },
+  {
+    "headline": "Israel and Lebanon Agree to Renew Cease-Fire",
+    "link": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon",
+    "source": "nyt",
+    "pubdate": "2026-06-04-07-51-01 +0000"
+  },
+  {
+    "headline": "China Uses LinkedIn to Lure Spy Recruits in West, U.S. and Allies Warn",
+    "link": "https://www.wsj.com/world/china/china-uses-linkedin-to-lure-spy-recruits-in-west-u-s-and-allies-warn-556ab4d5",
+    "source": "wsj",
+    "pubdate": "2026-06-04-07-51-00 +0000"
+  },
+  {
+    "headline": "Israel and Lebanon Renew Cease-Fire, Calling for Evacuation of Hezbollah Operatives",
+    "link": "https://www.nytimes.com/2026/06/03/world/middleeast/israel-lebanon-ceasefire-hezbollah.html",
+    "source": "nyt",
+    "pubdate": "2026-06-04-07-50-59 +0000"
+  },
+  {
+    "headline": "Israel and Lebanon Renew Cease-Fire, Calling for Evacuation of Hezbollah Operatives",
+    "link": "https://www.nytimes.com/2026/06/03/world/middleeast/israel-lebanon-ceasefire-hezbollah.html",
+    "source": "nyt",
+    "pubdate": "2026-06-04-07-50-59 +0000"
+  },
+  {
+    "headline": "Israel and Lebanon renew ceasefire that doesn’t include key party: Hezbollah",
+    "link": "https://www.washingtonpost.com/world/2026/06/04/israel-lebanon-renew-ceasefire-deal-without-hezbollah/",
+    "source": "wapo",
+    "pubdate": "2026-06-04-07-50-09 +0000"
+  },
+  {
+    "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+    "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-04-07-49-33 +0000"
+  },
+  {
+    "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+    "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-04-07-49-33 +0000"
+  },
+  {
+    "headline": "House Passes Iran War Powers Resolution in Bipartisan Rebuke to Trump",
+    "link": "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html",
+    "source": "nyt",
+    "pubdate": "2026-06-04-07-40-36 +0000"
+  },
+  {
+    "headline": "House Passes Iran War Powers Resolution in Bipartisan Rebuke to Trump",
+    "link": "https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html",
+    "source": "nyt",
+    "pubdate": "2026-06-04-07-40-36 +0000"
+  },
+  {
+    "headline": "European Stocks Edge Higher as Banks, Software Companies Gain",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-2-dragged-by-tech-metals-stocks-c113d894?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-04-07-38-00 +0000"
+  },
+  {
     "headline": "Remy Cointreau Expects Return to Sustainable Organic Sales Growth in Year Ahead",
     "link": "https://www.wsj.com/business/retail/remy-cointreau-expects-return-to-sustainable-organic-sales-growth-in-year-ahead-4e7c36af?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-06-04-06-19-00 +0000"
+    "pubdate": "2026-06-04-07-31-00 +0000"
   },
   {
-    "headline": "U.S. Treasury Yields Little Changed, Mideast Developments in Focus",
-    "link": "https://www.wsj.com/finance/investing/jgbs-mixed-boj-rate-increase-prospects-could-weigh-48b7f444?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-04-05-47-00 +0000"
-  },
-  {
-    "headline": "Robodogs and Black Hawks - How one Mexican city is preparing for the World Cup",
-    "link": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-04-05-42-34 +0000"
-  },
-  {
-    "headline": "Robodogs and Black Hawks - How one Mexican city is preparing for the World Cup",
-    "link": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-04-05-42-34 +0000"
-  },
-  {
-    "headline": "China bans four New Zealand MPs over Taiwan visit",
-    "link": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-04-05-37-14 +0000"
-  },
-  {
-    "headline": "Watch: New footage shows moment Iranian drone struck Kuwait airport",
-    "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-04-05-30-28 +0000"
-  },
-  {
-    "headline": "Mullin Says ICE Training Going Back to ‘Regular Standards’",
-    "link": "https://www.nytimes.com/2026/06/03/us/politics/mullin-ice-training.html",
-    "source": "nyt",
-    "pubdate": "2026-06-04-05-28-22 +0000"
-  },
-  {
-    "headline": "Mullin Says ICE Training Going Back to ‘Regular Standards’",
-    "link": "https://www.nytimes.com/2026/06/03/us/politics/mullin-ice-training.html",
-    "source": "nyt",
-    "pubdate": "2026-06-04-05-28-22 +0000"
-  },
-  {
-    "headline": "Norway’s Princess Ingrid Alexandra leaves school in Australia to be with ‘seriously ill’ mom",
-    "link": "https://nypost.com/2026/06/04/world-news/norways-future-queen-princess-ingrid-alexandra-leaves-school-in-australia-as-moms-health-worsens/",
+    "headline": "Rep. Al Green tells Homeland Security Sec. Mullin to ‘shut up’ after calling him a racist at hearing",
+    "link": "https://nypost.com/2026/06/04/us-news/rep-al-green-tells-homeland-security-sec-mullin-to-shut-up-after-calling-him-a-racist-at-hearing/",
     "source": "nypost",
-    "pubdate": "2026-06-04-05-27-10 +0000"
+    "pubdate": "2026-06-04-07-27-32 +0000"
+  },
+  {
+    "headline": "Rep. Al Green tells Homeland Security Sec. Mullin to ‘shut up’ after calling him a racist at hearing",
+    "link": "https://nypost.com/2026/06/04/us-news/rep-al-green-tells-homeland-security-sec-mullin-to-shut-up-after-calling-him-a-racist-at-hearing/",
+    "source": "nypost",
+    "pubdate": "2026-06-04-07-27-32 +0000"
+  },
+  {
+    "headline": "US House delivers rebuke to Trump as it votes to halt Iran war",
+    "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-04-07-23-41 +0000"
+  },
+  {
+    "headline": "US House delivers rebuke to Trump as it votes to halt Iran war",
+    "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-04-07-23-41 +0000"
   }
 ]
