@@ -1,13 +1,13 @@
 [
   {
-    "score": 158,
+    "score": 152,
     "pubdate": "2026-06-03-21-31-00 +0000",
     "source": "wsj",
     "headline": "Months after the Supreme Court struck down President Trump’s most sweeping global tariffs, the administration said it would levy new tariffs using a different legal mechanism",
     "link": "https://www.wsj.com/economy/trade/what-to-know-about-trumps-latest-tariffs-362fa148"
   },
   {
-    "score": 117,
+    "score": 112,
     "pubdate": "2026-06-04-04-01-06 +0000",
     "source": "nyt",
     "headline": "Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup",
@@ -21,21 +21,14 @@
     "link": "https://www.wsj.com/politics/policy/gop-senators-fight-over-trump-fund-spills-onto-floor-4de6b204"
   },
   {
-    "score": 75,
-    "pubdate": "2026-06-03-20-05-58 +0000",
-    "source": "bbc",
-    "headline": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-    "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 75,
+    "score": 73,
     "pubdate": "2026-06-04-11-35-57 +0000",
     "source": "nyt",
     "headline": "Israel and Lebanon Renew Cease-Fire, Calling for Evacuation of Hezbollah Operatives",
     "link": "https://www.nytimes.com/2026/06/03/world/middleeast/israel-lebanon-ceasefire-hezbollah.html"
   },
   {
-    "score": 67,
+    "score": 65,
     "pubdate": "2026-06-04-16-26-36 +0000",
     "source": "nypost",
     "headline": "Pols send chilling warning to White House about China fueling anti-AI data center protests in US",
@@ -49,14 +42,14 @@
     "link": "https://nypost.com/2026/06/04/us-news/graham-platner-tells-dem-senators-worst-of-the-rumors-are-not-true-in-high-stakes-dc-meeting-report/"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2026-06-04-15-40-00 +0000",
     "source": "wsj",
     "headline": "The IPO Market Is So Hot a 140-Year-Old Silver Mine Just Went Public",
-    "link": "https://www.wsj.com/business/the-ipo-market-is-so-hot-a-140-year-old-silver-mine-just-went-public-bda95f04?mod=rss_markets_main"
+    "link": "https://www.wsj.com/business/the-ipo-market-is-so-hot-a-140-year-old-silver-mine-just-went-public-bda95f04?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 54,
+    "score": 51,
     "pubdate": "2026-06-04-10-00-00 +0000",
     "source": "latimes",
     "headline": "How Google's 32-million mosquito project could change California's battle against dengue",
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "John Bolton, Ex-Trump Adviser, Reaches Deal to Plead Guilty Over Classified Information",
     "link": "https://www.nytimes.com/2026/06/04/us/politics/john-bolton-plea-deal.html"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-06-04-07-03-48 +0000",
+    "source": "nyt",
+    "headline": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
+    "link": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html"
   }
 ]
