@@ -1,72 +1,72 @@
 [
   {
-    "score": 184,
+    "score": 177,
     "pubdate": "2026-06-03-21-31-00 +0000",
     "source": "wsj",
     "headline": "Months after the Supreme Court struck down President Trump’s most sweeping global tariffs, the administration said it would levy new tariffs using a different legal mechanism",
     "link": "https://www.wsj.com/economy/trade/what-to-know-about-trumps-latest-tariffs-362fa148"
   },
   {
-    "score": 138,
-    "pubdate": "2026-06-04-14-20-09 +0000",
+    "score": 127,
+    "pubdate": "2026-06-04-04-01-06 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: Israel Trades Strikes With Hezbollah After New Cease-Fire With Lebanon",
-    "link": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon"
+    "headline": "Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup",
+    "link": "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html"
   },
   {
-    "score": 79,
-    "pubdate": "2026-06-04-12-06-51 +0000",
+    "score": 80,
+    "pubdate": "2026-06-04-11-35-57 +0000",
+    "source": "nyt",
+    "headline": "Israel and Lebanon Renew Cease-Fire, Calling for Evacuation of Hezbollah Operatives",
+    "link": "https://www.nytimes.com/2026/06/03/world/middleeast/israel-lebanon-ceasefire-hezbollah.html"
+  },
+  {
+    "score": 74,
+    "pubdate": "2026-06-03-23-23-38 +0000",
     "source": "nypost",
-    "headline": "Senate votes to advance $70B plan to fund ICE, Border Patrol, setting up Thursday ‘vote-a-rama’",
-    "link": "https://nypost.com/2026/06/04/us-news/senate-votes-to-advance-70b-plan-to-fund-ice-border-patrol-setting-up-thursday-vote-a-rama/"
+    "headline": "NATO chief warns young Russians against signing up for army: ‘High chance you’ll die’",
+    "link": "https://nypost.com/2026/06/03/world-news/nato-chief-warns-young-russians-against-signing-up-for-army-high-chance-youll-die/"
   },
   {
-    "score": 77,
-    "pubdate": "2026-06-03-20-58-49 +0000",
-    "source": "nypost",
-    "headline": "Ebola fears prompt Spanish city to cancel Congo’s World Cup warmup match against Chile",
-    "link": "https://nypost.com/2026/06/03/sports/ebola-fears-prompt-spanish-city-to-cancel-congos-world-cup-warmup-match/"
-  },
-  {
-    "score": 66,
-    "pubdate": "2026-06-03-15-32-30 +0000",
-    "source": "bbc",
-    "headline": "Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count",
-    "link": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 65,
+    "score": 72,
     "pubdate": "2026-06-03-20-05-58 +0000",
     "source": "bbc",
     "headline": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
     "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 60,
-    "pubdate": "2026-06-04-13-52-17 +0000",
+    "score": 71,
+    "pubdate": "2026-06-04-16-26-36 +0000",
     "source": "nypost",
-    "headline": "Graham Platner gives flimsy excuse to Dem senators pressing him about skeletons in the closet during high-stakes meeting: report",
-    "link": "https://nypost.com/2026/06/04/us-news/graham-platner-tells-dem-senators-worst-of-the-rumors-are-not-true-in-high-stakes-dc-meeting-report/"
+    "headline": "Pols send chilling warning to White House about China fueling anti-AI data center protests in US",
+    "link": "https://nypost.com/2026/06/04/us-news/china-may-be-fueling-anti-ai-data-center-protests-in-us-lawmakers-tell-white-house-in-chilling-warning/"
   },
   {
-    "score": 56,
-    "pubdate": "2026-06-04-07-03-48 +0000",
-    "source": "nyt",
-    "headline": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
-    "link": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html"
+    "score": 58,
+    "pubdate": "2026-06-04-11-00-00 +0000",
+    "source": "wsj",
+    "headline": "After the $1.8 billion “anti-weaponization fund” lost support, the DOJ is eyeing other legal channels to pay Trump allies who claim the government targeted them for political reasons",
+    "link": "https://www.wsj.com/politics/policy/justice-department-eyes-alternative-weaponization-payouts-after-fund-pushback-6b8ca548"
   },
   {
-    "score": 54,
-    "pubdate": "2026-06-04-11-31-00 +0000",
+    "score": 55,
+    "pubdate": "2026-06-03-19-27-19 +0000",
+    "source": "nypost",
+    "headline": "British lawmaker Jess Asato sues Elon Musk’s xAI after Grok users made fake sexualized images of her in a bikini",
+    "link": "https://nypost.com/2026/06/03/business/british-lawmaker-jess-asato-sues-elon-musks-xai-after-grok-users-made-fake-sexualized-images-of-her-in-a-bikini/"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-06-03-22-49-08 +0000",
+    "source": "latimes",
+    "headline": "Hilton and Becerra lead California's unsettled governor's race; Steyer faces elimination",
+    "link": "https://www.latimes.com/california/story/2026-06-03/hilton-becerra-lead-california-governors-race-steyer-faces-elimination"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-06-04-16-31-00 +0000",
     "source": "wsj",
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
     "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-323f59d7?mod=rss_markets_main"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-06-03-18-07-51 +0000",
-    "source": "nyt",
-    "headline": "Protests in UK Over Henry Nowak Murder Case Turn Violent, as Leaders Urge Calm",
-    "link": "https://www.nytimes.com/2026/06/03/world/europe/henry-nowak-murder-southampton-protests-uk.html"
   }
 ]
