@@ -1,59 +1,52 @@
 [
   {
-    "score": 131,
+    "score": 125,
     "pubdate": "2026-06-04-23-18-00 +0000",
     "source": "wsj",
     "headline": "An internal Republican fight over legislation that would officially kill President Trump’s $1.8 billion “anti-weaponization” fund heated up Thursday",
     "link": "https://www.wsj.com/politics/policy/gop-senators-fight-over-trump-fund-spills-onto-floor-4de6b204"
   },
   {
-    "score": 90,
+    "score": 89,
     "pubdate": "2026-06-05-00-42-27 +0000",
     "source": "nypost",
     "headline": "Graham Platner admits to sexting women ‘soon’ after getting married, blasts ‘politically motivated’ allegations he manhandled ex-girlfriend",
     "link": "https://nypost.com/2026/06/04/us-news/graham-platner-admits-to-sexting-women-soon-after-getting-married-blasts-politically-motivated-allegations-he-manhandled-ex-girlfriend/"
   },
   {
-    "score": 74,
-    "pubdate": "2026-06-04-20-04-02 +0000",
-    "source": "nypost",
-    "headline": "Hezbollah rejects ‘humiliating’ cease-fire deal secured by Israel and Lebanon",
-    "link": "https://nypost.com/2026/06/04/world-news/hezbollah-rejects-new-cease-fire-deal-secured-by-israel-and-lebanon/"
-  },
-  {
-    "score": 66,
+    "score": 65,
     "pubdate": "2026-06-04-16-38-00 +0000",
     "source": "wsj",
     "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
     "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
-    "score": 62,
+    "score": 64,
+    "pubdate": "2026-06-04-20-04-02 +0000",
+    "source": "nypost",
+    "headline": "Hezbollah rejects ‘humiliating’ cease-fire deal secured by Israel and Lebanon",
+    "link": "https://nypost.com/2026/06/04/world-news/hezbollah-rejects-new-cease-fire-deal-secured-by-israel-and-lebanon/"
+  },
+  {
+    "score": 63,
     "pubdate": "2026-06-04-17-15-13 +0000",
     "source": "nyt",
     "headline": "Supreme Court Finds S.E.C. Can Strip Wrongdoers of Illegal Financial Gains, Even Without Proof of Victim Loss",
     "link": "https://www.nytimes.com/2026/06/04/us/politics/supreme-court-sec-disgorgement.html"
   },
   {
-    "score": 60,
-    "pubdate": "2026-06-05-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "California Democrats Gavin Newsom and Kamala Harris have bumped elbows, exchanged snubs and lent support for years. Expect all hell to break loose if they end up in a 2028 election showdown.",
-    "link": "https://www.wsj.com/politics/elections/kamala-harris-gavin-newsom-presidential-election-democratic-party-4316ffc4"
-  },
-  {
-    "score": 57,
+    "score": 59,
     "pubdate": "2026-06-05-01-56-20 +0000",
     "source": "nypost",
     "headline": "Trump reveals which performers will replace the ‘no talent’ singers that dropped out of Freedom 250 rally",
     "link": "https://nypost.com/2026/06/04/us-news/trump-reveals-which-performers-will-replace-the-no-talent-singers-that-dropped-out-of-freedom-250-rally/"
   },
   {
-    "score": 50,
-    "pubdate": "2026-06-04-07-03-48 +0000",
-    "source": "nyt",
-    "headline": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
-    "link": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html"
+    "score": 59,
+    "pubdate": "2026-06-05-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "California Democrats Gavin Newsom and Kamala Harris have bumped elbows, exchanged snubs and lent support for years. Expect all hell to break loose if they end up in a 2028 election showdown.",
+    "link": "https://www.wsj.com/politics/elections/kamala-harris-gavin-newsom-presidential-election-democratic-party-4316ffc4"
   },
   {
     "score": 50,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Can the US, Mexico and Canada set aside their differences as they co-host the World Cup?",
     "link": "https://www.bbc.com/news/articles/cvgz2081y8ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-06-04-16-18-37 +0000",
+    "source": "bbc",
+    "headline": "Musk's SpaceX share sale: Four things you need to know",
+    "link": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss"
   }
 ]
