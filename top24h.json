@@ -1,13 +1,13 @@
 [
   {
-    "score": 117,
+    "score": 114,
     "pubdate": "2026-06-05-16-20-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he wants Bill Pulte, his incoming acting director of national intelligence, to begin the process of firing a large number of employees as part of a shake-up of the U.S. intelligence community",
     "link": "https://www.wsj.com/politics/national-security/trump-urges-less-shackled-pulte-to-fire-intelligence-community-employees-aa62d70d"
   },
   {
-    "score": 99,
+    "score": 97,
     "pubdate": "2026-06-05-13-47-48 +0000",
     "source": "nypost",
     "headline": "Graham Platner, Susan Collins tied in Maine Senate race post-sexting scandal, new poll shows",
@@ -21,18 +21,11 @@
     "link": "https://www.cbc.ca/news/world/russia-ukraine-zelenksyy-putin-letter-9.7224495?cmp=rss"
   },
   {
-    "score": 67,
-    "pubdate": "2026-06-04-17-15-13 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Finds S.E.C. Can Strip Wrongdoers of Illegal Financial Gains, Even Without Proof of Victim Loss",
-    "link": "https://www.nytimes.com/2026/06/04/us/politics/supreme-court-sec-disgorgement.html"
-  },
-  {
     "score": 58,
-    "pubdate": "2026-06-05-12-46-00 +0000",
-    "source": "bbc",
-    "headline": "Is there an AI stock market bubble, and is it ready to burst?",
-    "link": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-06-05-08-27-21 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Nasdaq Slides After Strong Jobs Report",
+    "link": "https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026?mod=rss_markets_main"
   },
   {
     "score": 58,
@@ -42,7 +35,7 @@
     "link": "https://www.wsj.com/politics/elections/kamala-harris-gavin-newsom-presidential-election-democratic-party-4316ffc4"
   },
   {
-    "score": 54,
+    "score": 53,
     "pubdate": "2026-06-04-19-41-33 +0000",
     "source": "nyt",
     "headline": "Latest Israel-Lebanon Cease-Fire Shows Little Sign of Taking Hold",
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
     "link": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-06-04-20-19-21 +0000",
+    "source": "cbc",
+    "headline": "House committee asks U.S. DOJ to examine sexual abuse allegations made by ex-Epstein assistant",
+    "link": "https://www.cbc.ca/news/world/epstein-committee-interview-kellen-9.7223371?cmp=rss"
   }
 ]

@@ -1,72 +1,51 @@
 [
   {
-    "score": 34,
-    "pubdate": "2026-06-05-16-20-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he wants Bill Pulte, his incoming acting director of national intelligence, to begin the process of firing a large number of employees as part of a shake-up of the U.S. intelligence community",
-    "link": "https://www.wsj.com/politics/national-security/trump-urges-less-shackled-pulte-to-fire-intelligence-community-employees-aa62d70d"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-06-05-16-29-00 +0000",
-    "source": "wsj",
-    "headline": "Basic Materials Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-f1aff55d?mod=rss_markets_main"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-06-05-15-59-58 +0000",
-    "source": "bbc",
-    "headline": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
-    "link": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-06-05-15-56-21 +0000",
+    "score": 12,
+    "pubdate": "2026-06-05-16-35-09 +0000",
     "source": "nyt",
-    "headline": "Chuck Schumer Privately Backs Haley Stevens in Michigan Democratic Senate Primary",
-    "link": "https://www.nytimes.com/2026/06/05/us/politics/schumer-michigan-democratic-senate-primary.html"
+    "headline": "U.S. Job Market Pushes Past Shocks and Strains",
+    "link": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
   },
   {
-    "score": 20,
-    "pubdate": "2026-06-05-16-01-55 +0000",
+    "score": 11,
+    "pubdate": "2026-06-05-16-33-57 +0000",
     "source": "nypost",
-    "headline": "‘Master manipulator’ CIA officer who stashed $40M in gold bars at home detained as flight risk",
-    "link": "https://nypost.com/2026/06/05/us-news/master-manipulator-cia-officer-who-stashed-40m-in-gold-bars-detained-as-flight-risk/"
+    "headline": "Maritime drone being used in Ukraine war explodes at a Romanian Black Sea port",
+    "link": "https://nypost.com/2026/06/05/world-news/no-one-hurt-in-maritime-drone-explosion-at-a-romanian-black-sea-port/"
   },
   {
-    "score": 19,
-    "pubdate": "2026-06-05-16-14-36 +0000",
-    "source": "bbc",
-    "headline": "Nasa astronauts return to ISS after sheltering during air leak repair attempt",
-    "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss"
+    "score": 9,
+    "pubdate": "2026-06-05-16-31-46 +0000",
+    "source": "cbc",
+    "headline": "Too soon to declare a recession, says Canada's unofficial authority on calling them",
+    "link": "https://www.cbc.ca/news/business/canada-no-recession-cd-howe-call-9.7224560?cmp=rss"
   },
   {
-    "score": 19,
-    "pubdate": "2026-06-05-15-59-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. added 172,000 jobs in May, the Labor Department said Friday, beating expectations. The unemployment rate stayed unchanged at 4.3%",
-    "link": "https://www.wsj.com/economy/consumers/may-jobs-report-unemployment-fde062e1"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-06-05-16-00-48 +0000",
+    "score": 9,
+    "pubdate": "2026-06-05-16-34-49 +0000",
     "source": "nyt",
-    "headline": "Crown Princess Mette-Marit of Norway Is Placed on Lung Transplant List",
-    "link": "https://www.nytimes.com/2026/06/05/world/europe/norway-princess-lung-transplant.html"
+    "headline": "‘60 Minutes’ Stars Will Stay Because They Don’t Want Show to ‘Die’",
+    "link": "https://www.nytimes.com/2026/06/05/business/media/60-minutes-correspondents-will-stay.html"
   },
   {
-    "score": 17,
-    "pubdate": "2026-06-05-16-00-30 +0000",
-    "source": "bbc",
-    "headline": "How the contest is shaping up two weeks ahead of crucial Makerfield by-election",
-    "link": "https://www.bbc.com/news/articles/cg7p7nmj52jo?at_medium=RSS&at_campaign=rss"
+    "score": 8,
+    "pubdate": "2026-06-05-16-36-55 +0000",
+    "source": "nyt",
+    "headline": "They Shut the Golden Gate Bridge for 4 Hours. Now They Face Up to 15 Years in Prison.",
+    "link": "https://www.nytimes.com/2026/06/05/us/gaza-protesters-golden-gate-bridge.html"
   },
   {
-    "score": 16,
-    "pubdate": "2026-06-05-16-00-47 +0000",
-    "source": "bbc",
-    "headline": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-    "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss"
+    "score": 6,
+    "pubdate": "2026-06-05-16-36-00 +0000",
+    "source": "wsj",
+    "headline": "The Metric CFOs Struggle to Track: AI Usage",
+    "link": "https://www.wsj.com/cfo-journal/the-metric-cfos-struggle-to-track-ai-usage-3b30c10c?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-05-16-35-09 +0000",
+    "source": "nyt",
+    "headline": "U.S. Job Market Pushes Past Shocks and Strains",
+    "link": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
   }
 ]
