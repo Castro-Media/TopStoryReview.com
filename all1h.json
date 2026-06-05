@@ -1,44 +1,230 @@
 [
   {
-    "headline": "They Shut the Golden Gate Bridge for 4 Hours. Now They Face Up to 15 Years in Prison.",
-    "link": "https://www.nytimes.com/2026/06/05/us/gaza-protesters-golden-gate-bridge.html",
-    "source": "nyt",
-    "pubdate": "2026-06-05-16-36-55 +0000"
-  },
-  {
-    "headline": "The Metric CFOs Struggle to Track: AI Usage",
-    "link": "https://www.wsj.com/cfo-journal/the-metric-cfos-struggle-to-track-ai-usage-3b30c10c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-05-16-36-00 +0000"
-  },
-  {
-    "headline": "U.S. Job Market Pushes Past Shocks and Strains",
-    "link": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html",
-    "source": "nyt",
-    "pubdate": "2026-06-05-16-35-09 +0000"
-  },
-  {
-    "headline": "U.S. Job Market Pushes Past Shocks and Strains",
-    "link": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html",
-    "source": "nyt",
-    "pubdate": "2026-06-05-16-35-09 +0000"
-  },
-  {
-    "headline": "‘60 Minutes’ Stars Will Stay Because They Don’t Want Show to ‘Die’",
-    "link": "https://www.nytimes.com/2026/06/05/business/media/60-minutes-correspondents-will-stay.html",
-    "source": "nyt",
-    "pubdate": "2026-06-05-16-34-49 +0000"
-  },
-  {
-    "headline": "Maritime drone being used in Ukraine war explodes at a Romanian Black Sea port",
-    "link": "https://nypost.com/2026/06/05/world-news/no-one-hurt-in-maritime-drone-explosion-at-a-romanian-black-sea-port/",
+    "headline": "Meta quietly added facial recognition to smart glasses, sparking major privacy concerns: report",
+    "link": "https://nypost.com/2026/06/05/business/meta-quietly-added-facial-recognition-code-to-smart-glasses-report/",
     "source": "nypost",
-    "pubdate": "2026-06-05-16-33-57 +0000"
+    "pubdate": "2026-06-05-18-25-07 +0000"
   },
   {
-    "headline": "Too soon to declare a recession, says Canada's unofficial authority on calling them",
-    "link": "https://www.cbc.ca/news/business/canada-no-recession-cd-howe-call-9.7224560?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-05-16-31-46 +0000"
+    "headline": "At Russia’s Davos, Putin Tells His Soldiers to Keep Fighting",
+    "link": "https://www.wsj.com/world/russia/at-russias-davos-putin-tells-his-soldiers-to-keep-fighting-29de85f0",
+    "source": "wsj",
+    "pubdate": "2026-06-05-18-23-00 +0000"
+  },
+  {
+    "headline": "Central Ohio Becomes Hub for Tech and Manufacturing",
+    "link": "https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html",
+    "source": "nyt",
+    "pubdate": "2026-06-05-18-22-34 +0000"
+  },
+  {
+    "headline": "Historic California pier threatens to crumble into the sea as frightening crack opens along walkway",
+    "link": "https://nypost.com/2026/06/05/us-news/historic-california-pier-closed-indefinitely-after-huge-crack-appears/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-18-21-02 +0000"
+  },
+  {
+    "headline": "Trump must ‘accept the reality’  there is no Iran deal on the horizon: Jack Keane",
+    "link": "https://nypost.com/2026/06/05/world-news/jack-keane-calls-for-trump-to-return-to-war-with-iran-lets-go-big/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-18-17-24 +0000"
+  },
+  {
+    "headline": "Trump must ‘accept the reality’  there is no Iran deal on the horizon: Jack Keane",
+    "link": "https://nypost.com/2026/06/05/world-news/jack-keane-calls-for-trump-to-return-to-war-with-iran-lets-go-big/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-18-17-24 +0000"
+  },
+  {
+    "headline": "Trump must ‘accept the reality’  there is no Iran deal on the horizon: Jack Keane",
+    "link": "https://nypost.com/2026/06/05/world-news/jack-keane-calls-for-trump-to-return-to-war-with-iran-lets-go-big/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-18-17-24 +0000"
+  },
+  {
+    "headline": "Man Who Schemed With Au Pair to Kill His Wife Is Sentenced to Life",
+    "link": "https://www.nytimes.com/2026/06/05/us/brendan-banfield-sentence.html",
+    "source": "nyt",
+    "pubdate": "2026-06-05-18-16-58 +0000"
+  },
+  {
+    "headline": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+    "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-05-18-16-15 +0000"
+  },
+  {
+    "headline": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+    "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-05-18-16-15 +0000"
+  },
+  {
+    "headline": "Singer Fally Ipupa's pride at being given major DR Congo honour",
+    "link": "https://www.bbc.com/news/articles/clypyd6gj72o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-05-18-15-42 +0000"
+  },
+  {
+    "headline": "Singer Fally Ipupa's pride at being given major DR Congo honour",
+    "link": "https://www.bbc.com/news/articles/clypyd6gj72o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-05-18-15-42 +0000"
+  },
+  {
+    "headline": "U.S. Job Market Pushes Past Shocks and Strains",
+    "link": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html",
+    "source": "nyt",
+    "pubdate": "2026-06-05-18-14-22 +0000"
+  },
+  {
+    "headline": "U.S. Job Market Pushes Past Shocks and Strains",
+    "link": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html",
+    "source": "nyt",
+    "pubdate": "2026-06-05-18-14-22 +0000"
+  },
+  {
+    "headline": "Dramatic moment heroic SoCal restaurant owner flies into action to save choking customer",
+    "link": "https://nypost.com/2026/06/05/us-news/dramatic-moment-heroic-socal-restaurant-owner-flies-into-action-to-save-choking-customer/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-18-11-02 +0000"
+  },
+  {
+    "headline": "Teen swimmer who vanished off Rockaway Beach during NYC heat wave found dead",
+    "link": "https://nypost.com/2026/06/05/us-news/teen-swimmer-who-vanished-while-swimming-with-pals-off-rockaway-beach-during-nyc-heat-wave-found-dead/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-18-07-33 +0000"
+  },
+  {
+    "headline": "U ditches new ‘Leave a Future’ tagline after confusion and lukewarm reception",
+    "link": "https://www.startribune.com/u-ditches-new-leave-a-future-tagline-after-confusion-and-lukewarm-reception/601853579",
+    "source": "startribune",
+    "pubdate": "2026-06-05-18-05-01 +0000"
+  },
+  {
+    "headline": "Minneapolis Mayor Jacob Frey and the City Council have entered couples counseling",
+    "link": "https://www.startribune.com/jacob-frey-city-council-couples-counseling/601853142",
+    "source": "startribune",
+    "pubdate": "2026-06-05-18-02-03 +0000"
+  },
+  {
+    "headline": "Anger and death threats fly in John Gotti’s neighborhood as complaints shut down rogue Knicks watch party",
+    "link": "https://nypost.com/2026/06/05/us-news/brothers-raviolis-knicks-watch-party-shut-down-by-cranky-howar-beach-neighbors/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-18-01-28 +0000"
+  },
+  {
+    "headline": "LA County vote-counting facility appears bustling with workers as probe announced — a day after desks sat empty",
+    "link": "https://nypost.com/2026/06/05/us-news/la-county-vote-counting-facility-appears-to-be-busier-with-600000-plus-votes-left-to-go/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-17-58-35 +0000"
+  },
+  {
+    "headline": "Paramount’s Warner Bros. acquisition faces lawsuit from states as Hollywood frets over deal: report",
+    "link": "https://nypost.com/2026/06/05/media/states-planning-to-sue-to-block-paramounts-acquisition-of-warner-bros-report/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-17-54-31 +0000"
+  },
+  {
+    "headline": "Scandal-plagued far left NY House hopeful Darializa Avila Chevalier attended anti-Israel rally — day after Oct. 7 attacks",
+    "link": "https://nypost.com/2026/06/05/us-news/scandal-plagued-far-left-ny-house-hopeful-darializa-avila-chevalier-attended-anti-israel-rally-day-after-oct-7-attacks/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-17-49-52 +0000"
+  },
+  {
+    "headline": "Best Small-Business Loans in June 2026",
+    "link": "https://www.wsj.com/buyside/personal-finance/business-loans/best-small-business-loans?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-05-17-49-00 +0000"
+  },
+  {
+    "headline": "’60 Minutes’ Stars Will Stay After Pelley’s Firing Because They Don’t Want Show to ‘Die’",
+    "link": "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html",
+    "source": "nyt",
+    "pubdate": "2026-06-05-17-47-29 +0000"
+  },
+  {
+    "headline": "Best High-Yield Savings Accounts for June 2026: Up to 5.00%",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
+    "source": "wsj",
+    "pubdate": "2026-06-05-17-47-00 +0000"
+  },
+  {
+    "headline": "AI and bot internet activity outpaces human use for first time in history: ‘On the other side now’",
+    "link": "https://nypost.com/2026/06/05/us-news/ai-and-bot-internet-activity-outpaces-human-use-for-first-time-in-history-on-the-other-side-now/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-17-46-32 +0000"
+  },
+  {
+    "headline": "Comex Gold Ends the Week 4.90% Lower at $4337.10",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-pressured-by-rate-hike-fears-as-middle-east-uncertainty-persists-45467dd9?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-05-17-46-00 +0000"
+  },
+  {
+    "headline": "Celeb dog with 1.5M followers is stolen and sold for just $26 — then eaten at restaurant",
+    "link": "https://nypost.com/2026/06/05/world-news/celebrity-dog-with-1-5m-followers-is-stolen-sold-and-eaten/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-17-45-52 +0000"
+  },
+  {
+    "headline": "Karen Read sues police for dead ex-cop boyfriend she was accused of murdering: ‘We are the voice for John’",
+    "link": "https://nypost.com/2026/06/05/us-news/karen-read-sues-police-for-dead-ex-cop-boyfriend-john-okeefe/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-17-45-24 +0000"
+  },
+  {
+    "headline": "As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw",
+    "link": "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-06-05-17-44-38 +0000"
+  },
+  {
+    "headline": "As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw",
+    "link": "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-06-05-17-44-38 +0000"
+  },
+  {
+    "headline": "A Question Swirling Around Putin’s Big Conference: Could the War End?",
+    "link": "https://www.nytimes.com/2026/06/05/world/europe/putin-war-st-petersburg-economic-forum.html",
+    "source": "nyt",
+    "pubdate": "2026-06-05-17-41-02 +0000"
+  },
+  {
+    "headline": "A Question Swirling Around Putin’s Big Conference: Could the War End?",
+    "link": "https://www.nytimes.com/2026/06/05/world/europe/putin-war-st-petersburg-economic-forum.html",
+    "source": "nyt",
+    "pubdate": "2026-06-05-17-41-02 +0000"
+  },
+  {
+    "headline": "Fake it ’til you make out: Gen Z New Yorkers are going on ‘practice dates’ — with people they don’t even like",
+    "link": "https://nypost.com/2026/06/05/lifestyle/gen-z-going-on-practice-dates-with-people-they-dont-like/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-17-39-46 +0000"
+  },
+  {
+    "headline": "Feds pursuing 'multiple' election fraud investigations, top prosecutor says",
+    "link": "https://www.latimes.com/california/story/2026-06-05/u-s-attorney-says-fbi-federal-prosecutors-are-investigating-alleged-election-fraud-in-california",
+    "source": "latimes",
+    "pubdate": "2026-06-05-17-36-09 +0000"
+  },
+  {
+    "headline": "Feds pursuing 'multiple' election fraud investigations, top prosecutor says",
+    "link": "https://www.latimes.com/california/story/2026-06-05/u-s-attorney-says-fbi-federal-prosecutors-are-investigating-alleged-election-fraud-in-california",
+    "source": "latimes",
+    "pubdate": "2026-06-05-17-36-09 +0000"
+  },
+  {
+    "headline": "James Handy’s girlfriend breaks silence after her son allegedly killed ‘Top Gun’ star and says ‘I love James and I love my son’",
+    "link": "https://nypost.com/2026/06/05/us-news/james-handys-girlfriend-breaks-silence-after-her-son-allegedly-killed-top-gun-maverick-actor/",
+    "source": "nypost",
+    "pubdate": "2026-06-05-17-35-53 +0000"
+  },
+  {
+    "headline": "President Trump said he wants Bill Pulte, his incoming acting director of national intelligence, to begin firing a large number of employees as part of a shake-up of the U.S. intelligence community",
+    "link": "https://www.wsj.com/politics/national-security/trump-urges-less-shackled-pulte-to-fire-intelligence-community-employees-aa62d70d",
+    "source": "wsj",
+    "pubdate": "2026-06-05-17-31-00 +0000"
   }
 ]
