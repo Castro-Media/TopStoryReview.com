@@ -1,13 +1,13 @@
 [
   {
-    "score": 127,
+    "score": 131,
     "pubdate": "2026-06-04-23-18-00 +0000",
     "source": "wsj",
     "headline": "An internal Republican fight over legislation that would officially kill President Trump’s $1.8 billion “anti-weaponization” fund heated up Thursday",
     "link": "https://www.wsj.com/politics/policy/gop-senators-fight-over-trump-fund-spills-onto-floor-4de6b204"
   },
   {
-    "score": 93,
+    "score": 90,
     "pubdate": "2026-06-05-00-42-27 +0000",
     "source": "nypost",
     "headline": "Graham Platner admits to sexting women ‘soon’ after getting married, blasts ‘politically motivated’ allegations he manhandled ex-girlfriend",
@@ -21,25 +21,18 @@
     "link": "https://nypost.com/2026/06/04/world-news/hezbollah-rejects-new-cease-fire-deal-secured-by-israel-and-lebanon/"
   },
   {
-    "score": 69,
+    "score": 66,
     "pubdate": "2026-06-04-16-38-00 +0000",
     "source": "wsj",
     "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
     "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
-    "score": 63,
+    "score": 62,
     "pubdate": "2026-06-04-17-15-13 +0000",
     "source": "nyt",
     "headline": "Supreme Court Finds S.E.C. Can Strip Wrongdoers of Illegal Financial Gains, Even Without Proof of Victim Loss",
     "link": "https://www.nytimes.com/2026/06/04/us/politics/supreme-court-sec-disgorgement.html"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-06-04-21-01-54 +0000",
-    "source": "latimes",
-    "headline": "Spencer Pratt claims L.A.'s homeless will move to Seattle if he's elected. That city's mayor responds",
-    "link": "https://www.latimes.com/california/story/2026-06-04/spencer-pratt-claims-l-a-s-homeless-will-move-to-seattle-if-hes-elected-that-citys-mayor-responds"
   },
   {
     "score": 60,
@@ -49,24 +42,31 @@
     "link": "https://www.wsj.com/politics/elections/kamala-harris-gavin-newsom-presidential-election-democratic-party-4316ffc4"
   },
   {
-    "score": 56,
-    "pubdate": "2026-06-04-08-46-23 +0000",
-    "source": "bbc",
-    "headline": "Can the US, Mexico and Canada set aside their differences as they co-host the World Cup?",
-    "link": "https://www.bbc.com/news/articles/cvgz2081y8ko?at_medium=RSS&at_campaign=rss"
+    "score": 57,
+    "pubdate": "2026-06-05-01-56-20 +0000",
+    "source": "nypost",
+    "headline": "Trump reveals which performers will replace the ‘no talent’ singers that dropped out of Freedom 250 rally",
+    "link": "https://nypost.com/2026/06/04/us-news/trump-reveals-which-performers-will-replace-the-no-talent-singers-that-dropped-out-of-freedom-250-rally/"
   },
   {
-    "score": 47,
+    "score": 50,
+    "pubdate": "2026-06-04-07-03-48 +0000",
+    "source": "nyt",
+    "headline": "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race",
+    "link": "https://www.nytimes.com/2026/06/04/world/asia/south-korea-seoul-mayor-elections.html"
+  },
+  {
+    "score": 50,
     "pubdate": "2026-06-04-14-21-17 +0000",
     "source": "nypost",
     "headline": "Missing Mount Everest Sherpa guide found crawling to base camp after family had given up hope",
     "link": "https://nypost.com/2026/06/04/world-news/sherpa-guide-missing-for-a-week-on-mount-everest-rescued-while-crawling-to-base-camp/"
   },
   {
-    "score": 47,
-    "pubdate": "2026-06-04-16-57-00 +0000",
-    "source": "wsj",
-    "headline": "Trump moves to make Todd Blanche attorney general, setting up a potentially contentious Senate confirmation battle over his Justice Department agenda",
-    "link": "https://www.wsj.com/politics/policy/trump-says-he-will-nominate-todd-blanche-as-attorney-general-19343a47"
+    "score": 50,
+    "pubdate": "2026-06-04-08-46-23 +0000",
+    "source": "bbc",
+    "headline": "Can the US, Mexico and Canada set aside their differences as they co-host the World Cup?",
+    "link": "https://www.bbc.com/news/articles/cvgz2081y8ko?at_medium=RSS&at_campaign=rss"
   }
 ]
