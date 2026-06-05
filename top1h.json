@@ -1,72 +1,58 @@
 [
   {
-    "score": 24,
-    "pubdate": "2026-06-05-20-09-22 +0000",
-    "source": "nypost",
-    "headline": "Map: See how your neighborhood voted in the LA mayoral race as election results near",
-    "link": "https://nypost.com/2026/06/05/us-news/map-how-your-neighborhood-voted-in-the-la-mayoral-race/"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-06-05-19-53-32 +0000",
-    "source": "nyt",
-    "headline": "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers",
-    "link": "https://www.nytimes.com/2026/06/04/world/europe/boeing-plane-nose-gear-collapse-frankfurt.html"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-06-05-19-53-51 +0000",
-    "source": "bbc",
-    "headline": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
-    "link": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-06-05-20-17-42 +0000",
-    "source": "nypost",
-    "headline": "Sen. John Fetterman eviscerates Dems defending Graham Platner: ‘Captain D–k Pic on Kik’",
-    "link": "https://nypost.com/2026/06/05/us-news/sen-john-fetterman-eviscerates-dems-defending-graham-platner-captain-d-k-pic-on-kik/"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-06-05-19-56-37 +0000",
-    "source": "bbc",
-    "headline": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
-    "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-06-05-19-45-59 +0000",
-    "source": "nypost",
-    "headline": "Bombshell new court docs blow elite water polo school sex scandal wide open: ‘He just kept doing it’",
-    "link": "https://nypost.com/2026/06/05/us-news/harvard-westlake-water-polo-sex-attack-scandal-include-allegations-of-antisemitism/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-06-05-20-14-08 +0000",
-    "source": "nypost",
-    "headline": "Macy’s 60-year-old ‘shopping bag’ billboard in Herald Square to be demolished, removed this weekend",
-    "link": "https://nypost.com/2026/06/05/business/macys-60-year-old-shopping-bag-billboard-in-herald-square-to-be-demolished-removed-this-weekend/"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-06-05-20-00-24 +0000",
-    "source": "nyt",
-    "headline": "Trump Arch Will Need Red Lights, F.A.A. Says",
-    "link": "https://www.nytimes.com/2026/06/05/us/politics/trump-arch-lights-faa.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-06-05-19-53-34 +0000",
-    "source": "nyt",
-    "headline": "U.S. Job Market Pushes Past Shocks and Strains",
-    "link": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
-  },
-  {
     "score": 12,
     "pubdate": "2026-06-05-20-19-30 +0000",
     "source": "nypost",
     "headline": "Famed Napa Valley vineyards face doomsday reckoning as mammoth winemaker announces shocking move",
     "link": "https://nypost.com/2026/06/05/us-news/famed-napa-valley-vineyards-face-doomsday-reckoning-as-mammoth-winemaker-announces-shocking-move/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-06-05-20-21-38 +0000",
+    "source": "nyt",
+    "headline": "Stocks Slide as Investors See Rates Rising After Strong Jobs Data",
+    "link": "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-06-05-20-30-38 +0000",
+    "source": "nyt",
+    "headline": "Anthony Head, ‘Buffy the Vampire Slayer’ and ‘Ted Lasso’ Actor, Dies at 72",
+    "link": "https://www.nytimes.com/2026/06/05/arts/television/anthony-head-dead.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-05-20-20-00 +0000",
+    "source": "nypost",
+    "headline": "Snowball or avalanche? The best debt repayment plan depends on one thing",
+    "link": "https://nypost.com/business/debt-snowball-vs-debt-avalanche-comparison/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-06-05-20-24-52 +0000",
+    "source": "nypost",
+    "headline": "Karmelo Anthony asked to leave ‘15 times’ before fatal stabbing, witness says",
+    "link": "https://nypost.com/2026/06/05/us-news/karmelo-anthony-asked-to-leave-15-times-before-fatal-stabbing-witness-says/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-05-20-20-30 +0000",
+    "source": "startribune",
+    "headline": "Live: LCWM takes on Visitation in Class 2A softball state championship",
+    "link": "https://www.startribune.com/mn-softball-state-tournament-live-scores-results-from-state-championship-games/601853154"
+  },
+  {
+    "score": 3,
+    "pubdate": "2026-06-05-20-21-00 +0000",
+    "source": "wsj",
+    "headline": "Strong Job Growth Weakens Stocks",
+    "link": "https://www.wsj.com/finance/stocks/strong-job-growth-weakens-stocks-4fd74931?mod=rss_markets_main"
+  },
+  {
+    "score": 2,
+    "pubdate": "2026-06-05-21-00-00 +0000",
+    "source": "bbc",
+    "headline": "Free Thinking",
+    "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss"
   }
 ]
