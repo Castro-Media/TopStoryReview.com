@@ -14,7 +14,7 @@
     "link": "https://www.nytimes.com/2026/06/05/us/politics/maine-senate-graham-platner-democrats.html"
   },
   {
-    "score": 77,
+    "score": 74,
     "pubdate": "2026-06-06-01-08-00 +0000",
     "source": "wsj",
     "headline": "Former HHS Secretary Xavier Becerra advanced to the general election for California governor in November, making him the favorite to replace Gov. Gavin Newsom",
@@ -35,13 +35,6 @@
     "link": "https://nypost.com/2026/06/05/us-news/sofi-stadium-workers-authorize-strike-days-ahead-of-world-cup/"
   },
   {
-    "score": 53,
-    "pubdate": "2026-06-06-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Kevin Warsh faces early Fed pressure as strong jobs data fuel a hawkish shift, rate hike bets and a policy clash",
-    "link": "https://www.wsj.com/economy/central-banking/kevin-warshs-job-just-got-a-lot-more-complicated-60b369f1"
-  },
-  {
     "score": 52,
     "pubdate": "2026-06-06-09-01-43 +0000",
     "source": "nyt",
@@ -49,11 +42,11 @@
     "link": "https://www.nytimes.com/2026/06/06/world/asia/as-ebola-spreads-in-east-africa-will-china-step-up.html"
   },
   {
-    "score": 47,
-    "pubdate": "2026-06-05-14-15-02 +0000",
+    "score": 51,
+    "pubdate": "2026-06-05-12-53-10 +0000",
     "source": "nyt",
-    "headline": "How the Job Market Is Leaving New Graduates Behind",
-    "link": "https://www.nytimes.com/video/business/100000010938226/the-lasting-cost-of-graduating-into-a-tough-job-market.html"
+    "headline": "With Jobs Market Stable, Fed Is Focusing on Inflation Over Rate Cuts",
+    "link": "https://www.nytimes.com/live/2026/business/jobs-report-economy/stable-jobs-market-affirms-feds-reluctance-to-lower-interest-rates"
   },
   {
     "score": 45,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Putin slams door on Zelensky meeting, saying there’s ‘no point’ as Ukrainian drone strikes batter Russia",
     "link": "https://nypost.com/2026/06/05/world-news/vladimir-putin-says-no-to-volodymyr-zelensky-meeting/"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-06-06-00-45-24 +0000",
+    "source": "nypost",
+    "headline": "Spencer Pratt’s lead shrinks over Nithya Raman and Xavier Becerra overtakes Steve Hilton in latest ballot drop",
+    "link": "https://nypost.com/2026/06/05/us-news/spencer-pratts-lead-shrinks-over-nithya-raman-in-latest-ballot-drop/"
   }
 ]
