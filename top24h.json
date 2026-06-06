@@ -1,17 +1,10 @@
 [
   {
-    "score": 120,
+    "score": 119,
     "pubdate": "2026-06-05-19-06-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he wants Bill Pulte, his incoming acting director of national intelligence, to begin firing a large number of employees as part of a shake-up of the U.S. intelligence community",
     "link": "https://www.wsj.com/politics/national-security/trump-urges-less-shackled-pulte-to-fire-intelligence-community-employees-aa62d70d"
-  },
-  {
-    "score": 81,
-    "pubdate": "2026-06-05-21-51-59 +0000",
-    "source": "nyt",
-    "headline": "Amid Graham Platner Controversy, Where Does the Maine Senate Race Go Next?",
-    "link": "https://www.nytimes.com/2026/06/05/us/politics/maine-senate-graham-platner-democrats.html"
   },
   {
     "score": 78,
@@ -21,35 +14,35 @@
     "link": "https://www.wsj.com/politics/elections/democrat-xavier-becerra-advances-to-general-election-for-california-governor-af8beaea"
   },
   {
-    "score": 71,
+    "score": 78,
+    "pubdate": "2026-06-05-21-51-59 +0000",
+    "source": "nyt",
+    "headline": "Amid Graham Platner Controversy, Where Does the Maine Senate Race Go Next?",
+    "link": "https://www.nytimes.com/2026/06/05/us/politics/maine-senate-graham-platner-democrats.html"
+  },
+  {
+    "score": 70,
     "pubdate": "2026-06-05-21-29-12 +0000",
     "source": "nypost",
     "headline": "Putin slams door on Zelensky meeting, saying there’s ‘no point’ as Ukrainian drone strikes batter Russia",
     "link": "https://nypost.com/2026/06/05/world-news/vladimir-putin-says-no-to-volodymyr-zelensky-meeting/"
   },
   {
-    "score": 60,
+    "score": 59,
     "pubdate": "2026-06-06-00-16-37 +0000",
     "source": "nyt",
     "headline": "Iran’s Soccer Team Allowed Into U.S. for World Cup, but Many Staff Denied",
     "link": "https://www.nytimes.com/2026/06/05/world/middleeast/world-cup-iran-football-team-visas-war.html"
   },
   {
-    "score": 54,
+    "score": 55,
     "pubdate": "2026-06-06-01-00-00 +0000",
     "source": "wsj",
     "headline": "Kevin Warsh faces early Fed pressure as strong jobs data fuel a hawkish shift, rate hike bets and a policy clash",
     "link": "https://www.wsj.com/economy/central-banking/kevin-warshs-job-just-got-a-lot-more-complicated-60b369f1"
   },
   {
-    "score": 52,
-    "pubdate": "2026-06-05-23-17-25 +0000",
-    "source": "nypost",
-    "headline": "US shoots down Iranian drones launched toward Strait of Hormuz after Trump said ‘we’re straightening out a little unfinished business’",
-    "link": "https://nypost.com/2026/06/05/us-news/us-shoots-down-iranian-drones-launched-toward-strait-of-hormuz-after-trump-said-were-straightening-out-a-little-unfinished-business/"
-  },
-  {
-    "score": 46,
+    "score": 47,
     "pubdate": "2026-06-05-14-15-02 +0000",
     "source": "nyt",
     "headline": "How the Job Market Is Leaving New Graduates Behind",
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "A U.S. judge struck down several of the Trump administration’s efforts to restrict asylum claims and other immigration benefits, finding the measures exceeded agency authority and were motivated by “anti-immigrant sentiments”",
     "link": "https://www.wsj.com/politics/policy/judge-strikes-down-trump-administration-freeze-on-immigration-benefits-a21a272a"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-06-05-09-08-36 +0000",
+    "source": "nypost",
+    "headline": "Norway’s Crown Princess Mette-Marit placed on list for lung transplant, palace says",
+    "link": "https://nypost.com/2026/06/05/world-news/norways-crown-princess-mette-marit-placed-on-lung-transplant-list-palace-says/"
   }
 ]
