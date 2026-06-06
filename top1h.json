@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-06-06-11-15-00 +0000",
+    "score": 18,
+    "pubdate": "2026-06-06-12-35-01 +0000",
+    "source": "nyt",
+    "headline": "Paxton’s Senate Bid Raises the Stakes in His War on Latino Voting Groups",
+    "link": "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-06-06-13-15-45 +0000",
+    "source": "nyt",
+    "headline": "As Ebola Spreads in East Africa, Will China Step Up?",
+    "link": "https://www.nytimes.com/2026/06/06/world/asia/as-ebola-spreads-in-east-africa-will-china-step-up.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-06-06-13-06-51 +0000",
+    "source": "nyt",
+    "headline": "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital",
+    "link": "https://www.nytimes.com/2026/06/06/world/asia/india-protest-cockroach-janta-party.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-06-12-27-40 +0000",
     "source": "nypost",
-    "headline": "Lefties call Delaney Hall a dungeon, but inmates enjoy yoga, aromatherapy and other amenities",
-    "link": "https://nypost.com/2026/06/06/us-news/thats-a-stretch-delaney-hall-offers-yoga-sessions-a-gym-way-better-than-his-own-nj-lawmaker-says/"
+    "headline": "‘MeToo’ Democrats like AOC and Warren mum on Graham Platner sex scandal — while Schumer plots damage control",
+    "link": "https://nypost.com/2026/06/06/us-news/metoo-democrats-stay-mum-on-platner-sex-scandal-while-schumer-plots-damage-control/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-06-12-37-26 +0000",
+    "source": "nypost",
+    "headline": "Erika Kirk won’t let heckler ruin Turning Point summit speech as she wows crowd with clapback",
+    "link": "https://nypost.com/2026/06/06/us-news/heckler-derails-erika-kirk-speech-at-turning-point-usa-womens-summitt/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-06-06-12-43-31 +0000",
+    "source": "cbc",
+    "headline": "Israeli airstrike on southern Lebanon kills Lebanese troops days after ceasefire began",
+    "link": "https://www.cbc.ca/news/world/israeli-airstrike-southern-lebanon-9.7226084?cmp=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-06-06-12-27-17 +0000",
+    "source": "cbc",
+    "headline": "Israeli forces kill Palestinian infant in occupied West Bank, health officials say",
+    "link": "https://www.cbc.ca/news/world/israeli-palestinian-infant-killed-9.7226079?cmp=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-06-12-47-50 +0000",
+    "source": "nyt",
+    "headline": "5 Tips to Start Managing Your Aging Parents’ Money",
+    "link": "https://www.nytimes.com/2026/06/06/business/retirement-managing-parents-money.html"
+  },
+  {
+    "score": 2,
+    "pubdate": "2026-06-06-13-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "Flair bird",
+    "link": "https://missionlocal.org/2026/06/flair-bird/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-06-13-06-51 +0000",
+    "source": "nyt",
+    "headline": "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital",
+    "link": "https://www.nytimes.com/2026/06/06/world/asia/india-protest-cockroach-janta-party.html"
   }
 ]
