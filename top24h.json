@@ -1,20 +1,20 @@
 [
   {
-    "score": 120,
+    "score": 117,
     "pubdate": "2026-06-05-19-06-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he wants Bill Pulte, his incoming acting director of national intelligence, to begin firing a large number of employees as part of a shake-up of the U.S. intelligence community",
     "link": "https://www.wsj.com/politics/national-security/trump-urges-less-shackled-pulte-to-fire-intelligence-community-employees-aa62d70d"
   },
   {
-    "score": 81,
+    "score": 80,
     "pubdate": "2026-06-05-21-51-59 +0000",
     "source": "nyt",
     "headline": "Amid Graham Platner Controversy, Where Does the Maine Senate Race Go Next?",
     "link": "https://www.nytimes.com/2026/06/05/us/politics/maine-senate-graham-platner-democrats.html"
   },
   {
-    "score": 78,
+    "score": 77,
     "pubdate": "2026-06-06-01-08-00 +0000",
     "source": "wsj",
     "headline": "Former HHS Secretary Xavier Becerra advanced to the general election for California governor in November, making him the favorite to replace Gov. Gavin Newsom",
@@ -28,7 +28,7 @@
     "link": "https://www.nytimes.com/2026/06/05/world/middleeast/world-cup-iran-football-team-visas-war.html"
   },
   {
-    "score": 69,
+    "score": 68,
     "pubdate": "2026-06-05-21-29-12 +0000",
     "source": "nypost",
     "headline": "Putin slams door on Zelensky meeting, saying there’s ‘no point’ as Ukrainian drone strikes batter Russia",
@@ -42,20 +42,6 @@
     "link": "https://www.nytimes.com/live/2026/business/jobs-report-economy/stable-jobs-market-affirms-feds-reluctance-to-lower-interest-rates"
   },
   {
-    "score": 47,
-    "pubdate": "2026-06-06-09-01-43 +0000",
-    "source": "nyt",
-    "headline": "As Ebola Spreads in East Africa, Will China Step Up?",
-    "link": "https://www.nytimes.com/2026/06/06/world/asia/as-ebola-spreads-in-east-africa-will-china-step-up.html"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-06-06-03-38-00 +0000",
-    "source": "nypost",
-    "headline": "‘Top Gun: Maverick’ actor James Handy’s alleged killer must wait to face murder charges after deadly attack",
-    "link": "https://nypost.com/2026/06/05/us-news/shocking-pause-to-murder-charges-for-suspect-in-james-handy-killing/"
-  },
-  {
     "score": 46,
     "pubdate": "2026-06-05-20-35-00 +0000",
     "source": "wsj",
@@ -64,9 +50,23 @@
   },
   {
     "score": 44,
+    "pubdate": "2026-06-06-03-38-00 +0000",
+    "source": "nypost",
+    "headline": "‘Top Gun: Maverick’ actor James Handy’s alleged killer must wait to face murder charges after deadly attack",
+    "link": "https://nypost.com/2026/06/05/us-news/shocking-pause-to-murder-charges-for-suspect-in-james-handy-killing/"
+  },
+  {
+    "score": 44,
     "pubdate": "2026-06-06-00-45-24 +0000",
     "source": "nypost",
     "headline": "Spencer Pratt’s lead shrinks over Nithya Raman and Xavier Becerra overtakes Steve Hilton in latest ballot drop",
     "link": "https://nypost.com/2026/06/05/us-news/spencer-pratts-lead-shrinks-over-nithya-raman-in-latest-ballot-drop/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-06-06-07-22-36 +0000",
+    "source": "nyt",
+    "headline": "Iran Fired Drones Toward Strait of Hormuz With U.S. Shooting Down at Least 4, U.S. Military Says",
+    "link": "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html"
   }
 ]
