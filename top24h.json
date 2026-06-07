@@ -1,31 +1,31 @@
 [
   {
-    "score": 81,
+    "score": 76,
     "pubdate": "2026-06-06-23-45-42 +0000",
     "source": "nypost",
     "headline": "Pope Leo backs team USA in the World Cup — as he could become third straight pope to watch homeland win",
     "link": "https://nypost.com/2026/06/06/world-news/pope-leo-says-hes-cheering-on-the-us-in-the-world-cup/"
   },
   {
-    "score": 73,
-    "pubdate": "2026-06-06-12-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump’s approval numbers have tumbled, hurt by worries about the economy and the Iran war. But in west-central Ohio, voters still firmly in his camp say he has delivered on key promises.",
-    "link": "https://www.wsj.com/politics/policy/as-trumps-support-slips-these-voters-say-why-theyre-sticking-with-him-3b3546c3"
+    "score": 63,
+    "pubdate": "2026-06-07-09-02-06 +0000",
+    "source": "nyt",
+    "headline": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
+    "link": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html"
   },
   {
-    "score": 52,
-    "pubdate": "2026-06-06-21-23-03 +0000",
-    "source": "bbc",
-    "headline": "Lebanese general among three soldiers killed in Israeli attack on car",
-    "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
+    "score": 57,
+    "pubdate": "2026-06-06-12-27-17 +0000",
+    "source": "cbc",
+    "headline": "Palestinian baby killed, parents hurt in Israeli shooting in West Bank, Palestinian health officials say",
+    "link": "https://www.cbc.ca/news/world/israeli-palestinian-infant-killed-9.7226079?cmp=rss"
   },
   {
     "score": 39,
-    "pubdate": "2026-06-07-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Commentary: From here to November: Our columnists size up the California governor's race",
-    "link": "https://www.latimes.com/politics/story/2026-06-07/california-primary-governor-race-becerra-hilton-steyer-barabak-chabria"
+    "pubdate": "2026-06-06-13-49-03 +0000",
+    "source": "nyt",
+    "headline": "Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed",
+    "link": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html"
   },
   {
     "score": 38,
@@ -33,6 +33,13 @@
     "source": "bbc",
     "headline": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
     "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-06-07-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Commentary: From here to November: Our columnists size up the California governor's race",
+    "link": "https://www.latimes.com/politics/story/2026-06-07/california-primary-governor-race-becerra-hilton-steyer-barabak-chabria"
   },
   {
     "score": 37,
@@ -61,12 +68,5 @@
     "source": "wsj",
     "headline": "Rahm Emanuel’s long résumé would traditionally be an asset, but it could be a liability in a Democratic Party where some are calling for younger leaders after former President Joe Biden",
     "link": "https://www.wsj.com/politics/elections/rahm-emanuel-pedals-hard-to-show-vitality-as-aging-potential-2028-candidate-220e0fc7"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-06-06-13-32-21 +0000",
-    "source": "cbc",
-    "headline": "New exchange of fire between U.S. and Iran in Gulf tests fragile ceasefire",
-    "link": "https://www.cbc.ca/news/world/bahrain-iran-drones-gulf-9.7226112?cmp=rss"
   }
 ]
