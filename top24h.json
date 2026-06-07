@@ -1,38 +1,31 @@
 [
   {
-    "score": 83,
-    "pubdate": "2026-06-06-12-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump’s approval numbers have tumbled, hurt by worries about the economy and the Iran war. But in west-central Ohio, voters still firmly in his camp say he has delivered on key promises.",
-    "link": "https://www.wsj.com/politics/policy/as-trumps-support-slips-these-voters-say-why-theyre-sticking-with-him-3b3546c3"
-  },
-  {
-    "score": 72,
+    "score": 77,
     "pubdate": "2026-06-06-23-45-42 +0000",
     "source": "nypost",
     "headline": "Pope Leo backs team USA in the World Cup — as he could become third straight pope to watch homeland win",
     "link": "https://nypost.com/2026/06/06/world-news/pope-leo-says-hes-cheering-on-the-us-in-the-world-cup/"
   },
   {
-    "score": 53,
+    "score": 70,
+    "pubdate": "2026-06-06-12-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump’s approval numbers have tumbled, hurt by worries about the economy and the Iran war. But in west-central Ohio, voters still firmly in his camp say he has delivered on key promises.",
+    "link": "https://www.wsj.com/politics/policy/as-trumps-support-slips-these-voters-say-why-theyre-sticking-with-him-3b3546c3"
+  },
+  {
+    "score": 54,
     "pubdate": "2026-06-06-21-23-03 +0000",
     "source": "bbc",
     "headline": "Lebanese general among three soldiers killed in Israeli attack on car",
     "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 42,
+    "score": 41,
     "pubdate": "2026-06-06-09-14-00 +0000",
     "source": "wsj",
     "headline": "Mass Ukrainian Drone Strikes Target Russian Military Facilities in St. Petersburg",
     "link": "https://www.wsj.com/world/russia/mass-ukrainian-drone-strikes-target-russian-military-facilities-in-st-petersburg-224502a5"
-  },
-  {
-    "score": 39,
-    "pubdate": "2026-06-06-04-22-25 +0000",
-    "source": "bbc",
-    "headline": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
-    "link": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 37,
@@ -42,21 +35,14 @@
     "link": "https://nypost.com/2026/06/06/world-news/bernadette-chirac-former-first-lady-of-france-dies-at-93/"
   },
   {
-    "score": 35,
-    "pubdate": "2026-06-06-01-57-00 +0000",
-    "source": "wsj",
-    "headline": "Steve Hilton mounts unlikely California governor bid, challenging Democrats amid high costs, voter frustration and a tightly contested jungle primary",
-    "link": "https://www.wsj.com/politics/elections/the-british-born-republican-pitching-a-maga-makeover-of-california-edd77ce7"
+    "score": 33,
+    "pubdate": "2026-06-06-23-52-07 +0000",
+    "source": "bbc",
+    "headline": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+    "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 33,
-    "pubdate": "2026-06-07-00-09-51 +0000",
-    "source": "nyt",
-    "headline": "Trump’s Defense Department Sees Growing Espionage Threat From Israel",
-    "link": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
-  },
-  {
-    "score": 33,
+    "score": 32,
     "pubdate": "2026-06-06-21-27-56 +0000",
     "source": "nypost",
     "headline": "Jamie Kennedy blasts LA mayoral election swing: ‘Literal crime scene’",
@@ -64,9 +50,23 @@
   },
   {
     "score": 32,
-    "pubdate": "2026-06-06-23-52-07 +0000",
+    "pubdate": "2026-06-06-04-22-25 +0000",
     "source": "bbc",
-    "headline": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-    "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
+    "headline": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
+    "link": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-06-07-00-09-51 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Defense Department Sees Growing Espionage Threat From Israel",
+    "link": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-06-06-13-15-45 +0000",
+    "source": "nyt",
+    "headline": "As Ebola Spreads in East Africa, Will China Step Up?",
+    "link": "https://www.nytimes.com/2026/06/06/world/asia/as-ebola-spreads-in-east-africa-will-china-step-up.html"
   }
 ]
