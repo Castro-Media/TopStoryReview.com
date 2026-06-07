@@ -1,31 +1,45 @@
 [
   {
-    "score": 77,
+    "score": 76,
     "pubdate": "2026-06-06-23-45-42 +0000",
     "source": "nypost",
     "headline": "Pope Leo backs team USA in the World Cup — as he could become third straight pope to watch homeland win",
     "link": "https://nypost.com/2026/06/06/world-news/pope-leo-says-hes-cheering-on-the-us-in-the-world-cup/"
   },
   {
-    "score": 70,
+    "score": 72,
     "pubdate": "2026-06-07-09-02-06 +0000",
     "source": "nyt",
     "headline": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
     "link": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html"
   },
   {
-    "score": 48,
-    "pubdate": "2026-06-06-21-23-03 +0000",
-    "source": "bbc",
-    "headline": "Lebanese general among three soldiers killed in Israeli attack on car",
-    "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
+    "score": 49,
+    "pubdate": "2026-06-07-14-13-59 +0000",
+    "source": "cbc",
+    "headline": "Gunman kills one, wounds five in drive-by attacks in Israel near West Bank border",
+    "link": "https://www.cbc.ca/news/world/gunman-attack-israel-9.7226565?cmp=rss"
   },
   {
-    "score": 46,
+    "score": 43,
+    "pubdate": "2026-06-06-23-25-20 +0000",
+    "source": "bbc",
+    "headline": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
+    "link": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 41,
     "pubdate": "2026-06-07-10-35-25 +0000",
     "source": "bbc",
     "headline": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
     "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-06-07-09-00-00 +0000",
+    "source": "wsj",
+    "headline": "Rahm Emanuel’s long résumé would traditionally be an asset, but it could be a liability in a Democratic Party where some are calling for younger leaders after former President Joe Biden",
+    "link": "https://www.wsj.com/politics/elections/rahm-emanuel-pedals-hard-to-show-vitality-as-aging-potential-2028-candidate-220e0fc7"
   },
   {
     "score": 37,
@@ -35,38 +49,24 @@
     "link": "https://www.latimes.com/politics/story/2026-06-07/california-primary-governor-race-becerra-hilton-steyer-barabak-chabria"
   },
   {
-    "score": 37,
-    "pubdate": "2026-06-07-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "Rahm Emanuel’s long résumé would traditionally be an asset, but it could be a liability in a Democratic Party where some are calling for younger leaders after former President Joe Biden",
-    "link": "https://www.wsj.com/politics/elections/rahm-emanuel-pedals-hard-to-show-vitality-as-aging-potential-2028-candidate-220e0fc7"
+    "score": 35,
+    "pubdate": "2026-06-07-14-00-00 +0000",
+    "source": "nypost",
+    "headline": "Die-hard Spencer Pratt supporters devastated by late vote surge as faith in election falters",
+    "link": "https://nypost.com/2026/06/07/us-news/spencer-pratt-supporters-left-shocked-after-nithya-ramans-late-vote-surge/"
   },
   {
-    "score": 36,
-    "pubdate": "2026-06-07-07-11-18 +0000",
-    "source": "bbc",
-    "headline": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-    "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
+    "score": 35,
+    "pubdate": "2026-06-07-10-00-01 +0000",
+    "source": "wapo",
+    "headline": "An airstrike trapped a journalist. She died as rescuers waited for permission to save her.",
+    "link": "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/"
   },
   {
-    "score": 34,
-    "pubdate": "2026-06-06-23-38-51 +0000",
+    "score": 35,
+    "pubdate": "2026-06-06-22-01-57 +0000",
     "source": "nyt",
-    "headline": "Bernadette Chirac, Formidable Ex-First Lady of France, Dies at 93",
-    "link": "https://www.nytimes.com/2026/06/06/world/europe/bernadette-chirac-dead.html"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-06-07-00-09-51 +0000",
-    "source": "nyt",
-    "headline": "Trump’s Defense Department Sees Growing Espionage Threat From Israel",
-    "link": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-06-06-20-06-50 +0000",
-    "source": "nyt",
-    "headline": "C.I.A. Officer Found With Gold Bars Said to Have Created Fake Spy Program",
-    "link": "https://www.nytimes.com/2026/06/06/us/politics/cia-officer-gold-fake-spy-program.html"
+    "headline": "Ukraine Strikes St. Petersburg in Long-Range Drone Attack",
+    "link": "https://www.nytimes.com/2026/06/06/world/europe/ukraine-drone-strike-st-petersburg.html"
   }
 ]
