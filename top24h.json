@@ -1,38 +1,31 @@
 [
   {
-    "score": 76,
+    "score": 77,
     "pubdate": "2026-06-06-23-45-42 +0000",
     "source": "nypost",
     "headline": "Pope Leo backs team USA in the World Cup — as he could become third straight pope to watch homeland win",
     "link": "https://nypost.com/2026/06/06/world-news/pope-leo-says-hes-cheering-on-the-us-in-the-world-cup/"
   },
   {
-    "score": 63,
+    "score": 70,
     "pubdate": "2026-06-07-09-02-06 +0000",
     "source": "nyt",
     "headline": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
     "link": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html"
   },
   {
-    "score": 57,
-    "pubdate": "2026-06-06-12-27-17 +0000",
-    "source": "cbc",
-    "headline": "Palestinian baby killed, parents hurt in Israeli shooting in West Bank, Palestinian health officials say",
-    "link": "https://www.cbc.ca/news/world/israeli-palestinian-infant-killed-9.7226079?cmp=rss"
-  },
-  {
-    "score": 39,
-    "pubdate": "2026-06-06-13-49-03 +0000",
-    "source": "nyt",
-    "headline": "Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed",
-    "link": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-06-07-07-11-18 +0000",
+    "score": 48,
+    "pubdate": "2026-06-06-21-23-03 +0000",
     "source": "bbc",
-    "headline": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-    "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
+    "headline": "Lebanese general among three soldiers killed in Israeli attack on car",
+    "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 46,
+    "pubdate": "2026-06-07-10-35-25 +0000",
+    "source": "bbc",
+    "headline": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+    "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 37,
@@ -43,13 +36,27 @@
   },
   {
     "score": 37,
-    "pubdate": "2026-06-06-15-00-45 +0000",
-    "source": "nypost",
-    "headline": "Bernadette Chirac, France’s former first lady who weathered husband’s notorious infidelities dies at 93",
-    "link": "https://nypost.com/2026/06/06/world-news/bernadette-chirac-former-first-lady-of-france-dies-at-93/"
+    "pubdate": "2026-06-07-09-00-00 +0000",
+    "source": "wsj",
+    "headline": "Rahm Emanuel’s long résumé would traditionally be an asset, but it could be a liability in a Democratic Party where some are calling for younger leaders after former President Joe Biden",
+    "link": "https://www.wsj.com/politics/elections/rahm-emanuel-pedals-hard-to-show-vitality-as-aging-potential-2028-candidate-220e0fc7"
   },
   {
-    "score": 35,
+    "score": 36,
+    "pubdate": "2026-06-07-07-11-18 +0000",
+    "source": "bbc",
+    "headline": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+    "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-06-06-23-38-51 +0000",
+    "source": "nyt",
+    "headline": "Bernadette Chirac, Formidable Ex-First Lady of France, Dies at 93",
+    "link": "https://www.nytimes.com/2026/06/06/world/europe/bernadette-chirac-dead.html"
+  },
+  {
+    "score": 34,
     "pubdate": "2026-06-07-00-09-51 +0000",
     "source": "nyt",
     "headline": "Trump’s Defense Department Sees Growing Espionage Threat From Israel",
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "C.I.A. Officer Found With Gold Bars Said to Have Created Fake Spy Program",
     "link": "https://www.nytimes.com/2026/06/06/us/politics/cia-officer-gold-fake-spy-program.html"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-06-07-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "Rahm Emanuel’s long résumé would traditionally be an asset, but it could be a liability in a Democratic Party where some are calling for younger leaders after former President Joe Biden",
-    "link": "https://www.wsj.com/politics/elections/rahm-emanuel-pedals-hard-to-show-vitality-as-aging-potential-2028-candidate-220e0fc7"
   }
 ]
