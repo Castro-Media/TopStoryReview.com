@@ -1,188 +1,50 @@
 [
   {
-    "headline": "Delays to defence plan undermine UK credibility, MPs say",
-    "link": "https://www.bbc.com/news/articles/c0ky47v6d1no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-07-09-40-46 +0000"
-  },
-  {
-    "headline": "At Least 12 People Shot Near Street Festival in Toledo, Ohio, Police Say",
-    "link": "https://www.nytimes.com/2026/06/06/us/toledo-ohio-shooting-festival.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-38-17 +0000"
-  },
-  {
-    "headline": "Pope's Mass in Spain features iconic procession along flower-carpeted route",
-    "link": "https://www.cbc.ca/news/world/pope-mass-spain-9.7226509?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-07-09-31-08 +0000"
-  },
-  {
-    "headline": "NYC Councilwoman and congressional candidate Julie Won ‘squatted’ in luxury Queens condo: landlord",
-    "link": "https://nypost.com/2026/06/07/us-news/nyc-councilwoman-and-congressional-candidate-julie-won-squatted-in-luxe-queens-condo-landlord/",
+    "headline": "School principal’s American dream fulfilled: becoming an educator and teaching her mom to read",
+    "link": "https://nypost.com/2026/06/07/us-news/daughter-of-migrant-farm-worker-rises-to-principal-my-dream/",
     "source": "nypost",
-    "pubdate": "2026-06-07-09-29-50 +0000"
+    "pubdate": "2026-06-07-11-00-00 +0000"
   },
   {
-    "headline": "NYC Councilwoman and congressional candidate Julie Won ‘squatted’ in luxury Queens condo: landlord",
-    "link": "https://nypost.com/2026/06/07/us-news/nyc-councilwoman-and-congressional-candidate-julie-won-squatted-in-luxe-queens-condo-landlord/",
+    "headline": "Son of Nigerian immigrants credits parents for instilling American dream in him: ‘I absolutely believe’",
+    "link": "https://nypost.com/2026/06/07/us-news/the-american-dream-is-open-to-everyone-says-son-of-immigrants/",
     "source": "nypost",
-    "pubdate": "2026-06-07-09-29-50 +0000"
+    "pubdate": "2026-06-07-11-00-00 +0000"
   },
   {
-    "headline": "Manhunt for suspects after 12 people shot near festival in Ohio",
-    "link": "https://www.bbc.com/news/articles/c4gyqzkgwn2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-07-09-16-52 +0000"
-  },
-  {
-    "headline": "One dead, 5 wounded in central Israel shooting",
-    "link": "https://nypost.com/2026/06/07/world-news/israel-shooting-leaves-one-dead-five-wounded/",
-    "source": "nypost",
-    "pubdate": "2026-06-07-09-07-37 +0000"
-  },
-  {
-    "headline": "Indiana lottery winners lose out on $100K payday over ‘technical issue’ — forcing halt in sales",
-    "link": "https://nypost.com/2026/06/07/us-news/indiana-lottery-winners-lose-out-on-100k-payday-over-technical-issue-forcing-halt-in-sales/",
-    "source": "nypost",
-    "pubdate": "2026-06-07-09-04-08 +0000"
-  },
-  {
-    "headline": "Between the Knicks and the Pope, Villanova Finds the Spotlight",
-    "link": "https://www.nytimes.com/2026/06/07/us/knicks-pope-leo-villanova.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-02-22 +0000"
-  },
-  {
-    "headline": "Trump Looms Over Pivotal Republican Senate Runoff in Georgia",
-    "link": "https://www.nytimes.com/2026/06/07/us/politics/georgia-republican-senate-runoff-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-02-18 +0000"
-  },
-  {
-    "headline": "Trump Looms Over Pivotal Republican Senate Runoff in Georgia",
-    "link": "https://www.nytimes.com/2026/06/07/us/politics/georgia-republican-senate-runoff-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-02-18 +0000"
-  },
-  {
-    "headline": "Peru’s Presidential Runoff Could Swing the Country to the Right: What to Know",
-    "link": "https://www.nytimes.com/2026/06/07/world/americas/peru-presidential-election-runoff-fujimori-sanchez.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-02-10 +0000"
-  },
-  {
-    "headline": "Peru’s Presidential Runoff Could Swing the Country to the Right: What to Know",
-    "link": "https://www.nytimes.com/2026/06/07/world/americas/peru-presidential-election-runoff-fujimori-sanchez.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-02-10 +0000"
-  },
-  {
-    "headline": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
-    "link": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-02-06 +0000"
-  },
-  {
-    "headline": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
-    "link": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-02-06 +0000"
-  },
-  {
-    "headline": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
-    "link": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-02-06 +0000"
-  },
-  {
-    "headline": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
-    "link": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-02-06 +0000"
-  },
-  {
-    "headline": "How People Working in Debt Collection Handle Abuse From Callers",
-    "link": "https://www.nytimes.com/2026/06/07/business/debt-collectors-jobs-abuse.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-02-02 +0000"
-  },
-  {
-    "headline": "South Carolina Governor’s Race Tests the Strength of a Trump Endorsement",
-    "link": "https://www.nytimes.com/2026/06/07/us/south-carolina-governor-trump-evette.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-01-56 +0000"
-  },
-  {
-    "headline": "Seattle’s Incredibly Loud Street Preachers Eagerly Await the World Cup",
-    "link": "https://www.nytimes.com/2026/06/07/us/seattle-street-preachers-world-cup.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-01-55 +0000"
-  },
-  {
-    "headline": "My Boss Is a Manipulative Creep. What Can I Do?",
-    "link": "https://www.nytimes.com/2026/06/07/business/creep-boss-recruiter-unpaid-work.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-01-45 +0000"
-  },
-  {
-    "headline": "Daughter of Mrs. Fields Starts Fields Good, a Healthy Cookie Brand",
-    "link": "https://www.nytimes.com/2026/06/07/business/mrs-fields-daughter-cookies.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-01-02 +0000"
-  },
-  {
-    "headline": "As Oil Prices Spike, Talk of ‘Demand Destruction’ Sets In",
-    "link": "https://www.nytimes.com/2026/06/07/business/07biz-demand-destruction-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-01-01 +0000"
-  },
-  {
-    "headline": "RFK Jr. Appears Disengaged on Many Health Department Matters Beyond Vaccines",
-    "link": "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-00-46 +0000"
-  },
-  {
-    "headline": "RFK Jr. Appears Disengaged on Many Health Department Matters Beyond Vaccines",
-    "link": "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-00-46 +0000"
-  },
-  {
-    "headline": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-    "link": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-00-25 +0000"
-  },
-  {
-    "headline": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-    "link": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-00-25 +0000"
-  },
-  {
-    "headline": "Christine Hunsicker, CaaStle CEO, Confessed to Fraud. The Board Let Her Stay in Charge.",
-    "link": "https://www.nytimes.com/2026/06/07/business/caastle-fraud-christine-hunsicker.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-00-14 +0000"
-  },
-  {
-    "headline": "Americans Love Soccer Stars Who Aren’t Made in America",
-    "link": "https://www.nytimes.com/2026/06/07/arts/world-cup-united-states-soccer-pele-beckham-messi.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-00-08 +0000"
-  },
-  {
-    "headline": "Americans Love Soccer Stars Who Aren’t Made in America",
-    "link": "https://www.nytimes.com/2026/06/07/arts/world-cup-united-states-soccer-pele-beckham-messi.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-09-00-08 +0000"
-  },
-  {
-    "headline": "Rahm Emanuel’s long résumé would traditionally be an asset, but it could be a liability in a Democratic Party where some are calling for younger leaders after former President Joe Biden",
-    "link": "https://www.wsj.com/politics/elections/rahm-emanuel-pedals-hard-to-show-vitality-as-aging-potential-2028-candidate-220e0fc7",
+    "headline": "How David Grutman Became the King of the Vibes Business",
+    "link": "https://www.wsj.com/business/liv-nightclub-david-grutman-wsj-money-interview-337bc945?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-06-07-09-00-00 +0000"
+    "pubdate": "2026-06-07-11-00-00 +0000"
+  },
+  {
+    "headline": "Telecom Companies to Buy Patrick Drahi’s SFR for $23.5 Billion",
+    "link": "https://www.wsj.com/business/telecom/telecom-companies-to-buy-patrick-drahis-sfr-for-23-5-billion-851fb6b8?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-07-10-56-00 +0000"
+  },
+  {
+    "headline": "Lammy says he told JD Vance his Nowak comments were 'wrong'",
+    "link": "https://www.bbc.com/news/articles/cjwg387040wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-07-10-50-04 +0000"
+  },
+  {
+    "headline": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+    "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-07-10-35-25 +0000"
+  },
+  {
+    "headline": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+    "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-07-10-35-25 +0000"
+  },
+  {
+    "headline": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+    "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-07-10-35-25 +0000"
   }
 ]

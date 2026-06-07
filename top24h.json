@@ -7,18 +7,25 @@
     "link": "https://nypost.com/2026/06/06/world-news/pope-leo-says-hes-cheering-on-the-us-in-the-world-cup/"
   },
   {
-    "score": 72,
+    "score": 73,
     "pubdate": "2026-06-06-12-00-00 +0000",
     "source": "wsj",
     "headline": "Trump’s approval numbers have tumbled, hurt by worries about the economy and the Iran war. But in west-central Ohio, voters still firmly in his camp say he has delivered on key promises.",
     "link": "https://www.wsj.com/politics/policy/as-trumps-support-slips-these-voters-say-why-theyre-sticking-with-him-3b3546c3"
   },
   {
-    "score": 51,
-    "pubdate": "2026-06-06-23-25-20 +0000",
+    "score": 52,
+    "pubdate": "2026-06-06-21-23-03 +0000",
     "source": "bbc",
-    "headline": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-    "link": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss"
+    "headline": "Lebanese general among three soldiers killed in Israeli attack on car",
+    "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-06-07-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Commentary: From here to November: Our columnists size up the California governor's race",
+    "link": "https://www.latimes.com/politics/story/2026-06-07/california-primary-governor-race-becerra-hilton-steyer-barabak-chabria"
   },
   {
     "score": 38,
@@ -28,18 +35,18 @@
     "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 38,
-    "pubdate": "2026-06-06-19-57-42 +0000",
-    "source": "bbc",
-    "headline": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
-    "link": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 37,
     "pubdate": "2026-06-06-15-00-45 +0000",
     "source": "nypost",
     "headline": "Bernadette Chirac, France’s former first lady who weathered husband’s notorious infidelities dies at 93",
     "link": "https://nypost.com/2026/06/06/world-news/bernadette-chirac-former-first-lady-of-france-dies-at-93/"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-06-07-00-09-51 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Defense Department Sees Growing Espionage Threat From Israel",
+    "link": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
   },
   {
     "score": 33,
@@ -49,24 +56,17 @@
     "link": "https://www.nytimes.com/2026/06/06/us/politics/cia-officer-gold-fake-spy-program.html"
   },
   {
-    "score": 32,
-    "pubdate": "2026-06-07-00-09-51 +0000",
-    "source": "nyt",
-    "headline": "Trump’s Defense Department Sees Growing Espionage Threat From Israel",
-    "link": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-06-07-07-02-36 +0000",
-    "source": "nyt",
-    "headline": "As Ebola Spreads in East Africa, Will China Step Up?",
-    "link": "https://www.nytimes.com/2026/06/06/world/asia/as-ebola-spreads-in-east-africa-will-china-step-up.html"
-  },
-  {
     "score": 31,
     "pubdate": "2026-06-07-09-00-00 +0000",
     "source": "wsj",
     "headline": "Rahm Emanuel’s long résumé would traditionally be an asset, but it could be a liability in a Democratic Party where some are calling for younger leaders after former President Joe Biden",
     "link": "https://www.wsj.com/politics/elections/rahm-emanuel-pedals-hard-to-show-vitality-as-aging-potential-2028-candidate-220e0fc7"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-06-06-13-32-21 +0000",
+    "source": "cbc",
+    "headline": "New exchange of fire between U.S. and Iran in Gulf tests fragile ceasefire",
+    "link": "https://www.cbc.ca/news/world/bahrain-iran-drones-gulf-9.7226112?cmp=rss"
   }
 ]
