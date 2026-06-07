@@ -14,18 +14,11 @@
     "link": "https://nypost.com/2026/06/06/world-news/pope-leo-says-hes-cheering-on-the-us-in-the-world-cup/"
   },
   {
-    "score": 46,
+    "score": 45,
     "pubdate": "2026-06-07-21-12-06 +0000",
     "source": "nyt",
     "headline": "Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
     "link": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-06-06-22-01-58 +0000",
-    "source": "nyt",
-    "headline": "Ukraine Strikes St. Petersburg in Long-Range Drone Attack",
-    "link": "https://www.nytimes.com/2026/06/06/world/europe/ukraine-drone-strike-st-petersburg.html"
   },
   {
     "score": 44,
@@ -35,7 +28,7 @@
     "link": "https://www.latimes.com/politics/story/2026-06-07/california-primary-governor-race-becerra-hilton-steyer-barabak-chabria"
   },
   {
-    "score": 42,
+    "score": 41,
     "pubdate": "2026-06-07-15-48-19 +0000",
     "source": "nypost",
     "headline": "Trump storms off ‘Meet The Press’ interview after fiery exchange with NBC’s Kristen Welker over 2020 election",
@@ -43,10 +36,17 @@
   },
   {
     "score": 40,
-    "pubdate": "2026-06-06-22-14-35 +0000",
-    "source": "nyt",
-    "headline": "Alan Riding, Times Correspondent in Latin America and Paris, Dies at 82",
-    "link": "https://www.nytimes.com/2026/06/06/business/media/alan-riding-dead.html"
+    "pubdate": "2026-06-07-18-51-34 +0000",
+    "source": "nypost",
+    "headline": "Long Island bishop using Knicks’ NBA Finals run to convince long-suffering fans there is a God",
+    "link": "https://nypost.com/2026/06/07/us-news/long-island-bishop-uses-knicks-run-to-convince-long-suffering-fans-there-is-a-god/"
+  },
+  {
+    "score": 38,
+    "pubdate": "2026-06-07-18-49-17 +0000",
+    "source": "bbc",
+    "headline": "Zelensky in Downing Street for Ukraine war talks with European leaders",
+    "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 38,
@@ -56,17 +56,17 @@
     "link": "https://www.cbc.ca/news/world/gunman-attack-israel-9.7226565?cmp=rss"
   },
   {
-    "score": 38,
-    "pubdate": "2026-06-06-23-25-20 +0000",
-    "source": "bbc",
-    "headline": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
-    "link": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 35,
     "pubdate": "2026-06-07-09-02-06 +0000",
     "source": "nyt",
     "headline": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
     "link": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-06-07-10-00-01 +0000",
+    "source": "wapo",
+    "headline": "An airstrike trapped a journalist. She died as rescuers waited for permission to save her.",
+    "link": "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/"
   }
 ]
