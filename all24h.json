@@ -1,9 +1,135 @@
 [
   {
+    "headline": "Nithya Raman Overtakes Spencer Pratt in Race for L.A. Mayor",
+    "link": "https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html",
+    "source": "nyt",
+    "pubdate": "2026-06-08-01-30-42 +0000"
+  },
+  {
+    "headline": "Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
+    "link": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles",
+    "source": "nyt",
+    "pubdate": "2026-06-08-01-17-48 +0000"
+  },
+  {
+    "headline": "Cult producer sues Amazon over Golden Globes photo he says falsely linked him to notorious $650M Ponzi scheme",
+    "link": "https://nypost.com/2026/06/07/us-news/producers-sues-amazon-over-hollywood-hustler-glitz-glam-scam-documentary/",
+    "source": "nypost",
+    "pubdate": "2026-06-08-01-14-02 +0000"
+  },
+  {
+    "headline": "Asian Currencies Mixed Amid Growing Fed Rate-Hike Expectations",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-growing-fed-rate-hike-expectations-6dd3448b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-08-01-04-00 +0000"
+  },
+  {
+    "headline": "SpaceX’s years of courting the national-security establishment are paying off",
+    "link": "https://www.wsj.com/politics/national-security/how-spacex-became-embedded-in-americas-war-machine-ca4878e8",
+    "source": "wsj",
+    "pubdate": "2026-06-08-01-00-00 +0000"
+  },
+  {
+    "headline": "Nvidia Takes the Top Spot in the 2026 List of Best Companies for the Future",
+    "link": "https://www.wsj.com/lifestyle/careers/2026-best-companies-future-nvidia-f6744e03?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-08-01-00-00 +0000"
+  },
+  {
+    "headline": "How the WSJ’s Best Companies for the Future Ranking Was Created",
+    "link": "https://www.wsj.com/business/2026-best-companies-future-methodology-b4cf6023?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-08-01-00-00 +0000"
+  },
+  {
+    "headline": "In a World Where Change Has Become the Norm, Which Companies Are Built to Last?",
+    "link": "https://www.wsj.com/economy/jobs/best-companies-future-2026-095764e4?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-08-01-00-00 +0000"
+  },
+  {
+    "headline": "How SpaceX Became Embedded in America’s War Machine",
+    "link": "https://www.wsj.com/politics/national-security/how-spacex-became-embedded-in-americas-war-machine-ca4878e8?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-08-01-00-00 +0000"
+  },
+  {
+    "headline": "Nvidia Takes the Top Spot in the 2026 List of Best Companies for the Future",
+    "link": "https://www.wsj.com/lifestyle/careers/2026-best-companies-future-nvidia-f6744e03?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-08-01-00-00 +0000"
+  },
+  {
+    "headline": "How the WSJ’s Best Companies for the Future Ranking Was Created",
+    "link": "https://www.wsj.com/business/2026-best-companies-future-methodology-b4cf6023?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-08-01-00-00 +0000"
+  },
+  {
+    "headline": "The World’s Most Surprising Economic Success Story Is…North Korea",
+    "link": "https://www.wsj.com/world/asia/north-korea-economy-success-e80f7062",
+    "source": "wsj",
+    "pubdate": "2026-06-08-01-00-00 +0000"
+  },
+  {
+    "headline": "The Wall Street Journal’s inaugural Best Companies for the Future ranking is dominated by tech firms",
+    "link": "https://www.wsj.com/lifestyle/careers/2026-best-companies-future-nvidia-f6744e03",
+    "source": "wsj",
+    "pubdate": "2026-06-08-01-00-00 +0000"
+  },
+  {
+    "headline": "Most rankings of companies look backward, measuring them based on past performance. The WSJ’s new ranking looks forward.",
+    "link": "https://www.wsj.com/economy/jobs/best-companies-future-2026-095764e4",
+    "source": "wsj",
+    "pubdate": "2026-06-08-01-00-00 +0000"
+  },
+  {
+    "headline": "Oil prices edge higher after strikes on Israel test ceasefire",
+    "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-08-00-49-10 +0000"
+  },
+  {
+    "headline": "Oil prices edge higher after strikes on Israel test ceasefire",
+    "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-08-00-49-10 +0000"
+  },
+  {
+    "headline": "Gold Rises; Long-Term View Remains Positive",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-long-term-view-remains-positive-734209fe?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-08-00-38-00 +0000"
+  },
+  {
+    "headline": "Armenia PM declares 'historic victory' as vote tallying continues in parliamentary vote",
+    "link": "https://www.cbc.ca/news/world/armenia-election-nikol-pashinyan-9.7226866?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-08-00-26-04 +0000"
+  },
+  {
+    "headline": "5 stabbed in bloody attack inside Penn Station — suspect in custody",
+    "link": "https://nypost.com/2026/06/07/us-news/5-stabbed-in-bloody-attack-inside-penn-station-suspect-in-custody/",
+    "source": "nypost",
+    "pubdate": "2026-06-08-00-16-45 +0000"
+  },
+  {
+    "headline": "JGB Futures Fall, Tracking Price Declines in U.S. Treasury Market",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-price-declines-in-u-s-treasury-market-48c22757?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-08-00-14-00 +0000"
+  },
+  {
     "headline": "Nithya Raman knocks Spencer Pratt off second place in LA mayor’s race",
     "link": "https://nypost.com/2026/06/07/us-news/nithya-raman-knocks-spencer-pratt-off-second-place-in-la-mayors-race/",
     "source": "nypost",
     "pubdate": "2026-06-08-00-08-41 +0000"
+  },
+  {
+    "headline": "Nithya Raman surges past Spencer Pratt in L.A. mayor's race, closing in on runoff with Karen Bass",
+    "link": "https://www.latimes.com/california/story/2026-06-07/la-me-raman-mayors-race",
+    "source": "latimes",
+    "pubdate": "2026-06-08-00-05-04 +0000"
   },
   {
     "headline": "Gasbuddy releases doomsday outlook for summer of hell in California",
@@ -46,12 +172,6 @@
     "link": "https://www.startribune.com/minnesota-timberwolves-unveil-new-logo-uniforms-floor-pine-trees-nba/601854400",
     "source": "startribune",
     "pubdate": "2026-06-07-23-54-33 +0000"
-  },
-  {
-    "headline": "Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
-    "link": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles",
-    "source": "nyt",
-    "pubdate": "2026-06-07-23-51-20 +0000"
   },
   {
     "headline": "Here’s the latest.",
@@ -136,6 +256,18 @@
     "link": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-07-23-03-23 +0000"
+  },
+  {
+    "headline": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+    "link": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-07-23-03-23 +0000"
+  },
+  {
+    "headline": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+    "link": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-07-23-01-04 +0000"
   },
   {
     "headline": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
@@ -360,7 +492,7 @@
     "pubdate": "2026-06-07-21-23-44 +0000"
   },
   {
-    "headline": "Terrifying arsenal of rockets Navy sailor tried to buy for mass murder of Special Forces operatives",
+    "headline": "Terrifying arsenal of rockets ex-Navy sailor tried to buy for mass murder of Special Forces operatives",
     "link": "https://nypost.com/2026/06/07/us-news/californian-sailor-arrested-over-homegrown-isis-terror-plot-targeting-us-special-forces/",
     "source": "nypost",
     "pubdate": "2026-06-07-21-18-01 +0000"
@@ -408,13 +540,13 @@
     "pubdate": "2026-06-07-21-03-45 +0000"
   },
   {
-    "headline": "Trump tells The Post ‘things are going well’ after Iran bombs Israel – advises Netanyahu not to hit back",
+    "headline": "Trump insists Israel’s Netanyahu ‘won’t have any choice’ in accepting Iran peace deal after fresh strikes: ‘I call the shots’",
     "link": "https://nypost.com/2026/06/07/us-news/trump-tells-the-post-things-are-going-very-well-advises-netanyahu-not-to-fire-back-at-iran/",
     "source": "nypost",
     "pubdate": "2026-06-07-21-02-06 +0000"
   },
   {
-    "headline": "Trump tells The Post ‘things are going well’ after Iran bombs Israel – advises Netanyahu not to hit back",
+    "headline": "Trump insists Israel’s Netanyahu ‘won’t have any choice’ in accepting Iran peace deal after fresh strikes: ‘I call the shots’",
     "link": "https://nypost.com/2026/06/07/us-news/trump-tells-the-post-things-are-going-very-well-advises-netanyahu-not-to-fire-back-at-iran/",
     "source": "nypost",
     "pubdate": "2026-06-07-21-02-06 +0000"
@@ -528,12 +660,6 @@
     "pubdate": "2026-06-07-20-19-52 +0000"
   },
   {
-    "headline": "Iranian soccer stars touch down in Tijuana — ahead of SoFi Stadium games",
-    "link": "https://nypost.com/2026/06/07/us-news/iranian-soccer-stars-touch-down-in-tijuana-ahead-of-sofi-stadium-games/",
-    "source": "nypost",
-    "pubdate": "2026-06-07-20-13-10 +0000"
-  },
-  {
     "headline": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
     "link": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -562,12 +688,6 @@
     "link": "https://www.nytimes.com/2026/06/07/us/politics/platner-democrats-congress-reaction.html",
     "source": "nyt",
     "pubdate": "2026-06-07-19-54-30 +0000"
-  },
-  {
-    "headline": "NYC’s miraculously saved ‘Alice in Wonderland’ hospital mural goes on public display for first time",
-    "link": "https://nypost.com/2026/06/07/us-news/nycs-alice-in-wonderland-hospital-mural-goes-on-public-display/",
-    "source": "nypost",
-    "pubdate": "2026-06-07-19-53-21 +0000"
   },
   {
     "headline": "Iran bombards Israel with missiles, threatening to reignite all-out conflict",
@@ -744,7 +864,7 @@
     "pubdate": "2026-06-07-17-53-32 +0000"
   },
   {
-    "headline": "Hollywood Hills hiker dies following rescue attempt",
+    "headline": "Hollywood Hills hiker dies after rescue attempt",
     "link": "https://www.latimes.com/california/story/2026-06-07/hollywood-hills-hiker-dies-following-rescue-attempt",
     "source": "latimes",
     "pubdate": "2026-06-07-17-29-35 +0000"
@@ -1146,12 +1266,6 @@
     "pubdate": "2026-06-07-10-27-15 +0000"
   },
   {
-    "headline": "Huge crowds throng Madrid streets for Pope's open-air Mass",
-    "link": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-07-10-27-15 +0000"
-  },
-  {
     "headline": "An airstrike trapped a journalist. She died as rescuers waited for permission to save her.",
     "link": "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/",
     "source": "wapo",
@@ -1168,6 +1282,12 @@
     "link": "https://www.washingtonpost.com/business/2026/06/07/wounded-lebanese-journalist-died-rescuers-waited-israels-permission-save-her/",
     "source": "wapo",
     "pubdate": "2026-06-07-10-00-01 +0000"
+  },
+  {
+    "headline": "'We're in survival mode': A year after ICE raids, a couple fight to save their dress shops",
+    "link": "https://www.latimes.com/california/story/2026-06-07/year-after-ice-raided-l-a-s-fashion-district-couple-fight-to-save-their-dress-shops",
+    "source": "latimes",
+    "pubdate": "2026-06-07-10-00-00 +0000"
   },
   {
     "headline": "Mainstream California Democrats survived election night, but their brand remains challenged",
@@ -1178,12 +1298,6 @@
   {
     "headline": "Commentary: From here to November: Our columnists size up the California governor's race",
     "link": "https://www.latimes.com/politics/story/2026-06-07/california-primary-governor-race-becerra-hilton-steyer-barabak-chabria",
-    "source": "latimes",
-    "pubdate": "2026-06-07-10-00-00 +0000"
-  },
-  {
-    "headline": "'We're in survival mode': A year after ICE raids, a couple fight to save their dress shops",
-    "link": "https://www.latimes.com/california/story/2026-06-07/year-after-ice-raided-l-a-s-fashion-district-couple-fight-to-save-their-dress-shops",
     "source": "latimes",
     "pubdate": "2026-06-07-10-00-00 +0000"
   },
@@ -1462,53 +1576,5 @@
     "link": "https://www.washingtonpost.com/world/2026/06/06/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says/",
     "source": "wapo",
     "pubdate": "2026-06-07-01-42-38 +0000"
-  },
-  {
-    "headline": "Starmer tells supporters he will fight any leadership contest",
-    "link": "https://www.bbc.com/news/articles/c3vyxzl625po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-07-01-03-55 +0000"
-  },
-  {
-    "headline": "The Cattle Empire That Turned Out to Be a Giant Ponzi Scheme",
-    "link": "https://www.wsj.com/finance/cattle-empire-ponzi-scheme-3d245791?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-07-01-00-00 +0000"
-  },
-  {
-    "headline": "The Cattle Empire That Turned Out to Be a Giant Ponzi Scheme",
-    "link": "https://www.wsj.com/finance/cattle-empire-ponzi-scheme-3d245791?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-07-01-00-00 +0000"
-  },
-  {
-    "headline": "When Trump Jawbones the Market, Bet Against Him at Your Peril",
-    "link": "https://www.wsj.com/economy/when-trump-jawbones-the-market-bet-against-him-at-your-peril-92825a3e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-07-01-00-00 +0000"
-  },
-  {
-    "headline": "From oil to interest rates, Trump has repeatedly moved markets in his direction. Whether that serves the economy is another question, columnist Greg Ip writes.",
-    "link": "https://www.wsj.com/economy/when-trump-jawbones-the-market-bet-against-him-at-your-peril-92825a3e",
-    "source": "wsj",
-    "pubdate": "2026-06-07-01-00-00 +0000"
-  },
-  {
-    "headline": "Pete Hegseth warns of boat migrants and ‘dangerous ideologies’ during D-Day speech",
-    "link": "https://nypost.com/2026/06/06/world-news/pete-hegseth-invokes-immigration-and-dangerous-ideologies-during-d-day-speech-in-france/",
-    "source": "nypost",
-    "pubdate": "2026-06-07-00-56-06 +0000"
-  },
-  {
-    "headline": "Spencer Pratt’s lead over Nithya Raman nearly vanishes in bombshell ballot drop",
-    "link": "https://nypost.com/2026/06/06/us-news/spencer-pratts-lead-over-nithya-raman-in-la-mayors-race-withers-in-new-ballot-drop/",
-    "source": "nypost",
-    "pubdate": "2026-06-07-00-22-14 +0000"
-  },
-  {
-    "headline": "Sorry, I’m Not Available. Talk to the A.I. Version of Me.",
-    "link": "https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-00-19-58 +0000"
   }
 ]
