@@ -1,6 +1,6 @@
 [
   {
-    "score": 169,
+    "score": 164,
     "pubdate": "2026-06-07-21-02-06 +0000",
     "source": "nypost",
     "headline": "Trump insists Israel’s Netanyahu ‘won’t have any choice’ in accepting Iran peace deal after fresh strikes: ‘I call the shots’",
@@ -15,17 +15,17 @@
   },
   {
     "score": 66,
-    "pubdate": "2026-06-07-21-43-00 +0000",
-    "source": "nypost",
-    "headline": "California voter fraud fight sparks all-out war as state blocks federal demand: ‘What are they afraid of?’",
-    "link": "https://nypost.com/2026/06/07/us-news/california-voter-fraud-fight-sparks-all-out-war-what-are-they-afraid-of/"
-  },
-  {
-    "score": 66,
     "pubdate": "2026-06-08-00-00-00 +0000",
     "source": "wsj",
     "headline": "Not long ago, New York Rep. Dan Goldman was a hero of the resistance. Now, he’s struggling to hold on to his seat in a hotly contested primary where Israel has dominated the conversation.",
     "link": "https://www.wsj.com/politics/policy/the-new-york-primary-that-is-all-about-israel-f1e737e6"
+  },
+  {
+    "score": 66,
+    "pubdate": "2026-06-08-13-26-08 +0000",
+    "source": "nyt",
+    "headline": "The Iran War is Forcing Energy-Importing Countries to Turn Inward",
+    "link": "https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html"
   },
   {
     "score": 62,
@@ -49,13 +49,6 @@
     "link": "https://nypost.com/2026/06/08/us-news/karen-bass-reacts-to-nithya-raman-surpassing-spencer-pratt-in-la-mayoral-race/"
   },
   {
-    "score": 47,
-    "pubdate": "2026-06-08-15-24-29 +0000",
-    "source": "nypost",
-    "headline": "NYPD, Secret Service announce NBA Finals Game 3 MSG plans, closures – here’s what Knicks fans should know",
-    "link": "https://nypost.com/2026/06/08/sports/nypd-secret-service-announce-nba-finals-game-3-msg-plans-closures/"
-  },
-  {
     "score": 46,
     "pubdate": "2026-06-08-12-15-14 +0000",
     "source": "nypost",
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2026/06/08/world-news/private-jet-crashes-in-dominican-republic-en-route-to-pick-up-mlb-legend-and-his-family/"
   },
   {
-    "score": 46,
-    "pubdate": "2026-06-08-13-26-08 +0000",
-    "source": "nyt",
-    "headline": "The Iran War is Forcing Energy-Importing Countries to Turn Inward",
-    "link": "https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html"
+    "score": 45,
+    "pubdate": "2026-06-08-15-24-29 +0000",
+    "source": "nypost",
+    "headline": "NYPD, Secret Service announce NBA Finals Game 3 MSG plans, closures – here’s what Knicks fans should know",
+    "link": "https://nypost.com/2026/06/08/sports/nypd-secret-service-announce-nba-finals-game-3-msg-plans-closures/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2026-06-07-21-43-00 +0000",
+    "source": "nypost",
+    "headline": "California voter fraud fight sparks all-out war as state blocks federal demand: ‘What are they afraid of?’",
+    "link": "https://nypost.com/2026/06/07/us-news/california-voter-fraud-fight-sparks-all-out-war-what-are-they-afraid-of/"
   }
 ]
