@@ -1,52 +1,45 @@
 [
   {
-    "score": 281,
+    "score": 285,
     "pubdate": "2026-06-04-01-20-00 +0000",
     "source": "wsj",
     "headline": "Trump Tells Aides He Won’t Resume All-Out War With Iran Unless U.S. Troops Are Killed",
     "link": "https://www.wsj.com/world/middle-east/trump-iran-ceasefire-strait-of-hormuz-14d0d265"
   },
   {
-    "score": 195,
-    "pubdate": "2026-06-04-16-38-00 +0000",
+    "score": 201,
+    "pubdate": "2026-06-08-00-00-00 +0000",
     "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
+    "headline": "Not long ago, New York Rep. Dan Goldman was a hero of the resistance. Now, he’s struggling to hold on to his seat in a hotly contested primary where Israel has dominated the conversation.",
+    "link": "https://www.wsj.com/politics/policy/the-new-york-primary-that-is-all-about-israel-f1e737e6"
   },
   {
-    "score": 184,
+    "score": 182,
     "pubdate": "2026-06-06-01-08-00 +0000",
     "source": "wsj",
     "headline": "Former HHS Secretary Xavier Becerra advanced to the general election for California governor in November, making him the favorite to replace Gov. Gavin Newsom",
     "link": "https://www.wsj.com/politics/elections/democrat-xavier-becerra-advances-to-general-election-for-california-governor-af8beaea"
   },
   {
-    "score": 176,
-    "pubdate": "2026-06-07-14-58-27 +0000",
-    "source": "nyt",
-    "headline": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
-    "link": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html"
-  },
-  {
-    "score": 145,
-    "pubdate": "2026-06-02-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Berkshire Hathaway’s $6.8 billion deal to acquire a major home builder reflects its conviction that the housing market will shake off its long slump and recover as it always has",
-    "link": "https://www.wsj.com/economy/housing/berkshire-is-convinced-the-american-dream-of-homeownership-will-stay-alive-aede1610"
+    "score": 154,
+    "pubdate": "2026-06-06-23-45-42 +0000",
+    "source": "nypost",
+    "headline": "Pope Leo backs team USA in the World Cup — as he could become third straight pope to watch homeland win",
+    "link": "https://nypost.com/2026/06/06/world-news/pope-leo-says-hes-cheering-on-the-us-in-the-world-cup/"
   },
   {
     "score": 139,
-    "pubdate": "2026-06-03-16-34-00 +0000",
-    "source": "wsj",
-    "headline": "Californians wrapped voting in their state’s primary elections Tuesday, but results for the messy gubernatorial and the Los Angeles mayor’s race could take a while to be finalized",
-    "link": "https://www.wsj.com/politics/elections/polls-close-in-messy-primaries-for-california-governor-and-los-angeles-mayor-c43be1c0"
+    "pubdate": "2026-06-04-00-53-46 +0000",
+    "source": "latimes",
+    "headline": "Lopez: Bass clears first hurdle, but if Pratt holds off Raman, the mayoral race could be a holy war",
+    "link": "https://www.latimes.com/california/story/2026-06-03/if-pratt-holds-off-raman-la-mayors-race-could-be-holy-war"
   },
   {
     "score": 138,
-    "pubdate": "2026-06-07-21-12-06 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
-    "link": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles"
+    "pubdate": "2026-06-04-16-38-00 +0000",
+    "source": "wsj",
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
     "score": 119,
@@ -57,6 +50,13 @@
   },
   {
     "score": 114,
+    "pubdate": "2026-06-02-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Berkshire Hathaway’s $6.8 billion deal to acquire a major home builder reflects its conviction that the housing market will shake off its long slump and recover as it always has",
+    "link": "https://www.wsj.com/economy/housing/berkshire-is-convinced-the-american-dream-of-homeownership-will-stay-alive-aede1610"
+  },
+  {
+    "score": 111,
     "pubdate": "2026-06-03-21-31-00 +0000",
     "source": "wsj",
     "headline": "Months after the Supreme Court struck down President Trump’s most sweeping global tariffs, the administration said it would levy new tariffs using a different legal mechanism",
@@ -64,9 +64,9 @@
   },
   {
     "score": 101,
-    "pubdate": "2026-06-07-16-10-00 +0000",
-    "source": "wsj",
-    "headline": "Watch WSJ’s report on the independent activists behind the rise of Maine’s Democratic Senate candidate Graham Platner",
-    "link": "https://www.wsj.com/politics/these-people-handpicked-graham-platner-hes-now-democrats-biggest-risk-9693fb07"
+    "pubdate": "2026-06-05-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Latest data show California conundrum: high growth but high prices, high unemployment",
+    "link": "https://www.latimes.com/business/story/2026-06-05/californian-conundrum-high-growth-but-high-unemployment"
   }
 ]
