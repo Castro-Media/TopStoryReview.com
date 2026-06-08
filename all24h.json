@@ -1,33 +1,213 @@
 [
   {
-    "headline": "Live Updates: Iran and Israel Exchange Strikes for First Time Since April Cease-Fire",
-    "link": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles",
+    "headline": "Live Updates: Iran and Israel Trade Strikes for the First Time Since April",
+    "link": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks",
     "source": "nyt",
-    "pubdate": "2026-06-08-06-18-58 +0000"
+    "pubdate": "2026-06-08-08-30-53 +0000"
+  },
+  {
+    "headline": "Korean Authorities Urge Banks to Step Up Controls as Won Slumps",
+    "link": "https://www.wsj.com/finance/currencies/korean-authorities-urge-banks-to-step-up-controls-as-won-slumps-b269db5d",
+    "source": "wsj",
+    "pubdate": "2026-06-08-08-29-00 +0000"
+  },
+  {
+    "headline": "Dollar Could Remain Supported Ahead of Fed Decision",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-growing-fed-rate-hike-expectations-6dd3448b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-08-08-27-00 +0000"
+  },
+  {
+    "headline": "Apple expected to unveil new AI features at last developers conference with CEO Tim Cook",
+    "link": "https://nypost.com/2026/06/08/business/apple-expected-to-unveil-new-ai-features-at-last-developers-conference-with-ceo-tim-cook/",
+    "source": "nypost",
+    "pubdate": "2026-06-08-08-22-13 +0000"
+  },
+  {
+    "headline": "Oil Rises on Israel-Iran Escalation, U.S. Tech Futures Climb",
+    "link": "https://www.wsj.com/finance/stocks/oil-rises-on-israel-iran-escalation-u-s-tech-futures-climb-c58953e6?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-08-08-18-00 +0000"
+  },
+  {
+    "headline": "Gold Falls on Rate-Hike Fears as Middle East Hostilities Escalate",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-long-term-view-remains-positive-734209fe?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-08-08-17-00 +0000"
+  },
+  {
+    "headline": "Nikol Pashinyan Wins Re-election in Armenia",
+    "link": "https://www.nytimes.com/2026/06/08/world/europe/armenia-election-results.html",
+    "source": "nyt",
+    "pubdate": "2026-06-08-08-12-25 +0000"
+  },
+  {
+    "headline": "Nikol Pashinyan Wins Re-election in Armenia",
+    "link": "https://www.nytimes.com/2026/06/08/world/europe/armenia-election-results.html",
+    "source": "nyt",
+    "pubdate": "2026-06-08-08-12-25 +0000"
+  },
+  {
+    "headline": "Israel and Iran Exchange Fire, Renewing Fear of Escalation",
+    "link": "https://www.wsj.com/world/middle-east/iran-fires-missiles-at-israel-after-israeli-airstrike-on-beirut-a93b4da7?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-08-08-06-00 +0000"
+  },
+  {
+    "headline": "Israel and Iran Exchange Fire, Renewing Fear of Escalation",
+    "link": "https://www.wsj.com/world/middle-east/iran-fires-missiles-at-israel-after-israeli-airstrike-on-beirut-a93b4da7",
+    "source": "wsj",
+    "pubdate": "2026-06-08-08-06-00 +0000"
+  },
+  {
+    "headline": "Israel and Iran Exchange Fire, Renewing Fear of Escalation",
+    "link": "https://www.wsj.com/world/middle-east/iran-fires-missiles-at-israel-after-israeli-airstrike-on-beirut-a93b4da7",
+    "source": "wsj",
+    "pubdate": "2026-06-08-08-06-00 +0000"
+  },
+  {
+    "headline": "Iranian-backed Houthi rebels vow to block Israeli ships sailing in Red Sea",
+    "link": "https://nypost.com/2026/06/08/world-news/iranian-backed-houthis-vow-to-block-israeli-ships-sailing-in-red-sea/",
+    "source": "nypost",
+    "pubdate": "2026-06-08-08-03-20 +0000"
+  },
+  {
+    "headline": "At least 19 dead after major earthquake strikes southern Philippines",
+    "link": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-08-08-03-12 +0000"
+  },
+  {
+    "headline": "Facebook is paying people overseas promoting Alberta separatism",
+    "link": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-08-08-00-00 +0000"
+  },
+  {
+    "headline": "CUSMA a blessing for some Canadian businesses, a pain for others despite escaping U.S. tariffs",
+    "link": "https://www.cbc.ca/news/business/cusma-costs-small-business-9.7222827?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-08-08-00-00 +0000"
+  },
+  {
+    "headline": "Facebook is paying people overseas promoting Alberta separatism",
+    "link": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-08-08-00-00 +0000"
+  },
+  {
+    "headline": "Friendship or leverage: Why is Xi Jinping in North Korea?",
+    "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-08-07-55-29 +0000"
+  },
+  {
+    "headline": "Friendship or leverage: Why is Xi Jinping in North Korea?",
+    "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-08-07-55-29 +0000"
+  },
+  {
+    "headline": "Oil Surges After Hostilities Between Iran and Israel Escalate",
+    "link": "https://www.nytimes.com/2026/06/07/business/oil-gas-stocks-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-08-07-23-53 +0000"
+  },
+  {
+    "headline": "Oil Surges After Hostilities Between Iran and Israel Escalate",
+    "link": "https://www.nytimes.com/2026/06/07/business/oil-gas-stocks-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-08-07-23-53 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-08-07-22-21 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-08-07-22-21 +0000"
+  },
+  {
+    "headline": "At Least 15 Dead After Strong Earthquake in Southern Philippines",
+    "link": "https://www.nytimes.com/2026/06/07/world/asia/hilippines-earthquake-tsunami-warning.html",
+    "source": "nyt",
+    "pubdate": "2026-06-08-07-17-40 +0000"
+  },
+  {
+    "headline": "At Least 15 Dead After Strong Earthquake in Southern Philippines",
+    "link": "https://www.nytimes.com/2026/06/07/world/asia/hilippines-earthquake-tsunami-warning.html",
+    "source": "nyt",
+    "pubdate": "2026-06-08-07-17-40 +0000"
+  },
+  {
+    "headline": "Ingredion to Take Over Tate & Lyle in $3.6 Billion Deal",
+    "link": "https://www.wsj.com/business/deals/ingredion-to-take-over-tate-lyle-in-3-6-billion-deal-7ddd954c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-08-07-06-00 +0000"
+  },
+  {
+    "headline": "Trump blasts ‘crooked’ California elections as Spencer Pratt falls into 3rd place in LA primary",
+    "link": "https://nypost.com/2026/06/08/us-news/trump-blasts-crooked-california-elections-as-spencer-pratt-falls-into-3rd-place-in-la-primary/",
+    "source": "nypost",
+    "pubdate": "2026-06-08-07-05-11 +0000"
+  },
+  {
+    "headline": "Trump blasts ‘crooked’ California elections as Spencer Pratt falls into 3rd place in LA primary",
+    "link": "https://nypost.com/2026/06/08/us-news/trump-blasts-crooked-california-elections-as-spencer-pratt-falls-into-3rd-place-in-la-primary/",
+    "source": "nypost",
+    "pubdate": "2026-06-08-07-05-11 +0000"
   },
   {
     "headline": "ECB Expected to Be First Among Peers to Raise Key Rate in Response to Conflict",
     "link": "https://www.wsj.com/pro/central-banking/ecb-expected-to-be-first-among-peers-to-raise-key-rate-in-response-to-conflict-b93ccd94",
     "source": "wsj",
-    "pubdate": "2026-06-08-06-15-00 +0000"
+    "pubdate": "2026-06-08-06-51-00 +0000"
+  },
+  {
+    "headline": "Intesa Makes $35 Billion Bid for Monte dei Paschi to Rival BPM’s Merger Plan",
+    "link": "https://www.wsj.com/business/deals/intesa-makes-35-billion-bid-for-monte-dei-paschi-after-bpm-offers-merger-talks-580d7eee?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-08-06-29-00 +0000"
+  },
+  {
+    "headline": "Intesa Makes $35 Billion Bid for Monte dei Paschi to Rival BPM’s Merger Plan",
+    "link": "https://www.wsj.com/business/deals/intesa-makes-35-billion-bid-for-monte-dei-paschi-after-bpm-offers-merger-talks-580d7eee?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-08-06-29-00 +0000"
+  },
+  {
+    "headline": "German Factory Orders Fell Back in April",
+    "link": "https://www.wsj.com/economy/german-factory-orders-fell-back-in-april-7102ffb1",
+    "source": "wsj",
+    "pubdate": "2026-06-08-06-29-00 +0000"
+  },
+  {
+    "headline": "German Factory Orders Fell Back in April",
+    "link": "https://www.wsj.com/economy/german-factory-orders-fell-back-in-april-7102ffb1",
+    "source": "wsj",
+    "pubdate": "2026-06-08-06-29-00 +0000"
+  },
+  {
+    "headline": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
+    "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-08-06-26-48 +0000"
+  },
+  {
+    "headline": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
+    "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-08-06-26-48 +0000"
   },
   {
     "headline": "Chinese AI Startup StepFun Set to File for Hong Kong IPO",
     "link": "https://www.wsj.com/tech/ai/chinese-ai-startup-stepfun-set-to-file-for-hong-kong-ipo-3e436976",
     "source": "wsj",
     "pubdate": "2026-06-08-06-14-00 +0000"
-  },
-  {
-    "headline": "Oil Surges, Asian Stocks Sink After Iran Strikes Israel",
-    "link": "https://www.nytimes.com/2026/06/07/business/oil-gas-stocks-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-06-08-06-12-49 +0000"
-  },
-  {
-    "headline": "Oil Surges, Asian Stocks Sink After Iran Strikes Israel",
-    "link": "https://www.nytimes.com/2026/06/07/business/oil-gas-stocks-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-06-08-06-12-49 +0000"
   },
   {
     "headline": "Rare footage captured of Great White shark in Mediterranean Sea",
@@ -60,22 +240,10 @@
     "pubdate": "2026-06-08-05-59-00 +0000"
   },
   {
-    "headline": "U.S. Dollar’s Upward Momentum Vs. Singapore Dollar Continues to Build, Chart Shows",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-growing-fed-rate-hike-expectations-6dd3448b?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-08-05-53-00 +0000"
-  },
-  {
     "headline": "Roche Enters $2.3 Billion Blood-Cancer Drug Deal With Nurix Therapeutics",
     "link": "https://www.wsj.com/business/deals/roche-enters-2-3-billion-blood-cancer-drug-deal-with-nurix-therapeutics-41f1f782?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-06-08-05-47-00 +0000"
-  },
-  {
-    "headline": "Intesa Makes $35 Billion Bid for Monte dei Paschi After BPM Offers Merger Talks",
-    "link": "https://www.wsj.com/business/deals/intesa-makes-35-billion-bid-for-monte-dei-paschi-after-bpm-offers-merger-talks-580d7eee?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-08-05-36-00 +0000"
   },
   {
     "headline": "Nvidia Strikes AI Infrastructure Deals With South Korean Tech Firms",
@@ -88,24 +256,6 @@
     "link": "https://www.wsj.com/business/retail/haleon-to-invest-233-5-million-in-india-plant-amid-push-into-emerging-markets-04271dbb?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-06-08-05-24-00 +0000"
-  },
-  {
-    "headline": "Israel and Iran Exchange Fire, Renewing Fear of Escalation",
-    "link": "https://www.wsj.com/world/middle-east/iran-fires-missiles-at-israel-after-israeli-airstrike-on-beirut-a93b4da7?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-08-05-19-00 +0000"
-  },
-  {
-    "headline": "Israel and Iran Exchange Fire, Renewing Fear of Escalation",
-    "link": "https://www.wsj.com/world/middle-east/iran-fires-missiles-at-israel-after-israeli-airstrike-on-beirut-a93b4da7",
-    "source": "wsj",
-    "pubdate": "2026-06-08-05-19-00 +0000"
-  },
-  {
-    "headline": "Israel and Iran Exchange Fire, Renewing Fear of Escalation",
-    "link": "https://www.wsj.com/world/middle-east/iran-fires-missiles-at-israel-after-israeli-airstrike-on-beirut-a93b4da7",
-    "source": "wsj",
-    "pubdate": "2026-06-08-05-19-00 +0000"
   },
   {
     "headline": "Here’s the latest.",
@@ -138,24 +288,6 @@
     "pubdate": "2026-06-08-04-45-38 +0000"
   },
   {
-    "headline": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
-    "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-08-04-42-42 +0000"
-  },
-  {
-    "headline": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
-    "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-08-04-42-42 +0000"
-  },
-  {
-    "headline": "What To Know as China’s Xi Jinping Heads to North Korea",
-    "link": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
-    "source": "nyt",
-    "pubdate": "2026-06-08-04-41-26 +0000"
-  },
-  {
     "headline": "What To Know as China’s Xi Jinping Heads to North Korea",
     "link": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
     "source": "nyt",
@@ -180,6 +312,12 @@
     "pubdate": "2026-06-08-04-09-04 +0000"
   },
   {
+    "headline": "Man, two young children killed in possible murder-suicide in Canoga Park, officials say",
+    "link": "https://www.latimes.com/california/story/2026-06-07/canoga-park-shooting-three-dead",
+    "source": "latimes",
+    "pubdate": "2026-06-08-04-01-40 +0000"
+  },
+  {
     "headline": "Searching for Shade When It’s 125 Degrees",
     "link": "https://www.nytimes.com/2026/06/08/world/asia/pakistan-heat-wave.html",
     "source": "nyt",
@@ -207,25 +345,19 @@
     "headline": "One Is the Pope, the Other an Atheist. They Both Oppose Trump.",
     "link": "https://www.nytimes.com/2026/06/08/world/europe/pope-leo-sanchez-trump.html",
     "source": "nyt",
-    "pubdate": "2026-06-08-04-01-05 +0000"
+    "pubdate": "2026-06-08-04-01-06 +0000"
   },
   {
     "headline": "One Is the Pope, the Other an Atheist. They Both Oppose Trump.",
     "link": "https://www.nytimes.com/2026/06/08/world/europe/pope-leo-sanchez-trump.html",
     "source": "nyt",
-    "pubdate": "2026-06-08-04-01-05 +0000"
+    "pubdate": "2026-06-08-04-01-06 +0000"
   },
   {
-    "headline": "Strong Earthquake in Philippines Topples Buildings and Prompts Tsunami Warnings",
-    "link": "https://www.nytimes.com/2026/06/07/world/asia/hilippines-earthquake-tsunami-warning.html",
-    "source": "nyt",
-    "pubdate": "2026-06-08-03-46-55 +0000"
-  },
-  {
-    "headline": "Strong Earthquake in Philippines Topples Buildings and Prompts Tsunami Warnings",
-    "link": "https://www.nytimes.com/2026/06/07/world/asia/hilippines-earthquake-tsunami-warning.html",
-    "source": "nyt",
-    "pubdate": "2026-06-08-03-46-55 +0000"
+    "headline": "Ten dead after migrant boat capsizes near Malta, Italian coastguard says",
+    "link": "https://www.bbc.com/news/articles/cvgerxnq0kgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-08-03-54-00 +0000"
   },
   {
     "headline": "Democrats in Congress Grapple With Concerns Over Platner Allegations",
@@ -324,7 +456,7 @@
     "pubdate": "2026-06-08-02-12-00 +0000"
   },
   {
-    "headline": "7.8 magnitude earthquake shakes part of southern Philippines — tsunami possible for some coasts",
+    "headline": "A 7.8 magnitude quake in the Philippines kills at least 16, fells buildings and sets off a tsunami",
     "link": "https://nypost.com/2026/06/07/world-news/7-8-magnitude-earthquake-shakes-part-of-southern-philippines-tsunami-possible-for-some-coasts/",
     "source": "nypost",
     "pubdate": "2026-06-08-02-02-28 +0000"
@@ -346,6 +478,12 @@
     "link": "https://www.wsj.com/world/europe/france-totalenergies-gas-prices-9964062a",
     "source": "wsj",
     "pubdate": "2026-06-08-02-00-00 +0000"
+  },
+  {
+    "headline": "Car flips, winds up vertical on the porch of a Wilmington home",
+    "link": "https://www.latimes.com/california/story/2026-06-07/car-crash-upside-down-on-porch-of-wilmington-home",
+    "source": "latimes",
+    "pubdate": "2026-06-08-01-58-14 +0000"
   },
   {
     "headline": "A profound new report on climate and economy ingored by most major news media",
@@ -388,6 +526,12 @@
     "link": "https://www.cbc.ca/news/world/philippines-earthquake-9.7226889?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-06-08-01-37-19 +0000"
+  },
+  {
+    "headline": "Five people injured in stabbing at New York City's Penn Station",
+    "link": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-08-01-33-08 +0000"
   },
   {
     "headline": "Five people injured in stabbing at New York City's Penn Station",
@@ -456,12 +600,6 @@
     "pubdate": "2026-06-08-01-00-00 +0000"
   },
   {
-    "headline": "Gold Rises; Long-Term View Remains Positive",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-long-term-view-remains-positive-734209fe?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-08-00-38-00 +0000"
-  },
-  {
     "headline": "Armenia PM declares 'historic victory' as vote tallying continues in parliamentary vote",
     "link": "https://www.cbc.ca/news/world/armenia-election-nikol-pashinyan-9.7226866?cmp=rss",
     "source": "cbc",
@@ -478,6 +616,12 @@
     "link": "https://nypost.com/2026/06/07/us-news/nithya-raman-knocks-spencer-pratt-off-second-place-in-la-mayors-race/",
     "source": "nypost",
     "pubdate": "2026-06-08-00-08-41 +0000"
+  },
+  {
+    "headline": "Nithya Raman surges past Spencer Pratt in L.A. mayor's race, closing in on runoff with Karen Bass",
+    "link": "https://www.latimes.com/california/story/2026-06-07/la-me-raman-mayors-race",
+    "source": "latimes",
+    "pubdate": "2026-06-08-00-05-04 +0000"
   },
   {
     "headline": "Gasbuddy releases doomsday outlook for summer of hell in California",
@@ -576,6 +720,18 @@
     "pubdate": "2026-06-07-23-03-23 +0000"
   },
   {
+    "headline": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+    "link": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-07-23-03-23 +0000"
+  },
+  {
+    "headline": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+    "link": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-07-23-01-04 +0000"
+  },
+  {
     "headline": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
     "link": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -604,6 +760,12 @@
     "link": "https://www.wsj.com/us-news/vermonts-most-bizarre-real-estate-listing-is-a-free-college-campus-a499277a",
     "source": "wsj",
     "pubdate": "2026-06-07-23-00-00 +0000"
+  },
+  {
+    "headline": "Authorities draw down massive search for missing Tahoe hiker presumed dead",
+    "link": "https://www.latimes.com/california/story/2026-06-07/missing-lake-tahoe-hiker-jason-coughran-presumed-dead-search",
+    "source": "latimes",
+    "pubdate": "2026-06-07-22-35-19 +0000"
   },
   {
     "headline": "Knife-wielding nut snatches cell phone in terrifying NYC subway robbery",
@@ -636,18 +798,6 @@
     "pubdate": "2026-06-07-22-06-58 +0000"
   },
   {
-    "headline": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
-    "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-07-22-02-31 +0000"
-  },
-  {
-    "headline": "Friendship or leverage: Why is Xi Jinping going to North Korea?",
-    "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-07-22-02-31 +0000"
-  },
-  {
     "headline": "'We don't look at the sky anymore': The Air India crash victims who were not on the plane",
     "link": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -694,6 +844,12 @@
     "link": "https://www.nytimes.com/2026/06/07/arts/television/scott-pelley-60-minutes-interview-takeaways.html",
     "source": "nyt",
     "pubdate": "2026-06-07-21-50-42 +0000"
+  },
+  {
+    "headline": "Grisly affair: SoCal man survives grizzly bear attack in Glacier National Park",
+    "link": "https://www.latimes.com/california/story/2026-06-07/socal-man-survives-grizzly-bear-attack-in-glacier-national-park",
+    "source": "latimes",
+    "pubdate": "2026-06-07-21-48-32 +0000"
   },
   {
     "headline": "NASA to wear Prada as luxury group pushes into space industry",
@@ -780,22 +936,16 @@
     "pubdate": "2026-06-07-21-23-44 +0000"
   },
   {
-    "headline": "Terrifying arsenal of rockets ex-Navy sailor tried to buy for mass murder of Special Forces operatives",
-    "link": "https://nypost.com/2026/06/07/us-news/californian-sailor-arrested-over-homegrown-isis-terror-plot-targeting-us-special-forces/",
-    "source": "nypost",
-    "pubdate": "2026-06-07-21-18-01 +0000"
+    "headline": "Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
+    "link": "https://www.nytimes.com/2026/06/07/world/middleeast/iran-israel-missiles.html",
+    "source": "nyt",
+    "pubdate": "2026-06-07-21-10-44 +0000"
   },
   {
     "headline": "Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
     "link": "https://www.nytimes.com/2026/06/07/world/middleeast/iran-israel-missiles.html",
     "source": "nyt",
-    "pubdate": "2026-06-07-21-10-43 +0000"
-  },
-  {
-    "headline": "Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
-    "link": "https://www.nytimes.com/2026/06/07/world/middleeast/iran-israel-missiles.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-21-10-43 +0000"
+    "pubdate": "2026-06-07-21-10-44 +0000"
   },
   {
     "headline": "Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation",
@@ -880,6 +1030,12 @@
     "link": "https://www.wsj.com/opinion/xavier-becerra-gets-a-supreme-courtassist-dd31f702",
     "source": "wsj",
     "pubdate": "2026-06-07-20-32-00 +0000"
+  },
+  {
+    "headline": "Tribeca Festival condemns Actor Elon Gold and influencer Lizzy Savetsky's 'offensive' dog rape joke",
+    "link": "https://www.latimes.com/california/story/2026-06-07/tribeca-condemns-elon-gold-lizzy-savetsky-for-palestine-dog-rape-joke",
+    "source": "latimes",
+    "pubdate": "2026-06-07-20-27-29 +0000"
   },
   {
     "headline": "Trump Defends Compensation Fund and Iran War in ‘Meet the Press’ Interview",
@@ -1002,6 +1158,12 @@
     "pubdate": "2026-06-07-18-51-33 +0000"
   },
   {
+    "headline": "Trump, after baselessly alleging fraud in California vote again, storms out of NBC interview",
+    "link": "https://www.latimes.com/california/story/2026-06-07/president-trump-storms-off-meet-the-press",
+    "source": "latimes",
+    "pubdate": "2026-06-07-18-48-01 +0000"
+  },
+  {
     "headline": "2 Virginia residents sue to stop UFC fight at White House for Trump's 80th birthday",
     "link": "https://www.cbc.ca/news/world/lawsuit-ufc-trump-white-house-birthday-9.7226723?cmp=rss",
     "source": "cbc",
@@ -1080,6 +1242,12 @@
     "pubdate": "2026-06-07-17-53-32 +0000"
   },
   {
+    "headline": "Dozens join in air rescue attempt in Hollywood Hills, but hiker dies",
+    "link": "https://www.latimes.com/california/story/2026-06-07/hollywood-hills-hiker-dies-following-rescue-attempt",
+    "source": "latimes",
+    "pubdate": "2026-06-07-17-29-35 +0000"
+  },
+  {
     "headline": "Data continues to confirm Manhattan’s strong office leasing market",
     "link": "https://nypost.com/2026/06/07/business/data-continues-to-confirm-manhattans-strong-office-leasing-market/",
     "source": "nypost",
@@ -1114,6 +1282,12 @@
     "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-07-17-11-54 +0000"
+  },
+  {
+    "headline": "'Scary Movie' laughs its way to a first-place finish at the box office",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-06-07/scary-movie-laughs-its-way-to-first-place-finish-at-box-office",
+    "source": "latimes",
+    "pubdate": "2026-06-07-17-10-29 +0000"
   },
   {
     "headline": "Opinion | Even Californians Are Saying No to New Taxes",
@@ -1470,9 +1644,39 @@
     "pubdate": "2026-06-07-10-00-01 +0000"
   },
   {
+    "headline": "Mainstream California Democrats survived election night, but their brand remains challenged",
+    "link": "https://www.latimes.com/california/story/2026-06-07/mainstream-california-democrats-survived-election-night-but-their-brand-remains-challenged",
+    "source": "latimes",
+    "pubdate": "2026-06-07-10-00-00 +0000"
+  },
+  {
+    "headline": "'We're in survival mode': A year after ICE raids, a couple fight to save their dress shops",
+    "link": "https://www.latimes.com/california/story/2026-06-07/year-after-ice-raided-l-a-s-fashion-district-couple-fight-to-save-their-dress-shops",
+    "source": "latimes",
+    "pubdate": "2026-06-07-10-00-00 +0000"
+  },
+  {
+    "headline": "Commentary: From here to November: Our columnists size up the California governor's race",
+    "link": "https://www.latimes.com/politics/story/2026-06-07/california-primary-governor-race-becerra-hilton-steyer-barabak-chabria",
+    "source": "latimes",
+    "pubdate": "2026-06-07-10-00-00 +0000"
+  },
+  {
     "headline": "Over shared meals, Philadelphians write a recipe for citizenship",
     "link": "https://www.washingtonpost.com/nation/2026/06/07/over-shared-meals-philadelphians-write-recipe-citizenship/",
     "source": "wapo",
+    "pubdate": "2026-06-07-10-00-00 +0000"
+  },
+  {
+    "headline": "Mainstream California Democrats survived election night, but their brand remains challenged",
+    "link": "https://www.latimes.com/california/story/2026-06-07/mainstream-california-democrats-survived-election-night-but-their-brand-remains-challenged",
+    "source": "latimes",
+    "pubdate": "2026-06-07-10-00-00 +0000"
+  },
+  {
+    "headline": "Commentary: From here to November: Our columnists size up the California governor's race",
+    "link": "https://www.latimes.com/politics/story/2026-06-07/california-primary-governor-race-becerra-hilton-steyer-barabak-chabria",
+    "source": "latimes",
     "pubdate": "2026-06-07-10-00-00 +0000"
   },
   {
@@ -1606,53 +1810,5 @@
     "link": "https://nypost.com/2026/06/07/world-news/israel-kills-hamas-terrorist-sakr-abu-karim-tied-to-oct-7-massacre/",
     "source": "nypost",
     "pubdate": "2026-06-07-08-34-13 +0000"
-  },
-  {
-    "headline": "The FIFA World Cup is brought to you by Saudi oil. These fans and players want to stop it",
-    "link": "https://www.cbc.ca/radio/whatonearth/fifa-world-cup-aramco-9.7224085?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-07-08-00-00 +0000"
-  },
-  {
-    "headline": "Armenia, caught in Trump-Putin power contest, eyes E.U. and feels Russia’s ire",
-    "link": "https://www.washingtonpost.com/world/2026/06/07/armenia-takes-sides-trump-putin-power-contest-drawing-russia-fury/",
-    "source": "wapo",
-    "pubdate": "2026-06-07-08-00-00 +0000"
-  },
-  {
-    "headline": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-    "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-07-07-11-18 +0000"
-  },
-  {
-    "headline": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-    "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-07-07-11-18 +0000"
-  },
-  {
-    "headline": "As Ebola Spreads in East Africa, Will China Step Up?",
-    "link": "https://www.nytimes.com/2026/06/06/world/asia/as-ebola-spreads-in-east-africa-will-china-step-up.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-07-02-37 +0000"
-  },
-  {
-    "headline": "As Ebola Spreads in East Africa, Will China Step Up?",
-    "link": "https://www.nytimes.com/2026/06/06/world/asia/as-ebola-spreads-in-east-africa-will-china-step-up.html",
-    "source": "nyt",
-    "pubdate": "2026-06-07-07-02-37 +0000"
-  },
-  {
-    "headline": "Kim Jong Un’s sister calls US push for its denuclearization ‘anachronistic dream’",
-    "link": "https://nypost.com/2026/06/07/world-news/kim-jong-uns-sister-calls-us-push-for-its-denuclearization-anachronistic-dream/",
-    "source": "nypost",
-    "pubdate": "2026-06-07-06-57-52 +0000"
-  },
-  {
-    "headline": "Are Portugal better without Ronaldo - and is he undroppable?",
-    "link": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-07-06-32-48 +0000"
   }
 ]
