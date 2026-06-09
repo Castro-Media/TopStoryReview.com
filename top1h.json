@@ -1,9 +1,72 @@
 [
   {
-    "score": 15,
-    "pubdate": "2026-06-09-19-33-41 +0000",
+    "score": 45,
+    "pubdate": "2026-06-09-21-24-32 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Trump Says Iran Downed U.S. Helicopter and Vows to Retaliate",
+    "link": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-06-09-20-27-45 +0000",
     "source": "nypost",
-    "headline": "Karmelo Anthony convicted of fatally stabbing Austin Metcalf at Texas track meet — now faces up to life behind bars",
-    "link": "https://nypost.com/2026/06/09/us-news/karmelo-anthony-convicted-of-fatally-stabbing-austin-metcalf-at-texas-track-meet/"
+    "headline": "California Democrat Ro Khanna’s friend unregisters to vote amid Spencer Pratt’s stunning LA mayoral loss",
+    "link": "https://nypost.com/2026/06/09/us-news/ro-khannas-friend-unregisters-to-vote-after-spencer-pratt-loss/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-06-09-20-57-00 +0000",
+    "source": "wsj",
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-cbb81a95?mod=rss_markets_main"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-06-09-20-39-00 +0000",
+    "source": "wsj",
+    "headline": "Los Angeles Stadium Workers Reach Deal to Head Off World Cup Strike",
+    "link": "https://www.wsj.com/business/los-angeles-stadium-workers-reach-deal-to-head-off-world-cup-strike-ea7a6926"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-06-09-21-23-19 +0000",
+    "source": "nyt",
+    "headline": "In Maine, a Senate race provokes complex emotions for voters.",
+    "link": "https://www.nytimes.com/live/2026/06/09/us/elections-maine-sc-nv-nd-primaries/in-maine-a-senate-race-provokes-complex-emotions-for-voters"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-06-09-21-01-22 +0000",
+    "source": "nypost",
+    "headline": "Melania Trump praises winners of childhood AI competition : ‘You are our future’",
+    "link": "https://nypost.com/2026/06/09/us-news/melania-trump-praises-winners-of-childhood-ai-competition/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-06-09-20-55-58 +0000",
+    "source": "nypost",
+    "headline": "Disgraced mayor Misty Roberts dodges hefty prison sentence as victim’s mom torches her: ‘This predator has hair extensions, high heels, Botox’",
+    "link": "https://nypost.com/2026/06/09/us-news/disgraced-louisiana-mayor-misty-roberts-torched-by-victims-mom-at-sentencing/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-06-09-21-13-17 +0000",
+    "source": "bbc",
+    "headline": "Inside Myanmar, rebels are losing ground as military forces men into army",
+    "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-06-09-20-44-13 +0000",
+    "source": "nyt",
+    "headline": "Blanche Was Once Seen as Tempering Trump’s Tactics. Now He’s All In.",
+    "link": "https://www.nytimes.com/2026/06/09/us/politics/blanche-trump-justice-department-retribution.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-06-09-20-38-55 +0000",
+    "source": "bbc",
+    "headline": "UK and allies sanction 'networks' enabling settler violence in West Bank",
+    "link": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss"
   }
 ]
