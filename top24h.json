@@ -1,45 +1,45 @@
 [
   {
-    "score": 170,
-    "pubdate": "2026-06-08-20-28-25 +0000",
-    "source": "nyt",
-    "headline": "Netanyahu Called Off Iran Strikes After Trump Claimed Progress in Nuclear Talks, Officials Say",
-    "link": "https://www.nytimes.com/2026/06/08/us/politics/trump-netanyahu-iran-call.html"
+    "score": 171,
+    "pubdate": "2026-06-09-08-44-20 +0000",
+    "source": "nypost",
+    "headline": "Two pilots rescued after US  helicopter crashes over Strait of Hormuz as Trump claims Iran deal ‘two or three days’ away",
+    "link": "https://nypost.com/2026/06/09/world-news/us-army-apache-helicopter-crashes-over-strait-of-hormuz-as-trump-says-us-will-be-able-to-declare-total-victory-in-two-weeks/"
   },
   {
-    "score": 101,
+    "score": 100,
     "pubdate": "2026-06-09-08-02-43 +0000",
     "source": "bbc",
     "headline": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
     "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 92,
-    "pubdate": "2026-06-09-10-04-49 +0000",
+    "score": 100,
+    "pubdate": "2026-06-09-11-38-28 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Israel Launches New Strikes in Southern Lebanon",
     "link": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon"
   },
   {
-    "score": 84,
+    "score": 71,
     "pubdate": "2026-06-09-01-19-28 +0000",
     "source": "bbc",
     "headline": "Spencer Pratt out of LA mayor race as left-wing rival Nithya Raman advances",
     "link": "https://www.bbc.com/news/articles/cx219kxkj1jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 71,
-    "pubdate": "2026-06-09-00-16-29 +0000",
-    "source": "nypost",
-    "headline": "Ex-Graham Platner campaign director says embattled Maine Dem ‘shouldn’t be a US senator’: ‘My concerns have only grown’",
-    "link": "https://nypost.com/2026/06/08/us-news/ex-graham-platner-campaign-director-says-embattled-maine-dem-shouldnt-be-a-us-senator/"
-  },
-  {
-    "score": 67,
+    "score": 69,
     "pubdate": "2026-06-08-13-47-47 +0000",
     "source": "nyt",
     "headline": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
     "link": "https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html"
+  },
+  {
+    "score": 69,
+    "pubdate": "2026-06-09-00-16-29 +0000",
+    "source": "nypost",
+    "headline": "Ex-Graham Platner campaign director says embattled Maine Dem ‘shouldn’t be a US senator’: ‘My concerns have only grown’",
+    "link": "https://nypost.com/2026/06/08/us-news/ex-graham-platner-campaign-director-says-embattled-maine-dem-shouldnt-be-a-us-senator/"
   },
   {
     "score": 66,
@@ -49,14 +49,7 @@
     "link": "https://www.washingtonpost.com/world/2026/06/08/chinese-leader-xi-jinping-makes-rare-trip-north-korea-show-unity/"
   },
   {
-    "score": 64,
-    "pubdate": "2026-06-09-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump and his allies are escalating allegations of election fraud in California, turning to a playbook they have used previously to sow doubt about election results",
-    "link": "https://www.wsj.com/politics/elections/trump-fuels-election-fraud-claims-in-california-81c5f723"
-  },
-  {
-    "score": 61,
+    "score": 60,
     "pubdate": "2026-06-09-05-39-56 +0000",
     "source": "nypost",
     "headline": "Diehard Knicks fans unfazed by Game 3 loss, remain confident team will win NBA Finals: ‘Knicks in six’",
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "One of Pope Leo’s Best Friends Works in Spain. They Talk About Cars.",
     "link": "https://www.nytimes.com/2026/06/09/world/europe/pope-leo-spain-armando-lovera.html"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-06-09-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump and his allies are escalating allegations of election fraud in California, turning to a playbook they have used previously to sow doubt about election results",
+    "link": "https://www.wsj.com/politics/elections/trump-fuels-election-fraud-claims-in-california-81c5f723"
   }
 ]
