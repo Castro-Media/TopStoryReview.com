@@ -1,17 +1,24 @@
 [
   {
-    "score": 177,
-    "pubdate": "2026-06-09-04-49-07 +0000",
+    "score": 176,
+    "pubdate": "2026-06-09-07-48-40 +0000",
     "source": "nyt",
     "headline": "Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say",
     "link": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks"
   },
   {
     "score": 101,
-    "pubdate": "2026-06-09-01-19-28 +0000",
+    "pubdate": "2026-06-09-08-02-43 +0000",
     "source": "bbc",
-    "headline": "Spencer Pratt out of LA mayor race as left-wing rival Nithya Raman advances",
-    "link": "https://www.bbc.com/news/articles/cx219kxkj1jo?at_medium=RSS&at_campaign=rss"
+    "headline": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
+    "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 81,
+    "pubdate": "2026-06-09-00-02-38 +0000",
+    "source": "nypost",
+    "headline": "Spencer Pratt loses LA mayor’s race as Nithya Raman surges through to runoff after massive dump of ballots",
+    "link": "https://nypost.com/2026/06/08/us-news/nithya-raman-widens-lead-over-spencer-pratt-in-la-mayor-race/"
   },
   {
     "score": 75,
@@ -21,49 +28,42 @@
     "link": "https://nypost.com/2026/06/08/us-news/ex-graham-platner-campaign-director-says-embattled-maine-dem-shouldnt-be-a-us-senator/"
   },
   {
-    "score": 69,
-    "pubdate": "2026-06-09-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump and his allies are escalating allegations of election fraud in California, turning to a playbook they have used previously to sow doubt about election results",
-    "link": "https://www.wsj.com/politics/elections/trump-fuels-election-fraud-claims-in-california-81c5f723"
-  },
-  {
-    "score": 67,
-    "pubdate": "2026-06-08-20-54-29 +0000",
-    "source": "bbc",
-    "headline": "Stock market jitters remain amid tech fears and renewed Middle East attacks",
-    "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 65,
-    "pubdate": "2026-06-08-20-16-00 +0000",
-    "source": "wsj",
-    "headline": "A federal judge invalidated the Trump administration’s new fees for H-1B visas, saying officials overreached in applying a $100,000 charge for new applicants to the program for foreign professionals",
-    "link": "https://www.wsj.com/politics/policy/judge-strikes-down-trump-administrations-100-000-h-1b-visa-fee-f167da26"
-  },
-  {
-    "score": 64,
+    "score": 66,
     "pubdate": "2026-06-08-17-56-14 +0000",
     "source": "nyt",
     "headline": "The Iran War is Forcing Energy-Importing Countries to Turn Inward",
     "link": "https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html"
   },
   {
+    "score": 66,
+    "pubdate": "2026-06-09-06-33-11 +0000",
+    "source": "bbc",
+    "headline": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+    "link": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 65,
+    "pubdate": "2026-06-09-07-08-52 +0000",
+    "source": "bbc",
+    "headline": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+    "link": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 65,
+    "pubdate": "2026-06-09-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump and his allies are escalating allegations of election fraud in California, turning to a playbook they have used previously to sow doubt about election results",
+    "link": "https://www.wsj.com/politics/elections/trump-fuels-election-fraud-claims-in-california-81c5f723"
+  },
+  {
+    "score": 59,
+    "pubdate": "2026-06-09-02-54-00 +0000",
+    "source": "wsj",
+    "headline": "The Pentagon on Monday updated its list of Chinese businesses the U.S. has identified as aiding Beijing’s military to include tech giants Alibaba and Baidu— limiting their operations in America",
+    "link": "https://www.wsj.com/politics/national-security/u-s-expands-list-of-chinese-tech-companies-it-says-assists-beijings-military-a2c6c6b9"
+  },
+  {
     "score": 52,
-    "pubdate": "2026-06-08-16-52-17 +0000",
-    "source": "wapo",
-    "headline": "Chinese leader Xi Jinping makes rare trip to North Korea in show of unity",
-    "link": "https://www.washingtonpost.com/world/2026/06/08/chinese-leader-xi-jinping-makes-rare-trip-north-korea-show-unity/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-06-09-05-39-56 +0000",
-    "source": "nypost",
-    "headline": "Diehard Knicks fans unfazed by Game 3 loss, remain confident team will win NBA Finals: ‘Knicks in six’",
-    "link": "https://nypost.com/2026/06/09/us-news/diehard-knicks-fans-unphased-by-game-3-loss-remain-confident-team-will-win-nba-finals-knicks-in-six/"
-  },
-  {
-    "score": 50,
     "pubdate": "2026-06-08-13-47-47 +0000",
     "source": "nyt",
     "headline": "Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?",
