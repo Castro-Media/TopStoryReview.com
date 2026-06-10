@@ -1,61 +1,5 @@
 [
   {
-    "score": 34,
-    "pubdate": "2026-06-10-20-07-00 +0000",
-    "source": "nyt",
-    "headline": "Oil Rises on Trump’s Iran Threats and New Strikes Across Middle East",
-    "link": "https://www.nytimes.com/2026/06/10/business/oil-stocks-gas-prices-iran.html"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-06-10-20-28-05 +0000",
-    "source": "nypost",
-    "headline": "Mamdani claims he never saw vile, anti-American posts from DSA House candidate he endorsed",
-    "link": "https://nypost.com/2026/06/10/us-news/mamdani-claims-he-never-saw-vile-anti-us-posts-from-darializa-avila-chevalier-dsa-ny-house-candidate-he-endorsed/"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-06-10-19-59-31 +0000",
-    "source": "nypost",
-    "headline": "California mayor suddenly resigns hours before council investigation: ‘Banana republic’",
-    "link": "https://nypost.com/2026/06/10/us-news/california-mayor-suddenly-resigns-hours-before-council-investigation-banana-republic/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-06-10-20-18-38 +0000",
-    "source": "nypost",
-    "headline": "SF schools boss dodges questions from Congress on pronouns, parental rights",
-    "link": "https://nypost.com/2026/06/10/us-news/sf-schools-chief-maria-su-grilled-by-congress-on-parental-rights-trans-issues/"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-06-10-20-00-25 +0000",
-    "source": "nyt",
-    "headline": "Pope Leo Is Blessing the Sagrada Familia in Barcelona. To Some, the Church Is a Curse.",
-    "link": "https://www.nytimes.com/2026/06/10/world/europe/pope-leo-sagrada-familia-barcelona-visit.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-06-10-20-39-04 +0000",
-    "source": "nypost",
-    "headline": "Jalen Brunson adopted his social media famous dog from Long Island Knicks fans’ animal rescue",
-    "link": "https://nypost.com/2026/06/10/us-news/jalen-brunson-adopted-his-social-media-famous-dog-from-long-island-knicks-fans-animal-rescue/"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-06-10-20-21-21 +0000",
-    "source": "nyt",
-    "headline": "Trump Says Bill Pulte Will Take Over as Intelligence Chief on June 19",
-    "link": "https://www.nytimes.com/2026/06/09/us/politics/trump-pulte-intelligence-chief.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-06-10-19-58-29 +0000",
-    "source": "nypost",
-    "headline": "Sex, weed and a secret marriage fueling intense legal battle over trendy SoHo pot shop: ‘a fictional narrative’",
-    "link": "https://nypost.com/2026/06/10/us-news/sex-weed-secret-marriage-fueling-legal-battle-at-soho-pot-shop/"
-  },
-  {
     "score": 14,
     "pubdate": "2026-06-10-20-37-44 +0000",
     "source": "nypost",
@@ -64,9 +8,16 @@
   },
   {
     "score": 13,
-    "pubdate": "2026-06-10-19-48-45 +0000",
-    "source": "wapo",
-    "headline": "Prices are soaring on these everyday grocery items, driving up inflation",
-    "link": "https://www.washingtonpost.com/business/2026/06/10/prices-are-soaring-these-products-driving-up-inflation/"
+    "pubdate": "2026-06-10-20-39-04 +0000",
+    "source": "nypost",
+    "headline": "Jalen Brunson adopted his social media famous dog from Long Island Knicks fans’ animal rescue",
+    "link": "https://nypost.com/2026/06/10/us-news/jalen-brunson-adopted-his-social-media-famous-dog-from-long-island-knicks-fans-animal-rescue/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-10-20-42-00 +0000",
+    "source": "nypost",
+    "headline": "Justice Department opens sweeping ‘debanking’ probe into JPMorgan, Bank of America and more",
+    "link": "https://nypost.com/2026/06/10/business/justice-department-opens-sweeping-debanking-probe-into-jpmorgan-bank-of-america-and-more/"
   }
 ]
