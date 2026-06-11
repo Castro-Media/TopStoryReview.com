@@ -1,24 +1,31 @@
 [
   {
-    "score": 151,
-    "pubdate": "2026-06-10-20-07-00 +0000",
-    "source": "nyt",
-    "title": "Oil Rises on Trump&#8217;s Iran Threats and New Strikes Across Middle East",
-    "link": "https://www.nytimes.com/2026/06/10/business/oil-stocks-gas-prices-iran.html"
+    "score": 148,
+    "pubdate": "2026-06-11-17-41-53 +0000",
+    "source": "nypost",
+    "title": "Trump calls off Iran strikes, tells The Post US-Tehran deal is &#8216;all wrapped up&#8217;",
+    "link": "https://nypost.com/2026/06/11/us-news/trump-calls-off-more-iran-strikes-claims-us-tehran-peace-deal-has-been-approved/"
   },
   {
-    "score": 74,
-    "pubdate": "2026-06-11-09-04-26 +0000",
+    "score": 79,
+    "pubdate": "2026-06-11-21-20-59 +0000",
     "source": "nyt",
-    "title": "Why Mexico&#8217;s President Will Not Attend the World Cup Opening Match",
-    "link": "https://www.nytimes.com/2026/06/11/world/americas/mexico-president-sheinbaum-world-cup.html"
+    "title": "As World Cup Begins, Mexico City Becomes a Global Stage",
+    "link": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-photos-mexico.html"
   },
   {
     "score": 62,
-    "pubdate": "2026-06-11-19-16-59 +0000",
+    "pubdate": "2026-06-11-20-30-00 +0000",
     "source": "nypost",
-    "title": "NYPD cop turned &#8216;vigilante&#8217; charged after he was caught on video shooting man he thought may have stolen wife&#8217;s car",
-    "link": "https://nypost.com/2026/06/11/us-news/nypd-cop-charged-months-after-he-was-caught-on-video-shooting-man-he-thought-may-have-stolen-wifes-car/"
+    "title": "New video shows the desperate nighttime search for missing 5-year-old girl swept away in Laguna Beach",
+    "link": "https://nypost.com/2026/06/11/us-news/laguna-beach-search-called-off-for-child-swept-away-by-wave/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-06-11-19-53-53 +0000",
+    "source": "nypost",
+    "title": "Elon Musk&#8217;s SpaceX prices record-breaking $75B IPO at $135 a share",
+    "link": "https://nypost.com/2026/06/11/business/elon-musks-spacex-prices-blockbuster-75b-ipo-at-135-a-share-biggest-ever-for-us/"
   },
   {
     "score": 55,
@@ -28,45 +35,38 @@
     "link": "https://nypost.com/2026/06/11/us-news/minnesota-assassin-vance-boelter-pleads-guilty-to-murdering-top-state-democrat-and-her-husband/"
   },
   {
-    "score": 52,
-    "pubdate": "2026-06-10-21-48-11 +0000",
-    "source": "nyt",
-    "title": "Trump Shrugs Off High Prices Amid Iran War and Says &#8216;I Love the Inflation&#8217;",
-    "link": "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html"
-  },
-  {
-    "score": 51,
+    "score": 45,
     "pubdate": "2026-06-11-11-19-51 +0000",
     "source": "nypost",
     "title": "Canada considering social media ban for kids under 16 in global effort to tighten online protections",
     "link": "https://nypost.com/2026/06/11/world-news/canada-considering-social-media-ban-for-kids-under-16-in-global-effort-to-tighten-online-protections/"
   },
   {
-    "score": 45,
-    "pubdate": "2026-06-11-15-29-06 +0000",
-    "source": "nypost",
-    "title": "Pope Leo visits &#8216;dock of shame&#8217; in Canary Islands speaking up for migrant rights: &#8216;Human dignity has no passport&#8217;",
-    "link": "https://nypost.com/2026/06/11/world-news/pope-leo-visits-dock-of-shame-in-canary-islands-speaks-up-for-migrants-human-dignity-has-no-passport/"
+    "score": 44,
+    "pubdate": "2026-06-11-14-58-00 +0000",
+    "source": "wsj",
+    "title": "The ECB became the first major central bank to raise rates to tackle a war-driven resurgence in inflation",
+    "link": "https://www.wsj.com/economy/central-banking/ecb-becomes-first-major-central-bank-to-raise-rates-since-inflation-resurgence-1c083b0a"
   },
   {
-    "score": 43,
-    "pubdate": "2026-06-11-10-00-00 +0000",
-    "source": "latimes",
-    "title": "SpaceX is poised to make history with record $75-billion stock IPO",
-    "link": "https://www.latimes.com/business/story/2026-06-11/spacex-is-poised-to-make-history-with-record-75-billion-stock-ipo"
+    "score": 41,
+    "pubdate": "2026-06-11-20-09-55 +0000",
+    "source": "nypost",
+    "title": "US Attorney vows to crack down on California homeless funding fraud after stunning White House action",
+    "link": "https://nypost.com/2026/06/11/us-news/la-homelessness-agency-at-center-of-new-white-house-fraud-task-force/"
   },
   {
-    "score": 40,
-    "pubdate": "2026-06-11-18-31-37 +0000",
-    "source": "nypost",
-    "title": "California woman found stuffed in a suitcase after stage 4 cancer fight &#8212; as cops find damning surveillance video",
-    "link": "https://nypost.com/2026/06/11/us-news/california-woman-found-stuffed-in-suitcase-in-berkeley-apartment/"
+    "score": 41,
+    "pubdate": "2026-06-11-20-51-00 +0000",
+    "source": "wsj",
+    "title": "President Trump said he would nominate Jay Clayton, the former chairman of the SEC, to be the next Director of National Intelligence",
+    "link": "https://www.wsj.com/politics/policy/showdown-between-trump-and-congress-sinks-spying-bill-1dae3df8"
   },
   {
     "score": 37,
-    "pubdate": "2026-06-10-21-48-54 +0000",
-    "source": "nypost",
-    "title": "Trump warns Iran to make a deal or &#8216;we&#8217;ll bomb the s&#8211;t out of them tomorrow&#8217; after latest strikes",
-    "link": "https://nypost.com/2026/06/10/us-news/us-launches-new-strikes-on-multiple-targets-in-iran-centcom-says/"
+    "pubdate": "2026-06-11-16-01-20 +0000",
+    "source": "latimes",
+    "title": "L.A. County D.A. claims four in five cases in $4-billion sex abuse payout may be fraudulent",
+    "link": "https://www.latimes.com/california/story/2026-06-11/la-county-da-claims-four-in-five-cases-in-4-billion-sex-abuse-payout-may-be-fraudulent"
   }
 ]
