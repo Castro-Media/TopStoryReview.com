@@ -1,55 +1,41 @@
 [
   {
-    "score": 220,
+    "score": 222,
     "pubdate": "2026-06-10-20-07-00 +0000",
     "source": "nyt",
     "headline": "Oil Rises on Trump’s Iran Threats and New Strikes Across Middle East",
     "link": "https://www.nytimes.com/2026/06/10/business/oil-stocks-gas-prices-iran.html"
   },
   {
-    "score": 133,
+    "score": 131,
     "pubdate": "2026-06-10-19-31-00 +0000",
     "source": "wsj",
     "headline": "Consumer prices continued to rise quickly in May, as the run-up in energy costs from the war with Iran pushed up overall inflation",
     "link": "https://www.wsj.com/economy/cpi-inflation-report-may-2026-60db25fe"
   },
   {
-    "score": 104,
-    "pubdate": "2026-06-11-09-04-26 +0000",
-    "source": "nyt",
-    "headline": "Why Mexico’s President Will Not Attend the World Cup Opening Match",
-    "link": "https://www.nytimes.com/2026/06/11/world/americas/mexico-president-sheinbaum-world-cup.html"
+    "score": 106,
+    "pubdate": "2026-06-10-19-31-12 +0000",
+    "source": "latimes",
+    "headline": "L.A. is hosting free World Cup watch parties at county and city parks. Here's where to find them",
+    "link": "https://www.latimes.com/california/story/2026-06-10/la-has-free-world-cup-watch-parties-heres-where-to-find-them"
   },
   {
-    "score": 91,
+    "score": 81,
     "pubdate": "2026-06-11-11-19-51 +0000",
     "source": "nypost",
     "headline": "Canada considering social media ban for kids under 16 in global effort to tighten online protections",
     "link": "https://nypost.com/2026/06/11/world-news/canada-considering-social-media-ban-for-kids-under-16-in-global-effort-to-tighten-online-protections/"
   },
   {
-    "score": 72,
+    "score": 68,
     "pubdate": "2026-06-10-21-09-00 +0000",
     "source": "wsj",
     "headline": "Bill Gates told Congress that Jeffrey Epstein discovered that he had had affairs during his marriage and tried to leverage that information",
     "link": "https://www.wsj.com/politics/policy/bill-gates-epstein-hearing-house-oversight-committee-3a1b5352"
   },
   {
-    "score": 64,
-    "pubdate": "2026-06-10-15-13-00 +0000",
-    "source": "wsj",
-    "headline": "Rep. Nancy Mace, a onetime rising star in the Republican Party, was knocked out of the race for South Carolina governor",
-    "link": "https://www.wsj.com/politics/elections/nancy-mace-defeated-in-bid-for-south-carolina-governor-d8a4aa6b"
-  },
-  {
     "score": 57,
-    "pubdate": "2026-06-11-11-00-00 +0000",
-    "source": "nypost",
-    "headline": "This mom of five struggled when her kids were young — but all her hard work helped her achieve the American dream",
-    "link": "https://nypost.com/2026/06/11/us-news/this-mom-of-five-struggled-when-her-kids-were-young-but-all-her-hard-work-helped-her-achieve-the-american-dream/"
-  },
-  {
-    "score": 54,
     "pubdate": "2026-06-11-14-13-32 +0000",
     "source": "bbc",
     "headline": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
@@ -57,16 +43,30 @@
   },
   {
     "score": 51,
-    "pubdate": "2026-06-10-20-58-10 +0000",
-    "source": "nyt",
-    "headline": "Graham Platner’s Victory in Maine Senate Primary Gives Democrats Hope and Fears",
-    "link": "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
+    "pubdate": "2026-06-11-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Becerra heads toward the November election with a major edge over Hilton in governor's race, poll shows",
+    "link": "https://www.latimes.com/california/story/2026-06-11/becerra-heads-toward-november-election-with-major-edge-over-hilton-in-governors-race-poll-shows"
   },
   {
-    "score": 47,
-    "pubdate": "2026-06-10-15-35-00 +0000",
+    "score": 50,
+    "pubdate": "2026-06-11-12-46-03 +0000",
+    "source": "nypost",
+    "headline": "Trump says US ‘will be taking Kharg Island’ oil export hub, vows to hit Iran ‘very hard tonight’",
+    "link": "https://nypost.com/2026/06/11/us-news/trump-says-us-will-be-taking-kharg-island-oil-export-hub-vows-to-hit-iran-very-hard-tonight/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-06-11-02-41-01 +0000",
+    "source": "nyt",
+    "headline": "Indonesian Military Court Sentences Four in Acid Attack on Rights Advocate",
+    "link": "https://www.nytimes.com/2026/06/10/world/asia/indonesia-military-acid-attack-andrie.html"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-06-11-14-40-00 +0000",
     "source": "wsj",
-    "headline": "Anti-Nvidia Data-Center Startup Is Valued at $1.55 Billion in New Funding Round",
-    "link": "https://www.wsj.com/tech/ai/anti-nvidia-data-center-startup-is-valued-at-1-55-billion-in-new-funding-round-e58b2aec?mod=pls_whats_news_us_business_f"
+    "headline": "The House rejected Trump-backed FISA spying bill, putting key surveillance program at risk of first lapse in nearly 20 years",
+    "link": "https://www.wsj.com/politics/policy/showdown-between-trump-and-congress-sinks-spying-bill-1dae3df8"
   }
 ]
