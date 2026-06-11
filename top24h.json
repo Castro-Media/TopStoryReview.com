@@ -1,20 +1,13 @@
 [
   {
-    "score": 216,
+    "score": 219,
     "pubdate": "2026-06-10-20-07-00 +0000",
     "source": "nyt",
     "headline": "Oil Rises on Trump’s Iran Threats and New Strikes Across Middle East",
     "link": "https://www.nytimes.com/2026/06/10/business/oil-stocks-gas-prices-iran.html"
   },
   {
-    "score": 122,
-    "pubdate": "2026-06-10-19-31-00 +0000",
-    "source": "wsj",
-    "headline": "Consumer prices continued to rise quickly in May, as the run-up in energy costs from the war with Iran pushed up overall inflation",
-    "link": "https://www.wsj.com/economy/cpi-inflation-report-may-2026-60db25fe"
-  },
-  {
-    "score": 112,
+    "score": 117,
     "pubdate": "2026-06-11-09-04-26 +0000",
     "source": "nyt",
     "headline": "Why Mexico’s President Will Not Attend the World Cup Opening Match",
@@ -22,51 +15,58 @@
   },
   {
     "score": 80,
-    "pubdate": "2026-06-11-11-19-51 +0000",
-    "source": "nypost",
-    "headline": "Canada considering social media ban for kids under 16 in global effort to tighten online protections",
-    "link": "https://nypost.com/2026/06/11/world-news/canada-considering-social-media-ban-for-kids-under-16-in-global-effort-to-tighten-online-protections/"
-  },
-  {
-    "score": 72,
     "pubdate": "2026-06-11-17-34-06 +0000",
     "source": "nypost",
     "headline": "Minnesota assassin Vance Boelter admits murdering top state Democrat and her husband after feds drop death penalty bid",
     "link": "https://nypost.com/2026/06/11/us-news/minnesota-assassin-vance-boelter-pleads-guilty-to-murdering-top-state-democrat-and-her-husband/"
   },
   {
-    "score": 70,
-    "pubdate": "2026-06-10-21-09-00 +0000",
-    "source": "wsj",
-    "headline": "Bill Gates told Congress that Jeffrey Epstein discovered that he had had affairs during his marriage and tried to leverage that information",
-    "link": "https://www.wsj.com/politics/policy/bill-gates-epstein-hearing-house-oversight-committee-3a1b5352"
+    "score": 77,
+    "pubdate": "2026-06-10-21-48-11 +0000",
+    "source": "nyt",
+    "headline": "Trump Shrugs Off High Prices Amid Iran War and Says ‘I Love the Inflation’",
+    "link": "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html"
   },
   {
-    "score": 64,
-    "pubdate": "2026-06-11-14-13-32 +0000",
-    "source": "bbc",
-    "headline": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
-    "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss"
+    "score": 77,
+    "pubdate": "2026-06-11-11-19-51 +0000",
+    "source": "nypost",
+    "headline": "Canada considering social media ban for kids under 16 in global effort to tighten online protections",
+    "link": "https://nypost.com/2026/06/11/world-news/canada-considering-social-media-ban-for-kids-under-16-in-global-effort-to-tighten-online-protections/"
   },
   {
-    "score": 50,
+    "score": 69,
+    "pubdate": "2026-06-11-19-16-59 +0000",
+    "source": "nypost",
+    "headline": "NYPD cop turned ‘vigilante’ charged after he was caught on video shooting man he thought may have stolen wife’s car",
+    "link": "https://nypost.com/2026/06/11/us-news/nypd-cop-charged-months-after-he-was-caught-on-video-shooting-man-he-thought-may-have-stolen-wifes-car/"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-06-11-15-29-06 +0000",
+    "source": "nypost",
+    "headline": "Pope Leo visits ‘dock of shame’ in Canary Islands speaking up for migrant rights: ‘Human dignity has no passport’",
+    "link": "https://nypost.com/2026/06/11/world-news/pope-leo-visits-dock-of-shame-in-canary-islands-speaks-up-for-migrants-human-dignity-has-no-passport/"
+  },
+  {
+    "score": 58,
+    "pubdate": "2026-06-11-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "SpaceX is poised to make history with record $75-billion stock IPO",
+    "link": "https://www.latimes.com/business/story/2026-06-11/spacex-is-poised-to-make-history-with-record-75-billion-stock-ipo"
+  },
+  {
+    "score": 52,
     "pubdate": "2026-06-11-10-00-00 +0000",
     "source": "latimes",
     "headline": "Becerra heads toward the November election with a major edge over Hilton in governor's race, poll shows",
     "link": "https://www.latimes.com/california/story/2026-06-11/becerra-heads-toward-november-election-with-major-edge-over-hilton-in-governors-race-poll-shows"
   },
   {
-    "score": 48,
-    "pubdate": "2026-06-11-02-41-01 +0000",
-    "source": "nyt",
-    "headline": "Indonesian Military Court Sentences Four in Acid Attack on Rights Advocate",
-    "link": "https://www.nytimes.com/2026/06/10/world/asia/indonesia-military-acid-attack-andrie.html"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-06-11-11-58-14 +0000",
-    "source": "bbc",
-    "headline": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
-    "link": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss"
+    "score": 52,
+    "pubdate": "2026-06-10-21-09-00 +0000",
+    "source": "wsj",
+    "headline": "Bill Gates told Congress that Jeffrey Epstein discovered that he had had affairs during his marriage and tried to leverage that information",
+    "link": "https://www.wsj.com/politics/policy/bill-gates-epstein-hearing-house-oversight-committee-3a1b5352"
   }
 ]
