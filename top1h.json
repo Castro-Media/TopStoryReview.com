@@ -1,72 +1,72 @@
 [
   {
-    "score": 37,
-    "pubdate": "2026-06-11-21-29-19 +0000",
-    "source": "nyt",
-    "headline": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
-    "link": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html"
-  },
-  {
-    "score": 37,
-    "pubdate": "2026-06-11-20-51-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he would nominate Jay Clayton, the former chairman of the SEC, to be the next Director of National Intelligence",
-    "link": "https://www.wsj.com/politics/policy/showdown-between-trump-and-congress-sinks-spying-bill-1dae3df8"
-  },
-  {
-    "score": 28,
+    "score": 23,
     "pubdate": "2026-06-11-21-28-03 +0000",
     "source": "nyt",
     "headline": "SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact",
     "link": "https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html"
   },
   {
-    "score": 28,
-    "pubdate": "2026-06-11-21-16-09 +0000",
-    "source": "nypost",
-    "headline": "Heartbreaking ending as body of missing 5-year-old girl found after she was swept away in Laguna Beach",
-    "link": "https://nypost.com/2026/06/11/us-news/heartbreaking-ending-as-body-of-missing-5-year-old-girl-found-after-she-was-swept-away-in-laguna-beach/"
-  },
-  {
-    "score": 27,
+    "score": 22,
     "pubdate": "2026-06-11-21-29-00 +0000",
     "source": "wsj",
     "headline": "Trump Cancels Iran Strikes, Says Peace Deal Could Be Signed in ‘Coming Days’",
     "link": "https://www.wsj.com/world/middle-east/trump-iran-strikes-peace-talks-38996e77"
   },
   {
-    "score": 24,
-    "pubdate": "2026-06-11-20-39-20 +0000",
+    "score": 18,
+    "pubdate": "2026-06-11-21-29-13 +0000",
     "source": "nyt",
-    "headline": "Postal Service Issues Proposal to Block Mail Ballots in States That Don’t Turn Over Data",
-    "link": "https://www.nytimes.com/2026/06/11/us/politics/usps-mail-voting-democratic-resistance.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-06-11-21-01-00 +0000",
-    "source": "wsj",
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/tech/tech-media-telecom-roundup-market-talk-2b642eb2?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-06-11-21-10-14 +0000",
-    "source": "bbc",
-    "headline": "Elon Musk's SpaceX valued at nearly $1.8tn ahead of record share sale",
-    "link": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
+    "headline": "Trump Picks Jay Clayton for Director of National Intelligence After Backlash Over Bill Pulte",
+    "link": "https://www.nytimes.com/2026/06/11/us/politics/trump-jay-clayton-intelligence-chief.html"
   },
   {
     "score": 18,
+    "pubdate": "2026-06-11-21-29-19 +0000",
+    "source": "nyt",
+    "headline": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
+    "link": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html"
+  },
+  {
+    "score": 16,
     "pubdate": "2026-06-11-21-29-47 +0000",
     "source": "nyt",
     "headline": "U.S. Blocks Deal by Florida-based Vanguard Energy to Supply Fuel to Cuba",
     "link": "https://www.nytimes.com/2026/06/11/world/americas/us-cuba-trump-energy-fuel.html"
   },
   {
-    "score": 18,
-    "pubdate": "2026-06-11-20-49-48 +0000",
+    "score": 11,
+    "pubdate": "2026-06-11-21-30-50 +0000",
+    "source": "nypost",
+    "headline": "Parents of rape victim at UC Santa Barbara beg classmates who know attacker to come forward",
+    "link": "https://nypost.com/2026/06/11/us-news/parents-of-rape-victim-at-uc-santa-barbara-begs-classmates-who-know-attacker-to-come-forward/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-11-21-30-19 +0000",
+    "source": "nypost",
+    "headline": "Massive 23,000-acre wildfire erupts across Nebraska as residents are urged to evacuate",
+    "link": "https://nypost.com/2026/06/11/us-news/massive-23000-acre-wildfire-erupts-across-nebraska-as-residents-are-urged-to-evacuate/"
+  },
+  {
+    "score": 1,
+    "pubdate": "2026-06-11-21-27-31 +0000",
     "source": "nyt",
-    "headline": "In the U.K., a Violent Cycle: Hateful Attacks, Right-Wing Agitation and Riots",
-    "link": "https://www.nytimes.com/2026/06/11/world/europe/northern-ireland-stabbing-immigration.html"
+    "headline": "The SpaceX I.P.O. Rocket",
+    "link": "https://www.nytimes.com/2026/06/11/world/spacex-ipo.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-11-21-29-47 +0000",
+    "source": "nyt",
+    "headline": "U.S. Blocks Deal by Florida-based Vanguard Energy to Supply Fuel to Cuba",
+    "link": "https://www.nytimes.com/2026/06/11/world/americas/us-cuba-trump-energy-fuel.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-11-21-29-19 +0000",
+    "source": "nyt",
+    "headline": "Thousands Protest Outside World Cup Opening Ceremony in Mexico City",
+    "link": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-mexico-city-protests.html"
   }
 ]
