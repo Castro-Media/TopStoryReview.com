@@ -1,38 +1,10 @@
 [
   {
-    "score": 33,
-    "pubdate": "2026-06-12-17-30-57 +0000",
-    "source": "nyt",
-    "headline": "Oil Falls, Stocks Rise as Trump Signals Iran Peace Deal Takes Shape",
-    "link": "https://www.nytimes.com/2026/06/11/business/oil-gas-price-iran.html"
-  },
-  {
-    "score": 29,
+    "score": 22,
     "pubdate": "2026-06-12-17-40-04 +0000",
     "source": "nyt",
     "headline": "Musk posted about politics, race and the culture wars, even as he took SpaceX public.",
     "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/musk-posted-about-politics-race-and-the-culture-wars-even-as-he-took-spacex-public"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-06-12-17-17-37 +0000",
-    "source": "nypost",
-    "headline": "California accused of blocking federal voter roll audit as DOJ escalates probe of election fraud claims",
-    "link": "https://nypost.com/2026/06/12/us-news/california-accused-of-blocking-federal-voter-roll-audit-as-doj-escalates-probe-of-election-fraud-claims/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-06-12-17-22-51 +0000",
-    "source": "nypost",
-    "headline": "Meet the ‘New York hustler’ who will host the NYC World Cup matches: ‘Cranking up the heat’",
-    "link": "https://nypost.com/2026/06/12/us-news/actor-and-influencer-troy-press-to-host-nyc-world-cup-games/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-06-12-17-12-53 +0000",
-    "source": "nyt",
-    "headline": "SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact",
-    "link": "https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html"
   },
   {
     "score": 18,
@@ -42,31 +14,59 @@
     "link": "https://www.nytimes.com/2026/06/12/us/politics/trump-ufc-cage-lawsuit.html"
   },
   {
-    "score": 16,
-    "pubdate": "2026-06-12-17-13-30 +0000",
-    "source": "bbc",
-    "headline": "Iran says deal to end fighting with US has 'never been closer'",
-    "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-06-12-17-12-49 +0000",
-    "source": "nypost",
-    "headline": "Teen beaten into coma by brute bellowing ‘Spurs in 7’ during livestreamed Knicks Game 4 NYC brawl",
-    "link": "https://nypost.com/2026/06/12/us-news/teen-beaten-into-coma-by-brute-bellowing-spurs-in-7-during-livestreamed-game-4-brawl-cops-sources/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-06-12-16-59-24 +0000",
+    "score": 14,
+    "pubdate": "2026-06-12-17-30-57 +0000",
     "source": "nyt",
-    "headline": "Blocking Trump’s Fund, Judge Presses for Guarantee It Won’t Move Forward",
-    "link": "https://www.nytimes.com/2026/06/12/us/politics/trump-fund-judge-ruling.html"
+    "headline": "Oil Falls, Stocks Rise as Trump Signals Iran Peace Deal Takes Shape",
+    "link": "https://www.nytimes.com/2026/06/11/business/oil-gas-price-iran.html"
   },
   {
-    "score": 11,
-    "pubdate": "2026-06-12-17-11-48 +0000",
+    "score": 13,
+    "pubdate": "2026-06-12-17-37-51 +0000",
     "source": "nypost",
-    "headline": "Washington state lawmakers urge governor to remove human-rights panelist over Jew-hatred remarks",
-    "link": "https://nypost.com/2026/06/12/us-news/washington-state-lawmakers-urge-governor-to-remove-human-rights-panelist-over-jew-hatred-remarks/"
+    "headline": "Meet the NYC couples getting married during the biggest Knicks game in 53 years — and what they’re doing about it",
+    "link": "https://nypost.com/2026/06/12/lifestyle/nyc-weddings-in-chaos-due-to-knicks-nba-finals-game-5-the-biggest-night-in-53-years/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-06-12-17-34-44 +0000",
+    "source": "nypost",
+    "headline": "Nearly 50% of tickets for Knicks Game 5 in San Antonio purchased by NY, NJ fans",
+    "link": "https://nypost.com/2026/06/12/sports/new-york-new-jerseys-knicks-fans-bought-50-of-tickets-for-game-5-in-san-antonio/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-06-12-17-32-45 +0000",
+    "source": "nyt",
+    "headline": "About 20 New Billionaires Could Be Minted by 3 Mega-I.P.O.s",
+    "link": "https://www.nytimes.com/2026/06/12/business/economy/about-20-new-billionaires-could-be-minted-by-three-mega-ipos.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-12-17-33-50 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Conflicting Accounts Emerge of Possible Peace Deal",
+    "link": "https://www.nytimes.com/live/2026/06/12/world/iran-war-trump-us-israel"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-06-12-17-29-00 +0000",
+    "source": "wsj",
+    "headline": "Further Oil Price Declines Seen Limited After Retreat",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-signs-of-potential-u-s-iran-peace-deal-c914e940?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-12-17-40-04 +0000",
+    "source": "nyt",
+    "headline": "Musk posted about politics, race and the culture wars, even as he took SpaceX public.",
+    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/musk-posted-about-politics-race-and-the-culture-wars-even-as-he-took-spacex-public"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-12-17-32-45 +0000",
+    "source": "nyt",
+    "headline": "About 20 New Billionaires Could Be Minted by 3 Mega-I.P.O.s",
+    "link": "https://www.nytimes.com/2026/06/12/business/economy/about-20-new-billionaires-could-be-minted-by-three-mega-ipos.html"
   }
 ]
