@@ -1,55 +1,6 @@
 [
   {
-    "score": 35,
-    "pubdate": "2026-06-12-19-57-13 +0000",
-    "source": "nypost",
-    "headline": "Powerful California group gets behind Xavier Becerra — first Democratic governor candidate it’s ever endorsed",
-    "link": "https://nypost.com/2026/06/12/us-news/california-chamber-of-commerce-endorses-xavier-becerra/"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-06-12-20-14-32 +0000",
-    "source": "nyt",
-    "headline": "Oil Falls, Stocks Rise as Trump Signals Iran Peace Deal Takes Shape",
-    "link": "https://www.nytimes.com/2026/06/11/business/oil-gas-price-iran.html"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-06-12-20-23-51 +0000",
-    "source": "nypost",
-    "headline": "Thousands of eager fans line up as early as 1 a.m. to net limited-edition NYC World Cup jerseys",
-    "link": "https://nypost.com/2026/06/12/us-news/world-cup-fans-line-up-for-limited-edition-nyc-jerseys/"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-06-12-20-24-46 +0000",
-    "source": "nyt",
-    "headline": "Blake Lively Awarded Legal Fees in Ruling After Justin Baldoni Settlement",
-    "link": "https://www.nytimes.com/2026/06/12/movies/blake-lively-legal-fees-ruling-justin-baldoni-settlement.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-06-12-20-17-07 +0000",
-    "source": "nypost",
-    "headline": "Jimmy Kimmel accuses Elon Musk of ‘stealing’ as SpaceX founder becomes a trillionaire",
-    "link": "https://nypost.com/2026/06/12/us-news/jimmy-kimmel-accuses-elon-musk-of-stealing-as-spacex-founder-becomes-a-trillionaire/"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-06-12-20-20-18 +0000",
-    "source": "nypost",
-    "headline": "New Yorkers held their breath and bladders for nailbiting Knicks Game 4 win, flush data shows",
-    "link": "https://nypost.com/2026/06/12/us-news/toilet-flushes-surged-in-minutes-after-knicks-game-4-win/"
-  },
-  {
     "score": 15,
-    "pubdate": "2026-06-12-19-57-16 +0000",
-    "source": "bbc",
-    "headline": "UK vows to phase out Russian diesel and jet fuel imports by new year",
-    "link": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 13,
     "pubdate": "2026-06-12-20-26-27 +0000",
     "source": "nypost",
     "headline": "California McDonald’s boss breaks silence after coworker scalded him with boiling hot oil: ‘One of the hardest things of my life’",
@@ -57,16 +8,65 @@
   },
   {
     "score": 13,
-    "pubdate": "2026-06-12-20-12-09 +0000",
-    "source": "latimes",
-    "headline": "Video evidence refutes sexual misconduct claim at SoCal golf club, says Phil Mickelson's lawyer",
-    "link": "https://www.latimes.com/sports/story/2026-06-12/phil-mickelson-lawyer-video-evidence-refutes-sexual-misconduct-allegation"
-  },
-  {
-    "score": 12,
     "pubdate": "2026-06-12-20-31-58 +0000",
     "source": "nypost",
     "headline": "Massive underground detector aimed at understanding mysterious ghost particles in universe releases first major findings",
     "link": "https://nypost.com/2026/06/12/science/underground-detector-to-understand-ghost-particles-in-universe-releases-first-major-findings/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-12-20-25-47 +0000",
+    "source": "nyt",
+    "headline": "Federal Agents Search Voting Rights Group in Ohio",
+    "link": "https://www.nytimes.com/2026/06/12/us/politics/federal-search-voting-rights-group-ohio.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-12-20-23-51 +0000",
+    "source": "nypost",
+    "headline": "Thousands of eager fans line up as early as 1 a.m. to net limited-edition NYC World Cup jerseys",
+    "link": "https://nypost.com/2026/06/12/us-news/world-cup-fans-line-up-for-limited-edition-nyc-jerseys/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-06-12-20-30-14 +0000",
+    "source": "cbc",
+    "headline": "Ottawa moves to tighten ban on imports made with forced labour after U.S. tariff threat",
+    "link": "https://www.cbc.ca/news/politics/forced-labour-bill-canada-9.7233750?cmp=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-06-12-20-25-14 +0000",
+    "source": "nypost",
+    "headline": "Why tech billionaires no longer want flight attendants on their private jets",
+    "link": "https://nypost.com/2026/06/12/business/tech-billionaires-dont-want-flight-attendants-on-private-jets/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-06-12-20-25-03 +0000",
+    "source": "nyt",
+    "headline": "The steady hand at SpaceX is not Elon Musk’s.",
+    "link": "https://www.nytimes.com/live/2026/06/12/business/spacex-ipo-elon-musk/the-steady-hand-at-spacex-is-not-elon-musks"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-12-20-23-45 +0000",
+    "source": "nypost",
+    "headline": "Terrifying rescue video shows young girl dangling from window ledge",
+    "link": "https://nypost.com/2026/06/12/world-news/young-child-seen-dangling-from-window-in-viral-rescue-video/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-12-20-24-46 +0000",
+    "source": "nyt",
+    "headline": "Blake Lively Awarded Legal Fees in Ruling After Justin Baldoni Settlement",
+    "link": "https://www.nytimes.com/2026/06/12/movies/blake-lively-legal-fees-ruling-justin-baldoni-settlement.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-12-20-29-22 +0000",
+    "source": "nyt",
+    "headline": "To Defeat Democrats, Texas Governor Embraces the Hard Right",
+    "link": "https://www.nytimes.com/2026/06/12/us/greg-abbott-texas-governor-hard-right.html"
   }
 ]
