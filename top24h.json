@@ -1,20 +1,20 @@
 [
   {
-    "score": 143,
+    "score": 132,
     "pubdate": "2026-06-13-20-40-35 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline",
     "link": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel"
   },
   {
-    "score": 94,
-    "pubdate": "2026-06-12-22-00-52 +0000",
-    "source": "bbc",
-    "headline": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-    "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
+    "score": 71,
+    "pubdate": "2026-06-13-21-12-43 +0000",
+    "source": "nypost",
+    "headline": "Dramatic scenes near SoFi Stadium as police ramp up security for World Cup",
+    "link": "https://nypost.com/2026/06/13/sports/snipers-seen-near-sofi-stadium-as-police-ramp-up-security-for-world-cup/"
   },
   {
-    "score": 62,
+    "score": 57,
     "pubdate": "2026-06-13-03-38-00 +0000",
     "source": "nypost",
     "headline": "Tren de Aragua leader killed in dramatic US airstrike — marking new level of cooperation with Venezuela",
@@ -28,13 +28,6 @@
     "link": "https://www.wsj.com/politics/policy/kennedy-center-misses-deadline-wants-more-time-to-remove-trumps-name-3200a43c"
   },
   {
-    "score": 46,
-    "pubdate": "2026-06-13-21-12-43 +0000",
-    "source": "nypost",
-    "headline": "Dramatic scenes near SoFi Stadium as police ramp up security for World Cup",
-    "link": "https://nypost.com/2026/06/13/sports/snipers-seen-near-sofi-stadium-as-police-ramp-up-security-for-world-cup/"
-  },
-  {
     "score": 40,
     "pubdate": "2026-06-13-20-39-10 +0000",
     "source": "nypost",
@@ -42,7 +35,7 @@
     "link": "https://nypost.com/2026/06/13/us-news/nyc-councilwoman-failed-to-disclose-free-rent-on-luxe-queens-pad-records-show-raises-conflict-of-interest-concerns/"
   },
   {
-    "score": 40,
+    "score": 39,
     "pubdate": "2026-06-13-00-20-34 +0000",
     "source": "nyt",
     "headline": "Two Dan Sullivans? Alaska Republicans Suggest Kicking One Off the Ballot in Senate Race",
@@ -57,16 +50,23 @@
   },
   {
     "score": 34,
-    "pubdate": "2026-06-13-03-28-25 +0000",
-    "source": "bbc",
-    "headline": "Warner Bros $111bn sale to Paramount approved by US justice department",
-    "link": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 34,
     "pubdate": "2026-06-13-01-57-46 +0000",
     "source": "latimes",
     "headline": "Judge orders Trump administration to restore national park signage on climate change, slavery",
     "link": "https://www.latimes.com/california/story/2026-06-12/trump-administration-ordered-to-restore-national-park-signage-on-climate-change-slavery"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-06-13-01-58-31 +0000",
+    "source": "nypost",
+    "headline": "Humiliated Putin forced to cancel Russia Day in Red Square after Ukrainian drone strikes slam key Moscow targets",
+    "link": "https://nypost.com/2026/06/12/world-news/humiliated-putin-forced-to-cancel-russia-day-in-red-square-after-ukrainian-drone-strikes-slam-key-operational-targets/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-06-13-03-28-25 +0000",
+    "source": "bbc",
+    "headline": "Warner Bros $111bn sale to Paramount approved by US justice department",
+    "link": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss"
   }
 ]
