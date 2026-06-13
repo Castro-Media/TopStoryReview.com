@@ -42,13 +42,6 @@
     "link": "https://www.nytimes.com/2026/06/10/business/economy/americans-travel-expensive.html"
   },
   {
-    "score": 99,
-    "pubdate": "2026-06-10-19-31-12 +0000",
-    "source": "latimes",
-    "headline": "L.A. is hosting free World Cup watch parties at county and city parks. Here's where to find them",
-    "link": "https://www.latimes.com/california/story/2026-06-10/la-has-free-world-cup-watch-parties-heres-where-to-find-them"
-  },
-  {
     "score": 98,
     "pubdate": "2026-06-12-15-09-44 +0000",
     "source": "nyt",
@@ -61,6 +54,13 @@
     "source": "nyt",
     "headline": "Trump Shrugs Off High Prices Amid Iran War and Says ‘I Love the Inflation’",
     "link": "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html"
+  },
+  {
+    "score": 98,
+    "pubdate": "2026-06-10-19-31-12 +0000",
+    "source": "latimes",
+    "headline": "L.A. is hosting free World Cup watch parties at county and city parks. Here's where to find them",
+    "link": "https://www.latimes.com/california/story/2026-06-10/la-has-free-world-cup-watch-parties-heres-where-to-find-them"
   },
   {
     "score": 90,
