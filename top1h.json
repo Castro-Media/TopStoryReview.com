@@ -1,72 +1,65 @@
 [
   {
-    "score": 32,
-    "pubdate": "2026-06-14-07-55-16 +0000",
+    "score": 26,
+    "pubdate": "2026-06-14-09-56-32 +0000",
     "source": "bbc",
-    "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-    "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-06-14-07-21-26 +0000",
-    "source": "bbc",
-    "headline": "New York Knicks win NBA championship for first time in over 50 years",
-    "link": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-06-14-08-07-55 +0000",
-    "source": "bbc",
-    "headline": "Armed men kidnap high-ranking security official in Haiti",
-    "link": "https://www.bbc.com/news/articles/cz9le087414o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-06-14-07-43-57 +0000",
-    "source": "nyt",
-    "headline": "President Trump Endorses Mike Collins in Georgia Senate Runoff",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-mike-collins-georgia-senate-runoff.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-06-14-07-24-35 +0000",
-    "source": "nypost",
-    "headline": "Knicks fans set school bus on fire in Times Square madness: ‘I’m scared for my homies!’",
-    "link": "https://nypost.com/2026/06/14/us-news/knicks-fans-ignite-school-bus-on-fire/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-06-14-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Ottawa's online harms bill 'a miss' when it comes to regulating AI chatbots: B.C. premier",
-    "link": "https://www.cbc.ca/news/politics/david-eby-ai-chatbots-online-harms-social-media-susan-holy-mandatory-reporting-9.7234588?cmp=rss"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-06-14-07-54-05 +0000",
-    "source": "nypost",
-    "headline": "Two suspects arrested after crashing through Camp Pendleton gate with 112 pounds of cocaine and fentanyl",
-    "link": "https://nypost.com/2026/06/14/us-news/suspects-crash-through-camp-pendleton-gate-with-112-pounds-of-cocaine-and-fentanyl/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-06-14-08-09-00 +0000",
-    "source": "bbc",
-    "headline": "UK intercepts Russian shadow fleet oil tanker in English Channel, PM says",
+    "headline": "UK armed forces board Russian shadow fleet oil tanker in English Channel, PM says",
     "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 10,
-    "pubdate": "2026-06-14-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "The International Space Station is old and leaky. Should it be decommissioned sooner rather than later?",
-    "link": "https://www.cbc.ca/news/science/iss-leaks-9.7231829?cmp=rss"
+    "score": 17,
+    "pubdate": "2026-06-14-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "With endorsements in key New York City congressional races, Mayor Zohran Mamdani is throwing his weight around to boost Democratic socialist allies",
+    "link": "https://www.wsj.com/politics/elections/zohran-mamdani-nyc-primary-elections-ff14430e"
   },
   {
-    "score": 10,
-    "pubdate": "2026-06-14-07-58-21 +0000",
+    "score": 13,
+    "pubdate": "2026-06-14-09-56-02 +0000",
+    "source": "nypost",
+    "headline": "Influx of out-of-state agitators with links to dark money group among Delaney Hall arrests: ‘Organized  anarchy’",
+    "link": "https://nypost.com/2026/06/14/us-news/nj-delaney-hall-arrests-include-influx-of-out-of-state-agitators-with-links-to-dark-money-group/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-06-14-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "A Guide to the Biggest Winners From the SpaceX IPO",
+    "link": "https://www.wsj.com/finance/investing/spacex-ipo-winners-spcx-stock-3c5b373f?mod=rss_markets_main"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-06-14-09-20-56 +0000",
     "source": "nyt",
-    "headline": "In Venezuela, a 91-Year-Old Weaver Sticks to Traditions",
-    "link": "https://www.nytimes.com/2026/06/14/arts/design/weaving-traditional-venezuela-margarita-mora.html"
+    "headline": "Iran War Live Updates: U.S. and Tehran Send Mixed Signals on Emerging Peace Agreement",
+    "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-06-14-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "The Faulty Logic Behind the SpaceX Index Trade",
+    "link": "https://www.wsj.com/finance/stocks/the-faulty-logic-behind-the-spacex-index-trade-6d016991?mod=rss_markets_main"
+  },
+  {
+    "score": 2,
+    "pubdate": "2026-06-14-09-57-39 +0000",
+    "source": "nyt",
+    "headline": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
+    "link": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-14-09-57-39 +0000",
+    "source": "nyt",
+    "headline": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
+    "link": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-14-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "A Guide to the Biggest Winners From the SpaceX IPO",
+    "link": "https://www.wsj.com/finance/investing/spacex-ipo-winners-spcx-stock-3c5b373f?mod=pls_whats_news_us_business_f"
   }
 ]
