@@ -1,13 +1,13 @@
 [
   {
-    "score": 130,
+    "score": 121,
     "pubdate": "2026-06-14-12-18-06 +0000",
     "source": "cbc",
     "headline": "Trump warns Israel and Iran not to ‘blow it’ after new strikes threaten emerging ceasefire deal",
     "link": "https://www.cbc.ca/news/world/israeli-military-strikes-beirut-suburb-anticipated-us-iran-deal-9.7234856?cmp=rss"
   },
   {
-    "score": 63,
+    "score": 60,
     "pubdate": "2026-06-14-00-00-54 +0000",
     "source": "nypost",
     "headline": "Mexican trade group leader fired after racist gesture during World Cup match",
@@ -19,13 +19,6 @@
     "source": "nypost",
     "headline": "Jalen Brunson takes subtle swipe at New York’s cost of living after Knicks’ NBA Finals win: ‘Miss the Texas taxes’",
     "link": "https://nypost.com/2026/06/14/us-news/jalen-brunson-takes-subtle-swipe-at-new-yorks-cost-of-living-after-knicks-nba-finals-win/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2026-06-13-16-50-47 +0000",
-    "source": "nyt",
-    "headline": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
-    "link": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html"
   },
   {
     "score": 43,
@@ -42,18 +35,18 @@
     "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 38,
+    "score": 35,
     "pubdate": "2026-06-14-13-42-53 +0000",
     "source": "nyt",
     "headline": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
     "link": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
   },
   {
-    "score": 34,
-    "pubdate": "2026-06-13-17-07-58 +0000",
-    "source": "nypost",
-    "headline": "Trump says Iran peace deal will be signed Sunday, reveals Tehran ‘no longer’ wants a nuke",
-    "link": "https://nypost.com/2026/06/13/us-news/trump-says-iran-no-longer-wants-a-nuke-in-deal-that-could-be-signed-sunday/"
+    "score": 33,
+    "pubdate": "2026-06-14-15-34-32 +0000",
+    "source": "bbc",
+    "headline": "Lebanon says three killed in Israeli strike on Beirut suburb",
+    "link": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 29,
@@ -68,5 +61,12 @@
     "source": "latimes",
     "headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
     "link": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-06-14-08-07-55 +0000",
+    "source": "bbc",
+    "headline": "Armed men kidnap high-ranking security official in Haiti",
+    "link": "https://www.bbc.com/news/articles/cz9le087414o?at_medium=RSS&at_campaign=rss"
   }
 ]
