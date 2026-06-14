@@ -1,17 +1,17 @@
 [
   {
-    "score": 118,
-    "pubdate": "2026-06-14-04-06-53 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline",
-    "link": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel"
+    "score": 108,
+    "pubdate": "2026-06-13-12-54-19 +0000",
+    "source": "cbc",
+    "headline": "Trump says peace deal with Iran will be signed Sunday, but Tehran yet to confirm timing",
+    "link": "https://www.cbc.ca/news/world/pakistan-us-iran-deal-close-9.7234496?cmp=rss"
   },
   {
-    "score": 58,
-    "pubdate": "2026-06-13-18-50-01 +0000",
-    "source": "nypost",
-    "headline": "Restaurant owners in World Cup cities take matters into their own hands’ over fears customers won’t tip",
-    "link": "https://nypost.com/2026/06/13/business/restaurant-owners-in-world-cup-cities-take-matters-into-their-own-hands-over-fears-customers-wont-tip/"
+    "score": 54,
+    "pubdate": "2026-06-13-17-25-57 +0000",
+    "source": "cbc",
+    "headline": "Ghana slams Canada’s decision to deny World Cup visa for Partey, who faces rape charges",
+    "link": "https://www.cbc.ca/news/world/ghana-slams-canada-denial-visa-world-cup-thomas-party-9.7234597?cmp=rss"
   },
   {
     "score": 46,
@@ -28,6 +28,13 @@
     "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 37,
+    "pubdate": "2026-06-14-04-59-01 +0000",
+    "source": "bbc",
+    "headline": "New York Knicks win NBA championship for first time in over 50 years",
+    "link": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 34,
     "pubdate": "2026-06-13-22-14-08 +0000",
     "source": "nypost",
@@ -36,31 +43,24 @@
   },
   {
     "score": 33,
-    "pubdate": "2026-06-13-11-15-18 +0000",
-    "source": "bbc",
-    "headline": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-    "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-06-14-03-32-59 +0000",
-    "source": "nypost",
-    "headline": "Knicks fans go insane after first NBA Finals win in 53 years — with jam-packed street party",
-    "link": "https://nypost.com/2026/06/13/us-news/knicks-fans-commence-celebration-of-nba-finals-win-with-jam-packed-street-takeover/"
-  },
-  {
-    "score": 32,
     "pubdate": "2026-06-13-18-54-46 +0000",
     "source": "nyt",
     "headline": "James Talarico Plays Up Spurs’ Past Glory in Campaign Ad Aimed at Texas Voters",
     "link": "https://www.nytimes.com/2026/06/13/us/politics/talarico-spurs-campaign-ad.html"
   },
   {
-    "score": 31,
+    "score": 32,
     "pubdate": "2026-06-13-16-50-47 +0000",
     "source": "nyt",
     "headline": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
     "link": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-06-13-17-28-25 +0000",
+    "source": "latimes",
+    "headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
+    "link": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit"
   },
   {
     "score": 27,
