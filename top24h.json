@@ -1,20 +1,20 @@
 [
   {
-    "score": 123,
-    "pubdate": "2026-06-13-20-40-35 +0000",
+    "score": 120,
+    "pubdate": "2026-06-14-01-22-54 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline",
     "link": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel"
   },
   {
-    "score": 72,
+    "score": 66,
     "pubdate": "2026-06-13-21-12-43 +0000",
     "source": "nypost",
     "headline": "Cloaked snipers with long guns perched around SoFi Stadium as World Cup security ramps up",
     "link": "https://nypost.com/2026/06/13/sports/snipers-seen-near-sofi-stadium-as-police-ramp-up-security-for-world-cup/"
   },
   {
-    "score": 59,
+    "score": 58,
     "pubdate": "2026-06-13-03-38-00 +0000",
     "source": "nypost",
     "headline": "Tren de Aragua leader killed in dramatic US airstrike — marking new level of cooperation with Venezuela",
@@ -28,21 +28,14 @@
     "link": "https://www.wsj.com/politics/policy/kennedy-center-misses-deadline-wants-more-time-to-remove-trumps-name-3200a43c"
   },
   {
-    "score": 44,
+    "score": 40,
     "pubdate": "2026-06-13-22-05-24 +0000",
     "source": "bbc",
     "headline": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
     "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 42,
-    "pubdate": "2026-06-13-20-39-10 +0000",
-    "source": "nypost",
-    "headline": "NYC Councilwoman failed to disclose free rent on luxe Queens pad, records show: ‘Raises conflict of interest concerns’",
-    "link": "https://nypost.com/2026/06/13/us-news/nyc-councilwoman-failed-to-disclose-free-rent-on-luxe-queens-pad-records-show-raises-conflict-of-interest-concerns/"
-  },
-  {
-    "score": 33,
+    "score": 34,
     "pubdate": "2026-06-13-22-14-08 +0000",
     "source": "nypost",
     "headline": "Longshot California gov candidate with presidential name launches bid for White House",
@@ -50,17 +43,10 @@
   },
   {
     "score": 33,
-    "pubdate": "2026-06-13-11-15-18 +0000",
-    "source": "bbc",
-    "headline": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-    "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-06-13-00-20-34 +0000",
-    "source": "nyt",
-    "headline": "Two Dan Sullivans? Alaska Republicans Suggest Kicking One Off the Ballot in Senate Race",
-    "link": "https://www.nytimes.com/2026/06/12/us/politics/dan-sullivan-alaska-senate-election.html"
+    "pubdate": "2026-06-13-01-58-31 +0000",
+    "source": "nypost",
+    "headline": "Humiliated Putin forced to cancel Russia Day in Red Square after Ukrainian drone strikes slam key Moscow targets",
+    "link": "https://nypost.com/2026/06/12/world-news/humiliated-putin-forced-to-cancel-russia-day-in-red-square-after-ukrainian-drone-strikes-slam-key-operational-targets/"
   },
   {
     "score": 32,
@@ -68,5 +54,19 @@
     "source": "latimes",
     "headline": "Judge orders Trump administration to restore national park signage on climate change, slavery",
     "link": "https://www.latimes.com/california/story/2026-06-12/trump-administration-ordered-to-restore-national-park-signage-on-climate-change-slavery"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-06-13-17-16-45 +0000",
+    "source": "nyt",
+    "headline": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+    "link": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-06-13-11-15-18 +0000",
+    "source": "bbc",
+    "headline": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+    "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
   }
 ]
