@@ -1,24 +1,17 @@
 [
   {
-    "score": 120,
-    "pubdate": "2026-06-14-01-22-54 +0000",
+    "score": 118,
+    "pubdate": "2026-06-14-04-06-53 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline",
     "link": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel"
   },
   {
-    "score": 66,
-    "pubdate": "2026-06-13-21-12-43 +0000",
-    "source": "nypost",
-    "headline": "Cloaked snipers with long guns perched around SoFi Stadium as World Cup security ramps up",
-    "link": "https://nypost.com/2026/06/13/sports/snipers-seen-near-sofi-stadium-as-police-ramp-up-security-for-world-cup/"
-  },
-  {
     "score": 58,
-    "pubdate": "2026-06-13-03-38-00 +0000",
+    "pubdate": "2026-06-13-18-50-01 +0000",
     "source": "nypost",
-    "headline": "Tren de Aragua leader killed in dramatic US airstrike — marking new level of cooperation with Venezuela",
-    "link": "https://nypost.com/2026/06/12/us-news/tren-de-aragua-leader-nino-guerrero-killed-in-us-airstrike-trump-says/"
+    "headline": "Restaurant owners in World Cup cities take matters into their own hands’ over fears customers won’t tip",
+    "link": "https://nypost.com/2026/06/13/business/restaurant-owners-in-world-cup-cities-take-matters-into-their-own-hands-over-fears-customers-wont-tip/"
   },
   {
     "score": 46,
@@ -28,7 +21,7 @@
     "link": "https://www.wsj.com/politics/policy/kennedy-center-misses-deadline-wants-more-time-to-remove-trumps-name-3200a43c"
   },
   {
-    "score": 40,
+    "score": 41,
     "pubdate": "2026-06-13-22-05-24 +0000",
     "source": "bbc",
     "headline": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
@@ -43,30 +36,37 @@
   },
   {
     "score": 33,
-    "pubdate": "2026-06-13-01-58-31 +0000",
-    "source": "nypost",
-    "headline": "Humiliated Putin forced to cancel Russia Day in Red Square after Ukrainian drone strikes slam key Moscow targets",
-    "link": "https://nypost.com/2026/06/12/world-news/humiliated-putin-forced-to-cancel-russia-day-in-red-square-after-ukrainian-drone-strikes-slam-key-operational-targets/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-06-13-01-57-46 +0000",
-    "source": "latimes",
-    "headline": "Judge orders Trump administration to restore national park signage on climate change, slavery",
-    "link": "https://www.latimes.com/california/story/2026-06-12/trump-administration-ordered-to-restore-national-park-signage-on-climate-change-slavery"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-06-13-17-16-45 +0000",
-    "source": "nyt",
-    "headline": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
-    "link": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html"
-  },
-  {
-    "score": 28,
     "pubdate": "2026-06-13-11-15-18 +0000",
     "source": "bbc",
     "headline": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
     "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-06-14-03-32-59 +0000",
+    "source": "nypost",
+    "headline": "Knicks fans go insane after first NBA Finals win in 53 years — with jam-packed street party",
+    "link": "https://nypost.com/2026/06/13/us-news/knicks-fans-commence-celebration-of-nba-finals-win-with-jam-packed-street-takeover/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-06-13-18-54-46 +0000",
+    "source": "nyt",
+    "headline": "James Talarico Plays Up Spurs’ Past Glory in Campaign Ad Aimed at Texas Voters",
+    "link": "https://www.nytimes.com/2026/06/13/us/politics/talarico-spurs-campaign-ad.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-06-13-16-50-47 +0000",
+    "source": "nyt",
+    "headline": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
+    "link": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-06-13-17-16-45 +0000",
+    "source": "nyt",
+    "headline": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
+    "link": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html"
   }
 ]
