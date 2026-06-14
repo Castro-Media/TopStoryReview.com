@@ -1,45 +1,52 @@
 [
   {
-    "score": 108,
+    "score": 104,
     "pubdate": "2026-06-13-12-54-19 +0000",
     "source": "cbc",
     "headline": "Trump says peace deal with Iran will be signed Sunday, but Tehran yet to confirm timing",
     "link": "https://www.cbc.ca/news/world/pakistan-us-iran-deal-close-9.7234496?cmp=rss"
   },
   {
-    "score": 54,
-    "pubdate": "2026-06-13-17-25-57 +0000",
-    "source": "cbc",
-    "headline": "Ghana slams Canada’s decision to deny World Cup visa for Partey, who faces rape charges",
-    "link": "https://www.cbc.ca/news/world/ghana-slams-canada-denial-visa-world-cup-thomas-party-9.7234597?cmp=rss"
+    "score": 50,
+    "pubdate": "2026-06-14-06-39-29 +0000",
+    "source": "bbc",
+    "headline": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
+    "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 46,
+    "score": 49,
+    "pubdate": "2026-06-13-09-02-36 +0000",
+    "source": "nyt",
+    "headline": "Brazilians Revive a World Cup Ritual to Cheer on Their National Team",
+    "link": "https://www.nytimes.com/2026/06/13/world/americas/world-cup-brazil-street-art.html"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-06-14-07-21-26 +0000",
+    "source": "bbc",
+    "headline": "New York Knicks win NBA championship for first time in over 50 years",
+    "link": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 44,
     "pubdate": "2026-06-13-15-47-00 +0000",
     "source": "wsj",
     "headline": "The Kennedy Center for the Performing Arts board of trustees blew past the court-ordered midnight deadline to remove President Trump’s name from the building on Friday",
     "link": "https://www.wsj.com/politics/policy/kennedy-center-misses-deadline-wants-more-time-to-remove-trumps-name-3200a43c"
   },
   {
-    "score": 41,
+    "score": 42,
     "pubdate": "2026-06-13-22-05-24 +0000",
     "source": "bbc",
     "headline": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
     "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 37,
-    "pubdate": "2026-06-14-04-59-01 +0000",
+    "score": 33,
+    "pubdate": "2026-06-13-23-19-52 +0000",
     "source": "bbc",
-    "headline": "New York Knicks win NBA championship for first time in over 50 years",
-    "link": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-06-13-22-14-08 +0000",
-    "source": "nypost",
-    "headline": "Longshot California gov candidate with presidential name launches bid for White House",
-    "link": "https://nypost.com/2026/06/13/us-news/california-governor-candidate-barack-d-obama-shaw-runs-for-president/"
+    "headline": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+    "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 33,
@@ -49,24 +56,17 @@
     "link": "https://www.nytimes.com/2026/06/13/us/politics/talarico-spurs-campaign-ad.html"
   },
   {
-    "score": 32,
-    "pubdate": "2026-06-13-16-50-47 +0000",
-    "source": "nyt",
-    "headline": "A Tren de Aragua Leader Is Killed in a Joint Strike, U.S. and Venezuela Say",
-    "link": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html"
-  },
-  {
-    "score": 27,
-    "pubdate": "2026-06-13-17-28-25 +0000",
-    "source": "latimes",
-    "headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
-    "link": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit"
-  },
-  {
-    "score": 27,
+    "score": 28,
     "pubdate": "2026-06-13-17-16-45 +0000",
     "source": "nyt",
     "headline": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
     "link": "https://www.nytimes.com/2026/06/13/world/canada/canadian-screen-awards-heated-rivalry-toronto.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-06-14-08-07-55 +0000",
+    "source": "bbc",
+    "headline": "Armed men kidnap high-ranking security official in Haiti",
+    "link": "https://www.bbc.com/news/articles/cz9le087414o?at_medium=RSS&at_campaign=rss"
   }
 ]
