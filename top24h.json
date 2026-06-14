@@ -1,38 +1,45 @@
 [
   {
     "score": 114,
-    "pubdate": "2026-06-13-12-54-19 +0000",
-    "source": "cbc",
-    "headline": "Trump says peace deal with Iran will be signed Sunday, but Tehran yet to confirm timing",
-    "link": "https://www.cbc.ca/news/world/pakistan-us-iran-deal-close-9.7234496?cmp=rss"
+    "pubdate": "2026-06-13-17-07-58 +0000",
+    "source": "nypost",
+    "headline": "Trump says Iran peace deal will be signed Sunday, reveals Tehran ‘no longer’ wants a nuke",
+    "link": "https://nypost.com/2026/06/13/us-news/trump-says-iran-no-longer-wants-a-nuke-in-deal-that-could-be-signed-sunday/"
   },
   {
-    "score": 60,
+    "score": 61,
     "pubdate": "2026-06-14-00-00-54 +0000",
     "source": "nypost",
     "headline": "Mexican trade group leader fired after racist gesture during World Cup match",
     "link": "https://nypost.com/2026/06/13/world-news/mexican-trade-group-leader-fired-after-racist-gesture-at-world-cup-match/"
   },
   {
-    "score": 48,
+    "score": 49,
     "pubdate": "2026-06-13-15-47-00 +0000",
     "source": "wsj",
     "headline": "The Kennedy Center for the Performing Arts board of trustees blew past the court-ordered midnight deadline to remove President Trump’s name from the building on Friday",
     "link": "https://www.wsj.com/politics/policy/kennedy-center-misses-deadline-wants-more-time-to-remove-trumps-name-3200a43c"
   },
   {
-    "score": 46,
+    "score": 48,
     "pubdate": "2026-06-14-07-21-26 +0000",
     "source": "bbc",
     "headline": "New York Knicks win NBA championship for first time in over 50 years",
     "link": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 43,
+    "score": 48,
     "pubdate": "2026-06-13-22-05-24 +0000",
     "source": "bbc",
     "headline": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
     "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-06-14-11-31-32 +0000",
+    "source": "bbc",
+    "headline": "Swiss voters reject 10 million population cap, early projections say",
+    "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 41,
@@ -43,20 +50,13 @@
   },
   {
     "score": 35,
-    "pubdate": "2026-06-14-11-31-32 +0000",
-    "source": "bbc",
-    "headline": "Swiss voters reject 10 million population cap, early projections say",
-    "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 33,
     "pubdate": "2026-06-13-23-19-52 +0000",
     "source": "bbc",
     "headline": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
     "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 28,
+    "score": 29,
     "pubdate": "2026-06-13-17-16-45 +0000",
     "source": "nyt",
     "headline": "At the Canadian Screen Awards, the Industry Steps Outside Hollywood’s Shadow",
@@ -64,9 +64,9 @@
   },
   {
     "score": 27,
-    "pubdate": "2026-06-14-08-07-55 +0000",
-    "source": "bbc",
-    "headline": "Armed men kidnap high-ranking security official in Haiti",
-    "link": "https://www.bbc.com/news/articles/cz9le087414o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-06-14-03-07-41 +0000",
+    "source": "nypost",
+    "headline": "Unhinged California raisin heir arrested after antisemitic terror campaign against rabbi neighbor",
+    "link": "https://nypost.com/2026/06/13/us-news/raisin-heir-bruce-lion-was-busted-for-terror-threats/"
   }
 ]
