@@ -1,326 +1,236 @@
 [
   {
-    "headline": "Son of Norway’s Crown Princess Is Convicted of Rape",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/marius-borg-hoiby-verdict-norway.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-53-37 +0000"
-  },
-  {
-    "headline": "Son of Norway’s Crown Princess Is Convicted of Rape",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/marius-borg-hoiby-verdict-norway.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-53-37 +0000"
-  },
-  {
-    "headline": "Iran War Live Updates: U.S.-Iran Framework Brings Relief, but Challenges Loom",
+    "headline": "Iran War Live Updates: Agreement Brings Relief but No Resolution on Biggest Issues",
     "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
     "source": "nyt",
-    "pubdate": "2026-06-15-12-51-36 +0000"
+    "pubdate": "2026-06-15-15-47-14 +0000"
   },
   {
-    "headline": "U.S. Natural Gas Futures Start Week Lower",
-    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-dd26dee3?mod=pls_whats_news_us_business_f",
+    "headline": "The FTC Cracked Down on ‘Hidden’ Car Dealer Fees. They’re Still Happening Anyway.",
+    "link": "https://www.wsj.com/business/autos/the-ftc-cracked-down-on-hidden-car-dealer-fees-theyre-still-happening-anyway-5e5c53a4?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-06-15-12-49-00 +0000"
+    "pubdate": "2026-06-15-15-45-00 +0000"
   },
   {
-    "headline": "U.S. Natural Gas Futures Start Week Lower",
-    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-dd26dee3?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-15-12-49-00 +0000"
-  },
-  {
-    "headline": "SpaceX’s Stock Rises Ahead of First Full Day of Trading",
-    "link": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html",
+    "headline": "Two Men Found Guilty in Arson Attacks Targeting U.K. Prime Minister Keir Starmer",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/starmer-fires-arson-russia-telegram.html",
     "source": "nyt",
-    "pubdate": "2026-06-15-12-46-30 +0000"
+    "pubdate": "2026-06-15-15-41-42 +0000"
   },
   {
-    "headline": "Truist Financial Names Fiserv’s Michael Lyons President, CEO",
+    "headline": "Two Men Found Guilty in Arson Attacks Targeting U.K. Prime Minister Keir Starmer",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/starmer-fires-arson-russia-telegram.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-41-42 +0000"
+  },
+  {
+    "headline": "Trump’s Iran Deal Set to Draw Scrutiny From Allies at G-7",
+    "link": "https://www.wsj.com/world/middle-east/questions-about-trumps-iran-deal-set-to-dominate-g-7-fcd7fcbc",
+    "source": "wsj",
+    "pubdate": "2026-06-15-15-33-00 +0000"
+  },
+  {
+    "headline": "Dollar Up as Markets Focus on Potential Pitfalls in U.S.-Iran Deal",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-on-u-s-iran-interim-peace-deal-78c42dff?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-15-29-00 +0000"
+  },
+  {
+    "headline": "After news of Iran peace deal, Lebanese return home to assess wreckage",
+    "link": "https://www.washingtonpost.com/world/2026/06/15/after-news-iran-peace-deal-lebanese-return-home-assess-wreckage/",
+    "source": "wapo",
+    "pubdate": "2026-06-15-15-28-34 +0000"
+  },
+  {
+    "headline": "Fresh Meat Fest serves queer Chinese dance, Puerto Rican disability drag flair",
+    "link": "https://48hills.org/2026/06/fresh-meat-fest-serves-queer-chinese-dance-puerto-rican-disability-drag-flair/",
+    "source": "48hills",
+    "pubdate": "2026-06-15-15-27-08 +0000"
+  },
+  {
+    "headline": "Deadly ‘fox tapeworm’ linked to lethal disease detected in West Coast wildlife",
+    "link": "https://nypost.com/2026/06/15/health/deadly-fox-tapeworm-linked-to-lethal-disease-detected-in-west-coast-wildlife/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-15-26-06 +0000"
+  },
+  {
+    "headline": "Supreme Court Declines to Revive Former Trump Adviser’s Lawsuit Against James Comey",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/supreme-court-carter-page-lawsuit-james-comey.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-25-17 +0000"
+  },
+  {
+    "headline": "Supreme Court Declines to Revive Former Trump Adviser’s Lawsuit Against James Comey",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/supreme-court-carter-page-lawsuit-james-comey.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-25-17 +0000"
+  },
+  {
+    "headline": "World Cup ebola risk is ‘extremely low’ — but experts say the US is prepared",
+    "link": "https://nypost.com/2026/06/15/world-news/world-cup-ebola-risk-is-extremely-low-but-experts-say-the-us-is-prepared/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-15-23-42 +0000"
+  },
+  {
+    "headline": "How could the US-Iran deal affect oil prices and the cost of food?",
+    "link": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-15-20-09 +0000"
+  },
+  {
+    "headline": "Cautious of U.S.-Iran Deal, Shipping Firms Await Strait to Reopen",
+    "link": "https://www.nytimes.com/2026/06/15/business/us-iran-deal-shipping-companies-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-18-14 +0000"
+  },
+  {
+    "headline": "Iranian Team Arrives in U.S. for World Cup After Months of Uncertainty",
+    "link": "https://www.nytimes.com/2026/06/15/sports/world-cup/iran-world-cup-arrives-los-angeles.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-16-40 +0000"
+  },
+  {
+    "headline": "Truist Names New CEO as Regional Bank Pushes to Boost Performance",
     "link": "https://www.wsj.com/business/c-suite/truist-financial-names-fiservs-michael-lyons-president-ceo-7fafa1f0?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-06-15-12-46-00 +0000"
+    "pubdate": "2026-06-15-15-13-00 +0000"
+  },
+  {
+    "headline": "Truist Names New CEO as Regional Bank Pushes to Boost Performance",
+    "link": "https://www.wsj.com/business/c-suite/truist-financial-names-fiservs-michael-lyons-president-ceo-7fafa1f0?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-15-13-00 +0000"
+  },
+  {
+    "headline": "Ridiculous restoration job turns religious statues into googly-eyed caricatures — and instant tourist attraction",
+    "link": "https://nypost.com/2026/06/15/world-news/ridiculous-restoration-job-turns-religious-statues-into-googly-eyed-caricatures/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-15-12-55 +0000"
+  },
+  {
+    "headline": "Adorable baby elephant celebrates World Cup by ‘playing’ soccer",
+    "link": "https://nypost.com/2026/06/15/world-news/baby-elephant-plays-football-in-time-for-world-cup/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-15-12-31 +0000"
+  },
+  {
+    "headline": "Jaded and Exhausted, Many Iranians Shrug at World Cup",
+    "link": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-national-team-fans.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-12-26 +0000"
+  },
+  {
+    "headline": "Jaded and Exhausted, Many Iranians Shrug at World Cup",
+    "link": "https://www.nytimes.com/2026/06/15/world/middleeast/iran-national-team-fans.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-12-26 +0000"
+  },
+  {
+    "headline": "Distraught mom rages after daughter fatally thrown off Brazilian bridge without bungee cord: ‘That damned rope’",
+    "link": "https://nypost.com/2026/06/15/world-news/distraught-mom-rages-after-daughter-fatally-thrown-off-brazilian-bridge-without-bungee-cord-that-damned-rope/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-15-11-41 +0000"
+  },
+  {
+    "headline": "‘Hell on Wheels’ killer Mackenzie Shirilla’s mom whines about daughter struggling ‘mentally’ in prison",
+    "link": "https://nypost.com/2026/06/15/us-news/hell-on-wheels-killer-mackenzie-shirillas-mom-whines-about-daughter-struggling-mentally-in-prison/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-15-10-37 +0000"
+  },
+  {
+    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/neo-nazi-trademark-germany.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-08-29 +0000"
+  },
+  {
+    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/neo-nazi-trademark-germany.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-08-29 +0000"
+  },
+  {
+    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/neo-nazi-trademark-germany.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-08-29 +0000"
+  },
+  {
+    "headline": "In France, Justice System Faces Public Anger After 11-Year-Old Girl’s Killing",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/france-lyhanna-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-08-01 +0000"
+  },
+  {
+    "headline": "In France, Justice System Faces Public Anger After 11-Year-Old Girl’s Killing",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/france-lyhanna-protests.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-08-01 +0000"
+  },
+  {
+    "headline": "Uzbekistan Is Attracting Younger Travelers, but Does It Live Up to the Buzz?",
+    "link": "https://www.nytimes.com/2026/06/15/travel/uzbekistan-central-asia-tourism-tashkent-samarkand.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-07-32 +0000"
+  },
+  {
+    "headline": "Gulf Countries Confront New Questions About Relying on U.S. Protection",
+    "link": "https://www.nytimes.com/2026/06/15/world/middleeast/gulf-iran-war-us.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-07-06 +0000"
+  },
+  {
+    "headline": "Gulf Countries Confront New Questions About Relying on U.S. Protection",
+    "link": "https://www.nytimes.com/2026/06/15/world/middleeast/gulf-iran-war-us.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-07-06 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-04-31 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-04-31 +0000"
+  },
+  {
+    "headline": "U.S. Says Iran Cease-Fire Deal ‘Very Close’",
+    "link": "https://www.nytimes.com/2026/06/12/world/middleeast/us-iran-ceasefire-deal-white-house.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-01-18 +0000"
+  },
+  {
+    "headline": "U.S. Says Iran Cease-Fire Deal ‘Very Close’",
+    "link": "https://www.nytimes.com/2026/06/12/world/middleeast/us-iran-ceasefire-deal-white-house.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-15-01-18 +0000"
+  },
+  {
+    "headline": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
+    "link": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-14-59-22 +0000"
+  },
+  {
+    "headline": "Why the U.S.-Iran Deal Might Work, and Why It Might Not",
+    "link": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-strait-weapons-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-14-50-51 +0000"
+  },
+  {
+    "headline": "Why the U.S.-Iran Deal Might Work, and Why It Might Not",
+    "link": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-strait-weapons-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-14-50-51 +0000"
   },
   {
     "headline": "Iran and US reach an initial deal to end the war and open the Strait of Hormuz but challenges remain",
     "link": "https://www.startribune.com/defense-minister-says-israel-wont-withdraw-from-land-seized-in-lebanon-syria-and-gaza/601857267",
     "source": "startribune",
-    "pubdate": "2026-06-15-12-45-03 +0000"
-  },
-  {
-    "headline": "Fox to Acquire Roku, Joining the Battle for the Living Room",
-    "link": "https://www.nytimes.com/2026/06/15/business/fox-roku-acquisition-streaming-media.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-44-41 +0000"
-  },
-  {
-    "headline": "Fox to buy Roku streaming firm in $22bn deal",
-    "link": "https://www.bbc.com/news/articles/cql1yew3vezo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-12-43-12 +0000"
-  },
-  {
-    "headline": "Fox to buy Roku streaming firm in $22bn deal",
-    "link": "https://www.bbc.com/news/articles/cql1yew3vezo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-12-43-12 +0000"
-  },
-  {
-    "headline": "Fox to Buy Roku Streaming Service in $22 Billion Deal",
-    "link": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-15-12-43-00 +0000"
-  },
-  {
-    "headline": "Team Curaçao Arrives at the World Cup With Much of the Island in Tow.",
-    "link": "https://www.nytimes.com/2026/06/14/us/team-curacao-world-cup-fans.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-42-51 +0000"
-  },
-  {
-    "headline": "South Korea's Starbucks to shut for staff history lesson after backlash",
-    "link": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-12-37-27 +0000"
-  },
-  {
-    "headline": "Trump Heads to Group of 7 as Allies Rethink Their Relationship With U.S.",
-    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-group-of-7-summit.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-36-41 +0000"
-  },
-  {
-    "headline": "Trump Heads to Group of 7 as Allies Rethink Their Relationship With U.S.",
-    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-group-of-7-summit.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-36-41 +0000"
-  },
-  {
-    "headline": "Oil Tumbles and Stocks Surge After Trump Announces Deal With Iran",
-    "link": "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-36-11 +0000"
-  },
-  {
-    "headline": "The US and Iran have agreed a deal. How soon could the economy go back to normal?",
-    "link": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-12-33-56 +0000"
-  },
-  {
-    "headline": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-33-06 +0000"
-  },
-  {
-    "headline": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-33-06 +0000"
-  },
-  {
-    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-32-07 +0000"
-  },
-  {
-    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-32-07 +0000"
-  },
-  {
-    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-32-07 +0000"
-  },
-  {
-    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-32-07 +0000"
-  },
-  {
-    "headline": "Frustrated by Courts, Trump Weighed Suspending a Constitutional Right",
-    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-scharf-habeas-corpus-insurrection-act.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-31-25 +0000"
-  },
-  {
-    "headline": "Frustrated by Courts, Trump Weighed Suspending a Constitutional Right",
-    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-scharf-habeas-corpus-insurrection-act.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-31-25 +0000"
-  },
-  {
-    "headline": "China Moves the Price of Oil, Even When It Buys Less",
-    "link": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-28-23 +0000"
-  },
-  {
-    "headline": "China Moves the Price of Oil, Even When It Buys Less",
-    "link": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-28-23 +0000"
-  },
-  {
-    "headline": "China Moves the Price of Oil, Even When It Buys Less",
-    "link": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-28-23 +0000"
-  },
-  {
-    "headline": "In Latest Attacks, Russia Is Exploiting a Major Weakness for Ukraine",
-    "link": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-28-08 +0000"
-  },
-  {
-    "headline": "In Latest Attacks, Russia Is Exploiting a Major Weakness for Ukraine",
-    "link": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-28-08 +0000"
-  },
-  {
-    "headline": "In Mideast and worldwide, cautious relief over deal to end damaging war",
-    "link": "https://www.washingtonpost.com/world/2026/06/15/mideast-worldwide-cautious-relief-over-deal-end-iran-war/",
-    "source": "wapo",
-    "pubdate": "2026-06-15-12-25-07 +0000"
-  },
-  {
-    "headline": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-25-06 +0000"
-  },
-  {
-    "headline": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-25-06 +0000"
-  },
-  {
-    "headline": "Two men found guilty over Starmer-linked arson attacks",
-    "link": "https://www.bbc.com/news/articles/c9v2yd8vk04o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-12-23-34 +0000"
-  },
-  {
-    "headline": "Fox Corp to acquire streaming giant Roku in $22 billion blockbuster deal",
-    "link": "https://nypost.com/2026/06/15/business/fox-corp-to-acquire-streaming-giant-roku-in-22-billion-blockbuster-deal/",
-    "source": "nypost",
-    "pubdate": "2026-06-15-12-19-02 +0000"
-  },
-  {
-    "headline": "France star Mbappe vows to increase defensive work",
-    "link": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-12-17-01 +0000"
-  },
-  {
-    "headline": "Video shows helicopter in crash that killed Oliver Tree plunging to ground —as one of 6 dead was seen jumping mid-air: ‘Horrifying’",
-    "link": "https://nypost.com/2026/06/15/world-news/video-shows-helicopter-in-crash-that-killed-oliver-tree-plunging-to-ground/",
-    "source": "nypost",
-    "pubdate": "2026-06-15-12-15-46 +0000"
-  },
-  {
-    "headline": "Shipping Firms, Awaiting Details, Are Cautious of U.S.-Iran Deal",
-    "link": "https://www.nytimes.com/2026/06/15/business/us-iran-deal-shipping-companies-strait-of-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-15-39 +0000"
-  },
-  {
-    "headline": "Uncertainties Over U.S.-Iran Deal Could Prevent Much Weaker Dollar",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-on-u-s-iran-interim-peace-deal-78c42dff?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-15-12-15-00 +0000"
-  },
-  {
-    "headline": "Global Markets Rally on Iran Peace Hopes",
-    "link": "https://www.nytimes.com/2026/06/15/business/dealbook/trump-iran-peace-rally.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-14-24 +0000"
-  },
-  {
-    "headline": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-    "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-12-07-36 +0000"
-  },
-  {
-    "headline": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-    "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-12-07-36 +0000"
-  },
-  {
-    "headline": "U.S.-Iran Peace Deal Sends Oil Prices Lower",
-    "link": "https://www.wsj.com/finance/commodities-futures/bremt-futures-may-fall-to-80-per-barrel-by-year-end-if-strait-of-hormuz-not-closed-again-5484ba25?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-15-12-07-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-06-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-06-00 +0000"
-  },
-  {
-    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/taking-on-neo-nazis-one-trademark-at-a-time.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-05-06 +0000"
-  },
-  {
-    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/taking-on-neo-nazis-one-trademark-at-a-time.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-05-06 +0000"
-  },
-  {
-    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/taking-on-neo-nazis-one-trademark-at-a-time.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-12-05-06 +0000"
-  },
-  {
-    "headline": "Trump and thousands of others watch UFC fight on White House lawn",
-    "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-12-02-22 +0000"
-  },
-  {
-    "headline": "Trump and thousands of others watch UFC fight on White House lawn",
-    "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-12-02-22 +0000"
-  },
-  {
-    "headline": "Lebanon fighting eases after U.S.-Iran deal but displaced warned not to rush home",
-    "link": "https://www.cbc.ca/news/world/lebanon-israel-iran-united-states-peace-deal-9.7235389?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-15-12-01-25 +0000"
-  },
-  {
-    "headline": "Beauty mogul Anastasia Soare says she could have only built her eyebrow empire in America",
-    "link": "https://nypost.com/2026/06/15/us-news/beauty-mogul-anastasia-soare-says-she-could-have-only-built-her-eyebrow-empire-in-america/",
-    "source": "nypost",
-    "pubdate": "2026-06-15-12-00-00 +0000"
-  },
-  {
-    "headline": "Neighbors in posh neighborhood fume about wild antics inside OnlyFans home next to local school",
-    "link": "https://nypost.com/2026/06/15/us-news/neighbors-in-posh-neighborhood-fume-about-wild-antics-inside-onlyfans-home-next-to-local-school/",
-    "source": "nypost",
-    "pubdate": "2026-06-15-12-00-00 +0000"
+    "pubdate": "2026-06-15-14-50-08 +0000"
   }
 ]
