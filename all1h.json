@@ -1,134 +1,326 @@
 [
   {
-    "headline": "U.K. to Ban Social Media for Under 16s",
-    "link": "https://www.wsj.com/world/uk/u-k-to-ban-social-media-for-under-16s-2df2ffd8",
+    "headline": "Son of Norway’s Crown Princess Is Convicted of Rape",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/marius-borg-hoiby-verdict-norway.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-53-37 +0000"
+  },
+  {
+    "headline": "Son of Norway’s Crown Princess Is Convicted of Rape",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/marius-borg-hoiby-verdict-norway.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-53-37 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: U.S.-Iran Framework Brings Relief, but Challenges Loom",
+    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-51-36 +0000"
+  },
+  {
+    "headline": "U.S. Natural Gas Futures Start Week Lower",
+    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-dd26dee3?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-06-15-08-47-00 +0000"
+    "pubdate": "2026-06-15-12-49-00 +0000"
+  },
+  {
+    "headline": "U.S. Natural Gas Futures Start Week Lower",
+    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-dd26dee3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-12-49-00 +0000"
+  },
+  {
+    "headline": "SpaceX’s Stock Rises Ahead of First Full Day of Trading",
+    "link": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-46-30 +0000"
+  },
+  {
+    "headline": "Truist Financial Names Fiserv’s Michael Lyons President, CEO",
+    "link": "https://www.wsj.com/business/c-suite/truist-financial-names-fiservs-michael-lyons-president-ceo-7fafa1f0?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-12-46-00 +0000"
+  },
+  {
+    "headline": "Iran and US reach an initial deal to end the war and open the Strait of Hormuz but challenges remain",
+    "link": "https://www.startribune.com/defense-minister-says-israel-wont-withdraw-from-land-seized-in-lebanon-syria-and-gaza/601857267",
+    "source": "startribune",
+    "pubdate": "2026-06-15-12-45-03 +0000"
+  },
+  {
+    "headline": "Fox to Acquire Roku, Joining the Battle for the Living Room",
+    "link": "https://www.nytimes.com/2026/06/15/business/fox-roku-acquisition-streaming-media.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-44-41 +0000"
+  },
+  {
+    "headline": "Fox to buy Roku streaming firm in $22bn deal",
+    "link": "https://www.bbc.com/news/articles/cql1yew3vezo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-43-12 +0000"
+  },
+  {
+    "headline": "Fox to buy Roku streaming firm in $22bn deal",
+    "link": "https://www.bbc.com/news/articles/cql1yew3vezo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-43-12 +0000"
+  },
+  {
+    "headline": "Fox to Buy Roku Streaming Service in $22 Billion Deal",
+    "link": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-12-43-00 +0000"
+  },
+  {
+    "headline": "Team Curaçao Arrives at the World Cup With Much of the Island in Tow.",
+    "link": "https://www.nytimes.com/2026/06/14/us/team-curacao-world-cup-fans.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-42-51 +0000"
+  },
+  {
+    "headline": "South Korea's Starbucks to shut for staff history lesson after backlash",
+    "link": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-37-27 +0000"
+  },
+  {
+    "headline": "Trump Heads to Group of 7 as Allies Rethink Their Relationship With U.S.",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-group-of-7-summit.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-36-41 +0000"
+  },
+  {
+    "headline": "Trump Heads to Group of 7 as Allies Rethink Their Relationship With U.S.",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-group-of-7-summit.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-36-41 +0000"
+  },
+  {
+    "headline": "Oil Tumbles and Stocks Surge After Trump Announces Deal With Iran",
+    "link": "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-36-11 +0000"
+  },
+  {
+    "headline": "The US and Iran have agreed a deal. How soon could the economy go back to normal?",
+    "link": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-33-56 +0000"
+  },
+  {
+    "headline": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-33-06 +0000"
+  },
+  {
+    "headline": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-33-06 +0000"
+  },
+  {
+    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
+    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-32-07 +0000"
+  },
+  {
+    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
+    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-32-07 +0000"
+  },
+  {
+    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
+    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-32-07 +0000"
+  },
+  {
+    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
+    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-32-07 +0000"
+  },
+  {
+    "headline": "Frustrated by Courts, Trump Weighed Suspending a Constitutional Right",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-scharf-habeas-corpus-insurrection-act.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-31-25 +0000"
+  },
+  {
+    "headline": "Frustrated by Courts, Trump Weighed Suspending a Constitutional Right",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-scharf-habeas-corpus-insurrection-act.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-31-25 +0000"
+  },
+  {
+    "headline": "China Moves the Price of Oil, Even When It Buys Less",
+    "link": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-28-23 +0000"
+  },
+  {
+    "headline": "China Moves the Price of Oil, Even When It Buys Less",
+    "link": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-28-23 +0000"
+  },
+  {
+    "headline": "China Moves the Price of Oil, Even When It Buys Less",
+    "link": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-28-23 +0000"
+  },
+  {
+    "headline": "In Latest Attacks, Russia Is Exploiting a Major Weakness for Ukraine",
+    "link": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-28-08 +0000"
+  },
+  {
+    "headline": "In Latest Attacks, Russia Is Exploiting a Major Weakness for Ukraine",
+    "link": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-28-08 +0000"
+  },
+  {
+    "headline": "In Mideast and worldwide, cautious relief over deal to end damaging war",
+    "link": "https://www.washingtonpost.com/world/2026/06/15/mideast-worldwide-cautious-relief-over-deal-end-iran-war/",
+    "source": "wapo",
+    "pubdate": "2026-06-15-12-25-07 +0000"
+  },
+  {
+    "headline": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-25-06 +0000"
+  },
+  {
+    "headline": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-25-06 +0000"
+  },
+  {
+    "headline": "Two men found guilty over Starmer-linked arson attacks",
+    "link": "https://www.bbc.com/news/articles/c9v2yd8vk04o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-23-34 +0000"
+  },
+  {
+    "headline": "Fox Corp to acquire streaming giant Roku in $22 billion blockbuster deal",
+    "link": "https://nypost.com/2026/06/15/business/fox-corp-to-acquire-streaming-giant-roku-in-22-billion-blockbuster-deal/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-12-19-02 +0000"
+  },
+  {
+    "headline": "France star Mbappe vows to increase defensive work",
+    "link": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-17-01 +0000"
+  },
+  {
+    "headline": "Video shows helicopter in crash that killed Oliver Tree plunging to ground —as one of 6 dead was seen jumping mid-air: ‘Horrifying’",
+    "link": "https://nypost.com/2026/06/15/world-news/video-shows-helicopter-in-crash-that-killed-oliver-tree-plunging-to-ground/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-12-15-46 +0000"
+  },
+  {
+    "headline": "Shipping Firms, Awaiting Details, Are Cautious of U.S.-Iran Deal",
+    "link": "https://www.nytimes.com/2026/06/15/business/us-iran-deal-shipping-companies-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-15-39 +0000"
+  },
+  {
+    "headline": "Uncertainties Over U.S.-Iran Deal Could Prevent Much Weaker Dollar",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-on-u-s-iran-interim-peace-deal-78c42dff?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-12-15-00 +0000"
+  },
+  {
+    "headline": "Global Markets Rally on Iran Peace Hopes",
+    "link": "https://www.nytimes.com/2026/06/15/business/dealbook/trump-iran-peace-rally.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-14-24 +0000"
+  },
+  {
+    "headline": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+    "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-07-36 +0000"
+  },
+  {
+    "headline": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+    "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-07-36 +0000"
+  },
+  {
+    "headline": "U.S.-Iran Peace Deal Sends Oil Prices Lower",
+    "link": "https://www.wsj.com/finance/commodities-futures/bremt-futures-may-fall-to-80-per-barrel-by-year-end-if-strait-of-hormuz-not-closed-again-5484ba25?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-12-07-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-06-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-06-00 +0000"
+  },
+  {
+    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/taking-on-neo-nazis-one-trademark-at-a-time.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-05-06 +0000"
+  },
+  {
+    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/taking-on-neo-nazis-one-trademark-at-a-time.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-05-06 +0000"
+  },
+  {
+    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/taking-on-neo-nazis-one-trademark-at-a-time.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-05-06 +0000"
   },
   {
     "headline": "Trump and thousands of others watch UFC fight on White House lawn",
     "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-15-08-46-08 +0000"
+    "pubdate": "2026-06-15-12-02-22 +0000"
   },
   {
-    "headline": "Roy Hattersley, former Labour deputy leader, dies aged 93",
-    "link": "https://www.bbc.com/news/articles/cvgq1egykr9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump and thousands of others watch UFC fight on White House lawn",
+    "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-15-08-35-53 +0000"
+    "pubdate": "2026-06-15-12-02-22 +0000"
   },
   {
-    "headline": "Stock Market Today: Stock Futures Rally, Oil Drops After U.S.-Iran Deal",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-15-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-15-08-35-26 +0000"
+    "headline": "Lebanon fighting eases after U.S.-Iran deal but displaced warned not to rush home",
+    "link": "https://www.cbc.ca/news/world/lebanon-israel-iran-united-states-peace-deal-9.7235389?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-15-12-01-25 +0000"
   },
   {
-    "headline": "Britain Announces Social Media Ban for Children",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-08-22-56 +0000"
-  },
-  {
-    "headline": "Britain Announces Social Media Ban for Children",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-08-22-56 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-15-08-21-34 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-15-08-21-34 +0000"
-  },
-  {
-    "headline": "National Guardsman pleads guilty to fatal shooting of soldier he found in bed with his ex-girlfriend",
-    "link": "https://nypost.com/2026/06/15/us-news/national-guardsman-natravien-landry-pleads-guilty-to-fatal-shooting-of-soldier-he-found-in-bed-with-his-ex-girlfriend/",
+    "headline": "Beauty mogul Anastasia Soare says she could have only built her eyebrow empire in America",
+    "link": "https://nypost.com/2026/06/15/us-news/beauty-mogul-anastasia-soare-says-she-could-have-only-built-her-eyebrow-empire-in-america/",
     "source": "nypost",
-    "pubdate": "2026-06-15-08-19-28 +0000"
+    "pubdate": "2026-06-15-12-00-00 +0000"
   },
   {
-    "headline": "Iran War Live Updates: U.S. and Tehran Agree on Framework for Peace",
-    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
-    "source": "nyt",
-    "pubdate": "2026-06-15-08-17-21 +0000"
-  },
-  {
-    "headline": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
-    "link": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-08-13-10 +0000"
-  },
-  {
-    "headline": "Dollar’s Falls Could Remain Limited Ahead of Fed Decision",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-on-u-s-iran-interim-peace-deal-78c42dff?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-15-08-11-00 +0000"
-  },
-  {
-    "headline": "Oil Prices at Crossroads as Supply Recovery Meets Demand Shifts, Barclays Says",
-    "link": "https://www.wsj.com/finance/commodities-futures/bremt-futures-may-fall-to-80-per-barrel-by-year-end-if-strait-of-hormuz-not-closed-again-5484ba25?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-15-08-08-00 +0000"
-  },
-  {
-    "headline": "For Chinese automakers, markets like Canada are more important than ever",
-    "link": "https://www.cbc.ca/news/business/chinese-electric-vehicles-ev-canada-trade-2026-9.7229044?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-15-08-00-00 +0000"
-  },
-  {
-    "headline": "For Chinese automakers, markets like Canada are more important than ever",
-    "link": "https://www.cbc.ca/news/business/chinese-electric-vehicles-ev-canada-trade-2026-9.7229044?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-15-08-00-00 +0000"
-  },
-  {
-    "headline": "War, sports collide as Iran's World Cup kicks off in Los Angeles",
-    "link": "https://www.cbc.ca/news/world/world-cup-iran-los-angeles-9.7235050?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-15-08-00-00 +0000"
-  },
-  {
-    "headline": "For His 80th Birthday, Trump Brought a Cage Match to the White House Lawn",
-    "link": "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-07-59-09 +0000"
-  },
-  {
-    "headline": "U.S. Futures, Global Stocks Rise; Oil Prices Tumble on Iran Peace Deal",
-    "link": "https://www.wsj.com/finance/u-s-futures-global-stocks-rise-oil-prices-tumble-on-iran-peace-deal-bc4e0000?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-15-07-59-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-15-07-58-29 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-15-07-58-29 +0000"
-  },
-  {
-    "headline": "China detains two leaders of influential underground church",
-    "link": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-07-56-43 +0000"
-  },
-  {
-    "headline": "China detains two leaders of influential underground church",
-    "link": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-07-56-43 +0000"
+    "headline": "Neighbors in posh neighborhood fume about wild antics inside OnlyFans home next to local school",
+    "link": "https://nypost.com/2026/06/15/us-news/neighbors-in-posh-neighborhood-fume-about-wild-antics-inside-onlyfans-home-next-to-local-school/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-12-00-00 +0000"
   }
 ]
