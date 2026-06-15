@@ -1,15 +1,945 @@
 [
   {
-    "headline": "U.K. to Ban Social Media for Under 16s",
-    "link": "https://www.wsj.com/world/uk/u-k-to-ban-social-media-for-under-16s-2df2ffd8",
+    "headline": "Son of Norway’s Crown Princess Is Convicted of Rape",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/marius-borg-hoiby-verdict-norway.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-53-37 +0000"
+  },
+  {
+    "headline": "Son of Norway’s Crown Princess Is Convicted of Rape",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/marius-borg-hoiby-verdict-norway.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-53-37 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: U.S.-Iran Framework Brings Relief, but Challenges Loom",
+    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-51-36 +0000"
+  },
+  {
+    "headline": "U.S. Natural Gas Futures Start Week Lower",
+    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-dd26dee3?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-06-15-08-47-00 +0000"
+    "pubdate": "2026-06-15-12-49-00 +0000"
+  },
+  {
+    "headline": "U.S. Natural Gas Futures Start Week Lower",
+    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-lower-dd26dee3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-12-49-00 +0000"
+  },
+  {
+    "headline": "SpaceX’s Stock Rises Ahead of First Full Day of Trading",
+    "link": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-46-30 +0000"
+  },
+  {
+    "headline": "Truist Financial Names Fiserv’s Michael Lyons President, CEO",
+    "link": "https://www.wsj.com/business/c-suite/truist-financial-names-fiservs-michael-lyons-president-ceo-7fafa1f0?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-12-46-00 +0000"
+  },
+  {
+    "headline": "Iran and US reach an initial deal to end the war and open the Strait of Hormuz but challenges remain",
+    "link": "https://www.startribune.com/defense-minister-says-israel-wont-withdraw-from-land-seized-in-lebanon-syria-and-gaza/601857267",
+    "source": "startribune",
+    "pubdate": "2026-06-15-12-45-03 +0000"
+  },
+  {
+    "headline": "Fox to Acquire Roku, Joining the Battle for the Living Room",
+    "link": "https://www.nytimes.com/2026/06/15/business/fox-roku-acquisition-streaming-media.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-44-41 +0000"
+  },
+  {
+    "headline": "Fox to buy Roku streaming firm in $22bn deal",
+    "link": "https://www.bbc.com/news/articles/cql1yew3vezo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-43-12 +0000"
+  },
+  {
+    "headline": "Fox to buy Roku streaming firm in $22bn deal",
+    "link": "https://www.bbc.com/news/articles/cql1yew3vezo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-43-12 +0000"
+  },
+  {
+    "headline": "Fox to Buy Roku Streaming Service in $22 Billion Deal",
+    "link": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-12-43-00 +0000"
+  },
+  {
+    "headline": "Team Curaçao Arrives at the World Cup With Much of the Island in Tow.",
+    "link": "https://www.nytimes.com/2026/06/14/us/team-curacao-world-cup-fans.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-42-51 +0000"
+  },
+  {
+    "headline": "South Korea's Starbucks to shut for staff history lesson after backlash",
+    "link": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-37-27 +0000"
+  },
+  {
+    "headline": "Trump Heads to Group of 7 as Allies Rethink Their Relationship With U.S.",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-group-of-7-summit.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-36-41 +0000"
+  },
+  {
+    "headline": "Trump Heads to Group of 7 as Allies Rethink Their Relationship With U.S.",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-group-of-7-summit.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-36-41 +0000"
+  },
+  {
+    "headline": "Oil Tumbles and Stocks Surge After Trump Announces Deal With Iran",
+    "link": "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-36-11 +0000"
+  },
+  {
+    "headline": "The US and Iran have agreed a deal. How soon could the economy go back to normal?",
+    "link": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-33-56 +0000"
+  },
+  {
+    "headline": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-33-06 +0000"
+  },
+  {
+    "headline": "U.K. Ban on Pro-Palestinian Protest Group Is Lawful, Court of Appeal Rules",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-palestine-action-ban-appeal.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-33-06 +0000"
+  },
+  {
+    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
+    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-32-07 +0000"
+  },
+  {
+    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
+    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-32-07 +0000"
+  },
+  {
+    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
+    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-32-07 +0000"
+  },
+  {
+    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
+    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-32-07 +0000"
+  },
+  {
+    "headline": "Frustrated by Courts, Trump Weighed Suspending a Constitutional Right",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-scharf-habeas-corpus-insurrection-act.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-31-25 +0000"
+  },
+  {
+    "headline": "Frustrated by Courts, Trump Weighed Suspending a Constitutional Right",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/trump-scharf-habeas-corpus-insurrection-act.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-31-25 +0000"
+  },
+  {
+    "headline": "China Moves the Price of Oil, Even When It Buys Less",
+    "link": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-28-23 +0000"
+  },
+  {
+    "headline": "China Moves the Price of Oil, Even When It Buys Less",
+    "link": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-28-23 +0000"
+  },
+  {
+    "headline": "China Moves the Price of Oil, Even When It Buys Less",
+    "link": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-28-23 +0000"
+  },
+  {
+    "headline": "In Latest Attacks, Russia Is Exploiting a Major Weakness for Ukraine",
+    "link": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-28-08 +0000"
+  },
+  {
+    "headline": "In Latest Attacks, Russia Is Exploiting a Major Weakness for Ukraine",
+    "link": "https://www.nytimes.com/2026/06/13/world/europe/ukraine-russia-patriot-interceptors.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-28-08 +0000"
+  },
+  {
+    "headline": "In Mideast and worldwide, cautious relief over deal to end damaging war",
+    "link": "https://www.washingtonpost.com/world/2026/06/15/mideast-worldwide-cautious-relief-over-deal-end-iran-war/",
+    "source": "wapo",
+    "pubdate": "2026-06-15-12-25-07 +0000"
+  },
+  {
+    "headline": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-25-06 +0000"
+  },
+  {
+    "headline": "After Russia Attacks Kyiv With Missiles and Drones, Historic Orthodox Cathedral Burns",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-25-06 +0000"
+  },
+  {
+    "headline": "Two men found guilty over Starmer-linked arson attacks",
+    "link": "https://www.bbc.com/news/articles/c9v2yd8vk04o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-23-34 +0000"
+  },
+  {
+    "headline": "Fox Corp to acquire streaming giant Roku in $22 billion blockbuster deal",
+    "link": "https://nypost.com/2026/06/15/business/fox-corp-to-acquire-streaming-giant-roku-in-22-billion-blockbuster-deal/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-12-19-02 +0000"
+  },
+  {
+    "headline": "France star Mbappe vows to increase defensive work",
+    "link": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-17-01 +0000"
+  },
+  {
+    "headline": "Video shows helicopter in crash that killed Oliver Tree plunging to ground —as one of 6 dead was seen jumping mid-air: ‘Horrifying’",
+    "link": "https://nypost.com/2026/06/15/world-news/video-shows-helicopter-in-crash-that-killed-oliver-tree-plunging-to-ground/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-12-15-46 +0000"
+  },
+  {
+    "headline": "Shipping Firms, Awaiting Details, Are Cautious of U.S.-Iran Deal",
+    "link": "https://www.nytimes.com/2026/06/15/business/us-iran-deal-shipping-companies-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-15-39 +0000"
+  },
+  {
+    "headline": "Uncertainties Over U.S.-Iran Deal Could Prevent Much Weaker Dollar",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-on-u-s-iran-interim-peace-deal-78c42dff?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-12-15-00 +0000"
+  },
+  {
+    "headline": "Global Markets Rally on Iran Peace Hopes",
+    "link": "https://www.nytimes.com/2026/06/15/business/dealbook/trump-iran-peace-rally.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-14-24 +0000"
+  },
+  {
+    "headline": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+    "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-07-36 +0000"
+  },
+  {
+    "headline": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+    "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-07-36 +0000"
+  },
+  {
+    "headline": "U.S.-Iran Peace Deal Sends Oil Prices Lower",
+    "link": "https://www.wsj.com/finance/commodities-futures/bremt-futures-may-fall-to-80-per-barrel-by-year-end-if-strait-of-hormuz-not-closed-again-5484ba25?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-12-07-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-06-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-06-00 +0000"
+  },
+  {
+    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/taking-on-neo-nazis-one-trademark-at-a-time.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-05-06 +0000"
+  },
+  {
+    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/taking-on-neo-nazis-one-trademark-at-a-time.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-05-06 +0000"
+  },
+  {
+    "headline": "Taking on Neo-Nazis, One Trademark at a Time",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/taking-on-neo-nazis-one-trademark-at-a-time.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-12-05-06 +0000"
   },
   {
     "headline": "Trump and thousands of others watch UFC fight on White House lawn",
     "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-15-08-46-08 +0000"
+    "pubdate": "2026-06-15-12-02-22 +0000"
+  },
+  {
+    "headline": "Trump and thousands of others watch UFC fight on White House lawn",
+    "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-12-02-22 +0000"
+  },
+  {
+    "headline": "Lebanon fighting eases after U.S.-Iran deal but displaced warned not to rush home",
+    "link": "https://www.cbc.ca/news/world/lebanon-israel-iran-united-states-peace-deal-9.7235389?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-15-12-01-25 +0000"
+  },
+  {
+    "headline": "Beauty mogul Anastasia Soare says she could have only built her eyebrow empire in America",
+    "link": "https://nypost.com/2026/06/15/us-news/beauty-mogul-anastasia-soare-says-she-could-have-only-built-her-eyebrow-empire-in-america/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-12-00-00 +0000"
+  },
+  {
+    "headline": "Neighbors in posh neighborhood fume about wild antics inside OnlyFans home next to local school",
+    "link": "https://nypost.com/2026/06/15/us-news/neighbors-in-posh-neighborhood-fume-about-wild-antics-inside-onlyfans-home-next-to-local-school/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-12-00-00 +0000"
+  },
+  {
+    "headline": "Oil prices fall and shares jump after US-Iran deal announced",
+    "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-11-54-26 +0000"
+  },
+  {
+    "headline": "Oil prices fall and shares jump after US-Iran deal announced",
+    "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-11-54-26 +0000"
+  },
+  {
+    "headline": "Oil prices fall and shares jump after US-Iran deal announced",
+    "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-11-54-26 +0000"
+  },
+  {
+    "headline": "Trump arrives at G7 summit to face alienated European leaders",
+    "link": "https://nypost.com/2026/06/15/world-news/trump-arrives-at-g7-summit-to-face-alienated-european-leaders/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-11-52-04 +0000"
+  },
+  {
+    "headline": "Trump arrives at G7 summit to face alienated European leaders",
+    "link": "https://nypost.com/2026/06/15/world-news/trump-arrives-at-g7-summit-to-face-alienated-european-leaders/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-11-52-04 +0000"
+  },
+  {
+    "headline": "Trump arrives at G7 summit to face alienated European leaders",
+    "link": "https://nypost.com/2026/06/15/world-news/trump-arrives-at-g7-summit-to-face-alienated-european-leaders/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-11-52-04 +0000"
+  },
+  {
+    "headline": "On the Nuclear Issue, Each Side Finds a Way to Claim Victory",
+    "link": "https://www.nytimes.com/2026/06/15/world/middleeast/nuclear-iran-united-states.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-11-47-03 +0000"
+  },
+  {
+    "headline": "On the Nuclear Issue, Each Side Finds a Way to Claim Victory",
+    "link": "https://www.nytimes.com/2026/06/15/world/middleeast/nuclear-iran-united-states.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-11-47-03 +0000"
+  },
+  {
+    "headline": "Britain announces sweeping ban on most social media for children under 16",
+    "link": "https://www.washingtonpost.com/world/2026/06/15/britain-announces-sweeping-ban-most-social-media-children-under-16/",
+    "source": "wapo",
+    "pubdate": "2026-06-15-11-45-22 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-9afd87e1?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-11-44-00 +0000"
+  },
+  {
+    "headline": "Russian attack kills at least five and damages historic monastery in Kyiv",
+    "link": "https://www.washingtonpost.com/world/2026/06/15/russian-attack-kyiv-damages-historic-monastery-kills-least-5/",
+    "source": "wapo",
+    "pubdate": "2026-06-15-11-42-04 +0000"
+  },
+  {
+    "headline": "Russian Airstrikes Spark Blaze at Kyiv Cathedral",
+    "link": "https://www.wsj.com/world/russian-airstrikes-spark-blaze-at-kyiv-cathedral-1b2d8d2d",
+    "source": "wsj",
+    "pubdate": "2026-06-15-11-40-00 +0000"
+  },
+  {
+    "headline": "What's happening to UK petrol and diesel prices now the US and Iran have a deal?",
+    "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-11-28-39 +0000"
+  },
+  {
+    "headline": "What's happening to UK petrol and diesel prices now the US and Iran have a deal?",
+    "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-11-28-39 +0000"
+  },
+  {
+    "headline": "‘Loving’ mom and teacher ID’d as swimmer who lost arm in horrific great white shark attack",
+    "link": "https://nypost.com/2026/06/15/world-news/loving-mom-and-teacher-idd-as-swimmer-who-lost-arm-in-horrific-great-white-shark-attack/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-11-27-11 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-c4d3067b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-11-27-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-c4d3067b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-11-27-00 +0000"
+  },
+  {
+    "headline": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-e6481993?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-11-21-00 +0000"
+  },
+  {
+    "headline": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-11-19-17 +0000"
+  },
+  {
+    "headline": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-11-19-17 +0000"
+  },
+  {
+    "headline": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-11-19-17 +0000"
+  },
+  {
+    "headline": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-11-19-17 +0000"
+  },
+  {
+    "headline": "Britain will ban under-16s from using social media apps including TikTok and YouTube: Starmer",
+    "link": "https://nypost.com/2026/06/15/world-news/britain-will-ban-under-16s-from-using-social-media-apps-including-tiktok-and-youtube-starmer/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-11-12-33 +0000"
+  },
+  {
+    "headline": "Norwegian crown princess's son found guilty of two counts of rape",
+    "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-11-09-03 +0000"
+  },
+  {
+    "headline": "Norwegian crown princess's son found guilty of two counts of rape",
+    "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-11-09-03 +0000"
+  },
+  {
+    "headline": "Right-wing loons can’t quit Scott Wiener",
+    "link": "https://missionlocal.org/2026/06/scott-wiener-fox-news-laura-loomer/",
+    "source": "missionlocal",
+    "pubdate": "2026-06-15-11-00-00 +0000"
+  },
+  {
+    "headline": "Hochul spells out 50 actions to slash red tape, fees across New York and save 1M hours of time",
+    "link": "https://nypost.com/2026/06/15/us-news/hochul-spells-out-50-actions-to-slash-red-tape-fees-across-new-york-and-save-1m-hours-of-time/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-11-00-00 +0000"
+  },
+  {
+    "headline": "New Fund Backed by LVMH and Top Pro Athletes Invests in Activewear Brand",
+    "link": "https://www.wsj.com/business/deals/new-fund-backed-by-lvmh-and-top-pro-athletes-invests-in-activewear-brand-173c764c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-11-00-00 +0000"
+  },
+  {
+    "headline": "New Fund Backed by LVMH and Top Pro Athletes Invests in Activewear Brand",
+    "link": "https://www.wsj.com/business/deals/new-fund-backed-by-lvmh-and-top-pro-athletes-invests-in-activewear-brand-173c764c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-11-00-00 +0000"
+  },
+  {
+    "headline": "Farmer with history of wetland violations ordered to stop work along Rush Creek",
+    "link": "https://www.startribune.com/farmer-with-history-of-wetland-violations-ordered-to-stop-work-along-rush-creek/601854601",
+    "source": "startribune",
+    "pubdate": "2026-06-15-11-00-00 +0000"
+  },
+  {
+    "headline": "How did meat raffles become a Minnesota tradition?",
+    "link": "https://www.startribune.com/curious-minnesota-history-meat-raffle/601843256",
+    "source": "startribune",
+    "pubdate": "2026-06-15-11-00-00 +0000"
+  },
+  {
+    "headline": "Retailers build a new profit engine beyond store shelves",
+    "link": "https://www.startribune.com/target-best-buy-walmart-retailers-growing-ad-businesses-data-analysis/601804386",
+    "source": "startribune",
+    "pubdate": "2026-06-15-11-00-00 +0000"
+  },
+  {
+    "headline": "Video: Bode McConnell’s hockey goal is the 2026 All-Minnesota Sports Award Play of the Year",
+    "link": "https://www.startribune.com/all-minnesota-sports-awards-play-off-the-year-bode-mcconnell-edina-hornets-boys-hockey/601849976",
+    "source": "startribune",
+    "pubdate": "2026-06-15-11-00-00 +0000"
+  },
+  {
+    "headline": "Iran’s World Cup Team Arrives in U.S. After Months of Uncertainty",
+    "link": "https://www.nytimes.com/2026/06/15/sports/world-cup/iran-world-cup-arrives-los-angeles.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-10-59-15 +0000"
+  },
+  {
+    "headline": "Olé, olé, olé, olé - What makes a memorable World Cup song?",
+    "link": "https://www.bbc.com/news/articles/c5yz434v7nro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-10-58-23 +0000"
+  },
+  {
+    "headline": "For millions of Americans, the main concern will be: what does any U.S.-Iran deal mean for gas prices? Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/what-this-iran-deal-might-mean-for-american-consumers-0712dfce",
+    "source": "wsj",
+    "pubdate": "2026-06-15-10-58-00 +0000"
+  },
+  {
+    "headline": "What This Iran Deal Might Mean for American Consumers",
+    "link": "https://www.wsj.com/politics/what-this-iran-deal-might-mean-for-american-consumers-0712dfce",
+    "source": "wsj",
+    "pubdate": "2026-06-15-10-58-00 +0000"
+  },
+  {
+    "headline": "Assisted dying returns to Parliament as MP urges peers to 'finish the job'",
+    "link": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-10-57-34 +0000"
+  },
+  {
+    "headline": "The U.S.-Iran Deal: What to Know",
+    "link": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-10-51-20 +0000"
+  },
+  {
+    "headline": "The U.S.-Iran Deal: What to Know",
+    "link": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-10-51-20 +0000"
+  },
+  {
+    "headline": "Trump calls ‘incredible’ UFC event ‘one of the most exciting days in the history’ of the White House",
+    "link": "https://nypost.com/2026/06/15/us-news/trump-calls-incredible-ufc-event-one-of-the-most-exciting-days-in-the-history-of-the-white-house/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-10-49-10 +0000"
+  },
+  {
+    "headline": "Stock Futures Rally, Oil Drops After U.S.-Iran Deal",
+    "link": "https://www.wsj.com/finance/u-s-futures-global-stocks-rise-oil-prices-tumble-on-iran-peace-deal-bc4e0000?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-10-46-00 +0000"
+  },
+  {
+    "headline": "Stock Futures Rally, Oil Drops After U.S.-Iran Deal",
+    "link": "https://www.wsj.com/finance/u-s-futures-global-stocks-rise-oil-prices-tumble-on-iran-peace-deal-bc4e0000?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-10-46-00 +0000"
+  },
+  {
+    "headline": "Fresh search under way for Irish women missing since 1990s",
+    "link": "https://www.bbc.com/news/articles/cjegvl1wp1no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-10-45-59 +0000"
+  },
+  {
+    "headline": "Saint-Gobain Shares Rise on $1.76 Billion Sale of Majority of Dahl Operations",
+    "link": "https://www.wsj.com/business/deals/saint-gobain-to-sell-dahl-business-to-kesko-for-1-76-billion-a2df4d75?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-10-39-00 +0000"
+  },
+  {
+    "headline": "Britain Announces Social Media Ban for Children",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-10-33-23 +0000"
+  },
+  {
+    "headline": "Britain Announces Social Media Ban for Children",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-10-33-23 +0000"
+  },
+  {
+    "headline": "Britain Announces Social Media Ban for Children",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-10-33-23 +0000"
+  },
+  {
+    "headline": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+    "link": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-10-24-09 +0000"
+  },
+  {
+    "headline": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+    "link": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-10-24-09 +0000"
+  },
+  {
+    "headline": "U.K. to Ban Under-16s From Major Social-Media Platforms",
+    "link": "https://www.wsj.com/world/uk/u-k-to-ban-social-media-for-under-16s-2df2ffd8",
+    "source": "wsj",
+    "pubdate": "2026-06-15-10-24-00 +0000"
+  },
+  {
+    "headline": "Norway crown princess's son sentenced to 4 years in prison after rape conviction",
+    "link": "https://www.cbc.ca/news/world/norway-royals-borg-hoiby-sentencing-9.7235354?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-15-10-23-44 +0000"
+  },
+  {
+    "headline": "Is This the Top? Readers Tell Us the Signs",
+    "link": "https://www.wsj.com/finance/stocks/is-this-the-top-readers-tell-us-the-signs-15b45989?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-10-22-00 +0000"
+  },
+  {
+    "headline": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
+    "link": "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-10-21-10 +0000"
+  },
+  {
+    "headline": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
+    "link": "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-10-21-10 +0000"
+  },
+  {
+    "headline": "Farage vows to ban foreign nationals from social housing",
+    "link": "https://www.bbc.com/news/articles/cdjkd4mp93zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-10-20-59 +0000"
+  },
+  {
+    "headline": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
+    "link": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-10-10-09 +0000"
+  },
+  {
+    "headline": "Israel refuses to leave Lebanon, vows to hit Iran ‘with all our might’ if Tehran attacks",
+    "link": "https://nypost.com/2026/06/15/world-news/israel-refuses-to-leave-lebanon-vows-to-hit-iran-with-all-our-might-if-tehran-attacks/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-10-08-42 +0000"
+  },
+  {
+    "headline": "Last man running: This Bloomington man, 76, is the only person to finish all of the Grandma’s Marathons — so far",
+    "link": "https://www.startribune.com/last-man-running-this-minneapolis-man-76-is-the-only-person-to-finish-all-grandmas-marathons-so-far/601851813",
+    "source": "startribune",
+    "pubdate": "2026-06-15-10-01-00 +0000"
+  },
+  {
+    "headline": "Pensions, passports and misinformation: What each side says the other gets wrong about Alberta independence",
+    "link": "https://www.cbc.ca/news/canada/calgary/independence-myth-engagement-9.7219718?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "El Niño has arrived: 5 ways California could get pummeled",
+    "link": "https://www.latimes.com/california/story/2026-06-15/el-nino-has-arrived-5-ways-california-could-get-pummeled",
+    "source": "latimes",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "This startup was supposed to revolutionize California's wine industry: 'It totally failed'",
+    "link": "https://www.latimes.com/business/story/2026-06-15/this-startup-was-supposed-to-revolutionize-californias-wine-industry-it-totally-failed",
+    "source": "latimes",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "What COVID is teaching doctors about the relationship between viruses and cancer",
+    "link": "https://www.latimes.com/science/story/2026-06-15/what-covid-teaches-doctors-about-relationship-viruses-cancer",
+    "source": "latimes",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "Historic Knicks NBA championship has New Yorkers dancing in the streets: ‘Unifying the world’",
+    "link": "https://nypost.com/2026/06/15/us-news/historic-knicks-nba-championship-has-new-yorkers-dancing-in-the-streets-unifying-the-world/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "Eurozone Industrial Production Picked Up Again in April",
+    "link": "https://www.wsj.com/economy/eurozone-industrial-production-picked-up-again-in-april-a7905bf0",
+    "source": "wsj",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "Eurozone Industrial Production Picked Up Again in April",
+    "link": "https://www.wsj.com/economy/eurozone-industrial-production-picked-up-again-in-april-a7905bf0",
+    "source": "wsj",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "This startup was supposed to revolutionize California's wine industry: 'It totally failed'",
+    "link": "https://www.latimes.com/business/story/2026-06-15/this-startup-was-supposed-to-revolutionize-californias-wine-industry-it-totally-failed",
+    "source": "latimes",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "Big Brands, Venture Capital and MrBeast Put Money Behind Short-Video ‘Clipping’",
+    "link": "https://www.wsj.com/cmo-today/big-brands-venture-capital-and-mrbeast-put-money-behind-short-video-clipping-1e6ad58e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "Anthropic downplays security risks of ‘Mythos’ and ‘Fable’ AI models after ban — prompting scorn from White House officials",
+    "link": "https://nypost.com/2026/06/15/business/anthropic-downplays-security-risks-of-mythos-and-fable-ai-models-after-ban-prompting-scorn-from-white-house-officials/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "Minnesota Poll: Klobuchar leads all GOP candidates for governor",
+    "link": "https://www.startribune.com/minnesota-poll-klobuchar-leads-all-gop-candidates-for-governor/601850018",
+    "source": "startribune",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "Souhan: Given the Vikings’ title drought, why are their owners so popular?",
+    "link": "https://www.startribune.com/minnesota-vikings-nfl-owners-wilfs-kyler-murray-jj-mccarthy-quarterbacks-super-bowl/601854551",
+    "source": "startribune",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
+    "headline": "Russian attacks kill 11 across Ukraine, set centuries-old religious site in Kyiv ablaze",
+    "link": "https://www.cbc.ca/news/world/kyiv-cathedral-russian-missile-kharkiv-9.7235337?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-15-09-52-21 +0000"
+  },
+  {
+    "headline": "Israelis denounce Trump’s deal with Iran",
+    "link": "https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/",
+    "source": "wapo",
+    "pubdate": "2026-06-15-09-45-52 +0000"
+  },
+  {
+    "headline": "Australia demands answers after girl taken hostage is shot dead by Pakistan police",
+    "link": "https://www.bbc.com/news/articles/cgqj9v7nw3vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-09-42-20 +0000"
+  },
+  {
+    "headline": "Trump’s Iran Deal Raises Questions Set to Dominate G-7",
+    "link": "https://www.wsj.com/world/middle-east/questions-about-trumps-iran-deal-set-to-dominate-g-7-fcd7fcbc",
+    "source": "wsj",
+    "pubdate": "2026-06-15-09-36-00 +0000"
+  },
+  {
+    "headline": "World leaders welcome news that the Strait of Hormuz could soon reopen.",
+    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/world-leaders-welcome-news-the-strait-of-hormuz-could-soon-reopen",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-34-58 +0000"
+  },
+  {
+    "headline": "World leaders welcome news that the Strait of Hormuz could soon reopen.",
+    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/world-leaders-welcome-news-the-strait-of-hormuz-could-soon-reopen",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-34-58 +0000"
+  },
+  {
+    "headline": "Kidnapped Nigerian retired general dies in captivity",
+    "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-09-34-11 +0000"
+  },
+  {
+    "headline": "Ukraine Is About to Take a Big Step on a Long Road Toward the European Union",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-31-06 +0000"
+  },
+  {
+    "headline": "Ukraine Is About to Take a Big Step on a Long Road Toward the European Union",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-31-06 +0000"
+  },
+  {
+    "headline": "Work from home is hardly over. In fact, it’s probably here to stay.",
+    "link": "https://www.wsj.com/economy/jobs/work-from-home-is-here-to-stayeven-if-some-ceos-dont-love-it-5bd6690a",
+    "source": "wsj",
+    "pubdate": "2026-06-15-09-30-00 +0000"
+  },
+  {
+    "headline": "A Nation’s Soccer Hero: The Superfan Who Says He Can Stop Goals",
+    "link": "https://www.wsj.com/sports/soccer/world-cup-congo-mboladinga-lumumba-8a719d1c",
+    "source": "wsj",
+    "pubdate": "2026-06-15-09-30-00 +0000"
+  },
+  {
+    "headline": "Is the Luxury Handbag’s Heyday Ending?",
+    "link": "https://www.wsj.com/business/retail/is-the-luxury-handbags-heyday-ending-ed1a589e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-09-30-00 +0000"
+  },
+  {
+    "headline": "Is the Luxury Handbag’s Heyday Ending?",
+    "link": "https://www.wsj.com/business/retail/is-the-luxury-handbags-heyday-ending-ed1a589e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-09-30-00 +0000"
+  },
+  {
+    "headline": "Oil Plunges as U.S., Iran Reach Deal to Reopen Hormuz But Outlook Remains Uncertain",
+    "link": "https://www.wsj.com/business/energy-oil/oil-slides-as-u-s-iran-reach-deal-to-reopen-hormuz-04fd7e87?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-09-16-00 +0000"
+  },
+  {
+    "headline": "Oil Plunges as U.S., Iran Reach Deal to Reopen Hormuz But Outlook Remains Uncertain",
+    "link": "https://www.wsj.com/business/energy-oil/oil-slides-as-u-s-iran-reach-deal-to-reopen-hormuz-04fd7e87?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-15-09-16-00 +0000"
+  },
+  {
+    "headline": "Pro wrestler Jordan Saint killed in head-on crash on Long Island",
+    "link": "https://nypost.com/2026/06/15/us-news/pro-wrestler-jordan-saint-killed-in-head-on-crash-on-long-island/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-09-11-27 +0000"
+  },
+  {
+    "headline": "Alabama’s Senate Primary Runoff Again Tests Trump’s Hold on G.O.P.",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/alabama-senate-primary-trump-republican.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-03-49 +0000"
+  },
+  {
+    "headline": "Alabama’s Senate Primary Runoff Again Tests Trump’s Hold on G.O.P.",
+    "link": "https://www.nytimes.com/2026/06/15/us/politics/alabama-senate-primary-trump-republican.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-03-49 +0000"
+  },
+  {
+    "headline": "Father Dionysios Tabakis’s Drone Metal Debut",
+    "link": "https://www.nytimes.com/2026/06/15/arts/music/father-dionysios-tabakis-paradise-metal.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-03-03 +0000"
+  },
+  {
+    "headline": "How Ukraine Uses A.I. to Knock Deadly Russian Drones Out of the Skies",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-russia-war-ai.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-02-40 +0000"
+  },
+  {
+    "headline": "How Ukraine Uses A.I. to Knock Deadly Russian Drones Out of the Skies",
+    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-russia-war-ai.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-02-40 +0000"
+  },
+  {
+    "headline": "In Alabama, Opposition to Renewable Solar Energy Joins a Data Center Battle",
+    "link": "https://www.nytimes.com/2026/06/15/us/elections/alabama-election-data-centers-solar-power.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-02-11 +0000"
+  },
+  {
+    "headline": "The ‘No Kings’ Protest Killing With a Novel Legal Twist",
+    "link": "https://www.nytimes.com/2026/06/15/us/no-kings-protest-shooting.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-02-03 +0000"
+  },
+  {
+    "headline": "How Quebec Left the Church and Became the World Leader in Assisted Dying",
+    "link": "https://www.nytimes.com/2026/06/15/world/canada/quebec-medically-assisted-dying-catholic.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-02-01 +0000"
+  },
+  {
+    "headline": "How Quebec Left the Church and Became the World Leader in Assisted Dying",
+    "link": "https://www.nytimes.com/2026/06/15/world/canada/quebec-medically-assisted-dying-catholic.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-02-01 +0000"
+  },
+  {
+    "headline": "Mining Tycoon Gina Rinehart Buys Over $1 Billion SpaceX Stake",
+    "link": "https://www.wsj.com/business/mining-tycoon-gina-rinehart-buys-over-1-billion-spacex-stake-d79ec3ba?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-09-02-00 +0000"
+  },
+  {
+    "headline": "To Toast America’s Birthday, They Blended Bourbon From Every State",
+    "link": "https://www.nytimes.com/2026/06/15/dining/drinks/united-states-of-bourbon-blend-lost-lantern.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-00-51 +0000"
+  },
+  {
+    "headline": "Inside Colombia’s Never-Ending Drug War",
+    "link": "https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-00-36 +0000"
+  },
+  {
+    "headline": "Inside Colombia’s Never-Ending Drug War",
+    "link": "https://www.nytimes.com/2026/06/15/world/americas/colombia-drug-war-violence-petro.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-00-36 +0000"
+  },
+  {
+    "headline": "Is This the End of Political Islam?",
+    "link": "https://www.nytimes.com/2026/06/15/magazine/political-islam-middle-east.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-00-34 +0000"
+  },
+  {
+    "headline": "Uzbekistan Is Attracting Younger Travelers, but Does It Live Up to the Buzz?",
+    "link": "https://www.nytimes.com/2026/06/15/travel/uzbekistan-central-asia-tourism-tashkent-samarkand.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-09-00-17 +0000"
+  },
+  {
+    "headline": "Trump allies raise alarm as energy inflation overpowers his economic policies",
+    "link": "https://www.washingtonpost.com/business/2026/06/15/trump-allies-warn-energy-inflation-is-so-bad-its-undermining-trumps-economic-policies/",
+    "source": "wapo",
+    "pubdate": "2026-06-15-09-00-00 +0000"
   },
   {
     "headline": "Roy Hattersley, former Labour deputy leader, dies aged 93",
@@ -24,16 +954,10 @@
     "pubdate": "2026-06-15-08-35-26 +0000"
   },
   {
-    "headline": "Britain Announces Social Media Ban for Children",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-08-22-56 +0000"
-  },
-  {
-    "headline": "Britain Announces Social Media Ban for Children",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-08-22-56 +0000"
+    "headline": "Dublin-born Cape Verde star recruited on LinkedIn gets World Cup chance",
+    "link": "https://www.bbc.com/sport/football/articles/c7590ln3l06o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-08-24-39 +0000"
   },
   {
     "headline": "Here’s the latest.",
@@ -52,30 +976,6 @@
     "link": "https://nypost.com/2026/06/15/us-news/national-guardsman-natravien-landry-pleads-guilty-to-fatal-shooting-of-soldier-he-found-in-bed-with-his-ex-girlfriend/",
     "source": "nypost",
     "pubdate": "2026-06-15-08-19-28 +0000"
-  },
-  {
-    "headline": "Iran War Live Updates: U.S. and Tehran Agree on Framework for Peace",
-    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
-    "source": "nyt",
-    "pubdate": "2026-06-15-08-17-21 +0000"
-  },
-  {
-    "headline": "US and Iran agree deal to end war as Trump says Strait of Hormuz to reopen",
-    "link": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-08-13-10 +0000"
-  },
-  {
-    "headline": "Dollar’s Falls Could Remain Limited Ahead of Fed Decision",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-on-u-s-iran-interim-peace-deal-78c42dff?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-15-08-11-00 +0000"
-  },
-  {
-    "headline": "Oil Prices at Crossroads as Supply Recovery Meets Demand Shifts, Barclays Says",
-    "link": "https://www.wsj.com/finance/commodities-futures/bremt-futures-may-fall-to-80-per-barrel-by-year-end-if-strait-of-hormuz-not-closed-again-5484ba25?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-15-08-08-00 +0000"
   },
   {
     "headline": "For Chinese automakers, markets like Canada are more important than ever",
@@ -102,24 +1002,6 @@
     "pubdate": "2026-06-15-07-59-09 +0000"
   },
   {
-    "headline": "U.S. Futures, Global Stocks Rise; Oil Prices Tumble on Iran Peace Deal",
-    "link": "https://www.wsj.com/finance/u-s-futures-global-stocks-rise-oil-prices-tumble-on-iran-peace-deal-bc4e0000?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-15-07-59-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-15-07-58-29 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-15-07-58-29 +0000"
-  },
-  {
     "headline": "China detains two leaders of influential underground church",
     "link": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -130,54 +1012,6 @@
     "link": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-15-07-56-43 +0000"
-  },
-  {
-    "headline": "Son of Norway’s Crown Princess Is Convicted of Rape",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/marius-borg-hoiby-verdict-norway.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-07-49-00 +0000"
-  },
-  {
-    "headline": "Son of Norway’s Crown Princess Is Convicted of Rape",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/marius-borg-hoiby-verdict-norway.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-07-49-00 +0000"
-  },
-  {
-    "headline": "Saint-Gobain to Sell Dahl Business to Kesko for $1.76 Billion",
-    "link": "https://www.wsj.com/business/deals/saint-gobain-to-sell-dahl-business-to-kesko-for-1-76-billion-a2df4d75?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-15-07-48-00 +0000"
-  },
-  {
-    "headline": "Norwegian crown princess's son found guilty of two counts of rape",
-    "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-07-42-27 +0000"
-  },
-  {
-    "headline": "Norwegian crown princess's son found guilty of two counts of rape",
-    "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-07-42-27 +0000"
-  },
-  {
-    "headline": "Oil prices fall and shares jump after US-Iran deal announced",
-    "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-07-38-09 +0000"
-  },
-  {
-    "headline": "Oil prices fall and shares jump after US-Iran deal announced",
-    "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-07-38-09 +0000"
-  },
-  {
-    "headline": "Oil prices fall and shares jump after US-Iran deal announced",
-    "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-07-38-09 +0000"
   },
   {
     "headline": "America’s wounded, struggling veterans get brand-new homes built by Florida teens",
@@ -186,31 +1020,13 @@
     "pubdate": "2026-06-15-07-37-33 +0000"
   },
   {
-    "headline": "Oil Slides as U.S., Iran Reach Deal to Reopen Hormuz",
-    "link": "https://www.wsj.com/business/energy-oil/oil-slides-as-u-s-iran-reach-deal-to-reopen-hormuz-04fd7e87?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-15-07-33-00 +0000"
-  },
-  {
-    "headline": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
-    "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-07-20-32 +0000"
-  },
-  {
-    "headline": "Russian strikes kill nine and set historic cathedral in Kyiv ablaze",
-    "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-07-20-32 +0000"
-  },
-  {
     "headline": "Son of Norway’s crown princess sentenced to 4 years in prison for rape",
     "link": "https://nypost.com/2026/06/15/world-news/son-of-norways-crown-princess-marius-borg-hoiby-sentenced-to-4-years-in-prison-for-rape/",
     "source": "nypost",
     "pubdate": "2026-06-15-07-13-22 +0000"
   },
   {
-    "headline": "UniCredit Rejects Commerzbank’s Claims of Unusual Tender Behaviour",
+    "headline": "UniCredit Rejects Commerzbank’s Claims of Unusual Tender Behavior",
     "link": "https://www.wsj.com/business/deals/unicredit-rejects-commerzbanks-claims-of-unusual-tender-behaviour-4442b268?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-06-15-07-09-00 +0000"
@@ -228,16 +1044,10 @@
     "pubdate": "2026-06-15-06-50-46 +0000"
   },
   {
-    "headline": "World leaders welcome news that the Strait of Hormuz could soon reopen.",
-    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/world-leaders-welcome-news-the-strait-of-hormuz-could-soon-reopen",
-    "source": "nyt",
-    "pubdate": "2026-06-15-06-49-56 +0000"
-  },
-  {
-    "headline": "World leaders welcome news that the Strait of Hormuz could soon reopen.",
-    "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal/world-leaders-welcome-news-the-strait-of-hormuz-could-soon-reopen",
-    "source": "nyt",
-    "pubdate": "2026-06-15-06-49-56 +0000"
+    "headline": "US musician Oliver Tree dies in helicopter collision in Brazil",
+    "link": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-06-47-23 +0000"
   },
   {
     "headline": "US musician Oliver Tree dies in helicopter collision in Brazil",
@@ -262,24 +1072,6 @@
     "link": "https://www.wsj.com/business/renault-thales-team-up-for-tactical-vehicle-prototype-for-armed-forces-d65ca98d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-06-15-06-07-00 +0000"
-  },
-  {
-    "headline": "Oil Prices Tumble After Trump Announces Deal With Iran",
-    "link": "https://www.nytimes.com/2026/06/14/business/oil-stocks-gas-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-05-50-37 +0000"
-  },
-  {
-    "headline": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-05-50-31 +0000"
-  },
-  {
-    "headline": "Historic Orthodox Cathedral Burns in Russian Attack on Kyiv",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-kyiv-russia-attack-orthodox-cathedral.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-05-50-31 +0000"
   },
   {
     "headline": "Trump’s U.F.C. Event Comes as Backing of Young Men, Once a Strength, Wanes",
@@ -360,12 +1152,6 @@
     "pubdate": "2026-06-15-04-23-08 +0000"
   },
   {
-    "headline": "Mining Tycoon Gina Rinehart Buys Over $1 Billion SpaceX Stake",
-    "link": "https://www.wsj.com/business/mining-tycoon-gina-rinehart-buys-over-1-billion-spacex-stake-d79ec3ba?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-15-04-18-00 +0000"
-  },
-  {
     "headline": "Trump sought to break Iran’s regime. He settled for reopening Hormuz.",
     "link": "https://www.washingtonpost.com/politics/2026/06/15/deal-with-iran-trump-settled-much-less-than-he-set-out-get/",
     "source": "wapo",
@@ -444,6 +1230,12 @@
     "pubdate": "2026-06-15-02-41-25 +0000"
   },
   {
+    "headline": "Trump heralds Iran deal but questions - and risks - remain",
+    "link": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-02-41-25 +0000"
+  },
+  {
     "headline": "U.S. and Iran Reach Agreement to Reopen Strait and Begin Nuclear Talks",
     "link": "https://www.nytimes.com/2026/06/14/world/middleeast/us-iran-deal-strait-of-hormuz.html",
     "source": "nyt",
@@ -486,34 +1278,10 @@
     "pubdate": "2026-06-15-02-00-00 +0000"
   },
   {
-    "headline": "Chilling final post of bungee jumper who plummeted to death after she was thrown with no cord",
+    "headline": "Chilling final post of bungee jumper who plummeted to death when she was thrown with no cord",
     "link": "https://nypost.com/2026/06/14/world-news/chilling-final-post-of-bungee-jumper-who-plummeted-to-death-after-she-was-thrown-with-no-cord/",
     "source": "nypost",
     "pubdate": "2026-06-15-01-54-43 +0000"
-  },
-  {
-    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-41-17 +0000"
-  },
-  {
-    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-41-17 +0000"
-  },
-  {
-    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-41-17 +0000"
-  },
-  {
-    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-41-17 +0000"
   },
   {
     "headline": "Cruise tipping charges are ‘out of control,’ say passengers as companies tout ‘exceptional service’",
@@ -522,10 +1290,10 @@
     "pubdate": "2026-06-15-01-40-48 +0000"
   },
   {
-    "headline": "Unclear if US-Iran agreement will provide respite to Lebanon",
-    "link": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-01-37-47 +0000"
+    "headline": "Vedanta Chair Confident About Dividends, Focused on Growth as Indian Conglomerate Splits Up",
+    "link": "https://www.wsj.com/business/vedanta-chair-confident-about-dividends-focused-on-growth-as-indian-conglomerate-splits-up-73913b36?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-15-01-40-00 +0000"
   },
   {
     "headline": "Unclear if US-Iran agreement will provide respite to Lebanon",
@@ -534,10 +1302,10 @@
     "pubdate": "2026-06-15-01-37-47 +0000"
   },
   {
-    "headline": "A week of budget protests as Lurie’s brutal cuts hit everyone except the cops",
-    "link": "https://48hills.org/2026/06/a-week-of-budget-protests-as-luries-brutal-cuts-hit-everyone-except-the-cops/",
-    "source": "48hills",
-    "pubdate": "2026-06-15-01-24-59 +0000"
+    "headline": "Unclear if US-Iran agreement will provide respite to Lebanon",
+    "link": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-01-37-47 +0000"
   },
   {
     "headline": "U.F.C. Viewing Party Draws Thousands to White House Ellipse",
@@ -562,12 +1330,6 @@
     "link": "https://www.nytimes.com/2026/06/14/arts/music/oliver-tree-dead-brazil-helicopter-crash.html",
     "source": "nyt",
     "pubdate": "2026-06-15-01-10-56 +0000"
-  },
-  {
-    "headline": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
-    "link": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-05-28 +0000"
   },
   {
     "headline": "The U.S. military wants defense contractors to supply less-costly missiles on a faster timeline",
@@ -618,7 +1380,7 @@
     "pubdate": "2026-06-15-00-22-00 +0000"
   },
   {
-    "headline": "Israelis slam proposed US-Iran peace deal as a ‘Bad Deal,’ say it fails to address security concerns",
+    "headline": "Israelis slam proposed US-Iran peace pact as a ‘Bad Deal,’ say it fails to address security concerns",
     "link": "https://nypost.com/2026/06/14/world-news/israelis-slam-us-iran-peace-deal-as-a-bad-deal/",
     "source": "nypost",
     "pubdate": "2026-06-15-00-19-13 +0000"
@@ -678,13 +1440,19 @@
     "pubdate": "2026-06-14-23-29-45 +0000"
   },
   {
-    "headline": "As more US business owners retire many are selling up to their staff",
+    "headline": "Why I sold my business to my staff",
     "link": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-14-23-26-01 +0000"
   },
   {
-    "headline": "As more US business owners retire many are selling up to their staff",
+    "headline": "Why I sold my business to my staff",
+    "link": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-14-23-26-01 +0000"
+  },
+  {
+    "headline": "Why I sold my business to my staff",
     "link": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-14-23-26-01 +0000"
@@ -702,13 +1470,13 @@
     "pubdate": "2026-06-14-23-25-30 +0000"
   },
   {
-    "headline": "Money stolen in four million fraud cases in a year",
+    "headline": "Financial losses from scams hit £1.3bn a year as criminals turn to AI",
     "link": "https://www.bbc.com/news/articles/cwykp9ygxlvo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-14-23-25-15 +0000"
   },
   {
-    "headline": "Money stolen in four million fraud cases in a year",
+    "headline": "Financial losses from scams hit £1.3bn a year as criminals turn to AI",
     "link": "https://www.bbc.com/news/articles/cwykp9ygxlvo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-14-23-25-15 +0000"
@@ -744,12 +1512,6 @@
     "pubdate": "2026-06-14-23-20-11 +0000"
   },
   {
-    "headline": "Twins promote outfield prospect Kyler Fedko to majors, cut infielder Orlando Arcia",
-    "link": "https://www.startribune.com/minnesota-twins-roster-promote-kyler-fedko-prospects-orlando-arcia/601857181",
-    "source": "startribune",
-    "pubdate": "2026-06-14-23-19-47 +0000"
-  },
-  {
     "headline": "WSJ Politics Special Edition: Trump’s Iran Deal Will Hinge on These Things",
     "link": "https://www.wsj.com/world/middle-east/wsj-politics-special-edition-trumps-iran-deal-will-hinge-on-these-things-bb2cddfb",
     "source": "wsj",
@@ -780,34 +1542,10 @@
     "pubdate": "2026-06-14-23-07-57 +0000"
   },
   {
-    "headline": "Olé, olé, olé, olé - What makes a memorable World Cup song?",
-    "link": "https://www.bbc.com/news/articles/c5yz434v7nro?at_medium=RSS&at_campaign=rss",
+    "headline": "Canadian prime minister in Ireland to visit ancestral homeland",
+    "link": "https://www.bbc.com/news/articles/c0ryqyq8v42o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-14-23-03-55 +0000"
-  },
-  {
-    "headline": "Secret plot ahead of Iran’s World Cup blockbuster at SoFi Stadium – as FIFA forced to step in",
-    "link": "https://nypost.com/2026/06/14/us-news/secret-plot-ahead-of-irans-world-cup-blockbuster-at-sofi-stadium-as-fifa-forced-to-step-in/",
-    "source": "nypost",
-    "pubdate": "2026-06-14-22-50-36 +0000"
-  },
-  {
-    "headline": "California man accused of ISIS terror plot with ex-Navy sailor to blow up Special Forces issues pitiful statement",
-    "link": "https://nypost.com/2026/06/14/us-news/california-man-accused-of-isis-terror-plot-with-ex-navy-sailor-to-blow-up-special-forces-issues-pitiful-statement/",
-    "source": "nypost",
-    "pubdate": "2026-06-14-22-44-20 +0000"
-  },
-  {
-    "headline": "Singer Oliver Tree, 32, killed in helicopter crash in Brazil",
-    "link": "https://nypost.com/2026/06/14/us-news/singer-oliver-tree-32-killed-in-helicopter-crash-in-brazil/",
-    "source": "nypost",
-    "pubdate": "2026-06-14-22-42-58 +0000"
-  },
-  {
-    "headline": "Shock twist after California Amazon delivery driver caught taking family cat off their doorstep",
-    "link": "https://nypost.com/2026/06/14/us-news/shock-twist-after-california-amazon-delivery-driver-caught-taking-family-cat-off-their-doorstep/",
-    "source": "nypost",
-    "pubdate": "2026-06-14-22-40-36 +0000"
+    "pubdate": "2026-06-14-23-03-12 +0000"
   },
   {
     "headline": "President Trump Endorses Mike Collins in Georgia Senate Runoff",
@@ -816,40 +1554,10 @@
     "pubdate": "2026-06-14-22-30-16 +0000"
   },
   {
-    "headline": "President Trump Endorses Mike Collins in Georgia Senate Runoff",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-mike-collins-georgia-senate-runoff.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-22-30-16 +0000"
-  },
-  {
-    "headline": "Litter of puppies to be trained in honor of Hortmans’ dog Gilbert",
-    "link": "https://www.startribune.com/litter-of-puppies-to-be-trained-in-honor-of-hortmans-dog-gilbert/601857151",
-    "source": "startribune",
-    "pubdate": "2026-06-14-22-27-32 +0000"
-  },
-  {
-    "headline": "NY Post’s front page becomes instant classic after Knicks’ historic win: ‘It’s a keepsake’",
-    "link": "https://nypost.com/2026/06/14/us-news/ny-posts-front-page-becomes-instant-classic-after-knicks-win/",
-    "source": "nypost",
-    "pubdate": "2026-06-14-22-26-25 +0000"
-  },
-  {
     "headline": "Wild ‘UFC Freedom 250’ card on White House South Lawn draws rave reviews: ‘Put on a great show’",
     "link": "https://nypost.com/2026/06/14/us-news/ufc-freedom-250-card-draws-thousands-to-dc-on-trumps-80th-birthday/",
     "source": "nypost",
     "pubdate": "2026-06-14-22-24-22 +0000"
-  },
-  {
-    "headline": "Wild ‘UFC Freedom 250’ card on White House South Lawn draws rave reviews: ‘Put on a great show’",
-    "link": "https://nypost.com/2026/06/14/us-news/ufc-freedom-250-card-draws-thousands-to-dc-on-trumps-80th-birthday/",
-    "source": "nypost",
-    "pubdate": "2026-06-14-22-24-22 +0000"
-  },
-  {
-    "headline": "Rich Californians deploy creative ways to get around hated billionaire tax – including giving cash away",
-    "link": "https://nypost.com/2026/06/14/us-news/rich-californians-deploy-creative-ways-to-get-around-hated-billionaire-tax-including-giving-cash-away/",
-    "source": "nypost",
-    "pubdate": "2026-06-14-22-22-39 +0000"
   },
   {
     "headline": "Rich Californians deploy creative ways to get around hated billionaire tax – including giving cash away",
@@ -862,12 +1570,6 @@
     "link": "https://www.washingtonpost.com/world/2026/06/14/us-singer-oliver-tree-among-six-killed-helicopter-crash-brazil/",
     "source": "wapo",
     "pubdate": "2026-06-14-22-17-16 +0000"
-  },
-  {
-    "headline": "Kamala Harris briefly reemerges from political wilderness at notorious LA gay bar The Abbey",
-    "link": "https://nypost.com/2026/06/14/us-news/kamala-harris-briefly-reemerges-from-political-wilderness-at-notorious-la-gay-bar-the-abbey/",
-    "source": "nypost",
-    "pubdate": "2026-06-14-22-13-46 +0000"
   },
   {
     "headline": "Trump says he’ll refuse FISA spy power extension without SAVE America Act tacked on",
@@ -894,18 +1596,6 @@
     "pubdate": "2026-06-14-21-44-08 +0000"
   },
   {
-    "headline": "Trump Again Picks Personal Lawyer for a Top Job, as U.S. Attorney in Manhattan",
-    "link": "https://www.nytimes.com/2026/06/13/us/politics/trump-lawyer-us-attorney-manhattan.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-21-44-08 +0000"
-  },
-  {
-    "headline": "Assisted dying returns to Parliament as MP urges peers to 'finish the job'",
-    "link": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-14-21-43-48 +0000"
-  },
-  {
     "headline": "Russians using AI to recreate dead soldiers for up to $133 an image, paint over horrors of war",
     "link": "https://nypost.com/2026/06/14/world-news/russians-using-ai-to-recreate-dead-soldiers-paint-over-horrors-of-war/",
     "source": "nypost",
@@ -924,12 +1614,6 @@
     "pubdate": "2026-06-14-21-36-06 +0000"
   },
   {
-    "headline": "Trump says a deal has been reached with Iran and he has authorized an end to the US naval blockade in Strait of Hormuz",
-    "link": "https://www.startribune.com/trump-says-a-deal-has-been-reached-with-iran-and-he-has-authorized-an-end-to-the-us-naval-blockade-in-strait-of-hormuz/601857186",
-    "source": "startribune",
-    "pubdate": "2026-06-14-21-35-16 +0000"
-  },
-  {
     "headline": "Roy Hattersley: Labour politician who helped start the party's modernisation",
     "link": "https://www.bbc.com/news/articles/c7224g41x1po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -940,12 +1624,6 @@
     "link": "https://nypost.com/2026/06/14/us-news/scranton-mayor-vying-for-congress-once-hired-a-known-criminal-for-key-commission/",
     "source": "nypost",
     "pubdate": "2026-06-14-21-13-29 +0000"
-  },
-  {
-    "headline": "Metro Transit wants to make it easier to find your bus or train",
-    "link": "https://www.startribune.com/metro-transit-wants-to-make-it-easier-to-find-your-bus-or-train/601855952",
-    "source": "startribune",
-    "pubdate": "2026-06-14-21-00-00 +0000"
   },
   {
     "headline": "Mitch McConnell hospitalized with mystery ailment",
@@ -976,6 +1654,12 @@
     "link": "https://www.cbc.ca/news/politics/g7-carney-ireland-9.7235087?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-06-14-20-32-34 +0000"
+  },
+  {
+    "headline": "Eleven skydivers and pilot killed in US plane crash",
+    "link": "https://www.bbc.com/news/articles/c74ym4j40gpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-14-20-32-00 +0000"
   },
   {
     "headline": "GOP rep calls Texas Dem Talarico ‘barely straight version of Pete Buttigieg,’ gets reminded of ‘very beautiful’ vegan girlfriend",
@@ -1044,13 +1728,7 @@
     "pubdate": "2026-06-14-20-03-43 +0000"
   },
   {
-    "headline": "Farage vows to ban foreign nationals from social housing",
-    "link": "https://www.bbc.com/news/articles/cdjkd4mp93zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-14-19-57-28 +0000"
-  },
-  {
-    "headline": "Protesters clash with police ahead of G7 summit in Geneva",
+    "headline": "Protesters clash with police ahead of G7 summit in France",
     "link": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-14-19-46-36 +0000"
@@ -1128,19 +1806,13 @@
     "pubdate": "2026-06-14-18-45-44 +0000"
   },
   {
-    "headline": "Team Curaçao Arrives at the World Cup With Much of the Island in Tow.",
-    "link": "https://www.nytimes.com/2026/06/14/us/team-curacao-world-cup-fans.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-18-41-00 +0000"
-  },
-  {
     "headline": "‘Disclosure Day’ Ends Spielberg’s Summer Box Office Drought",
     "link": "https://www.nytimes.com/2026/06/14/business/media/disclosure-day-steven-spielberg-box-office.html",
     "source": "nyt",
     "pubdate": "2026-06-14-18-38-14 +0000"
   },
   {
-    "headline": "6 people killed after helicopters collide in Brazil",
+    "headline": "U.S. performer Oliver Tree, Argentine YouTube personality reportedly killed in Brazil helicopter crash",
     "link": "https://www.cbc.ca/news/world/helicopter-collision-brazil-9.7235062?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-06-14-18-30-03 +0000"
@@ -1227,12 +1899,6 @@
     "headline": "Meet Anna Paulina Luna, the Republican congresswoman show knows how to excite the MAGA base, and annoy her colleagues",
     "link": "https://www.wsj.com/politics/policy/the-congresswoman-who-knows-exactly-how-to-go-viral-366923b7",
     "source": "wsj",
-    "pubdate": "2026-06-14-17-00-00 +0000"
-  },
-  {
-    "headline": "Four things to know about the baseball state tournament championship day",
-    "link": "https://www.startribune.com/mn-high-school-baseball-state-tournament-championship-matchups/601856451",
-    "source": "startribune",
     "pubdate": "2026-06-14-17-00-00 +0000"
   },
   {
@@ -1332,12 +1998,6 @@
     "pubdate": "2026-06-14-16-00-00 +0000"
   },
   {
-    "headline": "Voters Reject Anti-Islam Candidate in Mayoral Race in Dallas Suburb",
-    "link": "https://www.nytimes.com/2026/06/13/us/frisco-texas-mayor-election-mark-hill.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-15-57-20 +0000"
-  },
-  {
     "headline": "MP opens up on 30-year fight for period healthcare",
     "link": "https://www.bbc.com/news/articles/cgrknv9qvx4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1378,12 +2038,6 @@
     "link": "https://www.wsj.com/us-news/backlash-is-growing-over-kevin-olearys-data-center-he-is-blaming-china-d885f1b4",
     "source": "wsj",
     "pubdate": "2026-06-14-15-00-00 +0000"
-  },
-  {
-    "headline": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
-    "link": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-14-14-52-35 +0000"
   },
   {
     "headline": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
@@ -1450,293 +2104,5 @@
     "link": "https://www.wsj.com/business/entrepreneurship/tourist-binoculars-tap-to-pay-42856c01?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-06-14-13-00-00 +0000"
-  },
-  {
-    "headline": "Trump at 80: A President ‘Really Uncomfortable’ With Aging",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-age-birthday-80.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-12-31-21 +0000"
-  },
-  {
-    "headline": "Trump at 80: A President ‘Really Uncomfortable’ With Aging",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-age-birthday-80.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-12-31-21 +0000"
-  },
-  {
-    "headline": "British forces intercept Russian shadow fleet tanker in the Channel",
-    "link": "https://www.cbc.ca/news/world/british-forces-intercept-russian-shadow-fleet-tankers-9.7234841?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-14-12-22-35 +0000"
-  },
-  {
-    "headline": "Trump warns Israel and Iran not to ‘blow it’ after new strikes threaten emerging ceasefire deal",
-    "link": "https://www.cbc.ca/news/world/israeli-military-strikes-beirut-suburb-anticipated-us-iran-deal-9.7234856?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-14-12-18-06 +0000"
-  },
-  {
-    "headline": "Iran agrees not to build a nuke, will reopen Strait of Hormuz — and US to release $25B in assets in Trump peace deal: Tehran",
-    "link": "https://nypost.com/2026/06/14/world-news/iran-agrees-not-to-build-a-nuke-will-reopen-strait-of-hormuz-and-us-to-release-25b-in-assets-in-trump-peace-deal-tehran/",
-    "source": "nypost",
-    "pubdate": "2026-06-14-12-12-46 +0000"
-  },
-  {
-    "headline": "Tourist train overturns and injures 17 during Cártama tapas festival",
-    "link": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-14-12-04-54 +0000"
-  },
-  {
-    "headline": "Building on success, Valks solidify defense as their identity",
-    "link": "https://missionlocal.org/2026/06/valkyries-gsv-wnba-defense-basketball-ballhalla/",
-    "source": "missionlocal",
-    "pubdate": "2026-06-14-12-00-00 +0000"
-  },
-  {
-    "headline": "Switzerland voters reject proposal to cap country’s population at 10 million",
-    "link": "https://nypost.com/2026/06/14/world-news/switzerland-voters-reject-proposal-to-cap-countrys-population-at-10-million/",
-    "source": "nypost",
-    "pubdate": "2026-06-14-11-54-55 +0000"
-  },
-  {
-    "headline": "Net Gain",
-    "link": "https://www.nytimes.com/2026/06/14/briefing/net-gain.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-11-33-56 +0000"
-  },
-  {
-    "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-    "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-14-11-23-36 +0000"
-  },
-  {
-    "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-    "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-14-11-23-36 +0000"
-  },
-  {
-    "headline": "Man who built Guernsey finance charity retires",
-    "link": "https://www.bbc.com/news/articles/c5yzeley5w7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-14-11-08-09 +0000"
-  },
-  {
-    "headline": "Fund boosts support for financial struggles",
-    "link": "https://www.bbc.com/news/articles/c79yz92qv57o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-14-11-04-23 +0000"
-  },
-  {
-    "headline": "Europe’s Arms Race Is Creating Boomtowns. Why Are Locals So Unhappy?",
-    "link": "https://www.wsj.com/world/europe/europes-arms-race-is-creating-boomtowns-why-are-locals-so-unhappy-f103ccdf",
-    "source": "wsj",
-    "pubdate": "2026-06-14-11-00-00 +0000"
-  },
-  {
-    "headline": "Har Mar, one of Minnesota’s oldest malls, could be headed for a new chapter",
-    "link": "https://www.startribune.com/har-mar-roseville-minnesota-struggling-redevelopment-vacancies/601855984",
-    "source": "startribune",
-    "pubdate": "2026-06-14-11-00-00 +0000"
-  },
-  {
-    "headline": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
-    "link": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-10-29-12 +0000"
-  },
-  {
-    "headline": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
-    "link": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-10-29-12 +0000"
-  },
-  {
-    "headline": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
-    "link": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-10-29-12 +0000"
-  },
-  {
-    "headline": "The G7 Summit Is Dogged by Chaos and Divided by Trump",
-    "link": "https://www.nytimes.com/2026/06/14/world/europe/g7-summit-evian-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-10-29-12 +0000"
-  },
-  {
-    "headline": "SpaceX Is Coming Early to Your Index. How Worried Should You Be?",
-    "link": "https://www.wsj.com/finance/stocks/spacex-is-coming-early-to-your-index-how-worried-should-you-be-b65bb7c4?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-14-10-10-00 +0000"
-  },
-  {
-    "headline": "California's slow vote count stirs frustration, but changes would be hard",
-    "link": "https://www.latimes.com/california/story/2026-06-14/californias-slow-vote-count-stirs-frustration-but-changes-would-be-hard",
-    "source": "latimes",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Chabria: The enemy of my enemy is a billionaire. Get over it",
-    "link": "https://www.latimes.com/california/story/2026-06-14/chabria-column-steyer-campaign-billionaires",
-    "source": "latimes",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: This historic Nevada mining town has seen better days. Trump is excavating hope",
-    "link": "https://www.latimes.com/politics/story/2026-06-14/trumps-america-nevada-mining-boom-tonopah",
-    "source": "latimes",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Here's how SoCal's car washes are learning to operate in the Trump era",
-    "link": "https://www.latimes.com/california/story/2026-06-14/immigration-raid-socal-business-impacts-car-wash-industry",
-    "source": "latimes",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "New MLK hospital program brings amputations to zero for at-risk diabetic patients",
-    "link": "https://www.latimes.com/science/story/2026-06-14/mlk-program-brings-amputations-to-zero-for-at-risk-diabetic-patients",
-    "source": "latimes",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "California's slow vote count stirs frustration, but changes would be hard",
-    "link": "https://www.latimes.com/california/story/2026-06-14/californias-slow-vote-count-stirs-frustration-but-changes-would-be-hard",
-    "source": "latimes",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "L.A.'s Year of the Dog: Why Pratt and other candidates campaigned against animal abuse",
-    "link": "https://www.latimes.com/california/story/2026-06-14/pratt-dog",
-    "source": "latimes",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Chabria: The enemy of my enemy is a billionaire. Get over it",
-    "link": "https://www.latimes.com/california/story/2026-06-14/chabria-column-steyer-campaign-billionaires",
-    "source": "latimes",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "With Iran set for World Cup match at SoFi, L.A. Iranians see glimmers of unity",
-    "link": "https://www.latimes.com/california/story/2026-06-14/iran-world-cup-sofi-stadium-la-iranians",
-    "source": "latimes",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Blue Earth man accused of $23M fraud scheme defends his business — and his Porsche",
-    "link": "https://www.startribune.com/blue-earth-man-accused-of-23-million-fraud-scheme-defends-his-business-and-his-porsche/601849220",
-    "source": "startribune",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "In Minnesota, he’s out of the spotlight. Nationally, he’s still ‘Coach Walz.’",
-    "link": "https://www.startribune.com/minnesota-gov-tim-walz-national-high-profile-local-out-of-spotlight-harris-vp-trump-small-town-pac/601855007",
-    "source": "startribune",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Tech firms had 'enough time' says Nandy, ahead of social media announcement",
-    "link": "https://www.bbc.com/news/articles/ce8jyp78mklo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-14-09-51-15 +0000"
-  },
-  {
-    "headline": "With endorsements in key New York City congressional races, Mayor Zohran Mamdani is throwing his weight around to boost Democratic socialist allies",
-    "link": "https://www.wsj.com/politics/elections/zohran-mamdani-nyc-primary-elections-ff14430e",
-    "source": "wsj",
-    "pubdate": "2026-06-14-09-30-00 +0000"
-  },
-  {
-    "headline": "A Guide to the Biggest Winners From the SpaceX IPO",
-    "link": "https://www.wsj.com/finance/investing/spacex-ipo-winners-spcx-stock-3c5b373f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-14-09-30-00 +0000"
-  },
-  {
-    "headline": "A Guide to the Biggest Winners From the SpaceX IPO",
-    "link": "https://www.wsj.com/finance/investing/spacex-ipo-winners-spcx-stock-3c5b373f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-14-09-30-00 +0000"
-  },
-  {
-    "headline": "The Faulty Logic Behind the SpaceX Index Trade",
-    "link": "https://www.wsj.com/finance/stocks/the-faulty-logic-behind-the-spacex-index-trade-6d016991?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-14-09-30-00 +0000"
-  },
-  {
-    "headline": "A Guide to the Biggest Winners From the SpaceX IPO",
-    "link": "https://www.wsj.com/finance/investing/spacex-ipo-winners-spcx-stock-3c5b373f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-14-09-30-00 +0000"
-  },
-  {
-    "headline": "How Redistricting Pit Wasserman Schultz Against Black Democrats in Florida",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/redistricting-black-democrats-debbie-wasserman-schultz-florida.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-09-01-00 +0000"
-  },
-  {
-    "headline": "How Redistricting Pit Wasserman Schultz Against Black Democrats in Florida",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/redistricting-black-democrats-debbie-wasserman-schultz-florida.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-09-01-00 +0000"
-  },
-  {
-    "headline": "How to Run a News Company in the Age of Polarization and A.I. Slop",
-    "link": "https://www.nytimes.com/2026/06/14/business/nbc-news-cesar-conde.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-09-00-46 +0000"
-  },
-  {
-    "headline": "How Utahns Took on Mr. Wonderful and a Data Center on the Great Salt Lake",
-    "link": "https://www.nytimes.com/2026/06/14/us/elections/kevin-oleary-utah-data-center.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-09-00-42 +0000"
-  },
-  {
-    "headline": "In Age of AI, World’s Leading Deepfake Expert No Longer Trusts His Own Eyes",
-    "link": "https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-09-00-34 +0000"
-  },
-  {
-    "headline": "Kash Patel Keeps Suing the Press",
-    "link": "https://www.nytimes.com/2026/06/14/business/media/kash-patel-defamation-lawsuits.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-09-00-33 +0000"
-  },
-  {
-    "headline": "Medicare Enrollment 101: What You Need to Know",
-    "link": "https://www.nytimes.com/2026/06/14/business/medicare-enrollment.html",
-    "source": "nyt",
-    "pubdate": "2026-06-14-09-00-17 +0000"
-  },
-  {
-    "headline": "Fifa to pay Somali referee Artan full World Cup fee",
-    "link": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-14-09-00-08 +0000"
-  },
-  {
-    "headline": "Fifa to pay Somali referee Artan full World Cup fee",
-    "link": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-14-09-00-08 +0000"
-  },
-  {
-    "headline": "Philly tries to make World Cup affordable after controversies in other host cities",
-    "link": "https://www.washingtonpost.com/nation/2026/06/14/philly-tries-make-world-cup-affordable-with-low-train-fare-free-fests/",
-    "source": "wapo",
-    "pubdate": "2026-06-14-09-00-00 +0000"
-  },
-  {
-    "headline": "Amid years of war, these Israelis are still pushing for peace",
-    "link": "https://www.washingtonpost.com/world/2026/06/14/amid-years-war-these-israelis-are-still-pushing-peace/",
-    "source": "wapo",
-    "pubdate": "2026-06-14-09-00-00 +0000"
   }
 ]
