@@ -1,20 +1,27 @@
 [
   {
-    "score": 157,
+    "score": 158,
     "pubdate": "2026-06-14-21-36-06 +0000",
     "source": "nypost",
     "headline": "Trump announces US and Iran have reached peace deal — here’s when the Strait of Hormuz reopens, and what happens next",
     "link": "https://nypost.com/2026/06/14/world-news/trump-says-iran-peace-deal-is-now-complete-let-the-oil-flow/"
   },
   {
-    "score": 67,
+    "score": 61,
     "pubdate": "2026-06-14-20-32-34 +0000",
     "source": "cbc",
     "headline": "Ahead of G7, Carney says no one country will characterize new world order",
     "link": "https://www.cbc.ca/news/politics/g7-carney-ireland-9.7235087?cmp=rss"
   },
   {
-    "score": 38,
+    "score": 49,
+    "pubdate": "2026-06-15-00-57-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump kicked off an Ultimate Fighting Championship cage fight on the South Lawn of the White House following a brief delay because of potential thunderstorms",
+    "link": "https://www.wsj.com/politics/trump-white-house-ufc-fight-45088d48"
+  },
+  {
+    "score": 37,
     "pubdate": "2026-06-14-23-07-57 +0000",
     "source": "nypost",
     "headline": "Mamdani-backed pol who blasted men for ‘fetishizing ugly colonizer women’ also claimed US is worse than Hamas",
@@ -28,7 +35,7 @@
     "link": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
   },
   {
-    "score": 36,
+    "score": 34,
     "pubdate": "2026-06-14-21-31-24 +0000",
     "source": "nypost",
     "headline": "Travel chaos at MetLife has World Cup fans stranded for hours — with ‘petty’ NJ Gov. Sherrill taking heat",
@@ -36,20 +43,13 @@
   },
   {
     "score": 34,
-    "pubdate": "2026-06-14-18-23-52 +0000",
-    "source": "bbc",
-    "headline": "Swiss voters reject 10 million population cap",
-    "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-06-14-11-54-55 +0000",
+    "source": "nypost",
+    "headline": "Switzerland voters reject proposal to cap country’s population at 10 million",
+    "link": "https://nypost.com/2026/06/14/world-news/switzerland-voters-reject-proposal-to-cap-countrys-population-at-10-million/"
   },
   {
-    "score": 34,
-    "pubdate": "2026-06-14-19-44-00 +0000",
-    "source": "wsj",
-    "headline": "Sen. Mitch McConnell (R., Ky.) has been admitted to the hospital, a spokesman said in a brief statement Sunday that gave no details about his condition or the cause of the hospitalization",
-    "link": "https://www.wsj.com/politics/policy/sen-mitch-mcconnell-admitted-to-hospital-aide-says-de8272c8"
-  },
-  {
-    "score": 34,
+    "score": 32,
     "pubdate": "2026-06-14-14-08-03 +0000",
     "source": "bbc",
     "headline": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
@@ -57,16 +57,16 @@
   },
   {
     "score": 31,
-    "pubdate": "2026-06-14-22-22-39 +0000",
-    "source": "nypost",
-    "headline": "Rich Californians deploy creative ways to get around hated billionaire tax – including giving cash away",
-    "link": "https://nypost.com/2026/06/14/us-news/rich-californians-deploy-creative-ways-to-get-around-hated-billionaire-tax-including-giving-cash-away/"
-  },
-  {
-    "score": 31,
     "pubdate": "2026-06-14-06-39-29 +0000",
     "source": "bbc",
     "headline": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
     "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-06-14-22-22-39 +0000",
+    "source": "nypost",
+    "headline": "Rich Californians deploy creative ways to get around hated billionaire tax – including giving cash away",
+    "link": "https://nypost.com/2026/06/14/us-news/rich-californians-deploy-creative-ways-to-get-around-hated-billionaire-tax-including-giving-cash-away/"
   }
 ]
