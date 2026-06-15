@@ -1,110 +1,56 @@
 [
   {
-    "headline": "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-iran-deal-strait-of-hormuz.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-41-17 +0000"
-  },
-  {
-    "headline": "Cruise tipping charges are ‘out of control,’ say passengers as companies tout ‘exceptional service’",
-    "link": "https://nypost.com/2026/06/14/business/cruise-tipping-charges-are-out-of-control-say-passengers-as-companies-tout-exceptional-service/",
-    "source": "nypost",
-    "pubdate": "2026-06-15-01-40-48 +0000"
-  },
-  {
-    "headline": "Oil prices slide after Pakistan announces deal between US and Iran",
-    "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-15-01-33-55 +0000"
-  },
-  {
-    "headline": "U.F.C. Viewing Party Draws Thousands to White House Ellipse",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/ufc-white-house-freedom-250-watch-party.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-20-34 +0000"
-  },
-  {
-    "headline": "U.F.C. Viewing Party Draws Thousands to White House Ellipse",
-    "link": "https://www.nytimes.com/2026/06/14/us/politics/ufc-white-house-freedom-250-watch-party.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-20-34 +0000"
-  },
-  {
-    "headline": "Dollar Likely to Trade Between 159.20-160.30 Yen on Iran Deal",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-strengthen-on-u-s-iran-interim-peace-deal-78c42dff?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-15-01-16-00 +0000"
-  },
-  {
-    "headline": "Singer Oliver Tree Is Said to Have Died in Collision of Helicopters in Brazil",
-    "link": "https://www.nytimes.com/2026/06/14/arts/music/oliver-tree-dead-brazil-helicopter-crash.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-10-56 +0000"
-  },
-  {
-    "headline": "Singer Oliver Tree Is Said to Have Died in Collision of Helicopters in Brazil",
-    "link": "https://www.nytimes.com/2026/06/14/arts/music/oliver-tree-dead-brazil-helicopter-crash.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-10-56 +0000"
-  },
-  {
-    "headline": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
-    "link": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-05-28 +0000"
-  },
-  {
-    "headline": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
-    "link": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
-    "source": "nyt",
-    "pubdate": "2026-06-15-01-05-28 +0000"
-  },
-  {
-    "headline": "Iran War Live Updates: U.S. and Iran Reach Cease-Fire Agreement",
+    "headline": "Iran War Live Updates: U.S. and Tehran Reach Framework for Peace",
     "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
     "source": "nyt",
-    "pubdate": "2026-06-15-01-01-35 +0000"
+    "pubdate": "2026-06-15-03-44-56 +0000"
   },
   {
-    "headline": "The U.S. military wants defense contractors to supply less-costly missiles on a faster timeline",
-    "link": "https://www.wsj.com/politics/national-security/how-the-pentagon-plans-to-fix-its-pricey-missile-problem-30243eb6",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-15-03-44-55 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-15-03-44-55 +0000"
+  },
+  {
+    "headline": "Hormuz Reopening Would Offer Relief for Asia, but Economic Scars Will Remain",
+    "link": "https://www.nytimes.com/2026/06/14/business/hormuz-reopen-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-03-44-11 +0000"
+  },
+  {
+    "headline": "Hormuz Reopening Would Offer Relief for Asia, but Economic Scars Will Remain",
+    "link": "https://www.nytimes.com/2026/06/14/business/hormuz-reopen-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-15-03-44-11 +0000"
+  },
+  {
+    "headline": "Decomposing body found floating in pond at NYC park",
+    "link": "https://nypost.com/2026/06/14/us-news/body-found-floating-in-pond-at-nyc-park/",
+    "source": "nypost",
+    "pubdate": "2026-06-15-03-37-25 +0000"
+  },
+  {
+    "headline": "Some of Trump’s most prominent allies attended Sunday’s cage fight on the South Lawn of the White House",
+    "link": "https://www.wsj.com/politics/see-who-attended-trumps-white-house-cage-fight-8d5a2d0b",
     "source": "wsj",
-    "pubdate": "2026-06-15-01-00-00 +0000"
+    "pubdate": "2026-06-15-03-35-00 +0000"
   },
   {
-    "headline": "The Fed has believed for decades that talking openly made its policy work better. Its new chairman believes the opposite.",
-    "link": "https://www.wsj.com/economy/central-banking/fed-warsh-chair-communication-d2f2d226",
-    "source": "wsj",
-    "pubdate": "2026-06-15-01-00-00 +0000"
+    "headline": "Man apologises for making racist gesture at Korean in World Cup match",
+    "link": "https://www.bbc.com/news/articles/cddly65p76no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-15-03-31-58 +0000"
   },
   {
-    "headline": "How the Pentagon Plans to Fix Its Pricey Missile Problem",
-    "link": "https://www.wsj.com/politics/national-security/how-the-pentagon-plans-to-fix-its-pricey-missile-problem-30243eb6?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-15-01-00-00 +0000"
-  },
-  {
-    "headline": "President Trump kicked off an Ultimate Fighting Championship cage fight on the South Lawn of the White House following a brief delay because of potential thunderstorms",
+    "headline": "President Trump hosted a cage match at the White House on Sunday, turning the historic South Lawn into a sporting arena",
     "link": "https://www.wsj.com/politics/trump-white-house-ufc-fight-45088d48",
     "source": "wsj",
-    "pubdate": "2026-06-15-00-57-00 +0000"
-  },
-  {
-    "headline": "Boy, 14, arrested for robbing children’s lemonade stand at gunpoint in Boston",
-    "link": "https://nypost.com/2026/06/14/us-news/boy-14-arrested-for-robbing-childrens-lemonade-stand-at-gunpoint-in-boston/",
-    "source": "nypost",
-    "pubdate": "2026-06-15-00-55-58 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-15-00-48-35 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-15-00-48-35 +0000"
+    "pubdate": "2026-06-15-03-28-00 +0000"
   }
 ]
