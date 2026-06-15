@@ -1,24 +1,38 @@
 [
   {
-    "score": 158,
+    "score": 179,
     "pubdate": "2026-06-14-21-36-06 +0000",
     "source": "nypost",
     "headline": "Trump announces US and Iran have reached peace deal — here’s when the Strait of Hormuz reopens, and what happens next",
     "link": "https://nypost.com/2026/06/14/world-news/trump-says-iran-peace-deal-is-now-complete-let-the-oil-flow/"
   },
   {
-    "score": 61,
+    "score": 67,
     "pubdate": "2026-06-14-20-32-34 +0000",
     "source": "cbc",
     "headline": "Ahead of G7, Carney says no one country will characterize new world order",
     "link": "https://www.cbc.ca/news/politics/g7-carney-ireland-9.7235087?cmp=rss"
   },
   {
-    "score": 49,
-    "pubdate": "2026-06-15-00-57-00 +0000",
+    "score": 51,
+    "pubdate": "2026-06-15-03-28-00 +0000",
     "source": "wsj",
-    "headline": "President Trump kicked off an Ultimate Fighting Championship cage fight on the South Lawn of the White House following a brief delay because of potential thunderstorms",
+    "headline": "President Trump hosted a cage match at the White House on Sunday, turning the historic South Lawn into a sporting arena",
     "link": "https://www.wsj.com/politics/trump-white-house-ufc-fight-45088d48"
+  },
+  {
+    "score": 38,
+    "pubdate": "2026-06-14-13-42-53 +0000",
+    "source": "nyt",
+    "headline": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
+    "link": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-06-14-16-50-16 +0000",
+    "source": "nyt",
+    "headline": "Curaçao Is the Smallest Country Ever to Reach the World Cup",
+    "link": "https://www.nytimes.com/2026/06/14/world/americas/world-cup-curacao-netherlands-soccer.html"
   },
   {
     "score": 37,
@@ -28,20 +42,6 @@
     "link": "https://nypost.com/2026/06/14/us-news/darializa-avila-chevalier-claimed-us-is-worse-than-hamas/"
   },
   {
-    "score": 37,
-    "pubdate": "2026-06-14-13-42-53 +0000",
-    "source": "nyt",
-    "headline": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
-    "link": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-06-14-21-31-24 +0000",
-    "source": "nypost",
-    "headline": "Travel chaos at MetLife has World Cup fans stranded for hours — with ‘petty’ NJ Gov. Sherrill taking heat",
-    "link": "https://nypost.com/2026/06/14/us-news/travel-chaos-at-metlife-has-world-cup-fans-stranded-for-hours-with-petty-gov-sherrill-taking-heat/"
-  },
-  {
     "score": 34,
     "pubdate": "2026-06-14-11-54-55 +0000",
     "source": "nypost",
@@ -49,24 +49,24 @@
     "link": "https://nypost.com/2026/06/14/world-news/switzerland-voters-reject-proposal-to-cap-countrys-population-at-10-million/"
   },
   {
-    "score": 32,
-    "pubdate": "2026-06-14-14-08-03 +0000",
-    "source": "bbc",
-    "headline": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-    "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-06-14-06-39-29 +0000",
-    "source": "bbc",
-    "headline": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
-    "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-06-14-22-22-39 +0000",
+    "score": 33,
+    "pubdate": "2026-06-14-22-44-20 +0000",
     "source": "nypost",
-    "headline": "Rich Californians deploy creative ways to get around hated billionaire tax – including giving cash away",
-    "link": "https://nypost.com/2026/06/14/us-news/rich-californians-deploy-creative-ways-to-get-around-hated-billionaire-tax-including-giving-cash-away/"
+    "headline": "California man accused of ISIS terror plot with ex-Navy sailor to blow up Special Forces issues pitiful statement",
+    "link": "https://nypost.com/2026/06/14/us-news/california-man-accused-of-isis-terror-plot-with-ex-navy-sailor-to-blow-up-special-forces-issues-pitiful-statement/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-06-14-22-17-16 +0000",
+    "source": "wapo",
+    "headline": "U.S. singer Oliver Tree among six killed in helicopter crash in Brazil",
+    "link": "https://www.washingtonpost.com/world/2026/06/14/us-singer-oliver-tree-among-six-killed-helicopter-crash-brazil/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-06-14-06-34-11 +0000",
+    "source": "bbc",
+    "headline": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+    "link": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&at_campaign=rss"
   }
 ]
