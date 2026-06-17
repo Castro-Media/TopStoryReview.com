@@ -1,52 +1,38 @@
 [
   {
-    "score": 223,
+    "score": 228,
     "pubdate": "2026-06-17-18-41-12 +0000",
     "source": "bbc",
     "headline": "Fed holds US interest rates steady as uncertainty over Trump's Iran deal remains",
     "link": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 107,
+    "score": 114,
     "pubdate": "2026-06-17-01-00-00 +0000",
     "source": "wsj",
     "headline": "Kevin Warsh walks into his first meeting as Federal Reserve chairman this week in an awkward spot; he’s argued for rate cuts, but the conversation at the Fed has shifted the other way",
     "link": "https://www.wsj.com/economy/central-banking/trump-picked-warsh-to-cut-rates-his-committee-is-talking-about-hikes-3814bcaf"
   },
   {
-    "score": 105,
+    "score": 100,
     "pubdate": "2026-06-17-03-31-00 +0000",
     "source": "wsj",
     "headline": "Rep. Mike Collins won Georgia’s GOP primary runoff over former college football coach Derek Dooley, setting up a showdown with Democratic Sen. Jon Ossoff in November",
     "link": "https://www.wsj.com/politics/elections/trump-backed-mike-collins-to-face-ossoff-in-georgia-for-u-s-senate-seat-3614c4be"
   },
   {
-    "score": 95,
+    "score": 93,
     "pubdate": "2026-06-16-21-46-00 +0000",
     "source": "wsj",
     "headline": "SpaceX overtakes Amazon by market cap, Iran will be able to sell oil immediately, and a former drug dealer’s shows make $$$ without Hollywood. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/spacex-now-has-higher-market-cap-than-amazon-9618ed04"
   },
   {
-    "score": 80,
+    "score": 82,
     "pubdate": "2026-06-17-13-41-21 +0000",
     "source": "bbc",
     "headline": "'It was surreal': British couple describe having warning shots fired near them by Russian warship",
     "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 73,
-    "pubdate": "2026-06-17-17-09-21 +0000",
-    "source": "nypost",
-    "headline": "Final 14-point US-Iran peace deal reveals significant concessions on Hormuz, Lebanon, nuclear language: Read the full text",
-    "link": "https://nypost.com/2026/06/17/us-news/complete-14-point-us-iran-peace-deal-finally-revealed-by-trump-administration-read-text-in-full/"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-06-17-19-21-13 +0000",
-    "source": "nypost",
-    "headline": "New insight into Rex Heuermann’s ‘kill room’ torture makes victim’s kin flee Long Island courtroom",
-    "link": "https://nypost.com/2026/06/17/us-news/new-insight-into-rex-heuermanns-kill-room-torture-makes-victims-kin-flee-long-island-courtroom/"
   },
   {
     "score": 60,
@@ -57,6 +43,20 @@
   },
   {
     "score": 60,
+    "pubdate": "2026-06-17-19-21-13 +0000",
+    "source": "nypost",
+    "headline": "New insight into Rex Heuermann’s ‘kill room’ torture makes victim’s kin flee Long Island courtroom",
+    "link": "https://nypost.com/2026/06/17/us-news/new-insight-into-rex-heuermanns-kill-room-torture-makes-victims-kin-flee-long-island-courtroom/"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-06-17-17-09-21 +0000",
+    "source": "nypost",
+    "headline": "Final 14-point US-Iran peace deal reveals significant concessions on Hormuz, Lebanon, nuclear language: Read the full text",
+    "link": "https://nypost.com/2026/06/17/us-news/complete-14-point-us-iran-peace-deal-finally-revealed-by-trump-administration-read-text-in-full/"
+  },
+  {
+    "score": 58,
     "pubdate": "2026-06-17-03-27-17 +0000",
     "source": "nyt",
     "headline": "Rep. Barry Moore Wins Senate Primary in Alabama, Holding Off Challenger",
