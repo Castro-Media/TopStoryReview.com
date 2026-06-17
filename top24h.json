@@ -14,32 +14,25 @@
     "link": "https://www.wsj.com/economy/central-banking/trump-picked-warsh-to-cut-rates-his-committee-is-talking-about-hikes-3814bcaf"
   },
   {
-    "score": 100,
+    "score": 98,
     "pubdate": "2026-06-17-03-31-00 +0000",
     "source": "wsj",
     "headline": "Rep. Mike Collins won Georgia’s GOP primary runoff over former college football coach Derek Dooley, setting up a showdown with Democratic Sen. Jon Ossoff in November",
     "link": "https://www.wsj.com/politics/elections/trump-backed-mike-collins-to-face-ossoff-in-georgia-for-u-s-senate-seat-3614c4be"
   },
   {
-    "score": 93,
+    "score": 87,
     "pubdate": "2026-06-16-21-46-00 +0000",
     "source": "wsj",
     "headline": "SpaceX overtakes Amazon by market cap, Iran will be able to sell oil immediately, and a former drug dealer’s shows make $$$ without Hollywood. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/spacex-now-has-higher-market-cap-than-amazon-9618ed04"
   },
   {
-    "score": 82,
+    "score": 69,
     "pubdate": "2026-06-17-13-41-21 +0000",
     "source": "bbc",
     "headline": "'It was surreal': British couple describe having warning shots fired near them by Russian warship",
     "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 60,
-    "pubdate": "2026-06-17-19-14-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump tied together fights over policy proposals and a top cabinet post, attaching passage of a voter-security measure to leadership of U.S. intelligence services and renewal of the spying program known as FISA",
-    "link": "https://www.wsj.com/politics/policy/trump-has-new-demands-for-congress-heres-how-they-all-connect-7f5586c1"
   },
   {
     "score": 60,
@@ -57,6 +50,13 @@
   },
   {
     "score": 58,
+    "pubdate": "2026-06-17-19-14-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump tied together fights over policy proposals and a top cabinet post, attaching passage of a voter-security measure to leadership of U.S. intelligence services and renewal of the spying program known as FISA",
+    "link": "https://www.wsj.com/politics/policy/trump-has-new-demands-for-congress-heres-how-they-all-connect-7f5586c1"
+  },
+  {
+    "score": 56,
     "pubdate": "2026-06-17-03-27-17 +0000",
     "source": "nyt",
     "headline": "Rep. Barry Moore Wins Senate Primary in Alabama, Holding Off Challenger",
@@ -64,9 +64,9 @@
   },
   {
     "score": 52,
-    "pubdate": "2026-06-17-05-12-54 +0000",
-    "source": "nyt",
-    "headline": "The World Cup Gives Kansas City a Rare Turn in the Global Spotlight",
-    "link": "https://www.nytimes.com/2026/06/17/us/world-cup-kansas-city-messi-argentina.html"
+    "pubdate": "2026-06-17-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "State Farm’s AI Plan for Sales Agents Sparks Uproar. ‘A Real Slap in the Face.’",
+    "link": "https://www.wsj.com/finance/state-farms-ai-plan-for-sales-agents-sparks-uproar-a-real-slap-in-the-face-6453e2cb?mod=pls_whats_news_us_business_f"
   }
 ]
