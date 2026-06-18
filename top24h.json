@@ -1,38 +1,45 @@
 [
   {
-    "score": 330,
+    "score": 354,
     "pubdate": "2026-06-17-21-11-09 +0000",
     "source": "nyt",
     "headline": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
     "link": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html"
   },
   {
-    "score": 167,
+    "score": 171,
     "pubdate": "2026-06-17-20-38-00 +0000",
     "source": "wsj",
     "headline": "At Kevin Warsh’s first meeting as chairman, the Fed left rates steady as more officials signaled a need to raise rates this year",
     "link": "https://www.wsj.com/economy/central-banking/federal-reserve-interest-rate-decision-bd700510"
   },
   {
-    "score": 69,
+    "score": 68,
+    "pubdate": "2026-06-17-23-54-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said he is delaying the nomination of Jay Clayton to be director of national intelligence, complicating a congressional bid to reauthorize a foreign-surveillance power",
+    "link": "https://www.wsj.com/politics/policy/trump-delays-jay-claytons-nomination-for-intelligence-director-130020ad"
+  },
+  {
+    "score": 68,
     "pubdate": "2026-06-18-05-53-00 +0000",
     "source": "wsj",
     "headline": "Oil Prices Fall Amid Prospects of Fast Reopening of Strait of Hormuz",
     "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-amid-prospects-of-fast-reopening-of-strait-of-hormuz-3bdbe96e?mod=rss_markets_main"
   },
   {
-    "score": 67,
-    "pubdate": "2026-06-17-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "He graduated high school with honors. ICE detained him the next day",
-    "link": "https://www.latimes.com/california/story/2026-06-17/he-graduated-high-school-with-honors-ice-detained-him-next-day"
-  },
-  {
-    "score": 61,
+    "score": 60,
     "pubdate": "2026-06-17-22-36-13 +0000",
     "source": "bbc",
     "headline": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
     "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 59,
+    "pubdate": "2026-06-17-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "State Farm’s AI Plan for Sales Agents Sparks Uproar. ‘A Real Slap in the Face.’",
+    "link": "https://www.wsj.com/finance/state-farms-ai-plan-for-sales-agents-sparks-uproar-a-real-slap-in-the-face-6453e2cb?mod=rss_markets_main"
   },
   {
     "score": 57,
@@ -42,14 +49,14 @@
     "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 56,
-    "pubdate": "2026-06-17-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "State Farm’s AI Plan for Sales Agents Sparks Uproar. ‘A Real Slap in the Face.’",
-    "link": "https://www.wsj.com/finance/state-farms-ai-plan-for-sales-agents-sparks-uproar-a-real-slap-in-the-face-6453e2cb?mod=rss_markets_main"
+    "score": 57,
+    "pubdate": "2026-06-17-19-43-10 +0000",
+    "source": "bbc",
+    "headline": "The designer behind DR Congo's World Cup suit: 'I wanted to change people's views on Africa'",
+    "link": "https://www.bbc.com/news/videos/crkvxp731e2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 54,
+    "score": 53,
     "pubdate": "2026-06-17-18-42-15 +0000",
     "source": "latimes",
     "headline": "Trump administration pays $765M to kill more offshore wind projects, including one off California",
@@ -57,16 +64,9 @@
   },
   {
     "score": 51,
-    "pubdate": "2026-06-17-11-53-40 +0000",
-    "source": "nypost",
-    "headline": "Hot mics at the G7 capture Meloni telling other world leaders she is struggling to stay awake after quitting smoking",
-    "link": "https://nypost.com/2026/06/17/world-news/italian-prime-minister-giorgia-meloni-reveals-on-hot-mic-shes-quit-smoking/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-06-17-19-14-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump tied together fights over policy proposals and a top cabinet post, attaching passage of a voter-security measure to leadership of U.S. intelligence services and renewal of the spying program known as FISA",
-    "link": "https://www.wsj.com/politics/policy/trump-has-new-demands-for-congress-heres-how-they-all-connect-7f5586c1"
+    "pubdate": "2026-06-17-23-34-33 +0000",
+    "source": "missionlocal",
+    "headline": "Saikat Chakrabarti will back former rival Connie Chan through Election Day",
+    "link": "https://missionlocal.org/2026/06/saikat-chakrabarti-connie-chan-election-funding/"
   }
 ]
