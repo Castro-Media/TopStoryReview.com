@@ -1,6 +1,6 @@
 [
   {
-    "score": 297,
+    "score": 296,
     "pubdate": "2026-06-17-21-11-09 +0000",
     "source": "nyt",
     "headline": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
@@ -14,7 +14,7 @@
     "link": "https://www.nytimes.com/2026/06/17/business/federal-reserve-meeting-warsh.html"
   },
   {
-    "score": 90,
+    "score": 83,
     "pubdate": "2026-06-17-03-31-00 +0000",
     "source": "wsj",
     "headline": "Rep. Mike Collins won Georgia’s GOP primary runoff over former college football coach Derek Dooley, setting up a showdown with Democratic Sen. Jon Ossoff in November",
@@ -43,24 +43,17 @@
   },
   {
     "score": 56,
-    "pubdate": "2026-06-17-15-17-08 +0000",
-    "source": "nypost",
-    "headline": "Why Jeff Bezos predicts AI will create labor shortage amid his space rivalry with Elon Musk",
-    "link": "https://nypost.com/2026/06/17/business/why-jeff-bezos-predicts-ai-will-create-labor-shortage/"
-  },
-  {
-    "score": 56,
     "pubdate": "2026-06-17-19-14-00 +0000",
     "source": "wsj",
     "headline": "President Trump tied together fights over policy proposals and a top cabinet post, attaching passage of a voter-security measure to leadership of U.S. intelligence services and renewal of the spying program known as FISA",
     "link": "https://www.wsj.com/politics/policy/trump-has-new-demands-for-congress-heres-how-they-all-connect-7f5586c1"
   },
   {
-    "score": 49,
-    "pubdate": "2026-06-17-22-00-00 +0000",
-    "source": "wsj",
-    "headline": "The balance of power in the Senate is on the line in the 2026 elections. Our tracker digs into the most competitive and emerging Senate battlegrounds.",
-    "link": "https://www.wsj.com/politics/elections/senate-seats-2026-midterm-election-tracker-04778377"
+    "score": 56,
+    "pubdate": "2026-06-17-15-17-08 +0000",
+    "source": "nypost",
+    "headline": "Why Jeff Bezos predicts AI will create labor shortage amid his space rivalry with Elon Musk",
+    "link": "https://nypost.com/2026/06/17/business/why-jeff-bezos-predicts-ai-will-create-labor-shortage/"
   },
   {
     "score": 49,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Complete 14-point US-Iran peace deal finally revealed — kicking off 60-day clock to do the hardest work yet",
     "link": "https://nypost.com/2026/06/17/us-news/complete-14-point-us-iran-peace-deal-finally-revealed-by-trump-administration-read-text-in-full/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-06-17-07-33-39 +0000",
+    "source": "bbc",
+    "headline": "Japan raids ice cream giants over price-fixing allegations",
+    "link": "https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss"
   }
 ]
