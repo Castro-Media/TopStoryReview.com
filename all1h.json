@@ -1,188 +1,242 @@
 [
   {
-    "headline": "One year in, plans to expand Bayview shelter for older adults remain shelved",
-    "link": "https://missionlocal.org/2026/06/jerrold-commons-bayview-shelter-expansion-paused/",
+    "headline": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+    "link": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
+    "source": "nyt",
+    "pubdate": "2026-06-18-13-50-28 +0000"
+  },
+  {
+    "headline": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+    "link": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
+    "source": "nyt",
+    "pubdate": "2026-06-18-13-50-28 +0000"
+  },
+  {
+    "headline": "Iran War Live Updates: Oil Prices Fall as U.S.-Iran Deal Offers Hope for Shipping",
+    "link": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal",
+    "source": "nyt",
+    "pubdate": "2026-06-18-13-49-09 +0000"
+  },
+  {
+    "headline": "Hegseth Berates NATO Allies for ‘Shameful’ Response to U.S. War in Iran",
+    "link": "https://www.nytimes.com/2026/06/18/world/middleeast/hegseth-nato-us-iran-war-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-06-18-13-49-08 +0000"
+  },
+  {
+    "headline": "Hegseth Berates NATO Allies for ‘Shameful’ Response to U.S. War in Iran",
+    "link": "https://www.nytimes.com/2026/06/18/world/middleeast/hegseth-nato-us-iran-war-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-06-18-13-49-08 +0000"
+  },
+  {
+    "headline": "Oil Prices Fall as U.S.-Iran Deal to Reopen Hormuz Takes Effect",
+    "link": "https://www.nytimes.com/2026/06/18/business/oil-gas-prices-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-18-13-46-57 +0000"
+  },
+  {
+    "headline": "Disgraced Texas cop fired for allegedly giving homeless man a poop sandwich scores cushy new job",
+    "link": "https://nypost.com/2026/06/18/us-news/disgraced-texas-cop-fired-for-allegedly-giving-homeless-man-a-poop-sandwich-is-now-a-police-chief/",
+    "source": "nypost",
+    "pubdate": "2026-06-18-13-46-18 +0000"
+  },
+  {
+    "headline": "Canada Producer Prices Continue to Rise, Climbing 1.2% in May",
+    "link": "https://www.wsj.com/finance/commodities-futures/canada-producer-prices-continue-to-rise-climbing-1-2-in-may-4fd2888a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-45-00 +0000"
+  },
+  {
+    "headline": "U.S. Natural Gas Futures Gain Ahead of Inventory Data",
+    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-gain-ahead-of-inventory-data-8d9c7e7c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-44-00 +0000"
+  },
+  {
+    "headline": "At Art Basel, a Nervy, Make-or-Break Mood",
+    "link": "https://www.nytimes.com/2026/06/18/arts/design/art-basel-switzerland.html",
+    "source": "nyt",
+    "pubdate": "2026-06-18-13-42-04 +0000"
+  },
+  {
+    "headline": "Body found in search for missing California woman Ashley Phillips who vanished in Costa Rica",
+    "link": "https://nypost.com/2026/06/18/us-news/body-found-in-search-for-missing-california-woman-ashley-phillips-who-vanished-in-costa-rica/",
+    "source": "nypost",
+    "pubdate": "2026-06-18-13-41-57 +0000"
+  },
+  {
+    "headline": "What we know about air quality after massive Boyle Heights fire",
+    "link": "https://www.latimes.com/california/story/2026-06-18/what-we-know-about-air-quality",
+    "source": "latimes",
+    "pubdate": "2026-06-18-13-40-59 +0000"
+  },
+  {
+    "headline": "OPEC Sees Oil Demand Growing With No Peak In Sight",
+    "link": "https://www.wsj.com/business/energy-oil/opec-sees-oil-demand-growing-with-no-peak-in-sight-ee9d7f61?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-33-00 +0000"
+  },
+  {
+    "headline": "Hegseth announces US review of Europe forces, says some allies will fail",
+    "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-18-13-31-01 +0000"
+  },
+  {
+    "headline": "Hegseth announces US review of Europe forces, says some allies will fail",
+    "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-18-13-31-01 +0000"
+  },
+  {
+    "headline": "Promised June meeting between first minister and Starmer not taking place",
+    "link": "https://www.bbc.com/news/articles/cx26v4jdxygo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-18-13-30-57 +0000"
+  },
+  {
+    "headline": "Trump blasts critics of Iran plan as ‘fools’ and ‘stupid’ as president claims he was tough on Tehran",
+    "link": "https://nypost.com/2026/06/18/us-news/trump-blasts-critics-of-his-iran-plan-as-fools/",
+    "source": "nypost",
+    "pubdate": "2026-06-18-13-27-02 +0000"
+  },
+  {
+    "headline": "Trump blasts critics of Iran plan as ‘fools’ and ‘stupid’ as president claims he was tough on Tehran",
+    "link": "https://nypost.com/2026/06/18/us-news/trump-blasts-critics-of-his-iran-plan-as-fools/",
+    "source": "nypost",
+    "pubdate": "2026-06-18-13-27-02 +0000"
+  },
+  {
+    "headline": "Can We Build a New Industry to Remove Carbon From the Air?",
+    "link": "https://www.wsj.com/business/energy-oil/can-we-build-a-new-industry-to-remove-carbon-from-the-air-eacef8f2",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-25-00 +0000"
+  },
+  {
+    "headline": "Can We Build a New Industry to Remove Carbon From the Air?",
+    "link": "https://www.wsj.com/business/energy-oil/can-we-build-a-new-industry-to-remove-carbon-from-the-air-eacef8f2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-25-00 +0000"
+  },
+  {
+    "headline": "The Company That Created the Checkbook Is Buying a Payment Processor",
+    "link": "https://www.wsj.com/finance/the-company-that-created-the-checkbook-is-buying-a-payment-processor-445aaabb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-25-00 +0000"
+  },
+  {
+    "headline": "The Company That Created the Checkbook Is Buying a Payment Processor",
+    "link": "https://www.wsj.com/finance/the-company-that-created-the-checkbook-is-buying-a-payment-processor-445aaabb?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-25-00 +0000"
+  },
+  {
+    "headline": "Can We Build a New Industry to Remove Carbon From the Air?",
+    "link": "https://www.wsj.com/business/energy-oil/can-we-build-a-new-industry-to-remove-carbon-from-the-air-eacef8f2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-25-00 +0000"
+  },
+  {
+    "headline": "Waymo Recalling More Than 3,800 Robotaxis Over Risk of Entering Construction Zones",
+    "link": "https://www.wsj.com/business/autos/waymo-recalling-more-than-3-800-robotaxis-over-risk-of-entering-construction-zones-6829e040?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-20-00 +0000"
+  },
+  {
+    "headline": "ECB’s Chief Economist Sees Prolonged Period Of High Inflation",
+    "link": "https://www.wsj.com/pro/central-banking/ecbs-chief-economist-sees-prolonged-period-of-high-inflation-278fceaa",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-19-00 +0000"
+  },
+  {
+    "headline": "See How Gas Prices Are Easing Across the U.S.",
+    "link": "https://www.wsj.com/finance/commodities-futures/us-gas-prices-charts-bfe10437?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-18-00 +0000"
+  },
+  {
+    "headline": "Men jailed over work for Chinese intelligence in UK",
+    "link": "https://www.bbc.com/news/articles/cgjx87gvlnxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-18-13-17-18 +0000"
+  },
+  {
+    "headline": "CrossCountry ranked Britain's worst train operator",
+    "link": "https://www.bbc.com/news/articles/c36y5ezr0k7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-18-13-14-45 +0000"
+  },
+  {
+    "headline": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+    "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-18-13-11-52 +0000"
+  },
+  {
+    "headline": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+    "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-18-13-11-52 +0000"
+  },
+  {
+    "headline": "Minneapolis Park Board votes to end Minnehaha Off-Leash Dog Park",
+    "link": "https://www.startribune.com/minneapolis-park-board-votes-to-end-minnehaha-off-leash-dog-park/601858291",
+    "source": "startribune",
+    "pubdate": "2026-06-18-13-09-58 +0000"
+  },
+  {
+    "headline": "Best High-Yield Savings Accounts for June 2026: Up to 5.00%",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-05-00 +0000"
+  },
+  {
+    "headline": "6 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-18-13-05-00 +0000"
+  },
+  {
+    "headline": "What to Know About Canada’s New Citizenship Eligibility Requirements and How to Apply",
+    "link": "https://www.nytimes.com/2026/06/18/world/canada/canadian-citizenship-guide.html",
+    "source": "nyt",
+    "pubdate": "2026-06-18-13-04-39 +0000"
+  },
+  {
+    "headline": "What to Know About Canada’s New Citizenship Eligibility Requirements and How to Apply",
+    "link": "https://www.nytimes.com/2026/06/18/world/canada/canadian-citizenship-guide.html",
+    "source": "nyt",
+    "pubdate": "2026-06-18-13-04-39 +0000"
+  },
+  {
+    "headline": "U.S. moves toward troop reductions in Europe as Hegseth scolds NATO allies",
+    "link": "https://www.washingtonpost.com/world/2026/06/18/europe-readies-nato-with-less-us-hegseth-announces-troop-review/",
+    "source": "wapo",
+    "pubdate": "2026-06-18-13-04-34 +0000"
+  },
+  {
+    "headline": "A message for Meagan!",
+    "link": "https://missionlocal.org/2026/06/a-message-for-meagan/",
     "source": "missionlocal",
-    "pubdate": "2026-06-18-12-00-00 +0000"
+    "pubdate": "2026-06-18-13-00-00 +0000"
   },
   {
-    "headline": "All the viewing areas for Knicks ticker-tape parade are already full — hours before epic celebration begins: NYPD",
-    "link": "https://nypost.com/2026/06/18/us-news/all-the-viewing-areas-for-knicks-ticker-tape-parade-are-already-full-hours-before-epic-celebration-begins-nypd/",
+    "headline": "LAPD breaks silence on shooting investigation into death of beloved Knicks dog",
+    "link": "https://nypost.com/2026/06/18/us-news/lapd-chief-vows-full-investigation-after-officer-shoots-kills-knicks-fans-dog/",
     "source": "nypost",
-    "pubdate": "2026-06-18-11-58-40 +0000"
+    "pubdate": "2026-06-18-13-00-00 +0000"
   },
   {
-    "headline": "Oil Prices Fall to Lowest Since War Began After Trump Signs Iran Deal",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-amid-prospects-of-fast-reopening-of-strait-of-hormuz-3bdbe96e?mod=rss_markets_main",
+    "headline": "Even More Investors Want Out of Private Credit",
+    "link": "https://www.wsj.com/finance/investing/even-more-investors-want-out-of-private-credit-4c225a9c?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-06-18-11-56-00 +0000"
+    "pubdate": "2026-06-18-13-00-00 +0000"
   },
   {
-    "headline": "British man dies in paragliding accident in Spain",
-    "link": "https://www.bbc.com/news/articles/c1dye3e9gnwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-54-23 +0000"
-  },
-  {
-    "headline": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-    "link": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
-    "source": "nyt",
-    "pubdate": "2026-06-18-11-54-12 +0000"
-  },
-  {
-    "headline": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-    "link": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html",
-    "source": "nyt",
-    "pubdate": "2026-06-18-11-54-12 +0000"
-  },
-  {
-    "headline": "Kroger Profit Rises with Higher Sales",
-    "link": "https://www.wsj.com/business/retail/kroger-profit-rises-with-higher-sales-b6f2b90c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-18-11-54-00 +0000"
-  },
-  {
-    "headline": "Inflation Will Linger Despite U.S.-Iran Deal, British Officials Warn",
-    "link": "https://www.nytimes.com/2026/06/18/business/uk-inflation-bank-of-england.html",
-    "source": "nyt",
-    "pubdate": "2026-06-18-11-52-44 +0000"
-  },
-  {
-    "headline": "What's happening to UK interest rates and what does it mean?",
-    "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-51-44 +0000"
-  },
-  {
-    "headline": "First Russian shadow fleet vessel enters Channel since Smyrtos boarding",
-    "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-50-15 +0000"
-  },
-  {
-    "headline": "First Russian shadow fleet vessel enters Channel since Smyrtos boarding",
-    "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-50-15 +0000"
-  },
-  {
-    "headline": "Israel Stunned by Trump’s Iran Deal",
-    "link": "https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html",
-    "source": "nyt",
-    "pubdate": "2026-06-18-11-44-51 +0000"
-  },
-  {
-    "headline": "Israel Stunned by Trump’s Iran Deal",
-    "link": "https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html",
-    "source": "nyt",
-    "pubdate": "2026-06-18-11-44-51 +0000"
-  },
-  {
-    "headline": "Short-Dated Gilt Yields Edge Lower After BOE Keeps Rates on Hold",
-    "link": "https://www.wsj.com/finance/jgbs-fall-tracking-declines-in-u-s-treasurys-0c086030?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-18-11-40-00 +0000"
-  },
-  {
-    "headline": "Ivory Coast's Wahi denied entry to Canada",
-    "link": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-39-28 +0000"
-  },
-  {
-    "headline": "Church of England apologizes for its role in decades of forced adoptions",
-    "link": "https://www.cbc.ca/news/world/church-england-apology-adoptions-9.7239734?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-18-11-30-07 +0000"
-  },
-  {
-    "headline": "Trump pauses spy chief confirmation in Congress",
-    "link": "https://www.bbc.com/news/articles/c33yzmjln1mo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-27-26 +0000"
-  },
-  {
-    "headline": "Republicans are likely asking themselves, “Now What?” after President Trump’s latest roller-coaster ride on major national security issues. Read more in today’s WSJ Politics newsletter:",
-    "link": "https://www.wsj.com/politics/french-twist-trump-upends-gop-plans-9b405619",
-    "source": "wsj",
-    "pubdate": "2026-06-18-11-27-00 +0000"
-  },
-  {
-    "headline": "Number of job vacancies hits five year-low",
-    "link": "https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-25-44 +0000"
-  },
-  {
-    "headline": "Number of job vacancies hits five year-low",
-    "link": "https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-25-44 +0000"
-  },
-  {
-    "headline": "Gas prices fall below $4 for first time in over 5 months after US-Iran agreement to reopen Strait of Hormuz",
-    "link": "https://nypost.com/2026/06/18/us-news/us-gas-prices-fall-below-4-after-us-iran-agreement-to-reopen-strait-of-hormuz/",
-    "source": "nypost",
-    "pubdate": "2026-06-18-11-15-26 +0000"
-  },
-  {
-    "headline": "How New A.I. Apps Are Making Student Cheating Undetectable",
-    "link": "https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html",
-    "source": "nyt",
-    "pubdate": "2026-06-18-11-15-24 +0000"
-  },
-  {
-    "headline": "Can a Federal Plan Fix Dismal Penn Station? There’s Hope.",
-    "link": "https://www.nytimes.com/2026/06/18/arts/design/penn-station-renovation-plan-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-06-18-11-09-53 +0000"
-  },
-  {
-    "headline": "Interest rates kept on hold at 3.75%",
-    "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-09-25 +0000"
-  },
-  {
-    "headline": "Interest rates kept on hold at 3.75%",
-    "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-09-25 +0000"
-  },
-  {
-    "headline": "Interest rates kept on hold at 3.75%",
-    "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-09-25 +0000"
-  },
-  {
-    "headline": "The Russian Film Director Who Chooses Moments to Challenge Putin",
-    "link": "https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html",
-    "source": "nyt",
-    "pubdate": "2026-06-18-11-09-21 +0000"
-  },
-  {
-    "headline": "The Russian Film Director Who Chooses Moments to Challenge Putin",
-    "link": "https://www.nytimes.com/2026/06/18/world/europe/alexander-sokurov-russia-director.html",
-    "source": "nyt",
-    "pubdate": "2026-06-18-11-09-21 +0000"
-  },
-  {
-    "headline": "Voters in Scotland head to the polls for Westminster by-elections",
-    "link": "https://www.bbc.com/news/articles/c4gy3z7n9gko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-18-11-08-56 +0000"
-  },
-  {
-    "headline": "The Bank of England left its key interest rate unchanged and joined other central banks in responding cautiously to signs that the Strait of Hormuz may soon reopen",
-    "link": "https://www.wsj.com/economy/central-banking/boe-leaves-rates-unchanged-signals-caution-on-hormuz-opening-f144dd3f",
-    "source": "wsj",
-    "pubdate": "2026-06-18-11-06-00 +0000"
-  },
-  {
-    "headline": "BOE Leaves Rates Unchanged, Signals Caution on Hormuz Opening",
-    "link": "https://www.wsj.com/economy/central-banking/boe-leaves-rates-unchanged-signals-caution-on-hormuz-opening-f144dd3f",
-    "source": "wsj",
-    "pubdate": "2026-06-18-11-06-00 +0000"
+    "headline": "Bernie Sanders pitches $1,000 annual payout from public ownership of AI",
+    "link": "https://www.washingtonpost.com/business/2026/06/18/bernie-sanders-proposes-wealth-fund-give-americans-stake-ai/",
+    "source": "wapo",
+    "pubdate": "2026-06-18-13-00-00 +0000"
   }
 ]
