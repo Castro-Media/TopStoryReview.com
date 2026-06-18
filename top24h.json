@@ -1,17 +1,24 @@
 [
   {
-    "score": 339,
+    "score": 330,
     "pubdate": "2026-06-17-21-11-09 +0000",
     "source": "nyt",
     "headline": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
     "link": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html"
   },
   {
-    "score": 169,
+    "score": 167,
     "pubdate": "2026-06-17-20-38-00 +0000",
     "source": "wsj",
     "headline": "At Kevin Warsh’s first meeting as chairman, the Fed left rates steady as more officials signaled a need to raise rates this year",
     "link": "https://www.wsj.com/economy/central-banking/federal-reserve-interest-rate-decision-bd700510"
+  },
+  {
+    "score": 69,
+    "pubdate": "2026-06-18-05-53-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Prices Fall Amid Prospects of Fast Reopening of Strait of Hormuz",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-amid-prospects-of-fast-reopening-of-strait-of-hormuz-3bdbe96e?mod=rss_markets_main"
   },
   {
     "score": 67,
@@ -21,39 +28,25 @@
     "link": "https://www.latimes.com/california/story/2026-06-17/he-graduated-high-school-with-honors-ice-detained-him-next-day"
   },
   {
-    "score": 65,
-    "pubdate": "2026-06-17-15-14-55 +0000",
-    "source": "nypost",
-    "headline": "Iranian tankers loaded with oil sail past US Navy blockade — but Tehran still hasn’t opened Strait of Hormuz",
-    "link": "https://nypost.com/2026/06/17/world-news/iranian-tankers-loaded-with-oil-sail-past-us-navy-blockade-but-tehran-still-hasnt-opened-strait-of-hormuz/"
-  },
-  {
-    "score": 62,
-    "pubdate": "2026-06-17-05-12-54 +0000",
-    "source": "nyt",
-    "headline": "The World Cup Gives Kansas City a Rare Turn in the Global Spotlight",
-    "link": "https://www.nytimes.com/2026/06/17/us/world-cup-kansas-city-messi-argentina.html"
-  },
-  {
-    "score": 62,
+    "score": 61,
     "pubdate": "2026-06-17-22-36-13 +0000",
     "source": "bbc",
     "headline": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
     "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 61,
-    "pubdate": "2026-06-17-15-17-08 +0000",
-    "source": "nypost",
-    "headline": "Why Jeff Bezos predicts AI will create labor shortage amid his space rivalry with Elon Musk",
-    "link": "https://nypost.com/2026/06/17/business/why-jeff-bezos-predicts-ai-will-create-labor-shortage/"
-  },
-  {
-    "score": 56,
+    "score": 57,
     "pubdate": "2026-06-17-13-41-21 +0000",
     "source": "bbc",
     "headline": "'It was surreal': British couple describe having warning shots fired near them by Russian warship",
     "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-06-17-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "State Farm’s AI Plan for Sales Agents Sparks Uproar. ‘A Real Slap in the Face.’",
+    "link": "https://www.wsj.com/finance/state-farms-ai-plan-for-sales-agents-sparks-uproar-a-real-slap-in-the-face-6453e2cb?mod=rss_markets_main"
   },
   {
     "score": 54,
@@ -64,6 +57,13 @@
   },
   {
     "score": 51,
+    "pubdate": "2026-06-17-11-53-40 +0000",
+    "source": "nypost",
+    "headline": "Hot mics at the G7 capture Meloni telling other world leaders she is struggling to stay awake after quitting smoking",
+    "link": "https://nypost.com/2026/06/17/world-news/italian-prime-minister-giorgia-meloni-reveals-on-hot-mic-shes-quit-smoking/"
+  },
+  {
+    "score": 50,
     "pubdate": "2026-06-17-19-14-00 +0000",
     "source": "wsj",
     "headline": "President Trump tied together fights over policy proposals and a top cabinet post, attaching passage of a voter-security measure to leadership of U.S. intelligence services and renewal of the spying program known as FISA",

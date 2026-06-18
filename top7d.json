@@ -1,45 +1,52 @@
 [
   {
-    "score": 611,
+    "score": 601,
     "pubdate": "2026-06-17-21-11-09 +0000",
     "source": "nyt",
     "headline": "Trump Criticized Obama’s Iran Deal, but New Deal Would Also Offer Tehran Relief",
     "link": "https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html"
   },
   {
-    "score": 216,
+    "score": 219,
     "pubdate": "2026-06-17-01-00-00 +0000",
     "source": "wsj",
     "headline": "Kevin Warsh walks into his first meeting as Federal Reserve chairman this week in an awkward spot; he’s argued for rate cuts, but the conversation at the Fed has shifted the other way",
     "link": "https://www.wsj.com/economy/central-banking/trump-picked-warsh-to-cut-rates-his-committee-is-talking-about-hikes-3814bcaf"
   },
   {
-    "score": 208,
-    "pubdate": "2026-06-12-23-03-22 +0000",
+    "score": 205,
+    "pubdate": "2026-06-12-00-49-15 +0000",
     "source": "nyt",
-    "headline": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
-    "link": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html"
+    "headline": "Why Mexico’s President Will Not Attend the World Cup Opening Match",
+    "link": "https://www.nytimes.com/2026/06/11/world/americas/mexico-president-sheinbaum-world-cup.html"
   },
   {
-    "score": 205,
+    "score": 162,
     "pubdate": "2026-06-16-21-46-00 +0000",
     "source": "wsj",
     "headline": "SpaceX overtakes Amazon by market cap, Iran will be able to sell oil immediately, and a former drug dealer’s shows make $$$ without Hollywood. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/spacex-now-has-higher-market-cap-than-amazon-9618ed04"
   },
   {
-    "score": 163,
+    "score": 162,
     "pubdate": "2026-06-16-18-14-57 +0000",
     "source": "nyt",
     "headline": "Japan Raises Rates to 31-Year High to Ward Off War Inflation",
     "link": "https://www.nytimes.com/2026/06/16/business/japan-interest-rates-war.html"
   },
   {
-    "score": 137,
+    "score": 123,
     "pubdate": "2026-06-16-09-00-00 +0000",
     "source": "wsj",
     "headline": "The Liberty Justice Center won its biggest-ever legal victory when the Supreme Court struck down President Trump’s global tariffs—but ending up paying a steep price",
     "link": "https://www.wsj.com/politics/policy/how-a-conservative-nonprofit-won-a-huge-case-against-trump-and-suffered-for-it-0701f667"
+  },
+  {
+    "score": 107,
+    "pubdate": "2026-06-17-12-14-43 +0000",
+    "source": "cbc",
+    "headline": "U.S. and Iran sign deal that includes plan to reopen Strait of Hormuz, 2-month window for nuclear talks",
+    "link": "https://www.cbc.ca/news/world/iran-us-war-memorandum-details-9.7238245?cmp=rss"
   },
   {
     "score": 106,
@@ -49,13 +56,6 @@
     "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 105,
-    "pubdate": "2026-06-17-12-14-43 +0000",
-    "source": "cbc",
-    "headline": "U.S. and Iran sign deal that includes plan to reopen Strait of Hormuz, 2-month window for nuclear talks",
-    "link": "https://www.cbc.ca/news/world/iran-us-war-memorandum-details-9.7238245?cmp=rss"
-  },
-  {
     "score": 94,
     "pubdate": "2026-06-16-13-14-00 +0000",
     "source": "wsj",
@@ -63,7 +63,7 @@
     "link": "https://www.wsj.com/us-news/b-52-bomber-crashes-shortly-after-take-off-at-california-air-base-25365cc0"
   },
   {
-    "score": 86,
+    "score": 85,
     "pubdate": "2026-06-11-22-59-00 +0000",
     "source": "wsj",
     "headline": "Tulsi Gabbard, the outgoing intelligence chief, revoked two Biden-era intelligence reports on the mysterious illness known as Havana Syndrome, saying they didn’t meet analytic standards",
