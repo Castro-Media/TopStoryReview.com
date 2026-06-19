@@ -1,20 +1,27 @@
 [
   {
-    "score": 296,
-    "pubdate": "2026-06-18-11-56-00 +0000",
+    "score": 253,
+    "pubdate": "2026-06-18-19-05-00 +0000",
     "source": "wsj",
-    "headline": "Oil Prices Fall to Lowest Since War Began After Trump Signs Iran Deal",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-amid-prospects-of-fast-reopening-of-strait-of-hormuz-3bdbe96e?mod=rss_markets_main"
+    "headline": "Trump’s Deal Sidesteps Key Reasons He Went to War With Iran",
+    "link": "https://www.wsj.com/world/middle-east/trumps-deal-sidesteps-key-reasons-he-went-to-war-with-iran-6820b1b4"
   },
   {
-    "score": 93,
+    "score": 90,
     "pubdate": "2026-06-18-21-20-00 +0000",
     "source": "wsj",
     "headline": "What started as a series of promotional interviews this week for JD Vance’s new book ended with the vice president becoming the face of the tentative peace agreement with Iran—for better or worse",
     "link": "https://www.wsj.com/politics/policy/jd-vances-risky-pivot-to-iran-deal-defender-622e61ff"
   },
   {
-    "score": 85,
+    "score": 83,
+    "pubdate": "2026-06-19-01-42-00 +0000",
+    "source": "wsj",
+    "headline": "The architects of California’s proposed billionaire tax said Thursday that they are open to withdrawing the ballot measure if Gov. Gavin Newsom supports a smaller wealth tax",
+    "link": "https://www.wsj.com/politics/policy/union-behind-california-billionaires-tax-offers-to-drop-it-in-favor-of-smaller-tax-eed4128d"
+  },
+  {
+    "score": 82,
     "pubdate": "2026-06-18-20-12-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth ratcheted up pressure on European NATO allies, warning that the U.S. will review its military presence on the continent",
@@ -28,13 +35,6 @@
     "link": "https://www.wsj.com/economy/central-banking/boe-leaves-rates-unchanged-signals-caution-on-hormuz-opening-f144dd3f"
   },
   {
-    "score": 77,
-    "pubdate": "2026-06-19-00-13-52 +0000",
-    "source": "nypost",
-    "headline": "Billionaire tax backers offer to cut proposed  levy against California’s wealthiest — if Gavin Newsom gets on board",
-    "link": "https://nypost.com/2026/06/18/us-news/billionaire-tax-backers-propose-2-compromise-to-gavin-newsom/"
-  },
-  {
     "score": 59,
     "pubdate": "2026-06-18-15-51-00 +0000",
     "source": "wsj",
@@ -42,31 +42,31 @@
     "link": "https://www.wsj.com/us-news/law/supreme-court-rules-government-cant-ban-all-drug-users-from-owning-guns-6f4d75ad"
   },
   {
-    "score": 55,
-    "pubdate": "2026-06-18-20-28-40 +0000",
+    "score": 58,
+    "pubdate": "2026-06-18-08-51-35 +0000",
     "source": "nypost",
-    "headline": "Obama and Michelle take digs at Trump in 3-hour presidential center opening ceremony with A-listers and ex-presidents",
-    "link": "https://nypost.com/2026/06/18/us-news/obama-and-michelle-take-digs-at-trump-in-3-hour-presidential-center-opening-ceremony-with-a-listers-and-ex-presidents/"
+    "headline": "Ukraine hits Moscow oil refinery, disrupting commercial flights in major drone attack",
+    "link": "https://nypost.com/2026/06/18/world-news/ukraine-hits-moscow-oil-refinery-disrupting-commercial-flights-in-major-drone-attack/"
   },
   {
-    "score": 54,
+    "score": 57,
+    "pubdate": "2026-06-18-12-50-33 +0000",
+    "source": "bbc",
+    "headline": "Interest rates held as Bank warns of impact of high energy prices",
+    "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 56,
     "pubdate": "2026-06-18-10-00-00 +0000",
     "source": "latimes",
     "headline": "Inside the FBI's battle to keep drones out of World Cup sites amid heightened terrorism fears",
     "link": "https://www.latimes.com/california/story/2026-06-18/inside-fbis-battle-to-keep-drones-out-of-world-cup-sites-amid-height-terrorism-fears"
   },
   {
-    "score": 53,
-    "pubdate": "2026-06-19-00-00-00 +0000",
-    "source": "wsj",
-    "headline": "When Senate hopeful Ken Paxton attacks the masculinity of his Democratic opponent, James Talarico, he has one group in particular on his mind: Hispanic voters",
-    "link": "https://www.wsj.com/politics/elections/texas-senate-campaign-strategy-66c77188"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-06-18-08-51-35 +0000",
+    "score": 54,
+    "pubdate": "2026-06-18-20-28-40 +0000",
     "source": "nypost",
-    "headline": "Ukraine hits Moscow oil refinery, disrupting commercial flights in major drone attack",
-    "link": "https://nypost.com/2026/06/18/world-news/ukraine-hits-moscow-oil-refinery-disrupting-commercial-flights-in-major-drone-attack/"
+    "headline": "Obama and Michelle take digs at Trump in 3-hour presidential center opening ceremony with A-listers and ex-presidents",
+    "link": "https://nypost.com/2026/06/18/us-news/obama-and-michelle-take-digs-at-trump-in-3-hour-presidential-center-opening-ceremony-with-a-listers-and-ex-presidents/"
   }
 ]
