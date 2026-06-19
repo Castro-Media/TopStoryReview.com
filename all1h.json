@@ -1,140 +1,254 @@
 [
   {
-    "headline": "Who Is Andy Burnham, the Man Who Could Be Britain’s Next Prime Minister?",
-    "link": "https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html",
+    "headline": "Mideast Live Updates: Attacks in Lebanon and Delay in Talks Test U.S.-Iran Deal",
+    "link": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
     "source": "nyt",
-    "pubdate": "2026-06-19-08-41-46 +0000"
+    "pubdate": "2026-06-19-10-13-47 +0000"
   },
   {
-    "headline": "Who Is Andy Burnham, the Man Who Could Be Britain’s Next Prime Minister?",
-    "link": "https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html",
+    "headline": "Israel Launches Airstrikes in Lebanon After 4 Soldiers Are Killed",
+    "link": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-israel-attacks.html",
     "source": "nyt",
-    "pubdate": "2026-06-19-08-41-46 +0000"
+    "pubdate": "2026-06-19-10-13-45 +0000"
   },
   {
-    "headline": "What is Burnham's path to becoming Labour leader and PM?",
-    "link": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Israel Launches Airstrikes in Lebanon After 4 Soldiers Are Killed",
+    "link": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-israel-attacks.html",
+    "source": "nyt",
+    "pubdate": "2026-06-19-10-13-45 +0000"
+  },
+  {
+    "headline": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
+    "link": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
+    "source": "nyt",
+    "pubdate": "2026-06-19-10-12-49 +0000"
+  },
+  {
+    "headline": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
+    "link": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
+    "source": "nyt",
+    "pubdate": "2026-06-19-10-12-49 +0000"
+  },
+  {
+    "headline": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
+    "link": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-19-08-38-42 +0000"
+    "pubdate": "2026-06-19-10-12-21 +0000"
   },
   {
-    "headline": "Warning over 'fragile' public finances as borrowing rises",
-    "link": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss",
+    "headline": "Activists indicted in alleged ‘antifa’ plot say charges are boosting protest effort",
+    "link": "https://www.washingtonpost.com/nation/2026/06/19/activists-indicted-alleged-antifa-plot-say-charges-are-boosting-protest-effort/",
+    "source": "wapo",
+    "pubdate": "2026-06-19-10-00-01 +0000"
+  },
+  {
+    "headline": "A traveler with measles passed through LAX. Officials urge caution amid World Cup crowds",
+    "link": "https://www.latimes.com/california/story/2026-06-19/traveler-with-measles-was-at-lax-caution-urged-amid-world-cup",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "'I love America!': With the World Cup, Inglewood becomes an international hub",
+    "link": "https://www.latimes.com/california/story/2026-06-19/i-love-america-with-world-cup-inglewood-becomes-international-hub",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "SoCal dads turn to braids and beer for solidarity and support",
+    "link": "https://www.latimes.com/california/story/2026-06-19/fathers-group-offers-support-lessons-in-braiding-hair",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "L.A. poised to lose $100 million in state grants to fund transportation projects",
+    "link": "https://www.latimes.com/california/story/2026-06-19/la-poised-to-lose-100-million-in-state-grants-to-fund-transportation-projects",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "The B-52 bomber is an iconic, aging warhorse. Probe of fatal crash could influence its future",
+    "link": "https://www.latimes.com/california/story/2026-06-19/edwards-afb-b52-crash-probe",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "Arellano: On the avenue that bears César Chávez's name, murals honoring him remain — for now",
+    "link": "https://www.latimes.com/california/story/2026-06-19/murals-cesar-chavez-avenue",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "Overdoses in L.A. jails fueled by long waits for drug addiction treatment, staffers say",
+    "link": "https://www.latimes.com/california/story/2026-06-19/la-county-jail-overdoses-drug-addiction-treatment",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "Pico Rivera's Cristian Roldan may be last made-in-high-school U.S. World Cup star",
+    "link": "https://www.latimes.com/sports/soccer/story/2026-06-19/us-soccer-cristian-roldan-world-cup",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "This plant extract can make a lethal drug cocktail. Can it also treat opioid addiction?",
+    "link": "https://www.latimes.com/california/story/2026-06-19/this-plant-extract-can-make-lethal-drug-cocktail-can-it-also-treat-opioid-addiction",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "'¡Coreano, hermano!' Mexico vs. Korea match brings out more romance than rivalry in L.A.",
+    "link": "https://www.latimes.com/california/story/2026-06-19/coreano-hermano-mexico-vs-korea-match-brings-out-more-romance-than-rivalry-in-la",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "Landmark downtown apartment tower faces foreclosure",
+    "link": "https://www.latimes.com/business/story/2026-06-19/downtown-l-a-s-metropolitan-apartment-building-faces-foreclosure",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "Oil Prices Firm Up as U.S.-Iran Deal Faces Tests",
+    "link": "https://www.nytimes.com/2026/06/19/business/oil-gas-prices-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-19-09-58-00 +0000"
+  },
+  {
+    "headline": "Oil Prices Firm Up as U.S.-Iran Deal Faces Tests",
+    "link": "https://www.nytimes.com/2026/06/19/business/oil-gas-prices-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-19-09-58-00 +0000"
+  },
+  {
+    "headline": "HELOC vs. home equity loans: Which is better for paying off expensive debt?",
+    "link": "https://nypost.com/business/heloc-vs-home-equity-loan-for-credit-card-debt-consolidation/",
+    "source": "nypost",
+    "pubdate": "2026-06-19-09-55-00 +0000"
+  },
+  {
+    "headline": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
+    "link": "https://www.nytimes.com/live/2026/06/19/world/makerfield-election-results-uk-burnham/uk-makerfield-election",
+    "source": "nyt",
+    "pubdate": "2026-06-19-09-54-38 +0000"
+  },
+  {
+    "headline": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
+    "link": "https://www.nytimes.com/live/2026/06/19/world/makerfield-election-results-uk-burnham/uk-makerfield-election",
+    "source": "nyt",
+    "pubdate": "2026-06-19-09-54-38 +0000"
+  },
+  {
+    "headline": "After Deal to Reopen Strait of Hormuz, Ships Begin to Move Cautiously",
+    "link": "https://www.nytimes.com/2026/06/19/business/iran-us-hormuz-shipping.html",
+    "source": "nyt",
+    "pubdate": "2026-06-19-09-52-00 +0000"
+  },
+  {
+    "headline": "After Deal to Reopen Strait of Hormuz, Ships Begin to Move Cautiously",
+    "link": "https://www.nytimes.com/2026/06/19/business/iran-us-hormuz-shipping.html",
+    "source": "nyt",
+    "pubdate": "2026-06-19-09-52-00 +0000"
+  },
+  {
+    "headline": "Plans to end gazumping with binding agreements in house sales shake-up",
+    "link": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-19-08-37-31 +0000"
+    "pubdate": "2026-06-19-09-47-29 +0000"
   },
   {
-    "headline": "Dollar Rises to One-Year High on Increased Prospects of Higher U.S. Interest Rates",
-    "link": "https://www.wsj.com/economy/central-banking/dollar-rises-to-one-year-high-on-increased-prospects-of-higher-u-s-interest-rates-68817d97",
+    "headline": "Rebel Lawmaker’s Election Win Clears Path to Oust U.K.’s Starmer",
+    "link": "https://www.wsj.com/world/uk/rebel-lawmaker-set-to-try-a-knockout-blow-to-u-k-s-starmer-75ff91ab",
     "source": "wsj",
-    "pubdate": "2026-06-19-08-26-00 +0000"
-  },
-  {
-    "headline": "Dollar Rises to One-Year High on Increased Prospects of Higher U.S. Interest Rates",
-    "link": "https://www.wsj.com/economy/central-banking/dollar-rises-to-one-year-high-on-increased-prospects-of-higher-u-s-interest-rates-68817d97?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-19-08-26-00 +0000"
-  },
-  {
-    "headline": "The moment Andy Burnham won Makerfield by-election",
-    "link": "https://www.bbc.com/news/videos/c892p5vdl3eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-19-08-25-29 +0000"
+    "pubdate": "2026-06-19-09-46-00 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2026-06-19-08-24-37 +0000"
+    "pubdate": "2026-06-19-09-44-32 +0000"
   },
   {
     "headline": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal/heres-the-latest",
     "source": "nyt",
-    "pubdate": "2026-06-19-08-24-37 +0000"
+    "pubdate": "2026-06-19-09-44-32 +0000"
   },
   {
-    "headline": "To Take Us to the Heavens, James Turrell Went Underground",
-    "link": "https://www.nytimes.com/2026/06/19/arts/james-turrell-aros-aarhus.html",
-    "source": "nyt",
-    "pubdate": "2026-06-19-08-23-51 +0000"
-  },
-  {
-    "headline": "What Does It All Mean? Once a Year, French Students Try to Explain.",
-    "link": "https://www.nytimes.com/2026/06/19/world/europe/france-education-high-school-philosophy.html",
-    "source": "nyt",
-    "pubdate": "2026-06-19-08-22-39 +0000"
-  },
-  {
-    "headline": "What Does It All Mean? Once a Year, French Students Try to Explain.",
-    "link": "https://www.nytimes.com/2026/06/19/world/europe/france-education-high-school-philosophy.html",
-    "source": "nyt",
-    "pubdate": "2026-06-19-08-22-39 +0000"
-  },
-  {
-    "headline": "Scottish Conservatives win first Westminster by-election in more than 50 years",
-    "link": "https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&at_campaign=rss",
+    "headline": "Thirty-five killed as gunmen attack Niger's biggest airport",
+    "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-19-08-21-11 +0000"
+    "pubdate": "2026-06-19-09-43-30 +0000"
   },
   {
-    "headline": "Who is Andy Burnham? Returning MP who wants to be prime minister",
-    "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
+    "headline": "Thirty-five killed as gunmen attack Niger's biggest airport",
+    "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-19-08-09-44 +0000"
+    "pubdate": "2026-06-19-09-43-30 +0000"
   },
   {
-    "headline": "Zimbabwe MPs pass bill to extend president's time in power",
-    "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
+    "headline": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+    "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-19-08-03-32 +0000"
+    "pubdate": "2026-06-19-09-38-44 +0000"
   },
   {
-    "headline": "Zimbabwe MPs pass bill to extend president's time in power",
-    "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
+    "headline": "I will stand if there's a leadership contest - PM",
+    "link": "https://www.bbc.com/news/videos/cqj17818157o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-19-08-03-32 +0000"
-  },
-  {
-    "headline": "Gold Extends Losses on Fed’s Hawkish Turn",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-hawkish-fed-outweighs-u-s-iran-deal-relief-a77876f2?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-19-08-03-00 +0000"
-  },
-  {
-    "headline": "Carney government passes law allowing authorization of banned pesticides",
-    "link": "https://www.cbc.ca/news/politics/bill-c-30-changes-pesticide-use-pest-control-products-act-9.7240832?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-19-08-00-00 +0000"
-  },
-  {
-    "headline": "Trump routinely trashes the Obama-era Iran nuclear agreement. How is his deal different?",
-    "link": "https://www.cbc.ca/news/world/trump-iran-deal-obama-9.7239879?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-19-08-00-00 +0000"
-  },
-  {
-    "headline": "Oil Rises After Vance Postpones Travel to Switzerland For Iran Talks",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-signs-of-strait-of-hormuzs-reopening-e18fac1e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-19-07-58-00 +0000"
-  },
-  {
-    "headline": "U.K. Government Borrowing Rises for Second Month",
-    "link": "https://www.wsj.com/world/uk/u-k-government-borrowing-rises-for-second-month-d45e8f99",
-    "source": "wsj",
-    "pubdate": "2026-06-19-07-55-00 +0000"
+    "pubdate": "2026-06-19-09-36-08 +0000"
   },
   {
     "headline": "Tech Investor Prosus’ Revenue Rises on Growth Across Businesses, Tencent",
-    "link": "https://www.wsj.com/business/earnings/tech-investor-prosus-revenue-rises-on-growth-across-businesses-tencent-31e24051?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/earnings/prosus-revenue-rises-on-growth-across-businesses-tencent-31e24051?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-06-19-07-48-00 +0000"
+    "pubdate": "2026-06-19-09-32-00 +0000"
   },
   {
-    "headline": "Rebel Lawmaker Set to Try a Knockout Blow to U.K.’s Starmer",
-    "link": "https://www.wsj.com/world/uk/rebel-lawmaker-set-to-try-a-knockout-blow-to-u-k-s-starmer-75ff91ab",
+    "headline": "Five ways the Iran peace deal could affect you and your money",
+    "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-19-09-31-04 +0000"
+  },
+  {
+    "headline": "Five ways the Iran peace deal could affect you and your money",
+    "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-19-09-31-04 +0000"
+  },
+  {
+    "headline": "U.S. and Venezuela Join Forces to Target Armed Gangs in Key Mining Region",
+    "link": "https://www.wsj.com/world/americas/u-s-and-venezuela-join-forces-to-target-armed-gangs-in-key-mining-region-c8d338f0",
     "source": "wsj",
-    "pubdate": "2026-06-19-07-47-00 +0000"
+    "pubdate": "2026-06-19-09-30-00 +0000"
+  },
+  {
+    "headline": "Local Burger Chains Are Winning the Fast-Food Wars",
+    "link": "https://www.wsj.com/business/hospitality/fast-food-regional-chains-ad7d97c3?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-19-09-30-00 +0000"
+  },
+  {
+    "headline": "U.S. and Venezuela Join Forces to Target Armed Gangs in Key Mining Region",
+    "link": "https://www.wsj.com/world/americas/u-s-and-venezuela-join-forces-to-target-armed-gangs-in-key-mining-region-c8d338f0?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-19-09-30-00 +0000"
+  },
+  {
+    "headline": "Dollar Eases From Earlier Rally in Thinned Trade",
+    "link": "https://www.wsj.com/finance/currencies/yen-strengthens-amid-fx-intervention-risks-a6ba1cc5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-19-09-30-00 +0000"
+  },
+  {
+    "headline": "Burnham says Labour has final chance to change after Makerfield by-election win",
+    "link": "https://www.bbc.com/news/articles/c4gy72kmg1mo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-19-09-29-59 +0000"
+  },
+  {
+    "headline": "Possible human remains found after Washington resident refused to evacuate wildfire",
+    "link": "https://nypost.com/2026/06/19/us-news/washington-officials-find-possible-human-remains-after-resident-refused-wildfire-evacuation/",
+    "source": "nypost",
+    "pubdate": "2026-06-19-09-29-57 +0000"
   }
 ]
