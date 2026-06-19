@@ -1,72 +1,72 @@
 [
   {
-    "score": 27,
-    "pubdate": "2026-06-19-15-02-54 +0000",
+    "score": 36,
+    "pubdate": "2026-06-19-16-37-27 +0000",
     "source": "nyt",
-    "headline": "World Cup Puts Spotlight on L.A.’s Mexican-Korean Kinship",
-    "link": "https://www.nytimes.com/2026/06/19/us/world-cup-koreatown-mexico-korea.html"
+    "headline": "Trump’s Iran Deal Is Off to a Chaotic Start",
+    "link": "https://www.nytimes.com/2026/06/19/world/middleeast/iran-war-deal-trump-uncertainty.html"
   },
   {
-    "score": 26,
-    "pubdate": "2026-06-19-15-00-00 +0000",
+    "score": 25,
+    "pubdate": "2026-06-19-17-00-00 +0000",
+    "source": "wsj",
+    "headline": "Warsh’s first test as Fed chairman will be reading the AI boom. Will the build-out cool or stoke price pressures? The 1990s offer two different answers",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-warsh-alan-greenspan-e50dc94e"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-06-19-16-53-51 +0000",
     "source": "nypost",
-    "headline": "‘Disappointed,’ ‘discouraged’ and crying foul: Spencer Pratt voters grapple with mayoral runoff they never wanted",
-    "link": "https://nypost.com/2026/06/19/us-news/spencer-pratt-voters-left-to-choose-between-karen-bass-and-nithya-raman-in-la-runoff/"
+    "headline": "US rips ‘preposterous’ claim that UAE — or any other country — has released billions in frozen Iran assets",
+    "link": "https://nypost.com/2026/06/19/world-news/us-rips-preposterous-claim-that-any-country-released-iran-assets/"
   },
   {
-    "score": 21,
-    "pubdate": "2026-06-19-15-16-39 +0000",
+    "score": 20,
+    "pubdate": "2026-06-19-16-44-45 +0000",
+    "source": "nyt",
+    "headline": "Italy Doesn’t ‘Beg,’ Giorgia Meloni Tells Trump",
+    "link": "https://www.nytimes.com/2026/06/19/world/europe/meloni-trump-italy.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-06-19-17-02-02 +0000",
     "source": "bbc",
-    "headline": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon",
-    "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss"
+    "headline": "US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution",
+    "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 19,
-    "pubdate": "2026-06-19-15-41-43 +0000",
+    "score": 18,
+    "pubdate": "2026-06-19-16-55-28 +0000",
+    "source": "nyt",
+    "headline": "‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
+    "link": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-06-19-17-04-21 +0000",
     "source": "nyt",
     "headline": "Matt Dunlap Wins Democratic House Primary in Maine’s Swing District",
     "link": "https://www.nytimes.com/2026/06/19/us/politics/democratic-house-primary-maine-dunlap.html"
   },
   {
-    "score": 17,
-    "pubdate": "2026-06-19-15-46-59 +0000",
-    "source": "nypost",
-    "headline": "Houston TV meteorologist whines she never won an Emmy, trashes co-workers in lengthy diatribe: ‘the industry never thought I was worthy’",
-    "link": "https://nypost.com/2026/06/19/media/houston-tv-meteorologist-laments-lack-of-emmy-trashes-co-workers-in-lengthy-diatribe-the-industry-never-thought-i-was-worthy/"
+    "score": 16,
+    "pubdate": "2026-06-19-17-23-06 +0000",
+    "source": "nyt",
+    "headline": "Canadian Billionaire Frank Stronach Is Convicted of Sexual and Indecent Assault",
+    "link": "https://www.nytimes.com/2026/06/19/world/canada/frank-stronach-trial-guilty-sex-charges.html"
   },
   {
-    "score": 14,
-    "pubdate": "2026-06-19-15-25-00 +0000",
+    "score": 16,
+    "pubdate": "2026-06-19-16-55-03 +0000",
+    "source": "nyt",
+    "headline": "Stranded Ships Hoping for Escape Find a Turbulent Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/06/19/business/iran-us-hormuz-shipping.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-19-17-31-00 +0000",
     "source": "wsj",
-    "headline": "UniCredit to Lift Commerzbank Stake to 42.5% After Initial Offer Period",
-    "link": "https://www.wsj.com/business/deals/unicredit-to-lift-commerzbank-stake-to-42-5-after-initial-offer-period-eab1cff0?mod=rss_markets_main"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-06-19-15-16-43 +0000",
-    "source": "nyt",
-    "headline": "Back After Vanishing for 2 Weeks, Russian Banker Tries to Project Calm",
-    "link": "https://www.nytimes.com/2026/06/19/world/europe/russia-economy-interest-rates.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-06-19-15-31-10 +0000",
-    "source": "nyt",
-    "headline": "Iran’s Supreme Leader Says He Dislikes Deal With U.S., but Allowed It",
-    "link": "https://www.nytimes.com/2026/06/19/world/middleeast/mojtaba-khamenei-iran-deal-reaction.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-06-19-15-29-21 +0000",
-    "source": "bbc",
-    "headline": "UK law enforcement destroyed my reputation and integrity, ex-Nigerian oil minister tells BBC",
-    "link": "https://www.bbc.com/news/articles/c8j2ge27jneo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-06-19-15-03-50 +0000",
-    "source": "nyt",
-    "headline": "Extreme Heat Warnings Issued Across Europe: What to Know",
-    "link": "https://www.nytimes.com/2026/06/19/world/europe/heat-wave-europe-uk-weather-forecast.html"
+    "headline": "Canada Retail Sales Continue to Rise, Buoyed by Higher Gas Prices",
+    "link": "https://www.wsj.com/economy/canada-retail-sales-continue-to-rise-buoyed-by-higher-gas-prices-90282b44"
   }
 ]
