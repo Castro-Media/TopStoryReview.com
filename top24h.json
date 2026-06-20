@@ -1,38 +1,31 @@
 [
   {
-    "score": 126,
+    "score": 120,
     "pubdate": "2026-06-19-16-37-27 +0000",
     "source": "nyt",
     "headline": "Trump’s Iran Deal Is Off to a Chaotic Start",
     "link": "https://www.nytimes.com/2026/06/19/world/middleeast/iran-war-deal-trump-uncertainty.html"
   },
   {
-    "score": 96,
+    "score": 94,
     "pubdate": "2026-06-19-09-54-38 +0000",
     "source": "nyt",
     "headline": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
     "link": "https://www.nytimes.com/live/2026/06/19/world/makerfield-election-results-uk-burnham/uk-makerfield-election"
   },
   {
-    "score": 75,
-    "pubdate": "2026-06-20-00-49-47 +0000",
-    "source": "nypost",
-    "headline": "JJ Watt, American Airlines help rescue viral stranded German tourist Freddy in time for World Cup game",
-    "link": "https://nypost.com/2026/06/19/us-news/private-jet-firm-offers-to-save-stranded-german-tourist-who-cant-make-world-cup-game/"
-  },
-  {
-    "score": 71,
-    "pubdate": "2026-06-20-01-21-31 +0000",
+    "score": 69,
+    "pubdate": "2026-06-20-05-43-13 +0000",
     "source": "nyt",
     "headline": "Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
     "link": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal"
   },
   {
-    "score": 63,
-    "pubdate": "2026-06-19-05-33-59 +0000",
-    "source": "bbc",
-    "headline": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
-    "link": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss"
+    "score": 69,
+    "pubdate": "2026-06-20-00-49-47 +0000",
+    "source": "nypost",
+    "headline": "JJ Watt, American Airlines help rescue viral stranded German tourist Freddy in time for World Cup game",
+    "link": "https://nypost.com/2026/06/19/us-news/private-jet-firm-offers-to-save-stranded-german-tourist-who-cant-make-world-cup-game/"
   },
   {
     "score": 58,
@@ -57,16 +50,23 @@
   },
   {
     "score": 46,
+    "pubdate": "2026-06-19-18-39-00 +0000",
+    "source": "wsj",
+    "headline": "European leaders are grappling with how to stem a flood of Chinese exports hammering their industries—and whether they are ready for a trade war with Beijing over the problem",
+    "link": "https://www.wsj.com/economy/trade/chinese-export-flood-tests-europes-stomach-for-trade-war-with-beijing-c03a9ac1"
+  },
+  {
+    "score": 46,
     "pubdate": "2026-06-19-19-36-10 +0000",
     "source": "bbc",
     "headline": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
     "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 41,
-    "pubdate": "2026-06-19-17-00-00 +0000",
-    "source": "wsj",
-    "headline": "Warsh’s first test as Fed chairman will be reading the AI boom. Will the build-out cool or stoke price pressures? The 1990s offer two different answers",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-warsh-alan-greenspan-e50dc94e"
+    "score": 42,
+    "pubdate": "2026-06-20-00-27-20 +0000",
+    "source": "nypost",
+    "headline": "Teen killed in NYC carriage horse crash was on family’s first trip to US: ‘They are very devastated’",
+    "link": "https://nypost.com/2026/06/19/us-news/teen-killed-in-central-park-carriage-horse-crash-was-on-familys-first-us-trip/"
   }
 ]
