@@ -1,30 +1,72 @@
 [
   {
-    "score": 16,
-    "pubdate": "2026-06-20-14-27-00 +0000",
+    "score": 21,
+    "pubdate": "2026-06-20-15-58-09 +0000",
     "source": "nyt",
-    "headline": "No End in Sight for U.S. Military Mission Along Border With Mexico",
-    "link": "https://www.nytimes.com/2026/06/20/us/politics/troops-border-mexico.html"
+    "headline": "A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court",
+    "link": "https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-06-20-15-31-12 +0000",
+    "source": "bbc",
+    "headline": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+    "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-06-20-15-55-00 +0000",
+    "source": "nyt",
+    "headline": "‘A Literal Coverup’: What Is the Kennedy Center Hiding Behind Those Tarps?",
+    "link": "https://www.nytimes.com/2026/06/19/us/politics/kennedy-center-trump.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-20-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "Jack Schlossberg’s good looks and zany charm have catapulted him to online fame. But can the Kennedy scion win the votes in NY-12?",
+    "link": "https://www.wsj.com/politics/elections/jack-schlossberg-new-york-congressional-primary-69f8a3de"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-20-15-43-28 +0000",
+    "source": "nyt",
+    "headline": "Israel and Hezbollah Are Still Fighting, Several Cease-Fires Later",
+    "link": "https://www.nytimes.com/2026/06/20/world/middleeast/israel-hezbollah-fighting-cease-fire.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-20-15-50-43 +0000",
+    "source": "nypost",
+    "headline": "Fire department issues urgent warning as choking smoke from massive LA warehouse blaze blankets city",
+    "link": "https://nypost.com/2026/06/20/us-news/fire-department-issues-urgent-warning-as-choking-smoke-from-boyle-heights-warehouse-blaze-covers-city/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-06-20-15-37-13 +0000",
+    "source": "nypost",
+    "headline": "New Jersey man pleads guilty to sexually assaulting girl on wife’s cheerleading team over span of 3 years",
+    "link": "https://nypost.com/2026/06/20/us-news/new-jersey-man-pleads-guilty-to-sexually-assaulting-girl-on-wifes-cheerleading-team/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-06-20-15-54-47 +0000",
+    "source": "nypost",
+    "headline": "Conjoined twins separated after 19 months with fused skulls see each other for first time",
+    "link": "https://nypost.com/2026/06/20/world-news/conjoined-twins-separated-after-19-months-see-each-other-for-first-time/"
   },
   {
     "score": 10,
-    "pubdate": "2026-06-20-14-35-00 +0000",
-    "source": "nyt",
-    "headline": "Mideast Live Updates: Iranian Forces Say They Closed Strait of Hormuz",
-    "link": "https://www.nytimes.com/live/2026/06/20/world/iran-trump-israel-lebanon"
+    "pubdate": "2026-06-20-16-04-44 +0000",
+    "source": "nypost",
+    "headline": "Co-founder of Assassin’s Creed maker Ubisoft killed in plane crash in France",
+    "link": "https://nypost.com/2026/06/20/world-news/co-founder-of-assassins-creed-maker-ubisoft-killed-in-plane-crash-in-france/"
   },
   {
-    "score": 5,
-    "pubdate": "2026-06-20-14-28-00 +0000",
-    "source": "wsj",
-    "headline": "Iran Closes Strait of Hormuz as Fighting Flares Again in Lebanon",
-    "link": "https://www.wsj.com/world/middle-east/fighting-flares-again-in-lebanon-despite-israel-hezbollah-ceasefire-4d0ffae8"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-06-20-14-27-00 +0000",
-    "source": "nyt",
-    "headline": "No End in Sight for U.S. Military Mission Along Border With Mexico",
-    "link": "https://www.nytimes.com/2026/06/20/us/politics/troops-border-mexico.html"
+    "score": 9,
+    "pubdate": "2026-06-20-15-44-47 +0000",
+    "source": "nypost",
+    "headline": "Couple charged with gruesume murder of Atlanta bartender found dismembered in lake",
+    "link": "https://nypost.com/2026/06/20/us-news/couple-charged-with-gruesume-murder-of-atlanta-bartender-found-dismembered-in-lake/"
   }
 ]

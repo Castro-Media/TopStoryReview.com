@@ -1,20 +1,27 @@
 [
   {
-    "score": 101,
+    "score": 94,
     "pubdate": "2026-06-19-16-37-27 +0000",
     "source": "nyt",
     "headline": "Trump’s Iran Deal Is Off to a Chaotic Start",
     "link": "https://www.nytimes.com/2026/06/19/world/middleeast/iran-war-deal-trump-uncertainty.html"
   },
   {
-    "score": 58,
+    "score": 54,
     "pubdate": "2026-06-19-19-06-59 +0000",
     "source": "nypost",
     "headline": "Trump shows off new Air Force One, thanks Qatar for handing over ‘world’s most luxurious plane’",
     "link": "https://nypost.com/2026/06/19/us-news/aging-air-force-one-jet-gets-mothballed-as-trump-preps-qatars-luxury-747-for-flight/"
   },
   {
-    "score": 52,
+    "score": 50,
+    "pubdate": "2026-06-20-10-19-34 +0000",
+    "source": "bbc",
+    "headline": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+    "link": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 50,
     "pubdate": "2026-06-19-17-00-00 +0000",
     "source": "wsj",
     "headline": "Warsh’s first test as Fed chairman will be reading the AI boom. Will the build-out cool or stoke price pressures? The 1990s offer two different answers",
@@ -28,25 +35,18 @@
     "link": "https://nypost.com/2026/06/20/us-news/trump-doubles-down-attacks-on-italian-pm-giorgia-meloni-after-she-rips-prezs-made-up-claims/"
   },
   {
-    "score": 48,
-    "pubdate": "2026-06-20-10-19-34 +0000",
-    "source": "bbc",
-    "headline": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-    "link": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 43,
+    "score": 45,
     "pubdate": "2026-06-20-10-16-33 +0000",
     "source": "nypost",
     "headline": "Canadian auto parts billionaire Frank Stronach, 93, found guilty of sexual assault, indecent assault",
     "link": "https://nypost.com/2026/06/20/world-news/canadian-auto-parts-billionaire-frank-stronach-93-found-guilty-of-sexual-assault-indecent-assault/"
   },
   {
-    "score": 38,
-    "pubdate": "2026-06-20-10-22-49 +0000",
-    "source": "cbc",
-    "headline": "Iran says it's closing the Strait of Hormuz, citing U.S., Israel ceasefire violations",
-    "link": "https://www.cbc.ca/news/world/israeli-strikes-south-lebanon-despite-ceasefire-9.7242995?cmp=rss"
+    "score": 41,
+    "pubdate": "2026-06-19-19-27-12 +0000",
+    "source": "bbc",
+    "headline": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+    "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 36,
@@ -57,16 +57,16 @@
   },
   {
     "score": 34,
+    "pubdate": "2026-06-20-15-05-19 +0000",
+    "source": "nypost",
+    "headline": "Obama Center engineer reveals former president’s ‘vision’ that inspired polarizing building design",
+    "link": "https://nypost.com/2026/06/20/us-news/obama-center-engineer-reveals-former-presidents-vision-that-inspired-polarizing-building-design/"
+  },
+  {
+    "score": 33,
     "pubdate": "2026-06-20-12-47-10 +0000",
     "source": "nypost",
     "headline": "Italian mom killed in Dominican Republic resort inferno that forced 1,700 to evacuate was visiting family before tragedy",
     "link": "https://nypost.com/2026/06/20/world-news/italian-mom-killed-in-dominican-republic-fire-ided-as-francesca-valentino/"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-06-20-11-36-31 +0000",
-    "source": "nyt",
-    "headline": "After Andy Burnham’s Win, the UK Is Set to Test How Far Charisma Can Shift Electoral Dynamics",
-    "link": "https://www.nytimes.com/2026/06/20/world/europe/burnham-starmer-labour-uk-reform.html"
   }
 ]
