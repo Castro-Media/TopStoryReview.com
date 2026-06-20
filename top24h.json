@@ -1,31 +1,24 @@
 [
   {
-    "score": 63,
-    "pubdate": "2026-06-20-21-11-57 +0000",
-    "source": "bbc",
-    "headline": "Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon",
-    "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 58,
+    "score": 60,
     "pubdate": "2026-06-20-13-11-15 +0000",
     "source": "nypost",
     "headline": "Trump doubles down attacks on Italian PM Giorgia Meloni after she rips prez’s ‘made up’ claims",
     "link": "https://nypost.com/2026/06/20/us-news/trump-doubles-down-attacks-on-italian-pm-giorgia-meloni-after-she-rips-prezs-made-up-claims/"
   },
   {
-    "score": 48,
-    "pubdate": "2026-06-20-19-39-58 +0000",
-    "source": "nypost",
-    "headline": "Son of FDNY hero killed on 9/11 carries World Trade Center steel beam across America to honor dad",
-    "link": "https://nypost.com/2026/06/20/us-news/son-of-fdny-hero-who-died-on-9-11-carries-world-trade-center-steel-beam-across-america/"
+    "score": 59,
+    "pubdate": "2026-06-20-09-02-41 +0000",
+    "source": "nyt",
+    "headline": "World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary.",
+    "link": "https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html"
   },
   {
     "score": 45,
-    "pubdate": "2026-06-19-23-50-25 +0000",
+    "pubdate": "2026-06-20-18-23-43 +0000",
     "source": "nyt",
-    "headline": "A New Air Force One, via Qatar, Nears Its First Presidential Flight",
-    "link": "https://www.nytimes.com/2026/06/19/us/politics/new-air-force-one-trump.html"
+    "headline": "New Strait of Hormuz Closure Announcement Threatens the Slow Uptick in Traffic",
+    "link": "https://www.nytimes.com/2026/06/20/world/middleeast/iran-strait-of-hormuz-traffic.html"
   },
   {
     "score": 43,
@@ -36,17 +29,31 @@
   },
   {
     "score": 42,
-    "pubdate": "2026-06-20-10-19-34 +0000",
-    "source": "bbc",
-    "headline": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-    "link": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-06-20-16-56-31 +0000",
+    "source": "nypost",
+    "headline": "Ukraine blasts one of Siberia’s largest oil refineries in what may be war’s deepest strike into Russia",
+    "link": "https://nypost.com/2026/06/20/world-news/ukraine-blasts-one-of-siberias-largest-refineries-in-what-may-be-wars-farthest-attack-into-russia/"
   },
   {
-    "score": 33,
+    "score": 38,
     "pubdate": "2026-06-20-12-47-10 +0000",
     "source": "nypost",
     "headline": "Italian mom killed in Dominican Republic resort inferno that forced 1,700 to evacuate was visiting family before tragedy",
     "link": "https://nypost.com/2026/06/20/world-news/italian-mom-killed-in-dominican-republic-fire-ided-as-francesca-valentino/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-06-20-20-18-32 +0000",
+    "source": "nypost",
+    "headline": "Conflict erupts in Lebanon between Israel, Hezbollah — just hours after 2 sides reach critical truce",
+    "link": "https://nypost.com/2026/06/20/world-news/conflict-erupts-in-lebanon-between-israel-and-hezbollah-just-hours-after-two-sides-reach-critical-truce/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-06-20-18-16-57 +0000",
+    "source": "nypost",
+    "headline": "MLB now in crosshairs of several top prosecutors as SF Giants Pride Night scandal explodes across US",
+    "link": "https://nypost.com/2026/06/20/sports/mlb-now-in-crosshairs-of-several-top-prosecutors-as-sf-giants-pride-night-scandal-explodes-across-us/"
   },
   {
     "score": 32,
@@ -57,16 +64,9 @@
   },
   {
     "score": 30,
-    "pubdate": "2026-06-20-14-22-34 +0000",
+    "pubdate": "2026-06-20-16-50-31 +0000",
     "source": "nyt",
-    "headline": "Abelardo De La Espriella, Right-Wing Outsider, Could Be Colombia’s Next President",
-    "link": "https://www.nytimes.com/2026/06/20/world/americas/colombia-election-abelardo-de-la-espriella.html"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-06-20-11-36-31 +0000",
-    "source": "nyt",
-    "headline": "After Andy Burnham’s Win, the UK Is Set to Test How Far Charisma Can Shift Electoral Dynamics",
-    "link": "https://www.nytimes.com/2026/06/20/world/europe/burnham-starmer-labour-uk-reform.html"
+    "headline": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
+    "link": "https://www.nytimes.com/2026/06/19/world/europe/russia-moscow-missile-refinery.html"
   }
 ]
