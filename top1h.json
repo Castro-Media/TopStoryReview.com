@@ -1,9 +1,37 @@
 [
   {
+    "score": 11,
+    "pubdate": "2026-06-20-07-24-27 +0000",
+    "source": "nypost",
+    "headline": "3 hikers die of suspected heat-related illness during rising temperatures at Grand Canyon",
+    "link": "https://nypost.com/2026/06/20/us-news/three-hikers-die-at-grand-canyon-in-heat-related-illnesses-during-rising-temperatures/"
+  },
+  {
     "score": 10,
-    "pubdate": "2026-06-20-05-43-13 +0000",
-    "source": "nyt",
-    "headline": "Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
-    "link": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal"
+    "pubdate": "2026-06-20-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "U.S. claims about higher drug trafficking from Canada don't match the data: fentanyl czar",
+    "link": "https://www.cbc.ca/news/politics/us-canada-trump-fentanyl-border-9.7241691?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-20-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "A legal challenge opens a new front in the debate over Carney's climate agenda",
+    "link": "https://www.cbc.ca/news/politics/climate-accountability-legal-challenge-carney-analysis-9.7242378?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-20-07-10-37 +0000",
+    "source": "nypost",
+    "headline": "Husband accused of killing wife on wedding night brought back to US after years on the run in Mexico",
+    "link": "https://nypost.com/2026/06/20/us-news/mexican-man-arnoldo-jimenez-brought-back-to-us-over-12-years-after-allegedly-killing-wife-on-wedding-night/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-06-20-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Canadian lawyers urge crackdown over Alabama prison labour imports",
+    "link": "https://www.cbc.ca/news/politics/forced-labour-imports-canada-tariffs-9.7238657?cmp=rss"
   }
 ]
