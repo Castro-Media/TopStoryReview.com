@@ -1,15 +1,69 @@
 [
   {
+    "headline": "Canadian lawyers urge crackdown over Alabama prison labour imports",
+    "link": "https://www.cbc.ca/news/politics/forced-labour-imports-canada-tariffs-9.7238657?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-20-08-00-00 +0000"
+  },
+  {
+    "headline": "A legal challenge opens a new front in the debate over Carney's climate agenda",
+    "link": "https://www.cbc.ca/news/politics/climate-accountability-legal-challenge-carney-analysis-9.7242378?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-20-08-00-00 +0000"
+  },
+  {
+    "headline": "U.S. claims about higher drug trafficking from Canada don't match the data: fentanyl czar",
+    "link": "https://www.cbc.ca/news/politics/us-canada-trump-fentanyl-border-9.7241691?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-20-08-00-00 +0000"
+  },
+  {
+    "headline": "3 hikers die of suspected heat-related illness during rising temperatures at Grand Canyon",
+    "link": "https://nypost.com/2026/06/20/us-news/three-hikers-die-at-grand-canyon-in-heat-related-illnesses-during-rising-temperatures/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-07-24-27 +0000"
+  },
+  {
+    "headline": "Husband accused of killing wife on wedding night brought back to US after years on the run in Mexico",
+    "link": "https://nypost.com/2026/06/20/us-news/mexican-man-arnoldo-jimenez-brought-back-to-us-over-12-years-after-allegedly-killing-wife-on-wedding-night/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-07-10-37 +0000"
+  },
+  {
+    "headline": "Trans former New Hampshire state representative sentenced to 33 years for child sex abuse: report",
+    "link": "https://nypost.com/2026/06/20/us-news/trans-former-new-hampshire-state-rep-stacie-marie-laughton-sentenced-for-child-sex-abuse/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-06-59-38 +0000"
+  },
+  {
+    "headline": "Trump envoy Steve Witkoff, Iranian minister head to Switzerland for talks",
+    "link": "https://nypost.com/2026/06/20/world-news/trump-envoy-steve-witkoff-iranian-minister-head-to-switzerland-for-talks/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-06-48-22 +0000"
+  },
+  {
+    "headline": "Starbucks workers bravely fight off robbers before they were fired for stopping duo, new video shows",
+    "link": "https://nypost.com/2026/06/20/us-news/st-louis-starbucks-workers-fight-off-robbers-then-get-fired/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-06-39-55 +0000"
+  },
+  {
+    "headline": "Three inmates sentenced to life behind bars for murdering child killer in 5-minute prison attack",
+    "link": "https://nypost.com/2026/06/20/world-news/three-uk-inmates-sentenced-for-murdering-child-killer-kyle-bevan-in-prison-attack/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-06-27-45 +0000"
+  },
+  {
     "headline": "Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
     "link": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
     "source": "nyt",
-    "pubdate": "2026-06-20-05-43-13 +0000"
+    "pubdate": "2026-06-20-06-21-59 +0000"
   },
   {
     "headline": "L.A.P.D. Releases Bodycam Footage of Officer Shooting a Knicks Fan’s Dog",
     "link": "https://www.nytimes.com/2026/06/20/us/los-angeles-dog-police-shooting.html",
     "source": "nyt",
-    "pubdate": "2026-06-20-04-13-42 +0000"
+    "pubdate": "2026-06-20-04-13-43 +0000"
   },
   {
     "headline": "Cape Verde Will Count on Vozinha Against Uruguay at the World Cup",
@@ -339,19 +393,19 @@
     "headline": "How Deal With U.S. Could Reconnect Iran to the Global Economy",
     "link": "https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html",
     "source": "nyt",
-    "pubdate": "2026-06-19-23-49-40 +0000"
+    "pubdate": "2026-06-19-23-49-41 +0000"
   },
   {
     "headline": "How Deal With U.S. Could Reconnect Iran to the Global Economy",
     "link": "https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html",
     "source": "nyt",
-    "pubdate": "2026-06-19-23-49-40 +0000"
+    "pubdate": "2026-06-19-23-49-41 +0000"
   },
   {
     "headline": "How Deal With U.S. Could Reconnect Iran to the Global Economy",
     "link": "https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html",
     "source": "nyt",
-    "pubdate": "2026-06-19-23-49-40 +0000"
+    "pubdate": "2026-06-19-23-49-41 +0000"
   },
   {
     "headline": "K'omoks First Nation chief pushes back on Poilievre's opposition to treaty",
@@ -364,6 +418,12 @@
     "link": "https://nypost.com/2026/06/19/us-news/bakersfield-caregiver-set-for-trial-over-alleged-abuse-of-elderly-woman-exposed-on-tiktok/",
     "source": "nypost",
     "pubdate": "2026-06-19-23-43-33 +0000"
+  },
+  {
+    "headline": "Why candidates dress up to run in major UK elections",
+    "link": "https://www.bbc.com/news/articles/cj9g3g28en1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-19-23-39-46 +0000"
   },
   {
     "headline": "US to stop funding HIV programmes in South Africa",
@@ -450,12 +510,6 @@
     "pubdate": "2026-06-19-22-56-47 +0000"
   },
   {
-    "headline": "Karmelo Anthony murmurs ‘I’m not alleged, I did it,’ cries during arrest for Austin Metcalf’s murder: bodycam",
-    "link": "https://nypost.com/2026/06/19/us-news/karmelo-anthony-murmurs-im-not-alleged-i-did-it-cries-during-arrest-for-austin-metcalfs-murder-bodycam-footage/",
-    "source": "nypost",
-    "pubdate": "2026-06-19-22-43-49 +0000"
-  },
-  {
     "headline": "Belief that anyone can achieve the American Dream is fading, poll finds",
     "link": "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/",
     "source": "wapo",
@@ -480,12 +534,6 @@
     "pubdate": "2026-06-19-22-40-18 +0000"
   },
   {
-    "headline": "Bush dynasty suffers defeat in Maine gubernatorial primary",
-    "link": "https://nypost.com/2026/06/19/us-news/bush-dynasty-suffers-defeat-in-maine-gubernatorial-primary/",
-    "source": "nypost",
-    "pubdate": "2026-06-19-22-40-18 +0000"
-  },
-  {
     "headline": "After 4 Israeli soldiers’ deaths, Israel and Hezbollah agree to renew ceasefire",
     "link": "https://www.washingtonpost.com/world/2026/06/19/four-israeli-soldiers-killed-combat-lebanon-imperils-us-iran-deal/",
     "source": "wapo",
@@ -502,18 +550,6 @@
     "link": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
     "source": "nyt",
     "pubdate": "2026-06-19-22-31-39 +0000"
-  },
-  {
-    "headline": "Tone-deaf praise for encampment cleanup enrages locals",
-    "link": "https://nypost.com/2026/06/19/us-news/tone-deaf-praise-for-encampment-cleanup-enrages-locals-somewhat-clean-california/",
-    "source": "nypost",
-    "pubdate": "2026-06-19-22-25-25 +0000"
-  },
-  {
-    "headline": "Dramatic 911 audio placed seconds after Karmelo Anthony murder revealed: ‘My friend’s bleeding everywhere’",
-    "link": "https://nypost.com/2026/06/19/us-news/dramatic-911-audio-placed-seconds-after-karmelo-anthony-murder-revealed/",
-    "source": "nypost",
-    "pubdate": "2026-06-19-22-19-41 +0000"
   },
   {
     "headline": "Trump unveils Qatari luxury jet for Air Force One fleet",
@@ -1884,14 +1920,8 @@
     "pubdate": "2026-06-19-10-00-01 +0000"
   },
   {
-    "headline": "'I'd be happy with the tie': Korea, Mexico showdown brings more love than rivalry in L.A.",
-    "link": "https://www.latimes.com/california/story/2026-06-19/coreano-hermano-mexico-vs-korea-match-brings-out-more-romance-than-rivalry-in-la",
-    "source": "latimes",
-    "pubdate": "2026-06-19-10-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: On the avenue that bears César Chávez's name, murals honoring him remain — for now",
-    "link": "https://www.latimes.com/california/story/2026-06-19/murals-cesar-chavez-avenue",
+    "headline": "Pico Rivera's Cristian Roldan may be last made-in-high-school U.S. World Cup star",
+    "link": "https://www.latimes.com/sports/soccer/story/2026-06-19/us-soccer-cristian-roldan-world-cup",
     "source": "latimes",
     "pubdate": "2026-06-19-10-00-00 +0000"
   },
@@ -1902,14 +1932,8 @@
     "pubdate": "2026-06-19-10-00-00 +0000"
   },
   {
-    "headline": "Pico Rivera's Cristian Roldan may be last made-in-high-school U.S. World Cup star",
-    "link": "https://www.latimes.com/sports/soccer/story/2026-06-19/us-soccer-cristian-roldan-world-cup",
-    "source": "latimes",
-    "pubdate": "2026-06-19-10-00-00 +0000"
-  },
-  {
-    "headline": "Overdoses in L.A. jails are fueled by long waits for drug addiction treatment, staffers say",
-    "link": "https://www.latimes.com/california/story/2026-06-19/la-county-jail-overdoses-drug-addiction-treatment",
+    "headline": "Arellano: On the avenue that bears César Chávez's name, murals honoring him remain — for now",
+    "link": "https://www.latimes.com/california/story/2026-06-19/murals-cesar-chavez-avenue",
     "source": "latimes",
     "pubdate": "2026-06-19-10-00-00 +0000"
   },
@@ -1932,6 +1956,12 @@
     "pubdate": "2026-06-19-10-00-00 +0000"
   },
   {
+    "headline": "Overdoses in L.A. jails are fueled by long waits for drug addiction treatment, staffers say",
+    "link": "https://www.latimes.com/california/story/2026-06-19/la-county-jail-overdoses-drug-addiction-treatment",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
     "headline": "A traveler with measles passed through LAX. Officials urge caution amid World Cup crowds",
     "link": "https://www.latimes.com/california/story/2026-06-19/traveler-with-measles-was-at-lax-caution-urged-amid-world-cup",
     "source": "latimes",
@@ -1940,6 +1970,12 @@
   {
     "headline": "This plant extract can make a lethal drug cocktail. Can it also treat opioid addiction?",
     "link": "https://www.latimes.com/california/story/2026-06-19/this-plant-extract-can-make-lethal-drug-cocktail-can-it-also-treat-opioid-addiction",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "'I'd be happy with the tie': Korea, Mexico showdown brings more love than rivalry in L.A.",
+    "link": "https://www.latimes.com/california/story/2026-06-19/coreano-hermano-mexico-vs-korea-match-brings-out-more-romance-than-rivalry-in-la",
     "source": "latimes",
     "pubdate": "2026-06-19-10-00-00 +0000"
   },
@@ -2170,125 +2206,5 @@
     "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-19-08-09-44 +0000"
-  },
-  {
-    "headline": "Zimbabwe MPs pass bill to extend president's time in power",
-    "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-19-08-03-32 +0000"
-  },
-  {
-    "headline": "Zimbabwe MPs pass bill to extend president's time in power",
-    "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-19-08-03-32 +0000"
-  },
-  {
-    "headline": "Gold Extends Losses on Fed’s Hawkish Turn",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-hawkish-fed-outweighs-u-s-iran-deal-relief-a77876f2?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-19-08-03-00 +0000"
-  },
-  {
-    "headline": "Carney government passes law allowing authorization of banned pesticides",
-    "link": "https://www.cbc.ca/news/politics/bill-c-30-changes-pesticide-use-pest-control-products-act-9.7240832?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-19-08-00-00 +0000"
-  },
-  {
-    "headline": "Trump routinely trashes the Obama-era Iran nuclear agreement. How is his deal different?",
-    "link": "https://www.cbc.ca/news/world/trump-iran-deal-obama-9.7239879?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-19-08-00-00 +0000"
-  },
-  {
-    "headline": "Oil Rises After Vance Postpones Travel to Switzerland For Iran Talks",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-signs-of-strait-of-hormuzs-reopening-e18fac1e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-19-07-58-00 +0000"
-  },
-  {
-    "headline": "U.K. Government Borrowing Rises for Second Month",
-    "link": "https://www.wsj.com/world/uk/u-k-government-borrowing-rises-for-second-month-d45e8f99",
-    "source": "wsj",
-    "pubdate": "2026-06-19-07-55-00 +0000"
-  },
-  {
-    "headline": "Iran to lodge complaint over travel restrictions",
-    "link": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-19-07-50-32 +0000"
-  },
-  {
-    "headline": "Gilt Yields Rise as U.K. Public Sector Borrowing Climbs and Burnham Wins Special Election",
-    "link": "https://www.wsj.com/finance/investing/jgbs-fall-amid-some-headwinds-bc67a57c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-19-07-37-00 +0000"
-  },
-  {
-    "headline": "Four IDF soldiers killed by Hezbollah drone strike in Lebanon",
-    "link": "https://nypost.com/2026/06/19/world-news/four-idf-soldiers-killed-by-hezbollah-drone-strike-in-lebanon/",
-    "source": "nypost",
-    "pubdate": "2026-06-19-07-29-50 +0000"
-  },
-  {
-    "headline": "Swiss Officials Say Iran Talks Are Off, for Now",
-    "link": "https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html",
-    "source": "nyt",
-    "pubdate": "2026-06-19-07-16-00 +0000"
-  },
-  {
-    "headline": "Swiss Officials Say Iran Talks Are Off, for Now",
-    "link": "https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html",
-    "source": "nyt",
-    "pubdate": "2026-06-19-07-16-00 +0000"
-  },
-  {
-    "headline": "Hannah Pingree and Bobby Charles Will Face Off in Maine Governor’s Race",
-    "link": "https://www.nytimes.com/2026/06/19/us/politics/maine-governor-pingree-charles.html",
-    "source": "nyt",
-    "pubdate": "2026-06-19-07-07-36 +0000"
-  },
-  {
-    "headline": "A Viral Knicks Moment, Brought to You by a Prediction Market",
-    "link": "https://www.nytimes.com/2026/06/19/nyregion/knicks-kalshi-polymarket.html",
-    "source": "nyt",
-    "pubdate": "2026-06-19-07-00-27 +0000"
-  },
-  {
-    "headline": "'I'd be put off if he asked to split it': Who should pay on a first date?",
-    "link": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-19-06-52-40 +0000"
-  },
-  {
-    "headline": "'I'd be put off if he asked to split it': Who should pay on a first date?",
-    "link": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-19-06-52-40 +0000"
-  },
-  {
-    "headline": "Chris Mason: Burnham's emphatic win leaves Starmer and Labour MPs with big decision",
-    "link": "https://www.bbc.com/news/articles/cqx1eq5e71zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-19-06-46-41 +0000"
-  },
-  {
-    "headline": "U.K. Confidence Holds Steady at Gloomy Level",
-    "link": "https://www.wsj.com/economy/consumers/u-k-consumer-confidence-remains-close-to-multiyear-lows-c51ef963",
-    "source": "wsj",
-    "pubdate": "2026-06-19-06-44-00 +0000"
-  },
-  {
-    "headline": "Andy Burnham's win means change at the top for Greater Manchester",
-    "link": "https://www.bbc.com/news/articles/c4gy2r2wjm1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-19-06-27-34 +0000"
-  },
-  {
-    "headline": "Firm Tied to Trump Donor Got No-Bid Contract to Clean Reflecting Pool",
-    "link": "https://www.nytimes.com/2026/06/18/us/politics/trump-donor-contract-reflecting-pool.html",
-    "source": "nyt",
-    "pubdate": "2026-06-19-06-24-16 +0000"
   }
 ]

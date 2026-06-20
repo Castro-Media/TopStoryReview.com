@@ -1,15 +1,69 @@
 [
   {
+    "headline": "Canadian lawyers urge crackdown over Alabama prison labour imports",
+    "link": "https://www.cbc.ca/news/politics/forced-labour-imports-canada-tariffs-9.7238657?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-20-08-00-00 +0000"
+  },
+  {
+    "headline": "A legal challenge opens a new front in the debate over Carney's climate agenda",
+    "link": "https://www.cbc.ca/news/politics/climate-accountability-legal-challenge-carney-analysis-9.7242378?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-20-08-00-00 +0000"
+  },
+  {
+    "headline": "U.S. claims about higher drug trafficking from Canada don't match the data: fentanyl czar",
+    "link": "https://www.cbc.ca/news/politics/us-canada-trump-fentanyl-border-9.7241691?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-20-08-00-00 +0000"
+  },
+  {
+    "headline": "3 hikers die of suspected heat-related illness during rising temperatures at Grand Canyon",
+    "link": "https://nypost.com/2026/06/20/us-news/three-hikers-die-at-grand-canyon-in-heat-related-illnesses-during-rising-temperatures/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-07-24-27 +0000"
+  },
+  {
+    "headline": "Husband accused of killing wife on wedding night brought back to US after years on the run in Mexico",
+    "link": "https://nypost.com/2026/06/20/us-news/mexican-man-arnoldo-jimenez-brought-back-to-us-over-12-years-after-allegedly-killing-wife-on-wedding-night/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-07-10-37 +0000"
+  },
+  {
+    "headline": "Trans former New Hampshire state representative sentenced to 33 years for child sex abuse: report",
+    "link": "https://nypost.com/2026/06/20/us-news/trans-former-new-hampshire-state-rep-stacie-marie-laughton-sentenced-for-child-sex-abuse/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-06-59-38 +0000"
+  },
+  {
+    "headline": "Trump envoy Steve Witkoff, Iranian minister head to Switzerland for talks",
+    "link": "https://nypost.com/2026/06/20/world-news/trump-envoy-steve-witkoff-iranian-minister-head-to-switzerland-for-talks/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-06-48-22 +0000"
+  },
+  {
+    "headline": "Starbucks workers bravely fight off robbers before they were fired for stopping duo, new video shows",
+    "link": "https://nypost.com/2026/06/20/us-news/st-louis-starbucks-workers-fight-off-robbers-then-get-fired/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-06-39-55 +0000"
+  },
+  {
+    "headline": "Three inmates sentenced to life behind bars for murdering child killer in 5-minute prison attack",
+    "link": "https://nypost.com/2026/06/20/world-news/three-uk-inmates-sentenced-for-murdering-child-killer-kyle-bevan-in-prison-attack/",
+    "source": "nypost",
+    "pubdate": "2026-06-20-06-27-45 +0000"
+  },
+  {
     "headline": "Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
     "link": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
     "source": "nyt",
-    "pubdate": "2026-06-20-05-43-13 +0000"
+    "pubdate": "2026-06-20-06-21-59 +0000"
   },
   {
     "headline": "L.A.P.D. Releases Bodycam Footage of Officer Shooting a Knicks Fan’s Dog",
     "link": "https://www.nytimes.com/2026/06/20/us/los-angeles-dog-police-shooting.html",
     "source": "nyt",
-    "pubdate": "2026-06-20-04-13-42 +0000"
+    "pubdate": "2026-06-20-04-13-43 +0000"
   },
   {
     "headline": "Cape Verde Will Count on Vozinha Against Uruguay at the World Cup",
@@ -339,19 +393,19 @@
     "headline": "How Deal With U.S. Could Reconnect Iran to the Global Economy",
     "link": "https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html",
     "source": "nyt",
-    "pubdate": "2026-06-19-23-49-40 +0000"
+    "pubdate": "2026-06-19-23-49-41 +0000"
   },
   {
     "headline": "How Deal With U.S. Could Reconnect Iran to the Global Economy",
     "link": "https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html",
     "source": "nyt",
-    "pubdate": "2026-06-19-23-49-40 +0000"
+    "pubdate": "2026-06-19-23-49-41 +0000"
   },
   {
     "headline": "How Deal With U.S. Could Reconnect Iran to the Global Economy",
     "link": "https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html",
     "source": "nyt",
-    "pubdate": "2026-06-19-23-49-40 +0000"
+    "pubdate": "2026-06-19-23-49-41 +0000"
   },
   {
     "headline": "K'omoks First Nation chief pushes back on Poilievre's opposition to treaty",
@@ -364,6 +418,12 @@
     "link": "https://nypost.com/2026/06/19/us-news/bakersfield-caregiver-set-for-trial-over-alleged-abuse-of-elderly-woman-exposed-on-tiktok/",
     "source": "nypost",
     "pubdate": "2026-06-19-23-43-33 +0000"
+  },
+  {
+    "headline": "Why candidates dress up to run in major UK elections",
+    "link": "https://www.bbc.com/news/articles/cj9g3g28en1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-19-23-39-46 +0000"
   },
   {
     "headline": "US to stop funding HIV programmes in South Africa",
@@ -450,12 +510,6 @@
     "pubdate": "2026-06-19-22-56-47 +0000"
   },
   {
-    "headline": "Karmelo Anthony murmurs ‘I’m not alleged, I did it,’ cries during arrest for Austin Metcalf’s murder: bodycam",
-    "link": "https://nypost.com/2026/06/19/us-news/karmelo-anthony-murmurs-im-not-alleged-i-did-it-cries-during-arrest-for-austin-metcalfs-murder-bodycam-footage/",
-    "source": "nypost",
-    "pubdate": "2026-06-19-22-43-49 +0000"
-  },
-  {
     "headline": "Belief that anyone can achieve the American Dream is fading, poll finds",
     "link": "https://www.washingtonpost.com/nation/2026/06/18/belief-that-anyone-can-achieve-american-dream-is-fading-poll-finds/",
     "source": "wapo",
@@ -480,12 +534,6 @@
     "pubdate": "2026-06-19-22-40-18 +0000"
   },
   {
-    "headline": "Bush dynasty suffers defeat in Maine gubernatorial primary",
-    "link": "https://nypost.com/2026/06/19/us-news/bush-dynasty-suffers-defeat-in-maine-gubernatorial-primary/",
-    "source": "nypost",
-    "pubdate": "2026-06-19-22-40-18 +0000"
-  },
-  {
     "headline": "After 4 Israeli soldiers’ deaths, Israel and Hezbollah agree to renew ceasefire",
     "link": "https://www.washingtonpost.com/world/2026/06/19/four-israeli-soldiers-killed-combat-lebanon-imperils-us-iran-deal/",
     "source": "wapo",
@@ -502,18 +550,6 @@
     "link": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
     "source": "nyt",
     "pubdate": "2026-06-19-22-31-39 +0000"
-  },
-  {
-    "headline": "Tone-deaf praise for encampment cleanup enrages locals",
-    "link": "https://nypost.com/2026/06/19/us-news/tone-deaf-praise-for-encampment-cleanup-enrages-locals-somewhat-clean-california/",
-    "source": "nypost",
-    "pubdate": "2026-06-19-22-25-25 +0000"
-  },
-  {
-    "headline": "Dramatic 911 audio placed seconds after Karmelo Anthony murder revealed: ‘My friend’s bleeding everywhere’",
-    "link": "https://nypost.com/2026/06/19/us-news/dramatic-911-audio-placed-seconds-after-karmelo-anthony-murder-revealed/",
-    "source": "nypost",
-    "pubdate": "2026-06-19-22-19-41 +0000"
   },
   {
     "headline": "Trump unveils Qatari luxury jet for Air Force One fleet",
@@ -1884,14 +1920,8 @@
     "pubdate": "2026-06-19-10-00-01 +0000"
   },
   {
-    "headline": "'I'd be happy with the tie': Korea, Mexico showdown brings more love than rivalry in L.A.",
-    "link": "https://www.latimes.com/california/story/2026-06-19/coreano-hermano-mexico-vs-korea-match-brings-out-more-romance-than-rivalry-in-la",
-    "source": "latimes",
-    "pubdate": "2026-06-19-10-00-00 +0000"
-  },
-  {
-    "headline": "Arellano: On the avenue that bears César Chávez's name, murals honoring him remain — for now",
-    "link": "https://www.latimes.com/california/story/2026-06-19/murals-cesar-chavez-avenue",
+    "headline": "Pico Rivera's Cristian Roldan may be last made-in-high-school U.S. World Cup star",
+    "link": "https://www.latimes.com/sports/soccer/story/2026-06-19/us-soccer-cristian-roldan-world-cup",
     "source": "latimes",
     "pubdate": "2026-06-19-10-00-00 +0000"
   },
@@ -1902,14 +1932,8 @@
     "pubdate": "2026-06-19-10-00-00 +0000"
   },
   {
-    "headline": "Pico Rivera's Cristian Roldan may be last made-in-high-school U.S. World Cup star",
-    "link": "https://www.latimes.com/sports/soccer/story/2026-06-19/us-soccer-cristian-roldan-world-cup",
-    "source": "latimes",
-    "pubdate": "2026-06-19-10-00-00 +0000"
-  },
-  {
-    "headline": "Overdoses in L.A. jails are fueled by long waits for drug addiction treatment, staffers say",
-    "link": "https://www.latimes.com/california/story/2026-06-19/la-county-jail-overdoses-drug-addiction-treatment",
+    "headline": "Arellano: On the avenue that bears César Chávez's name, murals honoring him remain — for now",
+    "link": "https://www.latimes.com/california/story/2026-06-19/murals-cesar-chavez-avenue",
     "source": "latimes",
     "pubdate": "2026-06-19-10-00-00 +0000"
   },
@@ -1932,6 +1956,12 @@
     "pubdate": "2026-06-19-10-00-00 +0000"
   },
   {
+    "headline": "Overdoses in L.A. jails are fueled by long waits for drug addiction treatment, staffers say",
+    "link": "https://www.latimes.com/california/story/2026-06-19/la-county-jail-overdoses-drug-addiction-treatment",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
     "headline": "A traveler with measles passed through LAX. Officials urge caution amid World Cup crowds",
     "link": "https://www.latimes.com/california/story/2026-06-19/traveler-with-measles-was-at-lax-caution-urged-amid-world-cup",
     "source": "latimes",
@@ -1940,6 +1970,12 @@
   {
     "headline": "This plant extract can make a lethal drug cocktail. Can it also treat opioid addiction?",
     "link": "https://www.latimes.com/california/story/2026-06-19/this-plant-extract-can-make-lethal-drug-cocktail-can-it-also-treat-opioid-addiction",
+    "source": "latimes",
+    "pubdate": "2026-06-19-10-00-00 +0000"
+  },
+  {
+    "headline": "'I'd be happy with the tie': Korea, Mexico showdown brings more love than rivalry in L.A.",
+    "link": "https://www.latimes.com/california/story/2026-06-19/coreano-hermano-mexico-vs-korea-match-brings-out-more-romance-than-rivalry-in-la",
     "source": "latimes",
     "pubdate": "2026-06-19-10-00-00 +0000"
   },
@@ -2266,12 +2302,6 @@
     "link": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-19-06-52-40 +0000"
-  },
-  {
-    "headline": "Chris Mason: Burnham's emphatic win leaves Starmer and Labour MPs with big decision",
-    "link": "https://www.bbc.com/news/articles/cqx1eq5e71zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-19-06-46-41 +0000"
   },
   {
     "headline": "U.K. Confidence Holds Steady at Gloomy Level",
@@ -2832,12 +2862,6 @@
     "pubdate": "2026-06-18-21-15-20 +0000"
   },
   {
-    "headline": "Iran’s disfigured, ‘probably gay,’ supreme leader agrees to direct talks with US, could start this weekend",
-    "link": "https://nypost.com/2026/06/18/world-news/irans-disfigured-probably-gay-supreme-leader-agrees-to-direct-talks-with-us-could-start-this-weekend/",
-    "source": "nypost",
-    "pubdate": "2026-06-18-21-15-17 +0000"
-  },
-  {
     "headline": "Iran Deal Skirts Why Trump Went to War",
     "link": "https://www.wsj.com/business/iran-deal-skirts-why-trump-went-to-war-ad98c3ad?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -2890,12 +2914,6 @@
     "link": "https://www.nytimes.com/2026/06/18/business/student-loans-interest-rate.html",
     "source": "nyt",
     "pubdate": "2026-06-18-20-59-01 +0000"
-  },
-  {
-    "headline": "Al Jazeera boss’ warning to staffers — don’t join anti-Israel protests",
-    "link": "https://nypost.com/2026/06/18/media/al-jazeera-boss-warning-to-staffers-dont-join-anti-israel-protests/",
-    "source": "nypost",
-    "pubdate": "2026-06-18-20-55-09 +0000"
   },
   {
     "headline": "Al Jazeera boss’ warning to staffers — don’t join anti-Israel protests",
@@ -4032,12 +4050,6 @@
     "pubdate": "2026-06-18-08-19-57 +0000"
   },
   {
-    "headline": "The local election that could topple Britain’s prime minister",
-    "link": "https://www.washingtonpost.com/world/2026/06/18/election-empty-parliament-seat-could-choose-uk-next-prime-minister/",
-    "source": "wapo",
-    "pubdate": "2026-06-18-08-00-00 +0000"
-  },
-  {
     "headline": "Leave it to the beavers: How the industrious mammals are helping to stop a London tube station from flooding",
     "link": "https://www.cbc.ca/news/world/london-beavers-9.7238399?cmp=rss",
     "source": "cbc",
@@ -4410,18 +4422,6 @@
     "pubdate": "2026-06-17-20-53-41 +0000"
   },
   {
-    "headline": "NATO wants 'credible' spending plans from members at next month's summit",
-    "link": "https://www.cbc.ca/news/politics/nato-spending-defence-canada-us-criticism-9.7239006?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-17-20-53-41 +0000"
-  },
-  {
-    "headline": "Yorkton-Melville MP Cathay Wagantall to step down Aug. 31, earlier than planned",
-    "link": "https://www.cbc.ca/news/canada/saskatchewan/mp-cathay-wagantall-to-step-down-aug-31-9.7239166?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-17-20-53-29 +0000"
-  },
-  {
     "headline": "‘Backrooms’ and ‘Obsession’ Disrupt the 2026 Summer Box Office",
     "link": "https://www.nytimes.com/2026/06/17/business/media/obsession-backrooms-summer-box-office-charts.html",
     "source": "nyt",
@@ -4474,12 +4474,6 @@
     "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-wealth-management-firms?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-06-17-20-29-00 +0000"
-  },
-  {
-    "headline": "Canadian government should 'indefinitely exclude' people with mental illness from MAID, committee recommends",
-    "link": "https://www.cbc.ca/news/health/maid-mental-disorder-committee-report-government-9.7238589?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-17-20-16-31 +0000"
   },
   {
     "headline": "Stocks Drop on Fed Decision, and Oil Is Muted Amid Peace Deal Talks",
@@ -4980,18 +4974,6 @@
     "pubdate": "2026-06-17-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: Gerrymanders, judges and an alley-oop: A look at the midterm fight for control of Congress",
-    "link": "https://www.latimes.com/politics/story/2026-06-17/midterm-election-handicapping-senate-house-control-congress-democrats-republicans",
-    "source": "latimes",
-    "pubdate": "2026-06-17-10-00-00 +0000"
-  },
-  {
-    "headline": "L.A. voters could be asked to boost spending on parks. Finding the money comes later",
-    "link": "https://www.latimes.com/california/story/2026-06-17/park-funding-measure-could-go-to-los-angeles-voters-in-november",
-    "source": "latimes",
-    "pubdate": "2026-06-17-10-00-00 +0000"
-  },
-  {
     "headline": "L.A. defies the skeptics for a World Cup marked by unity, mutual respect, fearlessness",
     "link": "https://www.latimes.com/california/story/2026-06-17/los-angeles-world-cup-unity",
     "source": "latimes",
@@ -5012,6 +4994,18 @@
   {
     "headline": "Arellano: Saying farewell to O.C.'s fighter for 'los otros'",
     "link": "https://www.latimes.com/california/story/2026-06-17/federico-sayre-attorney-funeral",
+    "source": "latimes",
+    "pubdate": "2026-06-17-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: Gerrymanders, judges and an alley-oop: A look at the midterm fight for control of Congress",
+    "link": "https://www.latimes.com/politics/story/2026-06-17/midterm-election-handicapping-senate-house-control-congress-democrats-republicans",
+    "source": "latimes",
+    "pubdate": "2026-06-17-10-00-00 +0000"
+  },
+  {
+    "headline": "L.A. voters could be asked to boost spending on parks. Finding the money comes later",
+    "link": "https://www.latimes.com/california/story/2026-06-17/park-funding-measure-could-go-to-los-angeles-voters-in-november",
     "source": "latimes",
     "pubdate": "2026-06-17-10-00-00 +0000"
   },
@@ -5736,14 +5730,14 @@
     "pubdate": "2026-06-16-10-08-20 +0000"
   },
   {
-    "headline": "Panel balks at plans to expand L.A. City Council to 25 members",
-    "link": "https://www.latimes.com/california/story/2026-06-16/panel-balks-at-plans-to-expand-la-city-council-to-25-members",
+    "headline": "Locke charter high school students are improving. Why that may not be enough to stop closure",
+    "link": "https://www.latimes.com/california/story/2026-06-16/why-student-progress-at-locke-high-charter-may-not-be-enough-to-stop-closure",
     "source": "latimes",
     "pubdate": "2026-06-16-10-00-00 +0000"
   },
   {
-    "headline": "Locke charter high school students are improving. Why that may not be enough to stop closure",
-    "link": "https://www.latimes.com/california/story/2026-06-16/why-student-progress-at-locke-high-charter-may-not-be-enough-to-stop-closure",
+    "headline": "Panel balks at plans to expand L.A. City Council to 25 members",
+    "link": "https://www.latimes.com/california/story/2026-06-16/panel-balks-at-plans-to-expand-la-city-council-to-25-members",
     "source": "latimes",
     "pubdate": "2026-06-16-10-00-00 +0000"
   },
@@ -5760,14 +5754,14 @@
     "pubdate": "2026-06-16-10-00-00 +0000"
   },
   {
-    "headline": "Uber, Lyft accused of charging different fees for the same rides at the same time",
-    "link": "https://www.latimes.com/business/story/2026-06-16/uber-lyft-accused-of-charging-different-fees-for-same-route-time",
+    "headline": "Trump's feud with AI company Anthropic keeps heating up",
+    "link": "https://www.latimes.com/business/story/2026-06-16/trumps-feud-with-ai-company-anthropic-keeps-heating-up",
     "source": "latimes",
     "pubdate": "2026-06-16-10-00-00 +0000"
   },
   {
-    "headline": "Trump's feud with AI company Anthropic keeps heating up",
-    "link": "https://www.latimes.com/business/story/2026-06-16/trumps-feud-with-ai-company-anthropic-keeps-heating-up",
+    "headline": "Uber, Lyft accused of charging different fees for the same rides at the same time",
+    "link": "https://www.latimes.com/business/story/2026-06-16/uber-lyft-accused-of-charging-different-fees-for-same-route-time",
     "source": "latimes",
     "pubdate": "2026-06-16-10-00-00 +0000"
   },
@@ -6216,6 +6210,12 @@
     "pubdate": "2026-06-15-10-24-09 +0000"
   },
   {
+    "headline": "This startup was supposed to revolutionize California's wine industry: 'It totally failed'",
+    "link": "https://www.latimes.com/business/story/2026-06-15/this-startup-was-supposed-to-revolutionize-californias-wine-industry-it-totally-failed",
+    "source": "latimes",
+    "pubdate": "2026-06-15-10-00-00 +0000"
+  },
+  {
     "headline": "What COVID is teaching doctors about the relationship between viruses and cancer",
     "link": "https://www.latimes.com/science/story/2026-06-15/what-covid-teaches-doctors-about-relationship-viruses-cancer",
     "source": "latimes",
@@ -6224,12 +6224,6 @@
   {
     "headline": "El Niño has arrived: 5 ways California could get pummeled",
     "link": "https://www.latimes.com/california/story/2026-06-15/el-nino-has-arrived-5-ways-california-could-get-pummeled",
-    "source": "latimes",
-    "pubdate": "2026-06-15-10-00-00 +0000"
-  },
-  {
-    "headline": "This startup was supposed to revolutionize California's wine industry: 'It totally failed'",
-    "link": "https://www.latimes.com/business/story/2026-06-15/this-startup-was-supposed-to-revolutionize-californias-wine-industry-it-totally-failed",
     "source": "latimes",
     "pubdate": "2026-06-15-10-00-00 +0000"
   },
@@ -6432,14 +6426,20 @@
     "pubdate": "2026-06-14-10-00-00 +0000"
   },
   {
-    "headline": "California's slow vote count stirs frustration, but changes would be hard",
-    "link": "https://www.latimes.com/california/story/2026-06-14/californias-slow-vote-count-stirs-frustration-but-changes-would-be-hard",
+    "headline": "Here's how SoCal's car washes are learning to operate in the Trump era",
+    "link": "https://www.latimes.com/california/story/2026-06-14/immigration-raid-socal-business-impacts-car-wash-industry",
     "source": "latimes",
     "pubdate": "2026-06-14-10-00-00 +0000"
   },
   {
     "headline": "New MLK hospital program brings amputations to zero for at-risk diabetic patients",
     "link": "https://www.latimes.com/science/story/2026-06-14/mlk-program-brings-amputations-to-zero-for-at-risk-diabetic-patients",
+    "source": "latimes",
+    "pubdate": "2026-06-14-10-00-00 +0000"
+  },
+  {
+    "headline": "California's slow vote count stirs frustration, but changes would be hard",
+    "link": "https://www.latimes.com/california/story/2026-06-14/californias-slow-vote-count-stirs-frustration-but-changes-would-be-hard",
     "source": "latimes",
     "pubdate": "2026-06-14-10-00-00 +0000"
   },
@@ -6452,12 +6452,6 @@
   {
     "headline": "Chabria: The enemy of my enemy is a billionaire. Get over it",
     "link": "https://www.latimes.com/california/story/2026-06-14/chabria-column-steyer-campaign-billionaires",
-    "source": "latimes",
-    "pubdate": "2026-06-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Here's how SoCal's car washes are learning to operate in the Trump era",
-    "link": "https://www.latimes.com/california/story/2026-06-14/immigration-raid-socal-business-impacts-car-wash-industry",
     "source": "latimes",
     "pubdate": "2026-06-14-10-00-00 +0000"
   },
@@ -6592,11 +6586,5 @@
     "link": "https://www.nytimes.com/2026/06/13/world/americas/world-cup-brazil-street-art.html",
     "source": "nyt",
     "pubdate": "2026-06-13-09-02-36 +0000"
-  },
-  {
-    "headline": "The costs and challenges facing the 2026 World Cup",
-    "link": "https://www.bbc.com/news/videos/c24ynjvm43qo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-13-06-21-43 +0000"
   }
 ]
