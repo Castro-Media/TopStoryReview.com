@@ -1,59 +1,52 @@
 [
   {
-    "score": 94,
-    "pubdate": "2026-06-19-16-37-27 +0000",
-    "source": "nyt",
-    "headline": "Trump’s Iran Deal Is Off to a Chaotic Start",
-    "link": "https://www.nytimes.com/2026/06/19/world/middleeast/iran-war-deal-trump-uncertainty.html"
-  },
-  {
-    "score": 54,
+    "score": 80,
     "pubdate": "2026-06-19-19-06-59 +0000",
     "source": "nypost",
     "headline": "Trump shows off new Air Force One, thanks Qatar for handing over ‘world’s most luxurious plane’",
     "link": "https://nypost.com/2026/06/19/us-news/aging-air-force-one-jet-gets-mothballed-as-trump-preps-qatars-luxury-747-for-flight/"
   },
   {
-    "score": 50,
+    "score": 75,
+    "pubdate": "2026-06-20-16-07-44 +0000",
+    "source": "bbc",
+    "headline": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+    "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 54,
     "pubdate": "2026-06-20-10-19-34 +0000",
     "source": "bbc",
     "headline": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
     "link": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
-    "pubdate": "2026-06-19-17-00-00 +0000",
-    "source": "wsj",
-    "headline": "Warsh’s first test as Fed chairman will be reading the AI boom. Will the build-out cool or stoke price pressures? The 1990s offer two different answers",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-warsh-alan-greenspan-e50dc94e"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-06-20-13-11-15 +0000",
-    "source": "nypost",
-    "headline": "Trump doubles down attacks on Italian PM Giorgia Meloni after she rips prez’s ‘made up’ claims",
-    "link": "https://nypost.com/2026/06/20/us-news/trump-doubles-down-attacks-on-italian-pm-giorgia-meloni-after-she-rips-prezs-made-up-claims/"
-  },
-  {
-    "score": 45,
+    "score": 43,
     "pubdate": "2026-06-20-10-16-33 +0000",
     "source": "nypost",
     "headline": "Canadian auto parts billionaire Frank Stronach, 93, found guilty of sexual assault, indecent assault",
     "link": "https://nypost.com/2026/06/20/world-news/canadian-auto-parts-billionaire-frank-stronach-93-found-guilty-of-sexual-assault-indecent-assault/"
   },
   {
-    "score": 41,
-    "pubdate": "2026-06-19-19-27-12 +0000",
-    "source": "bbc",
-    "headline": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-    "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 36,
+    "score": 40,
     "pubdate": "2026-06-19-18-20-00 +0000",
     "source": "wsj",
     "headline": "The Fed’s vice chair of supervision spoke at a private dinner Bank of America hosted for clients hours after the central bank announced its latest policy decision, according to people familiar with the event",
     "link": "https://www.wsj.com/economy/central-banking/top-bank-regulator-spoke-at-an-invite-only-client-dinner-after-fed-meeting-9c7dc4a5"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-06-20-13-11-15 +0000",
+    "source": "nypost",
+    "headline": "Trump doubles down attacks on Italian PM Giorgia Meloni after she rips prez’s ‘made up’ claims",
+    "link": "https://nypost.com/2026/06/20/us-news/trump-doubles-down-attacks-on-italian-pm-giorgia-meloni-after-she-rips-prezs-made-up-claims/"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-06-20-09-02-41 +0000",
+    "source": "nyt",
+    "headline": "World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary.",
+    "link": "https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html"
   },
   {
     "score": 34,
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2026/06/20/us-news/obama-center-engineer-reveals-former-presidents-vision-that-inspired-polarizing-building-design/"
   },
   {
-    "score": 33,
-    "pubdate": "2026-06-20-12-47-10 +0000",
+    "score": 34,
+    "pubdate": "2026-06-20-17-15-24 +0000",
     "source": "nypost",
-    "headline": "Italian mom killed in Dominican Republic resort inferno that forced 1,700 to evacuate was visiting family before tragedy",
-    "link": "https://nypost.com/2026/06/20/world-news/italian-mom-killed-in-dominican-republic-fire-ided-as-francesca-valentino/"
+    "headline": "California gender-secrecy law for students suffers another legal defeat in SoCal city",
+    "link": "https://nypost.com/2026/06/20/us-news/court-blocks-california-gender-secrecy-law-in-huntington-beach/"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-06-20-07-40-20 +0000",
+    "source": "bbc",
+    "headline": "Tourist dies in Dominican Republic luxury resort fire",
+    "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss"
   }
 ]
