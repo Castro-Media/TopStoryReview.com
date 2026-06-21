@@ -1,37 +1,72 @@
 [
   {
+    "score": 24,
+    "pubdate": "2026-06-21-18-44-06 +0000",
+    "source": "nypost",
+    "headline": "Prominent rabbi accuses Mamdani of ‘inciting violence’ against Jews after mayor branded AIPAC ‘monsters’",
+    "link": "https://nypost.com/2026/06/21/us-news/rabbi-accuses-mamdani-of-inciting-violence-antisemitism-during-campaign-speech/"
+  },
+  {
     "score": 16,
-    "pubdate": "2026-06-21-16-23-36 +0000",
-    "source": "nyt",
-    "headline": "Keir Starmer Reflects on ‘Political Challenges’ as Pressure to Resign Mounts",
-    "link": "https://www.nytimes.com/2026/06/21/world/europe/keir-starmer-andy-burnham-uk.html"
+    "pubdate": "2026-06-21-18-25-31 +0000",
+    "source": "nypost",
+    "headline": "Vance suggests US, Iran could ‘transform’ relationship but Tehran officials insist they’re not making friends: ‘Primary option is jihad’",
+    "link": "https://nypost.com/2026/06/21/world-news/tehran-pushes-defiant-line-on-cash-uranium-as-vance-suggests-us-and-iran-could-transform-relationship/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-21-18-51-54 +0000",
+    "source": "nypost",
+    "headline": "Freed Israeli hostage details horrific sexual assaults he suffered from Hamas: ‘I just wanted him to stop’",
+    "link": "https://nypost.com/2026/06/21/world-news/freed-israeli-hostage-details-horrific-sexual-assaults-he-suffered-from-hamas-i-just-wanted-him-to-stop/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-06-21-18-51-00 +0000",
+    "source": "wsj",
+    "headline": "Opinion | The Texas Electric Grid Needs Reliable Power",
+    "link": "https://www.wsj.com/opinion/the-texas-electric-grid-needs-reliable-power-c26a4871"
   },
   {
     "score": 11,
-    "pubdate": "2026-06-21-16-19-55 +0000",
+    "pubdate": "2026-06-21-19-11-30 +0000",
+    "source": "nypost",
+    "headline": "NYC bill to ban horse carriages to be renamed for teen killed in Central Park crash",
+    "link": "https://nypost.com/2026/06/21/us-news/nyc-bill-to-ban-horse-carriages-to-be-renamed-for-teen-killed-in-central-park-crash/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-06-21-18-20-28 +0000",
     "source": "nyt",
-    "headline": "Mideast Live Updates: New Round of U.S.-Iran Talks Underway in Switzerland",
+    "headline": "How Trump’s Fragile Agreement With Iran Is Shaping the Midterms",
+    "link": "https://www.nytimes.com/2026/06/21/us/politics/trump-iran-agreement-midterms.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-06-21-19-04-34 +0000",
+    "source": "nyt",
+    "headline": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship",
+    "link": "https://www.nytimes.com/2026/06/21/us/hantavirus-quarantine-end.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-06-21-18-39-12 +0000",
+    "source": "nyt",
+    "headline": "F.A.A. Investigates Near Miss Between Planes at Boston’s Logan Airport",
+    "link": "https://www.nytimes.com/2026/06/21/us/boston-airport-planes-near-miss.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-06-21-19-14-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Vents Growing Frustrations With Reflecting-Pool Problems",
+    "link": "https://www.wsj.com/us-news/trump-vents-growing-frustrations-with-reflecting-pool-problems-a328b275"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-06-21-18-57-36 +0000",
+    "source": "nyt",
+    "headline": "Strains Quickly Emerge on First Day of U.S.-Iran Talks",
     "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-06-21-16-19-00 +0000",
-    "source": "wsj",
-    "headline": "Opinion | Victory Over Iran Is Still Possible",
-    "link": "https://www.wsj.com/opinion/victory-over-iran-is-still-possible-864baf48"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-06-21-16-23-36 +0000",
-    "source": "nyt",
-    "headline": "Keir Starmer Reflects on ‘Political Challenges’ as Pressure to Resign Mounts",
-    "link": "https://www.nytimes.com/2026/06/21/world/europe/keir-starmer-andy-burnham-uk.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-06-21-16-19-00 +0000",
-    "source": "wsj",
-    "headline": "Opinion | Victory Over Iran Is Still Possible",
-    "link": "https://www.wsj.com/opinion/victory-over-iran-is-still-possible-864baf48"
   }
 ]
