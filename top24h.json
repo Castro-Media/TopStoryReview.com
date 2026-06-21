@@ -1,31 +1,52 @@
 [
   {
-    "score": 120,
-    "pubdate": "2026-06-21-00-15-38 +0000",
-    "source": "nypost",
-    "headline": "Vance lands in Switzerland for talks on Iran peace deal as Strait of Hormuz tensions boil",
-    "link": "https://nypost.com/2026/06/20/world-news/vance-jets-switzerland-salvage-iran-peace-deal-strait-hormuz-tensions-boil/"
-  },
-  {
-    "score": 59,
-    "pubdate": "2026-06-20-22-11-17 +0000",
-    "source": "nypost",
-    "headline": "Brazil soccer boss allegedly uses federation funds to fly mistress to NYC before meeting up with wife for World Cup opening ceremony",
-    "link": "https://nypost.com/2026/06/20/world-news/brazil-football-boss-allegedly-uses-federation-funds-to-fly-mistress-to-nyc-before-meeting-up-with-wife-for-world-cup-opening-ceremony/"
-  },
-  {
-    "score": 57,
+    "score": 135,
     "pubdate": "2026-06-21-14-36-29 +0000",
     "source": "nypost",
     "headline": "Trump threatens to destroy Iran over Strait of Hormuz closure — and floats 20% US ‘Guardian Angel’ tax on oil going through waterway",
     "link": "https://nypost.com/2026/06/21/world-news/trump-threatens-to-destroy-iran-over-strait-of-hormuz-closure-floats-20-guardian-angel-tax-on-oil/"
   },
   {
-    "score": 41,
+    "score": 72,
+    "pubdate": "2026-06-21-00-15-38 +0000",
+    "source": "nypost",
+    "headline": "Vance lands in Switzerland for talks on Iran peace deal as Strait of Hormuz tensions boil",
+    "link": "https://nypost.com/2026/06/20/world-news/vance-jets-switzerland-salvage-iran-peace-deal-strait-hormuz-tensions-boil/"
+  },
+  {
+    "score": 61,
+    "pubdate": "2026-06-20-22-11-17 +0000",
+    "source": "nypost",
+    "headline": "Brazil soccer boss allegedly uses federation funds to fly mistress to NYC before meeting up with wife for World Cup opening ceremony",
+    "link": "https://nypost.com/2026/06/20/world-news/brazil-football-boss-allegedly-uses-federation-funds-to-fly-mistress-to-nyc-before-meeting-up-with-wife-for-world-cup-opening-ceremony/"
+  },
+  {
+    "score": 43,
     "pubdate": "2026-06-20-22-18-23 +0000",
     "source": "nyt",
     "headline": "Mona Khalil, Defender of Sea Turtles, Killed in an Israeli Strike in Lebanon",
     "link": "https://www.nytimes.com/2026/06/20/world/middleeast/mona-kahlil-turtles-lebanon-conservation.html"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-06-20-23-07-46 +0000",
+    "source": "nypost",
+    "headline": "UK Prime Minister Keir Starmer set to resign after Labour Party turns on him",
+    "link": "https://nypost.com/2026/06/20/world-news/uk-prime-minister-keir-starmer-set-to-resign-after-labour-party-turns-on-him/"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-06-21-15-46-09 +0000",
+    "source": "nypost",
+    "headline": "Sore loser Texas Rep. Jasmine Crockett says she has ‘no idea’ if she’ll actively stump for onetime foe Talarico",
+    "link": "https://nypost.com/2026/06/21/us-news/jasmine-crockett-noncommittal-on-stumping-for-talarico/"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-06-21-08-28-12 +0000",
+    "source": "nyt",
+    "headline": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
+    "link": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html"
   },
   {
     "score": 38,
@@ -35,38 +56,17 @@
     "link": "https://www.latimes.com/politics/story/2026-06-21/ai-giants-are-funding-ad-wars-in-races-across-country"
   },
   {
-    "score": 36,
-    "pubdate": "2026-06-20-22-41-34 +0000",
-    "source": "wapo",
-    "headline": "Cyclist arrested at Reflecting Pool is former Olympian who denies vandalism claims",
-    "link": "https://www.washingtonpost.com/nation/2026/06/20/cyclist-arrested-reflecting-pool-denies-trump-vandalism-claims/"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-06-21-08-28-12 +0000",
-    "source": "nyt",
-    "headline": "Father and Uncle of Slain New York Girl Given Life Sentences in Pakistan",
-    "link": "https://www.nytimes.com/2026/06/21/world/asia/pakistan-yonkers-hira-anwar.html"
-  },
-  {
-    "score": 35,
+    "score": 37,
     "pubdate": "2026-06-20-17-33-25 +0000",
     "source": "bbc",
     "headline": "Tourist dies in Dominican Republic luxury resort fire",
     "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 32,
-    "pubdate": "2026-06-21-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "Jay Clayton has been a loyal ally and golf buddy of President Trump. Now he is a pawn in a larger chess game between the president and Congress.",
-    "link": "https://www.wsj.com/politics/policy/the-would-be-intelligence-chief-caught-between-trump-and-congress-859d7d82"
-  },
-  {
-    "score": 29,
-    "pubdate": "2026-06-20-23-07-46 +0000",
-    "source": "nypost",
-    "headline": "UK Prime Minister Keir Starmer set to resign after Labour Party turns on him",
-    "link": "https://nypost.com/2026/06/20/world-news/uk-prime-minister-keir-starmer-set-to-resign-after-labour-party-turns-on-him/"
+    "score": 36,
+    "pubdate": "2026-06-20-22-41-34 +0000",
+    "source": "wapo",
+    "headline": "Cyclist arrested at Reflecting Pool is former Olympian who denies vandalism claims",
+    "link": "https://www.washingtonpost.com/nation/2026/06/20/cyclist-arrested-reflecting-pool-denies-trump-vandalism-claims/"
   }
 ]
