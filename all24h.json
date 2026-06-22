@@ -1,57 +1,219 @@
 [
   {
-    "headline": "Intervention Can Curb Speculative Yen Weakness",
+    "headline": "U.K. Prime Minister Starmer resigns as Labour government seeks reboot",
+    "link": "https://www.washingtonpost.com/world/2026/06/22/uk-prime-minister-starmer-resigns-labour-government-seeks-reboot/",
+    "source": "wapo",
+    "pubdate": "2026-06-22-08-45-39 +0000"
+  },
+  {
+    "headline": "UK Prime Minister Keir Starmer announces he will resign",
+    "link": "https://nypost.com/2026/06/22/world-news/uk-prime-minister-keir-starmer-announces-he-will-resign/",
+    "source": "nypost",
+    "pubdate": "2026-06-22-08-40-29 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign-pressure/britain-starmer-pressure-to-resign",
+    "source": "nyt",
+    "pubdate": "2026-06-22-08-39-54 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign-pressure/britain-starmer-pressure-to-resign",
+    "source": "nyt",
+    "pubdate": "2026-06-22-08-39-54 +0000"
+  },
+  {
+    "headline": "U.K. Prime Minister Keir Starmer Quits Amid Rebellion",
+    "link": "https://www.wsj.com/world/uk/u-k-prime-minister-keir-starmer-quits-amid-rebellion-d5ede8d4",
+    "source": "wsj",
+    "pubdate": "2026-06-22-08-35-00 +0000"
+  },
+  {
+    "headline": "Sterling Shows Limited Reaction to Political Risks But Remains Vulnerable",
     "link": "https://www.wsj.com/finance/currencies/yen-unlikely-to-turn-investment-currency-without-hawkish-boj-shift-d442bfd2?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-06-22-06-24-00 +0000"
+    "pubdate": "2026-06-22-08-30-00 +0000"
+  },
+  {
+    "headline": "Andy Burnham: Who is the man who may be the next PM?",
+    "link": "https://www.bbc.com/news/videos/ce37jj4kx9no?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-22-08-29-39 +0000"
+  },
+  {
+    "headline": "First round of US-Iran talks ends with encouraging progress, mediators say",
+    "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-22-08-27-33 +0000"
+  },
+  {
+    "headline": "First round of US-Iran talks ends with encouraging progress, mediators say",
+    "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-22-08-27-33 +0000"
+  },
+  {
+    "headline": "First round of US-Iran talks ends with encouraging progress, mediators say",
+    "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-22-08-27-33 +0000"
+  },
+  {
+    "headline": "Two Boys Arrested After Deadly School Shooting in the Philippines",
+    "link": "https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html",
+    "source": "nyt",
+    "pubdate": "2026-06-22-08-26-32 +0000"
+  },
+  {
+    "headline": "Two Boys Arrested After Deadly School Shooting in the Philippines",
+    "link": "https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html",
+    "source": "nyt",
+    "pubdate": "2026-06-22-08-26-32 +0000"
+  },
+  {
+    "headline": "Oil Falls on Progress in Peace Talks, U.S. Stock Futures Mixed",
+    "link": "https://www.wsj.com/finance/oil-falls-on-progress-in-peace-talks-u-s-stock-futures-mixed-9495c9c3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-22-08-26-00 +0000"
+  },
+  {
+    "headline": "easyJet Board Rejects Castlelake’s $6.3 Billion Takeover Offer",
+    "link": "https://www.wsj.com/business/deals/castlelake-says-easyjet-board-rejects-6-3-billion-takeover-offer-e6b98315?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-22-08-17-00 +0000"
+  },
+  {
+    "headline": "Goose ‘reeling’ after dad Paul Kueker fell to his death at Madison Square Garden concert, learned tragedy while ‘getting off stage’",
+    "link": "https://nypost.com/2026/06/22/us-news/goose-reeling-after-dad-paul-kueker-fell-to-his-death-at-madison-square-garden-concert-pays-tribute-in-central-park/",
+    "source": "nypost",
+    "pubdate": "2026-06-22-08-15-14 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-22-08-14-55 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-22-08-14-55 +0000"
+  },
+  {
+    "headline": "Explosion at Qatar Gas Plant Leaves Dozens Injured, 18 Missing",
+    "link": "https://www.wsj.com/business/energy-oil/explosion-at-qatar-gas-plant-leaves-dozens-injured-18-missing-8ae33c9b",
+    "source": "wsj",
+    "pubdate": "2026-06-22-08-06-00 +0000"
+  },
+  {
+    "headline": "Explosion at Qatar Gas Plant Leaves Dozens Injured, 18 Missing",
+    "link": "https://www.wsj.com/business/energy-oil/explosion-at-qatar-gas-plant-leaves-dozens-injured-18-missing-8ae33c9b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-22-08-06-00 +0000"
   },
   {
     "headline": "Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia",
     "link": "https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html",
     "source": "nyt",
-    "pubdate": "2026-06-22-06-09-20 +0000"
+    "pubdate": "2026-06-22-08-04-51 +0000"
   },
   {
     "headline": "Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia",
     "link": "https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html",
     "source": "nyt",
-    "pubdate": "2026-06-22-06-09-20 +0000"
+    "pubdate": "2026-06-22-08-04-51 +0000"
+  },
+  {
+    "headline": "Ottawa cut therapy sessions for refugees to 10 hours per year. Now some are pushing back",
+    "link": "https://www.cbc.ca/news/politics/therapy-cuts-capifhp-mental-health-9.7241204?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-22-08-00-00 +0000"
+  },
+  {
+    "headline": "Why the debate about MAID for mental illness still rages and where the conversation is at today",
+    "link": "https://www.cbc.ca/news/health/maid-mental-illness-canada-9.7240830?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-22-08-00-00 +0000"
+  },
+  {
+    "headline": "A white nationalist group visiting Canadian locations is trying to normalize extremism, says a former neo-Nazi",
+    "link": "https://www.cbc.ca/news/canada/sudbury/white-nationalist-second-sons-northern-ontario-9.7242451?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-22-08-00-00 +0000"
+  },
+  {
+    "headline": "Minister: PM is thinking about how to respond",
+    "link": "https://www.bbc.com/news/videos/ce3e55zy5gvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-22-07-58-10 +0000"
+  },
+  {
+    "headline": "Gilt Yields Fall on Optimism Around U.S.-Iran Talks; Eyes on U.K. Politics",
+    "link": "https://www.wsj.com/finance/investing/jgb-yields-higher-amid-middle-east-uncertainty-ca344a8a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-22-07-51-00 +0000"
+  },
+  {
+    "headline": "Babcock International Launches $265 Million Buyback Program; Pretax Profit Falls",
+    "link": "https://www.wsj.com/business/earnings/babcock-international-launches-265-million-buyback-program-pretax-profit-falls-4f27b659?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-22-07-48-00 +0000"
+  },
+  {
+    "headline": "LAUSD Superintendent Alberto Carvalho resigns four months after FBI raid",
+    "link": "https://nypost.com/2026/06/22/us-news/lausd-superintendent-alberto-carvalho-resigns-four-months-after-fbi-raid/",
+    "source": "nypost",
+    "pubdate": "2026-06-22-07-47-16 +0000"
+  },
+  {
+    "headline": "EasyJet rejects £4.7bn takeover offer from US investment firm",
+    "link": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-22-07-46-43 +0000"
+  },
+  {
+    "headline": "China Slaps Restrictions on Dozens of U.S. Companies",
+    "link": "https://www.wsj.com/world/china/china-slaps-restrictions-on-dozens-of-u-s-companies-bd337a1c",
+    "source": "wsj",
+    "pubdate": "2026-06-22-07-46-00 +0000"
+  },
+  {
+    "headline": "More than half of France under red alerts as heatwave intensifies",
+    "link": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-22-07-17-26 +0000"
+  },
+  {
+    "headline": "Gold Falls As Traders Weigh U.S.-Iran Progress, Hawkish Fed Signals",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-direction-seen-led-by-geopolitics-monetary-policy-41733cb8?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-22-07-01-00 +0000"
+  },
+  {
+    "headline": "Media, tech and advertising elite return to Cannes Lions Festival",
+    "link": "https://nypost.com/2026/06/22/media/media-tech-and-advertising-elite-return-to-cannes-lions-festival/",
+    "source": "nypost",
+    "pubdate": "2026-06-22-07-00-00 +0000"
+  },
+  {
+    "headline": "Oil Falls on Signs of Progress in U.S.-Iran Peace Talks Despite Challenges",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-doubts-over-u-s-iran-peace-deal-grow-bb9cd432?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-22-06-56-00 +0000"
   },
   {
     "headline": "Embattled Superintendent of Los Angeles School District Resigns",
     "link": "https://www.nytimes.com/2026/06/22/us/superintendent-lausd-alberto-carvalho-resigns.html",
     "source": "nyt",
-    "pubdate": "2026-06-22-06-03-16 +0000"
+    "pubdate": "2026-06-22-06-51-47 +0000"
   },
   {
-    "headline": "U.S. Treasury Yields Rise in Asian Trade, Defy Fall in Oil Prices",
-    "link": "https://www.wsj.com/finance/investing/jgb-yields-higher-amid-middle-east-uncertainty-ca344a8a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-22-05-53-00 +0000"
-  },
-  {
-    "headline": "Oil Gives Up Gains After Iran Mediators Offer Plan to Ease Tensions",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-doubts-over-u-s-iran-peace-deal-grow-bb9cd432?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-22-05-29-00 +0000"
-  },
-  {
-    "headline": "Mideast Live Updates: First Round of U.S.-Iran Talks Conclude, Mediators Say",
-    "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon",
-    "source": "nyt",
-    "pubdate": "2026-06-22-05-23-49 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-22-05-23-48 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-22-05-23-48 +0000"
+    "headline": "Israel kills terrorist commander who infiltrated Nir Oz and snatched Yagil Yaakov during Oct. 7 massacre",
+    "link": "https://nypost.com/2026/06/22/world-news/israel-kills-terrorist-commander-who-infiltrated-nir-oz-and-snatched-yagil-yaakov-during-oct-7-massacre/",
+    "source": "nypost",
+    "pubdate": "2026-06-22-06-46-44 +0000"
   },
   {
     "headline": "Carvalho resigns as LAUSD superintendent amid federal investigation",
@@ -72,22 +234,16 @@
     "pubdate": "2026-06-22-04-47-20 +0000"
   },
   {
-    "headline": "First round of US-Iran talks ends with 'encouraging progress', mediators say",
-    "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-22-04-45-26 +0000"
-  },
-  {
-    "headline": "First round of US-Iran talks ends with 'encouraging progress', mediators say",
-    "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-22-04-45-26 +0000"
-  },
-  {
     "headline": "The Man Trumpifying FIFA",
     "link": "https://www.nytimes.com/2026/06/21/world/infantino-trump-fifa-iran-talks.html",
     "source": "nyt",
     "pubdate": "2026-06-22-04-39-16 +0000"
+  },
+  {
+    "headline": "China's import of custard apples is sparking fears in Taiwan",
+    "link": "https://www.bbc.com/news/articles/cwy05neqy7wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-22-04-37-27 +0000"
   },
   {
     "headline": "China's import of custard apples is sparking fears in Taiwan",
@@ -138,6 +294,12 @@
     "pubdate": "2026-06-22-03-45-51 +0000"
   },
   {
+    "headline": "Japan quintuples visa fees in first price hike since 1978",
+    "link": "https://www.bbc.com/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-22-03-45-51 +0000"
+  },
+  {
     "headline": "Rates on New Student Loans Will Rise on July 1",
     "link": "https://www.nytimes.com/2026/06/19/your-money/student-loans-interest-rates-changes.html",
     "source": "nyt",
@@ -178,12 +340,6 @@
     "link": "https://nypost.com/2026/06/21/us-news/woman-26-killed-in-jet-ski-crash-near-nycs-randalls-island/",
     "source": "nypost",
     "pubdate": "2026-06-22-02-57-56 +0000"
-  },
-  {
-    "headline": "China Slaps Restrictions on Dozens of U.S. Companies",
-    "link": "https://www.wsj.com/world/china/china-slaps-restrictions-on-dozens-of-u-s-companies-bd337a1c",
-    "source": "wsj",
-    "pubdate": "2026-06-22-02-35-00 +0000"
   },
   {
     "headline": "Chef who fled communist country opens world’s first Michelin-starred Cuban restaurant",
@@ -292,12 +448,6 @@
     "link": "https://nypost.com/2026/06/21/us-news/nypd-officer-struck-by-suspect-fleeing-in-stolen-car-leading-fellow-cop-to-shoot-driver/",
     "source": "nypost",
     "pubdate": "2026-06-22-01-30-07 +0000"
-  },
-  {
-    "headline": "Gold Rises; Direction Seen Led by Geopolitics, Monetary Policy",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-direction-seen-led-by-geopolitics-monetary-policy-41733cb8?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-22-01-28-00 +0000"
   },
   {
     "headline": "US, Iranian negotiators agree to ‘deconfliction cell’ for Lebanon in hopes of ending ‘military operations’",
@@ -552,22 +702,10 @@
     "pubdate": "2026-06-21-22-34-27 +0000"
   },
   {
-    "headline": "Gavin Newsom warned of mass exodus from California as new policy sparks fury",
-    "link": "https://nypost.com/2026/06/21/us-news/gavin-newsom-warned-of-mass-exodus-from-california-as-new-policy-sparks-fury/",
-    "source": "nypost",
-    "pubdate": "2026-06-21-22-28-19 +0000"
-  },
-  {
     "headline": "Firefighters cite progress as Boyle Heights fire burns for fifth day",
     "link": "https://www.latimes.com/california/story/2026-06-21/la-me-fire-air",
     "source": "latimes",
     "pubdate": "2026-06-21-22-27-12 +0000"
-  },
-  {
-    "headline": "Marilyn Monroe’s nephew Robin DiMaggio goes to war with The Eagles’ guitarist Don Felder",
-    "link": "https://nypost.com/2026/06/21/us-news/marilyn-monroes-nephew-robin-dimaggio-goes-to-war-with-the-eagles-guitarist-don-felder/",
-    "source": "nypost",
-    "pubdate": "2026-06-21-22-22-05 +0000"
   },
   {
     "headline": "Oil Rises Amid Uncertainty Over Strait of Hormuz",
@@ -1158,12 +1296,6 @@
     "pubdate": "2026-06-21-15-22-14 +0000"
   },
   {
-    "headline": "Half of France under red heat alert as alcohol banned at street music festival",
-    "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-21-15-22-14 +0000"
-  },
-  {
     "headline": "Lawyer, former chief of staff Claire Seaborn seeking Liberal nomination in Beaches-East York",
     "link": "https://www.cbc.ca/news/politics/claire-seaborn-nomination-liberal-9.7243484?cmp=rss",
     "source": "cbc",
@@ -1356,6 +1488,12 @@
     "pubdate": "2026-06-21-10-00-01 +0000"
   },
   {
+    "headline": "Can a new commission remedy California's public defender crisis?",
+    "link": "https://www.latimes.com/california/story/2026-06-21/california-public-defender-reform",
+    "source": "latimes",
+    "pubdate": "2026-06-21-10-00-00 +0000"
+  },
+  {
     "headline": "Much of Latin America is embracing MAGA. Here's why",
     "link": "https://www.latimes.com/world-nation/story/2026-06-21/latin-america-colombia-trump-maga",
     "source": "latimes",
@@ -1364,12 +1502,6 @@
   {
     "headline": "Barabak: Federal probe of Newsom creates lots of smoke. Is there any fire?",
     "link": "https://www.latimes.com/politics/story/2026-06-21/gavin-newsom-trump-doj-investigation",
-    "source": "latimes",
-    "pubdate": "2026-06-21-10-00-00 +0000"
-  },
-  {
-    "headline": "Can a new commission remedy California's public defender crisis?",
-    "link": "https://www.latimes.com/california/story/2026-06-21/california-public-defender-reform",
     "source": "latimes",
     "pubdate": "2026-06-21-10-00-00 +0000"
   },
@@ -1636,53 +1768,5 @@
     "link": "https://www.washingtonpost.com/business/2026/06/21/cash-strapped-farmers-iran-wars-end-comes-too-late/",
     "source": "wapo",
     "pubdate": "2026-06-21-09-00-00 +0000"
-  },
-  {
-    "headline": "IDF kills Hamas moneymen who funneled $170M to ‘military wing’ in Gaza airstrike",
-    "link": "https://nypost.com/2026/06/21/world-news/idf-kills-hamas-moneymen-who-funneled-170m-to-military-wing-in-gaza-airstrike/",
-    "source": "nypost",
-    "pubdate": "2026-06-21-08-32-06 +0000"
-  },
-  {
-    "headline": "Governors general can no longer bill government for casual and business clothing",
-    "link": "https://www.cbc.ca/news/politics/governor-general-clothing-guidelines-changed-9.7242589?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-21-08-00-00 +0000"
-  },
-  {
-    "headline": "The Conservative Party recently released an AI-generated ad. How do voters feel about this kind of content?",
-    "link": "https://www.cbc.ca/news/politics/conservative-ai-ad-targets-carney-9.7240936?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-21-08-00-00 +0000"
-  },
-  {
-    "headline": "Iran vs. Belgium: In L.A.'s 'Tehrangeles,' the World Cup weighs heavily on those who fled",
-    "link": "https://www.cbc.ca/news/world/tehrangeles-world-cup-9.7239688?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-21-08-00-00 +0000"
-  },
-  {
-    "headline": "'Uncertainty costs us', says former top civil servant",
-    "link": "https://www.bbc.com/news/videos/ckg0d6xx0pyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-21-07-56-57 +0000"
-  },
-  {
-    "headline": "What is Burnham's path to becoming Labour leader and PM?",
-    "link": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-21-07-54-16 +0000"
-  },
-  {
-    "headline": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-    "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-21-07-16-54 +0000"
-  },
-  {
-    "headline": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
-    "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-21-07-16-54 +0000"
   }
 ]
