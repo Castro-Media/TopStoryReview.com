@@ -1,72 +1,72 @@
 [
   {
-    "score": 28,
-    "pubdate": "2026-06-22-08-27-33 +0000",
+    "score": 36,
+    "pubdate": "2026-06-22-12-37-07 +0000",
+    "source": "nyt",
+    "headline": "Who Will Replace Keir Starmer as UK Prime Minister? Here’s What Happens Next.",
+    "link": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-resign-replace-prime-minister-burnham-uk.html"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-06-22-11-55-36 +0000",
     "source": "bbc",
-    "headline": "First round of US-Iran talks ends with encouraging progress, mediators say",
-    "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
+    "headline": "Alan Greenspan, architect of the modern American economy, dies aged 100",
+    "link": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-06-22-11-53-40 +0000",
+    "source": "nyt",
+    "headline": "China Tightens Rare Earth Grip on U.S. Firms, Threatening Trade Clash",
+    "link": "https://www.nytimes.com/2026/06/22/business/china-rare-earths.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-06-22-12-01-43 +0000",
+    "source": "nyt",
+    "headline": "First Round of U.S.-Iran Talks Ends With High Hopes and Big Challenges",
+    "link": "https://www.nytimes.com/2026/06/22/world/europe/iran-us-peace-talks.html"
   },
   {
     "score": 20,
-    "pubdate": "2026-06-22-08-04-51 +0000",
+    "pubdate": "2026-06-22-11-51-00 +0000",
+    "source": "wsj",
+    "headline": "Building-Materials Supplier CRH to Buy Rival Arcosa for $8.5 Billion",
+    "link": "https://www.wsj.com/business/deals/building-materials-supplier-crh-to-buy-rival-arcosa-for-8-5-billion-d8910314?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-06-22-12-11-02 +0000",
     "source": "nyt",
     "headline": "Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia",
     "link": "https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html"
   },
   {
-    "score": 17,
-    "pubdate": "2026-06-22-08-40-29 +0000",
-    "source": "nypost",
-    "headline": "UK Prime Minister Keir Starmer announces he will resign",
-    "link": "https://nypost.com/2026/06/22/world-news/uk-prime-minister-keir-starmer-announces-he-will-resign/"
+    "score": 16,
+    "pubdate": "2026-06-22-12-36-07 +0000",
+    "source": "bbc",
+    "headline": "Schools close as more than half of France under red heat alerts",
+    "link": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 16,
-    "pubdate": "2026-06-22-08-06-00 +0000",
+    "pubdate": "2026-06-22-11-53-00 +0000",
     "source": "wsj",
-    "headline": "Explosion at Qatar Gas Plant Leaves Dozens Injured, 18 Missing",
-    "link": "https://www.wsj.com/business/energy-oil/explosion-at-qatar-gas-plant-leaves-dozens-injured-18-missing-8ae33c9b?mod=pls_whats_news_us_business_f"
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-646e895f?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 16,
-    "pubdate": "2026-06-22-08-15-14 +0000",
-    "source": "nypost",
-    "headline": "Goose ‘reeling’ after dad Paul Kueker fell to his death at Madison Square Garden concert, learned tragedy while ‘getting off stage’",
-    "link": "https://nypost.com/2026/06/22/us-news/goose-reeling-after-dad-paul-kueker-fell-to-his-death-at-madison-square-garden-concert-pays-tribute-in-central-park/"
+    "pubdate": "2026-06-22-12-30-04 +0000",
+    "source": "bbc",
+    "headline": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
+    "link": "https://www.bbc.com/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 14,
-    "pubdate": "2026-06-22-08-26-32 +0000",
-    "source": "nyt",
-    "headline": "Two Boys Arrested After Deadly School Shooting in the Philippines",
-    "link": "https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-06-22-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "A white nationalist group visiting Canadian locations is trying to normalize extremism, says a former neo-Nazi",
-    "link": "https://www.cbc.ca/news/canada/sudbury/white-nationalist-second-sons-northern-ontario-9.7242451?cmp=rss"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-06-22-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Ottawa cut therapy sessions for refugees to 10 hours per year. Now some are pushing back",
-    "link": "https://www.cbc.ca/news/politics/therapy-cuts-capifhp-mental-health-9.7241204?cmp=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-06-22-08-39-54 +0000",
-    "source": "nyt",
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign-pressure/britain-starmer-pressure-to-resign"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-06-22-08-30-00 +0000",
-    "source": "wsj",
-    "headline": "Sterling Shows Limited Reaction to Political Risks But Remains Vulnerable",
-    "link": "https://www.wsj.com/finance/currencies/yen-unlikely-to-turn-investment-currency-without-hawkish-boj-shift-d442bfd2?mod=rss_markets_main"
+    "pubdate": "2026-06-22-11-57-27 +0000",
+    "source": "nypost",
+    "headline": "Iranian with ‘direct ties to IRGC’ tried to enter US posing as World Cup soccer team president: DHS",
+    "link": "https://nypost.com/2026/06/22/world-news/iranian-tied-to-paramilitary-tried-to-enter-us-posing-as-world-cup-soccer-team-president-dhs/"
   }
 ]
