@@ -1,62 +1,164 @@
 [
   {
-    "headline": "Byelection clock ticking as MPs officially resign. How does it impact Liberals' majority?",
-    "link": "https://www.cbc.ca/news/politics/byelection-dates-liberal-majority-math-9.7244778?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-23-08-00-00 +0000"
-  },
-  {
-    "headline": "Do you want AI with that? Chatbots could take your next order at the drive-thru",
-    "link": "https://www.cbc.ca/news/business/ai-chatbot-drive-thru-9.7245215?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-23-08-00-00 +0000"
-  },
-  {
-    "headline": "Brexit Has Cost the UK Growth, Analysts Say, in the Decade Since the Vote",
-    "link": "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html",
-    "source": "nyt",
-    "pubdate": "2026-06-23-07-45-59 +0000"
-  },
-  {
-    "headline": "Brexit Has Cost the UK Growth, Analysts Say, in the Decade Since the Vote",
-    "link": "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html",
-    "source": "nyt",
-    "pubdate": "2026-06-23-07-45-59 +0000"
-  },
-  {
-    "headline": "Former Oklahoma death row inmate back in court as case proceeds to retrial in 1997 murder case",
-    "link": "https://nypost.com/2026/06/23/us-news/former-oklahoma-death-row-inmate-richard-glossip-back-in-court-as-case-proceeds-to-retrial-in-1997-murder-case/",
-    "source": "nypost",
-    "pubdate": "2026-06-23-07-44-00 +0000"
-  },
-  {
-    "headline": "Ticket reseller StubHub ordered to refund customers over hidden fees",
-    "link": "https://www.bbc.com/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
+    "headline": "Peter Murrell jailed for more than five years for embezzling SNP funds",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzlqv4dyeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-23-07-42-32 +0000"
+    "pubdate": "2026-06-23-10-04-13 +0000"
   },
   {
-    "headline": "Gilt Yields Fall; Focus on U.K. PMI Data",
-    "link": "https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-fe9eb621?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-23-07-35-00 +0000"
+    "headline": "Flags become symbols for two sides in Alberta’s separation debate",
+    "link": "https://www.cbc.ca/news/canada/calgary/flag-symbolism-alberta-separation-debate-9.7238697?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-23-10-00-00 +0000"
   },
   {
-    "headline": "Austin Metcalf’s dad slams ‘moral decay of society’ as killer Karmelo Anthony mounts fresh freedom bid",
-    "link": "https://nypost.com/2026/06/23/us-news/austin-metcalfs-dad-slams-moral-decay-of-society-as-killer-karmelo-anthony-mounts-freedom-bid/",
+    "headline": "The surprising reason JP Morgan lawyers don’t want Chirayu Rana to drop his bombshell ‘sex slave’ lawsuit",
+    "link": "https://nypost.com/2026/06/23/us-news/why-jp-morgan-lawyers-dont-want-chirayu-rana-to-drop-his-bombshell-sex-slave-lawsuit/",
     "source": "nypost",
-    "pubdate": "2026-06-23-07-15-12 +0000"
+    "pubdate": "2026-06-23-10-00-00 +0000"
   },
   {
-    "headline": "Sterling Falls as Traders Consider U.K. PM Resignation",
-    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-risk-of-fx-intervention-rising-098be64c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-23-07-08-00 +0000"
+    "headline": "What ‘IPO’ really stands for — and whether you should be buying SpaceX and the AI giants",
+    "link": "https://nypost.com/2026/06/23/business/what-ipo-really-stands-for-and-whether-you-should-be-buying-spacex-and-the-ai-giants/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-10-00-00 +0000"
   },
   {
-    "headline": "Brewer Heineken Taps Coffee Executive to Fill Vacant CEO Seat",
-    "link": "https://www.wsj.com/business/c-suite/heineken-appoints-jde-peets-boss-to-fill-vacant-ceo-chair-29763fb8?mod=pls_whats_news_us_business_f",
+    "headline": "Can Andy Burnham Succeed in a Disgruntled Britain Where Starmer Failed?",
+    "link": "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-59-36 +0000"
+  },
+  {
+    "headline": "Can Andy Burnham Succeed in a Disgruntled Britain Where Starmer Failed?",
+    "link": "https://www.nytimes.com/2026/06/23/world/europe/uk-burnham-starmer-politics.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-59-36 +0000"
+  },
+  {
+    "headline": "Can you keep your kids off school or refuse to work during a heatwave?",
+    "link": "https://www.bbc.co.uk/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-23-09-58-41 +0000"
+  },
+  {
+    "headline": "Win a ticket to the ‘Hunky Jesus’ doc at Frameline this Friday",
+    "link": "https://48hills.org/2026/06/win-a-ticket-to-the-hunky-jesus-doc-at-frameline-this-friday/",
+    "source": "48hills",
+    "pubdate": "2026-06-23-09-55-52 +0000"
+  },
+  {
+    "headline": "How Mark Rutte of NATO Manages an Unpredictable Trump",
+    "link": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-55-21 +0000"
+  },
+  {
+    "headline": "How Mark Rutte of NATO Manages an Unpredictable Trump",
+    "link": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-55-21 +0000"
+  },
+  {
+    "headline": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
+    "link": "https://www.bbc.co.uk/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-23-09-53-22 +0000"
+  },
+  {
+    "headline": "Who Will Replace Keir Starmer as UK Prime Minister? Here’s What Happens Next.",
+    "link": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-resign-replace-prime-minister-burnham-uk.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-48-33 +0000"
+  },
+  {
+    "headline": "Who Will Replace Keir Starmer as UK Prime Minister? Here’s What Happens Next.",
+    "link": "https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-resign-replace-prime-minister-burnham-uk.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-48-33 +0000"
+  },
+  {
+    "headline": "As Vance Leads Iran Negotiations, Trump Creates Disruptions in His Path",
+    "link": "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-46-31 +0000"
+  },
+  {
+    "headline": "As Vance Leads Iran Negotiations, Trump Creates Disruptions in His Path",
+    "link": "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-46-31 +0000"
+  },
+  {
+    "headline": "As Vance Leads Iran Negotiations, Trump Creates Disruptions in His Path",
+    "link": "https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-46-31 +0000"
+  },
+  {
+    "headline": "Boston Logan air traffic controller scrambles to avoid near miss as 2 flights come within 300 feet of each other",
+    "link": "https://nypost.com/2026/06/23/us-news/boston-logan-air-traffic-controller-scrambles-to-avoid-near-miss-as-2-flights-come-within-300-feet-of-each-other/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-09-40-48 +0000"
+  },
+  {
+    "headline": "The return of inflation after the pandemic has left a question mark over whether the Fed Put still exists—and plenty of debate about whether it is a good thing",
+    "link": "https://www.wsj.com/economy/central-banking/can-the-market-still-bet-on-the-greenspan-put-f3e19238",
     "source": "wsj",
-    "pubdate": "2026-06-23-07-06-00 +0000"
+    "pubdate": "2026-06-23-09-34-00 +0000"
+  },
+  {
+    "headline": "Can the Market Still Bet on the ‘Greenspan Put’?",
+    "link": "https://www.wsj.com/economy/central-banking/can-the-market-still-bet-on-the-greenspan-put-f3e19238?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-23-09-34-00 +0000"
+  },
+  {
+    "headline": "Markets Recoil in Global Sell-Off Driven by Tech Stocks",
+    "link": "https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-30-05 +0000"
+  },
+  {
+    "headline": "The fiercest political battle in Florida: Flamingophiles vs. “the forces of Big Mockingbird.”",
+    "link": "https://www.wsj.com/us-news/florida-state-bird-flamingo-mockingbird-785ec25e",
+    "source": "wsj",
+    "pubdate": "2026-06-23-09-30-00 +0000"
+  },
+  {
+    "headline": "Florida’s Messiest Political Flap Is Over the State Bird",
+    "link": "https://www.wsj.com/us-news/florida-state-bird-flamingo-mockingbird-785ec25e",
+    "source": "wsj",
+    "pubdate": "2026-06-23-09-30-00 +0000"
+  },
+  {
+    "headline": "Porsche Could Cut Jobs as It Pushes Ahead With Turnaround Effort",
+    "link": "https://www.wsj.com/business/autos/porsche-could-cut-jobs-as-it-pushes-ahead-with-turnaround-effort-84e6a2ae?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-23-09-30-00 +0000"
+  },
+  {
+    "headline": "Intel’s Stock Has Soared, but It Needs an Engineering Comeback",
+    "link": "https://www.wsj.com/tech/intels-stock-has-soared-but-it-needs-an-engineering-comeback-594741ce?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-23-09-30-00 +0000"
+  },
+  {
+    "headline": "How to Build a Better Retirement-Spending Plan Than the 4% Rule",
+    "link": "https://www.wsj.com/personal-finance/retirement/retirement-planning-4-percent-rule-d5ba3a0b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-23-09-30-00 +0000"
+  },
+  {
+    "headline": "Soldier, Scholar and Symbol: Marc Bloch Is Elevated to France’s Panthéon",
+    "link": "https://www.nytimes.com/2026/06/23/world/europe/marc-bloch-pantheon-france.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-27-02 +0000"
+  },
+  {
+    "headline": "Soldier, Scholar and Symbol: Marc Bloch Is Elevated to France’s Panthéon",
+    "link": "https://www.nytimes.com/2026/06/23/world/europe/marc-bloch-pantheon-france.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-09-27-02 +0000"
   }
 ]
