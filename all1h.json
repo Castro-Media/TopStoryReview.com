@@ -1,14 +1,338 @@
 [
   {
-    "headline": "Mystery as San Francisco supervisor suddenly returns to office three months after vanishing following leaked memo",
-    "link": "https://nypost.com/2026/06/23/us-news/san-francisco-supervisor-suddenly-returns-to-office-months-after-vanishing/",
-    "source": "nypost",
-    "pubdate": "2026-06-23-15-45-27 +0000"
+    "headline": "Mideast Live Updates: U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+    "link": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+    "source": "nyt",
+    "pubdate": "2026-06-23-19-29-39 +0000"
   },
   {
-    "headline": "Mystery as San Francisco supervisor suddenly returns to office three months after vanishing following leaked memo",
-    "link": "https://nypost.com/2026/06/23/us-news/san-francisco-supervisor-suddenly-returns-to-office-months-after-vanishing/",
+    "headline": "Trump Gives Teamsters a Chance to Shed Oversight Meant to Curb Mob Ties",
+    "link": "https://www.nytimes.com/2026/06/23/business/economy/teamsters-justice-sean-obrien.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-19-29-07 +0000"
+  },
+  {
+    "headline": "Trump Gives Teamsters a Chance to Shed Oversight Meant to Curb Mob Ties",
+    "link": "https://www.nytimes.com/2026/06/23/business/economy/teamsters-justice-sean-obrien.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-19-29-07 +0000"
+  },
+  {
+    "headline": "Supreme Court Sides With Exxon in Lawsuit Over Assets Seized by Cuba",
+    "link": "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-cuba-exxon.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-19-28-31 +0000"
+  },
+  {
+    "headline": "Supreme Court Sides With Exxon in Lawsuit Over Assets Seized by Cuba",
+    "link": "https://www.nytimes.com/2026/06/23/us/politics/supreme-court-cuba-exxon.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-19-28-31 +0000"
+  },
+  {
+    "headline": "Over a dozen wild Carnival Cruise passengers banned after massive Miami brawl that sent luggage flying",
+    "link": "https://nypost.com/2026/06/23/us-news/16-carnival-cruise-passengers-banned-over-miami-brawl-that-sent-luggage-flying/",
     "source": "nypost",
-    "pubdate": "2026-06-23-15-45-27 +0000"
+    "pubdate": "2026-06-23-19-27-43 +0000"
+  },
+  {
+    "headline": "New Trader Joe’s replaces Big Lots in Southern California city",
+    "link": "https://nypost.com/2026/06/23/business/new-anaheim-hills-trader-joes-is-opening-soon-in-socal/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-19-27-34 +0000"
+  },
+  {
+    "headline": "Military worker hit by gunfire dies after car crash near SoCal Air Force base",
+    "link": "https://nypost.com/2026/06/23/us-news/southern-california-air-force-base-car-crash-shooting-leaves-one-dead/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-19-27-00 +0000"
+  },
+  {
+    "headline": "Al Jazeera journalist that Mamdani mourned was allegedly Hamas sniper: IDF claims",
+    "link": "https://nypost.com/2026/06/23/us-news/al-jazeera-journalist-that-mamdani-mourned-was-allegedly-hamas-sniper-idf-claims/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-19-26-19 +0000"
+  },
+  {
+    "headline": "Chevron launches new project off Santa Barbara coastline amid bitter war with California over oil drilling",
+    "link": "https://nypost.com/2026/06/23/us-news/chevron-launches-new-project-off-santa-barbara-coastline-amid-bitter-war-with-california-over-oil-drilling/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-19-23-34 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-23-19-22-15 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-23-19-22-15 +0000"
+  },
+  {
+    "headline": "In Middle East, Rubio Says ‘No Country’ Can Charge for Hormuz Traffic",
+    "link": "https://www.nytimes.com/2026/06/23/world/middleeast/rubio-strait-of-hormuz-charges-traffic.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-19-18-59 +0000"
+  },
+  {
+    "headline": "In Middle East, Rubio Says ‘No Country’ Can Charge for Hormuz Traffic",
+    "link": "https://www.nytimes.com/2026/06/23/world/middleeast/rubio-strait-of-hormuz-charges-traffic.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-19-18-59 +0000"
+  },
+  {
+    "headline": "Russia Pressures Belarus in Bid to Open New Front in Ukraine War",
+    "link": "https://www.wsj.com/world/russia/russia-pressures-belarus-in-bid-to-open-new-front-in-ukraine-war-8020d37e",
+    "source": "wsj",
+    "pubdate": "2026-06-23-19-18-00 +0000"
+  },
+  {
+    "headline": "Montreal shooter ranted about Zionists, capitalism and being ‘lonely’ before deadly attack near Pornhub HQ, manifesto reveals",
+    "link": "https://nypost.com/2026/06/23/world-news/montreal-shooter-ranted-about-zionists-capitalism-and-being-lonely-before-deadly-attack-near-pornhub-hq-manifesto-reveals/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-19-17-40 +0000"
+  },
+  {
+    "headline": "Unsettling ‘jellyfish’ drones spotted by downed US fighter pilot hints Iran is beefing up war tech: expert",
+    "link": "https://nypost.com/2026/06/23/world-news/irans-jellyfish-drones-hints-regime-is-beefing-up-war-tech-expert/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-19-17-09 +0000"
+  },
+  {
+    "headline": "Alleged antifa members in Texas are sentenced for ICE protest",
+    "link": "https://www.washingtonpost.com/nation/2026/06/23/alleged-antifa-members-texas-get-maximum-sentences-ice-protest/",
+    "source": "wapo",
+    "pubdate": "2026-06-23-19-16-59 +0000"
+  },
+  {
+    "headline": "Oil Futures Extend Decline in Cautious Trade",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-rise-on-likely-technical-recovery-4d78de6f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-23-19-15-00 +0000"
+  },
+  {
+    "headline": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+    "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-23-19-14-14 +0000"
+  },
+  {
+    "headline": "Beach brawl ensues as women refuse to leave men’s side of gender-segregated beach: ‘Sexist oafs’",
+    "link": "https://nypost.com/2026/06/23/world-news/woman-causes-near-violent-scene-at-gender-segregated-beach/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-19-11-57 +0000"
+  },
+  {
+    "headline": "Ex-LAFD Chief Kristin Crowley sues Mayor Karen Bass for defamation after Palisades Fire feud and dismissal",
+    "link": "https://nypost.com/2026/06/23/us-news/ex-lafd-chief-kristin-crowley-sues-mayor-karen-bass-for-defamation/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-19-08-56 +0000"
+  },
+  {
+    "headline": "Letter From Conservatives Prompted Inquiry of Civil Rights Group, Lawyers Say",
+    "link": "https://www.nytimes.com/2026/06/23/us/fbi-southern-poverty-law-center-letter.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-19-00-31 +0000"
+  },
+  {
+    "headline": "Excelsior Buzz: City Made Quilts to open on Geneva Avenue in August",
+    "link": "https://missionlocal.org/2026/06/excelsior-buzz-city-made-quilt/",
+    "source": "missionlocal",
+    "pubdate": "2026-06-23-19-00-00 +0000"
+  },
+  {
+    "headline": "Can America’s Obsession With Mahjong Save This Dying Craft?",
+    "link": "https://www.wsj.com/business/can-americas-obsession-with-mahjong-save-this-dying-craft-9bd8b8dd?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-23-19-00-00 +0000"
+  },
+  {
+    "headline": "Local businesses charge World Cup partiers thousands for offsite tailgates due to MetLife ban: ‘We had to jump on the wagon’",
+    "link": "https://nypost.com/2026/06/23/lifestyle/local-businesses-charge-world-cup-partiers-thousands-for-offsite-tailgates/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-18-58-57 +0000"
+  },
+  {
+    "headline": "Iconic NYC bagel shop made famous by ‘Seinfeld’ is opening in Chicago",
+    "link": "https://nypost.com/2026/06/23/lifestyle/iconic-nyc-bagel-shop-hh-is-opening-in-chicago/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-18-56-42 +0000"
+  },
+  {
+    "headline": "CBS News’s Independent Watchdog Stays Quiet Amid ‘60 Minutes’ Turmoil",
+    "link": "https://www.nytimes.com/2026/06/23/business/media/cbs-news-ombudsman.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-54-46 +0000"
+  },
+  {
+    "headline": "Meta is building a prediction markets app to rival Polymarket, Kalshi: report",
+    "link": "https://nypost.com/2026/06/23/business/meta-building-prediction-markets-app-to-rival-polymarket-kalshi-report/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-18-54-45 +0000"
+  },
+  {
+    "headline": "Protesters Accused of Antifa Ties Sentenced to Up to 100 Years in ICE Attack",
+    "link": "https://www.nytimes.com/2026/06/23/us/politics/antifa-ice-protesters-sentencing.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-54-08 +0000"
+  },
+  {
+    "headline": "Protesters Accused of Antifa Ties Sentenced to Up to 100 Years in ICE Attack",
+    "link": "https://www.nytimes.com/2026/06/23/us/politics/antifa-ice-protesters-sentencing.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-54-08 +0000"
+  },
+  {
+    "headline": "Trump urges hope for finding Nancy Guthrie after ransom note revelation",
+    "link": "https://nypost.com/2026/06/23/us-news/trump-urges-hope-for-finding-nancy-guthrie-after-ransom-note-revelation/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-18-53-31 +0000"
+  },
+  {
+    "headline": "Trump urges hope for finding Nancy Guthrie after ransom note revelation",
+    "link": "https://nypost.com/2026/06/23/us-news/trump-urges-hope-for-finding-nancy-guthrie-after-ransom-note-revelation/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-18-53-31 +0000"
+  },
+  {
+    "headline": "Apple Just Closed Its First Unionized U.S. Store",
+    "link": "https://www.nytimes.com/2026/06/23/business/apple-union-store-closure.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-53-22 +0000"
+  },
+  {
+    "headline": "A Look Inside the Welcome Bags Planned for White South African Refugees",
+    "link": "https://www.nytimes.com/2026/06/23/us/politics/south-africa-refugees-welcome-bags.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-50-54 +0000"
+  },
+  {
+    "headline": "A Look Inside the Welcome Bags Planned for White South African Refugees",
+    "link": "https://www.nytimes.com/2026/06/23/us/politics/south-africa-refugees-welcome-bags.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-50-54 +0000"
+  },
+  {
+    "headline": "Sexual violence increasingly used as 'weapon of war' in Sudan, UN says",
+    "link": "https://www.bbc.co.uk/news/articles/crel587qz8ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-23-18-50-10 +0000"
+  },
+  {
+    "headline": "How Trump Turned America’s Refugee Program Into a Pathway for White People",
+    "link": "https://www.nytimes.com/2026/06/23/us/politics/trump-refugee-program-whites.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-49-35 +0000"
+  },
+  {
+    "headline": "How Trump Turned America’s Refugee Program Into a Pathway for White People",
+    "link": "https://www.nytimes.com/2026/06/23/us/politics/trump-refugee-program-whites.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-49-35 +0000"
+  },
+  {
+    "headline": "The Justice Department unveiled charges against around 450 defendants for alleged healthcare fraud totaling over $6.5 billion",
+    "link": "https://www.wsj.com/politics/policy/justice-department-unveils-6-5-billion-healthcare-fraud-crackdown-e3827ece",
+    "source": "wsj",
+    "pubdate": "2026-06-23-18-44-00 +0000"
+  },
+  {
+    "headline": "Justice Department Unveils $6.5 Billion Healthcare Fraud Crackdown",
+    "link": "https://www.wsj.com/politics/policy/justice-department-unveils-6-5-billion-healthcare-fraud-crackdown-e3827ece",
+    "source": "wsj",
+    "pubdate": "2026-06-23-18-44-00 +0000"
+  },
+  {
+    "headline": "Strait Reopens and Iranian Oil Flows, But the Path Through Is Complicated",
+    "link": "https://www.nytimes.com/2026/06/23/business/iran-strait-hormuz-oil-shipping-traffic.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-43-32 +0000"
+  },
+  {
+    "headline": "AI Spending Jitters Drag Tech Stocks Lower",
+    "link": "https://www.wsj.com/finance/stock-futures-slide-as-technology-selloff-spreads-79833610?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-23-18-43-00 +0000"
+  },
+  {
+    "headline": "How Mark Rutte of NATO Manages an Unpredictable Trump",
+    "link": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-40-09 +0000"
+  },
+  {
+    "headline": "How Mark Rutte of NATO Manages an Unpredictable Trump",
+    "link": "https://www.nytimes.com/2026/06/23/world/europe/mark-rutte-nato-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-40-09 +0000"
+  },
+  {
+    "headline": "How Washington DC's Reflecting Pool became a global talking point",
+    "link": "https://www.bbc.co.uk/news/videos/cy4ed2dkxv1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-23-18-39-52 +0000"
+  },
+  {
+    "headline": "Precious Metals Extend Losing Streak",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-macro-challenges-to-persist-in-near-term-99148398?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-23-18-39-00 +0000"
+  },
+  {
+    "headline": "NYC subways get off the pot and install toilet seats after MTA lands in deep doo-doo",
+    "link": "https://nypost.com/2026/06/23/us-news/nyc-subway-bathrooms-finally-have-toilet-seats/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-18-38-58 +0000"
+  },
+  {
+    "headline": "Alan Greenspan, most powerful central banker of modern times, dies at 100",
+    "link": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
+    "source": "wapo",
+    "pubdate": "2026-06-23-18-38-36 +0000"
+  },
+  {
+    "headline": "California drivers sue major gas companies for alleged AI-price fixing as prices at the pump soar",
+    "link": "https://nypost.com/2026/06/23/us-news/california-drivers-sue-major-gas-companies-for-alleged-ai-price-fixing/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-18-38-03 +0000"
+  },
+  {
+    "headline": "U.S. Temporarily Lifts Oil Sanctions Against Iran, Citing ‘Productive’ Talks",
+    "link": "https://www.nytimes.com/2026/06/22/world/middleeast/us-iran-oil-sanctions.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-35-02 +0000"
+  },
+  {
+    "headline": "U.S. Temporarily Lifts Oil Sanctions Against Iran, Citing ‘Productive’ Talks",
+    "link": "https://www.nytimes.com/2026/06/22/world/middleeast/us-iran-oil-sanctions.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-18-35-02 +0000"
+  },
+  {
+    "headline": "Israeli ambassador blasts Lebanon cease-fire talks as a ‘train wreck’",
+    "link": "https://nypost.com/2026/06/23/us-news/israeli-ambassador-blasts-lebanon-cease-fire-talks-as-a-train-wreck/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-18-33-52 +0000"
+  },
+  {
+    "headline": "Israeli ambassador blasts Lebanon cease-fire talks as a ‘train wreck’",
+    "link": "https://nypost.com/2026/06/23/us-news/israeli-ambassador-blasts-lebanon-cease-fire-talks-as-a-train-wreck/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-18-33-52 +0000"
+  },
+  {
+    "headline": "IBM Getting Ready to Scale Quantum Computing",
+    "link": "https://www.wsj.com/tech/ibm-getting-ready-to-scale-quantum-computing-b2418cd5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-23-18-32-00 +0000"
+  },
+  {
+    "headline": "IBM Getting Ready to Scale Quantum Computing",
+    "link": "https://www.wsj.com/tech/ibm-getting-ready-to-scale-quantum-computing-b2418cd5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-23-18-32-00 +0000"
   }
 ]
