@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 24,
+    "pubdate": "2026-06-23-01-17-34 +0000",
+    "source": "nypost",
+    "headline": "Trump official says US control of Greenland could bring back all-you-can-eat shrimp at Red Lobster",
+    "link": "https://nypost.com/2026/06/22/us-news/trump-official-says-greenland-could-bring-back-all-you-can-eat-shrimp-at-red-lobster/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-06-23-01-23-14 +0000",
+    "source": "nypost",
+    "headline": "Gavin Newsom milks DOJ probe for donations — how he’s spending $14.5M war chest",
+    "link": "https://nypost.com/2026/06/22/us-news/gavin-newsom-milks-doj-probe-for-donations-how-hes-spending-14-5m-war-chest/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-06-23-01-16-15 +0000",
+    "source": "nyt",
+    "headline": "Judge Blocks Bans on Using Food Stamps for Sugary Drinks and Candy",
+    "link": "https://www.nytimes.com/2026/06/22/us/politics/judge-ruling-food-stamps-sugary-drinks.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-06-23-00-34-35 +0000",
+    "source": "nyt",
+    "headline": "Ramiro Valdés Menéndez, Architect of Cuba’s Surveillance State, Dies at 94",
+    "link": "https://www.nytimes.com/2026/06/22/world/americas/ramiro-valdes-menendez-dead.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-23-01-28-46 +0000",
+    "source": "nypost",
+    "headline": "Tim Walz’s jab at Trump over Reflecting Pool draws fraud scandal backlash: ‘Sit this one out’",
+    "link": "https://nypost.com/2026/06/22/us-news/tim-walzs-jab-at-trump-over-reflecting-pool-draws-fraud-scandal-backlash-sit-this-one-out/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-23-00-38-09 +0000",
+    "source": "nyt",
+    "headline": "Suspect and a Civilian Are Among Three Killed in Montreal Shooting",
+    "link": "https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-06-23-00-53-00 +0000",
+    "source": "wsj",
+    "headline": "WTI Crude Oil Price Showing Likelihood of ‘Corrective’ Rebound, Chart Shows",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-rise-on-likely-technical-recovery-4d78de6f?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-06-23-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Welltower CFO’s $167 Million Pay Package Sets New Record",
+    "link": "https://www.wsj.com/cfo-journal/welltower-cfos-167-million-pay-package-sets-new-record-c9b65a3f?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-06-23-00-45-00 +0000",
+    "source": "wsj",
+    "headline": "Accounting Firm Eide Bailly to Sell Stake to Private Equity in $1.8 Billion Deal",
+    "link": "https://www.wsj.com/cfo-journal/accounting-firm-eide-bailly-to-sell-stake-to-private-equity-in-1-8-billion-deal-2045ef6d?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-06-23-00-53-42 +0000",
+    "source": "latimes",
+    "headline": "California law that forbids 'forced outing' of trans students blocked by 9th Circuit",
+    "link": "https://www.latimes.com/california/story/2026-06-22/9th-circuit-ruling-california-forced-outing-ban-trans-students"
+  }
+]
