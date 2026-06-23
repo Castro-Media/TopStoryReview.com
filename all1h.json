@@ -1,50 +1,62 @@
 [
   {
-    "headline": "U.S. Treasury Yields Fall as Oil Price Retreats",
+    "headline": "Byelection clock ticking as MPs officially resign. How does it impact Liberals' majority?",
+    "link": "https://www.cbc.ca/news/politics/byelection-dates-liberal-majority-math-9.7244778?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-23-08-00-00 +0000"
+  },
+  {
+    "headline": "Do you want AI with that? Chatbots could take your next order at the drive-thru",
+    "link": "https://www.cbc.ca/news/business/ai-chatbot-drive-thru-9.7245215?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-23-08-00-00 +0000"
+  },
+  {
+    "headline": "Brexit Has Cost the UK Growth, Analysts Say, in the Decade Since the Vote",
+    "link": "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-07-45-59 +0000"
+  },
+  {
+    "headline": "Brexit Has Cost the UK Growth, Analysts Say, in the Decade Since the Vote",
+    "link": "https://www.nytimes.com/2026/06/23/business/brexit-uk-economy.html",
+    "source": "nyt",
+    "pubdate": "2026-06-23-07-45-59 +0000"
+  },
+  {
+    "headline": "Former Oklahoma death row inmate back in court as case proceeds to retrial in 1997 murder case",
+    "link": "https://nypost.com/2026/06/23/us-news/former-oklahoma-death-row-inmate-richard-glossip-back-in-court-as-case-proceeds-to-retrial-in-1997-murder-case/",
+    "source": "nypost",
+    "pubdate": "2026-06-23-07-44-00 +0000"
+  },
+  {
+    "headline": "Ticket reseller StubHub ordered to refund customers over hidden fees",
+    "link": "https://www.bbc.com/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-23-07-42-32 +0000"
+  },
+  {
+    "headline": "Gilt Yields Fall; Focus on U.K. PMI Data",
     "link": "https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-fe9eb621?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-06-23-05-57-00 +0000"
+    "pubdate": "2026-06-23-07-35-00 +0000"
   },
   {
-    "headline": "85-year-old Florida man arrested for hitting 110 mph in street race against Corvette",
-    "link": "https://nypost.com/2026/06/23/us-news/85-year-old-florida-man-williams-bosworth-arrested-for-hitting-110-mph-in-street-race-against-corvette/",
+    "headline": "Austin Metcalf’s dad slams ‘moral decay of society’ as killer Karmelo Anthony mounts fresh freedom bid",
+    "link": "https://nypost.com/2026/06/23/us-news/austin-metcalfs-dad-slams-moral-decay-of-society-as-killer-karmelo-anthony-mounts-freedom-bid/",
     "source": "nypost",
-    "pubdate": "2026-06-23-05-48-14 +0000"
+    "pubdate": "2026-06-23-07-15-12 +0000"
   },
   {
-    "headline": "Pakistan to Cut 18% Period Tax on Menstrual Products, But Poorest Families Still Can’t Afford Them",
-    "link": "https://www.nytimes.com/2026/06/22/world/asia/pakistan-menstrual-period-tax.html",
-    "source": "nyt",
-    "pubdate": "2026-06-23-05-41-54 +0000"
+    "headline": "Sterling Falls as Traders Consider U.K. PM Resignation",
+    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-risk-of-fx-intervention-rising-098be64c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-23-07-08-00 +0000"
   },
   {
-    "headline": "Pakistan to Cut 18% Period Tax on Menstrual Products, But Poorest Families Still Can’t Afford Them",
-    "link": "https://www.nytimes.com/2026/06/22/world/asia/pakistan-menstrual-period-tax.html",
-    "source": "nyt",
-    "pubdate": "2026-06-23-05-41-54 +0000"
-  },
-  {
-    "headline": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-    "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-23-05-39-17 +0000"
-  },
-  {
-    "headline": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-    "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-23-05-39-17 +0000"
-  },
-  {
-    "headline": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-    "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-23-05-39-17 +0000"
-  },
-  {
-    "headline": "Tension 'likely' in new government - ex-chief",
-    "link": "https://www.bbc.com/news/articles/cn0729ny7edo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-23-05-34-21 +0000"
+    "headline": "Brewer Heineken Taps Coffee Executive to Fill Vacant CEO Seat",
+    "link": "https://www.wsj.com/business/c-suite/heineken-appoints-jde-peets-boss-to-fill-vacant-ceo-chair-29763fb8?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-23-07-06-00 +0000"
   }
 ]
