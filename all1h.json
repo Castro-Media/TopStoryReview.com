@@ -1,44 +1,104 @@
 [
   {
-    "headline": "China Detained 2 Japanese on Suspicion of Smuggling",
-    "link": "https://www.nytimes.com/2026/06/24/world/asia/japan-china-detained-smuggling-rare-earths.html",
+    "headline": "StubHub cancels thousands of World Cup tickets, leaving fans furious and heartbroken",
+    "link": "https://www.cbc.ca/news/canada/stubhub-cancels-world-cup-tickets-9.7246641?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-24-08-00-00 +0000"
+  },
+  {
+    "headline": "Trump threatened new tolls in the Strait of Hormuz. What if other countries follow suit?",
+    "link": "https://www.cbc.ca/news/world/trump-iran-strait-of-hormuz-tolls-9.7246282?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-24-08-00-00 +0000"
+  },
+  {
+    "headline": "Canadian peacekeepers' cemetery in Gaza completely destroyed, satellite imagery shows",
+    "link": "https://www.cbc.ca/news/politics/gaza-peacekeeper-cemetery-canada-veterans-9.7244382?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-24-08-00-00 +0000"
+  },
+  {
+    "headline": "Alibaba Sues Pentagon Over China Military Label",
+    "link": "https://www.nytimes.com/2026/06/24/business/alibaba-pentagon-lawsuit.html",
     "source": "nyt",
-    "pubdate": "2026-06-24-06-11-18 +0000"
+    "pubdate": "2026-06-24-07-57-40 +0000"
   },
   {
-    "headline": "China Detained 2 Japanese on Suspicion of Smuggling",
-    "link": "https://www.nytimes.com/2026/06/24/world/asia/japan-china-detained-smuggling-rare-earths.html",
+    "headline": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
+    "link": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
     "source": "nyt",
-    "pubdate": "2026-06-24-06-11-18 +0000"
+    "pubdate": "2026-06-24-07-54-37 +0000"
   },
   {
-    "headline": "Boy, 12, killed after suspect opened fire during brawl near theater district, police say",
-    "link": "https://nypost.com/2026/06/24/us-news/tennessee-boy-damarion-morehead-killed-after-devin-orr-fight-shooting/",
-    "source": "nypost",
-    "pubdate": "2026-06-24-05-57-55 +0000"
+    "headline": "With a Turkish ‘Abrazo,’ Istanbul Ascends as a Tango Capital",
+    "link": "https://www.nytimes.com/2026/06/24/world/europe/turkey-tango.html",
+    "source": "nyt",
+    "pubdate": "2026-06-24-07-54-37 +0000"
   },
   {
-    "headline": "U.S. Treasury Yields Edge Higher",
-    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-tracking-mild-gains-in-u-s-treasury-market-adfa0a58?mod=rss_markets_main",
+    "headline": "Sixteen Airbus A380s to Undergo Inspection After Cracks Found on Airplane Wings",
+    "link": "https://www.wsj.com/business/sixteen-airbus-a380s-to-undergo-inspection-after-cracks-found-on-wings-d51229c1?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-06-24-05-41-00 +0000"
+    "pubdate": "2026-06-24-07-48-00 +0000"
   },
   {
-    "headline": "Burnham likely to replace Reeves if he becomes PM",
-    "link": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-24-05-26-21 +0000"
+    "headline": "Gold Pressured by Stronger Dollar, Rate-Hike Concerns",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-lower-amid-weak-sentiment-66a7543e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-24-07-42-00 +0000"
   },
   {
-    "headline": "Burnham likely to replace Reeves if he becomes PM",
-    "link": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-24-05-26-21 +0000"
+    "headline": "Oil Falls on Hormuz Activity Optimism",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-signs-of-more-easing-of-supply-disruptions-in-mideast-8b2de17c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-24-07-34-00 +0000"
   },
   {
-    "headline": "NYC teen arsonist sentenced to 5 years in prison for setting sleeping homeless man on fire on subway",
-    "link": "https://nypost.com/2026/06/24/us-news/nyc-teen-arsonist-hiram-carrero-sentenced-to-5-years-in-prison-for-setting-sleeping-homeless-man-on-fire-on-subway/",
+    "headline": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+    "link": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+    "source": "nyt",
+    "pubdate": "2026-06-24-07-26-22 +0000"
+  },
+  {
+    "headline": "Beloved White Castle location in NYC closes after 85 years",
+    "link": "https://nypost.com/2026/06/24/us-news/beloved-queens-white-castle-closes-after-85-years/",
     "source": "nypost",
-    "pubdate": "2026-06-24-05-24-27 +0000"
+    "pubdate": "2026-06-24-07-16-11 +0000"
+  },
+  {
+    "headline": "Thai Central Bank Stays on Hold as It Gauges Risks",
+    "link": "https://www.wsj.com/economy/central-banking/thai-central-bank-stays-on-hold-as-it-gauges-risks-0aaefe01",
+    "source": "wsj",
+    "pubdate": "2026-06-24-07-16-00 +0000"
+  },
+  {
+    "headline": "US to probe petrol price gouging claims, Trump says",
+    "link": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-24-07-09-04 +0000"
+  },
+  {
+    "headline": "US to probe petrol price gouging claims, Trump says",
+    "link": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-24-07-09-04 +0000"
+  },
+  {
+    "headline": "High interest rates and a chronic shortage of inventory have pushed the U.S. housing market to a breaking point. In this podcast series, we examine the strategies emerging to solve the country’s housing shortfall.",
+    "link": "https://www.wsj.com/economy/housing/how-to-solve-the-housing-crisis-everyone-has-an-idea-837bbe40",
+    "source": "wsj",
+    "pubdate": "2026-06-24-07-08-00 +0000"
+  },
+  {
+    "headline": "As Chinese Tech Pulls Ahead, U.S. Fears It Will Become Dependent",
+    "link": "https://www.nytimes.com/2026/06/23/business/economy/china-megafactory-us-tech-race.html",
+    "source": "nyt",
+    "pubdate": "2026-06-24-07-07-13 +0000"
+  },
+  {
+    "headline": "As Chinese Tech Pulls Ahead, U.S. Fears It Will Become Dependent",
+    "link": "https://www.nytimes.com/2026/06/23/business/economy/china-megafactory-us-tech-race.html",
+    "source": "nyt",
+    "pubdate": "2026-06-24-07-07-13 +0000"
   }
 ]
