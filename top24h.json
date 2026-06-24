@@ -1,24 +1,17 @@
 [
   {
-    "score": 205,
-    "pubdate": "2026-06-24-00-38-49 +0000",
-    "source": "nyt",
-    "headline": "Trump Is Making Big Claims About the Iran Talks. Iran Keeps Contradicting Him.",
-    "link": "https://www.nytimes.com/2026/06/23/us/politics/trump-iran-talks-contradictions.html"
+    "score": 212,
+    "pubdate": "2026-06-24-03-57-59 +0000",
+    "source": "bbc",
+    "headline": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+    "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 103,
-    "pubdate": "2026-06-23-17-41-00 +0000",
+    "score": 120,
+    "pubdate": "2026-06-24-03-48-00 +0000",
     "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
-  },
-  {
-    "score": 85,
-    "pubdate": "2026-06-23-21-26-00 +0000",
-    "source": "wsj",
-    "headline": "Trump’s war powers restricted, the continuing tech selloff, and the effort to make the flamingo Florida’s state bird. (We also thought it already was.) Read more in today’s What’s News newsletter:",
-    "link": "https://www.wsj.com/politics/policy/senate-votes-to-curb-trumps-war-powers-dfb18279"
+    "headline": "Zohran Mamdani’s allies notched key wins in New York primary elections Tuesday, in races dominated by conversations about Israel, legacy candidates and artificial intelligence",
+    "link": "https://www.wsj.com/politics/policy/key-takeaways-from-the-new-york-house-primaries-16234968"
   },
   {
     "score": 84,
@@ -28,45 +21,52 @@
     "link": "https://nypost.com/2026/06/23/us-news/gas-and-oil-company-sable-offshore-not-backing-down-in-fight-with-california/"
   },
   {
-    "score": 77,
+    "score": 78,
     "pubdate": "2026-06-23-21-04-11 +0000",
     "source": "bbc",
     "headline": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
     "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 60,
-    "pubdate": "2026-06-23-23-29-25 +0000",
-    "source": "latimes",
-    "headline": "Family says police fatally shot teen during mental health crisis, files claim against city of Santa Ana",
-    "link": "https://www.latimes.com/california/story/2026-06-23/family-says-socal-police-fatally-shot-teen-during-mental-health-crisis"
+    "score": 77,
+    "pubdate": "2026-06-23-16-05-00 +0000",
+    "source": "wsj",
+    "headline": "The AI boom drove a record surge in ultrawealthy in 2025, with global fortunes concentrated among tech-driven billionaires and centi-millionaires.",
+    "link": "https://www.wsj.com/economy/ranks-of-the-ultrawealthy-jumped-in-2025-fe98fe37"
   },
   {
-    "score": 54,
+    "score": 67,
     "pubdate": "2026-06-23-20-49-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s push for stricter voter eligibility laws is colliding with a newly defiant Republican Senate, setting up a multifront battle ahead of midterm elections",
     "link": "https://www.wsj.com/politics/policy/trump-on-collision-course-with-senate-republicans-108aaf50"
   },
   {
-    "score": 53,
+    "score": 59,
+    "pubdate": "2026-06-24-00-00-06 +0000",
+    "source": "bbc",
+    "headline": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+    "link": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-06-24-02-14-46 +0000",
+    "source": "nyt",
+    "headline": "Fired Navy Admiral Wins Democratic Runoff in South Carolina’s 1st District",
+    "link": "https://www.nytimes.com/2026/06/23/us/politics/nancy-lacore-nancy-mace-south-carolina-house-democrats.html"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-06-24-01-16-52 +0000",
+    "source": "nypost",
+    "headline": "House passes bill barring investors from buying up single-family homes — Trump expected to sign it at the Capitol",
+    "link": "https://nypost.com/2026/06/23/us-news/house-passes-bill-barring-investors-from-buying-up-single-family-homes-trump-expected-to-sign-it-at-the-capitol/"
+  },
+  {
+    "score": 49,
     "pubdate": "2026-06-23-10-23-22 +0000",
     "source": "cbc",
     "headline": "France sees its hottest day on record amid early heat wave in Europe",
     "link": "https://www.cbc.ca/news/world/britain-western-europe-extreme-heat-alert-9.7245442?cmp=rss"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-06-23-12-14-58 +0000",
-    "source": "bbc",
-    "headline": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-    "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-06-23-16-41-44 +0000",
-    "source": "bbc",
-    "headline": "'We're begging' - Savannah Guthrie pleads for help as details of her mother’s case emerge",
-    "link": "https://www.bbc.co.uk/news/videos/cjdg1enzrk5o?at_medium=RSS&at_campaign=rss"
   }
 ]
