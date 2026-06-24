@@ -1,20 +1,27 @@
 [
   {
-    "score": 180,
-    "pubdate": "2026-06-24-14-57-21 +0000",
-    "source": "bbc",
-    "headline": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-    "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss"
+    "score": 175,
+    "pubdate": "2026-06-24-06-48-32 +0000",
+    "source": "nyt",
+    "headline": "Trump Is Making Big Claims About the Iran Talks. Iran Keeps Contradicting Him.",
+    "link": "https://www.nytimes.com/2026/06/23/us/politics/trump-iran-talks-contradictions.html"
   },
   {
-    "score": 139,
+    "score": 138,
     "pubdate": "2026-06-24-13-24-00 +0000",
     "source": "wsj",
     "headline": "Zohran Mamdani’s allies notched key wins in New York primary elections, in races dominated by conversations about Israel, legacy candidates and artificial intelligence. Here are the key takeaways.",
     "link": "https://www.wsj.com/politics/elections/key-takeaways-from-the-new-york-house-primaries-16234968"
   },
   {
-    "score": 95,
+    "score": 88,
+    "pubdate": "2026-06-24-17-17-17 +0000",
+    "source": "nypost",
+    "headline": "Oil prices drop near $70 a barrel — lowest level since before Iran war — on hopes for Strait of Hormuz plan",
+    "link": "https://nypost.com/2026/06/24/business/oil-prices-drop-near-70-a-barrel-lowest-level-since-before-iran-war-on-hopes-for-strait-of-hormuz-plan/"
+  },
+  {
+    "score": 86,
     "pubdate": "2026-06-24-18-42-00 +0000",
     "source": "wsj",
     "headline": "President Trump abruptly canceled plans to sign bipartisan housing legislation, saying he would refuse to take action on the bill until lawmakers pass his voter-eligibility measure",
@@ -22,17 +29,10 @@
   },
   {
     "score": 67,
-    "pubdate": "2026-06-24-17-17-17 +0000",
-    "source": "nypost",
-    "headline": "Oil prices drop near $70 a barrel — lowest level since before Iran war — on hopes for Strait of Hormuz plan",
-    "link": "https://nypost.com/2026/06/24/business/oil-prices-drop-near-70-a-barrel-lowest-level-since-before-iran-war-on-hopes-for-strait-of-hormuz-plan/"
-  },
-  {
-    "score": 67,
-    "pubdate": "2026-06-23-21-53-00 +0000",
-    "source": "wsj",
-    "headline": "Opinion | Will the World Cup Make America Love Soccer?",
-    "link": "https://www.wsj.com/opinion/will-the-world-cup-make-america-love-soccer-15fde52e"
+    "pubdate": "2026-06-24-13-29-05 +0000",
+    "source": "nyt",
+    "headline": "With No Team in the World Cup, China’s Fans Celebrate a Referee",
+    "link": "https://www.nytimes.com/2026/06/22/sports/world-cup/world-cup-china-referee-ma-ning.html"
   },
   {
     "score": 65,
@@ -42,25 +42,11 @@
     "link": "https://www.nytimes.com/2026/06/24/weather/europe-extreme-heat-wave-warning.html"
   },
   {
-    "score": 52,
-    "pubdate": "2026-06-24-19-58-26 +0000",
-    "source": "nypost",
-    "headline": "YouTube settles Florida teen’s social media addiction lawsuit ahead of trial — another major Big Tech setback",
-    "link": "https://nypost.com/2026/06/24/business/youtube-settles-florida-teens-social-media-addiction-lawsuit-ahead-of-trial-another-major-big-tech-setback/"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-06-24-03-22-00 +0000",
-    "source": "wsj",
-    "headline": "The Senate voted to limit President Trump’s ability to conduct military operations against Iran without congressional authorization after four Republicans joined with Democrats",
-    "link": "https://www.wsj.com/politics/national-security/senate-passes-measure-directing-trump-to-end-hostilities-with-iran-241363fc"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-06-24-18-28-55 +0000",
-    "source": "nypost",
-    "headline": "Mitch Modell ripped retailer’s new owner during Knicks’ historic NBA Finals run: ‘You blew it. I hope you choke on it’",
-    "link": "https://nypost.com/2026/06/24/business/mitch-modell-ripped-retailers-new-owner-during-knicks-nba-finals-run-you-blew-it/"
+    "score": 56,
+    "pubdate": "2026-06-24-14-42-07 +0000",
+    "source": "nyt",
+    "headline": "As Chinese Tech Pulls Ahead, U.S. Fears It Will Become Dependent",
+    "link": "https://www.nytimes.com/2026/06/23/business/economy/china-megafactory-us-tech-race.html"
   },
   {
     "score": 48,
@@ -68,5 +54,19 @@
     "source": "nyt",
     "headline": "Your Home Could Help Solve AI’s Growing Power Demand",
     "link": "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-06-24-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "In echoes of Palisades fire, Boyle Heights fire may cost Mayor Bass politically",
+    "link": "https://www.latimes.com/california/story/2026-06-24/after-palisades-boyle-heights-fire-may-cost-mayor-bass-politically"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-06-24-18-28-55 +0000",
+    "source": "nypost",
+    "headline": "Mitch Modell ripped retailer’s new owner during Knicks’ historic NBA Finals run: ‘You blew it. I hope you choke on it’",
+    "link": "https://nypost.com/2026/06/24/business/mitch-modell-ripped-retailers-new-owner-during-knicks-nba-finals-run-you-blew-it/"
   }
 ]
