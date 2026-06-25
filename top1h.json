@@ -1,37 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-06-25-05-52-45 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Fall Toward Prewar Levels as Gulf Shipping Resumes",
-    "link": "https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html"
+    "score": 22,
+    "pubdate": "2026-06-25-07-22-12 +0000",
+    "source": "nypost",
+    "headline": "Historic Venezuela earthquake has frightened travelers fleeing as airport ceiling partially collapses, harrowing video shows",
+    "link": "https://nypost.com/2026/06/25/world-news/venezuela-earthquake-frightens-passengers-at-south-america-airport/"
   },
   {
-    "score": 8,
-    "pubdate": "2026-06-25-06-00-12 +0000",
-    "source": "nyt",
-    "headline": "Venezuela Hit by 7.1-Magnitude Earthquake",
-    "link": "https://www.nytimes.com/live/2026/06/24/world/venezuela-earthquake/earthquake-venezuela"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-06-25-05-18-00 +0000",
+    "score": 14,
+    "pubdate": "2026-06-25-08-00-00 +0000",
     "source": "wsj",
-    "headline": "Volkswagen to Sell Majority Stake in Engine Unit to Bain Capital",
-    "link": "https://www.wsj.com/business/deals/volkswagen-to-sell-majority-stake-in-engine-unit-to-bain-capital-ae17cb9f?mod=pls_whats_news_us_business_f"
+    "headline": "Prosus Investment Values Health Insurer Alan at $6.3 Billion",
+    "link": "https://www.wsj.com/finance/investing/prosus-investment-values-health-insurer-alan-at-6-3-billion-4331cb92?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 7,
-    "pubdate": "2026-06-25-05-42-00 +0000",
+    "score": 13,
+    "pubdate": "2026-06-25-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Ottawa said military would send sexual offence cases to civilian police. It retained nearly 70%",
+    "link": "https://www.cbc.ca/news/politics/military-police-sexual-offence-investigations-9.7248030?cmp=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-25-07-34-55 +0000",
+    "source": "bbc",
+    "headline": "Oil price falls to levels not seen since before Iran war",
+    "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-06-25-07-09-00 +0000",
     "source": "wsj",
-    "headline": "Global Government Bonds Continue to Offer Attractive Opportunity",
+    "headline": "Eurozone Bond Yields Flat Ahead of German Funding Review, Amid Thin Data Calendar",
     "link": "https://www.wsj.com/finance/investing/jgbs-rise-tracking-gains-in-u-s-treasurys-8e49bec6?mod=rss_markets_main"
   },
   {
-    "score": 0,
-    "pubdate": "2026-06-25-06-00-12 +0000",
-    "source": "nyt",
-    "headline": "Venezuela Hit by 7.1-Magnitude Earthquake",
-    "link": "https://www.nytimes.com/live/2026/06/24/world/venezuela-earthquake/earthquake-venezuela"
+    "score": 10,
+    "pubdate": "2026-06-25-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Dozens of Liberal MPs expected to attend Calgary Stampede as Alberta referendum looms",
+    "link": "https://www.cbc.ca/news/politics/cbc-ca-politics-stampede-liberals-9.7248010?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-25-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Battle over 5-figure pay hikes for federal judges is causing unease in legal circles",
+    "link": "https://www.cbc.ca/news/politics/judges-legal-battle-salary-federal-government-9.7247559?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-25-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Why U.S. agriculture believes CUSMA will survive Trump's threats",
+    "link": "https://www.cbc.ca/news/world/trump-trade-tariffs-usmca-cusma-agriculture-9.7247959?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-25-07-37-27 +0000",
+    "source": "bbc",
+    "headline": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+    "link": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-06-25-07-43-33 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Micron Earnings Spark Tech Rebound",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-25-2026?mod=rss_markets_main"
   }
 ]
