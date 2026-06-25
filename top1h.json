@@ -1,51 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-06-25-11-36-41 +0000",
-    "source": "nyt",
-    "headline": "King Charles III to Release Tax Details, a First for Any British Monarch",
-    "link": "https://www.nytimes.com/2026/06/25/world/europe/king-charles-taxes-uk.html"
+    "score": 48,
+    "pubdate": "2026-06-25-13-13-25 +0000",
+    "source": "nypost",
+    "headline": "Rubio warns Iran of Strait of Hormuz toll ‘fantasy’ after Trump wins Senate war powers reversal",
+    "link": "https://nypost.com/2026/06/25/us-news/rubio-warns-iran-off-strait-of-hormuz-toll-fantasy-after-trump-wins-senate-war-powers-reversal/"
   },
   {
-    "score": 18,
-    "pubdate": "2026-06-25-11-37-55 +0000",
+    "score": 23,
+    "pubdate": "2026-06-25-13-16-39 +0000",
+    "source": "bbc",
+    "headline": "Europe's heatwave shifts east as France raises health alert to highest level",
+    "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-06-25-12-56-53 +0000",
+    "source": "nypost",
+    "headline": "JPMorgan names co-presidents, setting up new horse race to succeed CEO Jamie Dimon",
+    "link": "https://nypost.com/2026/06/25/business/jpmorgan-names-co-presidents-setting-up-new-horse-race-to-succeed-ceo-jamie-dimon/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-06-25-13-14-58 +0000",
     "source": "nyt",
-    "headline": "Venezuela Live Updates: Death Toll Rises as Rescuers Mount Frantic Search for Quake Survivors",
-    "link": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake"
+    "headline": "Venezuela Residents Describe Terror as Deadly Earthquake Struck",
+    "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake-caracas.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-06-25-12-49-18 +0000",
+    "source": "bbc",
+    "headline": "Key figure in South Africa police corruption scandal pleads guilty",
+    "link": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-06-25-12-43-37 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Hover Around Prewar Levels as Gulf Shipping Jumps",
+    "link": "https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-06-25-13-02-06 +0000",
+    "source": "nyt",
+    "headline": "Driver Plows Into Crowd of World Cup Fans in Mexico, Authorities Say",
+    "link": "https://www.nytimes.com/2026/06/25/world/americas/car-ramming-mexico-world-cup-cabo-san-lucas.html"
   },
   {
     "score": 14,
-    "pubdate": "2026-06-25-11-37-17 +0000",
+    "pubdate": "2026-06-25-13-27-21 +0000",
     "source": "nyt",
-    "headline": "Venezuela Earthquakes Hammer Infrastructure, Making Aid Efforts Harder",
-    "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-infrastructure.html"
+    "headline": "A Right-Wing Election Victory in Colombia, With a Little Help from Trump",
+    "link": "https://www.nytimes.com/2026/06/25/world/americas/colombia-election-de-la-espriella-trump.html"
   },
   {
-    "score": 6,
-    "pubdate": "2026-06-25-11-42-00 +0000",
+    "score": 14,
+    "pubdate": "2026-06-25-13-06-00 +0000",
     "source": "wsj",
-    "headline": "Winnebago Cuts Outlook Amid Declining Sales",
-    "link": "https://www.wsj.com/business/earnings/winnebago-cuts-outlook-amid-declining-sales-3ba01bd2?mod=pls_whats_news_us_business_f"
+    "headline": "Markets on Watch for Intervention as Yen Weakens to Near Two-Year Low Against Dollar",
+    "link": "https://www.wsj.com/finance/currencies/markets-on-watch-for-yen-intervention-but-that-may-not-turn-the-tide-0a384b56?mod=rss_markets_main"
   },
   {
-    "score": 5,
-    "pubdate": "2026-06-25-11-37-55 +0000",
+    "score": 13,
+    "pubdate": "2026-06-25-13-21-02 +0000",
     "source": "nyt",
-    "headline": "Live Updates: Spain Warns of High Death Toll in Heat Wave",
-    "link": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-06-25-11-37-17 +0000",
-    "source": "nyt",
-    "headline": "Venezuela Earthquakes Hammer Infrastructure, Making Aid Efforts Harder",
-    "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-infrastructure.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-06-25-11-36-41 +0000",
-    "source": "nyt",
-    "headline": "King Charles III to Release Tax Details, a First for Any British Monarch",
-    "link": "https://www.nytimes.com/2026/06/25/world/europe/king-charles-taxes-uk.html"
+    "headline": "Venezuela Live Updates: Death Toll Rises as Rescuers Mount Frantic Search for Quake Survivors",
+    "link": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake"
   }
 ]
