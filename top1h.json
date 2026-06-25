@@ -1,72 +1,23 @@
 [
   {
-    "score": 37,
-    "pubdate": "2026-06-25-19-50-03 +0000",
-    "source": "nypost",
-    "headline": "‘I commend the president’: NATO boss backs Trump’s Iran operation after European leaders balked",
-    "link": "https://nypost.com/2026/06/25/world-news/nato-boss-mark-rutte-backs-trumps-iran-operation-after-european-leaders-balked/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-06-25-20-15-33 +0000",
+    "score": 9,
+    "pubdate": "2026-06-25-20-31-22 +0000",
     "source": "nyt",
-    "headline": "After Supreme Court TPS Ruling, What Conditions May Haitian and Syrian Deportees Face?",
-    "link": "https://www.nytimes.com/2026/06/25/world/americas/haitians-syrians-deportations-us.html"
+    "headline": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year",
+    "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html"
   },
   {
-    "score": 27,
-    "pubdate": "2026-06-25-19-48-19 +0000",
-    "source": "nypost",
-    "headline": "House GOP demands records from ex-ActBlue legal firm that authored memo on alleged foreign donations",
-    "link": "https://nypost.com/2026/06/25/us-news/house-gop-demands-records-from-ex-actblue-legal-firm-that-authored-memo-on-alleged-foreign-donations/"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-06-25-19-41-00 +0000",
-    "source": "wsj",
-    "headline": "Watch how American and British sailors test some of the latest unmanned surface vessels as the alliance races to catch up to the drone capabilities of Ukraine and Russia",
-    "link": "https://www.wsj.com/politics/national-security/out-on-the-water-with-u-s-forces-racing-to-develop-sea-drones-e63e1e8e"
-  },
-  {
-    "score": 25,
-    "pubdate": "2026-06-25-20-04-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. Army is leasing land on bases across the country to companies that will build and operate critical mineral processing plants, military officials said",
-    "link": "https://www.wsj.com/politics/national-security/army-will-lease-land-on-bases-for-critical-mineral-production-e714d576"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-06-25-20-12-43 +0000",
-    "source": "nypost",
-    "headline": "Massive breakthrough for California oil as desperately needed new sources get green light",
-    "link": "https://nypost.com/2026/06/25/us-news/new-california-oil-and-gas-field-leases-okd-after-years-of-delays/"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-06-25-20-18-45 +0000",
+    "score": 8,
+    "pubdate": "2026-06-25-20-27-32 +0000",
     "source": "nyt",
-    "headline": "Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning",
-    "link": "https://www.nytimes.com/2026/06/25/business/china-cancer-treatment-research-retraction.html"
+    "headline": "Oil Prices Jump After Attack Halts Shipping in Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html"
   },
   {
-    "score": 20,
-    "pubdate": "2026-06-25-19-41-22 +0000",
-    "source": "bbc",
-    "headline": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
-    "link": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-06-25-19-52-54 +0000",
-    "source": "nypost",
-    "headline": "Kin of kosher bakery owner, 75, found shot dead at NYC park demand answers in what they suspect was hate crime",
-    "link": "https://nypost.com/2026/06/25/us-news/kin-of-kosher-bakery-owner-75-found-shot-dead-near-nyc-park-suspect-hate-crime-as-award-for-info-bumped-to-20k/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-06-25-19-43-00 +0000",
-    "source": "cbc",
-    "headline": "Ship evacuation in Strait of Hormuz paused following attack on cargo vessel",
-    "link": "https://www.cbc.ca/news/world/hormuz-strait-evacuation-ships-paused-attack-9.7249091?cmp=rss"
+    "score": 6,
+    "pubdate": "2026-06-25-20-23-00 +0000",
+    "source": "wsj",
+    "headline": "The Long Race to Succeed Jamie Dimon Heats Up",
+    "link": "https://www.wsj.com/finance/stocks/the-long-race-to-succeed-jamie-dimon-heats-up-091ab45a?mod=rss_markets_main"
   }
 ]
