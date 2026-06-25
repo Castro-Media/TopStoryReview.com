@@ -1,26 +1,5 @@
 [
   {
-    "score": 35,
-    "pubdate": "2026-06-25-11-01-31 +0000",
-    "source": "nyt",
-    "headline": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
-    "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-06-25-11-02-53 +0000",
-    "source": "nypost",
-    "headline": "GOP Rep. Tom Kean Jr. back at New Jersey home ahead of return to Congress",
-    "link": "https://nypost.com/2026/06/25/us-news/gop-rep-tom-kean-jr-back-at-new-jersey-home-ahead-of-return-to-congress/"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-06-25-11-23-10 +0000",
-    "source": "bbc",
-    "headline": "Police seal off key roads in Nairobi as Kenyans march to remember protest victims",
-    "link": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 20,
     "pubdate": "2026-06-25-11-36-41 +0000",
     "source": "nyt",
@@ -28,35 +7,7 @@
     "link": "https://www.nytimes.com/2026/06/25/world/europe/king-charles-taxes-uk.html"
   },
   {
-    "score": 19,
-    "pubdate": "2026-06-25-11-08-00 +0000",
-    "source": "wsj",
-    "headline": "In a whirlwind day, President Trump canceled a signing ceremony for a bipartisan housing bill, berated GOP lawmakers and criticized European allies",
-    "link": "https://www.wsj.com/politics/policy/trump-stuns-republicans-with-whirlwind-day-of-frustration-and-finger-pointing-f5b19ce8"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-06-25-11-36-00 +0000",
-    "source": "wsj",
-    "headline": "BlackBerry Sees New AI Opportunities as Embedded-Software Business Accelerates",
-    "link": "https://www.wsj.com/tech/ai/blackberry-sees-new-ai-opportunities-as-embedded-software-business-accelerates-5fccded6?mod=rss_markets_main"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-06-25-10-48-09 +0000",
-    "source": "bbc",
-    "headline": "'I thought I was going to die' - Venezuelans describe earthquake panic",
-    "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-06-25-11-30-00 +0000",
-    "source": "missionlocal",
-    "headline": "S.F. supervisors will hammer out the city budget tonight. Here’s what’s at stake.",
-    "link": "https://missionlocal.org/2026/06/san-francisco-budget-nonprofit-cuts-addbacks/"
-  },
-  {
-    "score": 14,
+    "score": 18,
     "pubdate": "2026-06-25-11-37-55 +0000",
     "source": "nyt",
     "headline": "Venezuela Live Updates: Death Toll Rises as Rescuers Mount Frantic Search for Quake Survivors",
@@ -64,9 +15,37 @@
   },
   {
     "score": 14,
-    "pubdate": "2026-06-25-11-04-09 +0000",
-    "source": "bbc",
-    "headline": "How you can save money on your energy bill as debts rise",
-    "link": "https://www.bbc.co.uk/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-06-25-11-37-17 +0000",
+    "source": "nyt",
+    "headline": "Venezuela Earthquakes Hammer Infrastructure, Making Aid Efforts Harder",
+    "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-infrastructure.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-06-25-11-42-00 +0000",
+    "source": "wsj",
+    "headline": "Winnebago Cuts Outlook Amid Declining Sales",
+    "link": "https://www.wsj.com/business/earnings/winnebago-cuts-outlook-amid-declining-sales-3ba01bd2?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-06-25-11-37-55 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Spain Warns of High Death Toll in Heat Wave",
+    "link": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-25-11-37-17 +0000",
+    "source": "nyt",
+    "headline": "Venezuela Earthquakes Hammer Infrastructure, Making Aid Efforts Harder",
+    "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-infrastructure.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-25-11-36-41 +0000",
+    "source": "nyt",
+    "headline": "King Charles III to Release Tax Details, a First for Any British Monarch",
+    "link": "https://www.nytimes.com/2026/06/25/world/europe/king-charles-taxes-uk.html"
   }
 ]
