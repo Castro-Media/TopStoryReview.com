@@ -1,24 +1,31 @@
 [
   {
-    "score": 190,
+    "score": 206,
     "pubdate": "2026-06-25-14-20-34 +0000",
     "source": "nypost",
     "headline": "Supreme Court rules Trump can turn back asylum seekers at US border in major immigration win",
     "link": "https://nypost.com/2026/06/25/us-news/supreme-court-rules-trump-can-turn-back-asylum-seekers-at-us-border-in-major-immigration-win/"
   },
   {
-    "score": 103,
-    "pubdate": "2026-06-24-23-06-52 +0000",
-    "source": "nypost",
-    "headline": "Venezuela rocked by strongest earthquakes in over a century, as USGS fears up to 100K deaths — Trump vows US is ‘ready, willing, and able to help’",
-    "link": "https://nypost.com/2026/06/24/world-news/venezuela-rocked-by-7-1-magnitude-earthquake-causing-buildings-to-collapse-in-capital-caracas/"
+    "score": 113,
+    "pubdate": "2026-06-25-01-33-43 +0000",
+    "source": "cbc",
+    "headline": "Venezuela earthquakes: Canada will provide $5M for humanitarian aid to support emergency relief efforts",
+    "link": "https://www.cbc.ca/news/world/livestory/venezuela-earthquakes-deaths-survivors-recovery-aftermath-search-9.7248333?cmp=rss"
   },
   {
-    "score": 92,
+    "score": 90,
     "pubdate": "2026-06-25-18-17-35 +0000",
     "source": "wapo",
     "headline": "Rubio’s new job? Selling Trump’s Iran deal to a worried Gulf.",
     "link": "https://www.washingtonpost.com/national-security/2026/06/25/rubios-new-job-selling-trumps-iran-deal-worried-gulf/"
+  },
+  {
+    "score": 72,
+    "pubdate": "2026-06-25-21-08-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Prices Make a Stunning Retreat to Prewar Levels. Where Do We Go From Here?",
+    "link": "https://www.wsj.com/business/energy-oil/oil-prices-make-a-stunning-retreat-to-prewar-levels-where-do-we-go-from-here-e8c3a6ef?mod=rss_markets_main"
   },
   {
     "score": 66,
@@ -28,28 +35,28 @@
     "link": "https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html"
   },
   {
-    "score": 64,
-    "pubdate": "2026-06-25-18-40-57 +0000",
-    "source": "nypost",
-    "headline": "Alito gets snippy with Sotomayor after she delivers rare rebuke in SCOTUS asylum case, warning: ‘More people will die’",
-    "link": "https://nypost.com/2026/06/25/us-news/alito-gets-snippy-with-sotomayor-after-she-delivers-rare-rebuke-in-scotus-asylum-case-warning-more-people-will-die/"
-  },
-  {
-    "score": 62,
-    "pubdate": "2026-06-25-20-27-32 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Jump After Attack Halts Shipping in Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html"
+    "score": 63,
+    "pubdate": "2026-06-25-19-19-12 +0000",
+    "source": "bbc",
+    "headline": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+    "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 60,
-    "pubdate": "2026-06-25-15-16-00 +0000",
+    "pubdate": "2026-06-25-03-22-00 +0000",
     "source": "wsj",
-    "headline": "High interest rates and a chronic shortage of inventory have pushed the U.S. housing market to a breaking point. In this podcast series, we examine the strategies emerging to solve the country’s housing shortfall.",
-    "link": "https://www.wsj.com/economy/housing/how-to-solve-the-housing-crisis-everyone-has-an-idea-837bbe40"
+    "headline": "President Trump abruptly canceled plans to sign bipartisan housing legislation, saying he would refuse to take action on the bill until lawmakers pass his voter-eligibility measure",
+    "link": "https://www.wsj.com/politics/policy/trump-abruptly-cancels-signing-ceremony-for-bipartisan-housing-bill-c94f5ff1"
   },
   {
-    "score": 52,
+    "score": 60,
+    "pubdate": "2026-06-25-19-41-00 +0000",
+    "source": "wsj",
+    "headline": "Watch how American and British sailors test some of the latest unmanned surface vessels as the alliance races to catch up to the drone capabilities of Ukraine and Russia",
+    "link": "https://www.wsj.com/politics/national-security/out-on-the-water-with-u-s-forces-racing-to-develop-sea-drones-e63e1e8e"
+  },
+  {
+    "score": 56,
     "pubdate": "2026-06-25-18-59-18 +0000",
     "source": "nyt",
     "headline": "Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer",
@@ -57,16 +64,9 @@
   },
   {
     "score": 51,
-    "pubdate": "2026-06-25-01-33-10 +0000",
-    "source": "nyt",
-    "headline": "Trump Claims He Asked Prosecutor to ‘Do Me a Favor’ and Look Into the California Election",
-    "link": "https://www.nytimes.com/2026/06/24/us/politics/trump-us-attorney-hilton-california-governor.html"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-06-25-10-12-04 +0000",
-    "source": "bbc",
-    "headline": "Celebrations as South Africa reach World Cup knockout stages for the first time",
-    "link": "https://www.bbc.co.uk/news/videos/cr5je3rgpq6o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-06-25-14-35-51 +0000",
+    "source": "latimes",
+    "headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
+    "link": "https://www.latimes.com/politics/story/2026-06-25/gun-owners-may-carry-weapon-into-stores-supreme-court-rules-rejecting-california-law"
   }
 ]
