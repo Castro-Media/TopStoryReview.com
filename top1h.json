@@ -1,19 +1,5 @@
 [
   {
-    "score": 25,
-    "pubdate": "2026-06-26-19-54-35 +0000",
-    "source": "nyt",
-    "headline": "Earthquake Tests Growing Ties Between U.S. and Venezuela",
-    "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html"
-  },
-  {
-    "score": 25,
-    "pubdate": "2026-06-26-19-50-31 +0000",
-    "source": "nyt",
-    "headline": "Trump Says Iran Attack on Cargo Ship in Strait of Hormuz Violated Cease-fire",
-    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html"
-  },
-  {
     "score": 22,
     "pubdate": "2026-06-26-20-21-14 +0000",
     "source": "nypost",
@@ -21,52 +7,52 @@
     "link": "https://nypost.com/2026/06/26/us-news/bible-stories-approved-as-required-reading-across-texas-public-schools-state-education-board-says/"
   },
   {
-    "score": 21,
-    "pubdate": "2026-06-26-19-28-35 +0000",
-    "source": "nyt",
-    "headline": "Yves Lacoste, Who Exposed U.S. Bombing of Vietnam’s Waterways, Dies at 96",
-    "link": "https://www.nytimes.com/2026/06/26/world/europe/yves-lacoste-dead.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-06-26-19-45-55 +0000",
-    "source": "nypost",
-    "headline": "Jewish Queens Dem nominee for NY State Assembly says it’s ‘not the party we have grown up with’",
-    "link": "https://nypost.com/2026/06/26/us-news/ny-state-assembly-candidate-pesach-osina-says-its-not-the-party-we-have-grown-up-with/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-06-26-19-45-05 +0000",
-    "source": "nyt",
-    "headline": "Small Plane Crashes Into Tallest Building in Beijing",
-    "link": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-06-26-19-55-03 +0000",
-    "source": "nypost",
-    "headline": "Devastated dad reveals last time he spoke to his 4 ‘happy’ kids — before grandma allegedly poisoned them and her daughter",
-    "link": "https://nypost.com/2026/06/26/us-news/devastated-dad-reveals-last-time-he-spoke-to-his-4-happy-kids-before-they-were-found-apparently-poisoned-to-death-alongside-mom-grandma/"
-  },
-  {
-    "score": 16,
+    "score": 14,
     "pubdate": "2026-06-26-20-23-13 +0000",
     "source": "nyt",
     "headline": "Oil Prices Return to Prewar Levels After Four Months",
     "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html"
   },
   {
-    "score": 16,
-    "pubdate": "2026-06-26-19-29-31 +0000",
-    "source": "bbc",
-    "headline": "Israel and Lebanon sign framework agreement after US-brokered talks",
-    "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss"
+    "score": 9,
+    "pubdate": "2026-06-26-20-22-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Says Iranian Attack on Cargo Ship Was Violation of Ceasefire Deal",
+    "link": "https://www.wsj.com/world/middle-east/trump-says-iranian-attack-on-cargo-ship-was-violation-of-ceasefire-deal-884c617c"
   },
   {
-    "score": 14,
-    "pubdate": "2026-06-26-19-30-00 +0000",
+    "score": 9,
+    "pubdate": "2026-06-26-20-18-41 +0000",
+    "source": "nyt",
+    "headline": "Venezuela Live Updates: Hospitals Overwhelmed as International Rescue Teams Arrive",
+    "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-26-20-19-51 +0000",
+    "source": "cbc",
+    "headline": "Carney confronts our national home reno nightmare at 24 Sussex",
+    "link": "https://www.cbc.ca/news/politics/carney-24-sussex-analysis-9.7250676?cmp=rss"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-06-26-20-20-00 +0000",
     "source": "wsj",
-    "headline": "U.S. Natural Gas Futures Slip As July Contract Expires",
-    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-gains-on-coming-hot-weather-c3163e5e?mod=rss_markets_main"
+    "headline": "AI-Themed Stocks Tank Again, Capping a Wild Week",
+    "link": "https://www.wsj.com/finance/stocks/ai-themed-stocks-tank-again-capping-a-wild-week-7781a242?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-26-20-23-13 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Return to Prewar Levels After Four Months",
+    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-26-20-21-14 +0000",
+    "source": "nypost",
+    "headline": "Bible stories approved as required reading across Texas public schools: state education board",
+    "link": "https://nypost.com/2026/06/26/us-news/bible-stories-approved-as-required-reading-across-texas-public-schools-state-education-board-says/"
   }
 ]
