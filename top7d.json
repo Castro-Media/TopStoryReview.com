@@ -1,24 +1,31 @@
 [
   {
-    "score": 283,
+    "score": 294,
     "pubdate": "2026-06-25-18-17-35 +0000",
     "source": "wapo",
     "headline": "Rubio’s new job? Selling Trump’s Iran deal to a worried Gulf.",
     "link": "https://www.washingtonpost.com/national-security/2026/06/25/rubios-new-job-selling-trumps-iran-deal-worried-gulf/"
   },
   {
-    "score": 187,
+    "score": 184,
     "pubdate": "2026-06-26-01-08-00 +0000",
     "source": "wsj",
     "headline": "California’s proposed billionaire tax will appear before voters in November, teeing up a high-stakes fight among Democrats",
     "link": "https://www.wsj.com/politics/policy/californias-billionaire-tax-kicks-off-a-democratic-civil-war-fa94ba2e"
   },
   {
-    "score": 162,
+    "score": 159,
     "pubdate": "2026-06-25-18-27-54 +0000",
     "source": "latimes",
     "headline": "Asylum seekers may be turned away at the southern border, Supreme Court rules",
     "link": "https://www.latimes.com/politics/story/2026-06-25/asylum-seekers-may-be-turned-away-at-southern-border-supreme-court-rules"
+  },
+  {
+    "score": 137,
+    "pubdate": "2026-06-24-15-31-00 +0000",
+    "source": "wsj",
+    "headline": "Germany Scraps Plan for Biggest Military Ship Since World War II",
+    "link": "https://www.wsj.com/world/europe/rheinmetall-shares-slump-after-reports-that-germany-is-dropping-frigate-project-bbabccad"
   },
   {
     "score": 133,
@@ -35,14 +42,7 @@
     "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html"
   },
   {
-    "score": 128,
-    "pubdate": "2026-06-24-15-31-00 +0000",
-    "source": "wsj",
-    "headline": "Germany Scraps Plan for Biggest Military Ship Since World War II",
-    "link": "https://www.wsj.com/world/europe/rheinmetall-shares-slump-after-reports-that-germany-is-dropping-frigate-project-bbabccad"
-  },
-  {
-    "score": 114,
+    "score": 118,
     "pubdate": "2026-06-25-21-08-00 +0000",
     "source": "wsj",
     "headline": "Oil Prices Make a Stunning Retreat to Prewar Levels. Where Do We Go From Here?",
@@ -56,17 +56,17 @@
     "link": "https://www.wsj.com/politics/policy/trump-abruptly-cancels-signing-ceremony-for-bipartisan-housing-bill-c94f5ff1"
   },
   {
-    "score": 101,
-    "pubdate": "2026-06-25-17-10-22 +0000",
-    "source": "nyt",
-    "headline": "See Record-Breaking Extreme Heat Wave Across Europe in Photos",
-    "link": "https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html"
+    "score": 100,
+    "pubdate": "2026-06-24-10-47-47 +0000",
+    "source": "bbc",
+    "headline": "'Was the political heat too hot?': Starmer leaves No 10 ahead of PMQs",
+    "link": "https://www.bbc.co.uk/news/videos/cvg4q5j6yepo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 92,
-    "pubdate": "2026-06-20-22-34-00 +0000",
+    "score": 98,
+    "pubdate": "2026-06-23-09-00-00 +0000",
     "source": "wsj",
-    "headline": "Vance Heads to Peace Talks, After Iran Says It Closed Strait of Hormuz",
-    "link": "https://www.wsj.com/world/middle-east/fighting-flares-again-in-lebanon-despite-israel-hezbollah-ceasefire-4d0ffae8"
+    "headline": "A generational battle is playing out in the Democratic Party primaries nationwide, putting incumbents on the defensive against a younger crop of candidates to their left",
+    "link": "https://www.wsj.com/politics/elections/the-generational-clash-pitting-democrats-against-democrats-across-the-u-s-acc3e809"
   }
 ]
