@@ -1,31 +1,38 @@
 [
   {
     "score": 278,
-    "pubdate": "2026-06-24-06-48-32 +0000",
-    "source": "nyt",
-    "headline": "Trump Is Making Big Claims About the Iran Talks. Iran Keeps Contradicting Him.",
-    "link": "https://www.nytimes.com/2026/06/23/us/politics/trump-iran-talks-contradictions.html"
+    "pubdate": "2026-06-25-18-17-35 +0000",
+    "source": "wapo",
+    "headline": "Rubio’s new job? Selling Trump’s Iran deal to a worried Gulf.",
+    "link": "https://www.washingtonpost.com/national-security/2026/06/25/rubios-new-job-selling-trumps-iran-deal-worried-gulf/"
   },
   {
-    "score": 224,
+    "score": 184,
+    "pubdate": "2026-06-26-01-08-00 +0000",
+    "source": "wsj",
+    "headline": "California’s proposed billionaire tax will appear before voters in November, teeing up a high-stakes fight among Democrats",
+    "link": "https://www.wsj.com/politics/policy/californias-billionaire-tax-kicks-off-a-democratic-civil-war-fa94ba2e"
+  },
+  {
+    "score": 131,
+    "pubdate": "2026-06-23-15-41-52 +0000",
+    "source": "latimes",
+    "headline": "Inmates may not sue prison officials who violate their religious rights, Supreme Court rules",
+    "link": "https://www.latimes.com/politics/story/2026-06-23/inmates-may-not-sue-prison-officials-who-violate-their-religious-rights-supreme-court-rules"
+  },
+  {
+    "score": 128,
+    "pubdate": "2026-06-25-21-08-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Prices Make a Stunning Retreat to Prewar Levels. Where Do We Go From Here?",
+    "link": "https://www.wsj.com/business/energy-oil/oil-prices-make-a-stunning-retreat-to-prewar-levels-where-do-we-go-from-here-e8c3a6ef?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 124,
     "pubdate": "2026-06-24-20-25-00 +0000",
     "source": "wsj",
     "headline": "Tuesday’s primary results make clear that New York City Mayor Zohran Mamdani’s rise last year wasn’t a fluke, and his growing power will be a continuing headache for Democratic leadership",
     "link": "https://www.wsj.com/politics/elections/mamdani-deepens-his-influenceand-the-dividein-the-democratic-party-0c6374fc"
-  },
-  {
-    "score": 160,
-    "pubdate": "2026-06-25-14-35-51 +0000",
-    "source": "latimes",
-    "headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
-    "link": "https://www.latimes.com/politics/story/2026-06-25/gun-owners-may-carry-weapon-into-stores-supreme-court-rules-rejecting-california-law"
-  },
-  {
-    "score": 129,
-    "pubdate": "2026-06-23-17-41-00 +0000",
-    "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
   },
   {
     "score": 123,
@@ -42,13 +49,6 @@
     "link": "https://www.wsj.com/politics/policy/trump-abruptly-cancels-signing-ceremony-for-bipartisan-housing-bill-c94f5ff1"
   },
   {
-    "score": 113,
-    "pubdate": "2026-06-25-20-27-32 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Jump After Attack Halts Shipping in Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html"
-  },
-  {
     "score": 111,
     "pubdate": "2026-06-26-16-09-48 +0000",
     "source": "nyt",
@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2026/06/26/world/middleeast/world-cup-iran-mexico.html"
   },
   {
+    "score": 100,
+    "pubdate": "2026-06-26-11-27-59 +0000",
+    "source": "bbc",
+    "headline": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+    "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 97,
     "pubdate": "2026-06-26-09-00-00 +0000",
     "source": "wapo",
     "headline": "Her house was on fire. Her poodle’s frantic barking helped save her life.",
     "link": "https://www.washingtonpost.com/lifestyle/2026/06/26/her-house-was-fire-her-poodles-frantic-barking-helped-save-her/"
-  },
-  {
-    "score": 96,
-    "pubdate": "2026-06-23-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "A generational battle is playing out in the Democratic Party primaries nationwide, putting incumbents on the defensive against a younger crop of candidates to their left",
-    "link": "https://www.wsj.com/politics/elections/the-generational-clash-pitting-democrats-against-democrats-across-the-u-s-acc3e809"
   }
 ]
