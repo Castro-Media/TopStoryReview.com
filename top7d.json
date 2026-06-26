@@ -1,48 +1,41 @@
 [
   {
     "score": 286,
-    "pubdate": "2026-06-25-18-17-35 +0000",
-    "source": "wapo",
-    "headline": "Rubio’s new job? Selling Trump’s Iran deal to a worried Gulf.",
-    "link": "https://www.washingtonpost.com/national-security/2026/06/25/rubios-new-job-selling-trumps-iran-deal-worried-gulf/"
-  },
-  {
-    "score": 185,
-    "pubdate": "2026-06-26-01-08-00 +0000",
-    "source": "wsj",
-    "headline": "California’s proposed billionaire tax will appear before voters in November, teeing up a high-stakes fight among Democrats",
-    "link": "https://www.wsj.com/politics/policy/californias-billionaire-tax-kicks-off-a-democratic-civil-war-fa94ba2e"
-  },
-  {
-    "score": 134,
-    "pubdate": "2026-06-26-17-56-15 +0000",
+    "pubdate": "2026-06-26-19-50-31 +0000",
     "source": "nyt",
-    "headline": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
-    "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html"
+    "headline": "Trump Says Iran Attack on Cargo Ship in Strait of Hormuz Violated Cease-fire",
+    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html"
   },
   {
-    "score": 134,
-    "pubdate": "2026-06-25-18-27-54 +0000",
-    "source": "latimes",
-    "headline": "Asylum seekers may be turned away at the southern border, Supreme Court rules",
-    "link": "https://www.latimes.com/politics/story/2026-06-25/asylum-seekers-may-be-turned-away-at-southern-border-supreme-court-rules"
-  },
-  {
-    "score": 126,
+    "score": 217,
     "pubdate": "2026-06-24-20-25-00 +0000",
     "source": "wsj",
     "headline": "Tuesday’s primary results make clear that New York City Mayor Zohran Mamdani’s rise last year wasn’t a fluke, and his growing power will be a continuing headache for Democratic leadership",
     "link": "https://www.wsj.com/politics/elections/mamdani-deepens-his-influenceand-the-dividein-the-democratic-party-0c6374fc"
   },
   {
-    "score": 123,
-    "pubdate": "2026-06-25-21-08-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Prices Make a Stunning Retreat to Prewar Levels. Where Do We Go From Here?",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-make-a-stunning-retreat-to-prewar-levels-where-do-we-go-from-here-e8c3a6ef?mod=pls_whats_news_us_business_f"
+    "score": 168,
+    "pubdate": "2026-06-25-14-35-51 +0000",
+    "source": "latimes",
+    "headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
+    "link": "https://www.latimes.com/politics/story/2026-06-25/gun-owners-may-carry-weapon-into-stores-supreme-court-rules-rejecting-california-law"
   },
   {
-    "score": 119,
+    "score": 135,
+    "pubdate": "2026-06-26-17-56-15 +0000",
+    "source": "nyt",
+    "headline": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
+    "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html"
+  },
+  {
+    "score": 126,
+    "pubdate": "2026-06-23-17-41-00 +0000",
+    "source": "wsj",
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
+  },
+  {
+    "score": 120,
     "pubdate": "2026-06-25-03-22-00 +0000",
     "source": "wsj",
     "headline": "President Trump abruptly canceled plans to sign bipartisan housing legislation, saying he would refuse to take action on the bill until lawmakers pass his voter-eligibility measure",
@@ -50,23 +43,30 @@
   },
   {
     "score": 111,
-    "pubdate": "2026-06-26-16-15-31 +0000",
-    "source": "nypost",
-    "headline": "Trump says Iran violated cease-fire agreement with ‘foolish’ drone attack in Strait of Hormuz",
-    "link": "https://nypost.com/2026/06/26/world-news/trump-iran-violated-ceasefire-with-foolish-strait-of-hormuz-drone-attack/"
-  },
-  {
-    "score": 109,
     "pubdate": "2026-06-26-16-09-48 +0000",
     "source": "nyt",
     "headline": "Iran’s Long World Cup Journey Defined by War and Political Tension",
     "link": "https://www.nytimes.com/2026/06/26/world/middleeast/world-cup-iran-mexico.html"
   },
   {
-    "score": 96,
+    "score": 98,
+    "pubdate": "2026-06-25-21-08-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Prices Make a Stunning Retreat to Prewar Levels. Where Do We Go From Here?",
+    "link": "https://www.wsj.com/business/energy-oil/oil-prices-make-a-stunning-retreat-to-prewar-levels-where-do-we-go-from-here-e8c3a6ef"
+  },
+  {
+    "score": 94,
     "pubdate": "2026-06-26-17-00-00 +0000",
     "source": "wsj",
     "headline": "The search for a new leader of the Federal Reserve Bank of Atlanta has stalled after an initial slate of finalists didn’t yield a choice; White House advisers have taken an interest in a process they have no formal role in",
     "link": "https://www.wsj.com/economy/central-banking/atlanta-fed-search-for-new-leader-stalls-4f4d810f"
+  },
+  {
+    "score": 93,
+    "pubdate": "2026-06-26-18-14-36 +0000",
+    "source": "bbc",
+    "headline": "Europe's deadly heatwave breaks German record and halts public events",
+    "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss"
   }
 ]
