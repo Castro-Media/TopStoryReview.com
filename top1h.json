@@ -1,58 +1,72 @@
 [
   {
+    "score": 37,
+    "pubdate": "2026-06-26-21-52-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Strikes Iran After Its Attack on Ship in Strait of Hormuz",
+    "link": "https://www.wsj.com/arts-culture/books/u-s-strikes-iran-after-its-attack-on-ship-in-strait-of-hormuz-6e798f7b?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-06-26-21-58-48 +0000",
+    "source": "nyt",
+    "headline": "Earthquake Tests Growing Ties Between U.S. and Venezuela",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html"
+  },
+  {
     "score": 22,
-    "pubdate": "2026-06-26-20-21-14 +0000",
+    "pubdate": "2026-06-26-22-16-37 +0000",
+    "source": "nyt",
+    "headline": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-06-26-22-12-04 +0000",
+    "source": "nyt",
+    "headline": "Pete Buttigieg Says He Was Separated From His Children in ‘Swatting’ Attack",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/buttigieg-swatting-false-report-children.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-06-26-21-41-00 +0000",
+    "source": "wsj",
+    "headline": "Millions of people who signed up for Affordable Care Act plans this year dropped their coverage after the loss of subsidies drove up costs",
+    "link": "https://www.wsj.com/politics/policy/millions-of-americans-drop-obamacare-plans-after-withdrawal-of-subsidies-3419166e"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-06-26-21-52-39 +0000",
     "source": "nypost",
-    "headline": "Bible stories approved as required reading across Texas public schools: state education board",
-    "link": "https://nypost.com/2026/06/26/us-news/bible-stories-approved-as-required-reading-across-texas-public-schools-state-education-board-says/"
+    "headline": "US-Iran form Hormuz hotline to prevent more military clashes, prep for de-mining",
+    "link": "https://nypost.com/2026/06/26/us-news/us-iran-form-hormuz-hotline-before-demining-the-strait/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-06-26-21-34-00 +0000",
+    "source": "wsj",
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-10d9362c?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-06-26-21-21-51 +0000",
+    "source": "nyt",
+    "headline": "‘Pride Match’ Celebration Proves Awkward for Iran-Egypt Game in Seattle",
+    "link": "https://www.nytimes.com/2026/06/26/us/iran-egypt-pride-match.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-06-26-21-23-32 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Return to Prewar Levels After Four Months",
+    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html"
   },
   {
     "score": 14,
-    "pubdate": "2026-06-26-20-23-13 +0000",
+    "pubdate": "2026-06-26-21-50-45 +0000",
     "source": "nyt",
-    "headline": "Oil Prices Return to Prewar Levels After Four Months",
-    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-06-26-20-22-00 +0000",
-    "source": "wsj",
-    "headline": "Trump Says Iranian Attack on Cargo Ship Was Violation of Ceasefire Deal",
-    "link": "https://www.wsj.com/world/middle-east/trump-says-iranian-attack-on-cargo-ship-was-violation-of-ceasefire-deal-884c617c"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-06-26-20-18-41 +0000",
-    "source": "nyt",
-    "headline": "Venezuela Live Updates: Hospitals Overwhelmed as International Rescue Teams Arrive",
-    "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-06-26-20-19-51 +0000",
-    "source": "cbc",
-    "headline": "Carney confronts our national home reno nightmare at 24 Sussex",
-    "link": "https://www.cbc.ca/news/politics/carney-24-sussex-analysis-9.7250676?cmp=rss"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-06-26-20-20-00 +0000",
-    "source": "wsj",
-    "headline": "AI-Themed Stocks Tank Again, Capping a Wild Week",
-    "link": "https://www.wsj.com/finance/stocks/ai-themed-stocks-tank-again-capping-a-wild-week-7781a242?mod=rss_markets_main"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-06-26-20-23-13 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Return to Prewar Levels After Four Months",
-    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-06-26-20-21-14 +0000",
-    "source": "nypost",
-    "headline": "Bible stories approved as required reading across Texas public schools: state education board",
-    "link": "https://nypost.com/2026/06/26/us-news/bible-stories-approved-as-required-reading-across-texas-public-schools-state-education-board-says/"
+    "headline": "Bill Pulte Picks G.O.P. Election Operative for Spy Agency Job",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/pulte-spy-agency-christina-norton.html"
   }
 ]
