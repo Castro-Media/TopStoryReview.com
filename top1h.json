@@ -1,72 +1,58 @@
 [
   {
-    "score": 39,
-    "pubdate": "2026-06-26-16-02-20 +0000",
-    "source": "nyt",
-    "headline": "John Bolton, Former Trump Adviser, Pleads Guilty in Classified Information Case",
-    "link": "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-06-26-16-09-48 +0000",
-    "source": "nyt",
-    "headline": "Iran’s Long World Cup Journey Defined by War and Political Tension",
-    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/world-cup-iran-mexico.html"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-06-26-16-26-28 +0000",
-    "source": "nypost",
-    "headline": "Ex-’60 Minutes’ boss Bill Owens blasts Paramount, CBS News leaders in tell-all: ‘Worst-run media company in the history of America’",
-    "link": "https://nypost.com/2026/06/26/media/ex-60-minutes-boss-bill-owens-blasts-paramount-cbs-news-leaders-in-new-memoir-worst-run-media-company-in-the-history-of-america/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-06-26-16-23-50 +0000",
-    "source": "nyt",
-    "headline": "The Moment One Venezuelan Survivor Was Pulled From a Flattened Building",
-    "link": "https://www.nytimes.com/2026/06/26/world/americas/earthquake-survivor-graciela-mora.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-06-26-16-01-00 +0000",
-    "source": "wsj",
-    "headline": "Robinhood Co-Founder Baiju Bhatt Breaks Down the Lucky Streaks in His Career",
-    "link": "https://www.wsj.com/business/baiju-bhatt-luck-vs-skill-e737ecf7?mod=rss_markets_main"
-  },
-  {
-    "score": 17,
+    "score": 20,
     "pubdate": "2026-06-26-16-32-14 +0000",
     "source": "nypost",
     "headline": "Trump returns to scene of assassination attempt — and security looks virtually the same",
     "link": "https://nypost.com/2026/06/26/us-news/trump-returns-to-scene-of-assassination-attempt-and-security-looks-virtually-the-same/"
   },
   {
-    "score": 17,
-    "pubdate": "2026-06-26-16-21-41 +0000",
-    "source": "nyt",
-    "headline": "Iran Asserts Authority Over Strait of Hormuz After Attacking Cargo Ship",
-    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html"
+    "score": 19,
+    "pubdate": "2026-06-26-16-26-28 +0000",
+    "source": "nypost",
+    "headline": "Ex-’60 Minutes’ boss Bill Owens blasts Paramount, CBS News leaders in tell-all: ‘Worst-run media company in the history of America’",
+    "link": "https://nypost.com/2026/06/26/media/ex-60-minutes-boss-bill-owens-blasts-paramount-cbs-news-leaders-in-new-memoir-worst-run-media-company-in-the-history-of-america/"
   },
   {
-    "score": 17,
-    "pubdate": "2026-06-26-16-01-24 +0000",
-    "source": "nyt",
-    "headline": "Canada’s 24 Sussex Drive Is a Dump. Mark Carney Is Going to Fix It Up.",
-    "link": "https://www.nytimes.com/2026/06/26/world/canada/carney-ottawa-24-sussex-drive.html"
+    "score": 10,
+    "pubdate": "2026-06-26-16-33-00 +0000",
+    "source": "nypost",
+    "headline": "Alex Murdaugh is ‘not special’ enough to appear in court without shackles, prosecutors rage",
+    "link": "https://nypost.com/2026/06/26/us-news/alex-murdaugh-is-not-special-should-wear-shackles-in-court-prosecutors/"
   },
   {
-    "score": 16,
-    "pubdate": "2026-06-26-15-43-21 +0000",
-    "source": "nyt",
-    "headline": "Survivors in quake-hit La Guaira tell of loss and rescue.",
-    "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake/survivors-la-guaira-hospital"
+    "score": 10,
+    "pubdate": "2026-06-26-16-29-00 +0000",
+    "source": "wsj",
+    "headline": "Opinion | Trump and Vance Replay Poor Policy in Iran",
+    "link": "https://www.wsj.com/opinion/trump-and-vance-replay-poor-policy-in-iran-16cdc708"
   },
   {
-    "score": 14,
-    "pubdate": "2026-06-26-15-39-29 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Return to Prewar Levels After Four Months",
-    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html"
+    "score": 8,
+    "pubdate": "2026-06-26-16-27-16 +0000",
+    "source": "nypost",
+    "headline": "Mistrail declared for accused Palisades Fire arsonist Jonathan Rinderknecht",
+    "link": "https://nypost.com/2026/06/26/us-news/mistrail-declared-for-accused-palisades-fire-arsonist-jonathan-rinderknecht/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-06-26-16-27-22 +0000",
+    "source": "nypost",
+    "headline": "Casinos in Primm clear final hurdle to be saved by Las Vegas company",
+    "link": "https://nypost.com/2026/06/26/business/california-border-casino-deal-okd-for-terribles-takeover-of-primms/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-26-16-32-14 +0000",
+    "source": "nypost",
+    "headline": "Trump returns to scene of assassination attempt — and security looks virtually the same",
+    "link": "https://nypost.com/2026/06/26/us-news/trump-returns-to-scene-of-assassination-attempt-and-security-looks-virtually-the-same/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-26-16-29-00 +0000",
+    "source": "wsj",
+    "headline": "Opinion | Trump and Vance Replay Poor Policy in Iran",
+    "link": "https://www.wsj.com/opinion/trump-and-vance-replay-poor-policy-in-iran-16cdc708"
   }
 ]
