@@ -1,31 +1,24 @@
 [
   {
-    "score": 294,
+    "score": 289,
     "pubdate": "2026-06-25-18-17-35 +0000",
     "source": "wapo",
     "headline": "Rubio’s new job? Selling Trump’s Iran deal to a worried Gulf.",
     "link": "https://www.washingtonpost.com/national-security/2026/06/25/rubios-new-job-selling-trumps-iran-deal-worried-gulf/"
   },
   {
-    "score": 184,
+    "score": 178,
     "pubdate": "2026-06-26-01-08-00 +0000",
     "source": "wsj",
     "headline": "California’s proposed billionaire tax will appear before voters in November, teeing up a high-stakes fight among Democrats",
     "link": "https://www.wsj.com/politics/policy/californias-billionaire-tax-kicks-off-a-democratic-civil-war-fa94ba2e"
   },
   {
-    "score": 159,
+    "score": 158,
     "pubdate": "2026-06-25-18-27-54 +0000",
     "source": "latimes",
     "headline": "Asylum seekers may be turned away at the southern border, Supreme Court rules",
     "link": "https://www.latimes.com/politics/story/2026-06-25/asylum-seekers-may-be-turned-away-at-southern-border-supreme-court-rules"
-  },
-  {
-    "score": 137,
-    "pubdate": "2026-06-24-15-31-00 +0000",
-    "source": "wsj",
-    "headline": "Germany Scraps Plan for Biggest Military Ship Since World War II",
-    "link": "https://www.wsj.com/world/europe/rheinmetall-shares-slump-after-reports-that-germany-is-dropping-frigate-project-bbabccad"
   },
   {
     "score": 133,
@@ -35,6 +28,13 @@
     "link": "https://www.wsj.com/politics/elections/mamdani-deepens-his-influenceand-the-dividein-the-democratic-party-0c6374fc"
   },
   {
+    "score": 129,
+    "pubdate": "2026-06-26-09-01-44 +0000",
+    "source": "nyt",
+    "headline": "Iran’s Long World Cup Journey Defined by War and Political Tension",
+    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/world-cup-iran-mexico.html"
+  },
+  {
     "score": 128,
     "pubdate": "2026-06-26-02-27-09 +0000",
     "source": "nyt",
@@ -42,31 +42,31 @@
     "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html"
   },
   {
-    "score": 118,
+    "score": 116,
     "pubdate": "2026-06-25-21-08-00 +0000",
     "source": "wsj",
     "headline": "Oil Prices Make a Stunning Retreat to Prewar Levels. Where Do We Go From Here?",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-make-a-stunning-retreat-to-prewar-levels-where-do-we-go-from-here-e8c3a6ef?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/business/energy-oil/oil-prices-make-a-stunning-retreat-to-prewar-levels-where-do-we-go-from-here-e8c3a6ef?mod=rss_markets_main"
   },
   {
-    "score": 112,
+    "score": 114,
     "pubdate": "2026-06-25-03-22-00 +0000",
     "source": "wsj",
     "headline": "President Trump abruptly canceled plans to sign bipartisan housing legislation, saying he would refuse to take action on the bill until lawmakers pass his voter-eligibility measure",
     "link": "https://www.wsj.com/politics/policy/trump-abruptly-cancels-signing-ceremony-for-bipartisan-housing-bill-c94f5ff1"
   },
   {
-    "score": 100,
-    "pubdate": "2026-06-24-10-47-47 +0000",
-    "source": "bbc",
-    "headline": "'Was the political heat too hot?': Starmer leaves No 10 ahead of PMQs",
-    "link": "https://www.bbc.co.uk/news/videos/cvg4q5j6yepo?at_medium=RSS&at_campaign=rss"
+    "score": 107,
+    "pubdate": "2026-06-25-13-33-17 +0000",
+    "source": "nyt",
+    "headline": "Some Museums in the UK and France Reduce Their Hours as Heat Wave Sweeps Europe",
+    "link": "https://www.nytimes.com/2026/06/25/arts/europe-museums-heat.html"
   },
   {
-    "score": 98,
-    "pubdate": "2026-06-23-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "A generational battle is playing out in the Democratic Party primaries nationwide, putting incumbents on the defensive against a younger crop of candidates to their left",
-    "link": "https://www.wsj.com/politics/elections/the-generational-clash-pitting-democrats-against-democrats-across-the-u-s-acc3e809"
+    "score": 101,
+    "pubdate": "2026-06-26-11-27-59 +0000",
+    "source": "bbc",
+    "headline": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+    "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
   }
 ]
