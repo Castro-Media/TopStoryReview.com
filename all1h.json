@@ -1,50 +1,404 @@
 [
   {
-    "headline": "Oil Prices Return to Prewar Levels After Four Months",
-    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
+    "headline": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html",
     "source": "nyt",
-    "pubdate": "2026-06-26-20-23-13 +0000"
+    "pubdate": "2026-06-26-22-16-37 +0000"
   },
   {
-    "headline": "Oil Prices Return to Prewar Levels After Four Months",
-    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
+    "headline": "Pete Buttigieg Says He Was Separated From His Children in ‘Swatting’ Attack",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/buttigieg-swatting-false-report-children.html",
     "source": "nyt",
-    "pubdate": "2026-06-26-20-23-13 +0000"
+    "pubdate": "2026-06-26-22-12-04 +0000"
   },
   {
-    "headline": "Trump Says Iranian Attack on Cargo Ship Was Violation of Ceasefire Deal",
-    "link": "https://www.wsj.com/world/middle-east/trump-says-iranian-attack-on-cargo-ship-was-violation-of-ceasefire-deal-884c617c",
+    "headline": "Pete Buttigieg Says He Was Separated From His Children in ‘Swatting’ Attack",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/buttigieg-swatting-false-report-children.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-22-12-04 +0000"
+  },
+  {
+    "headline": "What to Know About Problems at the Reflecting Pool and Trump’s Claims of Vandalism",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-vandalism-claims-reflecting-pool.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-22-10-24 +0000"
+  },
+  {
+    "headline": "What to Know About Problems at the Reflecting Pool and Trump’s Claims of Vandalism",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-vandalism-claims-reflecting-pool.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-22-10-24 +0000"
+  },
+  {
+    "headline": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-22-10-22 +0000"
+  },
+  {
+    "headline": "The WSJ Dollar Index Rises 0.56% This Week to 97.60 — Data Talk",
+    "link": "https://www.wsj.com/articles/asian-currencies-consolidate-may-be-supported-by-diminished-fed-rate-hike-prospects-d4d0cf3b?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-06-26-20-22-00 +0000"
+    "pubdate": "2026-06-26-22-10-00 +0000"
   },
   {
-    "headline": "Bible stories approved as required reading across Texas public schools: state education board",
-    "link": "https://nypost.com/2026/06/26/us-news/bible-stories-approved-as-required-reading-across-texas-public-schools-state-education-board-says/",
-    "source": "nypost",
-    "pubdate": "2026-06-26-20-21-14 +0000"
-  },
-  {
-    "headline": "Bible stories approved as required reading across Texas public schools: state education board",
-    "link": "https://nypost.com/2026/06/26/us-news/bible-stories-approved-as-required-reading-across-texas-public-schools-state-education-board-says/",
-    "source": "nypost",
-    "pubdate": "2026-06-26-20-21-14 +0000"
-  },
-  {
-    "headline": "AI-Themed Stocks Tank Again, Capping a Wild Week",
-    "link": "https://www.wsj.com/finance/stocks/ai-themed-stocks-tank-again-capping-a-wild-week-7781a242?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-26-20-20-00 +0000"
-  },
-  {
-    "headline": "Carney confronts our national home reno nightmare at 24 Sussex",
-    "link": "https://www.cbc.ca/news/politics/carney-24-sussex-analysis-9.7250676?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-26-20-19-51 +0000"
-  },
-  {
-    "headline": "Venezuela Live Updates: Hospitals Overwhelmed as International Rescue Teams Arrive",
+    "headline": "Venezuela Live Updates: Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
     "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
     "source": "nyt",
-    "pubdate": "2026-06-26-20-18-41 +0000"
+    "pubdate": "2026-06-26-22-09-17 +0000"
+  },
+  {
+    "headline": "Mamdani’s NYC rent freeze already facing lawsuit threats: ‘It’s a sham’",
+    "link": "https://nypost.com/2026/06/26/us-news/mamdanis-nyc-rent-freeze-already-facing-lawsuit-threats/",
+    "source": "nypost",
+    "pubdate": "2026-06-26-22-07-18 +0000"
+  },
+  {
+    "headline": "Oil Prices Rise Above $70 on Iran Strike",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-93e57fe0?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-26-22-06-00 +0000"
+  },
+  {
+    "headline": "Earthquake Tests Growing Ties Between U.S. and Venezuela",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-58-48 +0000"
+  },
+  {
+    "headline": "Earthquake Tests Growing Ties Between U.S. and Venezuela",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-58-48 +0000"
+  },
+  {
+    "headline": "Earthquake Tests Growing Ties Between U.S. and Venezuela",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-58-48 +0000"
+  },
+  {
+    "headline": "Earthquake Tests Growing Ties Between U.S. and Venezuela",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-58-48 +0000"
+  },
+  {
+    "headline": "U.S. Says It Struck Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-58-06 +0000"
+  },
+  {
+    "headline": "U.S. Says It Struck Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-58-06 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-57-30 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-57-30 +0000"
+  },
+  {
+    "headline": "Opinion | The Low-Tax Case for Tariffs",
+    "link": "https://www.wsj.com/opinion/the-low-tax-case-for-tariffs-61791ef4",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-57-00 +0000"
+  },
+  {
+    "headline": "US-Iran form Hormuz hotline to prevent more military clashes, prep for de-mining",
+    "link": "https://nypost.com/2026/06/26/us-news/us-iran-form-hormuz-hotline-before-demining-the-strait/",
+    "source": "nypost",
+    "pubdate": "2026-06-26-21-52-39 +0000"
+  },
+  {
+    "headline": "US-Iran form Hormuz hotline to prevent more military clashes, prep for de-mining",
+    "link": "https://nypost.com/2026/06/26/us-news/us-iran-form-hormuz-hotline-before-demining-the-strait/",
+    "source": "nypost",
+    "pubdate": "2026-06-26-21-52-39 +0000"
+  },
+  {
+    "headline": "U.S. Strikes Iran After Its Attack on Ship in Strait of Hormuz",
+    "link": "https://www.wsj.com/arts-culture/books/u-s-strikes-iran-after-its-attack-on-ship-in-strait-of-hormuz-6e798f7b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-52-00 +0000"
+  },
+  {
+    "headline": "Bill Pulte Picks G.O.P. Election Operative for Spy Agency Job",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/pulte-spy-agency-christina-norton.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-50-45 +0000"
+  },
+  {
+    "headline": "Bill Pulte Picks G.O.P. Election Operative for Spy Agency Job",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/pulte-spy-agency-christina-norton.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-50-45 +0000"
+  },
+  {
+    "headline": "Saks Global Emerges From Bankruptcy as Exemplar Luxury Group",
+    "link": "https://www.wsj.com/business/retail/saks-global-emerges-from-bankruptcy-as-exemplar-luxury-group-57181773?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-50-00 +0000"
+  },
+  {
+    "headline": "LA doggy daycare launches training program to help dogs overcome fear of fireworks",
+    "link": "https://nypost.com/2026/06/26/us-news/culver-city-dog-daycare-helps-pups-get-ready-for-fourth-of-july/",
+    "source": "nypost",
+    "pubdate": "2026-06-26-21-48-42 +0000"
+  },
+  {
+    "headline": "U.S. Launches Fresh Attacks on Iran",
+    "link": "https://www.wsj.com/world/middle-east/trump-says-iranian-attack-on-cargo-ship-was-violation-of-ceasefire-deal-884c617c",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-45-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-55e86438?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-45-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-55e86438?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-45-00 +0000"
+  },
+  {
+    "headline": "Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares",
+    "link": "https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-43-40 +0000"
+  },
+  {
+    "headline": "Ex-college football star Blaise Taylor allegedly pressured girlfriend to get abortion before cocaine poisoning",
+    "link": "https://nypost.com/2026/06/26/us-news/blaise-taylor-allegedly-pressured-girlfriend-to-get-abortion-before-alleged-cocaine-poisoning/",
+    "source": "nypost",
+    "pubdate": "2026-06-26-21-43-21 +0000"
+  },
+  {
+    "headline": "Ultra-wealthy husband and wife founders of Cymbiotika robbed at gunpoint in terrifying home invasion",
+    "link": "https://nypost.com/2026/06/26/business/ultra-wealthy-husband-and-wife-founders-of-cymbiotika-robbed-at-gunpoint-in-cannes-home-invasion/",
+    "source": "nypost",
+    "pubdate": "2026-06-26-21-43-10 +0000"
+  },
+  {
+    "headline": "Opinion | All of Gavin Newsom’s Donors",
+    "link": "https://www.wsj.com/opinion/gavin-newsom-behested-payments-nonprofits-jen-siebel-3e430144",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-42-00 +0000"
+  },
+  {
+    "headline": "Opinion | All of Gavin Newsom’s Donors",
+    "link": "https://www.wsj.com/opinion/gavin-newsom-behested-payments-nonprofits-jen-siebel-3e430144?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-42-00 +0000"
+  },
+  {
+    "headline": "Millions of people who signed up for Affordable Care Act plans this year dropped their coverage after the loss of subsidies drove up costs",
+    "link": "https://www.wsj.com/politics/policy/millions-of-americans-drop-obamacare-plans-after-withdrawal-of-subsidies-3419166e",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-41-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-b53d8d26?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-41-00 +0000"
+  },
+  {
+    "headline": "Virginia Man Sentenced to 40 Years for Setting City Councilman on Fire",
+    "link": "https://www.nytimes.com/2026/06/26/us/virginia-man-sentenced-city-council-member-attacked.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-40-47 +0000"
+  },
+  {
+    "headline": "Possibly 'distracted' lifeguard drives over sunbather in Half Moon Bay, officials say",
+    "link": "https://www.latimes.com/california/story/2026-06-26/possibly-distracted-lifeguard-drives-over-sunbather-in-half-moon-bay",
+    "source": "latimes",
+    "pubdate": "2026-06-26-21-40-26 +0000"
+  },
+  {
+    "headline": "Opinion | Hawaii Can’t Ban Guns by Default",
+    "link": "https://www.wsj.com/opinion/wolford-v-lopez-hawaii-second-amendment-guns-supreme-court-69c9f390",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-40-00 +0000"
+  },
+  {
+    "headline": "As Foreign Aid Arrived, Many Venezuelans Asked: ‘Where is Our Military?’",
+    "link": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-military-response.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-39-04 +0000"
+  },
+  {
+    "headline": "As Foreign Aid Arrived, Many Venezuelans Asked: ‘Where is Our Military?’",
+    "link": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-military-response.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-39-04 +0000"
+  },
+  {
+    "headline": "Opinion | A Senate Advance on Cheaper Weapons",
+    "link": "https://www.wsj.com/opinion/congress-cheaper-weapons-pentagon-military-pete-hegseth-f12871f8",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-39-00 +0000"
+  },
+  {
+    "headline": "Bible stories become required reading for Texas schools",
+    "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-26-21-38-56 +0000"
+  },
+  {
+    "headline": "Opinion | Pritzker Goes on a Junk Tax Spree",
+    "link": "https://www.wsj.com/opinion/illinois-budget-taxes-jb-pritzker-digital-social-media-ac9bad4f",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-38-00 +0000"
+  },
+  {
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-10d9362c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-34-00 +0000"
+  },
+  {
+    "headline": "Squatter who beat Manhattan homeowner to death used terrifying tool in sick attack: prosecutors",
+    "link": "https://nypost.com/2026/06/26/us-news/squatter-who-beat-manhattan-homeowner-to-death-used-terrifying-tool-in-sick-attack-prosecutors/",
+    "source": "nypost",
+    "pubdate": "2026-06-26-21-33-59 +0000"
+  },
+  {
+    "headline": "Israel and Lebanon sign framework agreement after US-brokered talks",
+    "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-26-21-33-34 +0000"
+  },
+  {
+    "headline": "Israel and Lebanon sign framework agreement after US-brokered talks",
+    "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-26-21-33-34 +0000"
+  },
+  {
+    "headline": "Stock Rally Collides With a New Slate of Worries",
+    "link": "https://www.wsj.com/finance/stocks/stock-rally-collides-with-a-new-slate-of-worries-5843a9e0?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-32-00 +0000"
+  },
+  {
+    "headline": "Photos: Venezuela Earthquakes Cause Death and Destruction in Caracas, La Guaira and Beyond",
+    "link": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-31-41 +0000"
+  },
+  {
+    "headline": "US conducts strikes on Iran after attack on cargo ship",
+    "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-26-21-30-59 +0000"
+  },
+  {
+    "headline": "US conducts strikes on Iran after attack on cargo ship",
+    "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-26-21-30-59 +0000"
+  },
+  {
+    "headline": "US conducts strikes on Iran after attack on cargo ship",
+    "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-26-21-30-59 +0000"
+  },
+  {
+    "headline": "🌈 San Francisco Pride 2026, live: The marches, the parties and the parade",
+    "link": "https://missionlocal.org/2026/06/san-francisco-pride-2026-live-updates/",
+    "source": "missionlocal",
+    "pubdate": "2026-06-26-21-30-00 +0000"
+  },
+  {
+    "headline": "Trump threatens 100% tariff on European nations over tech tax",
+    "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-26-21-29-38 +0000"
+  },
+  {
+    "headline": "Opinion | How Immigrants From France Built a Great American Company",
+    "link": "https://www.wsj.com/opinion/how-immigrants-from-france-built-a-great-american-company-07bde1dd",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-27-00 +0000"
+  },
+  {
+    "headline": "Opinion | Ohio Campaign Pits Covid Nightmare vs. the American Dream",
+    "link": "https://www.wsj.com/opinion/ohio-campaign-pits-covid-nightmare-vs-the-american-dream-a25d812d",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-26-00 +0000"
+  },
+  {
+    "headline": "Watch: Native Americans mark 150th anniversary of Little Bighorn victory",
+    "link": "https://www.bbc.co.uk/news/videos/c23yek4g28lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-26-21-25-32 +0000"
+  },
+  {
+    "headline": "A floating convenience store appears in Toronto",
+    "link": "https://www.nytimes.com/2026/06/26/world/canada/world-cup-toronto-convenience-store-rescue.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-24-33 +0000"
+  },
+  {
+    "headline": "A floating convenience store appears in Toronto",
+    "link": "https://www.nytimes.com/2026/06/26/world/canada/world-cup-toronto-convenience-store-rescue.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-24-33 +0000"
+  },
+  {
+    "headline": "Pete Buttigieg briefly separated from children after false police report",
+    "link": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-26-21-24-13 +0000"
+  },
+  {
+    "headline": "Oil Prices Return to Prewar Levels After Four Months",
+    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-23-32 +0000"
+  },
+  {
+    "headline": "Oil Prices Return to Prewar Levels After Four Months",
+    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-23-32 +0000"
+  },
+  {
+    "headline": "Lawmakers Call for Federal Probe of Polymarket Over Deceptive Advertising",
+    "link": "https://www.wsj.com/finance/regulation/lawmakers-call-for-investigation-into-deceptive-advertising-by-polymarket-267e1857?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-22-00 +0000"
+  },
+  {
+    "headline": "Lawmakers Call for Federal Probe of Polymarket Over Deceptive Advertising",
+    "link": "https://www.wsj.com/finance/regulation/lawmakers-call-for-investigation-into-deceptive-advertising-by-polymarket-267e1857?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-26-21-22-00 +0000"
+  },
+  {
+    "headline": "‘Pride Match’ Celebration Proves Awkward for Iran-Egypt Game in Seattle",
+    "link": "https://www.nytimes.com/2026/06/26/us/iran-egypt-pride-match.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-21-51 +0000"
+  },
+  {
+    "headline": "‘Pride Match’ Celebration Proves Awkward for Iran-Egypt Game in Seattle",
+    "link": "https://www.nytimes.com/2026/06/26/us/iran-egypt-pride-match.html",
+    "source": "nyt",
+    "pubdate": "2026-06-26-21-21-51 +0000"
   }
 ]
