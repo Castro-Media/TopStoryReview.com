@@ -1,44 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-06-26-05-46-16 +0000",
+    "score": 19,
+    "pubdate": "2026-06-26-07-33-10 +0000",
+    "source": "bbc",
+    "headline": "Asia stock markets slide as tech shares slump",
+    "link": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-06-26-07-34-37 +0000",
+    "source": "nyt",
+    "headline": "The High School Pipeline to South Korea’s Chip-Making Fortunes",
+    "link": "https://www.nytimes.com/2026/06/26/business/korea-chip-high-school.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-06-26-07-49-13 +0000",
     "source": "nypost",
-    "headline": "Former youth pastor charged with murdering wife 20 years after her fatal ‘fall’ kills himself in jail",
-    "link": "https://nypost.com/2026/06/26/us-news/former-youth-pastor-david-vander-meer-charged-with-murdering-wife-20-years-after-her-fatal-fall-kills-himself-in-jail/"
+    "headline": "Jets super fan who attempted 100K field goal returning to MetLife with World Cup tickets",
+    "link": "https://nypost.com/2026/06/26/sports/jets-super-fan-who-attempted-100k-field-goal-returning-to-metlife-with-world-cup-tickets/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-06-26-07-13-22 +0000",
+    "source": "nypost",
+    "headline": "Florida tattoo shop refuses service to military and veterans for being ‘war criminals’",
+    "link": "https://nypost.com/2026/06/26/us-news/florida-tattoo-shop-revival-tattoo-collective-refuses-service-to-military-and-veterans/"
   },
   {
     "score": 10,
-    "pubdate": "2026-06-26-05-35-12 +0000",
-    "source": "nypost",
-    "headline": "Final words for Florida’s oldest death row inmate executed for wife’s murder revealed",
-    "link": "https://nypost.com/2026/06/26/us-news/final-words-for-floridas-oldest-death-row-inmate-dusty-ray-spencer-executed-for-wifes-murder-revealed/"
+    "pubdate": "2026-06-26-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Energy minister to name 5 priority power-line projects for federal backing today",
+    "link": "https://www.cbc.ca/news/politics/power-lines-interties-tim-hodgson-9.7249567?cmp=rss"
   },
   {
-    "score": 8,
-    "pubdate": "2026-06-26-06-10-27 +0000",
-    "source": "nypost",
-    "headline": "Sab Harbor Whalers ‘can’t complain’ about ideal summer baseball experience",
-    "link": "https://nypost.com/2026/06/26/sports/sab-harbor-whalers-cant-complain-about-ideal-summer-baseball-experience/"
+    "score": 9,
+    "pubdate": "2026-06-26-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Iran and Egypt will headline Seattle's 'Pride Match.' Here's why that's controversial",
+    "link": "https://www.cbc.ca/news/world/pride-match-iran-egypt-world-cup-9.7247001?cmp=rss"
   },
   {
     "score": 7,
-    "pubdate": "2026-06-26-06-02-49 +0000",
-    "source": "nyt",
-    "headline": "Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares",
-    "link": "https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html"
+    "pubdate": "2026-06-26-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Why Europe can't air condition its way out of extreme heat",
+    "link": "https://www.cbc.ca/news/climate/europe-heatwave-air-conditioning-9.7249003?cmp=rss"
   },
   {
-    "score": 6,
-    "pubdate": "2026-06-26-05-28-49 +0000",
-    "source": "nyt",
-    "headline": "Search for Venezuela Quake Survivors Grows More Urgent",
-    "link": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake"
-  },
-  {
-    "score": 5,
-    "pubdate": "2026-06-26-05-49-00 +0000",
+    "score": 7,
+    "pubdate": "2026-06-26-07-58-00 +0000",
     "source": "wsj",
-    "headline": "U.S. Treasury Yields Fall as Oil Prices Decline",
+    "headline": "German Bund Yield Falls to 3.5-Month Low",
     "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-on-possible-position-adjustments-828a68bd?mod=rss_markets_main"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-26-07-56-30 +0000",
+    "source": "nypost",
+    "headline": "Montenegro police, FBI arrest Iranian wanted by US for hacking",
+    "link": "https://nypost.com/2026/06/26/world-news/montenegro-police-fbi-arrest-iranian-wanted-by-us-for-hacking/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-26-07-54-50 +0000",
+    "source": "bbc",
+    "headline": "Home Office plan to use more military bases to house asylum seekers",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjm61lkl4o?at_medium=RSS&at_campaign=rss"
   }
 ]
