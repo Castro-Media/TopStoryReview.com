@@ -1,9 +1,72 @@
 [
   {
-    "score": 6,
-    "pubdate": "2026-06-27-09-35-02 +0000",
+    "score": 27,
+    "pubdate": "2026-06-27-10-48-31 +0000",
+    "source": "nyt",
+    "headline": "Chinese Dissident Who Fled to South Korea by Rubber Boat Lands in Canada",
+    "link": "https://www.nytimes.com/2026/06/27/world/americas/china-dissident-dong-guangping-canada.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-06-27-10-40-38 +0000",
+    "source": "bbc",
+    "headline": "US strikes Iran after attack on cargo ship",
+    "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-06-27-10-48-32 +0000",
+    "source": "nyt",
+    "headline": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
+    "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-27-10-45-42 +0000",
+    "source": "nypost",
+    "headline": "Plane crash at Beijing’s tallest skyscraper kills pilot and injures 13, authorities say",
+    "link": "https://nypost.com/2026/06/27/world-news/pilot-dies-after-plane-crashes-into-beijings-tallest-skyscraper-injuring-13-authorities/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-06-27-11-09-34 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Mideast Hostilities Flare, Testing Fragile U.S.-Iran Truce",
+    "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-27-11-17-21 +0000",
+    "source": "nyt",
+    "headline": "Vague language of U.S.-Iran deal comes back to haunt peace efforts.",
+    "link": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-27-11-00-00 +0000",
+    "source": "missionlocal",
+    "headline": "Serving up a slice of Palestine at Old Jerusalem in the Mission District",
+    "link": "https://missionlocal.org/2026/06/old-jerusalem-restaurant-san-francisco/"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-06-27-10-31-06 +0000",
     "source": "nyt",
     "headline": "Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
     "link": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-06-27-11-02-59 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz/heres-the-latest"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-27-11-02-59 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz/heres-the-latest"
   }
 ]
