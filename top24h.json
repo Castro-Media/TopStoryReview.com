@@ -1,66 +1,52 @@
 [
   {
-    "score": 90,
-    "pubdate": "2026-06-27-13-13-12 +0000",
-    "source": "nyt",
-    "headline": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
-    "link": "https://www.nytimes.com/article/venezuela-earthquakes-death-toll-aid-response.html"
-  },
-  {
-    "score": 71,
-    "pubdate": "2026-06-26-21-52-00 +0000",
+    "score": 86,
+    "pubdate": "2026-06-27-00-52-00 +0000",
     "source": "wsj",
-    "headline": "U.S. Strikes Iran After Its Attack on Ship in Strait of Hormuz",
-    "link": "https://www.wsj.com/arts-culture/books/u-s-strikes-iran-after-its-attack-on-ship-in-strait-of-hormuz-6e798f7b?mod=pls_whats_news_us_business_f"
+    "headline": "Venezuela’s Earthquakes Test Trump’s Bet on Delcy Rodríguez",
+    "link": "https://www.wsj.com/world/americas/venezuelas-earthquakes-test-trumps-bet-on-delcy-rodriguez-38a21056"
   },
   {
-    "score": 59,
-    "pubdate": "2026-06-27-20-34-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump on Saturday announced that he nominated Lance Schroyer, a veteran of Oklahoma law enforcement, to serve as his next director of U.S. Immigration and Customs Enforcement",
-    "link": "https://www.wsj.com/politics/policy/trump-taps-lance-schroyer-as-ice-director-35ec052d"
+    "score": 60,
+    "pubdate": "2026-06-27-17-57-22 +0000",
+    "source": "nypost",
+    "headline": "Ships slowly trickle through Strait of Hormuz as US allies slam Iran’s counter attack",
+    "link": "https://nypost.com/2026/06/27/us-news/ships-slowly-trickle-through-strait-of-hormuz-as-us-allies-slam-iranian-counter-attack/"
   },
   {
-    "score": 53,
-    "pubdate": "2026-06-26-22-23-12 +0000",
-    "source": "missionlocal",
-    "headline": "San Francisco kicks off Pride weekend with World Cup watch party",
-    "link": "https://missionlocal.org/2026/06/san-francisco-pride-world-cup-watch-party/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-06-27-18-00-00 +0000",
-    "source": "wsj",
-    "headline": "South Korea’s New ETFs Are So Risky Investors Have to Take a Test. Can You Pass It?",
-    "link": "https://www.wsj.com/world/asia/south-koreas-new-etfs-are-so-risky-investors-have-to-take-a-test-can-you-pass-it-181b51ef?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 40,
+    "score": 48,
     "pubdate": "2026-06-27-01-00-00 +0000",
     "source": "wsj",
     "headline": "Jack Schlossberg looked like he could be a Kennedy for a time such as this. But what made Schlossberg such a compelling social-media star may also have been a liability for his congressional run.",
     "link": "https://www.wsj.com/politics/elections/jack-schlossberg-kennedy-dynasty-elections-7812c55b"
   },
   {
-    "score": 38,
-    "pubdate": "2026-06-26-21-41-00 +0000",
+    "score": 46,
+    "pubdate": "2026-06-26-22-23-12 +0000",
+    "source": "missionlocal",
+    "headline": "San Francisco kicks off Pride weekend with World Cup watch party",
+    "link": "https://missionlocal.org/2026/06/san-francisco-pride-world-cup-watch-party/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-06-27-18-00-00 +0000",
     "source": "wsj",
-    "headline": "Millions of people who signed up for Affordable Care Act plans this year dropped their coverage after the loss of subsidies drove up costs",
-    "link": "https://www.wsj.com/politics/policy/millions-of-americans-drop-obamacare-plans-after-withdrawal-of-subsidies-3419166e"
+    "headline": "South Korea’s New ETFs Are So Risky Investors Have to Take a Test. Can You Pass It?",
+    "link": "https://www.wsj.com/world/asia/south-koreas-new-etfs-are-so-risky-investors-have-to-take-a-test-can-you-pass-it-181b51ef?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 34,
-    "pubdate": "2026-06-27-06-07-03 +0000",
-    "source": "nyt",
-    "headline": "Dan Sullivan Can Join Dan Sullivan on Alaska Senate Ballot, Judge Says",
-    "link": "https://www.nytimes.com/2026/06/27/us/politics/dan-sullivan-alaska-senate.html"
-  },
-  {
-    "score": 31,
+    "score": 39,
     "pubdate": "2026-06-27-00-18-08 +0000",
     "source": "nyt",
     "headline": "Convicted Rapist Who Fled to Scotland and Faked His Own Death Dies in Utah",
     "link": "https://www.nytimes.com/2026/06/26/us/nicholas-rossi-fugitive-rape-death.html"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-06-27-06-07-03 +0000",
+    "source": "nyt",
+    "headline": "Dan Sullivan Can Join Dan Sullivan on Alaska Senate Ballot, Judge Says",
+    "link": "https://www.nytimes.com/2026/06/27/us/politics/dan-sullivan-alaska-senate.html"
   },
   {
     "score": 30,
@@ -68,5 +54,19 @@
     "source": "nyt",
     "headline": "Earthquake Tests Growing Ties Between U.S. and Venezuela",
     "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-venezuela-earthquake-aid.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-06-27-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "When Did Having Fun Get So Expensive? The Summer When ‘Funflation’ Went Wild",
+    "link": "https://www.wsj.com/business/media/entertainment-events-inflation-demand-479c43a8?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-06-27-20-34-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump on Saturday announced that he nominated Lance Schroyer, a veteran of Oklahoma law enforcement, to serve as his next director of U.S. Immigration and Customs Enforcement",
+    "link": "https://www.wsj.com/politics/policy/trump-taps-lance-schroyer-as-ice-director-35ec052d"
   }
 ]
