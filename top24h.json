@@ -1,20 +1,20 @@
 [
   {
-    "score": 128,
+    "score": 121,
     "pubdate": "2026-06-26-16-15-31 +0000",
     "source": "nypost",
     "headline": "Trump says Iran violated cease-fire agreement with ‘foolish’ drone attack in Strait of Hormuz",
     "link": "https://nypost.com/2026/06/26/world-news/trump-iran-violated-ceasefire-with-foolish-strait-of-hormuz-drone-attack/"
   },
   {
-    "score": 94,
+    "score": 89,
     "pubdate": "2026-06-27-09-07-29 +0000",
     "source": "nyt",
     "headline": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
     "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html"
   },
   {
-    "score": 74,
+    "score": 69,
     "pubdate": "2026-06-26-14-08-20 +0000",
     "source": "nypost",
     "headline": "Gov. Gavin Newsom declares war on America’s billionaires while bizarrely opposing California wealth tax",
@@ -28,7 +28,7 @@
     "link": "https://missionlocal.org/2026/06/san-francisco-pride-world-cup-watch-party/"
   },
   {
-    "score": 63,
+    "score": 61,
     "pubdate": "2026-06-26-17-11-00 +0000",
     "source": "wsj",
     "headline": "President Trump threatened to greatly increase tariffs on European nations if they follow through on plans to impose new taxes on U.S. tech companies",
@@ -42,13 +42,6 @@
     "link": "https://nypost.com/2026/06/27/media/bill-maher-tells-vance-his-2028-vote-is-in-play-as-he-rips-key-dems-for-refusing-to-appear-on-his-show/"
   },
   {
-    "score": 51,
-    "pubdate": "2026-06-26-21-41-00 +0000",
-    "source": "wsj",
-    "headline": "Millions of people who signed up for Affordable Care Act plans this year dropped their coverage after the loss of subsidies drove up costs",
-    "link": "https://www.wsj.com/politics/policy/millions-of-americans-drop-obamacare-plans-after-withdrawal-of-subsidies-3419166e"
-  },
-  {
     "score": 49,
     "pubdate": "2026-06-26-17-11-00 +0000",
     "source": "wsj",
@@ -56,17 +49,24 @@
     "link": "https://www.wsj.com/us-news/law/john-bolton-pleads-guilty-to-retaining-national-defense-information-27bc7260"
   },
   {
-    "score": 49,
-    "pubdate": "2026-06-27-01-00-00 +0000",
+    "score": 48,
+    "pubdate": "2026-06-26-21-41-00 +0000",
     "source": "wsj",
-    "headline": "Jack Schlossberg looked like he could be a Kennedy for a time such as this. But what made Schlossberg such a compelling social-media star may also have been a liability for his congressional run.",
-    "link": "https://www.wsj.com/politics/elections/jack-schlossberg-kennedy-dynasty-elections-7812c55b"
+    "headline": "Millions of people who signed up for Affordable Care Act plans this year dropped their coverage after the loss of subsidies drove up costs",
+    "link": "https://www.wsj.com/politics/policy/millions-of-americans-drop-obamacare-plans-after-withdrawal-of-subsidies-3419166e"
   },
   {
-    "score": 48,
+    "score": 47,
     "pubdate": "2026-06-26-13-28-15 +0000",
     "source": "nyt",
     "headline": "Psychiatrist Who Killed Six at German Christmas Market Is Jailed for Life",
     "link": "https://www.nytimes.com/2026/06/26/world/europe/germany-christmas-market-doctor.html"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-06-27-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Jack Schlossberg looked like he could be a Kennedy for a time such as this. But what made Schlossberg such a compelling social-media star may also have been a liability for his congressional run.",
+    "link": "https://www.wsj.com/politics/elections/jack-schlossberg-kennedy-dynasty-elections-7812c55b"
   }
 ]
