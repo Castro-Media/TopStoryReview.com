@@ -1,31 +1,24 @@
 [
   {
-    "score": 124,
+    "score": 121,
     "pubdate": "2026-06-26-16-15-31 +0000",
     "source": "nypost",
     "headline": "Trump says Iran violated cease-fire agreement with ‘foolish’ drone attack in Strait of Hormuz",
     "link": "https://nypost.com/2026/06/26/world-news/trump-iran-violated-ceasefire-with-foolish-strait-of-hormuz-drone-attack/"
   },
   {
-    "score": 88,
+    "score": 87,
     "pubdate": "2026-06-27-10-48-32 +0000",
     "source": "nyt",
     "headline": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
     "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html"
   },
   {
-    "score": 69,
+    "score": 68,
     "pubdate": "2026-06-26-14-08-20 +0000",
     "source": "nypost",
     "headline": "Gov. Gavin Newsom declares war on America’s billionaires while bizarrely opposing California wealth tax",
     "link": "https://nypost.com/2026/06/26/us-news/gov-gavin-newsom-calls-for-national-billionaires-tax/"
-  },
-  {
-    "score": 64,
-    "pubdate": "2026-06-26-22-23-12 +0000",
-    "source": "missionlocal",
-    "headline": "San Francisco kicks off Pride weekend with World Cup watch party",
-    "link": "https://missionlocal.org/2026/06/san-francisco-pride-world-cup-watch-party/"
   },
   {
     "score": 61,
@@ -33,6 +26,13 @@
     "source": "wsj",
     "headline": "President Trump threatened to greatly increase tariffs on European nations if they follow through on plans to impose new taxes on U.S. tech companies",
     "link": "https://www.wsj.com/politics/policy/trump-threatens-100-tariff-on-european-countries-that-impose-digital-services-tax-b642d12e"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-06-26-22-23-12 +0000",
+    "source": "missionlocal",
+    "headline": "San Francisco kicks off Pride weekend with World Cup watch party",
+    "link": "https://missionlocal.org/2026/06/san-francisco-pride-world-cup-watch-party/"
   },
   {
     "score": 59,
@@ -56,17 +56,17 @@
     "link": "https://www.wsj.com/politics/policy/millions-of-americans-drop-obamacare-plans-after-withdrawal-of-subsidies-3419166e"
   },
   {
-    "score": 48,
-    "pubdate": "2026-06-27-10-48-31 +0000",
-    "source": "nyt",
-    "headline": "Chinese Dissident Who Fled to South Korea by Rubber Boat Lands in Canada",
-    "link": "https://www.nytimes.com/2026/06/27/world/americas/china-dissident-dong-guangping-canada.html"
-  },
-  {
-    "score": 48,
+    "score": 47,
     "pubdate": "2026-06-26-16-26-28 +0000",
     "source": "nypost",
     "headline": "Ex-’60 Minutes’ boss Bill Owens blasts Paramount, CBS News leaders in tell-all: ‘Worst-run media company in the history of America’",
     "link": "https://nypost.com/2026/06/26/media/ex-60-minutes-boss-bill-owens-blasts-paramount-cbs-news-leaders-in-new-memoir-worst-run-media-company-in-the-history-of-america/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-06-27-10-48-31 +0000",
+    "source": "nyt",
+    "headline": "Chinese Dissident Who Fled to South Korea by Rubber Boat Lands in Canada",
+    "link": "https://www.nytimes.com/2026/06/27/world/americas/china-dissident-dong-guangping-canada.html"
   }
 ]
