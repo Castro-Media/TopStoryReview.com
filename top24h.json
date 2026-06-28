@@ -8,31 +8,17 @@
   },
   {
     "score": 75,
-    "pubdate": "2026-06-27-15-00-48 +0000",
+    "pubdate": "2026-06-27-21-01-57 +0000",
     "source": "nypost",
-    "headline": "Miracle baby born on street beside earthquake ruins gives new hope to ravaged Venezuela",
-    "link": "https://nypost.com/2026/06/27/world-news/miracle-baby-born-on-sideline-of-collapsed-building-in-venezuela/"
+    "headline": "Venezuela earthquake death toll tops 1,400 — with rising soccer stars with dreams of playing on national team confirmed dead",
+    "link": "https://nypost.com/2026/06/27/world-news/venezuela-death-toll-tops-1400-with-rising-soccer-stars-found-in-rubble/"
   },
   {
-    "score": 60,
-    "pubdate": "2026-06-28-03-35-08 +0000",
-    "source": "startribune",
-    "headline": "US airstrikes again hit Iran as Tehran strikes Bahrain and Kuwait, further imperiling interim deal",
-    "link": "https://www.startribune.com/bahrain-accuses-iran-of-launching-a-drone-attack-targeting-the-island-kingdom/601862255"
-  },
-  {
-    "score": 45,
-    "pubdate": "2026-06-27-14-50-48 +0000",
-    "source": "nypost",
-    "headline": "World Cup criminals cheated desperate fans out of $1.7M, held one customer at gunpoint",
-    "link": "https://nypost.com/2026/06/27/world-news/world-cup-scammers-cheat-desperate-fans-out-of-1-7-million/"
-  },
-  {
-    "score": 37,
-    "pubdate": "2026-06-27-12-02-42 +0000",
-    "source": "nypost",
-    "headline": "Mamdani’s primary sweep, Schumer’s flagging power, could spur AOC White House bid: insiders",
-    "link": "https://nypost.com/2026/06/27/us-news/mamdanis-sweep-in-house-primaries-could-spur-aoc-white-house-bid-insiders/"
+    "score": 67,
+    "pubdate": "2026-06-28-07-53-00 +0000",
+    "source": "wsj",
+    "headline": "U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire",
+    "link": "https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8"
   },
   {
     "score": 36,
@@ -43,30 +29,44 @@
   },
   {
     "score": 35,
+    "pubdate": "2026-06-27-14-50-48 +0000",
+    "source": "nypost",
+    "headline": "World Cup criminals cheated desperate fans out of $1.7M, held one customer at gunpoint",
+    "link": "https://nypost.com/2026/06/27/world-news/world-cup-scammers-cheat-desperate-fans-out-of-1-7-million/"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-06-27-12-02-42 +0000",
+    "source": "nypost",
+    "headline": "Mamdani’s primary sweep, Schumer’s flagging power, could spur AOC White House bid: insiders",
+    "link": "https://nypost.com/2026/06/27/us-news/mamdanis-sweep-in-house-primaries-could-spur-aoc-white-house-bid-insiders/"
+  },
+  {
+    "score": 34,
     "pubdate": "2026-06-28-00-53-00 +0000",
     "source": "wsj",
     "headline": "President Trump on Saturday announced that he nominated Lance Schroyer, a veteran of Oklahoma law enforcement, to serve as his next director of U.S. Immigration and Customs Enforcement",
     "link": "https://www.wsj.com/politics/policy/trump-taps-lance-schroyer-as-ice-director-35ec052d"
   },
   {
-    "score": 34,
-    "pubdate": "2026-06-28-07-22-05 +0000",
+    "score": 31,
+    "pubdate": "2026-06-27-21-39-15 +0000",
+    "source": "bbc",
+    "headline": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
+    "link": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-06-28-01-02-02 +0000",
     "source": "nyt",
-    "headline": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
-    "link": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html"
+    "headline": "Chinese Dissident Who Fled by Sea to South Korea Lands in Canada",
+    "link": "https://www.nytimes.com/2026/06/27/world/americas/china-dissident-dong-guangping-canada.html"
   },
   {
-    "score": 33,
-    "pubdate": "2026-06-27-18-00-00 +0000",
-    "source": "wsj",
-    "headline": "South Korea’s New ETFs Are So Risky Investors Have to Take a Test. Can You Pass It?",
-    "link": "https://www.wsj.com/world/asia/south-koreas-new-etfs-are-so-risky-investors-have-to-take-a-test-can-you-pass-it-181b51ef"
-  },
-  {
-    "score": 29,
-    "pubdate": "2026-06-27-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Truck parking lot plans near Port of Los Angeles spark backlash among residents",
-    "link": "https://www.latimes.com/business/story/2026-06-27/communities-officials-clash-over-proposed-truck-parking-lot-near-port-of-los-angeles"
+    "score": 28,
+    "pubdate": "2026-06-28-03-35-08 +0000",
+    "source": "startribune",
+    "headline": "US airstrikes again hit Iran as Tehran strikes Bahrain and Kuwait, further imperiling interim deal",
+    "link": "https://www.startribune.com/bahrain-accuses-iran-of-launching-a-drone-attack-targeting-the-island-kingdom/601862255"
   }
 ]
