@@ -1,6 +1,6 @@
 [
   {
-    "score": 80,
+    "score": 79,
     "pubdate": "2026-06-28-02-37-00 +0000",
     "source": "wsj",
     "headline": "Rep. Julia Letlow won a hard-fought GOP Senate runoff in Louisiana, defeating state Treasurer John Fleming in the contest to succeed Sen. Bill Cassidy, who had run afoul of President Trump",
@@ -14,14 +14,14 @@
     "link": "https://nypost.com/2026/06/27/world-news/venezuela-death-toll-tops-1400-with-rising-soccer-stars-found-in-rubble/"
   },
   {
-    "score": 65,
+    "score": 63,
     "pubdate": "2026-06-28-07-53-00 +0000",
     "source": "wsj",
     "headline": "U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire",
     "link": "https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8"
   },
   {
-    "score": 47,
+    "score": 46,
     "pubdate": "2026-06-28-10-28-44 +0000",
     "source": "nypost",
     "headline": "AOC says Congress should break up Apple amid looming price hikes for MacBooks and iPhones",
@@ -49,18 +49,11 @@
     "link": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 33,
-    "pubdate": "2026-06-27-12-02-42 +0000",
-    "source": "nypost",
-    "headline": "Mamdani’s primary sweep, Schumer’s flagging power, could spur AOC White House bid: insiders",
-    "link": "https://nypost.com/2026/06/27/us-news/mamdanis-sweep-in-house-primaries-could-spur-aoc-white-house-bid-insiders/"
-  },
-  {
     "score": 32,
-    "pubdate": "2026-06-27-21-35-40 +0000",
-    "source": "bbc",
-    "headline": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-06-27-21-44-34 +0000",
+    "source": "nypost",
+    "headline": "Hezbollah threatens to blow up Lebanon-Israel peace framework as protests grip Beirut",
+    "link": "https://nypost.com/2026/06/27/world-news/hezbollah-threatens-to-blow-up-lebanon-israel-peace-framework-as-protests-grip-beirut/"
   },
   {
     "score": 31,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Chinese Dissident Who Fled by Sea to South Korea Lands in Canada",
     "link": "https://www.nytimes.com/2026/06/27/world/americas/china-dissident-dong-guangping-canada.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-06-27-22-15-42 +0000",
+    "source": "nyt",
+    "headline": "A Sculptor Rushes to Finish a Lionel Messi Statue During the World Cup",
+    "link": "https://www.nytimes.com/2026/06/27/world/americas/lionel-messi-argentina-statue.html"
   }
 ]
