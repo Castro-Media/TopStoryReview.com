@@ -1,9 +1,111 @@
 [
   {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-28-11-24-11 +0000"
+  },
+  {
+    "headline": "How Polymarket Traders Revolted Over One Silly Syllable",
+    "link": "https://www.nytimes.com/2026/06/28/business/donk-polymarket-prediction-markets.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-11-19-37 +0000"
+  },
+  {
     "headline": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
     "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
     "source": "nyt",
-    "pubdate": "2026-06-28-09-46-01 +0000"
+    "pubdate": "2026-06-28-11-15-50 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-28-11-02-04 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-28-11-02-04 +0000"
+  },
+  {
+    "headline": "People We Meet: Megan Prelinger, SoMa’s archivist of possibility",
+    "link": "https://missionlocal.org/2026/06/people-we-meet-megan-prelinger-soma/",
+    "source": "missionlocal",
+    "pubdate": "2026-06-28-11-00-00 +0000"
+  },
+  {
+    "headline": "AOC says Congress should break up Apple amid looming price hikes for MacBooks and iPhones",
+    "link": "https://nypost.com/2026/06/28/us-news/aoc-says-congress-should-break-up-apple-amid-looming-price-hikes-for-macbooks-and-iphones/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-10-28-44 +0000"
+  },
+  {
+    "headline": "AOC says Congress should break up Apple amid looming price hikes for MacBooks and iPhones",
+    "link": "https://nypost.com/2026/06/28/us-news/aoc-says-congress-should-break-up-apple-amid-looming-price-hikes-for-macbooks-and-iphones/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-10-28-44 +0000"
+  },
+  {
+    "headline": "AOC says Congress should break up Apple amid looming price hikes for MacBooks and iPhones",
+    "link": "https://nypost.com/2026/06/28/us-news/aoc-says-congress-should-break-up-apple-amid-looming-price-hikes-for-macbooks-and-iphones/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-10-28-44 +0000"
+  },
+  {
+    "headline": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+    "link": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-10-26-19 +0000"
+  },
+  {
+    "headline": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+    "link": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-10-26-19 +0000"
+  },
+  {
+    "headline": "Uganda's leading media outlets shut down by army chief",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-10-11-35 +0000"
+  },
+  {
+    "headline": "Uganda's leading media outlets shut down by army chief",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-10-11-35 +0000"
+  },
+  {
+    "headline": "High interest rates and a chronic shortage of inventory have pushed the U.S. housing market to a breaking point. In this podcast series, we examine the strategies emerging to solve the country’s housing shortfall.",
+    "link": "https://www.wsj.com/economy/housing/how-to-solve-the-housing-crisis-everyone-has-an-idea-837bbe40",
+    "source": "wsj",
+    "pubdate": "2026-06-28-10-08-00 +0000"
+  },
+  {
+    "headline": "Four Black women. Nine degrees. Not one steady paycheck.",
+    "link": "https://www.washingtonpost.com/nation/2026/06/28/why-black-college-graduates-are-struggling-find-jobs-trumps-economy/",
+    "source": "wapo",
+    "pubdate": "2026-06-28-10-00-01 +0000"
+  },
+  {
+    "headline": "Four Black women. Nine degrees. Not one steady paycheck.",
+    "link": "https://www.washingtonpost.com/nation/2026/06/28/why-black-college-graduates-are-struggling-find-jobs-trumps-economy/",
+    "source": "wapo",
+    "pubdate": "2026-06-28-10-00-01 +0000"
+  },
+  {
+    "headline": "Costs of Iran war will linger despite conflict's end, experts say",
+    "link": "https://www.latimes.com/politics/story/2026-06-28/costs-of-iran-war-will-linger-despite-conflicts-end-experts-say",
+    "source": "latimes",
+    "pubdate": "2026-06-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Swipeless online dating? How AI is reshaping the search for love",
+    "link": "https://www.latimes.com/business/story/2026-06-28/swipeless-online-dating-how-ai-is-reshaping-search-for-love",
+    "source": "latimes",
+    "pubdate": "2026-06-28-10-00-00 +0000"
   },
   {
     "headline": "Foreign rescuers in Venezuela battle debris, scarcity of supplies and time.",
@@ -18,38 +120,14 @@
     "pubdate": "2026-06-28-09-44-41 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-28-09-39-31 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-28-09-39-31 +0000"
-  },
-  {
     "headline": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
     "link": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html",
     "source": "nyt",
     "pubdate": "2026-06-28-09-39-19 +0000"
   },
   {
-    "headline": "As Trump Cut a Billion-Dollar Mining Deal, His Sons Stand to Profit",
-    "link": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
-    "source": "nyt",
-    "pubdate": "2026-06-28-09-39-19 +0000"
-  },
-  {
     "headline": "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
     "link": "https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-06-28-09-39-19 +0000"
-  },
-  {
-    "headline": "As Trump Cut a Billion-Dollar Mining Deal, His Sons Stand to Profit",
-    "link": "https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html",
     "source": "nyt",
     "pubdate": "2026-06-28-09-39-19 +0000"
   },
@@ -156,12 +234,6 @@
     "pubdate": "2026-06-28-09-00-15 +0000"
   },
   {
-    "headline": "How Polymarket Traders Revolted Over One Silly Syllable",
-    "link": "https://www.nytimes.com/2026/06/28/business/donk-polymarket-prediction-markets.html",
-    "source": "nyt",
-    "pubdate": "2026-06-28-09-00-13 +0000"
-  },
-  {
     "headline": "European soccer fans enjoy a brief fling with America’s air-conditioned culture",
     "link": "https://www.washingtonpost.com/nation/2026/06/28/european-soccer-fans-enjoy-brief-fling-with-americas-air-conditioned-culture/",
     "source": "wapo",
@@ -190,6 +262,12 @@
     "link": "https://www.washingtonpost.com/world/2026/06/27/clashes-test-us-iran-ceasefire-bahrain-tanker-report-attacks/",
     "source": "wapo",
     "pubdate": "2026-06-28-08-05-07 +0000"
+  },
+  {
+    "headline": "South Africa look to lay ghosts of 2010 to rest",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2dpwpv1ypo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-08-00-40 +0000"
   },
   {
     "headline": "Why is it so much easier to ditch a prime minister in the U.K. than in Canada?",
@@ -438,7 +516,7 @@
     "pubdate": "2026-06-28-01-57-41 +0000"
   },
   {
-    "headline": "Bad Bunny: Latin star lights up London with history-making stadium show",
+    "headline": "Bad Bunny lights up London with history-making stadium show",
     "link": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-28-01-46-24 +0000"
@@ -612,6 +690,12 @@
     "pubdate": "2026-06-28-00-06-19 +0000"
   },
   {
+    "headline": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+    "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-00-06-19 +0000"
+  },
+  {
     "headline": "News of the World: What you missed this week internationally",
     "link": "https://nypost.com/2026/06/27/world-news/news-of-the-world-june-27-2026/",
     "source": "nypost",
@@ -681,19 +765,13 @@
     "headline": "12 Hours With Venezuelan Doctors Searching for Earthquake Survivors",
     "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuela-earthquakes-doctors-rescues.html",
     "source": "nyt",
-    "pubdate": "2026-06-27-23-20-02 +0000"
+    "pubdate": "2026-06-27-23-20-03 +0000"
   },
   {
     "headline": "12 Hours With Venezuelan Doctors Searching for Earthquake Survivors",
     "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuela-earthquakes-doctors-rescues.html",
     "source": "nyt",
     "pubdate": "2026-06-27-23-20-02 +0000"
-  },
-  {
-    "headline": "Beachside horror as lifeguard in pickup truck drives over sunbather as witnesses look on",
-    "link": "https://nypost.com/2026/06/27/us-news/woman-run-over-by-lifeguard-vehicle-at-half-moon-bay-state-beach/",
-    "source": "nypost",
-    "pubdate": "2026-06-27-23-15-58 +0000"
   },
   {
     "headline": "A Rush of Volunteers in Venezuela Has Slowed Rescue Efforts",
@@ -742,6 +820,12 @@
     "link": "https://nypost.com/2026/06/27/us-news/hakeem-jeffries-slammed-for-embracing-mamdani-backed-candidates-with-open-arms-after-dem-primary-sweep/",
     "source": "nypost",
     "pubdate": "2026-06-27-22-45-15 +0000"
+  },
+  {
+    "headline": "Australia to double maximum penalty for platforms in breach of social media ban",
+    "link": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-27-22-34-11 +0000"
   },
   {
     "headline": "Michigan Couple Are Charged With Murder After Death of Morbidly Obese Son",
@@ -1568,12 +1652,6 @@
   {
     "headline": "Why One of Tech’s Biggest Gamblers Is Betting Against Elon Musk’s AI Vision",
     "link": "https://www.wsj.com/tech/why-one-of-techs-biggest-gamblers-is-betting-against-elon-musks-ai-vision-7529f5c2?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-27-09-30-00 +0000"
-  },
-  {
-    "headline": "Josh D’Amaro Is 100 Days Into His Mission to Make Disney Faster and Fiercer",
-    "link": "https://www.wsj.com/business/media/disney-ceo-josh-damaro-100-days-0b98897f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-06-27-09-30-00 +0000"
   },
@@ -2466,12 +2544,6 @@
     "pubdate": "2026-06-26-20-32-02 +0000"
   },
   {
-    "headline": "Bible stories approved as required reading across Texas public schools: state education board",
-    "link": "https://nypost.com/2026/06/26/us-news/bible-stories-approved-as-required-reading-across-texas-public-schools-state-education-board-says/",
-    "source": "nypost",
-    "pubdate": "2026-06-26-20-21-14 +0000"
-  },
-  {
     "headline": "OpenAI restricts release of newest ChatGPT model to Trump-approved group during testing period",
     "link": "https://www.cbc.ca/news/business/openai-restricted-release-chatgpt-5-6-sol-9.7250706?cmp=rss",
     "source": "cbc",
@@ -2868,12 +2940,6 @@
     "pubdate": "2026-06-26-16-55-00 +0000"
   },
   {
-    "headline": "Tanzania suspends political rallies three years after lifting ban",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vp83grpdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-26-16-48-00 +0000"
-  },
-  {
     "headline": "The Netherlands Records Its First Assisted Death of a Child Between 1 and 12",
     "link": "https://www.nytimes.com/2026/06/26/world/europe/assisted-death-child-netherlands.html",
     "source": "nyt",
@@ -2974,12 +3040,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6219yym2g1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-26-15-40-13 +0000"
-  },
-  {
-    "headline": "Four men held over child marriage in Sierra Leone appear in landmark court case",
-    "link": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-26-15-34-39 +0000"
   },
   {
     "headline": "The Nationwide Backlash Against Cameras Watching Your Car",
@@ -3370,12 +3430,6 @@
     "link": "https://www.wsj.com/world/asia/south-korea-to-train-all-active-duty-soldiers-to-operate-drones-28ddcceb",
     "source": "wsj",
     "pubdate": "2026-06-26-10-24-00 +0000"
-  },
-  {
-    "headline": "High interest rates and a chronic shortage of inventory have pushed the U.S. housing market to a breaking point. In this podcast series, we examine the strategies emerging to solve the country’s housing shortfall.",
-    "link": "https://www.wsj.com/economy/housing/how-to-solve-the-housing-crisis-everyone-has-an-idea-837bbe40",
-    "source": "wsj",
-    "pubdate": "2026-06-26-10-16-00 +0000"
   },
   {
     "headline": "Ryanair Stops Charging for Parents to Sit With Their Children",
@@ -4170,12 +4224,6 @@
     "pubdate": "2026-06-25-19-52-57 +0000"
   },
   {
-    "headline": "Bank of Mexico Leaves Benchmark Interest Rate Unchanged",
-    "link": "https://www.wsj.com/economy/central-banking/bank-of-mexico-leaves-benchmark-interest-rate-unchanged-052b377e",
-    "source": "wsj",
-    "pubdate": "2026-06-25-19-51-00 +0000"
-  },
-  {
     "headline": "Mission Buzz: SFMTA extends closures on Capp and Shotwell, CARECEN has a new home",
     "link": "https://missionlocal.org/2026/06/sfmta-extends-closures-on-capp-and-shotwell/",
     "source": "missionlocal",
@@ -4362,12 +4410,6 @@
     "pubdate": "2026-06-25-17-14-16 +0000"
   },
   {
-    "headline": "Driver Plows Into Crowd of World Cup Fans in Mexico, Authorities Say",
-    "link": "https://www.nytimes.com/2026/06/25/world/americas/car-ramming-mexico-world-cup-cabo-san-lucas.html",
-    "source": "nyt",
-    "pubdate": "2026-06-25-17-14-06 +0000"
-  },
-  {
     "headline": "Carney to announce fundraising campaign, design competition to restore 24 Sussex: source",
     "link": "https://www.cbc.ca/news/politics/carney-24-sussex-fundraising-campaign-9.7248816?cmp=rss",
     "source": "cbc",
@@ -4530,12 +4572,6 @@
     "pubdate": "2026-06-25-14-49-39 +0000"
   },
   {
-    "headline": "Apple hikes prices by as much as $500 due to memory chip shortage – here are the products getting hit",
-    "link": "https://nypost.com/2026/06/25/business/apple-hikes-macbook-ipad-prices-due-to-memory-chip-shortage-here-are-the-products-getting-hit/",
-    "source": "nypost",
-    "pubdate": "2026-06-25-14-48-37 +0000"
-  },
-  {
     "headline": "Martin Leibowitz, a Math Whiz Who Transformed Bond Investing, Dies at Age 89",
     "link": "https://www.wsj.com/finance/investing/martin-leibowitz-dies-63eda49f?mod=rss_markets_main",
     "source": "wsj",
@@ -4694,6 +4730,12 @@
   {
     "headline": "M.B.A. Pay Is Drifting Down—and So Is Demand for the Degree",
     "link": "https://www.wsj.com/lifestyle/careers/m-b-a-pay-is-drifting-downand-so-is-demand-for-the-degree-e8fa692e",
+    "source": "wsj",
+    "pubdate": "2026-06-25-12-00-00 +0000"
+  },
+  {
+    "headline": "M.B.A. Pay Is Drifting Down—and So Is Demand for the Degree",
+    "link": "https://www.wsj.com/lifestyle/careers/m-b-a-pay-is-drifting-downand-so-is-demand-for-the-degree-e8fa692e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-06-25-12-00-00 +0000"
   },
@@ -6084,14 +6126,14 @@
     "pubdate": "2026-06-23-10-00-00 +0000"
   },
   {
-    "headline": "If AI data centers are exploding nationwide, why are so few being built in California?",
-    "link": "https://www.latimes.com/environment/story/2026-06-23/other-anti-data-center-movement-californias-electricity-prices",
+    "headline": "Hiltzik: How the coming AI-related IPOs could puncture the AI bubble",
+    "link": "https://www.latimes.com/business/story/2026-06-23/how-the-coming-ai-related-ipos-could-puncture-ai-bubble",
     "source": "latimes",
     "pubdate": "2026-06-23-10-00-00 +0000"
   },
   {
-    "headline": "Hiltzik: How the coming AI-related IPOs could puncture the AI bubble",
-    "link": "https://www.latimes.com/business/story/2026-06-23/how-the-coming-ai-related-ipos-could-puncture-ai-bubble",
+    "headline": "If AI data centers are exploding nationwide, why are so few being built in California?",
+    "link": "https://www.latimes.com/environment/story/2026-06-23/other-anti-data-center-movement-californias-electricity-prices",
     "source": "latimes",
     "pubdate": "2026-06-23-10-00-00 +0000"
   },
@@ -6400,12 +6442,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-06-22-13-54-20 +0000"
-  },
-  {
-    "headline": "Glitter!!",
-    "link": "https://missionlocal.org/2026/06/glitter/",
-    "source": "missionlocal",
-    "pubdate": "2026-06-22-13-00-00 +0000"
   },
   {
     "headline": "Alan Greenspan, longtime head of the Federal Reserve, dies at 100",
