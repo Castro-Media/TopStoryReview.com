@@ -1,14 +1,44 @@
 [
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest",
+    "headline": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
     "source": "nyt",
-    "pubdate": "2026-06-28-11-24-11 +0000"
+    "pubdate": "2026-06-28-13-00-18 +0000"
   },
   {
-    "headline": "How Polymarket Traders Revolted Over One Silly Syllable",
-    "link": "https://www.nytimes.com/2026/06/28/business/donk-polymarket-prediction-markets.html",
+    "headline": "Love, fate, destiny",
+    "link": "https://missionlocal.org/2026/06/love-fate-destiny/",
+    "source": "missionlocal",
+    "pubdate": "2026-06-28-13-00-00 +0000"
+  },
+  {
+    "headline": "Eleven killed after plane carrying skydivers crashes in eastern France",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-12-51-59 +0000"
+  },
+  {
+    "headline": "Smiling sisters Cookie and Kitty charged with butchering mom of 5 in vicious broad daylight attack",
+    "link": "https://nypost.com/2026/06/28/us-news/texas-sisters-charged-with-stabbing-mom-of-5-to-death/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-12-49-46 +0000"
+  },
+  {
+    "headline": "France records 1,000 excess deaths in record-breaking European heat wave",
+    "link": "https://nypost.com/2026/06/28/world-news/france-records-1000-excess-deaths-in-record-breaking-european-heat-wave/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-12-47-36 +0000"
+  },
+  {
+    "headline": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+    "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-12-39-41 +0000"
+  },
+  {
+    "headline": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
     "source": "nyt",
-    "pubdate": "2026-06-28-11-19-37 +0000"
+    "pubdate": "2026-06-28-12-28-53 +0000"
   }
 ]
