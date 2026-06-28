@@ -1,15 +1,255 @@
 [
   {
+    "headline": "Advertisers Are Good at Getting Human Attention. Can They Stand Out to A.I.?",
+    "link": "https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-16-11-21 +0000"
+  },
+  {
+    "headline": "Poilievre asks Parliament to probe B.C. 'condo bailout,' says it's blocking 'a price correction'",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/poilievre-parliament-condo-bailout-9.7251901?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-28-16-07-48 +0000"
+  },
+  {
+    "headline": "Disturbing new claims against NYC teacher accused of ‘suffocating’ third grader after $18M sex abuse verdict",
+    "link": "https://nypost.com/2026/06/28/us-news/new-claims-against-nyc-teacher-accused-of-suffocating-third-grader-after-18m-sex-abuse-verdict/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-16-00-40 +0000"
+  },
+  {
+    "headline": "Uncle Sam is slated to fork over more money than ever to help ease American farmers’ economic woes",
+    "link": "https://www.wsj.com/politics/policy/a-55-billion-safety-net-government-tab-to-prop-up-american-farms-is-rising-67dc6634",
+    "source": "wsj",
+    "pubdate": "2026-06-28-16-00-00 +0000"
+  },
+  {
+    "headline": "A $55 Billion Safety Net? Government Tab to Prop Up American Farms Is Rising",
+    "link": "https://www.wsj.com/politics/policy/a-55-billion-safety-net-government-tab-to-prop-up-american-farms-is-rising-67dc6634?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-28-16-00-00 +0000"
+  },
+  {
+    "headline": "Deadly Wine Country crash sees driver smash into tour bus before both erupt in flames",
+    "link": "https://nypost.com/2026/06/28/us-news/deadly-wine-country-crash-sees-driver-smash-into-tour-bus-before-both-erupt-in-flames/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-59-21 +0000"
+  },
+  {
+    "headline": "Stalker kills popular Colombian influencer, stuffs body in suitcase — then tries to use World Cup alibi: cops, outlet",
+    "link": "https://nypost.com/2026/06/28/world-news/stalker-kills-colombian-influencer-stuffs-body-in-suitcase-cops/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-56-03 +0000"
+  },
+  {
     "headline": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
     "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
     "source": "nyt",
-    "pubdate": "2026-06-28-14-27-20 +0000"
+    "pubdate": "2026-06-28-15-52-48 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-52-47 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-52-47 +0000"
+  },
+  {
+    "headline": "Eleven killed after plane carrying skydivers crashes in eastern France",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-15-51-19 +0000"
+  },
+  {
+    "headline": "14 dead after helicopter owned by oil giant Aramco crashes in Saudi Arabia: officials",
+    "link": "https://nypost.com/2026/06/28/world-news/14-dead-after-helicopter-owned-by-oil-giant-aramco-crashes-in-saudi-arabia-officials/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-50-11 +0000"
+  },
+  {
+    "headline": "L.G.B.T.Q. Figures Who Shaped History From the Margins",
+    "link": "https://www.nytimes.com/2026/06/28/us/lgbtq-pride-history-trailblazers.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-48-40 +0000"
+  },
+  {
+    "headline": "Iran Asserts Sole Control of Hormuz, Warns Challenges Will Bring More Violence",
+    "link": "https://www.wsj.com/world/middle-east/iran-asserts-sole-control-of-hormuz-warns-challenges-will-bring-more-violence-5abea3c7",
+    "source": "wsj",
+    "pubdate": "2026-06-28-15-43-00 +0000"
+  },
+  {
+    "headline": "Fourteen killed in Saudi Arabia helicopter crash",
+    "link": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-15-42-01 +0000"
+  },
+  {
+    "headline": "Obamacare recipients include more than 1M without Social Security numbers, Dr. Oz, RFK Jr. reveal: ‘Plagued by fraud’",
+    "link": "https://nypost.com/2026/06/28/us-news/1-million-people-without-social-security-numbers-enrolled-in-obamacare-rfk-jr/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-39-54 +0000"
   },
   {
     "headline": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
     "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
     "source": "nyt",
-    "pubdate": "2026-06-28-14-10-36 +0000"
+    "pubdate": "2026-06-28-15-36-54 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-36-52 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-36-52 +0000"
+  },
+  {
+    "headline": "Cape Verde’s soccer team captain accused of raping translator before star World Cup run",
+    "link": "https://nypost.com/2026/06/28/sports/cape-verdes-soccer-team-captain-accused-of-raping-translator-before-star-world-cup-run/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-36-12 +0000"
+  },
+  {
+    "headline": "Skydiving plane crashes after taking off in France, killing all 11 aboard",
+    "link": "https://nypost.com/2026/06/28/world-news/skydiving-plane-crashes-after-taking-off-in-france-killing-all-11-aboard/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-24-29 +0000"
+  },
+  {
+    "headline": "Natural Selection",
+    "link": "https://www.nytimes.com/2026/06/27/briefing/natural-selection.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-22-16 +0000"
+  },
+  {
+    "headline": "Uganda's leading media outlets shut down by army chief",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-15-19-53 +0000"
+  },
+  {
+    "headline": "Uganda's leading media outlets shut down by army chief",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-15-19-53 +0000"
+  },
+  {
+    "headline": "Cleverly says he would not have used Badenoch's Gestapo jibe",
+    "link": "https://www.bbc.co.uk/news/articles/cq81d8k5z1qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-15-19-32 +0000"
+  },
+  {
+    "headline": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+    "link": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-18-53 +0000"
+  },
+  {
+    "headline": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+    "link": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-18-53 +0000"
+  },
+  {
+    "headline": "Skydiving plane crashes in France, killing 11 people, officials say",
+    "link": "https://www.cbc.ca/news/world/france-parachutist-plane-crash-9.7251836?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-28-15-10-39 +0000"
+  },
+  {
+    "headline": "Horror as man, 28, is killed by a crocodile in Puerto Vallarta as California couple try to save him",
+    "link": "https://nypost.com/2026/06/28/us-news/oc-couple-tries-to-save-man-killed-by-crocodile-in-puerto-vallarta/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-07-37 +0000"
+  },
+  {
+    "headline": "The Taser CEO Who Says AI Is the Future of Policing",
+    "link": "https://www.wsj.com/tech/the-taser-ceo-who-says-ai-is-the-future-of-policing-4311d23c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-28-15-00-00 +0000"
+  },
+  {
+    "headline": "3 firefighters killed, 2 injured fighting raging, uncontained blaze on Utah-Colorado border",
+    "link": "https://nypost.com/2026/06/28/us-news/3-firefighters-killed-2-injured-fighting-blaze-on-utah-colorado-border/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-14-57-54 +0000"
+  },
+  {
+    "headline": "Senior Labour figures say party is united behind Andy Burnham",
+    "link": "https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-14-57-11 +0000"
+  },
+  {
+    "headline": "English influencer, 23, claims self-defense as she faces death penalty in UAE for boyfriend’s murder",
+    "link": "https://nypost.com/2026/06/28/world-news/english-influencer-23-claims-self-defense-as-she-faces-death-penalty-in-uae-for-boyfriends-murder/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-14-50-57 +0000"
+  },
+  {
+    "headline": "Here’s What to Know About the Standoff in the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-14-45-15 +0000"
+  },
+  {
+    "headline": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+    "link": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-14-42-59 +0000"
+  },
+  {
+    "headline": "Skydiving Plane Crashes in France, Killing All 11 People Aboard",
+    "link": "https://www.nytimes.com/2026/06/28/world/europe/france-skydiving-plane-crash-nancy.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-14-42-59 +0000"
+  },
+  {
+    "headline": "An Attack on Ebola’s First Responders",
+    "link": "https://www.nytimes.com/video/world/africa/100000010952237/an-attack-on-ebolas-first-responders.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-14-39-11 +0000"
+  },
+  {
+    "headline": "An Attack on Ebola’s First Responders",
+    "link": "https://www.nytimes.com/video/world/africa/100000010952237/an-attack-on-ebolas-first-responders.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-14-39-11 +0000"
+  },
+  {
+    "headline": "Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief",
+    "link": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-14-35-33 +0000"
+  },
+  {
+    "headline": "Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief",
+    "link": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-14-35-33 +0000"
+  },
+  {
+    "headline": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+    "link": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-14-30-05 +0000"
+  },
+  {
+    "headline": "Meet eccentric characters at this year’s Twin Cities Pride festival",
+    "link": "https://www.startribune.com/meet-eccentric-characters-at-this-years-twin-cities-pride-festival/601858423",
+    "source": "startribune",
+    "pubdate": "2026-06-28-14-30-00 +0000"
   },
   {
     "headline": "Three Firefighters Die as Wildfires Ravage Utah and Colorado",
@@ -18,13 +258,13 @@
     "pubdate": "2026-06-28-14-10-08 +0000"
   },
   {
-    "headline": "Dozens of Dogs Join Search for Venezuela Quake Survivors",
+    "headline": "Dozens of Dogs Join Search for Venezuela Earthquake Survivors",
     "link": "https://www.nytimes.com/2026/06/28/world/americas/rescue-dogs-canine-units-earthquake-venezuela.html",
     "source": "nyt",
     "pubdate": "2026-06-28-14-03-29 +0000"
   },
   {
-    "headline": "Dozens of Dogs Join Search for Venezuela Quake Survivors",
+    "headline": "Dozens of Dogs Join Search for Venezuela Earthquake Survivors",
     "link": "https://www.nytimes.com/2026/06/28/world/americas/rescue-dogs-canine-units-earthquake-venezuela.html",
     "source": "nyt",
     "pubdate": "2026-06-28-14-03-29 +0000"
@@ -66,40 +306,16 @@
     "pubdate": "2026-06-28-13-31-18 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-28-13-28-31 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-28-13-28-31 +0000"
-  },
-  {
     "headline": "IDF kills Hamas terrorist who directed Oct. 7 civilian kidnappings",
     "link": "https://nypost.com/2026/06/28/world-news/idf-kills-hamas-terrorist-who-directed-oct-7-civilian-kidnappings/",
     "source": "nypost",
     "pubdate": "2026-06-28-13-27-00 +0000"
   },
   {
-    "headline": "Eleven killed after plane carrying skydivers crashes in eastern France",
-    "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-28-13-21-33 +0000"
-  },
-  {
     "headline": "Love, fate, destiny",
     "link": "https://missionlocal.org/2026/06/love-fate-destiny/",
     "source": "missionlocal",
     "pubdate": "2026-06-28-13-00-00 +0000"
-  },
-  {
-    "headline": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war",
-    "link": "https://www.startribune.com/kuwait-and-bahrain-say-iran-targeted-them-with-drone-and-missile-strikes/601862399",
-    "source": "startribune",
-    "pubdate": "2026-06-28-12-50-01 +0000"
   },
   {
     "headline": "Smiling sisters Cookie and Kitty charged with butchering mom of 5 in vicious broad daylight attack",
@@ -132,18 +348,6 @@
     "pubdate": "2026-06-28-12-10-56 +0000"
   },
   {
-    "headline": "An Attack on Ebola’s First Responders",
-    "link": "https://www.nytimes.com/video/world/africa/100000010952237/an-attack-on-ebolas-first-responders.html",
-    "source": "nyt",
-    "pubdate": "2026-06-28-12-02-06 +0000"
-  },
-  {
-    "headline": "An Attack on Ebola’s First Responders",
-    "link": "https://www.nytimes.com/video/world/africa/100000010952237/an-attack-on-ebolas-first-responders.html",
-    "source": "nyt",
-    "pubdate": "2026-06-28-12-02-06 +0000"
-  },
-  {
     "headline": "Rats, Leaks and Broken Elevators: Repair Backlog Plagues Federal Buildings",
     "link": "https://www.nytimes.com/2026/06/28/us/politics/federal-buildings-repair-backlog.html",
     "source": "nyt",
@@ -168,12 +372,6 @@
     "pubdate": "2026-06-28-12-00-00 +0000"
   },
   {
-    "headline": "Senior Labour figures say party is united behind Andy Burnham",
-    "link": "https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-28-11-41-54 +0000"
-  },
-  {
     "headline": "Heat Starts to Break in Western Europe, as Central Europe Begins to Broil",
     "link": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html",
     "source": "nyt",
@@ -192,32 +390,20 @@
     "pubdate": "2026-06-28-11-19-37 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-28-11-02-04 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-06-28-11-02-04 +0000"
-  },
-  {
     "headline": "People We Meet: Megan Prelinger, SoMa’s archivist of possibility",
     "link": "https://missionlocal.org/2026/06/people-we-meet-megan-prelinger-soma/",
     "source": "missionlocal",
     "pubdate": "2026-06-28-11-00-00 +0000"
   },
   {
-    "headline": "Minnesota’s top politicians are sitting on the sidelines of the governor and Senate races",
-    "link": "https://www.startribune.com/minnesota-governor-senate-primary-endorsements-democrat-republican/601856087",
+    "headline": "With the state’s last known elevator operator, Nicollet Mall office building honors its past",
+    "link": "https://www.startribune.com/last-elevator-operator-young-quinlan-office-building-downtown-minneapolis/601837141",
     "source": "startribune",
     "pubdate": "2026-06-28-11-00-00 +0000"
   },
   {
-    "headline": "With the state’s last known elevator operator, Nicollet Mall office building honors its past",
-    "link": "https://www.startribune.com/last-elevator-operator-young-quinlan-office-building-downtown-minneapolis/601837141",
+    "headline": "Minnesota’s top politicians are sitting on the sidelines of the governor and Senate races",
+    "link": "https://www.startribune.com/minnesota-governor-senate-primary-endorsements-democrat-republican/601856087",
     "source": "startribune",
     "pubdate": "2026-06-28-11-00-00 +0000"
   },
@@ -262,18 +448,6 @@
     "link": "https://nypost.com/2026/06/28/us-news/aoc-says-congress-should-break-up-apple-amid-looming-price-hikes-for-macbooks-and-iphones/",
     "source": "nypost",
     "pubdate": "2026-06-28-10-28-44 +0000"
-  },
-  {
-    "headline": "Uganda's leading media outlets shut down by army chief",
-    "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-28-10-11-35 +0000"
-  },
-  {
-    "headline": "Uganda's leading media outlets shut down by army chief",
-    "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-28-10-11-35 +0000"
   },
   {
     "headline": "High interest rates and a chronic shortage of inventory have pushed the U.S. housing market to a breaking point. In this podcast series, we examine the strategies emerging to solve the country’s housing shortfall.",
@@ -360,6 +534,12 @@
     "pubdate": "2026-06-28-09-30-00 +0000"
   },
   {
+    "headline": "The AI Startup Challenging Tesla and Waymo in the Race to Automate Driving",
+    "link": "https://www.wsj.com/business/autos/wayve-self-driving-technology-2e917ebd?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-28-09-30-00 +0000"
+  },
+  {
     "headline": "How Some Private-Equity Managers Collect Big Fees on Paper Gains",
     "link": "https://www.wsj.com/finance/investing/how-some-private-equity-managers-collect-big-fees-on-paper-gains-2f449976?mod=rss_markets_main",
     "source": "wsj",
@@ -388,18 +568,6 @@
     "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz/heres-the-latest",
     "source": "nyt",
     "pubdate": "2026-06-28-09-01-03 +0000"
-  },
-  {
-    "headline": "Venezuela Government Accused of Politicizing Quake Relief",
-    "link": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
-    "source": "nyt",
-    "pubdate": "2026-06-28-09-00-58 +0000"
-  },
-  {
-    "headline": "Venezuela Government Accused of Politicizing Quake Relief",
-    "link": "https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html",
-    "source": "nyt",
-    "pubdate": "2026-06-28-09-00-58 +0000"
   },
   {
     "headline": "What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon",
@@ -720,24 +888,6 @@
     "pubdate": "2026-06-28-01-43-22 +0000"
   },
   {
-    "headline": "Iran launches attacks on US military sites in Kuwait and Bahrain: report",
-    "link": "https://nypost.com/2026/06/27/us-news/iran-strikes-back-with-targets-to-us-military-sites-in-kuwait-and-bahrain-in-latest-test-of-peace-deal/",
-    "source": "nypost",
-    "pubdate": "2026-06-28-01-43-22 +0000"
-  },
-  {
-    "headline": "Bikers in the buff take to LA streets for World Naked Bike Ride",
-    "link": "https://nypost.com/2026/06/27/us-news/bikers-in-the-buff-take-to-la-streets-for-world-naked-bike-ride/",
-    "source": "nypost",
-    "pubdate": "2026-06-28-01-38-23 +0000"
-  },
-  {
-    "headline": "Universal Hollywood’s newest attraction features unique tribute to franchise’s dead star",
-    "link": "https://nypost.com/2026/06/27/us-news/universal-hollywoods-newest-attraction-features-unique-tribute-to-franchises-dead-star/",
-    "source": "nypost",
-    "pubdate": "2026-06-28-01-05-10 +0000"
-  },
-  {
     "headline": "Chinese Dissident Who Fled by Sea to South Korea Lands in Canada",
     "link": "https://www.nytimes.com/2026/06/27/world/americas/china-dissident-dong-guangping-canada.html",
     "source": "nyt",
@@ -810,22 +960,10 @@
     "pubdate": "2026-06-28-00-50-32 +0000"
   },
   {
-    "headline": "These women said no to having kids - here's why",
-    "link": "https://www.bbc.co.uk/news/articles/cz0jx2z2l41o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-28-00-39-41 +0000"
-  },
-  {
     "headline": "Carvalho was threatened with possible dismissal before he resigned as LAUSD superintendent",
     "link": "https://www.latimes.com/california/story/2026-06-27/alberto-carvalho-lausd-superintendent-dismissal-threat-fbi",
     "source": "latimes",
     "pubdate": "2026-06-28-00-39-36 +0000"
-  },
-  {
-    "headline": "‘Obsessed’ gamer posing as Amazon driver learns fate for attempted murder of California couple",
-    "link": "https://nypost.com/2026/06/27/us-news/gamer-posing-as-amazon-driver-tries-to-kill-couple-in-brutal-california-home-invasion/",
-    "source": "nypost",
-    "pubdate": "2026-06-28-00-38-34 +0000"
   },
   {
     "headline": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
@@ -834,22 +972,10 @@
     "pubdate": "2026-06-28-00-32-07 +0000"
   },
   {
-    "headline": "I'm in therapy for my 14-hour-a-day phone addiction and I'm determined to beat it",
-    "link": "https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-28-00-20-42 +0000"
-  },
-  {
     "headline": "At Least 4 Dead in Kentucky Flooding, Governor Says",
     "link": "https://www.nytimes.com/2026/06/27/us/kentucky-flood-rain-emergency.html",
     "source": "nyt",
     "pubdate": "2026-06-28-00-20-22 +0000"
-  },
-  {
-    "headline": "Fight between warring Mexican gangs in NYC leaves 21-year-old dead",
-    "link": "https://nypost.com/2026/06/27/us-news/nyc-gang-fight-leaves-one-dead-and-one-clinging-to-life/",
-    "source": "nypost",
-    "pubdate": "2026-06-28-00-18-22 +0000"
   },
   {
     "headline": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
@@ -879,7 +1005,7 @@
     "headline": "Pro-Transgender Candidate Is Chased From a Trans Rights Event Over Gaza",
     "link": "https://www.nytimes.com/2026/06/27/us/scott-wiener-trans-march-gaza-video.html",
     "source": "nyt",
-    "pubdate": "2026-06-28-00-00-58 +0000"
+    "pubdate": "2026-06-28-00-00-59 +0000"
   },
   {
     "headline": "European Soccer Fans Marvel at the Splendor of America’s Suburbs",
@@ -1366,35 +1492,5 @@
     "link": "https://www.nytimes.com/2026/06/27/us/politics/jeffries-congress-democratic-socialists.html",
     "source": "nyt",
     "pubdate": "2026-06-27-16-19-13 +0000"
-  },
-  {
-    "headline": "Riding Into 2028: On the Midterms Trail, Andy Beshear Eyes a Bigger Prize",
-    "link": "https://www.nytimes.com/2026/06/27/us/politics/andy-beshear-kentucky-midterms-2028.html",
-    "source": "nyt",
-    "pubdate": "2026-06-27-16-09-06 +0000"
-  },
-  {
-    "headline": "Riding Into 2028: On the Midterms Trail, Andy Beshear Eyes a Bigger Prize",
-    "link": "https://www.nytimes.com/2026/06/27/us/politics/andy-beshear-kentucky-midterms-2028.html",
-    "source": "nyt",
-    "pubdate": "2026-06-27-16-09-06 +0000"
-  },
-  {
-    "headline": "CEOs Are Pulling In Record Pay. Here Are Some Big Numbers.",
-    "link": "https://www.wsj.com/business/ceo-executive-pay-packages-030db27e?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-27-16-00-00 +0000"
-  },
-  {
-    "headline": "Ryanair ‘reluctantly’ scraps mandatory fees that allow kids and parents to sit together",
-    "link": "https://nypost.com/2026/06/27/world-news/ryanair-reluctantly-scraps-mandatory-fees-ensuring-parents-sit-with-kids-on-flights/",
-    "source": "nypost",
-    "pubdate": "2026-06-27-15-35-05 +0000"
-  },
-  {
-    "headline": "These homes rose out of Venezuela’s socialist revolution. Now they’re rubble.",
-    "link": "https://www.washingtonpost.com/world/2026/06/27/these-homes-rose-out-venezuelas-socialist-revolution-now-theyre-rubble/",
-    "source": "wapo",
-    "pubdate": "2026-06-27-15-23-41 +0000"
   }
 ]

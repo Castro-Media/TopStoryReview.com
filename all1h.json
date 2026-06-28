@@ -1,8 +1,164 @@
 [
   {
+    "headline": "Advertisers Are Good at Getting Human Attention. Can They Stand Out to A.I.?",
+    "link": "https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-16-11-21 +0000"
+  },
+  {
+    "headline": "Poilievre asks Parliament to probe B.C. 'condo bailout,' says it's blocking 'a price correction'",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/poilievre-parliament-condo-bailout-9.7251901?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-06-28-16-07-48 +0000"
+  },
+  {
+    "headline": "Disturbing new claims against NYC teacher accused of ‘suffocating’ third grader after $18M sex abuse verdict",
+    "link": "https://nypost.com/2026/06/28/us-news/new-claims-against-nyc-teacher-accused-of-suffocating-third-grader-after-18m-sex-abuse-verdict/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-16-00-40 +0000"
+  },
+  {
+    "headline": "Uncle Sam is slated to fork over more money than ever to help ease American farmers’ economic woes",
+    "link": "https://www.wsj.com/politics/policy/a-55-billion-safety-net-government-tab-to-prop-up-american-farms-is-rising-67dc6634",
+    "source": "wsj",
+    "pubdate": "2026-06-28-16-00-00 +0000"
+  },
+  {
+    "headline": "A $55 Billion Safety Net? Government Tab to Prop Up American Farms Is Rising",
+    "link": "https://www.wsj.com/politics/policy/a-55-billion-safety-net-government-tab-to-prop-up-american-farms-is-rising-67dc6634?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-28-16-00-00 +0000"
+  },
+  {
+    "headline": "Deadly Wine Country crash sees driver smash into tour bus before both erupt in flames",
+    "link": "https://nypost.com/2026/06/28/us-news/deadly-wine-country-crash-sees-driver-smash-into-tour-bus-before-both-erupt-in-flames/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-59-21 +0000"
+  },
+  {
+    "headline": "Stalker kills popular Colombian influencer, stuffs body in suitcase — then tries to use World Cup alibi: cops, outlet",
+    "link": "https://nypost.com/2026/06/28/world-news/stalker-kills-colombian-influencer-stuffs-body-in-suitcase-cops/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-56-03 +0000"
+  },
+  {
     "headline": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
     "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
     "source": "nyt",
-    "pubdate": "2026-06-28-14-27-20 +0000"
+    "pubdate": "2026-06-28-15-52-48 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-52-47 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-52-47 +0000"
+  },
+  {
+    "headline": "Eleven killed after plane carrying skydivers crashes in eastern France",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-15-51-19 +0000"
+  },
+  {
+    "headline": "14 dead after helicopter owned by oil giant Aramco crashes in Saudi Arabia: officials",
+    "link": "https://nypost.com/2026/06/28/world-news/14-dead-after-helicopter-owned-by-oil-giant-aramco-crashes-in-saudi-arabia-officials/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-50-11 +0000"
+  },
+  {
+    "headline": "L.G.B.T.Q. Figures Who Shaped History From the Margins",
+    "link": "https://www.nytimes.com/2026/06/28/us/lgbtq-pride-history-trailblazers.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-48-40 +0000"
+  },
+  {
+    "headline": "Iran Asserts Sole Control of Hormuz, Warns Challenges Will Bring More Violence",
+    "link": "https://www.wsj.com/world/middle-east/iran-asserts-sole-control-of-hormuz-warns-challenges-will-bring-more-violence-5abea3c7",
+    "source": "wsj",
+    "pubdate": "2026-06-28-15-43-00 +0000"
+  },
+  {
+    "headline": "Fourteen killed in Saudi Arabia helicopter crash",
+    "link": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-15-42-01 +0000"
+  },
+  {
+    "headline": "Obamacare recipients include more than 1M without Social Security numbers, Dr. Oz, RFK Jr. reveal: ‘Plagued by fraud’",
+    "link": "https://nypost.com/2026/06/28/us-news/1-million-people-without-social-security-numbers-enrolled-in-obamacare-rfk-jr/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-39-54 +0000"
+  },
+  {
+    "headline": "Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-36-54 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-36-52 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-36-52 +0000"
+  },
+  {
+    "headline": "Cape Verde’s soccer team captain accused of raping translator before star World Cup run",
+    "link": "https://nypost.com/2026/06/28/sports/cape-verdes-soccer-team-captain-accused-of-raping-translator-before-star-world-cup-run/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-36-12 +0000"
+  },
+  {
+    "headline": "Skydiving plane crashes after taking off in France, killing all 11 aboard",
+    "link": "https://nypost.com/2026/06/28/world-news/skydiving-plane-crashes-after-taking-off-in-france-killing-all-11-aboard/",
+    "source": "nypost",
+    "pubdate": "2026-06-28-15-24-29 +0000"
+  },
+  {
+    "headline": "Natural Selection",
+    "link": "https://www.nytimes.com/2026/06/27/briefing/natural-selection.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-22-16 +0000"
+  },
+  {
+    "headline": "Uganda's leading media outlets shut down by army chief",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-15-19-53 +0000"
+  },
+  {
+    "headline": "Uganda's leading media outlets shut down by army chief",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-15-19-53 +0000"
+  },
+  {
+    "headline": "Cleverly says he would not have used Badenoch's Gestapo jibe",
+    "link": "https://www.bbc.co.uk/news/articles/cq81d8k5z1qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-28-15-19-32 +0000"
+  },
+  {
+    "headline": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+    "link": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-18-53 +0000"
+  },
+  {
+    "headline": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+    "link": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html",
+    "source": "nyt",
+    "pubdate": "2026-06-28-15-18-53 +0000"
   }
 ]

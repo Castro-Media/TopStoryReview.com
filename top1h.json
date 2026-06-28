@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-06-28-14-27-20 +0000",
+    "score": 24,
+    "pubdate": "2026-06-28-15-18-53 +0000",
+    "source": "nyt",
+    "headline": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
+    "link": "https://www.nytimes.com/2026/06/28/world/middleeast/deadly-helicopter-crash-saudi-arabia.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-06-28-15-56-03 +0000",
+    "source": "nypost",
+    "headline": "Stalker kills popular Colombian influencer, stuffs body in suitcase — then tries to use World Cup alibi: cops, outlet",
+    "link": "https://nypost.com/2026/06/28/world-news/stalker-kills-colombian-influencer-stuffs-body-in-suitcase-cops/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-28-16-00-40 +0000",
+    "source": "nypost",
+    "headline": "Disturbing new claims against NYC teacher accused of ‘suffocating’ third grader after $18M sex abuse verdict",
+    "link": "https://nypost.com/2026/06/28/us-news/new-claims-against-nyc-teacher-accused-of-suffocating-third-grader-after-18m-sex-abuse-verdict/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-28-15-19-53 +0000",
+    "source": "bbc",
+    "headline": "Uganda's leading media outlets shut down by army chief",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-06-28-15-39-54 +0000",
+    "source": "nypost",
+    "headline": "Obamacare recipients include more than 1M without Social Security numbers, Dr. Oz, RFK Jr. reveal: ‘Plagued by fraud’",
+    "link": "https://nypost.com/2026/06/28/us-news/1-million-people-without-social-security-numbers-enrolled-in-obamacare-rfk-jr/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-28-15-59-21 +0000",
+    "source": "nypost",
+    "headline": "Deadly Wine Country crash sees driver smash into tour bus before both erupt in flames",
+    "link": "https://nypost.com/2026/06/28/us-news/deadly-wine-country-crash-sees-driver-smash-into-tour-bus-before-both-erupt-in-flames/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-28-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "Uncle Sam is slated to fork over more money than ever to help ease American farmers’ economic woes",
+    "link": "https://www.wsj.com/politics/policy/a-55-billion-safety-net-government-tab-to-prop-up-american-farms-is-rising-67dc6634"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-28-15-52-48 +0000",
     "source": "nyt",
     "headline": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
     "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-06-28-15-51-19 +0000",
+    "source": "bbc",
+    "headline": "Eleven killed after plane carrying skydivers crashes in eastern France",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-06-28-16-07-48 +0000",
+    "source": "cbc",
+    "headline": "Poilievre asks Parliament to probe B.C. 'condo bailout,' says it's blocking 'a price correction'",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/poilievre-parliament-condo-bailout-9.7251901?cmp=rss"
   }
 ]
