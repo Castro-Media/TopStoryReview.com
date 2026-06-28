@@ -7,14 +7,14 @@
     "link": "https://www.wsj.com/politics/elections/louisiana-republican-senate-runoff-election-f9dc9f52"
   },
   {
-    "score": 75,
+    "score": 69,
     "pubdate": "2026-06-27-21-01-57 +0000",
     "source": "nypost",
     "headline": "Venezuela earthquake death toll tops 1,400 — with rising soccer stars with dreams of playing on national team confirmed dead",
     "link": "https://nypost.com/2026/06/27/world-news/venezuela-death-toll-tops-1400-with-rising-soccer-stars-found-in-rubble/"
   },
   {
-    "score": 68,
+    "score": 64,
     "pubdate": "2026-06-28-07-53-00 +0000",
     "source": "wsj",
     "headline": "U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire",
@@ -33,13 +33,6 @@
     "source": "nyt",
     "headline": "What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon",
     "link": "https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-06-27-14-50-48 +0000",
-    "source": "nypost",
-    "headline": "World Cup criminals cheated desperate fans out of $1.7M, held one customer at gunpoint",
-    "link": "https://nypost.com/2026/06/27/world-news/world-cup-scammers-cheat-desperate-fans-out-of-1-7-million/"
   },
   {
     "score": 33,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
     "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-06-28-10-08-00 +0000",
+    "source": "wsj",
+    "headline": "High interest rates and a chronic shortage of inventory have pushed the U.S. housing market to a breaking point. In this podcast series, we examine the strategies emerging to solve the country’s housing shortfall.",
+    "link": "https://www.wsj.com/economy/housing/how-to-solve-the-housing-crisis-everyone-has-an-idea-837bbe40"
   }
 ]
