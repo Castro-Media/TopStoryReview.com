@@ -1,31 +1,24 @@
 [
   {
-    "score": 78,
+    "score": 77,
     "pubdate": "2026-06-28-02-37-00 +0000",
     "source": "wsj",
     "headline": "Rep. Julia Letlow won a hard-fought GOP Senate runoff in Louisiana, defeating state Treasurer John Fleming in the contest to succeed Sen. Bill Cassidy, who had run afoul of President Trump",
     "link": "https://www.wsj.com/politics/elections/louisiana-republican-senate-runoff-election-f9dc9f52"
   },
   {
-    "score": 62,
+    "score": 57,
     "pubdate": "2026-06-28-07-53-00 +0000",
     "source": "wsj",
     "headline": "U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire",
     "link": "https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8"
   },
   {
-    "score": 48,
-    "pubdate": "2026-06-28-17-41-33 +0000",
-    "source": "nyt",
-    "headline": "Dozens of Dogs Join Search for Venezuela Earthquake Survivors",
-    "link": "https://www.nytimes.com/2026/06/28/world/americas/rescue-dogs-canine-units-earthquake-venezuela.html"
-  },
-  {
     "score": 45,
-    "pubdate": "2026-06-28-17-18-59 +0000",
-    "source": "nypost",
-    "headline": "Slippery Mamdani won’t say whether he supports prisons as he embraces divisive Dem hopeful Darializa Avila Chevalier",
-    "link": "https://nypost.com/2026/06/28/us-news/mamdani-wont-say-whether-he-supports-prisons-as-he-embraces-darializa-avila-chevalier/"
+    "pubdate": "2026-06-28-20-42-00 +0000",
+    "source": "nyt",
+    "headline": "Venezuela Live Updates: Window to Find Survivors Is Closing as Rescuers Battle Through Aftershocks",
+    "link": "https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake"
   },
   {
     "score": 45,
@@ -35,11 +28,25 @@
     "link": "https://nypost.com/2026/06/28/world-news/skydiving-plane-crashes-after-taking-off-in-france-killing-all-11-aboard/"
   },
   {
-    "score": 42,
+    "score": 41,
     "pubdate": "2026-06-28-20-37-38 +0000",
     "source": "nypost",
     "headline": "Young NYC man slain near million-dollar homes ID’d as ‘quiet kid’ who was just watching soccer at time",
     "link": "https://nypost.com/2026/06/28/us-news/fatally-stabbed-nyc-man-idd-as-manuel-estanislao-chox-choc/"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-06-28-17-18-59 +0000",
+    "source": "nypost",
+    "headline": "Slippery Mamdani won’t say whether he supports prisons as he embraces divisive Dem hopeful Darializa Avila Chevalier",
+    "link": "https://nypost.com/2026/06/28/us-news/mamdani-wont-say-whether-he-supports-prisons-as-he-embraces-darializa-avila-chevalier/"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-06-28-00-06-19 +0000",
+    "source": "bbc",
+    "headline": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+    "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 36,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "Heat Wave Starts to Break in Western Europe, as Central Europe Begins to Broil",
     "link": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-06-28-00-06-19 +0000",
-    "source": "bbc",
-    "headline": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-    "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss"
   }
 ]
