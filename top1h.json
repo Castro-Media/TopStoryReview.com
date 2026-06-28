@@ -1,28 +1,63 @@
 [
   {
+    "score": 21,
+    "pubdate": "2026-06-28-07-53-00 +0000",
+    "source": "wsj",
+    "headline": "U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire",
+    "link": "https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8"
+  },
+  {
     "score": 20,
-    "pubdate": "2026-06-28-05-48-26 +0000",
+    "pubdate": "2026-06-28-07-22-05 +0000",
     "source": "nyt",
     "headline": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
     "link": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html"
   },
   {
-    "score": 11,
-    "pubdate": "2026-06-28-05-54-06 +0000",
+    "score": 8,
+    "pubdate": "2026-06-28-07-09-25 +0000",
     "source": "nyt",
-    "headline": "Venezuela Live Updates: Chaotic Rush to Help Victims Delays Some Rescues",
+    "headline": "Chaotic Rush to Help Venezuela Earthquake Victims Delays Some Rescues",
     "link": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake"
   },
   {
-    "score": 6,
-    "pubdate": "2026-06-28-05-54-06 +0000",
+    "score": 7,
+    "pubdate": "2026-06-28-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Why is it so much easier to ditch a prime minister in the U.K. than in Canada?",
+    "link": "https://www.cbc.ca/news/politics/why-is-it-easier-to-ditch-prime-minister-u-k-than-canada-9.7250694?cmp=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-28-07-33-26 +0000",
     "source": "nyt",
-    "headline": "Mideast Live Updates: U.S. and Iran Trade More Strikes, Testing Truce",
+    "headline": "Iran’s World Cup Elimination Ends a Politically Charged Odyssey",
+    "link": "https://www.nytimes.com/2026/06/28/us/iran-eliminated-world-cup.html"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-06-28-07-12-43 +0000",
+    "source": "bbc",
+    "headline": "Ex-minister not ruling out leadership bid yet",
+    "link": "https://www.bbc.co.uk/news/articles/clye5llzm13o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 2,
+    "pubdate": "2026-06-28-07-37-12 +0000",
+    "source": "nyt",
+    "headline": "U.S. and Iran Trade More Strikes, Testing Truce",
     "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz"
   },
   {
     "score": 0,
-    "pubdate": "2026-06-28-05-48-26 +0000",
+    "pubdate": "2026-06-28-07-53-00 +0000",
+    "source": "wsj",
+    "headline": "U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire",
+    "link": "https://www.wsj.com/world/middle-east/mideast-fighting-widens-with-attacks-on-bahrain-hormuz-tanker-30a313a8"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-28-07-22-05 +0000",
     "source": "nyt",
     "headline": "China Confirms Death of Pilot Who Flew Small Plane Into Beijing’s Tallest Tower",
     "link": "https://www.nytimes.com/2026/06/28/world/asia/china-pilot-died-plane-crash-beijing.html"
