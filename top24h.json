@@ -1,62 +1,48 @@
 [
   {
-    "score": 71,
-    "pubdate": "2026-06-28-02-37-00 +0000",
-    "source": "wsj",
-    "headline": "Rep. Julia Letlow won a hard-fought GOP Senate runoff in Louisiana, defeating state Treasurer John Fleming in the contest to succeed Sen. Bill Cassidy, who had run afoul of President Trump",
-    "link": "https://www.wsj.com/politics/elections/louisiana-republican-senate-runoff-election-f9dc9f52"
-  },
-  {
-    "score": 64,
+    "score": 61,
     "pubdate": "2026-06-28-08-05-07 +0000",
     "source": "wapo",
     "headline": "U.S., Iran launch new strikes, testing fragile ceasefire as Hormuz tensions flare",
     "link": "https://www.washingtonpost.com/world/2026/06/27/clashes-test-us-iran-ceasefire-bahrain-tanker-report-attacks/"
   },
   {
-    "score": 45,
-    "pubdate": "2026-06-28-22-33-49 +0000",
-    "source": "nyt",
-    "headline": "In Venezuela, a Community Comes Together to Search for Earthquake Survivors",
-    "link": "https://www.nytimes.com/2026/06/28/world/americas/caracas-venezuela-earthquake-rescue.html"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-06-28-15-24-29 +0000",
-    "source": "nypost",
-    "headline": "Skydiving plane crashes after taking off in France, killing all 11 aboard",
-    "link": "https://nypost.com/2026/06/28/world-news/skydiving-plane-crashes-after-taking-off-in-france-killing-all-11-aboard/"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-06-28-11-26-27 +0000",
-    "source": "nyt",
-    "headline": "Heat Wave Starts to Break in Western Europe, as Central Europe Begins to Broil",
-    "link": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-06-28-20-37-38 +0000",
-    "source": "nypost",
-    "headline": "Young NYC man slain near million-dollar homes ID’d as ‘quiet kid’ who was watching soccer at time",
-    "link": "https://nypost.com/2026/06/28/us-news/fatally-stabbed-nyc-man-idd-as-manuel-estanislao-chox-choc/"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-06-28-15-56-03 +0000",
-    "source": "nypost",
-    "headline": "Stalker kills popular Colombian influencer, stuffs body in suitcase — then tries to use World Cup alibi: cops, outlet",
-    "link": "https://nypost.com/2026/06/28/world-news/stalker-kills-colombian-influencer-stuffs-body-in-suitcase-cops/"
-  },
-  {
-    "score": 34,
+    "score": 51,
     "pubdate": "2026-06-28-23-09-14 +0000",
     "source": "nypost",
     "headline": "GOP claims it will pick up NY House seats despite Trump’s unpopularity",
     "link": "https://nypost.com/2026/06/28/us-news/gop-claims-it-will-pick-up-ny-house-seats-despite-trumps-unpopularity/"
   },
   {
-    "score": 33,
+    "score": 46,
+    "pubdate": "2026-06-28-22-33-49 +0000",
+    "source": "nyt",
+    "headline": "In Venezuela, a Community Comes Together to Search for Earthquake Survivors",
+    "link": "https://www.nytimes.com/2026/06/28/world/americas/caracas-venezuela-earthquake-rescue.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-06-28-15-24-29 +0000",
+    "source": "nypost",
+    "headline": "Skydiving plane crashes after taking off in France, killing all 11 aboard",
+    "link": "https://nypost.com/2026/06/28/world-news/skydiving-plane-crashes-after-taking-off-in-france-killing-all-11-aboard/"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-06-28-11-26-27 +0000",
+    "source": "nyt",
+    "headline": "Heat Wave Starts to Break in Western Europe, as Central Europe Begins to Broil",
+    "link": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-06-28-15-56-03 +0000",
+    "source": "nypost",
+    "headline": "Stalker kills popular Colombian influencer, stuffs body in suitcase — then tries to use World Cup alibi: cops, outlet",
+    "link": "https://nypost.com/2026/06/28/world-news/stalker-kills-colombian-influencer-stuffs-body-in-suitcase-cops/"
+  },
+  {
+    "score": 35,
     "pubdate": "2026-06-28-12-10-56 +0000",
     "source": "nypost",
     "headline": "At least 2 dead after Ukraine drone assault sets fire to major oil refinery in Russia: report",
@@ -64,9 +50,23 @@
   },
   {
     "score": 30,
-    "pubdate": "2026-06-28-10-08-00 +0000",
-    "source": "wsj",
-    "headline": "High interest rates and a chronic shortage of inventory have pushed the U.S. housing market to a breaking point. In this podcast series, we examine the strategies emerging to solve the country’s housing shortfall.",
-    "link": "https://www.wsj.com/economy/housing/how-to-solve-the-housing-crisis-everyone-has-an-idea-837bbe40"
+    "pubdate": "2026-06-28-22-21-50 +0000",
+    "source": "nypost",
+    "headline": "Democratic Sen. Chris Coons suffers minor injuries after being involved in multi-car crash",
+    "link": "https://nypost.com/2026/06/28/us-news/democratic-sen-chris-coons-suffers-minor-injuries-after-being-involved-in-multi-car-crash/"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-06-28-21-43-01 +0000",
+    "source": "nyt",
+    "headline": "Deep Under the Rubble, Rescuers Find an 11-Year-Old Boy Alive",
+    "link": "https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-06-28-17-18-59 +0000",
+    "source": "nypost",
+    "headline": "Slippery Mamdani won’t say whether he supports prisons as he embraces divisive Dem hopeful Darializa Avila Chevalier",
+    "link": "https://nypost.com/2026/06/28/us-news/mamdani-wont-say-whether-he-supports-prisons-as-he-embraces-darializa-avila-chevalier/"
   }
 ]
