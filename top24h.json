@@ -1,24 +1,31 @@
 [
   {
-    "score": 61,
+    "score": 57,
     "pubdate": "2026-06-28-08-05-07 +0000",
     "source": "wapo",
     "headline": "U.S., Iran launch new strikes, testing fragile ceasefire as Hormuz tensions flare",
     "link": "https://www.washingtonpost.com/world/2026/06/27/clashes-test-us-iran-ceasefire-bahrain-tanker-report-attacks/"
   },
   {
-    "score": 51,
+    "score": 50,
     "pubdate": "2026-06-28-23-09-14 +0000",
     "source": "nypost",
     "headline": "GOP claims it will pick up NY House seats despite Trump’s unpopularity",
     "link": "https://nypost.com/2026/06/28/us-news/gop-claims-it-will-pick-up-ny-house-seats-despite-trumps-unpopularity/"
   },
   {
-    "score": 46,
+    "score": 48,
     "pubdate": "2026-06-28-22-33-49 +0000",
     "source": "nyt",
     "headline": "In Venezuela, a Community Comes Together to Search for Earthquake Survivors",
     "link": "https://www.nytimes.com/2026/06/28/world/americas/caracas-venezuela-earthquake-rescue.html"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-06-28-15-56-03 +0000",
+    "source": "nypost",
+    "headline": "Stalker kills popular Colombian influencer, stuffs body in suitcase — then tries to use World Cup alibi: cops, outlet",
+    "link": "https://nypost.com/2026/06/28/world-news/stalker-kills-colombian-influencer-stuffs-body-in-suitcase-cops/"
   },
   {
     "score": 41,
@@ -35,13 +42,6 @@
     "link": "https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html"
   },
   {
-    "score": 37,
-    "pubdate": "2026-06-28-15-56-03 +0000",
-    "source": "nypost",
-    "headline": "Stalker kills popular Colombian influencer, stuffs body in suitcase — then tries to use World Cup alibi: cops, outlet",
-    "link": "https://nypost.com/2026/06/28/world-news/stalker-kills-colombian-influencer-stuffs-body-in-suitcase-cops/"
-  },
-  {
     "score": 35,
     "pubdate": "2026-06-28-12-10-56 +0000",
     "source": "nypost",
@@ -49,7 +49,7 @@
     "link": "https://nypost.com/2026/06/28/world-news/at-least-2-dead-after-ukraine-drone-assault-sets-fire-to-major-oil-refinery-in-russia-report/"
   },
   {
-    "score": 30,
+    "score": 31,
     "pubdate": "2026-06-28-22-21-50 +0000",
     "source": "nypost",
     "headline": "Democratic Sen. Chris Coons suffers minor injuries after being involved in multi-car crash",
@@ -57,16 +57,16 @@
   },
   {
     "score": 29,
-    "pubdate": "2026-06-28-21-43-01 +0000",
-    "source": "nyt",
-    "headline": "Deep Under the Rubble, Rescuers Find an 11-Year-Old Boy Alive",
-    "link": "https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html"
+    "pubdate": "2026-06-28-16-51-41 +0000",
+    "source": "nypost",
+    "headline": "Bill Clinton reveals how he feels about Dems’ midterm chances after NYC socialist sweep",
+    "link": "https://nypost.com/2026/06/28/us-news/bill-clinton-reveals-how-he-feels-about-dems-midterm-chances-after-nyc-socialist-sweep/"
   },
   {
     "score": 29,
-    "pubdate": "2026-06-28-17-18-59 +0000",
-    "source": "nypost",
-    "headline": "Slippery Mamdani won’t say whether he supports prisons as he embraces divisive Dem hopeful Darializa Avila Chevalier",
-    "link": "https://nypost.com/2026/06/28/us-news/mamdani-wont-say-whether-he-supports-prisons-as-he-embraces-darializa-avila-chevalier/"
+    "pubdate": "2026-06-28-10-08-00 +0000",
+    "source": "wsj",
+    "headline": "High interest rates and a chronic shortage of inventory have pushed the U.S. housing market to a breaking point. In this podcast series, we examine the strategies emerging to solve the country’s housing shortfall.",
+    "link": "https://www.wsj.com/economy/housing/how-to-solve-the-housing-crisis-everyone-has-an-idea-837bbe40"
   }
 ]
