@@ -1,72 +1,65 @@
 [
   {
-    "score": 41,
-    "pubdate": "2026-06-30-19-40-12 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Allows States to Bar Transgender Athletes From Girls’ Sports",
-    "link": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-transgender-athletes.html"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-06-30-20-22-00 +0000",
-    "source": "wsj",
-    "headline": "Stocks rise, the yen slides and a quiet Fed only makes investors listen harder. Read more in today’s Markets P.M. newsletter:",
-    "link": "https://www.wsj.com/finance/stocks/stocks-rise-the-yen-slides-b0c3b1f0"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-06-30-19-39-29 +0000",
-    "source": "bbc",
-    "headline": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-06-30-19-38-11 +0000",
-    "source": "nyt",
-    "headline": "The Hidden Dead: The True Toll in Venezuela Is Buried Under Rubble",
-    "link": "https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-death-toll.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-06-30-19-52-43 +0000",
-    "source": "nyt",
-    "headline": "Tom Kean, New Jersey Congressman, Says Depression Led to Long Absence",
-    "link": "https://www.nytimes.com/2026/06/30/us/politics/tom-kean-return-depression.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-06-30-20-16-00 +0000",
-    "source": "wsj",
-    "headline": "Supreme Court Rejects Trump’s Bid to Curtail Birthright Citizenship",
-    "link": "https://www.wsj.com/us-news/law/supreme-court-rejects-trumps-bid-to-curtail-birthright-citizenship-bf386c17"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-06-30-19-36-53 +0000",
-    "source": "nyt",
-    "headline": "Trans Sports Ruling Puts Pressure on States Without Bans",
-    "link": "https://www.nytimes.com/2026/06/30/us/politics/trans-athletes-supreme-court-democratic-states.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-06-30-20-02-42 +0000",
-    "source": "bbc",
-    "headline": "Why Starmer's defence plan leaves next PM with £4.7bn headache",
-    "link": "https://www.bbc.co.uk/news/articles/c9q250511neo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-06-30-20-14-02 +0000",
-    "source": "nyt",
-    "headline": "The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
-    "link": "https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html"
-  },
-  {
-    "score": 14,
+    "score": 13,
     "pubdate": "2026-06-30-20-24-25 +0000",
     "source": "nypost",
     "headline": "Texas mom’s bloody last stand revealed before allegedly being stabbed to death by twisted teen Cookie",
     "link": "https://nypost.com/2026/06/30/us-news/texas-moms-bloody-last-stand-revealed-before-she-was-stabbed-to-death-by-twisted-teen-cookie/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-06-30-20-30-38 +0000",
+    "source": "nypost",
+    "headline": "Megyn Kelly torches Coney-Barrett for dissent mail-in voting decision: ‘Supposed to be one of ours’",
+    "link": "https://nypost.com/2026/06/30/us-news/megyn-kelly-torches-coney-barrett-dissent-mail-in-voting-decision/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-06-30-20-25-53 +0000",
+    "source": "bbc",
+    "headline": "Firefighters struggle to contain deadly Greek wildfire",
+    "link": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-06-30-20-31-16 +0000",
+    "source": "nypost",
+    "headline": "Evil torturer learns his fate for heinous killing of beloved California artist after date night",
+    "link": "https://nypost.com/2026/06/30/us-news/evil-torturer-learns-his-fate-for-heinous-killing-of-beloved-california-artist-after-date-night/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-06-30-20-30-18 +0000",
+    "source": "nyt",
+    "headline": "Court Halts Pentagon Rule Requiring Escorts for Journalists",
+    "link": "https://www.nytimes.com/2026/06/30/business/media/pentagon-journalists-escort-rule.html"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-06-30-20-23-00 +0000",
+    "source": "wsj",
+    "headline": "Opinion | A Divided Country Celebrates Its Anniversary—Again",
+    "link": "https://www.wsj.com/opinion/a-divided-country-celebrates-its-anniversaryagain-29244c2d"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-06-30-20-22-57 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/30/us/supreme-court-trans-athletes/heres-the-latest"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-30-20-25-53 +0000",
+    "source": "bbc",
+    "headline": "Firefighters struggle to contain deadly Greek wildfire",
+    "link": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-30-20-22-57 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/30/us/supreme-court-trans-athletes/heres-the-latest"
   }
 ]
