@@ -1,314 +1,380 @@
 [
   {
-    "headline": "U.S. Supreme Court rules against Trump executive order to limit birthright citizenship",
-    "link": "https://www.cbc.ca/news/world/us-scotus-ruling-birthright-citizenship-9.7253592?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-06-30-14-41-59 +0000"
+    "headline": "The Supreme Court Just Gave the G.O.P. a New Midterm Edge",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-midterms-campaign-finance.html",
+    "source": "nyt",
+    "pubdate": "2026-06-30-16-34-21 +0000"
   },
   {
-    "headline": "SoCal dad killed in massive Venezuela earthquake when hotel collapsed on him, family in agony",
-    "link": "https://nypost.com/2026/06/30/us-news/southern-california-dad-killed-in-venezuela-earthquake-hotel-collapse/",
+    "headline": "Twin Cities Marine who was lost at sea declared dead",
+    "link": "https://www.startribune.com/twin-cities-marine-who-was-lost-at-sea-declared-dead/601863175",
+    "source": "startribune",
+    "pubdate": "2026-06-30-16-33-55 +0000"
+  },
+  {
+    "headline": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-30-16-31-55 +0000"
+  },
+  {
+    "headline": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-30-16-31-55 +0000"
+  },
+  {
+    "headline": "Times/Siena Poll Finds Talarico and Paxton Tied in Texas Senate Race",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html",
+    "source": "nyt",
+    "pubdate": "2026-06-30-16-31-24 +0000"
+  },
+  {
+    "headline": "Times/Siena Poll Finds Talarico and Paxton Tied in Texas Senate Race",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html",
+    "source": "nyt",
+    "pubdate": "2026-06-30-16-31-24 +0000"
+  },
+  {
+    "headline": "Treasury Yields, Dollar Rise as U.S. Indicators Trickle In",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-lower-weighed-by-yens-weakness-09bdbca2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-28-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-76426722?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-26-00 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c30ba142?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-26-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-76426722?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-26-00 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-96978e3c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-26-00 +0000"
+  },
+  {
+    "headline": "Ford Recalls More Than 740,000 Vehicles Over Transmission Issue",
+    "link": "https://www.wsj.com/business/autos/ford-recalls-more-than-740-000-vehicles-over-transmission-issue-179134fc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-25-00 +0000"
+  },
+  {
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9755e40b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-24-00 +0000"
+  },
+  {
+    "headline": "How Three Months of War Changed the Gulf Forever",
+    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-06-30-16-23-40 +0000"
+  },
+  {
+    "headline": "The Supreme Court Just Gave the G.O.P. a New Midterm Edge",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-midterms-campaign-finance.html",
+    "source": "nyt",
+    "pubdate": "2026-06-30-16-23-06 +0000"
+  },
+  {
+    "headline": "What to know about the looming  deadline on North American free trade",
+    "link": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-30-16-23-02 +0000"
+  },
+  {
+    "headline": "What to know about the looming  deadline on North American free trade",
+    "link": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-30-16-23-02 +0000"
+  },
+  {
+    "headline": "What to know about the looming  deadline on North American free trade",
+    "link": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-30-16-23-02 +0000"
+  },
+  {
+    "headline": "A congressman who was absent from the Capitol for nearly four months disclosed that he had been diagnosed with depression in a floor speech on his first day back at work",
+    "link": "https://www.wsj.com/politics/elections/gop-lawmaker-returns-after-mysterious-four-month-absence-c70a10fa",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-23-00 +0000"
+  },
+  {
+    "headline": "Canada’s Economy Ticks Along After GDP Grows 0.5% in April",
+    "link": "https://www.wsj.com/economy/central-banking/canadas-economy-ticks-along-after-gdp-grows-in-april-ca9bdd3a",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-23-00 +0000"
+  },
+  {
+    "headline": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-d6cffafe?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-23-00 +0000"
+  },
+  {
+    "headline": "Owner of world’s smallest penis gets shot at personal growth from plastic surgeon",
+    "link": "https://nypost.com/2026/06/30/us-news/owner-of-worlds-smallest-penis-offered-free-enhancement-surgery/",
     "source": "nypost",
-    "pubdate": "2026-06-30-14-41-38 +0000"
+    "pubdate": "2026-06-30-16-21-17 +0000"
   },
   {
-    "headline": "Mideast Live Updates: U.S. and Iran Gear Up for Meetings in Qatar",
+    "headline": "The 1952 Law That Was Central to the Birthright Citizenship Case",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/1952-immigration-nationality-act-birthright-citizenship.html",
+    "source": "nyt",
+    "pubdate": "2026-06-30-16-17-53 +0000"
+  },
+  {
+    "headline": "The 1952 Law That Was Central to the Birthright Citizenship Case",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/1952-immigration-nationality-act-birthright-citizenship.html",
+    "source": "nyt",
+    "pubdate": "2026-06-30-16-17-53 +0000"
+  },
+  {
+    "headline": "Mideast Live Updates: U.S. and Iran to Meet with Mediators in Qatar",
     "link": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
     "source": "nyt",
-    "pubdate": "2026-06-30-14-40-30 +0000"
+    "pubdate": "2026-06-30-16-17-07 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/30/us/supreme-court-birthright-citizenship/supreme-court-birthright-citizenship",
+    "headline": "Supreme Court Strikes Down Key Limit on Campaign Spending by Political Parties",
+    "link": "https://www.wsj.com/us-news/law/supreme-court-strikes-down-key-limit-on-campaign-spending-by-political-parties-1c76fefc",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-17-00 +0000"
+  },
+  {
+    "headline": "NPR Retracts Article That Mistakenly Said Justice Alito Would Retire",
+    "link": "https://www.nytimes.com/2026/06/30/business/media/npr-samuel-alito-nina-totenberg.html",
     "source": "nyt",
-    "pubdate": "2026-06-30-14-38-46 +0000"
-  },
-  {
-    "headline": "Supreme Court Rejects Trump’s Bid to Curtail Birthright Citizenship",
-    "link": "https://www.wsj.com/us-news/law/supreme-court-rejects-trumps-bid-to-curtail-birthright-citizenship-bf386c17",
-    "source": "wsj",
-    "pubdate": "2026-06-30-14-38-00 +0000"
-  },
-  {
-    "headline": "Supreme Court Upholds State Restrictions on Transgender Athletes",
-    "link": "https://www.wsj.com/us-news/law/supreme-court-upholds-state-restrictions-on-transgender-athletes-c2ada7b0",
-    "source": "wsj",
-    "pubdate": "2026-06-30-14-38-00 +0000"
-  },
-  {
-    "headline": "Supreme Court Lifts Spending Limits on Political Parties and Candidates",
-    "link": "https://www.nytimes.com/2026/06/30/us/supreme-court-campaign-finance.html",
-    "source": "nyt",
-    "pubdate": "2026-06-30-14-36-36 +0000"
-  },
-  {
-    "headline": "Supreme Court strikes down Trump birthright citizenship order in blow to president",
-    "link": "https://nypost.com/2026/06/30/us-news/supreme-court-strikes-down-trump-birthright-citizenship-order-in-blow-to-president/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-14-36-30 +0000"
-  },
-  {
-    "headline": "Supreme Court strikes down Trump birthright citizenship order in blow to president",
-    "link": "https://nypost.com/2026/06/30/us-news/supreme-court-strikes-down-trump-birthright-citizenship-order-in-blow-to-president/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-14-36-30 +0000"
-  },
-  {
-    "headline": "Canoe, kayak and paddleboard: Your ultimate guide to paddling in the Twin Cities",
-    "link": "https://www.startribune.com/canoe-kayak-paddleboard-minnesota-twin-cities-metro-paddling-guide/601346521",
-    "source": "startribune",
-    "pubdate": "2026-06-30-14-35-14 +0000"
-  },
-  {
-    "headline": "Senegalese MPs move to clip presidential powers as tensions mount",
-    "link": "https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-30-14-35-03 +0000"
-  },
-  {
-    "headline": "U.S. Consumer Sentiment Climbed in June, Conference Board Says",
-    "link": "https://www.wsj.com/economy/central-banking/u-s-consumer-sentiment-climbed-in-june-conference-board-says-fbced3fb",
-    "source": "wsj",
-    "pubdate": "2026-06-30-14-35-00 +0000"
-  },
-  {
-    "headline": "Warren Buffett witholds Gates Foundation donation for first time in decades over alleged Epstein ties: report",
-    "link": "https://nypost.com/2026/06/30/business/warren-buffett-witholds-bill-gates-charity-donation-over-alleged-epstein-ties-report/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-14-34-49 +0000"
-  },
-  {
-    "headline": "Hollywood actress caught hiding fugitive CEO boyfriend and funding his escape after he scammed stars out of over $20M",
-    "link": "https://nypost.com/2026/06/30/us-news/hollywood-actress-hid-wanted-scammer-ceo-boyfriend-bankrolled-his-escape/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-14-30-52 +0000"
-  },
-  {
-    "headline": "How soon could Andy Burnham become PM?",
-    "link": "https://www.bbc.co.uk/news/videos/cr47564k5qpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-30-14-30-33 +0000"
-  },
-  {
-    "headline": "Microsoft’s Irish Hub Is Profit Powerhouse",
-    "link": "https://www.wsj.com/business/microsofts-irish-hub-is-profit-powerhouse-19f86007?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-30-14-30-00 +0000"
-  },
-  {
-    "headline": "Supreme Court rules political party limits on campaign spending are unconstitutional in midterm win for GOP",
-    "link": "https://nypost.com/2026/06/30/us-news/supreme-court-rules-parties-candidates-can-coordinate-spending/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-14-28-11 +0000"
-  },
-  {
-    "headline": "Supreme Court rules political party limits on campaign spending are unconstitutional in midterm win for GOP",
-    "link": "https://nypost.com/2026/06/30/us-news/supreme-court-rules-parties-candidates-can-coordinate-spending/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-14-28-11 +0000"
-  },
-  {
-    "headline": "Starmer trims budgets to fund extra £15bn for defence",
-    "link": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-06-30-14-27-14 +0000"
-  },
-  {
-    "headline": "Supreme Court upholds state laws banning transgender girls and women from school athletic teams",
-    "link": "https://www.startribune.com/supreme-court-upholds-state-laws-banning-transgender-girls-and-women-from-school-athletic-teams/601863173",
-    "source": "startribune",
-    "pubdate": "2026-06-30-14-25-06 +0000"
-  },
-  {
-    "headline": "Chicago Business Activity Cooled in June",
-    "link": "https://www.wsj.com/economy/chicago-business-activity-cooled-in-june-183a0a30",
-    "source": "wsj",
-    "pubdate": "2026-06-30-14-23-00 +0000"
-  },
-  {
-    "headline": "Japanese Yen Hits New 40-Year Low Against Dollar",
-    "link": "https://www.wsj.com/finance/currencies/yen-intervention-risks-elevated-as-it-hits-162-versus-dollar-86b63e5c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-30-14-22-00 +0000"
+    "pubdate": "2026-06-30-16-14-55 +0000"
   },
   {
     "headline": "US Supreme Court upholds bans on transgender women in female school and college sports",
     "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-30-14-21-00 +0000"
+    "pubdate": "2026-06-30-16-14-43 +0000"
   },
   {
-    "headline": "Parcel Bomb Explodes in Monaco, Injuring 3",
-    "link": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
+    "headline": "US Supreme Court upholds bans on transgender women in female school and college sports",
+    "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-30-16-14-43 +0000"
+  },
+  {
+    "headline": "Supreme Court strikes down Watergate-era limits on campaign funds for political parties",
+    "link": "https://www.latimes.com/politics/story/2026-06-30/supreme-court-strikes-down-watergate-era-limits-on-campaign-funds-for-political-parties",
+    "source": "latimes",
+    "pubdate": "2026-06-30-16-13-38 +0000"
+  },
+  {
+    "headline": "Supreme Court strikes down Watergate-era limits on campaign funds for political parties",
+    "link": "https://www.latimes.com/politics/story/2026-06-30/supreme-court-strikes-down-watergate-era-limits-on-campaign-funds-for-political-parties",
+    "source": "latimes",
+    "pubdate": "2026-06-30-16-13-38 +0000"
+  },
+  {
+    "headline": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+    "link": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-30-16-12-25 +0000"
+  },
+  {
+    "headline": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+    "link": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-30-16-12-25 +0000"
+  },
+  {
+    "headline": "Starmer trims budgets to fund extra £15bn for defence",
+    "link": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-30-16-09-19 +0000"
+  },
+  {
+    "headline": "Boyfriend desperately tried to save hiker as massive alligator ripped her apart in three feet of water",
+    "link": "https://nypost.com/2026/06/30/us-news/boyfriend-desperately-tried-to-save-hiker-31-as-massive-alligator-ripped-her-apart-in-three-feet-of-water/",
+    "source": "nypost",
+    "pubdate": "2026-06-30-16-08-37 +0000"
+  },
+  {
+    "headline": "Mark Zuckerberg’s Meta loses bid to toss lawsuit alleging Facebook and Instagram addict children",
+    "link": "https://nypost.com/2026/06/30/business/mark-zuckerbergs-meta-loses-bid-in-facebook-instagram-addiction-case/",
+    "source": "nypost",
+    "pubdate": "2026-06-30-16-08-25 +0000"
+  },
+  {
+    "headline": "Egg Producers Manipulated Market, Keeping Prices High, Say Antitrust Authorities",
+    "link": "https://www.wsj.com/business/egg-producers-manipulated-market-keeping-prices-high-say-antitrust-authorities-f7ff50df?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-08-00 +0000"
+  },
+  {
+    "headline": "Egg Producers Manipulated Market, Keeping Prices High, Say Antitrust Authorities",
+    "link": "https://www.wsj.com/business/egg-producers-manipulated-market-keeping-prices-high-say-antitrust-authorities-f7ff50df?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-08-00 +0000"
+  },
+  {
+    "headline": "Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones",
+    "link": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
     "source": "nyt",
-    "pubdate": "2026-06-30-14-20-02 +0000"
+    "pubdate": "2026-06-30-16-06-13 +0000"
   },
   {
-    "headline": "Parcel Bomb Explodes in Monaco, Injuring 3",
-    "link": "https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html",
+    "headline": "Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones",
+    "link": "https://www.nytimes.com/2026/06/30/world/europe/moscow-drone-attack-russia-ukraine-war.html",
     "source": "nyt",
-    "pubdate": "2026-06-30-14-20-02 +0000"
+    "pubdate": "2026-06-30-16-06-13 +0000"
   },
   {
-    "headline": "Texas Is a Tossup. The Times/Siena Poll Points to How It Got There.",
-    "link": "https://www.nytimes.com/2026/06/30/upshot/texas-poll-talarico-paxton.html",
+    "headline": "Will Starmer's plan for defence help UK hit Nato's spending target?",
+    "link": "https://www.bbc.co.uk/news/articles/cn07ey43xpeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-06-30-16-04-06 +0000"
+  },
+  {
+    "headline": "Supreme Court Lifts Spending Limits on Political Parties and Candidates",
+    "link": "https://www.nytimes.com/2026/06/30/us/supreme-court-campaign-finance.html",
     "source": "nyt",
-    "pubdate": "2026-06-30-14-14-45 +0000"
+    "pubdate": "2026-06-30-16-03-22 +0000"
   },
   {
-    "headline": "Prominent Tech Founder in Indonesia Is Found Guilty in Corruption Case",
-    "link": "https://www.nytimes.com/2026/06/30/business/indonesia-trial-nadiem-makarim.html",
+    "headline": "Ontario and Quebec Face Heat Warnings as High Temperatures Spread Across Canada",
+    "link": "https://www.nytimes.com/2026/06/30/weather/ontario-quebec-canada-heat-wave.html",
     "source": "nyt",
-    "pubdate": "2026-06-30-14-14-09 +0000"
+    "pubdate": "2026-06-30-16-03-17 +0000"
   },
   {
-    "headline": "Prominent Tech Founder in Indonesia Is Found Guilty in Corruption Case",
-    "link": "https://www.nytimes.com/2026/06/30/business/indonesia-trial-nadiem-makarim.html",
+    "headline": "NPR erroneously reports Samuel Alito is retiring, minutes after Supreme Court’s birthright citizenship ruling",
+    "link": "https://nypost.com/2026/06/30/us-news/npr-erroneously-reports-samuel-alito-is-retiring/",
+    "source": "nypost",
+    "pubdate": "2026-06-30-16-02-50 +0000"
+  },
+  {
+    "headline": "NPR erroneously reports Samuel Alito is retiring, minutes after Supreme Court’s birthright citizenship ruling",
+    "link": "https://nypost.com/2026/06/30/us-news/npr-erroneously-reports-samuel-alito-is-retiring/",
+    "source": "nypost",
+    "pubdate": "2026-06-30-16-02-50 +0000"
+  },
+  {
+    "headline": "Supreme Court Upholds Birthright Citizenship",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-birthright-citizenship.html",
     "source": "nyt",
-    "pubdate": "2026-06-30-14-14-09 +0000"
+    "pubdate": "2026-06-30-16-02-09 +0000"
   },
   {
-    "headline": "What Italy’s Failure to Make the Soccer World Cup Says About Its Wider Woes",
-    "link": "https://www.nytimes.com/2026/06/30/world/europe/italy-soccer-world-cup-national-malaise.html",
+    "headline": "Supreme Court Upholds Birthright Citizenship",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-birthright-citizenship.html",
     "source": "nyt",
-    "pubdate": "2026-06-30-14-11-02 +0000"
+    "pubdate": "2026-06-30-16-02-09 +0000"
   },
   {
-    "headline": "What Italy’s Failure to Make the Soccer World Cup Says About Its Wider Woes",
-    "link": "https://www.nytimes.com/2026/06/30/world/europe/italy-soccer-world-cup-national-malaise.html",
+    "headline": "How Equinox Turned Fitness Into a $4,000-a-Year Habit",
+    "link": "https://www.wsj.com/business/how-equinox-turned-fitness-into-a-4-000-a-year-habit-e15136d4?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-00-00 +0000"
+  },
+  {
+    "headline": "A $100 Million Bet on Old Books",
+    "link": "https://www.wsj.com/business/media/a-100-million-bet-on-old-books-c72a68bf?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-30-16-00-00 +0000"
+  },
+  {
+    "headline": "China Increases Military and Economic Pressure on Japan",
+    "link": "https://www.nytimes.com/2026/06/30/world/asia/china-japan-rare-earths-patrols.html",
     "source": "nyt",
-    "pubdate": "2026-06-30-14-11-02 +0000"
+    "pubdate": "2026-06-30-15-57-54 +0000"
   },
   {
-    "headline": "U.S. Supreme Court upholds state laws banning transgender athletes from women's sports",
-    "link": "https://www.cbc.ca/news/world/scotus-decision-transgender-athletes-9.7253677?cmp=rss",
+    "headline": "China Increases Military and Economic Pressure on Japan",
+    "link": "https://www.nytimes.com/2026/06/30/world/asia/china-japan-rare-earths-patrols.html",
+    "source": "nyt",
+    "pubdate": "2026-06-30-15-57-54 +0000"
+  },
+  {
+    "headline": "Supreme Court rules states may ban trans athletes from girls' sports teams",
+    "link": "https://www.latimes.com/politics/story/2026-06-30/supreme-court-rules-states-may-ban-trans-athletes-from-girls-sports-teams",
+    "source": "latimes",
+    "pubdate": "2026-06-30-15-53-59 +0000"
+  },
+  {
+    "headline": "NPR retracts story reporting Justice Alito is retiring from Supreme Court",
+    "link": "https://www.washingtonpost.com/business/2026/06/30/npr-retracts-story-reporting-justice-alito-is-retiring-supreme-court/",
+    "source": "wapo",
+    "pubdate": "2026-06-30-15-51-06 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-30-15-50-07 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-30-15-50-07 +0000"
+  },
+  {
+    "headline": "The Trump administration is prepping a financial lifeline for smaller meatpackers struggling with dwindling cattle supplies, which have sent beef prices surging",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-plans-to-pay-smaller-meatpackers-to-keep-slaughtering-cattle-73bfad6e",
+    "source": "wsj",
+    "pubdate": "2026-06-30-15-49-00 +0000"
+  },
+  {
+    "headline": "Trump Administration Plans to Pay Smaller Meatpackers to Keep Slaughtering Cattle",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-plans-to-pay-smaller-meatpackers-to-keep-slaughtering-cattle-73bfad6e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-06-30-15-49-00 +0000"
+  },
+  {
+    "headline": "L.A. dad saves toddler in crash but loses his foot. 'There's no room for feeling bad'",
+    "link": "https://www.latimes.com/california/story/2026-06-30/los-angeles-dad-saves-toddler-in-crash-loses-foot",
+    "source": "latimes",
+    "pubdate": "2026-06-30-15-48-41 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/30/us/supreme-court-trans-athletes/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-30-15-44-09 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/06/30/us/supreme-court-trans-athletes/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-06-30-15-44-09 +0000"
+  },
+  {
+    "headline": "Chong to finance, Duncan to foreign affairs in Conservative front bench shuffle",
+    "link": "https://www.cbc.ca/news/politics/conservative-critic-shuffle-chong-finance-9.7253906?cmp=rss",
     "source": "cbc",
-    "pubdate": "2026-06-30-14-10-30 +0000"
-  },
-  {
-    "headline": "2 Killed as Bus Flips Into Traffic on Long Island Expressway",
-    "link": "https://www.nytimes.com/2026/06/30/us/long-island-expressway-crash.html",
-    "source": "nyt",
-    "pubdate": "2026-06-30-14-09-10 +0000"
-  },
-  {
-    "headline": "BP’s Deputy CEO to Retire Later in The Year",
-    "link": "https://www.wsj.com/business/energy-oil/bps-deputy-ceo-to-retire-later-in-the-year-73a8951c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-30-14-08-00 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/30/us/supreme-court-trans-athletes/supreme-court-transgender-athletes",
-    "source": "nyt",
-    "pubdate": "2026-06-30-14-07-03 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/06/30/us/supreme-court-trans-athletes/supreme-court-transgender-athletes",
-    "source": "nyt",
-    "pubdate": "2026-06-30-14-07-03 +0000"
-  },
-  {
-    "headline": "Supreme Court upholds state bans on trans athletes in girls’ sports",
-    "link": "https://nypost.com/2026/06/30/us-news/supreme-court-upholds-state-bans-on-trans-female-athletes-in-girls-sports/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-14-06-13 +0000"
-  },
-  {
-    "headline": "Supreme Court upholds state bans on trans athletes in girls’ sports",
-    "link": "https://nypost.com/2026/06/30/us-news/supreme-court-upholds-state-bans-on-trans-female-athletes-in-girls-sports/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-14-06-13 +0000"
-  },
-  {
-    "headline": "Pope Leo promotes nun to migrant role in his first major appointment of woman to Holy See",
-    "link": "https://nypost.com/2026/06/30/world-news/pope-leo-promotes-nun-to-top-migrant-role-in-his-first-major-appointment-of-a-woman-to-holy-see/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-14-02-27 +0000"
-  },
-  {
-    "headline": "Senator Gallego’s Use of Campaign Funds for Family Trips Prompts Scrutiny",
-    "link": "https://www.nytimes.com/2026/06/29/us/politics/gallego-campaign-funds-family.html",
-    "source": "nyt",
-    "pubdate": "2026-06-30-14-01-55 +0000"
-  },
-  {
-    "headline": "Senator Gallego’s Use of Campaign Funds for Family Trips Prompts Scrutiny",
-    "link": "https://www.nytimes.com/2026/06/29/us/politics/gallego-campaign-funds-family.html",
-    "source": "nyt",
-    "pubdate": "2026-06-30-14-01-55 +0000"
-  },
-  {
-    "headline": "From the billionaire tax to voter ID, here are the 14 measures Californians will decide in November",
-    "link": "https://nypost.com/2026/06/30/us-news/see-the-14-measures-on-californias-november-2026-ballot/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-14-00-00 +0000"
-  },
-  {
-    "headline": "U.S. Natural Gas Futures Pick Up Along With Heat",
-    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-along-with-heat-ed2bb892?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-06-30-14-00-00 +0000"
-  },
-  {
-    "headline": "U.S. Natural Gas Futures Pick Up Along With Heat",
-    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-along-with-heat-ed2bb892?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-30-14-00-00 +0000"
-  },
-  {
-    "headline": "Could You Be Fooled by a Ponzi Scheme? You’d Better Believe It",
-    "link": "https://www.wsj.com/finance/investing/could-you-be-fooled-by-a-ponzi-scheme-youd-better-believe-it-e159c877?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-30-13-55-00 +0000"
-  },
-  {
-    "headline": "Alaska court allows second Dan Sullivan back on Senate ballot in blow to Republicans",
-    "link": "https://nypost.com/2026/06/30/us-news/alaska-court-allows-second-dan-sullivan-back-on-senate-ballot-in-blow-to-republicans/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-13-54-04 +0000"
-  },
-  {
-    "headline": "Alaska court allows second Dan Sullivan back on Senate ballot in blow to Republicans",
-    "link": "https://nypost.com/2026/06/30/us-news/alaska-court-allows-second-dan-sullivan-back-on-senate-ballot-in-blow-to-republicans/",
-    "source": "nypost",
-    "pubdate": "2026-06-30-13-54-04 +0000"
-  },
-  {
-    "headline": "U.K. Pledges Nearly $20 Billion Extra for Armed Forces",
-    "link": "https://www.wsj.com/world/uk/u-k-pledges-nearly-20-billion-extra-for-armed-forces-69929488",
-    "source": "wsj",
-    "pubdate": "2026-06-30-13-52-00 +0000"
+    "pubdate": "2026-06-30-15-43-24 +0000"
   },
   {
     "headline": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
     "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-30-13-51-52 +0000"
+    "pubdate": "2026-06-30-15-40-50 +0000"
   },
   {
     "headline": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
     "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-06-30-13-51-52 +0000"
-  },
-  {
-    "headline": "Stocks Mixed but Set to Wrap Quarter With Major Gains",
-    "link": "https://www.wsj.com/finance/investing/u-s-futures-edge-up-yen-hits-40-year-dollar-low-8f295bc6?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-06-30-13-49-00 +0000"
-  },
-  {
-    "headline": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
-    "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
-    "source": "nyt",
-    "pubdate": "2026-06-30-13-45-35 +0000"
-  },
-  {
-    "headline": "After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan",
-    "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
-    "source": "nyt",
-    "pubdate": "2026-06-30-13-45-35 +0000"
+    "pubdate": "2026-06-30-15-40-50 +0000"
   }
 ]
