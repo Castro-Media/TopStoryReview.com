@@ -1,45 +1,10 @@
 [
   {
-    "score": 61,
-    "pubdate": "2026-06-30-16-02-50 +0000",
-    "source": "nypost",
-    "headline": "NPR erroneously reports Samuel Alito is retiring, minutes after Supreme Court’s birthright citizenship ruling",
-    "link": "https://nypost.com/2026/06/30/us-news/npr-erroneously-reports-samuel-alito-is-retiring/"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-06-30-16-08-00 +0000",
-    "source": "wsj",
-    "headline": "Egg Producers Manipulated Market, Keeping Prices High, Say Antitrust Authorities",
-    "link": "https://www.wsj.com/business/egg-producers-manipulated-market-keeping-prices-high-say-antitrust-authorities-f7ff50df?mod=rss_markets_main"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-06-30-16-13-38 +0000",
-    "source": "latimes",
-    "headline": "Supreme Court strikes down Watergate-era limits on campaign funds for political parties",
-    "link": "https://www.latimes.com/politics/story/2026-06-30/supreme-court-strikes-down-watergate-era-limits-on-campaign-funds-for-political-parties"
-  },
-  {
     "score": 22,
     "pubdate": "2026-06-30-16-31-55 +0000",
     "source": "bbc",
     "headline": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
     "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-06-30-16-23-00 +0000",
-    "source": "wsj",
-    "headline": "A congressman who was absent from the Capitol for nearly four months disclosed that he had been diagnosed with depression in a floor speech on his first day back at work",
-    "link": "https://www.wsj.com/politics/elections/gop-lawmaker-returns-after-mysterious-four-month-absence-c70a10fa"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-06-30-15-49-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration is prepping a financial lifeline for smaller meatpackers struggling with dwindling cattle supplies, which have sent beef prices surging",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-plans-to-pay-smaller-meatpackers-to-keep-slaughtering-cattle-73bfad6e"
   },
   {
     "score": 20,
@@ -49,24 +14,31 @@
     "link": "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html"
   },
   {
-    "score": 19,
-    "pubdate": "2026-06-30-16-14-43 +0000",
-    "source": "bbc",
-    "headline": "US Supreme Court upholds bans on transgender women in female school and college sports",
-    "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss"
+    "score": 8,
+    "pubdate": "2026-06-30-16-33-55 +0000",
+    "source": "startribune",
+    "headline": "Twin Cities Marine who was lost at sea declared dead",
+    "link": "https://www.startribune.com/twin-cities-marine-who-was-lost-at-sea-declared-dead/601863175"
   },
   {
-    "score": 18,
-    "pubdate": "2026-06-30-16-23-02 +0000",
-    "source": "bbc",
-    "headline": "What to know about the looming  deadline on North American free trade",
-    "link": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss"
+    "score": 7,
+    "pubdate": "2026-06-30-16-34-21 +0000",
+    "source": "nyt",
+    "headline": "The Supreme Court Just Gave the G.O.P. a New Midterm Edge",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-midterms-campaign-finance.html"
   },
   {
-    "score": 16,
-    "pubdate": "2026-06-30-16-26-00 +0000",
-    "source": "wsj",
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-76426722?mod=pls_whats_news_us_business_f"
+    "score": 0,
+    "pubdate": "2026-06-30-16-31-55 +0000",
+    "source": "bbc",
+    "headline": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-06-30-16-31-24 +0000",
+    "source": "nyt",
+    "headline": "Times/Siena Poll Finds Talarico and Paxton Tied in Texas Senate Race",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/texas-senate-poll-talarico-paxton.html"
   }
 ]
