@@ -1,45 +1,10 @@
 [
   {
-    "score": 30,
-    "pubdate": "2026-07-01-20-14-58 +0000",
-    "source": "nyt",
-    "headline": "Crypto Brought Trump a Huge Windfall, Even as Many Investors Lost Big",
-    "link": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-07-01-19-39-50 +0000",
-    "source": "nypost",
-    "headline": "US, Iran agree to one-week de-escalation in Strait of Hormuz ahead of America 250 celebrations",
-    "link": "https://nypost.com/2026/07/01/us-news/us-iran-agree-to-one-week-de-escalation-in-strait-of-hormuz-ahead-of-america-250/"
-  },
-  {
     "score": 20,
     "pubdate": "2026-07-01-20-24-48 +0000",
     "source": "nyt",
     "headline": "A Town in Quebec Is the First Governing Body to Adopt the Universal Declaration of the Rights of Trees",
     "link": "https://www.nytimes.com/2026/07/01/world/canada/quebec-trees-rights-canada-terrasse-vaudreuil.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-07-01-20-09-16 +0000",
-    "source": "nypost",
-    "headline": "Killer wolves terrorize California ranchers desperate to defend livestock from predators",
-    "link": "https://nypost.com/2026/07/01/us-news/killer-wolves-terrorize-california-ranchers-desperate-to-defend-livestock-from-predators/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-07-01-20-19-47 +0000",
-    "source": "nyt",
-    "headline": "Celebrating the World Cup, the English Ask: Who Owns the Flag?",
-    "link": "https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-07-01-20-17-20 +0000",
-    "source": "nyt",
-    "headline": "The Democratic Incumbents Most at Risk of Losing to Progressive Primary Challengers in 2026",
-    "link": "https://www.nytimes.com/2026/07/01/us/politics/democratic-incumbents-progressive-primary-challengers.html"
   },
   {
     "score": 16,
@@ -49,24 +14,38 @@
     "link": "https://www.wsj.com/finance/investing/a-big-short-gets-bigger-6a9e9c37"
   },
   {
-    "score": 16,
-    "pubdate": "2026-07-01-19-42-14 +0000",
-    "source": "nyt",
-    "headline": "Trump Accounts to Receive $250 Million Donation From Chip Maker Micron",
-    "link": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-07-01-19-52-25 +0000",
-    "source": "nyt",
-    "headline": "Who Can Sell ‘6 7’ Chicken Nuggets? One Company Is Asking a Court to Decide.",
-    "link": "https://www.nytimes.com/2026/07/01/us/perdue-chicken-nuggets-lawsuit-6-7.html"
-  },
-  {
     "score": 14,
-    "pubdate": "2026-07-01-19-44-36 +0000",
+    "pubdate": "2026-07-01-20-19-47 +0000",
+    "source": "nyt",
+    "headline": "Celebrating the World Cup, the English Ask: Who Owns the Flag?",
+    "link": "https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-07-01-20-19-56 +0000",
     "source": "nypost",
-    "headline": "Mamdani gives Taylor Swift, Travis Kelce wedding advice ahead of MSG nuptials, NYC heatwave",
-    "link": "https://nypost.com/2026/07/01/us-news/mamdani-gives-taylor-swift-travis-kelce-wedding-advice-ahead-of-msg-nuptials-nyc-heatwave/"
+    "headline": "Ohio motel fire kills 3 people trapped in room after firefighters couldn’t reach victims",
+    "link": "https://nypost.com/2026/07/01/us-news/ohio-motel-fire-kills-3-people-trapped-in-room-after-firefighters-couldnt-reach-victims/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-01-20-24-48 +0000",
+    "source": "nyt",
+    "headline": "A Town in Quebec Is the First Governing Body to Adopt the Universal Declaration of the Rights of Trees",
+    "link": "https://www.nytimes.com/2026/07/01/world/canada/quebec-trees-rights-canada-terrasse-vaudreuil.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-01-20-22-00 +0000",
+    "source": "wsj",
+    "headline": "A Big Short Gets Bigger",
+    "link": "https://www.wsj.com/finance/investing/a-big-short-gets-bigger-6a9e9c37?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-01-20-19-47 +0000",
+    "source": "nyt",
+    "headline": "Celebrating the World Cup, the English Ask: Who Owns the Flag?",
+    "link": "https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html"
   }
 ]
