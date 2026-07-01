@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 35,
+    "pubdate": "2026-07-01-00-46-42 +0000",
+    "source": "latimes",
+    "headline": "Newsom signs off on 100% California tax for money from Trump's $1.8-billion 'slush fund'",
+    "link": "https://www.latimes.com/california/story/2026-06-30/newsom-signs-off-on-100-california-tax-for-money-from-trumps-1-8-billion-slush-fund"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-07-01-01-21-18 +0000",
+    "source": "nyt",
+    "headline": "The Supreme Court Just Gave the G.O.P. a New Midterm Edge",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-midterms-campaign-finance.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-07-01-01-18-04 +0000",
+    "source": "bbc",
+    "headline": "Trump made more than $1bn from crypto in first year back in office",
+    "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-01-01-24-59 +0000",
+    "source": "nyt",
+    "headline": "Driver Is Reported Dead Days After Plowing Into World Cup Fans in Mexico",
+    "link": "https://www.nytimes.com/2026/06/30/world/americas/mexico-driver-died-world-cup-party.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-01-01-13-36 +0000",
+    "source": "bbc",
+    "headline": "Anthropic says US lifts export ban on its advanced AI tools",
+    "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-01-01-04-16 +0000",
+    "source": "bbc",
+    "headline": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+    "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-07-01-01-15-53 +0000",
+    "source": "nyt",
+    "headline": "Trump Pulled in at Least $2.2 Billion in 2025, Financial Disclosure Shows",
+    "link": "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-01-01-14-21 +0000",
+    "source": "nypost",
+    "headline": "Trump confirms GOP will hold ‘midterm convention’ in  Dallas in September",
+    "link": "https://nypost.com/2026/06/30/us-news/trump-confirms-gop-will-hold-midterm-convention-in-dallas-in-september/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-01-01-17-31 +0000",
+    "source": "nypost",
+    "headline": "Florida woman claims cocaine found in her butt after arrest must’ve been from ‘intimate encounter’",
+    "link": "https://nypost.com/2026/06/30/us-news/florida-woman-claims-cocaine-in-her-butt-mustve-been-from-intimate-encounter-busted-by-cops/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-01-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Although the justices struck down an executive order curtailing birthright citizenship, courts gave the president other ways to pursue his immigration crackdown",
+    "link": "https://www.wsj.com/politics/policy/supreme-court-gives-trump-new-tools-to-accelerate-deportations-c9457452"
+  }
+]
