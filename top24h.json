@@ -1,59 +1,59 @@
 [
   {
-    "score": 166,
+    "score": 163,
     "pubdate": "2026-07-02-02-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump came to office promising an end to forever wars. He now finds himself bogged down in talks with Iran with no end in sight.",
     "link": "https://www.wsj.com/politics/national-security/trump-pledged-no-forever-wars-now-he-risks-forever-talks-with-iran-18e1c350"
   },
   {
-    "score": 92,
-    "pubdate": "2026-07-01-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f"
-  },
-  {
-    "score": 86,
+    "score": 82,
     "pubdate": "2026-07-01-10-49-02 +0000",
     "source": "nypost",
     "headline": "Dog missing for month in Mexico found partying with World Cup fans after team’s win",
     "link": "https://nypost.com/2026/07/01/world-news/dog-missing-for-month-in-mexico-found-partying-with-world-cup-fans-after-teams-win/"
   },
   {
-    "score": 64,
+    "score": 66,
+    "pubdate": "2026-07-01-15-12-32 +0000",
+    "source": "nypost",
+    "headline": "Microsoft to slash thousands of jobs as AI spending concerns fuel third major layoff round in a year: report",
+    "link": "https://nypost.com/2026/07/01/business/microsoft-to-slash-thousands-of-jobs-as-ai-spending-concerns-fuel-third-major-layoff-round-in-a-year-report/"
+  },
+  {
+    "score": 63,
+    "pubdate": "2026-07-01-19-41-11 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Sues Over New Gun Bans in Virginia and California",
+    "link": "https://www.nytimes.com/2026/07/01/us/politics/justice-trump-suit-gun-ban-virginia-california.html"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-07-02-08-34-12 +0000",
+    "source": "nypost",
+    "headline": "Pennsylvania state Rep. Eric Davanzo says he was kicked off House floor over ‘patriotic’ suit ahead of America 250",
+    "link": "https://nypost.com/2026/07/02/us-news/pennsylvania-state-rep-eric-davanzo-says-he-was-kicked-off-house-floor-over-patriotic-suit-ahead-of-america-250/"
+  },
+  {
+    "score": 61,
     "pubdate": "2026-07-02-05-46-58 +0000",
     "source": "nypost",
     "headline": "Ohio capital city sparks conservative fire over Somali flag-raising at city hall: ‘Excuse me?’",
     "link": "https://nypost.com/2026/07/02/us-news/columbus-ohio-sparks-conservative-fire-over-somali-flag-raising-at-city-hall/"
   },
   {
-    "score": 64,
+    "score": 59,
     "pubdate": "2026-07-01-18-56-36 +0000",
     "source": "bbc",
     "headline": "US blocks long-term renewal of North American trade deal",
     "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 56,
-    "pubdate": "2026-07-01-17-12-00 +0000",
-    "source": "wsj",
-    "headline": "Elizabeth Warren asked the Fed’s inspector general to review whether Michelle Bowman violated the central bank’s rules by speaking at a private Bank of America dinner for the firm’s clients",
-    "link": "https://www.wsj.com/economy/central-banking/warren-asks-fed-watchdog-to-review-bowman-appearance-at-bank-event-9962dc2d"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-07-01-20-31-14 +0000",
-    "source": "latimes",
-    "headline": "Trump administration sues California over 'Glock ban' law targeting machine gun pistols",
-    "link": "https://www.latimes.com/california/story/2026-07-01/trump-administration-california-glock-ban-lawsuits"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-07-02-00-55-05 +0000",
+    "score": 54,
+    "pubdate": "2026-07-01-17-39-57 +0000",
     "source": "nypost",
-    "headline": "DOJ vows ‘birth tourism’ crackdown after Supreme Court rules against Trump in birthright citizenship case",
-    "link": "https://nypost.com/2026/07/01/us-news/doj-vows-birth-tourism-crackdown-after-supreme-court-rules-against-trump-in-birthright-citizenship-case/"
+    "headline": "Russia’s top banker begs for Putin end to Ukraine war, issues stark warning: ‘Economy simply cannot survive’",
+    "link": "https://nypost.com/2026/07/01/world-news/putins-top-banker-begs-for-end-to-ukraine-war-in-stark-warning/"
   },
   {
     "score": 52,
@@ -63,10 +63,10 @@
     "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
-    "pubdate": "2026-07-01-17-39-57 +0000",
-    "source": "nypost",
-    "headline": "Russia’s top banker begs for Putin end to Ukraine war, issues stark warning: ‘Economy simply cannot survive’",
-    "link": "https://nypost.com/2026/07/01/world-news/putins-top-banker-begs-for-end-to-ukraine-war-in-stark-warning/"
+    "score": 46,
+    "pubdate": "2026-07-01-17-12-00 +0000",
+    "source": "wsj",
+    "headline": "Elizabeth Warren asked the Fed’s inspector general to review whether Michelle Bowman violated the central bank’s rules by speaking at a private Bank of America dinner for the firm’s clients",
+    "link": "https://www.wsj.com/economy/central-banking/warren-asks-fed-watchdog-to-review-bowman-appearance-at-bank-event-9962dc2d"
   }
 ]
