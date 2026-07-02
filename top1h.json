@@ -1,51 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-07-01-20-24-48 +0000",
+    "score": 29,
+    "pubdate": "2026-07-01-23-33-17 +0000",
     "source": "nyt",
-    "headline": "A Town in Quebec Is the First Governing Body to Adopt the Universal Declaration of the Rights of Trees",
-    "link": "https://www.nytimes.com/2026/07/01/world/canada/quebec-trees-rights-canada-terrasse-vaudreuil.html"
+    "headline": "Trump Administration Delivers Lucrative Win for Its Kratom Allies",
+    "link": "https://www.nytimes.com/2026/07/01/us/kratom-trump-administration.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-07-01-23-55-01 +0000",
+    "source": "nypost",
+    "headline": "NPR’s Alito retirement blunder raises eyebrows after reporter’s ‘not plausible’ explanation stuns media world",
+    "link": "https://nypost.com/2026/07/01/media/nprs-alito-retirement-blunder-raises-eyebrows-after-reporters-not-plausible-explanation-stuns-media-world/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-07-01-23-51-12 +0000",
+    "source": "nypost",
+    "headline": "StubHub canceled customers’ World Cup tickets hours before matches, costing them thousands of dollars: lawsuit",
+    "link": "https://nypost.com/2026/07/01/us-news/stubhub-canceled-customers-world-cup-tickets-hours-before-matches-costing-them-thousands-of-dollars-lawsuit/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-07-01-23-40-38 +0000",
+    "source": "nyt",
+    "headline": "Ruling on Trans Athletes Gave the G.O.P. a Win. Most Democrats Looked the Other Way.",
+    "link": "https://www.nytimes.com/2026/07/01/us/politics/supreme-court-trans-athletes-midterms.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-07-01-23-19-30 +0000",
+    "source": "startribune",
+    "headline": "NHL free agency Day 1: Wild lose Mats Zuccarello to Kings, sign goalie Calvin Pickard, re-sign Zach Bogosian",
+    "link": "https://www.startribune.com/minnesota-wild-nhl-free-agency-signings-mats-zuccarello-vladimir-tarasenko-quinn-hughes/601861813"
   },
   {
     "score": 16,
-    "pubdate": "2026-07-01-20-22-00 +0000",
-    "source": "wsj",
-    "headline": "A big short gets bigger, General Mills rallies and Warsh stays cryptic. Read more in today’s Markets P.M. newsletter:",
-    "link": "https://www.wsj.com/finance/investing/a-big-short-gets-bigger-6a9e9c37"
+    "pubdate": "2026-07-01-23-28-08 +0000",
+    "source": "nypost",
+    "headline": "Boy arrested in affluent California college town after slamming baby girl into the ground, killing her",
+    "link": "https://nypost.com/2026/07/01/us-news/boy-arrested-in-california-for-throwing-baby-to-ground-killing-her/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-07-01-23-56-40 +0000",
+    "source": "nyt",
+    "headline": "Does Trump Worry About Conflicts of Interest? ‘I Found Out That Nobody Cared.’",
+    "link": "https://www.nytimes.com/2026/07/01/us/politics/trump-money-conflicts-presidency.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-07-01-23-38-17 +0000",
+    "source": "nypost",
+    "headline": "Caroline Peña’s pal shares anguish ahead of final goodbye to mom allegedly stabbed to death by sisters Kitty and Cookie",
+    "link": "https://nypost.com/2026/07/01/us-news/caroline-penas-pal-shares-anguish-ahead-of-final-goodbye-to-mom-allegedly-stabbed-to-death-by-sisters-kitty-and-cookie/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-07-01-23-23-24 +0000",
+    "source": "latimes",
+    "headline": "As Trump reports $2.2 billion in 2025 income, ethics experts raise alarms",
+    "link": "https://www.latimes.com/politics/story/2026-07-01/trumps-reported-2-2-billion-in-2025-income-sets-off-ethics-alarms"
   },
   {
     "score": 14,
-    "pubdate": "2026-07-01-20-19-47 +0000",
+    "pubdate": "2026-07-01-23-55-10 +0000",
     "source": "nyt",
-    "headline": "Celebrating the World Cup, the English Ask: Who Owns the Flag?",
-    "link": "https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-07-01-20-19-56 +0000",
-    "source": "nypost",
-    "headline": "Ohio motel fire kills 3 people trapped in room after firefighters couldn’t reach victims",
-    "link": "https://nypost.com/2026/07/01/us-news/ohio-motel-fire-kills-3-people-trapped-in-room-after-firefighters-couldnt-reach-victims/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-07-01-20-24-48 +0000",
-    "source": "nyt",
-    "headline": "A Town in Quebec Is the First Governing Body to Adopt the Universal Declaration of the Rights of Trees",
-    "link": "https://www.nytimes.com/2026/07/01/world/canada/quebec-trees-rights-canada-terrasse-vaudreuil.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-07-01-20-22-00 +0000",
-    "source": "wsj",
-    "headline": "A Big Short Gets Bigger",
-    "link": "https://www.wsj.com/finance/investing/a-big-short-gets-bigger-6a9e9c37?mod=rss_markets_main"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-07-01-20-19-47 +0000",
-    "source": "nyt",
-    "headline": "Celebrating the World Cup, the English Ask: Who Owns the Flag?",
-    "link": "https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html"
+    "headline": "Bureau of Prisons Will Close Facilities Housing Thousands of Inmates",
+    "link": "https://www.nytimes.com/2026/07/01/us/politics/bureau-of-prisons-closing-facilities.html"
   }
 ]
