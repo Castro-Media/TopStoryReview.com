@@ -1,62 +1,55 @@
 [
   {
-    "score": 164,
-    "pubdate": "2026-07-01-14-44-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s forays into cryptocurrency delivered him a windfall of more than $1 billion last year, according to his latest financial disclosure report",
-    "link": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f"
-  },
-  {
-    "score": 94,
-    "pubdate": "2026-07-01-10-49-02 +0000",
+    "score": 160,
+    "pubdate": "2026-07-01-17-27-05 +0000",
     "source": "nypost",
-    "headline": "Dog missing for month in Mexico found partying with World Cup fans after team’s win",
-    "link": "https://nypost.com/2026/07/01/world-news/dog-missing-for-month-in-mexico-found-partying-with-world-cup-fans-after-teams-win/"
+    "headline": "Trump won’t renew USMCA deal with Canada and Mexico, trade rep says",
+    "link": "https://nypost.com/2026/07/01/us-news/trump-wont-renew-usmca-deal-with-canada-and-mexico-trade-rep/"
   },
   {
-    "score": 72,
-    "pubdate": "2026-07-01-22-17-27 +0000",
-    "source": "nypost",
-    "headline": "Inside the new Air Force One: Trump’s Qatari jet features massage chairs, Apple TV, gold fixtures",
-    "link": "https://nypost.com/2026/07/01/us-news/inside-the-new-air-force-one-trumps-qatari-jet-features-massage-chairs-apple-tv-gold-fixtures/"
-  },
-  {
-    "score": 70,
-    "pubdate": "2026-07-01-18-56-36 +0000",
-    "source": "bbc",
-    "headline": "US blocks long-term renewal of North American trade deal",
-    "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 68,
-    "pubdate": "2026-07-01-21-05-04 +0000",
-    "source": "nypost",
-    "headline": "Iran war drives wedge between US and Saudi Arabia — as America considers drastic change in Middle East",
-    "link": "https://nypost.com/2026/07/01/world-news/iran-war-drives-wedge-between-us-and-saudi-arabia-report/"
-  },
-  {
-    "score": 59,
+    "score": 91,
     "pubdate": "2026-07-01-02-00-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court has wrapped up one of its most consequential terms in decades. Here are top themes from a bruising and blockbuster year.",
     "link": "https://www.wsj.com/politics/policy/how-supreme-court-navigated-momentous-term-with-trump-3fb47e5b"
   },
   {
-    "score": 57,
-    "pubdate": "2026-07-01-20-31-14 +0000",
-    "source": "latimes",
-    "headline": "Trump administration sues California over 'Glock ban' law targeting machine gun pistols",
-    "link": "https://www.latimes.com/california/story/2026-07-01/trump-administration-california-glock-ban-lawsuits"
+    "score": 72,
+    "pubdate": "2026-07-01-10-49-02 +0000",
+    "source": "nypost",
+    "headline": "Dog missing for month in Mexico found partying with World Cup fans after team’s win",
+    "link": "https://nypost.com/2026/07/01/world-news/dog-missing-for-month-in-mexico-found-partying-with-world-cup-fans-after-teams-win/"
+  },
+  {
+    "score": 65,
+    "pubdate": "2026-07-01-21-05-04 +0000",
+    "source": "nypost",
+    "headline": "Iran war drives wedge between US and Saudi Arabia — as America considers drastic change in Middle East",
+    "link": "https://nypost.com/2026/07/01/world-news/iran-war-drives-wedge-between-us-and-saudi-arabia-report/"
+  },
+  {
+    "score": 61,
+    "pubdate": "2026-07-01-19-41-11 +0000",
+    "source": "nyt",
+    "headline": "Trump Administration Sues Over New Gun Bans in Virginia and California",
+    "link": "https://www.nytimes.com/2026/07/01/us/politics/justice-trump-suit-gun-ban-virginia-california.html"
+  },
+  {
+    "score": 61,
+    "pubdate": "2026-07-01-14-44-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s forays into cryptocurrency delivered him a windfall of more than $1 billion last year, according to his latest financial disclosure report",
+    "link": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-07-01-21-36-38 +0000",
+    "source": "nypost",
+    "headline": "Trump honors ‘freakin’ wild life’ of Teddy Roosevelt, interacts with AI-powered ex-prez in North Dakota visit",
+    "link": "https://nypost.com/2026/07/01/us-news/trump-honors-freakin-wild-life-of-teddy-roosevelt-interacts-with-ai-powered-ex-prez-in-north-dakota-visit/"
   },
   {
     "score": 51,
-    "pubdate": "2026-07-01-17-58-05 +0000",
-    "source": "nypost",
-    "headline": "Kamala Harris reaches out to Mamdani, anti-Israel progressives as polls show her leading 2028 Dem primary",
-    "link": "https://nypost.com/2026/07/01/us-news/kamala-harris-speaks-with-mamdani-anti-israel-progressives-as-polls-show-her-ahead-in-2028-dem-primary/"
-  },
-  {
-    "score": 49,
     "pubdate": "2026-07-01-17-24-00 +0000",
     "source": "wsj",
     "headline": "We asked five experts across the political spectrum: What constitutional amendment would you like to see? There was some surprising agreement.",
@@ -64,9 +57,16 @@
   },
   {
     "score": 49,
-    "pubdate": "2026-07-01-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Gas giants use AI to raise prices, lawsuit says, another algorithmic hit to the cost of living",
-    "link": "https://www.latimes.com/california/story/2026-07-01/lawsuit-over-gas-prices-tests-clarification-to-states-antitrust-law"
+    "pubdate": "2026-07-01-18-54-00 +0000",
+    "source": "wsj",
+    "headline": "Kevin Warsh declined to say how the Fed will approach an upcoming debate over whether to raise rates, calling the coming meeting a “good family fight”",
+    "link": "https://www.wsj.com/economy/central-banking/interest-rates-kevin-warsh-de137876"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-07-02-00-55-05 +0000",
+    "source": "nypost",
+    "headline": "DOJ vows ‘birth tourism’ crackdown after Supreme Court rules against Trump in birthright citizenship case",
+    "link": "https://nypost.com/2026/07/01/us-news/doj-vows-birth-tourism-crackdown-after-supreme-court-rules-against-trump-in-birthright-citizenship-case/"
   }
 ]
