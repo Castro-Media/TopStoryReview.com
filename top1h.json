@@ -1,16 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2026-07-02-17-23-26 +0000",
+    "score": 34,
+    "pubdate": "2026-07-02-18-34-02 +0000",
     "source": "nypost",
-    "headline": "Minnesota Gov. Tim Walz pardons illegal migrant convicted of sexually assaulting 10-year-old girl",
-    "link": "https://nypost.com/2026/07/02/us-news/minnesota-gov-tim-walz-pardons-illegal-migrant-convicted-of-sexually-assaulting-10-year-old-girl/"
+    "headline": "The top 10 most un-American, no-show states at Trump’s Great American State Fair",
+    "link": "https://nypost.com/2026/07/02/us-news/the-top-10-most-unamerican-no-show-states-at-trumps-great-american-state-fair/"
   },
   {
-    "score": 9,
-    "pubdate": "2026-07-02-17-22-56 +0000",
+    "score": 30,
+    "pubdate": "2026-07-02-18-54-00 +0000",
+    "source": "nyt",
+    "headline": "To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power",
+    "link": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-07-02-19-10-58 +0000",
     "source": "nypost",
-    "headline": "Video shows ‘super-hero’ neighbors rescuing great-grandma from burning home",
-    "link": "https://nypost.com/2026/07/02/world-news/video-shows-super-hero-neighbors-rescuing-great-grandma-from-burning-home/"
+    "headline": "California’s Fourth of July gas prices will drain your wallet even more this year",
+    "link": "https://nypost.com/2026/07/02/us-news/californias-fourth-of-july-gas-prices-see-massive-increase-in-2026/"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-07-02-19-17-09 +0000",
+    "source": "nypost",
+    "headline": "Grieving Ukrainian mom crouches over dead son in gut-wrenching image — after Russia unleashes ‘nigh of horror’ on Kyiv",
+    "link": "https://nypost.com/2026/07/02/world-news/gut-wrenching-images-show-children-killed-in-massive-russian-airstrike-on-kyiv/"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-07-02-18-24-40 +0000",
+    "source": "nypost",
+    "headline": "LA mayoral candidate Nithya Raman dodges million-dollar question as Mamdani comparisons pour in",
+    "link": "https://nypost.com/2026/07/02/us-news/los-angeles-mayoral-candidate-nithya-raman-dodges-question-about-capitalism/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-07-02-18-53-58 +0000",
+    "source": "nyt",
+    "headline": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
+    "link": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-07-02-18-32-13 +0000",
+    "source": "nypost",
+    "headline": "American Olympic canoeist indicted for alleged vandalism of Lincoln Memorial Reflecting Pool",
+    "link": "https://nypost.com/2026/07/02/us-news/american-olympic-canoeist-indicted-for-alleged-vandalism-of-lincoln-memorial-reflecting-pool/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-07-02-19-02-05 +0000",
+    "source": "nyt",
+    "headline": "Vatican Excommunicates Society of St. Pius X, in First Major Crisis for Pope Leo",
+    "link": "https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-02-18-23-49 +0000",
+    "source": "nyt",
+    "headline": "US Job Market Makes Slower but Steady Gains, June Employment Data Shows",
+    "link": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-02-18-45-49 +0000",
+    "source": "bbc",
+    "headline": "Pubs allowed to stay open until 5am for England Mexico match",
+    "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss"
   }
 ]
