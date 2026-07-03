@@ -1,6 +1,6 @@
 [
   {
-    "score": 128,
+    "score": 122,
     "pubdate": "2026-07-02-02-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump came to office promising an end to forever wars. He now finds himself bogged down in talks with Iran with no end in sight.",
@@ -8,62 +8,62 @@
   },
   {
     "score": 79,
-    "pubdate": "2026-07-02-20-06-08 +0000",
+    "pubdate": "2026-07-02-19-48-37 +0000",
     "source": "nyt",
     "headline": "Russia Bombards Ukrainian Capital With Deadly Wave of Attacks",
-    "link": "https://www.nytimes.com/2026/07/02/world/europe/russia-attack-on-kyiv.html"
+    "link": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack/heres-the-latest"
   },
   {
-    "score": 75,
+    "score": 71,
+    "pubdate": "2026-07-02-18-23-50 +0000",
+    "source": "nyt",
+    "headline": "June Jobs Report Shows US Labor Market Making Slower but Steady Gains",
+    "link": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html"
+  },
+  {
+    "score": 70,
     "pubdate": "2026-07-02-14-46-00 +0000",
     "source": "wsj",
     "headline": "Court documents released in one of Anthropic’s lawsuits against the Pentagon shed light on the underlying tensions between the government and one of America’s hottest AI companies",
     "link": "https://www.wsj.com/politics/national-security/read-the-emails-revealing-how-anthropics-pentagon-relationship-fell-apart-b1d123dd"
   },
   {
-    "score": 69,
-    "pubdate": "2026-07-02-13-54-28 +0000",
-    "source": "nyt",
-    "headline": "Latest Jobs Report Shows Labor Market Is Not a Source of Inflationary Pressure",
-    "link": "https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html"
-  },
-  {
-    "score": 61,
+    "score": 63,
     "pubdate": "2026-07-02-03-00-00 +0000",
     "source": "wsj",
     "headline": "Europe Learns It’s Hard to Start a Trade War With China During a Heat Wave",
     "link": "https://www.wsj.com/world/china/europe-learns-its-hard-to-start-a-trade-war-with-china-during-a-heat-wave-a2480fdd"
   },
   {
-    "score": 54,
+    "score": 59,
+    "pubdate": "2026-07-02-21-50-58 +0000",
+    "source": "nyt",
+    "headline": "Kyiv Residents Pick Up the Pieces After the Latest Russian Assault",
+    "link": "https://www.nytimes.com/2026/07/02/world/europe/kyiv-strikes-civilians.html"
+  },
+  {
+    "score": 55,
     "pubdate": "2026-07-01-23-43-03 +0000",
     "source": "latimes",
     "headline": "SoCal boy was killed by massive tree branch at summer camp; $19.3-million settlement reached",
     "link": "https://www.latimes.com/california/story/2026-07-01/socal-boy-killed-by-tree-branch-at-camp-19-3m-settlement-reached"
   },
   {
-    "score": 53,
-    "pubdate": "2026-07-02-20-37-54 +0000",
+    "score": 48,
+    "pubdate": "2026-07-02-22-29-20 +0000",
     "source": "nypost",
-    "headline": "AOC throws her weight behind progressive Abdul El-Sayed in Michigan Senate race",
-    "link": "https://nypost.com/2026/07/02/us-news/aoc-throws-her-weight-behind-progressive-abdul-el-sayed-in-michigan-senate-race/"
+    "headline": "Moment underage party girls try to lie their way past cops in elite California beach city",
+    "link": "https://nypost.com/2026/07/02/us-news/california-party-girls-caught-with-fake-ids-and-cant-get-story-straight/"
   },
   {
-    "score": 49,
-    "pubdate": "2026-07-02-20-18-14 +0000",
-    "source": "bbc",
-    "headline": "'Most massive' Russian attack on Kyiv kills at least 27",
-    "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+    "score": 48,
+    "pubdate": "2026-07-02-18-21-00 +0000",
+    "source": "wsj",
+    "headline": "Tesla Driver Charged With Manslaughter After Crashing Into Texas Home, Killing Woman",
+    "link": "https://www.wsj.com/business/autos/driver-charged-with-manslaughter-after-tesla-crashed-into-texas-home-killing-woman-inside-65e17279?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 46,
-    "pubdate": "2026-07-02-15-13-29 +0000",
-    "source": "bbc",
-    "headline": "Residents of Ethiopian town forced to kill hundreds of their own dogs after rabies deaths",
-    "link": "https://www.bbc.co.uk/news/articles/c1wy4d5p4pxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 45,
+    "score": 47,
     "pubdate": "2026-07-02-05-14-51 +0000",
     "source": "nypost",
     "headline": "Bodies of Florida beauty queen, boyfriend found lying side-by-side underneath rubble left by devastating Venezuela earthquakes",
