@@ -412,15 +412,11 @@ function ShowChart($container){
         });
 }
 
+// Show only the story list selected by the visible radio controls.
 function updateListVisibility(){
-    var periodId = $('input[name="period"]:checked').attr('id');
-    var periodLabel = $('label[for="' + periodId + '"]').text().trim();
-
-    var viewId = $('input[name="view"]:checked').attr('id');
-    var viewLabel = $('label[for="' + viewId + '"]').text().trim();
-
-    var viewType = viewLabel.toLowerCase().indexOf('top') !== -1 ? 'top' : 'all';
-    var targetId = '#' + viewType + periodLabel;
+    var period = $('input[name="period"]:checked').val();
+    var viewType = $('input[name="view"]:checked').val();
+    var targetId = '#' + viewType + period;
     var selectors = [
         '#top1h',
         '#top24h',

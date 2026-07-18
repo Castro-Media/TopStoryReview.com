@@ -5,31 +5,19 @@ title: World News
 
 <div markdown="0">
 
-<div id="controls">
-    <!-- a clickable gear button that opens/collapses a div containing controls for the feed -->
-    <button class="btn btn-outline-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#controls-collapse" aria-expanded="false" aria-controls="controls-collapse">
-        <i class="fas fa-gear"></i>
-    </button>
-    <div class="collapse" id="controls-collapse">
-        <!--- radio buttons for Show stories from 1h, 24h, 1d -->
-        <div class="btn-group" role="group">
-            Show stories from:
-            <input class="btn-check" type="radio" name="period" id="period-1h" autocomplete="off">
-            <label class="btn btn-secondary" for="period-1h">1h</label>
-            <input class="btn-check" type="radio" name="period" id="period-24h" autocomplete="off" checked>
-            <label class="btn btn-secondary" for="period-24h">24h</label>
-            <input class="btn-check" type="radio" name="period" id="period-7d" autocomplete="off">
-            <label class="btn btn-secondary" for="period-7d">7d</label>
-        </div>
-        <!--- radio buttons for Show All, Show Top -->
-        <div class="btn-group" role="group">
-            <input class="btn-check" type="radio" name="view" id="view-all" autocomplete="off">
-            <label class="btn btn-secondary" for="view-all">Show All</label>
-            <input class="btn-check" type="radio" name="view" id="view-top" autocomplete="off" checked>
-            <label class="btn btn-secondary" for="view-top">Show Top</label>
-        </div>
-    </div>
-</div>
+<section id="controls" aria-label="Story filters">
+    <fieldset class="control-group">
+        <legend>Show stories from</legend>
+        <label><input type="radio" name="period" value="1h"> 1 hour</label>
+        <label><input type="radio" name="period" value="24h" checked> 24 hours</label>
+        <label><input type="radio" name="period" value="7d"> 7 days</label>
+    </fieldset>
+    <fieldset class="control-group">
+        <legend>Show</legend>
+        <label><input type="radio" name="view" value="top" checked> Top stories</label>
+        <label><input type="radio" name="view" value="all"> All stories</label>
+    </fieldset>
+</section>
 
 <div class="byline small text-muted">List updated <span class="datetime">{TIME}</span>.</div>
 
