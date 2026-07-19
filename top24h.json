@@ -1,13 +1,13 @@
 [
   {
-    "score": 103,
+    "score": 95,
     "pubdate": "2026-07-19-14-14-31 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Service Members Killed",
     "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz"
   },
   {
-    "score": 96,
+    "score": 91,
     "pubdate": "2026-07-19-13-41-13 +0000",
     "source": "nyt",
     "headline": "Sánchez will attend the World Cup final, and so will his vocal critic, Trump.",
@@ -21,7 +21,7 @@
     "link": "https://www.wsj.com/world/middle-east/two-u-s-servicemembers-killed-one-missing-in-iran-missile-attack-on-jordan-a59f9699"
   },
   {
-    "score": 50,
+    "score": 48,
     "pubdate": "2026-07-18-17-29-50 +0000",
     "source": "bbc",
     "headline": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
@@ -50,13 +50,6 @@
   },
   {
     "score": 31,
-    "pubdate": "2026-07-19-09-52-48 +0000",
-    "source": "bbc",
-    "headline": "Is Burnham promising a new dawn for North Sea oil and gas?",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 31,
     "pubdate": "2026-07-18-15-54-28 +0000",
     "source": "nypost",
     "headline": "Hochul backed NY data-center ban to satisfy DSA, other far-left Dems during re-election bid: critics",
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "New EU border system tripling time at passport control, airport boss says",
     "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-07-19-09-52-48 +0000",
+    "source": "bbc",
+    "headline": "Is Burnham promising a new dawn for North Sea oil and gas?",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss"
   }
 ]
