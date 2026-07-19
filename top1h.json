@@ -1,16 +1,72 @@
 [
   {
+    "score": 24,
+    "pubdate": "2026-07-19-13-06-21 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Service Members Killed",
+    "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz"
+  },
+  {
     "score": 14,
-    "pubdate": "2026-07-19-11-10-40 +0000",
+    "pubdate": "2026-07-19-12-53-20 +0000",
     "source": "bbc",
-    "headline": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+    "headline": "Tate brothers arrested in US as further UK charges take total to 59",
+    "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-07-19-12-46-47 +0000",
+    "source": "bbc",
+    "headline": "Grandmother, 82, wins law change so she can enjoy Happy Hour at care home",
+    "link": "https://www.bbc.co.uk/news/articles/c70gz5y2xpxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-07-19-13-10-57 +0000",
+    "source": "bbc",
+    "headline": "US and Iran trade fire after two US soldiers killed in Jordan",
     "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2026-07-19-11-10-40 +0000",
-    "source": "bbc",
-    "headline": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-    "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+    "score": 8,
+    "pubdate": "2026-07-19-13-00-47 +0000",
+    "source": "nyt",
+    "headline": "Misery in the Epicenter of Cyclospora: ‘A Baseball Bat to Your Abdomen’",
+    "link": "https://www.nytimes.com/2026/07/19/us/cyclospora-michigan.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-07-19-12-57-10 +0000",
+    "source": "nyt",
+    "headline": "Politicians Are Trying to Change What Chatbots Say About Them",
+    "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-07-19-12-36-40 +0000",
+    "source": "cbc",
+    "headline": "Russian ballistic missile attack on Kyiv kills 1, wounds 16",
+    "link": "https://www.cbc.ca/news/world/ukraine-war-kyiv-russia-attack-9.7275691?cmp=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-07-19-12-51-40 +0000",
+    "source": "nyt",
+    "headline": "Adidas Hopes Its World Cup Moment Can Drive U.S. Sales",
+    "link": "https://www.nytimes.com/2026/07/18/business/adidas-world-cup-bjorn-gulden.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-07-19-12-56-30 +0000",
+    "source": "nyt",
+    "headline": "Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job)",
+    "link": "https://www.nytimes.com/2026/07/19/business/step-into-the-zone-of-genius-before-ai-takes-your-job.html"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-07-19-12-24-15 +0000",
+    "source": "cbc",
+    "headline": "U.S. strikes Iran's Revolutionary Guard after attack of American troops in Jordan",
+    "link": "https://www.cbc.ca/news/world/u-s-airstrikes-iran-retaliation-9.7275686?cmp=rss"
   }
 ]
