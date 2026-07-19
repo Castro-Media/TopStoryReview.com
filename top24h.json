@@ -1,24 +1,24 @@
 [
   {
-    "score": 106,
-    "pubdate": "2026-07-18-22-42-00 +0000",
-    "source": "wsj",
-    "headline": "Two U.S. Troops Were Killed, One Is Missing After Iran Missile Attack in Jordan",
-    "link": "https://www.wsj.com/world/middle-east/two-u-s-servicemembers-killed-one-missing-in-iran-missile-attack-on-jordan-a59f9699"
-  },
-  {
-    "score": 101,
+    "score": 111,
     "pubdate": "2026-07-19-19-15-42 +0000",
     "source": "nypost",
     "headline": "Trump seen marveling at World Cup trophy as he becomes first sitting US president to attend final",
     "link": "https://nypost.com/2026/07/19/us-news/trump-flanked-by-melania-fifa-president-and-the-prez-of-mexico/"
   },
   {
-    "score": 46,
-    "pubdate": "2026-07-19-01-47-59 +0000",
+    "score": 103,
+    "pubdate": "2026-07-18-22-42-00 +0000",
+    "source": "wsj",
+    "headline": "Two U.S. Troops Were Killed, One Is Missing After Iran Missile Attack in Jordan",
+    "link": "https://www.wsj.com/world/middle-east/two-u-s-servicemembers-killed-one-missing-in-iran-missile-attack-on-jordan-a59f9699"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-07-19-21-43-54 +0000",
     "source": "bbc",
-    "headline": "New EU border system tripling time at passport control, airport boss says",
-    "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss"
+    "headline": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+    "link": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 45,
@@ -28,6 +28,13 @@
     "link": "https://www.chicagotribune.com/2026/07/18/tate-brothers-arrested/"
   },
   {
+    "score": 44,
+    "pubdate": "2026-07-19-21-11-47 +0000",
+    "source": "nypost",
+    "headline": "Dr. Oz claims NY Medicaid program is being ripped off by Chinese crime syndicate",
+    "link": "https://nypost.com/2026/07/19/us-news/chinese-criminals-are-ripping-off-nys-medicaid-program-dr-oz-claims/"
+  },
+  {
     "score": 40,
     "pubdate": "2026-07-19-01-24-00 +0000",
     "source": "wsj",
@@ -35,38 +42,31 @@
     "link": "https://www.wsj.com/world/ukraine-escalates-air-war-with-deadly-strikes-on-russias-amazon-163ba241"
   },
   {
-    "score": 35,
-    "pubdate": "2026-07-19-19-07-22 +0000",
-    "source": "nypost",
-    "headline": "CNN’s Van Jones warns far left: ‘STOP pooping in the punch bowl — and telling us the turds are ice cubes’",
-    "link": "https://nypost.com/2026/07/19/us-news/cnns-van-jones-warns-far-left-stop-pooping-in-the-punch-bowl/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-07-19-10-00-00 +0000",
+    "score": 40,
+    "pubdate": "2026-07-19-21-14-23 +0000",
     "source": "latimes",
-    "headline": "California's push to ban technology used for 'ghost guns' finds unlikely foe in Hollywood",
-    "link": "https://www.latimes.com/california/story/2026-07-19/california-3d-printer-gun-legislation-hollywood-props"
+    "headline": "More water pipes burst in Venice, Hollywood as Sunset Strip repairs enter day 4",
+    "link": "https://www.latimes.com/california/story/2026-07-19/venice-hollywood-water-pipe-breaks-deepen-la-flooding-woes"
   },
   {
-    "score": 30,
-    "pubdate": "2026-07-19-18-31-23 +0000",
-    "source": "nyt",
-    "headline": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
-    "link": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html"
-  },
-  {
-    "score": 28,
+    "score": 35,
     "pubdate": "2026-07-19-15-57-22 +0000",
     "source": "nyt",
     "headline": "Federal Agents Were Told FBI Will No Longer Investigate ICE Confrontations",
     "link": "https://www.nytimes.com/2026/07/19/us/politics/fbi-ice-agents-investigations-shootings.html"
   },
   {
-    "score": 26,
+    "score": 32,
     "pubdate": "2026-07-19-18-42-44 +0000",
     "source": "nypost",
     "headline": "Fetterman torches ‘clown’ Mamdani for push to arrest Netanyahu in NYC: ‘Such a tough guy’",
     "link": "https://nypost.com/2026/07/19/us-news/fetterman-torches-mamdani-as-a-clown-for-push-to-arrest-netanyahu-in-nyc/"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-07-19-21-54-06 +0000",
+    "source": "nyt",
+    "headline": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
+    "link": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html"
   }
 ]
