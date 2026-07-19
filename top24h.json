@@ -1,52 +1,59 @@
 [
   {
-    "score": 99,
-    "pubdate": "2026-07-19-13-06-21 +0000",
+    "score": 103,
+    "pubdate": "2026-07-19-14-14-31 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Service Members Killed",
     "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz"
   },
   {
-    "score": 74,
-    "pubdate": "2026-07-18-18-43-24 +0000",
-    "source": "cbc",
-    "headline": "Hazy skies from wildfire smoke unlikely to cancel World Cup final in New Jersey",
-    "link": "https://www.cbc.ca/news/world/air-quality-world-cup-final-9.7275472?cmp=rss"
+    "score": 96,
+    "pubdate": "2026-07-19-13-41-13 +0000",
+    "source": "nyt",
+    "headline": "Sánchez will attend the World Cup final, and so will his vocal critic, Trump.",
+    "link": "https://www.nytimes.com/live/2026/us/fifa-world-cup/tension-looms-as-trump-and-sanchez-will-attend-the-world-cup-final"
   },
   {
-    "score": 59,
+    "score": 58,
     "pubdate": "2026-07-18-22-42-00 +0000",
     "source": "wsj",
     "headline": "Two U.S. Troops Were Killed, One Is Missing After Iran Missile Attack in Jordan",
     "link": "https://www.wsj.com/world/middle-east/two-u-s-servicemembers-killed-one-missing-in-iran-missile-attack-on-jordan-a59f9699"
   },
   {
-    "score": 57,
+    "score": 50,
     "pubdate": "2026-07-18-17-29-50 +0000",
     "source": "bbc",
     "headline": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
     "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 46,
+    "score": 44,
     "pubdate": "2026-07-19-05-43-19 +0000",
     "source": "nypost",
     "headline": "US ambassador to UN slaps down Zohran Mamdani’s threat to have Benjamin Netanyahu arrested when Israeli PM visits NYC",
     "link": "https://nypost.com/2026/07/19/us-news/us-ambassador-to-un-slaps-down-zohran-mamdanis-threat-to-have-benjamin-netanyahu-arrested/"
   },
   {
-    "score": 37,
+    "score": 38,
     "pubdate": "2026-07-18-18-19-08 +0000",
     "source": "nyt",
     "headline": "These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.",
     "link": "https://www.nytimes.com/2026/07/18/us/politics/aipac-democrats-donations-israel-vote.html"
   },
   {
-    "score": 32,
-    "pubdate": "2026-07-19-01-47-59 +0000",
+    "score": 33,
+    "pubdate": "2026-07-19-11-25-26 +0000",
+    "source": "nyt",
+    "headline": "Tate Brothers Arrested in Miami As U.K. Authorities File Sex Crime Charges",
+    "link": "https://www.nytimes.com/2026/07/18/us/tate-brothers-arrest-miami.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-07-19-09-52-48 +0000",
     "source": "bbc",
-    "headline": "New EU border system tripling time at passport control, airport boss says",
-    "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss"
+    "headline": "Is Burnham promising a new dawn for North Sea oil and gas?",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 31,
@@ -57,16 +64,9 @@
   },
   {
     "score": 30,
-    "pubdate": "2026-07-19-11-25-26 +0000",
-    "source": "nyt",
-    "headline": "Tate Brothers Arrested in Miami As U.K. Authorities File Sex Crime Charges",
-    "link": "https://www.nytimes.com/2026/07/18/us/tate-brothers-arrest-miami.html"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-07-19-09-52-48 +0000",
+    "pubdate": "2026-07-19-01-47-59 +0000",
     "source": "bbc",
-    "headline": "Is Burnham promising a new dawn for North Sea oil and gas?",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss"
+    "headline": "New EU border system tripling time at passport control, airport boss says",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss"
   }
 ]
