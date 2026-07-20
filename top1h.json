@@ -1,62 +1,6 @@
 [
   {
-    "score": 44,
-    "pubdate": "2026-07-20-18-15-38 +0000",
-    "source": "nyt",
-    "headline": "Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official",
-    "link": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-07-20-18-13-00 +0000",
-    "source": "wsj",
-    "headline": "Lockheed Martin Plans Bargain-Rate Patriot Missile to Replenish Low Stockpiles",
-    "link": "https://www.wsj.com/business/lockheed-martin-plans-bargain-rate-patriot-missile-to-replenish-low-stockpiles-7b4bd637"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-07-20-18-01-37 +0000",
-    "source": "nypost",
-    "headline": "Cuba-linked groups plan ‘nationwide actions’ against US bases, ICE facilities: State Department",
-    "link": "https://nypost.com/2026/07/20/us-news/cuba-linked-groups-plan-nationwide-actions-against-us-bases-ice-facilities-state-department-report/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-07-20-17-55-11 +0000",
-    "source": "nyt",
-    "headline": "India’s CJP Party Leads Protest March to Parliament After Exam Leaks",
-    "link": "https://www.nytimes.com/2026/07/20/world/asia/india-protest-cjp-cockroach-jantar-mantar.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-07-20-17-56-41 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Sought Phone Records of Times Journalists and Their Relatives",
-    "link": "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-07-20-18-13-58 +0000",
-    "source": "nyt",
-    "headline": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
-    "link": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-07-20-17-40-40 +0000",
-    "source": "nyt",
-    "headline": "Outcry in Italy After Man Dies While Being Restrained by Police",
-    "link": "https://www.nytimes.com/2026/07/20/world/europe/moroccan-italy-police-death-george-floyd.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-07-20-18-31-11 +0000",
-    "source": "nypost",
-    "headline": "Andrew Tate, bro Tristan ordered to remain in federal jail — as judge considers UK extradition on sex abuse charges",
-    "link": "https://nypost.com/2026/07/20/us-news/andrew-tate-bro-tristan-ordered-to-remain-in-federal-jail/"
-  },
-  {
-    "score": 18,
+    "score": 25,
     "pubdate": "2026-07-20-18-22-46 +0000",
     "source": "bbc",
     "headline": "Burnham promises help with your money. How could it affect you?",
@@ -68,5 +12,61 @@
     "source": "wsj",
     "headline": "Sinaloa Cartel Kingpin ‘El Mayo’ Sentenced to Life in Prison",
     "link": "https://www.wsj.com/us-news/sinaloa-cartel-kingpin-el-mayo-sentenced-to-life-in-prison-eb5df926"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-20-18-31-11 +0000",
+    "source": "nypost",
+    "headline": "Andrew Tate, bro Tristan ordered to remain in federal jail — as judge considers UK extradition on sex abuse charges",
+    "link": "https://nypost.com/2026/07/20/us-news/andrew-tate-bro-tristan-ordered-to-remain-in-federal-jail/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-07-20-18-24-47 +0000",
+    "source": "bbc",
+    "headline": "John Healey becomes chancellor weeks after shock resignation from defence job",
+    "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-07-20-18-23-31 +0000",
+    "source": "startribune",
+    "headline": "Live: Boundary Waters fire growth minimal, but wind forecast causing worry",
+    "link": "https://www.startribune.com/boundary-waters-forest-service-closure-heat/601867527"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-07-20-18-28-25 +0000",
+    "source": "startribune",
+    "headline": "MnDOT will soon pilot speed cameras in work zones",
+    "link": "https://www.startribune.com/mndot-will-soon-pilot-speed-cameras-in-work-zones/601869146"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-07-20-18-22-55 +0000",
+    "source": "wapo",
+    "headline": "Ukraine bombs warehouses, targeting Wildberries — Russia’s version of Amazon",
+    "link": "https://www.washingtonpost.com/world/2026/07/20/ukraine-bombs-warehouses-targeting-wildberries-russias-version-amazon/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-07-20-18-21-00 +0000",
+    "source": "wsj",
+    "headline": "Iran Missile Struck Housing for U.S. Troops at Jordan Base",
+    "link": "https://www.wsj.com/world/middle-east/iran-missile-struck-housing-for-u-s-troops-at-jordan-base-9f5b8120"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-07-20-18-20-59 +0000",
+    "source": "latimes",
+    "headline": "Suspect dies, townhome burns down in Woodland Hills standoff",
+    "link": "https://www.latimes.com/california/story/2026-07-20/suspect-dies-townhome-burns-down-in-woodland-hills-standoff"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-07-20-18-29-55 +0000",
+    "source": "bbc",
+    "headline": "Kuenssberg: 'Labour see Burnham as a winner'",
+    "link": "https://www.bbc.co.uk/news/videos/c3r0xr1x4xxo?at_medium=RSS&at_campaign=rss"
   }
 ]
