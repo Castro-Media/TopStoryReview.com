@@ -1,72 +1,37 @@
 [
   {
-    "score": 44,
-    "pubdate": "2026-07-20-11-21-46 +0000",
-    "source": "nypost",
-    "headline": "Pentagon identifies 2 US soldiers killed in weekend attack by Iran",
-    "link": "https://nypost.com/2026/07/20/world-news/pentagon-identifies-2-us-soldiers-killed-in-weekend-attack-by-iran/"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-07-20-11-00-38 +0000",
-    "source": "chitri",
-    "headline": "US gas prices hit an average of $4 a gallon again as the US and Iran launch attacks",
-    "link": "https://www.chicagotribune.com/2026/07/20/us-gas-prices-iran-attacks/"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-07-20-11-06-03 +0000",
-    "source": "chitri",
-    "headline": "US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states",
-    "link": "https://www.chicagotribune.com/2026/07/20/us-iran-bombing-expands/"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-07-20-11-28-30 +0000",
-    "source": "bbc",
-    "headline": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
-    "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 18,
+    "score": 16,
     "pubdate": "2026-07-20-11-37-32 +0000",
     "source": "bbc",
     "headline": "Scores feared dead after passenger ferry capsizes off Guyana",
     "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 18,
-    "pubdate": "2026-07-20-11-09-00 +0000",
-    "source": "wsj",
-    "headline": "One of the most confounding questions in the war is: How is Iran not only retaining its missile and drone programs, but also expanding them? Read more in today’s WSJ Politics Newsletter.",
-    "link": "https://www.wsj.com/politics/irans-missiles-have-gotten-faster-and-deadlier-the-big-question-is-how-41c81ad7"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-07-20-11-01-00 +0000",
-    "source": "wsj",
-    "headline": "Brookfield and CPP Investments to Buy LXP Industrial for $5.2 Billion",
-    "link": "https://www.wsj.com/business/deals/brookfield-and-cpp-investments-to-buy-lxp-industrial-for-5-2-billion-e8f64cef?mod=rss_markets_main"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-07-20-11-28-59 +0000",
-    "source": "nyt",
-    "headline": "Zelensky Faces Pressure to Remove Ukraine’s Top General",
-    "link": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-zelensky-general-defense-minister.html"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-07-20-11-00-00 +0000",
-    "source": "nypost",
-    "headline": "Buzzy NYC Michelin-starred eatery hid ‘B’ health rating – issued over food temp, contamination concerns",
-    "link": "https://nypost.com/2026/07/20/us-news/nyc-michelin-starred-eatery-semma-hid-b-health-rating-for-food-temp-contamination-concerns/"
-  },
-  {
     "score": 12,
-    "pubdate": "2026-07-20-11-00-00 +0000",
-    "source": "startribune",
-    "headline": "Police searched Twin Cities license plate cameras for immigration enforcement during ICE surge",
-    "link": "https://www.startribune.com/police-search-immigration-twin-cities-flock-license-plate-cameras-ice-dhs-metro-surge/601807825"
+    "pubdate": "2026-07-20-11-38-33 +0000",
+    "source": "nypost",
+    "headline": "‘Long Island Lolita’ Amy Fisher’s troubled son accused of killing cat —possibly in microwave: officials",
+    "link": "https://nypost.com/2026/07/20/us-news/long-island-lolita-amy-fishers-troubled-son-accused-of-brutally-killing-cat/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-07-20-11-33-45 +0000",
+    "source": "wapo",
+    "headline": "A U.K. prime minister takes charge with a promise to dilute power",
+    "link": "https://www.washingtonpost.com/world/2026/07/20/andy-burnham-take-charge-uk-prime-minister-replacing-keir-starmer/"
+  },
+  {
+    "score": 2,
+    "pubdate": "2026-07-20-11-43-29 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/07/20/world/uk-prime-minister-burnham-starmer/heres-the-latest"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-20-11-37-32 +0000",
+    "source": "bbc",
+    "headline": "Scores feared dead after passenger ferry capsizes off Guyana",
+    "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
   }
 ]
