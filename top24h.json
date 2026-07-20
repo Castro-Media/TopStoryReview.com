@@ -1,48 +1,41 @@
 [
   {
-    "score": 152,
+    "score": 173,
     "pubdate": "2026-07-19-19-15-42 +0000",
     "source": "nypost",
     "headline": "Trump seen marveling at World Cup trophy as he becomes first sitting US president to attend final",
     "link": "https://nypost.com/2026/07/19/us-news/trump-flanked-by-melania-fifa-president-and-the-prez-of-mexico/"
   },
   {
-    "score": 116,
-    "pubdate": "2026-07-20-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Jordan Becomes New Flashpoint in U.S.-Iran War as Troop Deaths Rise",
-    "link": "https://www.wsj.com/world/middle-east/jordan-becomes-new-flashpoint-in-u-s-iran-war-as-troop-deaths-rise-9858b7d1"
-  },
-  {
-    "score": 82,
-    "pubdate": "2026-07-20-04-01-05 +0000",
+    "score": 148,
+    "pubdate": "2026-07-20-18-15-38 +0000",
     "source": "nyt",
-    "headline": "Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister",
-    "link": "https://www.nytimes.com/2026/07/20/world/europe/britain-new-prime-minister-challenges.html"
+    "headline": "Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official",
+    "link": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html"
   },
   {
-    "score": 80,
+    "score": 122,
+    "pubdate": "2026-07-20-16-47-32 +0000",
+    "source": "nyt",
+    "headline": "Pentagon Identifies 2 U.S. Soldiers Killed in Jordan During Iran Strike",
+    "link": "https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html"
+  },
+  {
+    "score": 85,
     "pubdate": "2026-07-19-23-25-00 +0000",
     "source": "wsj",
     "headline": "Usha Vance gave birth to a baby boy on Sunday, Vice President JD Vance’s office announced, the first time in more than 150 years that a sitting second lady had a child while her husband was in office",
     "link": "https://www.wsj.com/us-news/second-lady-usha-vance-gives-birth-to-baby-boy-1988bd1d"
   },
   {
-    "score": 77,
-    "pubdate": "2026-07-20-11-05-28 +0000",
-    "source": "chitri",
-    "headline": "US military identifies 2 soldiers killed in Iranian attack on Jordan as from Texas and Hawaii",
-    "link": "https://www.chicagotribune.com/2026/07/20/us-soldiers-killed-iran-attack-jordan/"
-  },
-  {
-    "score": 67,
+    "score": 70,
     "pubdate": "2026-07-20-15-25-35 +0000",
     "source": "nypost",
     "headline": "Ex-logger Troy Jackson set to succeed Graham Platner as Dem pick in Maine Senate race",
     "link": "https://nypost.com/2026/07/20/us-news/ex-logger-troy-jackson-set-to-succeed-graham-platner-as-dem-pick-in-maine-senate-race/"
   },
   {
-    "score": 62,
+    "score": 69,
     "pubdate": "2026-07-20-04-06-04 +0000",
     "source": "nyt",
     "headline": "Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’",
@@ -56,17 +49,24 @@
     "link": "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-final-2026-recap-argentina-spain-july-19-9.7275719?cmp=rss"
   },
   {
-    "score": 51,
-    "pubdate": "2026-07-20-11-00-38 +0000",
-    "source": "chitri",
-    "headline": "US gas prices hit an average of $4 a gallon again as the US and Iran launch attacks",
-    "link": "https://www.chicagotribune.com/2026/07/20/us-gas-prices-iran-attacks/"
+    "score": 49,
+    "pubdate": "2026-07-20-10-12-36 +0000",
+    "source": "bbc",
+    "headline": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+    "link": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 43,
-    "pubdate": "2026-07-20-15-12-39 +0000",
-    "source": "cbc",
-    "headline": "Russian missile strike kills 10 in Black Sea near Ukraine",
-    "link": "https://www.cbc.ca/news/world/russia-ukraine-war-day-1609-9.7276322?cmp=rss"
+    "score": 49,
+    "pubdate": "2026-07-20-17-35-36 +0000",
+    "source": "wapo",
+    "headline": "U.S., Iran trade strikes as Houthis declare blockade of Red Sea oil route",
+    "link": "https://www.washingtonpost.com/world/2026/07/20/iran-retaliates-against-us-strikes-gas-returns-4-gallon/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-07-19-20-12-56 +0000",
+    "source": "nypost",
+    "headline": "At least one more US servicemember dies after massive Iranian missile attack",
+    "link": "https://nypost.com/2026/07/19/world-news/at-least-one-more-us-servicemember-dies-after-massive-iranian-missile-attack/"
   }
 ]
