@@ -1,13 +1,13 @@
 [
   {
-    "score": 133,
+    "score": 140,
     "pubdate": "2026-07-19-19-15-42 +0000",
     "source": "nypost",
     "headline": "Trump seen marveling at World Cup trophy as he becomes first sitting US president to attend final",
     "link": "https://nypost.com/2026/07/19/us-news/trump-flanked-by-melania-fifa-president-and-the-prez-of-mexico/"
   },
   {
-    "score": 87,
+    "score": 88,
     "pubdate": "2026-07-20-04-06-04 +0000",
     "source": "nyt",
     "headline": "Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’",
@@ -21,18 +21,32 @@
     "link": "https://www.wsj.com/us-news/second-lady-usha-vance-gives-birth-to-baby-boy-1988bd1d"
   },
   {
-    "score": 57,
-    "pubdate": "2026-07-20-05-33-57 +0000",
+    "score": 65,
+    "pubdate": "2026-07-20-07-45-32 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands",
     "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz"
   },
   {
-    "score": 40,
-    "pubdate": "2026-07-19-23-19-24 +0000",
+    "score": 42,
+    "pubdate": "2026-07-20-00-27-18 +0000",
     "source": "nypost",
-    "headline": "Top NYC business group opposes Gov. Hochul’s one-year data center ban",
-    "link": "https://nypost.com/2026/07/19/us-news/top-nyc-business-group-opposes-gov-hochuls-one-year-data-center-ban/"
+    "headline": "Jubilant Spain fans flock to NYC landmarks to celebrate World Cup win among dejected Argentinians",
+    "link": "https://nypost.com/2026/07/19/us-news/spain-fans-flock-to-nyc-landmarks-to-celebrate-world-cup-win-among-dejected-argentinians/"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-07-19-21-14-23 +0000",
+    "source": "latimes",
+    "headline": "More water pipes burst in Venice, Hollywood as Sunset Strip repairs enter Day 4",
+    "link": "https://www.latimes.com/california/story/2026-07-19/venice-hollywood-water-pipe-breaks-deepen-la-flooding-woes"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-07-19-18-25-40 +0000",
+    "source": "bbc",
+    "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
+    "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 39,
@@ -42,31 +56,17 @@
     "link": "https://nypost.com/2026/07/19/business/fda-taylor-farms-had-false-positive-after-test-pinned-explosive-diarrhea-parasite-on-taco-bell-lettuce-supplier/"
   },
   {
-    "score": 39,
-    "pubdate": "2026-07-19-21-14-23 +0000",
-    "source": "latimes",
-    "headline": "More water pipes burst in Venice, Hollywood as Sunset Strip repairs enter Day 4",
-    "link": "https://www.latimes.com/california/story/2026-07-19/venice-hollywood-water-pipe-breaks-deepen-la-flooding-woes"
-  },
-  {
     "score": 38,
-    "pubdate": "2026-07-19-18-25-40 +0000",
-    "source": "bbc",
-    "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
-    "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-07-20-01-55-46 +0000",
-    "source": "nypost",
-    "headline": "Texas cop saves driver from burning car moments before it goes up in flames, heart-stopping video shows",
-    "link": "https://nypost.com/2026/07/19/us-news/texas-cop-saves-driver-from-burning-car-moments-before-it-goes-up-in-flames-heart-stopping-video/"
-  },
-  {
-    "score": 34,
     "pubdate": "2026-07-20-04-01-05 +0000",
     "source": "nyt",
     "headline": "Five of the Main Challenges Awaiting Andy Burnham When He Becomes Prime Minister",
-    "link": "https://www.nytimes.com/2026/07/20/world/europe/five-of-the-main-challenges-awaiting-britains-new-prime-minister.html"
+    "link": "https://www.nytimes.com/2026/07/20/world/europe/britain-new-prime-minister-challenges.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-07-19-22-50-22 +0000",
+    "source": "nypost",
+    "headline": "California city chief arrested on a yacht just three weeks after taking over top job",
+    "link": "https://nypost.com/2026/07/19/us-news/california-city-manager-arrested-just-three-weeks-after-taking-over-top-job/"
   }
 ]
