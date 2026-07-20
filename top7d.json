@@ -7,28 +7,28 @@
     "link": "https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html"
   },
   {
-    "score": 233,
+    "score": 239,
     "pubdate": "2026-07-19-19-15-42 +0000",
     "source": "nypost",
     "headline": "Trump seen marveling at World Cup trophy as he becomes first sitting US president to attend final",
     "link": "https://nypost.com/2026/07/19/us-news/trump-flanked-by-melania-fifa-president-and-the-prez-of-mexico/"
   },
   {
-    "score": 222,
-    "pubdate": "2026-07-20-05-33-57 +0000",
+    "score": 227,
+    "pubdate": "2026-07-20-07-45-32 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands",
     "link": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz"
   },
   {
-    "score": 170,
+    "score": 169,
     "pubdate": "2026-07-19-23-25-00 +0000",
     "source": "wsj",
     "headline": "Usha Vance gave birth to a baby boy on Sunday, Vice President JD Vance’s office announced, the first time in more than 150 years that a sitting second lady had a child while her husband was in office",
     "link": "https://www.wsj.com/us-news/second-lady-usha-vance-gives-birth-to-baby-boy-1988bd1d"
   },
   {
-    "score": 168,
+    "score": 166,
     "pubdate": "2026-07-15-14-08-00 +0000",
     "source": "wsj",
     "headline": "The economy has added jobs for four straight months, yet nearly two million Americans have been locked out of the job market for at least half a year",
@@ -43,6 +43,13 @@
   },
   {
     "score": 114,
+    "pubdate": "2026-07-17-21-55-51 +0000",
+    "source": "latimes",
+    "headline": "Trump escalates election attacks, threatens California over voter data",
+    "link": "https://www.latimes.com/politics/story/2026-07-17/trump-allies-seek-to-sow-mistrust-about-election-security-ahead-of-midterms"
+  },
+  {
+    "score": 114,
     "pubdate": "2026-07-14-13-36-40 +0000",
     "source": "chitri",
     "headline": "Kevin Warsh to say Fed has ‘no tolerance’ for high inflation but provides no hints on next move",
@@ -50,10 +57,10 @@
   },
   {
     "score": 113,
-    "pubdate": "2026-07-17-21-55-51 +0000",
-    "source": "latimes",
-    "headline": "Trump escalates election attacks, threatens California over voter data",
-    "link": "https://www.latimes.com/politics/story/2026-07-17/trump-allies-seek-to-sow-mistrust-about-election-security-ahead-of-midterms"
+    "pubdate": "2026-07-16-21-09-59 +0000",
+    "source": "nyt",
+    "headline": "Strait of Hormuz Tanker Traffic Erodes Further as Oil Prices Rise",
+    "link": "https://www.nytimes.com/2026/07/16/business/strait-hormuz-iran-war-oil.html"
   },
   {
     "score": 105,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "FDA walks back claim that Taco Bell lettuce supplier Taylor Farms was source of ‘explosive diarrhea’ parasite",
     "link": "https://nypost.com/2026/07/19/business/fda-taylor-farms-had-false-positive-after-test-pinned-explosive-diarrhea-parasite-on-taco-bell-lettuce-supplier/"
-  },
-  {
-    "score": 103,
-    "pubdate": "2026-07-16-21-09-59 +0000",
-    "source": "nyt",
-    "headline": "Strait of Hormuz Tanker Traffic Erodes Further as Oil Prices Rise",
-    "link": "https://www.nytimes.com/2026/07/16/business/strait-hormuz-iran-war-oil.html"
   }
 ]
