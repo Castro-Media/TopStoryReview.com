@@ -1,45 +1,38 @@
 [
   {
-    "score": 196,
+    "score": 186,
     "pubdate": "2026-07-21-06-40-50 +0000",
     "source": "nyt",
     "headline": "Andy Burnham, New UK Prime Minister, Names John Healey as Top Finance Official",
     "link": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html"
   },
   {
-    "score": 184,
+    "score": 183,
     "pubdate": "2026-07-20-21-20-18 +0000",
     "source": "nypost",
     "headline": "Trump hits Canada with surprise 50% tariffs — and he didn’t warn Carney during their World Cup talk",
     "link": "https://nypost.com/2026/07/20/us-news/trump-hits-canada-with-surprise-50-tariffs-and-he-didnt-warn-carney-during-their-world-cup-talk/"
   },
   {
-    "score": 113,
-    "pubdate": "2026-07-20-11-09-00 +0000",
-    "source": "wsj",
-    "headline": "One of the most confounding questions in the war is: How is Iran not only retaining its missile and drone programs, but also expanding them? Read more in today’s WSJ Politics Newsletter.",
-    "link": "https://www.wsj.com/politics/irans-missiles-have-gotten-faster-and-deadlier-the-big-question-is-how-41c81ad7"
-  },
-  {
-    "score": 84,
-    "pubdate": "2026-07-20-20-57-50 +0000",
-    "source": "chitri",
-    "headline": "Darline Graham says she will run for a full term in Lindsey Graham’s Senate seat",
-    "link": "https://www.chicagotribune.com/2026/07/20/darline-graham-lindsey-graham-senate-seat/"
-  },
-  {
-    "score": 65,
-    "pubdate": "2026-07-20-11-05-28 +0000",
-    "source": "chitri",
-    "headline": "US military identifies 2 soldiers killed in Iranian attack on Jordan as from Texas and Hawaii",
-    "link": "https://www.chicagotribune.com/2026/07/20/us-soldiers-killed-iran-attack-jordan/"
-  },
-  {
-    "score": 64,
-    "pubdate": "2026-07-20-18-59-07 +0000",
+    "score": 99,
+    "pubdate": "2026-07-20-17-07-50 +0000",
     "source": "nypost",
-    "headline": "California gas suffers another huge setback as judge slaps down oil giant’s Hail Mary",
-    "link": "https://nypost.com/2026/07/20/us-news/california-gas-suffers-another-huge-setback-as-judge-slaps-down-oil-giants-hail-mary/"
+    "headline": "Enraged Trump warns Iran each US soldier killed will be avenged ‘many times over!’",
+    "link": "https://nypost.com/2026/07/20/us-news/enraged-trump-warns-iran-each-us-soldier-killed-will-be-avenged-many-times-over/"
+  },
+  {
+    "score": 81,
+    "pubdate": "2026-07-21-02-26-00 +0000",
+    "source": "wsj",
+    "headline": "Republican Sen. Darline Graham, the sister of the late Lindsey Graham, said she planned to run for a full Senate term to replace her brother in South Carolina",
+    "link": "https://www.wsj.com/politics/elections/darline-graham-says-she-will-run-for-her-brothers-senate-seat-4b94707a"
+  },
+  {
+    "score": 61,
+    "pubdate": "2026-07-20-19-17-29 +0000",
+    "source": "cbc",
+    "headline": "Paramount, Warner must pause merger for at least two weeks, judge says",
+    "link": "https://www.cbc.ca/news/entertainment/paramount-warner-merger-pause-9.7276840?cmp=rss"
   },
   {
     "score": 58,
@@ -57,16 +50,23 @@
   },
   {
     "score": 54,
-    "pubdate": "2026-07-21-02-07-48 +0000",
-    "source": "bbc",
-    "headline": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
-    "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-07-20-18-44-00 +0000",
+    "source": "wsj",
+    "headline": "Qatari-Gifted Air Force One to Receive Upgrades This Fall, White House Says",
+    "link": "https://www.wsj.com/politics/policy/trump-air-force-one-qatar-gift-upgrades-57ab2299?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 50,
-    "pubdate": "2026-07-20-13-43-00 +0000",
-    "source": "wsj",
-    "headline": "Buyout Firm Truelink Strikes $1 Billion Deal for Coffee Syrup Maker",
-    "link": "https://www.wsj.com/business/deals/buyout-firm-truelink-nears-1-billion-deal-for-coffee-syrup-maker-256557ad?mod=pls_whats_news_us_business_f"
+    "pubdate": "2026-07-20-14-29-10 +0000",
+    "source": "nypost",
+    "headline": "Yemen’s Houthis declare naval blockade on Saudi Arabia, widening threat to global oil supplies",
+    "link": "https://nypost.com/2026/07/20/world-news/yemens-houthis-declare-naval-blockade-on-saudi-arabia-widening-threat-to-global-oil-supplies/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-07-20-21-16-17 +0000",
+    "source": "nypost",
+    "headline": "Sleeper agents poised to wage war in California put US on high alert — as map of their top targets emerges",
+    "link": "https://nypost.com/2026/07/20/us-news/sleeper-agents-poised-to-wage-war-in-california-put-us-on-high-alert-as-map-of-their-top-targets-emerges/"
   }
 ]

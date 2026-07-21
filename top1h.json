@@ -1,72 +1,51 @@
 [
   {
-    "score": 42,
-    "pubdate": "2026-07-21-09-39-56 +0000",
-    "source": "nyt",
-    "headline": "UK’s New Prime Minister Burnham Orders Cut in Taxes on Electricity",
-    "link": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-07-21-09-48-20 +0000",
-    "source": "bbc",
-    "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-    "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-07-21-09-41-11 +0000",
-    "source": "bbc",
-    "headline": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-    "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-07-21-09-49-42 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration and Iran Officials Risk a Wider War They Cannot Afford",
-    "link": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-07-21-10-25-33 +0000",
-    "source": "nyt",
-    "headline": "Philippines Says Sailor Was Injured in Skirmish With Chinese Coast Guard",
-    "link": "https://www.nytimes.com/2026/07/21/world/asia/philippines-south-china-sea-sailor-injured.html"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-07-21-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Chabria: Newsom pushes California to crack down on sex trafficking — fast",
-    "link": "https://www.latimes.com/california/story/2026-07-21/newsom-pushes-california-to-crack-down-on-sex-trafficking-fast"
-  },
-  {
     "score": 16,
-    "pubdate": "2026-07-21-10-00-39 +0000",
-    "source": "chitri",
-    "headline": "Illinois SNAP costs: State wins one-year delay on food aid penalty, but major costs still loom",
-    "link": "https://www.chicagotribune.com/2026/07/21/snap-illinois-costs/"
-  },
-  {
-    "score": 15,
     "pubdate": "2026-07-21-10-31-06 +0000",
     "source": "bbc",
     "headline": "UK borrowing falls in June but public finances remain a challenge",
     "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 15,
-    "pubdate": "2026-07-21-10-04-00 +0000",
-    "source": "wsj",
-    "headline": "German Investor Confidence Climbs, Supported by Reform Package",
-    "link": "https://www.wsj.com/economy/central-banking/german-investor-confidence-climbs-ff64c3b7"
+    "score": 12,
+    "pubdate": "2026-07-21-10-35-13 +0000",
+    "source": "nyt",
+    "headline": "Lebanese Troops Deploy in Israeli-Held Village Under New Cease-Fire Plan",
+    "link": "https://www.nytimes.com/2026/07/21/world/middleeast/lebanon-israel-ceasefire-plan.html"
   },
   {
-    "score": 14,
-    "pubdate": "2026-07-21-10-00-00 +0000",
+    "score": 9,
+    "pubdate": "2026-07-21-10-30-45 +0000",
+    "source": "bbc",
+    "headline": "Thames Water lenders offer 'golden share' to head off nationalisation",
+    "link": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-07-21-10-34-37 +0000",
+    "source": "nyt",
+    "headline": "Two Young Brothers and Their Search for Venezuela’s Dead",
+    "link": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-07-21-10-32-00 +0000",
+    "source": "wsj",
+    "headline": "Chinese Destroyer’s Live-Fire Drill Draws Protest by Japan",
+    "link": "https://www.wsj.com/world/asia/chinese-destroyers-live-fire-drill-draws-protest-by-japan-405dc104"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-07-21-10-32-50 +0000",
     "source": "nypost",
-    "headline": "Envious Albany lawmakers eye giving themselves raises after self-serving NYC Council’s fat pay hikes",
-    "link": "https://nypost.com/2026/07/21/us-news/envious-albany-lawmakers-eye-giving-themselves-raises-after-self-serving-nyc-councils-fat-pay-hikes/"
+    "headline": "Treasury stopped nearly $100 million in taxpayer money from going to dead people",
+    "link": "https://nypost.com/2026/07/21/us-news/treasury-stopped-nearly-100-million-in-taxpayer-money-from-going-to-dead-people/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-21-10-31-06 +0000",
+    "source": "bbc",
+    "headline": "UK borrowing falls in June but public finances remain a challenge",
+    "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss"
   }
 ]
