@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-07-21 07:00 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-07-21 07:54 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,68 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss">VAT to be cut from household electricity bills in October</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-07-21-05-37-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/07/21/us-news/national-geographic-sea-bird-cruise-ship-hit-with-3rd-norovirus-outbreak-since-may/">National Geographic Sea Bird cruise ship hit with 3rd norovirus outbreak since May</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-07-21-05-30-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c24mnnnd18do?at_medium=RSS&at_campaign=rss">Chris Mason: Cull of Starmer allies as new chancellor faces crunching spending choices</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-07-21-05-30-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/novartis-returns-to-growth-on-sales-momentum-from-key-drugs-e988f92a?mod=pls_whats_news_us_business_f">Novartis Returns to Growth on Sales Momentum From Key Drugs</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-07-21-05-33-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cn7nl6np8r1o?at_medium=RSS&at_campaign=rss">Dad facing difficult summer as food donations plunge</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-07-21-05-12-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm2g0g557g2o?at_medium=RSS&at_campaign=rss">Families skipping meals during holidays - charity</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-07-21-05-10-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/asian-equities-advance-on-hopes-for-mideast-ceasefire-38efa6d8?mod=rss_markets_main">Asian Equities Advance on Hopes for Mideast Ceasefire</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-07-21-04-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/07/20/world/epidemics-rage-ebola-first-responders.html">Epidemics and Rage</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-07-21-04-55-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss">VAT to be cut from household electricity bills in October</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-07-21-05-37-21 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -248,68 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss">VAT to be cut from household electricity bills in October</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-07-21-05-37-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss">VAT to be cut from household electricity bills in October</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-07-21-05-37-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/novartis-returns-to-growth-on-sales-momentum-from-key-drugs-e988f92a?mod=pls_whats_news_us_business_f">Novartis Returns to Growth on Sales Momentum From Key Drugs</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-07-21-05-33-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/07/21/us-news/national-geographic-sea-bird-cruise-ship-hit-with-3rd-norovirus-outbreak-since-may/">National Geographic Sea Bird cruise ship hit with 3rd norovirus outbreak since May</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-07-21-05-30-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c24mnnnd18do?at_medium=RSS&at_campaign=rss">Chris Mason: Cull of Starmer allies as new chancellor faces crunching spending choices</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-07-21-05-30-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cn7nl6np8r1o?at_medium=RSS&at_campaign=rss">Dad facing difficult summer as food donations plunge</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-07-21-05-12-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm2g0g557g2o?at_medium=RSS&at_campaign=rss">Families skipping meals during holidays - charity</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-07-21-05-10-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/asian-equities-advance-on-hopes-for-mideast-ceasefire-38efa6d8?mod=rss_markets_main">Asian Equities Advance on Hopes for Mideast Ceasefire</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-07-21-04-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/07/20/world/epidemics-rage-ebola-first-responders.html">Epidemics and Rage</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-07-21-04-55-43 +0000</span></div>
-            </li>
         
     </ul>
 </div>
