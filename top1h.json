@@ -1,9 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2026-07-20-23-11-59 +0000",
+    "score": 35,
+    "pubdate": "2026-07-21-00-34-47 +0000",
+    "source": "bbc",
+    "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-07-21-00-33-51 +0000",
     "source": "nypost",
-    "headline": "UCSD medical school used sneaky diversity tactic to favor black, Hispanic  students: DOJ",
-    "link": "https://nypost.com/2026/07/20/us-news/uc-san-diego-school-of-medicine-used-race-in-admissions-to-favor-black-and-hispanic-applicants/"
+    "headline": "Elaine Forbes’ wife visits her in custody after ex-Port of San Francisco boss’ bizarre arrest",
+    "link": "https://nypost.com/2026/07/20/us-news/elaine-forbes-wife-visits-her-in-custody-after-bizarre-arrest/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-07-21-01-00-15 +0000",
+    "source": "nyt",
+    "headline": "Pentagon Identifies 2 U.S. Soldiers Killed in Jordan During Iran Strike",
+    "link": "https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-07-21-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The New Jersey Financier Behind Trump Media’s Pivot Into Nuclear Energy",
+    "link": "https://www.wsj.com/finance/the-new-jersey-financier-behind-trump-medias-pivot-into-nuclear-energy-ef3f35eb?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-21-00-25-52 +0000",
+    "source": "nyt",
+    "headline": "Trump to Impose 50% Tariff on Many Canadian Goods",
+    "link": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-07-21-00-49-03 +0000",
+    "source": "nyt",
+    "headline": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
+    "link": "https://www.nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-07-21-00-35-32 +0000",
+    "source": "nypost",
+    "headline": "Wild video captures sparks flying as Kalitta Air plane skids on runway at Kentucky airport",
+    "link": "https://nypost.com/2026/07/20/us-news/wild-video-captures-sparks-flying-as-kalitta-air-plane-skids-on-runway-at-kentucky-airport/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-07-21-00-26-00 +0000",
+    "source": "wsj",
+    "headline": "Asian Currencies Consolidate as Traders Weigh U.S.-Iran Conflict",
+    "link": "https://www.wsj.com/finance/currencies/new-trump-tariffs-threaten-to-further-strain-cad-3b0f1e73?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-07-21-00-41-29 +0000",
+    "source": "nypost",
+    "headline": "Beluga whales lifted out of defunct theme park to begin journey to new homes in US",
+    "link": "https://nypost.com/2026/07/20/world-news/beluga-whales-rescued-from-shuttered-theme-park-in-canada/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-07-21-01-07-05 +0000",
+    "source": "latimes",
+    "headline": "'So demeaning.' United employee threatens to call ICE on California passenger in viral video",
+    "link": "https://www.latimes.com/california/story/2026-07-20/united-employee-threatens-viral-video-california-customer-says-fight-back"
   }
 ]
