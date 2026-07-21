@@ -1,66 +1,45 @@
 [
   {
-    "score": 202,
+    "score": 189,
     "pubdate": "2026-07-21-12-17-55 +0000",
     "source": "nypost",
     "headline": "Trump says US will hit Iran’s ‘Pickaxe Mountain’ site ‘pretty soon’ after report centrifuges may have been moved there",
     "link": "https://nypost.com/2026/07/21/world-news/israel-believes-iran-moved-nuclear-material-inside-notorious-pickaxe-mountain-site-last-year-report/"
   },
   {
-    "score": 161,
+    "score": 150,
     "pubdate": "2026-07-21-17-00-03 +0000",
     "source": "nyt",
     "headline": "Andy Burnham, New UK Prime Minister, Names John Healey as Top Finance Official",
     "link": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html"
   },
   {
-    "score": 111,
+    "score": 93,
     "pubdate": "2026-07-20-21-20-18 +0000",
     "source": "nypost",
     "headline": "Trump hits Canada with surprise 50% tariffs — and he didn’t warn Carney during their World Cup talk",
     "link": "https://nypost.com/2026/07/20/us-news/trump-hits-canada-with-surprise-50-tariffs-and-he-didnt-warn-carney-during-their-world-cup-talk/"
   },
   {
-    "score": 73,
+    "score": 75,
     "pubdate": "2026-07-21-02-26-00 +0000",
     "source": "wsj",
     "headline": "Republican Sen. Darline Graham, the sister of the late Lindsey Graham, said she planned to run for a full Senate term to replace her brother in South Carolina",
     "link": "https://www.wsj.com/politics/elections/darline-graham-says-she-will-run-for-her-brothers-senate-seat-4b94707a"
   },
   {
-    "score": 59,
-    "pubdate": "2026-07-20-18-59-07 +0000",
-    "source": "nypost",
-    "headline": "California gas suffers another huge setback as judge slaps down oil giant’s Hail Mary",
-    "link": "https://nypost.com/2026/07/20/us-news/california-gas-suffers-another-huge-setback-as-judge-slaps-down-oil-giants-hail-mary/"
-  },
-  {
     "score": 54,
-    "pubdate": "2026-07-21-11-40-53 +0000",
-    "source": "bbc",
-    "headline": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
-    "link": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-07-21-13-58-56 +0000",
+    "source": "cbc",
+    "headline": "India's 'cockroach' protesters vow to remain in New Delhi after police use tear gas, batons",
+    "link": "https://www.cbc.ca/news/world/india-cockroach-protests-police-photos-9.7277778?cmp=rss"
   },
   {
     "score": 52,
-    "pubdate": "2026-07-20-18-44-00 +0000",
-    "source": "wsj",
-    "headline": "Qatari-Gifted Air Force One to Receive Upgrades This Fall, White House Says",
-    "link": "https://www.wsj.com/politics/policy/trump-air-force-one-qatar-gift-upgrades-57ab2299?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-07-21-16-22-24 +0000",
-    "source": "nypost",
-    "headline": "Trump warns Iran of much greater destruction if war continues: ‘They haven’t seen anything yet’",
-    "link": "https://nypost.com/2026/07/21/us-news/trump-warns-iran-of-much-greater-destruction-if-war-continues-they-havent-seen-anything-yet/"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-07-21-17-08-14 +0000",
-    "source": "nyt",
-    "headline": "Lebanese Army Accuses Israeli Troops of Firing as Its Forces Deploy in ‘Pilot Zone’",
-    "link": "https://www.nytimes.com/2026/07/21/world/middleeast/lebanon-israel-ceasefire-plan.html"
+    "pubdate": "2026-07-21-02-16-05 +0000",
+    "source": "bbc",
+    "headline": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
+    "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 50,
@@ -68,5 +47,26 @@
     "source": "chitri",
     "headline": "President Trump imposes 50% tariff on Canadian goods, citing disputes over autos, alcohol and cheese",
     "link": "https://www.chicagotribune.com/2026/07/20/trump-tariff-canadian-goods/"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-07-20-22-54-32 +0000",
+    "source": "nypost",
+    "headline": "Judge approves Anthropic’s $1.5B settlement of authors’ AI copyright lawsuit — first major case to settle",
+    "link": "https://nypost.com/2026/07/20/business/anthropics-1-5b-settlement-of-authors-ai-copyright-lawsuit-gets-greenlight/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-07-21-18-17-44 +0000",
+    "source": "latimes",
+    "headline": "California wouldn't be the right place to launch California Pizza Kitchen today, co-founder says",
+    "link": "https://www.latimes.com/business/story/2026-07-21/california-wouldnt-be-right-place-to-launch-california-pizza-kitchen-today-co-founder-says"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-07-21-16-30-00 +0000",
+    "source": "missionlocal",
+    "headline": "After a family was killed at a West Portal bus stop, the street was redesigned. Did it work?",
+    "link": "https://missionlocal.org/2026/07/san-francisco-sfmta-west-portal-safety-project/"
   }
 ]
