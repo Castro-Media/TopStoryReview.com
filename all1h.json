@@ -1,44 +1,242 @@
 [
   {
-    "headline": "Lebanese Troops Deploy in Israeli-Held Village Under New Cease-Fire Plan",
-    "link": "https://www.nytimes.com/2026/07/21/world/middleeast/lebanon-israel-ceasefire-plan.html",
-    "source": "nyt",
-    "pubdate": "2026-07-21-10-35-13 +0000"
+    "headline": "Israel believes Iran moved nuclear material inside notorious ‘Pickaxe Mountain’ site last year: report",
+    "link": "https://nypost.com/2026/07/21/world-news/israel-believes-iran-moved-nuclear-material-inside-notorious-pickaxe-mountain-site-last-year-report/",
+    "source": "nypost",
+    "pubdate": "2026-07-21-12-17-55 +0000"
   },
   {
-    "headline": "Two Young Brothers and Their Search for Venezuela’s Dead",
+    "headline": "‘Dangerous’ woman who uses multiple aliases on the run after a missing father found zip-tied in shallow grave: cops",
+    "link": "https://nypost.com/2026/07/21/us-news/dangerous-woman-who-goes-by-multiple-aliases-on-the-run-after-man-found-buried-in-shallow-grave-cops/",
+    "source": "nypost",
+    "pubdate": "2026-07-21-12-14-54 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/07/21/world/iran-war-strikes-trump-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-07-21-12-14-01 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/07/21/world/iran-war-strikes-trump-hormuz/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-07-21-12-14-01 +0000"
+  },
+  {
+    "headline": "Icahn to Sell Auto-Service Chain Pep Boys to Mavis for $700 Million",
+    "link": "https://www.wsj.com/business/deals/icahn-to-sell-auto-service-chain-pep-boys-to-mavis-for-700-million-8b7b80f8?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-21-12-14-00 +0000"
+  },
+  {
+    "headline": "Iran executes two young men for offering help to fleeing anti-regime protesters",
+    "link": "https://nypost.com/2026/07/21/world-news/iran-executes-two-young-men-for-offering-help-to-fleeing-anti-regime-protesters/",
+    "source": "nypost",
+    "pubdate": "2026-07-21-12-12-59 +0000"
+  },
+  {
+    "headline": "Novartis Returns to Growth After Key Drugs Offset Patent Expirations",
+    "link": "https://www.wsj.com/business/earnings/novartis-returns-to-growth-on-sales-momentum-from-key-drugs-e988f92a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-21-12-12-00 +0000"
+  },
+  {
+    "headline": "Former Labour leader 'thrilled to bits' as son becomes new Welsh secretary",
+    "link": "https://www.bbc.co.uk/news/articles/c5y3m14km87o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-21-12-07-29 +0000"
+  },
+  {
+    "headline": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+    "link": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-07-21-12-07-19 +0000"
+  },
+  {
+    "headline": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+    "link": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-07-21-12-07-19 +0000"
+  },
+  {
+    "headline": "Will the U.S. and China Build Walls Around A.I.?",
+    "link": "https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html",
+    "source": "nyt",
+    "pubdate": "2026-07-21-12-06-36 +0000"
+  },
+  {
+    "headline": "Halliburton Profit Climbs on Higher Revenue",
+    "link": "https://www.wsj.com/business/earnings/halliburton-profit-climbs-on-higher-revenue-7760a183?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-21-12-03-00 +0000"
+  },
+  {
+    "headline": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
+    "link": "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-21-12-02-47 +0000"
+  },
+  {
+    "headline": "Trump Rejected Nearly 6,000 Clemency Applications Amid Hope of Pardon Wave",
+    "link": "https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html",
+    "source": "nyt",
+    "pubdate": "2026-07-21-12-02-44 +0000"
+  },
+  {
+    "headline": "Trump Rejected Nearly 6,000 Clemency Applications Amid Hope of Pardon Wave",
+    "link": "https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html",
+    "source": "nyt",
+    "pubdate": "2026-07-21-12-02-44 +0000"
+  },
+  {
+    "headline": "Burnham, UK’s New Prime Minister, Starts With Electricity Tax Cut",
+    "link": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html",
+    "source": "nyt",
+    "pubdate": "2026-07-21-12-01-06 +0000"
+  },
+  {
+    "headline": "Burnham, UK’s New Prime Minister, Starts With Electricity Tax Cut",
+    "link": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html",
+    "source": "nyt",
+    "pubdate": "2026-07-21-12-01-06 +0000"
+  },
+  {
+    "headline": "Pan Am Clipper Endeavor Is Found After Over 70 Years Lost at Sea",
+    "link": "https://www.nytimes.com/2026/07/21/us/pan-am-clipper-endeavor-wreckage-found.html",
+    "source": "nyt",
+    "pubdate": "2026-07-21-12-00-05 +0000"
+  },
+  {
+    "headline": "After tough primary loss, some Silicon Valley donors regroup to back Becerra for governor",
+    "link": "https://missionlocal.org/2026/07/silicon-valley-tech-billionaires-mahan-becerra/",
+    "source": "missionlocal",
+    "pubdate": "2026-07-21-12-00-00 +0000"
+  },
+  {
+    "headline": "Whitehall officials offered move to No 10 North in Manchester",
+    "link": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-21-11-54-26 +0000"
+  },
+  {
+    "headline": "Hasbro Lifts Outlook as Revenue Rises",
+    "link": "https://www.wsj.com/business/earnings/hasbro-lifts-outlook-as-revenue-rises-caf8a544?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-21-11-54-00 +0000"
+  },
+  {
+    "headline": "Copper Prices Supported by Tighter Supply in China",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-physical-demand-continues-to-support-a3c425fe?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-21-11-47-00 +0000"
+  },
+  {
+    "headline": "How Two Brothers Dug for Dead Relatives: With a Shovel and a Kitchen Knife",
     "link": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
     "source": "nyt",
-    "pubdate": "2026-07-21-10-34-37 +0000"
+    "pubdate": "2026-07-21-11-46-00 +0000"
   },
   {
-    "headline": "Treasury stopped nearly $100 million in taxpayer money from going to dead people",
-    "link": "https://nypost.com/2026/07/21/us-news/treasury-stopped-nearly-100-million-in-taxpayer-money-from-going-to-dead-people/",
-    "source": "nypost",
-    "pubdate": "2026-07-21-10-32-50 +0000"
+    "headline": "How Two Brothers Dug for Dead Relatives: With a Shovel and a Kitchen Knife",
+    "link": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
+    "source": "nyt",
+    "pubdate": "2026-07-21-11-46-00 +0000"
   },
   {
-    "headline": "Chinese Destroyer’s Live-Fire Drill Draws Protest by Japan",
-    "link": "https://www.wsj.com/world/asia/chinese-destroyers-live-fire-drill-draws-protest-by-japan-405dc104",
+    "headline": "GM Raises Full-Year Outlook as Customer Demand Remains Strong",
+    "link": "https://www.wsj.com/business/earnings/gm-raises-full-year-outlook-as-customer-demand-remains-strong-6c3d2e9b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-07-21-10-32-00 +0000"
+    "pubdate": "2026-07-21-11-45-00 +0000"
   },
   {
-    "headline": "UK borrowing falls in June but public finances remain a challenge",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-07-21-10-31-06 +0000"
+    "pubdate": "2026-07-21-11-42-41 +0000"
   },
   {
-    "headline": "UK borrowing falls in June but public finances remain a challenge",
-    "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-07-21-10-31-06 +0000"
+    "pubdate": "2026-07-21-11-42-41 +0000"
   },
   {
-    "headline": "Thames Water lenders offer 'golden share' to head off nationalisation",
-    "link": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
+    "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-07-21-10-30-45 +0000"
+    "pubdate": "2026-07-21-11-42-41 +0000"
+  },
+  {
+    "headline": "Traffic officers arrested for allegedly seeking bribe from Nigeria's anti-corruption boss",
+    "link": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-21-11-40-53 +0000"
+  },
+  {
+    "headline": "Traffic officers arrested for allegedly seeking bribe from Nigeria's anti-corruption boss",
+    "link": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-21-11-40-53 +0000"
+  },
+  {
+    "headline": "Northrop Grumman Lifts Full-Year Outlook as Backlog Buildup Continues",
+    "link": "https://www.wsj.com/business/earnings/northrop-grumman-lifts-full-year-outlook-as-backlog-buildup-continues-2acaf477?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-21-11-40-00 +0000"
+  },
+  {
+    "headline": "Grandpa tossed 8 feet into air by Yellowstone bison recounts bone-breaking ordeal from hospital bed",
+    "link": "https://nypost.com/2026/07/21/us-news/grandpa-tossed-8-feet-into-air-by-yellowstone-bison-speaks-of-ordeal-from-his-hospital-bed/",
+    "source": "nypost",
+    "pubdate": "2026-07-21-11-39-37 +0000"
+  },
+  {
+    "headline": "Sir Chris Bryant appointed new NI secretary",
+    "link": "https://www.bbc.co.uk/news/articles/c20e5x4dy9lo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-21-11-34-27 +0000"
+  },
+  {
+    "headline": "S.F. high-tech police surveillance center gets $3M gift, partly for ‘counter drone’ tech",
+    "link": "https://missionlocal.org/2026/07/san-francisco-police-surveillance-center-drones-salesforce/",
+    "source": "missionlocal",
+    "pubdate": "2026-07-21-11-30-00 +0000"
+  },
+  {
+    "headline": "D.R. Horton Lowers Revenue Guidance as Sales Come in Flat",
+    "link": "https://www.wsj.com/business/earnings/d-r-horton-lowers-revenue-guidance-as-sales-come-in-flat-34bc012f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-21-11-28-00 +0000"
+  },
+  {
+    "headline": "Why big names like Michael Che are drawn to intimate Minnesota clubs",
+    "link": "https://www.startribune.com/michael-che-robin-williams-tom-segura-acme-comedy-club-saturday-night-live-sisyphus-brewing-company/601865497",
+    "source": "startribune",
+    "pubdate": "2026-07-21-11-25-42 +0000"
+  },
+  {
+    "headline": "Adnoc to Proceed With $6.2 Billion Abu Dhabi Gas Project",
+    "link": "https://www.wsj.com/finance/commodities-futures/adnoc-partners-to-proceed-with-6-2-billion-umm-shaif-gas-cap-project-59a8199c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-21-11-22-00 +0000"
+  },
+  {
+    "headline": "Adnoc to Proceed With $6.2 Billion Abu Dhabi Gas Project",
+    "link": "https://www.wsj.com/finance/commodities-futures/adnoc-partners-to-proceed-with-6-2-billion-umm-shaif-gas-cap-project-59a8199c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-21-11-22-00 +0000"
+  },
+  {
+    "headline": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+    "link": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-21-11-21-47 +0000"
+  },
+  {
+    "headline": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+    "link": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-21-11-21-47 +0000"
   }
 ]
