@@ -1,31 +1,38 @@
 [
   {
-    "score": 189,
+    "score": 180,
     "pubdate": "2026-07-21-12-17-55 +0000",
     "source": "nypost",
     "headline": "Trump says US will hit Iran’s ‘Pickaxe Mountain’ site ‘pretty soon’ after report centrifuges may have been moved there",
     "link": "https://nypost.com/2026/07/21/world-news/israel-believes-iran-moved-nuclear-material-inside-notorious-pickaxe-mountain-site-last-year-report/"
   },
   {
-    "score": 150,
+    "score": 133,
     "pubdate": "2026-07-21-17-00-03 +0000",
     "source": "nyt",
     "headline": "Andy Burnham, New UK Prime Minister, Names John Healey as Top Finance Official",
     "link": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html"
   },
   {
-    "score": 93,
+    "score": 87,
     "pubdate": "2026-07-20-21-20-18 +0000",
     "source": "nypost",
     "headline": "Trump hits Canada with surprise 50% tariffs — and he didn’t warn Carney during their World Cup talk",
     "link": "https://nypost.com/2026/07/20/us-news/trump-hits-canada-with-surprise-50-tariffs-and-he-didnt-warn-carney-during-their-world-cup-talk/"
   },
   {
-    "score": 75,
+    "score": 69,
     "pubdate": "2026-07-21-02-26-00 +0000",
     "source": "wsj",
     "headline": "Republican Sen. Darline Graham, the sister of the late Lindsey Graham, said she planned to run for a full Senate term to replace her brother in South Carolina",
     "link": "https://www.wsj.com/politics/elections/darline-graham-says-she-will-run-for-her-brothers-senate-seat-4b94707a"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-07-21-18-17-44 +0000",
+    "source": "latimes",
+    "headline": "California wouldn't be the right place to launch California Pizza Kitchen today, co-founder says",
+    "link": "https://www.latimes.com/business/story/2026-07-21/california-wouldnt-be-right-place-to-launch-california-pizza-kitchen-today-co-founder-says"
   },
   {
     "score": 54,
@@ -50,23 +57,16 @@
   },
   {
     "score": 50,
-    "pubdate": "2026-07-20-22-54-32 +0000",
+    "pubdate": "2026-07-21-17-16-16 +0000",
     "source": "nypost",
-    "headline": "Judge approves Anthropic’s $1.5B settlement of authors’ AI copyright lawsuit — first major case to settle",
-    "link": "https://nypost.com/2026/07/20/business/anthropics-1-5b-settlement-of-authors-ai-copyright-lawsuit-gets-greenlight/"
+    "headline": "Chinese AI firms that rip off US models could face sanctions, Treasury Secretary Scott Bessent warns",
+    "link": "https://nypost.com/2026/07/21/business/chinese-ai-firms-that-rip-off-us-models-could-face-sanctions-treasury-secretary-scott-bessent-warns/"
   },
   {
-    "score": 48,
-    "pubdate": "2026-07-21-18-17-44 +0000",
-    "source": "latimes",
-    "headline": "California wouldn't be the right place to launch California Pizza Kitchen today, co-founder says",
-    "link": "https://www.latimes.com/business/story/2026-07-21/california-wouldnt-be-right-place-to-launch-california-pizza-kitchen-today-co-founder-says"
-  },
-  {
-    "score": 45,
-    "pubdate": "2026-07-21-16-30-00 +0000",
-    "source": "missionlocal",
-    "headline": "After a family was killed at a West Portal bus stop, the street was redesigned. Did it work?",
-    "link": "https://missionlocal.org/2026/07/san-francisco-sfmta-west-portal-safety-project/"
+    "score": 49,
+    "pubdate": "2026-07-21-20-13-21 +0000",
+    "source": "nyt",
+    "headline": "Houthis Threaten Red Sea Blockade, Putting Oil Market at Greater Risk",
+    "link": "https://www.nytimes.com/2026/07/21/business/oil-red-sea-houthis.html"
   }
 ]
