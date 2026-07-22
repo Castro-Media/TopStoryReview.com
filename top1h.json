@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-07-22-19-17-18 +0000",
+    "score": 57,
+    "pubdate": "2026-07-22-20-36-21 +0000",
+    "source": "chitri",
+    "headline": "House Republicans push $95 billion package for the Iran war and Trump’s priorities",
+    "link": "https://www.chicagotribune.com/2026/07/22/house-republicans-95-billion-package-iran-war/"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-07-22-20-45-51 +0000",
+    "source": "nyt",
+    "headline": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
+    "link": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-07-22-21-06-56 +0000",
     "source": "nypost",
-    "headline": "Taco Bell sells $1 lettuce-free enchiritos to quell diarrhea parasite backlash",
-    "link": "https://nypost.com/2026/07/22/business/taco-bell-sells-1-lettuce-free-enchiritos-to-quell-diarrhea-parasite-backlash/"
+    "headline": "Trump’s IRS chief reveals scrub of Social Security database found 10% of recipients erroneously listed",
+    "link": "https://nypost.com/2026/07/22/us-news/trumps-irs-chief-reveals-scrub-of-social-security-database-found-10-of-recipients-erroneously-listed/"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-07-22-20-38-54 +0000",
+    "source": "nypost",
+    "headline": "Wild dashcam video shows crazed motorist ditch car, dive headfirst off bridge during police chase",
+    "link": "https://nypost.com/2026/07/22/us-news/missouri-motorist-diches-car-dives-off-bridge-in-police-chase/"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-07-22-20-57-53 +0000",
+    "source": "nyt",
+    "headline": "House Republicans Pass Stock Trading Bill Tied to SAVE Act and Voter ID Measure",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/house-bill-stock-trades-congress.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-07-22-20-38-00 +0000",
+    "source": "wsj",
+    "headline": "Texas Instruments Posts Higher Second-Quarter Profit, Revenue as Sales Increase",
+    "link": "https://www.wsj.com/business/earnings/texas-instruments-posts-higher-second-quarter-profit-revenue-as-sales-increase-51ba33cb?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-22-20-30-40 +0000",
+    "source": "nyt",
+    "headline": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-22-21-06-13 +0000",
+    "source": "nypost",
+    "headline": "New outbreak of explosive diarrhea parasite reported by FDA — with 72 cases and no known source",
+    "link": "https://nypost.com/2026/07/22/business/new-outbreak-of-explosive-diarrhea-parasite-reported-by-fda-with-72-cases-and-no-known-source/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-07-22-21-00-03 +0000",
+    "source": "nyt",
+    "headline": "The Next Big Tests for the Left: Michigan, Wisconsin and Minnesota",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/progressives-michigan-wisconsin-minnesota.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-22-21-16-00 +0000",
+    "source": "wsj",
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-68b232a7?mod=pls_whats_news_us_business_f"
   }
 ]
