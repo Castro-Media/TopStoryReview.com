@@ -1,24 +1,31 @@
 [
   {
-    "score": 236,
-    "pubdate": "2026-07-22-14-03-05 +0000",
+    "score": 239,
+    "pubdate": "2026-07-22-15-51-16 +0000",
     "source": "nyt",
     "headline": "Iran War Live Updates: Trump Threatens Retaliation Against Civilian Targets if Iran Strikes in Strait",
     "link": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz"
   },
   {
-    "score": 124,
+    "score": 125,
+    "pubdate": "2026-07-22-15-48-56 +0000",
+    "source": "cbc",
+    "headline": "Canada urges U.K. under new PM to reconsider joining new global defence bank",
+    "link": "https://www.cbc.ca/news/world/canada-push-uk-join-defence-security-resiliance-bank-9.7279219?cmp=rss"
+  },
+  {
+    "score": 121,
     "pubdate": "2026-07-21-21-26-00 +0000",
     "source": "wsj",
     "headline": "Pete Hegseth estimates the Iran war will cost $37.5 billion, disruptions in the Red and Black seas could impact oil supplies, and Lydia Corbett’s ponytail made her Picasso’s muse. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/iran-war-to-cost-about-37-5-billion-hegseth-says-5ef3876b"
   },
   {
-    "score": 95,
-    "pubdate": "2026-07-22-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Trump's new tariffs on Canada could face a court challenge. But this time, he might win",
-    "link": "https://www.cbc.ca/news/world/trump-tariffs-canada-court-challenge-9.7278373?cmp=rss"
+    "score": 81,
+    "pubdate": "2026-07-22-14-46-02 +0000",
+    "source": "nypost",
+    "headline": "Trump approves Saudi Arabia nuclear deal that could see Middle Eastern nation enriching own uranium",
+    "link": "https://nypost.com/2026/07/22/world-news/trump-approves-saudi-arabia-nuclear-deal-that-could-see-middle-eastern-nation-enriching-own-uranium/"
   },
   {
     "score": 80,
@@ -28,11 +35,11 @@
     "link": "https://www.wsj.com/politics/policy/whats-in-the-proposed-crackdown-on-megasize-retirement-accounts-edbc5168"
   },
   {
-    "score": 74,
-    "pubdate": "2026-07-22-11-55-36 +0000",
-    "source": "nyt",
-    "headline": "Expected U.S.-Saudi Nuclear Deal Fuels Israeli Concerns of Regional Arms Race",
-    "link": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html"
+    "score": 79,
+    "pubdate": "2026-07-21-20-42-24 +0000",
+    "source": "chitri",
+    "headline": "Canadian PM Mark Carney says he and Trump will intensify trade negotiations after US hiked tariffs by 50%",
+    "link": "https://www.chicagotribune.com/2026/07/21/trump-canada-tariffs/"
   },
   {
     "score": 68,
@@ -42,31 +49,24 @@
     "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 66,
-    "pubdate": "2026-07-21-16-30-00 +0000",
-    "source": "missionlocal",
-    "headline": "After a family was killed at a West Portal bus stop, the street was redesigned. Did it work?",
-    "link": "https://missionlocal.org/2026/07/san-francisco-sfmta-west-portal-safety-project/"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-07-21-20-52-31 +0000",
-    "source": "chitri",
-    "headline": "French lawmakers approve a sweeping social media ban for children under 15",
-    "link": "https://www.chicagotribune.com/2026/07/21/france-social-media-ban-children/"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-07-22-14-08-20 +0000",
-    "source": "nypost",
-    "headline": "Gavin Newsom takes a risky move out of Hunter Biden’s playbook to protect himself and wife Jennifer",
-    "link": "https://nypost.com/2026/07/22/us-news/california-gov-gavin-newsom-hires-hunter-biden-lawyer-amid-doj-probe/"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-07-22-11-41-08 +0000",
+    "score": 65,
+    "pubdate": "2026-07-22-12-58-55 +0000",
     "source": "bbc",
-    "headline": "What does an Andy Burnham-led government mean for your money?",
-    "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss"
+    "headline": "I travel four hours on a bus per day - the bus fare cap will save me £500 a year",
+    "link": "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-07-22-16-05-18 +0000",
+    "source": "nypost",
+    "headline": "Trump tech official accuses China’s Moonshot AI of ‘large-scale’ plot to steal from Anthropic",
+    "link": "https://nypost.com/2026/07/22/business/chinas-moonshot-ai-stole-from-anthropics-fable-to-develop-latest-ai-model-trump-admin/"
+  },
+  {
+    "score": 59,
+    "pubdate": "2026-07-22-15-34-00 +0000",
+    "source": "wsj",
+    "headline": "New York City Mayor Zohran Mamdani appointed Lina Khan, the antimonopoly former FTC head, to chair the city’s Economic Development Corporation",
+    "link": "https://www.wsj.com/politics/in-surprise-move-mamdani-names-lina-khan-to-development-post-993abe92"
   }
 ]
