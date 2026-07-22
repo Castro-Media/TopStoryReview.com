@@ -1,72 +1,72 @@
 [
   {
+    "score": 41,
+    "pubdate": "2026-07-22-12-58-55 +0000",
+    "source": "bbc",
+    "headline": "I travel four hours on a bus per day - the bus fare cap will save me £500 a year",
+    "link": "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-07-22-12-45-51 +0000",
+    "source": "chitri",
+    "headline": "Iran strikes Jordanian city near Israel as US carries out another wave of strikes",
+    "link": "https://www.chicagotribune.com/2026/07/22/iran-israel-us/"
+  },
+  {
     "score": 28,
-    "pubdate": "2026-07-22-12-09-20 +0000",
+    "pubdate": "2026-07-22-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "Two Democratic lawmakers want to curb tax breaks for multimillion-dollar 401(k)s and IRAs, signaling a tax priority if Democrats take control of Congress. Here’s what the bill would do.",
+    "link": "https://www.wsj.com/politics/policy/whats-in-the-proposed-crackdown-on-megasize-retirement-accounts-edbc5168"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-07-22-13-09-00 +0000",
+    "source": "wsj",
+    "headline": "Penske, Mitsui Bid to Take Penske Automotive Private in Near $4 Billion Deal",
+    "link": "https://www.wsj.com/finance/investing/penske-mitsui-bid-to-take-penske-automotive-private-in-near-4-billion-deal-4f8183e7?mod=rss_markets_main"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-07-22-13-00-00 +0000",
     "source": "nypost",
-    "headline": "Louisiana Rep. Cleo Fields won’t seek re-election after Supreme Court ruled district was gerrymandered",
-    "link": "https://nypost.com/2026/07/22/us-news/louisiana-rep-cleo-fields-wont-seek-re-election/"
+    "headline": "Billionaire tax backers burn big money on retreats, out-of-state political efforts and breathing ‘coach’",
+    "link": "https://nypost.com/2026/07/22/us-news/billionaire-tax-union-burns-big-money-on-hotels-breathing-coach/"
   },
   {
-    "score": 25,
-    "pubdate": "2026-07-22-11-55-35 +0000",
-    "source": "nyt",
-    "headline": "Expected U.S.-Saudi Nuclear Deal Fuels Israeli Concerns of Regional Arms Race",
-    "link": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-07-22-12-17-51 +0000",
-    "source": "nyt",
-    "headline": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
-    "link": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-07-22-12-08-41 +0000",
+    "score": 18,
+    "pubdate": "2026-07-22-12-32-13 +0000",
     "source": "bbc",
-    "headline": "Modelling scout linked to Epstein found dead in Paris suburbs",
-    "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss"
+    "headline": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+    "link": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 16,
-    "pubdate": "2026-07-22-11-32-11 +0000",
-    "source": "bbc",
-    "headline": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
-    "link": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-07-22-11-58-08 +0000",
+    "score": 18,
+    "pubdate": "2026-07-22-12-58-19 +0000",
     "source": "nyt",
-    "headline": "Ukraine’s New Military Chief Faces a Monumental Test",
-    "link": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html"
+    "headline": "See Which 52 Places to Go We’ve Already Visited From Warsaw to Bangkok",
+    "link": "https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html"
   },
   {
-    "score": 15,
-    "pubdate": "2026-07-22-11-41-08 +0000",
-    "source": "bbc",
-    "headline": "What does an Andy Burnham-led government mean for your money?",
-    "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss"
+    "score": 18,
+    "pubdate": "2026-07-22-12-51-54 +0000",
+    "source": "chitri",
+    "headline": "Venezuela’s Nicolás Maduro back to court for pretrial hearing in his US drug trafficking case",
+    "link": "https://www.chicagotribune.com/2026/07/22/venezuelas-nicols-maduro-hearing/"
   },
   {
-    "score": 13,
-    "pubdate": "2026-07-22-11-46-29 +0000",
-    "source": "nyt",
-    "headline": "Global Oil Price Jumps as War Threats Intensify",
-    "link": "https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html"
+    "score": 17,
+    "pubdate": "2026-07-22-13-19-08 +0000",
+    "source": "nypost",
+    "headline": "Trump vows to destroy one Iranian bridge or power plant for every shot Tehran takes at Strait of Hormuz shipping",
+    "link": "https://nypost.com/2026/07/22/us-news/trump-vows-to-destroy-one-iranian-bridge-or-power-plant-for-every-shot-tehran-takes-at-strait-of-hormuz-shipping/"
   },
   {
-    "score": 12,
-    "pubdate": "2026-07-22-12-04-50 +0000",
-    "source": "nyt",
-    "headline": "Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel",
-    "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-07-22-11-39-51 +0000",
-    "source": "bbc",
-    "headline": "Most bus fares in England to be capped at £2 from January",
-    "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss"
+    "score": 17,
+    "pubdate": "2026-07-22-12-57-00 +0000",
+    "source": "wsj",
+    "headline": "Lloyd’s of London Criticizes Former CEO’s Close Relationship With Subordinate",
+    "link": "https://www.wsj.com/business/lloyds-of-london-criticizes-former-ceos-close-relationship-with-subordinate-96d0a69f"
   }
 ]
