@@ -1,17 +1,24 @@
 [
   {
-    "score": 203,
-    "pubdate": "2026-07-22-19-12-53 +0000",
+    "score": 214,
+    "pubdate": "2026-07-22-21-10-49 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: Trump Threatens Retaliation Against Civilian Targets if Iran Strikes in Strait",
+    "headline": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
     "link": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz"
   },
   {
-    "score": 110,
+    "score": 106,
     "pubdate": "2026-07-21-21-26-00 +0000",
     "source": "wsj",
     "headline": "Pete Hegseth estimates the Iran war will cost $37.5 billion, disruptions in the Red and Black seas could impact oil supplies, and Lydia Corbett’s ponytail made her Picasso’s muse. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/iran-war-to-cost-about-37-5-billion-hegseth-says-5ef3876b"
+  },
+  {
+    "score": 97,
+    "pubdate": "2026-07-22-14-46-02 +0000",
+    "source": "nypost",
+    "headline": "Trump approves Saudi Arabia nuclear deal that could see Middle Eastern nation enriching own uranium",
+    "link": "https://nypost.com/2026/07/22/world-news/trump-approves-saudi-arabia-nuclear-deal-that-could-see-middle-eastern-nation-enriching-own-uranium/"
   },
   {
     "score": 96,
@@ -21,52 +28,45 @@
     "link": "https://www.wsj.com/politics/in-surprise-move-mamdani-names-lina-khan-to-development-post-993abe92"
   },
   {
-    "score": 87,
-    "pubdate": "2026-07-22-14-46-02 +0000",
-    "source": "nypost",
-    "headline": "Trump approves Saudi Arabia nuclear deal that could see Middle Eastern nation enriching own uranium",
-    "link": "https://nypost.com/2026/07/22/world-news/trump-approves-saudi-arabia-nuclear-deal-that-could-see-middle-eastern-nation-enriching-own-uranium/"
+    "score": 80,
+    "pubdate": "2026-07-22-20-57-53 +0000",
+    "source": "nyt",
+    "headline": "House Republicans Pass Stock Trading Bill Tied to SAVE Act and Voter ID Measure",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/house-bill-stock-trades-congress.html"
   },
   {
-    "score": 79,
+    "score": 73,
+    "pubdate": "2026-07-22-19-25-31 +0000",
+    "source": "nypost",
+    "headline": "Chilling video shows NYC dad calmly strolling to car after butchering wife — before he was found hanging in nearby park",
+    "link": "https://nypost.com/2026/07/22/us-news/chilling-video-shows-nyc-dad-joseph-azzaretto-strolling-to-car-after-butchering-wife/"
+  },
+  {
+    "score": 63,
     "pubdate": "2026-07-22-13-00-00 +0000",
     "source": "wsj",
     "headline": "Two Democratic lawmakers want to curb tax breaks for multimillion-dollar 401(k)s and IRAs, signaling a tax priority if Democrats take control of Congress. Here’s what the bill would do.",
     "link": "https://www.wsj.com/politics/policy/whats-in-the-proposed-crackdown-on-megasize-retirement-accounts-edbc5168"
   },
   {
-    "score": 69,
-    "pubdate": "2026-07-21-20-42-24 +0000",
-    "source": "chitri",
-    "headline": "Canadian PM Mark Carney says he and Trump will intensify trade negotiations after US hiked tariffs by 50%",
-    "link": "https://www.chicagotribune.com/2026/07/21/trump-canada-tariffs/"
-  },
-  {
-    "score": 66,
+    "score": 62,
     "pubdate": "2026-07-22-05-37-43 +0000",
     "source": "bbc",
     "headline": "Zelensky sacks Ukraine's top army commander after days of protests",
     "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 64,
+    "score": 61,
     "pubdate": "2026-07-22-17-07-05 +0000",
     "source": "bbc",
     "headline": "I travel four hours on a bus per day - the bus fare cap will save me £500 a year",
     "link": "https://www.bbc.co.uk/news/articles/clyv4y3xdvgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
-    "pubdate": "2026-07-22-18-26-49 +0000",
-    "source": "nyt",
-    "headline": "Daniel Siad, Model Scout Who Connected Women to Epstein, Is Found Dead in France",
-    "link": "https://www.nytimes.com/2026/07/22/world/europe/epstein-daniel-siad-dead-model-scout.html"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-07-22-18-41-07 +0000",
-    "source": "nypost",
-    "headline": "Nolan Wells was gruesomely missing body part during preliminary autopsy, pathologist’s report shows",
-    "link": "https://nypost.com/2026/07/22/us-news/nolan-wells-was-missing-body-part-during-preliminary-autopsy/"
+    "score": 57,
+    "pubdate": "2026-07-22-12-44-44 +0000",
+    "source": "cbc",
+    "headline": "Austria turns Hitler's first home into police station, a move opposed by Holocaust survivors group",
+    "link": "https://www.cbc.ca/news/world/austria-hitler-home-police-station-9.7279062?cmp=rss"
   }
 ]
