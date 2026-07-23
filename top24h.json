@@ -7,18 +7,11 @@
     "link": "https://nypost.com/2026/07/22/world-news/trump-approves-saudi-arabia-nuclear-deal-that-could-see-middle-eastern-nation-enriching-own-uranium/"
   },
   {
-    "score": 124,
+    "score": 123,
     "pubdate": "2026-07-23-01-07-00 +0000",
     "source": "nypost",
     "headline": "US carrying out new wave of Iran strikes as military attacks Islamic Republic for 12th straight night",
     "link": "https://nypost.com/2026/07/22/world-news/us-carrying-out-new-wave-of-iran-strikes-as-military-attacks-islamic-republic-for-12th-straight-night/"
-  },
-  {
-    "score": 85,
-    "pubdate": "2026-07-23-08-10-32 +0000",
-    "source": "wsj",
-    "headline": "Stock Market Today: Oil Prices Jump After Houthis Claim Attacks on Red Sea Tankers",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-23-2026?mod=rss_markets_main"
   },
   {
     "score": 85,
@@ -28,11 +21,11 @@
     "link": "https://www.wsj.com/world/americas/carney-has-tried-the-carrot-and-the-stick-with-trumpbut-neither-is-working-a1c2a7bf"
   },
   {
-    "score": 81,
-    "pubdate": "2026-07-22-15-34-00 +0000",
+    "score": 84,
+    "pubdate": "2026-07-23-08-10-32 +0000",
     "source": "wsj",
-    "headline": "New York City Mayor Zohran Mamdani appointed Lina Khan, the antimonopoly former FTC head, to chair the city’s Economic Development Corporation",
-    "link": "https://www.wsj.com/politics/in-surprise-move-mamdani-names-lina-khan-to-development-post-993abe92"
+    "headline": "Stock Market Today: Oil Prices Jump After Houthis Claim Attacks on Red Sea Tankers",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-23-2026?mod=rss_markets_main"
   },
   {
     "score": 80,
@@ -42,11 +35,18 @@
     "link": "https://www.wsj.com/politics/national-security/r-james-woolsey-cia-director-dies-at-84-08b4333c"
   },
   {
-    "score": 74,
-    "pubdate": "2026-07-22-13-00-00 +0000",
+    "score": 79,
+    "pubdate": "2026-07-22-15-34-00 +0000",
     "source": "wsj",
-    "headline": "Two Democratic lawmakers want to curb tax breaks for multimillion-dollar 401(k)s and IRAs, signaling a tax priority if Democrats take control of Congress. Here’s what the bill would do.",
-    "link": "https://www.wsj.com/politics/policy/whats-in-the-proposed-crackdown-on-megasize-retirement-accounts-edbc5168"
+    "headline": "New York City Mayor Zohran Mamdani appointed Lina Khan, the antimonopoly former FTC head, to chair the city’s Economic Development Corporation",
+    "link": "https://www.wsj.com/politics/in-surprise-move-mamdani-names-lina-khan-to-development-post-993abe92"
+  },
+  {
+    "score": 74,
+    "pubdate": "2026-07-22-21-50-39 +0000",
+    "source": "nyt",
+    "headline": "House Republicans Pass Stock Trading Bill Tied to SAVE Act and Voter ID Measure",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/house-bill-stock-trades-congress.html"
   },
   {
     "score": 73,
@@ -56,11 +56,11 @@
     "link": "https://www.nytimes.com/2026/07/22/world/europe/epstein-daniel-siad-dead-model-scout.html"
   },
   {
-    "score": 62,
-    "pubdate": "2026-07-22-21-50-39 +0000",
-    "source": "nyt",
-    "headline": "House Republicans Pass Stock Trading Bill Tied to SAVE Act and Voter ID Measure",
-    "link": "https://www.nytimes.com/2026/07/22/us/politics/house-bill-stock-trades-congress.html"
+    "score": 59,
+    "pubdate": "2026-07-22-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "Two Democratic lawmakers want to curb tax breaks for multimillion-dollar 401(k)s and IRAs, signaling a tax priority if Democrats take control of Congress. Here’s what the bill would do.",
+    "link": "https://www.wsj.com/politics/policy/whats-in-the-proposed-crackdown-on-megasize-retirement-accounts-edbc5168"
   },
   {
     "score": 59,
