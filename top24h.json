@@ -1,6 +1,6 @@
 [
   {
-    "score": 194,
+    "score": 191,
     "pubdate": "2026-07-22-09-46-00 +0000",
     "source": "wsj",
     "headline": "Trump Approves Saudi Nuclear Deal as Iran Missile Threat Persists",
@@ -14,18 +14,18 @@
     "link": "https://www.wsj.com/politics/in-surprise-move-mamdani-names-lina-khan-to-development-post-993abe92"
   },
   {
-    "score": 85,
-    "pubdate": "2026-07-23-08-10-32 +0000",
-    "source": "wsj",
-    "headline": "Stock Market Today: Oil Prices Jump After Houthis Claim Attacks on Red Sea Tankers",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-23-2026?mod=rss_markets_main"
-  },
-  {
-    "score": 83,
+    "score": 82,
     "pubdate": "2026-07-23-02-00-00 +0000",
     "source": "wsj",
     "headline": "Canada’s Mark Carney has tried the carrot and the stick with Trump—but neither has worked, and now Canada will enter trade talks with the threat of hefty U.S. tariffs on billions in Canadian goods",
     "link": "https://www.wsj.com/world/americas/carney-has-tried-the-carrot-and-the-stick-with-trumpbut-neither-is-working-a1c2a7bf"
+  },
+  {
+    "score": 80,
+    "pubdate": "2026-07-23-08-10-32 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Oil Prices Jump After Houthis Claim Attacks on Red Sea Tankers",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-23-2026?mod=rss_markets_main"
   },
   {
     "score": 74,
@@ -50,6 +50,13 @@
   },
   {
     "score": 59,
+    "pubdate": "2026-07-22-16-05-18 +0000",
+    "source": "nypost",
+    "headline": "Trump tech official accuses China’s Moonshot AI of ‘large-scale’ plot to steal from Anthropic",
+    "link": "https://nypost.com/2026/07/22/business/chinas-moonshot-ai-stole-from-anthropics-fable-to-develop-latest-ai-model-trump-admin/"
+  },
+  {
+    "score": 59,
     "pubdate": "2026-07-23-03-03-54 +0000",
     "source": "nypost",
     "headline": "Twisted four-word message accused teen killer gave before targeting beloved artist in crime that’s rocked quiet California beach town",
@@ -61,12 +68,5 @@
     "source": "chitri",
     "headline": "Adolf Hitler’s birthplace in Austria reopens as a police station to deter Nazi pilgrimages",
     "link": "https://www.chicagotribune.com/2026/07/22/adolf-hitler-birthplace-police-station/"
-  },
-  {
-    "score": 59,
-    "pubdate": "2026-07-22-16-05-18 +0000",
-    "source": "nypost",
-    "headline": "Trump tech official accuses China’s Moonshot AI of ‘large-scale’ plot to steal from Anthropic",
-    "link": "https://nypost.com/2026/07/22/business/chinas-moonshot-ai-stole-from-anthropics-fable-to-develop-latest-ai-model-trump-admin/"
   }
 ]
