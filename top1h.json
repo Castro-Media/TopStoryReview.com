@@ -1,23 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-07-23-10-36-44 +0000",
+    "score": 45,
+    "pubdate": "2026-07-23-12-09-13 +0000",
     "source": "nyt",
-    "headline": "Diesel Crisis Puts Poor Farmers Around the World at Risk",
-    "link": "https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html"
+    "headline": "U.S.-Saudi Deal Prompts Fears of a Global Nuclear Arms Race",
+    "link": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html"
   },
   {
-    "score": 4,
-    "pubdate": "2026-07-23-10-30-51 +0000",
+    "score": 29,
+    "pubdate": "2026-07-23-12-09-01 +0000",
+    "source": "nypost",
+    "headline": "Pentagon asked for ‘gain of function’ research proposals years before COVID-19 pandemic, top virologist tells Congress",
+    "link": "https://nypost.com/2026/07/23/us-news/pentagon-asked-for-gain-of-function-research-proposals-years-before-covid-19-pandemic-top-virologist-tells-congress/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-07-23-12-12-53 +0000",
+    "source": "nyt",
+    "headline": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
+    "link": "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-07-23-12-08-00 +0000",
+    "source": "wsj",
+    "headline": "McCormick to Seek London Listing Following Tie-Up with Unilever Foods",
+    "link": "https://www.wsj.com/business/mccormick-to-seek-london-listing-following-tie-up-with-unilever-foods-84c0edca?mod=rss_markets_main"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-23-12-18-36 +0000",
     "source": "bbc",
-    "headline": "Why are UK fuel prices rising again?",
-    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+    "headline": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2026-07-23-10-36-44 +0000",
+    "score": 18,
+    "pubdate": "2026-07-23-11-41-47 +0000",
     "source": "nyt",
-    "headline": "Diesel Crisis Puts Poor Farmers Around the World at Risk",
-    "link": "https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html"
+    "headline": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
+    "link": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-23-12-03-56 +0000",
+    "source": "nyt",
+    "headline": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
+    "link": "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-23-11-25-34 +0000",
+    "source": "bbc",
+    "headline": "Airport drop-off fees up by a third - here are the priciest",
+    "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-23-11-42-30 +0000",
+    "source": "nypost",
+    "headline": "Hunter Biden bashes ‘a–hole’ Jake Tapper on Don Lemon’s podcast in foul-mouthed rant: ‘Full of f–king s–t’",
+    "link": "https://nypost.com/2026/07/23/us-news/hunter-biden-bashes-a-hole-jake-tapper-on-don-lemons-podcast-in-foul-mouthed-rant/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-07-23-12-05-33 +0000",
+    "source": "nypost",
+    "headline": "Mango heir’s son told by therapist to confront father on ‘edge of a cliff’ days before fatal fall: report",
+    "link": "https://nypost.com/2026/07/23/world-news/mango-heirs-son-told-by-therapist-to-confront-father-on-edge-of-a-cliff-days-before-fatal-fall-report/"
   }
 ]
