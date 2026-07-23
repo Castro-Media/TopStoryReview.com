@@ -1,9 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2026-07-22-23-13-39 +0000",
+    "score": 32,
+    "pubdate": "2026-07-23-00-59-00 +0000",
+    "source": "wsj",
+    "headline": "Mayor Zohran Mamdani’s appointment of Lina Khan as chair of New York’s Economic Development Corporation sent a jolt through some corners of the business community. But a separate appointment blunted the shock.",
+    "link": "https://www.wsj.com/politics/policy/can-lina-khan-make-peace-with-new-yorks-business-community-5852133d"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-07-23-00-56-00 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
+    "link": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-07-23-00-43-11 +0000",
+    "source": "nyt",
+    "headline": "Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto",
+    "link": "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-07-23-00-32-55 +0000",
     "source": "nypost",
-    "headline": "Twisted Texas sister Kitty seen in shackles during court appearance for stabbing mom of 5 to death",
-    "link": "https://nypost.com/2026/07/22/us-news/twisted-texas-sister-kitty-seen-in-jail-garb-hand-shackles-during-court-appearance-for-hacking-mom-of-5-to-death/"
+    "headline": "Dem leaders’ outrageous history of changing California ballot  descriptions revealed",
+    "link": "https://nypost.com/2026/07/22/us-news/california-attorney-generals-history-of-altering-ballot-language/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-23-00-44-11 +0000",
+    "source": "nyt",
+    "headline": "Three Airports Plan to Ditch T.S.A. Amid Push for Private Security",
+    "link": "https://www.nytimes.com/2026/07/22/travel/tsa-privatization-push.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-23-00-52-25 +0000",
+    "source": "bbc",
+    "headline": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+    "link": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-23-00-54-46 +0000",
+    "source": "nyt",
+    "headline": "Debate Over Ancient Iranian Jewelry Worn by Zendaya to ‘Odyssey’ Event",
+    "link": "https://www.nytimes.com/2026/07/22/style/zendaya-odyssey-earrings-jewelry.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-23-00-35-34 +0000",
+    "source": "nypost",
+    "headline": "Former Amazon ‘teacher of the year’ arrested for allegedly raping 14-year-old student in Massachusetts",
+    "link": "https://nypost.com/2026/07/22/us-news/former-amazon-teacher-of-the-year-arrested-for-allegedly-raping-14-year-old-student-in-massachusetts/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-07-23-01-07-00 +0000",
+    "source": "nypost",
+    "headline": "US carrying out new wave of Iran strikes as military attacks Islamic Republic for 12th straight night",
+    "link": "https://nypost.com/2026/07/22/world-news/us-carrying-out-new-wave-of-iran-strikes-as-military-attacks-islamic-republic-for-12th-straight-night/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-07-23-01-10-28 +0000",
+    "source": "nyt",
+    "headline": "House Passes Defense Bill Amid Iran War Divide",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html"
   }
 ]
