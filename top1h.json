@@ -1,72 +1,37 @@
 [
   {
-    "score": 25,
-    "pubdate": "2026-07-24-00-40-26 +0000",
-    "source": "bbc",
-    "headline": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-07-24-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "As the Iran war enters its fifth month, President Trump is increasingly frustrated that a conflict he once thought would be over in a matter of weeks has dragged on with no end in sight",
-    "link": "https://www.wsj.com/politics/policy/trump-is-losing-patience-over-an-iran-war-with-no-clear-end-in-sight-c411d3cd"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-07-24-01-19-05 +0000",
-    "source": "chitri",
-    "headline": "Pritzker administration to lay off workers, reduce operations at downstate Choate facility",
-    "link": "https://www.chicagotribune.com/2026/07/23/choate-layoffs/"
-  },
-  {
     "score": 16,
-    "pubdate": "2026-07-24-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Prices Roar Back, Threatening Economy and GOP’s Midterm Hopes",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-roar-back-threatening-economy-and-gops-midterm-hopes-73df238a?mod=rss_markets_main"
+    "pubdate": "2026-07-24-03-26-26 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Iran Rejected a U.S. Cease-Fire Offer Delivered by Iraq, Officials Say",
+    "link": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump"
   },
   {
-    "score": 14,
-    "pubdate": "2026-07-24-00-54-22 +0000",
+    "score": 15,
+    "pubdate": "2026-07-24-03-25-34 +0000",
     "source": "nypost",
-    "headline": "LAPD chief reveals plan to double drone fleet to tackle homicides, kidnappings and burglaries amid cop shortage",
-    "link": "https://nypost.com/2026/07/23/us-news/lapd-expands-drone-fleet-program-as-staffing-shortage-continues/"
+    "headline": "Florida fugitive wanted for heinous murder has large scorpion tattoo that cops hope will help ID her",
+    "link": "https://nypost.com/2026/07/23/us-news/florida-fugitive-wanted-for-henious-murder-has-large-scorpion-tattoo-that-cops-hope-will-help-id-her/"
   },
   {
-    "score": 13,
-    "pubdate": "2026-07-24-00-30-55 +0000",
+    "score": 9,
+    "pubdate": "2026-07-24-03-28-38 +0000",
     "source": "nypost",
-    "headline": "Star JFK pitcher Derek Yormack lands prestigious Gatorade award to cap ‘amazing’ year",
-    "link": "https://nypost.com/2026/07/23/sports/jfks-derek-yormack-lands-prestigious-gatorade-nod-to-cap-amazing-year/"
+    "headline": "Staggering number of ballots rejected in California primary as slow pace cripples count",
+    "link": "https://nypost.com/2026/07/23/us-news/150000-votes-tossed-in-california-mail-in-ballot-system-failure/"
   },
   {
-    "score": 12,
-    "pubdate": "2026-07-24-01-00-00 +0000",
+    "score": 7,
+    "pubdate": "2026-07-24-03-28-31 +0000",
+    "source": "48hills",
+    "headline": "Under the Stars: A harmonious system of influences (Whitesnake included)",
+    "link": "https://48hills.org/2026/07/under-the-stars-a-harmonious-system-of-influences-whitesnake-included/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-07-24-03-12-00 +0000",
     "source": "wsj",
-    "headline": "Inside China’s All-Out Push to Catch Up With American AI Chips",
-    "link": "https://www.wsj.com/world/china/china-ai-chips-race-949050d0"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-07-24-00-57-53 +0000",
-    "source": "nypost",
-    "headline": "Free-speech advocates blast LA council after ban on these controversial words",
-    "link": "https://nypost.com/2026/07/23/us-news/la-city-councils-speech-restrictions-spark-first-amendment-showdown/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-07-24-00-44-00 +0000",
-    "source": "wsj",
-    "headline": "Gold Declines on Stronger Dollar, Fed Rate Hike Prospects",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-on-stronger-dollar-fed-rate-hike-prospects-71b26469?mod=rss_markets_main"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-07-24-00-44-59 +0000",
-    "source": "latimes",
-    "headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
-    "link": "https://www.latimes.com/environment/story/2026-07-23/still-in-critical-condition-big-bear-eagle-jackie-receives-life-saving-blood-transfusion"
+    "headline": "Trump Says Iran Will Be Held Responsible for Future Houthi Attacks",
+    "link": "https://www.wsj.com/world/middle-east/trump-says-iran-will-held-responsible-for-future-houthi-attacks-0bc23ec0"
   }
 ]
