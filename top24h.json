@@ -1,6 +1,6 @@
 [
   {
-    "score": 225,
+    "score": 224,
     "pubdate": "2026-07-23-19-04-00 +0000",
     "source": "wapo",
     "headline": "Saudi nuclear deal in doubt as Trump adds new condition regarding Israel",
@@ -21,18 +21,18 @@
     "link": "https://nypost.com/2026/07/23/business/south-korean-ai-billionaire-faces-1-billion-divorce-payout-after-marriage-of-the-century-crumbles-amid-affair-with-younger-woman/"
   },
   {
-    "score": 83,
-    "pubdate": "2026-07-23-15-20-03 +0000",
-    "source": "nypost",
-    "headline": "Brent crude oil surges to $100 a barrel for first time since May after reports of Red Sea attacks",
-    "link": "https://nypost.com/2026/07/23/business/brent-crude-oil-surges-to-100-a-barrel-for-first-time-since-may-after-reports-of-red-sea-attacks/"
-  },
-  {
     "score": 82,
     "pubdate": "2026-07-23-16-00-00 +0000",
     "source": "wsj",
     "headline": "Mortgage rates rose to their highest level in almost a year, as rising tensions in the Middle East spurred fears of higher inflation",
     "link": "https://www.wsj.com/economy/housing/mortgage-rates-hit-highest-levels-in-nearly-a-year-ba480ebf"
+  },
+  {
+    "score": 82,
+    "pubdate": "2026-07-23-14-44-01 +0000",
+    "source": "nyt",
+    "headline": "Global Oil Price Hits $100 a Barrel for First Time Since May",
+    "link": "https://www.nytimes.com/2026/07/23/business/oil-price-100-dollars.html"
   },
   {
     "score": 71,
@@ -42,14 +42,14 @@
     "link": "https://www.wsj.com/economy/trade/trump-unveils-new-tariffs-designed-to-withstand-legal-scrutiny-21ef4093"
   },
   {
-    "score": 69,
+    "score": 68,
     "pubdate": "2026-07-24-02-00-00 +0000",
     "source": "wsj",
     "headline": "Capital Account: When the Supreme Court struck down President Trump’s main tariff weapon in February, the ruling simply rerouted him to tools the court hadn’t explicitly prohibited",
     "link": "https://www.wsj.com/politics/policy/trumps-trade-wars-are-backdespite-the-supreme-court-7a889f9a"
   },
   {
-    "score": 62,
+    "score": 58,
     "pubdate": "2026-07-23-21-13-00 +0000",
     "source": "wsj",
     "headline": "SAP Second-Quarter Revenue Up on Cloud Business Results, Operating Profit Guidance Lowered on Slowing Growth",
@@ -63,7 +63,7 @@
     "link": "https://www.wsj.com/politics/gop-lawmakers-back-trump-on-iran-war-4a309acb"
   },
   {
-    "score": 48,
+    "score": 46,
     "pubdate": "2026-07-23-11-02-24 +0000",
     "source": "chitri",
     "headline": "US is ready to help end the ‘senseless war’ in Ukraine but no quick deal ahead, Marco Rubio says",
