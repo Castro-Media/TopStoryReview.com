@@ -1,72 +1,44 @@
 [
   {
-    "score": 36,
-    "pubdate": "2026-07-24-13-31-49 +0000",
-    "source": "nyt",
-    "headline": "On Instagram, Travelers Are Taking Risky Cross-Continental Journeys. What Could Go Wrong?",
-    "link": "https://www.nytimes.com/2026/07/24/travel/risky-trips-instagram-tiktok-social-media.html"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-07-24-13-41-20 +0000",
-    "source": "nyt",
-    "headline": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
-    "link": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-07-24-14-25-41 +0000",
-    "source": "nypost",
-    "headline": "AI billionaire who left wife for younger lover ordered to pay $645M in South Korea’s ‘divorce of the century’",
-    "link": "https://nypost.com/2026/07/24/business/ai-billionaire-who-left-wife-for-younger-lover-ordered-to-pay-645m-in-south-koreas-divorce-of-the-century/"
-  },
-  {
-    "score": 27,
-    "pubdate": "2026-07-24-14-00-31 +0000",
-    "source": "nyt",
-    "headline": "China Wields Its Rare Earth Leverage Over Europe With New Export Controls",
-    "link": "https://www.nytimes.com/2026/07/24/business/china-europe-rare-earths.html"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-07-24-13-57-47 +0000",
-    "source": "nyt",
-    "headline": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
-    "link": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-07-24-13-44-43 +0000",
-    "source": "nypost",
-    "headline": "Mamdani’s muni bond problem is slowly worsening — here’s how it could come to a head",
-    "link": "https://nypost.com/2026/07/24/business/mamdanis-muni-bond-problem-is-slowly-worsening-heres-how-it-could-come-to-a-head/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-07-24-13-41-46 +0000",
-    "source": "nyt",
-    "headline": "Russia and Ukraine Trade Deadly Blows With Missiles and Drones",
-    "link": "https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-07-24-14-01-29 +0000",
-    "source": "nypost",
-    "headline": "Hannah Rapp’s boyfriend tearfully reveals romantic plan he had when she was killed: ‘I’m so sorry I waited’",
-    "link": "https://nypost.com/2026/07/24/us-news/hannah-rapps-boyfriend-tearfully-reveals-romantic-plan-he-had-when-she-was-killed-im-so-sorry-i-waited/"
-  },
-  {
-    "score": 16,
+    "score": 15,
     "pubdate": "2026-07-24-14-25-32 +0000",
     "source": "nypost",
     "headline": "Grandma killed on way to identify her son’s body in ‘unreal’ double tragedy: ‘Our family has been ripped apart’",
     "link": "https://nypost.com/2026/07/24/world-news/grandma-killed-on-way-to-identify-her-sons-body-in-unreal-double-tragedy-our-family-has-been-ripped-apart/"
   },
   {
-    "score": 16,
-    "pubdate": "2026-07-24-13-35-00 +0000",
+    "score": 12,
+    "pubdate": "2026-07-24-14-25-41 +0000",
+    "source": "nypost",
+    "headline": "AI billionaire who left wife for younger lover ordered to pay $645M in South Korea’s ‘divorce of the century’",
+    "link": "https://nypost.com/2026/07/24/business/ai-billionaire-who-left-wife-for-younger-lover-ordered-to-pay-645m-in-south-koreas-divorce-of-the-century/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-07-24-14-26-01 +0000",
+    "source": "nyt",
+    "headline": "Phones in Hand, India’s Young Protesters Blast Through Modi’s Media Control",
+    "link": "https://www.nytimes.com/2026/07/24/world/asia/india-cockroach-party-cjp-protest-memes.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-07-24-14-22-25 +0000",
+    "source": "nypost",
+    "headline": "More than 25 million Americans under threat as dangerous flash flooding targets Carolina coast",
+    "link": "https://nypost.com/2026/07/24/us-news/more-than-25-million-americans-under-threat-as-dangerous-flash-flooding-targets-carolina-coast/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-07-24-14-24-00 +0000",
     "source": "wsj",
-    "headline": "Canada Producer Prices Decline in June After Short-Lived U.S.-Iran Pact",
-    "link": "https://www.wsj.com/economy/central-banking/canada-producer-prices-decline-in-june-after-short-lived-u-s-iran-pact-8dfd3b2f"
+    "headline": "Global Economy Picked Up Before Fresh Energy Hit",
+    "link": "https://www.wsj.com/economy/global/global-economy-picked-up-before-fresh-energy-hit-cb862cc9"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-07-24-14-21-24 +0000",
+    "source": "bbc",
+    "headline": "Angela Rayner rules out rent controls in England",
+    "link": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss"
   }
 ]
