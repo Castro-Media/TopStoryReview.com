@@ -1,5 +1,101 @@
 [
   {
+    "headline": "Hawaii Lt. Gov. Is Indicted in Corruption Investigation",
+    "link": "https://www.nytimes.com/2026/07/25/us/hawaii-indictment-corruption-investigation.html",
+    "source": "nyt",
+    "pubdate": "2026-07-25-05-31-17 +0000"
+  },
+  {
+    "headline": "Lou Koller, frontman for NY hardcore icons Sick of It All, dead at 59",
+    "link": "https://nypost.com/2026/07/25/us-news/lou-koller-frontman-for-new-york-hardcore-icons-sick-of-it-all-dead-at-59/",
+    "source": "nypost",
+    "pubdate": "2026-07-25-05-29-48 +0000"
+  },
+  {
+    "headline": "Trump pokes fun at press during White House Correspondents' Dinner",
+    "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-25-05-12-57 +0000"
+  },
+  {
+    "headline": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+    "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-25-04-48-40 +0000"
+  },
+  {
+    "headline": "During a gala Friday celebrating press freedom, President Trump finally got to deliver the biting speech he had long teased",
+    "link": "https://www.wsj.com/politics/elections/five-major-moments-from-president-trumps-speech-at-the-correspondents-dinner-fa6af6f8",
+    "source": "wsj",
+    "pubdate": "2026-07-25-04-36-00 +0000"
+  },
+  {
+    "headline": "Young Saudi Prince died after ingesting lethal cocktail of drugs in London hotel, inquest hears",
+    "link": "https://nypost.com/2026/07/25/world-news/saudi-prince-died-after-ingesting-lethal-cocktail-of-drugs-in-london-hotel-inquest-hears/",
+    "source": "nypost",
+    "pubdate": "2026-07-25-04-33-19 +0000"
+  },
+  {
+    "headline": "At Correspondents’ Dinner, a Rambling Trump Hurls Insults",
+    "link": "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html",
+    "source": "nyt",
+    "pubdate": "2026-07-25-04-25-00 +0000"
+  },
+  {
+    "headline": "At Correspondents’ Dinner, a Rambling Trump Hurls Insults",
+    "link": "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html",
+    "source": "nyt",
+    "pubdate": "2026-07-25-04-25-00 +0000"
+  },
+  {
+    "headline": "UWS stabbing suspect’s mom cries out in court, prosecutors reveal son yelled ‘Allahu Akbar’ 3 times during alleged hate-filled rampage",
+    "link": "https://nypost.com/2026/07/25/us-news/nyc-uws-suspected-stabber-raul-morales-mother-cries-out-in-court-after-allahu-akbar-rampage/",
+    "source": "nypost",
+    "pubdate": "2026-07-25-04-14-07 +0000"
+  },
+  {
+    "headline": "Taiwan Tests How It Would Resist a Chinese Siege at Sea",
+    "link": "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html",
+    "source": "nyt",
+    "pubdate": "2026-07-25-04-01-07 +0000"
+  },
+  {
+    "headline": "Taiwan Tests How It Would Resist a Chinese Siege at Sea",
+    "link": "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html",
+    "source": "nyt",
+    "pubdate": "2026-07-25-04-01-07 +0000"
+  },
+  {
+    "headline": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
+    "link": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
+    "source": "nyt",
+    "pubdate": "2026-07-25-04-00-07 +0000"
+  },
+  {
+    "headline": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
+    "link": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
+    "source": "nyt",
+    "pubdate": "2026-07-25-04-00-07 +0000"
+  },
+  {
+    "headline": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
+    "link": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
+    "source": "nyt",
+    "pubdate": "2026-07-25-04-00-07 +0000"
+  },
+  {
+    "headline": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
+    "link": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
+    "source": "nyt",
+    "pubdate": "2026-07-25-04-00-07 +0000"
+  },
+  {
+    "headline": "Massive Street takeover planned for LA Saturday as bike gang says anything on wheels is welcome",
+    "link": "https://nypost.com/2026/07/24/us-news/biker-group-announces-dtla-takeover-near-crypto-com-arena/",
+    "source": "nypost",
+    "pubdate": "2026-07-25-03-58-48 +0000"
+  },
+  {
     "headline": "Trump Offers Digs—and Appreciation—to Press at Correspondents’ Dinner Do-Over",
     "link": "https://www.wsj.com/us-news/white-house-press-gathers-for-do-over-with-trump-at-smaller-high-security-gala-cf371875",
     "source": "wsj",
@@ -336,7 +432,7 @@
     "pubdate": "2026-07-25-00-02-00 +0000"
   },
   {
-    "headline": "Chevron Is Trying to Keep Its Kazak Assets Out of the Russia-Ukraine War",
+    "headline": "Chevron Is Trying to Keep Its Kazakh Assets Out of the Russia-Ukraine War",
     "link": "https://www.wsj.com/business/energy-oil/chevron-is-trying-to-keep-its-kazak-assets-out-of-the-russia-ukraine-war-f76d8e6f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-07-25-00-00-00 +0000"
@@ -394,24 +490,6 @@
     "link": "https://www.nytimes.com/2026/07/24/business/egg-recall-salmonella-texas.html",
     "source": "nyt",
     "pubdate": "2026-07-24-23-47-27 +0000"
-  },
-  {
-    "headline": "8 dead, including 6 kids, in ‘suspicious’ Michigan house fire",
-    "link": "https://nypost.com/2026/07/24/us-news/8-dead-including-6-kids-in-suspicious-michigan-house-fire/",
-    "source": "nypost",
-    "pubdate": "2026-07-24-23-45-28 +0000"
-  },
-  {
-    "headline": "Serial kitten-torture suspect captured after interstate manhunt — as locals break into cheers",
-    "link": "https://nypost.com/2026/07/24/us-news/san-francisco-kitten-torture-suspect-caught-in-nevada/",
-    "source": "nypost",
-    "pubdate": "2026-07-24-23-42-32 +0000"
-  },
-  {
-    "headline": "Father of 16 ‘almost feral’ kids rescued from Ohio house of horrors may not be fit to stand trial, his lawyer claims",
-    "link": "https://nypost.com/2026/07/24/us-news/father-of-16-almost-feral-kids-rescued-from-ohio-house-of-horrors-may-not-be-fit-to-stand-trial-his-lawyer-claims/",
-    "source": "nypost",
-    "pubdate": "2026-07-24-23-34-38 +0000"
   },
   {
     "headline": "Trump to Speak as White House Correspondents Dinner Returns With More Security",
@@ -918,6 +996,12 @@
     "pubdate": "2026-07-24-20-43-37 +0000"
   },
   {
+    "headline": "PlayStation Network outage resolved after thousands of gamers unable to play",
+    "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-24-20-37-21 +0000"
+  },
+  {
     "headline": "China Wields Its Rare Earth Leverage Over Europe With New Export Controls",
     "link": "https://www.nytimes.com/2026/07/24/business/china-europe-rare-earths.html",
     "source": "nyt",
@@ -1338,12 +1422,6 @@
     "pubdate": "2026-07-24-18-18-30 +0000"
   },
   {
-    "headline": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-    "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-24-18-13-02 +0000"
-  },
-  {
     "headline": "Georgia Teen School Shooter Pleads Guilty to All Charges",
     "link": "https://www.wsj.com/us-news/georgia-teen-school-shooter-pleads-guilty-to-all-charges-3db9b75c",
     "source": "wsj",
@@ -1692,7 +1770,7 @@
     "pubdate": "2026-07-24-15-34-35 +0000"
   },
   {
-    "headline": "Sunset Boulevard expected to reopen late Friday following water leak",
+    "headline": "Sunset Boulevard will be open Saturday after completion of water leak repairs",
     "link": "https://www.latimes.com/california/story/2026-07-24/sunset-boulevard-expected-to-reopen-late-friday-following-water-leak",
     "source": "latimes",
     "pubdate": "2026-07-24-15-24-23 +0000"
@@ -2376,7 +2454,7 @@
     "pubdate": "2026-07-24-11-35-20 +0000"
   },
   {
-    "headline": "Global Goods Trade Rose Again In May, But New Tariffs Loom",
+    "headline": "Global Goods Trade Rose Again in May, but New Tariffs Loom",
     "link": "https://www.wsj.com/economy/trade/global-goods-trade-rose-again-in-may-but-new-tariffs-loom-7a8a4f91",
     "source": "wsj",
     "pubdate": "2026-07-24-11-33-00 +0000"
@@ -2482,12 +2560,6 @@
     "link": "https://www.wsj.com/world/asia/ex-wife-in-south-koreas-divorce-of-the-century-awarded-645-million-e241741c",
     "source": "wsj",
     "pubdate": "2026-07-24-10-43-00 +0000"
-  },
-  {
-    "headline": "India's 'cockroach' protesters hold talks with government as stalemate continues",
-    "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-24-10-31-10 +0000"
   },
   {
     "headline": "India's 'cockroach' protesters hold talks with government as stalemate continues",
@@ -2836,53 +2908,5 @@
     "link": "https://www.wsj.com/finance/stocks/south-korea-fast-tracks-new-rule-for-leveraged-etfs-to-curb-market-swings-e169153d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-07-24-06-13-00 +0000"
-  },
-  {
-    "headline": "Families still search for bodies a month after Venezuela earthquakes",
-    "link": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-24-05-47-11 +0000"
-  },
-  {
-    "headline": "Families still search for bodies a month after Venezuela earthquakes",
-    "link": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-24-05-47-11 +0000"
-  },
-  {
-    "headline": "Chinese Nationals Win Math’s Prestigious Fields Medal for First Time",
-    "link": "https://www.wsj.com/world/china/chinese-nationals-win-maths-prestigious-fields-medal-for-first-time-fe9fd6c4",
-    "source": "wsj",
-    "pubdate": "2026-07-24-05-46-00 +0000"
-  },
-  {
-    "headline": "How much money do you give for a wedding gift?",
-    "link": "https://www.bbc.co.uk/news/videos/c0jlnw825w8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-24-05-22-37 +0000"
-  },
-  {
-    "headline": "One month after earthquakes, Venezuelans still search for loved ones and answers",
-    "link": "https://www.bbc.co.uk/news/articles/c39e17weydwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-24-05-02-26 +0000"
-  },
-  {
-    "headline": "Modi Caught Off Guard as India’s Economic Failings Inflame Young People",
-    "link": "https://www.nytimes.com/2026/07/23/world/asia/india-modi-protests-economy-cockroach-party.html",
-    "source": "nyt",
-    "pubdate": "2026-07-24-04-52-34 +0000"
-  },
-  {
-    "headline": "Modi Caught Off Guard as India’s Economic Failings Inflame Young People",
-    "link": "https://www.nytimes.com/2026/07/23/world/asia/india-modi-protests-economy-cockroach-party.html",
-    "source": "nyt",
-    "pubdate": "2026-07-24-04-52-34 +0000"
-  },
-  {
-    "headline": "Trump, His Money, and the World",
-    "link": "https://www.nytimes.com/2026/07/23/world/trump-foreign-deals-wealth-saudi.html",
-    "source": "nyt",
-    "pubdate": "2026-07-24-04-18-45 +0000"
   }
 ]
