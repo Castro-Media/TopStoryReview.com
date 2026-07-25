@@ -1,13 +1,13 @@
 [
   {
-    "score": 212,
+    "score": 205,
     "pubdate": "2026-07-24-21-26-23 +0000",
     "source": "nyt",
     "headline": "Trump’s Threatened New Front in Iran War Could Strain U.S. Forces",
     "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-new-front-iran-war.html"
   },
   {
-    "score": 85,
+    "score": 81,
     "pubdate": "2026-07-24-15-39-28 +0000",
     "source": "chitri",
     "headline": "President Trump addresses journalists at rescheduled White House correspondents’ dinner following shooting: ‘The show must go on’",
@@ -28,13 +28,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cly5j2gq587o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 61,
-    "pubdate": "2026-07-24-17-27-17 +0000",
-    "source": "nypost",
-    "headline": "Trump’s relaunched trade war with Canada scuttles major international bridge opening — named for sports icon",
-    "link": "https://nypost.com/2026/07/24/us-news/trumps-relaunched-trade-war-with-canada-scuttles-major-international-bridge-opening-named-for-sports-icon/"
-  },
-  {
     "score": 58,
     "pubdate": "2026-07-25-02-00-00 +0000",
     "source": "wsj",
@@ -42,11 +35,11 @@
     "link": "https://www.wsj.com/politics/elections/maine-senate-who-is-troy-jackson-platner-5ee6da9c"
   },
   {
-    "score": 54,
-    "pubdate": "2026-07-25-04-14-07 +0000",
+    "score": 56,
+    "pubdate": "2026-07-24-17-27-17 +0000",
     "source": "nypost",
-    "headline": "UWS stabbing suspect’s mom cries out in court, prosecutors reveal son yelled ‘Allahu Akbar’ 3 times during alleged hate-filled rampage",
-    "link": "https://nypost.com/2026/07/25/us-news/nyc-uws-suspected-stabber-raul-morales-mother-cries-out-in-court-after-allahu-akbar-rampage/"
+    "headline": "Trump’s relaunched trade war with Canada scuttles major international bridge opening — named for sports icon",
+    "link": "https://nypost.com/2026/07/24/us-news/trumps-relaunched-trade-war-with-canada-scuttles-major-international-bridge-opening-named-for-sports-icon/"
   },
   {
     "score": 53,
@@ -57,16 +50,23 @@
   },
   {
     "score": 52,
-    "pubdate": "2026-07-24-20-49-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. will consider applying additional tariffs to goods from the European Union in response to fines the 27-nation bloc has levied against U.S. tech firms",
-    "link": "https://www.wsj.com/economy/trade/trump-threatens-new-tariffs-on-eu-over-tech-fines-0b1e9927"
-  },
-  {
-    "score": 52,
     "pubdate": "2026-07-24-15-03-45 +0000",
     "source": "nyt",
     "headline": "With Hopes High for New H.I.V. Prevention Pill, Merck Takes Steps to Ensure Access",
     "link": "https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-07-25-04-14-07 +0000",
+    "source": "nypost",
+    "headline": "UWS stabbing suspect’s mom cries out in court, prosecutors reveal son yelled ‘Allahu Akbar’ 3 times during alleged hate-filled rampage",
+    "link": "https://nypost.com/2026/07/25/us-news/nyc-uws-suspected-stabber-raul-morales-mother-cries-out-in-court-after-allahu-akbar-rampage/"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-07-25-01-57-36 +0000",
+    "source": "nyt",
+    "headline": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+    "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
   }
 ]
