@@ -1,24 +1,24 @@
 [
   {
-    "score": 114,
-    "pubdate": "2026-07-26-13-57-38 +0000",
+    "score": 121,
+    "pubdate": "2026-07-26-13-57-39 +0000",
     "source": "nyt",
     "headline": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
     "link": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
   },
   {
-    "score": 74,
-    "pubdate": "2026-07-25-15-58-00 +0000",
-    "source": "wsj",
-    "headline": "Troy Jackson is taking Graham Platner’s place as the Democratic nominee for U.S. Senate. He must distance himself from his former ally’s scandals to win over independents and moderate women.",
-    "link": "https://www.wsj.com/politics/elections/maine-senate-who-is-troy-jackson-platner-5ee6da9c"
-  },
-  {
-    "score": 72,
-    "pubdate": "2026-07-26-13-41-50 +0000",
+    "score": 73,
+    "pubdate": "2026-07-26-15-09-43 +0000",
     "source": "nyt",
     "headline": "Officials Call Attack Near Berlin Pride Celebration a ‘Terror Attack’",
     "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-07-25-17-10-00 +0000",
+    "source": "wsj",
+    "headline": "Maine Democrats choose Troy Jackson to replace Graham Platner in key Senate race",
+    "link": "https://www.wsj.com/politics/maine-democrats-choose-troy-jackson-to-replace-graham-platner-in-key-senate-race-a568f48c"
   },
   {
     "score": 44,
@@ -28,35 +28,28 @@
     "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html"
   },
   {
-    "score": 43,
-    "pubdate": "2026-07-26-14-10-56 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
-    "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions"
-  },
-  {
-    "score": 37,
-    "pubdate": "2026-07-26-12-41-43 +0000",
-    "source": "nypost",
-    "headline": "Cop’s son, 12, ID’d after being shot dead in NYC as harrowing video shows victim running into bodega clutching his chest",
-    "link": "https://nypost.com/2026/07/26/us-news/jacob-freytas-12-idd-as-cops-son-shot-dead-outside-nyc-bodega/"
-  },
-  {
-    "score": 36,
+    "score": 44,
     "pubdate": "2026-07-26-13-39-20 +0000",
     "source": "nypost",
     "headline": "Fetterman perplexed why he’s so popular with GOP — but rebuffs Lara Trump’s pitch to switch: ‘Treat both sides with respect’",
     "link": "https://nypost.com/2026/07/26/us-news/fetterman-perplexed-about-why-hes-so-popular-with-gop-but-rebuffs-lara-trumps-pitch-to-switch/"
   },
   {
-    "score": 34,
-    "pubdate": "2026-07-25-15-41-25 +0000",
-    "source": "nypost",
-    "headline": "Maine Dems pick Troy Jackson to replace Graham Platner and take on Susan Collins in high stakes Senate race",
-    "link": "https://nypost.com/2026/07/25/us-news/maine-dems-pick-troy-jackson-to-replace-graham-platner-and-take-on-susan-collins-in-high-stakes-senate-race/"
+    "score": 43,
+    "pubdate": "2026-07-26-16-03-50 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
+    "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions"
   },
   {
-    "score": 33,
+    "score": 34,
+    "pubdate": "2026-07-26-15-00-44 +0000",
+    "source": "chitri",
+    "headline": "US pauses attacks on Iran for a second straight day and Tehran pauses, too",
+    "link": "https://www.chicagotribune.com/2026/07/26/us-attacks-iran-pause/"
+  },
+  {
+    "score": 32,
     "pubdate": "2026-07-26-05-56-19 +0000",
     "source": "nypost",
     "headline": "Federal appeals court rejects Trump bid to enforce mail ballot order ahead of midterm elections",
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "India’s Education Minister Steps Down in Victory for Cockroach Party Protesters",
     "link": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-07-26-12-41-43 +0000",
+    "source": "nypost",
+    "headline": "Cop’s son, 12, ID’d after being shot dead in NYC as harrowing video shows victim running into bodega clutching his chest",
+    "link": "https://nypost.com/2026/07/26/us-news/jacob-freytas-12-idd-as-cops-son-shot-dead-outside-nyc-bodega/"
   }
 ]
