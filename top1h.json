@@ -1,72 +1,44 @@
 [
   {
-    "score": 22,
-    "pubdate": "2026-07-26-00-46-15 +0000",
-    "source": "nypost",
-    "headline": "FBI ‘Most Wanted’ fraud suspect arrested in Jamaica over alleged $32M COVID-19 relief scheme",
-    "link": "https://nypost.com/2026/07/25/world-news/fbi-most-wanted-fraud-suspect-arrested-in-jamaica-over-alleged-32m-covid-19-relief-scheme/"
-  },
-  {
     "score": 18,
-    "pubdate": "2026-07-26-01-13-44 +0000",
+    "pubdate": "2026-07-26-03-30-29 +0000",
     "source": "nyt",
-    "headline": "Iran War Live Updates: U.S.-Iran Strikes Abate as War Enters Latest Crossroads",
-    "link": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-07-26-01-01-03 +0000",
-    "source": "nyt",
-    "headline": "Car Plows Into People Near a Pride Event in Berlin, Killing at Least One",
+    "headline": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
     "link": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html"
   },
   {
-    "score": 15,
-    "pubdate": "2026-07-26-00-49-13 +0000",
-    "source": "nypost",
-    "headline": "Mamdani’s municipal bond mess will only get worse as mayor prioritizes anti-Israel policies over NYC’s fiscal health",
-    "link": "https://nypost.com/2026/07/25/business/mamdanis-municipal-bond-mess-will-only-get-worse-as-mayor-prioritizes-anti-israel-policies-over-nycs-fiscal-health/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-07-26-00-51-28 +0000",
-    "source": "nypost",
-    "headline": "Oklahoma influencer, husband dead in apparent murder-suicide two weeks after wife accused him of pedophilia",
-    "link": "https://nypost.com/2026/07/25/us-news/oklahoma-influencer-husband-dead-in-apparent-murder-suicide-two-weeks-after-wife-accused-him-of-pedophilia/"
-  },
-  {
     "score": 12,
-    "pubdate": "2026-07-26-00-24-30 +0000",
-    "source": "bbc",
-    "headline": "The notorious Cameroonian prison with its own record label",
-    "link": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-07-26-00-25-00 +0000",
-    "source": "nypost",
-    "headline": "Daredevil BASE jumpers spark Space Needle scare after pulling off illegal stunt",
-    "link": "https://nypost.com/2026/07/25/us-news/space-needle-daredevils-pull-off-jaw-dropping-illegal-base-jump/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-07-26-00-46-15 +0000",
-    "source": "startribune",
-    "headline": "Live: Olivia Miles, Lynx take center stage tonight at the WNBA All-Star Game in Chicago",
-    "link": "https://www.startribune.com/minnesota-lynx-wnba-all-star-game-2026-live-updates-chicago-olivia-miles-natasha-howard-cheryl-reeve/601869269"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-07-26-01-17-11 +0000",
+    "pubdate": "2026-07-26-04-01-13 +0000",
     "source": "nyt",
-    "headline": "Hundreds of Thousands Flee as Fires Rage in Spain and France",
-    "link": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations"
+    "headline": "20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola",
+    "link": "https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html"
   },
   {
     "score": 9,
-    "pubdate": "2026-07-26-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Saudi Arabia’s Vast Oil Supplies Now Increasingly Depend on a Single Exit",
-    "link": "https://www.wsj.com/world/middle-east/saudi-arabias-vast-oil-supplies-now-increasingly-depend-on-a-single-exit-d8033082"
+    "pubdate": "2026-07-26-03-58-51 +0000",
+    "source": "bbc",
+    "headline": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
+    "link": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-07-26-03-17-26 +0000",
+    "source": "missionlocal",
+    "headline": "After outcry, Meta reverses suspension of SoMa queer bar’s Instagram page",
+    "link": "https://missionlocal.org/2026/07/soma-queer-gay-bar-meta-suspended-instagram-hate-homophobia/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-26-04-01-13 +0000",
+    "source": "nyt",
+    "headline": "20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola",
+    "link": "https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-26-03-30-29 +0000",
+    "source": "nyt",
+    "headline": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
+    "link": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html"
   }
 ]
