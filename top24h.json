@@ -1,13 +1,13 @@
 [
   {
-    "score": 133,
+    "score": 129,
     "pubdate": "2026-07-26-00-11-49 +0000",
     "source": "nyt",
     "headline": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
     "link": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
   },
   {
-    "score": 74,
+    "score": 73,
     "pubdate": "2026-07-25-15-58-00 +0000",
     "source": "wsj",
     "headline": "Troy Jackson is taking Graham Platner’s place as the Democratic nominee for U.S. Senate. He must distance himself from his former ally’s scandals to win over independents and moderate women.",
@@ -22,17 +22,17 @@
   },
   {
     "score": 46,
-    "pubdate": "2026-07-26-09-02-04 +0000",
-    "source": "nyt",
-    "headline": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html"
-  },
-  {
-    "score": 46,
     "pubdate": "2026-07-25-12-30-22 +0000",
     "source": "cbc",
     "headline": "Man's death reported in Spain as wildfires also raging in France force 250,000 to flee",
     "link": "https://www.cbc.ca/news/world/wildfire-evacuations-france-suburbs-9.7283693?cmp=rss"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-07-26-09-02-04 +0000",
+    "source": "nyt",
+    "headline": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html"
   },
   {
     "score": 44,
@@ -42,21 +42,21 @@
     "link": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html"
   },
   {
-    "score": 36,
+    "score": 34,
+    "pubdate": "2026-07-25-15-41-25 +0000",
+    "source": "nypost",
+    "headline": "Maine Dems pick Troy Jackson to replace Graham Platner and take on Susan Collins in high stakes Senate race",
+    "link": "https://nypost.com/2026/07/25/us-news/maine-dems-pick-troy-jackson-to-replace-graham-platner-and-take-on-susan-collins-in-high-stakes-senate-race/"
+  },
+  {
+    "score": 33,
     "pubdate": "2026-07-25-21-01-25 +0000",
     "source": "nypost",
     "headline": "Ukraine strikes set fire to ‘Russia’s Amazon,’ marking the 7th attack on chain suspected of supplying  Moscow’s military",
     "link": "https://nypost.com/2026/07/25/world-news/ukraine-strikes-set-fire-to-russias-amazon-marking-the-7th-attack-on-chain-suspected-of-supplying-moscows-military/"
   },
   {
-    "score": 35,
-    "pubdate": "2026-07-25-16-59-25 +0000",
-    "source": "wapo",
-    "headline": "Democrats pick new Senate candidate in Maine in aftermath of Platner debacle",
-    "link": "https://www.washingtonpost.com/politics/2026/07/25/democrats-pick-new-senate-candidate-maine-aftermath-platner-debacle/"
-  },
-  {
-    "score": 33,
+    "score": 32,
     "pubdate": "2026-07-26-05-56-19 +0000",
     "source": "nypost",
     "headline": "Federal appeals court rejects Trump bid to enforce mail ballot order ahead of midterm elections",
