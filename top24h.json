@@ -1,6 +1,6 @@
 [
   {
-    "score": 118,
+    "score": 114,
     "pubdate": "2026-07-26-13-57-39 +0000",
     "source": "nyt",
     "headline": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2026/07/26/us-news/ex-ny-gov-paterson-pushes-fed-probe-into-whether-mamdanis-anti-israel-crusade-is-inciting-violence/"
   },
   {
-    "score": 46,
+    "score": 44,
     "pubdate": "2026-07-26-14-19-15 +0000",
     "source": "nyt",
     "headline": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
@@ -49,18 +49,11 @@
     "link": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html"
   },
   {
-    "score": 36,
+    "score": 35,
     "pubdate": "2026-07-26-12-41-43 +0000",
     "source": "nypost",
     "headline": "Innocent cop’s son, 12, ID’d after being shot dead in NYC as harrowing video shows victim running into bodega clutching his chest",
     "link": "https://nypost.com/2026/07/26/us-news/jacob-freytas-12-idd-as-cops-son-shot-dead-outside-nyc-bodega/"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-07-26-10-00-00 +0000",
-    "source": "wsj",
-    "headline": "A documentary filmmaker followed Sen. Lindsey Graham over the past three years, providing an unvarnished look at his relationship with President Trump and Israeli Prime Minister Benjamin Netanyahu",
-    "link": "https://www.wsj.com/politics/national-security/lindsey-graham-iran-war-netanyahu-call-598b1e85"
   },
   {
     "score": 30,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
     "link": "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-07-26-05-00-56 +0000",
+    "source": "bbc",
+    "headline": "Andy Burnham rules out early election in exclusive BBC interview",
+    "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss"
   }
 ]
