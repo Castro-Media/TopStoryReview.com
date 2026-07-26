@@ -1,116 +1,188 @@
 [
   {
-    "headline": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-16-11-05 +0000"
-  },
-  {
-    "headline": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-16-11-05 +0000"
-  },
-  {
-    "headline": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-16-11-05 +0000"
-  },
-  {
-    "headline": "Employers Fear Labor Shortage as Many Immigrants Lose Protected Status",
-    "link": "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-16-10-07 +0000"
-  },
-  {
-    "headline": "Top NYT journo calls on reporters to ‘rethink’ White House Correspondents Dinner after Trump dares to clap back",
-    "link": "https://nypost.com/2026/07/26/us-news/top-nyt-journo-calls-on-reporters-to-rethink-white-house-correspondents-dinner-after-trump-dares-to-clap-back/",
+    "headline": "Netanyahu claims Mamdani ‘celebrated’ Oct. 7 and supported ‘Hamas murderers’ as he pushes back on arrest fiasco",
+    "link": "https://nypost.com/2026/07/26/us-news/netanyahu-claims-mamdani-celebrated-oct-7-and-supported-hamas-murderers-as-he-pushes-back-on-arrest-fiasco/",
     "source": "nypost",
-    "pubdate": "2026-07-26-16-06-31 +0000"
+    "pubdate": "2026-07-26-17-11-30 +0000"
+  },
+  {
+    "headline": "Netanyahu claims Mamdani ‘celebrated’ Oct. 7 and supported ‘Hamas murderers’ as he pushes back on arrest fiasco",
+    "link": "https://nypost.com/2026/07/26/us-news/netanyahu-claims-mamdani-celebrated-oct-7-and-supported-hamas-murderers-as-he-pushes-back-on-arrest-fiasco/",
+    "source": "nypost",
+    "pubdate": "2026-07-26-17-11-30 +0000"
+  },
+  {
+    "headline": "Final minutes of ex-NYPD cop’s innocent 12-year-old son revealed — along with possible motive to horrific shooting",
+    "link": "https://nypost.com/2026/07/26/us-news/final-minutes-of-ex-nypd-cops-slain-12-year-old-son-revealed/",
+    "source": "nypost",
+    "pubdate": "2026-07-26-17-09-30 +0000"
+  },
+  {
+    "headline": "Opinion | Keiko Fujimori and Peru’s China Challenge",
+    "link": "https://www.wsj.com/opinion/keiko-fujimori-and-perus-china-challenge-8640b893",
+    "source": "wsj",
+    "pubdate": "2026-07-26-17-08-00 +0000"
+  },
+  {
+    "headline": "Opinion | How to Beat China and Make AI Safe",
+    "link": "https://www.wsj.com/opinion/how-to-beat-china-and-make-ai-safe-d6abde74?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-26-17-07-00 +0000"
+  },
+  {
+    "headline": "Opinion | How to Beat China and Make AI Safe",
+    "link": "https://www.wsj.com/opinion/how-to-beat-china-and-make-ai-safe-d6abde74",
+    "source": "wsj",
+    "pubdate": "2026-07-26-17-07-00 +0000"
+  },
+  {
+    "headline": "Opinion | How to Beat China and Make AI Safe",
+    "link": "https://www.wsj.com/opinion/how-to-beat-china-and-make-ai-safe-d6abde74",
+    "source": "wsj",
+    "pubdate": "2026-07-26-17-07-00 +0000"
+  },
+  {
+    "headline": "How different groups of Democrats—leadership, progressives, millennials—shifted on Israel, and who led the way",
+    "link": "https://www.wsj.com/politics/policy/israel-aid-vote-democrats-c2540c27",
+    "source": "wsj",
+    "pubdate": "2026-07-26-17-00-00 +0000"
+  },
+  {
+    "headline": "Wisconsin’s Warning on Election Bets Intensifies Fight With Prediction Markets",
+    "link": "https://www.wsj.com/finance/regulation/wisconsins-warning-on-election-bets-intensifies-fight-with-prediction-markets-b0923735?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-26-17-00-00 +0000"
+  },
+  {
+    "headline": "Wisconsin’s Warning on Election Bets Intensifies Fight With Prediction Markets",
+    "link": "https://www.wsj.com/finance/regulation/wisconsins-warning-on-election-bets-intensifies-fight-with-prediction-markets-b0923735",
+    "source": "wsj",
+    "pubdate": "2026-07-26-17-00-00 +0000"
+  },
+  {
+    "headline": "Tanker hits mine in the Strait of Hormuz as Iran intercepts six vessels",
+    "link": "https://nypost.com/2026/07/26/world-news/tanker-hits-mine-in-the-strait-of-hormuz-as-iran-intercepts-six-vessels/",
+    "source": "nypost",
+    "pubdate": "2026-07-26-16-54-51 +0000"
+  },
+  {
+    "headline": "Feds hunt sicko who battered sea lion at La Jolla Cove near San Diego",
+    "link": "https://nypost.com/2026/07/26/us-news/feds-hunt-sicko-who-battered-sea-lion-at-la-jolla-cove-near-san-diego/",
+    "source": "nypost",
+    "pubdate": "2026-07-26-16-52-31 +0000"
   },
   {
     "headline": "Live Updates: Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
     "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
     "source": "nyt",
-    "pubdate": "2026-07-26-16-03-50 +0000"
+    "pubdate": "2026-07-26-16-52-07 +0000"
   },
   {
-    "headline": "Wildfire Smoke Chokes Skies in Spain and France",
-    "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+    "headline": "Forced to Flee and Wait, Evacuees Wonder if Their Homes Still Stand",
+    "link": "https://www.nytimes.com/2026/07/26/world/europe/spain-fires-evacuees-voices.html",
     "source": "nyt",
-    "pubdate": "2026-07-26-16-03-46 +0000"
+    "pubdate": "2026-07-26-16-52-06 +0000"
   },
   {
-    "headline": "Wildfire Smoke Chokes Skies in Spain and France",
-    "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+    "headline": "Forced to Flee and Wait, Evacuees Wonder if Their Homes Still Stand",
+    "link": "https://www.nytimes.com/2026/07/26/world/europe/spain-fires-evacuees-voices.html",
     "source": "nyt",
-    "pubdate": "2026-07-26-16-03-46 +0000"
+    "pubdate": "2026-07-26-16-52-06 +0000"
   },
   {
-    "headline": "Gatwick Airport left without running water after major outage",
-    "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-26-15-59-08 +0000"
+    "headline": "Opinion | Who’s Dodging Blame for the Great Recession?",
+    "link": "https://www.wsj.com/opinion/whos-dodging-blame-for-the-great-recession-46276255?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-26-16-49-00 +0000"
   },
   {
     "headline": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
     "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-07-26-15-50-41 +0000"
+    "pubdate": "2026-07-26-16-48-16 +0000"
   },
   {
     "headline": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
     "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-07-26-15-50-41 +0000"
+    "pubdate": "2026-07-26-16-48-16 +0000"
   },
   {
-    "headline": "Businessman suffers horrific injuries after torrent of water surged through West Hollywood street",
-    "link": "https://nypost.com/2026/07/26/us-news/businessman-suffers-horrific-injuries-after-torrent-of-water-surged-through-west-hollywood-street/",
+    "headline": "Opinion | A Vote for a Moderate Democrat Could Mean More DSA",
+    "link": "https://www.wsj.com/opinion/a-vote-for-a-moderate-democrat-could-mean-more-dsa-cb80a85b",
+    "source": "wsj",
+    "pubdate": "2026-07-26-16-48-00 +0000"
+  },
+  {
+    "headline": "Missing Grand Canyon hiker, 83, rescued after all-night search in rugged terrain",
+    "link": "https://nypost.com/2026/07/26/us-news/missing-grand-canyon-hiker-83-rescued-after-all-night-search/",
     "source": "nypost",
-    "pubdate": "2026-07-26-15-48-19 +0000"
+    "pubdate": "2026-07-26-16-47-18 +0000"
   },
   {
-    "headline": "20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola",
-    "link": "https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-15-47-15 +0000"
+    "headline": "Opinion | The Real Market Impact of the Paramount-Warner Deal",
+    "link": "https://www.wsj.com/opinion/the-real-market-impact-of-the-paramount-warner-deal-88eac4f0?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-26-16-47-00 +0000"
   },
   {
-    "headline": "20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola",
-    "link": "https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-15-47-15 +0000"
+    "headline": "Opinion | The Real Market Impact of the Paramount-Warner Deal",
+    "link": "https://www.wsj.com/opinion/the-real-market-impact-of-the-paramount-warner-deal-88eac4f0",
+    "source": "wsj",
+    "pubdate": "2026-07-26-16-47-00 +0000"
   },
   {
-    "headline": "‘Vibrant’ grandmother, 82, allegedly killed  by illegal immigrant in Publix parking lot: ‘A potential flight risk’",
-    "link": "https://nypost.com/2026/07/26/us-news/grandmother-82-allegedly-killed-by-illegal-immigrant-in-publix-parking-lot/",
+    "headline": "Opinion | Students Needs More Orwell",
+    "link": "https://www.wsj.com/opinion/students-needs-more-orwell-2dfbf4b2",
+    "source": "wsj",
+    "pubdate": "2026-07-26-16-46-00 +0000"
+  },
+  {
+    "headline": "Up-and-coming NYC real estate broker, 29, killed in Hamptons as she’s hit by car on morning jog",
+    "link": "https://nypost.com/2026/07/26/us-news/up-and-coming-nyc-real-estate-broker-29-killed-in-hamptons-as-shes-hit-by-car-on-morning-jog/",
     "source": "nypost",
-    "pubdate": "2026-07-26-15-38-54 +0000"
+    "pubdate": "2026-07-26-16-45-54 +0000"
   },
   {
-    "headline": "Hurricane Genevieve moves through the Pacific off Mexico, but no direct threat to land is forecast",
-    "link": "https://www.chicagotribune.com/2026/07/26/hurricane-genevieve-pacific-mexico/",
-    "source": "chitri",
-    "pubdate": "2026-07-26-15-22-54 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions/heres-the-latest",
+    "headline": "Conditions for European Wildfires Created by Summer of Extremes",
+    "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html",
     "source": "nyt",
-    "pubdate": "2026-07-26-15-21-04 +0000"
+    "pubdate": "2026-07-26-16-35-49 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions/heres-the-latest",
+    "headline": "Conditions for European Wildfires Created by Summer of Extremes",
+    "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html",
     "source": "nyt",
-    "pubdate": "2026-07-26-15-21-04 +0000"
+    "pubdate": "2026-07-26-16-35-49 +0000"
   },
   {
-    "headline": "German police hunt suspect in attack near Berlin Pride that left 1 person dead and 29 hurt",
-    "link": "https://www.chicagotribune.com/2026/07/26/berlin-pride-attack/",
-    "source": "chitri",
-    "pubdate": "2026-07-26-15-17-33 +0000"
+    "headline": "Ex-Dem NY gov compares Mamdani to famed segregationist — as he pushes probe into whether his anti-Israel crusade is inciting violence",
+    "link": "https://nypost.com/2026/07/26/us-news/ex-ny-gov-paterson-pushes-fed-probe-into-whether-mamdanis-anti-israel-crusade-is-inciting-violence/",
+    "source": "nypost",
+    "pubdate": "2026-07-26-16-35-29 +0000"
+  },
+  {
+    "headline": "Influencer heard ‘screaming and crying’ on 911 call before perv husband killed her after TikTok outed him as a pedophile",
+    "link": "https://nypost.com/2026/07/26/us-news/influencer-heard-screaming-and-crying-on-911-call-before-perv-husband-killed-her-after-tiktok-outed-him-as-a-pedophile/",
+    "source": "nypost",
+    "pubdate": "2026-07-26-16-29-41 +0000"
+  },
+  {
+    "headline": "A Truce in Yemen Unravels, Threatening to Widen Mideast War",
+    "link": "https://www.wsj.com/world/middle-east/a-truce-in-yemen-unravels-threatening-to-widen-mideast-war-d0b2b678",
+    "source": "wsj",
+    "pubdate": "2026-07-26-16-27-00 +0000"
+  },
+  {
+    "headline": "E.U. Divided Over Barring Imports From Israeli Settlements",
+    "link": "https://www.nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-07-26-16-16-23 +0000"
+  },
+  {
+    "headline": "E.U. Divided Over Barring Imports From Israeli Settlements",
+    "link": "https://www.nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-07-26-16-16-23 +0000"
   }
 ]
