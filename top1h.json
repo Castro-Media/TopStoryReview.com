@@ -1,61 +1,5 @@
 [
   {
-    "score": 43,
-    "pubdate": "2026-07-26-09-02-04 +0000",
-    "source": "nyt",
-    "headline": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-07-26-09-01-50 +0000",
-    "source": "nyt",
-    "headline": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-07-26-08-58-02 +0000",
-    "source": "nyt",
-    "headline": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
-    "link": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-07-26-09-01-44 +0000",
-    "source": "nyt",
-    "headline": "Senate candidate Josh Turek handcycles the Iowa campaign trail",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/turek-iowa-senate-democrat.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-07-26-09-01-33 +0000",
-    "source": "nyt",
-    "headline": "Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-07-26-09-00-37 +0000",
-    "source": "nyt",
-    "headline": "An Admiral’s Rise Reveals the Politics Driving Hegseth’s Pentagon",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/caudle-navy-hegseth-parlatore-promotion.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-07-26-09-01-42 +0000",
-    "source": "nyt",
-    "headline": "Democrats Reset the Maine Senate Race. Now Comes the Tricky Part.",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/jackson-collins-platner-senate-maine.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-07-26-09-16-46 +0000",
-    "source": "bbc",
-    "headline": "France battles fire 'whirlwinds' as another 55,000 evacuated",
-    "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 10,
     "pubdate": "2026-07-26-09-30-00 +0000",
     "source": "wsj",
@@ -63,10 +7,17 @@
     "link": "https://www.wsj.com/finance/regulation/investors-dont-want-to-scrap-quarterly-reports-companies-should-think-twice-fed293b0?mod=rss_markets_main"
   },
   {
-    "score": 10,
-    "pubdate": "2026-07-26-09-00-13 +0000",
-    "source": "nyt",
-    "headline": "E.U. Divided Over Barring Imports From Israeli Settlements",
-    "link": "https://www.nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html"
+    "score": 8,
+    "pubdate": "2026-07-26-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "A Mystery Consumes a Michigan Golf Course: Who Turned the Grass Orange?",
+    "link": "https://www.wsj.com/us-news/university-michigan-golf-course-color-greens-ann-arbor-0aab8a34"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-07-26-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. and China Are Jockeying for Drone Supremacy on Mount Everest",
+    "link": "https://www.wsj.com/world/u-s-and-china-are-jockeying-for-drone-supremacy-on-mount-everest-b5750ce2"
   }
 ]
