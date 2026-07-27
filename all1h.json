@@ -1,86 +1,38 @@
 [
   {
-    "headline": "Netflix exec goes ballistic after being fired for stunning ‘trust exercise’ confession at retreat: suit",
-    "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-01-03-50 +0000"
+    "headline": "At Least 2 Killed in Shooting at Food Festival in Seattle",
+    "link": "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-04-04-18 +0000"
   },
   {
-    "headline": "L.A. firefighters mourn colleague killed in highway collision with semi truck",
-    "link": "https://www.latimes.com/california/story/2026-07-26/off-duty-la-firefighter-dies-in-highway-collision-with-big-rig",
-    "source": "latimes",
-    "pubdate": "2026-07-27-01-03-04 +0000"
+    "headline": "Iran War Forces Energy Buyers to ‘Unshackle’ From Global Markets",
+    "link": "https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-04-01-10 +0000"
   },
   {
-    "headline": "The ‘Unsettled’ Vibe That’s Creeping Through the Markets",
-    "link": "https://www.wsj.com/finance/stocks/the-unsettled-vibe-thats-creeping-through-the-markets-e3996676?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-07-27-01-00-00 +0000"
+    "headline": "Iran War Forces Energy Buyers to ‘Unshackle’ From Global Markets",
+    "link": "https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-04-01-10 +0000"
   },
   {
-    "headline": "Big Companies Are Starting to Hire Again, Defying Predictions of AI Wipeout",
-    "link": "https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-27-01-00-00 +0000"
-  },
-  {
-    "headline": "Dinner outside",
-    "link": "https://missionlocal.org/2026/07/dinner-outside/",
-    "source": "missionlocal",
-    "pubdate": "2026-07-27-01-00-00 +0000"
-  },
-  {
-    "headline": "America’s Big Cities Are Rapidly Losing Kids",
-    "link": "https://www.wsj.com/us-news/cities-losing-families-children-a860a9b1",
-    "source": "wsj",
-    "pubdate": "2026-07-27-01-00-00 +0000"
-  },
-  {
-    "headline": "Trump’s border czar Tom Homan says vetting of ICE officer is under internal review after Maine shooting",
-    "link": "https://nypost.com/2026/07/26/us-news/trumps-border-czar-tom-homan-says-vetting-of-ice-officer-is-under-internal-review-after-maine-shooting/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-00-56-34 +0000"
-  },
-  {
-    "headline": "Woman killed in brutal assault at Santa Monica assisted living facility, police say",
-    "link": "https://www.latimes.com/california/story/2026-07-26/woman-killed-in-brutal-assault-at-santa-monica-assisted-living-facility-police-say",
-    "source": "latimes",
-    "pubdate": "2026-07-27-00-52-21 +0000"
-  },
-  {
-    "headline": "Rookie Jackson Koivun, with Scottie Scheffler lurking in the rear view mirror, wins 3M Open",
-    "link": "https://www.startribune.com/jackson-koivun-wins-3mopen-scottie-scheffler-first-pga-tour-victory-auburn-ncaa-champion/601864483",
-    "source": "startribune",
-    "pubdate": "2026-07-27-00-49-40 +0000"
-  },
-  {
-    "headline": "Rhode Island dad claims he saw Bigfoot in Connecticut woods — and detailed that it had ‘no boobs’",
-    "link": "https://nypost.com/2026/07/26/us-news/rhode-island-dad-claims-he-saw-bigfoot-in-connecticut-woods-and-detailed-that-it-had-no-boobs/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-00-44-11 +0000"
-  },
-  {
-    "headline": "She realized she had breast cancer after dreaming about a lump. Now she’s starring in a Hollywood blockbuster",
-    "link": "https://nypost.com/2026/07/26/us-news/she-realized-she-had-breast-cancer-after-dreaming-about-a-lump-now-shes-starring-in-a-hollywood-blockbuster/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-00-39-18 +0000"
-  },
-  {
-    "headline": "Asian Currencies Mixed; May Strengthen on Signs of Pause in U.S.-Iran Conflict",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-may-strengthen-on-signs-of-pause-in-u-s-iran-conflict-6a2c0381?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-07-27-00-35-00 +0000"
-  },
-  {
-    "headline": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-    "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-00-27-58 +0000"
-  },
-  {
-    "headline": "Singapore Central Bank Delivers Surprise Back-to-Back Tightening",
+    "headline": "Singapore Central Bank Tightens Again in Surprise Move",
     "link": "https://www.wsj.com/economy/central-banking/singapore-central-bank-delivers-surprise-back-to-back-tightening-04300256",
     "source": "wsj",
-    "pubdate": "2026-07-27-00-25-00 +0000"
+    "pubdate": "2026-07-27-03-26-00 +0000"
+  },
+  {
+    "headline": "At least 2 killed in shooting at Seattle Center food festival that sent attendees running for their lives: ‘Pure chaos’",
+    "link": "https://nypost.com/2026/07/26/us-news/multiple-people-shot-at-seattle-center-food-festival-sending-attendees-running-for-their-lives/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-03-20-26 +0000"
+  },
+  {
+    "headline": "ER Nurse impales himself on trekking pole in freak hiking accident and miraculously climbs 10 miles for help",
+    "link": "https://nypost.com/2026/07/26/us-news/er-nurse-impales-himself-on-trekking-pole-in-freak-hiking-accident-and-miraculously-climb-10-miles-for-help/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-03-14-49 +0000"
   }
 ]
