@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 16,
+    "pubdate": "2026-07-27-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "Waymo Is Racking Up Thousands of Dollars of Parking Fines in Austin",
+    "link": "https://www.wsj.com/business/autos/waymo-is-racking-up-thousands-of-dollars-of-parking-fines-in-austin-d41483f5?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-26-23-48-04 +0000",
+    "source": "nypost",
+    "headline": "Blakeman, Jewish leaders slam Mamdani at NYC rally for fueling antisemitism before UWS hate crime stabbing",
+    "link": "https://nypost.com/2026/07/26/us-news/blakeman-nyc-jewish-leaders-slam-mamdani-for-fueling-antisemitism-after-uws-hate-crime-stabbing/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-07-27-00-06-24 +0000",
+    "source": "nyt",
+    "headline": "Pentagon Changes How It Reports Casualties in Iran War",
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-07-26-23-24-00 +0000",
+    "source": "wsj",
+    "headline": "Federal Probe into Dodgers Owner’s Financial Empire Was Sparked By Whistleblower",
+    "link": "https://www.wsj.com/finance/regulation/federal-probe-into-dodgers-owners-financial-empire-was-sparked-by-whistleblower-013b0053?mod=rss_markets_main"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-07-26-23-30-51 +0000",
+    "source": "nyt",
+    "headline": "Secret Service Agent and 2 Others Charged in Near-Fatal Fraternity Hazing",
+    "link": "https://www.nytimes.com/2026/07/26/us/florida-secret-service-agent-fraternity-hazing.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-07-26-23-19-00 +0000",
+    "source": "wsj",
+    "headline": "Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center",
+    "link": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3?mod=rss_markets_main"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-07-26-23-44-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Falls Amid Easing Supply-Disruption Concerns",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-easing-supply-disruption-concerns-b794368e?mod=rss_markets_main"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-07-26-23-17-21 +0000",
+    "source": "nypost",
+    "headline": "Missing dog reunited with owner after 5 years, found more than 600 miles away",
+    "link": "https://nypost.com/2026/07/26/us-news/missing-dog-reunited-with-owner-after-5-years-more-than-600-miles-away/"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-07-26-23-58-00 +0000",
+    "source": "wsj",
+    "headline": "Gold Gains as U.S., Iran Pause Fighting Over Weekend",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-u-s-iran-pause-fighting-over-weekend-15faf1b0?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-27-00-06-24 +0000",
+    "source": "nyt",
+    "headline": "Pentagon Changes How It Reports Casualties in Iran War",
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html"
+  }
+]
