@@ -1,15 +1,123 @@
 [
   {
-    "headline": "Pentagon Changes How It Reports Casualties in Iran War",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
+    "headline": "Netflix exec goes ballistic after being fired for stunning ‘trust exercise’ confession at retreat: suit",
+    "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-01-03-50 +0000"
+  },
+  {
+    "headline": "L.A. firefighters mourn colleague killed in highway collision with semi truck",
+    "link": "https://www.latimes.com/california/story/2026-07-26/off-duty-la-firefighter-dies-in-highway-collision-with-big-rig",
+    "source": "latimes",
+    "pubdate": "2026-07-27-01-03-04 +0000"
+  },
+  {
+    "headline": "The ‘Unsettled’ Vibe That’s Creeping Through the Markets",
+    "link": "https://www.wsj.com/finance/stocks/the-unsettled-vibe-thats-creeping-through-the-markets-e3996676?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-27-01-00-00 +0000"
+  },
+  {
+    "headline": "Big Companies Are Starting to Hire Again, Defying Predictions of AI Wipeout",
+    "link": "https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-27-01-00-00 +0000"
+  },
+  {
+    "headline": "Dinner outside",
+    "link": "https://missionlocal.org/2026/07/dinner-outside/",
+    "source": "missionlocal",
+    "pubdate": "2026-07-27-01-00-00 +0000"
+  },
+  {
+    "headline": "America’s Big Cities Are Rapidly Losing Kids",
+    "link": "https://www.wsj.com/us-news/cities-losing-families-children-a860a9b1",
+    "source": "wsj",
+    "pubdate": "2026-07-27-01-00-00 +0000"
+  },
+  {
+    "headline": "Trump’s border czar Tom Homan says vetting of ICE officer is under internal review after Maine shooting",
+    "link": "https://nypost.com/2026/07/26/us-news/trumps-border-czar-tom-homan-says-vetting-of-ice-officer-is-under-internal-review-after-maine-shooting/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-00-56-34 +0000"
+  },
+  {
+    "headline": "Woman killed in brutal assault at Santa Monica assisted living facility, police say",
+    "link": "https://www.latimes.com/california/story/2026-07-26/woman-killed-in-brutal-assault-at-santa-monica-assisted-living-facility-police-say",
+    "source": "latimes",
+    "pubdate": "2026-07-27-00-52-21 +0000"
+  },
+  {
+    "headline": "Rookie Jackson Koivun, with Scottie Scheffler lurking in the rear view mirror, wins 3M Open",
+    "link": "https://www.startribune.com/jackson-koivun-wins-3mopen-scottie-scheffler-first-pga-tour-victory-auburn-ncaa-champion/601864483",
+    "source": "startribune",
+    "pubdate": "2026-07-27-00-49-40 +0000"
+  },
+  {
+    "headline": "Rhode Island dad claims he saw Bigfoot in Connecticut woods — and detailed that it had ‘no boobs’",
+    "link": "https://nypost.com/2026/07/26/us-news/rhode-island-dad-claims-he-saw-bigfoot-in-connecticut-woods-and-detailed-that-it-had-no-boobs/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-00-44-11 +0000"
+  },
+  {
+    "headline": "She realized she had breast cancer after dreaming about a lump. Now she’s starring in a Hollywood blockbuster",
+    "link": "https://nypost.com/2026/07/26/us-news/she-realized-she-had-breast-cancer-after-dreaming-about-a-lump-now-shes-starring-in-a-hollywood-blockbuster/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-00-39-18 +0000"
+  },
+  {
+    "headline": "Asian Currencies Mixed; May Strengthen on Signs of Pause in U.S.-Iran Conflict",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-may-strengthen-on-signs-of-pause-in-u-s-iran-conflict-6a2c0381?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-27-00-35-00 +0000"
+  },
+  {
+    "headline": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+    "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-27-00-27-58 +0000"
+  },
+  {
+    "headline": "Singapore Central Bank Delivers Surprise Back-to-Back Tightening",
+    "link": "https://www.wsj.com/economy/central-banking/singapore-central-bank-delivers-surprise-back-to-back-tightening-04300256",
+    "source": "wsj",
+    "pubdate": "2026-07-27-00-25-00 +0000"
+  },
+  {
+    "headline": "Secret Service Agent and 2 Others Charged in Near-Fatal Fraternity Hazing",
+    "link": "https://www.nytimes.com/2026/07/26/us/florida-secret-service-agent-fraternity-hazing.html",
     "source": "nyt",
-    "pubdate": "2026-07-27-00-06-24 +0000"
+    "pubdate": "2026-07-27-00-24-24 +0000"
+  },
+  {
+    "headline": "JGB Futures Rise Amid Falling Crude Oil Prices",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-rise-amid-falling-crude-oil-prices-2f1d5195?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-27-00-20-00 +0000"
+  },
+  {
+    "headline": "Nikkei Rises 0.4%, Led by Airline, Auto Stocks",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-airline-auto-stocks-d1be4dd3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-27-00-18-00 +0000"
   },
   {
     "headline": "Pentagon Changes How It Reports Casualties in Iran War",
     "link": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
     "source": "nyt",
-    "pubdate": "2026-07-27-00-06-24 +0000"
+    "pubdate": "2026-07-27-00-14-22 +0000"
+  },
+  {
+    "headline": "Pentagon Changes How It Reports Casualties in Iran War",
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-00-14-22 +0000"
+  },
+  {
+    "headline": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
+    "link": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-00-13-25 +0000"
   },
   {
     "headline": "Waymo Is Racking Up Thousands of Dollars of Parking Fines in Austin",
@@ -40,12 +148,6 @@
     "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-easing-supply-disruption-concerns-b794368e?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-07-26-23-44-00 +0000"
-  },
-  {
-    "headline": "Secret Service Agent and 2 Others Charged in Near-Fatal Fraternity Hazing",
-    "link": "https://www.nytimes.com/2026/07/26/us/florida-secret-service-agent-fraternity-hazing.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-23-30-51 +0000"
   },
   {
     "headline": "Federal Probe into Dodgers Owner’s Financial Empire Was Sparked By Whistleblower",
@@ -90,8 +192,8 @@
     "pubdate": "2026-07-26-23-06-43 +0000"
   },
   {
-    "headline": "NY circus performer airlifted to hosp after female colleague’s arrow misses target and hits his neck",
-    "link": "https://nypost.com/2026/07/26/us-news/ny-circus-performer-airlifted-to-hosp-after-female-colleagues-arrow-misses-target-and-hits-his-neck/",
+    "headline": "NY circus performer airlifted to hospital after female colleague’s arrow misses target and hits his neck",
+    "link": "https://nypost.com/2026/07/26/us-news/ny-circus-performer-airlifted-to-hospital-after-female-colleagues-arrow-misses-target-and-hits-his-neck/",
     "source": "nypost",
     "pubdate": "2026-07-26-23-04-09 +0000"
   },
@@ -110,6 +212,12 @@
   {
     "headline": "Inside the Decadelong Saga to Open a New Detroit Bridge to Canada",
     "link": "https://www.wsj.com/world/americas/inside-the-decadelong-saga-to-open-a-new-detroit-bridge-to-canada-b7bd1f3f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-26-23-00-00 +0000"
+  },
+  {
+    "headline": "This Lawyer Upended ‘Big Law’ Once. He Has a Plan to Do It Again.",
+    "link": "https://www.wsj.com/business/david-fox-lawyer-big-law-ai-304ec652?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-07-26-23-00-00 +0000"
   },
@@ -228,12 +336,6 @@
     "pubdate": "2026-07-26-21-55-00 +0000"
   },
   {
-    "headline": "Rookie Jackson Koivun, with Scottie Scheffler lurking in the rear view mirror, wins 3M Open",
-    "link": "https://www.startribune.com/jackson-koivun-wins-3mopen-scottie-scheffler-first-pga-tour-victory-auburn-ncaa-champion/601864483",
-    "source": "startribune",
-    "pubdate": "2026-07-26-21-46-36 +0000"
-  },
-  {
     "headline": "Opinion | Abolish the Senate, Says the DSA",
     "link": "https://www.wsj.com/opinion/abolish-the-senate-says-the-dsa-6146c172",
     "source": "wsj",
@@ -334,12 +436,6 @@
     "link": "https://nypost.com/2026/07/26/us-news/dr-faucis-bizarre-fame-fixation-as-covid-deaths-mounted-revealed-in-newly-released-diaries/",
     "source": "nypost",
     "pubdate": "2026-07-26-21-10-19 +0000"
-  },
-  {
-    "headline": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
-    "link": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-21-04-45 +0000"
   },
   {
     "headline": "A South African Identity Crisis",
@@ -456,28 +552,10 @@
     "pubdate": "2026-07-26-20-08-16 +0000"
   },
   {
-    "headline": "Heartbreaking twist after college soccer star washed up dead on La Jolla Shores Beach",
-    "link": "https://nypost.com/2026/07/26/us-news/twist-after-body-of-college-soccer-star-washed-up-on-san-diego-each/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-20-01-54 +0000"
-  },
-  {
     "headline": "Reusse: We haven’t given John Anderson enough credit for what he did for Gophers baseball",
     "link": "https://www.startribune.com/john-anderson-dies-minnesota-gophers-baseball-longtime-coach-obituary-reusse-bigten/601872009",
     "source": "startribune",
     "pubdate": "2026-07-26-19-59-33 +0000"
-  },
-  {
-    "headline": "Brian Hooker’s stepmom alleges he ‘lied about everything’ in new livestream interview",
-    "link": "https://nypost.com/2026/07/26/us-news/brian-hookers-stepmom-alleges-he-lied-about-everything/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-19-46-53 +0000"
-  },
-  {
-    "headline": "GOP chief claims NJ’s 6,600 non-citizens illegally registered to vote are just tip of the iceberg: ‘More to come’",
-    "link": "https://nypost.com/2026/07/26/us-news/njs-6600-non-citizens-illegally-registered-to-vote-are-just-tip-of-iceberg-gop-chief/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-19-42-26 +0000"
   },
   {
     "headline": "GOP chief claims NJ’s 6,600 non-citizens illegally registered to vote are just tip of the iceberg: ‘More to come’",
@@ -496,12 +574,6 @@
     "link": "https://www.cbc.ca/news/world/berlin-pride-attack-2slgbtq-reaction-9.7285045?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-07-26-19-27-26 +0000"
-  },
-  {
-    "headline": "Teen handyman accused of killing ‘sweetest’ elderly couple was well-known ‘troubled juvenile’ suspected of other crimes: cops",
-    "link": "https://nypost.com/2026/07/26/us-news/troubled-teen-accused-of-killing-sweetest-elderly-couple-was-suspect-in-other-crimes-cops/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-19-26-56 +0000"
   },
   {
     "headline": "Berlin Pride attack suspect shot and killed during police operation",
@@ -1390,53 +1462,5 @@
     "link": "https://www.wsj.com/world/poor-countries-are-aging-fast-but-cant-keep-up-with-the-cost-fd83b1cd",
     "source": "wsj",
     "pubdate": "2026-07-26-02-00-00 +0000"
-  },
-  {
-    "headline": "Mamdani’s municipal bond mess will only get worse as mayor prioritizes anti-Israel policies over NYC’s fiscal health",
-    "link": "https://nypost.com/2026/07/25/business/mamdanis-municipal-bond-mess-will-only-get-worse-as-mayor-prioritizes-anti-israel-policies-over-nycs-fiscal-health/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-00-49-13 +0000"
-  },
-  {
-    "headline": "FBI ‘Most Wanted’ fraud suspect arrested in Jamaica over alleged $32M COVID-19 relief scheme",
-    "link": "https://nypost.com/2026/07/25/world-news/fbi-most-wanted-fraud-suspect-arrested-in-jamaica-over-alleged-32m-covid-19-relief-scheme/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-00-46-15 +0000"
-  },
-  {
-    "headline": "Brazil Denies Visas to U.S. Officials Over Election-Interference Fears",
-    "link": "https://www.wsj.com/world/americas/brazil-denies-visas-to-u-s-officials-over-election-interference-fears-62f2d8c4",
-    "source": "wsj",
-    "pubdate": "2026-07-26-00-40-00 +0000"
-  },
-  {
-    "headline": "The notorious Cameroonian prison with its own record label",
-    "link": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-26-00-24-30 +0000"
-  },
-  {
-    "headline": "The notorious Cameroonian prison with its own record label",
-    "link": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-26-00-24-30 +0000"
-  },
-  {
-    "headline": "Appeals Court Upholds Blocks on Trump Order Restricting Mail Voting",
-    "link": "https://www.nytimes.com/2026/07/25/us/politics/appeals-court-trump-mail-voting.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-00-20-15 +0000"
-  },
-  {
-    "headline": "Appeals Court Upholds Blocks on Trump Order Restricting Mail Voting",
-    "link": "https://www.nytimes.com/2026/07/25/us/politics/appeals-court-trump-mail-voting.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-00-20-15 +0000"
-  },
-  {
-    "headline": "Primark's new 'supermarket tactic' to woo customers in online price war",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-26-00-17-50 +0000"
   }
 ]
