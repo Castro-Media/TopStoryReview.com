@@ -1,38 +1,10 @@
 [
   {
-    "score": 26,
+    "score": 22,
     "pubdate": "2026-07-27-15-39-54 +0000",
     "source": "bbc",
     "headline": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
     "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-07-27-15-08-37 +0000",
-    "source": "bbc",
-    "headline": "Oil price dives as US and Iran pause attacks",
-    "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-07-27-15-40-46 +0000",
-    "source": "nyt",
-    "headline": "Wildfires Live Updates: Spain and France Fight to Contain Blazes as Extreme Heat Threatens New Fires",
-    "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-07-27-15-04-00 +0000",
-    "source": "wsj",
-    "headline": "Ex-JPMorgan Banker Alleges Racism, Sexual Assault in Federal Lawsuit",
-    "link": "https://www.wsj.com/business/ex-jpmorgan-banker-alleges-racism-sexual-assault-in-federal-lawsuit-a6a54d0e?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-07-27-14-56-02 +0000",
-    "source": "nyt",
-    "headline": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
-    "link": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html"
   },
   {
     "score": 14,
@@ -42,31 +14,31 @@
     "link": "https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html"
   },
   {
-    "score": 13,
-    "pubdate": "2026-07-27-15-33-44 +0000",
-    "source": "startribune",
-    "headline": "Latest: Gov. Walz visiting Ely as some areas of Boundary Waters reopen for day use",
-    "link": "https://www.startribune.com/boundary-waters-forest-service-closure-heat/601867527"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-07-27-15-33-04 +0000",
-    "source": "chitri",
-    "headline": "Hinsdale Mahjong Society opens Westmont studio for friendship, ‘spending time together around a table’",
-    "link": "https://www.chicagotribune.com/2026/07/27/hinsdale-mahjong-society-westmont/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-07-27-15-26-58 +0000",
-    "source": "nypost",
-    "headline": "Career criminal remanded on slew of charges for allegedly gunning down innocent 12-year-old son of retired cop",
-    "link": "https://nypost.com/2026/07/27/us-news/nyc-suspect-hit-with-multiple-charges-after-cops-son-killed-outside-bronx-bodega/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-07-27-15-31-08 +0000",
+    "score": 14,
+    "pubdate": "2026-07-27-15-40-46 +0000",
     "source": "nyt",
-    "headline": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
-    "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html"
+    "headline": "Wildfires Live Updates: Spain and France Fight to Contain Blazes as Extreme Heat Threatens New Fires",
+    "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-07-27-15-40-14 +0000",
+    "source": "wapo",
+    "headline": "Zelensky is first foreign leader to visit Burnham, U.K.’s new prime minister",
+    "link": "https://www.washingtonpost.com/world/2026/07/27/zelensky-is-first-foreign-leader-visit-burnham-uks-new-prime-minister/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-27-15-41-16 +0000",
+    "source": "nyt",
+    "headline": "Even China’s A.I. Powerhouses Can’t Figure Out How to Profit Off A.I.",
+    "link": "https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-27-15-39-54 +0000",
+    "source": "bbc",
+    "headline": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+    "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss"
   }
 ]

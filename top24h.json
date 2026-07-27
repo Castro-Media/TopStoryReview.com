@@ -1,20 +1,20 @@
 [
   {
-    "score": 128,
-    "pubdate": "2026-07-26-16-11-05 +0000",
-    "source": "nyt",
-    "headline": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html"
+    "score": 99,
+    "pubdate": "2026-07-27-14-10-53 +0000",
+    "source": "nypost",
+    "headline": "Netanyahu heads to DC after warning Trump needs ‘constant, constant watch’ on Iran",
+    "link": "https://nypost.com/2026/07/27/us-news/netanyahu-heads-to-dc-after-warning-trump-needs-constant-constant-watch-on-iran/"
   },
   {
-    "score": 76,
+    "score": 75,
     "pubdate": "2026-07-26-19-21-26 +0000",
     "source": "bbc",
     "headline": "Berlin Pride attack suspect shot and killed during police operation",
     "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 74,
+    "score": 72,
     "pubdate": "2026-07-27-15-40-46 +0000",
     "source": "nyt",
     "headline": "Wildfires Live Updates: Spain and France Fight to Contain Blazes as Extreme Heat Threatens New Fires",
@@ -49,13 +49,6 @@
     "link": "https://www.wsj.com/politics/elections/darline-graham-lindsey-senate-seat-1eafe779"
   },
   {
-    "score": 47,
-    "pubdate": "2026-07-27-09-59-15 +0000",
-    "source": "bbc",
-    "headline": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-    "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 46,
     "pubdate": "2026-07-27-12-24-59 +0000",
     "source": "nypost",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "GOP Sen. John Kennedy warns John Thune is ‘being too cautious’ as Trump agenda hangs in the balance",
     "link": "https://nypost.com/2026/07/27/us-news/gop-sen-john-kennedy-warns-john-thune-being-too-cautious-as-trump-agenda-hangs-in-the-balance/"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-07-26-19-07-31 +0000",
+    "source": "nypost",
+    "headline": "Raging DNC boss Ken Martin threw phone at aide’s desk as committee forced to put up HQ as loan collateral: report",
+    "link": "https://nypost.com/2026/07/26/us-news/raging-dnc-boss-ken-martin-threw-phone-at-aides-desk-as-committee-forced-to-put-up-hq-as-loan-collateral-report/"
   }
 ]
