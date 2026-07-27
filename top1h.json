@@ -1,44 +1,72 @@
 [
   {
-    "score": 22,
-    "pubdate": "2026-07-27-15-39-54 +0000",
+    "score": 31,
+    "pubdate": "2026-07-27-16-33-05 +0000",
     "source": "bbc",
-    "headline": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-    "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss"
+    "headline": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+    "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 14,
-    "pubdate": "2026-07-27-15-41-16 +0000",
+    "score": 25,
+    "pubdate": "2026-07-27-17-20-31 +0000",
     "source": "nyt",
-    "headline": "Even China’s A.I. Powerhouses Can’t Figure Out How to Profit Off A.I.",
-    "link": "https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-07-27-15-40-46 +0000",
-    "source": "nyt",
-    "headline": "Wildfires Live Updates: Spain and France Fight to Contain Blazes as Extreme Heat Threatens New Fires",
+    "headline": "Wildfires Live Updates: Extreme Heat Threatens New Blazes as Spain and France Confront ‘Unprecedented’ Fire Season",
     "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions"
   },
   {
-    "score": 8,
-    "pubdate": "2026-07-27-15-40-14 +0000",
-    "source": "wapo",
-    "headline": "Zelensky is first foreign leader to visit Burnham, U.K.’s new prime minister",
-    "link": "https://www.washingtonpost.com/world/2026/07/27/zelensky-is-first-foreign-leader-visit-burnham-uks-new-prime-minister/"
+    "score": 19,
+    "pubdate": "2026-07-27-16-28-00 +0000",
+    "source": "wsj",
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-ce54be61?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 0,
-    "pubdate": "2026-07-27-15-41-16 +0000",
+    "score": 17,
+    "pubdate": "2026-07-27-16-36-00 +0000",
+    "source": "wsj",
+    "headline": "Cracker Barrel CEO Stepping Down After Logo Controversy, Activist Pressure",
+    "link": "https://www.wsj.com/business/cracker-barrel-ceo-julie-masino-to-step-down-66ef5937?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-07-27-16-40-00 +0000",
+    "source": "wsj",
+    "headline": "The balance of power in the Senate is on the line in the 2026 elections. Our tracker digs into the most competitive and emerging Senate battlegrounds.",
+    "link": "https://www.wsj.com/politics/elections/senate-seats-2026-midterm-election-tracker-04778377"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-27-17-20-00 +0000",
+    "source": "wsj",
+    "headline": "Ex-JPMorgan Banker Alleges Racism, Sexual Assault in Federal Lawsuit",
+    "link": "https://www.wsj.com/business/ex-jpmorgan-banker-alleges-racism-sexual-assault-in-federal-lawsuit-a6a54d0e?mod=rss_markets_main"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-27-17-17-07 +0000",
     "source": "nyt",
-    "headline": "Even China’s A.I. Powerhouses Can’t Figure Out How to Profit Off A.I.",
-    "link": "https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html"
+    "headline": "Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’",
+    "link": "https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-07-27-15-39-54 +0000",
-    "source": "bbc",
-    "headline": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-    "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss"
+    "score": 16,
+    "pubdate": "2026-07-27-16-59-44 +0000",
+    "source": "nyt",
+    "headline": "India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent",
+    "link": "https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-07-27-16-41-23 +0000",
+    "source": "nypost",
+    "headline": "Paramount CEO confident on Warner Bros. merger — as actors like Benedict Cumberbatch, Alan Cumming call for UK to block it",
+    "link": "https://nypost.com/2026/07/27/media/paramount-ceo-confident-on-warner-bros-merger-antitrust-case-as-actors-like-benedict-cumberbatch-alan-cumming-call-for-uk-to-block-it/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-07-27-17-00-03 +0000",
+    "source": "nyt",
+    "headline": "Pentagon Changes How It Reports Casualties in Iran War",
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html"
   }
 ]
