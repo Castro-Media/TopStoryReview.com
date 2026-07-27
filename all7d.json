@@ -1,15 +1,123 @@
 [
   {
-    "headline": "Pentagon Changes How It Reports Casualties in Iran War",
-    "link": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
+    "headline": "Netflix exec goes ballistic after being fired for stunning ‘trust exercise’ confession at retreat: suit",
+    "link": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-01-03-50 +0000"
+  },
+  {
+    "headline": "L.A. firefighters mourn colleague killed in highway collision with semi truck",
+    "link": "https://www.latimes.com/california/story/2026-07-26/off-duty-la-firefighter-dies-in-highway-collision-with-big-rig",
+    "source": "latimes",
+    "pubdate": "2026-07-27-01-03-04 +0000"
+  },
+  {
+    "headline": "The ‘Unsettled’ Vibe That’s Creeping Through the Markets",
+    "link": "https://www.wsj.com/finance/stocks/the-unsettled-vibe-thats-creeping-through-the-markets-e3996676?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-27-01-00-00 +0000"
+  },
+  {
+    "headline": "Big Companies Are Starting to Hire Again, Defying Predictions of AI Wipeout",
+    "link": "https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-27-01-00-00 +0000"
+  },
+  {
+    "headline": "Dinner outside",
+    "link": "https://missionlocal.org/2026/07/dinner-outside/",
+    "source": "missionlocal",
+    "pubdate": "2026-07-27-01-00-00 +0000"
+  },
+  {
+    "headline": "America’s Big Cities Are Rapidly Losing Kids",
+    "link": "https://www.wsj.com/us-news/cities-losing-families-children-a860a9b1",
+    "source": "wsj",
+    "pubdate": "2026-07-27-01-00-00 +0000"
+  },
+  {
+    "headline": "Trump’s border czar Tom Homan says vetting of ICE officer is under internal review after Maine shooting",
+    "link": "https://nypost.com/2026/07/26/us-news/trumps-border-czar-tom-homan-says-vetting-of-ice-officer-is-under-internal-review-after-maine-shooting/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-00-56-34 +0000"
+  },
+  {
+    "headline": "Woman killed in brutal assault at Santa Monica assisted living facility, police say",
+    "link": "https://www.latimes.com/california/story/2026-07-26/woman-killed-in-brutal-assault-at-santa-monica-assisted-living-facility-police-say",
+    "source": "latimes",
+    "pubdate": "2026-07-27-00-52-21 +0000"
+  },
+  {
+    "headline": "Rookie Jackson Koivun, with Scottie Scheffler lurking in the rear view mirror, wins 3M Open",
+    "link": "https://www.startribune.com/jackson-koivun-wins-3mopen-scottie-scheffler-first-pga-tour-victory-auburn-ncaa-champion/601864483",
+    "source": "startribune",
+    "pubdate": "2026-07-27-00-49-40 +0000"
+  },
+  {
+    "headline": "Rhode Island dad claims he saw Bigfoot in Connecticut woods — and detailed that it had ‘no boobs’",
+    "link": "https://nypost.com/2026/07/26/us-news/rhode-island-dad-claims-he-saw-bigfoot-in-connecticut-woods-and-detailed-that-it-had-no-boobs/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-00-44-11 +0000"
+  },
+  {
+    "headline": "She realized she had breast cancer after dreaming about a lump. Now she’s starring in a Hollywood blockbuster",
+    "link": "https://nypost.com/2026/07/26/us-news/she-realized-she-had-breast-cancer-after-dreaming-about-a-lump-now-shes-starring-in-a-hollywood-blockbuster/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-00-39-18 +0000"
+  },
+  {
+    "headline": "Asian Currencies Mixed; May Strengthen on Signs of Pause in U.S.-Iran Conflict",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-may-strengthen-on-signs-of-pause-in-u-s-iran-conflict-6a2c0381?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-27-00-35-00 +0000"
+  },
+  {
+    "headline": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+    "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-27-00-27-58 +0000"
+  },
+  {
+    "headline": "Singapore Central Bank Delivers Surprise Back-to-Back Tightening",
+    "link": "https://www.wsj.com/economy/central-banking/singapore-central-bank-delivers-surprise-back-to-back-tightening-04300256",
+    "source": "wsj",
+    "pubdate": "2026-07-27-00-25-00 +0000"
+  },
+  {
+    "headline": "Secret Service Agent and 2 Others Charged in Near-Fatal Fraternity Hazing",
+    "link": "https://www.nytimes.com/2026/07/26/us/florida-secret-service-agent-fraternity-hazing.html",
     "source": "nyt",
-    "pubdate": "2026-07-27-00-06-24 +0000"
+    "pubdate": "2026-07-27-00-24-24 +0000"
+  },
+  {
+    "headline": "JGB Futures Rise Amid Falling Crude Oil Prices",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-rise-amid-falling-crude-oil-prices-2f1d5195?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-27-00-20-00 +0000"
+  },
+  {
+    "headline": "Nikkei Rises 0.4%, Led by Airline, Auto Stocks",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-airline-auto-stocks-d1be4dd3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-27-00-18-00 +0000"
   },
   {
     "headline": "Pentagon Changes How It Reports Casualties in Iran War",
     "link": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
     "source": "nyt",
-    "pubdate": "2026-07-27-00-06-24 +0000"
+    "pubdate": "2026-07-27-00-14-22 +0000"
+  },
+  {
+    "headline": "Pentagon Changes How It Reports Casualties in Iran War",
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-00-14-22 +0000"
+  },
+  {
+    "headline": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
+    "link": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-00-13-25 +0000"
   },
   {
     "headline": "Waymo Is Racking Up Thousands of Dollars of Parking Fines in Austin",
@@ -40,12 +148,6 @@
     "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-easing-supply-disruption-concerns-b794368e?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-07-26-23-44-00 +0000"
-  },
-  {
-    "headline": "Secret Service Agent and 2 Others Charged in Near-Fatal Fraternity Hazing",
-    "link": "https://www.nytimes.com/2026/07/26/us/florida-secret-service-agent-fraternity-hazing.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-23-30-51 +0000"
   },
   {
     "headline": "Federal Probe into Dodgers Owner’s Financial Empire Was Sparked By Whistleblower",
@@ -90,8 +192,8 @@
     "pubdate": "2026-07-26-23-06-43 +0000"
   },
   {
-    "headline": "NY circus performer airlifted to hosp after female colleague’s arrow misses target and hits his neck",
-    "link": "https://nypost.com/2026/07/26/us-news/ny-circus-performer-airlifted-to-hosp-after-female-colleagues-arrow-misses-target-and-hits-his-neck/",
+    "headline": "NY circus performer airlifted to hospital after female colleague’s arrow misses target and hits his neck",
+    "link": "https://nypost.com/2026/07/26/us-news/ny-circus-performer-airlifted-to-hospital-after-female-colleagues-arrow-misses-target-and-hits-his-neck/",
     "source": "nypost",
     "pubdate": "2026-07-26-23-04-09 +0000"
   },
@@ -110,6 +212,12 @@
   {
     "headline": "Inside the Decadelong Saga to Open a New Detroit Bridge to Canada",
     "link": "https://www.wsj.com/world/americas/inside-the-decadelong-saga-to-open-a-new-detroit-bridge-to-canada-b7bd1f3f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-26-23-00-00 +0000"
+  },
+  {
+    "headline": "This Lawyer Upended ‘Big Law’ Once. He Has a Plan to Do It Again.",
+    "link": "https://www.wsj.com/business/david-fox-lawyer-big-law-ai-304ec652?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-07-26-23-00-00 +0000"
   },
@@ -228,12 +336,6 @@
     "pubdate": "2026-07-26-21-55-00 +0000"
   },
   {
-    "headline": "Rookie Jackson Koivun, with Scottie Scheffler lurking in the rear view mirror, wins 3M Open",
-    "link": "https://www.startribune.com/jackson-koivun-wins-3mopen-scottie-scheffler-first-pga-tour-victory-auburn-ncaa-champion/601864483",
-    "source": "startribune",
-    "pubdate": "2026-07-26-21-46-36 +0000"
-  },
-  {
     "headline": "Opinion | Abolish the Senate, Says the DSA",
     "link": "https://www.wsj.com/opinion/abolish-the-senate-says-the-dsa-6146c172",
     "source": "wsj",
@@ -334,12 +436,6 @@
     "link": "https://nypost.com/2026/07/26/us-news/dr-faucis-bizarre-fame-fixation-as-covid-deaths-mounted-revealed-in-newly-released-diaries/",
     "source": "nypost",
     "pubdate": "2026-07-26-21-10-19 +0000"
-  },
-  {
-    "headline": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
-    "link": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-21-04-45 +0000"
   },
   {
     "headline": "A South African Identity Crisis",
@@ -456,28 +552,10 @@
     "pubdate": "2026-07-26-20-08-16 +0000"
   },
   {
-    "headline": "Heartbreaking twist after college soccer star washed up dead on La Jolla Shores Beach",
-    "link": "https://nypost.com/2026/07/26/us-news/twist-after-body-of-college-soccer-star-washed-up-on-san-diego-each/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-20-01-54 +0000"
-  },
-  {
     "headline": "Reusse: We haven’t given John Anderson enough credit for what he did for Gophers baseball",
     "link": "https://www.startribune.com/john-anderson-dies-minnesota-gophers-baseball-longtime-coach-obituary-reusse-bigten/601872009",
     "source": "startribune",
     "pubdate": "2026-07-26-19-59-33 +0000"
-  },
-  {
-    "headline": "Brian Hooker’s stepmom alleges he ‘lied about everything’ in new livestream interview",
-    "link": "https://nypost.com/2026/07/26/us-news/brian-hookers-stepmom-alleges-he-lied-about-everything/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-19-46-53 +0000"
-  },
-  {
-    "headline": "GOP chief claims NJ’s 6,600 non-citizens illegally registered to vote are just tip of the iceberg: ‘More to come’",
-    "link": "https://nypost.com/2026/07/26/us-news/njs-6600-non-citizens-illegally-registered-to-vote-are-just-tip-of-iceberg-gop-chief/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-19-42-26 +0000"
   },
   {
     "headline": "GOP chief claims NJ’s 6,600 non-citizens illegally registered to vote are just tip of the iceberg: ‘More to come’",
@@ -496,12 +574,6 @@
     "link": "https://www.cbc.ca/news/world/berlin-pride-attack-2slgbtq-reaction-9.7285045?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-07-26-19-27-26 +0000"
-  },
-  {
-    "headline": "Teen handyman accused of killing ‘sweetest’ elderly couple was well-known ‘troubled juvenile’ suspected of other crimes: cops",
-    "link": "https://nypost.com/2026/07/26/us-news/troubled-teen-accused-of-killing-sweetest-elderly-couple-was-suspect-in-other-crimes-cops/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-19-26-56 +0000"
   },
   {
     "headline": "Berlin Pride attack suspect shot and killed during police operation",
@@ -2310,12 +2382,6 @@
     "pubdate": "2026-07-25-02-23-09 +0000"
   },
   {
-    "headline": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-    "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-25-02-23-09 +0000"
-  },
-  {
     "headline": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
     "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2536,12 +2602,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-07-24-23-01-06 +0000"
-  },
-  {
-    "headline": "We Went to the Boot Camp Where KPMG Teaches Auditors to Think Critically",
-    "link": "https://www.wsj.com/business/kpmg-summer-interns-auditing-ai-training-941ad5cc?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-24-23-00-00 +0000"
   },
   {
     "headline": "We Went to the Boot Camp Where KPMG Teaches Auditors to Think Critically",
@@ -2848,12 +2908,6 @@
     "link": "https://www.cbc.ca/news/world/ukraine-russia-wildberries-drone-attacks-9.7282731?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-07-24-20-19-37 +0000"
-  },
-  {
-    "headline": "Oil Prices Ease Pressure on Treasury Yields",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-f3e6bacb?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-07-24-20-13-00 +0000"
   },
   {
     "headline": "Small businesses file lawsuit challenging Trump’s new ‘forced labor’ tariffs",
@@ -3912,18 +3966,6 @@
     "pubdate": "2026-07-24-10-00-00 +0000"
   },
   {
-    "headline": "He was homeless in L.A. Now, he's accused of hurling racist slurs at a 'Today' host",
-    "link": "https://www.latimes.com/world-nation/story/2026-07-24/he-was-homeless-in-la-now-hes-accused-of-hurling-racist-slurs-at-today-host",
-    "source": "latimes",
-    "pubdate": "2026-07-24-10-00-00 +0000"
-  },
-  {
-    "headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
-    "link": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
-    "source": "latimes",
-    "pubdate": "2026-07-24-10-00-00 +0000"
-  },
-  {
     "headline": "Mayor's press team uses disappearing WhatsApp messages, avoiding scrutiny",
     "link": "https://www.latimes.com/california/story/2026-07-24/mayors-press-team-uses-disappearing-whatsapp-messages-avoiding-scrutiny",
     "source": "latimes",
@@ -3932,6 +3974,18 @@
   {
     "headline": "L.A.'s homeless authority is in a fight for its survival",
     "link": "https://www.latimes.com/california/story/2026-07-24/l-a-s-homeless-authority-is-in-fight-for-its-survival",
+    "source": "latimes",
+    "pubdate": "2026-07-24-10-00-00 +0000"
+  },
+  {
+    "headline": "He was homeless in L.A. Now, he's accused of hurling racist slurs at a 'Today' host",
+    "link": "https://www.latimes.com/world-nation/story/2026-07-24/he-was-homeless-in-la-now-hes-accused-of-hurling-racist-slurs-at-today-host",
+    "source": "latimes",
+    "pubdate": "2026-07-24-10-00-00 +0000"
+  },
+  {
+    "headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
+    "link": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
     "source": "latimes",
     "pubdate": "2026-07-24-10-00-00 +0000"
   },
@@ -4074,22 +4128,10 @@
     "pubdate": "2026-07-24-08-18-00 +0000"
   },
   {
-    "headline": "European Stock Indexes Higher as Software Stocks Bounce",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-3-dragged-by-tech-chip-stocks-4b55c44c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-07-24-07-44-00 +0000"
-  },
-  {
     "headline": "Two Chinese win world's top Maths prize for solving century-old problems",
     "link": "https://www.bbc.co.uk/news/articles/cvg84gp8xx4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-07-24-06-47-48 +0000"
-  },
-  {
-    "headline": "South Korea Fast-Tracks New Rule for Leveraged ETFs to Curb Market Swings",
-    "link": "https://www.wsj.com/finance/stocks/south-korea-fast-tracks-new-rule-for-leveraged-etfs-to-curb-market-swings-e169153d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-07-24-06-13-00 +0000"
   },
   {
     "headline": "Families still search for bodies a month after Venezuela earthquakes",
@@ -4168,12 +4210,6 @@
     "link": "https://www.bbc.co.uk/news/videos/c4gv311jr01o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-07-24-01-39-01 +0000"
-  },
-  {
-    "headline": "Running, Rock Climbing and Other Sports Are Taking Off in China. Pricey Workout Clothes, Too.",
-    "link": "https://www.wsj.com/business/retail/china-fitness-workout-atheltic-wear-lululemon-alo-21e05971?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-24-01-23-00 +0000"
   },
   {
     "headline": "Pritzker administration to lay off workers and reduce operations at downstate Choate facility",
@@ -5430,12 +5466,6 @@
     "pubdate": "2026-07-23-02-59-44 +0000"
   },
   {
-    "headline": "Can Lina Khan Make Peace With New York’s Business Community?",
-    "link": "https://www.wsj.com/politics/policy/can-lina-khan-make-peace-with-new-yorks-business-community-5852133d",
-    "source": "wsj",
-    "pubdate": "2026-07-23-02-45-00 +0000"
-  },
-  {
     "headline": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
     "link": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
     "source": "nyt",
@@ -6456,12 +6486,6 @@
     "pubdate": "2026-07-21-21-27-00 +0000"
   },
   {
-    "headline": "Moody’s Upgrades Argentina to B3 From Caa1, Changes Outlook to Positive From Stable",
-    "link": "https://www.wsj.com/economy/central-banking/moodys-upgrades-argentina-to-b3-from-caa1-changes-outlook-to-positive-from-stable-7f6cdb11",
-    "source": "wsj",
-    "pubdate": "2026-07-21-21-24-00 +0000"
-  },
-  {
     "headline": "WSJ Dollar Index Rises 0.18% to 97.34",
     "link": "https://www.wsj.com/finance/currencies/new-trump-tariffs-threaten-to-further-strain-cad-3b0f1e73?mod=rss_markets_main",
     "source": "wsj",
@@ -6882,14 +6906,14 @@
     "pubdate": "2026-07-21-10-00-00 +0000"
   },
   {
-    "headline": "Chabria: Newsom pushes California to crack down on sex trafficking — fast",
-    "link": "https://www.latimes.com/california/story/2026-07-21/newsom-pushes-california-to-crack-down-on-sex-trafficking-fast",
+    "headline": "This SoCal heat wave could be hottest of the year: 5 things to know",
+    "link": "https://www.latimes.com/california/story/2026-07-21/this-socal-heat-wave-could-be-hottest-of-year-5-things-to-know",
     "source": "latimes",
     "pubdate": "2026-07-21-10-00-00 +0000"
   },
   {
-    "headline": "This SoCal heat wave could be hottest of the year: 5 things to know",
-    "link": "https://www.latimes.com/california/story/2026-07-21/this-socal-heat-wave-could-be-hottest-of-year-5-things-to-know",
+    "headline": "Chabria: Newsom pushes California to crack down on sex trafficking — fast",
+    "link": "https://www.latimes.com/california/story/2026-07-21/newsom-pushes-california-to-crack-down-on-sex-trafficking-fast",
     "source": "latimes",
     "pubdate": "2026-07-21-10-00-00 +0000"
   },
@@ -7044,18 +7068,6 @@
     "pubdate": "2026-07-20-23-18-25 +0000"
   },
   {
-    "headline": "Found weak and disheveled, rescued eagle — probably Big Bear's Jackie — receiving care in Ojai",
-    "link": "https://www.latimes.com/environment/story/2026-07-20/bald-eagle-rescued-in-big-bear-likely-jackie-is-in-stable-condition",
-    "source": "latimes",
-    "pubdate": "2026-07-20-23-13-10 +0000"
-  },
-  {
-    "headline": "Ex-L.A. County sheriff's deputy gets prison time for using search warrant for a private client",
-    "link": "https://www.latimes.com/california/story/2026-07-20/ex-l-a-county-sheriffs-deputy-gets-prison-time-for-using-search-warrant-for-private-client",
-    "source": "latimes",
-    "pubdate": "2026-07-20-22-57-38 +0000"
-  },
-  {
     "headline": "The 20-somethings betting big on tech stocks",
     "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -7066,12 +7078,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-07-20-21-47-14 +0000"
-  },
-  {
-    "headline": "WSJ Dollar Index Rises 0.08% to 97.17",
-    "link": "https://www.wsj.com/opinion/asian-currencies-consolidate-may-weaken-amid-escalating-mideast-conflict-30e35087?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-07-20-21-20-00 +0000"
   },
   {
     "headline": "President Trump imposes 50% tariff on Canadian goods, citing disputes over autos, alcohol and cheese",
@@ -7308,12 +7314,6 @@
     "pubdate": "2026-07-20-11-00-38 +0000"
   },
   {
-    "headline": "Inside the Concord mega-hearings where 600+ immigrants were ordered deported in June",
-    "link": "https://missionlocal.org/2026/07/concord-immigration-mega-master-hearings-deportation/",
-    "source": "missionlocal",
-    "pubdate": "2026-07-20-11-00-00 +0000"
-  },
-  {
     "headline": "Denied tenure and alleging discrimination, Northwestern University professor sues school and government officials",
     "link": "https://www.chicagotribune.com/2026/07/20/northwestern-university-professor-files-federal-lawsuit/",
     "source": "chitri",
@@ -7396,35 +7396,5 @@
     "link": "https://www.wsj.com/politics/national-security/pentagon-weapon-purchases-startups-4919d870",
     "source": "wsj",
     "pubdate": "2026-07-20-02-00-00 +0000"
-  },
-  {
-    "headline": "Sixteen titles in five years - why Spain are a dominant force",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-20-01-19-50 +0000"
-  },
-  {
-    "headline": "MyPillow founder Mike Lindell not registered to vote in Minnesota",
-    "link": "https://www.chicagotribune.com/2026/07/19/mypillow-founder-minn-gov/",
-    "source": "chitri",
-    "pubdate": "2026-07-20-01-11-35 +0000"
-  },
-  {
-    "headline": "Tears in Argentina for Lionel Messi’s ‘Last Tango’",
-    "link": "https://www.nytimes.com/2026/07/19/world/americas/messi-argentina-buenos-aires-last-tango.html",
-    "source": "nyt",
-    "pubdate": "2026-07-20-00-37-49 +0000"
-  },
-  {
-    "headline": "Victory for football? Spain beat Argentina to win World Cup",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-20-00-28-50 +0000"
-  },
-  {
-    "headline": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
-    "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-20-00-19-12 +0000"
   }
 ]
