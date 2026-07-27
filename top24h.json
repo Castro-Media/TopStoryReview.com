@@ -7,7 +7,7 @@
     "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions"
   },
   {
-    "score": 97,
+    "score": 92,
     "pubdate": "2026-07-27-14-10-53 +0000",
     "source": "nypost",
     "headline": "Trump praises ‘great’ Netanyahu, says they’re ‘pretty close’ on next Iran steps as Israeli PM travels to DC",
@@ -22,17 +22,17 @@
   },
   {
     "score": 55,
-    "pubdate": "2026-07-27-19-41-57 +0000",
-    "source": "cbc",
-    "headline": "Police arrest 15-year-old after Seattle festival shooting that killed 3",
-    "link": "https://www.cbc.ca/news/world/police-arrest-seattle-shooting-9.7286262?cmp=rss"
-  },
-  {
-    "score": 55,
     "pubdate": "2026-07-27-09-00-00 +0000",
     "source": "wsj",
     "headline": "Sen. Darline Graham is getting a crash course in Hill politics. In the span of a week, she was sworn into office, co-sponsored her first piece of legislation and made a massive political decision.",
     "link": "https://www.wsj.com/politics/elections/darline-graham-lindsey-senate-seat-1eafe779"
+  },
+  {
+    "score": 55,
+    "pubdate": "2026-07-27-19-41-57 +0000",
+    "source": "cbc",
+    "headline": "Police arrest 15-year-old after Seattle festival shooting that killed 3",
+    "link": "https://www.cbc.ca/news/world/police-arrest-seattle-shooting-9.7286262?cmp=rss"
   },
   {
     "score": 51,
@@ -49,13 +49,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 45,
-    "pubdate": "2026-07-27-19-14-23 +0000",
-    "source": "nypost",
-    "headline": "Anthony Fauci admits in diary to COVID talks with indicted adviser he once disavowed",
-    "link": "https://nypost.com/2026/07/27/us-news/anthony-fauci-admits-in-diary-to-covid-talks-with-indicted-adviser-he-once-disavowed/"
-  },
-  {
     "score": 44,
     "pubdate": "2026-07-27-13-24-08 +0000",
     "source": "nypost",
@@ -68,5 +61,12 @@
     "source": "wapo",
     "headline": "NYC-run grocery stores will sell meat, other basics at 30% off, Mamdani says",
     "link": "https://www.washingtonpost.com/business/2026/07/27/nyc-run-grocery-stores-will-sell-meat-other-basics-30-off-mamdani-says/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-07-27-19-14-23 +0000",
+    "source": "nypost",
+    "headline": "Anthony Fauci admits in diary to COVID talks with indicted adviser he once disavowed",
+    "link": "https://nypost.com/2026/07/27/us-news/anthony-fauci-admits-in-diary-to-covid-talks-with-indicted-adviser-he-once-disavowed/"
   }
 ]
