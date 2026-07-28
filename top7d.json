@@ -1,52 +1,45 @@
 [
   {
-    "score": 391,
+    "score": 392,
     "pubdate": "2026-07-28-09-29-10 +0000",
     "source": "nyt",
     "headline": "Trump Backs New Iran Talks but It’s Unclear What He Hopes to Achieve This Time",
     "link": "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html"
   },
   {
-    "score": 182,
-    "pubdate": "2026-07-27-23-26-53 +0000",
-    "source": "nypost",
-    "headline": "Xavier Becerra leads Democrats’ all-out war against California voter ID measure",
-    "link": "https://nypost.com/2026/07/27/us-news/xavier-becerra-leads-democrats-war-on-california-voter-id/"
+    "score": 184,
+    "pubdate": "2026-07-23-21-41-33 +0000",
+    "source": "latimes",
+    "headline": "War escalates, oil prices surge as Iran-backed Houthis strike Saudi tankers in Red Sea",
+    "link": "https://www.latimes.com/politics/story/2026-07-23/war-escalates-oil-prices-surge-as-iran-backed-houthis-strike-saudi-tankers-in-red-sea"
   },
   {
-    "score": 145,
-    "pubdate": "2026-07-28-05-45-29 +0000",
+    "score": 161,
+    "pubdate": "2026-07-24-01-00-00 +0000",
     "source": "wsj",
-    "headline": "Stock Market Today: Chip Stocks Slide as AI Worries Push Investors to Other Sectors",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026?mod=rss_markets_main"
+    "headline": "Inside China’s All-Out Push to Catch Up With American AI Chips",
+    "link": "https://www.wsj.com/world/china/china-ai-chips-race-949050d0"
   },
   {
-    "score": 141,
-    "pubdate": "2026-07-23-15-57-43 +0000",
-    "source": "nyt",
-    "headline": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It Wants to Go Nuclear.",
-    "link": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html"
-  },
-  {
-    "score": 138,
+    "score": 149,
     "pubdate": "2026-07-27-09-00-00 +0000",
     "source": "wsj",
     "headline": "Sen. Darline Graham is getting a crash course in Hill politics. In the span of a week, she was sworn into office, co-sponsored her first piece of legislation and made a massive political decision.",
     "link": "https://www.wsj.com/politics/elections/darline-graham-lindsey-senate-seat-1eafe779"
   },
   {
-    "score": 127,
-    "pubdate": "2026-07-28-01-29-25 +0000",
-    "source": "bbc",
-    "headline": "BBC outside court as judge rules singer D4vd will face murder trial",
-    "link": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 116,
+    "score": 128,
     "pubdate": "2026-07-24-21-47-00 +0000",
     "source": "wsj",
     "headline": "Paramount pauses its Warner Bros. deal, warplanes from Bahrain and Kuwait struck Iran, and a massive family’s equally large rustic lodge is for sale. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/paramount-puts-warner-bros-deal-on-pause-1bc2d57f"
+  },
+  {
+    "score": 124,
+    "pubdate": "2026-07-28-01-29-25 +0000",
+    "source": "bbc",
+    "headline": "BBC outside court as judge rules singer D4vd will face murder trial",
+    "link": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 114,
@@ -57,16 +50,23 @@
   },
   {
     "score": 111,
-    "pubdate": "2026-07-27-17-20-27 +0000",
-    "source": "bbc",
-    "headline": "What you need to know if you're travelling to France or Spain",
-    "link": "https://www.bbc.co.uk/news/videos/c89npw4q3g4o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-07-24-15-39-28 +0000",
+    "source": "chitri",
+    "headline": "President Trump addresses journalists at rescheduled White House correspondents’ dinner following shooting: ‘The show must go on’",
+    "link": "https://www.chicagotribune.com/2026/07/24/white-house-correspondents-dinner-redux/"
   },
   {
-    "score": 104,
-    "pubdate": "2026-07-27-23-24-28 +0000",
-    "source": "bbc",
-    "headline": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
-    "link": "https://www.bbc.co.uk/news/articles/cy0jknp3e6yo?at_medium=RSS&at_campaign=rss"
+    "score": 109,
+    "pubdate": "2026-07-23-03-13-44 +0000",
+    "source": "latimes",
+    "headline": "California is letting more drivers add their license and ID card to their phones. Here's how",
+    "link": "https://www.latimes.com/california/story/2026-07-22/more-californians-can-add-drivers-license-to-their-phones-heres-how"
+  },
+  {
+    "score": 108,
+    "pubdate": "2026-07-27-19-33-00 +0000",
+    "source": "wsj",
+    "headline": "Record Wildfires Sweep France and Spain as Heat Wave Approaches",
+    "link": "https://www.wsj.com/world/europe/record-wildfires-sweep-france-and-spain-as-heat-wave-approaches-c4ccdb7d"
   }
 ]
