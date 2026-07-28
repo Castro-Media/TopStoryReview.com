@@ -1,24 +1,31 @@
 [
   {
-    "score": 130,
+    "score": 140,
     "pubdate": "2026-07-27-21-10-56 +0000",
     "source": "bbc",
     "headline": "Trump says Iran war talks taking place during lull in strikes",
     "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 127,
-    "pubdate": "2026-07-28-02-50-58 +0000",
+    "score": 133,
+    "pubdate": "2026-07-28-04-15-00 +0000",
     "source": "nyt",
     "headline": "Europe Wildfires Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
     "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions"
   },
   {
-    "score": 64,
+    "score": 63,
     "pubdate": "2026-07-27-16-23-15 +0000",
     "source": "nypost",
     "headline": "Dr. Anthony Fauci ruled out Wuhan market origin for COVID-19 in private diary entries",
     "link": "https://nypost.com/2026/07/27/us-news/dr-anthony-fauci-ruled-out-wuhan-market-origin-for-covid-19-in-private-diary-entries/"
+  },
+  {
+    "score": 63,
+    "pubdate": "2026-07-27-21-50-18 +0000",
+    "source": "nypost",
+    "headline": "Nvidia in talks to back $500B OpenAI data center — days after CEO Jensen Huang voiced support for controversial open-source AI used by China",
+    "link": "https://nypost.com/2026/07/27/business/nvidia-in-talks-to-back-500b-openai-data-center/"
   },
   {
     "score": 60,
@@ -28,14 +35,7 @@
     "link": "https://www.wsj.com/politics/elections/darline-graham-lindsey-senate-seat-1eafe779"
   },
   {
-    "score": 60,
-    "pubdate": "2026-07-27-21-50-18 +0000",
-    "source": "nypost",
-    "headline": "Nvidia in talks to back $500B OpenAI data center — days after CEO Jensen Huang voiced support for controversial open-source AI used by China",
-    "link": "https://nypost.com/2026/07/27/business/nvidia-in-talks-to-back-500b-openai-data-center/"
-  },
-  {
-    "score": 56,
+    "score": 58,
     "pubdate": "2026-07-28-03-33-06 +0000",
     "source": "nypost",
     "headline": "Democratic Senate hopeful Abdul El-Sayed defends disparaging John Fetterman with ‘ogre on a pike’ comment",
@@ -49,24 +49,24 @@
     "link": "https://nypost.com/2026/07/27/world-news/iran-ramps-up-threats-on-ukraine-over-caspian-sea-attack-the-list-of-defeated-forces-is-getting-longer/"
   },
   {
-    "score": 51,
+    "score": 53,
     "pubdate": "2026-07-28-00-33-48 +0000",
     "source": "nypost",
     "headline": "Confused Biden admitted he discovered classified materials ‘downstairs’ in bumbling chat with ghostwriter: ‘So many pauses and ums’",
     "link": "https://nypost.com/2026/07/27/us-news/biden-references-classified-material-that-he-found-downstairs-in-newly-released-audio-tapes-with-ghostwriter/"
   },
   {
-    "score": 49,
+    "score": 50,
     "pubdate": "2026-07-28-01-39-50 +0000",
     "source": "bbc",
     "headline": "US singer D4vd to go on trial for murder in death of 14-year-old",
     "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 45,
-    "pubdate": "2026-07-27-21-16-47 +0000",
-    "source": "chitri",
-    "headline": "Trump administration urges Supreme Court to allow order targeting mail-in voting before midterms",
-    "link": "https://www.chicagotribune.com/2026/07/27/trump-administration-supreme-court-mail-in-voting/"
+    "score": 48,
+    "pubdate": "2026-07-28-01-32-41 +0000",
+    "source": "nyt",
+    "headline": "Seattle Police Search for 3rd Shooter in Deadly Food Festival Shooting",
+    "link": "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
   }
 ]
