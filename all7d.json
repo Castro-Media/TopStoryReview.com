@@ -1,5 +1,197 @@
 [
   {
+    "headline": "Market Street shooting leaves one injured",
+    "link": "https://missionlocal.org/2026/07/sf-market-street-shooting-one-injured/",
+    "source": "missionlocal",
+    "pubdate": "2026-07-27-23-13-29 +0000"
+  },
+  {
+    "headline": "After Watching Luxury Cars Drag Race, Trump Blames High Costs on Biden",
+    "link": "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-23-13-13 +0000"
+  },
+  {
+    "headline": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
+    "link": "https://www.bbc.co.uk/news/articles/cy0jknp3e6yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-27-23-11-22 +0000"
+  },
+  {
+    "headline": "Betye Saar, artist who shattered stereotypes of Black women, dies at 99",
+    "link": "https://www.washingtonpost.com/obituaries/2026/07/27/betye-saar-artist-who-shattered-stereotypes-black-women-dies-99/",
+    "source": "wapo",
+    "pubdate": "2026-07-27-23-08-13 +0000"
+  },
+  {
+    "headline": "Oblivious Yellowstone fisherman has close call with behemoth bison before wife comes to the rescue",
+    "link": "https://nypost.com/2026/07/27/us-news/yellowstone-fisherman-has-close-call-with-behemoth-bison-before-wife-comes-to-the-rescue/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-23-06-58 +0000"
+  },
+  {
+    "headline": "Circus performer who was shot in neck is part of act called ‘Duo Darwin’",
+    "link": "https://nypost.com/2026/07/27/us-news/circus-performer-who-was-shot-in-neck-part-of-act-called-duo-darwin/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-23-05-01 +0000"
+  },
+  {
+    "headline": "Number of suspects in fatal Seattle food festival shooting rises to three",
+    "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-27-23-04-41 +0000"
+  },
+  {
+    "headline": "Number of suspects in fatal Seattle food festival shooting rises to three",
+    "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-27-23-04-41 +0000"
+  },
+  {
+    "headline": "Europe WildfiresUpdates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
+    "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
+    "source": "nyt",
+    "pubdate": "2026-07-27-23-02-35 +0000"
+  },
+  {
+    "headline": "Is it time to stop using glue and labels on paper?",
+    "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-27-23-00-06 +0000"
+  },
+  {
+    "headline": "US singer D4vd to go on trial for murder in death of 14-year-old",
+    "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-27-22-58-49 +0000"
+  },
+  {
+    "headline": "US singer D4vd to go on trial for murder in death of 14-year-old",
+    "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-27-22-58-49 +0000"
+  },
+  {
+    "headline": "After Watching Luxury Cars Drag Race, Trump Blames High Costs on Biden",
+    "link": "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-22-57-43 +0000"
+  },
+  {
+    "headline": "Jay Clayton advances toward final confirmation vote to become director of national intelligence",
+    "link": "https://nypost.com/2026/07/27/us-news/jay-clayton-advances-towards-final-confirmation-vote-to-become-director-of-national-intelligence/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-22-55-42 +0000"
+  },
+  {
+    "headline": "Jay Clayton advances toward final confirmation vote to become director of national intelligence",
+    "link": "https://nypost.com/2026/07/27/us-news/jay-clayton-advances-towards-final-confirmation-vote-to-become-director-of-national-intelligence/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-22-55-42 +0000"
+  },
+  {
+    "headline": "Netflix lawsuit details scandalous, alcohol-fueled office culture",
+    "link": "https://nypost.com/2026/07/27/us-news/netflix-lawsuit-details-scandalous-alcohol-fueled-office-culture/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-22-48-47 +0000"
+  },
+  {
+    "headline": "Children’s charity funded by Singham, Soros tied to Popular Front for the Liberation of Palestine: report",
+    "link": "https://nypost.com/2026/07/27/world-news/childrens-charity-funded-by-singham-soros-tied-to-popular-front-for-the-liberation-of-palestine-report/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-22-47-22 +0000"
+  },
+  {
+    "headline": "Small plane makes emergency landing on sand, stunning beachgoers at Huntington State Beach",
+    "link": "https://nypost.com/2026/07/27/us-news/small-plane-makes-emergency-landing-at-huntington-state-beach/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-22-47-04 +0000"
+  },
+  {
+    "headline": "Daredevils arrested after scaling Empire State Building in wild NYC engagement stunt finally get ring back",
+    "link": "https://nypost.com/2026/07/27/us-news/daredevil-darlings-arrested-after-scaling-empire-state-building-in-wild-engagement-stunt-finally-get-ring-back/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-22-44-10 +0000"
+  },
+  {
+    "headline": "Mamdani’s $70M city-run grocery plan could buy more than 1M Costco memberships: critics",
+    "link": "https://nypost.com/2026/07/27/us-news/mamdanis-70m-city-run-grocery-plan-could-buy-more-than-1m-costco-memberships-critics/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-22-43-26 +0000"
+  },
+  {
+    "headline": "15-year-old busted after deadly Seattle Center food festival shooting, second suspect still on the run: mayor",
+    "link": "https://nypost.com/2026/07/27/us-news/15-year-old-arrested-over-deadly-seattle-center-food-festival-shooting-mayor/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-22-42-25 +0000"
+  },
+  {
+    "headline": "India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent",
+    "link": "https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-22-39-49 +0000"
+  },
+  {
+    "headline": "India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent",
+    "link": "https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-22-39-49 +0000"
+  },
+  {
+    "headline": "Mamdani brushes off 9/11 families’ 16K-strong petition to bar him from 25th anniversary ceremonies",
+    "link": "https://nypost.com/2026/07/27/us-news/mamdani-brushes-off-9-11-families-16k-strong-petition-to-bar-him-from-25th-anniversary-ceremonies/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-22-33-04 +0000"
+  },
+  {
+    "headline": "Gut-wrenching video shows Lindsay Clancy on family vacation days before she killed 3 kids — as she faces ex-husband on witness stand",
+    "link": "https://nypost.com/2026/07/27/us-news/lindsay-clancy-seen-on-family-vacation-days-before-she-killed-3-kids-video/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-22-30-37 +0000"
+  },
+  {
+    "headline": "St. Paul Academy leader resigns amid controversies",
+    "link": "https://www.startribune.com/st-paul-academy-leader-resigns-amid-controversies/601872623",
+    "source": "startribune",
+    "pubdate": "2026-07-27-22-29-32 +0000"
+  },
+  {
+    "headline": "Smokers hoarding as global luxury cigar market hit hard by Cuban crisis: ‘Very little inventory’",
+    "link": "https://nypost.com/2026/07/27/business/smokers-hoarding-cuban-cigars-very-little-inventory/",
+    "source": "nypost",
+    "pubdate": "2026-07-27-22-28-50 +0000"
+  },
+  {
+    "headline": "New technical education routes to be offered at 14 in England",
+    "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-27-22-25-31 +0000"
+  },
+  {
+    "headline": "New technical education routes to be offered at 14 in England",
+    "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-27-22-25-31 +0000"
+  },
+  {
+    "headline": "Union Pacific, Norfolk Southern File Supplemental Information to STB on Merger",
+    "link": "https://www.wsj.com/business/logistics/union-pacific-norfolk-southern-file-supplemental-information-to-stb-on-merger-f3b5af7a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-27-22-20-00 +0000"
+  },
+  {
+    "headline": "Trump Asks Supreme Court to Allow Order Restricting Mail Voting",
+    "link": "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-22-17-17 +0000"
+  },
+  {
+    "headline": "Trump Asks Supreme Court to Allow Order Restricting Mail Voting",
+    "link": "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html",
+    "source": "nyt",
+    "pubdate": "2026-07-27-22-17-17 +0000"
+  },
+  {
     "headline": "Driver pulls most audacious act imaginable halfway through 130-mph police chase in California",
     "link": "https://nypost.com/2026/07/27/us-news/driver-pulls-most-audacious-act-imaginable-halfway-through-130-mph-police-chase-in-california/",
     "source": "nypost",
@@ -24,12 +216,6 @@
     "pubdate": "2026-07-27-22-11-35 +0000"
   },
   {
-    "headline": "Wildfires Live Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
-    "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
-    "source": "nyt",
-    "pubdate": "2026-07-27-22-10-17 +0000"
-  },
-  {
     "headline": "Trial of Lindsay Clancy, Accused of Murdering Her Children, Begins With Ex-Husband’s Testimony",
     "link": "https://www.nytimes.com/2026/07/27/us/lindsay-clancy-husband-testimony.html",
     "source": "nyt",
@@ -42,16 +228,10 @@
     "pubdate": "2026-07-27-22-08-34 +0000"
   },
   {
-    "headline": "Number of suspects in fatal Seattle food festival shooting rises to three",
-    "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+    "headline": "A Japanese town wrestles with identity after protests over its first mosque",
+    "link": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-07-27-22-08-01 +0000"
-  },
-  {
-    "headline": "Number of suspects in fatal Seattle food festival shooting rises to three",
-    "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-22-08-01 +0000"
+    "pubdate": "2026-07-27-22-08-21 +0000"
   },
   {
     "headline": "Police vetted dubious allegation only after Buttigieg was separated from children",
@@ -96,7 +276,7 @@
     "pubdate": "2026-07-27-21-54-00 +0000"
   },
   {
-    "headline": "Connecticut and 20th is now ‘Art Agnos Way.’ From this perch, our former mayor oversees a changing city.",
+    "headline": "Connecticut and 20th becomes ‘Art Agnos Way’ in emotional ceremony",
     "link": "https://missionlocal.org/2026/07/art-agnos-way/",
     "source": "missionlocal",
     "pubdate": "2026-07-27-21-53-10 +0000"
@@ -112,18 +292,6 @@
     "link": "https://nypost.com/2026/07/27/real-estate/a-list-new-yorkers-named-on-mamdanis-potential-pied-a-terre-tax-list-include-supporters-like-cynthia-nixon-anna-wintour/",
     "source": "nypost",
     "pubdate": "2026-07-27-21-52-11 +0000"
-  },
-  {
-    "headline": "Trump Asks Supreme Court to Allow Order Restricting Mail Voting",
-    "link": "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html",
-    "source": "nyt",
-    "pubdate": "2026-07-27-21-50-54 +0000"
-  },
-  {
-    "headline": "Trump Asks Supreme Court to Allow Order Restricting Mail Voting",
-    "link": "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html",
-    "source": "nyt",
-    "pubdate": "2026-07-27-21-50-54 +0000"
   },
   {
     "headline": "Nvidia in talks to back $500B OpenAI data center — days after CEO Jensen Huang voiced support for controversial open-source AI used by China",
@@ -186,18 +354,6 @@
     "pubdate": "2026-07-27-21-39-03 +0000"
   },
   {
-    "headline": "US singer D4vd to go on trial for murder in death of teen",
-    "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-21-37-59 +0000"
-  },
-  {
-    "headline": "US singer D4vd to go on trial for murder in death of teen",
-    "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-21-37-59 +0000"
-  },
-  {
     "headline": "Minnesota law banning prediction market wagers put on hold",
     "link": "https://www.startribune.com/prediction-markets-minnesota-law-ban-kalshi-polymarket-lawsuit-cftc/601872628",
     "source": "startribune",
@@ -226,12 +382,6 @@
     "link": "https://www.wsj.com/opinion/sunday-shopping-that-thing-you-dont-99033fb7",
     "source": "wsj",
     "pubdate": "2026-07-27-21-27-00 +0000"
-  },
-  {
-    "headline": "St. Paul Academy leader resigns amid controversies",
-    "link": "https://www.startribune.com/st-paul-academy-leader-resigns-amid-controversies/601872623",
-    "source": "startribune",
-    "pubdate": "2026-07-27-21-24-40 +0000"
   },
   {
     "headline": "NYC Halts Office Conversion Amid Structural Concerns",
@@ -402,12 +552,6 @@
     "pubdate": "2026-07-27-21-01-44 +0000"
   },
   {
-    "headline": "Bryan Kohberger claims ‘new discovery’ means he should be allowed to reverse guilty plea: docs",
-    "link": "https://nypost.com/2026/07/27/us-news/bryan-kohberger-claims-new-discovery-means-he-should-be-allowed-to-reverse-guilty-plea-docs/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-21-00-39 +0000"
-  },
-  {
     "headline": "Energy & Utilities Roundup: Market Talk",
     "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-126cbdcf?mod=rss_markets_main",
     "source": "wsj",
@@ -462,24 +606,6 @@
     "pubdate": "2026-07-27-20-52-00 +0000"
   },
   {
-    "headline": "Andrew Tate’s lawyer reveals how ‘manosphere’ influencer is still posting on social media while jailed on sex crime charges",
-    "link": "https://nypost.com/2026/07/27/us-news/andrew-tates-lawyer-reveals-how-hes-posting-on-social-media-while-jailed-on-sex-crime-charges/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-20-50-05 +0000"
-  },
-  {
-    "headline": "Boy, 1, bitten by grandmother’s boyfriend inside NYC apartment: cops, sources",
-    "link": "https://nypost.com/2026/07/27/us-news/boy-1-bitten-by-grandmothers-boyfriend-inside-nyc-apartment-cops-sources/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-20-45-22 +0000"
-  },
-  {
-    "headline": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
-    "link": "https://www.bbc.co.uk/news/articles/cy0jknp3e6yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-20-42-50 +0000"
-  },
-  {
     "headline": "Cracker Barrel CEO Stepping Down After Logo Controversy, Activist Pressure",
     "link": "https://www.wsj.com/business/cracker-barrel-ceo-julie-masino-to-step-down-66ef5937?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -490,12 +616,6 @@
     "link": "https://www.wsj.com/business/cracker-barrel-ceo-julie-masino-to-step-down-66ef5937?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-07-27-20-42-00 +0000"
-  },
-  {
-    "headline": "Austin FC in chaos as youth team player-on-player sex attacks scandal erupts",
-    "link": "https://nypost.com/2026/07/27/us-news/austin-fc-in-chaos-as-youth-team-player-on-player-sex-attacks-scandal-erupts/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-20-39-42 +0000"
   },
   {
     "headline": "US mother's mental health spiraled before her children's  murders, ex-husband says",
@@ -520,12 +640,6 @@
     "link": "https://nypost.com/2026/07/27/world-news/netanyahu-to-provide-trump-with-intel-on-irans-pickaxe-mountain-nuclear-facility-source/",
     "source": "nypost",
     "pubdate": "2026-07-27-20-34-28 +0000"
-  },
-  {
-    "headline": "Disgraced California official got secret mega-payout after raunchy text resignation scandal",
-    "link": "https://nypost.com/2026/07/27/us-news/oakland-official-remained-on-payroll-after-resigning-over-raunchy-texts/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-20-33-57 +0000"
   },
   {
     "headline": "Disgraced California official got secret mega-payout after raunchy text resignation scandal",
@@ -576,18 +690,6 @@
     "pubdate": "2026-07-27-20-27-00 +0000"
   },
   {
-    "headline": "Two Long Island toddlers killed in tragic backyard pool mishaps days apart: cops",
-    "link": "https://nypost.com/2026/07/27/us-news/two-long-island-toddlers-killed-in-tragic-backyard-pool-mishaps-days-apart-cops/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-20-26-54 +0000"
-  },
-  {
-    "headline": "Melania and Barron Trump targeted by Iran in disturbing video encouraging their assassination",
-    "link": "https://nypost.com/2026/07/27/us-news/melania-and-barron-trump-targeted-by-iran-in-disturbing-video-encouraging-assassinations/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-20-24-11 +0000"
-  },
-  {
     "headline": "Melania and Barron Trump targeted by Iran in disturbing video encouraging their assassination",
     "link": "https://nypost.com/2026/07/27/us-news/melania-and-barron-trump-targeted-by-iran-in-disturbing-video-encouraging-assassinations/",
     "source": "nypost",
@@ -634,12 +736,6 @@
     "link": "https://www.nytimes.com/2026/07/27/us/politics/iran-war-timeline.html",
     "source": "nyt",
     "pubdate": "2026-07-27-20-20-41 +0000"
-  },
-  {
-    "headline": "Accused killer dad made chilling claim about how it ‘would’ve been easier’ to murder daughter Melina Frattolin, 9, overseas",
-    "link": "https://nypost.com/2026/07/27/us-news/accused-killer-dad-lucian-frattolin-made-chilling-claim-about-how-it-wouldve-been-easier-to-murder-daughter-melina-9-overseas-testimony/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-20-20-30 +0000"
   },
   {
     "headline": "Bryan Kohberger, Convicted in Idaho College Killings, Seeks to Take Back Guilty Plea",
@@ -702,6 +798,12 @@
     "pubdate": "2026-07-27-19-54-24 +0000"
   },
   {
+    "headline": "'Do the right thing': Savannah Guthrie makes another plea to mother's kidnappers",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-27-19-54-24 +0000"
+  },
+  {
     "headline": "Wildfire witnesses describe 'wall of flames', fear and stress",
     "link": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -744,13 +846,13 @@
     "pubdate": "2026-07-27-19-43-18 +0000"
   },
   {
-    "headline": "New federal rule sends hundreds of thousands of asylum cases to immigration courts",
+    "headline": "New federal rule sends asylum cases to immigration courts, pushing migrants toward deportation",
     "link": "https://www.latimes.com/politics/story/2026-07-27/new-federal-rule-sends-hundreds-of-thousands-of-asylum-cases-to-immigration-courts",
     "source": "latimes",
     "pubdate": "2026-07-27-19-42-36 +0000"
   },
   {
-    "headline": "New federal rule sends hundreds of thousands of asylum cases to immigration courts",
+    "headline": "New federal rule sends asylum cases to immigration courts, pushing migrants toward deportation",
     "link": "https://www.latimes.com/politics/story/2026-07-27/new-federal-rule-sends-hundreds-of-thousands-of-asylum-cases-to-immigration-courts",
     "source": "latimes",
     "pubdate": "2026-07-27-19-42-36 +0000"
@@ -852,18 +954,6 @@
     "pubdate": "2026-07-27-19-14-23 +0000"
   },
   {
-    "headline": "Anthony Fauci admits in diary to COVID talks with indicted adviser he once disavowed",
-    "link": "https://nypost.com/2026/07/27/us-news/anthony-fauci-admits-in-diary-to-covid-talks-with-indicted-adviser-he-once-disavowed/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-19-14-23 +0000"
-  },
-  {
-    "headline": "Text messages reveal Celeste Rivas threatened to end D4vd’s career before she was murdered",
-    "link": "https://nypost.com/2026/07/27/us-news/celeste-rivas-threatened-to-end-d4vds-career-before-her-murder/",
-    "source": "nypost",
-    "pubdate": "2026-07-27-19-13-51 +0000"
-  },
-  {
     "headline": "Emily Wilson's translation of The Odyssey helped inspire the film. She just panned it in a new review",
     "link": "https://www.cbc.ca/news/entertainment/emily-wilson-the-odyssey-nolan-review-9.7286280?cmp=rss",
     "source": "cbc",
@@ -946,18 +1036,6 @@
     "link": "https://www.washingtonpost.com/nation/2026/07/27/gordie-howe-bridge-between-canada-us-opens-after-trump-tried-block-it/",
     "source": "wapo",
     "pubdate": "2026-07-27-18-43-00 +0000"
-  },
-  {
-    "headline": "India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent",
-    "link": "https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html",
-    "source": "nyt",
-    "pubdate": "2026-07-27-18-40-07 +0000"
-  },
-  {
-    "headline": "India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent",
-    "link": "https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html",
-    "source": "nyt",
-    "pubdate": "2026-07-27-18-40-07 +0000"
   },
   {
     "headline": "Wildfires in France Threaten Plants With Hazardous Material and Advanced Technology",
@@ -1360,12 +1438,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-07-27-15-59-27 +0000"
-  },
-  {
-    "headline": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
-    "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-15-58-27 +0000"
   },
   {
     "headline": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
@@ -2010,12 +2082,6 @@
     "pubdate": "2026-07-27-10-56-36 +0000"
   },
   {
-    "headline": "US deports Kenyan former NFL player Daniel Adongo",
-    "link": "https://www.bbc.co.uk/news/articles/c74gzg27v8no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-10-56-36 +0000"
-  },
-  {
     "headline": "GOP Sen. John Kennedy warns John Thune is ‘being too cautious’ as Trump agenda hangs in the balance",
     "link": "https://nypost.com/2026/07/27/us-news/gop-sen-john-kennedy-warns-john-thune-being-too-cautious-as-trump-agenda-hangs-in-the-balance/",
     "source": "nypost",
@@ -2056,18 +2122,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-07-27-10-19-36 +0000"
-  },
-  {
-    "headline": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
-    "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-10-19-36 +0000"
-  },
-  {
-    "headline": "Argentine leader calls Brazilian president a 'thief' and a 'convict'",
-    "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-10-19-34 +0000"
   },
   {
     "headline": "Argentine leader calls Brazilian president a 'thief' and a 'convict'",
@@ -2130,12 +2184,6 @@
     "pubdate": "2026-07-27-09-59-15 +0000"
   },
   {
-    "headline": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-    "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-09-59-15 +0000"
-  },
-  {
     "headline": "'I can't take it anymore': Residents evacuated from town west of Madrid",
     "link": "https://www.bbc.co.uk/news/videos/c1l1m66qdeyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2182,12 +2230,6 @@
     "link": "https://www.wsj.com/business/retail/shein-posts-loss-as-planned-hong-kong-ipo-approaches-5ffd2006?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-07-27-09-29-00 +0000"
-  },
-  {
-    "headline": "Millions see leaked copy of The Odyssey movie on X",
-    "link": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-09-21-10 +0000"
   },
   {
     "headline": "European Chip Stocks Rise After Pause in Mideast Fighting",
@@ -2310,12 +2352,6 @@
     "pubdate": "2026-07-27-08-03-33 +0000"
   },
   {
-    "headline": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
-    "link": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-07-37-11 +0000"
-  },
-  {
     "headline": "Vodafone Raises Guidance on Safaricom Deal",
     "link": "https://www.wsj.com/business/telecom/vodafone-raises-guidance-on-safaricom-deal-07755e46?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -2332,12 +2368,6 @@
     "link": "https://www.chicagotribune.com/2026/07/27/terry-savage-new-student-loan-rules/",
     "source": "chitri",
     "pubdate": "2026-07-27-06-30-12 +0000"
-  },
-  {
-    "headline": "Australian court upholds racial discrimination ruling against Pauline Hanson",
-    "link": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-06-14-06 +0000"
   },
   {
     "headline": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
@@ -2440,12 +2470,6 @@
     "link": "https://www.cbc.ca/news/world/seattle-space-needle-shooting-9.7285400?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-07-27-02-09-42 +0000"
-  },
-  {
-    "headline": "Shein swings to $99m loss as Trump tariffs hit sales",
-    "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-27-02-08-36 +0000"
   },
   {
     "headline": "Shein swings to $99m loss as Trump tariffs hit sales",
@@ -2628,12 +2652,6 @@
     "pubdate": "2026-07-26-22-08-42 +0000"
   },
   {
-    "headline": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
-    "link": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-26-22-06-46 +0000"
-  },
-  {
     "headline": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
     "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
     "source": "nyt",
@@ -2722,12 +2740,6 @@
     "link": "https://nypost.com/2026/07/26/us-news/mike-waltz-adamant-us-has-munitions-to-take-on-iran/",
     "source": "nypost",
     "pubdate": "2026-07-26-20-43-33 +0000"
-  },
-  {
-    "headline": "GOP chief claims NJ’s 6,600 non-citizens illegally registered to vote are just tip of the iceberg: ‘More to come’",
-    "link": "https://nypost.com/2026/07/26/us-news/njs-6600-non-citizens-illegally-registered-to-vote-are-just-tip-of-iceberg-gop-chief/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-19-42-26 +0000"
   },
   {
     "headline": "Trump Pauses Iran Strikes as Officials Weigh Dwindling Air Defense Stocks",
@@ -3036,12 +3048,6 @@
     "pubdate": "2026-07-26-13-57-39 +0000"
   },
   {
-    "headline": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
-    "link": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
-    "source": "nyt",
-    "pubdate": "2026-07-26-13-57-39 +0000"
-  },
-  {
     "headline": "Sell the Company for $400 Million? He’s Giving It Away Instead.",
     "link": "https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html",
     "source": "nyt",
@@ -3262,12 +3268,6 @@
     "link": "https://www.cbc.ca/news/world/prince-george-birthday-king-charles-andy-burnham-queen-camilla-osteoporosis-9.7282614?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-07-26-08-00-00 +0000"
-  },
-  {
-    "headline": "Brazil’s government denies visas to US officials over upcoming elections",
-    "link": "https://nypost.com/2026/07/26/world-news/brazils-government-denies-visas-to-us-officials-over-upcoming-elections/",
-    "source": "nypost",
-    "pubdate": "2026-07-26-06-43-36 +0000"
   },
   {
     "headline": "Terry Savage: What Trump accounts can do for your kids’ future",
@@ -4530,12 +4530,6 @@
     "pubdate": "2026-07-24-15-56-16 +0000"
   },
   {
-    "headline": "Regional outage on Amazon Web Services disrupts dozens of popular websites, online services",
-    "link": "https://nypost.com/2026/07/24/business/major-outage-on-amazon-web-services-disrupts-access-to-dozens-of-popular-websites-online-services/",
-    "source": "nypost",
-    "pubdate": "2026-07-24-15-55-23 +0000"
-  },
-  {
     "headline": "Chicago mayoral election 2027: Who are the candidates so far?",
     "link": "https://www.chicagotribune.com/2026/07/24/chicago-mayor-race-2027-candidates/",
     "source": "chitri",
@@ -5022,18 +5016,6 @@
     "pubdate": "2026-07-24-10-00-00 +0000"
   },
   {
-    "headline": "He was homeless in L.A. Now, he's accused of hurling racist slurs at a 'Today' host",
-    "link": "https://www.latimes.com/world-nation/story/2026-07-24/he-was-homeless-in-la-now-hes-accused-of-hurling-racist-slurs-at-today-host",
-    "source": "latimes",
-    "pubdate": "2026-07-24-10-00-00 +0000"
-  },
-  {
-    "headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
-    "link": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
-    "source": "latimes",
-    "pubdate": "2026-07-24-10-00-00 +0000"
-  },
-  {
     "headline": "Mayor's press team uses disappearing WhatsApp messages, avoiding scrutiny",
     "link": "https://www.latimes.com/california/story/2026-07-24/mayors-press-team-uses-disappearing-whatsapp-messages-avoiding-scrutiny",
     "source": "latimes",
@@ -5042,6 +5024,18 @@
   {
     "headline": "L.A.'s homeless authority is in a fight for its survival",
     "link": "https://www.latimes.com/california/story/2026-07-24/l-a-s-homeless-authority-is-in-fight-for-its-survival",
+    "source": "latimes",
+    "pubdate": "2026-07-24-10-00-00 +0000"
+  },
+  {
+    "headline": "He was homeless in L.A. Now, he's accused of hurling racist slurs at a 'Today' host",
+    "link": "https://www.latimes.com/world-nation/story/2026-07-24/he-was-homeless-in-la-now-hes-accused-of-hurling-racist-slurs-at-today-host",
+    "source": "latimes",
+    "pubdate": "2026-07-24-10-00-00 +0000"
+  },
+  {
+    "headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
+    "link": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
     "source": "latimes",
     "pubdate": "2026-07-24-10-00-00 +0000"
   },
@@ -5532,12 +5526,6 @@
     "pubdate": "2026-07-23-20-01-57 +0000"
   },
   {
-    "headline": "One of the Busiest Shipping Ports Wants to Go Nuclear",
-    "link": "https://www.wsj.com/business/logistics/one-of-the-busiest-shipping-ports-wants-to-go-nuclear-c03f03d2?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-23-19-44-00 +0000"
-  },
-  {
     "headline": "Burnham says 20% business rates cut for English pubs 'a first step'",
     "link": "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5892,12 +5880,6 @@
     "pubdate": "2026-07-23-13-37-55 +0000"
   },
   {
-    "headline": "Inquiry into Farage poster row at anti-racism show",
-    "link": "https://www.bbc.co.uk/news/articles/c4gjz1jqwpdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-23-13-27-38 +0000"
-  },
-  {
     "headline": "Shapps blocked from standing again for the Conservatives",
     "link": "https://www.bbc.co.uk/news/articles/cwyrjnwe8xlo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -6060,14 +6042,14 @@
     "pubdate": "2026-07-23-10-00-00 +0000"
   },
   {
-    "headline": "In L.A., playing ball in the streets is a crime. A City Council member wants to change that",
-    "link": "https://www.latimes.com/california/story/2026-07-23/playing-ball-in-streets-illegal",
+    "headline": "UC targets high school course requirements amid SAT debate. What aspiring students need to know",
+    "link": "https://www.latimes.com/california/story/2026-07-23/uc-high-school-course-requirements-sat-review",
     "source": "latimes",
     "pubdate": "2026-07-23-10-00-00 +0000"
   },
   {
-    "headline": "UC targets high school course requirements amid SAT debate. What aspiring students need to know",
-    "link": "https://www.latimes.com/california/story/2026-07-23/uc-high-school-course-requirements-sat-review",
+    "headline": "In L.A., playing ball in the streets is a crime. A City Council member wants to change that",
+    "link": "https://www.latimes.com/california/story/2026-07-23/playing-ball-in-streets-illegal",
     "source": "latimes",
     "pubdate": "2026-07-23-10-00-00 +0000"
   },
@@ -7374,12 +7356,6 @@
     "pubdate": "2026-07-21-12-32-00 +0000"
   },
   {
-    "headline": "After tough primary loss, some Silicon Valley donors regroup to back Becerra for governor",
-    "link": "https://missionlocal.org/2026/07/silicon-valley-tech-billionaires-mahan-becerra/",
-    "source": "missionlocal",
-    "pubdate": "2026-07-21-12-00-00 +0000"
-  },
-  {
     "headline": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
     "link": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -7440,8 +7416,8 @@
     "pubdate": "2026-07-21-10-00-00 +0000"
   },
   {
-    "headline": "D4vd murder case: Prosecutors reveal gruesome photos of teen girl's dismembered body",
-    "link": "https://www.latimes.com/california/story/2026-07-21/d4vd-teen-girl-homicide-case-preliminary-hearing-evidence",
+    "headline": "Chabria: Newsom pushes California to crack down on sex trafficking — fast",
+    "link": "https://www.latimes.com/california/story/2026-07-21/newsom-pushes-california-to-crack-down-on-sex-trafficking-fast",
     "source": "latimes",
     "pubdate": "2026-07-21-10-00-00 +0000"
   },
