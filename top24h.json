@@ -1,6 +1,6 @@
 [
   {
-    "score": 171,
+    "score": 170,
     "pubdate": "2026-07-28-09-29-10 +0000",
     "source": "nyt",
     "headline": "Trump Backs New Iran Talks but It’s Unclear What He Hopes to Achieve This Time",
@@ -28,18 +28,11 @@
     "link": "https://nypost.com/2026/07/28/us-news/trump-zelensky-hold-crucial-white-house-meeting-ahead-of-lindsey-graham-funeral/"
   },
   {
-    "score": 68,
+    "score": 67,
     "pubdate": "2026-07-27-21-50-18 +0000",
     "source": "nypost",
     "headline": "Nvidia in talks to back $500B OpenAI data center — days after CEO Jensen Huang voiced support for controversial open-source AI used by China",
     "link": "https://nypost.com/2026/07/27/business/nvidia-in-talks-to-back-500b-openai-data-center/"
-  },
-  {
-    "score": 63,
-    "pubdate": "2026-07-28-15-19-20 +0000",
-    "source": "nyt",
-    "headline": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
-    "link": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html"
   },
   {
     "score": 62,
@@ -49,18 +42,11 @@
     "link": "https://nypost.com/2026/07/28/business/us-lawmakers-seek-security-probe-into-chinese-chipmaker-cxmt-over-blockbuster-487b-ipo/"
   },
   {
-    "score": 58,
-    "pubdate": "2026-07-28-11-18-00 +0000",
-    "source": "wsj",
-    "headline": "Perhaps no one has a tougher job in Washington now than Senate Majority Leader John Thune. Read more in today’s WSJ Politics Newsletter:",
-    "link": "https://www.wsj.com/politics/the-save-america-act-the-filibuster-and-thunes-huge-dilemma-c32dd26e"
-  },
-  {
     "score": 57,
-    "pubdate": "2026-07-28-13-06-23 +0000",
-    "source": "nyt",
-    "headline": "Ukraine’s Strike on an Iranian Ship Could Bring Two Wars Closer",
-    "link": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html"
+    "pubdate": "2026-07-27-19-33-00 +0000",
+    "source": "wsj",
+    "headline": "Record Wildfires Sweep France and Spain as Heat Wave Approaches",
+    "link": "https://www.wsj.com/world/europe/record-wildfires-sweep-france-and-spain-as-heat-wave-approaches-c4ccdb7d"
   },
   {
     "score": 56,
@@ -68,5 +54,19 @@
     "source": "wsj",
     "headline": "GOP Sen. Rand Paul this weekend released writings from Dr. Anthony Fauci’s private journals during the Covid-19 pandemic. Here’s some takeaways.",
     "link": "https://www.wsj.com/politics/policy/key-takeaways-from-anthony-faucis-covid-era-journals-078787d4"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-07-28-11-18-00 +0000",
+    "source": "wsj",
+    "headline": "Perhaps no one has a tougher job in Washington now than Senate Majority Leader John Thune. Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/the-save-america-act-the-filibuster-and-thunes-huge-dilemma-c32dd26e"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-07-28-16-14-02 +0000",
+    "source": "chitri",
+    "headline": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe’s UEFA",
+    "link": "https://www.chicagotribune.com/2026/07/28/fifa-kushner-uefa-opposition/"
   }
 ]
