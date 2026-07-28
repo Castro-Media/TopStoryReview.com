@@ -1,41 +1,41 @@
 [
   {
-    "score": 166,
+    "score": 173,
     "pubdate": "2026-07-28-09-29-10 +0000",
     "source": "nyt",
     "headline": "Trump Backs New Iran Talks but It’s Unclear What He Hopes to Achieve This Time",
     "link": "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html"
   },
   {
-    "score": 95,
-    "pubdate": "2026-07-28-11-58-03 +0000",
-    "source": "nyt",
-    "headline": "France and Spain Race to Tamp Down Wildfires Before Heat Wave Hits",
-    "link": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html"
-  },
-  {
-    "score": 82,
+    "score": 88,
     "pubdate": "2026-07-28-05-45-29 +0000",
     "source": "wsj",
-    "headline": "Stock Market Today: Chip Stocks Under Pressure as AI Worries Push Investors to Other Sectors",
+    "headline": "Stock Market Today: Chip Stocks Slide as AI Worries Push Investors to Other Sectors",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026?mod=rss_markets_main"
   },
   {
-    "score": 80,
+    "score": 76,
     "pubdate": "2026-07-27-23-26-53 +0000",
     "source": "nypost",
     "headline": "Xavier Becerra leads Democrats’ all-out war against California voter ID measure",
     "link": "https://nypost.com/2026/07/27/us-news/xavier-becerra-leads-democrats-war-on-california-voter-id/"
   },
   {
-    "score": 71,
+    "score": 75,
     "pubdate": "2026-07-28-01-29-25 +0000",
     "source": "bbc",
     "headline": "BBC outside court as judge rules singer D4vd will face murder trial",
     "link": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 62,
+    "score": 69,
+    "pubdate": "2026-07-27-19-33-00 +0000",
+    "source": "wsj",
+    "headline": "Record Wildfires Sweep France and Spain as Heat Wave Approaches",
+    "link": "https://www.wsj.com/world/europe/record-wildfires-sweep-france-and-spain-as-heat-wave-approaches-c4ccdb7d"
+  },
+  {
+    "score": 60,
     "pubdate": "2026-07-27-21-50-18 +0000",
     "source": "nypost",
     "headline": "Nvidia in talks to back $500B OpenAI data center — days after CEO Jensen Huang voiced support for controversial open-source AI used by China",
@@ -57,16 +57,16 @@
   },
   {
     "score": 56,
-    "pubdate": "2026-07-28-11-13-32 +0000",
+    "pubdate": "2026-07-28-13-06-23 +0000",
     "source": "nyt",
     "headline": "Ukraine’s Strike on an Iranian Ship Could Bring Two Wars Closer",
     "link": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html"
   },
   {
-    "score": 52,
-    "pubdate": "2026-07-28-01-53-58 +0000",
-    "source": "bbc",
-    "headline": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-    "link": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
+    "score": 55,
+    "pubdate": "2026-07-28-14-10-13 +0000",
+    "source": "nypost",
+    "headline": "US lawmakers seek national security probe of Chinese chip giant CXMT after blockbuster IPO: ‘Ticking time bomb’",
+    "link": "https://nypost.com/2026/07/28/business/us-lawmakers-seek-security-probe-into-chinese-chipmaker-cxmt-over-blockbuster-487b-ipo/"
   }
 ]
