@@ -1,6 +1,6 @@
 [
   {
-    "score": 378,
+    "score": 373,
     "pubdate": "2026-07-28-09-29-10 +0000",
     "source": "nyt",
     "headline": "Trump Backs New Iran Talks but It’s Unclear What He Hopes to Achieve This Time",
@@ -14,25 +14,39 @@
     "link": "https://www.latimes.com/politics/story/2026-07-23/war-escalates-oil-prices-surge-as-iran-backed-houthis-strike-saudi-tankers-in-red-sea"
   },
   {
-    "score": 163,
+    "score": 166,
     "pubdate": "2026-07-24-01-00-00 +0000",
     "source": "wsj",
     "headline": "Inside China’s All-Out Push to Catch Up With American AI Chips",
     "link": "https://www.wsj.com/world/china/china-ai-chips-race-949050d0"
   },
   {
-    "score": 162,
+    "score": 159,
     "pubdate": "2026-07-27-09-00-00 +0000",
     "source": "wsj",
     "headline": "Sen. Darline Graham is getting a crash course in Hill politics. In the span of a week, she was sworn into office, co-sponsored her first piece of legislation and made a massive political decision.",
     "link": "https://www.wsj.com/politics/elections/darline-graham-lindsey-senate-seat-1eafe779"
   },
   {
-    "score": 125,
+    "score": 129,
     "pubdate": "2026-07-24-21-47-00 +0000",
     "source": "wsj",
     "headline": "Paramount pauses its Warner Bros. deal, warplanes from Bahrain and Kuwait struck Iran, and a massive family’s equally large rustic lodge is for sale. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/paramount-puts-warner-bros-deal-on-pause-1bc2d57f"
+  },
+  {
+    "score": 128,
+    "pubdate": "2026-07-28-20-23-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump, Vice President JD Vance and world leaders honor Lindsey Graham at his Washington funeral, highlighting his Senate legacy and foreign-policy influence",
+    "link": "https://www.wsj.com/politics/policy/president-trump-to-lead-tributes-to-lindsey-graham-at-washington-funeral-92debe40"
+  },
+  {
+    "score": 125,
+    "pubdate": "2026-07-28-20-21-15 +0000",
+    "source": "nypost",
+    "headline": "California couple flee monster wildfire in France — a year after home was destroyed by Eaton Fire",
+    "link": "https://nypost.com/2026/07/28/us-news/eaton-fire-survivors-forced-to-flee-again-as-france-fire-spreads/"
   },
   {
     "score": 119,
@@ -42,31 +56,17 @@
     "link": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 110,
-    "pubdate": "2026-07-24-15-39-28 +0000",
-    "source": "chitri",
-    "headline": "President Trump addresses journalists at rescheduled White House correspondents’ dinner following shooting: ‘The show must go on’",
-    "link": "https://www.chicagotribune.com/2026/07/24/white-house-correspondents-dinner-redux/"
+    "score": 97,
+    "pubdate": "2026-07-27-05-00-13 +0000",
+    "source": "bbc",
+    "headline": "Laura Kuenssberg: Our exclusive behind-the-scenes access at No 10 as Andy Burnham became PM",
+    "link": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 109,
-    "pubdate": "2026-07-27-14-17-13 +0000",
-    "source": "cbc",
-    "headline": "Huge fires in France and Spain force evacuation of 330,000 as another heat wave looms",
-    "link": "https://www.cbc.ca/news/world/france-spain-wildfire-evacuations-9.7285653?cmp=rss"
-  },
-  {
-    "score": 107,
-    "pubdate": "2026-07-23-03-13-44 +0000",
-    "source": "latimes",
-    "headline": "California is letting more drivers add their license and ID card to their phones. Here's how",
-    "link": "https://www.latimes.com/california/story/2026-07-22/more-californians-can-add-drivers-license-to-their-phones-heres-how"
-  },
-  {
-    "score": 104,
-    "pubdate": "2026-07-28-16-14-02 +0000",
-    "source": "chitri",
-    "headline": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe’s UEFA",
-    "link": "https://www.chicagotribune.com/2026/07/28/fifa-kushner-uefa-opposition/"
+    "score": 93,
+    "pubdate": "2026-07-28-19-42-57 +0000",
+    "source": "nypost",
+    "headline": "Steel company CEO, 59, dies ‘suddenly’ just weeks after taking over $8.4 million top job",
+    "link": "https://nypost.com/2026/07/28/business/steel-company-ceo-59-dies-suddenly-just-weeks-after-taking-over-top-job/"
   }
 ]
