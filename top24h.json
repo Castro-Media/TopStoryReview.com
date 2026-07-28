@@ -1,24 +1,24 @@
 [
   {
-    "score": 140,
+    "score": 156,
     "pubdate": "2026-07-27-21-10-56 +0000",
     "source": "bbc",
     "headline": "Trump says Iran war talks taking place during lull in strikes",
     "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 133,
-    "pubdate": "2026-07-28-04-15-00 +0000",
+    "score": 103,
+    "pubdate": "2026-07-27-13-22-42 +0000",
     "source": "nyt",
-    "headline": "Europe Wildfires Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
-    "link": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions"
+    "headline": "New Heat Wave Could Intensify Wildfires in France and Spain",
+    "link": "https://www.nytimes.com/2026/07/27/world/europe/heat-wave-forecast-france-spain-wildfires.html"
   },
   {
-    "score": 63,
-    "pubdate": "2026-07-27-16-23-15 +0000",
-    "source": "nypost",
-    "headline": "Dr. Anthony Fauci ruled out Wuhan market origin for COVID-19 in private diary entries",
-    "link": "https://nypost.com/2026/07/27/us-news/dr-anthony-fauci-ruled-out-wuhan-market-origin-for-covid-19-in-private-diary-entries/"
+    "score": 67,
+    "pubdate": "2026-07-28-01-29-25 +0000",
+    "source": "bbc",
+    "headline": "BBC outside court as judge rules singer D4vd will face murder trial",
+    "link": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 63,
@@ -28,7 +28,14 @@
     "link": "https://nypost.com/2026/07/27/business/nvidia-in-talks-to-back-500b-openai-data-center/"
   },
   {
-    "score": 60,
+    "score": 62,
+    "pubdate": "2026-07-27-16-23-15 +0000",
+    "source": "nypost",
+    "headline": "Dr. Anthony Fauci ruled out Wuhan market origin for COVID-19 in private diary entries",
+    "link": "https://nypost.com/2026/07/27/us-news/dr-anthony-fauci-ruled-out-wuhan-market-origin-for-covid-19-in-private-diary-entries/"
+  },
+  {
+    "score": 62,
     "pubdate": "2026-07-27-09-00-00 +0000",
     "source": "wsj",
     "headline": "Sen. Darline Graham is getting a crash course in Hill politics. In the span of a week, she was sworn into office, co-sponsored her first piece of legislation and made a massive political decision.",
@@ -42,31 +49,24 @@
     "link": "https://nypost.com/2026/07/27/us-news/democratic-senate-hopeful-abdul-el-sayed-defends-calling-john-fetterman-an-ogre/"
   },
   {
-    "score": 54,
+    "score": 57,
     "pubdate": "2026-07-27-10-27-57 +0000",
     "source": "nypost",
     "headline": "Iran ramps up threats on Ukraine over Caspian Sea attack: ‘The list of defeated forces is getting longer’",
     "link": "https://nypost.com/2026/07/27/world-news/iran-ramps-up-threats-on-ukraine-over-caspian-sea-attack-the-list-of-defeated-forces-is-getting-longer/"
   },
   {
-    "score": 53,
+    "score": 52,
     "pubdate": "2026-07-28-00-33-48 +0000",
     "source": "nypost",
     "headline": "Confused Biden admitted he discovered classified materials ‘downstairs’ in bumbling chat with ghostwriter: ‘So many pauses and ums’",
     "link": "https://nypost.com/2026/07/27/us-news/biden-references-classified-material-that-he-found-downstairs-in-newly-released-audio-tapes-with-ghostwriter/"
   },
   {
-    "score": 50,
-    "pubdate": "2026-07-28-01-39-50 +0000",
-    "source": "bbc",
-    "headline": "US singer D4vd to go on trial for murder in death of 14-year-old",
-    "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-07-28-01-32-41 +0000",
-    "source": "nyt",
-    "headline": "Seattle Police Search for 3rd Shooter in Deadly Food Festival Shooting",
-    "link": "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
+    "score": 47,
+    "pubdate": "2026-07-27-19-21-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Futures Slide as U.S. Puts Off Planned Attacks",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-easing-supply-disruption-concerns-b794368e?mod=rss_markets_main"
   }
 ]
