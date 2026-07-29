@@ -1,52 +1,10 @@
 [
   {
-    "score": 34,
-    "pubdate": "2026-07-29-10-10-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Surges as Fresh Middle East Strikes Threaten Fragile Diplomacy",
-    "link": "https://www.wsj.com/economy/oil-surges-as-fresh-middle-east-strikes-threaten-fragile-diplomacy-7fd2d4e8"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-07-29-10-17-27 +0000",
-    "source": "nyt",
-    "headline": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
-    "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-07-29-10-00-00 +0000",
-    "source": "nypost",
-    "headline": "MAHA influencer Alex Clark tells Pod Force One she’s received death threats for ‘talking about eating real food’: ‘It’s a really scary time’",
-    "link": "https://nypost.com/2026/07/29/us-news/maha-influencer-alex-clark-tells-pod-force-one-shes-received-death-threats-for-talking-about-eating-real-food/"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-07-29-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "California hopes to lure a new generation to electric cars, with help from rebates, high gas prices",
-    "link": "https://www.latimes.com/california/story/2026-07-29/california-instant-rebates-new-used-electric-cars"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-07-29-10-09-00 +0000",
-    "source": "wsj",
-    "headline": "Glencore’s Traders Gain as Iran Conflict Upends Commodities Markets",
-    "link": "https://www.wsj.com/business/earnings/glencores-traders-to-report-bumper-first-half-7f4461bf?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-07-29-10-08-29 +0000",
-    "source": "nyt",
-    "headline": "South Korea’s Memory Chip Giant Defies A.I. Market Jitters",
-    "link": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html"
-  },
-  {
     "score": 16,
-    "pubdate": "2026-07-29-10-37-05 +0000",
+    "pubdate": "2026-07-29-10-41-02 +0000",
     "source": "nyt",
-    "headline": "Wildfires Slow in France and Spain, but Worse May Be Ahead",
-    "link": "https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html"
+    "headline": "Global Oil Prices Jump as Attacks Resume in the Middle East",
+    "link": "https://www.nytimes.com/2026/07/29/business/oil-prices-iran-war-us-attacks.html"
   },
   {
     "score": 14,
@@ -56,17 +14,45 @@
     "link": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html"
   },
   {
-    "score": 14,
-    "pubdate": "2026-07-29-10-33-42 +0000",
-    "source": "nypost",
-    "headline": "eBay agreed to pay nearly $50M to couple who were sent cockroaches, bloody pig mask from ex-employees",
-    "link": "https://nypost.com/2026/07/29/business/ebay-agreed-to-pay-nearly-50-million-to-couple-sent-cockroaches-bloody-pig-mask/"
+    "score": 13,
+    "pubdate": "2026-07-29-10-42-17 +0000",
+    "source": "bbc",
+    "headline": "Devastating European wildfires in maps - and how they're being tackled",
+    "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 14,
-    "pubdate": "2026-07-29-09-49-00 +0000",
-    "source": "wsj",
-    "headline": "Democratic Socialists’ Rise Rattles Mainstream Democrats",
-    "link": "https://www.wsj.com/world/democratic-socialists-rise-rattles-mainstream-democrats-e7ed7ee1"
+    "score": 9,
+    "pubdate": "2026-07-29-10-41-04 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: U.S. and Saudi Airstrikes Drag More Countries Into Fighting",
+    "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-07-29-10-46-16 +0000",
+    "source": "nyt",
+    "headline": "A Movie Night in Cuba’s Blackout",
+    "link": "https://www.nytimes.com/video/world/americas/100000011017841/a-movie-night-in-cubas-blackout.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-29-10-42-17 +0000",
+    "source": "bbc",
+    "headline": "European wildfires in maps - and how they're being tackled",
+    "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-29-10-41-02 +0000",
+    "source": "nyt",
+    "headline": "Global Oil Prices Jump as Attacks Resume in the Middle East",
+    "link": "https://www.nytimes.com/2026/07/29/business/oil-prices-iran-war-us-attacks.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-29-10-37-47 +0000",
+    "source": "nyt",
+    "headline": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
+    "link": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html"
   }
 ]
