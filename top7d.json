@@ -1,13 +1,13 @@
 [
   {
-    "score": 347,
+    "score": 361,
     "pubdate": "2026-07-24-21-26-23 +0000",
     "source": "nyt",
     "headline": "Trump’s Threatened New Front in Iran War Could Strain U.S. Forces",
     "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-new-front-iran-war.html"
   },
   {
-    "score": 159,
+    "score": 162,
     "pubdate": "2026-07-28-21-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump, Vice President JD Vance and world leaders honor Lindsey Graham at his Washington funeral, highlighting his Senate legacy and foreign-policy influence",
@@ -21,14 +21,21 @@
     "link": "https://www.wsj.com/world/china/china-ai-chips-race-949050d0"
   },
   {
-    "score": 143,
+    "score": 147,
     "pubdate": "2026-07-29-11-06-00 +0000",
     "source": "wsj",
     "headline": "New York City Mayor Zohran Mamdani, not even eight months into his job, is full-throttling his Democratic Socialist agenda at a time when democratic socialism is on the march. Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/mamdani-digs-back-in-after-new-yorks-summer-of-fun-691484d0"
   },
   {
-    "score": 138,
+    "score": 135,
+    "pubdate": "2026-07-29-20-57-00 +0000",
+    "source": "wsj",
+    "headline": "The Fed held interest rates steady on a 9-3 vote. Three voters wanted a rate increase, underscoring the pressure to act against inflation",
+    "link": "https://www.wsj.com/economy/central-banking/fed-holds-rates-steady-but-three-officials-voted-for-increase-3a6903e0"
+  },
+  {
+    "score": 131,
     "pubdate": "2026-07-23-21-41-33 +0000",
     "source": "latimes",
     "headline": "War escalates, oil prices surge as Iran-backed Houthis strike Saudi tankers in Red Sea",
@@ -36,37 +43,30 @@
   },
   {
     "score": 124,
-    "pubdate": "2026-07-29-18-43-17 +0000",
-    "source": "latimes",
-    "headline": "California teen lifeguard's viral rescue captures nationwide awe. He was just doing 'his duty'",
-    "link": "https://www.latimes.com/california/story/2026-07-29/california-teen-lifeguard-rescue-captures-awe"
-  },
-  {
-    "score": 121,
-    "pubdate": "2026-07-28-18-08-00 +0000",
+    "pubdate": "2026-07-27-09-00-00 +0000",
     "source": "wsj",
-    "headline": "GOP Sen. Rand Paul this weekend released writings from Dr. Anthony Fauci’s private journals during the Covid-19 pandemic. Here’s some takeaways.",
-    "link": "https://www.wsj.com/politics/policy/key-takeaways-from-anthony-faucis-covid-era-journals-078787d4"
+    "headline": "Sen. Darline Graham is getting a crash course in Hill politics. In the span of a week, she was sworn into office, co-sponsored her first piece of legislation and made a massive political decision.",
+    "link": "https://www.wsj.com/politics/elections/darline-graham-lindsey-senate-seat-1eafe779"
   },
   {
-    "score": 109,
-    "pubdate": "2026-07-29-20-08-00 +0000",
+    "score": 114,
+    "pubdate": "2026-07-29-22-02-00 +0000",
     "source": "wsj",
-    "headline": "The Fed held interest rates steady on a 9-3 vote. Three voters wanted a rate increase, underscoring the pressure to act against inflation",
-    "link": "https://www.wsj.com/economy/central-banking/fed-holds-rates-steady-but-three-officials-voted-for-increase-3a6903e0"
+    "headline": "The Pentagon bumped up its long-term Patriot missile order to nearly $59 billion, the latest sign of the U.S. military’s demand for a defensive weapon used heavily during the Iran war",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01"
   },
   {
-    "score": 103,
-    "pubdate": "2026-07-29-16-49-41 +0000",
-    "source": "bbc",
-    "headline": "France fire crews battle heat as locals tell BBC of fight to save homes",
-    "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss"
+    "score": 110,
+    "pubdate": "2026-07-29-14-58-04 +0000",
+    "source": "nypost",
+    "headline": "GOP Sen. Bernie Moreno goes off on Fauci: ‘Who the f–k do you think you were?’",
+    "link": "https://nypost.com/2026/07/29/us-news/bernie-moreno-goes-off-on-fauci-during-senate-covid-hearing/"
   },
   {
-    "score": 103,
-    "pubdate": "2026-07-27-05-00-13 +0000",
-    "source": "bbc",
-    "headline": "Laura Kuenssberg: Our exclusive behind-the-scenes access at No 10 as Andy Burnham became PM",
-    "link": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&at_campaign=rss"
+    "score": 106,
+    "pubdate": "2026-07-29-00-36-00 +0000",
+    "source": "wsj",
+    "headline": "With the Iran war continuing, Israeli Prime Minister Benjamin Netanyahu arrived in Washington this week with less clout at the White House than he had on past visits",
+    "link": "https://www.wsj.com/world/middle-east/netanyahu-finds-diminished-welcome-from-trump-as-iran-war-drags-on-8144d154"
   }
 ]
