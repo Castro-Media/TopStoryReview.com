@@ -1,58 +1,72 @@
 [
   {
-    "score": 16,
-    "pubdate": "2026-07-29-10-41-02 +0000",
-    "source": "nyt",
-    "headline": "Global Oil Prices Jump as Attacks Resume in the Middle East",
-    "link": "https://www.nytimes.com/2026/07/29/business/oil-prices-iran-war-us-attacks.html"
+    "score": 29,
+    "pubdate": "2026-07-29-12-00-00 +0000",
+    "source": "wsj",
+    "headline": "Less than three months ago, John Cornyn was championing a bill to rename a highway after President Trump. Now, the senior GOP senator from Texas is threatening to block Trump’s nominees.",
+    "link": "https://www.wsj.com/politics/policy/yolo-republican-senator-plays-hardball-with-trump-88331501"
   },
   {
-    "score": 14,
-    "pubdate": "2026-07-29-10-37-47 +0000",
+    "score": 28,
+    "pubdate": "2026-07-29-12-20-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Surges as Fresh Middle East Strikes Threaten Fragile Diplomacy",
+    "link": "https://www.wsj.com/economy/oil-surges-as-fresh-middle-east-strikes-threaten-fragile-diplomacy-7fd2d4e8"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-07-29-12-01-00 +0000",
+    "source": "wsj",
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-dd9a2385?mod=rss_markets_main"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-07-29-12-17-42 +0000",
+    "source": "bbc",
+    "headline": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+    "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-07-29-11-47-05 +0000",
+    "source": "bbc",
+    "headline": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+    "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-29-12-29-07 +0000",
+    "source": "bbc",
+    "headline": "Thousands in Spain return home but new heatwave raises wildfire fears",
+    "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-29-11-58-32 +0000",
     "source": "nyt",
-    "headline": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-    "link": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html"
+    "headline": "BTS Won’t Enter Music From Comeback Album for Grammy Awards",
+    "link": "https://www.nytimes.com/2026/07/29/world/asia/bts-grammys-arirang-boycott-asian-category.html"
   },
   {
     "score": 13,
-    "pubdate": "2026-07-29-10-42-17 +0000",
+    "pubdate": "2026-07-29-12-10-40 +0000",
+    "source": "bbc",
+    "headline": "Ghana hit by nationwide blackout as power plants fail",
+    "link": "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-07-29-11-53-40 +0000",
     "source": "bbc",
     "headline": "Devastating European wildfires in maps - and how they're being tackled",
     "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 9,
-    "pubdate": "2026-07-29-10-41-04 +0000",
-    "source": "nyt",
-    "headline": "Iran War Live Updates: U.S. and Saudi Airstrikes Drag More Countries Into Fighting",
-    "link": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-07-29-10-46-16 +0000",
-    "source": "nyt",
-    "headline": "A Movie Night in Cuba’s Blackout",
-    "link": "https://www.nytimes.com/video/world/americas/100000011017841/a-movie-night-in-cubas-blackout.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-07-29-10-42-17 +0000",
-    "source": "bbc",
-    "headline": "European wildfires in maps - and how they're being tackled",
-    "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-07-29-10-41-02 +0000",
-    "source": "nyt",
-    "headline": "Global Oil Prices Jump as Attacks Resume in the Middle East",
-    "link": "https://www.nytimes.com/2026/07/29/business/oil-prices-iran-war-us-attacks.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-07-29-10-37-47 +0000",
-    "source": "nyt",
-    "headline": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-    "link": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html"
+    "score": 11,
+    "pubdate": "2026-07-29-12-14-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Treasury Yields Edge Higher on Rising Oil, Dollar Eases Ahead of Fed",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-edge-higher-amid-mixed-signals-dbce05cd?mod=rss_markets_main"
   }
 ]
