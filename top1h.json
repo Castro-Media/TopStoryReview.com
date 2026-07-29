@@ -1,30 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-07-29-20-15-00 +0000",
+    "score": 35,
+    "pubdate": "2026-07-29-22-02-00 +0000",
     "source": "wsj",
-    "headline": "Opinion | Burnham Can’t Bet on a Trump Bullying Boost",
-    "link": "https://www.wsj.com/opinion/burnham-cant-bet-on-a-trump-bullying-boost-68bf4fcc"
+    "headline": "The Pentagon bumped up its long-term Patriot missile order to nearly $59 billion, the latest sign of the U.S. military’s demand for a defensive weapon used heavily during the Iran war",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01"
   },
   {
-    "score": 9,
-    "pubdate": "2026-07-29-20-14-00 +0000",
+    "score": 28,
+    "pubdate": "2026-07-29-21-39-00 +0000",
     "source": "wsj",
-    "headline": "Meta Hits Record Sales, but Stock Slides on AI Costs",
-    "link": "https://www.wsj.com/tech/ai/meta-q2-earnings-report-2026-stock-9808dd3c?mod=pls_whats_news_us_business_f"
+    "headline": "New Jersey Doesn’t Have to Give Trump Administration Its Voter Rolls, Judge Rules",
+    "link": "https://www.wsj.com/us-news/law/new-jersey-doesnt-have-to-give-trump-administration-its-voter-rolls-judge-rules-fd59d2f1"
   },
   {
-    "score": 5,
-    "pubdate": "2026-07-29-20-14-00 +0000",
+    "score": 28,
+    "pubdate": "2026-07-29-21-18-00 +0000",
     "source": "wsj",
-    "headline": "Opinion | A Big Win for AI: It Isn’t Replacing Your Coworkers",
-    "link": "https://www.wsj.com/opinion/a-big-win-for-ai-it-isnt-replacing-your-coworkers-c5d23e29?mod=pls_whats_news_us_business_f"
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-185ea947?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 0,
-    "pubdate": "2026-07-29-20-15-00 +0000",
+    "score": 25,
+    "pubdate": "2026-07-29-21-36-06 +0000",
+    "source": "bbc",
+    "headline": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+    "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-07-29-21-45-25 +0000",
+    "source": "bbc",
+    "headline": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+    "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-07-29-21-33-46 +0000",
+    "source": "nyt",
+    "headline": "Government Borrowing Cost Hits Two-Decade High After Fed Rate Decision",
+    "link": "https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-07-29-21-47-21 +0000",
+    "source": "bbc",
+    "headline": "Meta shares fall as frustration grows over AI spending plans",
+    "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-29-21-17-28 +0000",
+    "source": "latimes",
+    "headline": "Waymo's noisy Santa Monica charging stations ordered to close overnight — for now",
+    "link": "https://www.latimes.com/california/story/2026-07-29/waymo-santa-monica-charging-stations-ordered-closed-overnight-for-now"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-07-29-22-05-04 +0000",
+    "source": "nypost",
+    "headline": "Hims & Hers sent users’ health data to social media giants despite promising privacy, bombshell FTC lawsuit claims",
+    "link": "https://nypost.com/2026/07/29/business/hims-hers-sent-users-health-data-to-social-media-giants-despite-promising-privacy-ftc-lawsuit/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-07-29-21-54-00 +0000",
     "source": "wsj",
-    "headline": "Opinion | Burnham Can’t Bet on a Trump Bullying Boost",
-    "link": "https://www.wsj.com/opinion/burnham-cant-bet-on-a-trump-bullying-boost-68bf4fcc"
+    "headline": "Microsoft Profits Jump 31% as Azure Cloud Sales Surpass $100 Billion",
+    "link": "https://www.wsj.com/articles/microsoft-earnings-q4-fy26-msft-stock-dfd3843e?mod=pls_whats_news_us_business_f"
   }
 ]
