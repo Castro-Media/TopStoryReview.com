@@ -1,16 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-07-30-10-34-24 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Wobble as Middle East Veers Toward Wider Conflict",
-    "link": "https://www.nytimes.com/2026/07/30/business/oil-stocks-iran-war.html"
+    "score": 27,
+    "pubdate": "2026-07-30-11-47-55 +0000",
+    "source": "bbc",
+    "headline": "Interest rates held as Bank of England says inflation set to rise",
+    "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 8,
-    "pubdate": "2026-07-30-10-34-07 +0000",
+    "score": 22,
+    "pubdate": "2026-07-30-12-13-25 +0000",
+    "source": "nyt",
+    "headline": "How Climate Change and Tariffs Help China Raise More Cattle",
+    "link": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-07-30-11-48-50 +0000",
     "source": "bbc",
-    "headline": "Nicaraguan leader proposes extending presidential term by another year",
-    "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss"
+    "headline": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-07-30-12-18-45 +0000",
+    "source": "bbc",
+    "headline": "Virtual interviews don't show bosses your personality, says Burnham",
+    "link": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-30-11-57-56 +0000",
+    "source": "nyt",
+    "headline": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-30-12-00-00 +0000",
+    "source": "wsj",
+    "headline": "Reformation Just Went Public. Here Are Four Secrets to Its Success.",
+    "link": "https://www.wsj.com/business/retail/reformation-just-went-public-here-are-four-secrets-to-its-success-b04fb348?mod=rss_markets_main"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-30-11-45-49 +0000",
+    "source": "nyt",
+    "headline": "U.S. Aircraft Carrier Makes a Rare Port Call in Vietnam",
+    "link": "https://www.nytimes.com/2026/07/30/world/asia/vietnam-aircraft-carrier.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-07-30-11-54-00 +0000",
+    "source": "wsj",
+    "headline": "Yum Brands Profit More Than Doubles Amid Cyclosporiasis Outbreak Linked to Taco Bell",
+    "link": "https://www.wsj.com/business/earnings/yum-brands-profit-more-than-doubles-amid-cyclosporiasis-outbreak-linked-to-taco-bell-fae6b73f?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-07-30-11-51-00 +0000",
+    "source": "wsj",
+    "headline": "Intercontinental Exchange to Buy MarketAxess in $6 Billion Deal",
+    "link": "https://www.wsj.com/finance/investing/intercontinental-exchange-to-buy-marketaxess-in-6-billion-deal-f5ff553a?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-07-30-12-15-18 +0000",
+    "source": "nyt",
+    "headline": "Warsh’s Performance Falls Flat With Markets as Fed Holds Rates Steady",
+    "link": "https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html"
   }
 ]
