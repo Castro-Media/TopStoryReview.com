@@ -1,66 +1,59 @@
 [
   {
-    "score": 334,
+    "score": 341,
     "pubdate": "2026-07-24-21-26-23 +0000",
     "source": "nyt",
     "headline": "Trump’s Threatened New Front in Iran War Could Strain U.S. Forces",
     "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-new-front-iran-war.html"
   },
   {
-    "score": 150,
+    "score": 157,
     "pubdate": "2026-07-28-21-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump, Vice President JD Vance and world leaders honor Lindsey Graham at his Washington funeral, highlighting his Senate legacy and foreign-policy influence",
     "link": "https://www.wsj.com/politics/policy/president-trump-to-lead-tributes-to-lindsey-graham-at-washington-funeral-92debe40"
   },
   {
-    "score": 144,
-    "pubdate": "2026-07-29-20-57-00 +0000",
-    "source": "wsj",
-    "headline": "The Fed held interest rates steady on a 9-3 vote. Three voters wanted a rate increase, underscoring the pressure to act against inflation",
-    "link": "https://www.wsj.com/economy/central-banking/fed-holds-rates-steady-but-three-officials-voted-for-increase-3a6903e0"
-  },
-  {
-    "score": 144,
+    "score": 146,
     "pubdate": "2026-07-30-00-06-00 +0000",
     "source": "wsj",
     "headline": "The Pentagon bumped up its long-term Patriot missile order to nearly $59 billion, the latest sign of the U.S. military’s demand for a defensive weapon used heavily during the Iran war",
     "link": "https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01"
   },
   {
-    "score": 133,
+    "score": 142,
+    "pubdate": "2026-07-30-13-15-00 +0000",
+    "source": "wsj",
+    "headline": "The Bank of England left its key interest rate unchanged while signaling its readiness to raise borrowing costs should high energy prices threaten to a broad pickup in inflation",
+    "link": "https://www.wsj.com/economy/central-banking/boe-on-alert-for-signs-of-persistent-inflation-as-it-holds-rates-a1c57cb6"
+  },
+  {
+    "score": 131,
     "pubdate": "2026-07-29-18-43-17 +0000",
     "source": "latimes",
     "headline": "Viral California teen lifeguard rescue captures nation's awe. 'Perfect person you'd want out there'",
     "link": "https://www.latimes.com/california/story/2026-07-29/california-teen-lifeguard-rescue-captures-awe"
   },
   {
-    "score": 117,
+    "score": 119,
+    "pubdate": "2026-07-30-09-00-00 +0000",
+    "source": "wsj",
+    "headline": "Capital Account: Fed Chairman Kevin Warsh says listen to the markets, not him. But there’s a problem with that: The Fed isn’t the umpire, it’s the most important player in the game, @greg_ip writes",
+    "link": "https://www.wsj.com/economy/central-banking/the-problem-with-warshs-deference-to-markets-872edf9c"
+  },
+  {
+    "score": 118,
     "pubdate": "2026-07-28-18-08-00 +0000",
     "source": "wsj",
     "headline": "GOP Sen. Rand Paul this weekend released writings from Dr. Anthony Fauci’s private journals during the Covid-19 pandemic. Here’s some takeaways.",
     "link": "https://www.wsj.com/politics/policy/key-takeaways-from-anthony-faucis-covid-era-journals-078787d4"
   },
   {
-    "score": 112,
-    "pubdate": "2026-07-23-21-41-33 +0000",
-    "source": "latimes",
-    "headline": "War escalates, oil prices surge as Iran-backed Houthis strike Saudi tankers in Red Sea",
-    "link": "https://www.latimes.com/politics/story/2026-07-23/war-escalates-oil-prices-surge-as-iran-backed-houthis-strike-saudi-tankers-in-red-sea"
-  },
-  {
-    "score": 109,
+    "score": 110,
     "pubdate": "2026-07-24-10-00-00 +0000",
     "source": "latimes",
     "headline": "He was homeless in L.A. Now, he's accused of hurling racist slurs at a 'Today' host",
     "link": "https://www.latimes.com/world-nation/story/2026-07-24/he-was-homeless-in-la-now-hes-accused-of-hurling-racist-slurs-at-today-host"
-  },
-  {
-    "score": 107,
-    "pubdate": "2026-07-30-10-28-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Treasury Yields Rise, 30-Year Yield at 19-Year High; Dollar Falls",
-    "link": "https://www.wsj.com/finance/investing/jgb-futures-fall-before-bojs-two-day-meeting-2ff71c19?mod=rss_markets_main"
   },
   {
     "score": 106,
@@ -68,5 +61,12 @@
     "source": "chitri",
     "headline": "US military launches strikes on Iranian targets a day after it foiled missile attack on US forces",
     "link": "https://www.chicagotribune.com/2026/07/29/iran-resumes-missile-attacks/"
+  },
+  {
+    "score": 104,
+    "pubdate": "2026-07-28-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "No matter who wins, this South L.A. city council district will see a historic change",
+    "link": "https://www.latimes.com/california/story/2026-07-28/south-la-city-council-district-no-matter-who-wins"
   }
 ]
