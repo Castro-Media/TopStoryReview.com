@@ -1,72 +1,44 @@
 [
   {
-    "score": 25,
+    "score": 24,
     "pubdate": "2026-07-30-08-42-17 +0000",
     "source": "bbc",
     "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
     "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 19,
-    "pubdate": "2026-07-30-08-30-18 +0000",
-    "source": "bbc",
-    "headline": "Japan earthquake death toll rises to 34 as evacuees battle sweltering heat",
-    "link": "https://www.bbc.co.uk/news/articles/cdrv36kv7pzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-07-30-08-02-17 +0000",
-    "source": "bbc",
-    "headline": "Burnham says nuclear sub investment will protect UK and boost jobs",
-    "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-07-30-08-00-00 +0000",
-    "source": "wsj",
-    "headline": "China Signals Little Appetite for Major Stimulus Despite Growth Headwinds",
-    "link": "https://www.wsj.com/economy/china-signals-little-appetite-for-major-stimulus-despite-growth-headwinds-835e635e"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-07-30-08-00-00 +0000",
-    "source": "nypost",
-    "headline": "Terrified pup survives 2 days in pitch-black California tunnel before dramatic rescue",
-    "link": "https://nypost.com/2026/07/30/us-news/dog-spent-2-days-in-caltrain-tunnel-in-san-francisco-before-being-rescued/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-07-30-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "U.S. FCC approves giant space mirror to deliver 'sunlight on demand,' but what are the legal implications?",
-    "link": "https://www.cbc.ca/news/science/reflect-orbital-approval-fcc-9.7287535?cmp=rss"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-07-30-08-36-25 +0000",
-    "source": "wsj",
-    "headline": "Stock Market Today: Bond Selloff Extends; Oil Ticks Higher",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-30-2026?mod=rss_markets_main"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-07-30-08-36-25 +0000",
-    "source": "nypost",
-    "headline": "Louisville student, 15, killed in shooting months after being stabbed saving girl from sexual harassment",
-    "link": "https://nypost.com/2026/07/30/us-news/louisville-hs-student-15-killed-in-shooting-months-after-being-stabbed-saving-girl-from-sexual-harassment/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-07-30-08-01-55 +0000",
-    "source": "nypost",
-    "headline": "School employee accused of secretly filming 12 girls in changing room faces new charges",
-    "link": "https://nypost.com/2026/07/30/us-news/maryland-school-employee-james-mulhern-iii-accused-of-secretly-filming-12-girls-changing/"
-  },
-  {
-    "score": 9,
+    "score": 10,
     "pubdate": "2026-07-30-08-42-14 +0000",
     "source": "nypost",
     "headline": "Australia begins legal action against Telegram over alleged pro-terror material",
     "link": "https://nypost.com/2026/07/30/world-news/australia-begins-legal-action-against-telegram-over-alleged-pro-terror-material/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-07-30-08-41-57 +0000",
+    "source": "nyt",
+    "headline": "Japan Earthquake Death Toll Rises to 34",
+    "link": "https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-30-08-42-17 +0000",
+    "source": "bbc",
+    "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+    "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-30-08-42-17 +0000",
+    "source": "bbc",
+    "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+    "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-07-30-08-41-57 +0000",
+    "source": "nyt",
+    "headline": "Japan Earthquake Death Toll Rises to 34",
+    "link": "https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html"
   }
 ]
