@@ -1,44 +1,72 @@
 [
   {
-    "score": 24,
-    "pubdate": "2026-07-30-08-42-17 +0000",
-    "source": "bbc",
-    "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-    "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+    "score": 35,
+    "pubdate": "2026-07-30-09-45-03 +0000",
+    "source": "nyt",
+    "headline": "Poland’s Leader Says Russian Missile May Have Struck Its Territory During Ukraine Attack",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-07-30-08-42-14 +0000",
+    "score": 26,
+    "pubdate": "2026-07-30-10-28-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Treasury Yields Rise, 30-Year Yield at 19-Year High; Dollar Falls",
+    "link": "https://www.wsj.com/finance/investing/jgb-futures-fall-before-bojs-two-day-meeting-2ff71c19?mod=rss_markets_main"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-07-30-10-30-09 +0000",
     "source": "nypost",
-    "headline": "Australia begins legal action against Telegram over alleged pro-terror material",
-    "link": "https://nypost.com/2026/07/30/world-news/australia-begins-legal-action-against-telegram-over-alleged-pro-terror-material/"
+    "headline": "Angry Fauci fires off an F-bomb during walk with wife hours after Senate grilling",
+    "link": "https://nypost.com/2026/07/30/us-news/angry-fauci-fires-off-an-f-bomb-during-walk-with-wife-hours-after-senate-grilling/"
   },
   {
-    "score": 10,
-    "pubdate": "2026-07-30-08-41-57 +0000",
+    "score": 20,
+    "pubdate": "2026-07-30-09-50-00 +0000",
+    "source": "wsj",
+    "headline": "How AI Is Helping One-Person Companies Scale to $1 Million—and Beyond",
+    "link": "https://www.wsj.com/world/how-ai-is-helping-one-person-companies-scale-to-1-millionand-beyond-5cfe84d5"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-07-30-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Posh NYC arts club bans ‘Ringling Bros.’ circus heiress after demanding her service pooches don ‘dog diapers’: suit",
+    "link": "https://nypost.com/2026/07/30/us-news/posh-nyc-arts-club-bans-ringling-bros-circus-heiress-after-demanding-her-service-pooches-don-dog-diapers-suit/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-30-10-31-38 +0000",
     "source": "nyt",
-    "headline": "Japan Earthquake Death Toll Rises to 34",
-    "link": "https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html"
+    "headline": "Pope Leo Says He Hopes to Visit U.S. Within ‘Next Couple of Years’",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/pope-leo-visit-us-american.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-07-30-08-42-17 +0000",
-    "source": "bbc",
-    "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-    "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-07-30-08-42-17 +0000",
-    "source": "bbc",
-    "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-    "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-07-30-08-41-57 +0000",
+    "score": 18,
+    "pubdate": "2026-07-30-10-31-22 +0000",
     "source": "nyt",
-    "headline": "Japan Earthquake Death Toll Rises to 34",
-    "link": "https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html"
+    "headline": "Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-07-30-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Proposed ban of forever chemicals for California farms nixed by state lawmakers",
+    "link": "https://www.latimes.com/california/story/2026-07-30/forever-chemicals-ban-california-farms-assembly-bill"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-30-09-56-06 +0000",
+    "source": "bbc",
+    "headline": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-07-30-10-29-00 +0000",
+    "source": "nypost",
+    "headline": "More than just workouts, New Yorkers want gyms with all the bells and whistles — from IVs to saunas to longevity facials",
+    "link": "https://nypost.com/2026/07/30/health/the-rise-of-luxury-nyc-gyms-where-recovery-is-the-main-event/"
   }
 ]
