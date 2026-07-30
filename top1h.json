@@ -1,23 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-07-30-14-36-26 +0000",
+    "score": 52,
+    "pubdate": "2026-07-30-16-14-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump signaled he had no plans to negotiate with holdout Republicans who are blocking the nomination of attorney general pick Todd Blanche, setting up a showdown with two GOP lawmakers whose careers he effectively ended",
+    "link": "https://www.wsj.com/politics/policy/trump-threatens-to-pull-blanche-pick-in-clash-with-wounded-bear-senators-46f19cbb"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-07-30-15-26-01 +0000",
     "source": "nyt",
-    "headline": "Attack on Egyptian Port Shows Suez Canal’s Vulnerability",
-    "link": "https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html"
+    "headline": "Former Officials Protest U.S. Plan to Defund Pan American Health Organization",
+    "link": "https://www.nytimes.com/2026/07/30/health/paho-us-pan-american-health-organization-withdrawal.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-07-30-16-12-16 +0000",
+    "source": "nyt",
+    "headline": "Wildfire in Suffolk, UK, Breaks Out a Few Miles From Nuclear Power Station",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/suffolk-wildfire-uk.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-07-30-15-35-50 +0000",
+    "source": "bbc",
+    "headline": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+    "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-07-30-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "Mortgage rates jumped to their highest level in a year, dealing another blow to a long-stalled housing market that shows little sign of recovering",
+    "link": "https://www.wsj.com/economy/housing/mortgage-rates-jump-to-a-one-year-high-9ea35b8a"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-07-30-16-08-11 +0000",
+    "source": "nyt",
+    "headline": "Iran War Live Updates: Drone Attack in Egypt Threatens to Expand Fighting",
+    "link": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-30-16-15-00 +0000",
+    "source": "wsj",
+    "headline": "Citadel Buys Situational Awareness’s Stock Portfolio After Big Losses in AI",
+    "link": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-07-30-16-04-53 +0000",
+    "source": "bbc",
+    "headline": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+    "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 14,
-    "pubdate": "2026-07-30-14-33-52 +0000",
+    "pubdate": "2026-07-30-15-21-53 +0000",
+    "source": "nyt",
+    "headline": "Erica Schwartz, Trump’s Nominee for C.D.C. Director, Advances to Full Senate Vote",
+    "link": "https://www.nytimes.com/2026/07/30/us/politics/trump-cdc-erica-schwartz.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-07-30-15-56-53 +0000",
     "source": "nypost",
-    "headline": "Stocks rebound from steep Fed sell-off as investors doubt whether Warsh will raise interest rates",
-    "link": "https://nypost.com/2026/07/30/business/stocks-rebound-from-steep-fed-sell-off-as-investors-doubt-whether-warsh-will-raise-interest-rates/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-07-30-14-36-26 +0000",
-    "source": "nyt",
-    "headline": "Attack on Egyptian Port Shows Suez Canal’s Vulnerability",
-    "link": "https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html"
+    "headline": "Key inflation gauge falls while economic growth slows – but the Fed could still raise rates",
+    "link": "https://nypost.com/2026/07/30/business/key-inflation-gauge-falls-while-economic-growth-slows-but-the-fed-could-still-raise-rates/"
   }
 ]
