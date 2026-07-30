@@ -1,6 +1,6 @@
 [
   {
-    "score": 338,
+    "score": 336,
     "pubdate": "2026-07-24-21-26-23 +0000",
     "source": "nyt",
     "headline": "Trump’s Threatened New Front in Iran War Could Strain U.S. Forces",
@@ -14,14 +14,7 @@
     "link": "https://www.wsj.com/politics/policy/president-trump-to-lead-tributes-to-lindsey-graham-at-washington-funeral-92debe40"
   },
   {
-    "score": 142,
-    "pubdate": "2026-07-30-00-06-00 +0000",
-    "source": "wsj",
-    "headline": "The Pentagon bumped up its long-term Patriot missile order to nearly $59 billion, the latest sign of the U.S. military’s demand for a defensive weapon used heavily during the Iran war",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01"
-  },
-  {
-    "score": 142,
+    "score": 141,
     "pubdate": "2026-07-29-20-57-00 +0000",
     "source": "wsj",
     "headline": "The Fed held interest rates steady on a 9-3 vote. Three voters wanted a rate increase, underscoring the pressure to act against inflation",
@@ -35,6 +28,13 @@
     "link": "https://www.wsj.com/politics/mamdani-digs-back-in-after-new-yorks-summer-of-fun-691484d0"
   },
   {
+    "score": 138,
+    "pubdate": "2026-07-29-12-50-05 +0000",
+    "source": "chitri",
+    "headline": "US military launches strikes on Iranian targets a day after it foiled missile attack on US forces",
+    "link": "https://www.chicagotribune.com/2026/07/29/iran-resumes-missile-attacks/"
+  },
+  {
     "score": 134,
     "pubdate": "2026-07-29-18-43-17 +0000",
     "source": "latimes",
@@ -42,11 +42,11 @@
     "link": "https://www.latimes.com/california/story/2026-07-29/california-teen-lifeguard-rescue-captures-awe"
   },
   {
-    "score": 113,
-    "pubdate": "2026-07-23-21-41-33 +0000",
-    "source": "latimes",
-    "headline": "War escalates, oil prices surge as Iran-backed Houthis strike Saudi tankers in Red Sea",
-    "link": "https://www.latimes.com/politics/story/2026-07-23/war-escalates-oil-prices-surge-as-iran-backed-houthis-strike-saudi-tankers-in-red-sea"
+    "score": 129,
+    "pubdate": "2026-07-28-18-08-00 +0000",
+    "source": "wsj",
+    "headline": "GOP Sen. Rand Paul this weekend released writings from Dr. Anthony Fauci’s private journals during the Covid-19 pandemic. Here’s some takeaways.",
+    "link": "https://www.wsj.com/politics/policy/key-takeaways-from-anthony-faucis-covid-era-journals-078787d4"
   },
   {
     "score": 113,
@@ -56,11 +56,11 @@
     "link": "https://www.nytimes.com/2026/07/28/business/china-uyghurs.html"
   },
   {
-    "score": 109,
-    "pubdate": "2026-07-28-18-08-00 +0000",
-    "source": "wsj",
-    "headline": "GOP Sen. Rand Paul this weekend released writings from Dr. Anthony Fauci’s private journals during the Covid-19 pandemic. Here’s some takeaways.",
-    "link": "https://www.wsj.com/politics/policy/key-takeaways-from-anthony-faucis-covid-era-journals-078787d4"
+    "score": 111,
+    "pubdate": "2026-07-23-21-41-33 +0000",
+    "source": "latimes",
+    "headline": "War escalates, oil prices surge as Iran-backed Houthis strike Saudi tankers in Red Sea",
+    "link": "https://www.latimes.com/politics/story/2026-07-23/war-escalates-oil-prices-surge-as-iran-backed-houthis-strike-saudi-tankers-in-red-sea"
   },
   {
     "score": 106,
