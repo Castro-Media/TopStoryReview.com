@@ -1,5 +1,581 @@
 [
   {
+    "headline": "As ICE arrests mount at airports, privacy expert asks: Can SFO rein in the feds?",
+    "link": "https://missionlocal.org/2026/07/ice-arrest-airport-sfo-data-sharing/",
+    "source": "missionlocal",
+    "pubdate": "2026-07-31-22-12-27 +0000"
+  },
+  {
+    "headline": "After Tens of Thousands of Migrants Enter Spanish Territory, Most Return to Morocco",
+    "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
+    "source": "nyt",
+    "pubdate": "2026-07-31-22-10-40 +0000"
+  },
+  {
+    "headline": "Former congressman George Santos will pay more than $35,000 to settle a regulator’s claim that he manipulated wagers on prediction market Kalshi over whether he would attend the State of the Union",
+    "link": "https://www.wsj.com/politics/george-santos-settles-regulators-claim-over-manipulative-activity-on-kalshi-cc16c586",
+    "source": "wsj",
+    "pubdate": "2026-07-31-22-09-00 +0000"
+  },
+  {
+    "headline": "Should Glasgow have its own mayor?",
+    "link": "https://www.bbc.co.uk/news/videos/c3ekz5n0dvqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-31-22-08-14 +0000"
+  },
+  {
+    "headline": "Former Blackhawks player Jake McCabe lists Lincoln Park home for $1.75M",
+    "link": "https://www.chicagotribune.com/2026/07/31/blackhawks-jake-mccabe-lincoln-park/",
+    "source": "chitri",
+    "pubdate": "2026-07-31-22-07-14 +0000"
+  },
+  {
+    "headline": "What Worries Democrats as the Midterms Heat Up",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/democrats-primary-elections-midterms.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-22-02-21 +0000"
+  },
+  {
+    "headline": "What Worries Democrats as the Midterms Heat Up",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/democrats-primary-elections-midterms.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-22-02-21 +0000"
+  },
+  {
+    "headline": "Snapchat joins other popular platforms in fight against 'AI slop'",
+    "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-31-21-57-59 +0000"
+  },
+  {
+    "headline": "Trump Orders Fresh Strikes on Iran to Spur Surrender",
+    "link": "https://www.wsj.com/arts-culture/food-cooking/trump-orders-fresh-strikes-on-iran-to-spur-surrender-ab283c48?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-55-00 +0000"
+  },
+  {
+    "headline": "Opinion | Warsh Makes Markets Do Their Job",
+    "link": "https://www.wsj.com/opinion/federal-reserve-markets-guidance-kevin-warsh-03fb4432?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-54-00 +0000"
+  },
+  {
+    "headline": "Opinion | Warsh Makes Markets Do Their Job",
+    "link": "https://www.wsj.com/opinion/federal-reserve-markets-guidance-kevin-warsh-03fb4432",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-54-00 +0000"
+  },
+  {
+    "headline": "Opinion | Replimune’s Melanoma Therapy Gets a Thumbs Up",
+    "link": "https://www.wsj.com/opinion/fda-committee-recommends-replimune-melanoma-rp1-drug-2b7338f4",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-49-00 +0000"
+  },
+  {
+    "headline": "DNI Jay Clayton’s arrival in DC delayed as acting chief Bill Pulte plans more layoffs",
+    "link": "https://nypost.com/2026/07/31/us-news/dni-jay-claytons-arrival-in-dc-delayed-as-acting-chief-bill-pulte-plans-more-layoffs/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-21-46-57 +0000"
+  },
+  {
+    "headline": "Opinion | The Gaza Road Map vs. Trump Peace Plan",
+    "link": "https://www.wsj.com/opinion/gaza-road-map-board-of-peace-donald-trump-israel-hamas-c173bae9",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-46-00 +0000"
+  },
+  {
+    "headline": "Opinion | The Gaza Road Map vs. Trump Peace Plan",
+    "link": "https://www.wsj.com/opinion/gaza-road-map-board-of-peace-donald-trump-israel-hamas-c173bae9",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-46-00 +0000"
+  },
+  {
+    "headline": "Steve Hilton challenges Xavier Becerra to agree to a series of debates in California's governor's race",
+    "link": "https://www.latimes.com/california/story/2026-07-31/steve-hilton-challenges-xavier-becerra-to-agree-to-series-of-debates-in-californias-governors-race",
+    "source": "latimes",
+    "pubdate": "2026-07-31-21-43-38 +0000"
+  },
+  {
+    "headline": "Steve Hilton challenges Xavier Becerra to agree to a series of debates in California's governor's race",
+    "link": "https://www.latimes.com/california/story/2026-07-31/steve-hilton-challenges-xavier-becerra-to-agree-to-series-of-debates-in-californias-governors-race",
+    "source": "latimes",
+    "pubdate": "2026-07-31-21-43-38 +0000"
+  },
+  {
+    "headline": "Opinion | John Thune’s Confirmation Fast Track",
+    "link": "https://www.wsj.com/opinion/senate-confirmations-fast-track-john-thune-donald-trump-nominees-835fb873",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-42-00 +0000"
+  },
+  {
+    "headline": "Amsterdam-style cannabis café could come to Valencia next summer",
+    "link": "https://missionlocal.org/2026/07/an-amsterdam-style-cannabis-cafe-may-open-on-valencia-street/",
+    "source": "missionlocal",
+    "pubdate": "2026-07-31-21-41-04 +0000"
+  },
+  {
+    "headline": "FIFA has scrapped $20B World Cup sell-off plan following European boycott, global outrage: sources",
+    "link": "https://nypost.com/2026/07/31/business/fifa-has-scrapped-20b-world-cup-sell-off-plan-following-european-boycott-global-outrage-sources/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-21-40-18 +0000"
+  },
+  {
+    "headline": "FIFA has scrapped $20B World Cup sell-off plan following European boycott, global outrage: sources",
+    "link": "https://nypost.com/2026/07/31/business/fifa-has-scrapped-20b-world-cup-sell-off-plan-following-european-boycott-global-outrage-sources/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-21-40-18 +0000"
+  },
+  {
+    "headline": "Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down.",
+    "link": "https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-21-40-03 +0000"
+  },
+  {
+    "headline": "Opinion | The Moroccans Invade Spain",
+    "link": "https://www.wsj.com/opinion/ceuta-spain-morocco-immigrants-pedro-sanchez-a2fe571c",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-40-00 +0000"
+  },
+  {
+    "headline": "Live: Vikings star Justin Jefferson excited by team’s QB competition",
+    "link": "https://www.startribune.com/minnesota-vikings-training-camp-practice-live-updates-july-31-justin-jefferson-kyler-murray/601873238",
+    "source": "startribune",
+    "pubdate": "2026-07-31-21-38-44 +0000"
+  },
+  {
+    "headline": "Jeanine Pirro seeks to drop charges against Olympian David Hearn, admits reflecting pool damage was ‘flawed installation’",
+    "link": "https://nypost.com/2026/07/31/us-news/jeanine-pirro-seeks-to-drop-charges-against-olympian-david-hearn-admits-reflecting-pool-damage-was-flawed-installation/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-21-33-06 +0000"
+  },
+  {
+    "headline": "Jeanine Pirro seeks to drop charges against Olympian David Hearn, admits reflecting pool damage was ‘flawed installation’",
+    "link": "https://nypost.com/2026/07/31/us-news/jeanine-pirro-seeks-to-drop-charges-against-olympian-david-hearn-admits-reflecting-pool-damage-was-flawed-installation/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-21-33-06 +0000"
+  },
+  {
+    "headline": "CAIR, a Muslim nonprofit, gets a terrorism label in Florida and Texas",
+    "link": "https://www.chicagotribune.com/2026/07/31/cair-a-muslim-nonprofit-gets-a-terrorism-label-in-florida-and-texas/",
+    "source": "chitri",
+    "pubdate": "2026-07-31-21-26-44 +0000"
+  },
+  {
+    "headline": "Gov. JB Pritzker signs law aimed at protecting kids from social media algorithms",
+    "link": "https://www.chicagotribune.com/2026/07/31/kids-social-media-algorithms/",
+    "source": "chitri",
+    "pubdate": "2026-07-31-21-26-18 +0000"
+  },
+  {
+    "headline": "Gov. JB Pritzker signs law aimed at protecting kids from social media algorithms",
+    "link": "https://www.chicagotribune.com/2026/07/31/kids-social-media-algorithms/",
+    "source": "chitri",
+    "pubdate": "2026-07-31-21-26-18 +0000"
+  },
+  {
+    "headline": "Coward career criminal charged with killing retired NYPD cop’s son, 12, dodges victim’s family in court",
+    "link": "https://nypost.com/2026/07/31/us-news/coward-career-criminal-charged-with-killing-retired-nypd-cops-son-12-dodges-victims-family-in-court/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-21-25-19 +0000"
+  },
+  {
+    "headline": "Woke California college students force school to cut ties with Border Patrol",
+    "link": "https://nypost.com/2026/07/31/us-news/ucsd-ends-border-patrol-linked-federal-program-after-student-protests/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-21-24-57 +0000"
+  },
+  {
+    "headline": "Woke California college students force school to cut ties with Border Patrol",
+    "link": "https://nypost.com/2026/07/31/us-news/ucsd-ends-border-patrol-linked-federal-program-after-student-protests/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-21-24-57 +0000"
+  },
+  {
+    "headline": "Fed-up Spaniards lash out at socialist prime minister after migrant invasion: ‘A third-world country’",
+    "link": "https://nypost.com/2026/07/31/world-news/fed-up-spaniards-lash-out-at-socialist-prime-minister-after-migrant-invasion/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-21-23-25 +0000"
+  },
+  {
+    "headline": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
+    "link": "https://www.bbc.co.uk/news/articles/c86n0336082o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-31-21-18-30 +0000"
+  },
+  {
+    "headline": "Migrants Surge Into Spanish Territory, Prompting Political Backlash",
+    "link": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-into-spanish-territory-triggering-political-backlash.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-21-15-51 +0000"
+  },
+  {
+    "headline": "Migrants Surge Into Spanish Territory, Prompting Political Backlash",
+    "link": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-into-spanish-territory-triggering-political-backlash.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-21-15-51 +0000"
+  },
+  {
+    "headline": "After a quiet primary campaign, Qualls and Lindell share the stage in Friday forum",
+    "link": "https://www.startribune.com/qualls-lindell-mn-republican-gop-governor-race-primary-debate-almanac-tpt/601873959",
+    "source": "startribune",
+    "pubdate": "2026-07-31-21-15-25 +0000"
+  },
+  {
+    "headline": "Opinion | The Smithsonian’s Disdain for America",
+    "link": "https://www.wsj.com/opinion/the-smithsonians-disdain-for-america-8edffb1e",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-15-00 +0000"
+  },
+  {
+    "headline": "Hunter Biden Blames Cancer for Joe Biden’s Disastrous Debate",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/hunter-biden-joe-biden-debate-cancer.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-21-14-14 +0000"
+  },
+  {
+    "headline": "Hunter Biden Blames Cancer for Joe Biden’s Disastrous Debate",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/hunter-biden-joe-biden-debate-cancer.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-21-14-14 +0000"
+  },
+  {
+    "headline": "Trump Orders Fresh Attack on Iran",
+    "link": "https://www.wsj.com/world/middle-east/trump-sours-on-diplomacy-vows-to-hit-iran-hard-2c7af868",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-14-00 +0000"
+  },
+  {
+    "headline": "Idi Amin's grandson fights at Commonwealth Games",
+    "link": "https://www.bbc.co.uk/sport/boxing/videos/c74g1nxq9jko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-31-21-13-03 +0000"
+  },
+  {
+    "headline": "Opinion | Open Weight and AI’s Coming Chernobyl Moment",
+    "link": "https://www.wsj.com/opinion/open-weight-and-ais-coming-chernobyl-moment-d8132958",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-13-00 +0000"
+  },
+  {
+    "headline": "Opinion | Open Weight and AI’s Coming Chernobyl Moment",
+    "link": "https://www.wsj.com/opinion/open-weight-and-ais-coming-chernobyl-moment-d8132958",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-13-00 +0000"
+  },
+  {
+    "headline": "Amazon and Apple Deliver the Drama to Close a Turbulent Month",
+    "link": "https://www.wsj.com/finance/stocks/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-41d82dc9?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-12-00 +0000"
+  },
+  {
+    "headline": "Warsh Considers Reducing Frequency of Fed Policy Meetings",
+    "link": "https://www.nytimes.com/2026/07/31/business/federal-reserve-warsh-meetings.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-21-11-16 +0000"
+  },
+  {
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-f24900eb?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-10-00 +0000"
+  },
+  {
+    "headline": "‘DWTS’ star with violent criminal past arrested by ICE in California",
+    "link": "https://nypost.com/2026/07/31/us-news/dwts-star-with-violent-criminal-past-arrested-by-ice-in-california/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-21-09-44 +0000"
+  },
+  {
+    "headline": "Next Met Gala Show Will Honor John Galliano, Celebrated Designer Infamous for Antisemitic Rant",
+    "link": "https://www.nytimes.com/2026/07/31/style/met-gala-costume-institute-john-galliano.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-21-08-56 +0000"
+  },
+  {
+    "headline": "Judge gives federal government two weeks to explain incomplete Renee Good shooting evidence",
+    "link": "https://www.startribune.com/renee-good-shooting-evidence/601873979",
+    "source": "startribune",
+    "pubdate": "2026-07-31-21-07-03 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c712a670?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-06-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-9b38c525?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-06-00 +0000"
+  },
+  {
+    "headline": "Opinion | We Live in ‘a New World of Counterhistory’",
+    "link": "https://www.wsj.com/opinion/we-live-in-a-new-world-of-counterhistory-0156ab8d",
+    "source": "wsj",
+    "pubdate": "2026-07-31-21-03-00 +0000"
+  },
+  {
+    "headline": "Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-21-02-54 +0000"
+  },
+  {
+    "headline": "Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-21-02-54 +0000"
+  },
+  {
+    "headline": "California CEO entangled in cross-border hitman plot — as chilling crime scene images emerge",
+    "link": "https://nypost.com/2026/07/31/us-news/california-ceo-arrested-in-cross-border-murder-for-hire-plot/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-21-01-39 +0000"
+  },
+  {
+    "headline": "Nancy Guthrie Ransom Notes Released by Sheriff’s Department Searching for New Leads",
+    "link": "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-21-01-28 +0000"
+  },
+  {
+    "headline": "Victim, suspects identified in Chino Hills kidnapping and trunk shooting",
+    "link": "https://www.latimes.com/california/story/2026-07-31/chino-hills-kidnapping-execution-suspects-victim-identified",
+    "source": "latimes",
+    "pubdate": "2026-07-31-21-00-29 +0000"
+  },
+  {
+    "headline": "Trump Escalates Feud With Senate Over Blanche",
+    "link": "https://www.nytimes.com/2026/07/31/us/trump-escalates-feud-with-senate-over-blanche.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-21-00-23 +0000"
+  },
+  {
+    "headline": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+    "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
+    "source": "nyt",
+    "pubdate": "2026-07-31-20-57-44 +0000"
+  },
+  {
+    "headline": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+    "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
+    "source": "nyt",
+    "pubdate": "2026-07-31-20-57-44 +0000"
+  },
+  {
+    "headline": "What to Know About Ceuta",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-20-56-35 +0000"
+  },
+  {
+    "headline": "What to Know About Ceuta",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-20-56-35 +0000"
+  },
+  {
+    "headline": "What to Know About Ceuta",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-20-56-35 +0000"
+  },
+  {
+    "headline": "Angelenos line up to lock lips with Spider-Man impersonators outside luxury grocery store",
+    "link": "https://nypost.com/2026/07/31/us-news/spider-man-kissing-booth-takes-over-la-grocery-store-in-viral-pr-stunt/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-56-06 +0000"
+  },
+  {
+    "headline": "Companies Rush to Close Daring Deals Under Trump",
+    "link": "https://www.nytimes.com/2026/07/31/business/corporate-mergers-deals-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-20-54-48 +0000"
+  },
+  {
+    "headline": "California Lettuce Growers Skip Harvest, Plow Their Crops Back Into the Ground",
+    "link": "https://www.wsj.com/business/hospitality/california-lettuce-growers-skip-harvest-plow-their-crops-back-into-the-ground-f2020d89?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-31-20-54-00 +0000"
+  },
+  {
+    "headline": "California Lettuce Growers Skip Harvest, Plow Their Crops Back Into the Ground",
+    "link": "https://www.wsj.com/business/hospitality/california-lettuce-growers-skip-harvest-plow-their-crops-back-into-the-ground-f2020d89?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-31-20-54-00 +0000"
+  },
+  {
+    "headline": "Gov. JB Pritzker says the Trump’s halting of Brandon Road carp project an attack on Great Lakes water",
+    "link": "https://www.chicagotribune.com/2026/07/31/gov-jb-pritzker-says-the-trumps-halting-of-brandon-road-carp-project-an-attack-on-great-lakes-water/",
+    "source": "chitri",
+    "pubdate": "2026-07-31-20-53-50 +0000"
+  },
+  {
+    "headline": "Fed Chair Kevin Warsh mulls fewer interest-rate meetings: report",
+    "link": "https://nypost.com/2026/07/31/business/fed-chair-kevin-warsh-mulls-fewer-interest-rate-meetings-report/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-52-13 +0000"
+  },
+  {
+    "headline": "Brandy Melville lays off TikTok star Allegra Pinkowitz from Soho store despite drawing throngs of tweens",
+    "link": "https://nypost.com/2026/07/31/business/brandy-melville-lays-off-tiktok-star-allegra-pinkowitz-from-soho-store-despite-drawing-throngs-of-tweens/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-51-13 +0000"
+  },
+  {
+    "headline": "Brandy Melville lays off TikTok star Allegra Pinkowitz from Soho store despite drawing throngs of tweens",
+    "link": "https://nypost.com/2026/07/31/business/brandy-melville-lays-off-tiktok-star-allegra-pinkowitz-from-soho-store-despite-drawing-throngs-of-tweens/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-51-13 +0000"
+  },
+  {
+    "headline": "California AG makes bold claim after suing nonprofits that helped regretful abortion seekers",
+    "link": "https://nypost.com/2026/07/31/us-news/rob-bonta-says-he-expects-to-win-lawsuit-against-anti-abortion-groups/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-50-30 +0000"
+  },
+  {
+    "headline": "California AG makes bold claim after suing nonprofits that helped regretful abortion seekers",
+    "link": "https://nypost.com/2026/07/31/us-news/rob-bonta-says-he-expects-to-win-lawsuit-against-anti-abortion-groups/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-50-30 +0000"
+  },
+  {
+    "headline": "Sick Bryan Kohberger’s ‘not guilty’ stunt shows he’s still torturing victims’ families from behind bars: author",
+    "link": "https://nypost.com/2026/07/31/us-news/sick-bryan-kohbergers-not-guilty-stunt-shows-hes-still-torturing-victims-families-behind-bars-author/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-49-01 +0000"
+  },
+  {
+    "headline": "Driver Fatally Shoots Kidnapped Victim in Trunk in Chino Hills",
+    "link": "https://www.nytimes.com/2026/07/31/us/kidnapping-shooting-chino-hills.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-20-48-18 +0000"
+  },
+  {
+    "headline": "Yen Strengthens on Signs of Intervention",
+    "link": "https://www.wsj.com/finance/currencies/yens-focus-on-boj-gov-uedas-guidance-1917e93b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-31-20-47-00 +0000"
+  },
+  {
+    "headline": "LAPD officer who recorded colleagues' racist comments to be charged with felony eavesdropping",
+    "link": "https://www.latimes.com/california/story/2026-07-31/lapd-officer-felony-eavesdropping-charge",
+    "source": "latimes",
+    "pubdate": "2026-07-31-20-45-29 +0000"
+  },
+  {
+    "headline": "U.S. Stocks Rise as Amazon Earnings Offset Apple Chip Woes",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-amazon-earnings-offset-apple-chip-woes-21a670dc?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-31-20-40-00 +0000"
+  },
+  {
+    "headline": "Lindsay Clancy sobs in court as ER doc recalls desperate efforts to save son — after jury takes trip to murder scene",
+    "link": "https://nypost.com/2026/07/31/us-news/lindsay-clancy-sobs-in-court-as-er-doc-recalls-desperate-efforts-to-save-sons-after-jury-takes-trip-to-murder-scene/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-39-00 +0000"
+  },
+  {
+    "headline": "Son of fallen hero Det. Steven McDonald promoted high-ranking role in  NYPD: ‘Bittersweet’",
+    "link": "https://nypost.com/2026/07/31/us-news/son-of-fallen-hero-det-steven-mcdonald-promoted-high-ranking-role-in-nypd/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-37-03 +0000"
+  },
+  {
+    "headline": "Anderson: He’s like any other virtuoso, except he blows a duck call and is a world champ",
+    "link": "https://www.startribune.com/anderson-champion-duck-caller-game-fair/601873622",
+    "source": "startribune",
+    "pubdate": "2026-07-31-20-36-35 +0000"
+  },
+  {
+    "headline": "Trump touts Hamas disarmament deal, but uncertainties remain",
+    "link": "https://www.latimes.com/politics/story/2026-07-31/trump-touts-hamas-disarmament-deal-but-uncertainties-remain",
+    "source": "latimes",
+    "pubdate": "2026-07-31-20-32-00 +0000"
+  },
+  {
+    "headline": "Trump Administration Plans to Upend Head Start by Deregulating It",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-20-31-08 +0000"
+  },
+  {
+    "headline": "Trump Administration Plans to Upend Head Start by Deregulating It",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-20-31-08 +0000"
+  },
+  {
+    "headline": "Amazon Surges and Apple Falls on Latest Earnings",
+    "link": "https://www.wsj.com/finance/stocks/amazon-surges-and-apple-falls-on-latest-earnings-9f3f3c8b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-07-31-20-31-00 +0000"
+  },
+  {
+    "headline": "California beach city’s massive deadly wave defenses caught being built in wild video",
+    "link": "https://nypost.com/2026/07/31/us-news/long-beach-builds-giant-sand-berm-as-hurricane-genevieve-sends-dangerous-surf-to-california/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-28-48 +0000"
+  },
+  {
+    "headline": "Georgia toddler dies in 117-degree car after mother forgets him for 9 hours to work her hospital shift",
+    "link": "https://nypost.com/2026/07/31/us-news/georgia-mom-leaves-baby-in-117-degree-car/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-28-38 +0000"
+  },
+  {
+    "headline": "The line for Jollibee’s re-opening in S.F. started at 7:45 p.m. yesterday",
+    "link": "https://missionlocal.org/2026/07/sf-jollibee-returns-market-street/",
+    "source": "missionlocal",
+    "pubdate": "2026-07-31-20-28-37 +0000"
+  },
+  {
+    "headline": "John Ali, Nation of Islam Official Who Clashed With Malcolm X, Dies at 98",
+    "link": "https://www.nytimes.com/2026/07/31/us/john-ali-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-20-28-14 +0000"
+  },
+  {
+    "headline": "Trump backs $1.776B anti-weaponization fund, mocks ‘angry’ Cornyn for holding up AG confirmation",
+    "link": "https://nypost.com/2026/07/31/us-news/trump-stands-by-todd-blanche-for-acting-ag-pick-defends-1-776-anti-weaponization-fund/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-24-55 +0000"
+  },
+  {
+    "headline": "Trump backs $1.776B anti-weaponization fund, mocks ‘angry’ Cornyn for holding up AG confirmation",
+    "link": "https://nypost.com/2026/07/31/us-news/trump-stands-by-todd-blanche-for-acting-ag-pick-defends-1-776-anti-weaponization-fund/",
+    "source": "nypost",
+    "pubdate": "2026-07-31-20-24-55 +0000"
+  },
+  {
+    "headline": "Why Mitch McConnell Isn’t Giving Up His Senate Seat",
+    "link": "https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html",
+    "source": "nyt",
+    "pubdate": "2026-07-31-20-23-41 +0000"
+  },
+  {
+    "headline": "Body of US climber the latest recovered after Pakistan avalanche",
+    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-31-20-22-46 +0000"
+  },
+  {
+    "headline": "Body of US climber the latest recovered after Pakistan avalanche",
+    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-31-20-22-46 +0000"
+  },
+  {
+    "headline": "Body of US climber the latest recovered after Pakistan avalanche",
+    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-31-20-22-46 +0000"
+  },
+  {
     "headline": "Fauci walks away when pressed on Fifth Amendment, pandemic regrets",
     "link": "https://nypost.com/2026/07/31/us-news/fauci-walks-away-when-pressed-on-fifth-amendment-pandemic-regrets/",
     "source": "nypost",
@@ -30,12 +606,6 @@
     "pubdate": "2026-07-31-20-19-03 +0000"
   },
   {
-    "headline": "Nancy Guthrie Ransom Notes Released by Sheriff’s Department Searching for New Leads",
-    "link": "https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-20-19-00 +0000"
-  },
-  {
     "headline": "Debut novelist’s $2M deal for ‘amazing’ book canceled on suspicions of AI use",
     "link": "https://nypost.com/2026/07/31/media/debut-novelists-2m-deal-canceled-on-suspicions-of-ai-use-after-literary-savants-fawned-over-stunning-writing/",
     "source": "nypost",
@@ -48,12 +618,6 @@
     "pubdate": "2026-07-31-20-09-46 +0000"
   },
   {
-    "headline": "Live Updates: After Tens of Thousands of Migrants Enter Spanish Territory, Most Return to Morocco",
-    "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
-    "source": "nyt",
-    "pubdate": "2026-07-31-20-09-03 +0000"
-  },
-  {
     "headline": "Treasury Yields Rise in Month That Saw Inflation Fears Revive",
     "link": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-bojs-rate-decision-000cd87a?mod=rss_markets_main",
     "source": "wsj",
@@ -64,12 +628,6 @@
     "link": "https://www.startribune.com/pearsons-salted-nut-goodie-mint-pattie-candy-st-paul-legacy/601873899",
     "source": "startribune",
     "pubdate": "2026-07-31-20-00-00 +0000"
-  },
-  {
-    "headline": "Driver Fatally Shoots Kidnapped Victim in Trunk in Chino Hills",
-    "link": "https://www.nytimes.com/2026/07/31/us/kidnapping-shooting-chino-hills.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-19-59-19 +0000"
   },
   {
     "headline": "CAIR, a Muslim Nonprofit, Gets a Terrorism Label in Florida and Texas",
@@ -106,18 +664,6 @@
     "link": "https://nypost.com/2026/07/31/us-news/victim-and-suspects-identified-in-chino-hills-kidnapping-and-trunk-execution/",
     "source": "nypost",
     "pubdate": "2026-07-31-19-49-50 +0000"
-  },
-  {
-    "headline": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
-    "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
-    "source": "nyt",
-    "pubdate": "2026-07-31-19-48-58 +0000"
-  },
-  {
-    "headline": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
-    "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez",
-    "source": "nyt",
-    "pubdate": "2026-07-31-19-48-58 +0000"
   },
   {
     "headline": "Trump Blames Minnesota, Not Iran, for Cyberattack, Despite Initial Investigation",
@@ -162,12 +708,6 @@
     "pubdate": "2026-07-31-19-43-04 +0000"
   },
   {
-    "headline": "Teen boy vanishes after alleged rape by California therapist — as mom fears he’s made a shocking decision",
-    "link": "https://nypost.com/2026/07/31/us-news/teen-boy-allegedly-raped-by-california-therapist-goes-missing/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-19-36-08 +0000"
-  },
-  {
     "headline": "Migrants overrun a Spanish outpost, stirring European outrage",
     "link": "https://www.washingtonpost.com/world/2026/07/31/migrants-overrun-spanish-outpost-stirring-white-house-outrage/",
     "source": "wapo",
@@ -186,30 +726,6 @@
     "pubdate": "2026-07-31-19-31-08 +0000"
   },
   {
-    "headline": "What to Know About Ceuta",
-    "link": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-19-30-01 +0000"
-  },
-  {
-    "headline": "What to Know About Ceuta",
-    "link": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-19-30-01 +0000"
-  },
-  {
-    "headline": "What to Know About Ceuta",
-    "link": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-19-30-01 +0000"
-  },
-  {
-    "headline": "Mamdani admin blasted for tone-deaf victory lap over deadly Legionnaire’s outbreak: ‘We’re just left to die’",
-    "link": "https://nypost.com/2026/07/31/us-news/mamdani-admin-blasted-for-victory-lap-over-deadly-legionnaires-outbreak/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-19-29-56 +0000"
-  },
-  {
     "headline": "What is Ceuta, and how was the Spanish enclave near Morocco breached by 60,000 migrants?",
     "link": "https://www.cbc.ca/news/world/ceuta-spain-morocco-migrants-9.7292107?cmp=rss",
     "source": "cbc",
@@ -220,12 +736,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cwylenj3znno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-07-31-19-29-43 +0000"
-  },
-  {
-    "headline": "Vile flea-borne vomiting illness hits LA neighborhood as urgent warning issued",
-    "link": "https://nypost.com/2026/07/31/us-news/vile-flea-borne-typhus-outbreak-hits-pico-union-as-urgent-warning-issued/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-19-26-40 +0000"
   },
   {
     "headline": "Canada, allies express renewed concern over North Korean IT worker scheme",
@@ -312,12 +822,6 @@
     "pubdate": "2026-07-31-19-14-22 +0000"
   },
   {
-    "headline": "Trump Escalates Feud With Senate Over Blanche",
-    "link": "https://www.nytimes.com/2026/07/31/us/trump-escalates-feud-with-senate-over-blanche.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-19-13-03 +0000"
-  },
-  {
     "headline": "Latest Gaza Peace Plan Runs Up Against Reality",
     "link": "https://www.wsj.com/world/middle-east/latest-gaza-peace-plan-runs-up-against-reality-607e32bf",
     "source": "wsj",
@@ -360,12 +864,6 @@
     "pubdate": "2026-07-31-19-02-03 +0000"
   },
   {
-    "headline": "Live: Day 3 of training camp brings more QB intrigue for Vikings. Let us know who you think will win the job",
-    "link": "https://www.startribune.com/minnesota-vikings-training-camp-practice-live-updates-july-31-justin-jefferson-kyler-murray/601873238",
-    "source": "startribune",
-    "pubdate": "2026-07-31-19-00-00 +0000"
-  },
-  {
     "headline": "Excelsior Buzz: Get ready for Jerry Day — and a new ice cream shop",
     "link": "https://missionlocal.org/2026/07/excelsior-buzz-jerry-day-ice-cream/",
     "source": "missionlocal",
@@ -388,12 +886,6 @@
     "link": "https://www.latimes.com/california/story/2026-07-31/exclusive-lax-terminal-dispute",
     "source": "latimes",
     "pubdate": "2026-07-31-18-57-58 +0000"
-  },
-  {
-    "headline": "San Francisco’s Ghirardelli chocolate shop closed due to worker strike",
-    "link": "https://nypost.com/2026/07/31/us-news/san-franciscos-ghirardelli-chocolate-shop-closed-due-to-strike/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-18-57-16 +0000"
   },
   {
     "headline": "Homeowners Say Mamdani’s New Tax Rollout Wrongly Targets Them",
@@ -424,24 +916,6 @@
     "link": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html",
     "source": "nyt",
     "pubdate": "2026-07-31-18-44-54 +0000"
-  },
-  {
-    "headline": "Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk",
-    "link": "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-18-44-51 +0000"
-  },
-  {
-    "headline": "Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk",
-    "link": "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-18-44-51 +0000"
-  },
-  {
-    "headline": "350-pound teacher learns fate for using student as ‘stepping stool,’ leaving child shuffling ‘like an 80-year-old’",
-    "link": "https://nypost.com/2026/07/31/us-news/350-pound-teacher-learns-fate-for-using-student-as-stepping-stool/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-18-41-30 +0000"
   },
   {
     "headline": "Gold Snaps 4-Month Losing Streak",
@@ -504,46 +978,10 @@
     "pubdate": "2026-07-31-18-25-44 +0000"
   },
   {
-    "headline": "‘Very loved’ Army hero Rampersad, who was killed in Iranian attack, laid to rest in front of hundreds of sobbing mourners in Queens",
-    "link": "https://nypost.com/2026/07/31/us-news/army-hero-angel-rampersad-laid-to-rest-in-queens-after-iranian-attack-killed-her/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-18-25-44 +0000"
-  },
-  {
     "headline": "Over 50K federal employees and their $2B in salaries eliminated under Trump in 2025",
     "link": "https://nypost.com/2026/07/31/us-news/more-than-50000-federal-employees-2b-in-salaries-eliminated-under-trump-in-2025/",
     "source": "nypost",
     "pubdate": "2026-07-31-18-24-08 +0000"
-  },
-  {
-    "headline": "Over 50K federal employees and their $2B in salaries eliminated under Trump in 2025",
-    "link": "https://nypost.com/2026/07/31/us-news/more-than-50000-federal-employees-2b-in-salaries-eliminated-under-trump-in-2025/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-18-24-08 +0000"
-  },
-  {
-    "headline": "Search for sicko accused of sexually assaulting woman after following her home from Los Angeles gym",
-    "link": "https://nypost.com/2026/07/31/us-news/man-accused-of-sexually-assaulting-woman-after-leaving-north-hollywood-gym/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-18-22-04 +0000"
-  },
-  {
-    "headline": "Trump Sours on Diplomacy, Vows to Hit Iran Hard",
-    "link": "https://www.wsj.com/world/middle-east/trump-sours-on-diplomacy-vows-to-hit-iran-hard-2c7af868",
-    "source": "wsj",
-    "pubdate": "2026-07-31-18-22-00 +0000"
-  },
-  {
-    "headline": "Companies Rush to Close Daring Deals Under Trump",
-    "link": "https://www.nytimes.com/2026/07/31/business/corporate-mergers-deals-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-18-21-11 +0000"
-  },
-  {
-    "headline": "Trump warns migrant ‘catastrophe’ in Spain would look ‘small time’ if Dems regain power",
-    "link": "https://nypost.com/2026/07/31/world-news/trump-warns-spain-migrant-catastrophe-would-look-small-time-if-dems-regain-power/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-18-16-45 +0000"
   },
   {
     "headline": "Trump warns migrant ‘catastrophe’ in Spain would look ‘small time’ if Dems regain power",
@@ -574,12 +1012,6 @@
     "link": "https://www.chicagotribune.com/2026/07/31/france-wildfires/",
     "source": "chitri",
     "pubdate": "2026-07-31-18-13-53 +0000"
-  },
-  {
-    "headline": "Chilling twist after mom, grandma and four grandkids found dead in upstate NY",
-    "link": "https://nypost.com/2026/07/31/us-news/chilling-twist-after-ny-mom-grandma-grandkids-found-dead/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-18-13-36 +0000"
   },
   {
     "headline": "John Esposito, Who Challenged Negative Views of Muslims, Dies at 86",
@@ -615,7 +1047,7 @@
     "headline": "Coast Guard Vows to Protect Crews From Brain Injuries Caused by Rough Seas",
     "link": "https://www.nytimes.com/2026/07/31/us/31nat-coast-guard-brain-injury-boat-waves-surfmen.html",
     "source": "nyt",
-    "pubdate": "2026-07-31-18-08-24 +0000"
+    "pubdate": "2026-07-31-18-08-25 +0000"
   },
   {
     "headline": "Mayor Kaohly Her allegations come at a critical moment for St. Paul",
@@ -630,12 +1062,6 @@
     "pubdate": "2026-07-31-18-07-00 +0000"
   },
   {
-    "headline": "Endangered right whales spotted in one of the East Coast’s busiest shipping corridors",
-    "link": "https://nypost.com/2026/07/31/us-news/endangered-right-whales-spotted-in-one-of-the-east-coasts-busiest-shipping-corridors/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-18-06-51 +0000"
-  },
-  {
     "headline": "Amid Talk of a Party Switch, Fetterman Vows ‘Never’",
     "link": "https://www.nytimes.com/2026/07/31/us/amid-talk-of-a-party-switch-fetterman-vows-never.html",
     "source": "nyt",
@@ -646,12 +1072,6 @@
     "link": "https://nypost.com/2026/07/31/business/apple-stock-sinks-10-after-tim-cook-warns-of-100-year-flood-in-memory-prices/",
     "source": "nypost",
     "pubdate": "2026-07-31-18-03-51 +0000"
-  },
-  {
-    "headline": "NJ ‘cancer cluster’ neighborhood now has nearly 400 cases — as new tests point to troubling carcinogen levels",
-    "link": "https://nypost.com/2026/07/31/health/nj-cancer-cluster-neighborhood-now-has-nearly-400-cases/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-18-00-59 +0000"
   },
   {
     "headline": "Move Fast and Regulate Later: The Paradox of China’s Economic Dynamism",
@@ -666,34 +1086,16 @@
     "pubdate": "2026-07-31-17-57-05 +0000"
   },
   {
-    "headline": "Eerie moment Chino Hills trunk killer arrives at California home caught on video — as kidnapper’s chilling power tactic exposed",
-    "link": "https://nypost.com/2026/07/31/us-news/moment-chino-hills-trunk-killer-arrives-at-victims-home-caught-on-video/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-17-57-03 +0000"
-  },
-  {
     "headline": "Wheels could come off Stormont without reform, says Sinn Féin",
     "link": "https://www.bbc.co.uk/news/articles/cdew3dj454xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-07-31-17-56-56 +0000"
   },
   {
-    "headline": "Furious residents in Colorado town where every official jumped ship call for arrests: ‘Should alarm every taxpayer’",
-    "link": "https://nypost.com/2026/07/31/us-news/residents-of-abandoned-colorado-town-furiously-call-for-arrests-of-officials-should-alarm-every-taxpayer/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-17-55-43 +0000"
-  },
-  {
     "headline": "Massive Attack banned from Singapore after pro-Palestine display at show",
     "link": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-07-31-17-55-04 +0000"
-  },
-  {
-    "headline": "F-35 aircraft crash reported at Miramar military base in San Diego",
-    "link": "https://nypost.com/2026/07/31/us-news/f-35-aircraft-incident-reported-at-miramar-military-base-in-san-diego/",
-    "source": "nypost",
-    "pubdate": "2026-07-31-17-51-04 +0000"
   },
   {
     "headline": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
@@ -712,12 +1114,6 @@
     "link": "https://www.wsj.com/finance/currencies/treasury-warns-banks-it-might-intervene-in-dollar-yen-exchange-rate-4d7f1bba?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-07-31-17-49-00 +0000"
-  },
-  {
-    "headline": "Boston Scientific’s slowdown of Minnesota-made heart device could be bad for Twin Cities",
-    "link": "https://www.startribune.com/boston-scientifics-slowdown-of-minnesota-made-heart-device-could-be-bad-for-twin-cities/601873159",
-    "source": "startribune",
-    "pubdate": "2026-07-31-17-38-34 +0000"
   },
   {
     "headline": "Why Africa could back controversial Fifa plan",
@@ -744,18 +1140,6 @@
     "pubdate": "2026-07-31-17-33-17 +0000"
   },
   {
-    "headline": "Opinion | Preserved for Posterity",
-    "link": "https://www.wsj.com/opinion/preserved-for-posterity-d2b9774b",
-    "source": "wsj",
-    "pubdate": "2026-07-31-17-32-00 +0000"
-  },
-  {
-    "headline": "Opinion | New York Burglars and Squatters Wanted",
-    "link": "https://www.wsj.com/opinion/new-york-burglars-and-squatters-wanted-0e1be3d1",
-    "source": "wsj",
-    "pubdate": "2026-07-31-17-31-00 +0000"
-  },
-  {
     "headline": "Watchdog finds ex-Illinois Rep. Harry Benton violated law with sexual harassment, third victim revealed",
     "link": "https://www.chicagotribune.com/2026/07/31/harry-benton-inspector-general-report-released/",
     "source": "chitri",
@@ -766,12 +1150,6 @@
     "link": "https://nypost.com/2026/07/31/us-news/gavin-newsom-releases-tax-returns-as-millions-in-earnings-revealed/",
     "source": "nypost",
     "pubdate": "2026-07-31-17-20-50 +0000"
-  },
-  {
-    "headline": "After Claiming ‘Bias’ at Smithsonian, Trump Officials Stage Patriotic Exhibition",
-    "link": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-17-16-31 +0000"
   },
   {
     "headline": "Ceuta Evokes Europe’s 2015 Migration Crisis. But Much Has Changed Since.",
@@ -865,6 +1243,12 @@
   },
   {
     "headline": "Newsom Expresses Concerns About State Antitrust Suit Against Paramount",
+    "link": "https://www.wsj.com/business/media/newsom-expresses-concerns-about-state-antitrust-suit-against-paramount-1bc20411?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-07-31-16-57-00 +0000"
+  },
+  {
+    "headline": "Newsom Expresses Concerns About State Antitrust Suit Against Paramount",
     "link": "https://www.wsj.com/business/media/newsom-expresses-concerns-about-state-antitrust-suit-against-paramount-1bc20411",
     "source": "wsj",
     "pubdate": "2026-07-31-16-57-00 +0000"
@@ -894,40 +1278,10 @@
     "pubdate": "2026-07-31-16-48-53 +0000"
   },
   {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-f24900eb?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-31-16-45-00 +0000"
-  },
-  {
-    "headline": "California’s minimum wage to skyrocket more than $10 above nationwide pay as Newsom praises hike",
+    "headline": "California’s minimum wage to skyrocket more than $10 above nationwide pay as Gavin Newsom praises hike",
     "link": "https://nypost.com/2026/07/31/us-news/californias-minimum-wage-to-increase-in-2027-gavin-newsom-announces/",
     "source": "nypost",
     "pubdate": "2026-07-31-16-43-24 +0000"
-  },
-  {
-    "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c712a670?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-31-16-43-00 +0000"
-  },
-  {
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-9b38c525?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-31-16-43-00 +0000"
-  },
-  {
-    "headline": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-31-16-41-59 +0000"
-  },
-  {
-    "headline": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-31-16-41-59 +0000"
   },
   {
     "headline": "His Wedding Guests Were Arriving—Just as His $45 Billion Fund Was Falling Apart",
@@ -1078,18 +1432,6 @@
     "link": "https://www.cbc.ca/news/canada/ottawa/shen-yun-nac-court-9.7292320?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-07-31-16-02-04 +0000"
-  },
-  {
-    "headline": "California Lettuce Growers Skip Harvest, Plow Their Crops Back Into the Ground",
-    "link": "https://www.wsj.com/business/hospitality/california-lettuce-growers-skip-harvest-plow-their-crops-back-into-the-ground-f2020d89?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-31-16-01-00 +0000"
-  },
-  {
-    "headline": "California Lettuce Growers Skip Harvest, Plow Their Crops Back Into the Ground",
-    "link": "https://www.wsj.com/business/hospitality/california-lettuce-growers-skip-harvest-plow-their-crops-back-into-the-ground-f2020d89?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-31-16-01-00 +0000"
   },
   {
     "headline": "What's in the Gaza peace deal roadmap?",
@@ -1362,12 +1704,6 @@
     "pubdate": "2026-07-31-14-00-00 +0000"
   },
   {
-    "headline": "Kashkari: It’s time for the Fed to raise interest rates",
-    "link": "https://www.startribune.com/neel-kashkari-minneapolis-federal-reserve-fed-interest-rates-inflation/601873279",
-    "source": "startribune",
-    "pubdate": "2026-07-31-13-55-03 +0000"
-  },
-  {
     "headline": "Iran Says It Targeted U.S. Military in Kuwait With Drones",
     "link": "https://www.nytimes.com/2026/07/31/world/middleeast/iran-us-military-kuwait-drone-attack.html",
     "source": "nyt",
@@ -1498,12 +1834,6 @@
     "link": "https://www.nytimes.com/2026/07/31/theater/boy-george-israel.html",
     "source": "nyt",
     "pubdate": "2026-07-31-13-09-52 +0000"
-  },
-  {
-    "headline": "Treasury Yields, Dollar Rise as Oil Resumes Rally",
-    "link": "https://www.wsj.com/finance/currencies/yens-focus-on-boj-gov-uedas-guidance-1917e93b?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-07-31-13-09-00 +0000"
   },
   {
     "headline": "Buyer Beware: Private Funds Come With Big Tax Bills",
@@ -1770,12 +2100,6 @@
     "pubdate": "2026-07-31-11-00-00 +0000"
   },
   {
-    "headline": "Twin Cities suburbs restrict license plate data after Star Tribune investigation",
-    "link": "https://www.startribune.com/twin-cities-suburbs-license-plate-cameras-immigration/601873543",
-    "source": "startribune",
-    "pubdate": "2026-07-31-11-00-00 +0000"
-  },
-  {
     "headline": "People can’t stop AI-generating visions of San Francisco",
     "link": "https://missionlocal.org/2026/07/ai-yimby-nimby-development-building-skyline/",
     "source": "missionlocal",
@@ -1830,25 +2154,13 @@
     "pubdate": "2026-07-31-10-32-17 +0000"
   },
   {
-    "headline": "Does Congress Have the Power to Stop the Iran War?",
-    "link": "https://www.nytimes.com/video/us/politics/100000011061667/does-congress-have-the-power-to-stop-the-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-10-32-07 +0000"
-  },
-  {
-    "headline": "Does Congress Have the Power to Stop the Iran War?",
-    "link": "https://www.nytimes.com/video/us/politics/100000011061667/does-congress-have-the-power-to-stop-the-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-07-31-10-32-07 +0000"
-  },
-  {
     "headline": "In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules",
     "link": "https://www.nytimes.com/2026/07/31/france-heat-firebreak-buffer-wildfire.html",
     "source": "nyt",
     "pubdate": "2026-07-31-10-25-47 +0000"
   },
   {
-    "headline": "Hamas will honour Trump's Gaza peace deal if Israel withdraws forces, ends attacks, official says",
+    "headline": "Trump touts Gaza peace deal, though Hamas and Israeli officials see hurdles",
     "link": "https://www.cbc.ca/news/world/hamas-israel-disarmament-deal-9.7291822?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-07-31-10-23-17 +0000"
@@ -1950,14 +2262,14 @@
     "pubdate": "2026-07-31-10-00-00 +0000"
   },
   {
-    "headline": "The World Cup was an L.A. public transit success. The Olympics will be a much bigger test",
-    "link": "https://www.latimes.com/california/story/2026-07-31/world-cup-was-la-public-transit-success-can-olympics-dominate-too",
+    "headline": "California produced over half its May electricity from solar, a world record",
+    "link": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
     "source": "latimes",
     "pubdate": "2026-07-31-10-00-00 +0000"
   },
   {
-    "headline": "California produced over half its May electricity from solar, a world record",
-    "link": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
+    "headline": "The World Cup was an L.A. public transit success. The Olympics will be a much bigger test",
+    "link": "https://www.latimes.com/california/story/2026-07-31/world-cup-was-la-public-transit-success-can-olympics-dominate-too",
     "source": "latimes",
     "pubdate": "2026-07-31-10-00-00 +0000"
   },
@@ -2006,12 +2318,6 @@
   {
     "headline": "Ford and GM Attempts to Go Beyond Cars Deserve Skepticism",
     "link": "https://www.wsj.com/business/autos/ford-and-gm-attempts-to-go-beyond-cars-deserve-skepticism-797a9d87?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-07-31-09-30-00 +0000"
-  },
-  {
-    "headline": "A Simple Answer to AI Job Loss: Tax Capital, Not Labor",
-    "link": "https://www.wsj.com/tech/ai/a-simple-answer-to-ai-job-loss-tax-capital-not-labor-cb900e62?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-07-31-09-30-00 +0000"
   },
@@ -2502,6 +2808,12 @@
     "pubdate": "2026-07-30-23-31-47 +0000"
   },
   {
+    "headline": "Watch: Moment empty building collapses in New York",
+    "link": "https://www.bbc.co.uk/news/videos/crl70g6ekleo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-07-30-23-31-18 +0000"
+  },
+  {
     "headline": "How Trump and his “princess of darkness” are persuading corporate America to donate hundreds of millions to fund his projects.",
     "link": "https://www.wsj.com/politics/policy/trump-donations-company-fundraising-1e34a78f",
     "source": "wsj",
@@ -2574,12 +2886,6 @@
     "pubdate": "2026-07-30-22-51-30 +0000"
   },
   {
-    "headline": "T.S.A. Finds 5 Civil War Cannonballs in Passenger’s Luggage in Alabama",
-    "link": "https://www.nytimes.com/2026/07/30/us/tsa-alabama-civil-war-cannonballs.html",
-    "source": "nyt",
-    "pubdate": "2026-07-30-22-45-23 +0000"
-  },
-  {
     "headline": "Trump's new tariff threat shows Canada's retaliation 'being noticed': Ontario's D.C. rep",
     "link": "https://www.cbc.ca/news/politics/us-tariffs-cars-alcohol-ban-bourbon-wine-9.7291499?cmp=rss",
     "source": "cbc",
@@ -2622,22 +2928,10 @@
     "pubdate": "2026-07-30-22-24-29 +0000"
   },
   {
-    "headline": "Trump’s Nominee to Oversee VOA, Sarah B. Rogers, Suggests Return of Journalists on Leave",
-    "link": "https://www.nytimes.com/2026/07/30/us/politics/trump-voa-news-sarah-rogers.html",
-    "source": "nyt",
-    "pubdate": "2026-07-30-22-23-51 +0000"
-  },
-  {
     "headline": "Texas Parents Try New Tactic to Remove Ten Commandments From Schools",
     "link": "https://www.nytimes.com/2026/07/30/us/ten-commandments-texas-schools-lawsuit.html",
     "source": "nyt",
     "pubdate": "2026-07-30-22-22-58 +0000"
-  },
-  {
-    "headline": "Two More Appeals Courts Rule Against Trump’s Detention Policy",
-    "link": "https://www.nytimes.com/2026/07/30/us/politics/appeals-courts-immigrant-detention-policy.html",
-    "source": "nyt",
-    "pubdate": "2026-07-30-22-22-50 +0000"
   },
   {
     "headline": "Two More Appeals Courts Rule Against Trump’s Detention Policy",
@@ -2662,191 +2956,5 @@
     "link": "https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-07-30-22-18-00 +0000"
-  },
-  {
-    "headline": "Apple revenue, profits beat expectations on iPhone, Mac sales as Tim Cook era nears end",
-    "link": "https://nypost.com/2026/07/30/business/apple-revenue-profits-beat-expectations-on-iphone-mac-sales-as-tim-cook-era-nears-end/",
-    "source": "nypost",
-    "pubdate": "2026-07-30-22-12-45 +0000"
-  },
-  {
-    "headline": "England edge South Africa thriller to reach semis",
-    "link": "https://www.bbc.co.uk/sport/netball/articles/cjrvlpdvr0no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-30-22-11-25 +0000"
-  },
-  {
-    "headline": "A.I. Hedge Fund Situational Awareness Rescued by Rival Citadel",
-    "link": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
-    "source": "nyt",
-    "pubdate": "2026-07-30-22-08-49 +0000"
-  },
-  {
-    "headline": "Was Your Trip to Europe Affected by Heat or Wildfires? Tell Us About It.",
-    "link": "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html",
-    "source": "nyt",
-    "pubdate": "2026-07-30-22-08-35 +0000"
-  },
-  {
-    "headline": "Was Your Trip to Europe Affected by Heat or Wildfires? Tell Us About It.",
-    "link": "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html",
-    "source": "nyt",
-    "pubdate": "2026-07-30-22-08-35 +0000"
-  },
-  {
-    "headline": "Opinion | Anthony Fauci Unmasks Himself",
-    "link": "https://www.wsj.com/opinion/anthony-fauci-unmasks-himself-f432985b",
-    "source": "wsj",
-    "pubdate": "2026-07-30-22-05-00 +0000"
-  },
-  {
-    "headline": "India wants to join the strawberry superpowers",
-    "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-30-22-04-09 +0000"
-  },
-  {
-    "headline": "India wants to join the strawberry superpowers",
-    "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-30-22-04-09 +0000"
-  },
-  {
-    "headline": "India wants to join the strawberry superpowers",
-    "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-30-22-04-09 +0000"
-  },
-  {
-    "headline": "Millions opposed military rule in Myanmar. Is their dream of a revolution over?",
-    "link": "https://www.bbc.co.uk/news/articles/ckgd3k7xe39o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-30-22-02-13 +0000"
-  },
-  {
-    "headline": "'I won't stop fighting,' says 'cockroach' protester after alleged detention",
-    "link": "https://www.bbc.co.uk/news/articles/c4gwdz3z5gzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-30-22-01-40 +0000"
-  },
-  {
-    "headline": "The Trump administration is ending a Medicare drug subsidy program. Here’s how it could affect costs.",
-    "link": "https://www.chicagotribune.com/2026/07/30/medicare-costs/",
-    "source": "chitri",
-    "pubdate": "2026-07-30-22-00-24 +0000"
-  },
-  {
-    "headline": "Video shows 200 migrant children at California container site during Xavier Becerra’s HHS tenure",
-    "link": "https://nypost.com/2026/07/30/us-news/steve-hilton-calls-out-xavier-becerra-over-migrant-children-container-site-claims/",
-    "source": "nypost",
-    "pubdate": "2026-07-30-21-57-32 +0000"
-  },
-  {
-    "headline": "Microsoft’s One-Day Market-Cap Gain Makes History",
-    "link": "https://www.wsj.com/tech/microsofts-one-day-market-cap-gain-makes-history-2b3a5cb3?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-30-21-56-00 +0000"
-  },
-  {
-    "headline": "Opinion | Democrats Turn Against Direct Democracy",
-    "link": "https://www.wsj.com/opinion/democrats-citizen-initiative-taxes-washington-attorney-general-ballot-measure-de375625",
-    "source": "wsj",
-    "pubdate": "2026-07-30-21-56-00 +0000"
-  },
-  {
-    "headline": "Politics is getting more vulgar, with two presidents leading the way on curse words counts: study",
-    "link": "https://nypost.com/2026/07/30/us-news/politics-is-getting-more-vulgar-with-87-of-presidential-swear-words-in-us-history-dropped-in-past-decade/",
-    "source": "nypost",
-    "pubdate": "2026-07-30-21-53-24 +0000"
-  },
-  {
-    "headline": "Mandela Barnes drops out of the Democratic primary for Wisconsin governor",
-    "link": "https://www.chicagotribune.com/2026/07/30/mandela-barnes-wisconsin-governor/",
-    "source": "chitri",
-    "pubdate": "2026-07-30-21-53-15 +0000"
-  },
-  {
-    "headline": "Microsoft Posts Biggest One-Day Market-Cap Gain for Any U.S. Company",
-    "link": "https://www.wsj.com/finance/stocks/microsoft-posts-biggest-one-day-market-cap-gain-for-any-u-s-company-b8713761?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-07-30-21-49-00 +0000"
-  },
-  {
-    "headline": "Japanese Yen Jumps to 2-Month High Versus Dollar in Possible Intervention",
-    "link": "https://www.wsj.com/finance/currencies/japanese-yen-jumps-to-2-month-high-versus-dollar-in-possible-intervention-dff8cd01?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-07-30-21-48-00 +0000"
-  },
-  {
-    "headline": "Dulles Airport’s Reviled ‘People Movers’ May Be Lurching Into the Sunset",
-    "link": "https://www.nytimes.com/2026/07/30/us/dulles-airport-people-movers-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-07-30-21-47-17 +0000"
-  },
-  {
-    "headline": "Opinion | Trump Looks Away From Iran’s Allies",
-    "link": "https://www.wsj.com/opinion/donald-trump-iran-china-russia-axis-528f897f",
-    "source": "wsj",
-    "pubdate": "2026-07-30-21-41-00 +0000"
-  },
-  {
-    "headline": "‘Journalist’ heckles Chuck Schumer during anti-corruption bureau event: ‘Show your genocidal face’",
-    "link": "https://nypost.com/2026/07/30/us-news/journalist-heckles-chuck-schumer-during-anti-corruption-bureau-event/",
-    "source": "nypost",
-    "pubdate": "2026-07-30-21-37-42 +0000"
-  },
-  {
-    "headline": "Opinion | The Tepid Trump Economy",
-    "link": "https://www.wsj.com/opinion/economy-gdp-donald-trump-tariffs-scott-bessent-df93c87d",
-    "source": "wsj",
-    "pubdate": "2026-07-30-21-36-00 +0000"
-  },
-  {
-    "headline": "JD Vance and Benjamin Netanyahu had ‘no bullsh-t’ talk after months of differences",
-    "link": "https://nypost.com/2026/07/30/world-news/vance-and-netanyahu-had-no-bullsh-t-meeting-after-months-of-differences/",
-    "source": "nypost",
-    "pubdate": "2026-07-30-21-35-00 +0000"
-  },
-  {
-    "headline": "Amazon and Walmart’s Shopping Bots Downplay ‘Made in USA’ Data, Report Says",
-    "link": "https://www.wsj.com/cmo-today/amazon-and-walmarts-shopping-bots-downplay-made-in-usa-data-report-says-26f21aef?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-30-21-35-00 +0000"
-  },
-  {
-    "headline": "JD Vance and Benjamin Netanyahu had ‘no bullsh-t’ talk after months of differences",
-    "link": "https://nypost.com/2026/07/30/world-news/vance-and-netanyahu-had-no-bullsh-t-meeting-after-months-of-differences/",
-    "source": "nypost",
-    "pubdate": "2026-07-30-21-35-00 +0000"
-  },
-  {
-    "headline": "Death toll rises to 51 in China landslides as resuce operation ends",
-    "link": "https://nypost.com/2026/07/30/world-news/death-toll-rises-to-51-in-china-landslides-as-resuce-operation-ends/",
-    "source": "nypost",
-    "pubdate": "2026-07-30-21-34-46 +0000"
-  },
-  {
-    "headline": "Opinion | China’s Non-Plan for the Economy",
-    "link": "https://www.wsj.com/opinion/china-ccp-economy-xi-jinping-exports-gdp-ab00e047",
-    "source": "wsj",
-    "pubdate": "2026-07-30-21-34-00 +0000"
-  },
-  {
-    "headline": "Producer sues Netflix over lost unreleased Nicolas Cage movie",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-07-30/producer-sues-netflix-over-lost-unreleased-nicolas-cage-movie",
-    "source": "latimes",
-    "pubdate": "2026-07-30-21-31-11 +0000"
-  },
-  {
-    "headline": "Oak Park board advances possible changes to single-family zoning",
-    "link": "https://www.chicagotribune.com/2026/07/30/oak-park-single-family-zone-advance/",
-    "source": "chitri",
-    "pubdate": "2026-07-30-21-29-43 +0000"
-  },
-  {
-    "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-cc9c2171?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-30-21-21-00 +0000"
   }
 ]

@@ -1,38 +1,59 @@
 [
   {
-    "score": 160,
-    "pubdate": "2026-07-31-10-23-17 +0000",
+    "score": 153,
+    "pubdate": "2026-07-30-23-30-00 +0000",
     "source": "cbc",
-    "headline": "Hamas will honour Trump's Gaza peace deal if Israel withdraws forces, ends attacks, official says",
-    "link": "https://www.cbc.ca/news/world/hamas-israel-disarmament-deal-9.7291822?cmp=rss"
+    "headline": "Trump says 'Board of Peace' reaches deal for Hamas, other Gaza groups to disarm",
+    "link": "https://www.cbc.ca/news/world/board-of-peace-gaza-disarm-deal-hamas-9.7291575?cmp=rss"
   },
   {
-    "score": 114,
+    "score": 117,
     "pubdate": "2026-07-31-08-02-28 +0000",
     "source": "nypost",
     "headline": "At least 18 migrants dead as 49K breached border to reach Spain’s Ceuta enclave from Morocco: ‘Serious humanitarian crisis’",
     "link": "https://nypost.com/2026/07/31/world-news/at-least-18-migrants-die-trying-to-cross-morocco-spain-border-a-serious-humanitarian-crisis/"
   },
   {
-    "score": 100,
-    "pubdate": "2026-07-30-22-18-00 +0000",
-    "source": "wsj",
-    "headline": "The Pentagon bumped up its long-term Patriot missile order to nearly $59 billion, the latest sign of the U.S. military’s demand for a defensive weapon used heavily during the Iran war",
-    "link": "https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01"
-  },
-  {
-    "score": 89,
+    "score": 108,
     "pubdate": "2026-07-30-23-07-01 +0000",
     "source": "chitri",
     "headline": "European nations vow World Cup boycott and North American soccer body rejects FIFA’s private equity plan",
     "link": "https://www.chicagotribune.com/2026/07/30/european-nations-vow-fifa-world-cup-boycott-over-infantino-private-equity-plan-as-opposition-spreads/"
   },
   {
-    "score": 62,
+    "score": 103,
+    "pubdate": "2026-07-30-22-18-00 +0000",
+    "source": "wsj",
+    "headline": "The Pentagon bumped up its long-term Patriot missile order to nearly $59 billion, the latest sign of the U.S. military’s demand for a defensive weapon used heavily during the Iran war",
+    "link": "https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01"
+  },
+  {
+    "score": 86,
+    "pubdate": "2026-07-31-22-09-00 +0000",
+    "source": "wsj",
+    "headline": "Former congressman George Santos will pay more than $35,000 to settle a regulator’s claim that he manipulated wagers on prediction market Kalshi over whether he would attend the State of the Union",
+    "link": "https://www.wsj.com/politics/george-santos-settles-regulators-claim-over-manipulative-activity-on-kalshi-cc16c586"
+  },
+  {
+    "score": 68,
     "pubdate": "2026-07-31-14-19-00 +0000",
     "source": "wsj",
     "headline": "Three Fed policymakers said stubborn inflation drove their dissenting votes for higher interest rates, a sign of mounting internal pressure on Chairman Kevin Warsh to act",
     "link": "https://www.wsj.com/economy/central-banking/two-fed-officials-say-inflation-should-have-prompted-higher-rates-e203c5ac"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-07-31-20-19-05 +0000",
+    "source": "nypost",
+    "headline": "Calif. Gov. Gavin Newsom’s office urges AG Bonta to settle Paramount lawsuit out of court",
+    "link": "https://nypost.com/2026/07/31/media/gavin-newsoms-office-urges-attorney-general-rob-bonta-to-settle-paramount-lawsuit-out-of-court/"
+  },
+  {
+    "score": 61,
+    "pubdate": "2026-07-31-21-33-06 +0000",
+    "source": "nypost",
+    "headline": "Jeanine Pirro seeks to drop charges against Olympian David Hearn, admits reflecting pool damage was ‘flawed installation’",
+    "link": "https://nypost.com/2026/07/31/us-news/jeanine-pirro-seeks-to-drop-charges-against-olympian-david-hearn-admits-reflecting-pool-damage-was-flawed-installation/"
   },
   {
     "score": 57,
@@ -42,31 +63,10 @@
     "link": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html"
   },
   {
-    "score": 56,
-    "pubdate": "2026-07-31-18-25-44 +0000",
-    "source": "nypost",
-    "headline": "‘Very loved’ Army hero Rampersad, who was killed in Iranian attack, laid to rest in front of hundreds of sobbing mourners in Queens",
-    "link": "https://nypost.com/2026/07/31/us-news/army-hero-angel-rampersad-laid-to-rest-in-queens-after-iranian-attack-killed-her/"
-  },
-  {
-    "score": 54,
-    "pubdate": "2026-07-31-16-30-24 +0000",
-    "source": "nypost",
-    "headline": "LA gas stations where you can still get cheap gas revealed — as prices have skyrocketed since last year",
-    "link": "https://nypost.com/2026/07/31/business/where-to-find-cheap-gas-in-los-angeles-as-prices-spike-in-california/"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-07-31-20-19-05 +0000",
-    "source": "nypost",
-    "headline": "Calif. Gov. Gavin Newsom’s office urges AG Bonta to settle Paramount lawsuit out of court",
-    "link": "https://nypost.com/2026/07/31/media/gavin-newsoms-office-urges-attorney-general-rob-bonta-to-settle-paramount-lawsuit-out-of-court/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-07-31-11-00-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump’s aggressive immigration push has kept expanding to include rule and policy changes that tighten restrictions on legal immigration. Read more in today’s WSJ Politics newsletter:",
-    "link": "https://www.wsj.com/politics/policy/trumps-immigration-push-keeps-expanding-with-new-100-000-fee-idea-eb056d68"
+    "score": 50,
+    "pubdate": "2026-07-31-01-31-50 +0000",
+    "source": "bbc",
+    "headline": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+    "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss"
   }
 ]
