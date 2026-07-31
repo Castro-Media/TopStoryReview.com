@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 20,
+    "pubdate": "2026-07-31-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Dr. Anthony Fauci’s lawyers advised him to invoke his Fifth Amendment right in a congressional hearing to avoid potential perjury charges from Republican opponents",
+    "link": "https://www.wsj.com/politics/faucis-turn-from-pandemic-star-to-silent-witness-371788ae"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-07-31-01-11-36 +0000",
+    "source": "bbc",
+    "headline": "Anthropic says AI models hacked three firms during cyber tests",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-31-00-56-16 +0000",
+    "source": "nyt",
+    "headline": "Trump Claims Peace Board Has Plan for Gaza Disarmament",
+    "link": "https://www.nytimes.com/2026/07/30/us/politics/trump-gaza-peace-board-hamas.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-31-00-38-49 +0000",
+    "source": "nyt",
+    "headline": "Kennedy Center Halts Free Public Tours After Five Decades of Service",
+    "link": "https://www.nytimes.com/2026/07/30/us/politics/kennedy-center-tours.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-31-00-53-43 +0000",
+    "source": "nyt",
+    "headline": "U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-31-00-55-05 +0000",
+    "source": "nyt",
+    "headline": "U.S. Sees Iran as Likely Behind Cyberattack on Minnesota Water Systems",
+    "link": "https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-31-00-36-34 +0000",
+    "source": "nypost",
+    "headline": "Melina Frattolin’s killer dad Luciano kept bizarre notes, condoms in rental car used to dump 9-year-old’s body: prosecutors",
+    "link": "https://nypost.com/2026/07/30/us-news/cops-found-bizarre-notes-in-killer-dad-luciano-frattolins-rental-car/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-31-00-54-42 +0000",
+    "source": "nyt",
+    "headline": "Mexico’s President Unveils Plan to Fight Seaweed That Is Choking Beaches",
+    "link": "https://www.nytimes.com/2026/07/30/world/americas/mexico-sargassum-beach-cleanup.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-31-00-25-24 +0000",
+    "source": "nyt",
+    "headline": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-31-00-52-54 +0000",
+    "source": "bbc",
+    "headline": "Nirmal Purja among 10 climbers feared missing after avalanche",
+    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
+  }
+]
