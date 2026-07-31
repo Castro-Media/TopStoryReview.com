@@ -1,52 +1,45 @@
 [
   {
-    "score": 173,
+    "score": 179,
     "pubdate": "2026-07-30-20-17-00 +0000",
     "source": "wsj",
     "headline": "President Trump signaled he had no plans to negotiate with holdout Republicans who are blocking the nomination of attorney general pick Todd Blanche, setting up a showdown with two GOP lawmakers whose careers he effectively ended",
     "link": "https://www.wsj.com/politics/policy/trump-threatens-to-pull-blanche-pick-in-clash-with-wounded-bear-senators-46f19cbb"
   },
   {
-    "score": 111,
+    "score": 115,
     "pubdate": "2026-07-30-22-18-00 +0000",
     "source": "wsj",
     "headline": "The Pentagon bumped up its long-term Patriot missile order to nearly $59 billion, the latest sign of the U.S. military’s demand for a defensive weapon used heavily during the Iran war",
     "link": "https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01"
   },
   {
-    "score": 90,
+    "score": 91,
+    "pubdate": "2026-07-31-08-02-28 +0000",
+    "source": "nypost",
+    "headline": "At least 18 migrants dead as thousands breached border to reach Spain’s Ceuta enclave from Morocco: ‘Serious humanitarian crisis’",
+    "link": "https://nypost.com/2026/07/31/world-news/at-least-18-migrants-die-trying-to-cross-morocco-spain-border-a-serious-humanitarian-crisis/"
+  },
+  {
+    "score": 91,
     "pubdate": "2026-07-30-23-07-01 +0000",
     "source": "chitri",
     "headline": "European nations vow World Cup boycott and North American soccer body rejects FIFA’s private equity plan",
     "link": "https://www.chicagotribune.com/2026/07/30/european-nations-vow-fifa-world-cup-boycott-over-infantino-private-equity-plan-as-opposition-spreads/"
   },
   {
-    "score": 75,
+    "score": 78,
     "pubdate": "2026-07-30-13-15-00 +0000",
     "source": "wsj",
     "headline": "The Bank of England left its key interest rate unchanged while signaling its readiness to raise borrowing costs should high energy prices threaten to a broad pickup in inflation",
     "link": "https://www.wsj.com/economy/central-banking/boe-on-alert-for-signs-of-persistent-inflation-as-it-holds-rates-a1c57cb6"
   },
   {
-    "score": 63,
+    "score": 60,
     "pubdate": "2026-07-30-16-00-00 +0000",
     "source": "wsj",
     "headline": "Mortgage rates jumped to their highest level in a year, dealing another blow to a long-stalled housing market that shows little sign of recovering",
     "link": "https://www.wsj.com/economy/housing/mortgage-rates-jump-to-a-one-year-high-9ea35b8a"
-  },
-  {
-    "score": 59,
-    "pubdate": "2026-07-30-09-00-00 +0000",
-    "source": "wsj",
-    "headline": "Capital Account: Fed Chairman Kevin Warsh says listen to the markets, not him. But there’s a problem with that: The Fed isn’t the umpire, it’s the most important player in the game, @greg_ip writes",
-    "link": "https://www.wsj.com/economy/central-banking/the-problem-with-warshs-deference-to-markets-872edf9c"
-  },
-  {
-    "score": 58,
-    "pubdate": "2026-07-30-12-05-29 +0000",
-    "source": "bbc",
-    "headline": "Jenrick urges Burnham to rule out tax rises to fund social care",
-    "link": "https://www.bbc.co.uk/news/articles/cx2mj4768k5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 56,
@@ -56,17 +49,24 @@
     "link": "https://nypost.com/2026/07/30/business/metas-record-losing-streak-continues-while-microsoft-chip-stocks-jump-on-ai-earnings/"
   },
   {
-    "score": 56,
-    "pubdate": "2026-07-30-15-20-19 +0000",
-    "source": "bbc",
-    "headline": "At least five members of same family killed in Russian missile attack, Zelensky says",
-    "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss"
+    "score": 55,
+    "pubdate": "2026-07-30-13-28-31 +0000",
+    "source": "cbc",
+    "headline": "'It was hell': French communities are on the front lines of Europe's new wildfires",
+    "link": "https://www.cbc.ca/news/world/le-porge-france-wildfires-9.7291273?cmp=rss"
   },
   {
-    "score": 55,
+    "score": 53,
     "pubdate": "2026-07-30-13-59-54 +0000",
     "source": "nyt",
     "headline": "China, Its Economy Stumbling, Signals Only Cautious Support",
     "link": "https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-07-30-12-05-29 +0000",
+    "source": "bbc",
+    "headline": "Jenrick urges Burnham to rule out tax rises to fund social care",
+    "link": "https://www.bbc.co.uk/news/articles/cx2mj4768k5o?at_medium=RSS&at_campaign=rss"
   }
 ]
