@@ -1,58 +1,72 @@
 [
   {
-    "score": 32,
-    "pubdate": "2026-07-31-11-34-55 +0000",
-    "source": "nyt",
-    "headline": "Live Updates: Spanish Leader Rushes to Ceuta After Thousands of Migrants Burst Into Territory",
-    "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-07-31-11-36-00 +0000",
-    "source": "wsj",
-    "headline": "Church & Dwight Lifts Outlook After 2Q Organic Sales Jump",
-    "link": "https://www.wsj.com/business/retail/church-dwight-lifts-outlook-after-2q-organic-sales-jump-5e1bf7ca?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-07-31-11-34-16 +0000",
+    "score": 33,
+    "pubdate": "2026-07-31-12-55-06 +0000",
     "source": "nyt",
     "headline": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
     "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez"
   },
   {
-    "score": 6,
-    "pubdate": "2026-07-31-11-32-19 +0000",
-    "source": "wapo",
-    "headline": "Migrants overrun a Spanish outpost, stirring White House outrage",
-    "link": "https://www.washingtonpost.com/world/2026/07/31/migrants-overrun-spanish-outpost-stirring-white-house-outrage/"
+    "score": 29,
+    "pubdate": "2026-07-31-12-57-09 +0000",
+    "source": "chitri",
+    "headline": "FIFA adviser on White House’s World Cup panel resigns to protest Gianni Infantino private equity plan",
+    "link": "https://www.chicagotribune.com/2026/07/31/fifa-adviser-white-house-resigns/"
   },
   {
-    "score": 5,
-    "pubdate": "2026-07-31-11-35-00 +0000",
-    "source": "wsj",
-    "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-c712a670?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-07-31-11-33-34 +0000",
-    "source": "bbc",
-    "headline": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-07-31-11-34-16 +0000",
+    "score": 26,
+    "pubdate": "2026-07-31-13-09-52 +0000",
     "source": "nyt",
-    "headline": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
-    "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez"
+    "headline": "Boy George Pulled From ‘Jesus Christ Superstar’ Days After Posting Pro-Israel Reggae Song",
+    "link": "https://www.nytimes.com/2026/07/31/theater/boy-george-israel.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-07-31-11-33-34 +0000",
+    "score": 22,
+    "pubdate": "2026-07-31-12-30-34 +0000",
+    "source": "nyt",
+    "headline": "Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found",
+    "link": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-07-31-13-07-27 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Announcement of Gaza Deal Raises Many Unanswered Questions",
+    "link": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-07-31-13-16-44 +0000",
     "source": "bbc",
-    "headline": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+    "headline": "Andy Burnham to give regional mayors share of income tax",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-07-31-12-26-07 +0000",
+    "source": "nyt",
+    "headline": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
+    "link": "https://www.nytimes.com/2026/07/31/business/economy/inflation-fed-dissent-interest-rates.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-07-31-13-05-00 +0000",
+    "source": "wsj",
+    "headline": "Treasury Yields, Dollar Rise as Oil Resumes Rally",
+    "link": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-bojs-rate-decision-000cd87a?mod=rss_markets_main"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-31-12-57-23 +0000",
+    "source": "nyt",
+    "headline": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+    "link": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-31-13-04-04 +0000",
+    "source": "bbc",
+    "headline": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
     "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
   }
 ]
