@@ -1,9 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2026-07-31-18-18-50 +0000",
+    "score": 32,
+    "pubdate": "2026-07-31-19-48-58 +0000",
     "source": "nyt",
-    "headline": "Live Updates: Most of the Migrants Who Crossed Into Spanish Territory Have Returned, Officials Say",
+    "headline": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+    "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-07-31-20-19-05 +0000",
+    "source": "nypost",
+    "headline": "Calif. Gov. Gavin Newsom’s office urges AG Bonta to settle Paramount lawsuit out of court",
+    "link": "https://nypost.com/2026/07/31/media/gavin-newsoms-office-urges-attorney-general-rob-bonta-to-settle-paramount-lawsuit-out-of-court/"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-07-31-19-55-24 +0000",
+    "source": "nypost",
+    "headline": "Hamas vows to disarm — here are the five questions that could make or break the Gaza peace deal",
+    "link": "https://nypost.com/2026/07/31/world-news/hamas-vows-to-disarm-here-are-the-five-questions-that-could-make-or-break-the-gaza-peace-deal/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-07-31-19-24-27 +0000",
+    "source": "cbc",
+    "headline": "Canada, allies express renewed concern over North Korean IT worker scheme",
+    "link": "https://www.cbc.ca/news/politics/canada-allies-north-korean-it-workers-9.7292580?cmp=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-31-20-19-10 +0000",
+    "source": "nypost",
+    "headline": "Fauci walks away when pressed on Fifth Amendment, pandemic regrets",
+    "link": "https://nypost.com/2026/07/31/us-news/fauci-walks-away-when-pressed-on-fifth-amendment-pandemic-regrets/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-07-31-19-51-39 +0000",
+    "source": "nypost",
+    "headline": "Two Nancy Guthrie ransom notes released in full as disappearance reaches heartbreaking new milestone",
+    "link": "https://nypost.com/2026/07/31/us-news/two-nancy-guthrie-ransom-notes-released-as-disappearance-reaches-heartbreaking-new-milestone/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-07-31-19-48-38 +0000",
+    "source": "nyt",
+    "headline": "Trump Blames Minnesota, Not Iran, for Cyberattack, Despite Initial Investigation",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-07-31-19-29-56 +0000",
+    "source": "nypost",
+    "headline": "Mamdani admin blasted for tone-deaf victory lap over deadly Legionnaire’s outbreak: ‘We’re just left to die’",
+    "link": "https://nypost.com/2026/07/31/us-news/mamdani-admin-blasted-for-victory-lap-over-deadly-legionnaires-outbreak/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-07-31-19-36-08 +0000",
+    "source": "nypost",
+    "headline": "Teen boy vanishes after alleged rape by California therapist — as mom fears he’s made a shocking decision",
+    "link": "https://nypost.com/2026/07/31/us-news/teen-boy-allegedly-raped-by-california-therapist-goes-missing/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-07-31-20-09-03 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: After Tens of Thousands of Migrants Enter Spanish Territory, Most Return to Morocco",
     "link": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco"
   }
 ]
