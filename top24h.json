@@ -1,20 +1,20 @@
 [
   {
-    "score": 163,
+    "score": 160,
     "pubdate": "2026-07-31-10-23-17 +0000",
     "source": "cbc",
     "headline": "Hamas will honour Trump's Gaza peace deal if Israel withdraws forces, ends attacks, official says",
     "link": "https://www.cbc.ca/news/world/hamas-israel-disarmament-deal-9.7291822?cmp=rss"
   },
   {
-    "score": 115,
+    "score": 114,
     "pubdate": "2026-07-31-08-02-28 +0000",
     "source": "nypost",
     "headline": "At least 18 migrants dead as 49K breached border to reach Spain’s Ceuta enclave from Morocco: ‘Serious humanitarian crisis’",
     "link": "https://nypost.com/2026/07/31/world-news/at-least-18-migrants-die-trying-to-cross-morocco-spain-border-a-serious-humanitarian-crisis/"
   },
   {
-    "score": 102,
+    "score": 100,
     "pubdate": "2026-07-30-22-18-00 +0000",
     "source": "wsj",
     "headline": "The Pentagon bumped up its long-term Patriot missile order to nearly $59 billion, the latest sign of the U.S. military’s demand for a defensive weapon used heavily during the Iran war",
@@ -35,20 +35,6 @@
     "link": "https://www.wsj.com/economy/central-banking/two-fed-officials-say-inflation-should-have-prompted-higher-rates-e203c5ac"
   },
   {
-    "score": 58,
-    "pubdate": "2026-07-31-20-19-05 +0000",
-    "source": "nypost",
-    "headline": "Calif. Gov. Gavin Newsom’s office urges AG Bonta to settle Paramount lawsuit out of court",
-    "link": "https://nypost.com/2026/07/31/media/gavin-newsoms-office-urges-attorney-general-rob-bonta-to-settle-paramount-lawsuit-out-of-court/"
-  },
-  {
-    "score": 58,
-    "pubdate": "2026-07-31-16-30-24 +0000",
-    "source": "nypost",
-    "headline": "LA gas stations where you can still get cheap gas revealed — as prices have skyrocketed since last year",
-    "link": "https://nypost.com/2026/07/31/business/where-to-find-cheap-gas-in-los-angeles-as-prices-spike-in-california/"
-  },
-  {
     "score": 57,
     "pubdate": "2026-07-31-18-35-11 +0000",
     "source": "nyt",
@@ -64,6 +50,20 @@
   },
   {
     "score": 54,
+    "pubdate": "2026-07-31-16-30-24 +0000",
+    "source": "nypost",
+    "headline": "LA gas stations where you can still get cheap gas revealed — as prices have skyrocketed since last year",
+    "link": "https://nypost.com/2026/07/31/business/where-to-find-cheap-gas-in-los-angeles-as-prices-spike-in-california/"
+  },
+  {
+    "score": 53,
+    "pubdate": "2026-07-31-20-19-05 +0000",
+    "source": "nypost",
+    "headline": "Calif. Gov. Gavin Newsom’s office urges AG Bonta to settle Paramount lawsuit out of court",
+    "link": "https://nypost.com/2026/07/31/media/gavin-newsoms-office-urges-attorney-general-rob-bonta-to-settle-paramount-lawsuit-out-of-court/"
+  },
+  {
+    "score": 52,
     "pubdate": "2026-07-31-11-00-00 +0000",
     "source": "wsj",
     "headline": "President Trump’s aggressive immigration push has kept expanding to include rule and policy changes that tighten restrictions on legal immigration. Read more in today’s WSJ Politics newsletter:",
