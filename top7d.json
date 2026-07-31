@@ -22,10 +22,10 @@
   },
   {
     "score": 150,
-    "pubdate": "2026-07-29-20-57-00 +0000",
+    "pubdate": "2026-07-31-14-19-00 +0000",
     "source": "wsj",
-    "headline": "The Fed held interest rates steady on a 9-3 vote. Three voters wanted a rate increase, underscoring the pressure to act against inflation",
-    "link": "https://www.wsj.com/economy/central-banking/fed-holds-rates-steady-but-three-officials-voted-for-increase-3a6903e0"
+    "headline": "Three Fed policymakers said stubborn inflation drove their dissenting votes for higher interest rates, a sign of mounting internal pressure on Chairman Kevin Warsh to act",
+    "link": "https://www.wsj.com/economy/central-banking/two-fed-officials-say-inflation-should-have-prompted-higher-rates-e203c5ac"
   },
   {
     "score": 138,
@@ -50,10 +50,17 @@
   },
   {
     "score": 118,
-    "pubdate": "2026-07-30-12-05-29 +0000",
+    "pubdate": "2026-07-29-16-32-53 +0000",
     "source": "bbc",
-    "headline": "Jenrick urges Burnham to rule out tax rises to fund social care",
-    "link": "https://www.bbc.co.uk/news/articles/cx2mj4768k5o?at_medium=RSS&at_campaign=rss"
+    "headline": "Burnham doesn't rule out tax rises to fix social care",
+    "link": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 102,
+    "pubdate": "2026-07-28-22-49-28 +0000",
+    "source": "latimes",
+    "headline": "Golden Globes sale was a 'sham,' Hollywood Foreign Press alleges in $150-million suit against Penske, others",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-07-28/golden-globes-lawsuit-hfpa-penske"
   },
   {
     "score": 96,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Sen. Bernie Moreno demands national security probe of ‘shell’ Chinese solar company’s planned building purchase near military base",
     "link": "https://nypost.com/2026/07/31/us-news/sen-bernie-moreno-demands-probe-of-chinese-solar-companys-planned-building-purchase-near-military-base/"
-  },
-  {
-    "score": 94,
-    "pubdate": "2026-07-30-16-00-00 +0000",
-    "source": "wsj",
-    "headline": "Mortgage rates jumped to their highest level in a year, dealing another blow to a long-stalled housing market that shows little sign of recovering",
-    "link": "https://www.wsj.com/economy/housing/mortgage-rates-jump-to-a-one-year-high-9ea35b8a"
   }
 ]
