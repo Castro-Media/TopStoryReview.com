@@ -1,24 +1,10 @@
 [
   {
-    "score": 142,
+    "score": 138,
     "pubdate": "2026-07-31-19-10-16 +0000",
     "source": "nyt",
     "headline": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
     "link": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
-  },
-  {
-    "score": 102,
-    "pubdate": "2026-07-31-12-57-09 +0000",
-    "source": "chitri",
-    "headline": "Senior FIFA executive says staff was deceived over Gianni Infantino’s World Cup sell-off plan",
-    "link": "https://www.chicagotribune.com/2026/07/31/fifa-adviser-white-house-resigns/"
-  },
-  {
-    "score": 85,
-    "pubdate": "2026-07-31-22-09-00 +0000",
-    "source": "wsj",
-    "headline": "Former congressman George Santos will pay more than $35,000 to settle a regulator’s claim that he manipulated wagers on prediction market Kalshi over whether he would attend the State of the Union",
-    "link": "https://www.wsj.com/politics/george-santos-settles-regulators-claim-over-manipulative-activity-on-kalshi-cc16c586"
   },
   {
     "score": 82,
@@ -28,45 +14,59 @@
     "link": "https://www.nytimes.com/2026/07/31/business/europe-natural-gas-prices.html"
   },
   {
-    "score": 81,
+    "score": 82,
     "pubdate": "2026-07-31-21-33-06 +0000",
     "source": "nypost",
     "headline": "Jeanine Pirro drops Reflecting Pool vandalism case against Olympian David Hearn — blames Interior Dept for holding back ‘flawed installation’ info",
     "link": "https://nypost.com/2026/07/31/us-news/jeanine-pirro-seeks-to-drop-charges-against-olympian-david-hearn-admits-reflecting-pool-damage-was-flawed-installation/"
   },
   {
-    "score": 75,
-    "pubdate": "2026-07-31-15-48-34 +0000",
+    "score": 81,
+    "pubdate": "2026-08-01-12-04-46 +0000",
     "source": "bbc",
     "headline": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
     "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 63,
+    "score": 81,
+    "pubdate": "2026-07-31-21-40-18 +0000",
+    "source": "nypost",
+    "headline": "FIFA has scrapped $20B World Cup sell-off plan following European boycott, global outrage: sources",
+    "link": "https://nypost.com/2026/07/31/business/fifa-has-scrapped-20b-world-cup-sell-off-plan-following-european-boycott-global-outrage-sources/"
+  },
+  {
+    "score": 76,
+    "pubdate": "2026-07-31-22-09-00 +0000",
+    "source": "wsj",
+    "headline": "Former congressman George Santos will pay more than $35,000 to settle a regulator’s claim that he manipulated wagers on prediction market Kalshi over whether he would attend the State of the Union",
+    "link": "https://www.wsj.com/politics/george-santos-settles-regulators-claim-over-manipulative-activity-on-kalshi-cc16c586"
+  },
+  {
+    "score": 69,
+    "pubdate": "2026-08-01-13-09-14 +0000",
+    "source": "nyt",
+    "headline": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
+    "link": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html"
+  },
+  {
+    "score": 59,
     "pubdate": "2026-07-31-17-20-50 +0000",
     "source": "nypost",
     "headline": "California Gov. Gavin Newsom releases long-awaited tax returns",
     "link": "https://nypost.com/2026/07/31/us-news/gavin-newsom-releases-tax-returns-as-millions-in-earnings-revealed/"
   },
   {
-    "score": 56,
-    "pubdate": "2026-07-31-14-19-00 +0000",
-    "source": "wsj",
-    "headline": "Three Fed policymakers said stubborn inflation drove their dissenting votes for higher interest rates, a sign of mounting internal pressure on Chairman Kevin Warsh to act",
-    "link": "https://www.wsj.com/economy/central-banking/two-fed-officials-say-inflation-should-have-prompted-higher-rates-e203c5ac"
-  },
-  {
-    "score": 56,
+    "score": 57,
     "pubdate": "2026-07-31-16-57-05 +0000",
     "source": "nyt",
     "headline": "Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral",
     "link": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html"
   },
   {
-    "score": 53,
-    "pubdate": "2026-08-01-10-14-01 +0000",
-    "source": "nypost",
-    "headline": "American climber’s remains found after avalanche in Pakistan, other mountaineers still missing",
-    "link": "https://nypost.com/2026/08/01/world-news/american-climber-sarah-mallory-geis-remains-found-after-avalanche-in-pakistan/"
+    "score": 57,
+    "pubdate": "2026-07-31-14-19-00 +0000",
+    "source": "wsj",
+    "headline": "Three Fed policymakers said stubborn inflation drove their dissenting votes for higher interest rates, a sign of mounting internal pressure on Chairman Kevin Warsh to act",
+    "link": "https://www.wsj.com/economy/central-banking/two-fed-officials-say-inflation-should-have-prompted-higher-rates-e203c5ac"
   }
 ]
