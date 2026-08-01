@@ -1,17 +1,10 @@
 [
   {
-    "score": 105,
-    "pubdate": "2026-08-01-09-02-16 +0000",
-    "source": "nyt",
-    "headline": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
-    "link": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html"
-  },
-  {
-    "score": 82,
-    "pubdate": "2026-07-31-21-33-06 +0000",
-    "source": "nypost",
-    "headline": "Jeanine Pirro drops Reflecting Pool vandalism case against Olympian David Hearn — blames Interior Dept for holding back ‘flawed installation’ info",
-    "link": "https://nypost.com/2026/07/31/us-news/jeanine-pirro-seeks-to-drop-charges-against-olympian-david-hearn-admits-reflecting-pool-damage-was-flawed-installation/"
+    "score": 97,
+    "pubdate": "2026-07-31-22-19-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Orders Fresh Attack Against Iran as War Enters Sixth Month",
+    "link": "https://www.wsj.com/world/middle-east/trump-sours-on-diplomacy-vows-to-hit-iran-hard-2c7af868"
   },
   {
     "score": 79,
@@ -21,28 +14,35 @@
     "link": "https://nypost.com/2026/07/31/business/fifa-has-scrapped-20b-world-cup-sell-off-plan-following-european-boycott-global-outrage-sources/"
   },
   {
-    "score": 74,
-    "pubdate": "2026-08-01-12-04-46 +0000",
-    "source": "bbc",
-    "headline": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-    "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 74,
+    "score": 73,
     "pubdate": "2026-07-31-22-09-00 +0000",
     "source": "wsj",
     "headline": "Former congressman George Santos will pay more than $35,000 to settle a regulator’s claim that he manipulated wagers on prediction market Kalshi over whether he would attend the State of the Union",
     "link": "https://www.wsj.com/politics/george-santos-settles-regulators-claim-over-manipulative-activity-on-kalshi-cc16c586"
   },
   {
-    "score": 58,
+    "score": 69,
+    "pubdate": "2026-08-01-12-04-46 +0000",
+    "source": "bbc",
+    "headline": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
+    "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 65,
+    "pubdate": "2026-07-31-21-33-06 +0000",
+    "source": "nypost",
+    "headline": "Jeanine Pirro drops Reflecting Pool vandalism case against Olympian David Hearn — blames Interior Dept for holding back ‘flawed installation’ info",
+    "link": "https://nypost.com/2026/07/31/us-news/jeanine-pirro-seeks-to-drop-charges-against-olympian-david-hearn-admits-reflecting-pool-damage-was-flawed-installation/"
+  },
+  {
+    "score": 55,
     "pubdate": "2026-08-01-05-49-43 +0000",
     "source": "nyt",
     "headline": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
     "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html"
   },
   {
-    "score": 52,
+    "score": 50,
     "pubdate": "2026-08-01-17-14-16 +0000",
     "source": "nypost",
     "headline": "Iranian hackers likely behind Minnesota water system attacks, but it’s ‘surprising’ country hasn’t taken credit, expert says",
@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html"
   },
   {
-    "score": 50,
+    "score": 49,
     "pubdate": "2026-08-01-10-00-00 +0000",
     "source": "latimes",
     "headline": "Newsom boasts of California's upcoming minimum wage increase, criticizes Trump for ignoring workers",
     "link": "https://www.latimes.com/california/story/2026-08-01/newsom-boasts-of-californias-upcoming-minimum-wage-increase-criticizes-trump-for-ignoring-workers"
   },
   {
-    "score": 42,
-    "pubdate": "2026-07-31-19-20-49 +0000",
-    "source": "latimes",
-    "headline": "Judges nix Trump's mandatory immigrant detention policy, teeing up Supreme Court fight",
-    "link": "https://www.latimes.com/california/story/2026-07-31/trump-mandatory-immigrant-detention-policy-9th-circuit-ruling"
+    "score": 40,
+    "pubdate": "2026-08-01-02-21-29 +0000",
+    "source": "bbc",
+    "headline": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+    "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss"
   }
 ]
