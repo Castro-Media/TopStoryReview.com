@@ -1,34 +1,41 @@
 [
   {
-    "score": 139,
+    "score": 142,
     "pubdate": "2026-07-31-19-10-16 +0000",
     "source": "nyt",
     "headline": "Trump’s Gaza Deal Sparks Questions on Whether Israel and Hamas Will Comply",
     "link": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
   },
   {
-    "score": 116,
+    "score": 121,
     "pubdate": "2026-07-31-08-02-28 +0000",
     "source": "nypost",
     "headline": "At least 18 migrants dead as 49K breached border to reach Spain’s Ceuta enclave from Morocco: ‘Serious humanitarian crisis’",
     "link": "https://nypost.com/2026/07/31/world-news/at-least-18-migrants-die-trying-to-cross-morocco-spain-border-a-serious-humanitarian-crisis/"
   },
   {
-    "score": 92,
+    "score": 98,
     "pubdate": "2026-07-31-12-57-09 +0000",
     "source": "chitri",
     "headline": "Senior FIFA executive says staff was deceived over Gianni Infantino’s World Cup sell-off plan",
     "link": "https://www.chicagotribune.com/2026/07/31/fifa-adviser-white-house-resigns/"
   },
   {
-    "score": 73,
-    "pubdate": "2026-07-31-16-21-46 +0000",
+    "score": 90,
+    "pubdate": "2026-07-31-21-33-06 +0000",
     "source": "nypost",
-    "headline": "Trump orders more strikes on Iran after ‘losing faith’ in Iran peace talks",
-    "link": "https://nypost.com/2026/07/31/us-news/trump-previews-next-damaging-military-offensive-against-iran-from-camp-david-cabinet-summit/"
+    "headline": "Jeanine Pirro drops Reflecting Pool vandalism case against Olympian David Hearn — blames Interior Dept for holding back ‘flawed installation’ info",
+    "link": "https://nypost.com/2026/07/31/us-news/jeanine-pirro-seeks-to-drop-charges-against-olympian-david-hearn-admits-reflecting-pool-damage-was-flawed-installation/"
   },
   {
-    "score": 71,
+    "score": 73,
+    "pubdate": "2026-07-31-11-19-23 +0000",
+    "source": "bbc",
+    "headline": "UK petrol prices hit highest level since Iran war began",
+    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 68,
     "pubdate": "2026-07-31-14-19-00 +0000",
     "source": "wsj",
     "headline": "Three Fed policymakers said stubborn inflation drove their dissenting votes for higher interest rates, a sign of mounting internal pressure on Chairman Kevin Warsh to act",
@@ -36,10 +43,10 @@
   },
   {
     "score": 68,
-    "pubdate": "2026-07-31-21-33-06 +0000",
-    "source": "nypost",
-    "headline": "Jeanine Pirro seeks to drop charges against Olympian David Hearn, admits reflecting pool damage was ‘flawed installation’",
-    "link": "https://nypost.com/2026/07/31/us-news/jeanine-pirro-seeks-to-drop-charges-against-olympian-david-hearn-admits-reflecting-pool-damage-was-flawed-installation/"
+    "pubdate": "2026-07-31-22-09-00 +0000",
+    "source": "wsj",
+    "headline": "Former congressman George Santos will pay more than $35,000 to settle a regulator’s claim that he manipulated wagers on prediction market Kalshi over whether he would attend the State of the Union",
+    "link": "https://www.wsj.com/politics/george-santos-settles-regulators-claim-over-manipulative-activity-on-kalshi-cc16c586"
   },
   {
     "score": 59,
@@ -49,24 +56,17 @@
     "link": "https://www.nytimes.com/2026/07/31/business/bp-north-sea.html"
   },
   {
-    "score": 58,
-    "pubdate": "2026-07-31-22-09-00 +0000",
-    "source": "wsj",
-    "headline": "Former congressman George Santos will pay more than $35,000 to settle a regulator’s claim that he manipulated wagers on prediction market Kalshi over whether he would attend the State of the Union",
-    "link": "https://www.wsj.com/politics/george-santos-settles-regulators-claim-over-manipulative-activity-on-kalshi-cc16c586"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-07-31-03-21-37 +0000",
-    "source": "nypost",
-    "headline": "Netflix star Nirmal Purja among 10 missing after avalanche atop Pakistan peak",
-    "link": "https://nypost.com/2026/07/30/world-news/world-famous-climber-nirmal-purja-among-10-missing-after-avalanche-atop-pakistan-peak/"
+    "score": 57,
+    "pubdate": "2026-07-31-18-35-11 +0000",
+    "source": "nyt",
+    "headline": "Renowned Climber Nirmal Purja Is Missing After Avalanche in Pakistan as 4 Bodies Are Found",
+    "link": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html"
   },
   {
     "score": 52,
-    "pubdate": "2026-07-31-13-20-45 +0000",
-    "source": "nyt",
-    "headline": "Europe Is Caught Between Low Gas Reserves and Rising Prices From Iran War",
-    "link": "https://www.nytimes.com/2026/07/31/business/europe-natural-gas-prices.html"
+    "pubdate": "2026-07-31-17-20-50 +0000",
+    "source": "nypost",
+    "headline": "California Gov. Gavin Newsom releases long-awaited tax returns",
+    "link": "https://nypost.com/2026/07/31/us-news/gavin-newsom-releases-tax-returns-as-millions-in-earnings-revealed/"
   }
 ]
