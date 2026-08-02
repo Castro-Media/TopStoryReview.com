@@ -1,38 +1,45 @@
 [
   {
-    "score": 89,
+    "score": 92,
     "pubdate": "2026-08-02-11-12-00 +0000",
     "source": "bbc",
     "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
     "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 58,
-    "pubdate": "2026-08-02-10-30-34 +0000",
+    "score": 56,
+    "pubdate": "2026-08-02-12-49-54 +0000",
     "source": "nyt",
     "headline": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
     "link": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html"
   },
   {
-    "score": 51,
+    "score": 55,
     "pubdate": "2026-08-01-19-59-09 +0000",
     "source": "nyt",
     "headline": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
     "link": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html"
   },
   {
-    "score": 49,
-    "pubdate": "2026-08-02-09-00-06 +0000",
+    "score": 48,
+    "pubdate": "2026-08-02-11-49-32 +0000",
     "source": "nyt",
     "headline": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme",
     "link": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
   },
   {
-    "score": 46,
+    "score": 45,
     "pubdate": "2026-08-02-08-00-00 +0000",
     "source": "cbc",
     "headline": "Lurkers in the deep: How Canada's new submarines will be used in peace and potential war",
     "link": "https://www.cbc.ca/news/politics/canada-new-submarines-use-9.7293006?cmp=rss"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-08-01-17-22-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Drops Vandalism Case Against Olympian, Says Reflecting Pool Work Was Botched",
+    "link": "https://www.wsj.com/us-news/law/prosecutors-drop-case-against-olympic-canoeist-charged-with-vandalizing-reflecting-pool-07009682"
   },
   {
     "score": 42,
@@ -42,31 +49,24 @@
     "link": "https://nypost.com/2026/08/02/world-news/peru-plane-crash-kills-13-european-tourists-near-nazca-lines-site/"
   },
   {
-    "score": 41,
-    "pubdate": "2026-08-01-17-22-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Drops Vandalism Case Against Olympian, Says Reflecting Pool Work Was Botched",
-    "link": "https://www.wsj.com/us-news/law/prosecutors-drop-case-against-olympic-canoeist-charged-with-vandalizing-reflecting-pool-07009682"
-  },
-  {
-    "score": 38,
+    "score": 40,
     "pubdate": "2026-08-02-03-04-00 +0000",
     "source": "wsj",
     "headline": "Three Dead, at Least Five Injured in Idaho Shooting at In-N-Out Restaurant",
     "link": "https://www.wsj.com/us-news/three-dead-at-least-five-injured-in-idaho-shooting-at-in-n-out-restaurant-63390e21"
   },
   {
-    "score": 34,
+    "score": 35,
+    "pubdate": "2026-08-02-10-32-28 +0000",
+    "source": "bbc",
+    "headline": "How Spain's migrant crisis created a political storm - whipped up by social media",
+    "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 35,
     "pubdate": "2026-08-02-01-00-00 +0000",
     "source": "wsj",
     "headline": "High-profile donors have given little or no money to the Democratic National Committee this year, and a running joke among some is that the DNC stands for “Do Not Contribute”",
     "link": "https://www.wsj.com/politics/elections/democrat-fundraising-midterm-elections-57f3d73c"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-08-01-23-06-46 +0000",
-    "source": "nypost",
-    "headline": "Spain installs floating barrier as death toll from migrant invasion hits 67",
-    "link": "https://nypost.com/2026/08/01/world-news/spain-installs-floating-barrier-as-ceuta-death-toll-hits-67/"
   }
 ]
