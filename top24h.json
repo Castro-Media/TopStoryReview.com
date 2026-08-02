@@ -22,24 +22,24 @@
   },
   {
     "score": 40,
-    "pubdate": "2026-08-01-17-22-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Drops Vandalism Case Against Olympian, Says Reflecting Pool Work Was Botched",
-    "link": "https://www.wsj.com/us-news/law/prosecutors-drop-case-against-olympic-canoeist-charged-with-vandalizing-reflecting-pool-07009682"
-  },
-  {
-    "score": 40,
     "pubdate": "2026-08-01-10-00-00 +0000",
     "source": "latimes",
     "headline": "Newsom boasts of California's upcoming minimum wage increase, criticizes Trump for ignoring workers",
     "link": "https://www.latimes.com/california/story/2026-08-01/newsom-boasts-of-californias-upcoming-minimum-wage-increase-criticizes-trump-for-ignoring-workers"
   },
   {
-    "score": 36,
-    "pubdate": "2026-08-01-16-00-00 +0000",
+    "score": 40,
+    "pubdate": "2026-08-01-17-22-00 +0000",
     "source": "wsj",
-    "headline": "A Tech Founder Wanted to Start a New Country. An Actual Country Got in the Way.",
-    "link": "https://www.wsj.com/tech/a-tech-founder-wanted-to-start-a-new-country-an-actual-country-got-in-the-way-52cd21e5"
+    "headline": "U.S. Drops Vandalism Case Against Olympian, Says Reflecting Pool Work Was Botched",
+    "link": "https://www.wsj.com/us-news/law/prosecutors-drop-case-against-olympic-canoeist-charged-with-vandalizing-reflecting-pool-07009682"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-08-01-19-30-50 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Polling Numbers Hit a New Low. Don’t Expect Him to Change Course.",
+    "link": "https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html"
   },
   {
     "score": 31,
@@ -50,17 +50,17 @@
   },
   {
     "score": 31,
-    "pubdate": "2026-08-02-06-16-23 +0000",
-    "source": "nypost",
-    "headline": "Socialist Spanish PM blasts Giorgia Meloni over restored border controls after Ceuta surge, demands emergency meeting",
-    "link": "https://nypost.com/2026/08/02/world-news/spain-prime-minister-pedro-sanchez-blasts-eu-leaders-over-restored-border-controls-after-ceuta-migrant-breach/"
-  },
-  {
-    "score": 31,
     "pubdate": "2026-08-02-03-04-00 +0000",
     "source": "wsj",
     "headline": "Three Dead, at Least Five Injured in Idaho Shooting at In-N-Out Restaurant",
     "link": "https://www.wsj.com/us-news/three-dead-at-least-five-injured-in-idaho-shooting-at-in-n-out-restaurant-63390e21"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-08-01-17-14-16 +0000",
+    "source": "nypost",
+    "headline": "Iranian hackers likely behind Minnesota water system attacks, but it’s ‘surprising’ country hasn’t taken credit, expert says",
+    "link": "https://nypost.com/2026/08/01/world-news/iranian-hackers-likely-behind-minnesota-water-system-attacks-but-its-surprising-country-hasnt-taken-credit-expert-says/"
   },
   {
     "score": 30,
