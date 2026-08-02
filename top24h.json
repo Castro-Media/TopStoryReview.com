@@ -1,6 +1,6 @@
 [
   {
-    "score": 111,
+    "score": 110,
     "pubdate": "2026-08-02-15-40-24 +0000",
     "source": "chitri",
     "headline": "President Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
@@ -14,7 +14,7 @@
     "link": "https://www.wsj.com/us-news/three-dead-at-least-five-injured-in-idaho-shooting-at-in-n-out-restaurant-63390e21"
   },
   {
-    "score": 52,
+    "score": 51,
     "pubdate": "2026-08-02-13-50-27 +0000",
     "source": "nyt",
     "headline": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
@@ -28,7 +28,7 @@
     "link": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
   },
   {
-    "score": 48,
+    "score": 46,
     "pubdate": "2026-08-02-15-48-00 +0000",
     "source": "bbc",
     "headline": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
@@ -56,17 +56,17 @@
     "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 40,
-    "pubdate": "2026-08-01-17-22-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Drops Vandalism Case Against Olympian, Says Reflecting Pool Work Was Botched",
-    "link": "https://www.wsj.com/us-news/law/prosecutors-drop-case-against-olympic-canoeist-charged-with-vandalizing-reflecting-pool-07009682"
-  },
-  {
     "score": 39,
     "pubdate": "2026-08-02-12-00-00 +0000",
     "source": "startribune",
     "headline": "To make it on Broadway, ‘Purple Rain’ needs new script and new star",
     "link": "https://www.startribune.com/to-make-it-on-broadway-purple-rain-needs-new-script-and-new-star/601873353"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-08-02-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump said he wants a Qatari-donated jet used as Air Force One to be “maxed out.” Here’s a visual look at how it compares with other presidential jets.",
+    "link": "https://www.wsj.com/politics/national-security/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-048c5169"
   }
 ]
