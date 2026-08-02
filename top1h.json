@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 45,
+    "pubdate": "2026-08-02-09-00-06 +0000",
+    "source": "nyt",
+    "headline": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme",
+    "link": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-08-02-09-00-28 +0000",
+    "source": "nyt",
+    "headline": "How a Top Law Firm Went From Standing Up to Trump to Bending the Knee",
+    "link": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-02-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Workers Seeking Compensation for Injuries Face New Challenge: Fewer Lawyers",
+    "link": "https://www.wsj.com/us-news/law/workers-seeking-compensation-for-injuries-face-new-challenge-fewer-lawyers-8a2b4b48?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-02-09-10-51 +0000",
+    "source": "bbc",
+    "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+    "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-02-08-49-09 +0000",
+    "source": "nyt",
+    "headline": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
+    "link": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-08-02-09-01-40 +0000",
+    "source": "nyt",
+    "headline": "Five Big Moments in Michigan’s Democratic Senate Primary",
+    "link": "https://www.nytimes.com/2026/08/02/us/politics/five-big-moments-michigan-democratic-senate-primary.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-02-08-47-29 +0000",
+    "source": "nypost",
+    "headline": "Iceland seizes Paul Watson Foundation’s anti-whaling ship, detains 21 crew members",
+    "link": "https://nypost.com/2026/08/02/world-news/iceland-seizes-paul-watson-foundations-anti-whaling-ship-and-detains-its-crew/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-02-09-00-16 +0000",
+    "source": "nyt",
+    "headline": "Cowboys Fringants Bassist Is Named Quebec’s Chief Scientist",
+    "link": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-02-08-47-25 +0000",
+    "source": "nyt",
+    "headline": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
+    "link": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-02-09-00-58 +0000",
+    "source": "nyt",
+    "headline": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+    "link": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html"
+  }
+]

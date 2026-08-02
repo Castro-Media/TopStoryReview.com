@@ -1,27 +1,34 @@
 [
   {
-    "score": 89,
-    "pubdate": "2026-08-02-06-24-01 +0000",
+    "score": 86,
+    "pubdate": "2026-08-02-09-10-51 +0000",
     "source": "bbc",
-    "headline": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+    "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
     "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 57,
+    "score": 55,
     "pubdate": "2026-08-01-13-03-07 +0000",
     "source": "nypost",
     "headline": "Spain installing containment fence between Morocco and Ceuta after massive frontier rush killed 67",
     "link": "https://nypost.com/2026/08/01/world-news/spain-installing-containment-fence-on-ceutas-border-with-morocco-following-massive-frontier-rush-that-killed-67/"
   },
   {
-    "score": 50,
+    "score": 51,
+    "pubdate": "2026-08-02-09-00-06 +0000",
+    "source": "nyt",
+    "headline": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme",
+    "link": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
+  },
+  {
+    "score": 51,
     "pubdate": "2026-08-01-19-59-09 +0000",
     "source": "nyt",
     "headline": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
     "link": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html"
   },
   {
-    "score": 40,
+    "score": 41,
     "pubdate": "2026-08-01-10-00-00 +0000",
     "source": "latimes",
     "headline": "Newsom boasts of California's upcoming minimum wage increase, criticizes Trump for ignoring workers",
@@ -35,38 +42,31 @@
     "link": "https://www.wsj.com/us-news/law/prosecutors-drop-case-against-olympic-canoeist-charged-with-vandalizing-reflecting-pool-07009682"
   },
   {
-    "score": 36,
+    "score": 37,
     "pubdate": "2026-08-01-19-30-50 +0000",
     "source": "nyt",
     "headline": "Trump’s Polling Numbers Hit a New Low. Don’t Expect Him to Change Course.",
     "link": "https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html"
   },
   {
-    "score": 31,
-    "pubdate": "2026-08-02-05-17-45 +0000",
-    "source": "nyt",
-    "headline": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
-    "link": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html"
-  },
-  {
-    "score": 31,
+    "score": 34,
     "pubdate": "2026-08-02-03-04-00 +0000",
     "source": "wsj",
     "headline": "Three Dead, at Least Five Injured in Idaho Shooting at In-N-Out Restaurant",
     "link": "https://www.wsj.com/us-news/three-dead-at-least-five-injured-in-idaho-shooting-at-in-n-out-restaurant-63390e21"
   },
   {
-    "score": 31,
-    "pubdate": "2026-08-01-17-14-16 +0000",
-    "source": "nypost",
-    "headline": "Iranian hackers likely behind Minnesota water system attacks, but it’s ‘surprising’ country hasn’t taken credit, expert says",
-    "link": "https://nypost.com/2026/08/01/world-news/iranian-hackers-likely-behind-minnesota-water-system-attacks-but-its-surprising-country-hasnt-taken-credit-expert-says/"
+    "score": 34,
+    "pubdate": "2026-08-02-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "High-profile donors have given little or no money to the Democratic National Committee this year, and a running joke among some is that the DNC stands for “Do Not Contribute”",
+    "link": "https://www.wsj.com/politics/elections/democrat-fundraising-midterm-elections-57f3d73c"
   },
   {
-    "score": 30,
-    "pubdate": "2026-08-01-17-51-46 +0000",
-    "source": "bbc",
-    "headline": "Italy putting nearly all major cities on highest heat alert",
-    "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss"
+    "score": 32,
+    "pubdate": "2026-08-02-06-48-49 +0000",
+    "source": "nypost",
+    "headline": "13 tourists killed in plane crash near Peru’s famed Nazca Lines during viewing flight",
+    "link": "https://nypost.com/2026/08/02/world-news/peru-plane-crash-kills-13-european-tourists-near-nazca-lines-site/"
   }
 ]
