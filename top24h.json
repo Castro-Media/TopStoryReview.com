@@ -7,7 +7,7 @@
     "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 60,
+    "score": 58,
     "pubdate": "2026-08-02-10-30-34 +0000",
     "source": "nyt",
     "headline": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
@@ -56,17 +56,17 @@
     "link": "https://www.wsj.com/us-news/three-dead-at-least-five-injured-in-idaho-shooting-at-in-n-out-restaurant-63390e21"
   },
   {
-    "score": 35,
-    "pubdate": "2026-08-01-23-06-46 +0000",
-    "source": "nypost",
-    "headline": "Spain installs floating barrier as death toll from migrant invasion hits 67",
-    "link": "https://nypost.com/2026/08/01/world-news/spain-installs-floating-barrier-as-ceuta-death-toll-hits-67/"
-  },
-  {
     "score": 34,
     "pubdate": "2026-08-02-01-00-00 +0000",
     "source": "wsj",
     "headline": "High-profile donors have given little or no money to the Democratic National Committee this year, and a running joke among some is that the DNC stands for “Do Not Contribute”",
     "link": "https://www.wsj.com/politics/elections/democrat-fundraising-midterm-elections-57f3d73c"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-08-01-23-06-46 +0000",
+    "source": "nypost",
+    "headline": "Spain installs floating barrier as death toll from migrant invasion hits 67",
+    "link": "https://nypost.com/2026/08/01/world-news/spain-installs-floating-barrier-as-ceuta-death-toll-hits-67/"
   }
 ]
