@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-08-02 07:00 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-08-02 07:51 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html">After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-02-05-17-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss">Three killed after bomb detonated at Moscow restaurant, state media say</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-02-05-40-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html">Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-02-05-02-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/08/02/us-news/vincent-pastore-seen-celebrating-80th-birthday-with-right-hand-man-weeks-before-death/">&#8216;Sopranos&#8217; star Vincent Pastore seen celebrating 80th birthday with &#8216;right-hand man&#8217; weeks before death</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-08-02-04-52-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss">Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-02-05-26-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/08/02/us-news/spokane-washington-wildfire-torches-homes-turns-neighborhood-into-hellscape-in-terrifying-video/">Raging wildfire torches Spokane homes, turns neighborhood into hellscape: terrifying video</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-08-02-05-43-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cz05yrv4el5o?at_medium=RSS&at_campaign=rss">Parents save on school uniforms at city swap shop</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-02-04-53-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/01/us/wildfires-spokane-washington-evacuations.html">More Than a Dozen Wildfires Burn in Washington State, Forcing Evacuations</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-02-05-29-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss">Three killed after bomb detonated at Moscow restaurant, state media say</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-02-05-40-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss">Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-02-05-26-39 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -255,89 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/08/02/us-news/spokane-washington-wildfire-torches-homes-turns-neighborhood-into-hellscape-in-terrifying-video/">Raging wildfire torches Spokane homes, turns neighborhood into hellscape: terrifying video</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-08-02-05-43-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss">Three killed after bomb detonated at Moscow restaurant, state media say</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-02-05-40-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss">Three killed after bomb detonated at Moscow restaurant, state media say</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-02-05-40-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/01/us/wildfires-spokane-washington-evacuations.html">More Than a Dozen Wildfires Burn in Washington State, Forcing Evacuations</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-02-05-29-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss">Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-02-05-26-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss">Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-02-05-26-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html">After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-02-05-17-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html">After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-02-05-17-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html">Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-02-05-02-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html">Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-02-05-02-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cz05yrv4el5o?at_medium=RSS&at_campaign=rss">Parents save on school uniforms at city swap shop</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-02-04-53-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/08/02/us-news/vincent-pastore-seen-celebrating-80th-birthday-with-right-hand-man-weeks-before-death/">&#8216;Sopranos&#8217; star Vincent Pastore seen celebrating 80th birthday with &#8216;right-hand man&#8217; weeks before death</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-08-02-04-52-11 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2156,27 +2004,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-08-01-06-59-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html">Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-01-05-59-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html">Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-01-05-59-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/08/01/world-news/oprah-winfrey-says-she-will-close-her-school-for-girls-in-south-africa-next-year/">Oprah Winfrey says she will close her school for girls in South Africa</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-08-01-05-53-27 +0000</span></div>
             </li>
         
     </ul>
@@ -10576,13 +10403,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-07-26-08-30-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/07/26/terry-savage-what-trump-accounts-can-do-for-your-kids-future/">Terry Savage: What Trump accounts can do for your kids&#8217; future</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-07-26-06-30-28 +0000</span></div>
             </li>
         
     </ul>
