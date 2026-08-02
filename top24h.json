@@ -1,6 +1,6 @@
 [
   {
-    "score": 101,
+    "score": 97,
     "pubdate": "2026-08-02-15-40-24 +0000",
     "source": "chitri",
     "headline": "President Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
@@ -8,31 +8,17 @@
   },
   {
     "score": 53,
-    "pubdate": "2026-08-02-19-17-34 +0000",
-    "source": "nypost",
-    "headline": "Senate hopeful Abdul El-Sayed claims Dems are attacking his electability because he’s Muslim — a new poll suggests a different reason",
-    "link": "https://nypost.com/2026/08/02/us-news/abdul-el-sayed-claims-dems-are-attacking-his-electability-because-hes-muslim-polls-say-different/"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-08-02-13-50-27 +0000",
-    "source": "nyt",
-    "headline": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
-    "link": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-08-02-14-25-00 +0000",
-    "source": "wsj",
-    "headline": "Three Dead, at Least Five Injured in Idaho Shooting at In-N-Out Restaurant",
-    "link": "https://www.wsj.com/us-news/three-dead-at-least-five-injured-in-idaho-shooting-at-in-n-out-restaurant-63390e21"
-  },
-  {
-    "score": 51,
     "pubdate": "2026-08-02-19-02-00 +0000",
     "source": "wsj",
     "headline": "Sen. Bernie Moreno says his former son-in-law, Rep. Max Miller of Ohio, shouldn’t continue to serve in Congress, accusing Miller of “dangerous behavior” toward Moreno’s daughter",
     "link": "https://www.wsj.com/politics/elections/domestic-abuse-allegations-shake-ohio-congressmans-re-election-bid-7a4653a5"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-08-02-19-17-34 +0000",
+    "source": "nypost",
+    "headline": "Senate hopeful Abdul El-Sayed claims Dems are attacking his electability because he’s Muslim — a new poll suggests a different reason",
+    "link": "https://nypost.com/2026/08/02/us-news/abdul-el-sayed-claims-dems-are-attacking-his-electability-because-hes-muslim-polls-say-different/"
   },
   {
     "score": 47,
@@ -42,18 +28,11 @@
     "link": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
   },
   {
-    "score": 42,
-    "pubdate": "2026-08-02-15-48-00 +0000",
-    "source": "bbc",
-    "headline": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-    "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 41,
-    "pubdate": "2026-08-02-16-37-02 +0000",
-    "source": "bbc",
-    "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-    "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss"
+    "score": 44,
+    "pubdate": "2026-08-02-16-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump said he wants a Qatari-donated jet used as Air Force One to be “maxed out.” Here’s a visual look at how it compares with other presidential jets.",
+    "link": "https://www.wsj.com/politics/national-security/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-048c5169"
   },
   {
     "score": 41,
@@ -63,10 +42,31 @@
     "link": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html"
   },
   {
+    "score": 41,
+    "pubdate": "2026-08-02-08-22-24 +0000",
+    "source": "nypost",
+    "headline": "Homemade bomb carried by woman kills 3, injures 21 near Moscow restaurant, authorities say",
+    "link": "https://nypost.com/2026/08/02/world-news/russia-restaurant-bombing-kills-three-injures-21-in-moscow/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-08-02-16-37-02 +0000",
+    "source": "bbc",
+    "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+    "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-08-02-07-30-02 +0000",
+    "source": "nyt",
+    "headline": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
+    "link": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html"
+  },
+  {
     "score": 36,
-    "pubdate": "2026-08-02-16-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump said he wants a Qatari-donated jet used as Air Force One to be “maxed out.” Here’s a visual look at how it compares with other presidential jets.",
-    "link": "https://www.wsj.com/politics/national-security/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-048c5169"
+    "pubdate": "2026-08-02-18-09-25 +0000",
+    "source": "nypost",
+    "headline": "Italy takes ‘extraordinary’ step after 60K migrants rushed Spanish city following socialist leader’s open border policy",
+    "link": "https://nypost.com/2026/08/02/world-news/italy-takes-extraordinary-step-after-60k-migrants-rushed-spanish-city/"
   }
 ]
