@@ -1,20 +1,20 @@
 [
   {
-    "score": 120,
+    "score": 111,
     "pubdate": "2026-08-02-15-40-24 +0000",
     "source": "chitri",
     "headline": "President Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
     "link": "https://www.chicagotribune.com/2026/08/02/trump-iran-strikes-war-deal/"
   },
   {
-    "score": 54,
+    "score": 57,
     "pubdate": "2026-08-02-14-25-00 +0000",
     "source": "wsj",
     "headline": "Three Dead, at Least Five Injured in Idaho Shooting at In-N-Out Restaurant",
     "link": "https://www.wsj.com/us-news/three-dead-at-least-five-injured-in-idaho-shooting-at-in-n-out-restaurant-63390e21"
   },
   {
-    "score": 50,
+    "score": 52,
     "pubdate": "2026-08-02-13-50-27 +0000",
     "source": "nyt",
     "headline": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
@@ -28,14 +28,7 @@
     "link": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html"
   },
   {
-    "score": 49,
-    "pubdate": "2026-08-01-17-01-03 +0000",
-    "source": "nypost",
-    "headline": "Heartbreaking update in search for Netflix star Nirmal Purja who went missing in Pakistan avalanche",
-    "link": "https://nypost.com/2026/08/01/world-news/netflix-star-nirmal-purja-found-dead-after-pakistan-avalanche/"
-  },
-  {
-    "score": 46,
+    "score": 48,
     "pubdate": "2026-08-02-15-48-00 +0000",
     "source": "bbc",
     "headline": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
@@ -49,24 +42,31 @@
     "link": "https://nypost.com/2026/08/02/us-news/tech-bros-ai-fund-collapses-days-before-lavish-california-wedding/"
   },
   {
-    "score": 43,
+    "score": 42,
     "pubdate": "2026-08-02-06-48-49 +0000",
     "source": "nypost",
     "headline": "13 tourists killed in plane crash near Peru’s famed Nazca Lines during viewing flight",
     "link": "https://nypost.com/2026/08/02/world-news/peru-plane-crash-kills-13-european-tourists-near-nazca-lines-site/"
   },
   {
-    "score": 38,
-    "pubdate": "2026-08-02-16-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump said he wants a Qatari-donated jet used as Air Force One to be “maxed out.” Here’s a visual look at how it compares with other presidential jets.",
-    "link": "https://www.wsj.com/politics/national-security/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-048c5169"
+    "score": 40,
+    "pubdate": "2026-08-02-16-37-02 +0000",
+    "source": "bbc",
+    "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+    "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 38,
+    "score": 40,
     "pubdate": "2026-08-01-17-22-00 +0000",
     "source": "wsj",
     "headline": "U.S. Drops Vandalism Case Against Olympian, Says Reflecting Pool Work Was Botched",
     "link": "https://www.wsj.com/us-news/law/prosecutors-drop-case-against-olympic-canoeist-charged-with-vandalizing-reflecting-pool-07009682"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-08-02-12-00-00 +0000",
+    "source": "startribune",
+    "headline": "To make it on Broadway, ‘Purple Rain’ needs new script and new star",
+    "link": "https://www.startribune.com/to-make-it-on-broadway-purple-rain-needs-new-script-and-new-star/601873353"
   }
 ]
