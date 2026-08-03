@@ -1,55 +1,6 @@
 [
   {
-    "score": 49,
-    "pubdate": "2026-08-03-15-26-35 +0000",
-    "source": "nypost",
-    "headline": "GOP Sens. Cornyn, Tillis confirm they’ll back Todd Blanche for AG after he scraps Trump ‘anti-weaponization’ fund",
-    "link": "https://nypost.com/2026/08/03/us-news/gop-sens-cornyn-tillis-confirm-theyll-back-todd-blanche-for-ag/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-08-03-15-15-29 +0000",
-    "source": "nypost",
-    "headline": "Embattled Rep. Max Miller bizarrely posts audio of ex-wife accusing him of drug use while trying to fend off accusations",
-    "link": "https://nypost.com/2026/08/03/us-news/embattled-rep-max-miller-bizarrely-posts-audio-of-ex-wife-accusing-him-of-drug-use-while-trying-to-fend-off-accusations/"
-  },
-  {
-    "score": 25,
-    "pubdate": "2026-08-03-15-45-00 +0000",
-    "source": "wsj",
-    "headline": "Visa to Buy Fraud Defense Platform BioCatch in $2.4 Billion Deal",
-    "link": "https://www.wsj.com/finance/banking/visa-to-buy-fraud-defense-platform-biocatch-in-2-4-billion-deal-5e36f6e3?mod=rss_markets_main"
-  },
-  {
-    "score": 23,
-    "pubdate": "2026-08-03-15-38-00 +0000",
-    "source": "wsj",
-    "headline": "Opinion | The Way Out of Trump’s Iran Trap? We’ll Find Out in 2029",
-    "link": "https://www.wsj.com/opinion/the-way-out-of-trumps-iran-trap-well-find-out-in-2029-6abd049c"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-08-03-15-28-00 +0000",
-    "source": "wsj",
-    "headline": "Sarah Trone Garriott, the Democratic nominee for Iowa’s Third Congressional District, is one of a number of Democratic candidates who view politics as an extension of faith",
-    "link": "https://www.wsj.com/politics/policy/inside-the-democrats-push-to-win-back-religious-voters-7fcaadd0"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-08-03-15-02-34 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
-    "link": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-08-03-15-29-00 +0000",
-    "source": "wsj",
-    "headline": "Two holdout GOP senators who were blocking acting Attorney General Todd Blanche’s nomination said they now plan to advance him after he formally rescinded an “anti-weaponization fund”",
-    "link": "https://www.wsj.com/politics/policy/blanche-formally-rescinds-anti-weaponization-fund-in-bid-to-smooth-confirmation-a576496f"
-  },
-  {
-    "score": 17,
+    "score": 20,
     "pubdate": "2026-08-03-15-43-41 +0000",
     "source": "nypost",
     "headline": "Senate strikes government funding deal that would avert September shutdown",
@@ -57,16 +8,51 @@
   },
   {
     "score": 14,
+    "pubdate": "2026-08-03-15-45-00 +0000",
+    "source": "wsj",
+    "headline": "Visa to Buy Fraud Defense Platform BioCatch in $2.4 Billion Deal",
+    "link": "https://www.wsj.com/finance/banking/visa-to-buy-fraud-defense-platform-biocatch-in-2-4-billion-deal-5e36f6e3?mod=rss_markets_main"
+  },
+  {
+    "score": 12,
     "pubdate": "2026-08-03-15-42-08 +0000",
     "source": "nyt",
     "headline": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
     "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html"
   },
   {
-    "score": 14,
-    "pubdate": "2026-08-03-15-16-24 +0000",
+    "score": 11,
+    "pubdate": "2026-08-03-15-42-18 +0000",
+    "source": "bbc",
+    "headline": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+    "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-08-03-15-45-49 +0000",
     "source": "nyt",
-    "headline": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
-    "link": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html"
+    "headline": "Inside the Secretive Boards Deciding Trans Troops’ Fate",
+    "link": "https://www.nytimes.com/2026/08/03/us/politics/transgender-troops-ban.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-03-15-45-00 +0000",
+    "source": "wsj",
+    "headline": "Visa to Buy Fraud Defense Platform BioCatch in $2.4 Billion Deal",
+    "link": "https://www.wsj.com/finance/banking/visa-to-buy-fraud-defense-platform-biocatch-in-2-4-billion-deal-5e36f6e3?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-03-15-43-41 +0000",
+    "source": "nypost",
+    "headline": "Senate strikes government funding deal that would avert September shutdown",
+    "link": "https://nypost.com/2026/08/03/us-news/senate-strikes-government-funding-deal-that-would-avert-september-shutdown/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-03-15-42-08 +0000",
+    "source": "nyt",
+    "headline": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
+    "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html"
   }
 ]
