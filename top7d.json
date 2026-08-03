@@ -1,6 +1,6 @@
 [
   {
-    "score": 420,
+    "score": 416,
     "pubdate": "2026-08-02-15-40-24 +0000",
     "source": "chitri",
     "headline": "President Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
@@ -42,7 +42,7 @@
     "link": "https://www.wsj.com/economy/housing/mortgage-rates-jump-to-a-one-year-high-9ea35b8a"
   },
   {
-    "score": 121,
+    "score": 120,
     "pubdate": "2026-08-02-16-00-00 +0000",
     "source": "wsj",
     "headline": "Trump said he wants a Qatari-donated jet used as Air Force One to be “maxed out.” Here’s a visual look at how it compares with other presidential jets.",
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2026/08/03/business/elon-musks-spacex-aims-to-shake-off-ai-spending-fears-stock-slump-in-first-ever-earnings-report/"
   },
   {
-    "score": 97,
-    "pubdate": "2026-08-03-16-50-52 +0000",
-    "source": "cbc",
-    "headline": "Michigan Supreme Court rejects permit for Enbridge oil pipeline under Great Lakes",
-    "link": "https://www.cbc.ca/news/canada/calgary/michigan-supreme-court-enbridge-oil-pipeline-9.7294988?cmp=rss"
-  },
-  {
     "score": 96,
     "pubdate": "2026-08-03-14-21-17 +0000",
     "source": "nypost",
     "headline": "Ukraine drone crashes into Russian beach, killing 7, including 3 kids, after reportedly being hit with anti-aircraft fire",
     "link": "https://nypost.com/2026/08/03/world-news/russia-says-4-killed-at-holiday-resort-including-a-child-in-ukrainian-drone-attack/"
+  },
+  {
+    "score": 95,
+    "pubdate": "2026-08-03-16-50-52 +0000",
+    "source": "cbc",
+    "headline": "Michigan Supreme Court rejects permit for Enbridge oil pipeline under Great Lakes",
+    "link": "https://www.cbc.ca/news/canada/calgary/michigan-supreme-court-enbridge-oil-pipeline-9.7294988?cmp=rss"
   }
 ]
