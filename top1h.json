@@ -1,58 +1,72 @@
 [
   {
-    "score": 21,
-    "pubdate": "2026-08-03-04-01-06 +0000",
-    "source": "nyt",
-    "headline": "‘Do You Think if I Had a Job I Would Have Gone?’",
-    "link": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-08-03-04-01-09 +0000",
-    "source": "nyt",
-    "headline": "As France’s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
-    "link": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-08-03-03-32-21 +0000",
-    "source": "bbc",
-    "headline": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-    "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
+    "score": 32,
+    "pubdate": "2026-08-03-05-16-00 +0000",
+    "source": "wsj",
+    "headline": "Acting Attorney General Todd Blanche said he formally rescinded an “anti-weaponization fund” that became an impasse for two GOP senators blocking his confirmation to the permanent position",
+    "link": "https://www.wsj.com/politics/policy/blanche-formally-rescinds-anti-weaponization-fund-in-bid-to-smooth-confirmation-a576496f"
   },
   {
     "score": 10,
-    "pubdate": "2026-08-03-03-34-58 +0000",
-    "source": "nypost",
-    "headline": "Montana boy, 14, uses rodeo lasso to rescue man drowning in Yellowstone River: ‘Go get him’",
-    "link": "https://nypost.com/2026/08/02/us-news/montana-teen-uses-lasso-to-rescue-person-drowning-in-yellowstone-river/"
+    "pubdate": "2026-08-03-05-18-02 +0000",
+    "source": "nyt",
+    "headline": "Blanche Gives G.O.P. Senators Written Assurances on Trump’s I.R.S. Deal",
+    "link": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html"
   },
   {
-    "score": 5,
-    "pubdate": "2026-08-03-03-26-00 +0000",
+    "score": 10,
+    "pubdate": "2026-08-03-05-31-55 +0000",
+    "source": "bbc",
+    "headline": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
+    "link": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-03-05-57-00 +0000",
     "source": "wsj",
-    "headline": "More Coordinated U.S.-Japan FX Intervention Could Occur",
-    "link": "https://www.wsj.com/finance/currencies/yen-weakens-slightly-on-likely-technical-correction-cda7c245?mod=rss_markets_main"
+    "headline": "U.S., Japan Intervene to Boost Yen for First Time Since 1998",
+    "link": "https://www.wsj.com/finance/currencies/japan-intervened-to-support-yen-together-with-u-s-treasury-4627741f?mod=rss_markets_main"
   },
   {
-    "score": 0,
-    "pubdate": "2026-08-03-04-01-09 +0000",
-    "source": "nyt",
-    "headline": "As France’s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
-    "link": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html"
+    "score": 9,
+    "pubdate": "2026-08-03-05-35-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Treasury Yields Slide as Oil Falls Sharply, Mideast Diplomacy Returns",
+    "link": "https://www.wsj.com/finance/investing/short-dated-jgbs-fall-on-growing-boj-rate-increase-expectations-c0bac28f?mod=rss_markets_main"
   },
   {
-    "score": 0,
-    "pubdate": "2026-08-03-04-01-06 +0000",
-    "source": "nyt",
-    "headline": "‘Do You Think if I Had a Job I Would Have Gone?’",
-    "link": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html"
+    "score": 7,
+    "pubdate": "2026-08-03-05-55-00 +0000",
+    "source": "bbc",
+    "headline": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+    "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 0,
-    "pubdate": "2026-08-03-04-01-06 +0000",
+    "score": 6,
+    "pubdate": "2026-08-03-05-46-02 +0000",
+    "source": "nypost",
+    "headline": "Todd Blanche moves closer to confirmation after rescinding $1.8B fund",
+    "link": "https://nypost.com/2026/08/03/us-news/todd-blanche-moves-closer-to-confirmation-after-rescinding-1-8b-fund/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-08-03-05-18-41 +0000",
+    "source": "nypost",
+    "headline": "Cuba plunges into darkness as electric grid collapses",
+    "link": "https://nypost.com/2026/08/03/world-news/cuba-plunges-into-darkness-as-electric-grid-collapses/"
+  },
+  {
+    "score": 3,
+    "pubdate": "2026-08-03-05-50-38 +0000",
     "source": "nyt",
-    "headline": "‘Do You Think if I Had a Job I Would Have Gone?’",
-    "link": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html"
+    "headline": "U.S. and Japan Coordinated to Help Stabilize the Yen",
+    "link": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html"
+  },
+  {
+    "score": 3,
+    "pubdate": "2026-08-03-05-13-53 +0000",
+    "source": "nyt",
+    "headline": "Unraveling the Chaos in Ceuta",
+    "link": "https://www.nytimes.com/2026/08/02/world/spain-morocco-migration-iran.html"
   }
 ]
