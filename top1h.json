@@ -1,72 +1,72 @@
 [
   {
-    "score": 24,
-    "pubdate": "2026-08-04-07-11-35 +0000",
+    "score": 50,
+    "pubdate": "2026-08-04-09-14-09 +0000",
+    "source": "nypost",
+    "headline": "Spain’s World Cup hero Ferran Torres reveals why he wore Trump-inspired ‘Make Spain Great Again’ cap at victory parade",
+    "link": "https://nypost.com/2026/08/04/sports/spains-world-cup-hero-ferran-torres-reveals-why-he-wore-trump-inspired-make-spain-great-again-cap-at-victory-parade/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-08-04-09-08-40 +0000",
     "source": "bbc",
     "headline": "US states sue to block Trump tariffs impacting dozens of countries",
     "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 15,
-    "pubdate": "2026-08-04-07-31-44 +0000",
+    "score": 20,
+    "pubdate": "2026-08-04-09-42-12 +0000",
     "source": "nyt",
-    "headline": "Saudi Aramco Reports 33% Profit Surge Despite War’s Disruption",
-    "link": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html"
+    "headline": "Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-08-04-09-00-00 +0000",
+    "source": "wapo",
+    "headline": "Trump keeps making threats. Washington and the world have stopped flinching.",
+    "link": "https://www.washingtonpost.com/world/2026/08/04/trump-keeps-making-threats-washington-world-have-stopped-flinching/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-04-09-23-06 +0000",
+    "source": "bbc",
+    "headline": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+    "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-04-09-00-32 +0000",
+    "source": "nyt",
+    "headline": "Airport chaos, delays as E.U. debuts biometric border system",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-04-09-30-00 +0000",
+    "source": "nypost",
+    "headline": "Iran-backed hackers likely behind attack that shut down Minnesota water plant — and they’re not done yet",
+    "link": "https://nypost.com/2026/08/04/us-news/hackers-behind-minnesota-water-treatment-plant-attacks-are-likely-tied-to-iran/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-04-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "The ‘Fraud Squad’ at Caltech Will Catch You if You Lie on Your Application",
+    "link": "https://www.wsj.com/us-news/education/college-admissions-caltech-cheating-fraud-squad-f7627aab"
   },
   {
     "score": 14,
-    "pubdate": "2026-08-04-06-57-11 +0000",
-    "source": "nyt",
-    "headline": "Man Is Jailed for Concealing Mother’s Body in Freezer After Her Death",
-    "link": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-08-04-07-25-51 +0000",
+    "pubdate": "2026-08-04-09-43-00 +0000",
     "source": "wsj",
-    "headline": "Stock Market Today: Stocks Poised to Extend Gains Ahead of SpaceX's First Earnings",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026?mod=rss_markets_main"
+    "headline": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-9a2fe984?mod=rss_markets_main"
   },
   {
-    "score": 12,
-    "pubdate": "2026-08-04-06-57-48 +0000",
-    "source": "nyt",
-    "headline": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
-    "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-08-04-07-22-25 +0000",
-    "source": "nypost",
-    "headline": "Dashcam shows Florida trooper chasing alleged street takeover suspect at 140 mph",
-    "link": "https://nypost.com/2026/08/04/us-news/dashcam-shows-florida-trooper-chasing-alleged-street-takeover-suspect-at-140-mph/"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-08-04-07-21-00 +0000",
-    "source": "wsj",
-    "headline": "Continental on Track to Reach Tires Guidance Despite Higher Raw Material Costs",
-    "link": "https://www.wsj.com/business/earnings/continental-on-track-to-reach-tires-guidance-despite-higher-raw-material-costs-ca98bcba?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-08-04-06-59-00 +0000",
-    "source": "wsj",
-    "headline": "Eurozone Bond Yields Little Changed, Mideast Developments Remain Key",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-89af7200?mod=rss_markets_main"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-08-04-07-25-00 +0000",
-    "source": "wsj",
-    "headline": "European Indexes Rise in Strong Open as AI, Defense Stocks Gain",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-chip-stocks-e1d183bc?mod=rss_markets_main"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-08-04-06-56-47 +0000",
-    "source": "nyt",
-    "headline": "‘A War Zone’: Spokane Wildfires Leave a Devastating Trail of Destruction",
-    "link": "https://www.nytimes.com/2026/08/03/us/spokane-wildfires-update.html"
+    "score": 14,
+    "pubdate": "2026-08-04-09-35-06 +0000",
+    "source": "bbc",
+    "headline": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+    "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss"
   }
 ]
