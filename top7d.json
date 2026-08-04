@@ -1,27 +1,27 @@
 [
   {
-    "score": 423,
+    "score": 422,
     "pubdate": "2026-08-02-15-40-24 +0000",
     "source": "chitri",
     "headline": "President Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
     "link": "https://www.chicagotribune.com/2026/08/02/trump-iran-strikes-war-deal/"
   },
   {
-    "score": 175,
+    "score": 173,
     "pubdate": "2026-07-29-10-00-00 +0000",
     "source": "latimes",
     "headline": "California hopes to lure a new generation to electric cars, with help from rebates, high gas prices",
     "link": "https://www.latimes.com/california/story/2026-07-29/california-instant-rebates-new-used-electric-cars"
   },
   {
-    "score": 171,
+    "score": 170,
     "pubdate": "2026-08-03-20-40-00 +0000",
     "source": "wsj",
     "headline": "Two holdout GOP senators who were blocking acting Attorney General Todd Blanche’s nomination said they now plan to advance him after he formally rescinded an “anti-weaponization fund”",
     "link": "https://www.wsj.com/politics/policy/blanche-formally-rescinds-anti-weaponization-fund-in-bid-to-smooth-confirmation-a576496f"
   },
   {
-    "score": 141,
+    "score": 138,
     "pubdate": "2026-08-03-03-32-21 +0000",
     "source": "bbc",
     "headline": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
@@ -42,18 +42,25 @@
     "link": "https://nypost.com/2026/08/03/us-news/trump-says-jeanine-pirro-choked-by-tossing-out-reflecting-pool-vandalism-case-against-olympian/"
   },
   {
-    "score": 121,
+    "score": 120,
     "pubdate": "2026-07-30-16-00-00 +0000",
     "source": "wsj",
     "headline": "Mortgage rates jumped to their highest level in a year, dealing another blow to a long-stalled housing market that shows little sign of recovering",
     "link": "https://www.wsj.com/economy/housing/mortgage-rates-jump-to-a-one-year-high-9ea35b8a"
   },
   {
-    "score": 109,
+    "score": 113,
     "pubdate": "2026-08-03-16-56-02 +0000",
     "source": "nypost",
     "headline": "Elon Musk’s SpaceX aims to shake off AI spending fears, stock slump in first-ever earnings report",
     "link": "https://nypost.com/2026/08/03/business/elon-musks-spacex-aims-to-shake-off-ai-spending-fears-stock-slump-in-first-ever-earnings-report/"
+  },
+  {
+    "score": 103,
+    "pubdate": "2026-08-04-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "A little-used Fed backstop is being put to a use it was never designed for—bankrolling Japan’s defense of the yen—and Treasury Secretary Scott Bessent wants it to be expanded",
+    "link": "https://www.wsj.com/economy/central-banking/why-bessent-is-leaning-on-the-fed-to-help-prop-up-japans-currency-85794909"
   },
   {
     "score": 102,
@@ -61,12 +68,5 @@
     "source": "nyt",
     "headline": "Michigan’s Democratic Senate Primary Has Become the Party’s Ugliest Race of the Summer",
     "link": "https://www.nytimes.com/2026/08/03/us/politics/michigan-democratic-senate-primary-race-ideology.html"
-  },
-  {
-    "score": 101,
-    "pubdate": "2026-08-04-00-00-00 +0000",
-    "source": "wsj",
-    "headline": "A little-used Fed backstop is being put to a use it was never designed for—bankrolling Japan’s defense of the yen—and Treasury Secretary Scott Bessent wants it to be expanded",
-    "link": "https://www.wsj.com/economy/central-banking/why-bessent-is-leaning-on-the-fed-to-help-prop-up-japans-currency-85794909"
   }
 ]
