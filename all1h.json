@@ -1,116 +1,272 @@
 [
   {
-    "headline": "Five dead in Moscow as Ukraine continues warehouse strikes",
+    "headline": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-9a2fe984?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-04-09-43-00 +0000"
+  },
+  {
+    "headline": "Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-09-42-12 +0000"
+  },
+  {
+    "headline": "Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-09-42-12 +0000"
+  },
+  {
+    "headline": "What is Trump Media's Truth API and why is it controversial?",
+    "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-09-40-47 +0000"
+  },
+  {
+    "headline": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-33f3805e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-04-09-39-00 +0000"
+  },
+  {
+    "headline": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-33f3805e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-04-09-39-00 +0000"
+  },
+  {
+    "headline": "Five dead in Moscow region as Ukraine continues warehouse strikes",
     "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-08-04-07-42-56 +0000"
+    "pubdate": "2026-08-04-09-35-06 +0000"
   },
   {
-    "headline": "Saudi Aramco Reports 33% Profit Surge Despite War’s Disruption",
-    "link": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-08-04-07-31-44 +0000"
+    "headline": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+    "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-09-35-06 +0000"
   },
   {
-    "headline": "Saudi Aramco Reports 33% Profit Surge Despite War’s Disruption",
-    "link": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-08-04-07-31-44 +0000"
-  },
-  {
-    "headline": "Stock Market Today: Stocks Poised to Extend Gains Ahead of SpaceX's First Earnings",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026?mod=rss_markets_main",
+    "headline": "Fresenius Medical Care Shares Drop After U.S. Treatment Volumes Fall Further",
+    "link": "https://www.wsj.com/business/earnings/fresenius-medical-care-shares-drop-after-u-s-treatment-volumes-fall-further-2d857506?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-08-04-07-25-51 +0000"
+    "pubdate": "2026-08-04-09-35-00 +0000"
   },
   {
-    "headline": "European Indexes Rise in Strong Open as AI, Defense Stocks Gain",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-chip-stocks-e1d183bc?mod=rss_markets_main",
+    "headline": "Arson arrest made over largest of Washington state's wildfires",
+    "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-09-32-12 +0000"
+  },
+  {
+    "headline": "Only the Bank of Japan Can Arrest the Yen’s Decline",
+    "link": "https://www.wsj.com/world/asia/only-the-bank-of-japan-can-arrest-the-yens-decline-dc351568?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-08-04-07-25-00 +0000"
+    "pubdate": "2026-08-04-09-30-00 +0000"
   },
   {
-    "headline": "Dashcam shows Florida trooper chasing alleged street takeover suspect at 140 mph",
-    "link": "https://nypost.com/2026/08/04/us-news/dashcam-shows-florida-trooper-chasing-alleged-street-takeover-suspect-at-140-mph/",
+    "headline": "Only the Bank of Japan Can Arrest the Yen’s Decline",
+    "link": "https://www.wsj.com/world/asia/only-the-bank-of-japan-can-arrest-the-yens-decline-dc351568",
+    "source": "wsj",
+    "pubdate": "2026-08-04-09-30-00 +0000"
+  },
+  {
+    "headline": "The ‘Fraud Squad’ at Caltech Will Catch You if You Lie on Your Application",
+    "link": "https://www.wsj.com/us-news/education/college-admissions-caltech-cheating-fraud-squad-f7627aab",
+    "source": "wsj",
+    "pubdate": "2026-08-04-09-30-00 +0000"
+  },
+  {
+    "headline": "Iran-backed hackers likely behind attack that shut down Minnesota water plant — and they’re not done yet",
+    "link": "https://nypost.com/2026/08/04/us-news/hackers-behind-minnesota-water-treatment-plant-attacks-are-likely-tied-to-iran/",
     "source": "nypost",
-    "pubdate": "2026-08-04-07-22-25 +0000"
+    "pubdate": "2026-08-04-09-30-00 +0000"
   },
   {
-    "headline": "Continental on Track to Reach Tires Guidance Despite Higher Raw Material Costs",
-    "link": "https://www.wsj.com/business/earnings/continental-on-track-to-reach-tires-guidance-despite-higher-raw-material-costs-ca98bcba?mod=pls_whats_news_us_business_f",
+    "headline": "Astor Place subway station train fire hospitalizes 6 MTA workers, 5 firefighters",
+    "link": "https://nypost.com/2026/08/04/us-news/astor-place-subway-station-train-fire-hospitalizes-6-mta-workers-5-firefighters/",
+    "source": "nypost",
+    "pubdate": "2026-08-04-09-29-58 +0000"
+  },
+  {
+    "headline": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+    "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-09-23-06 +0000"
+  },
+  {
+    "headline": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+    "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-09-23-06 +0000"
+  },
+  {
+    "headline": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
+    "link": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-09-18-03 +0000"
+  },
+  {
+    "headline": "Spain’s World Cup hero Ferran Torres reveals why he wore Trump-inspired ‘Make Spain Great Again’ cap at victory parade",
+    "link": "https://nypost.com/2026/08/04/sports/spains-world-cup-hero-ferran-torres-reveals-why-he-wore-trump-inspired-make-spain-great-again-cap-at-victory-parade/",
+    "source": "nypost",
+    "pubdate": "2026-08-04-09-14-09 +0000"
+  },
+  {
+    "headline": "Spain’s World Cup hero Ferran Torres reveals why he wore Trump-inspired ‘Make Spain Great Again’ cap at victory parade",
+    "link": "https://nypost.com/2026/08/04/sports/spains-world-cup-hero-ferran-torres-reveals-why-he-wore-trump-inspired-make-spain-great-again-cap-at-victory-parade/",
+    "source": "nypost",
+    "pubdate": "2026-08-04-09-14-09 +0000"
+  },
+  {
+    "headline": "What will happen when a SpaceX rocket collides with the Moon?",
+    "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-09-13-37 +0000"
+  },
+  {
+    "headline": "What will happen when a SpaceX rocket collides with the Moon?",
+    "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-09-13-37 +0000"
+  },
+  {
+    "headline": "Lufthansa Shares Slide After Profit Slump, More Cautious Guidance",
+    "link": "https://www.wsj.com/business/earnings/lufthansa-tightens-2026-guidance-after-profit-slump-5b244362?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-08-04-07-21-00 +0000"
+    "pubdate": "2026-08-04-09-12-00 +0000"
   },
   {
-    "headline": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Analysis: Trump challenged by cold reality from top allies",
+    "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-08-04-07-13-40 +0000"
+    "pubdate": "2026-08-04-09-11-39 +0000"
+  },
+  {
+    "headline": "Analysis: Trump challenged by cold reality from top allies",
+    "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-09-11-39 +0000"
   },
   {
     "headline": "US states sue to block Trump tariffs impacting dozens of countries",
     "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-08-04-07-11-35 +0000"
+    "pubdate": "2026-08-04-09-08-40 +0000"
   },
   {
     "headline": "US states sue to block Trump tariffs impacting dozens of countries",
     "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-08-04-07-11-35 +0000"
+    "pubdate": "2026-08-04-09-08-40 +0000"
   },
   {
     "headline": "US states sue to block Trump tariffs impacting dozens of countries",
     "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-08-04-07-11-35 +0000"
+    "pubdate": "2026-08-04-09-08-40 +0000"
   },
   {
-    "headline": "Eurozone Bond Yields Little Changed, Mideast Developments Remain Key",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-89af7200?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-04-06-59-00 +0000"
+    "headline": "BP profits highest in four years as Iran war pushes up oil price",
+    "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-09-04-46 +0000"
   },
   {
-    "headline": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
-    "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
+    "headline": "How the War in Iran Is Complicating Trump’s Agenda at Home",
+    "link": "https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html",
     "source": "nyt",
-    "pubdate": "2026-08-04-06-57-48 +0000"
+    "pubdate": "2026-08-04-09-04-28 +0000"
   },
   {
-    "headline": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
-    "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
+    "headline": "How the War in Iran Is Complicating Trump’s Agenda at Home",
+    "link": "https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html",
     "source": "nyt",
-    "pubdate": "2026-08-04-06-57-48 +0000"
+    "pubdate": "2026-08-04-09-04-28 +0000"
   },
   {
-    "headline": "Man Is Jailed for Concealing Mother’s Body in Freezer After Her Death",
-    "link": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html",
+    "headline": "What’s It Like to Have an A.I. Boss?",
+    "link": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
     "source": "nyt",
-    "pubdate": "2026-08-04-06-57-11 +0000"
+    "pubdate": "2026-08-04-09-03-36 +0000"
   },
   {
-    "headline": "Man Is Jailed for Concealing Mother’s Body in Freezer After Her Death",
-    "link": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html",
+    "headline": "Michigan to decide bitter Senate Democratic primary in test for divided party",
+    "link": "https://www.bbc.co.uk/news/articles/c62q0kkr6k2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-09-03-31 +0000"
+  },
+  {
+    "headline": "These New Travel Initiatives Could Slash Airport Wait Times",
+    "link": "https://www.nytimes.com/2026/08/04/travel/tsa-security-airport-wait-time.html",
     "source": "nyt",
-    "pubdate": "2026-08-04-06-57-11 +0000"
+    "pubdate": "2026-08-04-09-02-53 +0000"
   },
   {
-    "headline": "Man Arrested on Suspicion of Arson in Spokane Wildfire",
-    "link": "https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html",
+    "headline": "Pacific Palisades Shopping Center Is Preparing to Reopen",
+    "link": "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html",
     "source": "nyt",
-    "pubdate": "2026-08-04-06-57-11 +0000"
+    "pubdate": "2026-08-04-09-01-59 +0000"
   },
   {
-    "headline": "‘A War Zone’: Spokane Wildfires Leave a Devastating Trail of Destruction",
-    "link": "https://www.nytimes.com/2026/08/03/us/spokane-wildfires-update.html",
+    "headline": "Why Arbitration Works for Baseball but Not for Health Care",
+    "link": "https://www.nytimes.com/2026/08/04/upshot/arbitration-doctors-prices-baseball.html",
     "source": "nyt",
-    "pubdate": "2026-08-04-06-56-47 +0000"
+    "pubdate": "2026-08-04-09-01-37 +0000"
   },
   {
-    "headline": "Dollar Rises After Iran Denies Talks With U.S.",
+    "headline": "Inside Uber’s Legal Strategy to Fight Sexual Assault Lawsuits",
+    "link": "https://www.nytimes.com/video/business/100000011021856/uber-sexual-assault-lawsuits.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-09-00-34 +0000"
+  },
+  {
+    "headline": "Airport chaos, delays as E.U. debuts biometric border system",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-09-00-32 +0000"
+  },
+  {
+    "headline": "Airport chaos, delays as E.U. debuts biometric border system",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-09-00-32 +0000"
+  },
+  {
+    "headline": "Uber’s Strategy for Fighting Sexual Assault Suits: ‘What Were You Wearing?’",
+    "link": "https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-09-00-12 +0000"
+  },
+  {
+    "headline": "Trump keeps making threats. Washington and the world have stopped flinching.",
+    "link": "https://www.washingtonpost.com/world/2026/08/04/trump-keeps-making-threats-washington-world-have-stopped-flinching/",
+    "source": "wapo",
+    "pubdate": "2026-08-04-09-00-00 +0000"
+  },
+  {
+    "headline": "Fed Warsh’s Tactics Pose Risk to Dollar Outlook",
     "link": "https://www.wsj.com/finance/currencies/dollar-rising-vs-yen-in-possible-corrective-pattern-technical-analysis-shows-d48a2527?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-08-04-06-54-00 +0000"
+    "pubdate": "2026-08-04-09-00-00 +0000"
+  },
+  {
+    "headline": "Trump keeps making threats. Washington and the world have stopped flinching.",
+    "link": "https://www.washingtonpost.com/world/2026/08/04/trump-keeps-making-threats-washington-world-have-stopped-flinching/",
+    "source": "wapo",
+    "pubdate": "2026-08-04-09-00-00 +0000"
+  },
+  {
+    "headline": "Trump keeps making threats. Washington and the world have stopped flinching.",
+    "link": "https://www.washingtonpost.com/world/2026/08/04/trump-keeps-making-threats-washington-world-have-stopped-flinching/",
+    "source": "wapo",
+    "pubdate": "2026-08-04-09-00-00 +0000"
+  },
+  {
+    "headline": "Volvo Car Sales Slip 4% on China Weakness",
+    "link": "https://www.wsj.com/business/earnings/volvo-car-sales-slip-4-on-china-weakness-7148ae7e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-04-08-49-00 +0000"
   }
 ]
