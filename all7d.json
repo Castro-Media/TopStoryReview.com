@@ -1,27 +1,219 @@
 [
   {
+    "headline": "Five dead in Moscow as Ukraine continues warehouse strikes",
+    "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-07-42-56 +0000"
+  },
+  {
+    "headline": "Saudi Aramco Reports 33% Profit Surge Despite War’s Disruption",
+    "link": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-07-31-44 +0000"
+  },
+  {
+    "headline": "Saudi Aramco Reports 33% Profit Surge Despite War’s Disruption",
+    "link": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-07-31-44 +0000"
+  },
+  {
+    "headline": "Stock Market Today: Stocks Poised to Extend Gains Ahead of SpaceX's First Earnings",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-04-07-25-51 +0000"
+  },
+  {
+    "headline": "European Indexes Rise in Strong Open as AI, Defense Stocks Gain",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-chip-stocks-e1d183bc?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-04-07-25-00 +0000"
+  },
+  {
+    "headline": "Dashcam shows Florida trooper chasing alleged street takeover suspect at 140 mph",
+    "link": "https://nypost.com/2026/08/04/us-news/dashcam-shows-florida-trooper-chasing-alleged-street-takeover-suspect-at-140-mph/",
+    "source": "nypost",
+    "pubdate": "2026-08-04-07-22-25 +0000"
+  },
+  {
+    "headline": "Continental on Track to Reach Tires Guidance Despite Higher Raw Material Costs",
+    "link": "https://www.wsj.com/business/earnings/continental-on-track-to-reach-tires-guidance-despite-higher-raw-material-costs-ca98bcba?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-04-07-21-00 +0000"
+  },
+  {
+    "headline": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
+    "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-07-13-40 +0000"
+  },
+  {
+    "headline": "US states sue to block Trump tariffs impacting dozens of countries",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-07-11-35 +0000"
+  },
+  {
+    "headline": "US states sue to block Trump tariffs impacting dozens of countries",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-07-11-35 +0000"
+  },
+  {
+    "headline": "US states sue to block Trump tariffs impacting dozens of countries",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-07-11-35 +0000"
+  },
+  {
+    "headline": "Eurozone Bond Yields Little Changed, Mideast Developments Remain Key",
+    "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-89af7200?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-04-06-59-00 +0000"
+  },
+  {
+    "headline": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
+    "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-06-57-48 +0000"
+  },
+  {
+    "headline": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
+    "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-06-57-48 +0000"
+  },
+  {
+    "headline": "Man Is Jailed for Concealing Mother’s Body in Freezer After Her Death",
+    "link": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-06-57-11 +0000"
+  },
+  {
+    "headline": "Man Is Jailed for Concealing Mother’s Body in Freezer After Her Death",
+    "link": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-06-57-11 +0000"
+  },
+  {
+    "headline": "Man Arrested on Suspicion of Arson in Spokane Wildfire",
+    "link": "https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-06-57-11 +0000"
+  },
+  {
+    "headline": "‘A War Zone’: Spokane Wildfires Leave a Devastating Trail of Destruction",
+    "link": "https://www.nytimes.com/2026/08/03/us/spokane-wildfires-update.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-06-56-47 +0000"
+  },
+  {
+    "headline": "Dollar Rises After Iran Denies Talks With U.S.",
+    "link": "https://www.wsj.com/finance/currencies/dollar-rising-vs-yen-in-possible-corrective-pattern-technical-analysis-shows-d48a2527?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-04-06-54-00 +0000"
+  },
+  {
+    "headline": "Prologis to Buy U.K.’s Segro for $18.8 Billion",
+    "link": "https://www.wsj.com/business/deals/prologis-to-buy-u-k-s-segro-for-18-8-billion-50b0ddd5?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-04-06-40-00 +0000"
+  },
+  {
+    "headline": "Ariana Grande says decision to step back 'was not reactive or impulsive'",
+    "link": "https://www.bbc.co.uk/news/articles/c6295z6jkw6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-06-36-18 +0000"
+  },
+  {
+    "headline": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
+    "link": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-06-36-06 +0000"
+  },
+  {
+    "headline": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
+    "link": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
+    "source": "nyt",
+    "pubdate": "2026-08-04-06-36-06 +0000"
+  },
+  {
+    "headline": "BP’s Profits Surge as Oil Traders Capitalize on Middle East Volatility",
+    "link": "https://www.wsj.com/business/earnings/bps-profits-surge-as-oil-traders-capitalize-on-middle-east-volatility-1cd07bc7?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-04-06-34-00 +0000"
+  },
+  {
+    "headline": "Saudi Aramco Profit Jumps 33% on Higher Oil Prices Amid Iran War",
+    "link": "https://www.wsj.com/business/energy-oil/saudi-aramco-profit-jumps-33-on-higher-oil-prices-amid-iran-war-3ae028ce?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-04-06-24-00 +0000"
+  },
+  {
+    "headline": "Saudi Aramco Profit Jumps 33% on Higher Oil Prices Amid Iran War",
+    "link": "https://www.wsj.com/business/energy-oil/saudi-aramco-profit-jumps-33-on-higher-oil-prices-amid-iran-war-3ae028ce",
+    "source": "wsj",
+    "pubdate": "2026-08-04-06-24-00 +0000"
+  },
+  {
+    "headline": "Bayer Swings to Net Profit on Smaller Litigation Charges",
+    "link": "https://www.wsj.com/business/earnings/bayer-swings-to-net-profit-on-smaller-litigation-charges-61a78f82?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-04-06-11-00 +0000"
+  },
+  {
+    "headline": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
+    "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-06-07-23 +0000"
+  },
+  {
+    "headline": "Lufthansa Tightens 2026 Guidance After Profit Slump",
+    "link": "https://www.wsj.com/business/earnings/lufthansa-tightens-2026-guidance-after-profit-slump-5b244362?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-04-06-06-00 +0000"
+  },
+  {
+    "headline": "Toyota Net Profit Surges 76%, Boosts Earnings Outlook",
+    "link": "https://www.wsj.com/business/autos/toyota-net-profit-surges-76-boosts-earnings-outlook-db362399?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-04-06-05-00 +0000"
+  },
+  {
+    "headline": "HSBC Posts Sharply Higher Quarterly Profit, Plans $1 Billion Share Buyback",
+    "link": "https://www.wsj.com/business/earnings/hsbc-posts-sharply-higher-quarterly-profit-plans-1-bln-share-buyback-00845c03?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-04-05-52-00 +0000"
+  },
+  {
+    "headline": "HSBC Posts Sharply Higher Quarterly Profit, Plans $1 Billion Share Buyback",
+    "link": "https://www.wsj.com/business/earnings/hsbc-posts-sharply-higher-quarterly-profit-plans-1-bln-share-buyback-00845c03?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-04-05-52-00 +0000"
+  },
+  {
     "headline": "Could heatwaves make your food shop more expensive?",
     "link": "https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-04-05-46-25 +0000"
   },
   {
-    "headline": "JPMorgan Again Entangled in a FIFA Fiasco",
-    "link": "https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html",
-    "source": "nyt",
-    "pubdate": "2026-08-04-05-33-25 +0000"
+    "headline": "Could heatwaves make your food shop more expensive?",
+    "link": "https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-05-46-25 +0000"
   },
   {
-    "headline": "JPMorgan Again Entangled in a FIFA Fiasco",
+    "headline": "JPMorgan Again Entangled in a Soccer Fiasco",
     "link": "https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html",
     "source": "nyt",
-    "pubdate": "2026-08-04-05-33-25 +0000"
+    "pubdate": "2026-08-04-05-33-26 +0000"
   },
   {
-    "headline": "‘A War Zone’: Spokane Wildfires Leave a Devastating Trail of Destruction",
-    "link": "https://www.nytimes.com/2026/08/03/us/spokane-wildfires-update.html",
+    "headline": "JPMorgan Again Entangled in a Soccer Fiasco",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html",
     "source": "nyt",
-    "pubdate": "2026-08-04-05-32-02 +0000"
+    "pubdate": "2026-08-04-05-33-26 +0000"
   },
   {
     "headline": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires",
@@ -30,7 +222,7 @@
     "pubdate": "2026-08-04-05-31-58 +0000"
   },
   {
-    "headline": "Horror bookshop aims to raise £20k to stay open",
+    "headline": "Horror bookshop in fight to stay open amid cost rises",
     "link": "https://www.bbc.co.uk/news/articles/c0l57w8ne92o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-04-05-14-34 +0000"
@@ -40,18 +232,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-04-04-22-12 +0000"
-  },
-  {
-    "headline": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
-    "link": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
-    "source": "nyt",
-    "pubdate": "2026-08-04-04-20-19 +0000"
-  },
-  {
-    "headline": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
-    "link": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
-    "source": "nyt",
-    "pubdate": "2026-08-04-04-20-19 +0000"
   },
   {
     "headline": "Falling Space Junk",
@@ -69,13 +249,13 @@
     "headline": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises",
     "link": "https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html",
     "source": "nyt",
-    "pubdate": "2026-08-04-04-01-18 +0000"
+    "pubdate": "2026-08-04-04-01-19 +0000"
   },
   {
     "headline": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises",
     "link": "https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html",
     "source": "nyt",
-    "pubdate": "2026-08-04-04-01-18 +0000"
+    "pubdate": "2026-08-04-04-01-19 +0000"
   },
   {
     "headline": "How the Mohegan Tribe Lost a Billion-Dollar Casino in South Korea",
@@ -216,18 +396,6 @@
     "pubdate": "2026-08-04-02-57-53 +0000"
   },
   {
-    "headline": "US states sue to block Trump tariffs impacting dozens of countries",
-    "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-04-02-53-00 +0000"
-  },
-  {
-    "headline": "US states sue to block Trump tariffs impacting dozens of countries",
-    "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-04-02-53-00 +0000"
-  },
-  {
     "headline": "Darline Graham pledges to nuke the filibuster, stand ‘100% behind’ Trump’ in South Carolina Senate primary debate",
     "link": "https://nypost.com/2026/08/03/us-news/darline-graham-pledges-to-nuke-the-filibuster-stand-100-behind-trump-in-south-carolina-senate-primary-debate/",
     "source": "nypost",
@@ -244,12 +412,6 @@
     "link": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-04-02-47-26 +0000"
-  },
-  {
-    "headline": "Singapore Dollar Consolidates, May Benefit From Yen Appreciation Trend",
-    "link": "https://www.wsj.com/finance/currencies/dollar-rising-vs-yen-in-possible-corrective-pattern-technical-analysis-shows-d48a2527?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-04-02-46-00 +0000"
   },
   {
     "headline": "Hasan Piker marvels at ‘white dude bros’ supporting far-left candidate Abdul El-Sayed on eve of Michigan Senate primary",
@@ -426,12 +588,6 @@
     "pubdate": "2026-08-04-00-55-34 +0000"
   },
   {
-    "headline": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
-    "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-04-00-50-33 +0000"
-  },
-  {
     "headline": "UCLA sorority sister dies in freak accident on popular Washington hiking trail",
     "link": "https://nypost.com/2026/08/03/us-news/ucla-sorority-sister-21-dies-in-accidental-fall-on-seattle-hiking-trail/",
     "source": "nypost",
@@ -486,12 +642,6 @@
     "pubdate": "2026-08-04-00-21-28 +0000"
   },
   {
-    "headline": "Nikkei Rises 0.4%, Led by Chip Stocks",
-    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-chip-stocks-e1d183bc?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-04-00-18-00 +0000"
-  },
-  {
     "headline": "Why is Trump Media selling early access to Trump's Truth Social posts?",
     "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -504,10 +654,10 @@
     "pubdate": "2026-08-04-00-17-48 +0000"
   },
   {
-    "headline": "JGBs Edge Higher, Tracking Gains in U.S. Treasurys",
-    "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-89af7200?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-04-00-15-00 +0000"
+    "headline": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+    "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-00-17-48 +0000"
   },
   {
     "headline": "Oil Falls Amid Prospects for Reopening of Strait of Hormuz",
@@ -516,7 +666,13 @@
     "pubdate": "2026-08-04-00-03-00 +0000"
   },
   {
-    "headline": "Analysis: Trump fumes as top allies back down on his personal battles",
+    "headline": "Analysis: Trump challenged by cold reality from top allies",
+    "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-04-00-02-40 +0000"
+  },
+  {
+    "headline": "Analysis: Trump challenged by cold reality from top allies",
     "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-04-00-02-40 +0000"
@@ -594,6 +750,12 @@
     "pubdate": "2026-08-03-23-25-14 +0000"
   },
   {
+    "headline": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+    "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-03-23-25-14 +0000"
+  },
+  {
     "headline": "Brute allegedly shoves stranger into Baltimore’s Inner Harbor and leaves him to drown: ‘Oh, well’",
     "link": "https://nypost.com/2026/08/03/us-news/man-allegedly-shoves-stranger-into-baltimores-inner-harbor-and-leaves-him-to-drown-oh-well/",
     "source": "nypost",
@@ -612,19 +774,13 @@
     "pubdate": "2026-08-03-23-21-10 +0000"
   },
   {
-    "headline": "Trump DOJ gives school district 7-day ultimatum over student trans policy that keeps parents in the dark",
-    "link": "https://nypost.com/2026/08/03/us-news/trump-doj-gives-school-district-7-day-ultimatum-over-trans-policy-that-keeps-parents-in-the-dark/",
-    "source": "nypost",
-    "pubdate": "2026-08-03-23-20-42 +0000"
-  },
-  {
-    "headline": "What heatwaves mean for summer weddings – and how to plan for one",
+    "headline": "Heatwaves are changing summer weddings - here's how to plan for one",
     "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-03-23-20-15 +0000"
   },
   {
-    "headline": "What heatwaves mean for summer weddings – and how to plan for one",
+    "headline": "Heatwaves are changing summer weddings - here's how to plan for one",
     "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-03-23-20-15 +0000"
@@ -640,6 +796,12 @@
     "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-03-23-14-12 +0000"
+  },
+  {
+    "headline": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+    "link": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-03-23-13-03 +0000"
   },
   {
     "headline": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
@@ -888,6 +1050,12 @@
     "pubdate": "2026-08-03-21-43-10 +0000"
   },
   {
+    "headline": "EU calls for stronger borders after Ceuta migrant crossings",
+    "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-03-21-43-10 +0000"
+  },
+  {
     "headline": "Arson suspect arrested in connection with Washington state wildfire",
     "link": "https://www.cbc.ca/news/world/washington-state-wildfire-evacuees-9.7295264?cmp=rss",
     "source": "cbc",
@@ -942,6 +1110,18 @@
     "pubdate": "2026-08-03-21-24-03 +0000"
   },
   {
+    "headline": "Charred homes, burned out cars - before and after images show Spokane wildfire destruction",
+    "link": "https://www.bbc.co.uk/news/videos/c70gjkxel0zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-03-21-23-42 +0000"
+  },
+  {
+    "headline": "Charred homes, burned out cars - before and after images show Spokane wildfire destruction",
+    "link": "https://www.bbc.co.uk/news/videos/c70gjkxel0zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-03-21-23-42 +0000"
+  },
+  {
     "headline": "JPMorgan to invest $750B to help 500K Americans buy homes",
     "link": "https://nypost.com/2026/08/03/business/jpmorgan-to-invest-750b-to-help-500k-americans-buy-homes/",
     "source": "nypost",
@@ -964,18 +1144,6 @@
     "link": "https://www.wsj.com/us-news/education/brown-university-president-christina-paxson-resigns-6242b0e6",
     "source": "wsj",
     "pubdate": "2026-08-03-21-18-00 +0000"
-  },
-  {
-    "headline": "Man Is Jailed for Concealing Mother’s Body in Freezer After Her Death",
-    "link": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html",
-    "source": "nyt",
-    "pubdate": "2026-08-03-21-17-00 +0000"
-  },
-  {
-    "headline": "Man Is Jailed for Concealing Mother’s Body in Freezer After Her Death",
-    "link": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html",
-    "source": "nyt",
-    "pubdate": "2026-08-03-21-17-00 +0000"
   },
   {
     "headline": "25 states sue over Trump's new tariffs, calling them 'pretext' to replace his old ones",
@@ -1034,12 +1202,6 @@
   {
     "headline": "Auto & Transport Roundup: Market Talk",
     "link": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-226d8148?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-03-21-01-00 +0000"
-  },
-  {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-226d8148?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-03-21-01-00 +0000"
   },
@@ -1104,12 +1266,6 @@
     "pubdate": "2026-08-03-20-44-00 +0000"
   },
   {
-    "headline": "ON Semiconductor Reports Higher Profit, Revenue on Growing AI Data Center Business",
-    "link": "https://www.wsj.com/business/earnings/on-semiconductor-reports-higher-profit-revenue-on-growing-ai-data-center-business-f3ba5bbe?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-03-20-44-00 +0000"
-  },
-  {
     "headline": "Inland Empire's KCAL-FM cuts entire on-air staff in move to all-music programming",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-03/inland-empires-kcal-fm-laid-off-entire-on-air-radio-staff",
     "source": "latimes",
@@ -1126,12 +1282,6 @@
     "link": "https://www.wsj.com/politics/policy/blanche-formally-rescinds-anti-weaponization-fund-in-bid-to-smooth-confirmation-a576496f",
     "source": "wsj",
     "pubdate": "2026-08-03-20-40-00 +0000"
-  },
-  {
-    "headline": "Clorox Projects Tough Fiscal Year with Inflation, Value-Seeking Customers",
-    "link": "https://www.wsj.com/business/earnings/clorox-projects-tough-fiscal-year-2027-with-inflation-value-seeking-customers-b66cb187?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-03-20-36-00 +0000"
   },
   {
     "headline": "California sues Trump to block latest tariffs, sharing of needy families' data with ICE",
@@ -1218,6 +1368,12 @@
     "pubdate": "2026-08-03-20-05-46 +0000"
   },
   {
+    "headline": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
+    "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-03-20-05-46 +0000"
+  },
+  {
     "headline": "An FBI counterintelligence agent is accused of taking about $1 million of cryptocurrency from the digital accounts of an overseas suspect in a U.S. criminal probe, according to court documents",
     "link": "https://www.wsj.com/politics/policy/fbi-agent-is-accused-of-taking-cryptocurrency-from-suspects-accounts-4ea7c387",
     "source": "wsj",
@@ -1240,6 +1396,12 @@
     "link": "https://www.chicagotribune.com/2026/08/03/city-divvy-stations-lakefront/",
     "source": "chitri",
     "pubdate": "2026-08-03-20-00-22 +0000"
+  },
+  {
+    "headline": "'She folded like an umbrella' - Trump slams Jeanine Pirro over Reflecting Pool case",
+    "link": "https://www.bbc.co.uk/news/videos/ce34xngy03ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-03-19-56-58 +0000"
   },
   {
     "headline": "Trump set to visit L.A. for fundraiser. Attacking Newsom is on the agenda",
@@ -1764,18 +1926,6 @@
     "pubdate": "2026-08-03-15-43-41 +0000"
   },
   {
-    "headline": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
-    "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
-    "source": "nyt",
-    "pubdate": "2026-08-03-15-42-08 +0000"
-  },
-  {
-    "headline": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
-    "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
-    "source": "nyt",
-    "pubdate": "2026-08-03-15-42-08 +0000"
-  },
-  {
     "headline": "Opinion | The Horsemen Among the High-Rises",
     "link": "https://www.wsj.com/opinion/the-horsemen-among-the-high-rises-29b3d27d",
     "source": "wsj",
@@ -1894,6 +2044,12 @@
     "link": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-03-14-54-33 +0000"
+  },
+  {
+    "headline": "Watch: Texas sinkhole swallows pickup truck",
+    "link": "https://www.bbc.co.uk/news/videos/c62e9r0mndpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-03-14-48-14 +0000"
   },
   {
     "headline": "KKR to Buy Integer Holdings for $4.3 Billion",
@@ -2244,10 +2400,10 @@
     "pubdate": "2026-08-03-11-00-00 +0000"
   },
   {
-    "headline": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-    "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+    "headline": "Ex-refugee's 'full circle' Commonwealth Games win",
+    "link": "https://www.bbc.co.uk/news/articles/c7vg1p2vd3go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-08-03-10-59-12 +0000"
+    "pubdate": "2026-08-03-10-52-25 +0000"
   },
   {
     "headline": "Under-fire FIFA boss Gianni Infantino begs Trump White House to save his job: sources",
@@ -2514,12 +2670,6 @@
     "pubdate": "2026-08-03-08-00-00 +0000"
   },
   {
-    "headline": "Stock Market News, August 3, 2026: Stocks Rally, Oil Slides on Return to Mideast Diplomacy",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-03-07-58-14 +0000"
-  },
-  {
     "headline": "European Energy Stocks Fall as Oil Slumps on Renewed U.S.-Iran Diplomacy",
     "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-4-dragged-by-electronics-auto-stocks-e85119b4?mod=rss_markets_main",
     "source": "wsj",
@@ -2602,6 +2752,12 @@
     "link": "https://www.wsj.com/business/retail/aperol-can-tap-into-beer-market-at-sports-and-music-events-campari-ceo-says-24a643a3?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-03-06-21-00 +0000"
+  },
+  {
+    "headline": "Semenyo hails Maresca style of play as 'music to my ears'",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cglj1zz5g92o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-03-06-00-26 +0000"
   },
   {
     "headline": "U.S. and Japan Coordinated to Help Stabilize the Yen",
@@ -3000,6 +3156,12 @@
     "pubdate": "2026-08-02-18-28-29 +0000"
   },
   {
+    "headline": "Final medal table as Nigeria lead for Africa at Glasgow 2026",
+    "link": "https://www.bbc.co.uk/sport/articles/crl788216dro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-02-18-26-59 +0000"
+  },
+  {
     "headline": "Pakistan Police Station Bombing Kills at Least 14",
     "link": "https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html",
     "source": "nyt",
@@ -3100,12 +3262,6 @@
     "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-02-16-52-35 +0000"
-  },
-  {
-    "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-    "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-02-16-37-02 +0000"
   },
   {
     "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
@@ -3296,12 +3452,6 @@
   {
     "headline": "OPEC, Allies Increase Oil Output for Sixth Time in a Row",
     "link": "https://www.wsj.com/business/energy-oil/opec-allies-increase-oil-output-for-sixth-time-in-a-row-e56378d9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-02-11-57-00 +0000"
-  },
-  {
-    "headline": "OPEC, Allies Increase Oil Output for Sixth Time in a Row",
-    "link": "https://www.wsj.com/business/energy-oil/opec-allies-increase-oil-output-for-sixth-time-in-a-row-e56378d9",
     "source": "wsj",
     "pubdate": "2026-08-02-11-57-00 +0000"
   },
@@ -3762,12 +3912,6 @@
     "pubdate": "2026-08-01-19-39-48 +0000"
   },
   {
-    "headline": "Crowds line Amsterdam's canals for Pride boat parade",
-    "link": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-01-19-39-48 +0000"
-  },
-  {
     "headline": "Man dies after boat carrying 21 migrants is intercepted near San Clemente Island",
     "link": "https://www.latimes.com/california/story/2026-08-01/man-dies-after-boat-carrying-21-migrants-intercepted-off-socal-coast",
     "source": "latimes",
@@ -3790,12 +3934,6 @@
     "link": "https://www.wsj.com/us-news/law/prosecutors-drop-case-against-olympic-canoeist-charged-with-vandalizing-reflecting-pool-07009682",
     "source": "wsj",
     "pubdate": "2026-08-01-17-22-00 +0000"
-  },
-  {
-    "headline": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-    "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-01-17-16-51 +0000"
   },
   {
     "headline": "I Flew in the Douglas DC-3, a WWII Workhorse of Aviation, Over the Amazon",
@@ -4182,12 +4320,6 @@
     "pubdate": "2026-08-01-07-28-21 +0000"
   },
   {
-    "headline": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-01-07-22-30 +0000"
-  },
-  {
     "headline": "Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?",
     "link": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html",
     "source": "nyt",
@@ -4224,12 +4356,6 @@
     "pubdate": "2026-08-01-03-00-00 +0000"
   },
   {
-    "headline": "Watch: Why Fifa dropped plans to sell stakes in the World Cup",
-    "link": "https://www.bbc.co.uk/news/videos/cvgj0vldr1mo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-01-02-44-09 +0000"
-  },
-  {
     "headline": "Next Met Gala Show Will Honor John Galliano, Celebrated Designer Infamous for Antisemitic Rant",
     "link": "https://www.nytimes.com/2026/07/31/style/met-gala-costume-institute-john-galliano.html",
     "source": "nyt",
@@ -4254,12 +4380,6 @@
     "pubdate": "2026-08-01-02-00-00 +0000"
   },
   {
-    "headline": "Iran War Pushes Companies to Raise Prices on Beer, Paint, Fries and More",
-    "link": "https://www.wsj.com/business/iran-war-pushes-companies-to-raise-prices-on-beer-paint-fries-and-more-e55d31b2?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-01-02-00-00 +0000"
-  },
-  {
     "headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
     "link": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
     "source": "latimes",
@@ -4276,12 +4396,6 @@
     "link": "https://www.chicagotribune.com/2026/07/31/harry-benton-harassment-report/",
     "source": "chitri",
     "pubdate": "2026-08-01-01-01-32 +0000"
-  },
-  {
-    "headline": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back",
-    "link": "https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-01-01-00-00 +0000"
   },
   {
     "headline": "Fire at abandoned home spread to his house. A Larchmont man is determined to rebuild",
@@ -4512,12 +4626,6 @@
     "pubdate": "2026-07-31-21-26-18 +0000"
   },
   {
-    "headline": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
-    "link": "https://www.bbc.co.uk/news/articles/c86n0336082o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-31-21-18-30 +0000"
-  },
-  {
     "headline": "Idi Amin's grandson fights at Commonwealth Games",
     "link": "https://www.bbc.co.uk/sport/boxing/videos/c74g1nxq9jko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -4528,12 +4636,6 @@
     "link": "https://www.wsj.com/finance/stocks/amazon-and-apple-deliver-the-drama-to-close-a-turbulent-month-41d82dc9?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-07-31-21-12-00 +0000"
-  },
-  {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-f24900eb?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-31-21-10-00 +0000"
   },
   {
     "headline": "Greyhounds bound for Australia as New Zealand racing ban takes effect",
@@ -5038,12 +5140,6 @@
     "link": "https://www.chicagotribune.com/2026/07/31/major-oil-companies-reap-profits-iran/",
     "source": "chitri",
     "pubdate": "2026-07-31-13-27-35 +0000"
-  },
-  {
-    "headline": "At least 25 people killed in Algeria bus crash",
-    "link": "https://www.bbc.co.uk/news/articles/cg5l0dj86y8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-31-13-26-28 +0000"
   },
   {
     "headline": "Europe Is Caught Between Low Gas Reserves and Rising Prices From Iran War",
@@ -5568,12 +5664,6 @@
     "pubdate": "2026-07-30-19-53-45 +0000"
   },
   {
-    "headline": "Archbishop of Canterbury committed to £100m slavery fund",
-    "link": "https://www.bbc.co.uk/news/articles/cp9e03ymreyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-30-19-44-00 +0000"
-  },
-  {
     "headline": "Bond Investors’ Inflation Angst Rises on Fed’s Lack of Guidance",
     "link": "https://www.nytimes.com/2026/07/30/business/federal-reserve-warsh-bonds.html",
     "source": "nyt",
@@ -5736,12 +5826,6 @@
     "pubdate": "2026-07-30-16-50-00 +0000"
   },
   {
-    "headline": "Belgium says a Canadian intern is suspected of spying at Nato. Here's what we know",
-    "link": "https://www.bbc.co.uk/news/articles/cwymk20n0v7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-30-16-48-40 +0000"
-  },
-  {
     "headline": "Greens review social media operation as Polanski row rumbles on",
     "link": "https://www.bbc.co.uk/news/articles/cz97ke8dn9wo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5752,12 +5836,6 @@
     "link": "https://www.cbc.ca/news/canada/toronto/go-eu-program-ontario-canada-announcement-9.7290789?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-07-30-16-36-38 +0000"
-  },
-  {
-    "headline": "U.S. GDP Growth Slowed in Second Quarter of 2026",
-    "link": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html",
-    "source": "nyt",
-    "pubdate": "2026-07-30-16-29-07 +0000"
   },
   {
     "headline": "U.S. GDP Growth Slowed in Second Quarter of 2026",
@@ -5982,6 +6060,12 @@
     "pubdate": "2026-07-30-10-00-00 +0000"
   },
   {
+    "headline": "Trust, not tracking: Inside the L.A. company that got workers back to the office",
+    "link": "https://www.latimes.com/business/story/2026-07-30/how-la-company-ditched-rigid-office-mandates-got-workers-back",
+    "source": "latimes",
+    "pubdate": "2026-07-30-10-00-00 +0000"
+  },
+  {
     "headline": "Major record labels propose guidelines for AI music on the charts",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-07-30/major-record-labels-propose-guidelines-for-ai-music-on-charts",
     "source": "latimes",
@@ -5990,12 +6074,6 @@
   {
     "headline": "Real stunts, relatable emotions: How 'Spider-Man: Brand New Day' is fighting superhero fatigue",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-07-30/how-spider-man-brand-new-day-is-fighting-superhero-fatigue",
-    "source": "latimes",
-    "pubdate": "2026-07-30-10-00-00 +0000"
-  },
-  {
-    "headline": "Trust, not tracking: Inside the L.A. company that got workers back to the office",
-    "link": "https://www.latimes.com/business/story/2026-07-30/how-la-company-ditched-rigid-office-mandates-got-workers-back",
     "source": "latimes",
     "pubdate": "2026-07-30-10-00-00 +0000"
   },
@@ -6120,22 +6198,10 @@
     "pubdate": "2026-07-30-01-00-00 +0000"
   },
   {
-    "headline": "What to know about 'explosive diarrhoea' parasite outbreak in US",
-    "link": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-30-00-52-09 +0000"
-  },
-  {
     "headline": "Ex-Speaker Michael Madigan petitions Supreme Court to hear corruption case",
     "link": "https://www.chicagotribune.com/2026/07/29/ex-speaker-michael-madigan-petitions-supreme-court-to-hear-corruption-case/",
     "source": "chitri",
     "pubdate": "2026-07-30-00-45-00 +0000"
-  },
-  {
-    "headline": "The Rise of Million-Dollar Companies With Just One Employee",
-    "link": "https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-30-00-00-00 +0000"
   },
   {
     "headline": "After residential school survivors speak out, Ottawa reinstates funding to travel for counselling",
@@ -6192,12 +6258,6 @@
     "pubdate": "2026-07-29-22-24-06 +0000"
   },
   {
-    "headline": "Worth $5m? Visitors react to renovated Washington horse statues",
-    "link": "https://www.bbc.co.uk/news/videos/cly8xzmwpvmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-29-22-23-08 +0000"
-  },
-  {
     "headline": "The Chinese robot army transforming the UK's retail industry",
     "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -6226,12 +6286,6 @@
     "link": "https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html",
     "source": "nyt",
     "pubdate": "2026-07-29-21-41-20 +0000"
-  },
-  {
-    "headline": "MGM Resorts Revenue Edges Up, Driven by Las Vegas Strip",
-    "link": "https://www.wsj.com/business/hospitality/mgm-resorts-posts-higher-profit-and-revenue-driven-by-las-vegas-ae95f35f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-29-21-40-00 +0000"
   },
   {
     "headline": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
@@ -6642,12 +6696,6 @@
     "pubdate": "2026-07-29-10-40-35 +0000"
   },
   {
-    "headline": "Hiltzik: Republicans want to turn the clock back — to the red-baiting Fifties",
-    "link": "https://www.latimes.com/business/story/2026-07-29/republicans-want-to-turn-clock-back-to-red-baiting-fifties",
-    "source": "latimes",
-    "pubdate": "2026-07-29-10-00-00 +0000"
-  },
-  {
     "headline": "Once high-flying PayPal becomes a takeover target as it attempts a turnaround",
     "link": "https://www.latimes.com/business/story/2026-07-29/once-high-flying-paypal-becomes-takeover-target-as-it-attempts-turnaround",
     "source": "latimes",
@@ -6656,6 +6704,12 @@
   {
     "headline": "OpenAI bot's rogue attack rattles industry leaders, policymakers and consumers",
     "link": "https://www.latimes.com/business/story/2026-07-29/openai-said-its-ai-went-rogue-what-can-you-do-to-protect-yourself-from-rogue-ais",
+    "source": "latimes",
+    "pubdate": "2026-07-29-10-00-00 +0000"
+  },
+  {
+    "headline": "Hiltzik: Republicans want to turn the clock back — to the red-baiting Fifties",
+    "link": "https://www.latimes.com/business/story/2026-07-29/republicans-want-to-turn-clock-back-to-red-baiting-fifties",
     "source": "latimes",
     "pubdate": "2026-07-29-10-00-00 +0000"
   },
@@ -6748,12 +6802,6 @@
     "link": "https://www.bbc.co.uk/videos/cr47gvdk9n3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-07-29-07-23-40 +0000"
-  },
-  {
-    "headline": "Standard Chartered Posts Profit Beat, Announces $1 Billion Buyback",
-    "link": "https://www.wsj.com/finance/banking/stanchart-posts-profit-beat-announces-1-0-bln-buyback-54606388?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-07-29-06-55-00 +0000"
   },
   {
     "headline": "Terry Savage: Stress test your money",
@@ -6898,12 +6946,6 @@
     "link": "https://www.chicagotribune.com/2026/07/28/iranian-attack-thwarted-american-troops/",
     "source": "chitri",
     "pubdate": "2026-07-28-23-00-25 +0000"
-  },
-  {
-    "headline": "'Don't wait until you want revenge' - why prenups are on the rise",
-    "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-07-28-23-00-07 +0000"
   },
   {
     "headline": "Community leaders press Gov. JB Pritzker to help reopen West Suburban and Weiss hospitals",
@@ -7212,14 +7254,14 @@
     "pubdate": "2026-07-28-10-00-00 +0000"
   },
   {
-    "headline": "Trump administration targeted California and other blue states for clean energy cuts",
-    "link": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
+    "headline": "No matter who wins, this South L.A. city council district will see a historic change",
+    "link": "https://www.latimes.com/california/story/2026-07-28/south-la-city-council-district-no-matter-who-wins",
     "source": "latimes",
     "pubdate": "2026-07-28-10-00-00 +0000"
   },
   {
-    "headline": "No matter who wins, this South L.A. city council district will see a historic change",
-    "link": "https://www.latimes.com/california/story/2026-07-28/south-la-city-council-district-no-matter-who-wins",
+    "headline": "Trump administration targeted California and other blue states for clean energy cuts",
+    "link": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
     "source": "latimes",
     "pubdate": "2026-07-28-10-00-00 +0000"
   },
