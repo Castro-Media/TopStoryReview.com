@@ -1,23 +1,72 @@
 [
   {
-    "score": 11,
-    "pubdate": "2026-08-04-10-41-00 +0000",
-    "source": "wsj",
-    "headline": "Merck Cuts Full-Year Profit Forecast as Acquisition Costs Weigh on Bottom Line",
-    "link": "https://www.wsj.com/business/earnings/merck-cuts-full-year-profit-forecast-as-acquisition-costs-weigh-on-bottom-line-2d8c24f2?mod=pls_whats_news_us_business_f"
+    "score": 24,
+    "pubdate": "2026-08-04-12-18-41 +0000",
+    "source": "nypost",
+    "headline": "Ex-Trump White House press secretary seeks restraining order against Rep. Max Miller",
+    "link": "https://nypost.com/2026/08/04/us-news/ex-trump-white-house-press-secretary-seeks-restraining-order-against-rep-max-miller/"
   },
   {
-    "score": 6,
-    "pubdate": "2026-08-04-10-38-27 +0000",
-    "source": "bbc",
-    "headline": "More than 150 migrants rescued after boat catches fire in Channel",
-    "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
+    "score": 24,
+    "pubdate": "2026-08-04-12-06-42 +0000",
+    "source": "nyt",
+    "headline": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html"
   },
   {
-    "score": 5,
-    "pubdate": "2026-08-04-10-40-00 +0000",
+    "score": 20,
+    "pubdate": "2026-08-04-12-29-55 +0000",
+    "source": "nyt",
+    "headline": "U.S. Stocks Near a Record High Amid Lull in Iran War",
+    "link": "https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-04-12-00-00 +0000",
     "source": "wsj",
-    "headline": "We Love Betting on Fallen Investing Stars",
-    "link": "https://www.wsj.com/finance/stocks/we-love-betting-on-fallen-investing-stars-c4e6d033?mod=rss_markets_main"
+    "headline": "Five Charts That Show Why the U.S. and Japan Teamed Up to Buy Yen",
+    "link": "https://www.wsj.com/finance/currencies/five-charts-that-show-why-the-u-s-and-japan-teamed-up-to-buy-yen-a1ed9bbb?mod=rss_markets_main"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-08-04-11-48-09 +0000",
+    "source": "nypost",
+    "headline": "Mom of NYPD cop who died after botched implant removal claims doctors didn’t admit to daughter’s death",
+    "link": "https://nypost.com/2026/08/04/us-news/mom-of-nypd-cop-who-died-after-botched-implant-removal-claims-she-wasnt-told-her-daughter-was-dead/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-04-12-24-44 +0000",
+    "source": "nyt",
+    "headline": "What to Watch in Virginia’s First Primary Since Redistricting Battle",
+    "link": "https://www.nytimes.com/2026/08/04/us/politics/virginia-primary-first-election-redistricting.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-04-12-21-57 +0000",
+    "source": "nyt",
+    "headline": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
+    "link": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-04-12-11-31 +0000",
+    "source": "nypost",
+    "headline": "Russian drone hunts, taunts street vendor in Ukraine’s ‘human safari zone’ in disturbing video",
+    "link": "https://nypost.com/2026/08/04/world-news/russian-drone-hunts-taunts-street-vendor-in-ukraines-human-safari-zone/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-04-12-12-38 +0000",
+    "source": "nypost",
+    "headline": "Inside married NJ prison guard’s illicit affair with inmate — and the smutty texts",
+    "link": "https://nypost.com/2026/08/04/us-news/married-nj-prison-guard-allegedly-sending-illicit-texts-to-inmate-she-was-having-affair-with/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-04-11-58-00 +0000",
+    "source": "wsj",
+    "headline": "Saudi Aramco’s Bumper $33 Billion Profit Gives Kingdom’s Finances a Boost",
+    "link": "https://www.wsj.com/business/energy-oil/saudi-aramco-profit-jumps-33-on-higher-oil-prices-amid-iran-war-3ae028ce?mod=pls_whats_news_us_business_f"
   }
 ]
