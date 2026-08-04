@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-08-04 07:00 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-08-04 07:58 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,45 +28,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/08/04/us-news/authorities-arrest-arson-suspect-in-connection-with-one-of-the-devastating-spokane-wildfires/">Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-08-04-05-31-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html">JPMorgan Again Entangled in a FIFA Fiasco</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-04-05-33-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c0l57w8ne92o?at_medium=RSS&at_campaign=rss">Horror bookshop aims to raise &#163;20k to stay open</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-04-05-14-34 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss">Could heatwaves make your food shop more expensive?</a>
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-08-04-05-46-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/03/us/spokane-wildfires-update.html">&#8216;A War Zone&#8217;: Spokane Wildfires Leave a Devastating Trail of Destruction</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-04-05-32-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html">JPMorgan Again Entangled in a FIFA Fiasco</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-04-05-33-25 +0000</span></div>
             </li>
         
     </ul>
@@ -76,6 +41,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 24h</h2>
     <ul>
         
+            <li><a href="https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss">Why is Trump Media selling early access to Trump's Truth Social posts?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-08-04-00-17-48 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.chicagotribune.com/2026/08/03/trump-iran-talks/">President Trump optimistic Iran talks will reopen strait, and other developments in the Middle East</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -122,13 +94,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-08-04-02-08-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss">US and Japan take action to prop up yen in rare joint move</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-03-07-30-52 +0000</span></div>
             </li>
         
 
@@ -232,41 +197,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-08-04-05-46-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html">JPMorgan Again Entangled in a FIFA Fiasco</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-04-05-33-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/04/world/europe/fifa-jpmorgan.html">JPMorgan Again Entangled in a FIFA Fiasco</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-04-05-33-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/03/us/spokane-wildfires-update.html">&#8216;A War Zone&#8217;: Spokane Wildfires Leave a Devastating Trail of Destruction</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-04-05-32-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/08/04/us-news/authorities-arrest-arson-suspect-in-connection-with-one-of-the-devastating-spokane-wildfires/">Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-08-04-05-31-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c0l57w8ne92o?at_medium=RSS&at_campaign=rss">Horror bookshop aims to raise &#163;20k to stay open</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-08-04-05-14-34 +0000</span></div>
             </li>
         
     </ul>
@@ -3304,20 +3234,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-08-03-07-02-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/retail/aperol-can-tap-into-beer-market-at-sports-and-music-events-campari-ceo-says-24a643a3?mod=pls_whats_news_us_business_f">Aperol Can Tap Into Beer Market at Sports and Music Events, Campari CEO Says</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-08-03-06-21-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/08/02/business/us-japan-yen.html">U.S. and Japan Coordinated to Help Stabilize the Yen</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-08-03-05-50-38 +0000</span></div>
             </li>
         
     </ul>
@@ -11787,13 +11703,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-07-28-08-30-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/07/28/terry-savage-credit-card-breathing-room/">Terry Savage: Credit card breathing room</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-07-28-06-30-55 +0000</span></div>
             </li>
         
     </ul>
