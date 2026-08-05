@@ -1,44 +1,72 @@
 [
   {
-    "score": 19,
-    "pubdate": "2026-08-05-18-19-51 +0000",
+    "score": 48,
+    "pubdate": "2026-08-05-20-17-56 +0000",
+    "source": "nyt",
+    "headline": "El-Sayed’s Michigan Senate Primary Win Sets Up the Left’s Biggest Test of the Fall",
+    "link": "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-08-05-20-03-36 +0000",
     "source": "bbc",
-    "headline": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-    "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss"
+    "headline": "Israel strikes south Lebanon after first evacuation warning in weeks",
+    "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 12,
-    "pubdate": "2026-08-05-18-27-14 +0000",
+    "score": 18,
+    "pubdate": "2026-08-05-19-46-49 +0000",
+    "source": "nyt",
+    "headline": "Houthis Threaten to Expand Red Sea Attacks, and Claim Strikes on Saudi Tankers",
+    "link": "https://www.nytimes.com/2026/08/05/world/middleeast/houthis-claim-attack-saudi-arabia-tanker.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-05-19-58-26 +0000",
     "source": "nypost",
-    "headline": "Crazed man allegedly hacks sister with machete: ‘Oh my God, why aren’t you dead yet?’",
-    "link": "https://nypost.com/2026/08/05/us-news/florida-man-allegedly-hacks-sister-with-machete/"
+    "headline": "Long Island DA collects DNA samples in NYC’s Chinatown to unwind mystery of unidentified Gilgo Beach victim",
+    "link": "https://nypost.com/2026/08/05/us-news/suffolk-da-gathers-dna-in-chinatown-in-an-effort-to-crack-unsolved-gilgo-beach-murder/"
   },
   {
-    "score": 12,
-    "pubdate": "2026-08-05-18-24-46 +0000",
+    "score": 16,
+    "pubdate": "2026-08-05-20-14-45 +0000",
     "source": "nypost",
-    "headline": "Kidnapper’s friend reveals possible motive for deadly trunk execution of real estate colleague that shook LA",
-    "link": "https://nypost.com/2026/08/05/us-news/kidnappers-friend-reveals-possible-motive-for-deadly-chino-hills-trunk-execution/"
+    "headline": "Chilling final text NY mom sent dad about ‘stomach bug’ before 4 kids killed in murder-suicide revealed",
+    "link": "https://nypost.com/2026/08/05/us-news/chilling-final-text-ny-mom-sent-dad-about-stomach-bug-before-4-kids-killed-in-murder-suicide-revealed/"
   },
   {
-    "score": 10,
-    "pubdate": "2026-08-05-18-25-00 +0000",
-    "source": "wsj",
-    "headline": "Shopify Signals Revenue Acceleration as AI Tools, Merchant Growth Drive Results",
-    "link": "https://www.wsj.com/business/earnings/shopify-profit-jumps-as-subscriptions-merchant-services-boost-revenues-73693ff6?mod=pls_whats_news_us_business_f"
+    "score": 15,
+    "pubdate": "2026-08-05-20-11-00 +0000",
+    "source": "nyt",
+    "headline": "Cost of Trump’s Namesake Warships Likely to Rise by 50 Percent or More",
+    "link": "https://www.nytimes.com/2026/08/05/us/politics/trump-namesake-warships-cost-increase.html"
   },
   {
-    "score": 9,
-    "pubdate": "2026-08-05-18-25-00 +0000",
-    "source": "wsj",
-    "headline": "Carlyle Touts Fundraising Strength, Launches New Round of Flagship Vehicles",
-    "link": "https://www.wsj.com/pro/private-equity/carlyle-continues-to-bring-in-capital-as-distributable-earnings-climb-584d3dc1?mod=rss_markets_main"
+    "score": 15,
+    "pubdate": "2026-08-05-20-05-59 +0000",
+    "source": "nyt",
+    "headline": "A Democratic Governor Is Set to Pick a Former Republican Running Mate",
+    "link": "https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-08-05-18-19-51 +0000",
+    "score": 14,
+    "pubdate": "2026-08-05-20-19-19 +0000",
+    "source": "nyt",
+    "headline": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
+    "link": "https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-05-20-01-51 +0000",
     "source": "bbc",
-    "headline": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-    "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss"
+    "headline": "Drone carrying explosives found at German airport, police say",
+    "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-08-05-20-20-00 +0000",
+    "source": "wsj",
+    "headline": "He Spent Billions Reviving Downtown Detroit. Now He Wants to Remake Its Skyline.",
+    "link": "https://www.wsj.com/real-estate/he-spent-billions-reviving-downtown-detroit-now-he-wants-to-remake-its-skyline-17f83a82?mod=rss_usnews"
   }
 ]
