@@ -1,5 +1,11 @@
 [
   {
+    "headline": "Rising temperatures could keep more flights from taking off on time",
+    "link": "https://www.chicagotribune.com/2026/08/05/rising-temperatures-flight-delays/",
+    "source": "chitri",
+    "pubdate": "2026-08-05-10-51-34 +0000"
+  },
+  {
     "headline": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
     "link": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
     "source": "nyt",
@@ -162,10 +168,22 @@
     "pubdate": "2026-08-05-10-07-00 +0000"
   },
   {
+    "headline": "Chicago grocers are severely affected by reductions to SNAP: ‘We need to bail out this industry’",
+    "link": "https://www.chicagotribune.com/2026/08/05/chicago-grocery-stores-snap-cuts/",
+    "source": "chitri",
+    "pubdate": "2026-08-05-10-00-27 +0000"
+  },
+  {
     "headline": "Disney+ Cracks Open the Door to TikTok Creator Videos",
     "link": "https://www.nytimes.com/2026/08/05/business/media/disney-tiktok-videos.html",
     "source": "nyt",
     "pubdate": "2026-08-05-10-00-14 +0000"
+  },
+  {
+    "headline": "Chicago Media Report: Viewers petition FCC to support ABC 7 — and WCIU-TV to air complete City Series rematch",
+    "link": "https://www.chicagotribune.com/2026/08/05/chicago-media-report-abc-fcc/",
+    "source": "chitri",
+    "pubdate": "2026-08-05-10-00-08 +0000"
   },
   {
     "headline": "This federal judge ruled against Trump. Then the threats began.",
@@ -7600,11 +7618,5 @@
     "link": "https://www.chicagotribune.com/2026/07/29/iran-resumes-missile-attacks/",
     "source": "chitri",
     "pubdate": "2026-07-29-12-50-05 +0000"
-  },
-  {
-    "headline": "How P&G Is Trying to Sell Tide and Bounty to Inflation-Squeezed Consumers",
-    "link": "https://www.wsj.com/business/c-suite/how-p-g-is-trying-to-sell-tide-and-bounty-to-inflation-squeezed-consumers-0755aace?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-07-29-11-00-00 +0000"
   }
 ]
