@@ -1,8 +1,230 @@
 [
   {
-    "headline": "American flown to New Zealand hospital in rare midwinter Antarctic rescue mission",
-    "link": "https://nypost.com/2026/08/07/world-news/american-flown-out-of-antartica-to-a-new-zealand-hospital-in-a-rare-midwinter-rescue-mission/",
+    "headline": "Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica",
+    "link": "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-10-04-01 +0000"
+  },
+  {
+    "headline": "Allianz Posts Lower Net Profit Amid Portfolio Reshuffle",
+    "link": "https://www.wsj.com/business/earnings/allianz-operating-profit-hits-record-high-on-asset-management-growth-fd9a0931?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-07-10-04-00 +0000"
+  },
+  {
+    "headline": "New Intelligence Warns Russia May Provoke NATO Amid Dwindling U.S. Munitions",
+    "link": "https://www.wsj.com/finance/investing/new-intelligence-warns-russia-may-provoke-nato-amid-dwindling-u-s-munitions-68f497c7?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-07-10-03-00 +0000"
+  },
+  {
+    "headline": "New Intelligence Warns Russia May Provoke NATO Amid Dwindling U.S. Munitions",
+    "link": "https://www.wsj.com/finance/investing/new-intelligence-warns-russia-may-provoke-nato-amid-dwindling-u-s-munitions-68f497c7?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-07-10-03-00 +0000"
+  },
+  {
+    "headline": "Hospital Video Captures Chaos as Earthquake Strikes Mid-Surgery",
+    "link": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-10-02-54 +0000"
+  },
+  {
+    "headline": "Hospital Video Captures Chaos as Earthquake Strikes Mid-Surgery",
+    "link": "https://www.nytimes.com/2026/08/07/world/asia/hospital-video-earthquake-surgery.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-10-02-54 +0000"
+  },
+  {
+    "headline": "How to regulate data centers in Illinois at the center of latest proposal",
+    "link": "https://www.chicagotribune.com/2026/08/07/data-centers-illinois-renewable-power-biometrics/",
+    "source": "chitri",
+    "pubdate": "2026-08-07-10-00-54 +0000"
+  },
+  {
+    "headline": "These neighborhoods seemed safe from wildfire. Then they burned.",
+    "link": "https://www.washingtonpost.com/weather/2026/08/07/these-neighborhoods-seemed-safe-wildfire-then-they-burned/",
+    "source": "wapo",
+    "pubdate": "2026-08-07-10-00-01 +0000"
+  },
+  {
+    "headline": "How a neighborhood in NYC became the center of democratic socialist power",
+    "link": "https://www.washingtonpost.com/nation/2026/08/07/how-neighborhood-nyc-became-center-democratic-socialist-power/",
+    "source": "wapo",
+    "pubdate": "2026-08-07-10-00-01 +0000"
+  },
+  {
+    "headline": "A key Republican senator said she would oppose the nomination of Todd Blanche for attorney general, leaving President Trump’s pick to lead the Justice Department in jeopardy",
+    "link": "https://www.wsj.com/politics/policy/second-republican-will-oppose-blanche-leaving-confirmation-down-to-the-wire-aa02c480?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-08-07-10-00-00 +0000"
+  },
+  {
+    "headline": "‘Nostradamus of AI’ Leopold Aschenbrenner leaps back into big bets — in latest twist after spectacular blow-up",
+    "link": "https://nypost.com/2026/08/07/business/nostradamus-of-ai-leopold-aschenbrenner-leaps-back-into-big-bets-in-latest-twist-after-spectacular-blow-up/",
     "source": "nypost",
-    "pubdate": "2026-08-07-08-16-28 +0000"
+    "pubdate": "2026-08-07-10-00-00 +0000"
+  },
+  {
+    "headline": "Burbank is more than Bob's Big Boy. How the city found a solution to downtown doom",
+    "link": "https://www.latimes.com/business/story/2026-08-07/how-burbank-found-solution-to-downtown-doom",
+    "source": "latimes",
+    "pubdate": "2026-08-07-10-00-00 +0000"
+  },
+  {
+    "headline": "Insurance commissioner candidates split key endorsements",
+    "link": "https://www.latimes.com/business/story/2026-08-07/insurance-commissioner-candidates-split-key-endorsements",
+    "source": "latimes",
+    "pubdate": "2026-08-07-10-00-00 +0000"
+  },
+  {
+    "headline": "'Pervert glasses': Backlash against Meta's smart glasses grows",
+    "link": "https://www.latimes.com/business/story/2026-08-07/pervert-glasses-backlash-against-metas-smart-glasses-grows",
+    "source": "latimes",
+    "pubdate": "2026-08-07-10-00-00 +0000"
+  },
+  {
+    "headline": "On Hiroshima anniversary, Japan’s premier shifts tone on nuclear policy",
+    "link": "https://www.washingtonpost.com/world/2026/08/07/hiroshima-anniversary-japans-premier-shifts-tone-nuclear-policy/",
+    "source": "wapo",
+    "pubdate": "2026-08-07-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump is attacking California's ability to protect its coastline. The consequences are 'chilling'",
+    "link": "https://www.latimes.com/environment/story/2026-08-07/trump-attack-california-coastal-protection-unprecedented",
+    "source": "latimes",
+    "pubdate": "2026-08-07-10-00-00 +0000"
+  },
+  {
+    "headline": "Trump administration to pay $65 million owed to lawyers of unaccompanied migrant children",
+    "link": "https://www.latimes.com/california/story/2026-08-07/trump-administration-to-pay-65-million-owed-to-lawyers-of-unaccompanied-migrant-children",
+    "source": "latimes",
+    "pubdate": "2026-08-07-10-00-00 +0000"
+  },
+  {
+    "headline": "FAA Orders Inspections of Hundreds of Boeing 737 MAX Jets Over Possible Cracks",
+    "link": "https://www.wsj.com/business/airlines/faa-orders-inspections-of-over-400-boeing-737-max-jets-for-possible-cracks-c41ec557?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-07-09-58-00 +0000"
+  },
+  {
+    "headline": "Pyongyang Missile Test Signals Growing Conflict Between North Korea and U.S. Allies",
+    "link": "https://www.wsj.com/world/asia/pyongyang-missile-test-signals-growing-conflict-between-north-korea-and-u-s-allies-a8447ad9?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-08-07-09-56-00 +0000"
+  },
+  {
+    "headline": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-07-09-50-54 +0000"
+  },
+  {
+    "headline": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-07-09-50-54 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/08/07/business/jobs-report-economy/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-08-07-09-50-46 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/08/07/business/jobs-report-economy/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-08-07-09-50-46 +0000"
+  },
+  {
+    "headline": "The Simple Framework Behind ‘Drastic Dave’s’ Diageo Strategy",
+    "link": "https://www.wsj.com/business/the-simple-framework-behind-drastic-daves-diageo-strategy-1f595a08?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-07-09-50-00 +0000"
+  },
+  {
+    "headline": "Thailand School Shooting Leaves at Least Eight Dead",
+    "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-09-49-53 +0000"
+  },
+  {
+    "headline": "Thailand School Shooting Leaves at Least Eight Dead",
+    "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-09-49-53 +0000"
+  },
+  {
+    "headline": "The Senate wants a recess. Trump doesn’t.",
+    "link": "https://www.washingtonpost.com/politics/2026/08/07/senate-wants-recess-trump-doesnt/",
+    "source": "wapo",
+    "pubdate": "2026-08-07-09-37-15 +0000"
+  },
+  {
+    "headline": "Trump-backed Republican congressman loses primary in Tennessee",
+    "link": "https://www.bbc.co.uk/news/articles/c79grd2prnro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-07-09-36-01 +0000"
+  },
+  {
+    "headline": "This Fashion IPO’s Growth Story Looks Flimsy",
+    "link": "https://www.wsj.com/business/retail/this-fashion-ipos-growth-story-looks-flimsy-c78849d1?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-07-09-30-00 +0000"
+  },
+  {
+    "headline": "This Fashion IPO’s Growth Story Looks Flimsy",
+    "link": "https://www.wsj.com/business/retail/this-fashion-ipos-growth-story-looks-flimsy-c78849d1?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-07-09-30-00 +0000"
+  },
+  {
+    "headline": "How Amazon Built a Data Center in a California Town Without Anyone Noticing",
+    "link": "https://www.wsj.com/us-news/how-amazon-built-a-data-center-in-a-california-town-without-anyone-noticing-8610bb67?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-08-07-09-30-00 +0000"
+  },
+  {
+    "headline": "Ex-Miss North Carolina USA Brittany Boltinhouse’s ‘racism’ scandal rocks pageant world: ‘A lot of pain’",
+    "link": "https://nypost.com/2026/08/07/us-news/ex-miss-north-carolina-usa-brittany-boltinhouses-racism-scandal-rocks-pageant-world/",
+    "source": "nypost",
+    "pubdate": "2026-08-07-09-30-00 +0000"
+  },
+  {
+    "headline": "Meta fined $567m in largest child safety ruling against social media giant",
+    "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-07-09-22-03 +0000"
+  },
+  {
+    "headline": "Meta fined $567m in largest child safety ruling against social media giant",
+    "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-07-09-22-03 +0000"
+  },
+  {
+    "headline": "Meta fined $567m in largest child safety ruling against social media giant",
+    "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-07-09-22-03 +0000"
+  },
+  {
+    "headline": "Thai pupil describes harrowing moment teacher was shot in front of her",
+    "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-07-09-21-52 +0000"
+  },
+  {
+    "headline": "Fourth case of rare, highly infectious ‘rabbit fever’ confirmed on Long Island",
+    "link": "https://nypost.com/2026/08/07/us-news/long-island-confirms-4th-case-of-rare-highly-infectious-rabbit-fever/",
+    "source": "nypost",
+    "pubdate": "2026-08-07-09-21-01 +0000"
+  },
+  {
+    "headline": "Food Prices Rise in July As Weather, Wars Lift Costs and Weigh on Crop Yields, UN FAO Says",
+    "link": "https://www.wsj.com/finance/commodities-futures/food-prices-rise-in-july-as-weather-wars-lift-costs-and-weigh-on-crop-yields-un-fao-says-8adf6531?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-07-09-19-00 +0000"
   }
 ]
