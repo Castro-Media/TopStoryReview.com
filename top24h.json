@@ -1,20 +1,20 @@
 [
   {
-    "score": 137,
+    "score": 148,
     "pubdate": "2026-08-06-23-30-00 +0000",
     "source": "wsj",
     "headline": "President Trump has ordered new probes into disclosures of the U.S. munitions stockpile, administration officials said, an escalation of his effort to battle damaging revelations about the Iran war",
     "link": "https://www.wsj.com/politics/national-security/trump-orders-leak-probe-after-venting-about-media-coverage-of-munitions-stockpile-bdd0251b?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 113,
+    "score": 107,
     "pubdate": "2026-08-06-21-34-00 +0000",
     "source": "wsj",
     "headline": "A GOP-controlled Senate committee’s party-line vote to hold Dr. Anthony Fauci in contempt of Congress raised the legal stakes for the former top health official. Is he is legal trouble?",
     "link": "https://www.wsj.com/politics/policy/is-fauci-in-legal-trouble-what-to-know-after-contempt-vote-88adb3d3?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 75,
+    "score": 71,
     "pubdate": "2026-08-07-01-03-00 +0000",
     "source": "wsj",
     "headline": "Rep. Max Miller is lending his re-election campaign $1 million as the embattled two-term Ohio congressman faces pressure to drop out over allegations of domestic abuse",
@@ -29,24 +29,31 @@
   },
   {
     "score": 67,
+    "pubdate": "2026-08-07-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "A key Republican senator said she would oppose the nomination of Todd Blanche for attorney general, leaving President Trump’s pick to lead the Justice Department in jeopardy",
+    "link": "https://www.wsj.com/politics/policy/second-republican-will-oppose-blanche-leaving-confirmation-down-to-the-wire-aa02c480?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 63,
     "pubdate": "2026-08-07-11-09-00 +0000",
     "source": "wsj",
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-2b511aa4?mod=rss_markets_main"
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-2b511aa4?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 66,
-    "pubdate": "2026-08-07-09-50-54 +0000",
-    "source": "bbc",
-    "headline": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
-    "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss"
+    "score": 62,
+    "pubdate": "2026-08-07-13-56-45 +0000",
+    "source": "nypost",
+    "headline": "Turkey, Pakistan, Saudi Arabia sign mutual defense deal — as Israeli strike injures Lebanese soldier",
+    "link": "https://nypost.com/2026/08/07/world-news/turkey-pakistan-saudi-arabia-sign-mutual-defense-deal-as-israeli-strike-injures-lebanese-soldier/"
   },
   {
     "score": 60,
-    "pubdate": "2026-08-06-17-06-16 +0000",
-    "source": "nypost",
-    "headline": "Small SoCal business fumes at ‘power’-hungry local official after its utilities were cut during a permit dispute, family claims",
-    "link": "https://nypost.com/2026/08/06/us-news/small-socal-business-fumes-after-official-cuts-power-refuses-permit/"
+    "pubdate": "2026-08-06-20-18-00 +0000",
+    "source": "wsj",
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f?mod=rss_socialeconomyfeed"
   },
   {
     "score": 55,
@@ -56,17 +63,10 @@
     "link": "https://nypost.com/2026/08/07/us-news/abdul-el-sayed-refuses-to-distance-himself-from-anti-israel-extremist-hasan-piker/"
   },
   {
-    "score": 55,
-    "pubdate": "2026-08-07-10-00-00 +0000",
-    "source": "wsj",
-    "headline": "A key Republican senator said she would oppose the nomination of Todd Blanche for attorney general, leaving President Trump’s pick to lead the Justice Department in jeopardy",
-    "link": "https://www.wsj.com/politics/policy/second-republican-will-oppose-blanche-leaving-confirmation-down-to-the-wire-aa02c480?mod=rss_socialpoliticsfeed"
-  },
-  {
     "score": 53,
-    "pubdate": "2026-08-07-11-16-00 +0000",
-    "source": "wsj",
-    "headline": "It seems like political scandals are happening more often. With new lawmakers entering Congress next year, there’s a chance to shake things up. Read more in today’s WSJ Politics newsletter:",
-    "link": "https://www.wsj.com/politics/policy/is-misbehavior-by-politicians-finally-having-a-reckoning-8574bca8?mod=rss_socialpoliticsfeed"
+    "pubdate": "2026-08-06-17-06-16 +0000",
+    "source": "nypost",
+    "headline": "Small SoCal business fumes at ‘power’-hungry local official after its utilities were cut during a permit dispute, family claims",
+    "link": "https://nypost.com/2026/08/06/us-news/small-socal-business-fumes-after-official-cuts-power-refuses-permit/"
   }
 ]
