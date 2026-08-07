@@ -1,37 +1,72 @@
 [
   {
-    "score": 15,
-    "pubdate": "2026-08-07-19-12-50 +0000",
+    "score": 55,
+    "pubdate": "2026-08-07-21-04-00 +0000",
+    "source": "wsj",
+    "headline": "Fed governor Lisa Cook is back in Trump’s crosshairs, an appeals court halts construction on the White House ballroom and NYC homeowners sue over the pied-à-terre tax rollout. Read more in today’s What’s News newsletter:",
+    "link": "https://www.wsj.com/politics/policy/fed-governor-lisa-cook-is-back-in-trumps-crosshairs-012412e7?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-08-07-20-16-49 +0000",
+    "source": "latimes",
+    "headline": "Judge rejects challenge to California attorney general's description of voter ID measure",
+    "link": "https://www.latimes.com/california/story/2026-08-07/judge-rejects-challenge-to-california-attorney-generals-description-of-voter-id-measure"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-08-07-20-33-23 +0000",
+    "source": "bbc",
+    "headline": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-08-07-20-43-48 +0000",
     "source": "nypost",
-    "headline": "Horrifying footage shows In-N-Out mass shooter kill worker at drive-thru window — as terrified employees scramble for cover",
-    "link": "https://nypost.com/2026/08/07/us-news/footage-shows-in-n-out-mass-shooter-kill-worker-at-drive-thru-window/"
+    "headline": "Gavin Newsom defends gas car ban opposed by huge majority of Californians",
+    "link": "https://nypost.com/2026/08/07/us-news/gavin-newsom-defends-gas-car-ban-opposed-by-majority-of-californians/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-08-07-20-50-01 +0000",
+    "source": "nypost",
+    "headline": "Saudi Arabia, Turkey and Pakistan forge ‘attack on one, attack on all’ pact — as Iran deal lingers",
+    "link": "https://nypost.com/2026/08/07/world-news/saudi-arabia-turkey-and-pakistan-forge-self-defense-pact-as-iran-deal-lingers/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-08-07-20-14-00 +0000",
+    "source": "wsj",
+    "headline": "The balance of power in the Senate is on the line in the 2026 elections. Our tracker digs into the most competitive and emerging Senate battlegrounds.",
+    "link": "https://www.wsj.com/politics/elections/senate-seats-2026-midterm-election-tracker-04778377?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-07-20-46-00 +0000",
+    "source": "wsj",
+    "headline": "Trump revives effort to oust Fed governor Lisa Cook, demanding response to mortgage-fraud allegations she denies amid renewed fight over Fed independence",
+    "link": "https://www.wsj.com/politics/white-house-revives-attempt-to-fire-fed-governor-lisa-cook-9341c88e?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-07-20-16-00 +0000",
+    "source": "wsj",
+    "headline": "Trump’s hair gets a Las Vegas makeover, sparking memes, lighting theories and a fresh round of scrutiny of the president’s famous mane",
+    "link": "https://www.wsj.com/politics/elections/trump-showed-up-at-a-rally-with-lustrous-locks-the-memes-wont-stop-112647c0?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-07-20-56-40 +0000",
+    "source": "nypost",
+    "headline": "Winter weather forecast predicts El Niño will bring US crazy storms, cold beaches and desert rains",
+    "link": "https://nypost.com/2026/08/07/us-news/winter-weather-forecast-predicts-el-nino-will-bring-us-crazy-storms-cold-beaches-and-desert-rains/"
   },
   {
     "score": 14,
-    "pubdate": "2026-08-07-19-06-26 +0000",
-    "source": "nyt",
-    "headline": "Appeals Court Upholds Block on Trump Ballroom Construction",
-    "link": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-08-07-19-06-18 +0000",
-    "source": "nypost",
-    "headline": "Another person drowns at Sequoia National Park, following teen’s death earlier this summer",
-    "link": "https://nypost.com/2026/08/07/us-news/man-drowns-in-sequoia-national-park-near-popular-river-hike/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-08-07-19-11-48 +0000",
-    "source": "missionlocal",
-    "headline": "Follow the money: Five takeaways from the latest campaign finance filings",
-    "link": "https://missionlocal.org/2026/08/sf-election-campaign-finance-november/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-08-07-19-06-26 +0000",
-    "source": "nyt",
-    "headline": "Appeals Court Upholds Block on Trump Ballroom Construction",
-    "link": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html"
+    "pubdate": "2026-08-07-20-31-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Stocks Rise as Rate-Hike Odds Fall on Weak Jobs Report",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-rate-hike-odds-fall-on-weak-jobs-report-de0ded72?mod=rss_markets_main"
   }
 ]
