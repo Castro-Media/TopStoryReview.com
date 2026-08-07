@@ -21,7 +21,7 @@
     "link": "https://www.wsj.com/politics/elections/progressive-victory-in-michigan-senate-primary-deepens-democratic-divide-b3b7fe16?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 150,
+    "score": 149,
     "pubdate": "2026-08-07-21-04-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Lisa Cook is back in Trump’s crosshairs, an appeals court halts construction on the White House ballroom and NYC homeowners sue over the pied-à-terre tax rollout. Read more in today’s What’s News newsletter:",
@@ -35,18 +35,18 @@
     "link": "https://www.wsj.com/politics/elections/max-miller-to-loan-campaign-1-million-rejecting-calls-to-withdraw-7d54a0be?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 123,
-    "pubdate": "2026-08-03-20-33-30 +0000",
-    "source": "latimes",
-    "headline": "California sues Trump to block latest tariffs, sharing of needy families' data with ICE",
-    "link": "https://www.latimes.com/politics/story/2026-08-03/california-sues-trump-to-block-latest-tariffs-sharing-of-needy-families-data-with-ice"
-  },
-  {
     "score": 122,
     "pubdate": "2026-08-04-16-00-16 +0000",
     "source": "chitri",
     "headline": "Top FIFA officials distance themselves from Gianni Infantino’s World Cup sell-off plan",
     "link": "https://www.chicagotribune.com/2026/08/04/fifa-officials-distance-from-gianni-infantino/"
+  },
+  {
+    "score": 122,
+    "pubdate": "2026-08-03-20-33-30 +0000",
+    "source": "latimes",
+    "headline": "California sues Trump to block latest tariffs, sharing of needy families' data with ICE",
+    "link": "https://www.latimes.com/politics/story/2026-08-03/california-sues-trump-to-block-latest-tariffs-sharing-of-needy-families-data-with-ice"
   },
   {
     "score": 120,
@@ -57,16 +57,16 @@
   },
   {
     "score": 115,
-    "pubdate": "2026-08-07-20-50-01 +0000",
-    "source": "nypost",
-    "headline": "Saudi Arabia, Turkey and Pakistan forge ‘attack on one, attack on all’ pact — as Iran deal lingers",
-    "link": "https://nypost.com/2026/08/07/world-news/saudi-arabia-turkey-and-pakistan-forge-self-defense-pact-as-iran-deal-lingers/"
-  },
-  {
-    "score": 115,
     "pubdate": "2026-08-07-15-33-00 +0000",
     "source": "wsj",
     "headline": "The U.S. labor market shed jobs in July, an unexpected contraction likely to renew questions about the economy’s fundamental strength at a time when it is also facing elevated inflation",
     "link": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 115,
+    "pubdate": "2026-08-07-20-50-01 +0000",
+    "source": "nypost",
+    "headline": "Saudi Arabia, Turkey and Pakistan forge ‘attack on one, attack on all’ pact — as Iran deal lingers",
+    "link": "https://nypost.com/2026/08/07/world-news/saudi-arabia-turkey-and-pakistan-forge-self-defense-pact-as-iran-deal-lingers/"
   }
 ]
