@@ -145,13 +145,13 @@
   },
   {
     "headline": "China’s New Export Engine: Supplying the Factories of the World",
-    "link": "https://www.wsj.com/economy/trade/chinas-new-export-engine-supplying-the-factories-of-the-world-b8f1c176?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/economy/trade/chinas-new-export-engine-supplying-the-factories-of-the-world-b8f1c176?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-08-07-03-00-00 +0000"
   },
   {
     "headline": "China’s New Export Engine: Supplying the Factories of the World",
-    "link": "https://www.wsj.com/economy/trade/chinas-new-export-engine-supplying-the-factories-of-the-world-b8f1c176?mod=rss_worldnews",
+    "link": "https://www.wsj.com/economy/trade/chinas-new-export-engine-supplying-the-factories-of-the-world-b8f1c176?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-07-03-00-00 +0000"
   },
@@ -372,15 +372,15 @@
     "pubdate": "2026-08-07-01-00-42 +0000"
   },
   {
-    "headline": "U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion",
-    "link": "https://www.wsj.com/world/europe/u-s-intel-finds-putin-could-test-natos-resolve-with-limited-incursion-e3b02e2c?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-08-07-01-00-00 +0000"
-  },
-  {
     "headline": "Tech bro makes drastic honeymoon decision after $45B AI fund collapse as lavish lifestyle revealed",
     "link": "https://nypost.com/2026/08/06/us-news/ai-billionaire-skips-honeymoon-as-investors-panic-over-30b-losses/",
     "source": "nypost",
+    "pubdate": "2026-08-07-01-00-00 +0000"
+  },
+  {
+    "headline": "U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion",
+    "link": "https://www.wsj.com/world/europe/u-s-intel-finds-putin-could-test-natos-resolve-with-limited-incursion-e3b02e2c?mod=rss_worldnews",
+    "source": "wsj",
     "pubdate": "2026-08-07-01-00-00 +0000"
   },
   {
@@ -403,13 +403,13 @@
   },
   {
     "headline": "Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media",
-    "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-08-07-00-56-00 +0000"
   },
   {
     "headline": "Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media",
-    "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?mod=rss_usnews",
+    "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-07-00-56-00 +0000"
   },
@@ -684,14 +684,14 @@
     "pubdate": "2026-08-06-23-01-00 +0000"
   },
   {
-    "headline": "Sen. Rand Paul threatened to delay a confirmation hearing for President Trump’s pick to lead U.S. Immigration and Customs Enforcement, according to people familiar with the matter",
-    "link": "https://www.wsj.com/politics/policy/trumps-ice-nominee-is-facing-resistance-on-capitol-hill-776638fb?mod=rss_socialpoliticsfeed",
+    "headline": "Opinion | Due Process Ends at the Labor Board Door",
+    "link": "https://www.wsj.com/opinion/due-process-ends-at-the-labor-board-door-b3fb534a?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-08-06-23-00-00 +0000"
   },
   {
-    "headline": "Opinion | Due Process Ends at the Labor Board Door",
-    "link": "https://www.wsj.com/opinion/due-process-ends-at-the-labor-board-door-b3fb534a?mod=rss_usnews",
+    "headline": "Sen. Rand Paul threatened to delay a confirmation hearing for President Trump’s pick to lead U.S. Immigration and Customs Enforcement, according to people familiar with the matter",
+    "link": "https://www.wsj.com/politics/policy/trumps-ice-nominee-is-facing-resistance-on-capitol-hill-776638fb?mod=rss_socialpoliticsfeed",
     "source": "wsj",
     "pubdate": "2026-08-06-23-00-00 +0000"
   },
@@ -714,8 +714,8 @@
     "pubdate": "2026-08-06-22-57-00 +0000"
   },
   {
-    "headline": "Consolidated Edison Reports Higher Profit, Revenue",
-    "link": "https://www.wsj.com/business/earnings/consolidated-edison-reports-higher-profit-revenue-7724646d?mod=pls_whats_news_us_business_f",
+    "headline": "Opinion | Is Israel Really Obligated to Lay Off Hamas?",
+    "link": "https://www.wsj.com/opinion/is-israel-really-obligated-to-lay-off-hamas-30479a8a?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-08-06-22-56-00 +0000"
   },
@@ -732,14 +732,14 @@
     "pubdate": "2026-08-06-22-56-00 +0000"
   },
   {
-    "headline": "President Trump signed a proclamation Thursday that will set a 15% tariff on imports of solar panels and components",
-    "link": "https://www.wsj.com/economy/trade/trump-to-impose-15-tariff-set-minimum-prices-on-solar-panels-and-components-dd7cd9d9?mod=rss_socialeconomyfeed",
+    "headline": "Consolidated Edison Reports Higher Profit, Revenue",
+    "link": "https://www.wsj.com/business/earnings/consolidated-edison-reports-higher-profit-revenue-7724646d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-06-22-56-00 +0000"
   },
   {
-    "headline": "Opinion | Is Israel Really Obligated to Lay Off Hamas?",
-    "link": "https://www.wsj.com/opinion/is-israel-really-obligated-to-lay-off-hamas-30479a8a?mod=rss_usnews",
+    "headline": "President Trump signed a proclamation Thursday that will set a 15% tariff on imports of solar panels and components",
+    "link": "https://www.wsj.com/economy/trade/trump-to-impose-15-tariff-set-minimum-prices-on-solar-panels-and-components-dd7cd9d9?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-08-06-22-56-00 +0000"
   },
@@ -924,6 +924,12 @@
     "pubdate": "2026-08-06-21-34-43 +0000"
   },
   {
+    "headline": "Opinion | Trump Fixes a Biden Medicare Trick",
+    "link": "https://www.wsj.com/opinion/medicare-part-d-cost-cbo-trump-administration-congress-da395942?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-08-06-21-34-00 +0000"
+  },
+  {
     "headline": "Trump targets birthright citizenship (again), Mitch McConnell heads home and retail investors still love SpaceX. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/trump-tries-again-to-limit-birthright-citizenship-b300109e?mod=rss_socialpoliticsfeed",
     "source": "wsj",
@@ -932,12 +938,6 @@
   {
     "headline": "A GOP-controlled Senate committee’s party-line vote to hold Dr. Anthony Fauci in contempt of Congress raised the legal stakes for the former top health official. Is he is legal trouble?",
     "link": "https://www.wsj.com/politics/policy/is-fauci-in-legal-trouble-what-to-know-after-contempt-vote-88adb3d3?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-08-06-21-34-00 +0000"
-  },
-  {
-    "headline": "Opinion | Trump Fixes a Biden Medicare Trick",
-    "link": "https://www.wsj.com/opinion/medicare-part-d-cost-cbo-trump-administration-congress-da395942?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-08-06-21-34-00 +0000"
   },
@@ -1362,14 +1362,14 @@
     "pubdate": "2026-08-06-19-26-10 +0000"
   },
   {
-    "headline": "Oil Rises With Market Still Waiting for Strait of Hormuz Deal",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-amid-growing-optimism-over-reopening-of-strait-of-hormuz-274b0ea9?mod=rss_markets_main",
+    "headline": "Black Professor’s Resignation Over Plagiarism Probe Puts Cambridge in Spotlight",
+    "link": "https://www.wsj.com/world/uk/resignation-of-black-professor-over-plagiarism-allegations-puts-cambridge-in-spotlight-e9284b30?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-08-06-19-26-00 +0000"
   },
   {
-    "headline": "Black Professor’s Resignation Over Plagiarism Probe Puts Cambridge in Spotlight",
-    "link": "https://www.wsj.com/world/uk/resignation-of-black-professor-over-plagiarism-allegations-puts-cambridge-in-spotlight-e9284b30?mod=rss_worldnews",
+    "headline": "Oil Rises With Market Still Waiting for Strait of Hormuz Deal",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-amid-growing-optimism-over-reopening-of-strait-of-hormuz-274b0ea9?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-06-19-26-00 +0000"
   },
@@ -1843,13 +1843,13 @@
   },
   {
     "headline": "Opinion | We Can’t Afford to Ignore China’s Auto Threat",
-    "link": "https://www.wsj.com/opinion/we-cant-afford-to-ignore-chinas-auto-threat-7e669653?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/we-cant-afford-to-ignore-chinas-auto-threat-7e669653?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-08-06-15-43-00 +0000"
   },
   {
     "headline": "Opinion | We Can’t Afford to Ignore China’s Auto Threat",
-    "link": "https://www.wsj.com/opinion/we-cant-afford-to-ignore-chinas-auto-threat-7e669653?mod=rss_worldnews",
+    "link": "https://www.wsj.com/opinion/we-cant-afford-to-ignore-chinas-auto-threat-7e669653?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-06-15-43-00 +0000"
   },
@@ -2148,15 +2148,15 @@
     "pubdate": "2026-08-06-13-44-00 +0000"
   },
   {
-    "headline": "Xavier Becerra’s migrant child record back in spotlight after adviser alleges dozens of deaths",
-    "link": "https://nypost.com/2026/08/06/us-news/xavier-becerra-under-fire-as-migrant-child-cases-remain-unresolved/",
-    "source": "nypost",
-    "pubdate": "2026-08-06-13-30-00 +0000"
-  },
-  {
     "headline": "Head Start overhaul could scale back education for the most vulnerable young children",
     "link": "https://www.latimes.com/california/story/2026-08-06/trump-administration-overhauls-head-start",
     "source": "latimes",
+    "pubdate": "2026-08-06-13-30-00 +0000"
+  },
+  {
+    "headline": "Xavier Becerra’s migrant child record back in spotlight after adviser alleges dozens of deaths",
+    "link": "https://nypost.com/2026/08/06/us-news/xavier-becerra-under-fire-as-migrant-child-cases-remain-unresolved/",
+    "source": "nypost",
     "pubdate": "2026-08-06-13-30-00 +0000"
   },
   {
@@ -2208,14 +2208,14 @@
     "pubdate": "2026-08-06-13-16-15 +0000"
   },
   {
-    "headline": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+    "headline": "Best High-Yield Savings Accounts for August 2026: Up to 4.50%",
+    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-08-06-13-16-00 +0000"
   },
   {
-    "headline": "Best High-Yield Savings Accounts for August 2026: Up to 4.50%",
-    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews",
+    "headline": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-06-13-16-00 +0000"
   },
@@ -2401,13 +2401,13 @@
   },
   {
     "headline": "The Morning Risk Report: U.S. to Halt Key Metal Waste Exports in Push to Break China Reliance",
-    "link": "https://www.wsj.com/cio-journal/the-morning-risk-report-u-s-to-halt-key-metal-waste-exports-in-push-to-break-china-reliance-da2183f5?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/cio-journal/the-morning-risk-report-u-s-to-halt-key-metal-waste-exports-in-push-to-break-china-reliance-da2183f5?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-08-06-11-18-00 +0000"
   },
   {
     "headline": "The Morning Risk Report: U.S. to Halt Key Metal Waste Exports in Push to Break China Reliance",
-    "link": "https://www.wsj.com/cio-journal/the-morning-risk-report-u-s-to-halt-key-metal-waste-exports-in-push-to-break-china-reliance-da2183f5?mod=rss_worldnews",
+    "link": "https://www.wsj.com/cio-journal/the-morning-risk-report-u-s-to-halt-key-metal-waste-exports-in-push-to-break-china-reliance-da2183f5?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-06-11-18-00 +0000"
   },
@@ -2442,15 +2442,15 @@
     "pubdate": "2026-08-06-11-05-00 +0000"
   },
   {
-    "headline": "The perfect order at Sweeney’s Saloon in St. Paul",
-    "link": "https://www.startribune.com/the-perfect-order-at-sweeneys-saloon-in-st-paul/601870128",
-    "source": "startribune",
-    "pubdate": "2026-08-06-11-00-00 +0000"
-  },
-  {
     "headline": "There are dozens of empty rooms near 16th and Mission. Why can’t the city use them to house people?",
     "link": "https://missionlocal.org/2026/08/sf-vacancy-rate-mission-sro-hotels/",
     "source": "missionlocal",
+    "pubdate": "2026-08-06-11-00-00 +0000"
+  },
+  {
+    "headline": "The perfect order at Sweeney’s Saloon in St. Paul",
+    "link": "https://www.startribune.com/the-perfect-order-at-sweeneys-saloon-in-st-paul/601870128",
+    "source": "startribune",
     "pubdate": "2026-08-06-11-00-00 +0000"
   },
   {
@@ -2508,46 +2508,16 @@
     "pubdate": "2026-08-06-10-00-16 +0000"
   },
   {
-    "headline": "Senate Democrats probe Korean firm’s $2 million payment to Trump company",
-    "link": "https://www.washingtonpost.com/politics/2026/08/06/warren-probes-2m-payment-trump-company-amid-tariff-case/",
-    "source": "wapo",
-    "pubdate": "2026-08-06-10-00-01 +0000"
-  },
-  {
     "headline": "Veterans in this GI Bill scam played along and pocketed millions",
     "link": "https://www.washingtonpost.com/investigations/interactive/2026/08/06/how-gi-bill-veterans-trade-schools-extracted-millions-sham-class-schemes/",
     "source": "wapo",
     "pubdate": "2026-08-06-10-00-01 +0000"
   },
   {
-    "headline": "ICE's healthcare payment system collapsed. Are detainees still getting off-site care?",
-    "link": "https://www.latimes.com/politics/story/2026-08-06/records-detail-ice-medical-claims-before-payment-system-collapsed",
-    "source": "latimes",
-    "pubdate": "2026-08-06-10-00-00 +0000"
-  },
-  {
-    "headline": "Neiman Marcus accused of bungling workplace complaints — including from staff lawyer with brain cancer",
-    "link": "https://nypost.com/2026/08/06/business/neiman-marcus-accused-of-bungling-workplace-complaints-including-from-staff-lawyer-with-brain-cancer/",
-    "source": "nypost",
-    "pubdate": "2026-08-06-10-00-00 +0000"
-  },
-  {
-    "headline": "A house, a car, a little breathing room: Why middle-class life feels increasingly out of reach",
-    "link": "https://www.startribune.com/middle-class-income-us-economy-consumer-sentiment/601849703",
-    "source": "startribune",
-    "pubdate": "2026-08-06-10-00-00 +0000"
-  },
-  {
-    "headline": "Burcum: A ‘zombie’ that could slash abortion access may be lumbering to life",
-    "link": "https://www.startribune.com/womens-health-us-abortion-drug-mail-mifepristone-todd-blanche-ag/601875086",
-    "source": "startribune",
-    "pubdate": "2026-08-06-10-00-00 +0000"
-  },
-  {
-    "headline": "Hiltzik: The feds are issuing tariff refunds to big companies, but you still shouldn't expect a check",
-    "link": "https://www.latimes.com/business/story/2026-08-06/feds-are-issuing-tariff-refunds-to-big-companies-but-you-still-shouldnt-expect-check",
-    "source": "latimes",
-    "pubdate": "2026-08-06-10-00-00 +0000"
+    "headline": "Senate Democrats probe Korean firm’s $2 million payment to Trump company",
+    "link": "https://www.washingtonpost.com/politics/2026/08/06/warren-probes-2m-payment-trump-company-amid-tariff-case/",
+    "source": "wapo",
+    "pubdate": "2026-08-06-10-00-01 +0000"
   },
   {
     "headline": "From mice to 'gym rats': Unregulated use of peptides raises alarm among researchers",
@@ -2577,6 +2547,36 @@
     "headline": "ICE's healthcare payment system collapsed. Are detainees still getting off-site care?",
     "link": "https://www.latimes.com/politics/story/2026-08-06/records-detail-ice-medical-claims-before-payment-system-collapsed",
     "source": "latimes",
+    "pubdate": "2026-08-06-10-00-00 +0000"
+  },
+  {
+    "headline": "ICE's healthcare payment system collapsed. Are detainees still getting off-site care?",
+    "link": "https://www.latimes.com/politics/story/2026-08-06/records-detail-ice-medical-claims-before-payment-system-collapsed",
+    "source": "latimes",
+    "pubdate": "2026-08-06-10-00-00 +0000"
+  },
+  {
+    "headline": "A house, a car, a little breathing room: Why middle-class life feels increasingly out of reach",
+    "link": "https://www.startribune.com/middle-class-income-us-economy-consumer-sentiment/601849703",
+    "source": "startribune",
+    "pubdate": "2026-08-06-10-00-00 +0000"
+  },
+  {
+    "headline": "Burcum: A ‘zombie’ that could slash abortion access may be lumbering to life",
+    "link": "https://www.startribune.com/womens-health-us-abortion-drug-mail-mifepristone-todd-blanche-ag/601875086",
+    "source": "startribune",
+    "pubdate": "2026-08-06-10-00-00 +0000"
+  },
+  {
+    "headline": "Hiltzik: The feds are issuing tariff refunds to big companies, but you still shouldn't expect a check",
+    "link": "https://www.latimes.com/business/story/2026-08-06/feds-are-issuing-tariff-refunds-to-big-companies-but-you-still-shouldnt-expect-check",
+    "source": "latimes",
+    "pubdate": "2026-08-06-10-00-00 +0000"
+  },
+  {
+    "headline": "Neiman Marcus accused of bungling workplace complaints — including from staff lawyer with brain cancer",
+    "link": "https://nypost.com/2026/08/06/business/neiman-marcus-accused-of-bungling-workplace-complaints-including-from-staff-lawyer-with-brain-cancer/",
+    "source": "nypost",
     "pubdate": "2026-08-06-10-00-00 +0000"
   },
   {
@@ -2634,14 +2634,14 @@
     "pubdate": "2026-08-06-09-36-11 +0000"
   },
   {
-    "headline": "Deal or No Deal, AstraZeneca Stock Is a Bargain",
-    "link": "https://www.wsj.com/finance/deal-or-no-deal-astrazeneca-stock-is-a-bargain-b9ce6b31?mod=rss_markets_main",
+    "headline": "A Mystery Avenger Escalates a War Against Scotland’s Parking Police",
+    "link": "https://www.wsj.com/world/europe/a-mystery-avenger-escalates-a-war-against-scotlands-parking-police-d25a30c6?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-08-06-09-30-00 +0000"
   },
   {
-    "headline": "A Mystery Avenger Escalates a War Against Scotland’s Parking Police",
-    "link": "https://www.wsj.com/world/europe/a-mystery-avenger-escalates-a-war-against-scotlands-parking-police-d25a30c6?mod=rss_worldnews",
+    "headline": "Deal or No Deal, AstraZeneca Stock Is a Bargain",
+    "link": "https://www.wsj.com/finance/deal-or-no-deal-astrazeneca-stock-is-a-bargain-b9ce6b31?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-06-09-30-00 +0000"
   },
@@ -2782,41 +2782,5 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/cn8negllz1ko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-06-06-21-01 +0000"
-  },
-  {
-    "headline": "Outrage as Ugandan football captain beaten to death in street gang attack",
-    "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-06-06-04-28 +0000"
-  },
-  {
-    "headline": "Outrage as Ugandan football captain beaten to death in street gang attack",
-    "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-06-06-04-28 +0000"
-  },
-  {
-    "headline": "American Airlines flight attendant’s alleged killers tied to gang accused of preying on tourists: officials",
-    "link": "https://nypost.com/2026/08/06/world-news/american-airlines-flight-attendants-alleged-killers-tied-to-gang-accused-of-preying-on-tourists-officials/",
-    "source": "nypost",
-    "pubdate": "2026-08-06-05-57-48 +0000"
-  },
-  {
-    "headline": "Meta becomes latest firm to say its AI hacked another company",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-06-05-53-58 +0000"
-  },
-  {
-    "headline": "Meta becomes latest firm to say its AI hacked another company",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-06-05-53-58 +0000"
-  },
-  {
-    "headline": "Embattled Rep. Cory Mills pressed on ‘stolen valor’ claims and even his religion at fiery GOP primary debate",
-    "link": "https://nypost.com/2026/08/06/us-news/rep-cory-mills-pressed-on-stolen-valor-claims-at-fiery-gop-primary-debate/",
-    "source": "nypost",
-    "pubdate": "2026-08-06-05-48-47 +0000"
   }
 ]
