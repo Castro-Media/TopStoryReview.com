@@ -1,6 +1,6 @@
 [
   {
-    "score": 129,
+    "score": 128,
     "pubdate": "2026-08-06-21-34-00 +0000",
     "source": "wsj",
     "headline": "A GOP-controlled Senate committee’s party-line vote to hold Dr. Anthony Fauci in contempt of Congress raised the legal stakes for the former top health official. Is he is legal trouble?",
@@ -14,7 +14,7 @@
     "link": "https://www.wsj.com/politics/national-security/trump-orders-leak-probe-after-venting-about-media-coverage-of-munitions-stockpile-bdd0251b?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 86,
+    "score": 84,
     "pubdate": "2026-08-07-01-03-00 +0000",
     "source": "wsj",
     "headline": "Rep. Max Miller is lending his re-election campaign $1 million as the embattled two-term Ohio congressman faces pressure to drop out over allegations of domestic abuse",
@@ -28,7 +28,7 @@
     "link": "https://www.wsj.com/politics/policy/trump-tries-again-to-limit-birthright-citizenship-b300109e?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 55,
+    "score": 54,
     "pubdate": "2026-08-06-17-06-16 +0000",
     "source": "nypost",
     "headline": "Small SoCal business fumes at ‘power’-hungry local official after its utilities were cut during a permit dispute, family claims",
@@ -43,13 +43,6 @@
   },
   {
     "score": 51,
-    "pubdate": "2026-08-06-20-18-00 +0000",
-    "source": "wsj",
-    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
-    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f?mod=rss_socialeconomyfeed"
-  },
-  {
-    "score": 51,
     "pubdate": "2026-08-07-04-01-34 +0000",
     "source": "nypost",
     "headline": "Bay Area fans left stunned as Lionel Richie, Earth, Wind & Fire concert called off over medical emergency moments before showtime",
@@ -60,10 +53,17 @@
     "pubdate": "2026-08-06-11-18-00 +0000",
     "source": "wsj",
     "headline": "The Morning Risk Report: U.S. to Halt Key Metal Waste Exports in Push to Break China Reliance",
-    "link": "https://www.wsj.com/cio-journal/the-morning-risk-report-u-s-to-halt-key-metal-waste-exports-in-push-to-break-china-reliance-da2183f5?mod=rss_worldnews"
+    "link": "https://www.wsj.com/cio-journal/the-morning-risk-report-u-s-to-halt-key-metal-waste-exports-in-push-to-break-china-reliance-da2183f5?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 49,
+    "pubdate": "2026-08-06-20-18-00 +0000",
+    "source": "wsj",
+    "headline": "There is concern about how AI is affecting work as each new month brings a wave of job-cut announcements from large employers. Here’s how this year’s layoffs are stacking up.",
+    "link": "https://www.wsj.com/economy/jobs/layoffs-2026-tracker-784ea69f?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 47,
     "pubdate": "2026-08-07-00-54-03 +0000",
     "source": "bbc",
     "headline": "Meta fined $567m in largest child safety ruling against social media giant",
