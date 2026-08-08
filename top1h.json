@@ -1,9 +1,37 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-08-08-04-15-26 +0000",
+    "score": 20,
+    "pubdate": "2026-08-08-05-21-05 +0000",
+    "source": "nyt",
+    "headline": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
+    "link": "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-08-05-29-18 +0000",
     "source": "nypost",
-    "headline": "TikTok food critic, 29, details ‘miserable’ experience of contracting ‘explosive diarrhea’ parasite",
-    "link": "https://nypost.com/2026/08/08/us-news/tiktok-food-critic-29-details-miserable-experience-of-contracting-explosive-diarrhea-parasite/"
+    "headline": "Texas cop Chad Eberle fatally shot 3 people during custody battle in Mexico before he’s captured at border",
+    "link": "https://nypost.com/2026/08/08/world-news/texas-cop-chad-eberle-fatally-shot-3-people-during-custody-battle-in-mexico-before-being-captured-at-border/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-08-05-13-43 +0000",
+    "source": "nypost",
+    "headline": "Oklahoma reality TV cowboy Ethan Treadwell sentenced for attacking elderly landlord",
+    "link": "https://nypost.com/2026/08/08/us-news/oklahoma-reality-tv-cowboy-ethan-treadwell-sentenced-to-prison-for-attacking-elderly-landlord/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-08-05-15-51 +0000",
+    "source": "bbc",
+    "headline": "Child among three killed in Russian missile attacks near Kyiv",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-08-05-21-05 +0000",
+    "source": "nyt",
+    "headline": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
+    "link": "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html"
   }
 ]
