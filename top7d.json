@@ -1,6 +1,6 @@
 [
   {
-    "score": 380,
+    "score": 378,
     "pubdate": "2026-08-02-15-40-24 +0000",
     "source": "chitri",
     "headline": "President Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
@@ -56,17 +56,17 @@
     "link": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 106,
-    "pubdate": "2026-08-05-19-14-31 +0000",
-    "source": "chitri",
-    "headline": "No evidence? No problem. President Donald Trump pushes ahead on false claims that Reflecting Pool was vandalized.",
-    "link": "https://www.chicagotribune.com/2026/08/05/trump-reflecting-pool/"
-  },
-  {
     "score": 102,
     "pubdate": "2026-08-08-19-18-57 +0000",
     "source": "bbc",
     "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
     "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 102,
+    "pubdate": "2026-08-05-19-14-31 +0000",
+    "source": "chitri",
+    "headline": "No evidence? No problem. President Donald Trump pushes ahead on false claims that Reflecting Pool was vandalized.",
+    "link": "https://www.chicagotribune.com/2026/08/05/trump-reflecting-pool/"
   }
 ]
