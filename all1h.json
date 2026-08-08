@@ -1,8 +1,182 @@
 [
   {
-    "headline": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
-    "link": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+    "headline": "Reservation Apps Have Made Getting Into a Restaurant a Nightmare",
+    "link": "https://www.wsj.com/business/restaurant-reservation-apps-30a29e6b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-07-23-00-00 +0000"
+  },
+  {
+    "headline": "Fraud convictions of former Outcome Health executives upheld by appeals court",
+    "link": "https://www.chicagotribune.com/2026/08/07/outcome-health-conviction-upheld/",
+    "source": "chitri",
+    "pubdate": "2026-08-07-22-51-30 +0000"
+  },
+  {
+    "headline": "Popular Mediterranean chain Cava expanding to Northern California for first time",
+    "link": "https://nypost.com/2026/08/07/us-news/cava-expanding-to-northern-california-with-first-bay-area-locations/",
+    "source": "nypost",
+    "pubdate": "2026-08-07-22-46-11 +0000"
+  },
+  {
+    "headline": "DSA table at Mamdani’s NYC-run town hall raises ethics questions: ‘Deeply concerning’",
+    "link": "https://nypost.com/2026/08/07/us-news/dsa-table-at-mamdanis-city-run-town-hall-raises-ethics-questions-deeply-concerning/",
+    "source": "nypost",
+    "pubdate": "2026-08-07-22-41-30 +0000"
+  },
+  {
+    "headline": "Funeral home rotted more than 50 bodies in ‘deplorable conditions’ as residents reported ‘stench’",
+    "link": "https://nypost.com/2026/08/07/us-news/50-decomposing-bodies-found-at-chicago-funeral-home/",
+    "source": "nypost",
+    "pubdate": "2026-08-07-22-39-48 +0000"
+  },
+  {
+    "headline": "An Unloved Schumer Tries to Win Over Party’s Insurgents",
+    "link": "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-22-37-00 +0000"
+  },
+  {
+    "headline": "An Unloved Schumer Tries to Win Over Party’s Insurgents",
+    "link": "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-22-37-00 +0000"
+  },
+  {
+    "headline": "U.S. Squeezes Cuba Even as It Searches for a New Regime Leader",
+    "link": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-22-35-20 +0000"
+  },
+  {
+    "headline": "U.S. Squeezes Cuba Even as It Searches for a New Regime Leader",
+    "link": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-22-35-20 +0000"
+  },
+  {
+    "headline": "U.S. Squeezes Cuba Even as It Searches for a New Regime Leader",
+    "link": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-22-35-20 +0000"
+  },
+  {
+    "headline": "U.S. Squeezes Cuba Even as It Searches for a New Regime Leader",
+    "link": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-22-35-20 +0000"
+  },
+  {
+    "headline": "Trump Ally Takes Office in Colombia With Vow to Fight Cocaine Armies",
+    "link": "https://www.wsj.com/world/americas/trump-ally-takes-office-in-colombia-with-vow-to-fight-cocaine-armies-96c60781?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-08-07-22-35-00 +0000"
+  },
+  {
+    "headline": "Trump administration moves ahead with efforts to fire Federal Reserve governor Lisa Cook",
+    "link": "https://www.chicagotribune.com/2026/08/07/trump-administration-lisa-cook/",
+    "source": "chitri",
+    "pubdate": "2026-08-07-22-33-10 +0000"
+  },
+  {
+    "headline": "Accused killer dad Luciano Frattolin weighs explosive move at NY trial over 9-year-old’s slaying",
+    "link": "https://nypost.com/2026/08/07/us-news/accused-killer-dad-luciano-frattolin-weighs-explosive-move-in-ny-slay-case/",
+    "source": "nypost",
+    "pubdate": "2026-08-07-22-31-48 +0000"
+  },
+  {
+    "headline": "Sue Zelickson, matriarch of the Twin Cities food scene, dies at 91",
+    "link": "https://www.startribune.com/sue-zelickson-matriarch-of-the-twin-cities-food-scene-dies-at-91/601876365",
+    "source": "startribune",
+    "pubdate": "2026-08-07-22-31-36 +0000"
+  },
+  {
+    "headline": "Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash",
+    "link": "https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-07-22-31-00 +0000"
+  },
+  {
+    "headline": "Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash",
+    "link": "https://www.wsj.com/tech/ai/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-02c7374e?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-07-22-31-00 +0000"
+  },
+  {
+    "headline": "They’re Battle-Tested Democrats. Do Voters Care?",
+    "link": "https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-22-29-44 +0000"
+  },
+  {
+    "headline": "They’re Battle-Tested Democrats. Do Voters Care?",
+    "link": "https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html",
+    "source": "nyt",
+    "pubdate": "2026-08-07-22-29-44 +0000"
+  },
+  {
+    "headline": "5-year-old autistic boy found dead just feet from his Florida home",
+    "link": "https://nypost.com/2026/08/07/us-news/5-year-old-autistic-child-found-dead-in-pond-at-florida-apartment-complex/",
+    "source": "nypost",
+    "pubdate": "2026-08-07-22-27-00 +0000"
+  },
+  {
+    "headline": "California restaurant suddenly closes weeks after cashing $100K lifeline from city",
+    "link": "https://nypost.com/2026/08/07/us-news/california-restaurant-closes-weeks-after-cashing-100k-city-grant/",
+    "source": "nypost",
+    "pubdate": "2026-08-07-22-22-56 +0000"
+  },
+  {
+    "headline": "Turkey, Pakistan and Saudi Arabia sign a mutual defense deal",
+    "link": "https://www.chicagotribune.com/2026/08/07/middle-east-news-aug-7-26/",
+    "source": "chitri",
+    "pubdate": "2026-08-07-22-16-52 +0000"
+  },
+  {
+    "headline": "Businesses in Highland Park shopping mall join forces for first End of Summer Party",
+    "link": "https://www.chicagotribune.com/2026/08/07/eznd-of-summer-party-highland-park/",
+    "source": "chitri",
+    "pubdate": "2026-08-07-22-13-56 +0000"
+  },
+  {
+    "headline": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-08-07-21-05-45 +0000"
+    "pubdate": "2026-08-07-22-13-55 +0000"
+  },
+  {
+    "headline": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-07-22-13-55 +0000"
+  },
+  {
+    "headline": "Three people charged with threatening judge, witnesses in Nolan Wells case",
+    "link": "https://www.washingtonpost.com/nation/2026/08/06/three-people-charged-with-threatening-judge-witnesses-nolan-wells-case/",
+    "source": "wapo",
+    "pubdate": "2026-08-07-22-09-38 +0000"
+  },
+  {
+    "headline": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+    "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-07-22-07-00 +0000"
+  },
+  {
+    "headline": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+    "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-07-22-07-00 +0000"
+  },
+  {
+    "headline": "Schumer forges ahead in Fight for Senate, despite setbacks",
+    "link": "https://www.chicagotribune.com/2026/08/07/schumer-forges-ahead-2026/",
+    "source": "chitri",
+    "pubdate": "2026-08-07-22-06-50 +0000"
+  },
+  {
+    "headline": "A viral $20 burrito is dividing conservatives online",
+    "link": "https://www.washingtonpost.com/business/2026/08/07/viral-20-burrito-is-dividing-conservatives-online/",
+    "source": "wapo",
+    "pubdate": "2026-08-07-22-06-27 +0000"
   }
 ]
