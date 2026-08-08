@@ -1,20 +1,13 @@
 [
   {
-    "score": 160,
+    "score": 144,
     "pubdate": "2026-08-07-21-04-00 +0000",
     "source": "wsj",
     "headline": "Fed governor Lisa Cook is back in Trump’s crosshairs, an appeals court halts construction on the White House ballroom and NYC homeowners sue over the pied-à-terre tax rollout. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/fed-governor-lisa-cook-is-back-in-trumps-crosshairs-012412e7?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 87,
-    "pubdate": "2026-08-07-17-23-50 +0000",
-    "source": "nypost",
-    "headline": "Late Lindsey Graham’s Russia, Iran sanctions bill easily passes Senate",
-    "link": "https://nypost.com/2026/08/07/us-news/senate-passes-late-lindsey-grahams-russia-iran-sanctions-bill/"
-  },
-  {
-    "score": 68,
+    "score": 85,
     "pubdate": "2026-08-08-08-34-00 +0000",
     "source": "wsj",
     "headline": "The Senate narrowly confirmed Todd Blanche as attorney general, cementing a trusted Trump ally atop the Justice Department",
@@ -28,25 +21,32 @@
     "link": "https://www.wsj.com/politics/hegseth-strips-security-clearance-from-bidens-air-force-secretary-565eb26f?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 58,
+    "score": 55,
     "pubdate": "2026-08-08-16-34-18 +0000",
     "source": "bbc",
     "headline": "US offers $1bn to Colombia on new right-wing president's first day of office",
     "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
+    "score": 52,
+    "pubdate": "2026-08-08-16-59-56 +0000",
+    "source": "nyt",
+    "headline": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html"
+  },
+  {
+    "score": 49,
     "pubdate": "2026-08-08-16-03-18 +0000",
     "source": "chitri",
     "headline": "Hunter Biden says his father’s prostate cancer is causing him pain even as he continues to speak out",
     "link": "https://www.chicagotribune.com/2026/08/08/joe-biden-cancer-pain/"
   },
   {
-    "score": 50,
-    "pubdate": "2026-08-07-20-50-01 +0000",
-    "source": "nypost",
-    "headline": "Saudi Arabia, Turkey and Pakistan forge ‘attack on one, attack on all’ pact — as Iran deal lingers",
-    "link": "https://nypost.com/2026/08/07/world-news/saudi-arabia-turkey-and-pakistan-forge-self-defense-pact-as-iran-deal-lingers/"
+    "score": 36,
+    "pubdate": "2026-08-08-08-04-22 +0000",
+    "source": "nyt",
+    "headline": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill-shutdown.html"
   },
   {
     "score": 36,
@@ -57,16 +57,16 @@
   },
   {
     "score": 35,
-    "pubdate": "2026-08-08-16-05-43 +0000",
-    "source": "nypost",
-    "headline": "Ex-NYC Mayor Eric Adams posts ‘thirst trap’ holding XL cucumber to promote healthy eating",
-    "link": "https://nypost.com/2026/08/08/us-news/ex-nyc-mayor-eric-adams-shows-off-shirtless-body-and-large-fruit/"
-  },
-  {
-    "score": 35,
     "pubdate": "2026-08-08-04-01-08 +0000",
     "source": "nyt",
     "headline": "Punjabi Soldiers Who Fought for Britain in World War I Are Recognized for First Time",
     "link": "https://www.nytimes.com/2026/08/08/world/europe/punjabi-soldiers-ww1-british-indian-army.html"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-08-08-16-05-43 +0000",
+    "source": "nypost",
+    "headline": "Ex-NYC Mayor Eric Adams posts ‘thirst trap’ holding XL cucumber to promote healthy eating",
+    "link": "https://nypost.com/2026/08/08/us-news/ex-nyc-mayor-eric-adams-shows-off-shirtless-body-and-large-fruit/"
   }
 ]
