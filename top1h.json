@@ -1,72 +1,37 @@
 [
   {
-    "score": 18,
-    "pubdate": "2026-08-09-00-20-55 +0000",
-    "source": "nyt",
-    "headline": "Max Miller, Republican Accused of Abuse, Won’t Drop Out, Spokeswoman Says",
-    "link": "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html"
-  },
-  {
     "score": 14,
-    "pubdate": "2026-08-09-01-12-03 +0000",
-    "source": "nyt",
-    "headline": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
-    "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html"
+    "pubdate": "2026-08-09-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help.",
+    "link": "https://www.wsj.com/world/china/cuba-china-solar-power-da5b3338?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 14,
-    "pubdate": "2026-08-09-01-08-46 +0000",
-    "source": "nyt",
-    "headline": "Chuck Grassley Announces the Death of His Beloved Vacuum, Beth",
-    "link": "https://www.nytimes.com/2026/08/08/us/politics/beth-vacuum-chuck-grassley-iowa.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-08-09-01-00-53 +0000",
+    "score": 13,
+    "pubdate": "2026-08-09-02-03-57 +0000",
     "source": "nypost",
-    "headline": "California housing crisis laid bare in shocking new report revealing age of first-time homeowners",
-    "link": "https://nypost.com/2026/08/08/us-news/california-housing-crisis-laid-bare-in-shocking-new-report-revealing-age-of-first-time-homeowners/"
+    "headline": "Young punks busted in insane serial armed robbery spree targeting 77 Bay Area homes and cars",
+    "link": "https://nypost.com/2026/08/08/us-news/bay-area-serial-burglary-spree-4-juveniles-arrested-for-targeting-77-homes-and-cars/"
   },
   {
-    "score": 7,
-    "pubdate": "2026-08-09-01-00-00 +0000",
+    "score": 10,
+    "pubdate": "2026-08-09-01-37-36 +0000",
+    "source": "nypost",
+    "headline": "Disney titan thanks crews who rescued him from Arizona mountain in scorching heat",
+    "link": "https://nypost.com/2026/08/08/us-news/disney-animator-glen-keane-thanks-resucers-after-mummy-mountain-hike/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-08-09-02-32-34 +0000",
+    "source": "nyt",
+    "headline": "Two Killed in Firefighting Helicopter Crash Near Utah Wildfire",
+    "link": "https://www.nytimes.com/2026/08/08/us/two-killed-wildfire-helicopter-crash.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-09-02-00-00 +0000",
     "source": "wsj",
-    "headline": "The Suspected Gangster Causing Headaches for Kushner’s Albania Deal",
-    "link": "https://www.wsj.com/world/europe/jared-kushner-albania-shehu-drug-investigation-95391263?mod=rss_worldnews"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-08-09-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Blockbuster Earnings Bolster Stocks’ Record Run",
-    "link": "https://www.wsj.com/finance/stocks/blockbuster-earnings-bolster-stocks-record-run-97551889?mod=rss_markets_main"
-  },
-  {
-    "score": 5,
-    "pubdate": "2026-08-09-00-43-27 +0000",
-    "source": "latimes",
-    "headline": "Firefighters battling brush fire in Burbank",
-    "link": "https://www.latimes.com/california/story/2026-08-08/la-me-walnut-fire-burbank"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-08-09-01-12-03 +0000",
-    "source": "nyt",
-    "headline": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
-    "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-08-09-01-08-46 +0000",
-    "source": "nyt",
-    "headline": "Chuck Grassley Announces the Death of His Beloved Vacuum, Beth",
-    "link": "https://www.nytimes.com/2026/08/08/us/politics/beth-vacuum-chuck-grassley-iowa.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-08-09-00-20-55 +0000",
-    "source": "nyt",
-    "headline": "Max Miller, Republican Accused of Abuse, Won’t Drop Out, Spokeswoman Says",
-    "link": "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html"
+    "headline": "Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help.",
+    "link": "https://www.wsj.com/world/china/cuba-china-solar-power-da5b3338?mod=rss_worldnews"
   }
 ]
