@@ -1,6 +1,6 @@
 [
   {
-    "score": 88,
+    "score": 86,
     "pubdate": "2026-08-09-13-10-42 +0000",
     "source": "wapo",
     "headline": "Netanyahu rejects Trump-backed Gaza plan for Hamas to disarm, Israel to withdraw",
@@ -15,13 +15,6 @@
   },
   {
     "score": 42,
-    "pubdate": "2026-08-09-14-18-19 +0000",
-    "source": "nyt",
-    "headline": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary",
-    "link": "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html"
-  },
-  {
-    "score": 42,
     "pubdate": "2026-08-08-16-03-18 +0000",
     "source": "chitri",
     "headline": "Hunter Biden says his father’s prostate cancer is causing him pain even as he continues to speak out",
@@ -29,6 +22,13 @@
   },
   {
     "score": 41,
+    "pubdate": "2026-08-09-14-18-19 +0000",
+    "source": "nyt",
+    "headline": "Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary",
+    "link": "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html"
+  },
+  {
+    "score": 39,
     "pubdate": "2026-08-08-19-56-38 +0000",
     "source": "nyt",
     "headline": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
@@ -43,17 +43,24 @@
   },
   {
     "score": 30,
+    "pubdate": "2026-08-08-17-58-42 +0000",
+    "source": "bbc",
+    "headline": "US offers $1bn to Colombia on new right-wing president's first day of office",
+    "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 30,
     "pubdate": "2026-08-09-06-10-47 +0000",
     "source": "nypost",
     "headline": "Indian national allegedly killed Arizona girlfriend, arrested at Germany airport as violent history surfaces",
     "link": "https://nypost.com/2026/08/09/us-news/indian-national-varun-batchigari-kills-arizona-girlfriend-julissa-salazar-arrested-at-germany-airport-police/"
   },
   {
-    "score": 30,
-    "pubdate": "2026-08-08-17-58-42 +0000",
-    "source": "bbc",
-    "headline": "US offers $1bn to Colombia on new right-wing president's first day of office",
-    "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
+    "score": 28,
+    "pubdate": "2026-08-09-15-26-40 +0000",
+    "source": "chitri",
+    "headline": "Bally’s Chicago pauses construction on hotel, other amenities over video gambling dispute with city",
+    "link": "https://www.chicagotribune.com/2026/08/09/ballys-hotel-construction-video-gambling-dispute/"
   },
   {
     "score": 27,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
     "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 27,
-    "pubdate": "2026-08-09-00-20-56 +0000",
-    "source": "nyt",
-    "headline": "Max Miller, Republican Accused of Abuse, Won’t Drop Out, Spokeswoman Says",
-    "link": "https://www.nytimes.com/2026/08/08/us/politics/max-miller-ohio-republican.html"
   }
 ]
