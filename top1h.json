@@ -1,30 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-08-10-06-02-26 +0000",
-    "source": "nypost",
-    "headline": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain’s wackiest election",
-    "link": "https://nypost.com/2026/08/10/us-news/count-binface-the-man-in-a-can-with-a-plan-seeks-parliament-seat-in-britains-wackiest-election/"
+    "score": 27,
+    "pubdate": "2026-08-10-06-50-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Rises Amid Growing Doubts That Strait of Hormuz Can Reopen Soon",
+    "link": "https://www.wsj.com/finance/stocks/oil-rises-amid-growing-doubts-that-strait-of-hormuz-can-reopen-soon-295798e5?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 9,
-    "pubdate": "2026-08-10-05-21-43 +0000",
+    "score": 18,
+    "pubdate": "2026-08-10-07-16-12 +0000",
     "source": "bbc",
-    "headline": "Thai school shooter learnt how to use guns via social media",
-    "link": "https://www.bbc.co.uk/news/articles/cy07dern0n0o?at_medium=RSS&at_campaign=rss"
+    "headline": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+    "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 8,
-    "pubdate": "2026-08-10-06-15-13 +0000",
-    "source": "bbc",
-    "headline": "China evacuates one million from homes as massive storm arrives",
-    "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-08-10-05-42-09 +0000",
+    "score": 14,
+    "pubdate": "2026-08-10-06-46-22 +0000",
     "source": "nyt",
-    "headline": "Why Typhoon Dolphin Was Named After a Beloved Hong Kong Symbol",
-    "link": "https://www.nytimes.com/2026/08/05/weather/typhoon-dolphin-names-dimsum-pacific.html"
+    "headline": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
+    "link": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-10-06-56-00 +0000",
+    "source": "wsj",
+    "headline": "Dollar Recovers Marginally From Losses After Weak Jobs Data",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-buoyed-by-reduced-fed-rate-hike-prospects-ac0ca68d?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-10-06-31-11 +0000",
+    "source": "nyt",
+    "headline": "How Japan Reduced Deaths From a Major Quake",
+    "link": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-08-10-07-05-09 +0000",
+    "source": "nypost",
+    "headline": "Divers find 162-year-old Guinness in shipwreck — and there’s a ‘possibility it’s still drinkable’",
+    "link": "https://nypost.com/2026/08/10/world-news/divers-find-162-year-old-guinness-in-shipwreck-and-theres-a-possibility-its-still-drinkable/"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-08-10-06-43-00 +0000",
+    "source": "wsj",
+    "headline": "Treasury Yields Edge Lower After Friday’s Weak Jobs Data",
+    "link": "https://www.wsj.com/finance/investing/jgbs-edge-lower-amid-potentially-quicker-pace-of-boj-rate-hikes-d17b52c8?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-10-07-16-12 +0000",
+    "source": "bbc",
+    "headline": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+    "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-10-06-50-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Rises Amid Growing Doubts That Strait of Hormuz Can Reopen Soon",
+    "link": "https://www.wsj.com/finance/stocks/oil-rises-amid-growing-doubts-that-strait-of-hormuz-can-reopen-soon-295798e5?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-10-06-50-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Rises Amid Growing Doubts That Strait of Hormuz Can Reopen Soon",
+    "link": "https://www.wsj.com/finance/stocks/oil-rises-amid-growing-doubts-that-strait-of-hormuz-can-reopen-soon-295798e5?mod=rss_worldnews"
   }
 ]
