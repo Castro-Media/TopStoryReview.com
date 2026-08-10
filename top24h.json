@@ -1,10 +1,17 @@
 [
   {
-    "score": 100,
+    "score": 108,
     "pubdate": "2026-08-09-22-50-00 +0000",
     "source": "wsj",
     "headline": "Will Scharf will become the new White House counsel in September, President Trump said, taking the position ahead of the midterm elections and potential congressional investigations",
     "link": "https://www.wsj.com/politics/policy/trump-names-will-scharf-as-new-white-house-counsel-5326dd9e?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 73,
+    "pubdate": "2026-08-10-10-02-00 +0000",
+    "source": "wsj",
+    "headline": "The bruising race to rent in San Francisco goes into overdrive, “moles” in China are leaking official secrets for profit and monoculture makes a surprise summer comeback. Read more in today’s 10-Point newsletter.",
+    "link": "https://www.wsj.com/politics/policy/behind-private-credits-upbeat-claims-loan-health-is-worsening-7b860bc7?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 69,
@@ -14,14 +21,14 @@
     "link": "https://nypost.com/2026/08/09/us-news/gavin-newsom-confirms-hell-meet-with-radical-dem-senate-hopeful-abdul-el-sayed/"
   },
   {
-    "score": 56,
+    "score": 50,
     "pubdate": "2026-08-09-13-17-47 +0000",
     "source": "nypost",
     "headline": "Israel ‘rejects’ Trump’s 15-point peace plan for Gaza, Netanyahu says",
     "link": "https://nypost.com/2026/08/09/world-news/israel-rejects-trumps-15-point-peace-plan-for-gaza-netanyahu-says/"
   },
   {
-    "score": 49,
+    "score": 48,
     "pubdate": "2026-08-10-01-00-00 +0000",
     "source": "wsj",
     "headline": "Downbeat economic views pose a danger for Republicans ahead of the midterms, leaving President Trump and his allies little time to regain their image as the party better suited to handle the economy",
@@ -32,41 +39,34 @@
     "pubdate": "2026-08-10-06-50-00 +0000",
     "source": "wsj",
     "headline": "Oil Rises Amid Growing Doubts That Strait of Hormuz Can Reopen Soon",
-    "link": "https://www.wsj.com/finance/stocks/oil-rises-amid-growing-doubts-that-strait-of-hormuz-can-reopen-soon-295798e5?mod=rss_markets_main"
+    "link": "https://www.wsj.com/finance/stocks/oil-rises-amid-growing-doubts-that-strait-of-hormuz-can-reopen-soon-295798e5?mod=rss_worldnews"
   },
   {
-    "score": 44,
+    "score": 45,
     "pubdate": "2026-08-09-23-47-30 +0000",
     "source": "bbc",
     "headline": "You could be missing out on £150 off your energy bill - here's how to check",
     "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 43,
+    "score": 45,
     "pubdate": "2026-08-09-22-10-00 +0000",
     "source": "wsj",
     "headline": "Former President Joe Biden’s cancer has spread to “his bones and further,” his son Hunter Biden told the BBC, offering a new window into the aging former president’s life",
     "link": "https://www.wsj.com/politics/hunter-bidens-comments-on-dads-cancer-shed-new-light-on-ex-presidents-life-a4d435de?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 36,
+    "score": 41,
     "pubdate": "2026-08-09-15-51-04 +0000",
     "source": "nypost",
     "headline": "Iran-backed Houthis attack Aramco refinery in Saudi Arabia, Red Sea port",
     "link": "https://nypost.com/2026/08/09/world-news/iran-backed-houthis-attack-aramco-refinery-in-saudi-arabia-red-sea-port/"
   },
   {
-    "score": 33,
-    "pubdate": "2026-08-09-12-35-11 +0000",
-    "source": "cbc",
-    "headline": "Typhoon Dolphin hits China's east coast, over 1 million evacuated",
-    "link": "https://www.cbc.ca/news/world/china-typhoon-dolphin-evacuations-9.7300965?cmp=rss"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-08-10-00-00-00 +0000",
-    "source": "wsj",
-    "headline": "The AI boom has pushed the bruising race for housing in San Francisco into overdrive, with a lack of supply colliding with sky-high salaries",
-    "link": "https://www.wsj.com/real-estate/the-bruising-race-to-rent-in-san-francisco-goes-into-overdrive-45d2ffd0?mod=rss_socialeconomyfeed"
+    "score": 36,
+    "pubdate": "2026-08-10-10-00-44 +0000",
+    "source": "chitri",
+    "headline": "As Chicago’s mayoral race takes shape, social media influencers step in — including for Brandon Johnson",
+    "link": "https://www.chicagotribune.com/2026/08/10/chicago-mayor-social-media-influencers/"
   }
 ]
