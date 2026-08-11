@@ -1,260 +1,362 @@
 [
   {
-    "headline": "Anne Hathaway pokes fun at 'fake baby bump' theories",
-    "link": "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-11-16-07-08 +0000"
-  },
-  {
-    "headline": "White House Asks Justice Department to Consider New Reflecting-Pool Prosecution",
-    "link": "https://www.wsj.com/us-news/law/white-house-asks-justice-department-to-consider-new-reflecting-pool-prosecution-1bbf8d8b?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-08-11-16-06-00 +0000"
-  },
-  {
-    "headline": "Rights groups sue Trump administration over ICC sanctions",
-    "link": "https://www.cbc.ca/news/world/trump-icc-sanctions-lawsuit-9.7302876?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-08-11-16-05-00 +0000"
-  },
-  {
-    "headline": "Nasdaq to Acquire LeveL Markets",
-    "link": "https://www.wsj.com/finance/nasdaq-to-acquire-level-markets-8f4c64d6?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-11-16-04-00 +0000"
-  },
-  {
-    "headline": "3 Presidents Before Trump Who Obscured Their Risky Travel Plans",
-    "link": "https://www.nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-16-03-07 +0000"
-  },
-  {
-    "headline": "3 Presidents Before Trump Who Obscured Their Risky Travel Plans",
-    "link": "https://www.nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-16-03-07 +0000"
-  },
-  {
-    "headline": "The Post launches Hamilton – a new way to find and understand the news",
-    "link": "https://nypost.com/2026/08/11/media/the-post-launches-hamilton-a-new-way-to-find-and-understand-the-news/",
+    "headline": "Two massive wildfires converge to rip across 44,000 acres on California-Nevada border as evacuations underway",
+    "link": "https://nypost.com/2026/08/11/us-news/massive-bug-fire-spreads-on-california-nevada-border/",
     "source": "nypost",
-    "pubdate": "2026-08-11-16-00-00 +0000"
+    "pubdate": "2026-08-11-17-12-50 +0000"
   },
   {
-    "headline": "People We Meet: Da’Von Griffin is the self-appointed voice of Bay Area mass transit",
-    "link": "https://missionlocal.org/2026/08/sf-davon-griffin-muni-bart-transit-teenager-announcer/",
-    "source": "missionlocal",
-    "pubdate": "2026-08-11-16-00-00 +0000"
+    "headline": "Knicks owner James Dolan-backed Super PAC dunks on Hochul in ‘Get Outta Town’ ad to boost Bruce Blakeman",
+    "link": "https://nypost.com/2026/08/11/us-news/james-dolan-backed-pac-hits-kathy-hochul-for-bruce-blakeman/",
+    "source": "nypost",
+    "pubdate": "2026-08-11-17-12-29 +0000"
   },
   {
-    "headline": "The data center backlash is building",
-    "link": "https://www.washingtonpost.com/politics/2026/08/11/data-center-backlash-is-building/",
-    "source": "wapo",
-    "pubdate": "2026-08-11-15-58-31 +0000"
+    "headline": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate",
+    "link": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-17-09-28 +0000"
   },
   {
-    "headline": "Curaleaf Plans Hostile Bid for Rival Aurora Cannabis",
-    "link": "https://www.wsj.com/business/curaleaf-plans-hostile-bid-for-rival-aurora-cannabis-6263352f?mod=pls_whats_news_us_business_f",
+    "headline": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate",
+    "link": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-17-09-28 +0000"
+  },
+  {
+    "headline": "New Evidence Shows Federal Agents Using Racial Slurs During Immigration Sweeps",
+    "link": "https://www.nytimes.com/2026/08/11/us/videos-ice-agents-racial-profiling.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-17-08-05 +0000"
+  },
+  {
+    "headline": "President Trump said he is reviewing whether his administration can challenge a new pied-à-terre tax championed by New York City Mayor Zohran Mamdani.",
+    "link": "https://www.wsj.com/politics/trump-threatens-to-take-federal-action-to-block-mamdanis-pied-a-terre-tax-cc3520c1?mod=rss_socialpoliticsfeed",
     "source": "wsj",
-    "pubdate": "2026-08-11-15-57-00 +0000"
+    "pubdate": "2026-08-11-17-07-00 +0000"
+  },
+  {
+    "headline": "Trump Threatens to Take Federal Action to Block Mamdani’s Pied-à-Terre Tax",
+    "link": "https://www.wsj.com/politics/trump-threatens-to-take-federal-action-to-block-mamdanis-pied-a-terre-tax-cc3520c1?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-08-11-17-07-00 +0000"
+  },
+  {
+    "headline": "Evacuations at luxury Big Sur resort as raging wildfire explodes in size",
+    "link": "https://nypost.com/2026/08/11/us-news/big-sur-wildfire-forces-evacuations-as-timber-fire-burns-2000-acres-in-california/",
+    "source": "nypost",
+    "pubdate": "2026-08-11-17-03-46 +0000"
+  },
+  {
+    "headline": "Russia releases former US Marine reported in poor health",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-11-17-02-22 +0000"
+  },
+  {
+    "headline": "Russia releases former US Marine reported in poor health",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-11-17-02-22 +0000"
+  },
+  {
+    "headline": "Heat, Fire, Smoke and Storms Are Wreaking Havoc on the Economy",
+    "link": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-58-58 +0000"
+  },
+  {
+    "headline": "Heat, Fire, Smoke and Storms Are Wreaking Havoc on the Economy",
+    "link": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-58-58 +0000"
+  },
+  {
+    "headline": "How ‘Harry Potter’ Fans Protected Dobby’s Grave From the Path of a U.K.-Ireland Power Cable",
+    "link": "https://www.nytimes.com/2026/08/10/world/europe/dobby-harry-potter-grave-wales.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-58-07 +0000"
+  },
+  {
+    "headline": "How ‘Harry Potter’ Fans Protected Dobby’s Grave From the Path of a U.K.-Ireland Power Cable",
+    "link": "https://www.nytimes.com/2026/08/10/world/europe/dobby-harry-potter-grave-wales.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-58-07 +0000"
+  },
+  {
+    "headline": "Former Taylor Farms exec accused of lavish spending on Hawaii mansion, ‘gambling and women’",
+    "link": "https://nypost.com/2026/08/11/business/former-taylor-farms-exec-accused-of-lavish-spending-on-hawaii-mansion-gambling-and-women/",
+    "source": "nypost",
+    "pubdate": "2026-08-11-16-57-53 +0000"
+  },
+  {
+    "headline": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled",
+    "link": "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-57-52 +0000"
+  },
+  {
+    "headline": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled",
+    "link": "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-57-52 +0000"
+  },
+  {
+    "headline": "Chicago Mayor Brandon Johnson names Ashlee Gabrysch as new chief financial officer",
+    "link": "https://www.chicagotribune.com/2026/08/11/ashlee-gabrysch-chicago-cfo/",
+    "source": "chitri",
+    "pubdate": "2026-08-11-16-54-00 +0000"
+  },
+  {
+    "headline": "Chicago Mayor Brandon Johnson names Ashlee Gabrysch as new chief financial officer",
+    "link": "https://www.chicagotribune.com/2026/08/11/ashlee-gabrysch-chicago-cfo/",
+    "source": "chitri",
+    "pubdate": "2026-08-11-16-54-00 +0000"
+  },
+  {
+    "headline": "Universal Studios to dampen 'disturbing' coaster screams with sound barriers, says councilmember",
+    "link": "https://www.latimes.com/travel/story/2026-08-11/universal-studios-fast-and-furious-roller-coaster-screams-sound-barriers",
+    "source": "latimes",
+    "pubdate": "2026-08-11-16-52-30 +0000"
   },
   {
     "headline": "University of Michigan Will Ease Up on Grades for Student Mental Health",
     "link": "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html",
     "source": "nyt",
-    "pubdate": "2026-08-11-15-55-19 +0000"
+    "pubdate": "2026-08-11-16-51-05 +0000"
   },
   {
-    "headline": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
-    "link": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-11-15-53-53 +0000"
+    "headline": "Can Immigration Agents Stop People Based on Appearance?",
+    "link": "https://www.nytimes.com/video/us/100000011079979/can-immigration-agents-stop-people-based-on-appearance.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-48-51 +0000"
   },
   {
-    "headline": "Nvidia partners with major Wall Street players to raise $500B for AI infrastructure",
-    "link": "https://nypost.com/2026/08/11/business/nvidia-partners-with-wall-street-giants-to-raise-500-billion-for-ai-buildout/",
+    "headline": "Zuckerberg defends crew of his $300M superyacht accused of  snubbing a stranded boat",
+    "link": "https://nypost.com/2026/08/11/us-news/zuckerberg-defends-crew-of-his-300m-superyacht-accused-of-snubbing-a-stranded-boat/",
     "source": "nypost",
-    "pubdate": "2026-08-11-15-53-42 +0000"
+    "pubdate": "2026-08-11-16-48-21 +0000"
   },
   {
-    "headline": "As Credit Card Debt Mounts, Home Becomes a Piggy Bank",
-    "link": "https://www.nytimes.com/2026/08/11/business/home-equity-credit-card-debt.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-15-51-27 +0000"
-  },
-  {
-    "headline": "Burnham faces unpopularity test over prisons dilemma",
-    "link": "https://www.bbc.co.uk/news/articles/cn5n3pdlykdo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-11-15-50-37 +0000"
-  },
-  {
-    "headline": "California doctor to the stars’ ex-wife pleads not guilty over his ambush-style murder outside his practice",
-    "link": "https://nypost.com/2026/08/11/us-news/socal-doctors-ex-wife-pleads-not-guilty-to-hired-hit-man-murder-charges/",
-    "source": "nypost",
-    "pubdate": "2026-08-11-15-49-29 +0000"
-  },
-  {
-    "headline": "Man charged for allegedly creating antisemitic website with Nazi symbols, violent videos",
-    "link": "https://nypost.com/2026/08/11/world-news/man-charged-for-allegedly-creating-antisemitic-website-with-nazi-symbols-violent-videos/",
-    "source": "nypost",
-    "pubdate": "2026-08-11-15-49-18 +0000"
-  },
-  {
-    "headline": "Russia releases former US Marine reported in poor health",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-11-15-47-53 +0000"
-  },
-  {
-    "headline": "Russia releases former US Marine reported in poor health",
-    "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-11-15-47-53 +0000"
-  },
-  {
-    "headline": "Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat, report says",
-    "link": "https://www.startribune.com/trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat-report-says/601877364",
-    "source": "startribune",
-    "pubdate": "2026-08-11-15-45-01 +0000"
-  },
-  {
-    "headline": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
-    "link": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-15-42-13 +0000"
-  },
-  {
-    "headline": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
-    "link": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-15-42-13 +0000"
-  },
-  {
-    "headline": "Houthis reportedly kill four in first deadly attack since start of Iran war",
-    "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-11-15-41-13 +0000"
-  },
-  {
-    "headline": "Houthis reportedly kill four in first deadly attack since start of Iran war",
-    "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-11-15-41-13 +0000"
-  },
-  {
-    "headline": "‘Pervert glasses’: Backlash against Meta’s smart glasses grows",
-    "link": "https://www.chicagotribune.com/2026/08/11/meta-smart-glasses/",
-    "source": "chitri",
-    "pubdate": "2026-08-11-15-39-25 +0000"
-  },
-  {
-    "headline": "Russia frees ailing US Marine vet Robert Gilman from prison",
-    "link": "https://nypost.com/2026/08/11/world-news/russia-frees-ailing-us-marine-vet-robert-gilman-from-prison/",
-    "source": "nypost",
-    "pubdate": "2026-08-11-15-36-38 +0000"
-  },
-  {
-    "headline": "With El-Sayed’s Victory Comes a Wave of Islamophobia",
-    "link": "https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-15-36-05 +0000"
-  },
-  {
-    "headline": "With El-Sayed’s Victory Comes a Wave of Islamophobia",
-    "link": "https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-15-36-05 +0000"
-  },
-  {
-    "headline": "Councils to get more powers to stop vape and betting shops, PM announces",
-    "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-11-15-32-27 +0000"
-  },
-  {
-    "headline": "Councils to get more powers to stop vape and betting shops, PM announces",
-    "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-11-15-32-27 +0000"
-  },
-  {
-    "headline": "Rescuers search for Colombia quake survivors as death toll passes 200",
-    "link": "https://www.washingtonpost.com/world/2026/08/11/colombia-rescuers-scramble-find-survivors-earthquake-death-toll-rises/",
+    "headline": "In a partisan age, a Democratic governor goes outside her brand for a running mate",
+    "link": "https://www.washingtonpost.com/politics/2026/08/11/partisan-age-democratic-governor-goes-outside-her-brand-running-mate/",
     "source": "wapo",
-    "pubdate": "2026-08-11-15-28-35 +0000"
+    "pubdate": "2026-08-11-16-48-16 +0000"
   },
   {
     "headline": "Flight-Tracking Platform Sues Kalshi Over Flight Cancellation Prediction Markets",
     "link": "https://www.wsj.com/business/airlines/flight-tracking-platform-sues-kalshi-over-flight-cancellation-prediction-markets-421221d1?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-08-11-15-28-00 +0000"
+    "pubdate": "2026-08-11-16-48-00 +0000"
   },
   {
-    "headline": "Sophia Cover’s dad gives huge update on missing teen after daughter vanished from Florida home in early hours",
-    "link": "https://nypost.com/2026/08/11/us-news/sophia-covers-dad-gives-huge-update-on-missing-teen-after-daughter-vanished-from-home/",
+    "headline": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
+    "link": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-46-36 +0000"
+  },
+  {
+    "headline": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
+    "link": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-46-36 +0000"
+  },
+  {
+    "headline": "Live: Vikings have their starting QB. Here’s what people are saying about Kyler Murray.",
+    "link": "https://www.startribune.com/minnesota-vikings-training-camp-live-updates-august-11-kyler-murray-jj-mccarthy-qb-battle-news/601873729",
+    "source": "startribune",
+    "pubdate": "2026-08-11-16-45-39 +0000"
+  },
+  {
+    "headline": "Oil Futures Gain As Market Looks for Hormuz Agreement",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-likely-technical-correction-f9200cf7?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-11-16-41-00 +0000"
+  },
+  {
+    "headline": "G.M.’s ‘Car Guy’ Talks Electrics, China and Nepotism",
+    "link": "https://www.nytimes.com/2026/08/11/business/general-motors-mark-reuss.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-39-47 +0000"
+  },
+  {
+    "headline": "College graduate, 26, shot dead at Fresno house party after blazing fight with woman",
+    "link": "https://nypost.com/2026/08/11/us-news/california-state-grad-shot-dead-after-fight-at-fresno-house-party/",
     "source": "nypost",
-    "pubdate": "2026-08-11-15-26-26 +0000"
+    "pubdate": "2026-08-11-16-37-34 +0000"
   },
   {
-    "headline": "Lebanon parliament votes to abolish death penalty",
-    "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+    "headline": "U.S. Stocks Edge Lower",
+    "link": "https://www.wsj.com/finance/stocks/u-s-futures-mostly-lower-oil-price-rises-on-middle-east-tension-38e37f9b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-11-16-37-00 +0000"
+  },
+  {
+    "headline": "LA council president issues scathing four-word attack on mayoral hopeful Nithya Raman after she was dumped from top role",
+    "link": "https://nypost.com/2026/08/11/us-news/la-council-president-attacks-nithya-raman-after-dump-from-homeless-committee/",
+    "source": "nypost",
+    "pubdate": "2026-08-11-16-36-49 +0000"
+  },
+  {
+    "headline": "LA council president issues scathing four-word attack on mayoral hopeful Nithya Raman after she was dumped from top role",
+    "link": "https://nypost.com/2026/08/11/us-news/la-council-president-attacks-nithya-raman-after-dump-from-homeless-committee/",
+    "source": "nypost",
+    "pubdate": "2026-08-11-16-36-49 +0000"
+  },
+  {
+    "headline": "Barack Obama to debut books podcast as he and Michelle keep up post-presidency cash in",
+    "link": "https://nypost.com/2026/08/11/us-news/barack-obama-to-debut-books-podcast-as-he-and-wife-michelle-keep-up-post-presidency-cash-in/",
+    "source": "nypost",
+    "pubdate": "2026-08-11-16-36-42 +0000"
+  },
+  {
+    "headline": "Barack Obama to debut books podcast as he and Michelle keep up post-presidency cash in",
+    "link": "https://nypost.com/2026/08/11/us-news/barack-obama-to-debut-books-podcast-as-he-and-wife-michelle-keep-up-post-presidency-cash-in/",
+    "source": "nypost",
+    "pubdate": "2026-08-11-16-36-42 +0000"
+  },
+  {
+    "headline": "Luigi Mangione’s NYC trial rules revealed as court OKs 86 news orgs, anonymous jury — after concerns of ‘intimidation’ by sick fans",
+    "link": "https://nypost.com/2026/08/11/us-news/luigi-mangiones-nyc-trial-rules-revealed-as-court-oks-86-news-orgs-anonymous-jury/",
+    "source": "nypost",
+    "pubdate": "2026-08-11-16-34-53 +0000"
+  },
+  {
+    "headline": "Wildfire Forces Evacuations in Big Sur, Along California’s Famed Coast",
+    "link": "https://www.nytimes.com/2026/08/11/us/california-timber-fire-big-sur.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-34-35 +0000"
+  },
+  {
+    "headline": "After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-31-57 +0000"
+  },
+  {
+    "headline": "After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-31-57 +0000"
+  },
+  {
+    "headline": "Eclipse chasers scramble for glasses as stocks run low",
+    "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-08-11-15-24-07 +0000"
+    "pubdate": "2026-08-11-16-31-43 +0000"
   },
   {
-    "headline": "Lebanon parliament votes to abolish death penalty",
-    "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-1303721d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-11-16-31-00 +0000"
+  },
+  {
+    "headline": "What We Know About the Earthquake in Colombia",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-30-34 +0000"
+  },
+  {
+    "headline": "What We Know About the Earthquake in Colombia",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-30-34 +0000"
+  },
+  {
+    "headline": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-30-30 +0000"
+  },
+  {
+    "headline": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-30-30 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4559d59b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-11-16-30-00 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4559d59b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-11-16-30-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7d1f73ca?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-11-16-28-00 +0000"
+  },
+  {
+    "headline": "Scorching heat causes major changes in Italy’s sparkling wine industry",
+    "link": "https://nypost.com/2026/08/11/world-news/scorching-heat-causes-major-changes-in-italys-sparkling-wine-industry/",
+    "source": "nypost",
+    "pubdate": "2026-08-11-16-26-27 +0000"
+  },
+  {
+    "headline": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
+    "link": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-26-01 +0000"
+  },
+  {
+    "headline": "Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says",
+    "link": "https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html",
+    "source": "nyt",
+    "pubdate": "2026-08-11-16-26-01 +0000"
+  },
+  {
+    "headline": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-22f39867?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-11-16-26-00 +0000"
+  },
+  {
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-8717236d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-11-16-24-00 +0000"
+  },
+  {
+    "headline": "Congo battles fastest-spreading Ebola outbreak on record as deaths top 2,000",
+    "link": "https://www.cbc.ca/news/health/ebola-deaths-record-pace-congo-9.7303142?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-08-11-16-20-34 +0000"
+  },
+  {
+    "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-08-11-15-24-07 +0000"
+    "pubdate": "2026-08-11-16-19-44 +0000"
   },
   {
-    "headline": "Frenzy for Solar Eclipse Glasses Takes Over London",
-    "link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-15-22-49 +0000"
+    "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-11-16-19-44 +0000"
   },
   {
-    "headline": "Frenzy for Solar Eclipse Glasses Takes Over London",
-    "link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-15-22-49 +0000"
+    "headline": "Burnham 'confident' early release of PC Harper's killers can be halted",
+    "link": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-11-16-19-38 +0000"
   },
   {
-    "headline": "Frenzy for Solar Eclipse Glasses Takes Over London",
-    "link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-15-22-49 +0000"
+    "headline": "Watch: U's fans told house prices put players off",
+    "link": "https://www.bbc.co.uk/news/videos/cwymddx1el3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-11-16-19-34 +0000"
   },
   {
-    "headline": "Trump’s secret flight echoes Clinton’s Pakistan plane swap, with key difference",
-    "link": "https://www.washingtonpost.com/business/2026/08/11/trumps-plane-ruse-echoes-clintons-pakistan-swap-with-one-key-difference/",
-    "source": "wapo",
-    "pubdate": "2026-08-11-15-22-12 +0000"
-  },
-  {
-    "headline": "Images From Colombia, Battered by Quakes",
-    "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-15-20-20 +0000"
-  },
-  {
-    "headline": "Images From Colombia, Battered by Quakes",
-    "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html",
-    "source": "nyt",
-    "pubdate": "2026-08-11-15-20-20 +0000"
-  },
-  {
-    "headline": "Video appears to show catering truck secretly moving Trump to military jet from Air Force One following NATO summit in Turkey",
-    "link": "https://nypost.com/2026/08/11/us-news/video-appears-to-show-catering-truck-secretly-moving-trump-to-military-jet-from-air-force-one-following-nato-summit-in-turkey/",
-    "source": "nypost",
-    "pubdate": "2026-08-11-15-14-04 +0000"
-  },
-  {
-    "headline": "Video appears to show catering truck secretly moving Trump to military jet from Air Force One following NATO summit in Turkey",
-    "link": "https://nypost.com/2026/08/11/us-news/video-appears-to-show-catering-truck-secretly-moving-trump-to-military-jet-from-air-force-one-following-nato-summit-in-turkey/",
-    "source": "nypost",
-    "pubdate": "2026-08-11-15-14-04 +0000"
+    "headline": "Opinion | Why Much of America Soured on Israel",
+    "link": "https://www.wsj.com/opinion/why-much-of-america-soured-on-israel-6cd20669?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-08-11-16-14-00 +0000"
   }
 ]
