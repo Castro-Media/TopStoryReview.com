@@ -1,16 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-08-11-09-11-56 +0000",
-    "source": "nyt",
-    "headline": "Images Emerge From Quake-Battered Colombia",
-    "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html"
+    "score": 22,
+    "pubdate": "2026-08-11-10-41-00 +0000",
+    "source": "wsj",
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4559d59b?mod=rss_markets_main"
   },
   {
-    "score": 0,
-    "pubdate": "2026-08-11-09-11-56 +0000",
+    "score": 19,
+    "pubdate": "2026-08-11-10-43-07 +0000",
+    "source": "bbc",
+    "headline": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+    "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-11-10-42-26 +0000",
     "source": "nyt",
-    "headline": "Images Emerge From Quake-Battered Colombia",
-    "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html"
+    "headline": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
+    "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-11-10-36-03 +0000",
+    "source": "wapo",
+    "headline": "Rescuers scramble to find survivors as death toll in Colombia’s powerful earthquake rises",
+    "link": "https://www.washingtonpost.com/world/2026/08/11/colombia-rescuers-scramble-find-survivors-earthquake-death-toll-rises/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-08-11-11-00-00 +0000",
+    "source": "nypost",
+    "headline": "Male chef who survived breast cancer sells 1 millionth lobster roll in NY after TV stardom on ‘GMA,’ ‘Kitchen Nightmares’",
+    "link": "https://nypost.com/2026/08/11/us-news/male-chef-who-survived-breast-cancer-sells-1-millionth-lobster-roll-in-ny/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-08-11-11-01-00 +0000",
+    "source": "wsj",
+    "headline": "An Oil Refiner That Fled California Is Back—With a Giant Pipeline From Texas",
+    "link": "https://www.wsj.com/business/energy-oil/an-oil-refiner-that-fled-california-is-backwith-a-giant-pipeline-from-texas-0ada04fb?mod=rss_usnews"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-11-11-02-00 +0000",
+    "source": "wsj",
+    "headline": "The Morning Risk Report: U.K. Discovers Component in Its Naval Drones Sent Signals to China",
+    "link": "https://www.wsj.com/cio-journal/the-morning-risk-report-u-k-discovers-component-in-its-naval-drones-sent-signals-to-china-6bff9f6c?mod=rss_worldnews"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-11-10-56-08 +0000",
+    "source": "48hills",
+    "headline": "What we ate at Outside Lands: Hot takes on Bay Area tastes",
+    "link": "https://48hills.org/2026/08/what-we-ate-at-outside-lands-hot-takes-on-bay-area-tastes/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-11-10-30-00 +0000",
+    "source": "wsj",
+    "headline": "Domino’s Set to Release New Individual-Size Pizza for Diners Who Don’t Want to Share",
+    "link": "https://www.wsj.com/business/hospitality/dominos-set-to-release-new-individual-size-pizza-for-diners-who-dont-want-to-share-72e4ae2d?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-11-11-07-00 +0000",
+    "source": "wsj",
+    "headline": "Insurance Risks Remain High as Wildfire Threat Rises, Swiss Re Institute Says",
+    "link": "https://www.wsj.com/us-news/climate-environment/insurance-risks-remain-high-as-wildfire-threat-rises-swiss-re-institute-says-3d055b9e?mod=rss_usnews"
   }
 ]
