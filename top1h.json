@@ -1,45 +1,17 @@
 [
   {
-    "score": 32,
+    "score": 21,
+    "pubdate": "2026-08-11-14-17-35 +0000",
+    "source": "bbc",
+    "headline": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
     "pubdate": "2026-08-11-14-14-45 +0000",
     "source": "nyt",
     "headline": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
     "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-08-11-14-07-25 +0000",
-    "source": "nyt",
-    "headline": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
-    "link": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-08-11-13-23-37 +0000",
-    "source": "nyt",
-    "headline": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
-    "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-08-11-13-46-18 +0000",
-    "source": "nyt",
-    "headline": "Trump Picks Project 2025 Co-Author for Role That Would Oversee Any Reflecting Pool Review",
-    "link": "https://www.nytimes.com/2026/08/11/us/politics/dennis-kirk-trump-interior-reflecting-pool-project-2025.html"
-  },
-  {
-    "score": 24,
-    "pubdate": "2026-08-11-14-08-35 +0000",
-    "source": "nypost",
-    "headline": "NYC boat survivor held baby moments before she was killed with her mom: ‘There was no time’",
-    "link": "https://nypost.com/2026/08/11/us-news/nyc-boat-survivor-held-baby-just-before-killed-with-mom/"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-08-11-14-18-29 +0000",
-    "source": "nypost",
-    "headline": "American Airlines plane makes emergency landing after flames shoot from engine: ‘Mayday, mayday, mayday’",
-    "link": "https://nypost.com/2026/08/11/us-news/american-airlines-planes-emergency-landing-after-flames-shoot-from-engine/"
   },
   {
     "score": 18,
@@ -50,23 +22,30 @@
   },
   {
     "score": 17,
+    "pubdate": "2026-08-11-14-18-29 +0000",
+    "source": "nypost",
+    "headline": "American Airlines plane makes emergency landing after flames shoot from engine: ‘Mayday, mayday, mayday’",
+    "link": "https://nypost.com/2026/08/11/us-news/american-airlines-planes-emergency-landing-after-flames-shoot-from-engine/"
+  },
+  {
+    "score": 0,
     "pubdate": "2026-08-11-14-17-35 +0000",
     "source": "bbc",
     "headline": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
     "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 14,
-    "pubdate": "2026-08-11-13-39-08 +0000",
+    "score": 0,
+    "pubdate": "2026-08-11-14-14-45 +0000",
     "source": "nyt",
-    "headline": "The Eclipse Is Coming, and Iceland Is Looking for a Break in the Clouds",
-    "link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-iceland.html"
+    "headline": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
+    "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html"
   },
   {
-    "score": 13,
-    "pubdate": "2026-08-11-13-22-57 +0000",
-    "source": "nypost",
-    "headline": "Middle school teacher first to be arrested under new grooming law is married new mom",
-    "link": "https://nypost.com/2026/08/11/us-news/middle-school-teacher-first-to-be-arrested-under-new-grooming-law-is-a-married-new-mom/"
+    "score": 0,
+    "pubdate": "2026-08-11-14-14-20 +0000",
+    "source": "nyt",
+    "headline": "A.C. Vests and UV Parasols: East Asia Deploys Heat-Fighting Gadgets",
+    "link": "https://www.nytimes.com/2026/08/11/world/asia/extreme-heat-wave-korea-japan-china-cooling.html"
   }
 ]
