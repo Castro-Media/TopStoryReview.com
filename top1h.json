@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-08-11-11-07-00 +0000",
+    "score": 29,
+    "pubdate": "2026-08-11-12-44-54 +0000",
+    "source": "nyt",
+    "headline": "How Raúl Castro’s Grandson, Raúl G. Rodríguez Castro, Became a Power Broker",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-11-13-11-37 +0000",
+    "source": "nypost",
+    "headline": "Confusion as NYPD denies City Hall claim Mamdani’s wife Rama Duwaji will get police escort on Syria, Lebanon trip",
+    "link": "https://nypost.com/2026/08/11/us-news/nypd-denies-city-hall-claim-rama-duwaji-will-get-police-escort-on-syria-lebanon-trip/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-11-13-00-07 +0000",
+    "source": "nyt",
+    "headline": "Ari Emanuel’s Company to Acquire 7 Broadway Theaters and 10 in the West End",
+    "link": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-08-11-13-13-34 +0000",
+    "source": "cbc",
+    "headline": "Zelenskyy says North Korean ballistic missiles used by Russia in deadly attack in Ukraine",
+    "link": "https://www.cbc.ca/news/world/russia-ukraine-war-1630-9.7302823?cmp=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-08-11-13-00-00 +0000",
+    "source": "latimes",
+    "headline": "Spotify to label 'AI personas' and exclude AI music from personal recommendations",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-11/spotify-to-label-ai-personas-rid-ai-music-from-recommendations"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-08-11-12-52-00 +0000",
     "source": "wsj",
-    "headline": "Insurance Risks Remain High as Wildfire Threat Rises, Swiss Re Institute Says",
-    "link": "https://www.wsj.com/us-news/climate-environment/insurance-risks-remain-high-as-wildfire-threat-rises-swiss-re-institute-says-3d055b9e?mod=rss_usnews"
+    "headline": "10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+    "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-11-13-05-22 +0000",
+    "source": "nypost",
+    "headline": "Hero dad sacrificed himself to save teen sons from Martha’s Vineyard riptide",
+    "link": "https://nypost.com/2026/08/11/us-news/hero-dad-sacrificed-himself-to-save-teen-sons-from-marthas-vineyard-riptide/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-11-13-01-38 +0000",
+    "source": "nypost",
+    "headline": "Powerball edges closer to $1B — the biggest of the year — after no winners in latest draw",
+    "link": "https://nypost.com/2026/08/11/us-news/powerball-edges-closer-to-1b-the-biggest-prize-of-the-year/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-11-12-40-12 +0000",
+    "source": "nyt",
+    "headline": "Wildfire Forces Evacuations in Big Sur, Along California’s Famed Northern Coast",
+    "link": "https://www.nytimes.com/2026/08/11/us/california-timber-fire-big-sur.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-11-12-18-59 +0000",
+    "source": "nypost",
+    "headline": "Mom of 2 kidnapped, killed by Florida deputy boyfriend in shocking murder-suicide",
+    "link": "https://nypost.com/2026/08/11/us-news/mom-of-2-kidnapped-killed-by-florida-deputy-boyfriend-in-shocking-murder-suicide/"
   }
 ]
