@@ -139,13 +139,13 @@
   },
   {
     "headline": "Opinion | What Problems Should AI Be Solving?",
-    "link": "https://www.wsj.com/opinion/what-problems-should-ai-be-solving-5ec7240c?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/what-problems-should-ai-be-solving-5ec7240c?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-12-16-53-00 +0000"
   },
   {
     "headline": "Opinion | What Problems Should AI Be Solving?",
-    "link": "https://www.wsj.com/opinion/what-problems-should-ai-be-solving-5ec7240c?mod=rss_markets_main",
+    "link": "https://www.wsj.com/opinion/what-problems-should-ai-be-solving-5ec7240c?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-12-16-53-00 +0000"
   },
@@ -319,13 +319,13 @@
   },
   {
     "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4cbbe78d?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4cbbe78d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-12-16-27-00 +0000"
   },
   {
     "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4cbbe78d?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4cbbe78d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-12-16-27-00 +0000"
   },
@@ -667,13 +667,13 @@
   },
   {
     "headline": "U.S. Crude Oil Stockpiles Post Unexpected Build",
-    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-unexpected-build-29b9fdf1?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-unexpected-build-29b9fdf1?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-12-15-07-00 +0000"
   },
   {
     "headline": "U.S. Crude Oil Stockpiles Post Unexpected Build",
-    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-unexpected-build-29b9fdf1?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-unexpected-build-29b9fdf1?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-12-15-07-00 +0000"
   },
@@ -960,14 +960,14 @@
     "pubdate": "2026-08-12-13-38-19 +0000"
   },
   {
-    "headline": "Here’s how the consumer-price index is put together, and the ways economists study this and other indicators to track inflation",
-    "link": "https://www.wsj.com/economy/central-banking/consumer-price-index-inflation-explained-662fc1e3?mod=rss_socialeconomyfeed",
+    "headline": "The CPI and Inflation, Explained",
+    "link": "https://www.wsj.com/economy/central-banking/consumer-price-index-inflation-explained-662fc1e3?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-12-13-36-00 +0000"
   },
   {
-    "headline": "The CPI and Inflation, Explained",
-    "link": "https://www.wsj.com/economy/central-banking/consumer-price-index-inflation-explained-662fc1e3?mod=rss_markets_main",
+    "headline": "Here’s how the consumer-price index is put together, and the ways economists study this and other indicators to track inflation",
+    "link": "https://www.wsj.com/economy/central-banking/consumer-price-index-inflation-explained-662fc1e3?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-08-12-13-36-00 +0000"
   },
@@ -1297,13 +1297,13 @@
   },
   {
     "headline": "The Morning Risk Report: Judge Dismisses Adani Fraud Charges",
-    "link": "https://www.wsj.com/politics/policy/the-morning-risk-report-judge-dismisses-adani-fraud-charges-d53e7b3d?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/politics/policy/the-morning-risk-report-judge-dismisses-adani-fraud-charges-d53e7b3d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-12-11-14-00 +0000"
   },
   {
     "headline": "The Morning Risk Report: Judge Dismisses Adani Fraud Charges",
-    "link": "https://www.wsj.com/politics/policy/the-morning-risk-report-judge-dismisses-adani-fraud-charges-d53e7b3d?mod=rss_markets_main",
+    "link": "https://www.wsj.com/politics/policy/the-morning-risk-report-judge-dismisses-adani-fraud-charges-d53e7b3d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-12-11-14-00 +0000"
   },
@@ -1518,6 +1518,12 @@
     "pubdate": "2026-08-12-10-00-00 +0000"
   },
   {
+    "headline": "Six ways Minnesota’s primary upended political assumptions",
+    "link": "https://www.startribune.com/minnesota-primary-election-results-takeaways-klobuchar-demuth-flanagan-craig-tafoya-trump-lindell/601874887",
+    "source": "startribune",
+    "pubdate": "2026-08-12-10-00-00 +0000"
+  },
+  {
     "headline": "Google co-founder Sergey Brin spending more than $100 million fighting California wealth tax",
     "link": "https://www.latimes.com/business/story/2026-08-12/googles-sergey-brin-spent-102-million-fighting-california-wealth-tax",
     "source": "latimes",
@@ -1551,12 +1557,6 @@
     "headline": "Inside David Ellison's desperate fight for Warner Bros.",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-12/inside-david-ellisons-desperate-fight-for-warner-bros",
     "source": "latimes",
-    "pubdate": "2026-08-12-10-00-00 +0000"
-  },
-  {
-    "headline": "Six ways Minnesota’s primary upended political assumptions",
-    "link": "https://www.startribune.com/minnesota-primary-election-results-takeaways-klobuchar-demuth-flanagan-craig-tafoya-trump-lindell/601874887",
-    "source": "startribune",
     "pubdate": "2026-08-12-10-00-00 +0000"
   },
   {
@@ -1633,6 +1633,18 @@
   },
   {
     "headline": "Red-Hot Power Stocks Are Losing Steam",
+    "link": "https://www.wsj.com/business/energy-oil/red-hot-power-stocks-are-losing-steam-a4677f03?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-12-09-30-00 +0000"
+  },
+  {
+    "headline": "Wealth Management Has a $3 Trillion Problem: Investors Are Keeping Too Much Cash",
+    "link": "https://www.wsj.com/personal-finance/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-ba18dbaf?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-12-09-30-00 +0000"
+  },
+  {
+    "headline": "Red-Hot Power Stocks Are Losing Steam",
     "link": "https://www.wsj.com/business/energy-oil/red-hot-power-stocks-are-losing-steam-a4677f03?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-12-09-30-00 +0000"
@@ -1646,18 +1658,6 @@
   {
     "headline": "Harrods Fights With Al Fayed Estate Over Hundreds of Sex Abuse Claims",
     "link": "https://www.wsj.com/world/harrods-fights-with-al-fayed-estate-over-hundreds-of-sex-abuse-claims-b78f5e79?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-12-09-30-00 +0000"
-  },
-  {
-    "headline": "Red-Hot Power Stocks Are Losing Steam",
-    "link": "https://www.wsj.com/business/energy-oil/red-hot-power-stocks-are-losing-steam-a4677f03?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-12-09-30-00 +0000"
-  },
-  {
-    "headline": "Wealth Management Has a $3 Trillion Problem: Investors Are Keeping Too Much Cash",
-    "link": "https://www.wsj.com/personal-finance/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-ba18dbaf?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-12-09-30-00 +0000"
   },
@@ -1698,6 +1698,12 @@
     "pubdate": "2026-08-12-09-00-32 +0000"
   },
   {
+    "headline": "The Global Story",
+    "link": "https://www.bbc.co.uk/sounds/play/w3ct8ml5?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-12-09-00-00 +0000"
+  },
+  {
     "headline": "Pirro, in rare move, convenes special grand jury in Washington",
     "link": "https://www.washingtonpost.com/national-security/2026/08/12/pirro-convenes-unusual-grand-jury-dc-that-can-focus-single-case-issue-report/",
     "source": "wapo",
@@ -1710,21 +1716,15 @@
     "pubdate": "2026-08-12-09-00-00 +0000"
   },
   {
-    "headline": "The Global Story",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct8ml5?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
+    "headline": "Bank of America to Deploy $250 Billion to Bolster AI and Energy Infrastructure",
+    "link": "https://www.wsj.com/finance/banking/bank-of-america-to-deploy-250-billion-to-bolster-ai-and-energy-infrastructure-d8471732?mod=rss_markets_main",
+    "source": "wsj",
     "pubdate": "2026-08-12-09-00-00 +0000"
   },
   {
     "headline": "The better way to buy back-to-school supplies",
     "link": "https://www.washingtonpost.com/business/2026/08/12/how-save-money-back-to-school-shopping/",
     "source": "wapo",
-    "pubdate": "2026-08-12-09-00-00 +0000"
-  },
-  {
-    "headline": "Bank of America to Deploy $250 Billion to Bolster AI and Energy Infrastructure",
-    "link": "https://www.wsj.com/finance/banking/bank-of-america-to-deploy-250-billion-to-bolster-ai-and-energy-infrastructure-d8471732?mod=rss_markets_main",
-    "source": "wsj",
     "pubdate": "2026-08-12-09-00-00 +0000"
   },
   {
@@ -2887,13 +2887,13 @@
   },
   {
     "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4559d59b?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4559d59b?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-11-21-50-00 +0000"
   },
   {
     "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4559d59b?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4559d59b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-11-21-50-00 +0000"
   },
@@ -2923,13 +2923,13 @@
   },
   {
     "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-1303721d?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-1303721d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-11-21-41-00 +0000"
   },
   {
     "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-1303721d?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-1303721d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-11-21-41-00 +0000"
   },
@@ -3373,13 +3373,13 @@
   },
   {
     "headline": "Bezos Is Among Investors Nearing Deal for Stake in Liverpool Soccer Team",
-    "link": "https://www.wsj.com/business/deals/bezos-is-among-investors-nearing-deal-for-liverpool-soccer-team-365f54b5?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/deals/bezos-is-among-investors-nearing-deal-for-liverpool-soccer-team-365f54b5?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-11-18-43-00 +0000"
   },
   {
     "headline": "Bezos Is Among Investors Nearing Deal for Stake in Liverpool Soccer Team",
-    "link": "https://www.wsj.com/business/deals/bezos-is-among-investors-nearing-deal-for-liverpool-soccer-team-365f54b5?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/deals/bezos-is-among-investors-nearing-deal-for-liverpool-soccer-team-365f54b5?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-11-18-43-00 +0000"
   },
@@ -3457,13 +3457,13 @@
   },
   {
     "headline": "How This 100-Year-Old Company Is Recreating a Lost Neon Color",
-    "link": "https://www.wsj.com/finance/investing/how-this-100-year-old-company-is-recreating-a-lost-neon-color-bd7357a0?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/finance/investing/how-this-100-year-old-company-is-recreating-a-lost-neon-color-bd7357a0?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-11-18-00-00 +0000"
   },
   {
     "headline": "How This 100-Year-Old Company Is Recreating a Lost Neon Color",
-    "link": "https://www.wsj.com/finance/investing/how-this-100-year-old-company-is-recreating-a-lost-neon-color-bd7357a0?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/investing/how-this-100-year-old-company-is-recreating-a-lost-neon-color-bd7357a0?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-11-18-00-00 +0000"
   },
@@ -4086,13 +4086,13 @@
     "pubdate": "2026-08-11-12-12-12 +0000"
   },
   {
-    "headline": "AI agent hacks gym to get its user a spot in pilates class",
+    "headline": "AI agent hacks Australian gym to get its user a spot in pilates class",
     "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-11-12-09-26 +0000"
   },
   {
-    "headline": "AI agent hacks Australian gym to get its user a spot in pilates class",
+    "headline": "AI agent hacks gym to get its user a spot in pilates class",
     "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-11-12-09-26 +0000"
@@ -4314,12 +4314,6 @@
     "pubdate": "2026-08-11-09-56-25 +0000"
   },
   {
-    "headline": "America’s Mortgage King Lost $600 Million and Needed a Rescue",
-    "link": "https://www.wsj.com/finance/americas-mortgage-king-lost-600-million-and-needed-a-rescue-ab39465f?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-11-09-30-00 +0000"
-  },
-  {
     "headline": "Healthcare Investing Is Now an AI Short in Disguise",
     "link": "https://www.wsj.com/finance/stocks/healthcare-investing-is-now-an-ai-short-in-disguise-104cb020?mod=rss_markets_main",
     "source": "wsj",
@@ -4328,6 +4322,12 @@
   {
     "headline": "America’s Mortgage King Lost $600 Million and Needed a Rescue",
     "link": "https://www.wsj.com/finance/americas-mortgage-king-lost-600-million-and-needed-a-rescue-ab39465f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-11-09-30-00 +0000"
+  },
+  {
+    "headline": "America’s Mortgage King Lost $600 Million and Needed a Rescue",
+    "link": "https://www.wsj.com/finance/americas-mortgage-king-lost-600-million-and-needed-a-rescue-ab39465f?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-11-09-30-00 +0000"
   },
@@ -4686,20 +4686,20 @@
     "pubdate": "2026-08-11-00-14-45 +0000"
   },
   {
+    "headline": "Gulf States Accept a New Normal in Hormuz: Iran Is in Control",
+    "link": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-08-11-00-00-00 +0000"
+  },
+  {
+    "headline": "Gulf States Accept a New Normal in Hormuz: Iran Is in Control",
+    "link": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-08-11-00-00-00 +0000"
+  },
+  {
     "headline": "Two inflation reports over the next month are set to shape whether Federal Reserve officials push to raise rates in September or extend their pause",
     "link": "https://www.wsj.com/economy/central-banking/inflation-reports-could-test-warshs-tough-talk-3866e365?mod=rss_socialeconomyfeed",
-    "source": "wsj",
-    "pubdate": "2026-08-11-00-00-00 +0000"
-  },
-  {
-    "headline": "Gulf States Accept a New Normal in Hormuz: Iran Is in Control",
-    "link": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-08-11-00-00-00 +0000"
-  },
-  {
-    "headline": "Gulf States Accept a New Normal in Hormuz: Iran Is in Control",
-    "link": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-08-11-00-00-00 +0000"
   },
@@ -5527,13 +5527,13 @@
   },
   {
     "headline": "Indonesia Names Destry Damayanti as Sole Candidate to Lead Central Bank",
-    "link": "https://www.wsj.com/economy/central-banking/indonesia-names-destry-damayanti-as-sole-candidate-to-lead-central-bank-757dfbb0?mod=rss_socialeconomyfeed",
+    "link": "https://www.wsj.com/economy/central-banking/indonesia-names-destry-damayanti-as-sole-candidate-to-lead-central-bank-757dfbb0?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-08-10-07-28-00 +0000"
   },
   {
     "headline": "Indonesia Names Destry Damayanti as Sole Candidate to Lead Central Bank",
-    "link": "https://www.wsj.com/economy/central-banking/indonesia-names-destry-damayanti-as-sole-candidate-to-lead-central-bank-757dfbb0?mod=rss_worldnews",
+    "link": "https://www.wsj.com/economy/central-banking/indonesia-names-destry-damayanti-as-sole-candidate-to-lead-central-bank-757dfbb0?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-08-10-07-28-00 +0000"
   },
@@ -6162,15 +6162,15 @@
     "pubdate": "2026-08-08-14-16-20 +0000"
   },
   {
-    "headline": "The Unexpected Joy of Downsizing Slowly in Retirement",
-    "link": "https://www.wsj.com/personal-finance/retirement/downsizing-retirement-slowly-494acdc1?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-08-08-13-00-00 +0000"
-  },
-  {
     "headline": "Pop’s",
     "link": "https://missionlocal.org/2026/08/pops/",
     "source": "missionlocal",
+    "pubdate": "2026-08-08-13-00-00 +0000"
+  },
+  {
+    "headline": "The Unexpected Joy of Downsizing Slowly in Retirement",
+    "link": "https://www.wsj.com/personal-finance/retirement/downsizing-retirement-slowly-494acdc1?mod=rss_usnews",
+    "source": "wsj",
     "pubdate": "2026-08-08-13-00-00 +0000"
   },
   {
@@ -7702,23 +7702,5 @@
     "link": "https://www.chicagotribune.com/2026/08/05/rise-business-incubator-opens-as-roosevelt-universitys-schaumburg-campus-marks-30-years/",
     "source": "chitri",
     "pubdate": "2026-08-05-18-14-05 +0000"
-  },
-  {
-    "headline": "Primaries on the West Coast are complete. Here are November races to watch",
-    "link": "https://www.latimes.com/politics/story/2026-08-05/these-are-midterm-races-to-watch-across-west",
-    "source": "latimes",
-    "pubdate": "2026-08-05-17-40-57 +0000"
-  },
-  {
-    "headline": "St. Charles continues to discuss potential development plan for former Pheasant Run Resort site",
-    "link": "https://www.chicagotribune.com/2026/08/05/st-charles-continues-to-discuss-potential-development-plan-for-former-pheasant-run-resort-site/",
-    "source": "chitri",
-    "pubdate": "2026-08-05-17-35-58 +0000"
-  },
-  {
-    "headline": "Putin Overhauls War Effort in Ukraine as Russia Seeks Momentum",
-    "link": "https://www.wsj.com/world/russia/putin-overhauls-war-effort-in-ukraine-as-russia-seeks-momentum-61cfb9b1?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-08-05-17-16-00 +0000"
   }
 ]
