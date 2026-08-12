@@ -53,14 +53,7 @@
     "pubdate": "2026-08-10-01-00-00 +0000",
     "source": "wsj",
     "headline": "Downbeat economic views pose a danger for Republicans ahead of the midterms, leaving President Trump and his allies little time to regain their image as the party better suited to handle the economy",
-    "link": "https://www.wsj.com/politics/elections/the-republican-party-is-losing-its-edge-with-voters-on-the-economy-b2450a14?mod=rss_socialeconomyfeed"
-  },
-  {
-    "score": 116,
-    "pubdate": "2026-08-11-14-00-00 +0000",
-    "source": "wsj",
-    "headline": "Home sales fell in July, getting the summer off to a poor start after the housing market suffered through another sluggish spring selling season",
-    "link": "https://www.wsj.com/economy/housing/july-home-sales-fell-after-higher-mortgage-rates-scared-off-buyers-4820b994?mod=rss_socialeconomyfeed"
+    "link": "https://www.wsj.com/politics/elections/the-republican-party-is-losing-its-edge-with-voters-on-the-economy-b2450a14?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 116,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
     "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html"
+  },
+  {
+    "score": 116,
+    "pubdate": "2026-08-11-14-00-00 +0000",
+    "source": "wsj",
+    "headline": "Home sales fell in July, getting the summer off to a poor start after the housing market suffered through another sluggish spring selling season",
+    "link": "https://www.wsj.com/economy/housing/july-home-sales-fell-after-higher-mortgage-rates-scared-off-buyers-4820b994?mod=rss_socialeconomyfeed"
   }
 ]
