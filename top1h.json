@@ -1,66 +1,17 @@
 [
   {
-    "score": 59,
-    "pubdate": "2026-08-12-02-36-31 +0000",
-    "source": "startribune",
-    "headline": "Live: Klobuchar wins DFL primary for governor, Tafoya wins GOP Senate race",
-    "link": "https://www.startribune.com/mn-primary-election-day-senate-governor-results-winners-ballots-voters/601874786"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-08-12-01-45-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump was secretly flown out of Turkey last month on a military jet after the U.S. government was told of an Iranian threat against the president and Air Force One",
-    "link": "https://www.wsj.com/politics/national-security/trump-was-secretly-transferred-to-military-jet-amid-threats-to-air-force-one-26900d0c?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-08-12-02-30-00 +0000",
-    "source": "wsj",
-    "headline": "Sen. Darline Graham advanced Tuesday to a runoff later this month after failing to capture the majority of votes in South Carolina’s special Republican primary",
-    "link": "https://www.wsj.com/politics/elections/sen-darline-graham-heads-to-gop-runoff-after-falling-shy-of-majority-b2d66a57?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 26,
-    "pubdate": "2026-08-12-02-28-47 +0000",
-    "source": "nyt",
-    "headline": "Matt Little, a Progressive, Wins a Democratic House Primary in Minnesota",
-    "link": "https://www.nytimes.com/2026/08/11/us/politics/berg-little-klein-minnesota-primary.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-08-12-02-05-30 +0000",
-    "source": "bbc",
-    "headline": "Trump says he switched planes after Nato summit because of possible threat",
-    "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-08-12-01-54-19 +0000",
-    "source": "nypost",
-    "headline": "Former NFL sideline reporter Michele Tafoya scores victory in Minnesota GOP Senate primary",
-    "link": "https://nypost.com/2026/08/11/us-news/former-nfl-sideline-reporter-michele-tafoya-wins-minnesota-gop-senate-primary/"
-  },
-  {
-    "score": 15,
+    "score": 17,
     "pubdate": "2026-08-12-02-37-23 +0000",
     "source": "nyt",
     "headline": "Rep. John Larson, a Longtime Lawmaker, Loses a Primary in Connecticut",
     "link": "https://www.nytimes.com/2026/08/11/us/politics/bronin-larson-connecticut-primary-results.html"
   },
   {
-    "score": 15,
-    "pubdate": "2026-08-12-02-19-44 +0000",
-    "source": "nyt",
-    "headline": "Son-in-Law of Sean Duffy Wins G.O.P. House Primary in Northern Wisconsin",
-    "link": "https://www.nytimes.com/2026/08/11/us/politics/michael-alfonso-wisconsin-republican-primary.html"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-08-12-02-16-58 +0000",
-    "source": "nypost",
-    "headline": "Trump admin threatens LA homeless funding, says ‘days of funding corrupt failure are over’",
-    "link": "https://nypost.com/2026/08/11/us-news/trump-officials-target-lahsa-and-pitch-faith-based-homeless-strategy/"
+    "score": 12,
+    "pubdate": "2026-08-12-02-36-31 +0000",
+    "source": "startribune",
+    "headline": "Live: Klobuchar wins DFL primary for governor, Tafoya wins GOP Senate race",
+    "link": "https://www.startribune.com/mn-primary-election-day-senate-governor-results-winners-ballots-voters/601874786"
   },
   {
     "score": 10,
@@ -68,5 +19,26 @@
     "source": "nypost",
     "headline": "Driver, 21, smashes car into UK kebab shop while on phone, destroying building: video",
     "link": "https://nypost.com/2026/08/11/world-news/uk-man-21-smashes-car-into-kebab-shop-while-on-phone-destroying-building-video/"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-08-12-02-35-10 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/heres-the-latest"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-12-02-37-23 +0000",
+    "source": "nyt",
+    "headline": "Rep. John Larson, a Longtime Lawmaker, Loses a Primary in Connecticut",
+    "link": "https://www.nytimes.com/2026/08/11/us/politics/bronin-larson-connecticut-primary-results.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-12-02-35-10 +0000",
+    "source": "nyt",
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/heres-the-latest"
   }
 ]
