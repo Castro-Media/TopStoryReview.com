@@ -1,6 +1,6 @@
 [
   {
-    "score": 347,
+    "score": 359,
     "pubdate": "2026-08-12-01-45-00 +0000",
     "source": "wsj",
     "headline": "President Trump was secretly flown out of Turkey last month on a military jet after the U.S. government was told of an Iranian threat against the president and Air Force One",
@@ -14,32 +14,39 @@
     "link": "https://www.latimes.com/california/story/2026-08-13/becerra-holds-strong-lead-over-hilton-in-race-for-california-governor-poll"
   },
   {
-    "score": 154,
+    "score": 145,
+    "pubdate": "2026-08-13-21-58-18 +0000",
+    "source": "chitri",
+    "headline": "Chicago will make full $260 million advance pension payment this year, Mayor Johnson tells investors",
+    "link": "https://www.chicagotribune.com/2026/08/13/chicago-pension-payment/"
+  },
+  {
+    "score": 145,
     "pubdate": "2026-08-12-16-30-43 +0000",
     "source": "cbc",
     "headline": "Millions gather to watch total solar eclipse in Spain; Canada sees partial eclipse",
     "link": "https://www.cbc.ca/news/world/livestory/total-partial-solar-eclipse-spain-canada-iceland-greenland-9.7304357?cmp=rss"
   },
   {
-    "score": 139,
-    "pubdate": "2026-08-07-15-33-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. labor market shed jobs in July, an unexpected contraction likely to renew questions about the economy’s fundamental strength at a time when it is also facing elevated inflation",
-    "link": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7?mod=rss_socialeconomyfeed"
+    "score": 140,
+    "pubdate": "2026-08-12-23-13-17 +0000",
+    "source": "nyt",
+    "headline": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
+    "link": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html"
   },
   {
-    "score": 137,
-    "pubdate": "2026-08-12-14-17-26 +0000",
+    "score": 136,
+    "pubdate": "2026-08-11-19-27-17 +0000",
     "source": "bbc",
-    "headline": "Burnham warned Iran war could hit UK growth next year",
-    "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss"
+    "headline": "Houthis reportedly kill six in first deadly attack since start of Iran war",
+    "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 129,
-    "pubdate": "2026-08-11-21-10-25 +0000",
-    "source": "chitri",
-    "headline": "Chicago Mayor Brandon Johnson signs data center order and pushes City Council for moratorium",
-    "link": "https://www.chicagotribune.com/2026/08/11/chicago-data-center-order/"
+    "score": 124,
+    "pubdate": "2026-08-12-15-56-00 +0000",
+    "source": "wsj",
+    "headline": "July’s inflation report was close enough to expectations to ease pressure on the Federal Reserve to raise interest rates next month without resolving much about the outlook beyond that",
+    "link": "https://www.wsj.com/economy/central-banking/inflation-federal-reserve-interest-rates-296d1430?mod=rss_socialeconomyfeed"
   },
   {
     "score": 115,
@@ -49,24 +56,17 @@
     "link": "https://www.chicagotribune.com/2026/08/12/white-house-press-secretary-karoline-leavitt-to-leave/"
   },
   {
-    "score": 103,
-    "pubdate": "2026-08-13-20-56-41 +0000",
-    "source": "nypost",
-    "headline": "Accused rapist Graham Platner speaking at labor rally in potential first public appearance since ending US Senate bid",
-    "link": "https://nypost.com/2026/08/13/us-news/accused-rapist-graham-platner-speaking-at-labor-rally-in-potential-first-public-appearance-since-ending-us-senate-bid/"
-  },
-  {
-    "score": 93,
-    "pubdate": "2026-08-12-23-13-17 +0000",
-    "source": "nyt",
-    "headline": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
-    "link": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html"
-  },
-  {
-    "score": 92,
-    "pubdate": "2026-08-13-11-03-00 +0000",
+    "score": 108,
+    "pubdate": "2026-08-13-13-25-00 +0000",
     "source": "wsj",
-    "headline": "During campaign season, it isn’t popular to talk about spending cuts, even as the government’s debt barrels toward $40 trillion. Read more in today’s WSJ Politics Newsletter:",
-    "link": "https://www.wsj.com/politics/policy/no-one-wants-to-talk-about-the-debt-6287ce16?mod=rss_socialpoliticsfeed"
+    "headline": "AI’s Biggest Energy Impact Might Be in the Oil Patch, Not the Data Center",
+    "link": "https://www.wsj.com/business/energy-oil/ais-biggest-energy-impact-might-be-in-the-oil-patch-not-the-data-center-2b901e17?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 89,
+    "pubdate": "2026-08-13-20-42-17 +0000",
+    "source": "chitri",
+    "headline": "Investigators find bird remains inside Ryanair plane engine after passenger almost sucked out of shattered window",
+    "link": "https://www.chicagotribune.com/2026/08/13/ntsb-ryanair-investigation/"
   }
 ]
