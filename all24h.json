@@ -25,13 +25,13 @@
   },
   {
     "headline": "Accelerant to Go Private in $4.4B Deal with Thoma Bravo",
-    "link": "https://www.wsj.com/business/deals/accelerant-to-go-private-in-4-4b-deal-with-thoma-bravo-177df4a7?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/deals/accelerant-to-go-private-in-4-4b-deal-with-thoma-bravo-177df4a7?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-13-11-02-00 +0000"
   },
   {
     "headline": "Accelerant to Go Private in $4.4B Deal with Thoma Bravo",
-    "link": "https://www.wsj.com/business/deals/accelerant-to-go-private-in-4-4b-deal-with-thoma-bravo-177df4a7?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/deals/accelerant-to-go-private-in-4-4b-deal-with-thoma-bravo-177df4a7?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-13-11-02-00 +0000"
   },
@@ -66,6 +66,12 @@
     "pubdate": "2026-08-13-11-00-00 +0000"
   },
   {
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-87c2e936?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-13-10-59-00 +0000"
+  },
+  {
     "headline": "JD.com Profit, Revenue Beat Expectations as Food-Delivery Losses Narrow",
     "link": "https://www.wsj.com/business/earnings/jd-com-profit-revenue-beat-expectations-as-food-delivery-losses-narrow-e9dee8e1?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -78,12 +84,6 @@
     "pubdate": "2026-08-13-10-59-00 +0000"
   },
   {
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-87c2e936?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-13-10-59-00 +0000"
-  },
-  {
     "headline": "Putin Visits Islands Seized from Japan in World War II, Angering Tokyo",
     "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
     "source": "nyt",
@@ -97,13 +97,13 @@
   },
   {
     "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-6ea14c03?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-6ea14c03?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-13-10-55-00 +0000"
   },
   {
     "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-6ea14c03?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-6ea14c03?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-13-10-55-00 +0000"
   },
@@ -306,12 +306,6 @@
     "pubdate": "2026-08-13-10-00-00 +0000"
   },
   {
-    "headline": "FedEx and others announce layoffs in Southern California",
-    "link": "https://www.latimes.com/business/story/2026-08-13/fedex-others-announce-layoffs-in-southern-california",
-    "source": "latimes",
-    "pubdate": "2026-08-13-10-00-00 +0000"
-  },
-  {
     "headline": "After years of landslide victories, Klobuchar faces a tougher political fight against Demuth",
     "link": "https://www.startribune.com/amy-klobuchar-lisa-demuth-minnesota-mn-governor-race-senate-victories/601877080",
     "source": "startribune",
@@ -321,6 +315,24 @@
     "headline": "Dark skies are drawing a new kind of tourist to Minnesota",
     "link": "https://www.startribune.com/dark-skies-are-drawing-a-new-kind-of-tourist-to-minnesota/601873274",
     "source": "startribune",
+    "pubdate": "2026-08-13-10-00-00 +0000"
+  },
+  {
+    "headline": "FedEx and others announce layoffs in Southern California",
+    "link": "https://www.latimes.com/business/story/2026-08-13/fedex-others-announce-layoffs-in-southern-california",
+    "source": "latimes",
+    "pubdate": "2026-08-13-10-00-00 +0000"
+  },
+  {
+    "headline": "NYC women’s shelter brings cat fights, junkies and bizarre antics to neighborhood near playground",
+    "link": "https://nypost.com/2026/08/13/us-news/nyc-womens-shelter-brings-cat-fights-junkies-to-neighborhood-near-playground/",
+    "source": "nypost",
+    "pubdate": "2026-08-13-10-00-00 +0000"
+  },
+  {
+    "headline": "NY’s chief judge forced to admit his call to oust jurists who give ‘stupid’ long prison terms was wrong",
+    "link": "https://nypost.com/2026/08/13/us-news/nys-chief-judge-forced-to-admit-his-call-to-oust-jurists-who-give-stupid-long-prison-terms-was-wrong/",
+    "source": "nypost",
     "pubdate": "2026-08-13-10-00-00 +0000"
   },
   {
@@ -348,18 +360,6 @@
     "pubdate": "2026-08-13-10-00-00 +0000"
   },
   {
-    "headline": "NYC women’s shelter brings cat fights, junkies and bizarre antics to neighborhood near playground",
-    "link": "https://nypost.com/2026/08/13/us-news/nyc-womens-shelter-brings-cat-fights-junkies-to-neighborhood-near-playground/",
-    "source": "nypost",
-    "pubdate": "2026-08-13-10-00-00 +0000"
-  },
-  {
-    "headline": "NY’s chief judge forced to admit his call to oust jurists who give ‘stupid’ long prison terms was wrong",
-    "link": "https://nypost.com/2026/08/13/us-news/nys-chief-judge-forced-to-admit-his-call-to-oust-jurists-who-give-stupid-long-prison-terms-was-wrong/",
-    "source": "nypost",
-    "pubdate": "2026-08-13-10-00-00 +0000"
-  },
-  {
     "headline": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
     "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -370,16 +370,16 @@
     "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-13-09-54-03 +0000"
-  },
-  {
-    "headline": "Do Investors Deserve to Know the Details of a CEO’s Medical Leave?",
-    "link": "https://www.wsj.com/business/do-investors-deserve-to-know-the-details-of-a-ceos-medical-leave-9f2ccb34?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-13-09-50-00 +0000"
   },
   {
     "headline": "U.S. Futures Edge Higher After Subdued Inflation Data",
     "link": "https://www.wsj.com/finance/stocks/u-s-futures-edge-higher-after-subdued-inflation-data-74bd7dc4?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-13-09-50-00 +0000"
+  },
+  {
+    "headline": "Do Investors Deserve to Know the Details of a CEO’s Medical Leave?",
+    "link": "https://www.wsj.com/business/do-investors-deserve-to-know-the-details-of-a-ceos-medical-leave-9f2ccb34?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-13-09-50-00 +0000"
   },
@@ -450,8 +450,14 @@
     "pubdate": "2026-08-13-09-32-41 +0000"
   },
   {
-    "headline": "The stock market thinks the economy is accelerating. Don’t expect jobs to follow, writes the WSJ’s Greg Ip.",
-    "link": "https://www.wsj.com/economy/jobs/the-jobless-boom-has-arrived-41361a06?mod=rss_socialeconomyfeed",
+    "headline": "Inflation Protection Is on Sale",
+    "link": "https://www.wsj.com/finance/investing/inflation-protection-is-on-sale-5ca057f5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-13-09-30-00 +0000"
+  },
+  {
+    "headline": "The Jobless Boom Has Arrived",
+    "link": "https://www.wsj.com/economy/jobs/the-jobless-boom-has-arrived-41361a06?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-13-09-30-00 +0000"
   },
@@ -462,14 +468,8 @@
     "pubdate": "2026-08-13-09-30-00 +0000"
   },
   {
-    "headline": "Inflation Protection Is on Sale",
-    "link": "https://www.wsj.com/finance/investing/inflation-protection-is-on-sale-5ca057f5?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-13-09-30-00 +0000"
-  },
-  {
-    "headline": "The Jobless Boom Has Arrived",
-    "link": "https://www.wsj.com/economy/jobs/the-jobless-boom-has-arrived-41361a06?mod=rss_markets_main",
+    "headline": "The stock market thinks the economy is accelerating. Don’t expect jobs to follow, writes the WSJ’s Greg Ip.",
+    "link": "https://www.wsj.com/economy/jobs/the-jobless-boom-has-arrived-41361a06?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-08-13-09-30-00 +0000"
   },
@@ -697,13 +697,13 @@
   },
   {
     "headline": "Antofagasta Posts Higher Earnings But Cuts Production Guidance After Heavy Rain in Chile",
-    "link": "https://www.wsj.com/finance/commodities-futures/antofagasta-posts-higher-earnings-but-cuts-production-guidance-after-heavy-rain-in-chile-c7bcada7?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/finance/commodities-futures/antofagasta-posts-higher-earnings-but-cuts-production-guidance-after-heavy-rain-in-chile-c7bcada7?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-13-07-28-00 +0000"
   },
   {
     "headline": "Antofagasta Posts Higher Earnings But Cuts Production Guidance After Heavy Rain in Chile",
-    "link": "https://www.wsj.com/finance/commodities-futures/antofagasta-posts-higher-earnings-but-cuts-production-guidance-after-heavy-rain-in-chile-c7bcada7?mod=rss_markets_main",
+    "link": "https://www.wsj.com/finance/commodities-futures/antofagasta-posts-higher-earnings-but-cuts-production-guidance-after-heavy-rain-in-chile-c7bcada7?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-13-07-28-00 +0000"
   },
@@ -1182,14 +1182,14 @@
     "pubdate": "2026-08-13-00-24-39 +0000"
   },
   {
-    "headline": "The Mexican government is pushing the U.S. to lower tariffs on North American automobiles as part of conversations over reworking the U.S.-Mexico-Canada Agreement, according to sources",
-    "link": "https://www.wsj.com/economy/trade/mexico-pushes-for-lower-auto-tariffs-in-trade-talks-c7ade480?mod=rss_socialeconomyfeed",
+    "headline": "Mexico Pushes for Lower Auto Tariffs in Trade Talks",
+    "link": "https://www.wsj.com/economy/trade/mexico-pushes-for-lower-auto-tariffs-in-trade-talks-c7ade480?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-13-00-18-00 +0000"
   },
   {
-    "headline": "Mexico Pushes for Lower Auto Tariffs in Trade Talks",
-    "link": "https://www.wsj.com/economy/trade/mexico-pushes-for-lower-auto-tariffs-in-trade-talks-c7ade480?mod=pls_whats_news_us_business_f",
+    "headline": "The Mexican government is pushing the U.S. to lower tariffs on North American automobiles as part of conversations over reworking the U.S.-Mexico-Canada Agreement, according to sources",
+    "link": "https://www.wsj.com/economy/trade/mexico-pushes-for-lower-auto-tariffs-in-trade-talks-c7ade480?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-08-13-00-18-00 +0000"
   },
@@ -1620,14 +1620,14 @@
     "pubdate": "2026-08-12-21-33-10 +0000"
   },
   {
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-dd071855?mod=pls_whats_news_us_business_f",
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4cbbe78d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-12-21-33-00 +0000"
   },
   {
-    "headline": "Financial Services Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-4cbbe78d?mod=rss_markets_main",
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-dd071855?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-12-21-33-00 +0000"
   },
@@ -1657,13 +1657,13 @@
   },
   {
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-7d4b0df7?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-7d4b0df7?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-12-21-30-00 +0000"
   },
   {
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-7d4b0df7?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-7d4b0df7?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-12-21-30-00 +0000"
   },
@@ -2575,13 +2575,13 @@
   },
   {
     "headline": "Opinion | What Problems Should AI Be Solving?",
-    "link": "https://www.wsj.com/opinion/what-problems-should-ai-be-solving-5ec7240c?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/what-problems-should-ai-be-solving-5ec7240c?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-08-12-16-53-00 +0000"
   },
   {
     "headline": "Opinion | What Problems Should AI Be Solving?",
-    "link": "https://www.wsj.com/opinion/what-problems-should-ai-be-solving-5ec7240c?mod=rss_markets_main",
+    "link": "https://www.wsj.com/opinion/what-problems-should-ai-be-solving-5ec7240c?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-12-16-53-00 +0000"
   },
@@ -3226,65 +3226,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-12-12-10-45 +0000"
-  },
-  {
-    "headline": "Deported From the U.S., Trapped in a Prison in Africa",
-    "link": "https://www.nytimes.com/video/world/africa/100000011032450/deported-from-the-us-trapped-in-a-prison-in-africa.html",
-    "source": "nyt",
-    "pubdate": "2026-08-12-11-58-32 +0000"
-  },
-  {
-    "headline": "Deported From the U.S., Trapped in a Prison in Africa",
-    "link": "https://www.nytimes.com/video/world/africa/100000011032450/deported-from-the-us-trapped-in-a-prison-in-africa.html",
-    "source": "nyt",
-    "pubdate": "2026-08-12-11-58-32 +0000"
-  },
-  {
-    "headline": "BIG WEEK: Cat Video Fest, Deaf Dance Fest, DJ Dan Tribute, Oakland Pride…",
-    "link": "https://48hills.org/2026/08/big-week-cat-video-fest-deaf-dance-fest-dj-dan-tribute-oakland-pride/",
-    "source": "48hills",
-    "pubdate": "2026-08-12-11-36-15 +0000"
-  },
-  {
-    "headline": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-    "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-12-11-28-05 +0000"
-  },
-  {
-    "headline": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-    "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-12-11-28-05 +0000"
-  },
-  {
-    "headline": "July CPI Report Is Expected to Show Falling Energy Prices",
-    "link": "https://www.nytimes.com/2026/08/12/business/economy/energy-oil-prices-inflation.html",
-    "source": "nyt",
-    "pubdate": "2026-08-12-11-14-18 +0000"
-  },
-  {
-    "headline": "July CPI Report Is Expected to Show Falling Energy Prices",
-    "link": "https://www.nytimes.com/2026/08/12/business/economy/energy-oil-prices-inflation.html",
-    "source": "nyt",
-    "pubdate": "2026-08-12-11-14-18 +0000"
-  },
-  {
-    "headline": "The Morning Risk Report: Judge Dismisses Adani Fraud Charges",
-    "link": "https://www.wsj.com/politics/policy/the-morning-risk-report-judge-dismisses-adani-fraud-charges-d53e7b3d?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-08-12-11-14-00 +0000"
-  },
-  {
-    "headline": "The Morning Risk Report: Judge Dismisses Adani Fraud Charges",
-    "link": "https://www.wsj.com/politics/policy/the-morning-risk-report-judge-dismisses-adani-fraud-charges-d53e7b3d?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-12-11-14-00 +0000"
-  },
-  {
-    "headline": "The Morning Risk Report: Judge Dismisses Adani Fraud Charges",
-    "link": "https://www.wsj.com/politics/policy/the-morning-risk-report-judge-dismisses-adani-fraud-charges-d53e7b3d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-12-11-14-00 +0000"
   }
 ]
