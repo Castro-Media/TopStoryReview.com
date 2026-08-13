@@ -1,47 +1,5 @@
 [
   {
-    "score": 25,
-    "pubdate": "2026-08-13-18-55-00 +0000",
-    "source": "wsj",
-    "headline": "Judge Dismisses Trump Administration’s Antisemitism Case Against Harvard",
-    "link": "https://www.wsj.com/us-news/education/judge-dismisses-trump-administrations-antisemitism-case-against-harvard-7690b6ba?mod=rss_usnews"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-08-13-18-42-11 +0000",
-    "source": "chitri",
-    "headline": "Chicago Bears have had ‘minimal’ talks with Illinois legislators as stadium focus remains on Hammond",
-    "link": "https://www.chicagotribune.com/2026/08/13/chicago-bears-stadium-focus-remains-hammond/"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-08-13-18-22-07 +0000",
-    "source": "nyt",
-    "headline": "How a Long-Shot U.S. Oil Drilling Project Is Shaking Up Greenland",
-    "link": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-08-13-18-50-39 +0000",
-    "source": "nypost",
-    "headline": "Internet dumbfounded over resurfaced Abdul El-Sayed ‘Blue’s Clues’ spoof: ‘Can’t be real’",
-    "link": "https://nypost.com/2026/08/13/us-news/internet-dumbfounded-over-resurfaced-abdul-el-sayed-blues-clues-spoof-cant-be-real/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-08-13-18-45-51 +0000",
-    "source": "bbc",
-    "headline": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-    "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-08-13-18-31-12 +0000",
-    "source": "nyt",
-    "headline": "Train Derails Near Town of Lewes in East Sussex, U.K.",
-    "link": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html"
-  },
-  {
     "score": 14,
     "pubdate": "2026-08-13-19-14-01 +0000",
     "source": "nypost",
@@ -63,10 +21,31 @@
     "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 14,
-    "pubdate": "2026-08-13-19-01-20 +0000",
-    "source": "nyt",
-    "headline": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
-    "link": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html"
+    "score": 12,
+    "pubdate": "2026-08-13-19-06-15 +0000",
+    "source": "nypost",
+    "headline": "NYC tenant exposes the most ‘dystopian’ detail of many city apartments: ‘People live like prisoners’",
+    "link": "https://nypost.com/2026/08/13/lifestyle/nyc-tenant-exposes-dystopian-detail-of-many-city-apartments/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-13-19-05-52 +0000",
+    "source": "latimes",
+    "headline": "'Unconscionable': DOJ says CA prisons failed to stop systemic sexual abuse of female prisoners",
+    "link": "https://www.latimes.com/california/story/2026-08-13/doj-california-womens-prisons-sexual-abuse"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-13-19-08-49 +0000",
+    "source": "bbc",
+    "headline": "Family of Irish plane crash victim awarded $29m in damages",
+    "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-13-19-07-55 +0000",
+    "source": "bbc",
+    "headline": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss"
   }
 ]
