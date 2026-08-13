@@ -1,59 +1,66 @@
 [
   {
-    "score": 130,
+    "score": 127,
     "pubdate": "2026-08-12-20-14-22 +0000",
     "source": "cbc",
     "headline": "White House press secretary Karoline Leavitt to leave job at month's end, Trump says",
     "link": "https://www.cbc.ca/news/world/karoline-leavitt-leaving-white-house-9.7305045?cmp=rss"
   },
   {
-    "score": 125,
+    "score": 108,
     "pubdate": "2026-08-12-16-30-43 +0000",
     "source": "cbc",
     "headline": "Millions gather to watch total solar eclipse in Spain; Canada sees partial eclipse",
     "link": "https://www.cbc.ca/news/world/livestory/total-partial-solar-eclipse-spain-canada-iceland-greenland-9.7304357?cmp=rss"
   },
   {
-    "score": 84,
-    "pubdate": "2026-08-12-20-36-18 +0000",
-    "source": "bbc",
-    "headline": "New indictment alleges Nick Reiner was lying in wait before killing parents Rob and Michele Reiner",
-    "link": "https://www.bbc.co.uk/news/articles/cx2l13p6g3vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 81,
+    "score": 79,
     "pubdate": "2026-08-12-15-19-30 +0000",
     "source": "nypost",
     "headline": "Trump calls Iran ‘all talk and no action,’ touts ‘Wall of Steel’ US Navy blockade as more oil flows out of Strait of Hormuz",
     "link": "https://nypost.com/2026/08/12/us-news/trump-calls-iran-all-talk-and-no-action-touts-wall-of-steel-us-navy-blockade/"
   },
   {
-    "score": 72,
-    "pubdate": "2026-08-12-23-13-17 +0000",
-    "source": "nyt",
-    "headline": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
-    "link": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html"
+    "score": 77,
+    "pubdate": "2026-08-12-20-36-18 +0000",
+    "source": "bbc",
+    "headline": "New indictment alleges Nick Reiner was lying in wait before killing parents Rob and Michele Reiner",
+    "link": "https://www.bbc.co.uk/news/articles/cx2l13p6g3vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 71,
+    "score": 68,
     "pubdate": "2026-08-12-20-53-48 +0000",
     "source": "nyt",
     "headline": "Ex-Official at Southern Poverty Law Center Accused of Plotting to Misuse Far-Right Informants",
     "link": "https://www.nytimes.com/2026/08/12/us/politics/splc-fraud-conspiracy-charges.html"
   },
   {
-    "score": 63,
+    "score": 64,
+    "pubdate": "2026-08-12-15-56-00 +0000",
+    "source": "wsj",
+    "headline": "July’s inflation report was close enough to expectations to ease pressure on the Federal Reserve to raise interest rates next month without resolving much about the outlook beyond that",
+    "link": "https://www.wsj.com/economy/central-banking/inflation-federal-reserve-interest-rates-296d1430?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-08-12-23-13-17 +0000",
+    "source": "nyt",
+    "headline": "Zhu Rongji, Former Premier Who Pushed China to a Market Economy, Dies at 97",
+    "link": "https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html"
+  },
+  {
+    "score": 61,
     "pubdate": "2026-08-13-08-42-00 +0000",
     "source": "wsj",
     "headline": "U.S. Army troops faced off against Ukrainian drone operators at a military exercise in Germany earlier this year. It didn’t go well for the Americans.",
     "link": "https://www.wsj.com/politics/national-security/u-s-and-ukrainian-forces-went-head-to-head-in-an-exercise-ukraines-drones-won-cc3663d5?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 61,
-    "pubdate": "2026-08-12-15-56-00 +0000",
-    "source": "wsj",
-    "headline": "July’s inflation report was close enough to expectations to ease pressure on the Federal Reserve to raise interest rates next month without resolving much about the outlook beyond that",
-    "link": "https://www.wsj.com/economy/central-banking/inflation-federal-reserve-interest-rates-296d1430?mod=rss_socialeconomyfeed"
+    "score": 60,
+    "pubdate": "2026-08-12-13-30-35 +0000",
+    "source": "chitri",
+    "headline": "ICE plans to give officers gloves that can deliver painful electric shocks",
+    "link": "https://www.chicagotribune.com/2026/08/12/ice-officers-gloves-electric-shocks/"
   },
   {
     "score": 59,
@@ -61,12 +68,5 @@
     "source": "wsj",
     "headline": "David Crowley narrowly won the Democratic nomination for governor in the battleground state of Wisconsin, delivering a significant blow to the party’s insurgent far-left flank",
     "link": "https://www.wsj.com/politics/elections/left-wing-francesca-hong-locked-in-tight-race-for-democratic-nomination-in-wisconsin-f76dbd5f?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 59,
-    "pubdate": "2026-08-12-13-30-35 +0000",
-    "source": "chitri",
-    "headline": "ICE plans to give officers gloves that can deliver painful electric shocks",
-    "link": "https://www.chicagotribune.com/2026/08/12/ice-officers-gloves-electric-shocks/"
   }
 ]
