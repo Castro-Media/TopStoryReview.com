@@ -1,72 +1,30 @@
 [
   {
-    "score": 35,
-    "pubdate": "2026-08-14-14-01-47 +0000",
-    "source": "nyt",
-    "headline": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
-    "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-08-14-13-38-20 +0000",
-    "source": "nyt",
-    "headline": "Kevin Rideout, American Missionary Kidnapped in Niger, Is Released",
-    "link": "https://www.nytimes.com/2026/08/14/world/africa/american-missionary-niger-rideout-released.html"
-  },
-  {
-    "score": 19,
-    "pubdate": "2026-08-14-14-08-00 +0000",
-    "source": "wsj",
-    "headline": "Sales at U.S. retailers slid in July, the latest in a string of weaker reports prompting a rethink about an economy that had looked to be only accelerating this spring",
-    "link": "https://www.wsj.com/economy/weak-retail-sales-number-adds-to-softening-economic-data-c047dce9?mod=rss_socialeconomyfeed"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-08-14-13-58-03 +0000",
-    "source": "nypost",
-    "headline": "Minneapolis Mayor Jacob Frey busts out painfully humiliating moves at Black Entrepreneur State Fair: ‘Brutal for real’",
-    "link": "https://nypost.com/2026/08/14/us-news/minneapolis-mayor-jacob-freys-humiliating-moves-at-black-entrepreneur-state-fair/"
-  },
-  {
-    "score": 14,
+    "score": 12,
     "pubdate": "2026-08-14-14-19-47 +0000",
     "source": "nypost",
     "headline": "Suspect charged with vandalizing DC World War II memorial with bubble soap, red graffiti",
     "link": "https://nypost.com/2026/08/14/us-news/suspect-charged-with-vandalizing-dc-world-war-ii-memorial-with-bubble-soap-red-graffiti/"
   },
   {
-    "score": 14,
-    "pubdate": "2026-08-14-13-42-11 +0000",
-    "source": "bbc",
-    "headline": "Temporary ban on sale of disposable BBQs over wildfire risk",
-    "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
+    "score": 10,
+    "pubdate": "2026-08-14-14-15-01 +0000",
+    "source": "startribune",
+    "headline": "Luigi Mangione is set to appear in court for expected guilty plea in killing of UnitedHealthcare CEO",
+    "link": "https://www.startribune.com/luigi-mangione-set-to-appear-in-court-for-expected-guilty-plea-in-killing-of-unitedhealthcare-ceo/601878701"
   },
   {
-    "score": 14,
-    "pubdate": "2026-08-14-13-40-59 +0000",
-    "source": "nyt",
-    "headline": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
-    "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html"
+    "score": 6,
+    "pubdate": "2026-08-14-14-11-00 +0000",
+    "source": "wsj",
+    "headline": "Opinion | Mamdani’s Mayor’s Fund Problems Run Deep",
+    "link": "https://www.wsj.com/opinion/mamdanis-mayors-fund-problems-run-deep-7d5f5a70?mod=rss_usnews"
   },
   {
-    "score": 14,
-    "pubdate": "2026-08-14-13-38-04 +0000",
-    "source": "nypost",
-    "headline": "White House border czar Tom Homan defends ICE electric shock gloves as tools to avoid deadly force",
-    "link": "https://nypost.com/2026/08/14/us-news/white-house-border-czar-defends-ice-electric-shock-gloves-as-tools-to-avoid-deadly-force/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-08-14-13-29-31 +0000",
-    "source": "chitri",
-    "headline": "Grant program teaches Waukegan-area small businesses to thrive: ‘We learn a lot from each other’",
-    "link": "https://www.chicagotribune.com/2026/08/14/lake-county-small-business-grants/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-08-14-13-29-01 +0000",
-    "source": "nyt",
-    "headline": "An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce",
-    "link": "https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html"
+    "score": 4,
+    "pubdate": "2026-08-14-14-12-00 +0000",
+    "source": "wsj",
+    "headline": "Opinion | The Hidden Persistence of Racial Preferences",
+    "link": "https://www.wsj.com/opinion/the-hidden-persistence-of-racial-preferences-fe215d84?mod=rss_usnews"
   }
 ]
