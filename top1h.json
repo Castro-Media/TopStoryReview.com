@@ -1,23 +1,72 @@
 [
   {
-    "score": 16,
-    "pubdate": "2026-08-14-10-15-30 +0000",
+    "score": 31,
+    "pubdate": "2026-08-14-11-34-00 +0000",
+    "source": "wsj",
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-67aed4d8?mod=rss_markets_main"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-08-14-11-46-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump unveiled a slate of tariffs to address a national-security threat posed by imports of drones and their components, particularly from China",
+    "link": "https://www.wsj.com/economy/trade/trump-announces-drone-tariffs-to-protect-national-security-bolster-u-s-supply-chains-87bab5b8?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-14-11-56-55 +0000",
+    "source": "nyt",
+    "headline": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+    "link": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-14-11-15-00 +0000",
+    "source": "wsj",
+    "headline": "The Morning Risk Report: BAE Systems Fined $36 Million for Illegal Exports",
+    "link": "https://www.wsj.com/politics/policy/the-morning-risk-report-bae-systems-fined-36-million-for-illegal-exports-972b80dc?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-14-11-37-31 +0000",
+    "source": "bbc",
+    "headline": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+    "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-08-14-11-25-31 +0000",
     "source": "nypost",
-    "headline": "Kansas students forced to put cell phones in lockers before school as new ‘bell to bell’ law enforced",
-    "link": "https://nypost.com/2026/08/14/us-news/kansas-students-forced-to-put-cell-phones-in-lockers-before-school-as-new-bell-to-bell-law-enforced/"
+    "headline": "Aliases-using suspect in murder of dad found zip-tied in shallow grave arrested after 7 weeks on the run",
+    "link": "https://nypost.com/2026/08/14/us-news/suspect-in-murder-of-dad-found-zip-tied-in-shallow-grave-busted-after-7-weeks-on-the-run/"
   },
   {
     "score": 12,
-    "pubdate": "2026-08-14-10-15-00 +0000",
+    "pubdate": "2026-08-14-11-15-30 +0000",
     "source": "nypost",
-    "headline": "NYC Council pitches bill to let cops use noise-blocking devices to protect hearing",
-    "link": "https://nypost.com/2026/08/14/us-news/nyc-council-pitches-bill-to-let-cops-use-noise-blocking-devices-to-protect-hearing/"
+    "headline": "Great-grandfather killed in front of wife after rock crashes through Jeep roof in national park",
+    "link": "https://nypost.com/2026/08/14/us-news/great-grandfather-killed-in-front-of-his-wife-by-rock-crashing-through-jeep-roof-in-national-park/"
   },
   {
-    "score": 11,
-    "pubdate": "2026-08-14-10-12-00 +0000",
-    "source": "wsj",
-    "headline": "BP, XRG Partner on Venezuelan Offshore Gas Development as Oil Majors Tentatively Return",
-    "link": "https://www.wsj.com/business/energy-oil/bp-xrg-partner-on-venezuelan-offshore-gas-development-97559444?mod=pls_whats_news_us_business_f"
+    "score": 10,
+    "pubdate": "2026-08-14-11-44-08 +0000",
+    "source": "nypost",
+    "headline": "Groom allegedly raped woman helping plan wedding a day before ceremony",
+    "link": "https://nypost.com/2026/08/14/us-news/groom-allegedly-raped-woman-helping-plan-wedding-day-before-ceremony/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-14-11-54-15 +0000",
+    "source": "nypost",
+    "headline": "Brave NJ mom died trying to save daughter in Colombia earthquake that’s killed 281",
+    "link": "https://nypost.com/2026/08/14/us-news/nj-mom-magnolia-garcia-lugo-died-trying-to-save-daughter-in-colombia-earthquake/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-14-11-49-27 +0000",
+    "source": "startribune",
+    "headline": "Lime instituted restrictions in Minneapolis in response to takeover, bans riders who rode on I-35W",
+    "link": "https://www.startribune.com/lime-instituted-restrictions-in-minneapolis-in-response-to-takeover-bans-riders-who-rode-on-i-35w/601878735"
   }
 ]
