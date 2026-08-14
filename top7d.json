@@ -1,13 +1,13 @@
 [
   {
-    "score": 346,
+    "score": 349,
     "pubdate": "2026-08-12-01-45-00 +0000",
     "source": "wsj",
     "headline": "President Trump was secretly flown out of Turkey last month on a military jet after the U.S. government was told of an Iranian threat against the president and Air Force One",
     "link": "https://www.wsj.com/politics/national-security/trump-was-secretly-transferred-to-military-jet-amid-threats-to-air-force-one-26900d0c?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 206,
+    "score": 213,
     "pubdate": "2026-08-14-09-41-00 +0000",
     "source": "wsj",
     "headline": "A new report led by White House trade adviser Peter Navarro estimates illegal transshipment has cost the U.S. around $19 billion to $26 billion in annual tariff revenue",
@@ -15,20 +15,20 @@
   },
   {
     "score": 144,
-    "pubdate": "2026-08-13-20-01-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. military is preparing to replace the USS Abraham Lincoln with the USS George Washington as part of a scheduled Middle East deployment, U.S. officials said amid growing concerns over Iran war strain",
-    "link": "https://www.wsj.com/politics/national-security/u-s-sending-fresh-aircraft-carrier-to-middle-east-amid-iran-war-strain-d0d6e98d?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 143,
     "pubdate": "2026-08-13-21-58-18 +0000",
     "source": "chitri",
     "headline": "Chicago will make full $260 million advance pension payment this year, Mayor Johnson tells investors",
     "link": "https://www.chicagotribune.com/2026/08/13/chicago-pension-payment/"
   },
   {
-    "score": 134,
+    "score": 141,
+    "pubdate": "2026-08-13-20-01-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. military is preparing to replace the USS Abraham Lincoln with the USS George Washington as part of a scheduled Middle East deployment, U.S. officials said amid growing concerns over Iran war strain",
+    "link": "https://www.wsj.com/politics/national-security/u-s-sending-fresh-aircraft-carrier-to-middle-east-amid-iran-war-strain-d0d6e98d?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 132,
     "pubdate": "2026-08-07-15-33-00 +0000",
     "source": "wsj",
     "headline": "The U.S. labor market shed jobs in July, an unexpected contraction likely to renew questions about the economy’s fundamental strength at a time when it is also facing elevated inflation",
@@ -49,18 +49,11 @@
     "link": "https://www.latimes.com/california/story/2026-08-13/becerra-holds-strong-lead-over-hilton-in-race-for-california-governor-poll"
   },
   {
-    "score": 103,
+    "score": 113,
     "pubdate": "2026-08-12-17-26-54 +0000",
     "source": "latimes",
     "headline": "Trump again asks Supreme Court to save USPS mail ballot plan after second lower court loss",
     "link": "https://www.latimes.com/politics/story/2026-08-12/trump-again-asks-supreme-court-to-save-usps-mail-ballot-plan-after-second-lower-court-loss"
-  },
-  {
-    "score": 101,
-    "pubdate": "2026-08-13-20-42-17 +0000",
-    "source": "chitri",
-    "headline": "Investigators find bird remains inside Ryanair plane engine after passenger almost sucked out of shattered window",
-    "link": "https://www.chicagotribune.com/2026/08/13/ntsb-ryanair-investigation/"
   },
   {
     "score": 100,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "The Kennedy Center’s board of trustees has voted to close the performing-arts venue for two years and add President Trump’s name to the facade, according to U.S. Rep. Joyce Beatty and her attorneys",
     "link": "https://www.wsj.com/politics/policy/kennedy-center-board-votes-to-add-trumps-name-to-building-facade-f081cd20?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 98,
+    "pubdate": "2026-08-13-20-42-17 +0000",
+    "source": "chitri",
+    "headline": "Investigators find bird remains inside Ryanair plane engine after passenger almost sucked out of shattered window",
+    "link": "https://www.chicagotribune.com/2026/08/13/ntsb-ryanair-investigation/"
   }
 ]
