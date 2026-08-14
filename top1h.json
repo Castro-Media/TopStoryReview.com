@@ -1,38 +1,10 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-08-14-04-01-06 +0000",
-    "source": "nyt",
-    "headline": "Will Sudan’s El Obeid Become the Next El Fasher? What to Know.",
-    "link": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html"
-  },
-  {
     "score": 12,
     "pubdate": "2026-08-14-04-25-38 +0000",
     "source": "nyt",
     "headline": "American Missionary Kidnapped in Niger Is Said to Be Released From Captivity",
     "link": "https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-08-14-03-50-26 +0000",
-    "source": "nypost",
-    "headline": "Almost 30 dead sharks ‘all of a sudden’ wash up along the Jersey Shore in grisly scene",
-    "link": "https://nypost.com/2026/08/13/us-news/almost-30-dead-sharks-wash-up-on-sands-of-jersey-shore/"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-08-14-04-19-20 +0000",
-    "source": "nypost",
-    "headline": "Rich La Jolla punk faces justice after kicking helpless sea lion in viral attack",
-    "link": "https://nypost.com/2026/08/14/us-news/la-jolla-teen-faces-justice-after-kicking-helpless-sea-lion-in-viral-attack/"
-  },
-  {
-    "score": 11,
-    "pubdate": "2026-08-14-03-53-56 +0000",
-    "source": "nypost",
-    "headline": "CashApp founder Bob Lee’s killer launches Hail Mary bid after murder conviction",
-    "link": "https://nypost.com/2026/08/13/us-news/bob-lee-killer-nima-momeni-plays-race-card-in-blue-san-francisco-after-murder-conviction/"
   },
   {
     "score": 8,
@@ -47,12 +19,5 @@
     "source": "nyt",
     "headline": "American Missionary Kidnapped in Niger Is Said to Be Released From Captivity",
     "link": "https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-08-14-04-01-06 +0000",
-    "source": "nyt",
-    "headline": "Will Sudan’s El Obeid Become the Next El Fasher? What to Know.",
-    "link": "https://www.nytimes.com/2026/08/14/world/africa/el-obeid-sudan-war-el-fasher.html"
   }
 ]
