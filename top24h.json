@@ -1,24 +1,10 @@
 [
   {
-    "score": 146,
+    "score": 136,
     "pubdate": "2026-08-14-00-00-00 +0000",
     "source": "wsj",
     "headline": "Karoline Leavitt was President Trump’s willing scene partner, unyielding loyalist and ardent defender, who spoke at times as if she and Trump shared some kind of telepathic connection",
     "link": "https://www.wsj.com/politics/policy/karoline-leavitt-the-press-secretary-who-perfected-the-art-of-defending-trump-f3d1f08f?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 95,
-    "pubdate": "2026-08-14-15-44-12 +0000",
-    "source": "nypost",
-    "headline": "Luigi Mangione pleads guilty in killing of UnitedHealthcare boss Brian Thompson as his widow sobs in court: ‘I shot Mr. Thompson’",
-    "link": "https://nypost.com/2026/08/14/us-news/luigi-mangione-pleads-guilty-in-killing-of-unitedhealthcare-boss-brian-thompson/"
-  },
-  {
-    "score": 95,
-    "pubdate": "2026-08-14-09-41-00 +0000",
-    "source": "wsj",
-    "headline": "A new report led by White House trade adviser Peter Navarro estimates illegal transshipment has cost the U.S. around $19 billion to $26 billion in annual tariff revenue",
-    "link": "https://www.wsj.com/economy/trade/white-house-says-china-avoids-billions-in-tariffs-by-rerouting-goods-3c4c972f?mod=rss_socialeconomyfeed"
   },
   {
     "score": 94,
@@ -28,6 +14,20 @@
     "link": "https://www.chicagotribune.com/2026/08/13/ntsb-ryanair-investigation/"
   },
   {
+    "score": 93,
+    "pubdate": "2026-08-14-15-44-12 +0000",
+    "source": "nypost",
+    "headline": "Luigi Mangione pleads guilty in killing of UnitedHealthcare boss Brian Thompson as his widow sobs in court: ‘I shot Mr. Thompson’",
+    "link": "https://nypost.com/2026/08/14/us-news/luigi-mangione-pleads-guilty-in-killing-of-unitedhealthcare-boss-brian-thompson/"
+  },
+  {
+    "score": 91,
+    "pubdate": "2026-08-14-09-41-00 +0000",
+    "source": "wsj",
+    "headline": "A new report led by White House trade adviser Peter Navarro estimates illegal transshipment has cost the U.S. around $19 billion to $26 billion in annual tariff revenue",
+    "link": "https://www.wsj.com/economy/trade/white-house-says-china-avoids-billions-in-tariffs-by-rerouting-goods-3c4c972f?mod=rss_socialeconomyfeed"
+  },
+  {
     "score": 73,
     "pubdate": "2026-08-13-20-01-00 +0000",
     "source": "wsj",
@@ -35,32 +35,18 @@
     "link": "https://www.wsj.com/politics/national-security/u-s-sending-fresh-aircraft-carrier-to-middle-east-amid-iran-war-strain-d0d6e98d?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 70,
+    "score": 69,
     "pubdate": "2026-08-13-20-28-00 +0000",
     "source": "wsj",
     "headline": "The Kennedy Center’s board of trustees has voted to close the performing-arts venue for two years and add President Trump’s name to the facade, according to U.S. Rep. Joyce Beatty and her attorneys",
     "link": "https://www.wsj.com/politics/policy/kennedy-center-board-votes-to-add-trumps-name-to-building-facade-f081cd20?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 60,
-    "pubdate": "2026-08-14-13-00-00 +0000",
-    "source": "wapo",
-    "headline": "American missionary kidnapped in Niger released after 9 months, group says",
-    "link": "https://www.washingtonpost.com/world/2026/08/14/american-kevin-rideout-released-after-niger-kidnapping-missionary-group-says/"
-  },
-  {
-    "score": 59,
+    "score": 58,
     "pubdate": "2026-08-14-08-51-39 +0000",
     "source": "cbc",
     "headline": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
     "link": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911?cmp=rss"
-  },
-  {
-    "score": 58,
-    "pubdate": "2026-08-13-21-58-18 +0000",
-    "source": "chitri",
-    "headline": "Chicago will make full $260 million advance pension payment this year, Mayor Johnson tells investors",
-    "link": "https://www.chicagotribune.com/2026/08/13/chicago-pension-payment/"
   },
   {
     "score": 57,
@@ -68,5 +54,19 @@
     "source": "wsj",
     "headline": "Tech, Media & Telecom Roundup: Market Talk",
     "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-67aed4d8?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-08-14-13-00-00 +0000",
+    "source": "wapo",
+    "headline": "American missionary kidnapped in Niger released after 9 months, group says",
+    "link": "https://www.washingtonpost.com/world/2026/08/14/american-kevin-rideout-released-after-niger-kidnapping-missionary-group-says/"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-08-13-21-58-18 +0000",
+    "source": "chitri",
+    "headline": "Chicago will make full $260 million advance pension payment this year, Mayor Johnson tells investors",
+    "link": "https://www.chicagotribune.com/2026/08/13/chicago-pension-payment/"
   }
 ]
