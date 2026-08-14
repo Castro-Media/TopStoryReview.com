@@ -1,6 +1,6 @@
 [
   {
-    "score": 131,
+    "score": 126,
     "pubdate": "2026-08-14-00-00-00 +0000",
     "source": "wsj",
     "headline": "Karoline Leavitt was President Trump’s willing scene partner, unyielding loyalist and ardent defender, who spoke at times as if she and Trump shared some kind of telepathic connection",
@@ -14,18 +14,11 @@
     "link": "https://www.chicagotribune.com/2026/08/13/ntsb-ryanair-investigation/"
   },
   {
-    "score": 73,
+    "score": 70,
     "pubdate": "2026-08-13-10-00-00 +0000",
     "source": "latimes",
     "headline": "Becerra holds strong lead over Hilton in race for California governor, new poll shows",
     "link": "https://www.latimes.com/california/story/2026-08-13/becerra-holds-strong-lead-over-hilton-in-race-for-california-governor-poll"
-  },
-  {
-    "score": 63,
-    "pubdate": "2026-08-13-20-28-00 +0000",
-    "source": "wsj",
-    "headline": "The Kennedy Center’s board of trustees has voted to close the performing-arts venue for two years and add President Trump’s name to the facade, according to U.S. Rep. Joyce Beatty and her attorneys",
-    "link": "https://www.wsj.com/politics/policy/kennedy-center-board-votes-to-add-trumps-name-to-building-facade-f081cd20?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 63,
@@ -35,11 +28,25 @@
     "link": "https://www.chicagotribune.com/2026/08/13/chicago-pension-payment/"
   },
   {
-    "score": 56,
+    "score": 60,
+    "pubdate": "2026-08-13-20-28-00 +0000",
+    "source": "wsj",
+    "headline": "The Kennedy Center’s board of trustees has voted to close the performing-arts venue for two years and add President Trump’s name to the facade, according to U.S. Rep. Joyce Beatty and her attorneys",
+    "link": "https://www.wsj.com/politics/policy/kennedy-center-board-votes-to-add-trumps-name-to-building-facade-f081cd20?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 59,
     "pubdate": "2026-08-13-20-01-00 +0000",
     "source": "wsj",
     "headline": "U.S. sending fresh aircraft carrier to Middle East amid Iran war strain",
     "link": "https://www.wsj.com/politics/national-security/u-s-sending-fresh-aircraft-carrier-to-middle-east-amid-iran-war-strain-d0d6e98d?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-08-13-11-03-00 +0000",
+    "source": "wsj",
+    "headline": "During campaign season, it isn’t popular to talk about spending cuts, even as the government’s debt barrels toward $40 trillion. Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/policy/no-one-wants-to-talk-about-the-debt-6287ce16?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 54,
@@ -49,14 +56,7 @@
     "link": "https://www.wsj.com/politics/policy/top-democrat-targets-supreme-court-for-changes-60b455ad?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 52,
-    "pubdate": "2026-08-13-11-03-00 +0000",
-    "source": "wsj",
-    "headline": "During campaign season, it isn’t popular to talk about spending cuts, even as the government’s debt barrels toward $40 trillion. Read more in today’s WSJ Politics Newsletter:",
-    "link": "https://www.wsj.com/politics/policy/no-one-wants-to-talk-about-the-debt-6287ce16?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 49,
+    "score": 51,
     "pubdate": "2026-08-13-13-02-24 +0000",
     "source": "bbc",
     "headline": "Flock boss admits surveillance firm took too long to act over police abuse",
@@ -64,9 +64,9 @@
   },
   {
     "score": 48,
-    "pubdate": "2026-08-13-08-42-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Army troops faced off against Ukrainian drone operators at a military exercise in Germany earlier this year. It didn’t go well for the Americans.",
-    "link": "https://www.wsj.com/politics/national-security/u-s-and-ukrainian-forces-went-head-to-head-in-an-exercise-ukraines-drones-won-cc3663d5?mod=rss_socialpoliticsfeed"
+    "pubdate": "2026-08-13-03-28-56 +0000",
+    "source": "bbc",
+    "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+    "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
   }
 ]
