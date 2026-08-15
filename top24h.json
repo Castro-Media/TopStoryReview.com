@@ -1,6 +1,6 @@
 [
   {
-    "score": 151,
+    "score": 148,
     "pubdate": "2026-08-14-21-47-00 +0000",
     "source": "wsj",
     "headline": "Trump downplays concerns about conditions on the USS Abraham Lincoln, says deployment in the Middle East is “not nearly long enough”",
@@ -14,13 +14,6 @@
     "link": "https://www.chicagotribune.com/2026/08/14/white-house-ballroom-construction-2/"
   },
   {
-    "score": 75,
-    "pubdate": "2026-08-14-15-26-04 +0000",
-    "source": "cbc",
-    "headline": "Luigi Mangione admits to shooting health insurance executive Brian Thompson, pleads guilty to federal charges",
-    "link": "https://www.cbc.ca/news/world/us-federal-hearing-mangione-thompson-killing-9.7307059?cmp=rss"
-  },
-  {
     "score": 74,
     "pubdate": "2026-08-14-21-32-00 +0000",
     "source": "nypost",
@@ -28,7 +21,14 @@
     "link": "https://nypost.com/2026/08/14/world-news/family-of-dead-ex-cambridge-professor-jason-arday-says-he-was-victim-of-misinformation-campaign-despite-plagiarism-allegations/"
   },
   {
-    "score": 69,
+    "score": 70,
+    "pubdate": "2026-08-14-15-26-04 +0000",
+    "source": "cbc",
+    "headline": "Luigi Mangione admits to shooting health insurance executive Brian Thompson, pleads guilty to federal charges",
+    "link": "https://www.cbc.ca/news/world/us-federal-hearing-mangione-thompson-killing-9.7307059?cmp=rss"
+  },
+  {
+    "score": 67,
     "pubdate": "2026-08-14-09-41-00 +0000",
     "source": "wsj",
     "headline": "A new report led by White House trade adviser Peter Navarro estimates illegal transshipment has cost the U.S. around $19 billion to $26 billion in annual tariff revenue",
@@ -36,17 +36,17 @@
   },
   {
     "score": 58,
-    "pubdate": "2026-08-14-17-15-00 +0000",
-    "source": "nypost",
-    "headline": "Feds probe $100M anti-Israel ‘war chest’ tied to glamorous Mamdani ally: sources",
-    "link": "https://nypost.com/2026/08/14/business/feds-probe-100m-anti-israel-war-chest-tied-to-glamorous-mamdani-ally-sources/"
-  },
-  {
-    "score": 58,
     "pubdate": "2026-08-14-21-30-06 +0000",
     "source": "chitri",
     "headline": "Palestinians besieged in West Bank village fear Israeli settlers will seize their homes",
     "link": "https://www.chicagotribune.com/2026/08/14/israel-palestinians-west-bank/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-08-14-17-15-00 +0000",
+    "source": "nypost",
+    "headline": "Feds probe $100M anti-Israel ‘war chest’ tied to glamorous Mamdani ally: sources",
+    "link": "https://nypost.com/2026/08/14/business/feds-probe-100m-anti-israel-war-chest-tied-to-glamorous-mamdani-ally-sources/"
   },
   {
     "score": 56,
