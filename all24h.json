@@ -1,42 +1,258 @@
 [
   {
-    "headline": "John Gotti’s grandson finally behind bars after failing to donate kidney to mom",
+    "headline": "Series of Michigan Shootings Leave 6 Dead, Including Gunman",
+    "link": "https://www.nytimes.com/2026/08/14/us/shooting-missaukee-county-michigan.html",
+    "source": "nyt",
+    "pubdate": "2026-08-15-22-49-19 +0000"
+  },
+  {
+    "headline": "Misdelivered package sparks gun threat, two-hour SWAT standoff in Florida",
+    "link": "https://nypost.com/2026/08/15/us-news/florida-man-arrested-after-threatening-amazon-driver-with-gun/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-22-45-36 +0000"
+  },
+  {
+    "headline": "Bizarre moment trashcan bandits seen dragging massive bins from moving car",
+    "link": "https://nypost.com/2026/08/15/us-news/la-trashcan-bandits-seen-dragging-massive-bins-from-moving-car/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-22-43-21 +0000"
+  },
+  {
+    "headline": "Kyler Murray shows command in Vikings debut; J.J. McCarthy still has work to do",
+    "link": "https://www.startribune.com/minnesota-vikings-nfl-preseason-game-today-score-kyler-murray-jj-mccarthy-new-york-giants-qb-starter/601877070",
+    "source": "startribune",
+    "pubdate": "2026-08-15-22-39-47 +0000"
+  },
+  {
+    "headline": "Meet Jinny Lu, the World’s Ugliest Dog of 2026",
+    "link": "https://www.nytimes.com/2026/08/15/us/ugliest-dog-contest-winner-2026.html",
+    "source": "nyt",
+    "pubdate": "2026-08-15-22-29-54 +0000"
+  },
+  {
+    "headline": "Putin loses 43K soldiers on Ukraine battlefield in one of bloodiest months since start of war",
+    "link": "https://nypost.com/2026/08/15/world-news/putin-loses-43k-soldiers-in-ukraine-in-one-of-wars-bloodiest-months/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-22-27-37 +0000"
+  },
+  {
+    "headline": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
+    "link": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+    "source": "nyt",
+    "pubdate": "2026-08-15-22-26-01 +0000"
+  },
+  {
+    "headline": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
+    "link": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
+    "source": "nyt",
+    "pubdate": "2026-08-15-22-26-01 +0000"
+  },
+  {
+    "headline": "In the doghouse! AOC’s sad sack ex Riley Roberts walks their pooch in first look since split news",
+    "link": "https://nypost.com/2026/08/15/us-news/ex-fiance-riley-roberts-spotted-walking-aocs-dog-outside-her-queens-apartment/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-22-23-43 +0000"
+  },
+  {
+    "headline": "In the doghouse! AOC’s sad sack ex Riley Roberts walks their pooch in first look since split news",
+    "link": "https://nypost.com/2026/08/15/us-news/ex-fiance-riley-roberts-spotted-walking-aocs-dog-outside-her-queens-apartment/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-22-23-43 +0000"
+  },
+  {
+    "headline": "Pop Smoke’s killer learns fate for dealing drugs in LA jail following rapper’s murder",
+    "link": "https://nypost.com/2026/08/15/us-news/pop-smokes-killer-learns-fate-for-dealing-drugs-in-la-jail-following-rappers-murder/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-22-19-26 +0000"
+  },
+  {
+    "headline": "Mom gets keyboard tattooed on her arm so autistic son can always ‘talk’ to her",
+    "link": "https://nypost.com/2026/08/15/world-news/mom-gets-keyboard-tattooed-on-her-arm-so-autistic-son-can-talk-to-her/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-22-11-41 +0000"
+  },
+  {
+    "headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-21-56-10 +0000"
+  },
+  {
+    "headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-21-56-10 +0000"
+  },
+  {
+    "headline": "Socialist NY lawmaker Emily Gallagher says shoplifting for ‘biological need’ is OK",
+    "link": "https://nypost.com/2026/08/15/us-news/socialist-ny-lawmaker-emily-gallagher-says-shoplifters-have-a-biological-need-to-steal/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-21-55-16 +0000"
+  },
+  {
+    "headline": "Socialist NY lawmaker Emily Gallagher says shoplifting for ‘biological need’ is OK",
+    "link": "https://nypost.com/2026/08/15/us-news/socialist-ny-lawmaker-emily-gallagher-says-shoplifters-have-a-biological-need-to-steal/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-21-55-16 +0000"
+  },
+  {
+    "headline": "Rescuers search for survivors of powerful Indonesia earthquake",
+    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-21-49-12 +0000"
+  },
+  {
+    "headline": "Rescuers search for survivors of powerful Indonesia earthquake",
+    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-21-49-12 +0000"
+  },
+  {
+    "headline": "Palisades Village shopping center reopens, marking milestone for fire-weary community",
+    "link": "https://www.latimes.com/california/story/2026-08-15/palisades-village-reopens-19-months-after-devastating-fires",
+    "source": "latimes",
+    "pubdate": "2026-08-15-21-48-16 +0000"
+  },
+  {
+    "headline": "Palisades Village shopping center reopens, marking milestone for fire-weary community",
+    "link": "https://www.latimes.com/california/story/2026-08-15/palisades-village-reopens-19-months-after-devastating-fires",
+    "source": "latimes",
+    "pubdate": "2026-08-15-21-48-16 +0000"
+  },
+  {
+    "headline": "Bill Maher thinks immigrants must assimilate, accept American values and principles to be in US: ‘Not negotiable’",
+    "link": "https://nypost.com/2026/08/15/us-news/bill-maher-thinks-american-values-arent-negotiable/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-21-46-11 +0000"
+  },
+  {
+    "headline": "Australian state to launch gun buyback after Bondi Beach attack",
+    "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-21-41-43 +0000"
+  },
+  {
+    "headline": "Australian state to launch gun buyback after Bondi Beach attack",
+    "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-21-41-43 +0000"
+  },
+  {
+    "headline": "Shocking death of Black scholar reverberates at Cambridge —  and well beyond",
+    "link": "https://www.washingtonpost.com/world/2026/08/15/death-black-scholar-jason-arday-reverberates-cambridge-beyond/",
+    "source": "wapo",
+    "pubdate": "2026-08-15-21-36-18 +0000"
+  },
+  {
+    "headline": "News of the World: What you missed this week internationally",
+    "link": "https://nypost.com/2026/08/15/world-news/news-of-the-world-august-15-2026/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-21-26-35 +0000"
+  },
+  {
+    "headline": "Reform UK plan would overhaul welfare system with £50bn in savings",
+    "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-21-19-28 +0000"
+  },
+  {
+    "headline": "‘Sweetie’ the husky rescued from alleged abuse after being dragged behind bike by homeless man",
+    "link": "https://nypost.com/2026/08/15/us-news/merced-police-rescue-sweetie-the-husky-from-alleged-abuse/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-21-16-42 +0000"
+  },
+  {
+    "headline": "Filipino pageant queen proud of her small-town Minnesota roots",
+    "link": "https://www.startribune.com/filipino-pageant-queen-proud-of-her-small-town-minnesota-roots/601879095",
+    "source": "startribune",
+    "pubdate": "2026-08-15-21-15-42 +0000"
+  },
+  {
+    "headline": "Rescue pug who escaped South Korea’s dog meat trade crowned ‘World’s Ugliest Dog’ in California",
+    "link": "https://nypost.com/2026/08/15/us-news/worlds-ugliest-dog-crowned-as-meat-market-rescue-pug-jinny-lu-wins-5000/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-21-14-49 +0000"
+  },
+  {
+    "headline": "64-year-old man dies after medical episode in NYPD custody: police sources",
+    "link": "https://nypost.com/2026/08/15/us-news/violent-male-dies-in-nypd-custody-police-sources-say/",
+    "source": "nypost",
+    "pubdate": "2026-08-15-21-14-46 +0000"
+  },
+  {
+    "headline": "Bou Meng, Rare Survivor of Khmer Rouge Torture House, Dies at 85",
+    "link": "https://www.nytimes.com/2026/08/15/world/asia/bou-meng-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-08-15-21-12-27 +0000"
+  },
+  {
+    "headline": "Bou Meng, Rare Survivor of Khmer Rouge Torture House, Dies at 85",
+    "link": "https://www.nytimes.com/2026/08/15/world/asia/bou-meng-dead.html",
+    "source": "nyt",
+    "pubdate": "2026-08-15-21-12-27 +0000"
+  },
+  {
+    "headline": "Democratic Party officials seek to move past squabbles on fundraising and socialism",
+    "link": "https://www.wsj.com/politics/elections/democrats-turn-focus-to-winning-after-months-of-internal-fights-29c49635?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-08-15-21-12-00 +0000"
+  },
+  {
+    "headline": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+    "link": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+    "source": "nyt",
+    "pubdate": "2026-08-15-21-07-17 +0000"
+  },
+  {
+    "headline": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+    "link": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+    "source": "nyt",
+    "pubdate": "2026-08-15-21-07-17 +0000"
+  },
+  {
+    "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-21-03-57 +0000"
+  },
+  {
+    "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+    "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-21-03-57 +0000"
+  },
+  {
+    "headline": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-20-58-31 +0000"
+  },
+  {
+    "headline": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-20-58-31 +0000"
+  },
+  {
+    "headline": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-20-58-31 +0000"
+  },
+  {
+    "headline": "John Gotti’s grandson finally behind bars after failing to donate kidney to sick mom",
     "link": "https://nypost.com/2026/08/15/us-news/john-gottis-grandson-behind-bars-in-nj-after-failing-to-donate-kidney/",
     "source": "nypost",
     "pubdate": "2026-08-15-20-48-28 +0000"
   },
   {
-    "headline": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
-    "link": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
-    "source": "nyt",
-    "pubdate": "2026-08-15-20-48-05 +0000"
+    "headline": "'Preventable tragedy': Ventura County driver sentenced to prison for double-fatal 124-mph crash",
+    "link": "https://www.latimes.com/california/story/2026-08-15/ventura-county-driver-double-fatal-124-mph-crash-sentenced-to-prison",
+    "source": "latimes",
+    "pubdate": "2026-08-15-20-47-01 +0000"
   },
   {
-    "headline": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
-    "link": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
-    "source": "nyt",
-    "pubdate": "2026-08-15-20-48-05 +0000"
-  },
-  {
-    "headline": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-15-20-32-33 +0000"
-  },
-  {
-    "headline": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-15-20-32-33 +0000"
-  },
-  {
-    "headline": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-    "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-15-20-32-33 +0000"
-  },
-  {
-    "headline": "Here are the states where medical malpractice runs rampant",
+    "headline": "Here are the states where medical malpractice runs rampant — and NY is among the top",
     "link": "https://nypost.com/2026/08/15/us-news/medical-malpractice-runs-rampant-in-new-york-study-finds/",
     "source": "nypost",
     "pubdate": "2026-08-15-20-30-44 +0000"
@@ -60,12 +276,6 @@
     "pubdate": "2026-08-15-20-28-52 +0000"
   },
   {
-    "headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-15-20-28-30 +0000"
-  },
-  {
     "headline": "The bizarre and hilarious chaos on cruise ships exposed — including pirates, pot, and polar bears",
     "link": "https://nypost.com/2026/08/15/world-news/ship-happens-pirates-pot-polar-bears-and-chaos-on-the-high-seas/",
     "source": "nypost",
@@ -78,10 +288,10 @@
     "pubdate": "2026-08-15-20-24-01 +0000"
   },
   {
-    "headline": "Meet Jinny Lu, the World’s Ugliest Dog of 2026",
-    "link": "https://www.nytimes.com/2026/08/15/us/ugliest-dog-contest-winner-2026.html",
-    "source": "nyt",
-    "pubdate": "2026-08-15-20-23-39 +0000"
+    "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-20-21-14 +0000"
   },
   {
     "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
@@ -108,34 +318,10 @@
     "pubdate": "2026-08-15-20-08-06 +0000"
   },
   {
-    "headline": "Democratic Party officials seek to move past squabbles on fundraising and socialism",
-    "link": "https://www.wsj.com/politics/elections/democrats-turn-focus-to-winning-after-months-of-internal-fights-29c49635?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-08-15-20-06-00 +0000"
-  },
-  {
     "headline": "Meet the young billionaires getting filthy rich off AI — and their lavish purchases",
     "link": "https://nypost.com/2026/08/15/us-news/silicon-valleys-young-billionaires-getting-rich-from-ai/",
     "source": "nypost",
     "pubdate": "2026-08-15-20-03-52 +0000"
-  },
-  {
-    "headline": "Kyler Murray shows command in Vikings debut; J.J. McCarthy still has work to do",
-    "link": "https://www.startribune.com/minnesota-vikings-nfl-preseason-game-today-score-kyler-murray-jj-mccarthy-new-york-giants-qb-starter/601877070",
-    "source": "startribune",
-    "pubdate": "2026-08-15-20-01-32 +0000"
-  },
-  {
-    "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-15-20-00-15 +0000"
-  },
-  {
-    "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-15-20-00-15 +0000"
   },
   {
     "headline": "Where to Eat and Drink at a Barcelona Bar Like a Local",
@@ -270,36 +456,6 @@
     "pubdate": "2026-08-15-19-34-22 +0000"
   },
   {
-    "headline": "Deranged Michigan gunman Chad Hickman who killed 5 was child abuser, locked in ‘toxic’ divorce battle, court records show",
-    "link": "https://nypost.com/2026/08/15/us-news/chad-hickman-had-history-of-child-abuse-domestic-violence-court-docs/",
-    "source": "nypost",
-    "pubdate": "2026-08-15-19-26-49 +0000"
-  },
-  {
-    "headline": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
-    "link": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
-    "source": "nyt",
-    "pubdate": "2026-08-15-19-26-35 +0000"
-  },
-  {
-    "headline": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
-    "link": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
-    "source": "nyt",
-    "pubdate": "2026-08-15-19-26-35 +0000"
-  },
-  {
-    "headline": "Texas Democrat sparks firestorm after he blasts Bible-related education in schools",
-    "link": "https://nypost.com/2026/08/15/us-news/texas-democrat-sparks-firestorm-after-he-blasts-bible-related-education-in-schools/",
-    "source": "nypost",
-    "pubdate": "2026-08-15-19-20-07 +0000"
-  },
-  {
-    "headline": "Heartless driver flees after hitting river otter in Bay Area",
-    "link": "https://nypost.com/2026/08/15/us-news/river-otter-left-with-head-trauma-after-hit-and-run-in-california/",
-    "source": "nypost",
-    "pubdate": "2026-08-15-19-14-07 +0000"
-  },
-  {
     "headline": "2 Planes With Same Call Sign in Phoenix Could Have Been ‘Disastrous’",
     "link": "https://www.nytimes.com/2026/08/15/us/american-airlines-call-signs-phoenix.html",
     "source": "nyt",
@@ -318,12 +474,6 @@
     "pubdate": "2026-08-15-19-10-10 +0000"
   },
   {
-    "headline": "Luigi Mangione fangirl ‘reporter’ lashes out at Brian Thompson’s widow with vile comments, social media posts",
-    "link": "https://nypost.com/2026/08/15/us-news/luigi-mangione-fangirl-lashes-out-at-brian-thompsons-widow-online/",
-    "source": "nypost",
-    "pubdate": "2026-08-15-19-04-20 +0000"
-  },
-  {
     "headline": "Colombia earthquake survivor loses both triplet sisters, parents in building collapse",
     "link": "https://nypost.com/2026/08/15/world-news/colombia-earthquake-survivor-loses-both-triplet-sisters-in-building-collapse/",
     "source": "nypost",
@@ -340,18 +490,6 @@
     "link": "https://www.nytimes.com/2026/08/14/world/middleeast/shabjdeed-saint-levant-slv.html",
     "source": "nyt",
     "pubdate": "2026-08-15-19-02-03 +0000"
-  },
-  {
-    "headline": "Cheap tickets to infamous Burning Man festival suddenly appear — travel included",
-    "link": "https://nypost.com/2026/08/15/us-news/burning-man-offers-550-tickets-with-bus-travel-from-reno-san-francisco/",
-    "source": "nypost",
-    "pubdate": "2026-08-15-18-54-34 +0000"
-  },
-  {
-    "headline": "Wisconsin Dem calls out party for abandoning rural voters: ‘They’re out of touch’",
-    "link": "https://nypost.com/2026/08/15/us-news/dem-candidate-rebecca-cooke-thinks-party-left-rural-voters/",
-    "source": "nypost",
-    "pubdate": "2026-08-15-18-52-26 +0000"
   },
   {
     "headline": "Wisconsin Dem calls out party for abandoning rural voters: ‘They’re out of touch’",
@@ -390,18 +528,6 @@
     "pubdate": "2026-08-15-18-27-45 +0000"
   },
   {
-    "headline": "Series of Michigan Shootings Leave 6 Dead, Including Gunman",
-    "link": "https://www.nytimes.com/2026/08/14/us/shooting-missaukee-county-michigan.html",
-    "source": "nyt",
-    "pubdate": "2026-08-15-18-26-00 +0000"
-  },
-  {
-    "headline": "Disturbing bodycam footage shows final moments of knife-wielding autistic man killed by SoCal cops",
-    "link": "https://nypost.com/2026/08/15/us-news/bodycam-footage-shows-irvine-police-shooting-autistic-man-with-knife/",
-    "source": "nypost",
-    "pubdate": "2026-08-15-18-20-33 +0000"
-  },
-  {
     "headline": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
     "link": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
     "source": "nyt",
@@ -426,10 +552,10 @@
     "pubdate": "2026-08-15-18-10-51 +0000"
   },
   {
-    "headline": "Woman miraculously survives being sucked through flood tunnel as rescuers try to pull her out",
-    "link": "https://nypost.com/2026/08/15/us-news/arizona-cyclist-swept-underwater-in-flooded-bridge-rescue/",
-    "source": "nypost",
-    "pubdate": "2026-08-15-18-08-21 +0000"
+    "headline": "Why is Australia's mushroom killer back in court this week?",
+    "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-15-18-02-30 +0000"
   },
   {
     "headline": "Morocco arrests 111 migrants headed to Spain's Ceuta as sides step up crackdown",
@@ -480,12 +606,6 @@
     "pubdate": "2026-08-15-17-31-40 +0000"
   },
   {
-    "headline": "SoCal leaders weigh extreme measures after teen caught kicking sea lion: ‘Completely out of control’",
-    "link": "https://nypost.com/2026/08/15/us-news/la-jolla-leaders-weight-extreme-measures-after-teen-caught-kicking-sea-lion/",
-    "source": "nypost",
-    "pubdate": "2026-08-15-17-28-51 +0000"
-  },
-  {
     "headline": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
     "link": "https://www.chicagotribune.com/2026/08/15/us-pulls-last-aircraft-carrier-in-asia/",
     "source": "chitri",
@@ -510,7 +630,7 @@
     "pubdate": "2026-08-15-16-42-00 +0000"
   },
   {
-    "headline": "Tropical storm Lala closes in, hitting Hawaii's Big Island with rain, wind",
+    "headline": "Lala strengthens into hurricane as it barrels toward Hawaii",
     "link": "https://www.cbc.ca/news/world/tropical-storm-lala-hawaii-9.7308650?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-08-15-16-28-38 +0000"
@@ -750,12 +870,6 @@
     "pubdate": "2026-08-15-11-00-01 +0000"
   },
   {
-    "headline": "Photo booths serve up authenticity in the digital era. Here’s where to find them.",
-    "link": "https://www.startribune.com/photo-booths-serve-up-authenticity-in-the-digital-era-heres-where-to-find-them/601868443",
-    "source": "startribune",
-    "pubdate": "2026-08-15-11-00-01 +0000"
-  },
-  {
     "headline": "A disputed phone call sheds light on political maneuvering over Minneapolis public safety",
     "link": "https://www.startribune.com/a-disputed-phone-call-sheds-light-on-political-maneuvering-over-minneapolis-public-safety/601877131",
     "source": "startribune",
@@ -888,6 +1002,12 @@
     "pubdate": "2026-08-15-10-00-00 +0000"
   },
   {
+    "headline": "California Uber and Lyft drivers' union could be certified in less than 30 days",
+    "link": "https://www.latimes.com/business/story/2026-08-15/california-uber-lyft-drivers-union-could-be-certified-in-less-than-30-days",
+    "source": "latimes",
+    "pubdate": "2026-08-15-10-00-00 +0000"
+  },
+  {
     "headline": "Arellano: Shock gloves on immigrants? Trump gifts his deportation goons a cowardly new tool",
     "link": "https://www.latimes.com/california/story/2026-08-15/shock-gloves-immigrants-ice-trump",
     "source": "latimes",
@@ -896,12 +1016,6 @@
   {
     "headline": "California defends childhood vaccination schedule against Trump efforts to weaken it",
     "link": "https://www.latimes.com/california/story/2026-08-15/california-defends-childhood-vaccination-schedule-against-trump-efforts-to-weaken-it",
-    "source": "latimes",
-    "pubdate": "2026-08-15-10-00-00 +0000"
-  },
-  {
-    "headline": "California Uber and Lyft drivers' union could be certified in less than 30 days",
-    "link": "https://www.latimes.com/business/story/2026-08-15/california-uber-lyft-drivers-union-could-be-certified-in-less-than-30-days",
     "source": "latimes",
     "pubdate": "2026-08-15-10-00-00 +0000"
   },
@@ -1438,107 +1552,5 @@
     "link": "https://www.wsj.com/world/middle-east/a-trickle-of-americans-is-returning-to-israel-0e14fecc?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-08-14-23-00-00 +0000"
-  },
-  {
-    "headline": "A Silicon Valley Dirt Farmer Hangs Up His Shears",
-    "link": "https://www.nytimes.com/2026/08/14/business/andys-orchard-silicon-valley.html",
-    "source": "nyt",
-    "pubdate": "2026-08-14-22-43-40 +0000"
-  },
-  {
-    "headline": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
-    "link": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
-    "source": "nyt",
-    "pubdate": "2026-08-14-22-35-07 +0000"
-  },
-  {
-    "headline": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
-    "link": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
-    "source": "nyt",
-    "pubdate": "2026-08-14-22-35-07 +0000"
-  },
-  {
-    "headline": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
-    "link": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
-    "source": "nyt",
-    "pubdate": "2026-08-14-22-35-07 +0000"
-  },
-  {
-    "headline": "U.K.'s leader calls for reflection after former Cambridge professor accused of plagiarism found dead",
-    "link": "https://www.cbc.ca/news/world/cambridge-professor-jason-arday-found-dead-9.7308117?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-08-14-22-35-00 +0000"
-  },
-  {
-    "headline": "Navy Deployment in Middle East ‘Not Nearly Long Enough,’ Trump Says",
-    "link": "https://www.wsj.com/business/navy-deployment-in-middle-east-not-nearly-long-enough-trump-says-b6af0bac?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-14-22-28-00 +0000"
-  },
-  {
-    "headline": "Navy Deployment in Middle East ‘Not Nearly Long Enough,’ Trump Says",
-    "link": "https://www.wsj.com/business/navy-deployment-in-middle-east-not-nearly-long-enough-trump-says-b6af0bac?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-14-22-28-00 +0000"
-  },
-  {
-    "headline": "After reports of food shortages, broken toilets and sailors jumping overboard, lawmakers and family are demanding answers about conditions aboard the USS Abraham Lincoln. Here’s what to  know:",
-    "link": "https://www.wsj.com/politics/national-security/3-reasons-extended-carrier-deployments-take-such-a-heavy-toll-at-sea-dd77ba78?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-08-14-22-22-00 +0000"
-  },
-  {
-    "headline": "3 Reasons Extended Carrier Deployments Take Such a Heavy Toll at Sea",
-    "link": "https://www.wsj.com/politics/national-security/3-reasons-extended-carrier-deployments-take-such-a-heavy-toll-at-sea-dd77ba78?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-14-22-22-00 +0000"
-  },
-  {
-    "headline": "3 Reasons Extended Carrier Deployments Take Such a Heavy Toll at Sea",
-    "link": "https://www.wsj.com/politics/national-security/3-reasons-extended-carrier-deployments-take-such-a-heavy-toll-at-sea-dd77ba78?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-08-14-22-22-00 +0000"
-  },
-  {
-    "headline": "New York Mag fires Mamdani-loving writer Ross Barkan for 67 instances of ripping off other authors",
-    "link": "https://nypost.com/2026/08/14/media/new-york-mag-fires-mamdani-loving-writer-ross-barkan-for-67-instances-of-ripping-off-other-authors/",
-    "source": "nypost",
-    "pubdate": "2026-08-14-22-13-32 +0000"
-  },
-  {
-    "headline": "A son of former Mexican President Andrés Manuel López Obrador said that the U.S. had revoked his visa",
-    "link": "https://www.wsj.com/world/americas/u-s-cancels-visa-for-son-of-former-mexican-president-straining-ties-f53985f8?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-08-14-22-09-00 +0000"
-  },
-  {
-    "headline": "U.S. Cancels Visa for Son of Former Mexican President, Straining Ties",
-    "link": "https://www.wsj.com/world/americas/u-s-cancels-visa-for-son-of-former-mexican-president-straining-ties-f53985f8?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-08-14-22-09-00 +0000"
-  },
-  {
-    "headline": "President Trump Takes Credit for Steep Crime Rate Declines",
-    "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-fbi-crime-rate-declines.html",
-    "source": "nyt",
-    "pubdate": "2026-08-14-22-02-24 +0000"
-  },
-  {
-    "headline": "President Trump Takes Credit for Steep Crime Rate Declines",
-    "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-fbi-crime-rate-declines.html",
-    "source": "nyt",
-    "pubdate": "2026-08-14-22-02-24 +0000"
-  },
-  {
-    "headline": "MSG Sports Files to Spin Off Rangers from Knicks",
-    "link": "https://www.wsj.com/business/msg-sports-files-to-spin-off-rangers-from-knicks-4399aac7?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-14-21-59-00 +0000"
-  },
-  {
-    "headline": "AOC’s student debt unpaid as she embarks on costly egg-freezing journey",
-    "link": "https://nypost.com/2026/08/14/us-news/aocs-student-debt-unpaid-as-she-embarks-on-costly-egg-freezing-journey/",
-    "source": "nypost",
-    "pubdate": "2026-08-14-21-56-59 +0000"
   }
 ]
