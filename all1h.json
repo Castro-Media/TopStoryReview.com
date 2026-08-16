@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "headline": "Sports Team Sale Prices Keep Hitting New Highs",
+    "link": "https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html",
+    "source": "nyt",
+    "pubdate": "2026-08-16-01-08-45 +0000"
+  },
+  {
+    "headline": "Mob of looters who struck LA AutoZone twice in 24 hours pictured by police",
+    "link": "https://nypost.com/2026/08/15/us-news/mob-of-looters-who-struck-la-autozone-twice-in-24-hours-pictured-by-police/",
+    "source": "nypost",
+    "pubdate": "2026-08-16-01-00-37 +0000"
+  },
+  {
+    "headline": "Stock-Picking Funds Are Performing as Poorly as Ever",
+    "link": "https://www.wsj.com/finance/investing/stock-picking-funds-are-performing-as-poorly-as-ever-fee28e30?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-16-01-00-00 +0000"
+  },
+  {
+    "headline": "The ‘Country Hicks’ Who Refused $26 Million from an AI Data Center",
+    "link": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-08-16-01-00-00 +0000"
+  },
+  {
+    "headline": "Flights between L.A. and Hawaii disrupted as Hurricane Lala hits the Big Island",
+    "link": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
+    "source": "latimes",
+    "pubdate": "2026-08-16-00-56-14 +0000"
+  },
+  {
+    "headline": "California AG’s block of Paramount-Warner Bros. merger could chase away key source of funds for Dems",
+    "link": "https://nypost.com/2026/08/15/business/california-ags-block-of-paramount-warner-bros-merger-is-ironically-not-wanted-by-mainstream-dems/",
+    "source": "nypost",
+    "pubdate": "2026-08-16-00-44-05 +0000"
+  },
+  {
+    "headline": "Reform UK plan would overhaul welfare system with £50bn in savings",
+    "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-16-00-39-22 +0000"
+  }
+]
