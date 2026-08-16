@@ -1,13 +1,13 @@
 [
   {
-    "score": 56,
+    "score": 57,
     "pubdate": "2026-08-15-19-39-00 +0000",
     "source": "wsj",
     "headline": "Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a Bank",
     "link": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b?mod=rss_markets_main"
   },
   {
-    "score": 51,
+    "score": 54,
     "pubdate": "2026-08-15-09-38-51 +0000",
     "source": "nypost",
     "headline": "At least 38 dead, buildings toppled after magnitude 7.7 earthquake strikes off Indonesia’s coast",
@@ -22,17 +22,17 @@
   },
   {
     "score": 38,
-    "pubdate": "2026-08-15-23-45-44 +0000",
-    "source": "bbc",
-    "headline": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-    "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 38,
     "pubdate": "2026-08-15-19-36-20 +0000",
     "source": "nyt",
     "headline": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
     "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-08-15-23-45-44 +0000",
+    "source": "bbc",
+    "headline": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+    "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 36,
@@ -42,6 +42,13 @@
     "link": "https://nypost.com/2026/08/16/us-news/hurricane-lala-leaves-thousands-without-power-in-hawaii-amid-life-threatening-conditions/"
   },
   {
+    "score": 34,
+    "pubdate": "2026-08-16-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Central banks may be accidentally subsidizing government borrowing through their efforts to prevent a repeat of past market blowups, and policymakers are starting to worry, writes WSJ’s @jmackin2",
+    "link": "https://www.wsj.com/economy/central-banking/central-banks-are-stuck-in-a-rinse-and-repeat-cycle-of-crises-47da47e9?mod=rss_socialeconomyfeed"
+  },
+  {
     "score": 33,
     "pubdate": "2026-08-15-17-31-40 +0000",
     "source": "nyt",
@@ -49,14 +56,7 @@
     "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html"
   },
   {
-    "score": 31,
-    "pubdate": "2026-08-16-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Central banks may be accidentally subsidizing government borrowing through their efforts to prevent a repeat of past market blowups, and policymakers are starting to worry, writes WSJ’s @jmackin2",
-    "link": "https://www.wsj.com/economy/central-banking/central-banks-are-stuck-in-a-rinse-and-repeat-cycle-of-crises-47da47e9?mod=rss_socialeconomyfeed"
-  },
-  {
-    "score": 31,
+    "score": 32,
     "pubdate": "2026-08-15-20-08-06 +0000",
     "source": "nypost",
     "headline": "Acting Navy secretary salutes USS Abraham Lincoln crew following mental health crisis reports — claims aircraft will ‘return home soon’",
