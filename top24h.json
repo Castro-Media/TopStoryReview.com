@@ -1,20 +1,13 @@
 [
   {
-    "score": 62,
-    "pubdate": "2026-08-15-09-01-01 +0000",
-    "source": "nyt",
-    "headline": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-    "link": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
+    "score": 58,
+    "pubdate": "2026-08-15-19-39-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Family’s World Liberty Financial Gets Preliminary Approval to Launch a Bank",
+    "link": "https://www.wsj.com/finance/trump-familys-world-liberty-financial-gets-preliminary-approval-to-launch-a-bank-dd518a2b?mod=rss_markets_main"
   },
   {
     "score": 48,
-    "pubdate": "2026-08-15-21-14-49 +0000",
-    "source": "nypost",
-    "headline": "Rescue pug who escaped South Korea’s dog meat trade crowned ‘World’s Ugliest Dog’ in California",
-    "link": "https://nypost.com/2026/08/15/us-news/worlds-ugliest-dog-crowned-as-meat-market-rescue-pug-jinny-lu-wins-5000/"
-  },
-  {
-    "score": 47,
     "pubdate": "2026-08-15-09-38-51 +0000",
     "source": "nypost",
     "headline": "At least 38 dead, buildings toppled after magnitude 7.7 earthquake strikes off Indonesia’s coast",
@@ -28,6 +21,13 @@
     "link": "https://nypost.com/2026/08/15/us-news/ex-fiance-riley-roberts-spotted-walking-aocs-dog-outside-her-queens-apartment/"
   },
   {
+    "score": 43,
+    "pubdate": "2026-08-15-23-58-05 +0000",
+    "source": "nypost",
+    "headline": "Mark Cuban delivers brutal reality check on California billionaire tax: ‘Ideology is not a strategy’",
+    "link": "https://nypost.com/2026/08/15/business/mark-cuban-checks-ro-khanna-on-california-billionaire-tax/"
+  },
+  {
     "score": 40,
     "pubdate": "2026-08-15-23-45-44 +0000",
     "source": "bbc",
@@ -35,7 +35,14 @@
     "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 37,
+    "score": 38,
+    "pubdate": "2026-08-15-19-36-20 +0000",
+    "source": "nyt",
+    "headline": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
+    "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html"
+  },
+  {
+    "score": 35,
     "pubdate": "2026-08-15-17-31-40 +0000",
     "source": "nyt",
     "headline": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
@@ -49,24 +56,17 @@
     "link": "https://nypost.com/2026/08/15/us-news/dire-reports-of-uss-abraham-lincoln-conditions-dismissed/"
   },
   {
-    "score": 32,
-    "pubdate": "2026-08-15-23-58-05 +0000",
-    "source": "nypost",
-    "headline": "Mark Cuban delivers brutal reality check on California billionaire tax: ‘Ideology is not a strategy’",
-    "link": "https://nypost.com/2026/08/15/business/mark-cuban-checks-ro-khanna-on-california-billionaire-tax/"
-  },
-  {
-    "score": 30,
-    "pubdate": "2026-08-15-21-03-57 +0000",
-    "source": "bbc",
-    "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-    "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 30,
     "pubdate": "2026-08-15-15-28-28 +0000",
     "source": "nyt",
     "headline": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
     "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-08-16-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Central banks may be accidentally subsidizing government borrowing through their efforts to prevent a repeat of past market blowups, and policymakers are starting to worry, writes WSJ’s @jmackin2",
+    "link": "https://www.wsj.com/economy/central-banking/central-banks-are-stuck-in-a-rinse-and-repeat-cycle-of-crises-47da47e9?mod=rss_socialeconomyfeed"
   }
 ]
