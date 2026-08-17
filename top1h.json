@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 22,
+    "pubdate": "2026-08-17-00-20-54 +0000",
+    "source": "wapo",
+    "headline": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
+    "link": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-17-01-13-14 +0000",
+    "source": "nyt",
+    "headline": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+    "link": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-17-00-20-51 +0000",
+    "source": "bbc",
+    "headline": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-17-00-36-10 +0000",
+    "source": "nypost",
+    "headline": "Robert Downey Jr. honors Bob Iger in 4-word sentiment at D23 as ex-Disney boss takes Lakers reigns",
+    "link": "https://nypost.com/2026/08/16/entertainment/robert-downey-jr-honors-bob-iger-in-4-word-sentiment-at-d23/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-17-01-15-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Prices Mixed; May Be Buoyed Amid Deadlock in U.S.-Iran Talks",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-may-be-buoyed-amid-deadlock-in-u-s-iran-talks-384320a7?mod=rss_markets_main"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-17-00-30-25 +0000",
+    "source": "nypost",
+    "headline": "Chinese prof blasts LA on Piers Morgan show, apologizes to home country after witnessing ‘dystopian’ nightmare",
+    "link": "https://nypost.com/2026/08/16/us-news/professor-jiang-xueqin-blasts-la-on-piers-morgan-show-apologizes-to-china/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-08-17-00-38-04 +0000",
+    "source": "startribune",
+    "headline": "Vikings’ Jamal Adams is out for the season after suffering knee injury in preseason game",
+    "link": "https://www.startribune.com/minnesota-vikings-jamal-adams-injury-right-knee-out-for-2026-nfl-season-harrison-smith/601879335"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-08-17-00-29-27 +0000",
+    "source": "chitri",
+    "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+    "link": "https://www.chicagotribune.com/2026/08/16/ukraine-attack/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-17-00-55-00 +0000",
+    "source": "wsj",
+    "headline": "Nikkei Rises 0.5%; Weaker 2Q GDP Growth Could Prompt a BOJ Hold",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-5-weaker-2q-gdp-growth-could-prompt-a-boj-hold-0871a0ea?mod=rss_markets_main"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-17-00-41-27 +0000",
+    "source": "wapo",
+    "headline": "U.S. commander calls mental health a priority after he visits USS Lincoln",
+    "link": "https://www.washingtonpost.com/world/2026/08/16/us-commander-calls-mental-health-priority-after-he-visits-uss-lincoln/"
+  }
+]
