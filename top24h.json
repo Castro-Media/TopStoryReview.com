@@ -1,17 +1,10 @@
 [
   {
-    "score": 139,
-    "pubdate": "2026-08-17-02-51-27 +0000",
+    "score": 142,
+    "pubdate": "2026-08-17-05-06-47 +0000",
     "source": "bbc",
-    "headline": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+    "headline": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
     "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 59,
-    "pubdate": "2026-08-16-19-58-14 +0000",
-    "source": "bbc",
-    "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 57,
@@ -21,6 +14,13 @@
     "link": "https://nypost.com/2026/08/16/world-news/iranians-set-to-face-harsh-prison-sentences-for-telling-the-world-whats-happening-inside-their-country-under-new-law/"
   },
   {
+    "score": 56,
+    "pubdate": "2026-08-17-04-50-56 +0000",
+    "source": "bbc",
+    "headline": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+    "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 52,
     "pubdate": "2026-08-16-15-00-00 +0000",
     "source": "wsj",
@@ -28,14 +28,14 @@
     "link": "https://www.wsj.com/politics/policy/trumps-ballroom-was-his-dream-of-beauty-and-space-now-its-a-military-complex-89a7e230?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 47,
-    "pubdate": "2026-08-16-19-56-39 +0000",
-    "source": "nypost",
-    "headline": "Gavin Newsom wildfire plan faces revolt over warning it will spike insurance rates across California",
-    "link": "https://nypost.com/2026/08/16/us-news/gavin-newsom-wildfire-plan-faces-revolt-over-warning-it-will-skyrocket-insurance-rates-across-california/"
+    "score": 36,
+    "pubdate": "2026-08-17-02-43-27 +0000",
+    "source": "nyt",
+    "headline": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
+    "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html"
   },
   {
-    "score": 35,
+    "score": 36,
     "pubdate": "2026-08-16-10-51-59 +0000",
     "source": "nypost",
     "headline": "Four Renaissance paintings of ‘extraordinary value’ swiped from museum in brazen art heist",
@@ -43,17 +43,17 @@
   },
   {
     "score": 35,
-    "pubdate": "2026-08-16-19-03-04 +0000",
-    "source": "bbc",
-    "headline": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-08-16-19-56-39 +0000",
+    "source": "nypost",
+    "headline": "Gavin Newsom wildfire plan faces revolt over warning it will spike insurance rates across California",
+    "link": "https://nypost.com/2026/08/16/us-news/gavin-newsom-wildfire-plan-faces-revolt-over-warning-it-will-skyrocket-insurance-rates-across-california/"
   },
   {
     "score": 33,
-    "pubdate": "2026-08-17-02-43-27 +0000",
-    "source": "nyt",
-    "headline": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
-    "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html"
+    "pubdate": "2026-08-17-02-25-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said he would “substantially reduce” joint military exercises with South Korea, touting his “very good relationship” with North Korean leader Kim Jong Un",
+    "link": "https://www.wsj.com/politics/national-security/trump-orders-cuts-to-u-s-south-korea-military-drills-2bc63cec?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 32,
@@ -64,9 +64,9 @@
   },
   {
     "score": 31,
-    "pubdate": "2026-08-16-20-26-22 +0000",
-    "source": "nypost",
-    "headline": "Iran betting it can outlast Trump if Dems take Congress, Gingrich says: ‘Trying to win in America politically’ like North Vietnam",
-    "link": "https://nypost.com/2026/08/16/us-news/iran-betting-it-can-outlast-trump-if-dems-take-congress-gingrich-says/"
+    "pubdate": "2026-08-17-00-29-27 +0000",
+    "source": "chitri",
+    "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+    "link": "https://www.chicagotribune.com/2026/08/16/ukraine-attack/"
   }
 ]
