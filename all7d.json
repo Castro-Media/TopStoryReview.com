@@ -1,45 +1,195 @@
 [
   {
-    "headline": "Cory Mills Loses Republican Primary Amid Assault Allegations and Ethics Investigation",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html",
+    "headline": "Angie Nixon Scores Upset Win in Florida Senate Primary",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-democratic-senate-primary-results.html",
     "source": "nyt",
-    "pubdate": "2026-08-19-01-14-46 +0000"
+    "pubdate": "2026-08-19-02-13-59 +0000"
   },
   {
-    "headline": "‘Outstanding’ Minnesota refugee once honored by the state faces charges in $4.5M Medicaid, sex trafficking scheme",
-    "link": "https://nypost.com/2026/08/18/us-news/outstanding-minnesota-refugee-faces-charges-in-4-5m-medicaid-sex-trafficking-scheme/",
-    "source": "nypost",
-    "pubdate": "2026-08-19-01-14-13 +0000"
-  },
-  {
-    "headline": "Florida Media Mogul Wins G.O.P. Primary to Replace Byron Donalds in House",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-republican-primary-19-district.html",
+    "headline": "Angie Nixon Scores Upset Win in Florida Senate Primary",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-democratic-senate-primary-results.html",
     "source": "nyt",
-    "pubdate": "2026-08-19-01-14-10 +0000"
+    "pubdate": "2026-08-19-02-13-59 +0000"
   },
   {
     "headline": "Rep. Byron Donalds, President Trump’s staunch ally, cruised to victory in the Republican contest in Florida to succeed Gov. Ron DeSantis",
     "link": "https://www.wsj.com/politics/elections/florida-primary-election-results-ee13ff09?mod=rss_socialpoliticsfeed",
     "source": "wsj",
-    "pubdate": "2026-08-19-01-12-00 +0000"
+    "pubdate": "2026-08-19-02-11-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-08-19-02-10-54 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-08-19-02-10-54 +0000"
+  },
+  {
+    "headline": "Chinese robotics giant Unitree soars in stock market debut",
+    "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-19-02-09-46 +0000"
+  },
+  {
+    "headline": "Chinese robotics giant Unitree soars in stock market debut",
+    "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-19-02-09-46 +0000"
+  },
+  {
+    "headline": "Grieving parents confront Meta outside California courtroom: ‘My son was killed’",
+    "link": "https://nypost.com/2026/08/18/us-news/meta-faces-legal-battle-in-oakland-as-states-sue-over-teen-use/",
+    "source": "nypost",
+    "pubdate": "2026-08-19-02-09-07 +0000"
+  },
+  {
+    "headline": "Kiev, 1911: the Bund, revolution, and a sparkling work of historical fiction",
+    "link": "https://48hills.org/2026/08/kiev-1911-the-bund-revolution-and-a-sparkling-work-of-historical-fiction/",
+    "source": "48hills",
+    "pubdate": "2026-08-19-02-05-37 +0000"
+  },
+  {
+    "headline": "Cory Mills Loses Republican Primary Amid Assault Allegations and Ethics Investigation",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html",
+    "source": "nyt",
+    "pubdate": "2026-08-19-02-04-31 +0000"
+  },
+  {
+    "headline": "Cory Mills Loses Republican Primary Amid Assault Allegations and Ethics Investigation",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html",
+    "source": "nyt",
+    "pubdate": "2026-08-19-02-04-31 +0000"
+  },
+  {
+    "headline": "Suspended Reform UK member vows to fight to remain in party",
+    "link": "https://www.bbc.co.uk/news/articles/c4gd1mez8zvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-19-02-03-25 +0000"
+  },
+  {
+    "headline": "Congo’s rapid Ebola outbreak is now most fatal in nation’s history with over 2,300 deaths, government says",
+    "link": "https://nypost.com/2026/08/18/world-news/congos-rapid-ebola-outbreak-is-now-deadliest-in-nations-history/",
+    "source": "nypost",
+    "pubdate": "2026-08-19-02-00-15 +0000"
+  },
+  {
+    "headline": "The Tiny Spanish Territory of Ceuta Is Grappling With a New Migrant Crisis",
+    "link": "https://www.wsj.com/world/europe/the-tiny-spanish-territory-of-ceuta-is-grappling-with-a-new-migrant-crisis-5762ebb9?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-08-19-02-00-00 +0000"
+  },
+  {
+    "headline": "The Tiny Spanish Territory of Ceuta Is Grappling With a New Migrant Crisis",
+    "link": "https://www.wsj.com/world/europe/the-tiny-spanish-territory-of-ceuta-is-grappling-with-a-new-migrant-crisis-5762ebb9?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-08-19-02-00-00 +0000"
+  },
+  {
+    "headline": "Harvard Agrees to $53 Million Settlement in Body Part Theft Scandal",
+    "link": "https://www.nytimes.com/2026/08/18/us/harvard-stolen-body-parts-settlement.html",
+    "source": "nyt",
+    "pubdate": "2026-08-19-01-55-17 +0000"
+  },
+  {
+    "headline": "SoCal car thieves targeting two types of vehicles amid rash of thefts",
+    "link": "https://nypost.com/2026/08/18/us-news/manhattan-beach-sees-uptick-in-two-type-of-vehicle-thefts/",
+    "source": "nypost",
+    "pubdate": "2026-08-19-01-55-15 +0000"
+  },
+  {
+    "headline": "President Trump has selected one of his top White House health aides, Dr. Heidi Overton, as his next choice to lead the Food and Drug Administration",
+    "link": "https://www.wsj.com/politics/trump-taps-dr-heidi-overton-to-lead-fda-3b374dd5?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-08-19-01-43-00 +0000"
+  },
+  {
+    "headline": "Australian Dollar Weighed by AI Stock Weakness, Higher Bond Yields",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-worsening-risk-appetite-52a13036?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-19-01-38-00 +0000"
+  },
+  {
+    "headline": "Natalie Harp, Trump’s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html",
+    "source": "nyt",
+    "pubdate": "2026-08-19-01-36-14 +0000"
+  },
+  {
+    "headline": "Natalie Harp, Trump’s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html",
+    "source": "nyt",
+    "pubdate": "2026-08-19-01-36-14 +0000"
+  },
+  {
+    "headline": "Byron Donalds Wins Republican Nomination for Florida Governor",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html",
+    "source": "nyt",
+    "pubdate": "2026-08-19-01-35-19 +0000"
+  },
+  {
+    "headline": "Byron Donalds Wins Republican Nomination for Florida Governor",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html",
+    "source": "nyt",
+    "pubdate": "2026-08-19-01-35-19 +0000"
+  },
+  {
+    "headline": "Sacked Ukrainian defence minister calls for presidential election",
+    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-19-01-31-15 +0000"
+  },
+  {
+    "headline": "Natalie Harp has emerged as one of Trump’s most influential aides, drawing scrutiny from Democrats and conservatives alike",
+    "link": "https://www.wsj.com/politics/policy/who-is-natalie-harp-trump-aide-c11634c3?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-08-19-01-27-00 +0000"
+  },
+  {
+    "headline": "Former Republican David Jolly Wins Democratic Nomination for Florida Governor",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/david-jolly-florida-governor-democratic-primary.html",
+    "source": "nyt",
+    "pubdate": "2026-08-19-01-23-48 +0000"
+  },
+  {
+    "headline": "Former Republican David Jolly Wins Democratic Nomination for Florida Governor",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/david-jolly-florida-governor-democratic-primary.html",
+    "source": "nyt",
+    "pubdate": "2026-08-19-01-23-48 +0000"
+  },
+  {
+    "headline": "California drivers, business owners ‘in hell’ over new tire regulations",
+    "link": "https://nypost.com/2026/08/18/us-news/california-business-owners-drivers-fume-at-new-tire-rules/",
+    "source": "nypost",
+    "pubdate": "2026-08-19-01-22-10 +0000"
+  },
+  {
+    "headline": "‘Outstanding’ Minnesota refugee from Somalia once honored by the state faces charges in $4.5M Medicaid, sex-trafficking scheme",
+    "link": "https://nypost.com/2026/08/18/us-news/outstanding-minnesota-refugee-faces-charges-in-4-5m-medicaid-sex-trafficking-scheme/",
+    "source": "nypost",
+    "pubdate": "2026-08-19-01-14-13 +0000"
+  },
+  {
+    "headline": "Florida Media Mogul Jim Schwartzel Wins Republican House Primary to Replace Byron Donalds",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-republican-primary-19-district.html",
+    "source": "nyt",
+    "pubdate": "2026-08-19-01-14-10 +0000"
+  },
+  {
+    "headline": "Florida Media Mogul Jim Schwartzel Wins Republican House Primary to Replace Byron Donalds",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-republican-primary-19-district.html",
+    "source": "nyt",
+    "pubdate": "2026-08-19-01-14-10 +0000"
   },
   {
     "headline": "Former Compton gangster ‘Mob James’ refuses to rat out old enemy in Tupac Shakur murder trial",
     "link": "https://nypost.com/2026/08/18/entertainment/former-gangster-mob-james-refuses-to-rat-out-old-enemy-in-tupac-shakur-murder-trial/",
     "source": "nypost",
     "pubdate": "2026-08-19-01-08-23 +0000"
-  },
-  {
-    "headline": "Angie Nixon Scores Upset Win in Florida Senate Primary",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-democratic-senate-primary-results.html",
-    "source": "nyt",
-    "pubdate": "2026-08-19-01-04-24 +0000"
-  },
-  {
-    "headline": "Angie Nixon Scores Upset Win in Florida Senate Primary",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-democratic-senate-primary-results.html",
-    "source": "nyt",
-    "pubdate": "2026-08-19-01-04-24 +0000"
   },
   {
     "headline": "Big Food Is Fighting to Tempt Taste Buds in the Era of Weight-Loss Drugs",
@@ -52,12 +202,6 @@
     "link": "https://www.wsj.com/business/the-cast-iron-company-that-has-been-controlled-by-the-same-family-for-130-years-c3b55239?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-19-01-00-00 +0000"
-  },
-  {
-    "headline": "Asian Currencies Consolidate; May be Weighed by Worsening Risk Appetite",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-worsening-risk-appetite-52a13036?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-19-00-59-00 +0000"
   },
   {
     "headline": "‘Armed and dangerous’ Mass. wife wanted over death of veteran police officer husband",
@@ -94,18 +238,6 @@
     "link": "https://www.cbc.ca/news/world/meta-trial-opens-instagram-facebook-9.7311852?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-08-19-00-54-47 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-08-19-00-54-23 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-08-19-00-54-23 +0000"
   },
   {
     "headline": "5 Things to Know About Angie Nixon, Democratic Senate Candidate in Florida",
@@ -150,18 +282,6 @@
     "pubdate": "2026-08-19-00-37-05 +0000"
   },
   {
-    "headline": "Former Republican David Jolly Wins Democratic Nomination for Florida Governor",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/david-jolly-florida-governor-democratic-primary.html",
-    "source": "nyt",
-    "pubdate": "2026-08-19-00-36-23 +0000"
-  },
-  {
-    "headline": "Former Republican David Jolly Wins Democratic Nomination for Florida Governor",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/david-jolly-florida-governor-democratic-primary.html",
-    "source": "nyt",
-    "pubdate": "2026-08-19-00-36-23 +0000"
-  },
-  {
     "headline": "Teen found dead with suspicious injuries, signs of possible malnourishment inside NYC home: sources",
     "link": "https://nypost.com/2026/08/18/us-news/teen-found-dead-with-suspicious-injuries-signs-of-possible-malnourishment-in-nyc-home-sources/",
     "source": "nypost",
@@ -180,7 +300,7 @@
     "pubdate": "2026-08-19-00-33-31 +0000"
   },
   {
-    "headline": "US Rep Byron Donalds wins GOP nod for Florida governor, former Rep. David Jolly gets Democratic nomination",
+    "headline": "US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats",
     "link": "https://www.chicagotribune.com/2026/08/18/byron-donalds-david-jolly-florida-governor/",
     "source": "chitri",
     "pubdate": "2026-08-19-00-33-29 +0000"
@@ -240,18 +360,6 @@
     "pubdate": "2026-08-19-00-23-00 +0000"
   },
   {
-    "headline": "Byron Donalds Wins Republican Nomination for Florida Governor",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html",
-    "source": "nyt",
-    "pubdate": "2026-08-19-00-22-32 +0000"
-  },
-  {
-    "headline": "Byron Donalds Wins Republican Nomination for Florida Governor",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html",
-    "source": "nyt",
-    "pubdate": "2026-08-19-00-22-32 +0000"
-  },
-  {
     "headline": "Trump Ally Scott Singer Wins Republican Primary in Florida’s 25th District",
     "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-republican-primary-25-district.html",
     "source": "nyt",
@@ -304,12 +412,6 @@
     "link": "https://www.washingtonpost.com/politics/2026/08/18/rep-cory-mills-is-running-his-florida-primary-under-an-ethical-cloud/",
     "source": "wapo",
     "pubdate": "2026-08-19-00-09-50 +0000"
-  },
-  {
-    "headline": "Cory Mills Loses Republican Primary Amid Assault Allegations and Ethics Investigation",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html",
-    "source": "nyt",
-    "pubdate": "2026-08-19-00-09-49 +0000"
   },
   {
     "headline": "5 Things to Know About Ashley Moody, Republican Senate Candidate in Florida",
@@ -408,12 +510,6 @@
     "pubdate": "2026-08-18-23-43-46 +0000"
   },
   {
-    "headline": "Anti-rich DSA leader Gustavo Gordillo lives it up in posh $1.5M NYC pad paid for by millionaire parents",
-    "link": "https://nypost.com/2026/08/18/us-news/dsa-leader-gustavo-gordillo-lives-in-1-5-million-brooklyn-pad-paid-for-by-millionaire-parents/",
-    "source": "nypost",
-    "pubdate": "2026-08-18-23-40-50 +0000"
-  },
-  {
     "headline": "In Florida, several House primaries are worth watching.",
     "link": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/in-florida-several-house-primaries-are-worth-watching",
     "source": "nyt",
@@ -438,12 +534,6 @@
     "pubdate": "2026-08-18-23-30-57 +0000"
   },
   {
-    "headline": "Rep. Debbie Wasserman Schultz wins Florida House primary over indicted Dem Sheila Cherfilis-McCormick",
-    "link": "https://nypost.com/2026/08/18/us-news/rep-debbie-wasserman-schultz-wins-florida-house-primary-over-indicted-dem-sheila-cherfilis-mccormick/",
-    "source": "nypost",
-    "pubdate": "2026-08-18-23-30-57 +0000"
-  },
-  {
     "headline": "Trump revives unverified claims of noncitizen voting in 2020",
     "link": "https://www.washingtonpost.com/politics/2026/08/18/trump-revives-unverified-claims-noncitizen-voting-2020/",
     "source": "wapo",
@@ -456,20 +546,8 @@
     "pubdate": "2026-08-18-23-29-20 +0000"
   },
   {
-    "headline": "Judge Releases Woman Accused of Vandalizing World War II Memorial",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/wwii-memorial-vandalism-trump-pirro.html",
-    "source": "nyt",
-    "pubdate": "2026-08-18-23-29-20 +0000"
-  },
-  {
     "headline": "American Airlines will outfit narrow-body jets with more premium seats — a major strategic bet on high-spending travelers",
     "link": "https://nypost.com/2026/08/18/lifestyle/american-airlines-to-outfit-narrowbody-jets-with-more-premium-seats-betting-on-high-spending-travelers/",
-    "source": "nypost",
-    "pubdate": "2026-08-18-23-27-15 +0000"
-  },
-  {
-    "headline": "Lindsay Clancy told hubby in bone-chilling call that male voice instructed her to ‘kill her children and kill herself’: testimony",
-    "link": "https://nypost.com/2026/08/18/us-news/lindsay-clancy-said-she-heard-male-voice-telling-her-to-kill-her-children-and-kill-herself-testimony/",
     "source": "nypost",
     "pubdate": "2026-08-18-23-27-15 +0000"
   },
@@ -1746,12 +1824,6 @@
     "pubdate": "2026-08-18-17-23-35 +0000"
   },
   {
-    "headline": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
-    "link": "https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html",
-    "source": "nyt",
-    "pubdate": "2026-08-18-17-17-12 +0000"
-  },
-  {
     "headline": "Earthquake rocks Spain's historic Granada, injuring three",
     "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2118,12 +2190,6 @@
     "pubdate": "2026-08-18-14-21-08 +0000"
   },
   {
-    "headline": "Treasury Yields Cool Down From Early Highs",
-    "link": "https://www.wsj.com/finance/jgbs-fall-amid-expectations-for-faster-pace-of-boj-rate-increases-1895b06c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-18-14-17-00 +0000"
-  },
-  {
     "headline": "Residents on Hawaii’s Big Island Look to Help One Another After Hurricane Lala",
     "link": "https://www.nytimes.com/2026/08/18/us/hawaii-hurricane-lala-community-relief.html",
     "source": "nyt",
@@ -2314,12 +2380,6 @@
     "link": "https://www.chicagotribune.com/2026/08/18/redistricting-scrambles-florida/",
     "source": "chitri",
     "pubdate": "2026-08-18-12-37-01 +0000"
-  },
-  {
-    "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-    "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-18-12-36-11 +0000"
   },
   {
     "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
@@ -3012,12 +3072,6 @@
     "pubdate": "2026-08-18-02-09-00 +0000"
   },
   {
-    "headline": "Hegseth Campaigns for Republican Zach Nunn in Iowa",
-    "link": "https://www.nytimes.com/2026/08/17/us/politics/hegseth-iowa-campaign-nunn.html",
-    "source": "nyt",
-    "pubdate": "2026-08-18-02-01-33 +0000"
-  },
-  {
     "headline": "Billionaires open the purse to fight California wealth tax",
     "link": "https://www.latimes.com/california/story/2026-08-17/billionaires-open-purse-to-fight-california-wealth-tax",
     "source": "latimes",
@@ -3058,12 +3112,6 @@
     "link": "https://www.latimes.com/california/story/2026-08-17/uc-santa-cruz-student-victim-car-plunges-off-cliff-into-ocean",
     "source": "latimes",
     "pubdate": "2026-08-18-01-39-59 +0000"
-  },
-  {
-    "headline": "U.S. Airman Says He Would Accept Punishment for Protesting Iran War",
-    "link": "https://www.nytimes.com/2026/08/17/us/politics/us-airman-trump-impeach-iran.html",
-    "source": "nyt",
-    "pubdate": "2026-08-18-01-34-19 +0000"
   },
   {
     "headline": "Judge delays Mangione’s state trial after lawyers sought dismissal",
@@ -3892,12 +3940,6 @@
     "link": "https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-17-14-51-19 +0000"
-  },
-  {
-    "headline": "US tourist struck by lightning, dies hiking active volcano in Italy",
-    "link": "https://nypost.com/2026/08/17/world-news/tourist-dies-from-lightning-strike-on-active-italy-volcano/",
-    "source": "nypost",
-    "pubdate": "2026-08-17-14-47-44 +0000"
   },
   {
     "headline": "Canada Inflation Heats Up to 3% in July",
@@ -4854,14 +4896,14 @@
     "pubdate": "2026-08-16-10-00-15 +0000"
   },
   {
-    "headline": "Trump turns to containing the fallout from setbacks in Iran",
-    "link": "https://www.latimes.com/politics/story/2026-08-16/trump-turns-to-containing-fallout-from-setbacks-in-iran",
+    "headline": "Inside the bitter war over cows and wilderness at Point Reyes",
+    "link": "https://www.latimes.com/environment/story/2026-08-16/inside-bitter-war-over-cows-wilderness-at-point-reyes",
     "source": "latimes",
     "pubdate": "2026-08-16-10-00-00 +0000"
   },
   {
-    "headline": "Inside the bitter war over cows and wilderness at Point Reyes",
-    "link": "https://www.latimes.com/environment/story/2026-08-16/inside-bitter-war-over-cows-wilderness-at-point-reyes",
+    "headline": "Trump turns to containing the fallout from setbacks in Iran",
+    "link": "https://www.latimes.com/politics/story/2026-08-16/trump-turns-to-containing-fallout-from-setbacks-in-iran",
     "source": "latimes",
     "pubdate": "2026-08-16-10-00-00 +0000"
   },
@@ -4878,12 +4920,6 @@
     "pubdate": "2026-08-16-10-00-00 +0000"
   },
   {
-    "headline": "Inside the bitter war over cows and wilderness at Point Reyes",
-    "link": "https://www.latimes.com/environment/story/2026-08-16/inside-bitter-war-over-cows-wilderness-at-point-reyes",
-    "source": "latimes",
-    "pubdate": "2026-08-16-10-00-00 +0000"
-  },
-  {
     "headline": "California planned a nuclear exit. Now it's reconsidering",
     "link": "https://www.latimes.com/environment/story/2026-08-16/california-planned-nuclear-exit-now-its-reconsidering",
     "source": "latimes",
@@ -4892,6 +4928,12 @@
   {
     "headline": "Are mosquitoes, ticks and fleas turning California into a disease hotspot?",
     "link": "https://www.latimes.com/science/story/2026-08-16/insects-ticks-coming-for-us",
+    "source": "latimes",
+    "pubdate": "2026-08-16-10-00-00 +0000"
+  },
+  {
+    "headline": "Inside the bitter war over cows and wilderness at Point Reyes",
+    "link": "https://www.latimes.com/environment/story/2026-08-16/inside-bitter-war-over-cows-wilderness-at-point-reyes",
     "source": "latimes",
     "pubdate": "2026-08-16-10-00-00 +0000"
   },
@@ -5238,6 +5280,12 @@
     "pubdate": "2026-08-15-16-06-00 +0000"
   },
   {
+    "headline": "How a ‘Texas Hedge’ Amplified the Losses at Situational Awareness",
+    "link": "https://www.wsj.com/finance/investing/the-risk-amplifying-strategy-that-led-to-big-losses-at-situational-awareness-9e033786?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-15-16-03-00 +0000"
+  },
+  {
     "headline": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
     "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
     "source": "nyt",
@@ -5340,14 +5388,14 @@
     "pubdate": "2026-08-15-10-00-00 +0000"
   },
   {
-    "headline": "California defends childhood vaccination schedule against Trump efforts to weaken it",
-    "link": "https://www.latimes.com/california/story/2026-08-15/california-defends-childhood-vaccination-schedule-against-trump-efforts-to-weaken-it",
+    "headline": "California Uber and Lyft drivers' union could be certified in less than 30 days",
+    "link": "https://www.latimes.com/business/story/2026-08-15/california-uber-lyft-drivers-union-could-be-certified-in-less-than-30-days",
     "source": "latimes",
     "pubdate": "2026-08-15-10-00-00 +0000"
   },
   {
-    "headline": "California Uber and Lyft drivers' union could be certified in less than 30 days",
-    "link": "https://www.latimes.com/business/story/2026-08-15/california-uber-lyft-drivers-union-could-be-certified-in-less-than-30-days",
+    "headline": "California defends childhood vaccination schedule against Trump efforts to weaken it",
+    "link": "https://www.latimes.com/california/story/2026-08-15/california-defends-childhood-vaccination-schedule-against-trump-efforts-to-weaken-it",
     "source": "latimes",
     "pubdate": "2026-08-15-10-00-00 +0000"
   },
@@ -5442,12 +5490,6 @@
     "pubdate": "2026-08-15-03-58-31 +0000"
   },
   {
-    "headline": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-    "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-15-03-58-31 +0000"
-  },
-  {
     "headline": "500,000 Applicants, 583 Jobs: The Frantic Scramble for Work in India",
     "link": "https://www.wsj.com/world/india/500-000-applicants-583-jobs-the-frantic-scramble-for-work-in-india-0fefa2b3?mod=rss_worldnews",
     "source": "wsj",
@@ -5494,12 +5536,6 @@
     "link": "https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html",
     "source": "nyt",
     "pubdate": "2026-08-15-00-16-41 +0000"
-  },
-  {
-    "headline": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
-    "link": "https://www.bbc.co.uk/news/articles/c74gdgly3g3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-15-00-01-44 +0000"
   },
   {
     "headline": "The Other Kushner Steps Into the Spotlight With $12.5 Billion Lakers Deal",
@@ -5844,12 +5880,6 @@
     "pubdate": "2026-08-14-18-01-30 +0000"
   },
   {
-    "headline": "Trump Administration Asks Supreme Court to Allow Ballroom Construction",
-    "link": "https://www.wsj.com/us-news/law/trump-administration-asks-supreme-court-to-allow-ballroom-construction-f4de1045?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-08-14-18-00-00 +0000"
-  },
-  {
     "headline": "July Retail Sales Notch Biggest Drop in Over a Year",
     "link": "https://www.nytimes.com/2026/08/14/business/retail-sales-july.html",
     "source": "nyt",
@@ -6114,12 +6144,6 @@
     "pubdate": "2026-08-14-11-15-00 +0000"
   },
   {
-    "headline": "Hakeem Jeffries is setting sights on the Supreme Court. Read more in today’s WSJ Politics newsletter:",
-    "link": "https://www.wsj.com/politics/policy/how-hakeem-jeffries-could-try-and-tackle-the-supreme-court-6b06fb49?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-08-14-11-00-00 +0000"
-  },
-  {
     "headline": "Businesses Are Spending Big on Quantum",
     "link": "https://www.wsj.com/tech/businesses-are-spending-big-on-quantum-c73060ad?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -6198,14 +6222,14 @@
     "pubdate": "2026-08-14-10-00-00 +0000"
   },
   {
-    "headline": "Summer is now California's COVID busy season as winter waves fade",
-    "link": "https://www.latimes.com/california/story/2026-08-14/covid-becoming-california-summer-staple-as-winter-outbreaks-fade",
+    "headline": "A 15-year-old killed Pop Smoke — then got caught smuggling fentanyl into juvenile hall",
+    "link": "https://www.latimes.com/california/story/2026-08-14/teen-gunman-rapper-pop-smoke-fentanyl-juvenile-hall",
     "source": "latimes",
     "pubdate": "2026-08-14-10-00-00 +0000"
   },
   {
-    "headline": "A 15-year-old killed Pop Smoke — then got caught smuggling fentanyl into juvenile hall",
-    "link": "https://www.latimes.com/california/story/2026-08-14/teen-gunman-rapper-pop-smoke-fentanyl-juvenile-hall",
+    "headline": "Summer is now California's COVID busy season as winter waves fade",
+    "link": "https://www.latimes.com/california/story/2026-08-14/covid-becoming-california-summer-staple-as-winter-outbreaks-fade",
     "source": "latimes",
     "pubdate": "2026-08-14-10-00-00 +0000"
   },
@@ -6220,12 +6244,6 @@
     "link": "https://www.wsj.com/economy/trade/white-house-says-china-avoids-billions-in-tariffs-by-rerouting-goods-3c4c972f?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-08-14-09-41-00 +0000"
-  },
-  {
-    "headline": "The White House’s demand for a crackdown targeting Medicare and other taxpayer programs is setting off a turf war in the Justice Department",
-    "link": "https://www.wsj.com/politics/policy/trumps-fraud-squad-is-hobbled-by-internal-strife-49a7e4b9?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-08-14-09-30-00 +0000"
   },
   {
     "headline": "How Big Tech’s Earnings Are Inflated by Other Tech Companies",
@@ -6256,12 +6274,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-14-08-18-02 +0000"
-  },
-  {
-    "headline": "Delhi's unusual challenge: Keeping monkeys and pigeons away from top badminton event",
-    "link": "https://www.bbc.co.uk/news/articles/cq561z4z6qxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-14-08-17-23 +0000"
   },
   {
     "headline": "Has the by-election changed things for Clacton?",
@@ -6894,12 +6906,6 @@
     "pubdate": "2026-08-13-10-00-00 +0000"
   },
   {
-    "headline": "Becerra holds strong lead over Hilton in race for California governor, new poll shows",
-    "link": "https://www.latimes.com/california/story/2026-08-13/becerra-holds-strong-lead-over-hilton-in-race-for-california-governor-poll",
-    "source": "latimes",
-    "pubdate": "2026-08-13-10-00-00 +0000"
-  },
-  {
     "headline": "Relentless cycle of disaster has Big Sur in crisis again: 'You really have to fight to be here'",
     "link": "https://www.latimes.com/california/story/2026-08-13/relentless-cycle-of-disaster-has-big-sur-in-crisis-again-you-really-have-to-fight-to-be-here",
     "source": "latimes",
@@ -6908,6 +6914,12 @@
   {
     "headline": "More and more wealthy Californians are seeking 'golden visa' residency outside the U.S.",
     "link": "https://www.latimes.com/california/story/2026-08-13/more-more-wealthy-californians-are-seeking-golden-visa-residency-outside-u-s",
+    "source": "latimes",
+    "pubdate": "2026-08-13-10-00-00 +0000"
+  },
+  {
+    "headline": "Becerra holds strong lead over Hilton in race for California governor, new poll shows",
+    "link": "https://www.latimes.com/california/story/2026-08-13/becerra-holds-strong-lead-over-hilton-in-race-for-california-governor-poll",
     "source": "latimes",
     "pubdate": "2026-08-13-10-00-00 +0000"
   },
@@ -7036,12 +7048,6 @@
     "link": "https://www.chicagotribune.com/2026/08/12/illinois-state-fair-butter-cow/",
     "source": "chitri",
     "pubdate": "2026-08-12-23-28-31 +0000"
-  },
-  {
-    "headline": "Under the Stars: The Womack Sisters’ debut album heralds arrival of a new soul generation",
-    "link": "https://48hills.org/2026/08/under-the-stars-the-womack-sisters-debut-album-heralds-arrival-of-a-new-soul-generation/",
-    "source": "48hills",
-    "pubdate": "2026-08-12-23-24-35 +0000"
   },
   {
     "headline": "Ayra Starr on her secret relationship and teasing Stevie Wonder",
@@ -7192,12 +7198,6 @@
     "link": "https://www.latimes.com/california/story/2026-08-12/ailing-mlk-hospital-to-receive-25-million-grant-from-kaiser-permanente",
     "source": "latimes",
     "pubdate": "2026-08-12-19-08-50 +0000"
-  },
-  {
-    "headline": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
-    "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-12-19-05-38 +0000"
   },
   {
     "headline": "Brinker Forecasts Continued Growth on Chili’s Momentum",
@@ -7428,6 +7428,12 @@
     "pubdate": "2026-08-12-10-00-01 +0000"
   },
   {
+    "headline": "Senator 'deeply troubled' by utility threats",
+    "link": "https://www.latimes.com/business/story/2026-08-12/senator-deeply-troubled-by-utility-threats",
+    "source": "latimes",
+    "pubdate": "2026-08-12-10-00-00 +0000"
+  },
+  {
     "headline": "As Americans bet on elections, L.A. officials weigh how to safeguard voters",
     "link": "https://www.latimes.com/politics/story/2026-08-12/prediction-market-bets-on-elections-la-officials-ban-to-safeguard-voters",
     "source": "latimes",
@@ -7436,12 +7442,6 @@
   {
     "headline": "Inside David Ellison's desperate fight for Warner Bros.",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-12/inside-david-ellisons-desperate-fight-for-warner-bros",
-    "source": "latimes",
-    "pubdate": "2026-08-12-10-00-00 +0000"
-  },
-  {
-    "headline": "Senator 'deeply troubled' by utility threats",
-    "link": "https://www.latimes.com/business/story/2026-08-12/senator-deeply-troubled-by-utility-threats",
     "source": "latimes",
     "pubdate": "2026-08-12-10-00-00 +0000"
   },
@@ -7488,26 +7488,20 @@
     "pubdate": "2026-08-12-10-00-00 +0000"
   },
   {
-    "headline": "Prosecutors seek death penalty for SoCal woman accused of fatally starving adopted daughter",
-    "link": "https://www.latimes.com/california/story/2026-08-12/death-penalty-sought-against-socal-woman-accused-of-murdering-daughter",
+    "headline": "Why we've become so suspicious of people who lose weight. John Goodman's trending moment",
+    "link": "https://www.latimes.com/california/story/2026-08-12/why-weve-become-so-suspicious-of-people-who-lose-weight",
     "source": "latimes",
     "pubdate": "2026-08-12-10-00-00 +0000"
   },
   {
-    "headline": "Senator 'deeply troubled' by utility threats",
-    "link": "https://www.latimes.com/business/story/2026-08-12/senator-deeply-troubled-by-utility-threats",
+    "headline": "As Americans bet on elections, L.A. officials weigh how to safeguard voters",
+    "link": "https://www.latimes.com/politics/story/2026-08-12/prediction-market-bets-on-elections-la-officials-ban-to-safeguard-voters",
     "source": "latimes",
     "pubdate": "2026-08-12-10-00-00 +0000"
   },
   {
     "headline": "435 arrests, $12 million in OT, few lessons learned: LAPD issues report on ICE protests",
     "link": "https://www.latimes.com/california/story/2026-08-12/lapd-police-commission-report-ice-protests",
-    "source": "latimes",
-    "pubdate": "2026-08-12-10-00-00 +0000"
-  },
-  {
-    "headline": "LAUSD's first day of school: New algebra books, looming layoffs and putrid odors",
-    "link": "https://www.latimes.com/california/story/2026-08-12/lausd-first-day-of-school-layoffs-budget-deficit",
     "source": "latimes",
     "pubdate": "2026-08-12-10-00-00 +0000"
   },
@@ -7558,17 +7552,5 @@
     "link": "https://www.chicagotribune.com/2026/08/11/democratic-socialist-wisconsin-primary/",
     "source": "chitri",
     "pubdate": "2026-08-12-03-01-18 +0000"
-  },
-  {
-    "headline": "President Trump says advisers wanted him off Air Force One in Turkey due to threat",
-    "link": "https://www.chicagotribune.com/2026/08/11/trump-air-force-one-turkey-threat/",
-    "source": "chitri",
-    "pubdate": "2026-08-12-01-42-35 +0000"
-  },
-  {
-    "headline": "Searching for Survivors After Colombia’s Earthquake",
-    "link": "https://www.nytimes.com/video/world/americas/100000011085349/searching-for-survivors-after-colombias-earthquake.html",
-    "source": "nyt",
-    "pubdate": "2026-08-12-01-34-38 +0000"
   }
 ]
