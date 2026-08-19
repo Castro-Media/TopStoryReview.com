@@ -1,13 +1,13 @@
 [
   {
-    "score": 215,
+    "score": 212,
     "pubdate": "2026-08-19-00-20-49 +0000",
     "source": "nyt",
     "headline": "Trump Ally Scott Singer Wins Republican Primary in Florida’s 25th District",
     "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-republican-primary-25-district.html"
   },
   {
-    "score": 105,
+    "score": 103,
     "pubdate": "2026-08-19-00-33-29 +0000",
     "source": "chitri",
     "headline": "US Rep Byron Donalds wins GOP nod for Florida governor against Ex-Rep David Jolly for the Democrats",
@@ -28,21 +28,21 @@
     "link": "https://nypost.com/2026/08/18/us-news/dsa-member-angie-nixon-defeats-trump-impeachment-witness-alex-vindman-in-florida-democratic-senate-race/"
   },
   {
-    "score": 72,
+    "score": 71,
     "pubdate": "2026-08-19-12-37-06 +0000",
     "source": "cbc",
     "headline": "Israel opens criminal probes over killings of 6-year-old Palestinian girl Hind Rajab, Gaza rescue workers",
     "link": "https://www.cbc.ca/news/world/israel-criminal-probe-palestinian-girl-killed-hind-rajab-9.7312142?cmp=rss"
   },
   {
-    "score": 72,
+    "score": 71,
     "pubdate": "2026-08-18-18-13-38 +0000",
     "source": "nyt",
     "headline": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
     "link": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html"
   },
   {
-    "score": 66,
+    "score": 64,
     "pubdate": "2026-08-19-08-10-01 +0000",
     "source": "wsj",
     "headline": "Stock Market Today: Bond Yields Dive After Bessent Steps Up Buybacks",
@@ -57,16 +57,16 @@
   },
   {
     "score": 57,
-    "pubdate": "2026-08-18-18-28-42 +0000",
-    "source": "nypost",
-    "headline": "Rep. Young Kim donates campaign contributions from Chinese-American media mogul under FBI investigation",
-    "link": "https://nypost.com/2026/08/18/us-news/young-kim-donates-5200-in-contributions-from-chinese-media-mogul-tied-to-fbi-probe/"
-  },
-  {
-    "score": 57,
     "pubdate": "2026-08-19-13-29-48 +0000",
     "source": "chitri",
     "headline": "Ukrainian President Volodymyr Zelenskyy’s office is probed for corruption as fired defense minister demands elections",
     "link": "https://www.chicagotribune.com/2026/08/19/zelenskyys-office-is-probed-for-corruption/"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-08-18-18-28-42 +0000",
+    "source": "nypost",
+    "headline": "Rep. Young Kim donates campaign contributions from Chinese-American media mogul under FBI investigation",
+    "link": "https://nypost.com/2026/08/18/us-news/young-kim-donates-5200-in-contributions-from-chinese-media-mogul-tied-to-fbi-probe/"
   }
 ]
