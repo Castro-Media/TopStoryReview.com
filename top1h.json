@@ -1,37 +1,72 @@
 [
   {
+    "score": 18,
+    "pubdate": "2026-08-20-13-00-00 +0000",
+    "source": "nypost",
+    "headline": "‘Screaming Mary’s’ son faces deportation after Rubio revokes green card as Iranian woman blinded by Revolutionary Guard fire speaks out",
+    "link": "https://nypost.com/2026/08/20/us-news/iran-protest-survivor-raheleh-amiri-slams-screaming-mary-sons-bid-to-stay-in-us/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-20-12-58-15 +0000",
+    "source": "nyt",
+    "headline": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
+    "link": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-20-12-45-00 +0000",
+    "source": "wapo",
+    "headline": "‘The great Meghan-aissance’: Harry and Meghan’s return sparks frenzied U.K. reaction",
+    "link": "https://www.washingtonpost.com/world/2026/08/20/great-meghan-aissance-harry-meghans-return-sparks-frenzied-uk-reaction/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-20-12-59-20 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Jump and Bond Market Stress Returns",
+    "link": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-20-13-01-00 +0000",
+    "source": "wsj",
+    "headline": "Jet Fighter Destroys Naval Drone ‘to Protect Lives’ Near Black Sea Gas Platform",
+    "link": "https://www.wsj.com/world/europe/jet-fighter-destroys-naval-drone-to-protect-lives-near-black-sea-gas-platform-2510417f?mod=rss_worldnews"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-20-12-53-57 +0000",
+    "source": "nypost",
+    "headline": "Family of missing NYC grandma forced to check morgues in desperate search after Las Vegas disappearance",
+    "link": "https://nypost.com/2026/08/20/us-news/family-of-missing-nyc-grandma-alisa-goods-forced-to-check-morgues/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-20-12-57-08 +0000",
+    "source": "nyt",
+    "headline": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
+    "link": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html"
+  },
+  {
     "score": 11,
-    "pubdate": "2026-08-20-11-01-14 +0000",
-    "source": "nypost",
-    "headline": "California clan that swindled $18M from COVID cash inspires Senate bill to crack down on ‘fraudster families’",
-    "link": "https://nypost.com/2026/08/20/us-news/california-clan-that-swindled-18m-from-covid-cash-inspires-senate-bill-to-crack-down-on-fraudster-families/"
+    "pubdate": "2026-08-20-12-25-11 +0000",
+    "source": "bbc",
+    "headline": "Burnham announces plans to clean up worst three illegal waste dumps",
+    "link": "https://www.bbc.co.uk/news/articles/cgk4vn0k3r5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 8,
-    "pubdate": "2026-08-20-11-00-21 +0000",
-    "source": "chitri",
-    "headline": "Today in Chicago History: First segment of the Illinois Tollway opens",
-    "link": "https://www.chicagotribune.com/2026/08/20/august-20-chicago-history/"
+    "score": 10,
+    "pubdate": "2026-08-20-13-03-07 +0000",
+    "source": "nyt",
+    "headline": "The A.I.-Robotics Job Only a Human Can Do",
+    "link": "https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html"
   },
   {
-    "score": 8,
-    "pubdate": "2026-08-20-11-00-00 +0000",
-    "source": "wsj",
-    "headline": "Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
-    "link": "https://www.wsj.com/business/rainmakers-in-talks-to-leave-weil-gotshal-amid-poaching-frenzy-7ebf47fc?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-08-20-11-00-00 +0000",
-    "source": "nypost",
-    "headline": "For decades, most American teens worked summer jobs — not Gen Z",
-    "link": "https://nypost.com/2026/08/20/us-news/only-a-third-of-gen-z-teens-have-summer-jobs-compared-to-more-than-half-30-years-ago/"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-08-20-11-00-00 +0000",
-    "source": "wsj",
-    "headline": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
-    "link": "https://www.wsj.com/logistics-report/u-s-considers-tariff-cuts-on-metals-autos-in-canada-deal-e4ec3909?mod=pls_whats_news_us_business_f"
+    "score": 9,
+    "pubdate": "2026-08-20-12-38-35 +0000",
+    "source": "bbc",
+    "headline": "Assad officer extradited to Syria on war crimes charges for first time",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss"
   }
 ]
