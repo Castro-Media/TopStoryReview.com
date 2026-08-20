@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 32,
+    "pubdate": "2026-08-20-08-45-16 +0000",
+    "source": "nyt",
+    "headline": "Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai",
+    "link": "https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-08-20-09-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump’s half-built White House ballroom is a 90,000-square-foot embodiment of a recurring legal conundrum: What happens when a boundary-pushing president moves faster than courts can keep up?",
+    "link": "https://www.wsj.com/politics/policy/build-first-ask-questions-later-trumps-ballroom-puts-supreme-court-in-a-bind-2c7ebe63?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-08-20-08-39-26 +0000",
+    "source": "bbc",
+    "headline": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-20-08-31-27 +0000",
+    "source": "nyt",
+    "headline": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
+    "link": "https://www.nytimes.com/2026/08/19/world/asia/vietnam-crash-tree-55-community-party-official.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-20-09-00-26 +0000",
+    "source": "nyt",
+    "headline": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
+    "link": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-20-08-47-00 +0000",
+    "source": "wsj",
+    "headline": "Swiss Watch Exports Stay Resilient in July Helped by U.S. Performance",
+    "link": "https://www.wsj.com/business/swiss-watch-exports-stay-resilient-in-july-helped-by-u-s-performance-8ac02a26?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-20-08-44-00 +0000",
+    "source": "wsj",
+    "headline": "Bonds Strengthen Further, Dollar Holds Near Lows After Treasury Intervention",
+    "link": "https://www.wsj.com/business/bonds-strengthen-further-dollar-holds-near-lows-after-treasury-intervention-2692dd07?mod=rss_markets_main"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-20-08-14-20 +0000",
+    "source": "bbc",
+    "headline": "Four workers dead after being hit by train in Japan",
+    "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-20-09-02-44 +0000",
+    "source": "nyt",
+    "headline": "The Indian City Where AI Is Creating Jobs for Humans",
+    "link": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-08-20-09-01-57 +0000",
+    "source": "nyt",
+    "headline": "Help! Lyft Charged Me $150 for Vomiting in a Car, but I Didn’t Do It.",
+    "link": "https://www.nytimes.com/2026/08/20/travel/lyft-cleaning-charge.html"
+  }
+]
