@@ -1,51 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-08-20-09-02-44 +0000",
-    "source": "nyt",
-    "headline": "The Indian City Where AI Is Creating Jobs for Humans",
-    "link": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html"
+    "score": 40,
+    "pubdate": "2026-08-20-10-41-25 +0000",
+    "source": "bbc",
+    "headline": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+    "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 11,
-    "pubdate": "2026-08-20-09-03-41 +0000",
-    "source": "nyt",
-    "headline": "The A.I.-Robotics Job Only a Human Can Do",
-    "link": "https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html"
+    "score": 34,
+    "pubdate": "2026-08-20-10-28-36 +0000",
+    "source": "nypost",
+    "headline": "Atlanta Dem Mayor Andre Dickens sparks outrage as he tells constituent to ‘shut up’ in bizarre social media spat",
+    "link": "https://nypost.com/2026/08/20/us-news/atlanta-democratic-mayor-andre-dickens-tells-constituent-to-shut-up-in-bizarre-social-media-spat/"
   },
   {
-    "score": 9,
-    "pubdate": "2026-08-20-09-04-19 +0000",
+    "score": 31,
+    "pubdate": "2026-08-20-10-20-21 +0000",
     "source": "nyt",
-    "headline": "Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
-    "link": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html"
+    "headline": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
+    "link": "https://www.nytimes.com/2026/08/19/world/asia/north-korea-trump-military-drills.html"
   },
   {
-    "score": 8,
-    "pubdate": "2026-08-20-09-04-01 +0000",
+    "score": 23,
+    "pubdate": "2026-08-20-10-04-12 +0000",
     "source": "nyt",
-    "headline": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
-    "link": "https://www.nytimes.com/2026/08/20/magazine/tick-season-lone-star-alpha-gal-syndrome-lyme.html"
+    "headline": "Russian Missiles Kill at Least 13 in Kyiv as Air Defenses Dwindle",
+    "link": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html"
   },
   {
-    "score": 7,
-    "pubdate": "2026-08-20-09-04-12 +0000",
+    "score": 22,
+    "pubdate": "2026-08-20-10-44-33 +0000",
     "source": "nyt",
-    "headline": "Moderna’s Shift to Cancer Company Lifts Stock Up 177%",
-    "link": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html"
+    "headline": "A Prince at 26: Once-Secret Son of Belgian Royal Gains Legal Recognition",
+    "link": "https://www.nytimes.com/2026/08/20/world/prince-laurent-belgium-clement-son.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-08-20-09-03-41 +0000",
+    "score": 20,
+    "pubdate": "2026-08-20-10-37-03 +0000",
     "source": "nyt",
-    "headline": "The A.I.-Robotics Job Only a Human Can Do",
-    "link": "https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html"
+    "headline": "As Harry and Meghan Plan Their Return, Britain Wonders: What Changed?",
+    "link": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html"
   },
   {
-    "score": 0,
-    "pubdate": "2026-08-20-09-02-44 +0000",
+    "score": 19,
+    "pubdate": "2026-08-20-10-54-13 +0000",
+    "source": "nypost",
+    "headline": "Australian hiker Lily Hooper, 18, found dead after family mistakenly told she was alive during 8-day search",
+    "link": "https://nypost.com/2026/08/20/world-news/australian-hiker-lily-hooper-found-dead-after-family-mistakenly-told-she-was-alive-during-8-day-search/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-08-20-10-30-52 +0000",
+    "source": "bbc",
+    "headline": "Israel opens up bids for highly sensitive West Bank settlement project",
+    "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-20-10-28-27 +0000",
     "source": "nyt",
-    "headline": "The Indian City Where AI Is Creating Jobs for Humans",
-    "link": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html"
+    "headline": "China Sentences Evergrande Founder to Life in Prison",
+    "link": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-20-10-51-57 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Jump After Trump’s Latest Iran Threat",
+    "link": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html"
   }
 ]
