@@ -1,6 +1,6 @@
 [
   {
-    "score": 346,
+    "score": 344,
     "pubdate": "2026-08-20-23-40-00 +0000",
     "source": "wsj",
     "headline": "Michael Cohen said before the last presidential election that if Donald Trump ever returned to the White House, he would change his name and flee the country. Two years later, he invited his old boss onto his radio show instead.",
@@ -14,18 +14,11 @@
     "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html"
   },
   {
-    "score": 159,
+    "score": 156,
     "pubdate": "2026-08-20-20-41-36 +0000",
     "source": "nyt",
     "headline": "As Prince Harry and Meghan Depart California for the U.K., Their Neighbors Shrug",
     "link": "https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html"
-  },
-  {
-    "score": 129,
-    "pubdate": "2026-08-17-10-13-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he would “substantially reduce” joint military exercises with South Korea, touting his “very good relationship” with North Korean leader Kim Jong Un",
-    "link": "https://www.wsj.com/politics/national-security/trump-orders-cuts-to-u-s-south-korea-military-drills-2bc63cec?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 128,
@@ -35,14 +28,21 @@
     "link": "https://nypost.com/2026/08/20/world-news/australian-hiker-lily-hooper-found-dead-after-family-mistakenly-told-she-was-alive-during-8-day-search/"
   },
   {
-    "score": 118,
+    "score": 128,
+    "pubdate": "2026-08-17-10-13-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said he would “substantially reduce” joint military exercises with South Korea, touting his “very good relationship” with North Korean leader Kim Jong Un",
+    "link": "https://www.wsj.com/politics/national-security/trump-orders-cuts-to-u-s-south-korea-military-drills-2bc63cec?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 117,
     "pubdate": "2026-08-20-01-54-00 +0000",
     "source": "wsj",
     "headline": "Angie Nixon pulled off her upset in the Democratic Senate primary in Florida by promoting a left-wing economic agenda at a time when many Floridians are struggling with affordability concerns",
     "link": "https://www.wsj.com/politics/elections/how-democratic-socialism-caught-fire-in-florida-19333a53?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 115,
+    "score": 114,
     "pubdate": "2026-08-20-18-55-14 +0000",
     "source": "bbc",
     "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2026/08/20/business/morgan-stanley-picks-dallas-for-expansion-outside-nyc-wall-street-exodus-zohran-mamdani-election/"
   },
   {
-    "score": 101,
-    "pubdate": "2026-08-14-10-00-09 +0000",
-    "source": "chitri",
-    "headline": "Many everyday costs eased in July, while some remain near record highs. Here’s a closer look at consumer prices.",
-    "link": "https://www.chicagotribune.com/2026/08/14/july-consumer-price-tracker/"
+    "score": 96,
+    "pubdate": "2026-08-14-21-13-51 +0000",
+    "source": "latimes",
+    "headline": "Trump says USS Abraham Lincoln deployment 'not nearly long enough' amid outcry from families",
+    "link": "https://www.latimes.com/politics/story/2026-08-14/uss-abraham-lincoln-deployment-conditions-families-trump-hegseth"
   }
 ]
