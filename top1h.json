@@ -1,9 +1,72 @@
 [
   {
-    "score": 6,
-    "pubdate": "2026-08-21-07-06-16 +0000",
+    "score": 18,
+    "pubdate": "2026-08-21-09-00-08 +0000",
+    "source": "nyt",
+    "headline": "At 77, She Walked 9 Miles Under Drone-Filled Skies to Escape From ‘Hell’",
+    "link": "https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-21-08-48-25 +0000",
     "source": "bbc",
-    "headline": "Five missing after fire in Swiss Alpine town",
-    "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss"
+    "headline": "UK borrows more than expected in July as Healey prepares for first Budget",
+    "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-21-08-55-29 +0000",
+    "source": "nyt",
+    "headline": "Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears",
+    "link": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-08-21-09-01-20 +0000",
+    "source": "nyt",
+    "headline": "Giorgia Meloni Cuts the Hard Right a Path to Power",
+    "link": "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-21-08-09-43 +0000",
+    "source": "nypost",
+    "headline": "North Carolina girl kidnapped at sleepover by friend’s uncle, forced into the woods before good Samaritan rescued her",
+    "link": "https://nypost.com/2026/08/21/us-news/north-carolina-girl-allegedly-kidnapped-at-sleepover-by-friends-uncle-forced-into-the-woods-before-being-rescued-by-good-samaritan/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-08-21-08-31-00 +0000",
+    "source": "wsj",
+    "headline": "Stock Market Today: Yields Steady; S&P Heads for Weekly Loss",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026?mod=rss_markets_main"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-08-21-08-37-41 +0000",
+    "source": "nypost",
+    "headline": "Miss Grand USA Mekyla Li stripped of title after alleged hit-and-run, previous marriage revelations",
+    "link": "https://nypost.com/2026/08/21/us-news/miss-grand-usa-mekyla-li-stripped-of-title-after-alleged-hit-and-run-previous-marriage-revelations/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-21-08-38-18 +0000",
+    "source": "bbc",
+    "headline": "Why the US economy is ringing alarm bells",
+    "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-21-09-02-45 +0000",
+    "source": "nyt",
+    "headline": "Spike in ‘Dark’ Oil Tankers in Gulf Raises Risk of Catastrophic Spills",
+    "link": "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-21-09-00-00 +0000",
+    "source": "wapo",
+    "headline": "Inside the police investigation into how Rep. Max Miller’s daughter got hurt",
+    "link": "https://www.washingtonpost.com/investigations/2026/08/21/inside-police-investigation-how-rep-max-millers-daughter-got-hurt/"
   }
 ]
