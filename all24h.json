@@ -1,5 +1,71 @@
 [
   {
+    "headline": "Missing From a Mass Wedding in India: Brides",
+    "link": "https://www.nytimes.com/2026/08/22/world/asia/india-mass-wedding-scam.html",
+    "source": "nyt",
+    "pubdate": "2026-08-22-09-00-08 +0000"
+  },
+  {
+    "headline": "She’s a Trump acolyte. He’s a ‘gringo Sandinista.’ Meet the Harps.",
+    "link": "https://www.washingtonpost.com/world/2026/08/22/shes-trump-acolyte-hes-gringo-sandinista-meet-harps/",
+    "source": "wapo",
+    "pubdate": "2026-08-22-09-00-00 +0000"
+  },
+  {
+    "headline": "Trump’s Other Ballroom: An 11,000-Square-Foot Banquet Hall in New Jersey",
+    "link": "https://www.wsj.com/politics/policy/trump-new-jersey-ballroom-bedminster-golf-club-3de25336?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-08-22-09-00-00 +0000"
+  },
+  {
+    "headline": "Sun Screen",
+    "link": "https://www.nytimes.com/2026/08/22/briefing/sun-screen.html",
+    "source": "nyt",
+    "pubdate": "2026-08-22-08-48-26 +0000"
+  },
+  {
+    "headline": "No deal reached in U.S.-Canada trade talks as 50 percent tariffs take effect",
+    "link": "https://www.washingtonpost.com/business/2026/08/22/new-50-percent-tariffs-canada-go-into-effect-after-deal-with-us-falls-through/",
+    "source": "wapo",
+    "pubdate": "2026-08-22-08-43-01 +0000"
+  },
+  {
+    "headline": "Advisor O'Neill rules out government job but backs PM's devolution plans",
+    "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-22-08-37-16 +0000"
+  },
+  {
+    "headline": "Today in History: Black Panthers co-founder Huey P. Newton shot",
+    "link": "https://www.chicagotribune.com/2026/08/22/today-in-history-black-panthers-co-founder-huey-p-newton-shot/",
+    "source": "chitri",
+    "pubdate": "2026-08-22-08-30-06 +0000"
+  },
+  {
+    "headline": "JD Vance unloads on Abdul El-Sayed over Sharia remarks: ‘That’s not my grandpa’s Democratic Party’",
+    "link": "https://nypost.com/2026/08/22/us-news/jd-vance-unloads-on-abdul-el-sayed-over-sharia-remarks-thats-not-my-grandpas-democratic-party/",
+    "source": "nypost",
+    "pubdate": "2026-08-22-07-26-33 +0000"
+  },
+  {
+    "headline": "JD Vance unloads on Abdul El-Sayed over Sharia remarks: ‘That’s not my grandpa’s Democratic Party’",
+    "link": "https://nypost.com/2026/08/22/us-news/jd-vance-unloads-on-abdul-el-sayed-over-sharia-remarks-thats-not-my-grandpas-democratic-party/",
+    "source": "nypost",
+    "pubdate": "2026-08-22-07-26-33 +0000"
+  },
+  {
+    "headline": "With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot!",
+    "link": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
+    "source": "nyt",
+    "pubdate": "2026-08-22-07-12-01 +0000"
+  },
+  {
+    "headline": "With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot!",
+    "link": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
+    "source": "nyt",
+    "pubdate": "2026-08-22-07-12-01 +0000"
+  },
+  {
     "headline": "Not 'poor enough': Do people use London's pay-it-forward schemes?",
     "link": "https://www.bbc.co.uk/news/articles/cewrv4wqvw2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -114,13 +180,13 @@
     "pubdate": "2026-08-22-04-14-07 +0000"
   },
   {
-    "headline": "Trump’s 50% tariffs on Canada take effect after last-minute talks fail",
+    "headline": "Trump’s 50% tariffs on $20B in Canadian goods take effect after last-minute talks collapsed",
     "link": "https://nypost.com/2026/08/22/us-news/trumps-50-tariffs-on-canada-take-effect-after-last-minute-talks-fail/",
     "source": "nypost",
     "pubdate": "2026-08-22-04-05-02 +0000"
   },
   {
-    "headline": "Trump’s 50% tariffs on Canada take effect after last-minute talks fail",
+    "headline": "Trump’s 50% tariffs on $20B in Canadian goods take effect after last-minute talks collapsed",
     "link": "https://nypost.com/2026/08/22/us-news/trumps-50-tariffs-on-canada-take-effect-after-last-minute-talks-fail/",
     "source": "nypost",
     "pubdate": "2026-08-22-04-05-02 +0000"
@@ -130,12 +196,6 @@
     "link": "https://www.cbc.ca/news/canada/canada-us-tariffs-trump-imposes-new-50-per-cent-levy-on-canadian-goods-august-22-9.7311417?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-08-22-04-03-37 +0000"
-  },
-  {
-    "headline": "No deal reached in U.S.-Canada trade talks as 50 percent tariffs take effect",
-    "link": "https://www.washingtonpost.com/business/2026/08/22/new-50-percent-tariffs-canada-go-into-effect-after-deal-with-us-falls-through/",
-    "source": "wapo",
-    "pubdate": "2026-08-22-04-03-23 +0000"
   },
   {
     "headline": "Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.",
@@ -198,28 +258,10 @@
     "pubdate": "2026-08-22-02-53-24 +0000"
   },
   {
-    "headline": "Burnham economic adviser O'Neill rules out government job",
-    "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-22-02-53-22 +0000"
-  },
-  {
     "headline": "11 busted for kiddie porn on cruise ships in Boston — 3rd takedown of alleged pervs on ships this year",
     "link": "https://nypost.com/2026/08/21/us-news/11-busted-kiddie-porn-cruise-ships-boston-3rd-takedown-alleged-pervs/",
     "source": "nypost",
     "pubdate": "2026-08-22-02-52-19 +0000"
-  },
-  {
-    "headline": "With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot!",
-    "link": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
-    "source": "nyt",
-    "pubdate": "2026-08-22-02-51-39 +0000"
-  },
-  {
-    "headline": "With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot!",
-    "link": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
-    "source": "nyt",
-    "pubdate": "2026-08-22-02-51-39 +0000"
   },
   {
     "headline": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
@@ -592,12 +634,6 @@
     "link": "https://nypost.com/2026/08/21/us-news/california-senator-demands-resignation-of-energy-board-over-tire-rule/",
     "source": "nypost",
     "pubdate": "2026-08-21-23-16-18 +0000"
-  },
-  {
-    "headline": "Nature-loving grandpa, 83, found dead in SoCal lake three days after vanishing on hike",
-    "link": "https://nypost.com/2026/08/21/us-news/grandpa-missing-for-three-days-found-dead-at-hansen-dam-lake/",
-    "source": "nypost",
-    "pubdate": "2026-08-21-23-15-29 +0000"
   },
   {
     "headline": "Prop. G, to return cars to Great Highway, will remain on the ballot, judge rules",
@@ -2400,8 +2436,8 @@
     "pubdate": "2026-08-21-10-00-00 +0000"
   },
   {
-    "headline": "Shaky future of Spectrum's Lakers channel adds more drama to the team's sale",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-21/shaky-future-of-spectrums-lakers-channel-adds-more-drama-to-teams-sale",
+    "headline": "California's AI gold rush pulls in 90% of U.S. venture capital despite billionaire tax backlash",
+    "link": "https://www.latimes.com/business/story/2026-08-21/billionaire-tax-or-not-california-still-dominates-venture-funding",
     "source": "latimes",
     "pubdate": "2026-08-21-10-00-00 +0000"
   },
@@ -2412,8 +2448,8 @@
     "pubdate": "2026-08-21-10-00-00 +0000"
   },
   {
-    "headline": "California's AI gold rush pulls in 90% of U.S. venture capital despite billionaire tax backlash",
-    "link": "https://www.latimes.com/business/story/2026-08-21/billionaire-tax-or-not-california-still-dominates-venture-funding",
+    "headline": "Shaky future of Spectrum's Lakers channel adds more drama to the team's sale",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-21/shaky-future-of-spectrums-lakers-channel-adds-more-drama-to-teams-sale",
     "source": "latimes",
     "pubdate": "2026-08-21-10-00-00 +0000"
   },
@@ -2566,125 +2602,5 @@
     "link": "https://www.nytimes.com/2026/08/21/travel/cruise-lines-fees.html",
     "source": "nyt",
     "pubdate": "2026-08-21-09-03-46 +0000"
-  },
-  {
-    "headline": "Iran War Raises Risk of Collisions and Oil Spills in Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html",
-    "source": "nyt",
-    "pubdate": "2026-08-21-09-02-46 +0000"
-  },
-  {
-    "headline": "Iran War Raises Risk of Collisions and Oil Spills in Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html",
-    "source": "nyt",
-    "pubdate": "2026-08-21-09-02-46 +0000"
-  },
-  {
-    "headline": "Wildfire-hit residents remove Greenpeace mural of Burnham from scorched mountain",
-    "link": "https://www.bbc.co.uk/news/articles/cn7n0yvpm7vo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-21-09-02-24 +0000"
-  },
-  {
-    "headline": "Giorgia Meloni Cuts the Hard Right a Path to Power",
-    "link": "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html",
-    "source": "nyt",
-    "pubdate": "2026-08-21-09-01-21 +0000"
-  },
-  {
-    "headline": "Giorgia Meloni Cuts the Hard Right a Path to Power",
-    "link": "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html",
-    "source": "nyt",
-    "pubdate": "2026-08-21-09-01-21 +0000"
-  },
-  {
-    "headline": "Why Porsche, Bentley and Other Car Brands Entered Miami’s Condo Market",
-    "link": "https://www.nytimes.com/2026/08/21/business/miami-condos-porsche-bentley-aston-martin.html",
-    "source": "nyt",
-    "pubdate": "2026-08-21-09-00-56 +0000"
-  },
-  {
-    "headline": "How a failed project could help solve the world’s biggest energy need",
-    "link": "https://www.washingtonpost.com/business/2026/08/21/how-ai-energy-crisis-revived-failed-nuclear-project/",
-    "source": "wapo",
-    "pubdate": "2026-08-21-09-00-00 +0000"
-  },
-  {
-    "headline": "Most schools ask parents to buy almost $100 of back-to-school supplies",
-    "link": "https://www.washingtonpost.com/business/2026/08/21/some-school-supplies-got-costlier-after-tariffs-parents-are-feeling-pinch/",
-    "source": "wapo",
-    "pubdate": "2026-08-21-09-00-00 +0000"
-  },
-  {
-    "headline": "What it took to finally build housing on some of the nation’s most in-demand land",
-    "link": "https://www.washingtonpost.com/business/2026/08/21/treasure-island-abandoned-island-san-francisco-is-finally-being-redeveloped/",
-    "source": "wapo",
-    "pubdate": "2026-08-21-09-00-00 +0000"
-  },
-  {
-    "headline": "Inside the police investigation into how Rep. Max Miller’s daughter got hurt",
-    "link": "https://www.washingtonpost.com/investigations/2026/08/21/inside-police-investigation-how-rep-max-millers-daughter-got-hurt/",
-    "source": "wapo",
-    "pubdate": "2026-08-21-09-00-00 +0000"
-  },
-  {
-    "headline": "Trump Administration Attacks Bar Association’s Power to Accredit Law Schools",
-    "link": "https://www.wsj.com/us-news/education/aba-american-bar-association-law-schools-accredit-trump-education-e56f4cbc?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-08-21-09-00-00 +0000"
-  },
-  {
-    "headline": "Trump Administration Attacks Bar Association’s Power to Accredit Law Schools",
-    "link": "https://www.wsj.com/us-news/education/aba-american-bar-association-law-schools-accredit-trump-education-e56f4cbc?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-08-21-09-00-00 +0000"
-  },
-  {
-    "headline": "Why the US economy is ringing alarm bells",
-    "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-21-08-38-18 +0000"
-  },
-  {
-    "headline": "Warning signs flash on US economy as debt spirals",
-    "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-21-08-38-18 +0000"
-  },
-  {
-    "headline": "Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-21-08-31-00 +0000"
-  },
-  {
-    "headline": "Today in History: Robert Lewandowski turns 38",
-    "link": "https://www.chicagotribune.com/2026/08/21/today-in-history-robert-lewandowski-turns-38/",
-    "source": "chitri",
-    "pubdate": "2026-08-21-08-30-02 +0000"
-  },
-  {
-    "headline": "French becoming more effective in stopping small boat crossings, UK says",
-    "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-21-08-26-01 +0000"
-  },
-  {
-    "headline": "Japan executes man convicted of setting fire that killed 5 at pachinko parlor in Osaka",
-    "link": "https://nypost.com/2026/08/21/world-news/japan-executes-sunao-takami-man-convicted-of-setting-fire-that-killed-5-at-a-pachinko-parlor-in-osaka/",
-    "source": "nypost",
-    "pubdate": "2026-08-21-08-18-33 +0000"
-  },
-  {
-    "headline": "Canadian bans on U.S. alcohol take centre stage in tariff talks. American businesses are caught in the middle",
-    "link": "https://www.cbc.ca/news/world/canada-us-alcohol-ban-winemakers-distillers-9.7314683?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-08-21-08-00-00 +0000"
-  },
-  {
-    "headline": "Canadian bans on U.S. alcohol take centre stage in tariff talks. American businesses are caught in the middle",
-    "link": "https://www.cbc.ca/news/world/canada-us-alcohol-ban-winemakers-distillers-9.7314683?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-08-21-08-00-00 +0000"
   }
 ]
