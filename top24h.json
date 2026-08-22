@@ -1,13 +1,13 @@
 [
   {
-    "score": 156,
+    "score": 157,
     "pubdate": "2026-08-21-23-41-51 +0000",
     "source": "chitri",
     "headline": "Supreme Court’s chief justice allows work on President Trump’s $400M White House ballroom to continue for now",
     "link": "https://www.chicagotribune.com/2026/08/21/supreme-court-trump-white-house-ballroom/"
   },
   {
-    "score": 81,
+    "score": 76,
     "pubdate": "2026-08-21-14-41-39 +0000",
     "source": "nyt",
     "headline": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
@@ -21,32 +21,25 @@
     "link": "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html"
   },
   {
-    "score": 57,
-    "pubdate": "2026-08-21-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Canadian bans on U.S. alcohol take centre stage in tariff talks. American businesses are caught in the middle",
-    "link": "https://www.cbc.ca/news/world/canada-us-alcohol-ban-winemakers-distillers-9.7314683?cmp=rss"
-  },
-  {
-    "score": 54,
+    "score": 58,
     "pubdate": "2026-08-22-00-46-00 +0000",
     "source": "wsj",
     "headline": "President Trump made a personal pitch to South Carolinians to back Sen. Darline Graham in the Republican runoff primary election next week—a high-profile test of his powers to sway GOP voters",
     "link": "https://www.wsj.com/politics/elections/trump-makes-pitch-for-sen-darline-graham-ahead-of-gop-south-carolina-primary-285e5404?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 52,
+    "score": 55,
+    "pubdate": "2026-08-21-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Canadian bans on U.S. alcohol take centre stage in tariff talks. American businesses are caught in the middle",
+    "link": "https://www.cbc.ca/news/world/canada-us-alcohol-ban-winemakers-distillers-9.7314683?cmp=rss"
+  },
+  {
+    "score": 53,
     "pubdate": "2026-08-21-15-58-57 +0000",
     "source": "bbc",
     "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
     "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-08-21-21-07-00 +0000",
-    "source": "wsj",
-    "headline": "Army Secretary Dan Driscoll is expected to step down from his role by the end of the year, if not sooner, after months of tension with Defense Secretary Pete Hegseth, according to people familiar with the discussions",
-    "link": "https://www.wsj.com/politics/national-security/army-secretary-expected-to-step-down-by-years-end-d7477efb?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 50,
@@ -56,17 +49,24 @@
     "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
+    "score": 48,
     "pubdate": "2026-08-21-23-32-00 +0000",
     "source": "wsj",
     "headline": "Plane Crash Near Remote Military Radar Site in Alaska Kills 8",
-    "link": "https://www.wsj.com/us-news/plane-crash-near-remote-military-radar-site-in-alaska-kills-8-68b0edd4?mod=rss_worldnews"
+    "link": "https://www.wsj.com/us-news/plane-crash-near-remote-military-radar-site-in-alaska-kills-8-68b0edd4?mod=rss_usnews"
   },
   {
-    "score": 46,
-    "pubdate": "2026-08-21-21-01-11 +0000",
-    "source": "nypost",
-    "headline": "Xavier Becerra’s campaign for California governor has a shocking new platform",
-    "link": "https://nypost.com/2026/08/21/us-news/xavier-becerra-explains-why-his-platform-lacks-specific-details/"
+    "score": 47,
+    "pubdate": "2026-08-21-21-07-00 +0000",
+    "source": "wsj",
+    "headline": "Army Secretary Dan Driscoll is expected to step down from his role by the end of the year, if not sooner, after months of tension with Defense Secretary Pete Hegseth, according to people familiar with the discussions",
+    "link": "https://www.wsj.com/politics/national-security/army-secretary-expected-to-step-down-by-years-end-d7477efb?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-08-21-22-08-00 +0000",
+    "source": "wsj",
+    "headline": "Rubén Rocha, the embattled governor of Mexico’s Sinaloa state​ who stepped aside after being indicted in the U.S., ​said he returned to office after being cleared by his country’s federal prosecutors",
+    "link": "https://www.wsj.com/world/americas/mexican-governor-indicted-by-u-s-vows-return-to-office-fe6ecff7?mod=rss_socialpoliticsfeed"
   }
 ]
