@@ -1,6 +1,6 @@
 [
   {
-    "score": 150,
+    "score": 145,
     "pubdate": "2026-08-21-23-41-51 +0000",
     "source": "chitri",
     "headline": "Supreme Court’s chief justice allows work on President Trump’s $400M White House ballroom to continue for now",
@@ -21,7 +21,7 @@
     "link": "https://www.wsj.com/politics/elections/trump-makes-pitch-for-sen-darline-graham-ahead-of-gop-south-carolina-primary-285e5404?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 61,
+    "score": 59,
     "pubdate": "2026-08-21-18-22-00 +0000",
     "source": "nyt",
     "headline": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
@@ -50,13 +50,6 @@
   },
   {
     "score": 40,
-    "pubdate": "2026-08-22-12-30-00 +0000",
-    "source": "nypost",
-    "headline": "Father-son duo at center of Penn State frat house coke bust had racked up prior run-ins with the law",
-    "link": "https://nypost.com/2026/08/22/us-news/father-son-in-penn-state-frat-house-coke-bust-had-run-ins-with-the-law/"
-  },
-  {
-    "score": 40,
     "pubdate": "2026-08-21-21-07-00 +0000",
     "source": "wsj",
     "headline": "Army Secretary Dan Driscoll is expected to step down from his role by the end of the year, if not sooner, after months of tension with Defense Secretary Pete Hegseth, according to people familiar with the discussions",
@@ -64,9 +57,16 @@
   },
   {
     "score": 39,
-    "pubdate": "2026-08-22-12-49-57 +0000",
-    "source": "nyt",
-    "headline": "What Does Harry and Meghan’s Return to England Mean for Their Children?",
-    "link": "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html"
+    "pubdate": "2026-08-22-12-30-00 +0000",
+    "source": "nypost",
+    "headline": "Father-son duo at center of Penn State frat house coke bust had racked up prior run-ins with the law",
+    "link": "https://nypost.com/2026/08/22/us-news/father-son-in-penn-state-frat-house-coke-bust-had-run-ins-with-the-law/"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-08-21-22-08-00 +0000",
+    "source": "wsj",
+    "headline": "Rubén Rocha, the embattled governor of Mexico’s Sinaloa state​ who stepped aside after being indicted in the U.S., ​said he returned to office after being cleared by his country’s federal prosecutors",
+    "link": "https://www.wsj.com/world/americas/mexican-governor-indicted-by-u-s-vows-return-to-office-fe6ecff7?mod=rss_socialpoliticsfeed"
   }
 ]
