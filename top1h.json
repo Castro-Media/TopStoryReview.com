@@ -1,44 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-08-22-02-17-02 +0000",
-    "source": "nypost",
-    "headline": "Karmelo Anthony threatened to ‘shoot the school up’ in shocking text kept from jury in Austin Metcalf murder trial",
-    "link": "https://nypost.com/2026/08/21/us-news/karmelo-anthony-threatened-to-shoot-the-school-up-in-shocking-text-kept-from-jury-in-austin-metcalf-murder-trial/"
+    "score": 19,
+    "pubdate": "2026-08-22-04-01-35 +0000",
+    "source": "nyt",
+    "headline": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs",
+    "link": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
   },
   {
-    "score": 14,
-    "pubdate": "2026-08-22-02-12-33 +0000",
+    "score": 19,
+    "pubdate": "2026-08-22-03-17-29 +0000",
+    "source": "bbc",
+    "headline": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+    "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-22-04-01-07 +0000",
     "source": "nyt",
-    "headline": "Pentagon Fires Editor and Publisher of Independent Military Publication",
-    "link": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html"
+    "headline": "Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital",
+    "link": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-22-04-01-07 +0000",
+    "source": "nyt",
+    "headline": "Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.",
+    "link": "https://www.nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html"
   },
   {
     "score": 12,
-    "pubdate": "2026-08-22-02-12-16 +0000",
-    "source": "nyt",
-    "headline": "Judge Strikes Down Trump’s 75-Country Visa Ban",
-    "link": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-08-22-02-13-18 +0000",
+    "pubdate": "2026-08-22-03-59-37 +0000",
     "source": "nypost",
-    "headline": "San Diego cops bust wild street racers in massive arrest sweep",
-    "link": "https://nypost.com/2026/08/21/us-news/chp-cracks-down-on-street-racing-across-san-diego-county/"
+    "headline": "California Dem earning $207K taxpayer salary to face punishment after unleashing bizarre ‘small penis’ attack on journalist",
+    "link": "https://nypost.com/2026/08/21/us-news/california-dem-making-207k-faces-hr-complaints-over-small-penis-stunt/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-08-22-03-19-39 +0000",
+    "source": "nypost",
+    "headline": "CDC issues safety alert for alfalfa sprouts as 55 sickened nationwide with these nasty ailments",
+    "link": "https://nypost.com/2026/08/21/us-news/cdc-issues-safety-alert-alfalfa-sprouts-55-sickened-nationwide-2-new-york/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-22-03-13-18 +0000",
+    "source": "nyt",
+    "headline": "We Tried to Cover a Tom Kean Campaign Event. Someone Called the Police.",
+    "link": "https://www.nytimes.com/2026/08/21/nyregion/kean-campaign-johnson.html"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-08-22-04-05-02 +0000",
+    "source": "nypost",
+    "headline": "Trump’s 50% tariffs on Canada take effect after last-minute talks fail",
+    "link": "https://nypost.com/2026/08/22/us-news/trumps-50-tariffs-on-canada-take-effect-after-last-minute-talks-fail/"
   },
   {
     "score": 0,
-    "pubdate": "2026-08-22-02-12-33 +0000",
+    "pubdate": "2026-08-22-04-01-35 +0000",
     "source": "nyt",
-    "headline": "Pentagon Fires Editor and Publisher of Independent Military Publication",
-    "link": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html"
+    "headline": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs",
+    "link": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html"
   },
   {
     "score": 0,
-    "pubdate": "2026-08-22-02-12-16 +0000",
+    "pubdate": "2026-08-22-04-01-07 +0000",
     "source": "nyt",
-    "headline": "Judge Strikes Down Trump’s 75-Country Visa Ban",
-    "link": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html"
+    "headline": "Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.",
+    "link": "https://www.nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html"
   }
 ]
