@@ -1,21 +1,399 @@
 [
   {
+    "headline": "CrossCountry cancels UK services after power cut",
+    "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-23-10-57-17 +0000"
+  },
+  {
+    "headline": "The Heirs to Jack Daniel’s Are Fighting to Keep Control",
+    "link": "https://www.wsj.com/articles/the-heirs-to-jack-daniels-are-fighting-to-keep-control-69e27aa2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-23-10-56-00 +0000"
+  },
+  {
+    "headline": "The Heirs to Jack Daniel’s Are Fighting to Keep Control",
+    "link": "https://www.wsj.com/articles/the-heirs-to-jack-daniels-are-fighting-to-keep-control-69e27aa2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-23-10-56-00 +0000"
+  },
+  {
+    "headline": "Putin wants to draft 300,000 new troops after elections, Zelensky says",
+    "link": "https://nypost.com/2026/08/23/world-news/putin-wants-to-draft-300000-new-troops-zelensky-says/",
+    "source": "nypost",
+    "pubdate": "2026-08-23-10-50-52 +0000"
+  },
+  {
+    "headline": "Dozens of co-ordinated arson attacks hit southern Thailand",
+    "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-23-10-22-32 +0000"
+  },
+  {
+    "headline": "Struggling households need more help with bills, energy industry says",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-23-10-11-21 +0000"
+  },
+  {
+    "headline": "Struggling households need more help with bills, energy industry says",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-23-10-11-21 +0000"
+  },
+  {
+    "headline": "Mayors to get powers to overrule local councils on planning decisions",
+    "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-23-10-02-23 +0000"
+  },
+  {
+    "headline": "Mayors to get powers to overrule local councils on planning decisions",
+    "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-23-10-02-23 +0000"
+  },
+  {
+    "headline": "Data centers near O’Hare win nearly $100M in local tax breaks, leaving suburban homeowners to cover the gap",
+    "link": "https://www.chicagotribune.com/2026/08/23/special-report-data-centers-taxes/",
+    "source": "chitri",
+    "pubdate": "2026-08-23-10-00-37 +0000"
+  },
+  {
+    "headline": "Data centers and tax breaks: How we reported the story",
+    "link": "https://www.chicagotribune.com/2026/08/23/special-report-data-centers-taxes-how-we-reported-it/",
+    "source": "chitri",
+    "pubdate": "2026-08-23-10-00-29 +0000"
+  },
+  {
+    "headline": "CPS budget uncertainty looms as students head back to school",
+    "link": "https://www.chicagotribune.com/2026/08/23/cps-budget-problems-back-to-school/",
+    "source": "chitri",
+    "pubdate": "2026-08-23-10-00-18 +0000"
+  },
+  {
+    "headline": "As microplastics pollute every corner of the Great Lakes, scientists push governments to combat threat",
+    "link": "https://www.chicagotribune.com/2026/08/23/great-lakes-plastic-pollution-microplastics/",
+    "source": "chitri",
+    "pubdate": "2026-08-23-10-00-03 +0000"
+  },
+  {
+    "headline": "As microplastics pollute every corner of the Great Lakes, scientists push governments to combat threat",
+    "link": "https://www.chicagotribune.com/2026/08/23/great-lakes-plastic-pollution-microplastics/",
+    "source": "chitri",
+    "pubdate": "2026-08-23-10-00-03 +0000"
+  },
+  {
+    "headline": "U.S.-Canada breakdown shows limits of Trump’s aggressive trade strategy",
+    "link": "https://www.washingtonpost.com/business/2026/08/23/us-canada-breakdown-shows-limits-trumps-aggressive-trade-strategy/",
+    "source": "wapo",
+    "pubdate": "2026-08-23-10-00-01 +0000"
+  },
+  {
+    "headline": "IndyCar drivers prepare to zoom 185 mph on D.C. streets in Trump-hosted race",
+    "link": "https://www.washingtonpost.com/dc-md-va/2026/08/23/grand-prix-race-kick-off-dc-streets-trump-hosted-250th-celebration/",
+    "source": "wapo",
+    "pubdate": "2026-08-23-10-00-01 +0000"
+  },
+  {
+    "headline": "Will Trump interfere in the midterms? Democrats and their allies are preparing",
+    "link": "https://www.latimes.com/politics/story/2026-08-23/will-trump-interfere-in-midterms-democrats-their-allies-are-preparing",
+    "source": "latimes",
+    "pubdate": "2026-08-23-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: Ripple or blue wave? This race will test Democratic strength in November",
+    "link": "https://www.latimes.com/politics/story/2026-08-23/midterm-election-congress-nevada-second-district-blue-wave",
+    "source": "latimes",
+    "pubdate": "2026-08-23-10-00-00 +0000"
+  },
+  {
+    "headline": "Can you rebuild a community before you rebuild its homes?",
+    "link": "https://www.washingtonpost.com/nation/2026/08/23/can-you-rebuild-community-before-you-rebuild-its-homes/",
+    "source": "wapo",
+    "pubdate": "2026-08-23-10-00-00 +0000"
+  },
+  {
+    "headline": "The banker who found freedom in a Dodge van, and other extraordinary lives we’ve lost",
+    "link": "https://www.washingtonpost.com/obituaries/2026/08/23/banker-who-found-freedom-dodge-van-other-extraordinary-lives-weve-lost/",
+    "source": "wapo",
+    "pubdate": "2026-08-23-10-00-00 +0000"
+  },
+  {
+    "headline": "David Cannom, pioneering L.A. cardiologist, dies at 86",
+    "link": "https://www.latimes.com/obituaries/story/2026-08-23/david-cannom-pioneering-la-cardiologist-dies-at-86",
+    "source": "latimes",
+    "pubdate": "2026-08-23-10-00-00 +0000"
+  },
+  {
+    "headline": "Will Trump interfere in the midterms? Democrats and their allies are preparing",
+    "link": "https://www.latimes.com/politics/story/2026-08-23/will-trump-interfere-in-midterms-democrats-their-allies-are-preparing",
+    "source": "latimes",
+    "pubdate": "2026-08-23-10-00-00 +0000"
+  },
+  {
+    "headline": "Raman's role in tackling homelessness comes under scrutiny in L.A. mayor's race",
+    "link": "https://www.latimes.com/california/story/2026-08-23/how-did-nithya-do-as",
+    "source": "latimes",
+    "pubdate": "2026-08-23-10-00-00 +0000"
+  },
+  {
+    "headline": "Veterans Stadium is about to be demolished for a new sports complex. What it meant to Long Beach",
+    "link": "https://www.latimes.com/california/story/2026-08-23/long-beach-veterans-stadium-to-be-demolished-for-sports-complex",
+    "source": "latimes",
+    "pubdate": "2026-08-23-10-00-00 +0000"
+  },
+  {
+    "headline": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
+    "link": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-47-28 +0000"
+  },
+  {
+    "headline": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
+    "link": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-47-28 +0000"
+  },
+  {
+    "headline": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
+    "link": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-44-57 +0000"
+  },
+  {
+    "headline": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
+    "link": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-44-57 +0000"
+  },
+  {
+    "headline": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+    "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-23-09-42-05 +0000"
+  },
+  {
+    "headline": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
+    "link": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-41-05 +0000"
+  },
+  {
+    "headline": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
+    "link": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-41-05 +0000"
+  },
+  {
+    "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-23-09-37-05 +0000"
+  },
+  {
+    "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-23-09-37-05 +0000"
+  },
+  {
+    "headline": "Phallic-masked sicko, unhinged vagrants terrorize young girls at soccer practice at NYC park",
+    "link": "https://nypost.com/2026/08/23/us-news/unhinged-nyc-vagrants-terrorize-young-girls-at-soccer-practice-at-hudson-river-park/",
+    "source": "nypost",
+    "pubdate": "2026-08-23-09-33-06 +0000"
+  },
+  {
+    "headline": "David Barton has positioned himself as an intellectual architect of a movement advancing a religious agenda in policy and education",
+    "link": "https://www.wsj.com/politics/policy/texas-who-is-david-barton-460d7029?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-08-23-09-30-00 +0000"
+  },
+  {
+    "headline": "Hype for Moderna’s Cancer Vaccine Is Running Ahead of the Math",
+    "link": "https://www.wsj.com/health/pharma/hype-for-modernas-cancer-vaccine-is-running-ahead-of-the-math-b9b596f5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-23-09-30-00 +0000"
+  },
+  {
+    "headline": "Russia Tests Readiness for New Round of Military Mobilization",
+    "link": "https://www.wsj.com/world/russia/russia-tests-readiness-for-new-round-of-military-mobilization-87d61b96?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-08-23-09-30-00 +0000"
+  },
+  {
+    "headline": "The Texas Activist Putting the Ten Commandments Back Into American Classrooms",
+    "link": "https://www.wsj.com/politics/policy/texas-who-is-david-barton-460d7029?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-08-23-09-30-00 +0000"
+  },
+  {
+    "headline": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-16-36 +0000"
+  },
+  {
+    "headline": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-16-36 +0000"
+  },
+  {
+    "headline": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-16-36 +0000"
+  },
+  {
+    "headline": "US rapper BigXthaPlug arrested on drug and gun charges",
+    "link": "https://www.bbc.co.uk/news/articles/cn4n4737n32o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-23-09-16-22 +0000"
+  },
+  {
+    "headline": "Fetterman aligns with Trump on AI push, warns China benefits from US ‘overreaction’",
+    "link": "https://nypost.com/2026/08/23/us-news/fetterman-sides-with-trump-on-ai-national-security-push-with-chinese-warning/",
+    "source": "nypost",
+    "pubdate": "2026-08-23-09-03-47 +0000"
+  },
+  {
+    "headline": "Fetterman aligns with Trump on AI push, warns China benefits from US ‘overreaction’",
+    "link": "https://nypost.com/2026/08/23/us-news/fetterman-sides-with-trump-on-ai-national-security-push-with-chinese-warning/",
+    "source": "nypost",
+    "pubdate": "2026-08-23-09-03-47 +0000"
+  },
+  {
+    "headline": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+    "link": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-02-04 +0000"
+  },
+  {
+    "headline": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+    "link": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-02-04 +0000"
+  },
+  {
+    "headline": "Sean Duffy’s Reality Show: From ‘The Real World’ to the Deal World",
+    "link": "https://www.nytimes.com/2026/08/23/arts/television/sean-duffy-great-american-road-trip.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-02-03 +0000"
+  },
+  {
+    "headline": "The Data Center Backlash Bursts Into the Midterms",
+    "link": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-01-58 +0000"
+  },
+  {
+    "headline": "The Data Center Backlash Bursts Into the Midterms",
+    "link": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-01-58 +0000"
+  },
+  {
+    "headline": "The Midterms Feel Like 2006 All Over Again",
+    "link": "https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-01-57 +0000"
+  },
+  {
+    "headline": "The Midterms Feel Like 2006 All Over Again",
+    "link": "https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-01-57 +0000"
+  },
+  {
+    "headline": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+    "link": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-01-52 +0000"
+  },
+  {
+    "headline": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+    "link": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-01-52 +0000"
+  },
+  {
+    "headline": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
+    "link": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-01-49 +0000"
+  },
+  {
+    "headline": "Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music",
+    "link": "https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-01-07 +0000"
+  },
+  {
+    "headline": "How Big Tech Captured American Schools",
+    "link": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-01-04 +0000"
+  },
+  {
+    "headline": "This Canal System Transformed Arizona. It’s Now in Jeopardy.",
+    "link": "https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-00-53 +0000"
+  },
+  {
+    "headline": "Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.",
+    "link": "https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-00-33 +0000"
+  },
+  {
+    "headline": "Angry Ohio Voters Could Turn Their State Purple Again",
+    "link": "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-00-33 +0000"
+  },
+  {
+    "headline": "Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.",
+    "link": "https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-00-33 +0000"
+  },
+  {
+    "headline": "Angry Ohio Voters Could Turn Their State Purple Again",
+    "link": "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-00-33 +0000"
+  },
+  {
+    "headline": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
+    "link": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-00-19 +0000"
+  },
+  {
+    "headline": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
+    "link": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
+    "source": "nyt",
+    "pubdate": "2026-08-23-09-00-19 +0000"
+  },
+  {
     "headline": "Many Nashville Bus Stops Lack Places to Sit. These Locals Took a Stand.",
     "link": "https://www.nytimes.com/2026/08/23/us/nashville-bus-stop-benches.html",
     "source": "nyt",
     "pubdate": "2026-08-23-09-00-11 +0000"
   },
   {
-    "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-23-08-47-47 +0000"
+    "headline": "El-Sayed’s win triggered wave of anti-Muslim rhetoric online, Post analysis shows",
+    "link": "https://www.washingtonpost.com/politics/2026/08/23/abdul-el-sayed-faced-wave-anti-muslim-rhetoric-after-michigan-senate-primary-win/",
+    "source": "wapo",
+    "pubdate": "2026-08-23-09-00-00 +0000"
   },
   {
-    "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-23-08-47-47 +0000"
+    "headline": "Why Democrats still have a shot at winning the Senate in November",
+    "link": "https://www.wsj.com/politics/policy/democrats-senate-midterm-election-odds-9844b4aa?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-08-23-09-00-00 +0000"
   },
   {
     "headline": "Today in History: Jacob Blake shot by officer in Kenosha",
@@ -28,18 +406,6 @@
     "link": "https://nypost.com/2026/08/23/business/buc-ees-chain-draws-outcry-in-ohio-after-suing-mini-mart-over-beaver-logo/",
     "source": "nypost",
     "pubdate": "2026-08-23-08-28-52 +0000"
-  },
-  {
-    "headline": "Struggling households need more help with bills, energy industry says",
-    "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-23-08-03-52 +0000"
-  },
-  {
-    "headline": "Struggling households need more help with bills, energy industry says",
-    "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-23-08-03-52 +0000"
   },
   {
     "headline": "How Trump's tariffs work to redistribute wealth up the food chain",
@@ -94,6 +460,12 @@
     "link": "https://nypost.com/2026/08/23/world-news/brazilian-woman-amanda-maria-souza-de-oliveira-who-pretended-to-be-a-child-is-found-guilty-of-fraud/",
     "source": "nypost",
     "pubdate": "2026-08-23-06-41-02 +0000"
+  },
+  {
+    "headline": "Les used a QR code to download a parking app - but it was a scam",
+    "link": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-23-06-23-54 +0000"
   },
   {
     "headline": "Ohio doctor who studied ‘homicidal adolescent’ gunned down in scheme hatched by teen daughter after argument",
@@ -180,24 +552,6 @@
     "pubdate": "2026-08-23-04-01-09 +0000"
   },
   {
-    "headline": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
-    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-    "source": "nyt",
-    "pubdate": "2026-08-23-04-01-08 +0000"
-  },
-  {
-    "headline": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
-    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-    "source": "nyt",
-    "pubdate": "2026-08-23-04-01-08 +0000"
-  },
-  {
-    "headline": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
-    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-    "source": "nyt",
-    "pubdate": "2026-08-23-04-01-08 +0000"
-  },
-  {
     "headline": "Man arrested after 17-year-old killed in Riverside County shooting",
     "link": "https://www.latimes.com/california/story/2026-08-22/man-arrested-after-teen-killed-riverside-county-shooting",
     "source": "latimes",
@@ -232,18 +586,6 @@
     "link": "https://nypost.com/2026/08/22/us-news/sophie-cunningham-supporters-detractors-rally-outside-nyc-arena-during-liberty-v-fever-wnba-game-amid-trans-scandal/",
     "source": "nypost",
     "pubdate": "2026-08-23-03-17-53 +0000"
-  },
-  {
-    "headline": "Mayors to get powers to overrule local councils on planning decisions",
-    "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-23-03-10-51 +0000"
-  },
-  {
-    "headline": "Mayors to get powers to overrule local councils on planning decisions",
-    "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-23-03-10-51 +0000"
   },
   {
     "headline": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
@@ -384,6 +726,18 @@
     "pubdate": "2026-08-22-23-57-20 +0000"
   },
   {
+    "headline": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+    "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-22-23-45-01 +0000"
+  },
+  {
+    "headline": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+    "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-22-23-45-01 +0000"
+  },
+  {
     "headline": "Far-right agitator Jake Lang arrested on suspicion of rioting in Minneapolis",
     "link": "https://www.startribune.com/far-right-agitator-jake-lang-arrested-on-suspicion-of-rioting-in-minneapolis/601881529",
     "source": "startribune",
@@ -462,12 +816,6 @@
     "pubdate": "2026-08-22-22-43-32 +0000"
   },
   {
-    "headline": "Knife-wielding man shot dead by police after charging cops in Santa Monica",
-    "link": "https://nypost.com/2026/08/22/us-news/knife-wielding-man-shot-dead-by-police-after-charging-cops-in-santa-monic/",
-    "source": "nypost",
-    "pubdate": "2026-08-22-22-43-12 +0000"
-  },
-  {
     "headline": "New footage of El Chapo’s first hours in captivity reveals notorious drug lord insisting his cartel would not rescue him out of prison",
     "link": "https://nypost.com/2026/08/22/world-news/new-video-shows-how-el-chapo-spent-first-hours-in-captivity/",
     "source": "nypost",
@@ -478,12 +826,6 @@
     "link": "https://www.latimes.com/california/story/2026-08-22/pacific-coast-highway-reopens-big-sur-timber-fire",
     "source": "latimes",
     "pubdate": "2026-08-22-22-34-53 +0000"
-  },
-  {
-    "headline": "Rogue wave nearly kills mom walking on SoCal beach: ‘Out of nowhere’",
-    "link": "https://nypost.com/2026/08/22/us-news/mother-swept-into-ocean-by-powerful-waves-at-orange-county-beach-suffers-cardiac-incident/",
-    "source": "nypost",
-    "pubdate": "2026-08-22-22-31-29 +0000"
   },
   {
     "headline": "Top Egyptian, Iranian diplomats talk about restarting negotiations with US",
@@ -696,12 +1038,6 @@
     "pubdate": "2026-08-22-18-31-07 +0000"
   },
   {
-    "headline": "Why the Lindsay Clancy Case Is Dividing Americans",
-    "link": "https://www.nytimes.com/2026/08/22/us/lindsay-clancy-mothers-kill-children-punishment.html",
-    "source": "nyt",
-    "pubdate": "2026-08-22-18-31-05 +0000"
-  },
-  {
     "headline": "British Kids Are Skipping Top Colleges for White-Collar Apprenticeships",
     "link": "https://www.wsj.com/lifestyle/careers/british-kids-are-skipping-top-colleges-for-white-collar-apprenticeships-77a47f5c?mod=rss_usnews",
     "source": "wsj",
@@ -712,24 +1048,6 @@
     "link": "https://www.startribune.com/gov-tim-walz-bwca-executive-order-mining-ban/601881082",
     "source": "startribune",
     "pubdate": "2026-08-22-18-30-00 +0000"
-  },
-  {
-    "headline": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
-    "link": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
-    "source": "nyt",
-    "pubdate": "2026-08-22-18-23-02 +0000"
-  },
-  {
-    "headline": "For Some in a Disrupted D.C., Grand Prix Is More Irritation Than Celebration",
-    "link": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
-    "source": "nyt",
-    "pubdate": "2026-08-22-18-23-02 +0000"
-  },
-  {
-    "headline": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
-    "link": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-08-22-18-20-56 +0000"
   },
   {
     "headline": "How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy",
@@ -772,12 +1090,6 @@
     "link": "https://www.cbc.ca/news/world/harry-and-meghan-british-media-9.7316910?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-08-22-17-40-26 +0000"
-  },
-  {
-    "headline": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
-    "link": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
-    "source": "nyt",
-    "pubdate": "2026-08-22-17-31-21 +0000"
   },
   {
     "headline": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
@@ -1116,12 +1428,6 @@
     "pubdate": "2026-08-22-12-50-24 +0000"
   },
   {
-    "headline": "Why Polling Chaos Could Create Big Problems for American Politics",
-    "link": "https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html",
-    "source": "nyt",
-    "pubdate": "2026-08-22-12-50-24 +0000"
-  },
-  {
     "headline": "What Does Harry and Meghan’s Return to England Mean for Their Children?",
     "link": "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html",
     "source": "nyt",
@@ -1152,12 +1458,6 @@
     "pubdate": "2026-08-22-11-33-49 +0000"
   },
   {
-    "headline": "US rapper BigXthaPlug arrested on drug and gun charges",
-    "link": "https://www.bbc.co.uk/news/articles/cn4n4737n32o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-22-11-30-52 +0000"
-  },
-  {
     "headline": "Sen. Darline Graham’s ‘catastrophic’ ‘not my thing’ debate gaffe of was no accident: insiders",
     "link": "https://nypost.com/2026/08/22/us-news/darline-graham-gets-trump-push-as-love-gov-backs-opponent/",
     "source": "nypost",
@@ -1186,119 +1486,5 @@
     "link": "https://missionlocal.org/2026/08/carly-schwartz-living-fast-and-healing-book/",
     "source": "missionlocal",
     "pubdate": "2026-08-22-11-00-00 +0000"
-  },
-  {
-    "headline": "Trump fires back after protester interrupts Myrtle Beach rally for Darline Graham: ‘Mom is voting for us’",
-    "link": "https://nypost.com/2026/08/22/us-news/trump-fires-back-after-protester-interrupts-myrtle-beach-rally-for-darline-graham/",
-    "source": "nypost",
-    "pubdate": "2026-08-22-10-58-59 +0000"
-  },
-  {
-    "headline": "Taxi drivers urge council to agree 8% fare hike",
-    "link": "https://www.bbc.co.uk/news/articles/cn0nlyxrz51o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-22-10-53-26 +0000"
-  },
-  {
-    "headline": "Laptop catches fire on US flight, with passenger treated at airport",
-    "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-22-10-27-25 +0000"
-  },
-  {
-    "headline": "Laptop catches fire on US flight, with passenger treated at airport",
-    "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-22-10-27-25 +0000"
-  },
-  {
-    "headline": "Waking Up to an Escalating Canada-U.S. Trade War",
-    "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump-free-trade.html",
-    "source": "nyt",
-    "pubdate": "2026-08-22-10-22-04 +0000"
-  },
-  {
-    "headline": "Waking Up to an Escalating Canada-U.S. Trade War",
-    "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump-free-trade.html",
-    "source": "nyt",
-    "pubdate": "2026-08-22-10-22-04 +0000"
-  },
-  {
-    "headline": "‘Prost!’: La Grange to roll out its first ever Oktoberfest",
-    "link": "https://www.chicagotribune.com/2026/08/22/lagrange-first-oktoberfest/",
-    "source": "chitri",
-    "pubdate": "2026-08-22-10-03-57 +0000"
-  },
-  {
-    "headline": "Robot horse and rider steal the spotlight at Chinese conference",
-    "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-22-10-01-18 +0000"
-  },
-  {
-    "headline": "Robot horse and rider steal the spotlight at Chinese conference",
-    "link": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-22-10-01-18 +0000"
-  },
-  {
-    "headline": "Prosecutor with colorful past back at center of controversy in US attorney’s office",
-    "link": "https://www.chicagotribune.com/2026/08/22/william-hogan-us-attorney-office-controversy/",
-    "source": "chitri",
-    "pubdate": "2026-08-22-10-00-34 +0000"
-  },
-  {
-    "headline": "After decades of free spending, Washington is facing some unpalatable choices",
-    "link": "https://www.washingtonpost.com/business/2026/08/22/debt-surpasses-40-trillion-bill-washington-spending-comes-due/",
-    "source": "wapo",
-    "pubdate": "2026-08-22-10-00-01 +0000"
-  },
-  {
-    "headline": "She set aside the fiddle to raise nine children. At 99, she made her Opry debut.",
-    "link": "https://www.washingtonpost.com/obituaries/2026/08/22/she-set-aside-fiddle-raise-nine-children-99-she-made-her-opry-debut/",
-    "source": "wapo",
-    "pubdate": "2026-08-22-10-00-01 +0000"
-  },
-  {
-    "headline": "Thousands in Indiana still waiting for power more than a week after storm",
-    "link": "https://www.washingtonpost.com/nation/2026/08/22/thousands-indiana-residents-still-without-power-10-days-after-storm/",
-    "source": "wapo",
-    "pubdate": "2026-08-22-10-00-01 +0000"
-  },
-  {
-    "headline": "'Every advocate's nightmare': Inside ICE's strategy to sidestep local oversight laws",
-    "link": "https://www.latimes.com/politics/story/2026-08-22/every-advocates-nightmare-inside-ices-strategy-to-sidestep-local-oversight-laws",
-    "source": "latimes",
-    "pubdate": "2026-08-22-10-00-00 +0000"
-  },
-  {
-    "headline": "News Quiz for August 22, 2026",
-    "link": "https://www.wsj.com/business/media/news-quiz-for-august-22-2026-6b6d3eeb?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-22-10-00-00 +0000"
-  },
-  {
-    "headline": "Mark Zuckerberg buys an Irish castle",
-    "link": "https://www.latimes.com/business/story/2026-08-22/mark-zuckerberg-buys-irish-castle",
-    "source": "latimes",
-    "pubdate": "2026-08-22-10-00-00 +0000"
-  },
-  {
-    "headline": "'Every advocate's nightmare': Inside ICE's strategy to sidestep local oversight laws",
-    "link": "https://www.latimes.com/politics/story/2026-08-22/every-advocates-nightmare-inside-ices-strategy-to-sidestep-local-oversight-laws",
-    "source": "latimes",
-    "pubdate": "2026-08-22-10-00-00 +0000"
-  },
-  {
-    "headline": "Motorcyclist who lost leg wins $28-million verdict after suing over L.A. firetruck crash",
-    "link": "https://www.latimes.com/california/story/2026-08-22/motorcyclist-loses-leg-28-million-lafd-firetruck-crash-verdict",
-    "source": "latimes",
-    "pubdate": "2026-08-22-10-00-00 +0000"
-  },
-  {
-    "headline": "In L.A.'s 'Chinese Beverly Hills,' fighting back against Chinese communist infiltration",
-    "link": "https://www.latimes.com/california/story/2026-08-22/in-l-a-s-chinese-beverly-hills-fighting-back-against-chinese-communist-infiltration",
-    "source": "latimes",
-    "pubdate": "2026-08-22-10-00-00 +0000"
   }
 ]
