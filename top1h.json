@@ -1,30 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-08-23-18-59-18 +0000",
+    "score": 25,
+    "pubdate": "2026-08-23-20-19-36 +0000",
+    "source": "bbc",
+    "headline": "Trump waves green flag to start IndyCar race through Washington streets",
+    "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-23-20-08-07 +0000",
     "source": "nypost",
-    "headline": "Trump’s bill prompts steep SNAP enrollment decline — including over 50% in one state",
-    "link": "https://nypost.com/2026/08/23/us-news/snap-enrollment-drops-in-us-after-trumps-work-requirement/"
+    "headline": "Dr. Oz clarifies the MMR vaccine is ‘not lethal’ after Trump suggested it could be",
+    "link": "https://nypost.com/2026/08/23/us-news/dr-mehmet-oz-clarifies-the-mmr-vaccine-is-not-lethal-after-prez-suggested-it-could-be/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-23-20-20-16 +0000",
+    "source": "nypost",
+    "headline": "Iran hacks reveal weak spot on US, UK water, power grids as regime aims to maximize disruption: expert",
+    "link": "https://nypost.com/2026/08/23/world-news/iran-hacks-reveal-weak-spot-on-us-uk-grid-as-regime-aims-to-maximize-disruption-expert/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-08-23-20-39-48 +0000",
+    "source": "nypost",
+    "headline": "Housing project on Woodland Hills Country Club hits major road block due to mountain lions",
+    "link": "https://nypost.com/2026/08/23/us-news/housing-project-on-woodland-hills-country-club-hits-major-road-block-due-to-mountain-lions/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-23-20-30-46 +0000",
+    "source": "chitri",
+    "headline": "Pete Buttigieg returns to South Carolina as he weighs another White House run",
+    "link": "https://www.chicagotribune.com/2026/08/23/pete-buttigieg-south-carolina-white-house-run/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-23-20-25-38 +0000",
+    "source": "latimes",
+    "headline": "California teen killed in shooting at high school football game; suspect in custody",
+    "link": "https://www.latimes.com/california/story/2026-08-23/teen-killed-shooting-independence-high-school-bakersfield"
   },
   {
     "score": 9,
-    "pubdate": "2026-08-23-18-58-57 +0000",
-    "source": "nypost",
-    "headline": "Crazed Florida couple confined 4 kids in tractor-trailer for seven years: arrest",
-    "link": "https://nypost.com/2026/08/23/us-news/florida-couple-charged-with-child-neglect-for-four-kids/"
+    "pubdate": "2026-08-23-20-31-49 +0000",
+    "source": "nyt",
+    "headline": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals",
+    "link": "https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html"
   },
   {
     "score": 9,
-    "pubdate": "2026-08-23-18-57-40 +0000",
-    "source": "nypost",
-    "headline": "Alibaba launches $10B Hong Kong share placement to fund AI spending",
-    "link": "https://nypost.com/2026/08/23/business/alibaba-launches-10b-hong-kong-share-placement-to-fund-ai-spending/"
+    "pubdate": "2026-08-23-20-05-32 +0000",
+    "source": "chitri",
+    "headline": "Jared Kushner meets with Democratic leader Jeffries with House control at stake in November",
+    "link": "https://www.chicagotribune.com/2026/08/23/jared-kushner-jeffries-meeting/"
   },
   {
-    "score": 6,
-    "pubdate": "2026-08-23-18-57-19 +0000",
-    "source": "wapo",
-    "headline": "See photos from the first IndyCar race in Washington",
-    "link": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/"
+    "score": 8,
+    "pubdate": "2026-08-23-20-25-19 +0000",
+    "source": "nypost",
+    "headline": "Worker fatally gunned down behind counter of NYC wings joint",
+    "link": "https://nypost.com/2026/08/23/us-news/worker-fatally-gunned-down-behind-counter-of-nyc-wings-joint/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-08-23-20-39-42 +0000",
+    "source": "nypost",
+    "headline": "Trump to visit Ireland next month for Irish Open at his golf course",
+    "link": "https://nypost.com/2026/08/23/us-news/trump-to-visit-ireland-next-month-for-irish-open-at-his-golf-course/"
   }
 ]
