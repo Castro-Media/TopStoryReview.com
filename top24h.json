@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2026/08/23/us-news/alaska-dem-senate-hopeful-mary-peltola-racked-up-hundreds-of-missed-votes-while-holding-taxpayer-funded-jobs/"
   },
   {
-    "score": 45,
+    "score": 43,
     "pubdate": "2026-08-23-02-14-11 +0000",
     "source": "nypost",
     "headline": "NYC mom recalls escaping with her life after ex-con takes knife to her throat during hiking trip: ‘Everything was bloody’",
@@ -43,13 +43,6 @@
   },
   {
     "score": 32,
-    "pubdate": "2026-08-23-10-00-37 +0000",
-    "source": "chitri",
-    "headline": "Data centers near O’Hare win nearly $100M in local tax breaks, leaving suburban homeowners to cover the gap",
-    "link": "https://www.chicagotribune.com/2026/08/23/special-report-data-centers-taxes/"
-  },
-  {
-    "score": 32,
     "pubdate": "2026-08-22-17-46-24 +0000",
     "source": "nypost",
     "headline": "Big router is watching you: WiFi could secretly track you even if you leave your phone at home",
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2026/08/22/us-news/bill-maher-checks-hunter-biden-maher-over-iran-war-nobody-asked-for-excuse-me/"
   },
   {
-    "score": 29,
-    "pubdate": "2026-08-22-22-36-03 +0000",
-    "source": "nypost",
-    "headline": "New footage of El Chapo’s first hours in captivity reveals notorious drug lord insisting his cartel would not rescue him out of prison",
-    "link": "https://nypost.com/2026/08/22/world-news/new-video-shows-how-el-chapo-spent-first-hours-in-captivity/"
+    "score": 31,
+    "pubdate": "2026-08-23-10-00-37 +0000",
+    "source": "chitri",
+    "headline": "Data centers near O’Hare win nearly $100M in local tax breaks, leaving suburban homeowners to cover the gap",
+    "link": "https://www.chicagotribune.com/2026/08/23/special-report-data-centers-taxes/"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-08-23-03-27-36 +0000",
+    "source": "nyt",
+    "headline": "Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears",
+    "link": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
   }
 ]
