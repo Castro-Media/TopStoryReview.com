@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-08-23-02-16-28 +0000",
+    "score": 21,
+    "pubdate": "2026-08-23-04-01-08 +0000",
+    "source": "nyt",
+    "headline": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-23-03-27-36 +0000",
+    "source": "nyt",
+    "headline": "Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears",
+    "link": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-23-03-17-53 +0000",
     "source": "nypost",
-    "headline": "Apple cutting hundreds more jobs in shift toward AI",
-    "link": "https://nypost.com/2026/08/22/business/apple-cutting-hundreds-more-jobs-in-shift-toward-ai/"
+    "headline": "Sophie Cunningham supporters, detractors clash outside Barclays Center during Liberty-Fever game",
+    "link": "https://nypost.com/2026/08/22/us-news/sophie-cunningham-supporters-detractors-rally-outside-nyc-arena-during-liberty-v-fever-wnba-game-amid-trans-scandal/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-08-23-03-31-05 +0000",
+    "source": "nypost",
+    "headline": "Woman found dead in Bronx apartment building on Friday — authorities investigating as possible homicide",
+    "link": "https://nypost.com/2026/08/22/us-news/woman-found-dead-bronx-apartment-building-friday-authorities-investigating-possible-homicide/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-23-04-01-09 +0000",
+    "source": "nyt",
+    "headline": "Jackie Kennedy Onassis’ Private Beach on Martha's Vineyard Is Open to All. But It’s a Hike.",
+    "link": "https://www.nytimes.com/2026/08/23/us/kennedy-estate-marthas-vineyard-conservation.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-08-23-04-06-10 +0000",
+    "source": "nyt",
+    "headline": "‘It’s Been Terrible’: Thousands in Indiana Remain Without Power",
+    "link": "https://www.nytimes.com/2026/08/22/us/gary-indiana-11-day-power-outage.html"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-08-23-03-49-17 +0000",
+    "source": "latimes",
+    "headline": "Man arrested after 17-year-old killed in Riverside County shooting",
+    "link": "https://www.latimes.com/california/story/2026-08-22/man-arrested-after-teen-killed-riverside-county-shooting"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-23-04-01-08 +0000",
+    "source": "nyt",
+    "headline": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-23-04-01-08 +0000",
+    "source": "nyt",
+    "headline": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-23-03-27-36 +0000",
+    "source": "nyt",
+    "headline": "Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears",
+    "link": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html"
   }
 ]
