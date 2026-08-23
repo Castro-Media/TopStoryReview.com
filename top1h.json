@@ -1,30 +1,37 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-08-23-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "We Went to Wall Street’s Exclusive Wilderness Camp. Everyone Was Spooked by AI.",
-    "link": "https://www.wsj.com/finance/investing/we-went-to-wall-streets-exclusive-wilderness-camp-everyone-was-spooked-by-ai-e16dbe10?mod=rss_markets_main"
-  },
-  {
     "score": 9,
-    "pubdate": "2026-08-23-01-00-00 +0000",
+    "pubdate": "2026-08-23-02-00-00 +0000",
     "source": "wsj",
-    "headline": "Heirs to the Jack Daniel’s Fortune Are Fending Off a Takeover—and a Rogue Cousin",
-    "link": "https://www.wsj.com/business/retail/brown-forman-heirs-feud-jack-daniels-takeover-4ecdfba9?mod=pls_whats_news_us_business_f"
+    "headline": "This Ancient Temple Is Where China’s Young People Go to Pray for a Good Job",
+    "link": "https://www.wsj.com/world/china/this-ancient-temple-is-where-chinas-young-people-go-to-pray-for-a-good-job-21ff191e?mod=rss_worldnews"
   },
   {
     "score": 8,
-    "pubdate": "2026-08-23-00-29-31 +0000",
-    "source": "startribune",
-    "headline": "Minnesota grower’s alfalfa sprouts linked to illnesses in 15 states, health officials say",
-    "link": "https://www.startribune.com/minnesota-growers-alfalfa-sprouts-linked-to-illnesses-in-15-states-health-officials-say/601881528"
+    "pubdate": "2026-08-23-01-37-25 +0000",
+    "source": "latimes",
+    "headline": "Newsom signs bill shielding immigrant aid workers' home addresses",
+    "link": "https://www.latimes.com/california/story/2026-08-22/newsom-ab-2624-immigrant-aid-workers-address-privacy-doxxing"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-08-23-01-34-15 +0000",
+    "source": "bbc",
+    "headline": "Swedish sword attack victim was 17-year-old girl, police say",
+    "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-08-23-02-16-28 +0000",
+    "source": "nypost",
+    "headline": "Apple cutting hundreds more jobs in shift toward AI",
+    "link": "https://nypost.com/2026/08/22/business/apple-cutting-hundreds-more-jobs-in-shift-toward-ai/"
   },
   {
     "score": 5,
-    "pubdate": "2026-08-23-00-41-00 +0000",
-    "source": "wsj",
-    "headline": "Trump Discloses 1,000 Stock Trades in June",
-    "link": "https://www.wsj.com/finance/investing/trump-discloses-1-000-stock-trades-in-june-2e5b0773?mod=rss_markets_main"
+    "pubdate": "2026-08-23-01-25-39 +0000",
+    "source": "nyt",
+    "headline": "Officials Investigating Postal Worker in Assault on a Peacock",
+    "link": "https://www.nytimes.com/2026/08/22/us/pasadena-peacock-attack-postal-worker.html"
   }
 ]
