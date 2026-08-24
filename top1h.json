@@ -1,23 +1,72 @@
 [
   {
+    "score": 18,
+    "pubdate": "2026-08-24-11-10-31 +0000",
+    "source": "nyt",
+    "headline": "A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?",
+    "link": "https://www.nytimes.com/2026/08/24/world/asia/chinese-robot-100-meter-usain-bolt.html"
+  },
+  {
     "score": 17,
-    "pubdate": "2026-08-24-10-08-40 +0000",
+    "pubdate": "2026-08-24-11-49-32 +0000",
+    "source": "nyt",
+    "headline": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
+    "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-08-24-11-50-06 +0000",
+    "source": "nypost",
+    "headline": "Southwest Airlines flight attendant found dead near dumpster after falling from 24th floor of Hawaiian hotel: reports",
+    "link": "https://nypost.com/2026/08/24/us-news/southwest-airlines-flight-attendant-jenny-lupton-found-dead-near-dumpster-after-falling-from-24th-floor-of-hawaiian-hotel-reports/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-08-24-11-25-21 +0000",
     "source": "bbc",
     "headline": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
     "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 5,
-    "pubdate": "2026-08-24-10-05-22 +0000",
-    "source": "bbc",
-    "headline": "'Still scared to death': Thousands evacuate Nevada homes as wildfire spreads",
-    "link": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss"
+    "score": 15,
+    "pubdate": "2026-08-24-11-02-00 +0000",
+    "source": "wsj",
+    "headline": "Canadian Prime Minister Mark Carney squares off with President Trump. Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/canada-digs-in-as-more-countries-stand-up-to-trump-3cd4a885?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 0,
-    "pubdate": "2026-08-24-10-08-40 +0000",
+    "score": 13,
+    "pubdate": "2026-08-24-11-17-28 +0000",
     "source": "bbc",
-    "headline": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-    "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss"
+    "headline": "Access to Zambian courts prevented as election petition deadline looms",
+    "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-24-11-38-57 +0000",
+    "source": "nypost",
+    "headline": "Electrician trapped for hours in 130-foot-high sign had recorded ‘final words’ for wife and kids",
+    "link": "https://nypost.com/2026/08/24/us-news/electrician-trapped-for-hours-in-130-foot-high-sign-had-recorded-final-words-for-wife-and-kids/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-24-11-19-29 +0000",
+    "source": "nyt",
+    "headline": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+    "link": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-24-11-08-27 +0000",
+    "source": "bbc",
+    "headline": "Four arrested over suspected poisoning of elephants in Kenya",
+    "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-08-24-11-11-00 +0000",
+    "source": "wsj",
+    "headline": "Crocs’s Plan to Turn Short-Term Pain Into Long-Term Gain",
+    "link": "https://www.wsj.com/cfo-journal/crocss-plan-to-turn-short-term-pain-into-long-term-gain-830343ef?mod=pls_whats_news_us_business_f"
   }
 ]
