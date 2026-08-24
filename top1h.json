@@ -1,72 +1,72 @@
 [
   {
-    "score": 45,
-    "pubdate": "2026-08-24-08-49-48 +0000",
-    "source": "nyt",
-    "headline": "Which Countries Could Be Hurt Most by Trump’s Plan to Hit Iran’s Economy?",
-    "link": "https://www.nytimes.com/article/us-iran-economy-sanctions-trade-trump-china.html"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-08-24-08-25-00 +0000",
-    "source": "wsj",
-    "headline": "Inside Indonesia’s Push to Boost Commodity Market Credibility",
-    "link": "https://www.wsj.com/world/asia/inside-indonesias-push-to-boost-commodity-market-credibility-1f0b8e7d?mod=rss_worldnews"
+    "score": 26,
+    "pubdate": "2026-08-24-09-47-22 +0000",
+    "source": "bbc",
+    "headline": "'Half my business will be gone' - Firms in Canada and US fear trade war",
+    "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 18,
-    "pubdate": "2026-08-24-08-34-26 +0000",
+    "pubdate": "2026-08-24-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Chinatown leaders fire warning shot at Mamdani to try to sink NYC hi-rise jail plan",
+    "link": "https://nypost.com/2026/08/24/us-news/chinatown-leaders-fire-warning-shot-at-mamdani-to-try-to-sink-nyc-hi-rise-jail-plan/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-24-10-08-40 +0000",
     "source": "bbc",
     "headline": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
     "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 18,
-    "pubdate": "2026-08-24-08-21-54 +0000",
-    "source": "nypost",
-    "headline": "Oceanic manta ray spotted off Long Island coast in rare New York sighting",
-    "link": "https://nypost.com/2026/08/24/us-news/oceanic-manta-ray-spotted-off-long-island-coast-in-rare-new-york-sighting/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-08-24-09-00-16 +0000",
-    "source": "nyt",
-    "headline": "As Democrats Struggle in Some Western States, Independents See an Opening",
-    "link": "https://www.nytimes.com/2026/08/24/us/politics/independent-candidates-challenge-republicans.html"
+    "score": 17,
+    "pubdate": "2026-08-24-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom",
+    "link": "https://www.wsj.com/articles/nvidias-earnings-will-test-wall-streets-faith-in-the-ai-boom-09865fea?mod=rss_markets_main"
   },
   {
     "score": 16,
-    "pubdate": "2026-08-24-08-32-46 +0000",
-    "source": "bbc",
-    "headline": "Four arrested over boxing champion's murder in South Africa",
-    "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-08-24-08-26-00 +0000",
-    "source": "wsj",
-    "headline": "Global Bond Yields Fall on Declining Oil, Prospects of Further Treasury Steps to Tackle Recent Highs",
-    "link": "https://www.wsj.com/finance/investing/global-bond-yields-fall-on-declining-oil-prospects-of-further-treasury-steps-to-tackle-recent-highs-d3794894?mod=rss_markets_main"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-08-24-08-47-21 +0000",
+    "pubdate": "2026-08-24-09-19-46 +0000",
     "source": "nyt",
-    "headline": "Where Iran’s Young People Gather, the Government Sees Threats to Its Authority",
-    "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html"
+    "headline": "U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands",
+    "link": "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html"
   },
   {
     "score": 14,
-    "pubdate": "2026-08-24-09-00-32 +0000",
+    "pubdate": "2026-08-24-09-37-47 +0000",
+    "source": "nyt",
+    "headline": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
+    "link": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-24-09-39-44 +0000",
+    "source": "nypost",
+    "headline": "Dethroned Miss North Carolina USA Brittany Boltinhouse files defamation lawsuit, accuses pageant of cover-up",
+    "link": "https://nypost.com/2026/08/24/us-news/dethroned-miss-north-carolina-usa-brittany-boltinhouse-files-defamation-lawsuit-accuses-pageant-of-cover-up/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-24-09-29-32 +0000",
     "source": "nyt",
     "headline": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-    "link": "https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html"
+    "link": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html"
   },
   {
     "score": 12,
-    "pubdate": "2026-08-24-09-02-51 +0000",
-    "source": "nyt",
-    "headline": "Farmers Struggle to Get Basic Services From Depleted Agriculture Dept.",
-    "link": "https://www.nytimes.com/2026/08/24/us/politics/farmers-federal-workers-exodus.html"
+    "pubdate": "2026-08-24-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Crocs’s Plan to Turn Short-Term Pain Into Long-Term Gain",
+    "link": "https://www.wsj.com/cfo-journal/crocss-plan-to-turn-short-term-pain-into-long-term-gain-4ae32bb6?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-08-24-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Mold Is Driving America’s Homeowners Crazy—and They Want Builders to Pay",
+    "link": "https://www.wsj.com/us-news/law/mold-is-driving-americas-homeowners-crazyand-they-want-builders-to-pay-5cc180b7?mod=rss_usnews"
   }
 ]
