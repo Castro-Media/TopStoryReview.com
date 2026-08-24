@@ -29,10 +29,17 @@
   },
   {
     "score": 42,
-    "pubdate": "2026-08-23-14-10-00 +0000",
+    "pubdate": "2026-08-24-09-08-25 +0000",
     "source": "nyt",
-    "headline": "Zelensky Says His Ex-Defense Minister Was Wrong to Call for Elections",
-    "link": "https://www.nytimes.com/2026/08/23/world/europe/ukraine-zelensky-fedorov-elections.html"
+    "headline": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+    "link": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-08-23-18-11-55 +0000",
+    "source": "nypost",
+    "headline": "Ex-Mayor Dan Sullivan backs Dan Sullivan to beat Dan Sullivan in bonkers Alaska Senate race",
+    "link": "https://nypost.com/2026/08/23/us-news/dan-sullivan-backs-dan-sullivan-over-dan-sullivan-in-alaska-senate-race/"
   },
   {
     "score": 40,
@@ -49,7 +56,7 @@
     "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 36,
+    "score": 35,
     "pubdate": "2026-08-24-08-21-54 +0000",
     "source": "nypost",
     "headline": "Oceanic manta ray spotted off Long Island coast in rare New York sighting",
@@ -57,16 +64,9 @@
   },
   {
     "score": 34,
-    "pubdate": "2026-08-23-23-29-10 +0000",
-    "source": "nypost",
-    "headline": "Californians torch Gavin Newsom’s chilling ‘Stop Nick Shirley Act’ — teeing up huge clash with feds",
-    "link": "https://nypost.com/2026/08/23/us-news/californians-slam-gavin-newsoms-stop-nick-shirley-act-setting-stage-for-first-amendment-fight/"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-08-24-07-00-53 +0000",
-    "source": "bbc",
-    "headline": "Shein aims for almost $27bn valuation in stock market debut",
-    "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-08-23-12-25-00 +0000",
+    "source": "wsj",
+    "headline": "After weeks of marathon talks between U.S. and Canadian trade officials, an agreement was almost in sight. A look at how it unraveled.",
+    "link": "https://www.wsj.com/economy/trade/canada-announces-new-post-labor-day-tariffs-ef1de8e1?mod=rss_socialeconomyfeed"
   }
 ]
