@@ -1,20 +1,20 @@
 [
   {
-    "score": 169,
-    "pubdate": "2026-08-24-18-37-48 +0000",
-    "source": "nyt",
-    "headline": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
-    "link": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
-  },
-  {
-    "score": 108,
+    "score": 157,
     "pubdate": "2026-08-24-17-27-14 +0000",
     "source": "nypost",
     "headline": "Trump unleashes ‘Operation Economic Outcast’ against Iran as Bessent warns nations not to do business: ‘Tighten the noose’",
     "link": "https://nypost.com/2026/08/24/world-news/trump-unleashes-operation-economic-outcast-against-iran-as-bessent-warns-nations-not-to-do-business-tighten-the-noose/"
   },
   {
-    "score": 60,
+    "score": 140,
+    "pubdate": "2026-08-24-17-48-00 +0000",
+    "source": "wsj",
+    "headline": "New tariffs have kicked in on U.S. imports from Canada after trade talks collapsed. Canada intends to set retaliatory tariffs starting in September. Here’s what to know about the new levies.",
+    "link": "https://www.wsj.com/economy/trade/whats-getting-hit-with-the-new-u-s-canada-tariffs-4cb8141c?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 58,
     "pubdate": "2026-08-24-17-47-04 +0000",
     "source": "nyt",
     "headline": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
@@ -35,7 +35,7 @@
     "link": "https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html"
   },
   {
-    "score": 48,
+    "score": 46,
     "pubdate": "2026-08-24-13-48-12 +0000",
     "source": "nypost",
     "headline": "California calls off Paramount settlement meeting as media giant eyes Tennessee for new headquarters",
@@ -47,6 +47,13 @@
     "source": "wsj",
     "headline": "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom",
     "link": "https://www.wsj.com/articles/nvidias-earnings-will-test-wall-streets-faith-in-the-ai-boom-09865fea?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-08-24-08-58-03 +0000",
+    "source": "cbc",
+    "headline": "Fast-moving wildfire threatens Reno, Nevada, forcing thousands to evacuate",
+    "link": "https://www.cbc.ca/news/world/wildfire-nevada-evacuation-hawk-fire-9.7317902?cmp=rss"
   },
   {
     "score": 43,
@@ -61,12 +68,5 @@
     "source": "nypost",
     "headline": "Washington Post ordered to rehire columnist Karen Attiah who called Charlie Kirk ‘white man that espoused violence’",
     "link": "https://nypost.com/2026/08/24/media/washington-post-ordered-to-rehire-columnist-karen-attiah-who-called-charlie-kirk-white-man-that-espoused-violence/"
-  },
-  {
-    "score": 40,
-    "pubdate": "2026-08-24-05-01-17 +0000",
-    "source": "bbc",
-    "headline": "Nearly three million Teslas recalled in China over hidden door handles",
-    "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
   }
 ]
