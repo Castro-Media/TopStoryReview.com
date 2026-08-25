@@ -1,55 +1,55 @@
 [
   {
-    "score": 228,
+    "score": 229,
     "pubdate": "2026-08-25-03-57-01 +0000",
     "source": "nyt",
     "headline": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
     "link": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
   },
   {
-    "score": 119,
-    "pubdate": "2026-08-24-08-06-51 +0000",
-    "source": "wsj",
-    "headline": "Stock Market News, Aug. 24, 2026: Oil Maintains Declines After Bessent Outlines Plan to Squeeze Iran",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026?mod=rss_markets_main"
-  },
-  {
-    "score": 87,
-    "pubdate": "2026-08-24-23-52-00 +0000",
-    "source": "wsj",
-    "headline": "A super PAC aligned with President Trump is opening up its wallet to boost Sen. Darline Graham ahead of Tuesday’s runoff election in South Carolina",
-    "link": "https://www.wsj.com/politics/elections/trump-aligned-group-opens-its-wallet-to-boost-darline-graham-in-south-carolina-f054410f?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 76,
-    "pubdate": "2026-08-25-00-09-33 +0000",
-    "source": "nypost",
-    "headline": "911 call reveals moment dad who let daughter die in hot car was found dead — hours before he was set to surrender",
-    "link": "https://nypost.com/2026/08/24/us-news/911-call-reveals-moment-dad-who-let-daughter-die-in-hot-car-was-found-dead-hours-before-he-was-set-to-surrender/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-08-25-01-16-27 +0000",
-    "source": "nypost",
-    "headline": "Abdul El-Sayed asks Fox News’ Jesse Watters ‘Are you circumcised?’ in bizarre moment as he defends sex change surgery for minors",
-    "link": "https://nypost.com/2026/08/24/us-news/abdul-el-sayed-asks-jesse-watters-are-you-circumcised-while-defending-sex-change-surgery-for-minors/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-08-24-21-38-04 +0000",
-    "source": "latimes",
-    "headline": "Supreme Court for now allows Trump to plan new mail ballot rules. California to sue again",
-    "link": "https://www.latimes.com/politics/story/2026-08-24/supreme-court-allows-trumps-plan-to-regulate-but-not-block-use-of-mail-ballots"
-  },
-  {
-    "score": 57,
+    "score": 116,
     "pubdate": "2026-08-24-17-27-14 +0000",
     "source": "nypost",
     "headline": "Trump unleashes ‘Operation Economic Outcast’ against Iran as Bessent warns nations not to do business: ‘Tighten the noose’",
     "link": "https://nypost.com/2026/08/24/world-news/trump-unleashes-operation-economic-outcast-against-iran-as-bessent-warns-nations-not-to-do-business-tighten-the-noose/"
   },
   {
-    "score": 48,
+    "score": 88,
+    "pubdate": "2026-08-24-23-52-00 +0000",
+    "source": "wsj",
+    "headline": "A super PAC aligned with President Trump is opening up its wallet to boost Sen. Darline Graham ahead of Tuesday’s runoff election in South Carolina",
+    "link": "https://www.wsj.com/politics/elections/trump-aligned-group-opens-its-wallet-to-boost-darline-graham-in-south-carolina-f054410f?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 80,
+    "pubdate": "2026-08-25-01-16-27 +0000",
+    "source": "nypost",
+    "headline": "Abdul El-Sayed asks Fox News’ Jesse Watters ‘Are you circumcised?’ in bizarre moment as he defends sex change surgery for minors",
+    "link": "https://nypost.com/2026/08/24/us-news/abdul-el-sayed-asks-jesse-watters-are-you-circumcised-while-defending-sex-change-surgery-for-minors/"
+  },
+  {
+    "score": 76,
+    "pubdate": "2026-08-24-21-38-04 +0000",
+    "source": "latimes",
+    "headline": "Supreme Court for now allows Trump to plan new mail ballot rules. California to sue again",
+    "link": "https://www.latimes.com/politics/story/2026-08-24/supreme-court-allows-trumps-plan-to-regulate-but-not-block-use-of-mail-ballots"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-08-25-00-09-33 +0000",
+    "source": "nypost",
+    "headline": "911 call reveals moment dad who let daughter die in hot car was found dead — hours before he was set to surrender",
+    "link": "https://nypost.com/2026/08/24/us-news/911-call-reveals-moment-dad-who-let-daughter-die-in-hot-car-was-found-dead-hours-before-he-was-set-to-surrender/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-08-24-21-54-06 +0000",
+    "source": "nypost",
+    "headline": "Iran’s rial currency plunges to record low as citizens try to cash out while US pushes new sanctions",
+    "link": "https://nypost.com/2026/08/24/world-news/irans-rial-currency-plunges-to-record-low-as-citizens-try-to-cash-out/"
+  },
+  {
+    "score": 49,
     "pubdate": "2026-08-24-08-49-48 +0000",
     "source": "nyt",
     "headline": "Which Countries Could Be Hurt Most by Trump’s Plan to Hit Iran’s Economy?",
@@ -57,13 +57,13 @@
   },
   {
     "score": 48,
-    "pubdate": "2026-08-24-21-54-06 +0000",
-    "source": "nypost",
-    "headline": "Iran’s rial currency plunges to record low as citizens try to cash out while US pushes new sanctions",
-    "link": "https://nypost.com/2026/08/24/world-news/irans-rial-currency-plunges-to-record-low-as-citizens-try-to-cash-out/"
+    "pubdate": "2026-08-24-10-00-00 +0000",
+    "source": "wsj",
+    "headline": "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom",
+    "link": "https://www.wsj.com/articles/nvidias-earnings-will-test-wall-streets-faith-in-the-ai-boom-09865fea?mod=rss_markets_main"
   },
   {
-    "score": 47,
+    "score": 48,
     "pubdate": "2026-08-25-02-14-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is planning what may be the largest mass visa revocation in U.S. history, targeting up to 200,000 foreigners who have applied for asylum status",
