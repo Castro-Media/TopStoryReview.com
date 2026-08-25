@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 16,
+    "pubdate": "2026-08-25-05-12-25 +0000",
+    "source": "nyt",
+    "headline": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+    "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-08-25-05-32-53 +0000",
+    "source": "nyt",
+    "headline": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
+    "link": "https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-25-05-41-08 +0000",
+    "source": "bbc",
+    "headline": "More than 70,000 social and affordable homes to be built across England over 10 years",
+    "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-08-25-05-13-00 +0000",
+    "source": "wsj",
+    "headline": "Woodside Puts ‘Everything on the Table’ in Review of Beaumont Facility",
+    "link": "https://www.wsj.com/business/energy-oil/woodside-puts-everything-on-the-table-in-review-of-beaumont-facility-7abc603b?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-08-25-05-08-37 +0000",
+    "source": "bbc",
+    "headline": "Drought leaves 'barely any apples' to make cider",
+    "link": "https://www.bbc.co.uk/news/articles/cm2g6mmjjzdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-08-25-05-09-51 +0000",
+    "source": "bbc",
+    "headline": "The Gurkha families fighting for their pensions",
+    "link": "https://www.bbc.co.uk/news/articles/c99d0yzvl49o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 3,
+    "pubdate": "2026-08-25-05-12-00 +0000",
+    "source": "wsj",
+    "headline": "Bitcoin Hits More Than Three-Month High",
+    "link": "https://www.wsj.com/finance/currencies/bitcoin-hits-more-than-three-month-high-0dbb50ad?mod=rss_markets_main"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-25-05-41-08 +0000",
+    "source": "bbc",
+    "headline": "More than 70,000 social and affordable homes to be built across England over 10 years",
+    "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-25-05-32-53 +0000",
+    "source": "nyt",
+    "headline": "Chinese Artist Sentenced to Three Years in Prison for Mao Sculptures",
+    "link": "https://www.nytimes.com/2026/08/25/world/asia/china-artist-gao-zhen-jailed-mao-sculpture.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-25-05-12-25 +0000",
+    "source": "nyt",
+    "headline": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+    "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html"
+  }
+]

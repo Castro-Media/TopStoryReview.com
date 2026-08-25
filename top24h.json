@@ -1,38 +1,45 @@
 [
   {
-    "score": 221,
+    "score": 228,
     "pubdate": "2026-08-25-03-57-01 +0000",
     "source": "nyt",
     "headline": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
     "link": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
   },
   {
-    "score": 120,
+    "score": 119,
     "pubdate": "2026-08-24-08-06-51 +0000",
     "source": "wsj",
     "headline": "Stock Market News, Aug. 24, 2026: Oil Maintains Declines After Bessent Outlines Plan to Squeeze Iran",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026?mod=rss_markets_main"
   },
   {
-    "score": 88,
+    "score": 87,
     "pubdate": "2026-08-24-23-52-00 +0000",
     "source": "wsj",
     "headline": "A super PAC aligned with President Trump is opening up its wallet to boost Sen. Darline Graham ahead of Tuesday’s runoff election in South Carolina",
     "link": "https://www.wsj.com/politics/elections/trump-aligned-group-opens-its-wallet-to-boost-darline-graham-in-south-carolina-f054410f?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 72,
+    "score": 76,
+    "pubdate": "2026-08-25-00-09-33 +0000",
+    "source": "nypost",
+    "headline": "911 call reveals moment dad who let daughter die in hot car was found dead — hours before he was set to surrender",
+    "link": "https://nypost.com/2026/08/24/us-news/911-call-reveals-moment-dad-who-let-daughter-die-in-hot-car-was-found-dead-hours-before-he-was-set-to-surrender/"
+  },
+  {
+    "score": 57,
     "pubdate": "2026-08-25-01-16-27 +0000",
     "source": "nypost",
     "headline": "Abdul El-Sayed asks Fox News’ Jesse Watters ‘Are you circumcised?’ in bizarre moment as he defends sex change surgery for minors",
     "link": "https://nypost.com/2026/08/24/us-news/abdul-el-sayed-asks-jesse-watters-are-you-circumcised-while-defending-sex-change-surgery-for-minors/"
   },
   {
-    "score": 58,
-    "pubdate": "2026-08-24-13-48-12 +0000",
-    "source": "nypost",
-    "headline": "California calls off Paramount settlement meeting as media giant eyes Tennessee for new headquarters",
-    "link": "https://nypost.com/2026/08/24/business/california-calls-off-paramount-settlement-meeting-as-media-giant-eyes-tennessee-for-new-headquarters/"
+    "score": 57,
+    "pubdate": "2026-08-24-21-38-04 +0000",
+    "source": "latimes",
+    "headline": "Supreme Court for now allows Trump to plan new mail ballot rules. California to sue again",
+    "link": "https://www.latimes.com/politics/story/2026-08-24/supreme-court-allows-trumps-plan-to-regulate-but-not-block-use-of-mail-ballots"
   },
   {
     "score": 57,
@@ -42,31 +49,24 @@
     "link": "https://nypost.com/2026/08/24/world-news/trump-unleashes-operation-economic-outcast-against-iran-as-bessent-warns-nations-not-to-do-business-tighten-the-noose/"
   },
   {
-    "score": 55,
-    "pubdate": "2026-08-25-01-48-24 +0000",
-    "source": "bbc",
-    "headline": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-    "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+    "score": 48,
+    "pubdate": "2026-08-24-08-49-48 +0000",
+    "source": "nyt",
+    "headline": "Which Countries Could Be Hurt Most by Trump’s Plan to Hit Iran’s Economy?",
+    "link": "https://www.nytimes.com/article/us-iran-economy-sanctions-trade-trump-china.html"
   },
   {
-    "score": 53,
-    "pubdate": "2026-08-25-00-09-33 +0000",
+    "score": 48,
+    "pubdate": "2026-08-24-21-54-06 +0000",
     "source": "nypost",
-    "headline": "911 call reveals moment dad who let daughter die in hot car was found dead — hours before he was set to surrender",
-    "link": "https://nypost.com/2026/08/24/us-news/911-call-reveals-moment-dad-who-let-daughter-die-in-hot-car-was-found-dead-hours-before-he-was-set-to-surrender/"
+    "headline": "Iran’s rial currency plunges to record low as citizens try to cash out while US pushes new sanctions",
+    "link": "https://nypost.com/2026/08/24/world-news/irans-rial-currency-plunges-to-record-low-as-citizens-try-to-cash-out/"
   },
   {
-    "score": 52,
-    "pubdate": "2026-08-24-21-12-55 +0000",
-    "source": "nypost",
-    "headline": "Trump scores major win as Supreme Court clears way for mail-in voting order ahead of 2026 midterms",
-    "link": "https://nypost.com/2026/08/24/us-news/supreme-court-clears-the-way-for-trump-mail-voting-order-in-advance-of-midterms/"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-08-24-23-53-32 +0000",
-    "source": "bbc",
-    "headline": "Nearly three million Teslas recalled in China over hidden door handles",
-    "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
+    "score": 47,
+    "pubdate": "2026-08-25-02-14-00 +0000",
+    "source": "wsj",
+    "headline": "The Trump administration is planning what may be the largest mass visa revocation in U.S. history, targeting up to 200,000 foreigners who have applied for asylum status",
+    "link": "https://www.wsj.com/politics/policy/trump-administration-prepares-to-revoke-up-to-200-000-visas-from-asylum-seekers-5b4d4264?mod=rss_socialpoliticsfeed"
   }
 ]
