@@ -1,20 +1,20 @@
 [
   {
-    "score": 231,
+    "score": 219,
     "pubdate": "2026-08-25-03-57-01 +0000",
     "source": "nyt",
     "headline": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
     "link": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
   },
   {
-    "score": 111,
+    "score": 104,
     "pubdate": "2026-08-24-17-27-14 +0000",
     "source": "nypost",
     "headline": "Trump unleashes ‘Operation Economic Outcast’ against Iran as Bessent warns nations not to do business: ‘Tighten the noose’",
     "link": "https://nypost.com/2026/08/24/world-news/trump-unleashes-operation-economic-outcast-against-iran-as-bessent-warns-nations-not-to-do-business-tighten-the-noose/"
   },
   {
-    "score": 84,
+    "score": 80,
     "pubdate": "2026-08-24-23-52-00 +0000",
     "source": "wsj",
     "headline": "A super PAC aligned with President Trump is opening up its wallet to boost Sen. Darline Graham ahead of Tuesday’s runoff election in South Carolina",
@@ -28,7 +28,7 @@
     "link": "https://nypost.com/2026/08/24/us-news/abdul-el-sayed-asks-jesse-watters-are-you-circumcised-while-defending-sex-change-surgery-for-minors/"
   },
   {
-    "score": 71,
+    "score": 69,
     "pubdate": "2026-08-24-21-38-04 +0000",
     "source": "latimes",
     "headline": "Supreme Court for now allows Trump to plan new mail ballot rules. California to sue again",
@@ -49,18 +49,11 @@
     "link": "https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html"
   },
   {
-    "score": 55,
+    "score": 54,
     "pubdate": "2026-08-24-21-54-06 +0000",
     "source": "nypost",
     "headline": "Iran’s rial currency plunges to record low as citizens try to cash out while US pushes new sanctions",
     "link": "https://nypost.com/2026/08/24/world-news/irans-rial-currency-plunges-to-record-low-as-citizens-try-to-cash-out/"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-08-24-10-00-00 +0000",
-    "source": "wsj",
-    "headline": "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom",
-    "link": "https://www.wsj.com/articles/nvidias-earnings-will-test-wall-streets-faith-in-the-ai-boom-09865fea?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 47,
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "Washington Post ordered to rehire columnist Karen Attiah who called Charlie Kirk ‘white man that espoused violence’",
     "link": "https://nypost.com/2026/08/24/media/washington-post-ordered-to-rehire-columnist-karen-attiah-who-called-charlie-kirk-white-man-that-espoused-violence/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-08-24-23-53-32 +0000",
+    "source": "bbc",
+    "headline": "Nearly three million Teslas recalled in China over hidden door handles",
+    "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
   }
 ]
