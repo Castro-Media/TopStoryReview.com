@@ -1,6 +1,6 @@
 [
   {
-    "score": 255,
+    "score": 252,
     "pubdate": "2026-08-25-15-45-57 +0000",
     "source": "nyt",
     "headline": "Trump Threatens to Rename Lake Ontario to Lake America as U.S.-Canada Trade War Heats Up",
@@ -14,7 +14,7 @@
     "link": "https://nypost.com/2026/08/25/us-news/darline-graham-wins-south-carolinas-gop-senate-primary-runoff-election-for-brothers-seat/"
   },
   {
-    "score": 112,
+    "score": 110,
     "pubdate": "2026-08-25-11-53-36 +0000",
     "source": "bbc",
     "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
@@ -28,20 +28,6 @@
     "link": "https://www.wsj.com/world/cia-director-john-ratcliffe-makes-surprise-trip-to-moscow-c1c68fa6?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 62,
-    "pubdate": "2026-08-26-08-11-14 +0000",
-    "source": "bbc",
-    "headline": "Dolly Parton was the one thing most Americans could agree on",
-    "link": "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-08-25-21-01-29 +0000",
-    "source": "nypost",
-    "headline": "Ex-Southern Poverty Law Center’s ringleader no-show at court as she faces charges of funneling $1.2M to white supremacist groups",
-    "link": "https://nypost.com/2026/08/25/us-news/ex-southern-poverty-law-centers-mysterious-ringleader-no-show-at-court-hearing-on-charges-of-funneling-1-2m-to-white-supremacist-groups/"
-  },
-  {
     "score": 61,
     "pubdate": "2026-08-26-07-48-50 +0000",
     "source": "bbc",
@@ -49,11 +35,25 @@
     "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 61,
+    "score": 60,
+    "pubdate": "2026-08-25-21-01-29 +0000",
+    "source": "nypost",
+    "headline": "Ex-Southern Poverty Law Center’s ringleader no-show at court as she faces charges of funneling $1.2M to white supremacist groups",
+    "link": "https://nypost.com/2026/08/25/us-news/ex-southern-poverty-law-centers-mysterious-ringleader-no-show-at-court-hearing-on-charges-of-funneling-1-2m-to-white-supremacist-groups/"
+  },
+  {
+    "score": 60,
     "pubdate": "2026-08-26-01-34-23 +0000",
     "source": "cbc",
     "headline": "California governor 'absolutely' believes Trump will restart trade talks with Canada in 'a matter of days'",
     "link": "https://www.cbc.ca/news/politics/trump-gavin-newsom-canada-trade-negotiations-9.7320584?cmp=rss"
+  },
+  {
+    "score": 59,
+    "pubdate": "2026-08-26-08-11-14 +0000",
+    "source": "bbc",
+    "headline": "Dolly Parton was the one thing most Americans could agree on",
+    "link": "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 58,
