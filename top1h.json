@@ -1,9 +1,72 @@
 [
   {
-    "score": 12,
-    "pubdate": "2026-08-26-13-12-47 +0000",
+    "score": 42,
+    "pubdate": "2026-08-26-16-02-26 +0000",
+    "source": "nyt",
+    "headline": "Diesel Price Nears Record High, Helping Oil Companies and Hurting Consumers",
+    "link": "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-08-26-15-38-01 +0000",
+    "source": "nyt",
+    "headline": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
+    "link": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-08-26-15-51-58 +0000",
+    "source": "nyt",
+    "headline": "Deadly Nepal Flood May Have Been Caused by ‘Ice Avalanche,’ Scientists Say",
+    "link": "https://www.nytimes.com/2026/08/26/world/asia/nepal-flood-glacier-ice-avalanche.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-08-26-15-55-23 +0000",
+    "source": "nyt",
+    "headline": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims",
+    "link": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-26-15-38-54 +0000",
+    "source": "nyt",
+    "headline": "Ukraine’s Most Potent Weapon: The Software Orchestrating Its Drone Army",
+    "link": "https://www.nytimes.com/2026/08/26/world/europe/ukraine-delta-battlefield-management.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-08-26-16-03-31 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Top Gaza Official Says Israel Is Jeopardizing the Cease-Fire",
+    "link": "https://www.nytimes.com/2026/08/26/world/middleeast/trump-official-israel-jeopardizing-gaza-cease-fire.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-26-16-00-10 +0000",
     "source": "nypost",
-    "headline": "12-year-old girl killed in Montana massacre was ‘hero’ who called 911 trying to save her family",
-    "link": "https://nypost.com/2026/08/26/us-news/12-year-old-girl-killed-in-montana-massacre-was-hero-who-called-911-trying-to-save-her-family/"
+    "headline": "Burger King unveils major change to fan-favorite menu item after striking gold with revamped Whopper",
+    "link": "https://nypost.com/2026/08/26/business/burger-king-unveils-major-change-to-fan-favorite-menu-item/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-26-15-42-45 +0000",
+    "source": "bbc",
+    "headline": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+    "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-26-15-34-38 +0000",
+    "source": "nyt",
+    "headline": "Even as Trump’s Standing Slips, He Slingshots Darline Graham to Victory",
+    "link": "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-08-26-16-11-07 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: At Least 95 Killed and Hundreds Missing as Floods Sweep Away Villages in Nepal",
+    "link": "https://www.nytimes.com/live/2026/08/26/world/nepal-floods"
   }
 ]
