@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-08-26-11-02-07 +0000",
+    "score": 40,
+    "pubdate": "2026-08-26-12-50-33 +0000",
+    "source": "chitri",
+    "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news",
+    "link": "https://www.chicagotribune.com/2026/08/26/iran-deal-hormuz/"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-08-26-12-51-21 +0000",
+    "source": "nyt",
+    "headline": "PCE Index Shows Inflation Remained Elevated in July Amid High Energy Costs",
+    "link": "https://www.nytimes.com/2026/08/26/business/economy/inflation-pce.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-08-26-13-02-44 +0000",
+    "source": "nyt",
+    "headline": "What to Know About Bank Melli, Singled Out in U.S. Call for Economic War",
+    "link": "https://www.nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-08-26-12-46-05 +0000",
+    "source": "nyt",
+    "headline": "Gold, Flights, Cryptocurrency: U.S. Vows to Go After More Than Iran’s Oil",
+    "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-08-26-12-17-12 +0000",
+    "source": "bbc",
+    "headline": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+    "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-26-12-50-36 +0000",
+    "source": "nyt",
+    "headline": "Prince Harry and Meghan Arrive in Britain, BBC Reports",
+    "link": "https://www.nytimes.com/2026/08/26/world/europe/prince-harry-meghan-uk-arrival.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-26-12-37-13 +0000",
     "source": "nypost",
-    "headline": "Three teenagers killed, four other people injured in violent Belt Parkway crash",
-    "link": "https://nypost.com/2026/08/26/us-news/three-teenagers-killed-four-other-people-injured-in-violent-belt-parkway-crash/"
+    "headline": "Harrowing footage shows moment flood hits China-Nepal border — leaving 31 dead and hundreds missing, including 3 Americans",
+    "link": "https://nypost.com/2026/08/26/world-news/flood-hits-china-nepal-border-leaving-17-dead-and-hundreds-missing-including-3-americans/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-26-13-12-47 +0000",
+    "source": "nypost",
+    "headline": "12-year-old girl killed in Montana massacre was ‘hero’ who called 911 trying to save her family",
+    "link": "https://nypost.com/2026/08/26/us-news/12-year-old-girl-killed-in-montana-massacre-was-hero-who-called-911-trying-to-save-her-family/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-26-12-39-37 +0000",
+    "source": "bbc",
+    "headline": "Reform proposes £30 tax rebate for HMRC phone delays",
+    "link": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-26-12-22-00 +0000",
+    "source": "wsj",
+    "headline": "Vanguard Buys Wealth Management Platform Altruist in $4 Billion Deal",
+    "link": "https://www.wsj.com/business/deals/vanguard-buys-wealth-management-platform-altruist-in-4-billion-deal-68e7260c?mod=rss_markets_main"
   }
 ]
