@@ -1,24 +1,17 @@
 [
   {
-    "score": 270,
+    "score": 269,
     "pubdate": "2026-08-25-15-45-57 +0000",
     "source": "nyt",
     "headline": "Trump Threatens to Rename Lake Ontario to Lake America as U.S.-Canada Trade War Heats Up",
     "link": "https://www.nytimes.com/2026/08/25/us/politics/trump-lake-ontario-america-canada-trade.html"
   },
   {
-    "score": 140,
+    "score": 139,
     "pubdate": "2026-08-26-04-14-00 +0000",
     "source": "wsj",
     "headline": "Sen. Darline Graham won South Carolina’s Republican Senate primary runoff Tuesday, showing the power of President Trump’s endorsement in GOP politics",
     "link": "https://www.wsj.com/politics/elections/trump-senate-pick-darline-graham-wins-gop-runoff-295b08aa?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 115,
-    "pubdate": "2026-08-25-11-53-36 +0000",
-    "source": "bbc",
-    "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-    "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 93,
@@ -28,18 +21,18 @@
     "link": "https://www.wsj.com/economy/central-banking/the-fed-chairman-is-heading-to-jackson-hole-without-a-clear-stance-on-inflation-eed625d3?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 84,
+    "score": 91,
+    "pubdate": "2026-08-25-21-10-05 +0000",
+    "source": "nypost",
+    "headline": "Oil tanker attacked as it tried to sneak through Strait of Hormuz via US-protected route — after Iran vowed retaliation for sanctions",
+    "link": "https://nypost.com/2026/08/25/world-news/hormuz-tanker-hit-in-us-protected-route-as-iran-vows-retaliation/"
+  },
+  {
+    "score": 79,
     "pubdate": "2026-08-25-17-06-00 +0000",
     "source": "wsj",
     "headline": "CIA Director John Ratcliffe made a surprise visit to Moscow, U.S. officials said, his first publicly known trip to the Russian capital, where he spent about four hours before leaving",
     "link": "https://www.wsj.com/world/cia-director-john-ratcliffe-makes-surprise-trip-to-moscow-c1c68fa6?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 65,
-    "pubdate": "2026-08-26-09-31-51 +0000",
-    "source": "bbc",
-    "headline": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-    "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 64,
@@ -50,23 +43,30 @@
   },
   {
     "score": 63,
-    "pubdate": "2026-08-25-11-14-00 +0000",
-    "source": "wsj",
-    "headline": "Michigan’s Abdul El-Sayed will need to win over more than just the far-left for a victory in November, so he went on Fox News for a lengthy interview. Read more in this edition of the WSJ Politics newsletter:",
-    "link": "https://www.wsj.com/politics/elections/four-takeaways-from-abdul-el-sayeds-wild-fox-news-interview-669a73ad?mod=rss_socialpoliticsfeed"
+    "pubdate": "2026-08-26-09-31-51 +0000",
+    "source": "bbc",
+    "headline": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+    "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 63,
-    "pubdate": "2026-08-26-09-31-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Prices Fall as Oman-Iran Talks Raise Hopes for Hormuz Reopening",
-    "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-oman-iran-talks-raise-hopes-for-hormuz-reopening-877838a6?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 63,
-    "pubdate": "2026-08-25-21-49-52 +0000",
+    "pubdate": "2026-08-26-02-09-20 +0000",
     "source": "nyt",
-    "headline": "Dolly Parton Was Someone We Could All Agree On. Even in Polls.",
-    "link": "https://www.nytimes.com/2026/08/25/us/dolly-parton-polls-bipartisan.html"
+    "headline": "Dolly Parton’s Death Hits Home for Tennesseans: ‘She Was One of Us’",
+    "link": "https://www.nytimes.com/2026/08/25/us/nashville-mourns-dolly-parton.html"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-08-26-01-34-23 +0000",
+    "source": "cbc",
+    "headline": "California governor 'absolutely' believes Trump will restart trade talks with Canada in 'a matter of days'",
+    "link": "https://www.cbc.ca/news/politics/trump-gavin-newsom-canada-trade-negotiations-9.7320584?cmp=rss"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-08-25-16-29-51 +0000",
+    "source": "chitri",
+    "headline": "Ex-Loretto Hospital CEO gets diversion deal amid US attorney’s office scandal: ‘You got lucky here’",
+    "link": "https://www.chicagotribune.com/2026/08/25/ex-loretto-hospital-ceo-diversion-deal/"
   }
 ]
