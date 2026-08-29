@@ -1,27 +1,27 @@
 [
   {
-    "score": 193,
+    "score": 190,
     "pubdate": "2026-08-28-21-55-23 +0000",
     "source": "chitri",
     "headline": "President Trump said he saw a quick end to the Iran war. Six months later he claims he’s in no hurry.",
     "link": "https://www.chicagotribune.com/2026/08/28/trump-iran-war-six-month-mark/"
   },
   {
-    "score": 93,
+    "score": 99,
     "pubdate": "2026-08-28-15-56-16 +0000",
     "source": "wapo",
     "headline": "At least 540 killed in floods; search on for hundreds missing at Nepal-China border",
     "link": "https://www.washingtonpost.com/world/2026/08/28/flood-risks-hamper-efforts-search-hundreds-missing-nepal-china-border/"
   },
   {
-    "score": 90,
+    "score": 86,
     "pubdate": "2026-08-28-21-43-00 +0000",
     "source": "wsj",
     "headline": "Fed Chairman Kevin Warsh spoke today and the odds of an interest-rate hike rose double digits. Plus, Hegseth summoned the military’s top brass  for a meeting and Russians got a little taste of direct democracy. Read more in today’s What’s News newsletter.",
     "link": "https://www.wsj.com/economy/warsh-speaks-and-rate-cut-odds-rise-22689ee5?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 79,
+    "score": 77,
     "pubdate": "2026-08-29-14-30-17 +0000",
     "source": "nyt",
     "headline": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
@@ -29,17 +29,24 @@
   },
   {
     "score": 58,
-    "pubdate": "2026-08-28-19-41-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. will develop an academy to train personnel for government space jobs, along the lines of long-established institutions that do the same for the Air Force and Coast Guard",
-    "link": "https://www.wsj.com/politics/national-security/a-west-point-for-space-trump-calls-for-new-academy-to-train-space-personnel-3d3bb9a7?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 57,
     "pubdate": "2026-08-28-16-58-30 +0000",
     "source": "nypost",
     "headline": "Trump’s new Canada tariffs could flush savings, send toilet paper prices higher — here’s how much",
     "link": "https://nypost.com/2026/08/28/business/trumps-new-canada-tariffs-could-flush-savings-send-toilet-paper-prices-higher-heres-how-much/"
+  },
+  {
+    "score": 58,
+    "pubdate": "2026-08-29-07-11-04 +0000",
+    "source": "bbc",
+    "headline": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+    "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-08-28-19-41-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. will develop an academy to train personnel for government space jobs, along the lines of long-established institutions that do the same for the Air Force and Coast Guard",
+    "link": "https://www.wsj.com/politics/national-security/a-west-point-for-space-trump-calls-for-new-academy-to-train-space-personnel-3d3bb9a7?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 53,
@@ -49,13 +56,6 @@
     "link": "https://www.wsj.com/politics/national-security/drain-on-u-s-munitions-from-iran-war-raises-fears-over-ability-to-deter-china-russia-c7d4512d?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 52,
-    "pubdate": "2026-08-29-02-15-00 +0000",
-    "source": "wsj",
-    "headline": "The White House teleprompter operator under investigation for placing bets using proprietary information faces penalties from Kalshi and federal regulators after reaching a settlement",
-    "link": "https://www.wsj.com/politics/policy/white-house-teleprompter-operator-settles-insider-trading-probe-5e77fdce?mod=rss_socialpoliticsfeed"
-  },
-  {
     "score": 48,
     "pubdate": "2026-08-28-21-50-00 +0000",
     "source": "wsj",
@@ -63,10 +63,10 @@
     "link": "https://www.wsj.com/politics/policy/ice-has-detained-british-media-provocateur-milo-yiannopoulos-a9c1010e?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 47,
-    "pubdate": "2026-08-29-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Scientists monitoring data from satellites and ocean buoys declared the onset of El Niño in June. It is shaping up to be among the strongest in living memory.",
-    "link": "https://www.wsj.com/economy/global/the-strongest-el-nino-in-a-generation-is-wreaking-havoc-on-global-economy-b6fece16?mod=rss_socialeconomyfeed"
+    "score": 48,
+    "pubdate": "2026-08-28-16-58-58 +0000",
+    "source": "latimes",
+    "headline": "California sues Trump administration, developer over deal to walk away from Morro Bay wind power",
+    "link": "https://www.latimes.com/environment/story/2026-08-28/california-sues-trump-administration-developer-over-deal-to-walk-away-from-morro-bay-wind-p"
   }
 ]
