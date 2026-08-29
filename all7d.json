@@ -1,21 +1,63 @@
 [
   {
+    "headline": "27 Killed Near Kyiv as Russian Drone Blitz Exposes Air Defense Gap",
+    "link": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
+    "source": "nyt",
+    "pubdate": "2026-08-29-11-54-42 +0000"
+  },
+  {
+    "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-29-11-53-37 +0000"
+  },
+  {
+    "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-29-11-53-37 +0000"
+  },
+  {
+    "headline": "Barber offers free back-to-school haircuts",
+    "link": "https://www.bbc.co.uk/news/articles/c3eq38dzpe5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-29-11-47-46 +0000"
+  },
+  {
+    "headline": "What we know about deadly Nepal-Tibet floods",
+    "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-29-11-47-40 +0000"
+  },
+  {
+    "headline": "How Dolly Parton Built an Empire on Owning Her Songs",
+    "link": "https://www.wsj.com/business/how-dolly-parton-built-an-empire-on-owning-her-songs-fd3ce8ea?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-29-11-00-00 +0000"
+  },
+  {
+    "headline": "How Dolly Parton Built an Empire on Owning Her Songs",
+    "link": "https://www.wsj.com/business/how-dolly-parton-built-an-empire-on-owning-her-songs-fd3ce8ea?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-29-11-00-00 +0000"
+  },
+  {
+    "headline": "Reading at Dolores Park, Part 2",
+    "link": "https://missionlocal.org/2026/08/reading-at-dolores-park-part-2/",
+    "source": "missionlocal",
+    "pubdate": "2026-08-29-11-00-00 +0000"
+  },
+  {
+    "headline": "A wildfire caused millions in damages in Napa County. A winery worker is accused of causing it",
+    "link": "https://www.latimes.com/california/story/2026-08-29/winery-worker-charged-with-causing-damaging-napa-wine-country-wildfire",
+    "source": "latimes",
+    "pubdate": "2026-08-29-11-00-00 +0000"
+  },
+  {
     "headline": "Burnham's summer tour is over - now he has to prove himself in Parliament",
     "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-29-10-31-18 +0000"
-  },
-  {
-    "headline": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
-    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-29-10-28-41 +0000"
-  },
-  {
-    "headline": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
-    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-29-10-28-41 +0000"
   },
   {
     "headline": "Russian attack hits Ukraine’s Kyiv region, killing at least 27",
@@ -444,6 +486,12 @@
     "pubdate": "2026-08-29-08-00-00 +0000"
   },
   {
+    "headline": "As insults fly around trade, negotiators for Canada and the U.S. avoid getting personal in public",
+    "link": "https://www.cbc.ca/news/world/canada-united-states-trade-war-mark-carney-donald-trump-doug-ford-dominic-leblanc-jamieson-greer-9.7322974?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-08-29-08-00-00 +0000"
+  },
+  {
     "headline": "Washington dad writes his own heartfelt obituary as tribute goes viral: ‘Best obituary ever’",
     "link": "https://nypost.com/2026/08/29/us-news/washington-dad-michael-de-simone-writes-his-own-heartfelt-obituary-as-tribute-goes-viral/",
     "source": "nypost",
@@ -472,12 +520,6 @@
     "link": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
     "source": "nyt",
     "pubdate": "2026-08-29-07-09-16 +0000"
-  },
-  {
-    "headline": "What we know about deadly Nepal-Tibet floods",
-    "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-29-06-16-26 +0000"
   },
   {
     "headline": "Texas construction worker killed after house collapses due to intense winds",
@@ -582,7 +624,7 @@
     "pubdate": "2026-08-29-03-54-11 +0000"
   },
   {
-    "headline": "Judge finds NYC mom with postpartum psychosis not guilty of killing her 2 young kids",
+    "headline": "Judge finds NYC mom with postpartum psychosis not guilty of killing her 2 young kids in case with eerie similarities to Lindsay Clancy",
     "link": "https://nypost.com/2026/08/28/us-news/judge-finds-nyc-mom-with-postpartum-psychosis-not-guilty-of-killing-her-2-young-kids/",
     "source": "nypost",
     "pubdate": "2026-08-29-03-53-06 +0000"
@@ -982,6 +1024,12 @@
     "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-28-23-47-38 +0000"
+  },
+  {
+    "headline": "Trump says U.S. makes deal to control 65 billion barrels of Venezuelan oil reserves",
+    "link": "https://www.cbc.ca/news/world/trump-venezuela-oil-reserves-deal-9.7325117?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-08-28-23-31-03 +0000"
   },
   {
     "headline": "Moment brazen thieves steal $300K Corvette C8 ZR1 straight from California driveway",
@@ -1432,12 +1480,6 @@
     "link": "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/",
     "source": "wapo",
     "pubdate": "2026-08-28-20-55-06 +0000"
-  },
-  {
-    "headline": "Short-Term Treasury Yields Rise as Warsh Targets Inflation in Jackson Hole Speech",
-    "link": "https://www.wsj.com/finance/investing/global-bond-yields-rise-ahead-of-feds-warsh-speech-10-year-bund-yield-hits-15-year-high-c7ac0da3?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-28-20-53-00 +0000"
   },
   {
     "headline": "Judge Throws Out Key 9/11 Confession as Tainted by Torture",
@@ -2934,14 +2976,14 @@
     "pubdate": "2026-08-28-10-00-00 +0000"
   },
   {
-    "headline": "Is Long Beach ready for a floating nuclear power plant? Here's what to know",
-    "link": "https://www.latimes.com/business/story/2026-08-28/is-long-beach-ready-for-floating-nuclear-power-plant-heres-what-to-know",
+    "headline": "Edison to pay climate credit cash to SoCal customers",
+    "link": "https://www.latimes.com/business/story/2026-08-28/edison-to-pay-climate-credit-cash-to-socal-customers",
     "source": "latimes",
     "pubdate": "2026-08-28-10-00-00 +0000"
   },
   {
-    "headline": "Edison to pay climate credit cash to SoCal customers",
-    "link": "https://www.latimes.com/business/story/2026-08-28/edison-to-pay-climate-credit-cash-to-socal-customers",
+    "headline": "Meta's 'Big Tobacco moment' leaves parents asking if social media is too dangerous for kids",
+    "link": "https://www.latimes.com/business/story/2026-08-28/metas-massive-settlement-may-not-be-enough-to-improve-child-safety-experts-say",
     "source": "latimes",
     "pubdate": "2026-08-28-10-00-00 +0000"
   },
@@ -2952,8 +2994,8 @@
     "pubdate": "2026-08-28-10-00-00 +0000"
   },
   {
-    "headline": "Meta's 'Big Tobacco moment' leaves parents asking if social media is too dangerous for kids",
-    "link": "https://www.latimes.com/business/story/2026-08-28/metas-massive-settlement-may-not-be-enough-to-improve-child-safety-experts-say",
+    "headline": "Is Long Beach ready for a floating nuclear power plant? Here's what to know",
+    "link": "https://www.latimes.com/business/story/2026-08-28/is-long-beach-ready-for-floating-nuclear-power-plant-heres-what-to-know",
     "source": "latimes",
     "pubdate": "2026-08-28-10-00-00 +0000"
   },
@@ -4596,12 +4638,6 @@
     "pubdate": "2026-08-27-15-21-59 +0000"
   },
   {
-    "headline": "Build-A-Bear Cuts Revenue View, Fires Exec After Summer Line Flop",
-    "link": "https://www.wsj.com/business/earnings/build-a-bear-cuts-outlook-fires-exec-after-sales-fall-54a7d6a4?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-27-15-14-00 +0000"
-  },
-  {
     "headline": "Police investigating suspected arson after cars at Liberal MP's home torched",
     "link": "https://www.cbc.ca/news/canada/toronto/police-arson-investigation-liberal-mp-home-9.7322645?cmp=rss",
     "source": "cbc",
@@ -4612,12 +4648,6 @@
     "link": "https://www.cbc.ca/news/politics/should-canada-release-details-of-trade-deal-with-us-9.7322569?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-08-27-15-10-27 +0000"
-  },
-  {
-    "headline": "UEFA prepares criminal complaint in Swiss courts against FIFA's Infantino over World Cup sell-off",
-    "link": "https://www.cbc.ca/sports/soccer/fifa-infantino-uefa-criminal-complaint-world-cup-selloff-9.7322609?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-08-27-15-01-26 +0000"
   },
   {
     "headline": "Memory wars: Election clash over Germany's Nazi past as AfD eyes power in east",
@@ -4702,12 +4732,6 @@
     "link": "https://www.nytimes.com/2026/08/26/science/pancreatic-cancer-daraxonrasib-approval.html",
     "source": "nyt",
     "pubdate": "2026-08-27-13-58-43 +0000"
-  },
-  {
-    "headline": "Khalid Sheik Mohammed, accused of masterminding 9/11 attacks, set for military tribunal trial in 2028",
-    "link": "https://www.cbc.ca/news/world/guantanamo-khalid-sheik-mohammed-trial-date-9.7322450?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-08-27-13-57-43 +0000"
   },
   {
     "headline": "How Dollywood Captured the Essence of Dolly Parton",
@@ -5058,12 +5082,6 @@
     "pubdate": "2026-08-27-09-50-00 +0000"
   },
   {
-    "headline": "Plug-in solar panels are coming to a shop near you - here's what to know",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-27-09-41-14 +0000"
-  },
-  {
     "headline": "The selloff in U.S. Treasurys has captured global attention, but bond markets overseas have been getting hit even harder. Here’s a breakdown of the forces fueling the overseas rout.",
     "link": "https://www.wsj.com/economy/global/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-7224cf70?mod=rss_socialeconomyfeed",
     "source": "wsj",
@@ -5092,12 +5110,6 @@
     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cy4z39q2nw1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-27-09-28-00 +0000"
-  },
-  {
-    "headline": "Rescuers in Nepal Face Devastated Roads and Tough Terrain After Deadly Flood",
-    "link": "https://www.nytimes.com/2026/08/27/world/asia/nepal-china-flash-flood-rescue-roads-bridges.html",
-    "source": "nyt",
-    "pubdate": "2026-08-27-09-23-35 +0000"
   },
   {
     "headline": "As Anger Grows Over Trump Tariffs, Some in Canada Want Out of U.S. F-35 Deal",
@@ -5964,14 +5976,14 @@
     "pubdate": "2026-08-26-10-00-10 +0000"
   },
   {
-    "headline": "California-based grocer Raley's to shut several stores in state",
-    "link": "https://www.latimes.com/business/story/2026-08-26/californian-grocer-raleys-to-shut-brentwood-other-outlets",
+    "headline": "Uber gives parents the option to livestream their teens' rides",
+    "link": "https://www.latimes.com/business/story/2026-08-26/uber-gives-parents-option-to-livestream-their-teens-rides",
     "source": "latimes",
     "pubdate": "2026-08-26-10-00-00 +0000"
   },
   {
-    "headline": "Uber gives parents the option to livestream their teens' rides",
-    "link": "https://www.latimes.com/business/story/2026-08-26/uber-gives-parents-option-to-livestream-their-teens-rides",
+    "headline": "California-based grocer Raley's to shut several stores in state",
+    "link": "https://www.latimes.com/business/story/2026-08-26/californian-grocer-raleys-to-shut-brentwood-other-outlets",
     "source": "latimes",
     "pubdate": "2026-08-26-10-00-00 +0000"
   },
@@ -7368,12 +7380,6 @@
     "pubdate": "2026-08-23-10-00-00 +0000"
   },
   {
-    "headline": "Raman's role in tackling homelessness comes under scrutiny in L.A. mayor's race",
-    "link": "https://www.latimes.com/california/story/2026-08-23/how-did-nithya-do-as",
-    "source": "latimes",
-    "pubdate": "2026-08-23-10-00-00 +0000"
-  },
-  {
     "headline": "The Texas Activist Putting the Ten Commandments Back Into American Classrooms",
     "link": "https://www.wsj.com/politics/policy/texas-who-is-david-barton-460d7029?mod=rss_usnews",
     "source": "wsj",
@@ -7456,11 +7462,5 @@
     "link": "https://www.chicagotribune.com/2026/08/22/us-canada-tariffs/",
     "source": "chitri",
     "pubdate": "2026-08-22-13-21-09 +0000"
-  },
-  {
-    "headline": "Second sun rises in San Francisco: Yerba Buena gets Filipino light installation",
-    "link": "https://missionlocal.org/2026/08/sf-philippine-sun-installation/",
-    "source": "missionlocal",
-    "pubdate": "2026-08-22-13-00-00 +0000"
   }
 ]

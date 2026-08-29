@@ -1,21 +1,63 @@
 [
   {
+    "headline": "27 Killed Near Kyiv as Russian Drone Blitz Exposes Air Defense Gap",
+    "link": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html",
+    "source": "nyt",
+    "pubdate": "2026-08-29-11-54-42 +0000"
+  },
+  {
+    "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-29-11-53-37 +0000"
+  },
+  {
+    "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-29-11-53-37 +0000"
+  },
+  {
+    "headline": "Barber offers free back-to-school haircuts",
+    "link": "https://www.bbc.co.uk/news/articles/c3eq38dzpe5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-29-11-47-46 +0000"
+  },
+  {
+    "headline": "What we know about deadly Nepal-Tibet floods",
+    "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-08-29-11-47-40 +0000"
+  },
+  {
+    "headline": "How Dolly Parton Built an Empire on Owning Her Songs",
+    "link": "https://www.wsj.com/business/how-dolly-parton-built-an-empire-on-owning-her-songs-fd3ce8ea?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-08-29-11-00-00 +0000"
+  },
+  {
+    "headline": "How Dolly Parton Built an Empire on Owning Her Songs",
+    "link": "https://www.wsj.com/business/how-dolly-parton-built-an-empire-on-owning-her-songs-fd3ce8ea?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-08-29-11-00-00 +0000"
+  },
+  {
+    "headline": "Reading at Dolores Park, Part 2",
+    "link": "https://missionlocal.org/2026/08/reading-at-dolores-park-part-2/",
+    "source": "missionlocal",
+    "pubdate": "2026-08-29-11-00-00 +0000"
+  },
+  {
+    "headline": "A wildfire caused millions in damages in Napa County. A winery worker is accused of causing it",
+    "link": "https://www.latimes.com/california/story/2026-08-29/winery-worker-charged-with-causing-damaging-napa-wine-country-wildfire",
+    "source": "latimes",
+    "pubdate": "2026-08-29-11-00-00 +0000"
+  },
+  {
     "headline": "Burnham's summer tour is over - now he has to prove himself in Parliament",
     "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-29-10-31-18 +0000"
-  },
-  {
-    "headline": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
-    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-29-10-28-41 +0000"
-  },
-  {
-    "headline": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
-    "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-29-10-28-41 +0000"
   },
   {
     "headline": "Russian attack hits Ukraine’s Kyiv region, killing at least 27",
@@ -444,6 +486,12 @@
     "pubdate": "2026-08-29-08-00-00 +0000"
   },
   {
+    "headline": "As insults fly around trade, negotiators for Canada and the U.S. avoid getting personal in public",
+    "link": "https://www.cbc.ca/news/world/canada-united-states-trade-war-mark-carney-donald-trump-doug-ford-dominic-leblanc-jamieson-greer-9.7322974?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-08-29-08-00-00 +0000"
+  },
+  {
     "headline": "Washington dad writes his own heartfelt obituary as tribute goes viral: ‘Best obituary ever’",
     "link": "https://nypost.com/2026/08/29/us-news/washington-dad-michael-de-simone-writes-his-own-heartfelt-obituary-as-tribute-goes-viral/",
     "source": "nypost",
@@ -472,12 +520,6 @@
     "link": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html",
     "source": "nyt",
     "pubdate": "2026-08-29-07-09-16 +0000"
-  },
-  {
-    "headline": "What we know about deadly Nepal-Tibet floods",
-    "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-29-06-16-26 +0000"
   },
   {
     "headline": "Texas construction worker killed after house collapses due to intense winds",
@@ -582,7 +624,7 @@
     "pubdate": "2026-08-29-03-54-11 +0000"
   },
   {
-    "headline": "Judge finds NYC mom with postpartum psychosis not guilty of killing her 2 young kids",
+    "headline": "Judge finds NYC mom with postpartum psychosis not guilty of killing her 2 young kids in case with eerie similarities to Lindsay Clancy",
     "link": "https://nypost.com/2026/08/28/us-news/judge-finds-nyc-mom-with-postpartum-psychosis-not-guilty-of-killing-her-2-young-kids/",
     "source": "nypost",
     "pubdate": "2026-08-29-03-53-06 +0000"
@@ -982,6 +1024,12 @@
     "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-08-28-23-47-38 +0000"
+  },
+  {
+    "headline": "Trump says U.S. makes deal to control 65 billion barrels of Venezuelan oil reserves",
+    "link": "https://www.cbc.ca/news/world/trump-venezuela-oil-reserves-deal-9.7325117?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-08-28-23-31-03 +0000"
   },
   {
     "headline": "Moment brazen thieves steal $300K Corvette C8 ZR1 straight from California driveway",
@@ -1432,12 +1480,6 @@
     "link": "https://www.washingtonpost.com/nation/2026/08/28/nashville-airport-may-be-renamed-honor-dolly-parton/",
     "source": "wapo",
     "pubdate": "2026-08-28-20-55-06 +0000"
-  },
-  {
-    "headline": "Short-Term Treasury Yields Rise as Warsh Targets Inflation in Jackson Hole Speech",
-    "link": "https://www.wsj.com/finance/investing/global-bond-yields-rise-ahead-of-feds-warsh-speech-10-year-bund-yield-hits-15-year-high-c7ac0da3?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-28-20-53-00 +0000"
   },
   {
     "headline": "Judge Throws Out Key 9/11 Confession as Tainted by Torture",
@@ -2734,89 +2776,5 @@
     "link": "https://www.wsj.com/economy/jobs/blue-collar-jobs-are-the-new-flashpoint-in-data-center-fight-aaca5b7e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-08-28-12-00-00 +0000"
-  },
-  {
-    "headline": "Nepal flash floods disaster kill more than 500 as a lake poses a new threat",
-    "link": "https://nypost.com/2026/08/28/world-news/death-toll-rises-in-nepal-china-border-disaster-as-a-lake-poses-new-flood-threat/",
-    "source": "nypost",
-    "pubdate": "2026-08-28-11-30-36 +0000"
-  },
-  {
-    "headline": "Disaster Experts Say Nepal Glacier Collapse Was Difficult to Predict",
-    "link": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-glacier-collapse.html",
-    "source": "nyt",
-    "pubdate": "2026-08-28-11-27-32 +0000"
-  },
-  {
-    "headline": "Disaster Experts Say Nepal Glacier Collapse Was Difficult to Predict",
-    "link": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-glacier-collapse.html",
-    "source": "nyt",
-    "pubdate": "2026-08-28-11-27-32 +0000"
-  },
-  {
-    "headline": "Trump’s mail ballot executive order blocked in ruling that will likely be quickly appealed",
-    "link": "https://nypost.com/2026/08/28/us-news/trumps-mail-ballot-executive-order-blocked-in-ruling-that-will-likely-be-quickly-appealed/",
-    "source": "nypost",
-    "pubdate": "2026-08-28-11-24-39 +0000"
-  },
-  {
-    "headline": "Jackson Hole Highlights New Tug-of-War for the Treasury and Fed",
-    "link": "https://www.wsj.com/cfo-journal/jackson-hole-highlights-new-tug-of-war-for-the-treasury-and-fed-ba257a82?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-28-11-20-00 +0000"
-  },
-  {
-    "headline": "BYD’s Overseas Push Drives Quarterly Profit Growth",
-    "link": "https://www.wsj.com/business/earnings/byds-overseas-push-drives-quarterly-profit-growth-b34b859e?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-28-11-19-00 +0000"
-  },
-  {
-    "headline": "World's youngest reigning traditional monarch dies aged 34",
-    "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-28-11-13-24 +0000"
-  },
-  {
-    "headline": "World's youngest reigning traditional monarch dies aged 34",
-    "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-28-11-13-24 +0000"
-  },
-  {
-    "headline": "Pulpwood Market Collapse Hits South’s Forest Economy",
-    "link": "https://www.wsj.com/logistics-report/pulpwood-market-collapse-hits-souths-forest-economy-2fa73ff8?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-28-11-07-00 +0000"
-  },
-  {
-    "headline": "You Can Photograph This Pretty Irish Castle. You Just Can’t Go In.",
-    "link": "https://www.nytimes.com/2026/08/28/world/europe/ireland-dunguaire-castle.html",
-    "source": "nyt",
-    "pubdate": "2026-08-28-11-04-42 +0000"
-  },
-  {
-    "headline": "You Can Photograph This Pretty Irish Castle. You Just Can’t Go In.",
-    "link": "https://www.nytimes.com/2026/08/28/world/europe/ireland-dunguaire-castle.html",
-    "source": "nyt",
-    "pubdate": "2026-08-28-11-04-42 +0000"
-  },
-  {
-    "headline": "I want three kids. My wife is one and done. Should I leave her?",
-    "link": "https://www.startribune.com/i-want-three-kids-my-wife-is-one-and-done-should-i-leave-her/601871455",
-    "source": "startribune",
-    "pubdate": "2026-08-28-11-00-00 +0000"
-  },
-  {
-    "headline": "ICE enforcement hits record high in Northern California",
-    "link": "https://missionlocal.org/2026/08/northern-california-ice-arrests-increase/",
-    "source": "missionlocal",
-    "pubdate": "2026-08-28-11-00-00 +0000"
-  },
-  {
-    "headline": "Greens call for temporary ban on new data centres",
-    "link": "https://www.bbc.co.uk/news/articles/cz0zm4pzme2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-28-10-59-13 +0000"
   }
 ]
