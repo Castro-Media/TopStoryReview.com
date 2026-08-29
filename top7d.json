@@ -1,31 +1,24 @@
 [
   {
-    "score": 481,
+    "score": 482,
     "pubdate": "2026-08-26-20-59-13 +0000",
     "source": "nyt",
     "headline": "Canadians Stand Their Ground Amid New Trump Tariffs and Expanding U.S.-Canada Trade War",
     "link": "https://www.nytimes.com/2026/08/26/world/canada/carney-canada-trump-tariffs-retaliate.html"
   },
   {
-    "score": 232,
+    "score": 233,
     "pubdate": "2026-08-26-12-50-33 +0000",
     "source": "chitri",
     "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news",
     "link": "https://www.chicagotribune.com/2026/08/26/iran-deal-hormuz/"
   },
   {
-    "score": 186,
+    "score": 185,
     "pubdate": "2026-08-26-17-45-44 +0000",
     "source": "latimes",
     "headline": "Southern California's scorching heat wave peaks: Here's how hot it will get and when it will end",
     "link": "https://www.latimes.com/california/story/2026-08-26/southern-california-heat-wave-peaks-how-hot-will-it-get-when-will-it-end"
-  },
-  {
-    "score": 161,
-    "pubdate": "2026-08-28-21-31-48 +0000",
-    "source": "chitri",
-    "headline": "Rescuers retrieve flood survivors caked in mud as death toll in Nepal-China border disaster climbs",
-    "link": "https://www.chicagotribune.com/2026/08/28/nepal-china-flood-survivors/"
   },
   {
     "score": 160,
@@ -35,6 +28,13 @@
     "link": "https://www.wsj.com/economy/warsh-speaks-and-rate-cut-odds-rise-22689ee5?mod=rss_socialeconomyfeed"
   },
   {
+    "score": 160,
+    "pubdate": "2026-08-28-21-31-48 +0000",
+    "source": "chitri",
+    "headline": "Rescuers retrieve flood survivors caked in mud as death toll in Nepal-China border disaster climbs",
+    "link": "https://www.chicagotribune.com/2026/08/28/nepal-china-flood-survivors/"
+  },
+  {
     "score": 140,
     "pubdate": "2026-08-27-17-58-49 +0000",
     "source": "chitri",
@@ -42,14 +42,14 @@
     "link": "https://www.chicagotribune.com/2026/08/27/trump-signs-order-renaming-lake-ontario-america/"
   },
   {
-    "score": 133,
+    "score": 134,
     "pubdate": "2026-08-28-02-14-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration for now can’t move forward with rules upending mail-in voting procedures ahead of midterm elections, a federal judge ruled, a new chapter in what is likely to be fast-moving litigation.",
     "link": "https://www.wsj.com/politics/policy/judge-temporarily-blocks-new-trump-administration-mail-in-ballot-rules-104dd5ce?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 131,
+    "score": 133,
     "pubdate": "2026-08-26-22-49-36 +0000",
     "source": "nyt",
     "headline": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims",
@@ -63,7 +63,7 @@
     "link": "https://www.wsj.com/politics/policy/corporate-america-backed-trump-now-its-hedging-against-a-democratic-house-4219da12?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 109,
+    "score": 111,
     "pubdate": "2026-08-28-17-46-49 +0000",
     "source": "nypost",
     "headline": "Persian Gulf oil exports rebound to two-thirds of pre-war levels — could keep oil below $90 mark",
