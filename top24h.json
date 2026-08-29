@@ -1,31 +1,38 @@
 [
   {
-    "score": 169,
+    "score": 156,
     "pubdate": "2026-08-28-21-55-23 +0000",
     "source": "chitri",
     "headline": "President Trump said he saw a quick end to the Iran war. Six months later he claims he’s in no hurry.",
     "link": "https://www.chicagotribune.com/2026/08/28/trump-iran-war-six-month-mark/"
   },
   {
-    "score": 79,
+    "score": 84,
     "pubdate": "2026-08-29-15-32-09 +0000",
     "source": "nypost",
     "headline": "US families with relatives missing in the Nepal-China floods plead for more rescue help: ‘We don’t know anything’",
     "link": "https://nypost.com/2026/08/29/world-news/us-families-with-relatives-missing-in-the-nepal-china-floods-plead-for-more-rescue-help/"
   },
   {
-    "score": 71,
+    "score": 66,
     "pubdate": "2026-08-28-21-43-00 +0000",
     "source": "wsj",
     "headline": "Fed Chairman Kevin Warsh spoke today and the odds of an interest-rate hike rose double digits. Plus, Hegseth summoned the military’s top brass  for a meeting and Russians got a little taste of direct democracy. Read more in today’s What’s News newsletter.",
     "link": "https://www.wsj.com/economy/warsh-speaks-and-rate-cut-odds-rise-22689ee5?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 68,
+    "score": 64,
     "pubdate": "2026-08-29-16-15-56 +0000",
     "source": "bbc",
     "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
     "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 57,
+    "pubdate": "2026-08-28-21-45-07 +0000",
+    "source": "nyt",
+    "headline": "Milo Yiannopoulos, a Right-Wing Provocateur, Is Arrested by ICE",
+    "link": "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html"
   },
   {
     "score": 53,
@@ -35,38 +42,31 @@
     "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
-    "pubdate": "2026-08-28-19-51-28 +0000",
-    "source": "chitri",
-    "headline": "Illinois will spend Meta settlement cash on social media harms, AG says, after union pushes education funding",
-    "link": "https://www.chicagotribune.com/2026/08/28/illinois-meta-settlement-spending/"
+    "score": 46,
+    "pubdate": "2026-08-29-00-35-04 +0000",
+    "source": "bbc",
+    "headline": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
+    "link": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
-    "pubdate": "2026-08-29-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. has rushed so many munitions to the Middle East to fight Iran that planners are concerned the loss of firepower is diminishing the military’s ability to defend against potential threats from China and Russia, U.S. officials said",
-    "link": "https://www.wsj.com/politics/national-security/drain-on-u-s-munitions-from-iran-war-raises-fears-over-ability-to-deter-china-russia-c7d4512d?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 49,
-    "pubdate": "2026-08-29-16-53-44 +0000",
-    "source": "nypost",
-    "headline": "‘Illegal alien’ Milo Yiannopoulos kicked out of US one day after getting nabbed by ICE at airport",
-    "link": "https://nypost.com/2026/08/29/us-news/milo-yiannopoulos-deported-from-us-after-getting-nabbed-by-ice-at-airport/"
-  },
-  {
-    "score": 49,
+    "score": 45,
     "pubdate": "2026-08-29-09-30-00 +0000",
     "source": "wsj",
     "headline": "Scientists monitoring data from satellites and ocean buoys declared the onset of El Niño in June. It is shaping up to be among the strongest in living memory.",
     "link": "https://www.wsj.com/economy/global/the-strongest-el-nino-in-a-generation-is-wreaking-havoc-on-global-economy-b6fece16?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 44,
-    "pubdate": "2026-08-28-19-02-07 +0000",
-    "source": "cbc",
-    "headline": "U.S. may seek win with Mexico in wake of collapsed trade talks with Canada, says ex-negotiator",
-    "link": "https://www.cbc.ca/news/world/mexico-canada-us-trade-9.7324372?cmp=rss"
+    "score": 42,
+    "pubdate": "2026-08-29-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. has rushed so many munitions to the Middle East to fight Iran that planners are concerned the loss of firepower is diminishing the military’s ability to defend against potential threats from China and Russia, U.S. officials said",
+    "link": "https://www.wsj.com/politics/national-security/drain-on-u-s-munitions-from-iran-war-raises-fears-over-ability-to-deter-china-russia-c7d4512d?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 42,
+    "pubdate": "2026-08-29-13-26-50 +0000",
+    "source": "chitri",
+    "headline": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks",
+    "link": "https://www.chicagotribune.com/2026/08/29/russia-strikes-kyiv/"
   }
 ]
