@@ -7,25 +7,11 @@
     "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
+    "score": 51,
     "pubdate": "2026-08-29-16-02-52 +0000",
     "source": "chitri",
     "headline": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
     "link": "https://www.chicagotribune.com/2026/08/29/nepal-china-flood-safe-areas/"
-  },
-  {
-    "score": 45,
-    "pubdate": "2026-08-29-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Scientists monitoring data from satellites and ocean buoys declared the onset of El Niño in June. It is shaping up to be among the strongest in living memory.",
-    "link": "https://www.wsj.com/economy/global/the-strongest-el-nino-in-a-generation-is-wreaking-havoc-on-global-economy-b6fece16?mod=rss_socialeconomyfeed"
-  },
-  {
-    "score": 43,
-    "pubdate": "2026-08-29-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "California's new attempt to help struggling newsrooms faces key test",
-    "link": "https://www.latimes.com/california/story/2026-08-29/californias-new-attempt-to-help-struggling-newsrooms-faces-key-test"
   },
   {
     "score": 43,
@@ -33,6 +19,13 @@
     "source": "wapo",
     "headline": "British far-right provocateur Milo Yiannopoulos deported by ICE",
     "link": "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2026-08-29-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "California's new attempt to help struggling newsrooms faces key test",
+    "link": "https://www.latimes.com/california/story/2026-08-29/californias-new-attempt-to-help-struggling-newsrooms-faces-key-test"
   },
   {
     "score": 42,
@@ -49,14 +42,14 @@
     "link": "https://www.latimes.com/business/story/2026-08-29/la-fi-newsom-utility-wildfires"
   },
   {
-    "score": 30,
-    "pubdate": "2026-08-29-09-03-50 +0000",
+    "score": 35,
+    "pubdate": "2026-08-29-14-54-48 +0000",
     "source": "nyt",
-    "headline": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
-    "link": "https://www.nytimes.com/2026/08/29/world/middleeast/turkey-israel-tensions-region.html"
+    "headline": "High Debt and Rising Prices Catch Up to Trump, as Midterms Near",
+    "link": "https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html"
   },
   {
-    "score": 29,
+    "score": 34,
     "pubdate": "2026-08-29-23-28-45 +0000",
     "source": "nyt",
     "headline": "El-Sayed Apologizes for March Comment About Michigan Synagogue Attack",
@@ -68,5 +61,12 @@
     "source": "nypost",
     "headline": "135 wild animals seized from cartel zoo as Mexican security forces search for stolen fuel leads to shocking discovery",
     "link": "https://nypost.com/2026/08/29/world-news/mexican-security-forces-seize-135-wild-animals-at-cartel-zoo/"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-08-29-18-20-32 +0000",
+    "source": "nyt",
+    "headline": "For LGBTQ Fans, Dolly Parton Inspired Their Wigs and Makeup, and Had Their Back Too",
+    "link": "https://www.nytimes.com/2026/08/29/us/dolly-parton-drag-queens-lgbtq.html"
   }
 ]
