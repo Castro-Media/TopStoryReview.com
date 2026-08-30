@@ -14,18 +14,11 @@
     "link": "https://www.chicagotribune.com/2026/08/29/nepal-china-flood-safe-areas/"
   },
   {
-    "score": 48,
+    "score": 45,
     "pubdate": "2026-08-29-09-30-00 +0000",
     "source": "wsj",
     "headline": "Scientists monitoring data from satellites and ocean buoys declared the onset of El Niño in June. It is shaping up to be among the strongest in living memory.",
     "link": "https://www.wsj.com/economy/global/the-strongest-el-nino-in-a-generation-is-wreaking-havoc-on-global-economy-b6fece16?mod=rss_socialeconomyfeed"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-08-29-22-27-58 +0000",
-    "source": "nypost",
-    "headline": "Muslim holy days of Eid al-Fitr and Eid al-Adha closer to becoming California holidays",
-    "link": "https://nypost.com/2026/08/29/us-news/eid-al-fitr-and-eid-al-adha-closer-to-becoming-california-holidays/"
   },
   {
     "score": 43,
@@ -33,6 +26,13 @@
     "source": "wapo",
     "headline": "British far-right provocateur Milo Yiannopoulos deported by ICE",
     "link": "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2026-08-29-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "California's new attempt to help struggling newsrooms faces key test",
+    "link": "https://www.latimes.com/california/story/2026-08-29/californias-new-attempt-to-help-struggling-newsrooms-faces-key-test"
   },
   {
     "score": 41,
@@ -50,10 +50,10 @@
   },
   {
     "score": 37,
-    "pubdate": "2026-08-29-19-06-28 +0000",
+    "pubdate": "2026-08-29-07-11-04 +0000",
     "source": "bbc",
-    "headline": "Norway's new king remembers 'my dear father' in first speech",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss"
+    "headline": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+    "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 34,
@@ -63,10 +63,10 @@
     "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 33,
-    "pubdate": "2026-08-29-07-11-04 +0000",
-    "source": "bbc",
-    "headline": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-    "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss"
+    "score": 30,
+    "pubdate": "2026-08-29-09-03-50 +0000",
+    "source": "nyt",
+    "headline": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
+    "link": "https://www.nytimes.com/2026/08/29/world/middleeast/turkey-israel-tensions-region.html"
   }
 ]
