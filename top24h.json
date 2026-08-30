@@ -1,17 +1,17 @@
 [
   {
-    "score": 120,
+    "score": 113,
     "pubdate": "2026-08-29-21-28-52 +0000",
     "source": "cbc",
     "headline": "Trump's Venezuelan oil deal: What we know and how it could impact Canada's oil industry",
     "link": "https://www.cbc.ca/news/world/trump-venezuela-oil-deal-explainer-9.7325621?cmp=rss"
   },
   {
-    "score": 52,
-    "pubdate": "2026-08-29-04-21-05 +0000",
-    "source": "nyt",
-    "headline": "See Moments After a Glacier Collapsed, Launching Deadly Flash Floods in Nepal",
-    "link": "https://www.nytimes.com/2026/08/28/world/asia/himalayan-glacier-collapse-flood.html"
+    "score": 53,
+    "pubdate": "2026-08-29-16-02-52 +0000",
+    "source": "chitri",
+    "headline": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
+    "link": "https://www.chicagotribune.com/2026/08/29/nepal-china-flood-safe-areas/"
   },
   {
     "score": 48,
@@ -35,18 +35,11 @@
     "link": "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
   },
   {
-    "score": 40,
+    "score": 43,
     "pubdate": "2026-08-29-13-26-50 +0000",
     "source": "chitri",
     "headline": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks",
     "link": "https://www.chicagotribune.com/2026/08/29/russia-strikes-kyiv/"
-  },
-  {
-    "score": 37,
-    "pubdate": "2026-08-29-19-56-32 +0000",
-    "source": "latimes",
-    "headline": "Facing protests, Newsom drops most of plan limiting utility wildfire liabilities",
-    "link": "https://www.latimes.com/business/story/2026-08-29/la-fi-newsom-utility-wildfires"
   },
   {
     "score": 37,
@@ -56,17 +49,24 @@
     "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 33,
-    "pubdate": "2026-08-29-16-02-52 +0000",
-    "source": "chitri",
-    "headline": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
-    "link": "https://www.chicagotribune.com/2026/08/29/nepal-china-flood-safe-areas/"
+    "score": 37,
+    "pubdate": "2026-08-29-19-56-32 +0000",
+    "source": "latimes",
+    "headline": "Facing protests, Newsom drops most of plan limiting utility wildfire liabilities",
+    "link": "https://www.latimes.com/business/story/2026-08-29/la-fi-newsom-utility-wildfires"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-08-29-04-21-05 +0000",
+    "source": "nyt",
+    "headline": "See Moments After a Glacier Collapsed, Launching Deadly Flash Floods in Nepal",
+    "link": "https://www.nytimes.com/2026/08/28/world/asia/himalayan-glacier-collapse-flood.html"
   },
   {
     "score": 33,
-    "pubdate": "2026-08-29-07-11-04 +0000",
+    "pubdate": "2026-08-29-22-40-51 +0000",
     "source": "bbc",
-    "headline": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-    "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss"
+    "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
   }
 ]

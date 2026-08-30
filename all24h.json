@@ -1,6 +1,36 @@
 [
   {
-    "headline": "Explosion at Bk. NYCHA complex leaves one dead — reportedly linked to lithium-ion battery",
+    "headline": "13-year-old stabbed in broad daylight attack in the Bronx",
+    "link": "https://nypost.com/2026/08/29/us-news/teen-stabbed-in-broad-daylight-attack-in-the-bronx/",
+    "source": "nypost",
+    "pubdate": "2026-08-30-03-23-08 +0000"
+  },
+  {
+    "headline": "Out-of-control truck plows into sidewalk near Colorado bicycle festival, killing 1 and hurting 5",
+    "link": "https://nypost.com/2026/08/29/us-news/1-killed-5-injured-after-truck-smashes-into-sidewalk-near-colorado-bicycle-festival-tragic-day/",
+    "source": "nypost",
+    "pubdate": "2026-08-30-03-15-12 +0000"
+  },
+  {
+    "headline": "Russia Is Bombarding Europe With a New Wave of ‘Gray Zone’ Attacks",
+    "link": "https://www.wsj.com/world/europe/russia-is-bombarding-europe-with-a-new-wave-of-gray-zone-attacks-c5eab3fa?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-08-30-03-00-00 +0000"
+  },
+  {
+    "headline": "Nepal Flood Survivors Return to Devastated Towns",
+    "link": "https://www.nytimes.com/video/world/asia/100000011120032/nepal-flood-survivors-return-to-devastated-towns.html",
+    "source": "nyt",
+    "pubdate": "2026-08-30-02-55-01 +0000"
+  },
+  {
+    "headline": "Nepal Flood Survivors Return to Devastated Towns",
+    "link": "https://www.nytimes.com/video/world/asia/100000011120032/nepal-flood-survivors-return-to-devastated-towns.html",
+    "source": "nyt",
+    "pubdate": "2026-08-30-02-55-01 +0000"
+  },
+  {
+    "headline": "Explosion at NYCHA complex leaves one dead — reportedly linked to lithium-ion battery",
     "link": "https://nypost.com/2026/08/29/us-news/exlosion-brooklyn-nycha-complex-kills-one/",
     "source": "nypost",
     "pubdate": "2026-08-30-02-48-24 +0000"
@@ -426,12 +456,6 @@
     "pubdate": "2026-08-29-21-33-25 +0000"
   },
   {
-    "headline": "Julie Menin blasts the Met’s ‘serious mistake’ in honoring ‘Nazi-loving’ designer John Galliano at 2027 gala",
-    "link": "https://nypost.com/2026/08/29/us-news/julie-menin-blasts-the-mets-serious-mistake-in-honoring-nazi-loving-designer-john-galliano-at-2027-gala/",
-    "source": "nypost",
-    "pubdate": "2026-08-29-21-32-49 +0000"
-  },
-  {
     "headline": "Trump's Venezuelan oil deal: What we know and how it could impact Canada's oil industry",
     "link": "https://www.cbc.ca/news/world/trump-venezuela-oil-deal-explainer-9.7325621?cmp=rss",
     "source": "cbc",
@@ -454,12 +478,6 @@
     "link": "https://www.latimes.com/california/story/2026-08-29/california-lawmakers-reach-deal-in-high-stakes-fight-over-regulating-data-centers",
     "source": "latimes",
     "pubdate": "2026-08-29-21-25-27 +0000"
-  },
-  {
-    "headline": "NYC-funded puppet show turns into Israel bashing hatefest: ‘Came out of nowhere’",
-    "link": "https://nypost.com/2026/08/29/us-news/nyc-funded-puppet-show-turns-into-israel-bashing-hatefest-came-out-of-nowhere/",
-    "source": "nypost",
-    "pubdate": "2026-08-29-21-20-20 +0000"
   },
   {
     "headline": "2 LaGuardia air traffic controllers left work an hour early before deadly crash, AP source says",
@@ -1212,6 +1230,12 @@
     "pubdate": "2026-08-29-10-00-00 +0000"
   },
   {
+    "headline": "California regulators rushed their decision on driverless trucks, Teamsters' lawsuit says",
+    "link": "https://www.latimes.com/business/story/2026-08-29/california-regulators-rushed-their-decision-on-driverless-trucks-teamsters-lawsuit-says",
+    "source": "latimes",
+    "pubdate": "2026-08-29-10-00-00 +0000"
+  },
+  {
     "headline": "Sunny Hostin of 'The View' bets on AI clones as Hollywood fights over its soul",
     "link": "https://www.latimes.com/business/story/2026-08-29/sunny-hostin-of-the-view-clones-her-voice-likeness",
     "source": "latimes",
@@ -1220,12 +1244,6 @@
   {
     "headline": "Amazon is bringing drone delivery back to California",
     "link": "https://www.latimes.com/business/story/2026-08-29/amazon-is-bringing-drone-delivery-back-to-california",
-    "source": "latimes",
-    "pubdate": "2026-08-29-10-00-00 +0000"
-  },
-  {
-    "headline": "California regulators rushed their decision on driverless trucks, Teamsters' lawsuit says",
-    "link": "https://www.latimes.com/business/story/2026-08-29/california-regulators-rushed-their-decision-on-driverless-trucks-teamsters-lawsuit-says",
     "source": "latimes",
     "pubdate": "2026-08-29-10-00-00 +0000"
   },
@@ -1522,47 +1540,5 @@
     "link": "https://www.nytimes.com/2026/08/29/world/asia/modi-india-deals-trump.html",
     "source": "nyt",
     "pubdate": "2026-08-29-04-01-07 +0000"
-  },
-  {
-    "headline": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-29-03-54-11 +0000"
-  },
-  {
-    "headline": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-08-29-03-54-11 +0000"
-  },
-  {
-    "headline": "Trump says Kathy Hochul ‘doesn’t care about New York’ after governor refuses to recognize ‘Lake America’",
-    "link": "https://nypost.com/2026/08/28/us-news/trump-says-kathy-hochul-doesnt-care-about-new-york-after-governor-refuses-to-recognize-lake-america/",
-    "source": "nypost",
-    "pubdate": "2026-08-29-03-33-56 +0000"
-  },
-  {
-    "headline": "LAPD releases video of officers beating handcuffed jail inmate who later died",
-    "link": "https://www.latimes.com/california/story/2026-08-28/lapd-video-officers-beating-jail-inmate-death",
-    "source": "latimes",
-    "pubdate": "2026-08-29-03-07-06 +0000"
-  },
-  {
-    "headline": "How Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon",
-    "link": "https://www.wsj.com/world/china/china-oil-market-edf57588?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-08-29-03-00-00 +0000"
-  },
-  {
-    "headline": "How Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon",
-    "link": "https://www.wsj.com/world/china/china-oil-market-edf57588?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-08-29-03-00-00 +0000"
-  },
-  {
-    "headline": "How Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon",
-    "link": "https://www.wsj.com/world/china/china-oil-market-edf57588?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-08-29-03-00-00 +0000"
   }
 ]
