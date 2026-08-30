@@ -1,9 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2026-08-30-08-54-49 +0000",
+    "score": 24,
+    "pubdate": "2026-08-30-10-00-01 +0000",
+    "source": "wapo",
+    "headline": "Military leaders warn Hegseth against extending Iran war operations",
+    "link": "https://www.washingtonpost.com/national-security/2026/08/30/military-leaders-warn-hegseth-against-extending-iran-war-operations/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-30-10-00-07 +0000",
+    "source": "chitri",
+    "headline": "Federal cuts lead to growing burden on Cook County health system, taxpayers",
+    "link": "https://www.chicagotribune.com/2026/08/30/cook-county-health-system/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-08-30-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "A conservative California upbringing paved Natalie Harp's way to Trump",
+    "link": "https://www.latimes.com/politics/story/2026-08-30/conservative-california-upbringing-paved-natalie-harps-way-to-trump"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-30-10-29-20 +0000",
     "source": "bbc",
     "headline": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
     "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-08-30-10-00-26 +0000",
+    "source": "chitri",
+    "headline": "‘Our contingency plans have contingency plans’: Officials preparing for potential changes ahead of Election Day",
+    "link": "https://www.chicagotribune.com/2026/08/30/our-contingency-plans-have-contingency-plans-officials-preparing-for-potential-changes-ahead-of-election-day/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-08-30-10-12-06 +0000",
+    "source": "nyt",
+    "headline": "Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply",
+    "link": "https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-08-30-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Avoiding the family drama: How Josh Kushner built a $16-billion legacy and became the newest owner of the Lakers",
+    "link": "https://www.latimes.com/business/story/2026-08-30/how-josh-kushner-became-newest-owner-of-la-lakers"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-08-30-10-30-55 +0000",
+    "source": "chitri",
+    "headline": "Art gallery, city team for new mural in effort to help bring Chicago Heights area ‘back to life’",
+    "link": "https://www.chicagotribune.com/2026/08/30/chicago-heights-otto-mural/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-30-10-49-28 +0000",
+    "source": "nyt",
+    "headline": "The 10 P.M. Dinner Is a Spanish Tradition. Are People Giving It Up?",
+    "link": "https://www.nytimes.com/2026/08/30/world/europe/spain-late-dinner-time.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-30-10-00-00 +0000",
+    "source": "wapo",
+    "headline": "The surgeon who never turned away a patient in need, and other lives we’ve lost",
+    "link": "https://www.washingtonpost.com/obituaries/2026/08/30/surgeon-who-never-turned-away-patient-need-other-lives-weve-lost/"
   }
 ]
