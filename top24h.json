@@ -1,24 +1,10 @@
 [
   {
-    "score": 112,
+    "score": 119,
     "pubdate": "2026-08-29-21-28-52 +0000",
     "source": "cbc",
     "headline": "Trump's Venezuelan oil deal: What we know and how it could impact Canada's oil industry",
     "link": "https://www.cbc.ca/news/world/trump-venezuela-oil-deal-explainer-9.7325621?cmp=rss"
-  },
-  {
-    "score": 63,
-    "pubdate": "2026-08-29-20-07-51 +0000",
-    "source": "nyt",
-    "headline": "Nepal Rescuers Bore Through Tunnels to Try to Reach 900 Workers Missing After Floods",
-    "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-hydropower-tunnels-rescue-missing-workers.html"
-  },
-  {
-    "score": 56,
-    "pubdate": "2026-08-30-16-50-53 +0000",
-    "source": "nyt",
-    "headline": "Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order",
-    "link": "https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html"
   },
   {
     "score": 56,
@@ -35,38 +21,52 @@
     "link": "https://nypost.com/2026/08/30/us-news/el-sayed-finally-apologizes-for-lamenting-death-of-terrorists-family-after-michigan-synagogue-attack/"
   },
   {
-    "score": 45,
-    "pubdate": "2026-08-30-12-22-38 +0000",
-    "source": "cbc",
-    "headline": "At least 8 dead after ferry carrying nearly 270 passengers, crew capsizes off northern Cyprus",
-    "link": "https://www.cbc.ca/news/world/ferry-capsize-cyprus-9.7325792?cmp=rss"
+    "score": 55,
+    "pubdate": "2026-08-30-16-48-13 +0000",
+    "source": "bbc",
+    "headline": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+    "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 40,
-    "pubdate": "2026-08-30-16-35-53 +0000",
+    "score": 50,
+    "pubdate": "2026-08-30-16-50-53 +0000",
+    "source": "nyt",
+    "headline": "Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order",
+    "link": "https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-08-30-20-02-43 +0000",
+    "source": "bbc",
+    "headline": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+    "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-08-30-06-03-30 +0000",
     "source": "nypost",
-    "headline": "Top US data companies supplying data to Chinese AI — while also working for Pentagon, GOP rep warns",
-    "link": "https://nypost.com/2026/08/30/us-news/us-data-companies-are-feeding-info-to-chinese-ai-while-also-working-for-pentagon-rep/"
+    "headline": "Switzerland rave shooting leaves 22-year-old woman dead, several injured — as police hunt for killer",
+    "link": "https://nypost.com/2026/08/30/world-news/switzerland-shooting-incident-leaves-several-victims-police-say/"
   },
   {
-    "score": 40,
+    "score": 42,
+    "pubdate": "2026-08-29-21-25-27 +0000",
+    "source": "latimes",
+    "headline": "California lawmakers reach deal in high-stakes fight over regulating data centers",
+    "link": "https://www.latimes.com/california/story/2026-08-29/california-lawmakers-reach-deal-in-high-stakes-fight-over-regulating-data-centers"
+  },
+  {
+    "score": 41,
     "pubdate": "2026-08-30-17-27-06 +0000",
     "source": "wapo",
     "headline": "Military leaders warn Hegseth against extending Iran war operations",
     "link": "https://www.washingtonpost.com/national-security/2026/08/30/military-leaders-warn-hegseth-against-extending-iran-war-operations/"
   },
   {
-    "score": 38,
-    "pubdate": "2026-08-29-19-56-32 +0000",
-    "source": "latimes",
-    "headline": "Facing protests, Newsom drops most of plan limiting utility wildfire liabilities",
-    "link": "https://www.latimes.com/business/story/2026-08-29/la-fi-newsom-utility-wildfires"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-08-30-18-44-32 +0000",
-    "source": "nypost",
-    "headline": "Putin could be in danger of losing his grip on Russia, spymaster says — as Moscow tests NATO countries",
-    "link": "https://nypost.com/2026/08/30/world-news/putin-could-be-in-danger-of-losing-his-grip-on-russia-spymaster-says-as-moscow-tests-nato-countries/"
+    "score": 39,
+    "pubdate": "2026-08-30-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Fed Chairman Kevin Warsh put to rest some concerns about his inflation-fighting strategy but set up a potentially bigger test three weeks from now",
+    "link": "https://www.wsj.com/economy/central-banking/warsh-makes-the-case-for-higher-rates-and-raises-the-bar-for-standing-pat-3cc1b306?mod=rss_socialeconomyfeed"
   }
 ]
