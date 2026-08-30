@@ -1,13 +1,13 @@
 [
   {
-    "score": 101,
+    "score": 102,
     "pubdate": "2026-08-30-04-01-02 +0000",
     "source": "bbc",
     "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
     "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 55,
+    "score": 56,
     "pubdate": "2026-08-29-16-02-52 +0000",
     "source": "chitri",
     "headline": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
@@ -21,32 +21,46 @@
     "link": "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
   },
   {
-    "score": 46,
+    "score": 47,
     "pubdate": "2026-08-29-13-26-50 +0000",
     "source": "chitri",
     "headline": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks",
     "link": "https://www.chicagotribune.com/2026/08/29/russia-strikes-kyiv/"
   },
   {
-    "score": 41,
+    "score": 44,
     "pubdate": "2026-08-30-10-30-55 +0000",
     "source": "chitri",
     "headline": "Art gallery, city team for new mural in effort to help bring Chicago Heights area ‘back to life’",
     "link": "https://www.chicagotribune.com/2026/08/30/chicago-heights-otto-mural/"
   },
   {
-    "score": 40,
+    "score": 39,
     "pubdate": "2026-08-29-19-56-32 +0000",
     "source": "latimes",
     "headline": "Facing protests, Newsom drops most of plan limiting utility wildfire liabilities",
     "link": "https://www.latimes.com/business/story/2026-08-29/la-fi-newsom-utility-wildfires"
   },
   {
-    "score": 38,
-    "pubdate": "2026-08-29-22-57-05 +0000",
+    "score": 35,
+    "pubdate": "2026-08-30-06-03-30 +0000",
     "source": "nypost",
-    "headline": "California gas prices spike for 11th day in a row — as drivers shell out at the pumps",
-    "link": "https://nypost.com/2026/08/29/us-news/california-gas-prices-spike-for-11th-day-in-a-row-as-drivers-shell-out-at-the-pumps/"
+    "headline": "Switzerland rave shooting leaves 22-year-old woman dead, several injured — as police hunt for killer",
+    "link": "https://nypost.com/2026/08/30/world-news/switzerland-shooting-incident-leaves-several-victims-police-say/"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-08-29-21-25-27 +0000",
+    "source": "latimes",
+    "headline": "California lawmakers reach deal in high-stakes fight over regulating data centers",
+    "link": "https://www.latimes.com/california/story/2026-08-29/california-lawmakers-reach-deal-in-high-stakes-fight-over-regulating-data-centers"
+  },
+  {
+    "score": 33,
+    "pubdate": "2026-08-30-10-00-01 +0000",
+    "source": "wapo",
+    "headline": "Military leaders warn Hegseth against extending Iran war operations",
+    "link": "https://www.washingtonpost.com/national-security/2026/08/30/military-leaders-warn-hegseth-against-extending-iran-war-operations/"
   },
   {
     "score": 33,
@@ -54,19 +68,5 @@
     "source": "nyt",
     "headline": "El-Sayed Apologizes for March Comment About Michigan Synagogue Attack",
     "link": "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-08-30-10-00-01 +0000",
-    "source": "wapo",
-    "headline": "Military leaders warn Hegseth against extending Iran war operations",
-    "link": "https://www.washingtonpost.com/national-security/2026/08/30/military-leaders-warn-hegseth-against-extending-iran-war-operations/"
-  },
-  {
-    "score": 31,
-    "pubdate": "2026-08-30-06-03-30 +0000",
-    "source": "nypost",
-    "headline": "Switzerland rave shooting leaves 22-year-old woman dead, several injured — as police hunt for killer",
-    "link": "https://nypost.com/2026/08/30/world-news/switzerland-shooting-incident-leaves-several-victims-police-say/"
   }
 ]
