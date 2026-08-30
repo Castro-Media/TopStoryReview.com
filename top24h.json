@@ -1,6 +1,6 @@
 [
   {
-    "score": 108,
+    "score": 106,
     "pubdate": "2026-08-29-21-28-52 +0000",
     "source": "cbc",
     "headline": "Trump's Venezuelan oil deal: What we know and how it could impact Canada's oil industry",
@@ -29,24 +29,17 @@
   },
   {
     "score": 43,
-    "pubdate": "2026-08-29-13-26-50 +0000",
-    "source": "chitri",
-    "headline": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks",
-    "link": "https://www.chicagotribune.com/2026/08/29/russia-strikes-kyiv/"
-  },
-  {
-    "score": 43,
     "pubdate": "2026-08-29-17-33-56 +0000",
     "source": "wapo",
     "headline": "British far-right provocateur Milo Yiannopoulos deported by ICE",
     "link": "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
   },
   {
-    "score": 38,
-    "pubdate": "2026-08-29-07-11-04 +0000",
-    "source": "bbc",
-    "headline": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-    "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss"
+    "score": 43,
+    "pubdate": "2026-08-29-13-26-50 +0000",
+    "source": "chitri",
+    "headline": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks",
+    "link": "https://www.chicagotribune.com/2026/08/29/russia-strikes-kyiv/"
   },
   {
     "score": 38,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
     "link": "https://www.nytimes.com/2026/08/29/world/middleeast/turkey-israel-tensions-region.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-08-29-23-28-45 +0000",
+    "source": "nyt",
+    "headline": "El-Sayed Apologizes for March Comment About Michigan Synagogue Attack",
+    "link": "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html"
   }
 ]
