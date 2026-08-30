@@ -1,10 +1,10 @@
 [
   {
-    "score": 106,
-    "pubdate": "2026-08-29-21-28-52 +0000",
-    "source": "cbc",
-    "headline": "Trump's Venezuelan oil deal: What we know and how it could impact Canada's oil industry",
-    "link": "https://www.cbc.ca/news/world/trump-venezuela-oil-deal-explainer-9.7325621?cmp=rss"
+    "score": 102,
+    "pubdate": "2026-08-30-04-01-02 +0000",
+    "source": "bbc",
+    "headline": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 59,
@@ -35,7 +35,7 @@
     "link": "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
   },
   {
-    "score": 43,
+    "score": 42,
     "pubdate": "2026-08-29-13-26-50 +0000",
     "source": "chitri",
     "headline": "Russian strike near Kyiv kills 37, in one of the year’s deadliest attacks",
@@ -47,13 +47,6 @@
     "source": "latimes",
     "headline": "Facing protests, Newsom drops most of plan limiting utility wildfire liabilities",
     "link": "https://www.latimes.com/business/story/2026-08-29/la-fi-newsom-utility-wildfires"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-08-30-04-01-02 +0000",
-    "source": "bbc",
-    "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 30,
@@ -68,5 +61,12 @@
     "source": "nyt",
     "headline": "El-Sayed Apologizes for March Comment About Michigan Synagogue Attack",
     "link": "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-08-29-18-33-03 +0000",
+    "source": "nypost",
+    "headline": "135 wild animals seized from cartel zoo as Mexican security forces search for stolen fuel leads to shocking discovery",
+    "link": "https://nypost.com/2026/08/29/world-news/mexican-security-forces-seize-135-wild-animals-at-cartel-zoo/"
   }
 ]
