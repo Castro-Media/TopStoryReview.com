@@ -1,17 +1,10 @@
 [
   {
-    "score": 119,
-    "pubdate": "2026-08-29-21-28-52 +0000",
-    "source": "cbc",
-    "headline": "Trump's Venezuelan oil deal: What we know and how it could impact Canada's oil industry",
-    "link": "https://www.cbc.ca/news/world/trump-venezuela-oil-deal-explainer-9.7325621?cmp=rss"
-  },
-  {
-    "score": 56,
-    "pubdate": "2026-08-30-19-53-43 +0000",
-    "source": "nypost",
-    "headline": "The Gulf South emerges as the ‘new Silicon Valley’ as coast along Texas and Florida sees growth",
-    "link": "https://nypost.com/2026/08/30/business/the-gulf-south-emerges-as-the-new-silicon-valley-as-coast-along-texas-and-florida-sees-growth/"
+    "score": 106,
+    "pubdate": "2026-08-30-15-08-52 +0000",
+    "source": "nyt",
+    "headline": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
+    "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
   },
   {
     "score": 56,
@@ -22,6 +15,13 @@
   },
   {
     "score": 55,
+    "pubdate": "2026-08-30-19-53-43 +0000",
+    "source": "nypost",
+    "headline": "The Gulf South emerges as the ‘new Silicon Valley’ as coast along Texas and Florida sees growth",
+    "link": "https://nypost.com/2026/08/30/business/the-gulf-south-emerges-as-the-new-silicon-valley-as-coast-along-texas-and-florida-sees-growth/"
+  },
+  {
+    "score": 54,
     "pubdate": "2026-08-30-16-48-13 +0000",
     "source": "bbc",
     "headline": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
@@ -35,7 +35,7 @@
     "link": "https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html"
   },
   {
-    "score": 48,
+    "score": 45,
     "pubdate": "2026-08-30-20-02-43 +0000",
     "source": "bbc",
     "headline": "Eight killed and others missing after ferry capsizes off northern Cyprus",
@@ -49,13 +49,6 @@
     "link": "https://nypost.com/2026/08/30/world-news/switzerland-shooting-incident-leaves-several-victims-police-say/"
   },
   {
-    "score": 42,
-    "pubdate": "2026-08-29-21-25-27 +0000",
-    "source": "latimes",
-    "headline": "California lawmakers reach deal in high-stakes fight over regulating data centers",
-    "link": "https://www.latimes.com/california/story/2026-08-29/california-lawmakers-reach-deal-in-high-stakes-fight-over-regulating-data-centers"
-  },
-  {
     "score": 41,
     "pubdate": "2026-08-30-17-27-06 +0000",
     "source": "wapo",
@@ -63,10 +56,17 @@
     "link": "https://www.washingtonpost.com/national-security/2026/08/30/military-leaders-warn-hegseth-against-extending-iran-war-operations/"
   },
   {
-    "score": 39,
-    "pubdate": "2026-08-30-09-30-00 +0000",
-    "source": "wsj",
-    "headline": "Fed Chairman Kevin Warsh put to rest some concerns about his inflation-fighting strategy but set up a potentially bigger test three weeks from now",
-    "link": "https://www.wsj.com/economy/central-banking/warsh-makes-the-case-for-higher-rates-and-raises-the-bar-for-standing-pat-3cc1b306?mod=rss_socialeconomyfeed"
+    "score": 38,
+    "pubdate": "2026-08-30-18-44-32 +0000",
+    "source": "nypost",
+    "headline": "Putin could be in danger of losing his grip on Russia, spymaster says — as Moscow tests NATO countries",
+    "link": "https://nypost.com/2026/08/30/world-news/putin-could-be-in-danger-of-losing-his-grip-on-russia-spymaster-says-as-moscow-tests-nato-countries/"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-08-30-16-35-53 +0000",
+    "source": "nypost",
+    "headline": "Top US data companies supplying data to Chinese AI — while also working for Pentagon, GOP rep warns",
+    "link": "https://nypost.com/2026/08/30/us-news/us-data-companies-are-feeding-info-to-chinese-ai-while-also-working-for-pentagon-rep/"
   }
 ]
