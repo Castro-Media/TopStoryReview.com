@@ -1,24 +1,17 @@
 [
   {
-    "score": 103,
+    "score": 99,
     "pubdate": "2026-08-30-04-01-02 +0000",
     "source": "bbc",
     "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
     "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 58,
+    "score": 59,
     "pubdate": "2026-08-29-16-02-52 +0000",
     "source": "chitri",
     "headline": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
     "link": "https://www.chicagotribune.com/2026/08/29/nepal-china-flood-safe-areas/"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-08-30-12-41-05 +0000",
-    "source": "nypost",
-    "headline": "Clintons foundation post seeking intern with ‘high level of discretion’ sparks online field day: ‘Bill lost intern privileges’",
-    "link": "https://nypost.com/2026/08/30/us-news/bill-and-hillary-clinton-seek-intern-with-high-level-of-discretion-at-global-foundation/"
   },
   {
     "score": 50,
@@ -28,11 +21,25 @@
     "link": "https://www.washingtonpost.com/nation/2026/08/28/british-far-right-provocateur-milo-yiannopoulos-detained-by-ice/"
   },
   {
-    "score": 45,
-    "pubdate": "2026-08-30-11-00-00 +0000",
-    "source": "startribune",
-    "headline": "He wants to open their 10-year marriage to new sexual partners. How should he ask his wife?",
-    "link": "https://www.startribune.com/he-wants-to-open-their-10-year-marriage-to-new-sexual-partners/601877628"
+    "score": 49,
+    "pubdate": "2026-08-30-12-41-05 +0000",
+    "source": "nypost",
+    "headline": "Clinton foundation seeks intern with ‘high level of discretion’ — sparking online field day: ‘Bill lost intern privileges’",
+    "link": "https://nypost.com/2026/08/30/us-news/bill-and-hillary-clinton-seek-intern-with-high-level-of-discretion-at-global-foundation/"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-08-29-19-06-28 +0000",
+    "source": "bbc",
+    "headline": "Norway's new king remembers 'my dear father' in first speech",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-08-30-06-03-30 +0000",
+    "source": "nypost",
+    "headline": "Switzerland rave shooting leaves 22-year-old woman dead, several injured — as police hunt for killer",
+    "link": "https://nypost.com/2026/08/30/world-news/switzerland-shooting-incident-leaves-several-victims-police-say/"
   },
   {
     "score": 38,
@@ -42,31 +49,24 @@
     "link": "https://www.latimes.com/business/story/2026-08-29/la-fi-newsom-utility-wildfires"
   },
   {
-    "score": 36,
-    "pubdate": "2026-08-30-06-03-30 +0000",
-    "source": "nypost",
-    "headline": "Switzerland rave shooting leaves 22-year-old woman dead, several injured — as police hunt for killer",
-    "link": "https://nypost.com/2026/08/30/world-news/switzerland-shooting-incident-leaves-several-victims-police-say/"
+    "score": 38,
+    "pubdate": "2026-08-30-10-00-01 +0000",
+    "source": "wapo",
+    "headline": "Military leaders warn Hegseth against extending Iran war operations",
+    "link": "https://www.washingtonpost.com/national-security/2026/08/30/military-leaders-warn-hegseth-against-extending-iran-war-operations/"
   },
   {
     "score": 34,
-    "pubdate": "2026-08-30-13-38-24 +0000",
-    "source": "nyt",
-    "headline": "Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order",
-    "link": "https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-08-30-10-49-11 +0000",
-    "source": "bbc",
-    "headline": "Iceland votes against restarting talks on joining EU",
-    "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-08-29-15-40-45 +0000",
+    "source": "cbc",
+    "headline": "Iceland votes on whether to start EU membership talks in shadow of Trump's Greenland threats",
+    "link": "https://www.cbc.ca/news/world/iceland-vote-eu-membership-9.7325448?cmp=rss"
   },
   {
     "score": 32,
-    "pubdate": "2026-08-29-18-35-56 +0000",
-    "source": "chitri",
-    "headline": "Noncitizen voting claims animate President Trump’s attacks on midterms and set up potential result challenges",
-    "link": "https://www.chicagotribune.com/2026/08/29/noncitizen-voting-claims-midterms/"
+    "pubdate": "2026-08-29-23-28-45 +0000",
+    "source": "nyt",
+    "headline": "El-Sayed Apologizes for March Comment About Michigan Synagogue Attack",
+    "link": "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html"
   }
 ]
