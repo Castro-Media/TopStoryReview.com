@@ -1,13 +1,13 @@
 [
   {
-    "score": 99,
+    "score": 93,
     "pubdate": "2026-08-30-04-01-02 +0000",
     "source": "bbc",
-    "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+    "headline": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
     "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 59,
+    "score": 55,
     "pubdate": "2026-08-29-16-02-52 +0000",
     "source": "chitri",
     "headline": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
@@ -56,17 +56,17 @@
     "link": "https://www.washingtonpost.com/national-security/2026/08/30/military-leaders-warn-hegseth-against-extending-iran-war-operations/"
   },
   {
-    "score": 34,
-    "pubdate": "2026-08-29-15-40-45 +0000",
-    "source": "cbc",
-    "headline": "Iceland votes on whether to start EU membership talks in shadow of Trump's Greenland threats",
-    "link": "https://www.cbc.ca/news/world/iceland-vote-eu-membership-9.7325448?cmp=rss"
-  },
-  {
     "score": 32,
     "pubdate": "2026-08-29-23-28-45 +0000",
     "source": "nyt",
     "headline": "El-Sayed Apologizes for March Comment About Michigan Synagogue Attack",
     "link": "https://www.nytimes.com/2026/08/29/us/politics/el-sayed-apology-jewish-democrats.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-08-29-21-47-52 +0000",
+    "source": "nyt",
+    "headline": "37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence",
+    "link": "https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html"
   }
 ]
