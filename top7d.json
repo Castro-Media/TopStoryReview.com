@@ -1,10 +1,17 @@
 [
   {
-    "score": 421,
+    "score": 423,
     "pubdate": "2026-08-26-20-59-13 +0000",
     "source": "nyt",
     "headline": "Canadians Stand Their Ground Amid New Trump Tariffs and Expanding U.S.-Canada Trade War",
     "link": "https://www.nytimes.com/2026/08/26/world/canada/carney-canada-trump-tariffs-retaliate.html"
+  },
+  {
+    "score": 262,
+    "pubdate": "2026-08-31-16-31-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said that communities that don’t embrace data centers will “end up being backwards and poor,” putting himself at odds with most Americans who say they don’t want the facilities that power AI to be built near them",
+    "link": "https://www.wsj.com/politics/policy/trump-says-communities-that-oppose-data-centers-risk-becoming-backwards-and-poor-601f41d7?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 225,
@@ -14,59 +21,52 @@
     "link": "https://www.wsj.com/politics/national-security/drain-on-u-s-munitions-from-iran-war-raises-fears-over-ability-to-deter-china-russia-c7d4512d?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 175,
-    "pubdate": "2026-08-26-17-45-44 +0000",
+    "score": 165,
+    "pubdate": "2026-08-31-16-26-55 +0000",
+    "source": "nypost",
+    "headline": "Haunting photo of Grand Canyon hiker before he vanished in flash floods — as two dead, 15 missing",
+    "link": "https://nypost.com/2026/08/31/us-news/grand-canyon-hiker-posts-selfie-before-vanishing-in-deadly-flash-floods/"
+  },
+  {
+    "score": 151,
+    "pubdate": "2026-08-28-02-20-34 +0000",
     "source": "latimes",
-    "headline": "Southern California's scorching heat wave peaks: Here's how hot it will get and when it will end",
-    "link": "https://www.latimes.com/california/story/2026-08-26/southern-california-heat-wave-peaks-how-hot-will-it-get-when-will-it-end"
+    "headline": "California lawmakers reach deal to adjust childhood sex abuse law — but rebuff damage caps",
+    "link": "https://www.latimes.com/california/story/2026-08-27/california-childhood-sex-abuse-lawsuit-reform-legislation"
   },
   {
-    "score": 154,
-    "pubdate": "2026-08-27-18-34-33 +0000",
-    "source": "48hills",
-    "headline": "Maren Hassinger’s evocative BAMPFA retrospective reaches up, up, up",
-    "link": "https://48hills.org/2026/08/maren-hassingers-evocative-bampfa-retrospective-reaches-up-up-up/"
+    "score": 139,
+    "pubdate": "2026-08-28-21-31-48 +0000",
+    "source": "chitri",
+    "headline": "Rescuers retrieve flood survivors caked in mud as death toll in Nepal-China border disaster climbs",
+    "link": "https://www.chicagotribune.com/2026/08/28/nepal-china-flood-survivors/"
   },
   {
-    "score": 153,
-    "pubdate": "2026-08-26-20-53-00 +0000",
-    "source": "wsj",
-    "headline": "Hundreds Missing, 157 Dead, as Likely Ice-Rock Cascade Triggers Floods in Nepal and Tibet",
-    "link": "https://www.wsj.com/world/asia/foreign-tourists-among-hundreds-missing-after-flash-floods-in-nepal-and-tibet-39e73ce7?mod=rss_worldnews"
-  },
-  {
-    "score": 149,
+    "score": 128,
     "pubdate": "2026-08-27-17-58-49 +0000",
     "source": "chitri",
     "headline": "President Donald Trump signs order renaming Lake Ontario as ‘Lake America’ in the United States",
     "link": "https://www.chicagotribune.com/2026/08/27/trump-signs-order-renaming-lake-ontario-america/"
   },
   {
-    "score": 131,
-    "pubdate": "2026-08-30-15-08-52 +0000",
-    "source": "nyt",
-    "headline": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
-    "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
+    "score": 121,
+    "pubdate": "2026-08-31-12-20-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Gains After First U.S. Strikes in Weeks on Iranian Targets",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-renewed-fighting-in-middle-east-add7b187?mod=rss_markets_main"
   },
   {
-    "score": 122,
-    "pubdate": "2026-08-31-15-24-45 +0000",
-    "source": "chitri",
-    "headline": "Kalshi bans ex-Congressman George Santos for life after concluding he likely was insider trading",
-    "link": "https://www.chicagotribune.com/2026/08/31/kalshi-george-santos/"
-  },
-  {
-    "score": 122,
+    "score": 120,
     "pubdate": "2026-08-28-10-09-00 +0000",
     "source": "wsj",
     "headline": "Tech firms are courting Democrats, the South faces a massive threat to its rural economy and the Warren Buffett of the NFL is on a quest to win in a league built for losers. Read more in today’s 10-Point newsletter.",
     "link": "https://www.wsj.com/politics/policy/corporate-america-backed-trump-now-its-hedging-against-a-democratic-house-4219da12?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 118,
-    "pubdate": "2026-08-31-10-23-07 +0000",
-    "source": "nypost",
-    "headline": "Trump posts AI-generated video of Iran’s Kharg Island ‘blown to smithereens’ hours after first US strikes in a month",
-    "link": "https://nypost.com/2026/08/31/us-news/trump-posts-ai-generated-video-of-irans-kharg-island-blown-to-smithereens-hours-after-first-us-strikes-in-a-month/"
+    "score": 117,
+    "pubdate": "2026-08-31-14-50-36 +0000",
+    "source": "bbc",
+    "headline": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+    "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss"
   }
 ]

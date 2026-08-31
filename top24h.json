@@ -1,17 +1,24 @@
 [
   {
-    "score": 143,
+    "score": 129,
     "pubdate": "2026-08-31-10-23-07 +0000",
     "source": "nypost",
     "headline": "Trump posts AI-generated video of Iran’s Kharg Island ‘blown to smithereens’ hours after first US strikes in a month",
     "link": "https://nypost.com/2026/08/31/us-news/trump-posts-ai-generated-video-of-irans-kharg-island-blown-to-smithereens-hours-after-first-us-strikes-in-a-month/"
   },
   {
-    "score": 79,
-    "pubdate": "2026-08-31-12-55-25 +0000",
+    "score": 97,
+    "pubdate": "2026-08-31-17-13-39 +0000",
     "source": "bbc",
-    "headline": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+    "headline": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
     "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 84,
+    "pubdate": "2026-08-31-16-31-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said that communities that don’t embrace data centers will “end up being backwards and poor,” putting himself at odds with most Americans who say they don’t want the facilities that power AI to be built near them",
+    "link": "https://www.wsj.com/politics/policy/trump-says-communities-that-oppose-data-centers-risk-becoming-backwards-and-poor-601f41d7?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 70,
@@ -21,11 +28,18 @@
     "link": "https://www.chicagotribune.com/2026/08/31/kalshi-george-santos/"
   },
   {
-    "score": 66,
-    "pubdate": "2026-08-31-00-00-00 +0000",
-    "source": "wsj",
-    "headline": "The young rent-stabilized tenants of New York City represent a rare breed of their generation. A few of them opened their doors to The Wall Street Journal.",
-    "link": "https://www.wsj.com/economy/housing/these-young-new-yorkers-scored-the-ultimate-deal-a-rent-stabilized-apartment-b130a6a2?mod=rss_socialeconomyfeed"
+    "score": 68,
+    "pubdate": "2026-08-31-16-32-21 +0000",
+    "source": "nypost",
+    "headline": "Bessent taunts Canada amid trade war: ‘What are they going to do, take their two submarines and sic them on us?’",
+    "link": "https://nypost.com/2026/08/31/us-news/scott-bessent-taunts-canada-amid-trade-war-what-are-they-going-to-do-take-their-two-submarines-and-sic-them-on-us/"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-08-31-16-51-01 +0000",
+    "source": "nypost",
+    "headline": "Heroic principal evacuated school, saving hundreds of students from Nepal’s deadly floods",
+    "link": "https://nypost.com/2026/08/31/world-news/nepal-principal-rescues-students-from-deadly-flash-floods/"
   },
   {
     "score": 53,
@@ -35,38 +49,24 @@
     "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 53,
-    "pubdate": "2026-08-31-14-14-40 +0000",
-    "source": "nyt",
-    "headline": "Global Oil Price Rises to $90 a Barrel After U.S. and Iran Trade Attacks",
-    "link": "https://www.nytimes.com/2026/08/31/business/oil-prices-iran-war.html"
-  },
-  {
-    "score": 50,
-    "pubdate": "2026-08-31-10-00-00 +0000",
+    "score": 47,
+    "pubdate": "2026-08-31-15-04-00 +0000",
     "source": "wsj",
-    "headline": "America’s Biggest Companies Ring Up Hefty Sales and Raise Their Outlooks",
-    "link": "https://www.wsj.com/world/americas-biggest-companies-ring-up-hefty-sales-and-raise-their-outlooks-1b78875a?mod=pls_whats_news_us_business_f"
+    "headline": "Russia Turns to New-Generation Drones and All-Day Attacks to Wear Down Ukrainians",
+    "link": "https://www.wsj.com/world/russia-turns-to-new-generation-drones-and-all-day-attacks-to-wear-down-ukrainians-b492ec1b?mod=rss_worldnews"
   },
   {
-    "score": 42,
-    "pubdate": "2026-08-31-10-00-00 +0000",
-    "source": "nypost",
-    "headline": "Long Island Dems locked in civil war as members accuse chairman of backroom deals with GOP",
-    "link": "https://nypost.com/2026/08/31/us-news/long-island-dems-locked-in-civil-war-as-members-accuse-chairman-of-backroom-deals-with-gop/"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-08-31-14-27-10 +0000",
+    "score": 43,
+    "pubdate": "2026-08-31-14-59-33 +0000",
     "source": "nyt",
-    "headline": "For Nepal’s Young Leader, Flood Recovery Will Be a Herculean Task",
-    "link": "https://www.nytimes.com/2026/08/31/world/asia/nepal-floods-balen-shah-gen-z.html"
+    "headline": "Trump’s Venezuelan Oil Deal Relies on a Powerful and Divisive Partner",
+    "link": "https://www.nytimes.com/2026/08/29/business/energy-environment/venezuela-alejandro-betancourt-oil-trump.html"
   },
   {
-    "score": 39,
-    "pubdate": "2026-08-30-20-33-47 +0000",
-    "source": "chitri",
-    "headline": "US forces strike Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
-    "link": "https://www.chicagotribune.com/2026/08/30/us-strikes-iranian-rocket-launchers/"
+    "score": 41,
+    "pubdate": "2026-08-31-16-58-37 +0000",
+    "source": "nypost",
+    "headline": "GOP House candidate in battleground district slapped with $2.5K fine, 3-year ban for ‘dumb’ Kalshi insider trades",
+    "link": "https://nypost.com/2026/08/31/us-news/gop-house-candidate-in-battleground-district-slapped-with-2-5k-fine-3-year-ban-for-dumb-kalshi-insider-trades/"
   }
 ]
