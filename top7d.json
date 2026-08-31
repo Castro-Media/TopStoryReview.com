@@ -1,59 +1,52 @@
 [
   {
-    "score": 423,
+    "score": 422,
     "pubdate": "2026-08-26-20-59-13 +0000",
     "source": "nyt",
     "headline": "Canadians Stand Their Ground Amid New Trump Tariffs and Expanding U.S.-Canada Trade War",
     "link": "https://www.nytimes.com/2026/08/26/world/canada/carney-canada-trump-tariffs-retaliate.html"
   },
   {
-    "score": 262,
+    "score": 260,
     "pubdate": "2026-08-31-16-31-00 +0000",
     "source": "wsj",
     "headline": "President Trump said that communities that don’t embrace data centers will “end up being backwards and poor,” putting himself at odds with most Americans who say they don’t want the facilities that power AI to be built near them",
     "link": "https://www.wsj.com/politics/policy/trump-says-communities-that-oppose-data-centers-risk-becoming-backwards-and-poor-601f41d7?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 225,
-    "pubdate": "2026-08-29-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. has rushed so many munitions to the Middle East to fight Iran that planners are concerned the loss of firepower is diminishing the military’s ability to defend against potential threats from China and Russia, U.S. officials said",
-    "link": "https://www.wsj.com/politics/national-security/drain-on-u-s-munitions-from-iran-war-raises-fears-over-ability-to-deter-china-russia-c7d4512d?mod=rss_socialpoliticsfeed"
+    "score": 228,
+    "pubdate": "2026-08-26-12-50-33 +0000",
+    "source": "chitri",
+    "headline": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news",
+    "link": "https://www.chicagotribune.com/2026/08/26/iran-deal-hormuz/"
   },
   {
-    "score": 165,
+    "score": 184,
+    "pubdate": "2026-08-29-16-02-52 +0000",
+    "source": "chitri",
+    "headline": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
+    "link": "https://www.chicagotribune.com/2026/08/29/nepal-china-flood-safe-areas/"
+  },
+  {
+    "score": 138,
+    "pubdate": "2026-08-26-21-22-03 +0000",
+    "source": "latimes",
+    "headline": "Big oil and gas companies are partly responsible for California's water woes, study finds",
+    "link": "https://www.latimes.com/environment/story/2026-08-26/climate-change-water-scarcity"
+  },
+  {
+    "score": 135,
     "pubdate": "2026-08-31-16-26-55 +0000",
     "source": "nypost",
     "headline": "Haunting photo of Grand Canyon hiker before he vanished in flash floods — as two dead, 15 missing",
     "link": "https://nypost.com/2026/08/31/us-news/grand-canyon-hiker-posts-selfie-before-vanishing-in-deadly-flash-floods/"
   },
   {
-    "score": 151,
-    "pubdate": "2026-08-28-02-20-34 +0000",
-    "source": "latimes",
-    "headline": "California lawmakers reach deal to adjust childhood sex abuse law — but rebuff damage caps",
-    "link": "https://www.latimes.com/california/story/2026-08-27/california-childhood-sex-abuse-lawsuit-reform-legislation"
-  },
-  {
-    "score": 139,
-    "pubdate": "2026-08-28-21-31-48 +0000",
-    "source": "chitri",
-    "headline": "Rescuers retrieve flood survivors caked in mud as death toll in Nepal-China border disaster climbs",
-    "link": "https://www.chicagotribune.com/2026/08/28/nepal-china-flood-survivors/"
-  },
-  {
-    "score": 128,
+    "score": 130,
     "pubdate": "2026-08-27-17-58-49 +0000",
     "source": "chitri",
     "headline": "President Donald Trump signs order renaming Lake Ontario as ‘Lake America’ in the United States",
     "link": "https://www.chicagotribune.com/2026/08/27/trump-signs-order-renaming-lake-ontario-america/"
-  },
-  {
-    "score": 121,
-    "pubdate": "2026-08-31-12-20-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Gains After First U.S. Strikes in Weeks on Iranian Targets",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-renewed-fighting-in-middle-east-add7b187?mod=rss_markets_main"
   },
   {
     "score": 120,
@@ -63,10 +56,17 @@
     "link": "https://www.wsj.com/politics/policy/corporate-america-backed-trump-now-its-hedging-against-a-democratic-house-4219da12?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 117,
+    "score": 116,
     "pubdate": "2026-08-31-14-50-36 +0000",
     "source": "bbc",
     "headline": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
     "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 113,
+    "pubdate": "2026-08-31-05-01-12 +0000",
+    "source": "bbc",
+    "headline": "Russian strikes destroy 12 million books ahead of Ukraine's first week back at school",
+    "link": "https://www.bbc.co.uk/news/articles/cly5v8qmy64o?at_medium=RSS&at_campaign=rss"
   }
 ]
