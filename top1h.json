@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 31,
+    "pubdate": "2026-08-30-23-22-24 +0000",
+    "source": "bbc",
+    "headline": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+    "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-08-30-22-58-12 +0000",
+    "source": "cbc",
+    "headline": "15 people may be missing after Grand Canyon flash flood, dozens evacuated",
+    "link": "https://www.cbc.ca/news/world/grand-canyon-flash-flood-9.7326093?cmp=rss"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-08-30-23-20-16 +0000",
+    "source": "nypost",
+    "headline": "Becerra rival demands FBI grill him again over $225K campaign cash scandal",
+    "link": "https://nypost.com/2026/08/30/us-news/becerra-rival-demands-fbi-grill-him-again-over-225k-campaign-cash-scandal/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-08-30-23-40-07 +0000",
+    "source": "nyt",
+    "headline": "U.S. Attacks Island in Strait of Hormuz; Iran Retaliates With Missile Fire",
+    "link": "https://www.nytimes.com/2026/08/30/admin/us-attacks-iran-strait-of-hormuz.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-08-30-23-29-13 +0000",
+    "source": "nyt",
+    "headline": "See Nepali Rescue Workers Testing Aid Delivery by Drone",
+    "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-aid-drone.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-08-30-22-56-00 +0000",
+    "source": "wsj",
+    "headline": "Fighting Flares in Middle East After U.S. Strike on Iranian Rocket Launchers",
+    "link": "https://www.wsj.com/world/middle-east/u-s-strikes-two-iranian-rocket-launchers-in-first-attack-in-weeks-17602dcf?mod=rss_worldnews"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-08-30-23-05-36 +0000",
+    "source": "nypost",
+    "headline": "At least 8 dead after ferry with nearly 270 passengers and crew capsizes off Cyprus",
+    "link": "https://nypost.com/2026/08/30/world-news/at-least-8-dead-after-ferry-with-270-passengers-and-crew-capsizes-off-cyprus/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-30-23-11-32 +0000",
+    "source": "nypost",
+    "headline": "Here’s what NYC can expect from brewing powerful Super El Nino",
+    "link": "https://nypost.com/2026/08/30/us-news/heres-what-nyc-can-expect-from-brewing-powerful-super-el-nino/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-08-30-23-54-27 +0000",
+    "source": "48hills",
+    "headline": "Public bank kicks off campaign; Lurie asks for $33 million more for dubious contract …",
+    "link": "https://48hills.org/2026/08/public-bank-kicks-off-campaign-lurie-asks-for-33-million-more-for-dubious-contract/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-08-30-23-41-18 +0000",
+    "source": "nyt",
+    "headline": "Baby Goats From a Traveling Petting Zoo Test Positive for Rabies",
+    "link": "https://www.nytimes.com/2026/08/29/us/rabies-goats-petting-zoo-north-carolina.html"
+  }
+]
