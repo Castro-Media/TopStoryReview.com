@@ -1,9 +1,37 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-08-31-02-56-56 +0000",
+    "score": 25,
+    "pubdate": "2026-08-31-05-15-00 +0000",
+    "source": "wsj",
+    "headline": "China’s Biggest Airlines Post Over $1 Billion Loss in First Half as Fuel Shock Bites",
+    "link": "https://www.wsj.com/business/airlines/chinas-biggest-airlines-post-over-1-billion-loss-in-first-half-as-fuel-shock-bites-3deb78fe?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-31-05-49-37 +0000",
+    "source": "bbc",
+    "headline": "US and Iran trade strikes for first time in weeks",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-08-31-05-05-05 +0000",
     "source": "nypost",
-    "headline": "New Mexico man allegedly gunned down cousin in argument over enchiladas",
-    "link": "https://nypost.com/2026/08/30/us-news/new-mexico-man-allegedly-fatally-shot-cousin-in-argument-over-enchiladas/"
+    "headline": "Long Island rallies around its 18-year-old native son Jack Kennedy despite US Open loss",
+    "link": "https://nypost.com/2026/08/31/sports/long-island-rallies-around-its-native-son-jack-kennedy-at-us-open/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-31-05-49-37 +0000",
+    "source": "bbc",
+    "headline": "US and Iran trade strikes for first time in weeks",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-08-31-05-15-00 +0000",
+    "source": "wsj",
+    "headline": "China’s Biggest Airlines Post Over $1 Billion Loss in First Half as Fuel Shock Bites",
+    "link": "https://www.wsj.com/business/airlines/chinas-biggest-airlines-post-over-1-billion-loss-in-first-half-as-fuel-shock-bites-3deb78fe?mod=rss_worldnews"
   }
 ]
