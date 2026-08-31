@@ -1,6 +1,6 @@
 [
   {
-    "score": 132,
+    "score": 131,
     "pubdate": "2026-08-31-10-23-07 +0000",
     "source": "nypost",
     "headline": "Trump posts AI-generated video of Iran’s Kharg Island ‘blown to smithereens’ hours after first US strikes in a month",
@@ -21,11 +21,11 @@
     "link": "https://www.cbc.ca/news/world/ferry-capsize-cyprus-9.7325792?cmp=rss"
   },
   {
-    "score": 55,
+    "score": 52,
     "pubdate": "2026-08-31-10-00-00 +0000",
     "source": "wsj",
     "headline": "America’s Biggest Companies Ring Up Hefty Sales and Raise Their Outlooks",
-    "link": "https://www.wsj.com/world/americas-biggest-companies-ring-up-hefty-sales-and-raise-their-outlooks-1b78875a?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/world/americas-biggest-companies-ring-up-hefty-sales-and-raise-their-outlooks-1b78875a?mod=rss_worldnews"
   },
   {
     "score": 51,
@@ -33,13 +33,6 @@
     "source": "nypost",
     "headline": "Death toll tops 900 in Nepal-Tibet flooding as rescue efforts intensify with more than 4,000 still missing",
     "link": "https://nypost.com/2026/08/31/world-news/death-toll-tops-900-in-nepal-tibet-flooding-as-rescue-efforts-intensify-with-more-than-4000-still-missing/"
-  },
-  {
-    "score": 48,
-    "pubdate": "2026-08-30-11-00-00 +0000",
-    "source": "startribune",
-    "headline": "He wants to open their 10-year marriage to new sexual partners. How should he ask his wife?",
-    "link": "https://www.startribune.com/he-wants-to-open-their-10-year-marriage-to-new-sexual-partners/601877628"
   },
   {
     "score": 47,
@@ -56,11 +49,11 @@
     "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html"
   },
   {
-    "score": 39,
-    "pubdate": "2026-08-31-10-00-00 +0000",
-    "source": "nypost",
-    "headline": "Dems push Hochul to block staggering 72% tax rate slapped on NYC’s first full casino",
-    "link": "https://nypost.com/2026/08/31/us-news/dems-push-hochul-to-block-staggering-72-tax-rate-slapped-on-nycs-first-full-casino/"
+    "score": 41,
+    "pubdate": "2026-08-31-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "The young rent-stabilized tenants of New York City represent a rare breed of their generation. A few of them opened their doors to The Wall Street Journal.",
+    "link": "https://www.wsj.com/economy/housing/these-young-new-yorkers-scored-the-ultimate-deal-a-rent-stabilized-apartment-b130a6a2?mod=rss_socialeconomyfeed"
   },
   {
     "score": 38,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
     "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-08-31-10-00-00 +0000",
+    "source": "nypost",
+    "headline": "Dems push Hochul to block staggering 72% tax rate slapped on NYC’s first full casino",
+    "link": "https://nypost.com/2026/08/31/us-news/dems-push-hochul-to-block-staggering-72-tax-rate-slapped-on-nycs-first-full-casino/"
   }
 ]
