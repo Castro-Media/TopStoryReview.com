@@ -1,17 +1,10 @@
 [
   {
-    "score": 188,
+    "score": 190,
     "pubdate": "2026-08-31-16-31-00 +0000",
     "source": "wsj",
     "headline": "President Trump said that communities that don’t embrace data centers will “end up being backwards and poor,” putting himself at odds with most Americans who say they don’t want the facilities that power AI to be built near them",
     "link": "https://www.wsj.com/politics/policy/trump-says-communities-that-oppose-data-centers-risk-becoming-backwards-and-poor-601f41d7?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 102,
-    "pubdate": "2026-09-01-08-50-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-renewed-u-s-iran-fighting-deepens-hormuz-supply-risks-3a35f63a?mod=pls_whats_news_us_business_f"
   },
   {
     "score": 97,
@@ -21,52 +14,59 @@
     "link": "https://www.chicagotribune.com/2026/08/31/kalshi-george-santos/"
   },
   {
-    "score": 89,
+    "score": 94,
+    "pubdate": "2026-09-01-12-57-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-renewed-u-s-iran-fighting-deepens-hormuz-supply-risks-3a35f63a?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 88,
     "pubdate": "2026-09-01-02-00-00 +0000",
     "source": "wsj",
     "headline": "Trump administration officials are escalating an immigration crackdown on commercial truck drivers, setting off a new clash with Democratic-led states",
     "link": "https://www.wsj.com/politics/policy/trump-administration-steps-up-immigration-crackdown-on-truck-drivers-e78844fa?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 84,
-    "pubdate": "2026-08-31-22-47-20 +0000",
+    "score": 86,
+    "pubdate": "2026-09-01-13-32-03 +0000",
     "source": "wapo",
-    "headline": "17-year-old girl charged with murder in livestreamed California mosque shooting",
+    "headline": "17-year-old girl charged with murder in live-streamed California mosque shooting",
     "link": "https://www.washingtonpost.com/nation/2026/08/31/17-year-old-girl-charged-with-murder-livestreamed-california-mosque-shooting/"
   },
   {
-    "score": 81,
+    "score": 83,
     "pubdate": "2026-08-31-20-32-45 +0000",
     "source": "chitri",
     "headline": "Supreme Court lets White House continue construction on Trump’s $400 million ballroom",
     "link": "https://www.chicagotribune.com/2026/08/31/supreme-court-white-house-ballroom/"
   },
   {
-    "score": 77,
-    "pubdate": "2026-08-31-16-32-21 +0000",
-    "source": "nypost",
-    "headline": "Bessent taunts Canada amid trade war: ‘What are they going to do, take their two submarines and sic them on us?’",
-    "link": "https://nypost.com/2026/08/31/us-news/scott-bessent-taunts-canada-amid-trade-war-what-are-they-going-to-do-take-their-two-submarines-and-sic-them-on-us/"
-  },
-  {
-    "score": 77,
+    "score": 79,
     "pubdate": "2026-08-31-20-30-24 +0000",
     "source": "chitri",
     "headline": "President Trump has asked Apple to change Lake Ontario name to ‘Lake America’ on its maps, interior chief says",
     "link": "https://www.chicagotribune.com/2026/08/31/trump-apple-lake-ontario-lake-america/"
   },
   {
-    "score": 71,
-    "pubdate": "2026-09-01-12-04-13 +0000",
-    "source": "chitri",
-    "headline": "Rescuers comb through mud and debris as Nepal-China floods leave more than 1,000 dead",
-    "link": "https://www.chicagotribune.com/2026/09/01/nepal-china-floods-deaths/"
+    "score": 74,
+    "pubdate": "2026-08-31-20-47-38 +0000",
+    "source": "bbc",
+    "headline": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+    "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 65,
-    "pubdate": "2026-08-31-21-02-43 +0000",
-    "source": "nypost",
-    "headline": "Vance attacks ‘very evil’ Abdul el-Sayed at Michigan rally: ‘Keep my wife’s name the hell out of your mouth’",
-    "link": "https://nypost.com/2026/08/31/us-news/jd-vance-attacks-very-evil-abdul-el-sayed-at-michigan-rally-defends-wife-usha/"
+    "score": 67,
+    "pubdate": "2026-09-01-06-02-27 +0000",
+    "source": "bbc",
+    "headline": "The final minutes before floodwater crashed through Nepal-China border",
+    "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 67,
+    "pubdate": "2026-08-31-23-33-00 +0000",
+    "source": "wsj",
+    "headline": "Vice President JD Vance attacked Abdul El-Sayed, the Democratic Senate candidate in Michigan, at a Republican rally Monday",
+    "link": "https://www.wsj.com/politics/elections/vance-to-el-sayed-keep-my-wifes-name-the-hell-out-of-your-mouth-b77d4d52?mod=rss_socialpoliticsfeed"
   }
 ]
