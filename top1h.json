@@ -1,9 +1,72 @@
 [
   {
-    "score": 5,
-    "pubdate": "2026-09-02-10-54-52 +0000",
+    "score": 24,
+    "pubdate": "2026-09-02-12-07-32 +0000",
+    "source": "bbc",
+    "headline": "Bus crash on Egypt's Red Sea coast kills 22",
+    "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-09-02-12-49-00 +0000",
+    "source": "nypost",
+    "headline": "America-trashing Abdul El-Sayed once urged people to move to Canada to live the American dream",
+    "link": "https://nypost.com/2026/09/02/us-news/abdul-el-sayed-once-urged-people-to-move-to-canada-to-live-the-american-dream/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-09-02-12-33-15 +0000",
+    "source": "bbc",
+    "headline": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+    "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-02-12-14-31 +0000",
+    "source": "bbc",
+    "headline": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
+    "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-02-12-41-27 +0000",
+    "source": "nypost",
+    "headline": "Milo Yiannopoulos groused he was treated like ‘MS-13 gang member’ during arrest, deportation",
+    "link": "https://nypost.com/2026/09/02/us-news/milo-yiannopoulos-groused-he-was-treated-like-ms-13-gang-member-during-arrest-deportation/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-02-12-19-27 +0000",
+    "source": "nypost",
+    "headline": "Mom of crazed Times Square killer questions why cops couldn’t grab her as she lunged at them with knives",
+    "link": "https://nypost.com/2026/09/02/us-news/mom-of-mentally-ill-times-square-killer-questions-why-cops-couldnt-grab-her-as-she-lunged-at-them-with-knives/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-09-02-12-10-00 +0000",
+    "source": "wsj",
+    "headline": "OpenAI Lawsuits Mount Over Canadian School Shooting",
+    "link": "https://www.wsj.com/us-news/law/openai-lawsuits-mount-over-canadian-school-shooting-ca24c762?mod=rss_usnews"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-09-02-12-57-54 +0000",
     "source": "nyt",
-    "headline": "Bus Crash in Egypt Kills at Least 22",
-    "link": "https://www.nytimes.com/2026/09/02/world/africa/bus-crash-egypt-sinai.html"
+    "headline": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
+    "link": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-09-02-12-00-00 +0000",
+    "source": "wsj",
+    "headline": "UK Prime Minister Says Government Will Be ‘Grounded in Fiscal Responsibility’",
+    "link": "https://www.wsj.com/world/europe/uk-prime-minister-says-government-will-be-grounded-in-fiscal-responsibility-652f5c18?mod=rss_worldnews"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-09-02-12-10-22 +0000",
+    "source": "bbc",
+    "headline": "Reform up against 'complainants' society', Farage tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss"
   }
 ]
