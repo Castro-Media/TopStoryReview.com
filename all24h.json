@@ -1,5 +1,197 @@
 [
   {
+    "headline": "Ex-Indiana deputy charged with felony for allegedly using Flock cameras to stalk girlfriend",
+    "link": "https://nypost.com/2026/09/02/us-news/ex-indiana-deputy-skylar-thompson-allegedly-used-flock-cameras-to-stalk-girlfriend-charged-with-felony/",
+    "source": "nypost",
+    "pubdate": "2026-09-02-07-02-50 +0000"
+  },
+  {
+    "headline": "Bus crash on Egypt's Red Sea coast kills 16",
+    "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-07-01-13 +0000"
+  },
+  {
+    "headline": "Italian Gaming Group Lottomatica to Merge With Spain’s Cirsa",
+    "link": "https://www.wsj.com/business/deals/italian-gaming-group-lottomatica-to-merge-with-spains-cirsa-db15bce2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-02-07-01-00 +0000"
+  },
+  {
+    "headline": "How Our Madrid Bureau Chief Covers a Country in Transition",
+    "link": "https://www.nytimes.com/2026/09/02/insider/madrid-bureau-chief.html",
+    "source": "nyt",
+    "pubdate": "2026-09-02-07-00-06 +0000"
+  },
+  {
+    "headline": "Dollar Rises to Highest in Nearly Three Weeks Vs Basket of Currencies",
+    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-traders-digest-remarks-from-katayama-ueda-70108fc2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-02-06-51-00 +0000"
+  },
+  {
+    "headline": "Massachusetts woman strangled to death by Brazilian illegal immigrant who was released into US by Biden",
+    "link": "https://nypost.com/2026/09/02/us-news/massachusetts-woman-brianna-connolly-killed-by-illegal-immigrant-flavio-alcantara-dias-released-into-country-by-biden/",
+    "source": "nypost",
+    "pubdate": "2026-09-02-06-49-33 +0000"
+  },
+  {
+    "headline": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
+    "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
+    "source": "nyt",
+    "pubdate": "2026-09-02-06-46-24 +0000"
+  },
+  {
+    "headline": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
+    "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
+    "source": "nyt",
+    "pubdate": "2026-09-02-06-46-24 +0000"
+  },
+  {
+    "headline": "BP Appoints Interim Chairman Ian Tyler to Permanent Role",
+    "link": "https://www.wsj.com/business/energy-oil/bp-appoints-interim-chairman-ian-tyler-to-permanent-role-e923de60?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-02-06-45-00 +0000"
+  },
+  {
+    "headline": "Man, 45, slashed in neck on Midtown street in latest NYC stabbing: cops",
+    "link": "https://nypost.com/2026/09/02/us-news/man-slashed-in-neck-in-nyc-street-after-dispute/",
+    "source": "nypost",
+    "pubdate": "2026-09-02-06-39-08 +0000"
+  },
+  {
+    "headline": "USS Abraham Lincoln arrives in Thailand following its Middle East deployment",
+    "link": "https://nypost.com/2026/09/02/world-news/uss-abraham-lincoln-arrives-in-thailand-following-its-middle-east-deployment/",
+    "source": "nypost",
+    "pubdate": "2026-09-02-06-31-08 +0000"
+  },
+  {
+    "headline": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-06-26-35 +0000"
+  },
+  {
+    "headline": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-06-26-35 +0000"
+  },
+  {
+    "headline": "Salvadoran illegal immigrant allegedly killed Virginia co-worker when she exposed affair to girlfriend: witness",
+    "link": "https://nypost.com/2026/09/02/us-news/illegal-immigrant-alexis-cedillos-campos-allegedly-stabbed-virginia-co-worker-carmen-puch-after-she-exposed-their-affair-to-his-girlfriend/",
+    "source": "nypost",
+    "pubdate": "2026-09-02-06-17-31 +0000"
+  },
+  {
+    "headline": "Colorado mob of 500 teens swarm Burger King, supermarket in chaotic shopping center takeover",
+    "link": "https://nypost.com/2026/09/02/us-news/colorado-mob-of-500-teens-swarm-burger-king-supermarket-in-chaotic-shopping-center-takeover/",
+    "source": "nypost",
+    "pubdate": "2026-09-02-06-05-56 +0000"
+  },
+  {
+    "headline": "U.S. carries out new military strikes in Iran",
+    "link": "https://www.washingtonpost.com/national-security/2026/09/01/us-carries-out-new-military-strikes-iran/",
+    "source": "wapo",
+    "pubdate": "2026-09-02-06-05-21 +0000"
+  },
+  {
+    "headline": "U.S. carries out new military strikes in Iran",
+    "link": "https://www.washingtonpost.com/national-security/2026/09/01/us-carries-out-new-military-strikes-iran/",
+    "source": "wapo",
+    "pubdate": "2026-09-02-06-05-21 +0000"
+  },
+  {
+    "headline": "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break",
+    "link": "https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html",
+    "source": "nyt",
+    "pubdate": "2026-09-02-06-01-40 +0000"
+  },
+  {
+    "headline": "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break",
+    "link": "https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html",
+    "source": "nyt",
+    "pubdate": "2026-09-02-06-01-40 +0000"
+  },
+  {
+    "headline": "Poll shows nearly 90% of Americans believe government corruption is widespread",
+    "link": "https://www.washingtonpost.com/politics/2026/09/02/poll-shows-nearly-90-americans-believe-government-corruption-is-widespread/",
+    "source": "wapo",
+    "pubdate": "2026-09-02-06-00-00 +0000"
+  },
+  {
+    "headline": "South Korea jails disabled care home head for sexually assaulting residents",
+    "link": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-05-56-44 +0000"
+  },
+  {
+    "headline": "Aggressive Plaskett fire outgrows Timber fire as Big Sur wildfires rage",
+    "link": "https://www.latimes.com/california/story/2026-09-01/aggressive-plaskett-fire-outgrows-timber-fire-in-big-sur",
+    "source": "latimes",
+    "pubdate": "2026-09-02-05-52-18 +0000"
+  },
+  {
+    "headline": "Concern more horses being given up over rising costs",
+    "link": "https://www.bbc.co.uk/news/articles/c4g57423560o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-05-51-54 +0000"
+  },
+  {
+    "headline": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
+    "link": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
+    "source": "nyt",
+    "pubdate": "2026-09-02-05-48-54 +0000"
+  },
+  {
+    "headline": "Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion",
+    "link": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
+    "source": "nyt",
+    "pubdate": "2026-09-02-05-48-54 +0000"
+  },
+  {
+    "headline": "School uniform costs hit families, say charities",
+    "link": "https://www.bbc.co.uk/news/articles/cp84q09mz77o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-05-19-52 +0000"
+  },
+  {
+    "headline": "TPG Files Confidential IPO Application for Malaysia Hospital Assets Valued at Around $8 Billion",
+    "link": "https://www.wsj.com/business/tpg-submits-confidential-ipo-for-malaysia-hospital-assets-valued-at-around-8-billion-b1a2f1d4?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-02-05-15-00 +0000"
+  },
+  {
+    "headline": "Will new uniform rules save parents money?",
+    "link": "https://www.bbc.co.uk/news/articles/c750np0726go?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-05-14-09 +0000"
+  },
+  {
+    "headline": "School opens uniform shop to sell items 'at cost'",
+    "link": "https://www.bbc.co.uk/news/articles/cz9zej4j2l4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-05-08-51 +0000"
+  },
+  {
+    "headline": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+    "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-05-03-09 +0000"
+  },
+  {
+    "headline": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+    "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-05-03-09 +0000"
+  },
+  {
+    "headline": "131 alcohol containers found aboard boat operated by drunk driver arrested in fatal Jersey Shore crash: report",
+    "link": "https://nypost.com/2026/09/02/us-news/131-alcohol-containers-found-aboard-boat-operated-by-drunk-driver-arrested-in-fatal-jersey-shore-crash-report/",
+    "source": "nypost",
+    "pubdate": "2026-09-02-05-00-00 +0000"
+  },
+  {
     "headline": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
     "link": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -18,10 +210,10 @@
     "pubdate": "2026-09-02-04-29-02 +0000"
   },
   {
-    "headline": "Asian Currencies Face Headwinds From Rising U.S. Treasury Yields, Oil Prices",
-    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-traders-digest-remarks-from-katayama-ueda-70108fc2?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-02-04-29-00 +0000"
+    "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+    "link": "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-04-29-02 +0000"
   },
   {
     "headline": "Arizona bum left elderly mother to die in deplorable conditions, while sexting, pocketing her Social Security checks: docs",
@@ -30,22 +222,22 @@
     "pubdate": "2026-09-02-04-26-12 +0000"
   },
   {
+    "headline": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+    "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-04-23-23 +0000"
+  },
+  {
+    "headline": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+    "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-04-23-23 +0000"
+  },
+  {
     "headline": "Talking With Giorgia Meloni",
     "link": "https://www.nytimes.com/2026/09/01/world/giorgia-meloni-interview-bonds-iran.html",
     "source": "nyt",
     "pubdate": "2026-09-02-04-18-16 +0000"
-  },
-  {
-    "headline": "U.S. carries out new military strikes in Iran",
-    "link": "https://www.washingtonpost.com/national-security/2026/09/01/us-carries-out-new-military-strikes-iran/",
-    "source": "wapo",
-    "pubdate": "2026-09-02-04-10-14 +0000"
-  },
-  {
-    "headline": "U.S. carries out new military strikes in Iran",
-    "link": "https://www.washingtonpost.com/national-security/2026/09/01/us-carries-out-new-military-strikes-iran/",
-    "source": "wapo",
-    "pubdate": "2026-09-02-04-10-14 +0000"
   },
   {
     "headline": "U.N. Says World Will Miss Its 1.5 Degree Climate Target",
@@ -174,18 +366,6 @@
     "pubdate": "2026-09-02-03-21-02 +0000"
   },
   {
-    "headline": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-02-03-19-44 +0000"
-  },
-  {
-    "headline": "Iran retaliates after US strikes kill four at wedding party, state media reports",
-    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-02-03-19-44 +0000"
-  },
-  {
     "headline": "Hong Kong pro-democracy activist Joshua Wong pleads guilty in 2nd national security case",
     "link": "https://www.cbc.ca/news/world/joshua-wong-guilty-plea-9.7328987?cmp=rss",
     "source": "cbc",
@@ -250,6 +430,12 @@
     "link": "https://www.wsj.com/economy/central-banking/reserve-bank-of-new-zealand-delivers-further-rate-increase-d71e3fde?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-09-02-02-47-00 +0000"
+  },
+  {
+    "headline": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
+    "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-02-42-38 +0000"
   },
   {
     "headline": "US aircraft carrier docks near Thai beach resort Pattaya after record 250 days at sea",
@@ -330,6 +516,12 @@
     "pubdate": "2026-09-02-01-59-10 +0000"
   },
   {
+    "headline": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+    "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-01-59-10 +0000"
+  },
+  {
     "headline": "Shein’s Lackluster Debut Shows a Fast-Fashion Model Left Behind",
     "link": "https://www.nytimes.com/2026/08/31/business/shein-ipo-china.html",
     "source": "nyt",
@@ -388,6 +580,12 @@
     "link": "https://nypost.com/2026/09/01/us-news/sacramento-plans-6-new-drinking-zones-as-city-seeks-business-boost/",
     "source": "nypost",
     "pubdate": "2026-09-02-01-36-26 +0000"
+  },
+  {
+    "headline": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+    "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-01-32-24 +0000"
   },
   {
     "headline": "Apple Maps renames Lake Ontario as Lake America after Trump order",
@@ -642,6 +840,12 @@
     "pubdate": "2026-09-02-00-27-03 +0000"
   },
   {
+    "headline": "Tiger Woods to change plea after crash arrest",
+    "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-02-00-26-08 +0000"
+  },
+  {
     "headline": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
     "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
     "source": "nyt",
@@ -804,18 +1008,6 @@
     "pubdate": "2026-09-01-23-38-00 +0000"
   },
   {
-    "headline": "‘Hell on wheels’ killer Mackenzie Shirilla learns fate after latest bid for freedom",
-    "link": "https://nypost.com/2026/09/01/us-news/hell-on-wheels-killer-mackenzie-shirilla-learns-fate-after-latest-bid-for-freedom/",
-    "source": "nypost",
-    "pubdate": "2026-09-01-23-37-17 +0000"
-  },
-  {
-    "headline": "Wild moment drunk California mom takes kids on nightmare highway chase before smashing into guardrail",
-    "link": "https://nypost.com/2026/09/01/us-news/fresno-mom-allegedly-flees-hit-and-run-with-kids-before-crashing/",
-    "source": "nypost",
-    "pubdate": "2026-09-01-23-36-42 +0000"
-  },
-  {
     "headline": "Coverage for smoke damage, money for protecting homes passed to help wildfire victims",
     "link": "https://www.latimes.com/california/story/2026-09-01/coverage-for-smoke-damage-money-for-protecting-homes-passed-to-help-wildfire-victims",
     "source": "latimes",
@@ -834,10 +1026,10 @@
     "pubdate": "2026-09-01-23-31-25 +0000"
   },
   {
-    "headline": "Hunter Biden says he’s ‘48 percent gay’ in podcast interview",
-    "link": "https://nypost.com/2026/09/01/us-news/hunter-biden-says-hes-48-percent-gay-in-podcast-interview/",
-    "source": "nypost",
-    "pubdate": "2026-09-01-23-31-25 +0000"
+    "headline": "Will self-flying planes transform the skies?",
+    "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-01-23-27-35 +0000"
   },
   {
     "headline": "Will self-flying planes transform the skies?",
@@ -856,12 +1048,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-01-23-26-38 +0000"
-  },
-  {
-    "headline": "Major tax hell looms for California county after Gavin Newsom-signed law forces it on ballot",
-    "link": "https://nypost.com/2026/09/01/us-news/gavin-newsom-law-forces-fresno-county-road-tax-onto-november-ballot/",
-    "source": "nypost",
-    "pubdate": "2026-09-01-23-24-49 +0000"
   },
   {
     "headline": "Major tax hell looms for California county after Gavin Newsom-signed law forces it on ballot",
@@ -912,28 +1098,10 @@
     "pubdate": "2026-09-01-23-18-05 +0000"
   },
   {
-    "headline": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial",
-    "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-23-17-10 +0000"
-  },
-  {
     "headline": "Canada poaches top American talent | About That",
     "link": "https://www.cbc.ca/player/play/9.7328814?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-09-01-23-15-40 +0000"
-  },
-  {
-    "headline": "Trump admin fires back over ‘lawfare’ after Letitia James staffer claims he was pushed to target prez",
-    "link": "https://nypost.com/2026/09/01/us-news/trump-admin-on-lawfare-after-letitia-james-staffer-claims-he-was-pushed-to-target-president/",
-    "source": "nypost",
-    "pubdate": "2026-09-01-23-13-56 +0000"
-  },
-  {
-    "headline": "Victim stabbed to death in Times Square rampage was VP at Bank of America, just celebrated 2nd wedding anniversary",
-    "link": "https://nypost.com/2026/09/01/us-news/victim-stabbed-to-death-in-times-square-rampage-was-vp-at-bank-of-america-just-celebrated-2nd-wedding-anniversary/",
-    "source": "nypost",
-    "pubdate": "2026-09-01-23-12-45 +0000"
   },
   {
     "headline": "Whole Foods Market is coming to Old Town, and will take over old Treasure Island spot",
@@ -1012,6 +1180,12 @@
     "link": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-09-01-22-38-00 +0000"
+  },
+  {
+    "headline": "Could the man who murdered a Christian missionary and his sons walk free in India?",
+    "link": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-01-22-32-30 +0000"
   },
   {
     "headline": "‘My boss told me to’ said man painting over murals in Clarion Alley",
@@ -1206,7 +1380,7 @@
     "pubdate": "2026-09-01-21-41-22 +0000"
   },
   {
-    "headline": "Ariana Grande completes tour and steps back from public life",
+    "headline": "Ariana Grande makes emotional tour exit and steps back from public life",
     "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-01-21-41-05 +0000"
@@ -1240,6 +1414,12 @@
     "link": "https://www.wsj.com/opinion/germany-leipzig-airport-drone-russia-nato-iran-1df66c1e?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-09-01-21-33-00 +0000"
+  },
+  {
+    "headline": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
+    "link": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-01-21-27-29 +0000"
   },
   {
     "headline": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
@@ -1488,12 +1668,6 @@
     "pubdate": "2026-09-01-20-24-28 +0000"
   },
   {
-    "headline": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-    "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-20-24-28 +0000"
-  },
-  {
     "headline": "Markwayne Mullin says DHS rolling out border biometric scans ‘as fast as we can’ after massive underreporting of foreigners’ rap sheets",
     "link": "https://nypost.com/2026/09/01/us-news/markwayne-mullin-says-dhs-rolling-out-border-biometric-scans-as-fast-as-we-can-after-9-11-security-warnings/",
     "source": "nypost",
@@ -1540,12 +1714,6 @@
     "link": "https://www.wsj.com/business/earnings/dell-technologies-boosts-fiscal-year-outlook-by-25-billion-as-server-revenue-surges-378fc240?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-01-20-17-00 +0000"
-  },
-  {
-    "headline": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-    "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-20-05-23 +0000"
   },
   {
     "headline": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
@@ -1692,18 +1860,6 @@
     "pubdate": "2026-09-01-19-09-00 +0000"
   },
   {
-    "headline": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
-    "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
-    "source": "nyt",
-    "pubdate": "2026-09-01-19-08-16 +0000"
-  },
-  {
-    "headline": "Nepal’s Economy Has Few Ways to Absorb the Cost of Flood Damage",
-    "link": "https://www.nytimes.com/2026/09/01/world/asia/nepal-floods-economy.html",
-    "source": "nyt",
-    "pubdate": "2026-09-01-19-08-16 +0000"
-  },
-  {
     "headline": "Video: Expectations follow Lakeville South’s pursuit of volleyball state three-peat",
     "link": "https://www.startribune.com/minnesota-high-school-girls-volleyball-lakeville-south-three-peat-video/601884981",
     "source": "startribune",
@@ -1788,12 +1944,6 @@
     "pubdate": "2026-09-01-18-26-12 +0000"
   },
   {
-    "headline": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
-    "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-18-26-12 +0000"
-  },
-  {
     "headline": "Convicted MAGA election denier declines job in California amid pressure from Newsom",
     "link": "https://www.latimes.com/california/story/2026-09-01/maga-election-denier-shasta-county-newsom",
     "source": "latimes",
@@ -1846,12 +1996,6 @@
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-01/jewish-artists-defend-mark-ruffalo-amid-paramounts-allegations-of-antisemitism",
     "source": "latimes",
     "pubdate": "2026-09-01-18-07-29 +0000"
-  },
-  {
-    "headline": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-    "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-18-06-58 +0000"
   },
   {
     "headline": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
@@ -2100,22 +2244,22 @@
     "pubdate": "2026-09-01-16-35-28 +0000"
   },
   {
-    "headline": "Trump says US position on Falklands 'one of many' under review",
-    "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+    "headline": "Husband and 12 Men in Britain Are Accused of Woman’s Yearslong Drugging and Rape",
+    "link": "https://www.nytimes.com/2026/09/01/world/europe/manchester-uk-trial-husband-rape-abuse.html",
+    "source": "nyt",
+    "pubdate": "2026-09-01-16-34-10 +0000"
+  },
+  {
+    "headline": "Husband and 12 Men in Britain Are Accused of Woman’s Yearslong Drugging and Rape",
+    "link": "https://www.nytimes.com/2026/09/01/world/europe/manchester-uk-trial-husband-rape-abuse.html",
+    "source": "nyt",
+    "pubdate": "2026-09-01-16-34-10 +0000"
+  },
+  {
+    "headline": "Pistol in a lake gives hope for French cold case",
+    "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-09-01-16-35-28 +0000"
-  },
-  {
-    "headline": "Husband and 12 Men in Britain Are Accused of Woman’s Yearslong Drugging and Rape",
-    "link": "https://www.nytimes.com/2026/09/01/world/europe/manchester-uk-trial-husband-rape-abuse.html",
-    "source": "nyt",
-    "pubdate": "2026-09-01-16-34-10 +0000"
-  },
-  {
-    "headline": "Husband and 12 Men in Britain Are Accused of Woman’s Yearslong Drugging and Rape",
-    "link": "https://www.nytimes.com/2026/09/01/world/europe/manchester-uk-trial-husband-rape-abuse.html",
-    "source": "nyt",
-    "pubdate": "2026-09-01-16-34-10 +0000"
+    "pubdate": "2026-09-01-16-33-29 +0000"
   },
   {
     "headline": "Pistol in a lake gives hope for French cold case",
@@ -2244,12 +2388,6 @@
     "pubdate": "2026-09-01-15-57-18 +0000"
   },
   {
-    "headline": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
-    "link": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-15-57-18 +0000"
-  },
-  {
     "headline": "US military says it’s striking targets in Iran, and other Mideast news",
     "link": "https://www.chicagotribune.com/2026/09/01/iran-us-ceasefire-agreement-mideast-news/",
     "source": "chitri",
@@ -2268,12 +2406,6 @@
     "pubdate": "2026-09-01-15-54-08 +0000"
   },
   {
-    "headline": "Swinney to cut number of health boards from 14 to two",
-    "link": "https://www.bbc.co.uk/news/articles/c9dw5x611gpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-15-52-53 +0000"
-  },
-  {
     "headline": "US borrowing costs hit fresh highs over inflation fears",
     "link": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2290,18 +2422,6 @@
     "link": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-coalition.html",
     "source": "nyt",
     "pubdate": "2026-09-01-15-51-22 +0000"
-  },
-  {
-    "headline": "Can JD Vance Win Over Skeptical Jewish Voters?",
-    "link": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-coalition.html",
-    "source": "nyt",
-    "pubdate": "2026-09-01-15-51-22 +0000"
-  },
-  {
-    "headline": "Woman killed in Times Square stabbing, suspect shot dead by police",
-    "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-15-48-38 +0000"
   },
   {
     "headline": "Woman killed in Times Square stabbing, suspect shot dead by police",
@@ -2314,12 +2434,6 @@
     "link": "https://www.wsj.com/cmo-today/james-dyson-sold-us-on-a-400-hair-dryer-now-hes-trying-a-499-toothbrush-c2740126?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-01-15-48-00 +0000"
-  },
-  {
-    "headline": "Life is too expensive for too many - PM says",
-    "link": "https://www.bbc.co.uk/news/videos/c4gv0dej5y3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-15-47-02 +0000"
   },
   {
     "headline": "Canada's top soldier expresses pride in 'who we are,' after Hegseth targets cadets in post",
@@ -2340,12 +2454,6 @@
     "pubdate": "2026-09-01-15-45-00 +0000"
   },
   {
-    "headline": "'We can make this next decade better than the last'",
-    "link": "https://www.bbc.co.uk/news/videos/c5yd43pkl53o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-15-43-38 +0000"
-  },
-  {
     "headline": "How different would Lindsay Clancy's murder trial look if it happened in Canada?",
     "link": "https://www.cbc.ca/news/canada/lindsay-clancy-trial-infanticide-9.7326513?cmp=rss",
     "source": "cbc",
@@ -2364,22 +2472,10 @@
     "pubdate": "2026-09-01-15-33-14 +0000"
   },
   {
-    "headline": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-    "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-15-33-14 +0000"
-  },
-  {
     "headline": "Sicko school worker arrested in massacre of over 50 hamsters by stomping on them in ‘love hotels’",
     "link": "https://nypost.com/2026/09/01/world-news/japanese-man-arrested-for-massacre-of-hamsters/",
     "source": "nypost",
     "pubdate": "2026-09-01-15-32-30 +0000"
-  },
-  {
-    "headline": "How to get a refund when using your credit card",
-    "link": "https://www.bbc.co.uk/news/videos/cp84ynl2j05o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-15-31-42 +0000"
   },
   {
     "headline": "How to get a refund when using your credit card",
@@ -2640,12 +2736,6 @@
     "pubdate": "2026-09-01-12-37-36 +0000"
   },
   {
-    "headline": "Zambia's president sworn in for second term while opponent detained",
-    "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-12-37-36 +0000"
-  },
-  {
     "headline": "What to Watch in the Massachusetts Primary Election",
     "link": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-election-what-to-watch.html",
     "source": "nyt",
@@ -2746,12 +2836,6 @@
     "link": "https://www.chicagotribune.com/2026/09/01/naperville-bean-dumplings-uzbek-restaurants/",
     "source": "chitri",
     "pubdate": "2026-09-01-11-59-46 +0000"
-  },
-  {
-    "headline": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-11-55-51 +0000"
   },
   {
     "headline": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
@@ -2904,24 +2988,6 @@
     "pubdate": "2026-09-01-10-35-00 +0000"
   },
   {
-    "headline": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-10-30-55 +0000"
-  },
-  {
-    "headline": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-    "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-10-30-55 +0000"
-  },
-  {
-    "headline": "Teen girl charged with murder over recording of San Diego mosque attack",
-    "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-10-26-50 +0000"
-  },
-  {
     "headline": "Teen girl charged with murder over recording of San Diego mosque attack",
     "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2956,12 +3022,6 @@
     "link": "https://www.chicagotribune.com/2026/09/01/palos-park-model-trains/",
     "source": "chitri",
     "pubdate": "2026-09-01-10-02-43 +0000"
-  },
-  {
-    "headline": "Shein valued at $26bn after long-awaited stock market debut",
-    "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-10-01-26 +0000"
   },
   {
     "headline": "Shein valued at $26bn after long-awaited stock market debut",
@@ -3012,6 +3072,12 @@
     "pubdate": "2026-09-01-10-00-00 +0000"
   },
   {
+    "headline": "Could a hurricane send floods to Southern California for Labor Day weekend?",
+    "link": "https://www.latimes.com/california/story/2026-09-01/could-hurricane-send-floods-to-socal-for-labor-day-weekend",
+    "source": "latimes",
+    "pubdate": "2026-09-01-10-00-00 +0000"
+  },
+  {
     "headline": "Community colleges would be able to award far more bachelor's degrees if Newsom approves",
     "link": "https://www.latimes.com/california/story/2026-09-01/california-community-college-bachelors-degrees-newsom-bills",
     "source": "latimes",
@@ -3024,20 +3090,14 @@
     "pubdate": "2026-09-01-10-00-00 +0000"
   },
   {
-    "headline": "Reputed Latino gang member charged with killing Black man amid racially charged turf war",
-    "link": "https://www.latimes.com/california/story/2026-09-01/blythe-street-gang-suspects-trial-shooting-black-man",
-    "source": "latimes",
-    "pubdate": "2026-09-01-10-00-00 +0000"
-  },
-  {
     "headline": "Traffic deaths are on the rise. Why is the LAPD pulling over fewer drivers?",
     "link": "https://www.latimes.com/california/story/2026-09-01/lapd-future-of-traffic-enforcement",
     "source": "latimes",
     "pubdate": "2026-09-01-10-00-00 +0000"
   },
   {
-    "headline": "Could a hurricane send floods to Southern California for Labor Day weekend?",
-    "link": "https://www.latimes.com/california/story/2026-09-01/could-hurricane-send-floods-to-socal-for-labor-day-weekend",
+    "headline": "Reputed Latino gang member charged with killing Black man amid racially charged turf war",
+    "link": "https://www.latimes.com/california/story/2026-09-01/blythe-street-gang-suspects-trial-shooting-black-man",
     "source": "latimes",
     "pubdate": "2026-09-01-10-00-00 +0000"
   },
@@ -3250,35 +3310,5 @@
     "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-chip-stocks-f0ceaeae?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-09-01-07-26-00 +0000"
-  },
-  {
-    "headline": "Kenya aviation workers call off strike that disrupted flights",
-    "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-06-56-44 +0000"
-  },
-  {
-    "headline": "VOTE NOW in our 2026 Best of the Bay Readers’ Poll!",
-    "link": "https://48hills.org/2026/08/vote-now-in-the-2026-best-of-the-bay-readers-poll/",
-    "source": "48hills",
-    "pubdate": "2026-09-01-06-33-58 +0000"
-  },
-  {
-    "headline": "Was this 40-year clutch of shaggy queer tracks the real album of the summer?",
-    "link": "https://48hills.org/2026/08/was-this-40-year-collection-of-shaggy-queer-tracks-the-real-album-of-the-summer/",
-    "source": "48hills",
-    "pubdate": "2026-09-01-06-21-11 +0000"
-  },
-  {
-    "headline": "The final minutes before floodwater crashed through Nepal-China border",
-    "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-06-02-27 +0000"
-  },
-  {
-    "headline": "The final minutes before floodwater crashed through Nepal-China border",
-    "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-01-06-02-27 +0000"
   }
 ]
