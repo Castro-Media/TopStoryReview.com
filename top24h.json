@@ -1,38 +1,17 @@
 [
   {
-    "score": 146,
+    "score": 134,
     "pubdate": "2026-09-02-19-56-52 +0000",
     "source": "nyt",
     "headline": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
     "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
   },
   {
-    "score": 125,
+    "score": 113,
     "pubdate": "2026-09-02-12-55-00 +0000",
     "source": "wapo",
     "headline": "Watch Ontario, New York, residents sound off on the Lake America name change",
     "link": "https://www.washingtonpost.com/politics/2026/09/02/watch-ontario-new-york-residents-sound-off-lake-america-name-change/"
-  },
-  {
-    "score": 84,
-    "pubdate": "2026-09-02-11-35-00 +0000",
-    "source": "wsj",
-    "headline": "Massachusetts Sen. Ed Markey beat back a Democratic primary challenge from Rep. Seth Moulton in a generational fight that focused on Markey’s age and the future of the party",
-    "link": "https://www.wsj.com/politics/elections/sen-ed-markey-defeats-younger-challenger-in-massachusetts-bf4379fe?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 84,
-    "pubdate": "2026-09-02-01-59-10 +0000",
-    "source": "bbc",
-    "headline": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
-    "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 65,
-    "pubdate": "2026-09-02-01-29-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he’s nominating Navy veteran Hung Cao to become the service’s top civilian leader, a job that has been vacant since John Phelan was pushed out in the spring",
-    "link": "https://www.wsj.com/politics/national-security/trump-picks-veteran-hung-cao-to-become-navy-secretary-6de2aef4?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 63,
@@ -43,10 +22,10 @@
   },
   {
     "score": 59,
-    "pubdate": "2026-09-02-23-36-49 +0000",
-    "source": "bbc",
-    "headline": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-    "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-09-02-03-38-10 +0000",
+    "source": "nypost",
+    "headline": "Xi visits Egypt as China seeks deeper influence across the Middle East",
+    "link": "https://nypost.com/2026/09/01/world-news/president-xi-visits-egypt-as-china-seeks-deeper-influence-across-the-middle-east/"
   },
   {
     "score": 58,
@@ -56,17 +35,38 @@
     "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 57,
+    "pubdate": "2026-09-02-11-35-00 +0000",
+    "source": "wsj",
+    "headline": "Massachusetts Sen. Ed Markey beat back a Democratic primary challenge from Rep. Seth Moulton in a generational fight that focused on Markey’s age and the future of the party",
+    "link": "https://www.wsj.com/politics/elections/sen-ed-markey-defeats-younger-challenger-in-massachusetts-bf4379fe?mod=rss_socialpoliticsfeed"
+  },
+  {
     "score": 56,
-    "pubdate": "2026-09-02-03-38-10 +0000",
-    "source": "nypost",
-    "headline": "Xi visits Egypt as China seeks deeper influence across the Middle East",
-    "link": "https://nypost.com/2026/09/01/world-news/president-xi-visits-egypt-as-china-seeks-deeper-influence-across-the-middle-east/"
+    "pubdate": "2026-09-02-23-36-49 +0000",
+    "source": "bbc",
+    "headline": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+    "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 54,
     "pubdate": "2026-09-02-21-54-00 +0000",
     "source": "wsj",
     "headline": "Plane Carrying Homeland Security Chief Markwayne Mullin Makes Emergency Landing",
-    "link": "https://www.wsj.com/us-news/plane-carrying-homeland-security-chief-markwayne-mullin-makes-emergency-landing-393d5fdb?mod=rss_usnews"
+    "link": "https://www.wsj.com/us-news/plane-carrying-homeland-security-chief-markwayne-mullin-makes-emergency-landing-393d5fdb?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-09-02-18-58-00 +0000",
+    "source": "wapo",
+    "headline": "El-Sayed blames Trump for global bond market sell-off",
+    "link": "https://www.washingtonpost.com/politics/2026/09/02/el-sayed-blames-trump-global-bond-market-selloff/"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-09-02-16-22-36 +0000",
+    "source": "nypost",
+    "headline": "Ex-pop star Gary Glitter pleads not guilty to charges of historic sex offenses against child",
+    "link": "https://nypost.com/2026/09/02/world-news/former-british-pop-star-gary-glitter-pleads-not-guilty-to-uk-charges-of-historical-sex-offences/"
   }
 ]
