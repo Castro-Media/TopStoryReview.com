@@ -1,13 +1,13 @@
 [
   {
-    "score": 136,
+    "score": 133,
     "pubdate": "2026-09-02-19-56-53 +0000",
     "source": "nyt",
     "headline": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
     "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
   },
   {
-    "score": 96,
+    "score": 93,
     "pubdate": "2026-09-03-10-00-00 +0000",
     "source": "nypost",
     "headline": "Dem NY House candidate Cait Conley ripped over transgender support in 1st GOP attack ad before heated midterm race against Lawler",
@@ -28,18 +28,11 @@
     "link": "https://www.chicagotribune.com/2026/09/02/trump-birthright-citizenship-order-blocked/"
   },
   {
-    "score": 71,
+    "score": 70,
     "pubdate": "2026-09-02-19-11-13 +0000",
     "source": "cbc",
     "headline": "Deadlocked jury in case of U.S. mother who killed her kids ends 5th day of deliberations with no verdict",
     "link": "https://www.cbc.ca/news/world/lindsay-clancy-jury-deadlocked-9.7329827?cmp=rss"
-  },
-  {
-    "score": 70,
-    "pubdate": "2026-09-02-18-58-00 +0000",
-    "source": "wapo",
-    "headline": "El-Sayed blames Trump for global bond market sell-off",
-    "link": "https://www.washingtonpost.com/politics/2026/09/02/el-sayed-blames-trump-global-bond-market-selloff/"
   },
   {
     "score": 69,
@@ -56,6 +49,13 @@
     "link": "https://www.chicagotribune.com/2026/09/02/apple-maps-lake-america/"
   },
   {
+    "score": 64,
+    "pubdate": "2026-09-02-18-58-00 +0000",
+    "source": "wapo",
+    "headline": "El-Sayed blames Trump for global bond market sell-off",
+    "link": "https://www.washingtonpost.com/politics/2026/09/02/el-sayed-blames-trump-global-bond-market-selloff/"
+  },
+  {
     "score": 63,
     "pubdate": "2026-09-02-21-54-00 +0000",
     "source": "wsj",
@@ -63,7 +63,7 @@
     "link": "https://www.wsj.com/us-news/plane-carrying-homeland-security-chief-markwayne-mullin-makes-emergency-landing-393d5fdb?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 62,
+    "score": 59,
     "pubdate": "2026-09-02-23-25-50 +0000",
     "source": "bbc",
     "headline": "Stingy bosses and spare change: How much should you give to the office whip-round?",
