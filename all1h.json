@@ -1,272 +1,314 @@
 [
   {
-    "headline": "Bessent Blames Ukraine for High Energy Prices",
-    "link": "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html",
+    "headline": "Nike closes 11 stores across the US — including one in California",
+    "link": "https://nypost.com/2026/09/03/business/nike-closes-11-stores-across-the-us-including-one-in-california/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-53-39 +0000"
+  },
+  {
+    "headline": "U.S. Trade Gap Ballooned in July",
+    "link": "https://www.nytimes.com/2026/09/03/business/economy/us-trade-defecit-july.html",
     "source": "nyt",
-    "pubdate": "2026-09-03-17-51-36 +0000"
+    "pubdate": "2026-09-03-18-51-52 +0000"
+  },
+  {
+    "headline": "Thieves in U.K. make off with two truckloads of Guinness",
+    "link": "https://www.cbc.ca/news/world/uk-guinness-theft-9.7331342?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-09-03-18-51-17 +0000"
+  },
+  {
+    "headline": "ICE Skipped Basic Checks in Rush for Recruits, Whistle-Blower Says",
+    "link": "https://www.nytimes.com/2026/09/03/us/ice-recruits-national-security-risk-whistleblower.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-18-49-07 +0000"
+  },
+  {
+    "headline": "Longtime editor of Chinese-language paper Sing Tao, Joseph Leung, retires after 36 years",
+    "link": "https://missionlocal.org/2026/09/sing-tao-daily-editor-joseph-leung-retires/",
+    "source": "missionlocal",
+    "pubdate": "2026-09-03-18-46-42 +0000"
   },
   {
     "headline": "Los Angeles District Bans Most A.I. for Students",
     "link": "https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html",
     "source": "nyt",
-    "pubdate": "2026-09-03-17-51-27 +0000"
+    "pubdate": "2026-09-03-18-41-57 +0000"
   },
   {
-    "headline": "Government must release some secret material in Nazi war crimes study, court says",
-    "link": "https://www.cbc.ca/news/politics/federal-court-orders-release-nazi-war-crimes-study-9.7331210?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-03-17-50-53 +0000"
-  },
-  {
-    "headline": "Fox News parts ways with longtime host Maria Bartiromo",
-    "link": "https://www.startribune.com/fox-news-parts-ways-with-longtime-host-maria-bartiromo/601885858",
-    "source": "startribune",
-    "pubdate": "2026-09-03-17-50-08 +0000"
-  },
-  {
-    "headline": "Opinion | Handouts for Hollywood—Really?",
-    "link": "https://www.wsj.com/opinion/donald-trump-hollywood-subsidies-movies-tv-show-production-jobs-b2ee8b3c?mod=pls_whats_news_us_business_f",
+    "headline": "ICE Officer Charged With Lying About Shooting",
+    "link": "https://www.wsj.com/us-news/law/ice-officer-charged-with-lying-about-shooting-ba5f7aca?mod=rss_usnews",
     "source": "wsj",
-    "pubdate": "2026-09-03-17-50-00 +0000"
+    "pubdate": "2026-09-03-18-39-00 +0000"
   },
   {
-    "headline": "Opinion | Handouts for Hollywood—Really?",
-    "link": "https://www.wsj.com/opinion/donald-trump-hollywood-subsidies-movies-tv-show-production-jobs-b2ee8b3c?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-50-00 +0000"
-  },
-  {
-    "headline": "Unbelievable moment Oregon lunatic’s rifle-shooting tractor escape ends in a tank slamming disaster",
-    "link": "https://nypost.com/2026/09/03/us-news/accused-oregon-shooter-faces-off-against-swat-team-on-tractor/",
-    "source": "nypost",
-    "pubdate": "2026-09-03-17-47-45 +0000"
-  },
-  {
-    "headline": "Opinion | Tolstoy’s Debt Crisis: Each Country Unhappy in Its Own Way",
-    "link": "https://www.wsj.com/opinion/tolstoys-debt-crisis-each-country-unhappy-in-its-own-way-acaa8705?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-47-00 +0000"
-  },
-  {
-    "headline": "Dow jumps 580 points, Treasury yields and oil prices ease as Fed governor signals no rate hike",
-    "link": "https://nypost.com/2026/09/03/business/dow-jumps-580-points-treasury-yields-and-oil-prices-ease-as-odds-of-interest-rate-hike-drop/",
-    "source": "nypost",
-    "pubdate": "2026-09-03-17-46-46 +0000"
-  },
-  {
-    "headline": "Maria Bartiromo Out at Fox News",
-    "link": "https://www.wsj.com/business/media/maria-bartiromo-out-at-fox-news-83dbb6ac?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-46-00 +0000"
-  },
-  {
-    "headline": "Carney dismisses 'unelected' Trump officials' explanation for why trade talks fell apart",
-    "link": "https://www.cbc.ca/news/politics/carney-trump-greer-lutnick-comments-9.7331198?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-03-17-45-48 +0000"
-  },
-  {
-    "headline": "Burning Man Draws an Older, Wealthier Crowd, Data Shows",
-    "link": "https://www.nytimes.com/2026/09/03/us/burning-man-gen-z-millennials-attendance.html",
-    "source": "nyt",
-    "pubdate": "2026-09-03-17-45-27 +0000"
-  },
-  {
-    "headline": "Maria Bartiromo is out at Fox News",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-03/maria-bartiromo-is-out-at-fox-news",
-    "source": "latimes",
-    "pubdate": "2026-09-03-17-43-33 +0000"
-  },
-  {
-    "headline": "ICE agent charged with lying to investigators in nonfatal Minneapolis shooting",
-    "link": "https://www.washingtonpost.com/national-security/2026/09/03/ice-agent-charged-with-making-false-statements-minneapolis-shooting/",
+    "headline": "GOP-led House scraps two weeks of work ahead of midterms",
+    "link": "https://www.washingtonpost.com/politics/2026/09/03/gop-led-house-scraps-two-weeks-work-ahead-midterms/",
     "source": "wapo",
-    "pubdate": "2026-09-03-17-43-15 +0000"
+    "pubdate": "2026-09-03-18-38-58 +0000"
   },
   {
-    "headline": "Republicans fear Trump will keep super PAC money and not spend on the midterms",
-    "link": "https://www.washingtonpost.com/politics/2026/09/03/trumps-super-pac-has-not-spent-key-midterm-races-gop-fears-he-never-will/",
-    "source": "wapo",
-    "pubdate": "2026-09-03-17-38-12 +0000"
-  },
-  {
-    "headline": "The surprise defections of two Democrats on a GOP procedural vote has sparked party soul-searching and raised new questions about whether Minority Leader Hakeem Jeffries can keep members in line",
-    "link": "https://www.wsj.com/politics/shock-defections-challenge-top-democrat-hakeem-jeffries-3d6282be?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-37-00 +0000"
-  },
-  {
-    "headline": "Serial pooper wreaks havoc on rich California neighborhood: ‘Every morning’",
-    "link": "https://nypost.com/2026/09/03/us-news/wealthy-socal-neighborhood-on-high-alert-amid-serial-pooper-havoc/",
-    "source": "nypost",
-    "pubdate": "2026-09-03-17-35-24 +0000"
-  },
-  {
-    "headline": "Israel Is Expected to Release Lebanese Prisoners, in Rare Sign of Progress",
-    "link": "https://www.nytimes.com/2026/09/03/world/middleeast/israel-lebanon-prisoners-release.html",
+    "headline": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+    "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
     "source": "nyt",
-    "pubdate": "2026-09-03-17-29-38 +0000"
-  },
-  {
-    "headline": "Israel Is Expected to Release Lebanese Prisoners, in Rare Sign of Progress",
-    "link": "https://www.nytimes.com/2026/09/03/world/middleeast/israel-lebanon-prisoners-release.html",
-    "source": "nyt",
-    "pubdate": "2026-09-03-17-29-38 +0000"
-  },
-  {
-    "headline": "Israel prepared to remove Palestinians from Gaza if U.S. approves, defence minister says",
-    "link": "https://www.cbc.ca/news/world/defence-minister-israel-katz-palestinians-gaza-9.7330886?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-03-17-27-38 +0000"
-  },
-  {
-    "headline": "Opinion | How Monopolistic Accreditors Enforce Ideology",
-    "link": "https://www.wsj.com/opinion/how-monopolistic-accreditors-enforce-ideology-c17df19a?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-25-00 +0000"
-  },
-  {
-    "headline": "Opinion | Accountability for New York’s Reckless Bikers",
-    "link": "https://www.wsj.com/opinion/accountability-for-new-yorks-reckless-bikers-347b6f99?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-25-00 +0000"
-  },
-  {
-    "headline": "Russian strikes near Moldova spark fears that Putin may escalate war beyond Ukraine",
-    "link": "https://nypost.com/2026/09/03/world-news/fears-mount-as-russias-strikes-near-moldova-suggest-putin-may-escalate-war-beyond-ukraine/",
-    "source": "nypost",
-    "pubdate": "2026-09-03-17-24-36 +0000"
-  },
-  {
-    "headline": "Opinion | A Return to Sound Money Will Fix Inflation",
-    "link": "https://www.wsj.com/opinion/a-return-to-sound-money-will-fix-inflation-af201b16?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-24-00 +0000"
-  },
-  {
-    "headline": "Opinion | Regulation by Litigation Is a Poor Way to Make Policy",
-    "link": "https://www.wsj.com/opinion/regulation-by-litigation-is-a-poor-way-to-make-policy-086832c3?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-23-00 +0000"
-  },
-  {
-    "headline": "Opinion | There Is No Post-Trump Era",
-    "link": "https://www.wsj.com/opinion/there-is-no-post-trump-era-ded1c927?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-23-00 +0000"
-  },
-  {
-    "headline": "Best High-Yield Savings Accounts for September 2026: Up to 4.50%",
-    "link": "https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-21-00 +0000"
-  },
-  {
-    "headline": "Hurricane Marie tracking away from L.A., but beaches will still be hit hard",
-    "link": "https://www.latimes.com/california/story/2026-09-03/hurricane-marie-tracking-away-from-l-a-but-beaches-will-still-be-hit-hard",
-    "source": "latimes",
-    "pubdate": "2026-09-03-17-18-37 +0000"
-  },
-  {
-    "headline": "Federal Prosecutors Charge ICE Agent With Lying About Minnesota Shooting",
-    "link": "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html",
-    "source": "nyt",
-    "pubdate": "2026-09-03-17-16-07 +0000"
+    "pubdate": "2026-09-03-18-38-57 +0000"
   },
   {
     "headline": "Spain’s Leader Questions Morocco Border Control During Ceuta Migrant Surge",
     "link": "https://www.nytimes.com/2026/09/03/world/europe/spain-morocco-ceuta-sanchez.html",
     "source": "nyt",
-    "pubdate": "2026-09-03-17-15-06 +0000"
+    "pubdate": "2026-09-03-18-38-47 +0000"
   },
   {
     "headline": "Spain’s Leader Questions Morocco Border Control During Ceuta Migrant Surge",
     "link": "https://www.nytimes.com/2026/09/03/world/europe/spain-morocco-ceuta-sanchez.html",
     "source": "nyt",
-    "pubdate": "2026-09-03-17-15-06 +0000"
-  },
-  {
-    "headline": "U.S. Natural Gas Futures Retreat From Resistance",
-    "link": "https://www.wsj.com/articles/european-ttf-gas-seen-at-80-euros-a-megawatt-hour-by-end-of-2026-2c53f93e?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-13-00 +0000"
-  },
-  {
-    "headline": "Attacker in Minneapolis Shooting Had Threatened Residents, Records Show",
-    "link": "https://www.nytimes.com/2026/09/03/us/minneapolis-shooting-attacker-eviction.html",
-    "source": "nyt",
-    "pubdate": "2026-09-03-17-10-52 +0000"
-  },
-  {
-    "headline": "Trump administration pushes to remove tax exemption for private colleges with DEI policies",
-    "link": "https://www.chicagotribune.com/2026/09/03/trump-administration-tax-exemption-for-private-colleges-dei-policies/",
-    "source": "chitri",
-    "pubdate": "2026-09-03-17-09-54 +0000"
-  },
-  {
-    "headline": "Billionaire Leon Black ignores Epstein investigation subpoena, sues congressional committee",
-    "link": "https://www.washingtonpost.com/politics/2026/09/03/epstein-client-leon-black-sues-oversight-committee-over-investigation/",
-    "source": "wapo",
-    "pubdate": "2026-09-03-17-09-20 +0000"
-  },
-  {
-    "headline": "Trump administration aims to strip schools’ tax exemption if they consider race",
-    "link": "https://www.washingtonpost.com/education/2026/09/03/trump-administration-aims-strip-schools-tax-exemption-if-they-consider-race/",
-    "source": "wapo",
-    "pubdate": "2026-09-03-17-05-15 +0000"
-  },
-  {
-    "headline": "GOP’s Bruce Blakeman claims he was blocked from speech at West Indian Day breakfast after Hochul RSVPs",
-    "link": "https://nypost.com/2026/09/03/us-news/gops-bruce-blakeman-blocked-from-speech-at-west-indian-day-breakfast-after-hochul-rsvps/",
-    "source": "nypost",
-    "pubdate": "2026-09-03-17-05-05 +0000"
-  },
-  {
-    "headline": "Victoria’s Secret Lifts Outlook Despite Cooling Sales Growth",
-    "link": "https://www.wsj.com/business/retail/victorias-secret-boosts-fiscal-year-guidance-again-as-turnaround-pays-off-41897011?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-04-00 +0000"
-  },
-  {
-    "headline": "The Athletic Says Dianna Russini’s Relationship With Mike Vrabel Violated Its Standards",
-    "link": "https://www.nytimes.com/2026/09/03/business/athletic-russini-vrabel-relationship.html",
-    "source": "nyt",
-    "pubdate": "2026-09-03-17-03-09 +0000"
-  },
-  {
-    "headline": "More than 50K protest in Madrid over Spanish PM’s handling of migrant surge",
-    "link": "https://nypost.com/2026/09/03/world-news/madrid-protest-sees-50000-people-against-spanish-pm/",
-    "source": "nypost",
-    "pubdate": "2026-09-03-17-01-13 +0000"
-  },
-  {
-    "headline": "Billionaire Leon Black won’t appear before the House Oversight Committee, claiming it cannot compel him to turn over nondisclosure agreements with women",
-    "link": "https://www.wsj.com/politics/policy/leon-black-sues-house-committee-over-epstein-probe-a17aa95c?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-01-00 +0000"
-  },
-  {
-    "headline": "Leon Black Sues House Committee Over Epstein Probe",
-    "link": "https://www.wsj.com/politics/policy/leon-black-sues-house-committee-over-epstein-probe-a17aa95c?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-09-03-17-01-00 +0000"
-  },
-  {
-    "headline": "Summer’s end: What were the season’s best and worst concerts?",
-    "link": "https://www.startribune.com/summer-concert-wrapup-twin-cities-best-worst-alabama-shakes-olivia-dean-dave-matthews-geese-strokes/601885553",
-    "source": "startribune",
-    "pubdate": "2026-09-03-17-00-50 +0000"
+    "pubdate": "2026-09-03-18-38-47 +0000"
   },
   {
     "headline": "IRS Proposes Rules to Strip Tax Exemptions From Colleges Using Race in Policies",
     "link": "https://www.wsj.com/us-news/education/irs-proposes-rules-to-strip-tax-exemptions-from-colleges-using-race-in-policies-774a32af?mod=rss_usnews",
     "source": "wsj",
-    "pubdate": "2026-09-03-16-57-00 +0000"
+    "pubdate": "2026-09-03-18-38-00 +0000"
   },
   {
-    "headline": "Sister denies detained Ontario university student is Chinese spy",
-    "link": "https://www.cbc.ca/news/world/zeng-sister-denies-spy-allegations-9.7331113?cmp=rss",
+    "headline": "Man Is Sentenced in Explosion of Hyperbaric Chamber That Killed a 5-Year-Old",
+    "link": "https://www.nytimes.com/2026/09/03/us/hyperbaric-chamber-child-death-michigan-sentencing.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-18-36-50 +0000"
+  },
+  {
+    "headline": "Judge Presses for Clarity in Lawsuit Over Mail-In Voting Rules",
+    "link": "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-18-35-38 +0000"
+  },
+  {
+    "headline": "Judge Presses for Clarity in Lawsuit Over Mail-In Voting Rules",
+    "link": "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-18-35-38 +0000"
+  },
+  {
+    "headline": "Vance says no ‘security concern’ behind Trump missing 9/11 Ground Zero ceremony — where he jokes he’ll have ‘intellectual’ chat with Biden",
+    "link": "https://nypost.com/2026/09/03/us-news/vance-says-no-security-concern-behind-trump-missing-9-11-ground-zero-ceremony-where-he-jokes-hell-have-intellectual-chat-with-biden/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-34-16 +0000"
+  },
+  {
+    "headline": "American Airlines flight forced to abort takeoff from LaGuardia Airport after bird strike reported",
+    "link": "https://nypost.com/2026/09/03/us-news/american-airlines-flight-forced-to-abort-takeoff-from-laguardia-airport-after-bird-strike-reported/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-33-57 +0000"
+  },
+  {
+    "headline": "Watch: JD Vance 'extremely sceptical' over alleged strike on Iranian wedding",
+    "link": "https://www.bbc.co.uk/news/videos/cr4vn247550o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-03-18-33-25 +0000"
+  },
+  {
+    "headline": "America’s first all-vegan gas station sells for astonishing price",
+    "link": "https://nypost.com/2026/09/03/business/americas-first-all-vegan-gas-station-sold-for-12m-in-bay-area/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-32-57 +0000"
+  },
+  {
+    "headline": "Leon Black Sues Congressional Panel Investigating Epstein",
+    "link": "https://www.nytimes.com/2026/09/03/business/leon-black-sues-congressional-panel-investigating-epstein.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-18-32-56 +0000"
+  },
+  {
+    "headline": "NY Gov Hochul blasts Bruce Blakeman for ramping up ‘hijab Hochul’ attack: ‘Reprehensible’",
+    "link": "https://nypost.com/2026/09/03/us-news/hochul-blasts-gops-bruce-blakeman-for-ramping-up-hijab-hochul-attack-reprehensible/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-27-50 +0000"
+  },
+  {
+    "headline": "Kristi Noem offers cringeworthy take on Markwayne Mullin’s emergency landing in Coast Guard plane",
+    "link": "https://nypost.com/2026/09/03/us-news/kristi-noem-offers-cringeworthy-take-on-markwayne-mullins-emergency-landing-in-a-coast-guard-plane/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-20-39 +0000"
+  },
+  {
+    "headline": "Gold Futures Rise Ahead of U.S. Payrolls Data",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-markets-await-further-u-s-jobs-data-926919c4?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-03-18-20-00 +0000"
+  },
+  {
+    "headline": "Rate Rise in Play as Fed Officials Await Inflation Data",
+    "link": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-18-19-18 +0000"
+  },
+  {
+    "headline": "Rate Rise in Play as Fed Officials Await Inflation Data",
+    "link": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-18-19-18 +0000"
+  },
+  {
+    "headline": "Maria Bartiromo Is Out at Fox News",
+    "link": "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-18-18-07 +0000"
+  },
+  {
+    "headline": "U.S. Stocks Climb as Treasury Yields Retreat on Waller’s Rate Comments",
+    "link": "https://www.wsj.com/finance/stocks/bond-selloff-pauses-stocks-tread-water-as-traders-watch-for-yen-intervention-25a7e983?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-03-18-17-00 +0000"
+  },
+  {
+    "headline": "US billionaire Leon Black defies summons and sues Epstein panel",
+    "link": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-03-18-14-57 +0000"
+  },
+  {
+    "headline": "Mamdani’s Chief Antagonist Is a Litigator Who Stared Down the Mob",
+    "link": "https://www.wsj.com/us-news/mamdanis-chief-antagonist-is-a-litigator-who-stared-down-the-mob-6587c1cf?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-09-03-18-13-00 +0000"
+  },
+  {
+    "headline": "Shaikin: What's in a team name? In Anaheim, maybe the future of the Angels",
+    "link": "https://www.latimes.com/sports/angels/story/2026-09-03/whats-in-team-name-in-anaheim-maybe-future-of-angels",
+    "source": "latimes",
+    "pubdate": "2026-09-03-18-11-30 +0000"
+  },
+  {
+    "headline": "'It drives me nuts': Mulholland Drive eyesore draws neighbors' ire, safety concerns",
+    "link": "https://www.latimes.com/california/story/2026-09-03/abandoned-mulholland-drive-home-safety-concerns",
+    "source": "latimes",
+    "pubdate": "2026-09-03-18-09-28 +0000"
+  },
+  {
+    "headline": "Bessent Blames Ukraine for High Energy Prices",
+    "link": "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-18-09-19 +0000"
+  },
+  {
+    "headline": "Burning Man Draws an Older, Wealthier Crowd, Data Shows",
+    "link": "https://www.nytimes.com/2026/09/03/us/burning-man-gen-z-millennials-attendance.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-18-08-52 +0000"
+  },
+  {
+    "headline": "Athletic’s review of former NFL reporter Dianna Russini concludes she didn’t comply with standards",
+    "link": "https://www.chicagotribune.com/2026/09/03/dianna-russini-athletic-review-mike-vrabel/",
+    "source": "chitri",
+    "pubdate": "2026-09-03-18-08-35 +0000"
+  },
+  {
+    "headline": "US unemployment claims rise to 206K — but layoffs and jobless claims at historically low levels",
+    "link": "https://nypost.com/2026/09/03/business/us-unemployment-claims-rise-to-206000-but-remain-at-historically-low-levels/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-06-26 +0000"
+  },
+  {
+    "headline": "US unemployment claims rise to 206K — but layoffs and jobless claims at historically low levels",
+    "link": "https://nypost.com/2026/09/03/business/us-unemployment-claims-rise-to-206000-but-remain-at-historically-low-levels/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-06-26 +0000"
+  },
+  {
+    "headline": "Kamala Harris brutally snubbed by Dems in battleground races as she plots major campaign: ‘Bad idea’",
+    "link": "https://nypost.com/2026/09/03/us-news/kamala-harris-snubbed-by-democrats-in-battleground-states/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-05-55 +0000"
+  },
+  {
+    "headline": "Kamala Harris brutally snubbed by Dems in battleground races as she plots major campaign: ‘Bad idea’",
+    "link": "https://nypost.com/2026/09/03/us-news/kamala-harris-snubbed-by-democrats-in-battleground-states/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-05-55 +0000"
+  },
+  {
+    "headline": "Feds announce $4.7B for new VIA Rail cars to be built in Ontario, Québec",
+    "link": "https://www.cbc.ca/news/canada/thunder-bay/mark-carney-via-rail-cars-9.7331310?cmp=rss",
     "source": "cbc",
-    "pubdate": "2026-09-03-16-56-09 +0000"
+    "pubdate": "2026-09-03-18-05-42 +0000"
+  },
+  {
+    "headline": "Saylor Hayes’ mother was arrested on child abuse charges months before daughter’s death",
+    "link": "https://nypost.com/2026/09/03/us-news/saylor-hayes-mother-was-previousl-accused-of-child-abuse/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-04-41 +0000"
+  },
+  {
+    "headline": "What to watch for when voting in the midterms",
+    "link": "https://www.washingtonpost.com/politics/2026/09/03/what-watch-when-voting-midterms/",
+    "source": "wapo",
+    "pubdate": "2026-09-03-18-04-35 +0000"
+  },
+  {
+    "headline": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+    "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-03-18-04-34 +0000"
+  },
+  {
+    "headline": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+    "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-03-18-04-34 +0000"
+  },
+  {
+    "headline": "Federal Prosecutors Charge ICE Agent With Lying About Minnesota Shooting",
+    "link": "https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-18-03-00 +0000"
+  },
+  {
+    "headline": "ICE agent federally indicted over shooting of Minneapolis immigrant during Operation Metro Surge",
+    "link": "https://www.startribune.com/christian-castro-ice-agent-federal-indictment/601885856",
+    "source": "startribune",
+    "pubdate": "2026-09-03-18-01-57 +0000"
+  },
+  {
+    "headline": "‘Supersized’ El Niño’s impact will be felt into 2027, U.N. warns",
+    "link": "https://www.washingtonpost.com/weather/2026/09/04/supersized-el-nino-will-be-felt-into-2027-un-warns/",
+    "source": "wapo",
+    "pubdate": "2026-09-03-18-01-49 +0000"
+  },
+  {
+    "headline": "Florida Walmart shopper who killed Army vet in parking lot won’t face charges because of ‘stand your ground’",
+    "link": "https://nypost.com/2026/09/03/us-news/walmart-shopper-who-killed-army-vet-in-parking-lot-wont-face-charges-because-of-stand-your-ground/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-18-00-24 +0000"
+  },
+  {
+    "headline": "Schools Giving Aid to Minority Students Could Lose Tax Exemptions Under Trump’s New Rules",
+    "link": "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-17-58-55 +0000"
+  },
+  {
+    "headline": "Schools Giving Aid to Minority Students Could Lose Tax Exemptions Under Trump’s New Rules",
+    "link": "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html",
+    "source": "nyt",
+    "pubdate": "2026-09-03-17-58-55 +0000"
+  },
+  {
+    "headline": "Woman accused of intentionally running over friend in chilling parking-lot murder as another pal turns up stabbed in double-death mystery",
+    "link": "https://nypost.com/2026/09/03/us-news/california-woman-accused-of-running-over-friend-with-suv-as-another-pal-is-found-stabbed-to-death/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-17-58-53 +0000"
+  },
+  {
+    "headline": "Finland rehearses cyberattacks, missile strikes in Europe’s biggest defense exercise since WWII",
+    "link": "https://nypost.com/2026/09/03/world-news/finland-tests-safety-in-large-civil-defense-drill/",
+    "source": "nypost",
+    "pubdate": "2026-09-03-17-57-44 +0000"
+  },
+  {
+    "headline": "Garrison: Making menopause sexy at the Minnesota State Fair",
+    "link": "https://www.startribune.com/womens-health-midlife-menopause-science-research/601885212",
+    "source": "startribune",
+    "pubdate": "2026-09-03-17-56-34 +0000"
   }
 ]
