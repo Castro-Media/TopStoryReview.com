@@ -7,7 +7,7 @@
     "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html"
   },
   {
-    "score": 112,
+    "score": 111,
     "pubdate": "2026-09-02-12-55-00 +0000",
     "source": "wapo",
     "headline": "Watch Ontario, New York, residents sound off on the Lake America name change",
@@ -15,17 +15,17 @@
   },
   {
     "score": 67,
-    "pubdate": "2026-09-02-18-15-00 +0000",
-    "source": "wsj",
-    "headline": "After 286 Days at Sea, 5,000 Sailors on the USS Abraham Lincoln Get a Break in Thailand",
-    "link": "https://www.wsj.com/world/after-286-days-at-sea-5-000-sailors-on-the-uss-abraham-lincoln-dock-in-thailand-0a955b3d?mod=rss_usnews"
-  },
-  {
-    "score": 67,
     "pubdate": "2026-09-02-21-54-00 +0000",
     "source": "wsj",
     "headline": "Plane Carrying Homeland Security Chief Markwayne Mullin Makes Emergency Landing",
     "link": "https://www.wsj.com/us-news/plane-carrying-homeland-security-chief-markwayne-mullin-makes-emergency-landing-393d5fdb?mod=rss_worldnews"
+  },
+  {
+    "score": 67,
+    "pubdate": "2026-09-02-18-15-00 +0000",
+    "source": "wsj",
+    "headline": "After 286 Days at Sea, 5,000 Sailors on the USS Abraham Lincoln Get a Break in Thailand",
+    "link": "https://www.wsj.com/world/after-286-days-at-sea-5-000-sailors-on-the-uss-abraham-lincoln-dock-in-thailand-0a955b3d?mod=rss_worldnews"
   },
   {
     "score": 66,
@@ -57,16 +57,16 @@
   },
   {
     "score": 50,
-    "pubdate": "2026-09-02-18-58-00 +0000",
-    "source": "wapo",
-    "headline": "El-Sayed blames Trump for global bond market sell-off",
-    "link": "https://www.washingtonpost.com/politics/2026/09/02/el-sayed-blames-trump-global-bond-market-selloff/"
-  },
-  {
-    "score": 50,
     "pubdate": "2026-09-02-23-25-50 +0000",
     "source": "bbc",
     "headline": "'I don't even like them': How much should you give to office gift collections?",
     "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 50,
+    "pubdate": "2026-09-02-18-58-00 +0000",
+    "source": "wapo",
+    "headline": "El-Sayed blames Trump for global bond market sell-off",
+    "link": "https://www.washingtonpost.com/politics/2026/09/02/el-sayed-blames-trump-global-bond-market-selloff/"
   }
 ]
