@@ -1,37 +1,72 @@
 [
   {
-    "score": 17,
-    "pubdate": "2026-09-03-12-57-46 +0000",
-    "source": "bbc",
-    "headline": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-    "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-09-03-12-58-21 +0000",
+    "score": 26,
+    "pubdate": "2026-09-03-14-08-29 +0000",
     "source": "nypost",
-    "headline": "Russian nuclear chief who ordered strike on Ukrainian children’s hospital shot in head in attempted assassination",
-    "link": "https://nypost.com/2026/09/03/world-news/russian-nuclear-commander-shot-in-head-in-failed-assassination/"
+    "headline": "House GOP bill would bar food stamp recipients from using their benefits at restaurants",
+    "link": "https://nypost.com/2026/09/03/us-news/house-gop-bill-would-bar-food-stamp-recipients-from-using-their-benefits-at-restaurants/"
   },
   {
-    "score": 7,
-    "pubdate": "2026-09-03-12-57-18 +0000",
+    "score": 25,
+    "pubdate": "2026-09-03-14-17-14 +0000",
     "source": "nyt",
-    "headline": "China Boycotts a Top Art Festival Over Taiwan Exhibition",
-    "link": "https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html"
+    "headline": "Trump Moves to Strip Tax Exemption From Schools That Aid Minority Students",
+    "link": "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html"
   },
   {
-    "score": 7,
-    "pubdate": "2026-09-03-12-55-06 +0000",
-    "source": "startribune",
-    "headline": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92",
-    "link": "https://www.startribune.com/gloria-steinem-a-potent-voice-of-us-feminism-and-co-founder-of-ms-magazine-has-died/601885728"
+    "score": 23,
+    "pubdate": "2026-09-03-14-50-00 +0000",
+    "source": "wsj",
+    "headline": "The Dutch central bank said it moved around 86 metric tons of gold from New York and Ottawa to London as a result of “increasing geopolitical unrest”",
+    "link": "https://www.wsj.com/economy/central-banking/netherlands-moves-gold-from-new-york-to-london-citing-geopolitical-unrest-7a095eb8?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 0,
-    "pubdate": "2026-09-03-12-57-46 +0000",
-    "source": "bbc",
-    "headline": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-    "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss"
+    "score": 21,
+    "pubdate": "2026-09-03-14-10-00 +0000",
+    "source": "wsj",
+    "headline": "Billionaire Leon Black won’t appear before the House Oversight Committee, claiming it cannot compel him to turn over nondisclosure agreements with women",
+    "link": "https://www.wsj.com/politics/policy/leon-black-sues-house-committee-over-epstein-probe-a17aa95c?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-09-03-14-34-47 +0000",
+    "source": "nyt",
+    "headline": "Israeli Military Kills Two Palestinian Youths in Village Raid, Residents Say",
+    "link": "https://www.nytimes.com/2026/09/03/world/middleeast/west-bank-israel-palestinians-shooting.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-09-03-13-59-21 +0000",
+    "source": "nyt",
+    "headline": "Oil Jumps for Fourth Straight Day and Diesel Nears Record High",
+    "link": "https://www.nytimes.com/2026/09/03/business/oil-diesel-prices-iran-war.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-03-14-38-44 +0000",
+    "source": "nypost",
+    "headline": "Lindsay Clancy jury struggling to reach a verdict — here’s why the judge may be forced to declare mistrial",
+    "link": "https://nypost.com/2026/09/03/us-news/lindsay-clancy-jury-struggling-to-reach-a-verdict-heres-why-the-judge-may-be-forced-to-declare-mistrial/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-03-14-46-14 +0000",
+    "source": "chitri",
+    "headline": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform",
+    "link": "https://www.chicagotribune.com/2026/09/03/nvidia-hugging-face/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-03-14-31-54 +0000",
+    "source": "nypost",
+    "headline": "Vile kickboxer with SS tattoo gives Nazi salute after beating Jewish fighter — as supporters hold swastika banner",
+    "link": "https://nypost.com/2026/09/03/us-news/kickboxer-with-ss-tattoo-gives-nazi-salute-after-beating-jewish-opponent/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-03-14-07-45 +0000",
+    "source": "nyt",
+    "headline": "Rate Rise in Play as Fed Officials Await Inflation Data",
+    "link": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html"
   }
 ]
