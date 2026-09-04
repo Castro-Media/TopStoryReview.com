@@ -1,38 +1,38 @@
 [
   {
-    "score": 187,
+    "score": 183,
     "pubdate": "2026-09-03-22-26-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration asked the Supreme Court to allow new Postal Service rules governing mail-in ballots ahead of the midterm elections",
     "link": "https://www.wsj.com/politics/policy/trump-administration-again-asks-supreme-court-to-allow-new-mail-voting-rules-ebc2e40c?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 93,
+    "score": 96,
     "pubdate": "2026-09-03-20-22-43 +0000",
     "source": "wapo",
     "headline": "Vance says he doesn’t know when Iran conflict will end — it’s up to Iran",
     "link": "https://www.washingtonpost.com/politics/2026/09/03/vance-says-he-doesnt-know-when-iran-conflict-will-end-its-up-iran/"
   },
   {
-    "score": 85,
+    "score": 86,
     "pubdate": "2026-09-04-00-55-45 +0000",
     "source": "bbc",
     "headline": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
     "link": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 82,
-    "pubdate": "2026-09-03-21-45-00 +0000",
-    "source": "wsj",
-    "headline": "The odds of an interest-rate hike are now a coin flip after a Fed governor said he would support holding rates steady if inflation data supported it. Read more in today’s What’s News newsletter.",
-    "link": "https://www.wsj.com/politics/policy/fed-rate-whats-news-09-03-2026-6b9dc183?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 81,
+    "score": 80,
     "pubdate": "2026-09-03-17-01-00 +0000",
     "source": "wsj",
     "headline": "Billionaire Leon Black won’t appear before the House Oversight Committee, claiming it cannot compel him to turn over nondisclosure agreements with women",
     "link": "https://www.wsj.com/politics/policy/leon-black-sues-house-committee-over-epstein-probe-a17aa95c?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 80,
+    "pubdate": "2026-09-03-21-45-00 +0000",
+    "source": "wsj",
+    "headline": "The odds of an interest-rate hike are now a coin flip after a Fed governor said he would support holding rates steady if inflation data supported it. Read more in today’s What’s News newsletter.",
+    "link": "https://www.wsj.com/politics/policy/fed-rate-whats-news-09-03-2026-6b9dc183?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 65,
@@ -42,18 +42,11 @@
     "link": "https://www.wsj.com/politics/policy/work-on-trumps-250-foot-arch-in-washington-to-start-in-next-two-weeks-7abf93aa?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 62,
+    "score": 64,
     "pubdate": "2026-09-04-01-12-46 +0000",
     "source": "nypost",
     "headline": "Salacious details of ex-Labor Secretary Lori Chavez-DeRemer’s strip club visit, relationship with bodyguard revealed in IG report",
     "link": "https://nypost.com/2026/09/03/us-news/ig-report-into-ex-labor-secretary-chavez-deremer-reveals-salacious-details-about-strip-club-visit/"
-  },
-  {
-    "score": 60,
-    "pubdate": "2026-09-03-22-46-58 +0000",
-    "source": "nypost",
-    "headline": "Elon Musk launches steering-wheel-free Tesla Cybercabs in bet riders lose ‘no control’ fears",
-    "link": "https://nypost.com/2026/09/03/business/elon-musk-launches-steering-wheel-free-tesla-cybercabs/"
   },
   {
     "score": 59,
@@ -63,10 +56,17 @@
     "link": "https://www.latimes.com/world-nation/story/2026-09-03/trump-tax-exempt-status-schools-race"
   },
   {
-    "score": 57,
-    "pubdate": "2026-09-03-16-32-05 +0000",
-    "source": "bbc",
-    "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss"
+    "score": 58,
+    "pubdate": "2026-09-03-22-46-58 +0000",
+    "source": "nypost",
+    "headline": "Elon Musk launches steering-wheel-free Tesla Cybercabs in bet riders lose ‘no control’ fears",
+    "link": "https://nypost.com/2026/09/03/business/elon-musk-launches-steering-wheel-free-tesla-cybercabs/"
+  },
+  {
+    "score": 56,
+    "pubdate": "2026-09-03-20-07-38 +0000",
+    "source": "nyt",
+    "headline": "Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’",
+    "link": "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html"
   }
 ]
