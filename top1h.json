@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 24,
+    "pubdate": "2026-09-04-10-52-56 +0000",
+    "source": "bbc",
+    "headline": "US diesel prices hit an all-time-high",
+    "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-09-04-10-29-43 +0000",
+    "source": "nyt",
+    "headline": "North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-04-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "A gun store opens next door to a Santa Barbara County day care, infuriating families. Will it change laws?",
+    "link": "https://www.latimes.com/california/story/2026-09-04/la-me-gun-store-daycare-santa-barbara-county"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-09-04-10-31-00 +0000",
+    "source": "wsj",
+    "headline": "Soft Retail Sales Reveal Cracks in Eurozone Resilience to Energy Shock",
+    "link": "https://www.wsj.com/economy/german-factory-orders-climb-for-third-straight-month-dd9bc5de?mod=rss_worldnews"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-04-10-00-18 +0000",
+    "source": "bbc",
+    "headline": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-04-10-14-45 +0000",
+    "source": "nypost",
+    "headline": "Georgia cop reveals why he killed baby donkey HeeHaw as owner shares heartbreaking video of beloved animal’s final days",
+    "link": "https://nypost.com/2026/09/04/us-news/georgia-cop-trenton-garner-reveals-why-he-killed-baby-donkey-heehaw/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-04-10-40-23 +0000",
+    "source": "bbc",
+    "headline": "Stock up on food to prepare for extreme weather, minister warns",
+    "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-04-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "This L.A. shop was cute before cute was cool. It launched on TikTok, and things got ugly",
+    "link": "https://www.latimes.com/business/story/2026-09-04/japanla-kawaii-toy-shop-tiktok-trolls"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-04-09-57-10 +0000",
+    "source": "nyt",
+    "headline": "The jobs report could influence a shaky bond market.",
+    "link": "https://www.nytimes.com/live/2026/09/04/business/jobs-report-economy/the-jobs-report-could-influence-a-shaky-bond-market"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-04-10-14-41 +0000",
+    "source": "nyt",
+    "headline": "Families Turn to Symbolic Cremation After Nepal Floods",
+    "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html"
+  }
+]
