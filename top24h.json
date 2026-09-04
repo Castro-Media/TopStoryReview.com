@@ -1,17 +1,10 @@
 [
   {
-    "score": 188,
+    "score": 184,
     "pubdate": "2026-09-03-22-26-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration asked the Supreme Court to allow new Postal Service rules governing mail-in ballots ahead of the midterm elections",
     "link": "https://www.wsj.com/politics/policy/trump-administration-again-asks-supreme-court-to-allow-new-mail-voting-rules-ebc2e40c?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 97,
-    "pubdate": "2026-09-03-20-22-43 +0000",
-    "source": "wapo",
-    "headline": "Vance says he doesn’t know when Iran conflict will end — it’s up to Iran",
-    "link": "https://www.washingtonpost.com/politics/2026/09/03/vance-says-he-doesnt-know-when-iran-conflict-will-end-its-up-iran/"
   },
   {
     "score": 95,
@@ -21,11 +14,18 @@
     "link": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 82,
+    "score": 93,
     "pubdate": "2026-09-03-21-45-00 +0000",
     "source": "wsj",
     "headline": "The odds of an interest-rate hike are now a coin flip after a Fed governor said he would support holding rates steady if inflation data supported it. Read more in today’s What’s News newsletter.",
     "link": "https://www.wsj.com/politics/policy/fed-rate-whats-news-09-03-2026-6b9dc183?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 79,
+    "pubdate": "2026-09-03-20-22-43 +0000",
+    "source": "wapo",
+    "headline": "Vance says he doesn’t know when Iran conflict will end — it’s up to Iran",
+    "link": "https://www.washingtonpost.com/politics/2026/09/03/vance-says-he-doesnt-know-when-iran-conflict-will-end-its-up-iran/"
   },
   {
     "score": 78,
@@ -35,7 +35,7 @@
     "link": "https://www.wsj.com/politics/policy/leon-black-sues-house-committee-over-epstein-probe-a17aa95c?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 69,
+    "score": 67,
     "pubdate": "2026-09-03-21-53-00 +0000",
     "source": "wsj",
     "headline": "Excavation work on President Trump’s 250-foot-tall arch in Washington, is expected to start over the next two weeks, the administration said Thursday",
@@ -49,24 +49,24 @@
     "link": "https://nypost.com/2026/09/03/us-news/ig-report-into-ex-labor-secretary-chavez-deremer-reveals-salacious-details-about-strip-club-visit/"
   },
   {
-    "score": 61,
-    "pubdate": "2026-09-03-16-32-05 +0000",
-    "source": "bbc",
-    "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss"
+    "score": 57,
+    "pubdate": "2026-09-03-16-39-11 +0000",
+    "source": "latimes",
+    "headline": "Trump targets private school tax-exempt status over race-based aid. California takes notice",
+    "link": "https://www.latimes.com/world-nation/story/2026-09-03/trump-tax-exempt-status-schools-race"
   },
   {
-    "score": 59,
+    "score": 57,
     "pubdate": "2026-09-03-22-46-58 +0000",
     "source": "nypost",
     "headline": "Elon Musk launches steering-wheel-free Tesla Cybercabs in bet riders lose ‘no control’ fears",
     "link": "https://nypost.com/2026/09/03/business/elon-musk-launches-steering-wheel-free-tesla-cybercabs/"
   },
   {
-    "score": 58,
-    "pubdate": "2026-09-03-16-39-11 +0000",
-    "source": "latimes",
-    "headline": "Trump targets private school tax-exempt status over race-based aid. California takes notice",
-    "link": "https://www.latimes.com/world-nation/story/2026-09-03/trump-tax-exempt-status-schools-race"
+    "score": 56,
+    "pubdate": "2026-09-03-16-32-05 +0000",
+    "source": "bbc",
+    "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+    "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss"
   }
 ]
