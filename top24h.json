@@ -1,55 +1,48 @@
 [
   {
-    "score": 90,
+    "score": 92,
     "pubdate": "2026-09-05-17-32-00 +0000",
     "source": "wsj",
     "headline": "Putin Meets Trump Envoys as U.S. Pushes to Revive Ukraine Peace Talks",
     "link": "https://www.wsj.com/world/russia/putin-to-meet-trump-envoys-as-u-s-pushes-to-revive-ukraine-peace-talks-564945af?mod=rss_worldnews"
   },
   {
-    "score": 57,
+    "score": 55,
     "pubdate": "2026-09-05-22-35-00 +0000",
     "source": "wsj",
     "headline": "Trump’s super PAC has entered the competitive Senate race in Texas with its largest spend of the current political cycle—a $10 million ad buy to back Republican Ken Paxton",
     "link": "https://www.wsj.com/politics/elections/trump-aligned-group-pouring-money-into-texas-for-ken-paxton-00778eec?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 53,
-    "pubdate": "2026-09-06-06-27-16 +0000",
-    "source": "nyt",
-    "headline": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
-    "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
-  },
-  {
-    "score": 52,
+    "score": 51,
     "pubdate": "2026-09-06-04-01-15 +0000",
     "source": "nyt",
     "headline": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
     "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
   },
   {
-    "score": 48,
-    "pubdate": "2026-09-05-23-47-38 +0000",
+    "score": 51,
+    "pubdate": "2026-09-06-06-27-16 +0000",
     "source": "nyt",
-    "headline": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
-    "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
+    "headline": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+    "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
   },
   {
-    "score": 39,
+    "score": 49,
+    "pubdate": "2026-09-05-15-17-15 +0000",
+    "source": "cbc",
+    "headline": "U.S. military hits 3 Iranian oil tankers after saying its navy warships were targeted",
+    "link": "https://www.cbc.ca/news/world/iran-united-states-strikes-oil-tankers-9.7333805?cmp=rss"
+  },
+  {
+    "score": 37,
     "pubdate": "2026-09-06-06-06-42 +0000",
     "source": "nypost",
     "headline": "North Carolina Dem Senate candidate added former Bloods gang member to criminal justice task force: report",
     "link": "https://nypost.com/2026/09/06/us-news/north-carolina-democrat-roy-cooper-added-former-bloods-gang-member-to-criminal-justice-task-force/"
   },
   {
-    "score": 35,
-    "pubdate": "2026-09-06-07-58-55 +0000",
-    "source": "nyt",
-    "headline": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
-    "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
-  },
-  {
-    "score": 33,
+    "score": 34,
     "pubdate": "2026-09-05-13-10-33 +0000",
     "source": "nypost",
     "headline": "Putin declares 3-day cease-fire in Ukraine war as Jared Kushner, Steve Witkoff land in Moscow",
@@ -57,16 +50,23 @@
   },
   {
     "score": 33,
-    "pubdate": "2026-09-05-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Low-income patients at UCLA Health scramble to find new doctors as contract ends",
-    "link": "https://www.latimes.com/business/story/2026-09-05/low-income-patients-at-ucla-health-scramble-to-find-new-doctors-as-contract-ends"
+    "pubdate": "2026-09-06-02-30-00 +0000",
+    "source": "nypost",
+    "headline": "California’s free ride means illegal migrants get money for college — while Golden State natives pay big",
+    "link": "https://nypost.com/2026/09/05/us-news/inside-californias-college-aid-system-for-illegal-migrant-students/"
   },
   {
-    "score": 31,
-    "pubdate": "2026-09-05-22-40-27 +0000",
+    "score": 32,
+    "pubdate": "2026-09-06-07-58-55 +0000",
     "source": "nyt",
-    "headline": "Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall",
-    "link": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html"
+    "headline": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
+    "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-09-05-23-40-05 +0000",
+    "source": "nypost",
+    "headline": "Hunter Biden announces he ‘may have to’ run for president during radio interview",
+    "link": "https://nypost.com/2026/09/05/us-news/hunter-biden-announces-he-may-have-to-run-for-president-during-radio-interview/"
   }
 ]
