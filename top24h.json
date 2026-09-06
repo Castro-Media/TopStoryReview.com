@@ -14,6 +14,13 @@
     "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
   },
   {
+    "score": 47,
+    "pubdate": "2026-09-05-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Low-income patients at UCLA Health scramble to find new doctors as contract ends",
+    "link": "https://www.latimes.com/business/story/2026-09-05/low-income-patients-at-ucla-health-scramble-to-find-new-doctors-as-contract-ends"
+  },
+  {
     "score": 46,
     "pubdate": "2026-09-05-23-47-38 +0000",
     "source": "nyt",
@@ -28,18 +35,18 @@
     "link": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 44,
-    "pubdate": "2026-09-05-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Low-income patients at UCLA Health scramble to find new doctors as contract ends",
-    "link": "https://www.latimes.com/business/story/2026-09-05/low-income-patients-at-ucla-health-scramble-to-find-new-doctors-as-contract-ends"
-  },
-  {
-    "score": 39,
+    "score": 41,
     "pubdate": "2026-09-05-22-35-00 +0000",
     "source": "wsj",
     "headline": "Trump’s super PAC has entered the competitive Senate race in Texas with its largest spend of the current political cycle—a $10 million ad buy to back Republican Ken Paxton",
     "link": "https://www.wsj.com/politics/elections/trump-aligned-group-pouring-money-into-texas-for-ken-paxton-00778eec?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-09-06-04-01-22 +0000",
+    "source": "nyt",
+    "headline": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
+    "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
   },
   {
     "score": 36,
@@ -56,17 +63,10 @@
     "link": "https://nypost.com/2026/09/05/us-news/feds-raid-california-pizza-parlor-allegedly-used-as-a-front-for-a-massive-meth-operation/"
   },
   {
-    "score": 35,
+    "score": 34,
     "pubdate": "2026-09-05-13-10-33 +0000",
     "source": "nypost",
     "headline": "Putin declares 3-day cease-fire in Ukraine war as Jared Kushner, Steve Witkoff land in Moscow",
     "link": "https://nypost.com/2026/09/05/world-news/putin-declares-3-day-cease-fire-in-ukraine-as-jared-kushner-steve-witkoff-land-in-moscow/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-09-05-22-40-27 +0000",
-    "source": "nyt",
-    "headline": "Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall",
-    "link": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html"
   }
 ]
