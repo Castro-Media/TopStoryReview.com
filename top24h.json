@@ -14,18 +14,11 @@
     "link": "https://www.wsj.com/politics/elections/trump-aligned-group-pouring-money-into-texas-for-ken-paxton-00778eec?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 51,
+    "score": 50,
     "pubdate": "2026-09-06-04-01-15 +0000",
     "source": "nyt",
     "headline": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
     "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
-  },
-  {
-    "score": 51,
-    "pubdate": "2026-09-06-06-27-16 +0000",
-    "source": "nyt",
-    "headline": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
-    "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
   },
   {
     "score": 49,
@@ -33,6 +26,13 @@
     "source": "cbc",
     "headline": "U.S. military hits 3 Iranian oil tankers after saying its navy warships were targeted",
     "link": "https://www.cbc.ca/news/world/iran-united-states-strikes-oil-tankers-9.7333805?cmp=rss"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-09-06-06-27-16 +0000",
+    "source": "nyt",
+    "headline": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+    "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
   },
   {
     "score": 37,
@@ -57,16 +57,16 @@
   },
   {
     "score": 32,
-    "pubdate": "2026-09-06-07-58-55 +0000",
-    "source": "nyt",
-    "headline": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
-    "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
-  },
-  {
-    "score": 32,
     "pubdate": "2026-09-05-23-40-05 +0000",
     "source": "nypost",
     "headline": "Hunter Biden announces he ‘may have to’ run for president during radio interview",
     "link": "https://nypost.com/2026/09/05/us-news/hunter-biden-announces-he-may-have-to-run-for-president-during-radio-interview/"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-09-06-07-58-55 +0000",
+    "source": "nyt",
+    "headline": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
+    "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
   }
 ]
