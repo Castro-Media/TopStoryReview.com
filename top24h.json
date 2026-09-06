@@ -1,45 +1,52 @@
 [
   {
-    "score": 99,
+    "score": 103,
     "pubdate": "2026-09-05-17-32-00 +0000",
     "source": "wsj",
     "headline": "Putin Meets Trump Envoys as U.S. Pushes to Revive Ukraine Peace Talks",
     "link": "https://www.wsj.com/world/russia/putin-to-meet-trump-envoys-as-u-s-pushes-to-revive-ukraine-peace-talks-564945af?mod=rss_worldnews"
   },
   {
-    "score": 60,
+    "score": 63,
     "pubdate": "2026-09-06-07-22-19 +0000",
     "source": "nypost",
     "headline": "Trump’s MAGA super PAC pours $10M into Ken Paxton’s Texas Senate race after polls show him trailing Dem Talarico",
     "link": "https://nypost.com/2026/09/06/us-news/trumps-super-pac-pours-10m-into-ken-paxtons-texas-senate-race-against-james-talarico/"
   },
   {
-    "score": 51,
-    "pubdate": "2026-09-06-11-07-14 +0000",
+    "score": 61,
+    "pubdate": "2026-09-06-16-21-42 +0000",
+    "source": "nypost",
+    "headline": "Patrick Clancy spotted for first time since ex-wife Lindsay’s mistrial — as he faces yet more court drama over death of 3 kids",
+    "link": "https://nypost.com/2026/09/06/us-news/patrick-clancy-spotted-for-first-time-since-ex-wife-lindsays-mistrial/"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-09-06-11-07-15 +0000",
     "source": "nyt",
     "headline": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
     "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
   },
   {
-    "score": 47,
-    "pubdate": "2026-09-05-23-47-38 +0000",
+    "score": 43,
+    "pubdate": "2026-09-06-01-25-18 +0000",
     "source": "nyt",
-    "headline": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
-    "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
+    "headline": "U.S. Military Sinks Boats Said to Aid Drug Smuggling Near Ecuador",
+    "link": "https://www.nytimes.com/2026/09/05/us/politics/us-military-sinks-boats-near-ecuador.html"
   },
   {
-    "score": 39,
-    "pubdate": "2026-09-06-07-58-55 +0000",
+    "score": 42,
+    "pubdate": "2026-09-06-13-26-07 +0000",
     "source": "nyt",
-    "headline": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
-    "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
+    "headline": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
+    "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html"
   },
   {
-    "score": 38,
-    "pubdate": "2026-09-05-22-44-07 +0000",
-    "source": "bbc",
-    "headline": "US and Iran trade retaliatory attacks on ships as conflict flares",
-    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
+    "score": 41,
+    "pubdate": "2026-09-06-16-50-37 +0000",
+    "source": "nyt",
+    "headline": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show",
+    "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election"
   },
   {
     "score": 37,
@@ -61,12 +68,5 @@
     "source": "latimes",
     "headline": "Backlash over data centers hits California, and the midterms",
     "link": "https://www.latimes.com/politics/story/2026-09-06/backlash-over-data-centers-hits-california-midterms"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-09-06-01-25-18 +0000",
-    "source": "nyt",
-    "headline": "U.S. Military Sinks Boats Said to Aid Drug Smuggling Near Ecuador",
-    "link": "https://www.nytimes.com/2026/09/05/us/politics/us-military-sinks-boats-near-ecuador.html"
   }
 ]
