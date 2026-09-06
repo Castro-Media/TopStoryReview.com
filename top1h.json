@@ -1,30 +1,58 @@
 [
   {
-    "score": 16,
-    "pubdate": "2026-09-06-05-12-44 +0000",
-    "source": "bbc",
-    "headline": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss"
+    "score": 30,
+    "pubdate": "2026-09-06-06-06-42 +0000",
+    "source": "nypost",
+    "headline": "North Carolina Dem Senate candidate added former Bloods gang member to criminal justice task force: report",
+    "link": "https://nypost.com/2026/09/06/us-news/north-carolina-democrat-roy-cooper-added-former-bloods-gang-member-to-criminal-justice-task-force/"
   },
   {
     "score": 16,
-    "pubdate": "2026-09-06-05-04-04 +0000",
+    "pubdate": "2026-09-06-06-27-16 +0000",
+    "source": "nyt",
+    "headline": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+    "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-06-06-04-51 +0000",
     "source": "bbc",
-    "headline": "TV presenter among 11 sentenced to death in Egypt drugs case",
-    "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
+    "headline": "Why a famous Montreal sandwich shop has been forced to swap its soda",
+    "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-06-06-20-08 +0000",
+    "source": "nypost",
+    "headline": "Ex-Team USA triathlete, NYC dad drowns while swimming off Shelter Island during family vacation",
+    "link": "https://nypost.com/2026/09/06/us-news/ex-team-usa-triathlete-nyc-dad-spencer-korwin-found-dead-after-swim-off-shelter-island-during-family-vacation/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-09-06-06-23-37 +0000",
+    "source": "nyt",
+    "headline": "A Sympathetic Defendant and Well-Crafted Defense Dominated Clancy Trial",
+    "link": "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html"
   },
   {
     "score": 0,
-    "pubdate": "2026-09-06-05-12-44 +0000",
-    "source": "bbc",
-    "headline": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-09-06-06-27-16 +0000",
+    "source": "nyt",
+    "headline": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+    "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
   },
   {
     "score": 0,
-    "pubdate": "2026-09-06-05-04-04 +0000",
+    "pubdate": "2026-09-06-06-06-42 +0000",
+    "source": "nypost",
+    "headline": "North Carolina Dem Senate candidate added former Bloods gang member to criminal justice task force: report",
+    "link": "https://nypost.com/2026/09/06/us-news/north-carolina-democrat-roy-cooper-added-former-bloods-gang-member-to-criminal-justice-task-force/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-09-06-06-04-51 +0000",
     "source": "bbc",
-    "headline": "TV presenter among 11 sentenced to death in Egypt drugs case",
-    "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
+    "headline": "Why a famous Montreal sandwich shop has been forced to swap its soda",
+    "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss"
   }
 ]
