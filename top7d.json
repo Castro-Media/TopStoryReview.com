@@ -1,34 +1,55 @@
 [
   {
-    "score": 333,
-    "pubdate": "2026-09-03-22-26-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration asked the Supreme Court to allow new Postal Service rules governing mail-in ballots ahead of the midterm elections",
-    "link": "https://www.wsj.com/politics/policy/trump-administration-again-asks-supreme-court-to-allow-new-mail-voting-rules-ebc2e40c?mod=rss_socialpoliticsfeed"
+    "score": 311,
+    "pubdate": "2026-09-03-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Convicted Trump Media-linked fraudster funded pro-Trump film in hopes of pardon, lawsuit says",
+    "link": "https://www.latimes.com/politics/story/2026-09-03/trump-media-linked-fraudster-funded-pro-trump-film-in-hopes-of-pardon-suit-says"
   },
   {
-    "score": 193,
-    "pubdate": "2026-09-04-12-11-46 +0000",
-    "source": "chitri",
-    "headline": "US diesel prices hit record high of $5.85 on average as Iran war disrupts flow of fuel",
-    "link": "https://www.chicagotribune.com/2026/09/04/us-diesel-prices/"
+    "score": 219,
+    "pubdate": "2026-09-04-17-40-08 +0000",
+    "source": "nyt",
+    "headline": "Iran War Helps to Drive U.S. Diesel Prices to New High",
+    "link": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html"
   },
   {
-    "score": 167,
+    "score": 174,
     "pubdate": "2026-09-02-01-29-00 +0000",
     "source": "wsj",
     "headline": "President Trump said he’s nominating Navy veteran Hung Cao to become the service’s top civilian leader, a job that has been vacant since John Phelan was pushed out in the spring",
     "link": "https://www.wsj.com/politics/national-security/trump-picks-veteran-hung-cao-to-become-navy-secretary-6de2aef4?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 134,
+    "score": 163,
+    "pubdate": "2026-09-04-00-34-00 +0000",
+    "source": "wsj",
+    "headline": "Missouri’s Supreme Court ruled Thursday the state can’t use redrawn congressional districts that could benefit Republicans in November’s midterm elections, and voters must decide whether to use them in future elections",
+    "link": "https://www.wsj.com/politics/policy/missouri-supreme-court-rules-state-cant-use-redrawn-map-in-midterms-03cf9e41?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 132,
+    "pubdate": "2026-08-31-20-30-24 +0000",
+    "source": "chitri",
+    "headline": "President Trump has asked Apple to change Lake Ontario name to ‘Lake America’ on its maps, interior chief says",
+    "link": "https://www.chicagotribune.com/2026/08/31/trump-apple-lake-ontario-lake-america/"
+  },
+  {
+    "score": 132,
+    "pubdate": "2026-09-01-21-44-39 +0000",
+    "source": "chitri",
+    "headline": "Iranian official says two people were killed when a US strike hit a house hosting a wedding",
+    "link": "https://www.chicagotribune.com/2026/09/01/iran-us-strikes-wedding-two-killed/"
+  },
+  {
+    "score": 132,
     "pubdate": "2026-09-04-08-18-35 +0000",
     "source": "wsj",
     "headline": "Stock Market News, Sept. 4, 2026: Short-Term Treasury Yields Climb After Strong Jobs Report",
     "link": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026?mod=rss_markets_main"
   },
   {
-    "score": 134,
+    "score": 128,
     "pubdate": "2026-09-01-00-57-01 +0000",
     "source": "latimes",
     "headline": "Reining in Big Tech: How California lawmakers plan to regulate AI and social media",
@@ -42,31 +63,10 @@
     "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 124,
-    "pubdate": "2026-08-31-20-30-24 +0000",
-    "source": "chitri",
-    "headline": "President Trump has asked Apple to change Lake Ontario name to ‘Lake America’ on its maps, interior chief says",
-    "link": "https://www.chicagotribune.com/2026/08/31/trump-apple-lake-ontario-lake-america/"
-  },
-  {
-    "score": 116,
-    "pubdate": "2026-09-01-21-52-05 +0000",
-    "source": "chitri",
-    "headline": "‘Stop trying to be tough’: PM Mark Carney fires back at President Trump as US-Canada trade fight escalates",
-    "link": "https://www.chicagotribune.com/2026/09/01/mark-carney-trump-us-canada-trade-fight/"
-  },
-  {
-    "score": 116,
-    "pubdate": "2026-09-04-09-03-39 +0000",
-    "source": "nyt",
-    "headline": "The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?",
-    "link": "https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html"
-  },
-  {
-    "score": 116,
-    "pubdate": "2026-09-04-14-32-00 +0000",
-    "source": "wsj",
-    "headline": "Two Men Pulled Alive From Tunnel Nine Days After Nepal Flood",
-    "link": "https://www.wsj.com/world/asia/two-men-pulled-alive-from-tunnel-nine-days-after-nepal-flood-cf325a7b?mod=rss_worldnews"
+    "score": 120,
+    "pubdate": "2026-09-05-22-29-37 +0000",
+    "source": "wapo",
+    "headline": "U.S. envoys meet Putin in Moscow, pressing Russia-Ukraine peace talks",
+    "link": "https://www.washingtonpost.com/world/2026/09/05/witkoff-kushner-arrive-moscow-talks-with-putin/"
   }
 ]
