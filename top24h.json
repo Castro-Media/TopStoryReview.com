@@ -1,6 +1,6 @@
 [
   {
-    "score": 103,
+    "score": 99,
     "pubdate": "2026-09-06-19-25-00 +0000",
     "source": "wsj",
     "headline": "Trump Envoys Visit Ukraine in New Push for Peace Talks",
@@ -21,13 +21,6 @@
     "link": "https://nypost.com/2026/09/06/us-news/trump-renews-supreme-court-appeal-for-midterm-mail-ballots/"
   },
   {
-    "score": 46,
-    "pubdate": "2026-09-06-07-22-19 +0000",
-    "source": "nypost",
-    "headline": "Trump’s MAGA super PAC pours $10M into Ken Paxton’s Texas Senate race after polls show him trailing Dem Talarico",
-    "link": "https://nypost.com/2026/09/06/us-news/trumps-super-pac-pours-10m-into-ken-paxtons-texas-senate-race-against-james-talarico/"
-  },
-  {
     "score": 43,
     "pubdate": "2026-09-06-02-49-51 +0000",
     "source": "nyt",
@@ -36,17 +29,17 @@
   },
   {
     "score": 42,
-    "pubdate": "2026-09-06-17-48-16 +0000",
-    "source": "nypost",
-    "headline": "Mike Lawler recounts how he stood up to Trump to save New Yorkers thousands on SALT",
-    "link": "https://nypost.com/2026/09/06/us-news/mike-lawler-recounts-how-he-stood-up-to-trump-to-save-new-yorkers-thousands-on-salt/"
-  },
-  {
-    "score": 42,
     "pubdate": "2026-09-06-17-24-41 +0000",
     "source": "nyt",
     "headline": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
     "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-09-06-17-48-16 +0000",
+    "source": "nypost",
+    "headline": "Mike Lawler recounts how he stood up to Trump to save New Yorkers thousands on SALT",
+    "link": "https://nypost.com/2026/09/06/us-news/mike-lawler-recounts-how-he-stood-up-to-trump-to-save-new-yorkers-thousands-on-salt/"
   },
   {
     "score": 41,
@@ -61,6 +54,13 @@
     "source": "bbc",
     "headline": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
     "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-09-06-07-22-19 +0000",
+    "source": "nypost",
+    "headline": "Trump’s MAGA super PAC pours $10M into Ken Paxton’s Texas Senate race after polls show him trailing Dem Talarico",
+    "link": "https://nypost.com/2026/09/06/us-news/trumps-super-pac-pours-10m-into-ken-paxtons-texas-senate-race-against-james-talarico/"
   },
   {
     "score": 33,
