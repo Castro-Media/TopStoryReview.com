@@ -1,48 +1,34 @@
 [
   {
-    "score": 98,
-    "pubdate": "2026-09-05-14-58-10 +0000",
-    "source": "chitri",
-    "headline": "Missouri asks US Supreme Court to allow use of new Trump-backed congressional districts in midterms",
-    "link": "https://www.chicagotribune.com/2026/09/05/missouri-asks-supreme-court-elections/"
+    "score": 80,
+    "pubdate": "2026-09-05-17-32-00 +0000",
+    "source": "wsj",
+    "headline": "Putin Meets Trump Envoys as U.S. Pushes to Revive Ukraine Peace Talks",
+    "link": "https://www.wsj.com/world/russia/putin-to-meet-trump-envoys-as-u-s-pushes-to-revive-ukraine-peace-talks-564945af?mod=rss_worldnews"
   },
   {
-    "score": 64,
-    "pubdate": "2026-09-05-14-03-43 +0000",
-    "source": "chitri",
-    "headline": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-    "link": "https://www.chicagotribune.com/2026/09/05/us-military-hits-3-iranian-oil-tankers/"
+    "score": 52,
+    "pubdate": "2026-09-05-00-53-11 +0000",
+    "source": "bbc",
+    "headline": "UN votes to adopt new world map to reflect Africa's true size",
+    "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 62,
-    "pubdate": "2026-09-05-13-10-33 +0000",
-    "source": "nypost",
-    "headline": "Putin declares 3-day cease-fire in Ukraine war as Jared Kushner, Steve Witkoff land in Moscow",
-    "link": "https://nypost.com/2026/09/05/world-news/putin-declares-3-day-cease-fire-in-ukraine-as-jared-kushner-steve-witkoff-land-in-moscow/"
-  },
-  {
-    "score": 54,
+    "score": 47,
     "pubdate": "2026-09-05-18-15-56 +0000",
     "source": "nyt",
     "headline": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
     "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
   },
   {
-    "score": 52,
-    "pubdate": "2026-09-05-03-25-58 +0000",
-    "source": "bbc",
-    "headline": "What happens next after Lindsay Clancy's murder case ends in a mistrial?",
-    "link": "https://www.bbc.co.uk/news/articles/cj9x248npw1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 44,
-    "pubdate": "2026-09-05-20-50-00 +0000",
-    "source": "wsj",
-    "headline": "Trump’s super PAC has entered the competitive Senate race in Texas with its largest spend of the current political cycle—a $10 million ad buy to back Republican Ken Paxton",
-    "link": "https://www.wsj.com/politics/elections/trump-aligned-group-pouring-money-into-texas-for-ken-paxton-00778eec?mod=rss_socialpoliticsfeed"
-  },
-  {
     "score": 43,
+    "pubdate": "2026-09-05-23-47-37 +0000",
+    "source": "nyt",
+    "headline": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
+    "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
+  },
+  {
+    "score": 42,
     "pubdate": "2026-09-05-09-30-00 +0000",
     "source": "wsj",
     "headline": "How do you view the major components of American identity? Take our quiz to find out which age group from our survey most closely matches your values.",
@@ -50,23 +36,37 @@
   },
   {
     "score": 41,
-    "pubdate": "2026-09-04-22-58-11 +0000",
-    "source": "latimes",
-    "headline": "Judge again halts Postal Service mail ballot plan as Trump administration seeks Supreme Court relief",
-    "link": "https://www.latimes.com/politics/story/2026-09-04/judge-again-halts-usps-mail-ballot-plan-citing"
+    "pubdate": "2026-09-05-10-02-29 +0000",
+    "source": "bbc",
+    "headline": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-09-05-22-35-00 +0000",
+    "source": "wsj",
+    "headline": "Trump’s super PAC has entered the competitive Senate race in Texas with its largest spend of the current political cycle—a $10 million ad buy to back Republican Ken Paxton",
+    "link": "https://www.wsj.com/politics/elections/trump-aligned-group-pouring-money-into-texas-for-ken-paxton-00778eec?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 38,
+    "pubdate": "2026-09-05-13-10-33 +0000",
+    "source": "nypost",
+    "headline": "Putin declares 3-day cease-fire in Ukraine war as Jared Kushner, Steve Witkoff land in Moscow",
+    "link": "https://nypost.com/2026/09/05/world-news/putin-declares-3-day-cease-fire-in-ukraine-as-jared-kushner-steve-witkoff-land-in-moscow/"
+  },
+  {
+    "score": 37,
     "pubdate": "2026-09-05-06-53-20 +0000",
     "source": "bbc",
     "headline": "Why did USS Lincoln turn up in Thailand looking so rusty?",
     "link": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 38,
-    "pubdate": "2026-09-05-07-20-18 +0000",
+    "score": 35,
+    "pubdate": "2026-09-05-23-30-00 +0000",
     "source": "nypost",
-    "headline": "UN endorses new world map showing Africa’s true size — after US voted against it",
-    "link": "https://nypost.com/2026/09/05/world-news/africas-true-size-shown-in-new-world-map-endorsed-by-un/"
+    "headline": "Hotel staff protest outside Chicago Hyatt where DSA touting its ‘Workers Deserve More’ program",
+    "link": "https://nypost.com/2026/09/05/us-news/hotel-staff-protest-outside-chicago-hyatt-where-dsa-touting-its-workers-deserve-more-program/"
   }
 ]
