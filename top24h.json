@@ -1,41 +1,55 @@
 [
   {
-    "score": 91,
+    "score": 99,
     "pubdate": "2026-09-05-17-32-00 +0000",
     "source": "wsj",
     "headline": "Putin Meets Trump Envoys as U.S. Pushes to Revive Ukraine Peace Talks",
     "link": "https://www.wsj.com/world/russia/putin-to-meet-trump-envoys-as-u-s-pushes-to-revive-ukraine-peace-talks-564945af?mod=rss_worldnews"
   },
   {
-    "score": 55,
-    "pubdate": "2026-09-05-22-35-00 +0000",
-    "source": "wsj",
-    "headline": "Trump’s super PAC has entered the competitive Senate race in Texas with its largest spend of the current political cycle—a $10 million ad buy to back Republican Ken Paxton",
-    "link": "https://www.wsj.com/politics/elections/trump-aligned-group-pouring-money-into-texas-for-ken-paxton-00778eec?mod=rss_socialpoliticsfeed"
+    "score": 59,
+    "pubdate": "2026-09-06-07-22-19 +0000",
+    "source": "nypost",
+    "headline": "Trump’s MAGA super PAC pours $10M into Ken Paxton’s Texas Senate race after polls show him trailing Dem Talarico",
+    "link": "https://nypost.com/2026/09/06/us-news/trumps-super-pac-pours-10m-into-ken-paxtons-texas-senate-race-against-james-talarico/"
   },
   {
-    "score": 54,
+    "score": 55,
+    "pubdate": "2026-09-05-14-58-10 +0000",
+    "source": "chitri",
+    "headline": "Missouri asks US Supreme Court to allow use of new Trump-backed congressional districts in midterms",
+    "link": "https://www.chicagotribune.com/2026/09/05/missouri-asks-supreme-court-elections/"
+  },
+  {
+    "score": 51,
     "pubdate": "2026-09-05-23-47-38 +0000",
     "source": "nyt",
     "headline": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
     "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
   },
   {
-    "score": 53,
-    "pubdate": "2026-09-06-11-07-14 +0000",
+    "score": 40,
+    "pubdate": "2026-09-06-01-55-36 +0000",
+    "source": "nypost",
+    "headline": "Flock cameras could turn American neighborhoods into a ‘China-like surveillance state,’ ex-Pentagon AI chief warns",
+    "link": "https://nypost.com/2026/09/05/tech/flock-cameras-could-create-china-like-surveillance-state-in-us/"
+  },
+  {
+    "score": 37,
+    "pubdate": "2026-09-06-06-27-16 +0000",
     "source": "nyt",
-    "headline": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
-    "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
+    "headline": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
+    "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
   },
   {
-    "score": 43,
-    "pubdate": "2026-09-06-01-54-29 +0000",
-    "source": "bbc",
-    "headline": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-    "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss"
+    "score": 36,
+    "pubdate": "2026-09-06-07-58-55 +0000",
+    "source": "nyt",
+    "headline": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
+    "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
   },
   {
-    "score": 39,
+    "score": 35,
     "pubdate": "2026-09-06-06-06-42 +0000",
     "source": "nypost",
     "headline": "North Carolina Dem Senate candidate added former Bloods gang member to criminal justice task force: report",
@@ -43,30 +57,16 @@
   },
   {
     "score": 35,
-    "pubdate": "2026-09-06-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Backlash over data centers hits California, and the midterms",
-    "link": "https://www.latimes.com/politics/story/2026-09-06/backlash-over-data-centers-hits-california-midterms"
-  },
-  {
-    "score": 35,
-    "pubdate": "2026-09-06-07-58-55 +0000",
-    "source": "nyt",
-    "headline": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
-    "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
-  },
-  {
-    "score": 34,
     "pubdate": "2026-09-05-22-44-07 +0000",
     "source": "bbc",
     "headline": "US and Iran trade retaliatory attacks on ships as conflict flares",
     "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 34,
-    "pubdate": "2026-09-06-00-17-05 +0000",
+    "score": 33,
+    "pubdate": "2026-09-06-10-29-03 +0000",
     "source": "bbc",
-    "headline": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
-    "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss"
+    "headline": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+    "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss"
   }
 ]
