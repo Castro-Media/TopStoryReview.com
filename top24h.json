@@ -1,6 +1,6 @@
 [
   {
-    "score": 95,
+    "score": 91,
     "pubdate": "2026-09-05-17-32-00 +0000",
     "source": "wsj",
     "headline": "Putin Meets Trump Envoys as U.S. Pushes to Revive Ukraine Peace Talks",
@@ -15,31 +15,24 @@
   },
   {
     "score": 54,
+    "pubdate": "2026-09-05-23-47-38 +0000",
+    "source": "nyt",
+    "headline": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
+    "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
+  },
+  {
+    "score": 53,
     "pubdate": "2026-09-06-11-07-14 +0000",
     "source": "nyt",
     "headline": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
     "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
   },
   {
-    "score": 51,
-    "pubdate": "2026-09-05-15-17-15 +0000",
-    "source": "cbc",
-    "headline": "U.S. military hits 3 Iranian oil tankers after saying its navy warships were targeted",
-    "link": "https://www.cbc.ca/news/world/iran-united-states-strikes-oil-tankers-9.7333805?cmp=rss"
-  },
-  {
-    "score": 42,
-    "pubdate": "2026-09-06-06-27-16 +0000",
-    "source": "nyt",
-    "headline": "Nepal Floods Buried a House. The Woman Inside Was Still Alive.",
-    "link": "https://www.nytimes.com/2026/09/05/world/asia/nepal-floods-chinese-worker-rescue.html"
-  },
-  {
-    "score": 40,
-    "pubdate": "2026-09-05-13-10-33 +0000",
-    "source": "nypost",
-    "headline": "Putin declares 3-day cease-fire in Ukraine war as Jared Kushner, Steve Witkoff land in Moscow",
-    "link": "https://nypost.com/2026/09/05/world-news/putin-declares-3-day-cease-fire-in-ukraine-as-jared-kushner-steve-witkoff-land-in-moscow/"
+    "score": 43,
+    "pubdate": "2026-09-06-01-54-29 +0000",
+    "source": "bbc",
+    "headline": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+    "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 39,
@@ -49,24 +42,31 @@
     "link": "https://nypost.com/2026/09/06/us-news/north-carolina-democrat-roy-cooper-added-former-bloods-gang-member-to-criminal-justice-task-force/"
   },
   {
-    "score": 33,
-    "pubdate": "2026-09-05-22-44-07 +0000",
-    "source": "bbc",
-    "headline": "US and Iran trade retaliatory attacks on ships as conflict flares",
-    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
+    "score": 35,
+    "pubdate": "2026-09-06-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Backlash over data centers hits California, and the midterms",
+    "link": "https://www.latimes.com/politics/story/2026-09-06/backlash-over-data-centers-hits-california-midterms"
   },
   {
-    "score": 32,
+    "score": 35,
     "pubdate": "2026-09-06-07-58-55 +0000",
     "source": "nyt",
     "headline": "Elections in Germany Could Produce First Far-Right State Government Since Nazi Era: What to Know",
     "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html"
   },
   {
-    "score": 32,
-    "pubdate": "2026-09-06-02-30-00 +0000",
-    "source": "nypost",
-    "headline": "California’s free ride means illegal migrants get money for college — while Golden State natives pay big",
-    "link": "https://nypost.com/2026/09/05/us-news/inside-californias-college-aid-system-for-illegal-migrant-students/"
+    "score": 34,
+    "pubdate": "2026-09-05-22-44-07 +0000",
+    "source": "bbc",
+    "headline": "US and Iran trade retaliatory attacks on ships as conflict flares",
+    "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-09-06-00-17-05 +0000",
+    "source": "bbc",
+    "headline": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
+    "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss"
   }
 ]
