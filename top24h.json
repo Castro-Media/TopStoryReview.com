@@ -1,20 +1,20 @@
 [
   {
-    "score": 99,
-    "pubdate": "2026-09-07-13-26-01 +0000",
-    "source": "nyt",
-    "headline": "Trump Posts Map Suggesting New Mexico Be Renamed as ‘New America’",
-    "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
-  },
-  {
-    "score": 97,
+    "score": 96,
     "pubdate": "2026-09-07-14-04-01 +0000",
     "source": "bbc",
     "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
     "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 89,
+    "score": 94,
+    "pubdate": "2026-09-07-13-26-01 +0000",
+    "source": "nyt",
+    "headline": "Trump Posts Map Suggesting New Mexico Be Renamed as ‘New America’",
+    "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
+  },
+  {
+    "score": 88,
     "pubdate": "2026-09-06-19-46-40 +0000",
     "source": "cbc",
     "headline": "At least 5 dead after Amazon cargo plane barrels off Miami runway and smashes into cars: police",
@@ -42,20 +42,6 @@
     "link": "https://www.wsj.com/politics/policy/retail-investors-hand-control-of-stock-portfolios-to-ai-5e7f3f25?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 39,
-    "pubdate": "2026-09-06-15-24-43 +0000",
-    "source": "wapo",
-    "headline": "Trump appeals to Supreme Court as time runs out on push to restrict mail voting",
-    "link": "https://www.washingtonpost.com/politics/2026/09/06/trump-is-running-out-time-he-tries-restrict-mail-voting/"
-  },
-  {
-    "score": 37,
-    "pubdate": "2026-09-06-20-41-58 +0000",
-    "source": "bbc",
-    "headline": "Zelensky says he expects war to continue into winter after talks with US envoys",
-    "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 37,
     "pubdate": "2026-09-07-03-40-09 +0000",
     "source": "bbc",
@@ -64,9 +50,23 @@
   },
   {
     "score": 35,
+    "pubdate": "2026-09-06-20-41-58 +0000",
+    "source": "bbc",
+    "headline": "Zelensky says he expects war to continue into winter after talks with US envoys",
+    "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 34,
     "pubdate": "2026-09-06-17-24-41 +0000",
     "source": "nyt",
     "headline": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
     "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-09-06-20-58-36 +0000",
+    "source": "nypost",
+    "headline": "Kushner, Witkoff ‘really feel good’ about Ukraine-Russia peace push after Zelensky huddle",
+    "link": "https://nypost.com/2026/09/06/us-news/kushner-witkoff-really-feel-good-about-ukraine-russia-peace-push-after-zelensky-huddle/"
   }
 ]
