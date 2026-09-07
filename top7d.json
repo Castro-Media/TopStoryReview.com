@@ -1,17 +1,10 @@
 [
   {
-    "score": 314,
-    "pubdate": "2026-09-03-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Convicted Trump Media-linked fraudster funded pro-Trump film in hopes of pardon, lawsuit says",
-    "link": "https://www.latimes.com/politics/story/2026-09-03/trump-media-linked-fraudster-funded-pro-trump-film-in-hopes-of-pardon-suit-says"
-  },
-  {
-    "score": 212,
-    "pubdate": "2026-09-04-17-40-08 +0000",
+    "score": 326,
+    "pubdate": "2026-09-07-11-54-06 +0000",
     "source": "nyt",
-    "headline": "Iran War Helps to Drive U.S. Diesel Prices to New High",
-    "link": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html"
+    "headline": "Trump Posts Map Suggesting New Mexico Be Renamed as ‘New America’",
+    "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
   },
   {
     "score": 168,
@@ -21,7 +14,14 @@
     "link": "https://www.wsj.com/politics/national-security/trump-picks-veteran-hung-cao-to-become-navy-secretary-6de2aef4?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 132,
+    "score": 168,
+    "pubdate": "2026-09-04-12-11-46 +0000",
+    "source": "chitri",
+    "headline": "US diesel prices hit record high of $5.85 on average as Iran war disrupts flow of fuel",
+    "link": "https://www.chicagotribune.com/2026/09/04/us-diesel-prices/"
+  },
+  {
+    "score": 134,
     "pubdate": "2026-09-06-15-56-00 +0000",
     "source": "wsj",
     "headline": "Retail investors hand control of stock portfolios to AI, patients are asked to foot bills ahead of procedures, and Jersey City is in financial trouble. Read more in today’s What’s News newsletter.",
@@ -29,13 +29,13 @@
   },
   {
     "score": 130,
-    "pubdate": "2026-09-07-11-54-22 +0000",
+    "pubdate": "2026-09-07-12-22-39 +0000",
     "source": "bbc",
     "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
     "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 129,
+    "score": 127,
     "pubdate": "2026-09-05-22-29-37 +0000",
     "source": "wapo",
     "headline": "U.S. envoys meet Putin in Moscow, pressing Russia-Ukraine peace talks",
@@ -50,17 +50,17 @@
   },
   {
     "score": 121,
-    "pubdate": "2026-09-05-23-47-38 +0000",
-    "source": "nyt",
-    "headline": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
-    "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
-  },
-  {
-    "score": 119,
     "pubdate": "2026-09-04-21-09-00 +0000",
     "source": "wsj",
     "headline": "The Supreme Court cleared the way for political parties to buy television ads at special reduced rates in the lead-up to the midterm elections",
     "link": "https://www.wsj.com/politics/policy/supreme-court-sides-with-gop-in-spat-over-political-ad-pricing-4e3ae380?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 120,
+    "pubdate": "2026-09-05-23-47-38 +0000",
+    "source": "nyt",
+    "headline": "U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says",
+    "link": "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html"
   },
   {
     "score": 116,
