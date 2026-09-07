@@ -7,13 +7,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 89,
-    "pubdate": "2026-09-06-19-25-00 +0000",
-    "source": "wsj",
-    "headline": "Trump Envoys Visit Ukraine in New Push for Peace Talks",
-    "link": "https://www.wsj.com/world/europe/trump-envoys-visit-ukraine-in-new-push-for-peace-talks-ee01b34e?mod=rss_worldnews"
-  },
-  {
     "score": 79,
     "pubdate": "2026-09-06-18-32-53 +0000",
     "source": "bbc",
@@ -21,21 +14,28 @@
     "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 49,
+    "score": 76,
+    "pubdate": "2026-09-06-19-25-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Envoys Visit Ukraine in New Push for Peace Talks",
+    "link": "https://www.wsj.com/world/europe/trump-envoys-visit-ukraine-in-new-push-for-peace-talks-ee01b34e?mod=rss_worldnews"
+  },
+  {
+    "score": 48,
     "pubdate": "2026-09-06-17-24-41 +0000",
     "source": "nyt",
     "headline": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
     "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html"
   },
   {
-    "score": 49,
+    "score": 47,
     "pubdate": "2026-09-07-03-40-09 +0000",
     "source": "bbc",
     "headline": "Australians will be able to switch off social media algorithms under planned legislation",
     "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 42,
+    "score": 40,
     "pubdate": "2026-09-06-17-44-24 +0000",
     "source": "nypost",
     "headline": "Trump asks Supreme Court to allow mail-in ballot restrictions ahead of midterms",
@@ -56,17 +56,17 @@
     "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
   },
   {
-    "score": 31,
-    "pubdate": "2026-09-06-20-35-26 +0000",
-    "source": "nypost",
-    "headline": "‘Vampire’ so feared she was locked in booby-trapped grave was teen girl who met horror movie fate: experts",
-    "link": "https://nypost.com/2026/09/06/world-news/vampire-so-feared-she-was-locked-in-booby-trapped-grave-was-teen-girl-who-met-horror-movie-fate-experts/"
-  },
-  {
     "score": 29,
     "pubdate": "2026-09-07-06-13-17 +0000",
     "source": "bbc",
     "headline": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
     "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 28,
+    "pubdate": "2026-09-07-02-15-05 +0000",
+    "source": "nypost",
+    "headline": "14-year-old boy shot near NYC park by gunman dressed in head-to-toe black: cops",
+    "link": "https://nypost.com/2026/09/06/us-news/14-year-old-boy-shot-near-nyc-park-by-gunman-dressed-in-head-to-toe-black-cops/"
   }
 ]
