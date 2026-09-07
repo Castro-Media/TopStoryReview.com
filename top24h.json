@@ -1,38 +1,45 @@
 [
   {
-    "score": 97,
-    "pubdate": "2026-09-07-11-54-06 +0000",
+    "score": 99,
+    "pubdate": "2026-09-07-13-26-01 +0000",
     "source": "nyt",
     "headline": "Trump Posts Map Suggesting New Mexico Be Renamed as ‘New America’",
     "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
   },
   {
-    "score": 85,
-    "pubdate": "2026-09-07-12-22-39 +0000",
+    "score": 97,
+    "pubdate": "2026-09-07-14-04-01 +0000",
     "source": "bbc",
     "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
     "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 82,
+    "score": 89,
     "pubdate": "2026-09-06-19-46-40 +0000",
     "source": "cbc",
     "headline": "At least 5 dead after Amazon cargo plane barrels off Miami runway and smashes into cars: police",
     "link": "https://www.cbc.ca/news/world/amazon-cargo-plan-overrun-runway-in-miami-9.7334414?cmp=rss"
   },
   {
-    "score": 49,
+    "score": 52,
     "pubdate": "2026-09-07-07-03-44 +0000",
     "source": "bbc",
     "headline": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
     "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 42,
+    "score": 43,
     "pubdate": "2026-09-06-20-36-11 +0000",
     "source": "nyt",
     "headline": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
     "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
+  },
+  {
+    "score": 40,
+    "pubdate": "2026-09-06-15-56-00 +0000",
+    "source": "wsj",
+    "headline": "Retail investors hand control of stock portfolios to AI, patients are asked to foot bills ahead of procedures, and Jersey City is in financial trouble. Read more in today’s What’s News newsletter.",
+    "link": "https://www.wsj.com/politics/policy/retail-investors-hand-control-of-stock-portfolios-to-ai-5e7f3f25?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 39,
@@ -50,20 +57,13 @@
   },
   {
     "score": 37,
-    "pubdate": "2026-09-06-15-56-00 +0000",
-    "source": "wsj",
-    "headline": "Retail investors hand control of stock portfolios to AI, patients are asked to foot bills ahead of procedures, and Jersey City is in financial trouble. Read more in today’s What’s News newsletter.",
-    "link": "https://www.wsj.com/politics/policy/retail-investors-hand-control-of-stock-portfolios-to-ai-5e7f3f25?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 36,
     "pubdate": "2026-09-07-03-40-09 +0000",
     "source": "bbc",
     "headline": "Australians will be able to switch off social media algorithms under planned legislation",
     "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 34,
+    "score": 35,
     "pubdate": "2026-09-06-17-24-41 +0000",
     "source": "nyt",
     "headline": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
