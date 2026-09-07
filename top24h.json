@@ -1,6 +1,6 @@
 [
   {
-    "score": 101,
+    "score": 99,
     "pubdate": "2026-09-06-19-25-00 +0000",
     "source": "wsj",
     "headline": "Trump Envoys Visit Ukraine in New Push for Peace Talks",
@@ -21,13 +21,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 42,
-    "pubdate": "2026-09-06-02-49-51 +0000",
-    "source": "nyt",
-    "headline": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
-    "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
-  },
-  {
     "score": 41,
     "pubdate": "2026-09-06-17-24-41 +0000",
     "source": "nyt",
@@ -35,18 +28,11 @@
     "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html"
   },
   {
-    "score": 40,
-    "pubdate": "2026-09-06-01-25-18 +0000",
+    "score": 41,
+    "pubdate": "2026-09-06-02-49-51 +0000",
     "source": "nyt",
-    "headline": "U.S. Military Sinks Boats Said to Aid Drug Smuggling Near Ecuador",
-    "link": "https://www.nytimes.com/2026/09/05/us/politics/us-military-sinks-boats-near-ecuador.html"
-  },
-  {
-    "score": 40,
-    "pubdate": "2026-09-06-01-54-29 +0000",
-    "source": "bbc",
-    "headline": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-    "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss"
+    "headline": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
+    "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html"
   },
   {
     "score": 39,
@@ -68,5 +54,19 @@
     "source": "nypost",
     "headline": "‘Vampire’ so feared she was locked in booby-trapped grave was teen girl who met horror movie fate: experts",
     "link": "https://nypost.com/2026/09/06/world-news/vampire-so-feared-she-was-locked-in-booby-trapped-grave-was-teen-girl-who-met-horror-movie-fate-experts/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-09-06-20-36-11 +0000",
+    "source": "nyt",
+    "headline": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
+    "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-09-06-06-06-42 +0000",
+    "source": "nypost",
+    "headline": "North Carolina Dem Senate candidate added former Bloods gang member to criminal justice task force: report",
+    "link": "https://nypost.com/2026/09/06/us-news/north-carolina-democrat-roy-cooper-added-former-bloods-gang-member-to-criminal-justice-task-force/"
   }
 ]
