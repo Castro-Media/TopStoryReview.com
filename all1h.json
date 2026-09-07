@@ -1,218 +1,128 @@
 [
   {
-    "headline": "A German politician with a MAGA touch lifts his nationalist party to victory",
-    "link": "https://www.washingtonpost.com/world/2026/09/07/ulrich-siegmund-german-politician-with-maga-touch-lifts-afd-victory/",
-    "source": "wapo",
-    "pubdate": "2026-09-07-10-49-33 +0000"
-  },
-  {
-    "headline": "Germany’s AfD Could Win Its First State Government. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
-    "source": "nyt",
-    "pubdate": "2026-09-07-10-46-24 +0000"
-  },
-  {
-    "headline": "Germany’s AfD Could Win Its First State Government. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-election-afd-saxony-anhalt.html",
-    "source": "nyt",
-    "pubdate": "2026-09-07-10-46-24 +0000"
-  },
-  {
-    "headline": "Building Housing Students Collapses in New Delhi, Killing at Least 7",
-    "link": "https://www.nytimes.com/2026/09/07/world/asia/india-delhi-building-collapse-satya-niketan.html",
-    "source": "nyt",
-    "pubdate": "2026-09-07-10-42-50 +0000"
-  },
-  {
-    "headline": "Building Housing Students Collapses in New Delhi, Killing at Least 7",
-    "link": "https://www.nytimes.com/2026/09/07/world/asia/india-delhi-building-collapse-satya-niketan.html",
-    "source": "nyt",
-    "pubdate": "2026-09-07-10-42-50 +0000"
+    "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+    "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-07-11-54-22 +0000"
   },
   {
     "headline": "Jaguar Land Rover to cut 4,000 jobs over next two years",
     "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-09-07-10-41-11 +0000"
+    "pubdate": "2026-09-07-11-51-54 +0000"
   },
   {
-    "headline": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
-    "link": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-09-07-10-41-00 +0000"
-  },
-  {
-    "headline": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
-    "link": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-09-07-10-41-00 +0000"
-  },
-  {
-    "headline": "Oil Prices Churn After U.S. and Iran Trade Strikes",
-    "link": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
-    "source": "nyt",
-    "pubdate": "2026-09-07-10-40-51 +0000"
-  },
-  {
-    "headline": "Jaguar Land Rover Plans to Cut Around 9% of Workforce as Headwinds Mount",
-    "link": "https://www.wsj.com/business/autos/tata-motors-owned-jlr-plans-redundancy-program-as-it-targets-over-2b-in-savings-4f8fccdb?mod=pls_whats_news_us_business_f",
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-cd901f1b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-09-07-10-38-00 +0000"
+    "pubdate": "2026-09-07-11-51-00 +0000"
   },
   {
-    "headline": "Tanzanian President Samia Suluhu Hassan's husband dies",
-    "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+    "headline": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+    "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-09-07-10-36-15 +0000"
+    "pubdate": "2026-09-07-11-50-43 +0000"
   },
   {
-    "headline": "Yen Climbs to Six-Month High as Rate Outlooks Shift",
-    "link": "https://www.wsj.com/finance/currencies/japanese-yen-climbs-to-six-month-high-as-rate-outlooks-shift-df3980be?mod=rss_markets_main",
+    "headline": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+    "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-07-11-50-43 +0000"
+  },
+  {
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-867ac53d?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-09-07-10-34-00 +0000"
+    "pubdate": "2026-09-07-11-46-00 +0000"
   },
   {
-    "headline": "Yen Climbs to Six-Month High as Rate Outlooks Shift",
-    "link": "https://www.wsj.com/finance/currencies/japanese-yen-climbs-to-six-month-high-as-rate-outlooks-shift-df3980be?mod=rss_socialeconomyfeed",
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-867ac53d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-09-07-10-34-00 +0000"
+    "pubdate": "2026-09-07-11-46-00 +0000"
   },
   {
-    "headline": "Rescuers dig through debris as seven dead in building collapse in Delhi",
-    "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-10-31-01 +0000"
-  },
-  {
-    "headline": "Rescuers dig through debris as seven dead in building collapse in Delhi",
-    "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-10-31-01 +0000"
-  },
-  {
-    "headline": "Israeli Strikes in Lebanon Kill 9 as Bombardment Intensifies",
-    "link": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
+    "headline": "What to Know About Cargo Plane That Overran Its Runway, Killing 5 in Miami",
+    "link": "https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html",
     "source": "nyt",
-    "pubdate": "2026-09-07-10-30-45 +0000"
+    "pubdate": "2026-09-07-11-42-41 +0000"
   },
   {
-    "headline": "Israeli Strikes in Lebanon Kill 9 as Bombardment Intensifies",
-    "link": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
+    "headline": "Trump suggests renaming New Mexico amid torrent of online memes and taunts",
+    "link": "https://www.washingtonpost.com/politics/2026/09/07/trump-suggests-renaming-new-mexico-amid-torrent-online-memes-taunts/",
+    "source": "wapo",
+    "pubdate": "2026-09-07-11-36-28 +0000"
+  },
+  {
+    "headline": "Indonesia’s Growing Microplastics Problem",
+    "link": "https://www.nytimes.com/video/world/asia/100000010538018/indonesia-microplastics-rain-air-jakarta.html",
     "source": "nyt",
-    "pubdate": "2026-09-07-10-30-45 +0000"
+    "pubdate": "2026-09-07-11-35-01 +0000"
   },
   {
-    "headline": "Scandal over NY police bigwig linked to son’s gang shooting has Dems running for the hills even as White House chimes in",
-    "link": "https://nypost.com/2026/09/07/us-news/scandal-over-ny-police-bigwig-linked-to-sons-gang-shooting-has-dems-running-for-the-hills/",
-    "source": "nypost",
-    "pubdate": "2026-09-07-10-30-00 +0000"
-  },
-  {
-    "headline": "Volkswagen to Sell German Site to Israel’s Aurelius, State of Lower Saxony",
-    "link": "https://www.wsj.com/business/autos/volkswagen-to-sell-german-site-to-israels-aurelius-state-of-lower-saxony-c622b1ff?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-07-10-21-00 +0000"
-  },
-  {
-    "headline": "Volkswagen to Sell German Site to Israel’s Aurelius, State of Lower Saxony",
-    "link": "https://www.wsj.com/business/autos/volkswagen-to-sell-german-site-to-israels-aurelius-state-of-lower-saxony-c622b1ff?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-07-10-21-00 +0000"
-  },
-  {
-    "headline": "Israeli strikes in southern Lebanese village kill nine",
-    "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-10-16-56 +0000"
-  },
-  {
-    "headline": "Israeli strikes in southern Lebanese village kill nine",
-    "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-10-16-56 +0000"
-  },
-  {
-    "headline": "Chancellor says UK economy 'turning a corner' despite debt concerns",
-    "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-10-16-19 +0000"
+    "headline": "Indonesia’s Growing Microplastics Problem",
+    "link": "https://www.nytimes.com/video/world/asia/100000010538018/indonesia-microplastics-rain-air-jakarta.html",
+    "source": "nyt",
+    "pubdate": "2026-09-07-11-35-01 +0000"
   },
   {
     "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
     "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-09-07-10-14-51 +0000"
+    "pubdate": "2026-09-07-11-32-32 +0000"
   },
   {
-    "headline": "After Victory in German State, Far Right Needs Help to Take Power",
-    "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
+    "headline": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+    "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-07-11-30-27 +0000"
+  },
+  {
+    "headline": "Sterling Edges Higher After U.K. Treasury Chief Speech",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-fed-rate-hike-prospects-b9db2269?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-07-11-19-00 +0000"
+  },
+  {
+    "headline": "Tanzanian President Samia's husband dies in hospital",
+    "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-07-11-18-40 +0000"
+  },
+  {
+    "headline": "Tanzanian President Samia's husband dies in hospital",
+    "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-07-11-18-40 +0000"
+  },
+  {
+    "headline": "Rise in German Bund Yields Almost Entirely Due to ECB Rate-Hike Prospects",
+    "link": "https://www.wsj.com/finance/jgbs-edge-lower-amid-rising-oil-prices-b7e71276?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-07-11-16-00 +0000"
+  },
+  {
+    "headline": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
+    "link": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
     "source": "nyt",
-    "pubdate": "2026-09-07-10-10-35 +0000"
+    "pubdate": "2026-09-07-11-12-55 +0000"
   },
   {
-    "headline": "After Victory in German State, Far Right Needs Help to Take Power",
-    "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
+    "headline": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
+    "link": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
     "source": "nyt",
-    "pubdate": "2026-09-07-10-10-35 +0000"
+    "pubdate": "2026-09-07-11-12-55 +0000"
   },
   {
-    "headline": "Many Loop restaurants shut their doors during the pandemic. Now new ones are taking their place.",
-    "link": "https://www.chicagotribune.com/2026/09/07/loop-restaurants-open/",
-    "source": "chitri",
-    "pubdate": "2026-09-07-10-00-19 +0000"
+    "headline": "Bay Area immigration judges are denying immigrant children pauses in deportation proceedings",
+    "link": "https://missionlocal.org/2026/09/judges-deny-immigrant-children-deportation-pause/",
+    "source": "missionlocal",
+    "pubdate": "2026-09-07-11-00-00 +0000"
   },
   {
-    "headline": "Democrats try a novel path to defeat a battleground Republican: Moving to the left",
-    "link": "https://www.washingtonpost.com/politics/2026/09/07/california-progressive-tries-novel-path-fight-against-gop-swing-district/",
-    "source": "wapo",
-    "pubdate": "2026-09-07-10-00-01 +0000"
-  },
-  {
-    "headline": "Former Missouri high school valedictorian busted with stash of party drug ‘poppers’ in Argentina — in what could be largest seizure ever",
-    "link": "https://nypost.com/2026/09/07/us-news/former-us-whiz-kid-braiden-wilson-busted-with-stash-of-party-drug-poppers-in-argentina/",
+    "headline": "New ‘Halloween’ video game slashes creepy mini-game where character can have sex with high schoolers",
+    "link": "https://nypost.com/2026/09/07/us-news/new-halloween-video-game-slashes-creepy-mini-game-where-character-can-have-sex-with-high-schoolers/",
     "source": "nypost",
-    "pubdate": "2026-09-07-10-00-00 +0000"
-  },
-  {
-    "headline": "‘Nannies for Millionaires’? This free child care program had a rocky start.",
-    "link": "https://www.washingtonpost.com/nation/2026/09/07/new-mexico-promised-free-child-care-all-many-families-are-still-waiting/",
-    "source": "wapo",
-    "pubdate": "2026-09-07-10-00-00 +0000"
-  },
-  {
-    "headline": "Ding! Ding! Ding! The long, strange fight over your car’s seat-belt chime.",
-    "link": "https://www.washingtonpost.com/transportation/2026/09/07/seat-belt-chimes-are-meant-save-lives-some-people-still-resent-them/",
-    "source": "wapo",
-    "pubdate": "2026-09-07-10-00-00 +0000"
-  },
-  {
-    "headline": "Judge slams county's 'obvious conflict of interest' in suit seeking use-of-force records",
-    "link": "https://www.latimes.com/california/story/2026-09-07/judge-slams-countys-obvious-conflict-of-interest-in-suit-seeking-use-of-force-records",
-    "source": "latimes",
-    "pubdate": "2026-09-07-10-00-00 +0000"
-  },
-  {
-    "headline": "Baby Boomer executives aren’t leaving the C-suites – and that’s setting up a crisis for corporate America",
-    "link": "https://nypost.com/2026/09/07/business/baby-boomer-executives-arent-leaving-the-c-suites-and-thats-setting-up-a-crisis-for-corporate-america/",
-    "source": "nypost",
-    "pubdate": "2026-09-07-10-00-00 +0000"
-  },
-  {
-    "headline": "Hiltzik: Today's tycoons learn a lesson from history — public esteem for rich entrepreneurs inevitably sours",
-    "link": "https://www.latimes.com/business/story/2026-09-07/todays-tech-tycoons-learn-a-lesson-from-history-public-esteem-for-rich-tech-entrepreneurs-inevitably-sours",
-    "source": "latimes",
-    "pubdate": "2026-09-07-10-00-00 +0000"
-  },
-  {
-    "headline": "Trump's economic record is working against him in the midterms",
-    "link": "https://www.latimes.com/politics/story/2026-09-07/trumps-economic-record-is-working-against-him-in-midterms",
-    "source": "latimes",
-    "pubdate": "2026-09-07-10-00-00 +0000"
-  },
-  {
-    "headline": "As Trump locks in oil deal, Venezuelans ask: What happened to elections?",
-    "link": "https://www.latimes.com/world-nation/story/2026-09-07/fg-us-venezuela-oil-over-democracy",
-    "source": "latimes",
-    "pubdate": "2026-09-07-10-00-00 +0000"
+    "pubdate": "2026-09-07-11-00-00 +0000"
   }
 ]

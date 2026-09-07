@@ -1,27 +1,27 @@
 [
   {
-    "score": 100,
+    "score": 93,
     "pubdate": "2026-09-06-19-25-00 +0000",
     "source": "wsj",
     "headline": "Trump Envoys Visit Ukraine in New Push for Peace Talks",
     "link": "https://www.wsj.com/world/europe/trump-envoys-visit-ukraine-in-new-push-for-peace-talks-ee01b34e?mod=rss_worldnews"
   },
   {
-    "score": 89,
+    "score": 87,
+    "pubdate": "2026-09-07-11-54-22 +0000",
+    "source": "bbc",
+    "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+    "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 82,
     "pubdate": "2026-09-06-19-46-40 +0000",
     "source": "cbc",
     "headline": "At least 5 dead after Amazon cargo plane barrels off Miami runway and smashes into cars: police",
     "link": "https://www.cbc.ca/news/world/amazon-cargo-plan-overrun-runway-in-miami-9.7334414?cmp=rss"
   },
   {
-    "score": 84,
-    "pubdate": "2026-09-06-18-32-53 +0000",
-    "source": "bbc",
-    "headline": "Germany's far-right AfD celebrate projected win in state election",
-    "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 52,
+    "score": 47,
     "pubdate": "2026-09-06-17-24-41 +0000",
     "source": "nyt",
     "headline": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
@@ -29,17 +29,24 @@
   },
   {
     "score": 39,
+    "pubdate": "2026-09-06-20-36-11 +0000",
+    "source": "nyt",
+    "headline": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
+    "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
+  },
+  {
+    "score": 38,
     "pubdate": "2026-09-06-17-44-24 +0000",
     "source": "nypost",
     "headline": "Trump asks Supreme Court to allow mail-in ballot restrictions ahead of midterms",
     "link": "https://nypost.com/2026/09/06/us-news/trump-renews-supreme-court-appeal-for-midterm-mail-ballots/"
   },
   {
-    "score": 38,
-    "pubdate": "2026-09-07-08-46-42 +0000",
+    "score": 36,
+    "pubdate": "2026-09-07-10-00-00 +0000",
     "source": "nypost",
-    "headline": "North Korea and Russia open their first road bridge as Putin and Kim Jong Un deepen ties",
-    "link": "https://nypost.com/2026/09/07/world-news/north-korea-and-russia-open-first-road-bridge-as-putin-and-kim-jong-un-deepen-ties/"
+    "headline": "Former Missouri high school valedictorian busted with stash of party drug ‘poppers’ in Argentina — in what could be largest seizure ever",
+    "link": "https://nypost.com/2026/09/07/us-news/former-us-whiz-kid-braiden-wilson-busted-with-stash-of-party-drug-poppers-in-argentina/"
   },
   {
     "score": 36,
@@ -49,24 +56,17 @@
     "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 36,
-    "pubdate": "2026-09-06-20-36-11 +0000",
-    "source": "nyt",
-    "headline": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
-    "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
-  },
-  {
     "score": 35,
-    "pubdate": "2026-09-07-10-00-00 +0000",
+    "pubdate": "2026-09-07-08-46-42 +0000",
     "source": "nypost",
-    "headline": "Former Missouri high school valedictorian busted with stash of party drug ‘poppers’ in Argentina — in what could be largest seizure ever",
-    "link": "https://nypost.com/2026/09/07/us-news/former-us-whiz-kid-braiden-wilson-busted-with-stash-of-party-drug-poppers-in-argentina/"
+    "headline": "North Korea and Russia open their first road bridge as Putin and Kim Jong Un deepen ties",
+    "link": "https://nypost.com/2026/09/07/world-news/north-korea-and-russia-open-first-road-bridge-as-putin-and-kim-jong-un-deepen-ties/"
   },
   {
     "score": 31,
-    "pubdate": "2026-09-06-11-01-21 +0000",
-    "source": "nyt",
-    "headline": "A Bad Year for Bees Gets Worse as Trump’s Tariffs Hit Canada’s Honey Belt",
-    "link": "https://www.nytimes.com/2026/09/06/world/canada/trump-tariffs-canada-bees-honey.html"
+    "pubdate": "2026-09-07-10-21-00 +0000",
+    "source": "wsj",
+    "headline": "Volkswagen to Sell German Site to Israel’s Aurelius, State of Lower Saxony",
+    "link": "https://www.wsj.com/business/autos/volkswagen-to-sell-german-site-to-israels-aurelius-state-of-lower-saxony-c622b1ff?mod=pls_whats_news_us_business_f"
   }
 ]
