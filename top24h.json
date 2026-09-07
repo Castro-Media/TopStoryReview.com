@@ -1,17 +1,10 @@
 [
   {
-    "score": 133,
+    "score": 130,
     "pubdate": "2026-09-07-17-48-00 +0000",
     "source": "wsj",
     "headline": "Trump made a series of social-media posts over the holiday weekend calling for changing New Mexico’s name to “New America,” his most ambitious—and unlikely—attempt yet to remake the North American map",
     "link": "https://www.wsj.com/politics/trumps-latest-target-for-a-name-change-new-mexico-b7e80b94?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 105,
-    "pubdate": "2026-09-07-15-03-22 +0000",
-    "source": "chitri",
-    "headline": "AfD party’s landslide win in eastern Germany tests country’s ‘firewall’ against the far right",
-    "link": "https://www.chicagotribune.com/2026/09/07/afd-party-eastern-germany-elections/"
   },
   {
     "score": 97,
@@ -21,7 +14,14 @@
     "link": "https://www.cbc.ca/news/world/amazon-cargo-plan-overrun-runway-in-miami-9.7334414?cmp=rss"
   },
   {
-    "score": 70,
+    "score": 93,
+    "pubdate": "2026-09-07-15-03-22 +0000",
+    "source": "chitri",
+    "headline": "AfD party’s landslide win in eastern Germany tests country’s ‘firewall’ against the far right",
+    "link": "https://www.chicagotribune.com/2026/09/07/afd-party-eastern-germany-elections/"
+  },
+  {
+    "score": 72,
     "pubdate": "2026-09-07-15-15-14 +0000",
     "source": "chitri",
     "headline": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues",
@@ -29,10 +29,10 @@
   },
   {
     "score": 46,
-    "pubdate": "2026-09-07-16-16-01 +0000",
+    "pubdate": "2026-09-06-20-58-36 +0000",
     "source": "nypost",
-    "headline": "Ukraine strikes Russian oil refineries after Kushner, Witkoff visit Moscow and Kyiv",
-    "link": "https://nypost.com/2026/09/07/world-news/ukraine-strikes-russian-oil-refineries-after-kushner-witkoff-visit-moscow-and-kyiv/"
+    "headline": "Kushner, Witkoff ‘really feel good’ about Ukraine-Russia peace push after Zelensky huddle",
+    "link": "https://nypost.com/2026/09/06/us-news/kushner-witkoff-really-feel-good-about-ukraine-russia-peace-push-after-zelensky-huddle/"
   },
   {
     "score": 45,
@@ -42,13 +42,6 @@
     "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
   },
   {
-    "score": 38,
-    "pubdate": "2026-09-07-08-46-42 +0000",
-    "source": "nypost",
-    "headline": "North Korea and Russia open their first road bridge as Putin and Kim Jong Un deepen ties",
-    "link": "https://nypost.com/2026/09/07/world-news/north-korea-and-russia-open-first-road-bridge-as-putin-and-kim-jong-un-deepen-ties/"
-  },
-  {
     "score": 35,
     "pubdate": "2026-09-07-16-27-54 +0000",
     "source": "nypost",
@@ -56,17 +49,24 @@
     "link": "https://nypost.com/2026/09/07/business/openai-hires-chuck-schumers-daughter-as-big-tech-cozies-up-to-democrats-ahead-of-midterms-report/"
   },
   {
+    "score": 34,
+    "pubdate": "2026-09-07-17-30-14 +0000",
+    "source": "nyt",
+    "headline": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
+    "link": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html"
+  },
+  {
     "score": 33,
-    "pubdate": "2026-09-06-19-35-00 +0000",
-    "source": "chitri",
-    "headline": "German far-right party set for regional election triumph but uncertain of governing",
-    "link": "https://www.chicagotribune.com/2026/09/06/german-far-right-party-election/"
+    "pubdate": "2026-09-07-18-42-31 +0000",
+    "source": "bbc",
+    "headline": "Pilot killed in small plane crash near regional airport in Florida",
+    "link": "https://www.bbc.co.uk/news/articles/c33k5m1zdemo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 32,
-    "pubdate": "2026-09-06-20-35-26 +0000",
-    "source": "nypost",
-    "headline": "‘Vampire’ so feared she was locked in booby-trapped grave was teen girl who met horror movie fate: experts",
-    "link": "https://nypost.com/2026/09/06/world-news/vampire-so-feared-she-was-locked-in-booby-trapped-grave-was-teen-girl-who-met-horror-movie-fate-experts/"
+    "pubdate": "2026-09-07-18-50-37 +0000",
+    "source": "nyt",
+    "headline": "Britain Set to Target Israeli West Bank Settlements With Trade Ban",
+    "link": "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html"
   }
 ]
