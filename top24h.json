@@ -25,7 +25,7 @@
     "pubdate": "2026-09-07-02-18-00 +0000",
     "source": "wsj",
     "headline": "Oil Rises as Escalating U.S.-Iran Conflict Stokes Supply Disruption Fears",
-    "link": "https://www.wsj.com/finance/stocks/oil-rises-as-escalating-u-s-iran-conflict-stokes-supply-disruption-fears-acdef1ab?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/finance/stocks/oil-rises-as-escalating-u-s-iran-conflict-stokes-supply-disruption-fears-acdef1ab?mod=rss_worldnews"
   },
   {
     "score": 39,
@@ -43,17 +43,10 @@
   },
   {
     "score": 33,
-    "pubdate": "2026-09-06-22-26-27 +0000",
+    "pubdate": "2026-09-06-20-58-36 +0000",
     "source": "nypost",
-    "headline": "California Democrats panic as PG&E cuts $2 billion in planned spending over wildfire liability fight",
-    "link": "https://nypost.com/2026/09/06/us-news/pge-cuts-2-billion-in-planned-spending-over-wildfire-liability-fight/"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-09-06-20-36-11 +0000",
-    "source": "nyt",
-    "headline": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
-    "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
+    "headline": "Kushner, Witkoff ‘really feel good’ about Ukraine-Russia peace push after Zelensky huddle",
+    "link": "https://nypost.com/2026/09/06/us-news/kushner-witkoff-really-feel-good-about-ukraine-russia-peace-push-after-zelensky-huddle/"
   },
   {
     "score": 33,
@@ -64,9 +57,16 @@
   },
   {
     "score": 33,
-    "pubdate": "2026-09-06-20-58-36 +0000",
+    "pubdate": "2026-09-06-22-26-27 +0000",
     "source": "nypost",
-    "headline": "Kushner, Witkoff ‘really feel good’ about Ukraine-Russia peace push after Zelensky huddle",
-    "link": "https://nypost.com/2026/09/06/us-news/kushner-witkoff-really-feel-good-about-ukraine-russia-peace-push-after-zelensky-huddle/"
+    "headline": "California Democrats panic as PG&E cuts $2 billion in planned spending over wildfire liability fight",
+    "link": "https://nypost.com/2026/09/06/us-news/pge-cuts-2-billion-in-planned-spending-over-wildfire-liability-fight/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-09-06-20-36-11 +0000",
+    "source": "nyt",
+    "headline": "China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
+    "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html"
   }
 ]
