@@ -1,72 +1,44 @@
 [
   {
-    "score": 24,
-    "pubdate": "2026-09-08-05-12-53 +0000",
-    "source": "nyt",
-    "headline": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
-    "link": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html"
-  },
-  {
-    "score": 15,
-    "pubdate": "2026-09-08-05-23-00 +0000",
-    "source": "wsj",
-    "headline": "China’s Trade Surplus Widens as Export Growth Accelerates",
-    "link": "https://www.wsj.com/economy/trade/chinas-trade-surplus-widens-as-export-growth-accelerates-f4418eda?mod=rss_worldnews"
-  },
-  {
-    "score": 12,
-    "pubdate": "2026-09-08-05-54-06 +0000",
-    "source": "nypost",
-    "headline": "Jimmy John’s employee accused of opening fire on car, shooting 14-year-old girl in leg: police",
-    "link": "https://nypost.com/2026/09/08/us-news/jimmy-johns-employee-adam-white-accused-of-opening-fire-on-car-shooting-14-year-old-girl-in-leg-police/"
-  },
-  {
     "score": 11,
-    "pubdate": "2026-09-08-05-34-00 +0000",
-    "source": "wsj",
-    "headline": "Mistral AI Exceeds $24 Billion Valuation After Samsung-Led Investment Round",
-    "link": "https://www.wsj.com/tech/ai/mistral-ai-exceeds-24-billion-valuation-after-samsung-led-investment-round-ea377b82?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-09-08-05-40-57 +0000",
-    "source": "bbc",
-    "headline": "Food price cap plans giving farmer 'sleepless nights'",
-    "link": "https://www.bbc.co.uk/news/articles/c9w41xw74p8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-09-08-05-09-00 +0000",
-    "source": "wsj",
-    "headline": "Asian Stock Markets Mixed, Investors Await U.S. CPI Data",
-    "link": "https://www.wsj.com/finance/stocks/asian-stock-markets-mixed-as-investors-look-to-u-s-cpi-data-f41bca9f?mod=rss_markets_main"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-09-08-05-00-05 +0000",
+    "pubdate": "2026-09-08-06-59-54 +0000",
     "source": "nyt",
-    "headline": "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
-    "link": "https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html"
+    "headline": "Houthi Strikes on Southern Saudi Arabia Injure Dozens, Saudi Officials Say",
+    "link": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-energy-attack.html"
   },
   {
-    "score": 6,
-    "pubdate": "2026-09-08-04-57-54 +0000",
+    "score": 9,
+    "pubdate": "2026-09-08-06-56-40 +0000",
+    "source": "nyt",
+    "headline": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies",
+    "link": "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-09-08-06-15-37 +0000",
+    "source": "latimes",
+    "headline": "Dozens of homes evacuated in Long Beach due to storm damage, high surf",
+    "link": "https://www.latimes.com/california/story/2026-09-07/dozens-of-homes-evacuated-in-long-beach-due-to-storm-damage-high-surf"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-09-08-06-53-14 +0000",
+    "source": "nyt",
+    "headline": "Miami Plane Crash Starts Debate About Requiring a Buffer for Runways",
+    "link": "https://www.nytimes.com/2026/09/07/us/miami-crash-emas-buffer-runways.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-09-08-06-20-10 +0000",
     "source": "bbc",
-    "headline": "'JLR job cuts a cause for uncertainty and worry'",
-    "link": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss"
+    "headline": "'Good to have choice': Australians on opting out of social media algorithms",
+    "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 6,
-    "pubdate": "2026-09-08-05-01-12 +0000",
-    "source": "nypost",
-    "headline": "Canada’s retaliatory tariffs take effect as US trade talks stall",
-    "link": "https://nypost.com/2026/09/08/business/canadas-retaliatory-tariffs-take-effect-as-us-trade-talks-stall/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-09-08-05-23-00 +0000",
+    "score": 4,
+    "pubdate": "2026-09-08-06-25-00 +0000",
     "source": "wsj",
-    "headline": "China’s Trade Surplus Widens as Export Growth Accelerates",
-    "link": "https://www.wsj.com/economy/trade/chinas-trade-surplus-widens-as-export-growth-accelerates-f4418eda?mod=rss_socialeconomyfeed"
+    "headline": "U.S. Treasury Yields Edge Lower in Asian Trade",
+    "link": "https://www.wsj.com/finance/jgb-futures-rise-as-yens-strength-seen-easing-inflationary-pressures-5eefc264?mod=rss_markets_main"
   }
 ]

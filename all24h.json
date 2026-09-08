@@ -1,5 +1,47 @@
 [
   {
+    "headline": "Houthi Strikes on Southern Saudi Arabia Injure Dozens, Saudi Officials Say",
+    "link": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-energy-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-09-08-06-59-54 +0000"
+  },
+  {
+    "headline": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies",
+    "link": "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-09-08-06-56-40 +0000"
+  },
+  {
+    "headline": "Miami Plane Crash Starts Debate About Requiring a Buffer for Runways",
+    "link": "https://www.nytimes.com/2026/09/07/us/miami-crash-emas-buffer-runways.html",
+    "source": "nyt",
+    "pubdate": "2026-09-08-06-53-14 +0000"
+  },
+  {
+    "headline": "U.S. Treasury Yields Edge Lower in Asian Trade",
+    "link": "https://www.wsj.com/finance/jgb-futures-rise-as-yens-strength-seen-easing-inflationary-pressures-5eefc264?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-08-06-25-00 +0000"
+  },
+  {
+    "headline": "'Good to have choice': Australians on opting out of social media algorithms",
+    "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-08-06-20-10 +0000"
+  },
+  {
+    "headline": "Dozens of homes evacuated in Long Beach due to storm damage, high surf",
+    "link": "https://www.latimes.com/california/story/2026-09-07/dozens-of-homes-evacuated-in-long-beach-due-to-storm-damage-high-surf",
+    "source": "latimes",
+    "pubdate": "2026-09-08-06-15-37 +0000"
+  },
+  {
+    "headline": "LAPD arrest 69 people, impound 200 cars at illegal street gathering in Harbor Gateway",
+    "link": "https://www.latimes.com/california/story/2026-09-07/lapd-arrest-69-people-impound-200-cars-at-illegal-street-gathering-in-harbor-gateway",
+    "source": "latimes",
+    "pubdate": "2026-09-08-05-59-20 +0000"
+  },
+  {
     "headline": "Jimmy John’s employee accused of opening fire on car, shooting 14-year-old girl in leg: police",
     "link": "https://nypost.com/2026/09/08/us-news/jimmy-johns-employee-adam-white-accused-of-opening-fire-on-car-shooting-14-year-old-girl-in-leg-police/",
     "source": "nypost",
@@ -108,6 +150,12 @@
     "pubdate": "2026-09-08-04-39-14 +0000"
   },
   {
+    "headline": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-08-04-39-14 +0000"
+  },
+  {
     "headline": "Containing Germany’s Far Right",
     "link": "https://www.nytimes.com/2026/09/07/world/germany-election-afd-indonesia-microplastics.html",
     "source": "nyt",
@@ -138,12 +186,6 @@
     "pubdate": "2026-09-08-04-05-09 +0000"
   },
   {
-    "headline": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies",
-    "link": "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html",
-    "source": "nyt",
-    "pubdate": "2026-09-08-04-03-08 +0000"
-  },
-  {
     "headline": "Canada's new tariffs: Are small businesses 'cannon fodder' in the trade war?",
     "link": "https://www.cbc.ca/news/business/new-canada-tariffs-9.7334999?cmp=rss",
     "source": "cbc",
@@ -153,13 +195,13 @@
     "headline": "Online Posts Show Families’ Grief for Flood Victims on Tibet’s Side of China-Nepal Border",
     "link": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html",
     "source": "nyt",
-    "pubdate": "2026-09-08-04-00-09 +0000"
+    "pubdate": "2026-09-08-04-00-10 +0000"
   },
   {
     "headline": "Online Posts Show Families’ Grief for Flood Victims on Tibet’s Side of China-Nepal Border",
     "link": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html",
     "source": "nyt",
-    "pubdate": "2026-09-08-04-00-09 +0000"
+    "pubdate": "2026-09-08-04-00-10 +0000"
   },
   {
     "headline": "Florida couple, their grandchildren missing after plane crashes on way back from Bahamas vacation home: ‘Please help’",
@@ -214,12 +256,6 @@
     "link": "https://48hills.org/2026/09/why-is-sf-encouraging-a-notorious-landlord-to-build-luxury-housing-in-the-haight/",
     "source": "48hills",
     "pubdate": "2026-09-08-02-49-02 +0000"
-  },
-  {
-    "headline": "Miami Plane Crash Starts Debate About Requiring a Buffer for Runways",
-    "link": "https://www.nytimes.com/2026/09/07/us/miami-crash-emas-buffer-runways.html",
-    "source": "nyt",
-    "pubdate": "2026-09-08-02-48-52 +0000"
   },
   {
     "headline": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
@@ -294,12 +330,6 @@
     "pubdate": "2026-09-08-01-50-55 +0000"
   },
   {
-    "headline": "UK government expected to announce restrictions on trade with West Bank settlements",
-    "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-08-01-50-55 +0000"
-  },
-  {
     "headline": "Wild dashcam video shows crossing guard shield mother and 2 kids from speeding car: ‘You’re a hero!’",
     "link": "https://nypost.com/2026/09/07/us-news/wild-dashcam-video-shows-crossing-guard-shield-mother-and-2-kids-from-speeding-car-youre-a-hero/",
     "source": "nypost",
@@ -310,6 +340,12 @@
     "link": "https://www.wsj.com/finance/commodities-futures/in-gold-the-bulls-are-everywhere-8ee642ee?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-09-08-01-47-00 +0000"
+  },
+  {
+    "headline": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+    "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-08-01-32-56 +0000"
   },
   {
     "headline": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
@@ -504,13 +540,13 @@
     "pubdate": "2026-09-07-23-06-14 +0000"
   },
   {
-    "headline": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+    "headline": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
     "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-07-23-05-12 +0000"
   },
   {
-    "headline": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+    "headline": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
     "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-07-23-05-12 +0000"
@@ -664,6 +700,12 @@
     "link": "https://nypost.com/2026/09/07/business/oil-prices-hit-six-week-high-amid-us-iran-conflict-but-drivers-could-soon-get-relief-at-the-pump/",
     "source": "nypost",
     "pubdate": "2026-09-07-21-21-58 +0000"
+  },
+  {
+    "headline": "Palestinian parents fear for children's lives at school as settler attacks grow",
+    "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-07-21-12-37 +0000"
   },
   {
     "headline": "Palestinian parents fear for children's lives at school as settler attacks grow",
@@ -940,6 +982,12 @@
     "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-07-17-46-25 +0000"
+  },
+  {
+    "headline": "Ecclestone stopped by police for taking shotgun into Portugal",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-07-17-40-04 +0000"
   },
   {
     "headline": "Disgraced California lawmaker caught making NFL bets in emails with dive bar",
@@ -2026,47 +2074,5 @@
     "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-07-07-14-43 +0000"
-  },
-  {
-    "headline": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-    "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-07-03-44 +0000"
-  },
-  {
-    "headline": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-    "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-07-03-44 +0000"
-  },
-  {
-    "headline": "German Industrial Production Contracts on Auto Sector Slowdown",
-    "link": "https://www.wsj.com/economy/trade/german-industrial-production-contracts-on-auto-sector-woes-28c2390a?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-07-06-57-00 +0000"
-  },
-  {
-    "headline": "German Industrial Production Contracts on Auto Sector Slowdown",
-    "link": "https://www.wsj.com/economy/trade/german-industrial-production-contracts-on-auto-sector-woes-28c2390a?mod=rss_socialeconomyfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-07-06-57-00 +0000"
-  },
-  {
-    "headline": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
-    "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-06-32-06 +0000"
-  },
-  {
-    "headline": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
-    "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-06-32-06 +0000"
-  },
-  {
-    "headline": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
-    "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-06-32-06 +0000"
   }
 ]
