@@ -1,5 +1,83 @@
 [
   {
+    "headline": "Jimmy John’s employee accused of opening fire on car, shooting 14-year-old girl in leg: police",
+    "link": "https://nypost.com/2026/09/08/us-news/jimmy-johns-employee-adam-white-accused-of-opening-fire-on-car-shooting-14-year-old-girl-in-leg-police/",
+    "source": "nypost",
+    "pubdate": "2026-09-08-05-54-06 +0000"
+  },
+  {
+    "headline": "Food price cap plans giving farmer 'sleepless nights'",
+    "link": "https://www.bbc.co.uk/news/articles/c9w41xw74p8o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-08-05-40-57 +0000"
+  },
+  {
+    "headline": "Mistral AI Exceeds $24 Billion Valuation After Samsung-Led Investment Round",
+    "link": "https://www.wsj.com/tech/ai/mistral-ai-exceeds-24-billion-valuation-after-samsung-led-investment-round-ea377b82?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-08-05-34-00 +0000"
+  },
+  {
+    "headline": "China’s Trade Surplus Widens as Export Growth Accelerates",
+    "link": "https://www.wsj.com/economy/trade/chinas-trade-surplus-widens-as-export-growth-accelerates-f4418eda?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-08-05-23-00 +0000"
+  },
+  {
+    "headline": "China’s Trade Surplus Widens as Export Growth Accelerates",
+    "link": "https://www.wsj.com/economy/trade/chinas-trade-surplus-widens-as-export-growth-accelerates-f4418eda?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-08-05-23-00 +0000"
+  },
+  {
+    "headline": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
+    "link": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html",
+    "source": "nyt",
+    "pubdate": "2026-09-08-05-12-53 +0000"
+  },
+  {
+    "headline": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
+    "link": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html",
+    "source": "nyt",
+    "pubdate": "2026-09-08-05-12-53 +0000"
+  },
+  {
+    "headline": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
+    "link": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html",
+    "source": "nyt",
+    "pubdate": "2026-09-08-05-12-53 +0000"
+  },
+  {
+    "headline": "Asian Stock Markets Mixed, Investors Await U.S. CPI Data",
+    "link": "https://www.wsj.com/finance/stocks/asian-stock-markets-mixed-as-investors-look-to-u-s-cpi-data-f41bca9f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-08-05-09-00 +0000"
+  },
+  {
+    "headline": "Canada’s retaliatory tariffs take effect as US trade talks stall",
+    "link": "https://nypost.com/2026/09/08/business/canadas-retaliatory-tariffs-take-effect-as-us-trade-talks-stall/",
+    "source": "nypost",
+    "pubdate": "2026-09-08-05-01-12 +0000"
+  },
+  {
+    "headline": "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
+    "link": "https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html",
+    "source": "nyt",
+    "pubdate": "2026-09-08-05-00-05 +0000"
+  },
+  {
+    "headline": "'JLR job cuts a cause for uncertainty and worry'",
+    "link": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-08-04-57-54 +0000"
+  },
+  {
+    "headline": "Fall Arts Preview: 8 visual art shows you simply must see",
+    "link": "https://48hills.org/2026/09/fall-arts-preview-8-visual-art-shows-you-simply-must-see/",
+    "source": "48hills",
+    "pubdate": "2026-09-08-04-55-34 +0000"
+  },
+  {
     "headline": "Fall Arts Preview: 10 live music shows to ring in autumn ears",
     "link": "https://48hills.org/2026/09/fall-arts-preview-10-live-music-shows-to-ring-in-autumn-ears/",
     "source": "48hills",
@@ -22,6 +100,12 @@
     "link": "https://www.nytimes.com/2026/09/07/world/asia/philippines-romualdez-arrest-kickbacks.html",
     "source": "nyt",
     "pubdate": "2026-09-08-04-42-47 +0000"
+  },
+  {
+    "headline": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-08-04-39-14 +0000"
   },
   {
     "headline": "Containing Germany’s Far Right",
@@ -150,12 +234,6 @@
     "pubdate": "2026-09-08-02-44-03 +0000"
   },
   {
-    "headline": "Asian Stock Markets Mixed as Investors Look to U.S. CPI Data",
-    "link": "https://www.wsj.com/finance/stocks/asian-stock-markets-mixed-as-investors-look-to-u-s-cpi-data-f41bca9f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-08-02-25-00 +0000"
-  },
-  {
     "headline": "Flights to Jakarta resume after volcanic ash forced 2-day closure of several Indonesian airports",
     "link": "https://www.cbc.ca/news/world/jakarta-flights-resume-volcano-9.7335242?cmp=rss",
     "source": "cbc",
@@ -208,6 +286,12 @@
     "link": "https://nypost.com/2026/09/07/us-news/man-shot-dead-by-lapd-in-boyle-heights-after-charging-officers-with-tree-trimmer/",
     "source": "nypost",
     "pubdate": "2026-09-08-01-51-56 +0000"
+  },
+  {
+    "headline": "UK government expected to announce restrictions on trade with West Bank settlements",
+    "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-08-01-50-55 +0000"
   },
   {
     "headline": "UK government expected to announce restrictions on trade with West Bank settlements",
@@ -280,6 +364,12 @@
     "link": "https://www.startribune.com/minnesota-state-fair-2026-attendance-tracker/601883459",
     "source": "startribune",
     "pubdate": "2026-09-08-01-11-56 +0000"
+  },
+  {
+    "headline": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+    "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-08-01-07-47 +0000"
   },
   {
     "headline": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
@@ -378,6 +468,12 @@
     "pubdate": "2026-09-07-23-46-44 +0000"
   },
   {
+    "headline": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+    "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-07-23-46-44 +0000"
+  },
+  {
     "headline": "A food safety officer has become a social media star in India - why?",
     "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -462,22 +558,16 @@
     "pubdate": "2026-09-07-22-29-10 +0000"
   },
   {
-    "headline": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+    "headline": "Flight recorders recovered from Amazon cargo plane crash",
     "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-07-22-23-03 +0000"
   },
   {
-    "headline": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+    "headline": "Flight recorders recovered from Amazon cargo plane crash",
     "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-07-22-23-03 +0000"
-  },
-  {
-    "headline": "Food price cap plans giving farmer 'sleepless nights'",
-    "link": "https://www.bbc.co.uk/news/articles/c9w41xw74p8o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-22-22-58 +0000"
   },
   {
     "headline": "Illinois mother charged with killing toddler 'invested' in Lindsay Clancy case: prosecutors",
@@ -580,12 +670,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-07-21-12-37 +0000"
-  },
-  {
-    "headline": "At least 8 hurt in shootings, stabbings near NYC’s notorious West Indian Day Parade",
-    "link": "https://nypost.com/2026/09/07/us-news/2-women-shot-in-separate-incidents-near-nycs-west-indian-day-parade-route-adding-to-days-violence/",
-    "source": "nypost",
-    "pubdate": "2026-09-07-21-11-53 +0000"
   },
   {
     "headline": "As Social Security fund runs dry, some Republicans say it’s time to raise taxes",
@@ -750,6 +834,12 @@
     "pubdate": "2026-09-07-19-16-18 +0000"
   },
   {
+    "headline": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+    "link": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-07-19-04-09 +0000"
+  },
+  {
     "headline": "Armed Ohio man arrested after charging at Democratic candidate for governor",
     "link": "https://www.bbc.co.uk/news/articles/czezyr81g23o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -862,24 +952,6 @@
     "link": "https://nypost.com/2026/09/07/world-news/us-navy-seals-spent-four-months-demaining-the-strait-of-hormuz-in-dangerous-nighttime-mission/",
     "source": "nypost",
     "pubdate": "2026-09-07-17-33-55 +0000"
-  },
-  {
-    "headline": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
-    "link": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html",
-    "source": "nyt",
-    "pubdate": "2026-09-07-17-31-53 +0000"
-  },
-  {
-    "headline": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
-    "link": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html",
-    "source": "nyt",
-    "pubdate": "2026-09-07-17-31-53 +0000"
-  },
-  {
-    "headline": "Nazi-Looted Painting in Real Estate Listing Must Be Returned",
-    "link": "https://www.nytimes.com/2026/09/07/world/americas/looted-painting-nazis-argentina.html",
-    "source": "nyt",
-    "pubdate": "2026-09-07-17-31-53 +0000"
   },
   {
     "headline": "Hideki Shirakawa, Who Helped Turn a Lab Error Into a Nobel, Dies at 90",
@@ -1680,14 +1752,14 @@
     "pubdate": "2026-09-07-10-00-00 +0000"
   },
   {
-    "headline": "Trump's economic record is working against him in the midterms",
-    "link": "https://www.latimes.com/politics/story/2026-09-07/trumps-economic-record-is-working-against-him-in-midterms",
+    "headline": "As Trump locks in oil deal, Venezuelans ask: What happened to elections?",
+    "link": "https://www.latimes.com/world-nation/story/2026-09-07/fg-us-venezuela-oil-over-democracy",
     "source": "latimes",
     "pubdate": "2026-09-07-10-00-00 +0000"
   },
   {
-    "headline": "As Trump locks in oil deal, Venezuelans ask: What happened to elections?",
-    "link": "https://www.latimes.com/world-nation/story/2026-09-07/fg-us-venezuela-oil-over-democracy",
+    "headline": "Trump's economic record is working against him in the midterms",
+    "link": "https://www.latimes.com/politics/story/2026-09-07/trumps-economic-record-is-working-against-him-in-midterms",
     "source": "latimes",
     "pubdate": "2026-09-07-10-00-00 +0000"
   },
@@ -1996,59 +2068,5 @@
     "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-07-06-32-06 +0000"
-  },
-  {
-    "headline": "Cost of living on many minds ahead of Manx election",
-    "link": "https://www.bbc.co.uk/news/articles/c1dlr2dzv20o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-05-46-34 +0000"
-  },
-  {
-    "headline": "Watch: Cargo plane overshoots runway at Miami airport",
-    "link": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-05-37-28 +0000"
-  },
-  {
-    "headline": "Five killed as Amazon cargo plane crashes at Miami airport",
-    "link": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-05-37-28 +0000"
-  },
-  {
-    "headline": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-05-31-06 +0000"
-  },
-  {
-    "headline": "New videos of man in 9/11 lawsuit reveal extremist links",
-    "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-05-31-06 +0000"
-  },
-  {
-    "headline": "Oil Rises as Escalating U.S.-Iran Conflict Stokes Supply Disruption Fears",
-    "link": "https://www.wsj.com/finance/stocks/oil-rises-as-escalating-u-s-iran-conflict-stokes-supply-disruption-fears-acdef1ab?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-07-05-30-00 +0000"
-  },
-  {
-    "headline": "'Nothing good was supposed to come out of me'",
-    "link": "https://www.bbc.co.uk/news/articles/cly452zwr01o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-05-29-39 +0000"
-  },
-  {
-    "headline": "More funding needed to boost construction jobs for young people, housing boss says",
-    "link": "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-05-05-24 +0000"
-  },
-  {
-    "headline": "How long could you manage on £3 of food a day?",
-    "link": "https://www.bbc.co.uk/news/articles/c07lz5d5z34o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-07-04-57-53 +0000"
   }
 ]
