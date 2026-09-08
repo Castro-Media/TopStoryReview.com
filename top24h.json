@@ -1,24 +1,17 @@
 [
   {
-    "score": 142,
+    "score": 138,
     "pubdate": "2026-09-07-17-48-00 +0000",
     "source": "wsj",
     "headline": "Trump made a series of social-media posts over the holiday weekend calling for changing New Mexico’s name to “New America,” his most ambitious—and unlikely—attempt yet to remake the North American map",
     "link": "https://www.wsj.com/politics/trumps-latest-target-for-a-name-change-new-mexico-b7e80b94?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 90,
+    "score": 80,
     "pubdate": "2026-09-07-12-03-00 +0000",
     "source": "wsj",
     "headline": "Amazon Cargo Plane Overshoots Runway in Miami, Killing Five People",
     "link": "https://www.wsj.com/us-news/amazon-cargo-plane-miami-runway-crash-52198128?mod=rss_usnews"
-  },
-  {
-    "score": 74,
-    "pubdate": "2026-09-07-15-15-14 +0000",
-    "source": "chitri",
-    "headline": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues",
-    "link": "https://www.chicagotribune.com/2026/09/07/fuel-prices-labor-day/"
   },
   {
     "score": 72,
@@ -28,14 +21,28 @@
     "link": "https://www.chicagotribune.com/2026/09/07/afd-party-eastern-germany-elections/"
   },
   {
-    "score": 51,
+    "score": 72,
+    "pubdate": "2026-09-07-15-15-14 +0000",
+    "source": "chitri",
+    "headline": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues",
+    "link": "https://www.chicagotribune.com/2026/09/07/fuel-prices-labor-day/"
+  },
+  {
+    "score": 52,
     "pubdate": "2026-09-07-21-59-12 +0000",
     "source": "nypost",
     "headline": "Mainstream TV vague about airing first-ever GOP midterm convention — as NFL serves up big competition",
     "link": "https://nypost.com/2026/09/07/us-news/tv-networks-non-committal-to-gop-midterm-convention-nfl-serves-up-big-competition/"
   },
   {
-    "score": 40,
+    "score": 48,
+    "pubdate": "2026-09-08-01-50-55 +0000",
+    "source": "bbc",
+    "headline": "UK government expected to announce restrictions on trade with West Bank settlements",
+    "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 42,
     "pubdate": "2026-09-08-04-00-09 +0000",
     "source": "nyt",
     "headline": "Online Posts Show Families’ Grief for Flood Victims on Tibet’s Side of China-Nepal Border",
@@ -49,24 +56,17 @@
     "link": "https://nypost.com/2026/09/07/us-news/pregnant-socal-mom-taken-off-life-support-after-being-shot-in-the-head/"
   },
   {
-    "score": 38,
-    "pubdate": "2026-09-07-23-05-12 +0000",
-    "source": "bbc",
-    "headline": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-    "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss"
+    "score": 36,
+    "pubdate": "2026-09-07-08-53-16 +0000",
+    "source": "cbc",
+    "headline": "Israeli strikes on southern Lebanese town kill 12, including children, Health Ministry says",
+    "link": "https://www.cbc.ca/news/world/lebanon-israeli-strike-town-9.7334675?cmp=rss"
   },
   {
-    "score": 38,
-    "pubdate": "2026-09-07-18-42-31 +0000",
-    "source": "bbc",
-    "headline": "Pilot killed in small plane crash near regional airport in Florida",
-    "link": "https://www.bbc.co.uk/news/articles/c33k5m1zdemo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 37,
-    "pubdate": "2026-09-07-20-33-50 +0000",
-    "source": "nyt",
-    "headline": "Britain Set to Target Israeli West Bank Settlements With Trade Ban",
-    "link": "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html"
+    "score": 36,
+    "pubdate": "2026-09-07-08-46-42 +0000",
+    "source": "nypost",
+    "headline": "North Korea and Russia open their first road bridge as Putin and Kim Jong Un deepen ties",
+    "link": "https://nypost.com/2026/09/07/world-news/north-korea-and-russia-open-first-road-bridge-as-putin-and-kim-jong-un-deepen-ties/"
   }
 ]
