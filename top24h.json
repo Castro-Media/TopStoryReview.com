@@ -1,17 +1,10 @@
 [
   {
-    "score": 162,
+    "score": 144,
     "pubdate": "2026-09-07-17-48-00 +0000",
     "source": "wsj",
     "headline": "Trump made a series of social-media posts over the holiday weekend calling for changing New Mexico’s name to “New America,” his most ambitious—and unlikely—attempt yet to remake the North American map",
     "link": "https://www.wsj.com/politics/trumps-latest-target-for-a-name-change-new-mexico-b7e80b94?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 76,
-    "pubdate": "2026-09-07-15-03-22 +0000",
-    "source": "chitri",
-    "headline": "AfD party’s landslide win in eastern Germany tests country’s ‘firewall’ against the far right",
-    "link": "https://www.chicagotribune.com/2026/09/07/afd-party-eastern-germany-elections/"
   },
   {
     "score": 76,
@@ -21,6 +14,13 @@
     "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 73,
+    "pubdate": "2026-09-07-15-03-22 +0000",
+    "source": "chitri",
+    "headline": "AfD party’s landslide win in eastern Germany tests country’s ‘firewall’ against the far right",
+    "link": "https://www.chicagotribune.com/2026/09/07/afd-party-eastern-germany-elections/"
+  },
+  {
     "score": 69,
     "pubdate": "2026-09-08-09-31-26 +0000",
     "source": "bbc",
@@ -28,7 +28,7 @@
     "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 64,
+    "score": 61,
     "pubdate": "2026-09-08-12-49-14 +0000",
     "source": "nyt",
     "headline": "UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing",
@@ -43,30 +43,30 @@
   },
   {
     "score": 54,
-    "pubdate": "2026-09-07-15-15-14 +0000",
-    "source": "chitri",
-    "headline": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues",
-    "link": "https://www.chicagotribune.com/2026/09/07/fuel-prices-labor-day/"
+    "pubdate": "2026-09-08-10-46-00 +0000",
+    "source": "wsj",
+    "headline": "Three numbers show how China’s extraordinary export surge is on track to at least match last year’s record $1.2 trillion surplus",
+    "link": "https://www.wsj.com/economy/trade/three-numbers-that-show-just-how-big-chinas-export-boom-is-8ddf6ae8?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 51,
-    "pubdate": "2026-09-07-16-16-01 +0000",
+    "score": 52,
+    "pubdate": "2026-09-07-21-21-58 +0000",
     "source": "nypost",
-    "headline": "Ukraine strikes Russian oil refineries after Kushner, Witkoff visit Moscow and Kyiv",
-    "link": "https://nypost.com/2026/09/07/world-news/ukraine-strikes-russian-oil-refineries-after-kushner-witkoff-visit-moscow-and-kyiv/"
+    "headline": "Oil prices hit six-week high amid US-Iran conflict — but drivers could soon get relief at the pump",
+    "link": "https://nypost.com/2026/09/07/business/oil-prices-hit-six-week-high-amid-us-iran-conflict-but-drivers-could-soon-get-relief-at-the-pump/"
   },
   {
-    "score": 48,
-    "pubdate": "2026-09-08-10-31-49 +0000",
+    "score": 47,
+    "pubdate": "2026-09-08-12-36-44 +0000",
     "source": "nyt",
-    "headline": "Online Posts Show Families’ Grief for Flood Victims on Tibet’s Side of China-Nepal Border",
-    "link": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html"
+    "headline": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group’s Visit",
+    "link": "https://www.nytimes.com/2026/09/08/world/europe/paris-eiffel-tower-closed-strike-hindu-temple.html"
   },
   {
-    "score": 45,
-    "pubdate": "2026-09-08-12-01-07 +0000",
-    "source": "startribune",
-    "headline": "Minnesota closed three addiction treatment centers. Workers fear patients will fall through the cracks.",
-    "link": "https://www.startribune.com/mn-addiction-treatment-closures/601877060"
+    "score": 41,
+    "pubdate": "2026-09-07-20-11-43 +0000",
+    "source": "cbc",
+    "headline": "Trump to Canadian plane maker Bombardier: You can't sell in U.S. unless you build in U.S.",
+    "link": "https://www.cbc.ca/news/canada/trump-bombardier-truth-social-post-9.7335014?cmp=rss"
   }
 ]
