@@ -1,9 +1,72 @@
 [
   {
-    "score": 10,
-    "pubdate": "2026-09-08-12-57-07 +0000",
+    "score": 53,
+    "pubdate": "2026-09-08-14-21-11 +0000",
+    "source": "nyt",
+    "headline": "Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War",
+    "link": "https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-09-08-14-10-12 +0000",
+    "source": "nyt",
+    "headline": "UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing",
+    "link": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html"
+  },
+  {
+    "score": 34,
+    "pubdate": "2026-09-08-14-51-34 +0000",
+    "source": "nypost",
+    "headline": "Trump’s post of Iceland under US flag sparks outrage from Nordic country: ‘Nothing funny or normal’",
+    "link": "https://nypost.com/2026/09/08/us-news/trumps-post-of-iceland-under-us-flag-sparks-outrage-from-nordic-country-nothing-funny-or-normal/"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-09-08-14-46-16 +0000",
+    "source": "bbc",
+    "headline": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-09-08-14-03-39 +0000",
+    "source": "bbc",
+    "headline": "Asbestos 'nearly everywhere' after 9/11 - new documents reveal air-quality concerns",
+    "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-08-13-58-32 +0000",
+    "source": "bbc",
+    "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+    "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-08-14-16-30 +0000",
+    "source": "nypost",
+    "headline": "Abdul El-Sayed condemed US response to 9/11 that ‘scarred millions’ in resurfaced podcast comments",
+    "link": "https://nypost.com/2026/09/08/us-news/abdul-el-sayed-claims-us-response-to-9-11-scarred-millions-of-other-people/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-09-08-14-46-39 +0000",
     "source": "nyt",
     "headline": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
     "link": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-08-14-54-03 +0000",
+    "source": "nypost",
+    "headline": "Oil nears $100 a barrel as Middle East tensions fuel inflation fears ahead of interest-rate decision",
+    "link": "https://nypost.com/2026/09/08/business/oil-nears-100-a-barrel-as-middle-east-tensions-fuel-inflation-fears/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-08-14-10-53 +0000",
+    "source": "wapo",
+    "headline": "Lindsay Clancy’s attorney makes public plea for Trump pardon",
+    "link": "https://www.washingtonpost.com/politics/2026/09/08/lindsay-clancys-attorney-makes-public-plea-trump-pardon/"
   }
 ]
