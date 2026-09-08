@@ -1,38 +1,10 @@
 [
   {
-    "score": 28,
-    "pubdate": "2026-09-08-00-26-55 +0000",
-    "source": "nypost",
-    "headline": "House lawmaker sues to reverse Missouri Supreme Court’s ‘startling’ decision to block GOP-friendly congressional map",
-    "link": "https://nypost.com/2026/09/07/us-news/house-lawmaker-sues-to-reverse-missouri-supreme-court-decision-to-block-gop-friendly-congressional-map/"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-09-08-00-48-43 +0000",
-    "source": "bbc",
-    "headline": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-    "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 10,
+    "score": 14,
     "pubdate": "2026-09-08-01-04-12 +0000",
     "source": "nyt",
     "headline": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
     "link": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-09-08-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Chasing side deals, flexing influence: Lewandowski’s power moves at Homeland Security.",
-    "link": "https://www.wsj.com/politics/policy/corey-lewandowski-influence-dhs-43d3fe03?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-09-08-00-25-31 +0000",
-    "source": "nypost",
-    "headline": "Dangerous mosquito-borne virus spreads in Florida as officials warn of rising cases",
-    "link": "https://nypost.com/2026/09/07/us-news/dangerous-mosquito-borne-virus-spreads-in-florida-as-officials-warn-of-rising-cases/"
   },
   {
     "score": 8,
@@ -49,24 +21,17 @@
     "link": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html"
   },
   {
-    "score": 8,
-    "pubdate": "2026-09-08-00-23-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Rises Amid Fears of More Supply Disruptions in Middle East",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-fears-of-more-supply-disruptions-in-middle-east-97f4225b?mod=rss_markets_main"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-09-08-00-38-00 +0000",
-    "source": "wsj",
-    "headline": "Yen Strengthens Further; Sentiment Toward Currency Has ‘Materially’ Shifted",
-    "link": "https://www.wsj.com/finance/currencies/yen-strengthens-further-sentiment-toward-currency-has-materially-shifted-72af55be?mod=rss_markets_main"
-  },
-  {
     "score": 7,
     "pubdate": "2026-09-08-01-07-47 +0000",
     "source": "bbc",
     "headline": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
     "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-09-08-01-04-12 +0000",
+    "source": "nyt",
+    "headline": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
+    "link": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html"
   }
 ]
