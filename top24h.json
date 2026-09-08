@@ -1,24 +1,17 @@
 [
   {
-    "score": 145,
+    "score": 140,
     "pubdate": "2026-09-07-17-48-00 +0000",
     "source": "wsj",
     "headline": "Trump made a series of social-media posts over the holiday weekend calling for changing New Mexico’s name to “New America,” his most ambitious—and unlikely—attempt yet to remake the North American map",
     "link": "https://www.wsj.com/politics/trumps-latest-target-for-a-name-change-new-mexico-b7e80b94?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 78,
+    "score": 75,
     "pubdate": "2026-09-07-12-03-00 +0000",
     "source": "wsj",
     "headline": "Amazon Cargo Plane Overshoots Runway in Miami, Killing Five People",
-    "link": "https://www.wsj.com/us-news/amazon-cargo-plane-miami-runway-crash-52198128?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 70,
-    "pubdate": "2026-09-07-15-15-14 +0000",
-    "source": "chitri",
-    "headline": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues",
-    "link": "https://www.chicagotribune.com/2026/09/07/fuel-prices-labor-day/"
+    "link": "https://www.wsj.com/us-news/amazon-cargo-plane-miami-runway-crash-52198128?mod=rss_usnews"
   },
   {
     "score": 69,
@@ -28,25 +21,25 @@
     "link": "https://www.chicagotribune.com/2026/09/07/afd-party-eastern-germany-elections/"
   },
   {
-    "score": 51,
+    "score": 63,
+    "pubdate": "2026-09-07-15-14-00 +0000",
+    "source": "wsj",
+    "headline": "Oil Extends Gains on Middle East Attacks; U.S. Gas Prices at Record High for Labor Day",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-escalation-in-u-s-iran-conflict-aab0d7fb?mod=rss_markets_main"
+  },
+  {
+    "score": 58,
     "pubdate": "2026-09-08-04-39-14 +0000",
     "source": "bbc",
     "headline": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
     "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 45,
+    "score": 38,
     "pubdate": "2026-09-08-04-00-10 +0000",
     "source": "nyt",
     "headline": "Online Posts Show Families’ Grief for Flood Victims on Tibet’s Side of China-Nepal Border",
     "link": "https://www.nytimes.com/2026/09/08/world/asia/china-nepal-border-flood-tibet-victims-messages.html"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-09-07-21-59-12 +0000",
-    "source": "nypost",
-    "headline": "Mainstream TV vague about airing first-ever GOP midterm convention — as NFL serves up big competition",
-    "link": "https://nypost.com/2026/09/07/us-news/tv-networks-non-committal-to-gop-midterm-convention-nfl-serves-up-big-competition/"
   },
   {
     "score": 38,
@@ -63,10 +56,17 @@
     "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 37,
-    "pubdate": "2026-09-08-08-42-02 +0000",
-    "source": "wsj",
-    "headline": "Stock Market Today: Oil Nears $100, Stock Futures Sink",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026?mod=rss_markets_main"
+    "score": 36,
+    "pubdate": "2026-09-08-00-26-55 +0000",
+    "source": "nypost",
+    "headline": "House lawmaker sues to reverse Missouri Supreme Court’s ‘startling’ decision to block GOP-friendly congressional map",
+    "link": "https://nypost.com/2026/09/07/us-news/house-lawmaker-sues-to-reverse-missouri-supreme-court-decision-to-block-gop-friendly-congressional-map/"
+  },
+  {
+    "score": 35,
+    "pubdate": "2026-09-07-20-11-43 +0000",
+    "source": "cbc",
+    "headline": "Trump to Canadian plane maker Bombardier: You can't sell in U.S. unless you build in U.S.",
+    "link": "https://www.cbc.ca/news/canada/trump-bombardier-truth-social-post-9.7335014?cmp=rss"
   }
 ]
