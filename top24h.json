@@ -7,7 +7,7 @@
     "link": "https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html"
   },
   {
-    "score": 107,
+    "score": 106,
     "pubdate": "2026-09-08-15-50-06 +0000",
     "source": "nypost",
     "headline": "UK, France and Canada halt trade with Israeli settlements in West Bank to protest  ‘forcible displacement’ of Palestinians",
@@ -21,7 +21,7 @@
     "link": "https://nypost.com/2026/09/08/world-news/benjamin-netanyahu-disputes-new-he-was-warned-hamas-attacks/"
   },
   {
-    "score": 63,
+    "score": 62,
     "pubdate": "2026-09-08-18-11-52 +0000",
     "source": "nyt",
     "headline": "Eiffel Tower Workers Strike, Saying Women Were Excluded From Hindu Group’s Visit",
@@ -43,24 +43,17 @@
   },
   {
     "score": 56,
-    "pubdate": "2026-09-08-18-33-27 +0000",
-    "source": "nypost",
-    "headline": "Family of victims in 130mph LA crash storm out of court as gruesome photo shown at Nicole Linton trial",
-    "link": "https://nypost.com/2026/09/08/us-news/family-of-victims-in-130mph-la-crash-storm-out-of-court-at-nicole-linton-trial/"
-  },
-  {
-    "score": 56,
     "pubdate": "2026-09-08-16-00-00 +0000",
     "source": "wsj",
     "headline": "Smithsonian Secretary Lonnie Bunch III is retiring after more than a year of tension with President Trump over the way U.S. history is portrayed at the world’s largest museum and research complex.",
     "link": "https://www.wsj.com/arts-culture/fine-art/smithsonian-secretary-lonnie-bunch-steps-down-amid-strife-with-trump-04d1bb61?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 48,
-    "pubdate": "2026-09-08-13-58-32 +0000",
-    "source": "bbc",
-    "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-    "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss"
+    "score": 56,
+    "pubdate": "2026-09-08-18-33-27 +0000",
+    "source": "nypost",
+    "headline": "Family of victims in 130mph LA crash storm out of court as gruesome photo shown at Nicole Linton trial",
+    "link": "https://nypost.com/2026/09/08/us-news/family-of-victims-in-130mph-la-crash-storm-out-of-court-at-nicole-linton-trial/"
   },
   {
     "score": 48,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
     "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-09-08-13-58-32 +0000",
+    "source": "bbc",
+    "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+    "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss"
   }
 ]
