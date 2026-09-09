@@ -1,31 +1,31 @@
 [
   {
-    "score": 207,
+    "score": 206,
     "pubdate": "2026-09-08-21-56-00 +0000",
     "source": "wapo",
     "headline": "As Canada’s tariffs take effect, Trump’s trade war complicates GOP election pitch",
     "link": "https://www.washingtonpost.com/business/2026/09/08/trump-threatens-ban-bombardier-jet-sales-canadas-tariffs-take-effect/"
   },
   {
-    "score": 155,
-    "pubdate": "2026-09-08-21-49-00 +0000",
-    "source": "wsj",
-    "headline": "The U.S. hit three Iranian oil tankers in response to a spate of Iranian attacks, and Meta released an AI agent. Read more in today’s What’s News newsletter.",
-    "link": "https://www.wsj.com/politics/policy/u-s-launches-new-round-of-strikes-on-iranian-oil-tankers-19923cc9?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 144,
+    "score": 145,
     "pubdate": "2026-09-09-01-28-00 +0000",
     "source": "wsj",
     "headline": "Democratic Rep. Chris Pappas and Republican former Sen. John E. Sununu prevailed in Tuesday’s New Hampshire Senate primary, setting up a competitive fall campaign in the battleground state",
     "link": "https://www.wsj.com/politics/elections/new-hampshires-senate-primary-winners-now-face-tight-fall-matchup-bf79f52b?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 96,
-    "pubdate": "2026-09-09-01-45-15 +0000",
+    "score": 141,
+    "pubdate": "2026-09-08-21-49-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. hit three Iranian oil tankers in response to a spate of Iranian attacks, and Meta released an AI agent. Read more in today’s What’s News newsletter.",
+    "link": "https://www.wsj.com/politics/policy/u-s-launches-new-round-of-strikes-on-iranian-oil-tankers-19923cc9?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 94,
+    "pubdate": "2026-09-08-23-52-28 +0000",
     "source": "bbc",
-    "headline": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-    "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
+    "headline": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions",
+    "link": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 82,
@@ -35,18 +35,11 @@
     "link": "https://nypost.com/2026/09/08/us-news/federal-judge-rules-missouri-can-use-gop-friendly-map-in-midterms-for-now-after-supreme-court-declines-to-hear-case/"
   },
   {
-    "score": 78,
-    "pubdate": "2026-09-08-21-27-54 +0000",
-    "source": "nyt",
-    "headline": "Before Oct. 7 Attack, Netanyahu Was Warned, Report Says. He Denies It.",
-    "link": "https://www.nytimes.com/2026/09/08/world/middleeast/israel-netanyahu-2023-hamas-attack.html"
-  },
-  {
-    "score": 69,
-    "pubdate": "2026-09-09-05-55-01 +0000",
-    "source": "nypost",
-    "headline": "Data shows Amazon jet’s key braking systems did not deploy during deadly Miami crash: NTSB",
-    "link": "https://nypost.com/2026/09/09/us-news/data-shows-amazon-jets-key-braking-systems-did-not-deploy-during-deadly-miami-crash-ntsb/"
+    "score": 67,
+    "pubdate": "2026-09-08-11-27-19 +0000",
+    "source": "cbc",
+    "headline": "U.S. to block import of Canadian motorcycles, most alcohol in retaliation against counter-tariffs",
+    "link": "https://www.cbc.ca/news/livestory/canada-u-s-retaliatory-tariffs-dollar-for-dollar-9.7331632?cmp=rss"
   },
   {
     "score": 66,
@@ -56,17 +49,24 @@
     "link": "https://www.nytimes.com/2026/09/08/world/europe/paris-eiffel-tower-closed-strike-hindu-temple.html"
   },
   {
-    "score": 61,
-    "pubdate": "2026-09-08-11-27-19 +0000",
-    "source": "cbc",
-    "headline": "U.S. to block import of Canadian motorcycles, most alcohol in retaliation against counter-tariffs",
-    "link": "https://www.cbc.ca/news/livestory/canada-u-s-retaliatory-tariffs-dollar-for-dollar-9.7331632?cmp=rss"
+    "score": 66,
+    "pubdate": "2026-09-08-21-27-54 +0000",
+    "source": "nyt",
+    "headline": "Before Oct. 7 Attack, Netanyahu Was Warned, Report Says. He Denies It.",
+    "link": "https://www.nytimes.com/2026/09/08/world/middleeast/israel-netanyahu-2023-hamas-attack.html"
   },
   {
-    "score": 56,
-    "pubdate": "2026-09-09-00-32-56 +0000",
+    "score": 64,
+    "pubdate": "2026-09-09-05-55-01 +0000",
     "source": "nypost",
-    "headline": "‘South Park’ to rebrand as ‘South America’ ahead of Season 29 premiere in cheeky jab at President Trump",
-    "link": "https://nypost.com/2026/09/08/entertainment/south-park-to-rebrand-as-south-america-ahead-of-season-premiere-in-cheeky-jab-at-president-trump/"
+    "headline": "Data shows Amazon jet’s key braking systems did not deploy during deadly Miami crash: NTSB",
+    "link": "https://nypost.com/2026/09/09/us-news/data-shows-amazon-jets-key-braking-systems-did-not-deploy-during-deadly-miami-crash-ntsb/"
+  },
+  {
+    "score": 63,
+    "pubdate": "2026-09-09-07-48-00 +0000",
+    "source": "wsj",
+    "headline": "Brent Hits $100 as U.S.-Iran Escalation, Houthi Strikes Deepen Gulf Supply Fears",
+    "link": "https://www.wsj.com/world/middle-east/brent-nears-100-as-u-s-iran-escalation-houthi-strikes-deepen-gulf-supply-fears-768ab4db?mod=pls_whats_news_us_business_f"
   }
 ]
