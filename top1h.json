@@ -1,30 +1,72 @@
 [
   {
-    "score": 24,
-    "pubdate": "2026-09-09-12-56-00 +0000",
-    "source": "wsj",
-    "headline": "Huawei Technologies is finally going to trial after a nearly eight-year wait, weeks before President Trump’s meeting with Chinese leader Xi Jinping",
-    "link": "https://www.wsj.com/politics/national-security/huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-d5e21663?mod=rss_socialpoliticsfeed"
+    "score": 29,
+    "pubdate": "2026-09-09-14-52-10 +0000",
+    "source": "nyt",
+    "headline": "Trump’s Super PAC Starts to Unload Its War Chest, With New Group Booking $47 Million",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html"
   },
   {
-    "score": 22,
-    "pubdate": "2026-09-09-12-56-00 +0000",
+    "score": 27,
+    "pubdate": "2026-09-09-14-42-00 +0000",
     "source": "wsj",
-    "headline": "Democratic Rep. Chris Pappas and Republican former Sen. John E. Sununu prevailed in Tuesday’s New Hampshire Senate primary, setting up a competitive fall campaign in the battleground state",
-    "link": "https://www.wsj.com/politics/elections/new-hampshires-senate-primary-winners-now-face-tight-fall-matchup-bf79f52b?mod=rss_socialpoliticsfeed"
+    "headline": "Tax-break reversals on data centers underscore how states that once welcomed the facilities powering the AI boom suddenly treat them like a political liability",
+    "link": "https://www.wsj.com/politics/policy/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-4879c4f9?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 19,
-    "pubdate": "2026-09-09-12-55-00 +0000",
+    "score": 25,
+    "pubdate": "2026-09-09-14-45-00 +0000",
     "source": "wsj",
-    "headline": "A nonpartisan entity charged with reviewing misconduct allegations cleared Rep. Ilhan Omar of wrongdoing in connection with documents she submitted to Congress that dramatically overstated her wealth",
-    "link": "https://www.wsj.com/politics/ilhan-omar-cleared-of-wrongdoing-after-overstating-assets-by-millions-963eb6cf?mod=rss_socialpoliticsfeed"
+    "headline": "Facing a three-way arms race with Russia and China, the U.S. is turning to a nuclear-fusion startup to turbocharge its nuclear weapons",
+    "link": "https://www.wsj.com/politics/national-security/nuclear-fusion-weapons-testing-china-russia-0b5fcfa9?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 2,
-    "pubdate": "2026-09-09-12-56-00 +0000",
-    "source": "wsj",
-    "headline": "Huawei Faces U.S. Criminal Trial Weeks Before Trump-Xi Meeting",
-    "link": "https://www.wsj.com/politics/national-security/huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-d5e21663?mod=rss_worldnews"
+    "score": 18,
+    "pubdate": "2026-09-09-14-42-51 +0000",
+    "source": "nyt",
+    "headline": "Trump Doled Out $45,000 Cash Gifts to Natalie Harp and Other Aides Last Year",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-natalie-harp-cash-gift-martin-harris.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-09-09-14-33-13 +0000",
+    "source": "cbc",
+    "headline": "PWHL lands first season-long U.S. national broadcast deal with Scripps Sports for 4th season",
+    "link": "https://www.cbc.ca/sports/hockey/pwhl/scripps-sports-pwhl-season-long-american-broadcast-deal-9.7336951?cmp=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-09-14-21-21 +0000",
+    "source": "wapo",
+    "headline": "Holdout juror in Clancy case admitted ‘reasonable doubt,’ foreperson says",
+    "link": "https://www.washingtonpost.com/politics/2026/09/09/lindsay-clancy-case-holdout-juror-had-reasonable-doubt-foreperson-says/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-09-14-16-55 +0000",
+    "source": "nyt",
+    "headline": "Escalating Boat Strikes Campaign, U.S. Targets ‘Refueling’ Vessels",
+    "link": "https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-09-14-31-50 +0000",
+    "source": "wapo",
+    "headline": "AP says it will refer to Lake Ontario by its original name, despite Trump’s order",
+    "link": "https://www.washingtonpost.com/nation/2026/09/09/ap-says-it-will-refer-lake-ontario-by-its-original-name-despite-trumps-order/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-09-09-14-45-06 +0000",
+    "source": "nypost",
+    "headline": "Dramatic moment ICE agents snare college student in California before friend hides from them on campus",
+    "link": "https://nypost.com/2026/09/09/us-news/ice-agents-arrest-san-diego-city-college-student-chase-another-on-to-campus/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-09-09-14-01-24 +0000",
+    "source": "bbc",
+    "headline": "Sapporo to move some beer production from Canada to US after tariffs",
+    "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss"
   }
 ]
