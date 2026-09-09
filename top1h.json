@@ -1,72 +1,51 @@
 [
   {
-    "score": 34,
-    "pubdate": "2026-09-09-00-32-56 +0000",
-    "source": "nypost",
-    "headline": "‘South Park’ to rebrand as ‘South America’ ahead of Season 29 premiere in cheeky jab at President Trump",
-    "link": "https://nypost.com/2026/09/08/entertainment/south-park-to-rebrand-as-south-america-ahead-of-season-premiere-in-cheeky-jab-at-president-trump/"
-  },
-  {
-    "score": 28,
-    "pubdate": "2026-09-09-00-27-35 +0000",
-    "source": "nyt",
-    "headline": "Dueling Court Rulings Leave Missouri’s Congressional Races in Chaos",
-    "link": "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html"
-  },
-  {
-    "score": 27,
+    "score": 18,
     "pubdate": "2026-09-09-01-11-54 +0000",
     "source": "nyt",
     "headline": "Chris Pappas Defeats Progressive Challenger in New Hampshire Senate Primary",
     "link": "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-senate-pappas-manzur.html"
   },
   {
-    "score": 26,
-    "pubdate": "2026-09-09-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Tax-break reversals on data centers underscore how states that once welcomed the facilities powering the AI boom suddenly treat them like a political liability",
-    "link": "https://www.wsj.com/politics/policy/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-4879c4f9?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 25,
-    "pubdate": "2026-09-09-00-50-19 +0000",
-    "source": "nyt",
-    "headline": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
-    "link": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html"
-  },
-  {
-    "score": 22,
+    "score": 14,
     "pubdate": "2026-09-09-01-09-15 +0000",
     "source": "bbc",
     "headline": "US slaps import ban on Canadian alcohol and other goods",
     "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 19,
-    "pubdate": "2026-09-09-00-27-47 +0000",
+    "score": 11,
+    "pubdate": "2026-09-09-01-13-35 +0000",
+    "source": "chitri",
+    "headline": "As contract talks stall, CPS lunch workers unveil pledge for school board candidates",
+    "link": "https://www.chicagotribune.com/2026/09/08/cps-lunch-workers-pledge-school-board-candidates/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-09-09-01-03-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Strikes Iranian Oil Tankers in Response to Tehran’s Attacks on Navy Ships",
+    "link": "https://www.wsj.com/world/middle-east/iran-launched-undisclosed-second-wave-of-attacks-on-u-s-navy-ships-560f31a1?mod=rss_worldnews"
+  },
+  {
+    "score": 4,
+    "pubdate": "2026-09-09-01-12-10 +0000",
+    "source": "48hills",
+    "headline": "A (temporary) win for science and sanity",
+    "link": "https://48hills.org/2026/09/a-temporary-win-for-science-and-sanity/"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-09-09-01-11-54 +0000",
     "source": "nyt",
-    "headline": "Tung Chee-hwa, Who Led Hong Kong After Its Return to China, Dies at 89",
-    "link": "https://www.nytimes.com/2026/09/08/world/asia/tung-chee-hwa-dead.html"
+    "headline": "Chris Pappas Defeats Progressive Challenger in New Hampshire Senate Primary",
+    "link": "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-senate-pappas-manzur.html"
   },
   {
-    "score": 17,
-    "pubdate": "2026-09-09-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Last month, the U.S. added an impressive 162,000 jobs and unemployment is low, but broad economic measures might be missing how much Americans’ costs have risen—and how many of them haven’t kept up",
-    "link": "https://www.wsj.com/economy/consumers/six-charts-that-explain-how-americans-really-feel-about-the-economy-2243d7da?mod=rss_socialeconomyfeed"
-  },
-  {
-    "score": 16,
-    "pubdate": "2026-09-09-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Melting Glaciers and Monster Floods Threaten Nepal’s Big Bet on Hydropower",
-    "link": "https://www.wsj.com/world/asia/nepal-flood-hydropower-glacier-6df52308?mod=rss_worldnews"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-09-09-00-37-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump signed orders to ban the importation of many dairy products, alcoholic beverages and motorcycles from Canada in three weeks",
-    "link": "https://www.wsj.com/economy/trade/trump-says-he-will-block-canadian-firms-from-government-contracts-a4c3c21e?mod=rss_socialeconomyfeed"
+    "score": 0,
+    "pubdate": "2026-09-09-01-09-15 +0000",
+    "source": "bbc",
+    "headline": "US slaps import ban on Canadian alcohol and other goods",
+    "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss"
   }
 ]
