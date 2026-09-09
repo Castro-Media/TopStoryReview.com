@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 30,
+    "pubdate": "2026-09-09-04-01-06 +0000",
+    "source": "nyt",
+    "headline": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+    "link": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-09-04-48-32 +0000",
+    "source": "nyt",
+    "headline": "Amazon Cargo Jet Pilots Appeared to Try Aborting Landing, N.T.S.B. Investigation Indicates",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-09-04-24-30 +0000",
+    "source": "bbc",
+    "headline": "Hong Kong's first leader after British handover dies",
+    "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-09-09-04-11-23 +0000",
+    "source": "nypost",
+    "headline": "California serial ‘butt sniffer’ gets slap-on-the-wrist after latest spree went viral on TikTok",
+    "link": "https://nypost.com/2026/09/09/us-news/california-butt-sniffer-with-40-arrests-gets-just-170-days-in-jail-for-latest-parole-violation/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-09-09-04-41-55 +0000",
+    "source": "nyt",
+    "headline": "Stefany Shaheen, Daughter of Democratic Senator, Wins House Primary in New Hampshire",
+    "link": "https://www.nytimes.com/2026/09/09/us/new-hampshire-primary-shaheen-sullivan.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-09-09-04-01-24 +0000",
+    "source": "nyt",
+    "headline": "The Theme Park at the Heart of France’s Culture War",
+    "link": "https://www.nytimes.com/2026/09/09/world/europe/theme-park-france-right-culture-war.html"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-09-09-04-04-59 +0000",
+    "source": "nypost",
+    "headline": "Iran says it captured US submarine drone in Strait of Hormuz",
+    "link": "https://nypost.com/2026/09/09/world-news/us-submarine-drone-captured-in-strait-of-hormuz-iran-says/"
+  },
+  {
+    "score": 3,
+    "pubdate": "2026-09-09-04-16-47 +0000",
+    "source": "nyt",
+    "headline": "Impunity in the West Bank",
+    "link": "https://www.nytimes.com/2026/09/08/world/israel-west-bank-canada-us-trade.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-09-09-04-48-32 +0000",
+    "source": "nyt",
+    "headline": "Amazon Cargo Jet Pilots Appeared to Try Aborting Landing, N.T.S.B. Investigation Indicates",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html"
+  },
+  {
+    "score": 0,
+    "pubdate": "2026-09-09-04-24-30 +0000",
+    "source": "bbc",
+    "headline": "Hong Kong's first leader after British handover dies",
+    "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss"
+  }
+]
