@@ -1,20 +1,20 @@
 [
   {
-    "score": 350,
+    "score": 359,
     "pubdate": "2026-09-08-21-56-00 +0000",
     "source": "wapo",
     "headline": "As Canada’s tariffs take effect, Trump’s trade war complicates GOP election pitch",
     "link": "https://www.washingtonpost.com/business/2026/09/08/trump-threatens-ban-bombardier-jet-sales-canadas-tariffs-take-effect/"
   },
   {
-    "score": 235,
+    "score": 239,
     "pubdate": "2026-09-09-01-28-00 +0000",
     "source": "wsj",
     "headline": "Democratic Rep. Chris Pappas and Republican former Sen. John E. Sununu prevailed in Tuesday’s New Hampshire Senate primary, setting up a competitive fall campaign in the battleground state",
     "link": "https://www.wsj.com/politics/elections/new-hampshires-senate-primary-winners-now-face-tight-fall-matchup-bf79f52b?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 231,
+    "score": 234,
     "pubdate": "2026-09-08-21-49-00 +0000",
     "source": "wsj",
     "headline": "The U.S. hit three Iranian oil tankers in response to a spate of Iranian attacks, and Meta released an AI agent. Read more in today’s What’s News newsletter.",
@@ -28,7 +28,7 @@
     "link": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 145,
+    "score": 149,
     "pubdate": "2026-09-07-15-03-22 +0000",
     "source": "chitri",
     "headline": "AfD party’s landslide win in eastern Germany tests country’s ‘firewall’ against the far right",
@@ -42,18 +42,11 @@
     "link": "https://www.wsj.com/economy/jobs/american-workers-have-slammed-the-brakes-on-switching-jobs-767c45d1?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 138,
-    "pubdate": "2026-09-09-02-51-42 +0000",
-    "source": "nypost",
-    "headline": "Federal judge rules Missouri can use GOP-friendly map in midterms – for now – after Supreme Court declines to hear case",
-    "link": "https://nypost.com/2026/09/08/us-news/federal-judge-rules-missouri-can-use-gop-friendly-map-in-midterms-for-now-after-supreme-court-declines-to-hear-case/"
-  },
-  {
     "score": 128,
-    "pubdate": "2026-09-02-11-13-25 +0000",
-    "source": "chitri",
-    "headline": "Iran fires on its Gulf neighbors after US military strikes Iran after a monthlong lull",
-    "link": "https://www.chicagotribune.com/2026/09/02/iran-gulf-neighbors-us-military-strikes/"
+    "pubdate": "2026-09-09-10-42-00 +0000",
+    "source": "wsj",
+    "headline": "The two-day GOP midterm convention kicks off Wednesday, as Republicans try to create momentum heading into November. Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/politics/elections/everything-you-need-to-know-about-the-gop-convention-in-dallas-6d68a725?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 125,
@@ -63,10 +56,17 @@
     "link": "https://www.latimes.com/world-nation/story/2026-09-03/trump-tax-exempt-status-schools-race"
   },
   {
-    "score": 122,
-    "pubdate": "2026-09-09-05-55-01 +0000",
-    "source": "nypost",
-    "headline": "Data shows Amazon jet’s key braking systems did not deploy during deadly Miami crash: NTSB",
-    "link": "https://nypost.com/2026/09/09/us-news/data-shows-amazon-jets-key-braking-systems-did-not-deploy-during-deadly-miami-crash-ntsb/"
+    "score": 124,
+    "pubdate": "2026-09-08-20-25-32 +0000",
+    "source": "wapo",
+    "headline": "DHS asks Supreme Court to let it use Social Security data to verify voter rolls",
+    "link": "https://www.washingtonpost.com/politics/2026/09/08/dhs-asks-supreme-court-ok-use-social-security-data-verify-voting-eligibility/"
+  },
+  {
+    "score": 114,
+    "pubdate": "2026-09-09-03-02-52 +0000",
+    "source": "wapo",
+    "headline": "Amazon cargo plane appeared to consider aborting landing before Miami crash, investigators say",
+    "link": "https://www.washingtonpost.com/transportation/2026/09/08/amazon-cargo-plane-appeared-consider-aborting-landing-before-miami-crash-investigators-say/"
   }
 ]
