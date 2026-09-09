@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 29,
+    "pubdate": "2026-09-09-08-39-18 +0000",
+    "source": "nyt",
+    "headline": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+    "link": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-09-09-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Canada was prepared to send ships to Iraq in 2003 if UN approved action, records show",
+    "link": "https://www.cbc.ca/news/politics/canada-iraq-ships-2003-invasion-9.7329528?cmp=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-09-09-08-42-36 +0000",
+    "source": "bbc",
+    "headline": "Oil hits $100 a barrel for first time since July after US strikes",
+    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-09-09-08-04-14 +0000",
+    "source": "bbc",
+    "headline": "What are my rights if my flight is cancelled or delayed?",
+    "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-09-08-33-10 +0000",
+    "source": "wapo",
+    "headline": "Iran sends wave of missiles toward U.S. base in Jordan after vowing escalation",
+    "link": "https://www.washingtonpost.com/national-security/2026/09/08/us-launches-strikes-5-iranian-oil-tankers-after-latest-attacks-warships/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-09-09-08-04-13 +0000",
+    "source": "nypost",
+    "headline": "North Carolina cold case takes grim turn after remains identified as runaway 15-year-old girl missing since 1977",
+    "link": "https://nypost.com/2026/09/09/us-news/north-carolina-human-remains-identified-as-cindy-marcell-blizzard-15-missing-since-1977/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-09-09-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Vietnamese firm targets Canadians with fake AI news for profit, CBC/Rad-Can investigation reveals",
+    "link": "https://www.cbc.ca/news/canada/cbc-investigates-vietnamese-firm-targets-canadians-fake-ai-9.7318612?cmp=rss"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-09-09-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Recent art thefts appear to be inspired by 2025 Louvre heist, art crime experts say",
+    "link": "https://www.cbc.ca/news/entertainment/renoir-theft-louvre-copycats-9.7336447?cmp=rss"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-09-09-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "GlobalEye gamble: Ottawa chose surveillance plane without knowing it met military needs",
+    "link": "https://www.cbc.ca/news/politics/global-eye-saab-rcaf-surveillance-9.7336138?cmp=rss"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-09-09-08-44-00 +0000",
+    "source": "wsj",
+    "headline": "Nordic Energy Company Fortum Shares Jump on Google Nuclear Power Agreement",
+    "link": "https://www.wsj.com/business/energy-oil/nordic-energy-company-fortum-shares-jump-on-google-nuclear-power-agreement-cc3d2893?mod=pls_whats_news_us_business_f"
+  }
+]
