@@ -1,31 +1,31 @@
 [
   {
-    "score": 235,
+    "score": 247,
     "pubdate": "2026-09-10-16-04-45 +0000",
     "source": "nyt",
     "headline": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms",
     "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html"
   },
   {
-    "score": 139,
+    "score": 140,
     "pubdate": "2026-09-10-03-26-00 +0000",
     "source": "wsj",
     "headline": "Trump capped off Day One of the Republican Party’s midterm convention promising to pay adults $5,000 if the GOP keeps control of Congress, a last-ditch bid to prevent an electoral shellacking in November",
     "link": "https://www.wsj.com/politics/elections/five-takeaways-from-day-one-of-the-republican-convention-51ac05cf?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 123,
+    "score": 119,
     "pubdate": "2026-09-10-01-54-25 +0000",
     "source": "nyt",
     "headline": "“We gave you no tax on tips, no tax on overtime and no tax on Social Security for our great seniors.”",
     "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/we-gave-you-no-tax-on-tips-no-tax-on-overtime-and-no-tax-on-social-security-for-our-great-seniors"
   },
   {
-    "score": 100,
-    "pubdate": "2026-09-10-16-52-51 +0000",
-    "source": "wapo",
-    "headline": "New Mexico leaders ask Apple and Google not to use ‘New America’ on their maps",
-    "link": "https://www.washingtonpost.com/politics/2026/09/10/new-mexico-leaders-ask-apple-google-not-use-new-america-their-maps/"
+    "score": 98,
+    "pubdate": "2026-09-09-20-27-00 +0000",
+    "source": "wsj",
+    "headline": "Steve Witkoff, Trump’s Middle East envoy, reported earning more than $100 million from the entity that owns his stake in World Liberty Financial, according to a new financial disclosure",
+    "link": "https://www.wsj.com/politics/policy/steve-witkoff-earned-more-than-100-million-from-entity-tied-to-trump-crypto-9798b03d?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 96,
@@ -35,25 +35,32 @@
     "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/we-have-more-money-being-spent-from-outside-countries-and-companies-over-20-trillion-thats-five-six-seven-times-higher-than-any-"
   },
   {
-    "score": 85,
-    "pubdate": "2026-09-09-20-54-36 +0000",
-    "source": "latimes",
-    "headline": "California, other states warn Supreme Court of 'chaos' if it lets USPS mail ballot rules stand",
-    "link": "https://www.latimes.com/politics/story/2026-09-09/california-other-states-warn-supreme-court-of-chaos-if-it-lets-usps-mail-ballot-rules-stand"
-  },
-  {
-    "score": 84,
+    "score": 88,
     "pubdate": "2026-09-10-14-44-00 +0000",
     "source": "wsj",
     "headline": "Saudi Oil Output Slumps as Iran War, Houthi Threats Disrupt Vital Export Routes",
     "link": "https://www.wsj.com/business/energy-oil/opec-further-cuts-this-years-oil-demand-growth-forecast-79ed23ad?mod=pls_whats_news_us_business_f"
   },
   {
-    "score": 80,
+    "score": 82,
     "pubdate": "2026-09-10-16-31-30 +0000",
     "source": "bbc",
     "headline": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
     "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 79,
+    "pubdate": "2026-09-10-14-00-00 +0000",
+    "source": "wsj",
+    "headline": "Home sales in August fell to their lowest level in more than a year, after rising mortgage rates dealt another blow to a hobbled housing market",
+    "link": "https://www.wsj.com/economy/housing/home-sales-in-august-tumble-to-lowest-level-since-last-year-25851c6e?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 78,
+    "pubdate": "2026-09-09-20-37-38 +0000",
+    "source": "missionlocal",
+    "headline": "California’s first AI-safety law didn’t cover the first rogue AI hacks",
+    "link": "https://missionlocal.org/2026/09/california-ai-safety-law-sb-53-openai-hack-wiener-newsom/"
   },
   {
     "score": 70,
@@ -61,12 +68,5 @@
     "source": "bbc",
     "headline": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
     "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 69,
-    "pubdate": "2026-09-10-02-48-00 +0000",
-    "source": "wsj",
-    "headline": "The Trump administration is proposing eliminating questions about race and ethnicity in the 2030 census and restricting how immigrants would be counted when census results are used for allotting congressional seats",
-    "link": "https://www.wsj.com/us-news/trump-administration-proposes-eliminating-race-questions-from-census-9f7fc552?mod=rss_socialpoliticsfeed"
   }
 ]
