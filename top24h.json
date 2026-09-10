@@ -1,45 +1,52 @@
 [
   {
-    "score": 248,
+    "score": 256,
     "pubdate": "2026-09-10-05-35-19 +0000",
     "source": "nyt",
     "headline": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms",
     "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html"
   },
   {
-    "score": 137,
-    "pubdate": "2026-09-10-01-54-25 +0000",
-    "source": "nyt",
-    "headline": "“We gave you no tax on tips, no tax on overtime and no tax on Social Security for our great seniors.”",
-    "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/we-gave-you-no-tax-on-tips-no-tax-on-overtime-and-no-tax-on-social-security-for-our-great-seniors"
-  },
-  {
-    "score": 134,
+    "score": 140,
     "pubdate": "2026-09-10-03-26-00 +0000",
     "source": "wsj",
     "headline": "Trump capped off Day One of the Republican Party’s midterm convention promising to pay adults $5,000 if the GOP keeps control of Congress, a last-ditch bid to prevent an electoral shellacking in November",
     "link": "https://www.wsj.com/politics/elections/five-takeaways-from-day-one-of-the-republican-convention-51ac05cf?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 125,
+    "score": 139,
+    "pubdate": "2026-09-10-01-54-25 +0000",
+    "source": "nyt",
+    "headline": "“We gave you no tax on tips, no tax on overtime and no tax on Social Security for our great seniors.”",
+    "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/we-gave-you-no-tax-on-tips-no-tax-on-overtime-and-no-tax-on-social-security-for-our-great-seniors"
+  },
+  {
+    "score": 121,
     "pubdate": "2026-09-09-12-05-02 +0000",
     "source": "chitri",
     "headline": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
     "link": "https://www.chicagotribune.com/2026/09/09/oil-price-middle-east-attacks/"
   },
   {
-    "score": 95,
+    "score": 93,
     "pubdate": "2026-09-10-01-23-42 +0000",
     "source": "nyt",
     "headline": "“We have more money being spent from outside countries and companies — over $20 trillion. That’s five, six, seven times higher than any country. Not just here — any country ever. Now it’s over 20 for less than two years.”",
     "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/we-have-more-money-being-spent-from-outside-countries-and-companies-over-20-trillion-thats-five-six-seven-times-higher-than-any-"
   },
   {
-    "score": 89,
+    "score": 91,
     "pubdate": "2026-09-09-20-37-38 +0000",
     "source": "missionlocal",
     "headline": "California’s first AI safety law didn’t cover the first rogue AI hacks",
     "link": "https://missionlocal.org/2026/09/california-ai-safety-law-sb-53-openai-hack-wiener-newsom/"
+  },
+  {
+    "score": 82,
+    "pubdate": "2026-09-09-17-27-00 +0000",
+    "source": "wsj",
+    "headline": "Huawei Technologies is finally going to trial after a nearly eight-year wait, weeks before President Trump’s meeting with Chinese leader Xi Jinping",
+    "link": "https://www.wsj.com/politics/national-security/huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-d5e21663?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 78,
@@ -56,17 +63,10 @@
     "link": "https://www.wsj.com/politics/elections/new-hampshires-senate-primary-winners-now-face-tight-fall-matchup-bf79f52b?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 69,
-    "pubdate": "2026-09-09-17-27-00 +0000",
-    "source": "wsj",
-    "headline": "Huawei Technologies is finally going to trial after a nearly eight-year wait, weeks before President Trump’s meeting with Chinese leader Xi Jinping",
-    "link": "https://www.wsj.com/politics/national-security/huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-d5e21663?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 64,
-    "pubdate": "2026-09-10-06-30-19 +0000",
+    "score": 70,
+    "pubdate": "2026-09-10-11-49-25 +0000",
     "source": "bbc",
-    "headline": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss"
+    "headline": "At least 20 dead after fire on cargo ship in eastern China, state media report",
+    "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss"
   }
 ]
