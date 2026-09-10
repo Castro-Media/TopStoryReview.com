@@ -7,25 +7,18 @@
     "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html"
   },
   {
-    "score": 140,
+    "score": 139,
     "pubdate": "2026-09-10-03-26-00 +0000",
     "source": "wsj",
     "headline": "Trump capped off Day One of the Republican Party’s midterm convention promising to pay adults $5,000 if the GOP keeps control of Congress, a last-ditch bid to prevent an electoral shellacking in November",
     "link": "https://www.wsj.com/politics/elections/five-takeaways-from-day-one-of-the-republican-convention-51ac05cf?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 139,
+    "score": 136,
     "pubdate": "2026-09-10-01-54-25 +0000",
     "source": "nyt",
     "headline": "“We gave you no tax on tips, no tax on overtime and no tax on Social Security for our great seniors.”",
     "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/we-gave-you-no-tax-on-tips-no-tax-on-overtime-and-no-tax-on-social-security-for-our-great-seniors"
-  },
-  {
-    "score": 121,
-    "pubdate": "2026-09-09-12-05-02 +0000",
-    "source": "chitri",
-    "headline": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
-    "link": "https://www.chicagotribune.com/2026/09/09/oil-price-middle-east-attacks/"
   },
   {
     "score": 93,
@@ -35,11 +28,18 @@
     "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/we-have-more-money-being-spent-from-outside-countries-and-companies-over-20-trillion-thats-five-six-seven-times-higher-than-any-"
   },
   {
-    "score": 91,
+    "score": 90,
     "pubdate": "2026-09-09-20-37-38 +0000",
     "source": "missionlocal",
     "headline": "California’s first AI safety law didn’t cover the first rogue AI hacks",
     "link": "https://missionlocal.org/2026/09/california-ai-safety-law-sb-53-openai-hack-wiener-newsom/"
+  },
+  {
+    "score": 87,
+    "pubdate": "2026-09-09-20-27-00 +0000",
+    "source": "wsj",
+    "headline": "Steve Witkoff, Trump’s Middle East envoy, reported earning more than $100 million from the entity that owns his stake in World Liberty Financial, according to a new financial disclosure",
+    "link": "https://www.wsj.com/politics/policy/steve-witkoff-earned-more-than-100-million-from-entity-tied-to-trump-crypto-9798b03d?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 82,
@@ -49,24 +49,24 @@
     "link": "https://www.wsj.com/politics/national-security/huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting-d5e21663?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 78,
-    "pubdate": "2026-09-09-16-04-49 +0000",
-    "source": "cbc",
-    "headline": "'Unhinged' for Canada to call dispute with U.S. a trade war, says Trump's tariff chief",
-    "link": "https://www.cbc.ca/news/politics/trump-tariffs-canada-unhinged-us-trade-jamieson-greer-9.7337101?cmp=rss"
-  },
-  {
     "score": 73,
-    "pubdate": "2026-09-09-12-56-00 +0000",
-    "source": "wsj",
-    "headline": "Democratic Rep. Chris Pappas and Republican former Sen. John E. Sununu prevailed in Tuesday’s New Hampshire Senate primary, setting up a competitive fall campaign in the battleground state",
-    "link": "https://www.wsj.com/politics/elections/new-hampshires-senate-primary-winners-now-face-tight-fall-matchup-bf79f52b?mod=rss_socialpoliticsfeed"
+    "pubdate": "2026-09-10-05-09-24 +0000",
+    "source": "nyt",
+    "headline": "Republican Senate Candidates Avoid Tariffs and Iran War at Trump’s Convention",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html"
   },
   {
-    "score": 70,
-    "pubdate": "2026-09-10-11-49-25 +0000",
+    "score": 72,
+    "pubdate": "2026-09-09-20-20-01 +0000",
+    "source": "nypost",
+    "headline": "Trump claims oil, gas prices will fall ‘right after’ midterm elections",
+    "link": "https://nypost.com/2026/09/09/business/trump-claims-oil-gas-prices-will-fall-right-after-midterm-elections/"
+  },
+  {
+    "score": 67,
+    "pubdate": "2026-09-10-06-30-19 +0000",
     "source": "bbc",
-    "headline": "At least 20 dead after fire on cargo ship in eastern China, state media report",
-    "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss"
+    "headline": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+    "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss"
   }
 ]
