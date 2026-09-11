@@ -1,5 +1,173 @@
 [
   {
+    "headline": "Hawaii Governor Asks Trump for Help as State Copes With Hurricane’s Damage",
+    "link": "https://www.nytimes.com/2026/09/10/us/hurricane-lowell-hawaii-kauai-disaster.html",
+    "source": "nyt",
+    "pubdate": "2026-09-11-01-08-33 +0000"
+  },
+  {
+    "headline": "Fears of a Democratic Wave Push Texas to Center Stage at G.O.P. Convention",
+    "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/fears-of-a-democratic-wave-push-texas-to-center-stage-at-gop-convention",
+    "source": "nyt",
+    "pubdate": "2026-09-11-01-07-01 +0000"
+  },
+  {
+    "headline": "Fears of a Democratic Wave Push Texas to Center Stage at G.O.P. Convention",
+    "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/fears-of-a-democratic-wave-push-texas-to-center-stage-at-gop-convention",
+    "source": "nyt",
+    "pubdate": "2026-09-11-01-07-01 +0000"
+  },
+  {
+    "headline": "See photos from the Republican midterm convention",
+    "link": "https://www.washingtonpost.com/politics/interactive/2026/09/10/best-pictures-gop-midterm-convention-dallas/",
+    "source": "wapo",
+    "pubdate": "2026-09-11-01-06-44 +0000"
+  },
+  {
+    "headline": "Coach crash kills several people in Swiss Alps",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-11-01-01-18 +0000"
+  },
+  {
+    "headline": "After years of inaction, Congress is suddenly waking up to the AI doomsday threat. But there’s little indication it will produce the first federal AI laws overseeing models.",
+    "link": "https://www.wsj.com/politics/policy/congress-is-suddenly-waking-up-to-the-ai-doomsday-threat-b40ab25a?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-11-01-00-00 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-09-11-00-54-33 +0000"
+  },
+  {
+    "headline": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/heres-the-latest",
+    "source": "nyt",
+    "pubdate": "2026-09-11-00-54-33 +0000"
+  },
+  {
+    "headline": "What to Know About Missouri’s High-Stakes Election Map Battle",
+    "link": "https://www.nytimes.com/2026/09/10/us/missouri-redistricting.html",
+    "source": "nyt",
+    "pubdate": "2026-09-11-00-53-29 +0000"
+  },
+  {
+    "headline": "Oil Rises on Escalating Supply-Disruption Concerns",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-escalating-supply-disruption-concerns-998e07a1?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-11-00-44-00 +0000"
+  },
+  {
+    "headline": "Oklahoma firefighters finish mowing man’s lawn after he falls ill doing yard work: ‘We couldn’t leave it that way’",
+    "link": "https://nypost.com/2026/09/10/us-news/oklahoma-firefighters-finish-mowing-mans-lawn-after-he-falls-ill-doing-yard-work/",
+    "source": "nypost",
+    "pubdate": "2026-09-11-00-43-47 +0000"
+  },
+  {
+    "headline": "Kalshi Looks to Expand a Rapidly Growing Universe of Risky Trading",
+    "link": "https://www.wsj.com/finance/kalshi-looks-to-expand-a-rapidly-growing-universe-of-risky-trading-a7670fde?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-11-00-43-00 +0000"
+  },
+  {
+    "headline": "Asian Currencies Consolidate, But Haven Demand for Dollar May Weigh",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-haven-demand-for-dollar-may-weigh-a563ed11?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-11-00-42-00 +0000"
+  },
+  {
+    "headline": "Just 11% of women say their ‘ideal match’ can make less money than them: survey",
+    "link": "https://nypost.com/2026/09/10/us-news/just-11-of-women-say-their-ideal-match-can-make-less-money-than-them-survey/",
+    "source": "nypost",
+    "pubdate": "2026-09-11-00-40-38 +0000"
+  },
+  {
+    "headline": "RFK Jr. uses military aircraft as he campaigns for GOP in midterms",
+    "link": "https://www.washingtonpost.com/health/2026/09/10/rfk-jr-uses-military-aircraft-he-campaigns-gop-midterms/",
+    "source": "wapo",
+    "pubdate": "2026-09-11-00-39-29 +0000"
+  },
+  {
+    "headline": "Nikkei Falls 2.8%, Dragged by Chip Stocks",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-stocks-abb86523?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-11-00-39-00 +0000"
+  },
+  {
+    "headline": "Gavin Newsom signs major tech laws as AI doomsday looms — 2 years after he vetoed stricter rules",
+    "link": "https://nypost.com/2026/09/10/us-news/gavin-newsom-signs-tech-bills-warns-of-ai-threat-despite-vetoing-past-rules/",
+    "source": "nypost",
+    "pubdate": "2026-09-11-00-29-23 +0000"
+  },
+  {
+    "headline": "Gavin Newsom signs major tech laws as AI doomsday looms — 2 years after he vetoed stricter rules",
+    "link": "https://nypost.com/2026/09/10/us-news/gavin-newsom-signs-tech-bills-warns-of-ai-threat-despite-vetoing-past-rules/",
+    "source": "nypost",
+    "pubdate": "2026-09-11-00-29-23 +0000"
+  },
+  {
+    "headline": "Gavin Newsom calls Trump’s $5K voter payout ‘bulls—’ and a ‘desperate’ power grab",
+    "link": "https://nypost.com/2026/09/10/us-news/gavin-newsom-mocks-trumps-5k-voter-payout-as-a-power-grab/",
+    "source": "nypost",
+    "pubdate": "2026-09-11-00-28-50 +0000"
+  },
+  {
+    "headline": "Gavin Newsom calls Trump’s $5K voter payout ‘bulls—’ and a ‘desperate’ power grab",
+    "link": "https://nypost.com/2026/09/10/us-news/gavin-newsom-mocks-trumps-5k-voter-payout-as-a-power-grab/",
+    "source": "nypost",
+    "pubdate": "2026-09-11-00-28-50 +0000"
+  },
+  {
+    "headline": "Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case",
+    "link": "https://www.nytimes.com/2026/09/10/us/digenova-steps-down-grand-conspiracy-case.html",
+    "source": "nyt",
+    "pubdate": "2026-09-11-00-20-03 +0000"
+  },
+  {
+    "headline": "Inside luxe life of OC football fanatic mom accused of stealing $400K from team — as husband speaks out",
+    "link": "https://nypost.com/2026/09/10/us-news/inside-luxe-life-of-oc-football-mom-accused-of-stealing-400k-from-team/",
+    "source": "nypost",
+    "pubdate": "2026-09-11-00-19-17 +0000"
+  },
+  {
+    "headline": "Fox News Didn’t See a Ratings Bump During Trump’s Republican Convention Speech",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-ratings.html",
+    "source": "nyt",
+    "pubdate": "2026-09-11-00-11-12 +0000"
+  },
+  {
+    "headline": "Fox News Didn’t See a Ratings Bump During Trump’s Republican Convention Speech",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-ratings.html",
+    "source": "nyt",
+    "pubdate": "2026-09-11-00-11-12 +0000"
+  },
+  {
+    "headline": "Gary airport finalizing 2027 budget",
+    "link": "https://www.chicagotribune.com/2026/09/10/gary-airport-finalizing-2027-budget/",
+    "source": "chitri",
+    "pubdate": "2026-09-11-00-00-10 +0000"
+  },
+  {
+    "headline": "America’s Fast-Food Chains Are Making a Big Pivot—Back to Humans",
+    "link": "https://www.wsj.com/business/hospitality/americas-fast-food-chains-are-making-a-big-pivotback-to-humans-3b8bb5b8?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-11-00-00-00 +0000"
+  },
+  {
+    "headline": "Inside the Republican Midterm Convention, Where It Was ‘Trump-a-Palooza’",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-trump-dallas.html",
+    "source": "nyt",
+    "pubdate": "2026-09-10-23-56-25 +0000"
+  },
+  {
+    "headline": "Inside the Republican Midterm Convention, Where It Was ‘Trump-a-Palooza’",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-trump-dallas.html",
+    "source": "nyt",
+    "pubdate": "2026-09-10-23-56-25 +0000"
+  },
+  {
     "headline": "Slain Loyola student Sheridan Gorman’s mother gifts Congress bench dedicated to her daughter at GOP midterm convention",
     "link": "https://nypost.com/2026/09/10/us-news/slain-loyola-student-sheridan-gormans-mother-gifts-congress-bench-dedicated-to-her-daughter-at-gop-midterm-convention/",
     "source": "nypost",
@@ -16,6 +184,12 @@
     "link": "https://missionlocal.org/2026/09/maquilapolis-san-francisco-roxie-theater-film/",
     "source": "missionlocal",
     "pubdate": "2026-09-10-23-48-53 +0000"
+  },
+  {
+    "headline": "Man arrested near Kris Jenner's Calabasas home. Suspect has allegedly stalked her before",
+    "link": "https://www.latimes.com/entertainment-arts/story/2026-09-10/kris-jenner-suspected-stalker-arrested-calabasas-home",
+    "source": "latimes",
+    "pubdate": "2026-09-10-23-48-42 +0000"
   },
   {
     "headline": "Erika Kirk posts heartbreaking wedding photo to honor husband Charlie on anniversary of his murder",
@@ -42,10 +216,10 @@
     "pubdate": "2026-09-10-23-38-44 +0000"
   },
   {
-    "headline": "Dozens of Protesters Gather Outside the Republican Midterm Convention in Dallas",
-    "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/dallas-republican-convention-protests-arrests",
-    "source": "nyt",
-    "pubdate": "2026-09-10-23-34-52 +0000"
+    "headline": "Live: Scores and updates from Class 6A clashes and other games",
+    "link": "https://www.startribune.com/minnesota-high-school-football-week-2-thursday-scores-updates-highlights/601884932",
+    "source": "startribune",
+    "pubdate": "2026-09-10-23-37-14 +0000"
   },
   {
     "headline": "Dozens of Protesters Gather Outside the Republican Midterm Convention in Dallas",
@@ -54,7 +228,13 @@
     "pubdate": "2026-09-10-23-34-52 +0000"
   },
   {
-    "headline": "Vance appears more like Trump’s heir-apparent at GOP convention",
+    "headline": "Dozens of Protesters Gather Outside the Republican Midterm Convention in Dallas",
+    "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/dallas-republican-convention-protests-arrests",
+    "source": "nyt",
+    "pubdate": "2026-09-10-23-34-52 +0000"
+  },
+  {
+    "headline": "Vance appears more like Trump’s heir apparent at GOP convention",
     "link": "https://www.washingtonpost.com/politics/2026/09/10/vance-keynote-speech-gop-midterm-event-strengthens-image-heir/",
     "source": "wapo",
     "pubdate": "2026-09-10-23-28-13 +0000"
@@ -64,18 +244,6 @@
     "link": "https://www.nytimes.com/2026/09/10/business/media/mcclatchy-miami-herald-layoffs.html",
     "source": "nyt",
     "pubdate": "2026-09-10-23-27-39 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-09-10-23-25-22 +0000"
-  },
-  {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-09-10-23-25-22 +0000"
   },
   {
     "headline": "LA mayoral hopeful Nithya Raman votes against $13M for 107 LAPD vehicles ahead of Olympics",
@@ -112,12 +280,6 @@
     "link": "https://nypost.com/2026/09/10/us-news/joe-digenova-resigns-abruptly-from-doj-job-investigating-trump-foes-calling-out-ethical-problems-on-way-out/",
     "source": "nypost",
     "pubdate": "2026-09-10-23-09-47 +0000"
-  },
-  {
-    "headline": "Trump Loyalist Steps Down From ‘Grand Conspiracy’ Case",
-    "link": "https://www.nytimes.com/2026/09/10/us/digenova-steps-down-grand-conspiracy-case.html",
-    "source": "nyt",
-    "pubdate": "2026-09-10-23-09-46 +0000"
   },
   {
     "headline": "Justice Dept. Opens Inquiry Into Los Angeles Clippers’ Dealings With Kawhi Leonard",
@@ -184,12 +346,6 @@
     "link": "https://www.chicagotribune.com/2026/09/10/latin-american-terrorist-organizations/",
     "source": "chitri",
     "pubdate": "2026-09-10-22-50-37 +0000"
-  },
-  {
-    "headline": "See photos from the Republican midterm convention",
-    "link": "https://www.washingtonpost.com/politics/interactive/2026/09/10/best-pictures-gop-midterm-convention-dallas/",
-    "source": "wapo",
-    "pubdate": "2026-09-10-22-50-00 +0000"
   },
   {
     "headline": "Inside the French museum art heist | About That",
@@ -330,12 +486,6 @@
     "pubdate": "2026-09-10-22-13-20 +0000"
   },
   {
-    "headline": "Iran back producing ballistic missiles despite US claims after Operation Epic Fury: report",
-    "link": "https://nypost.com/2026/09/10/us-news/iran-back-in-business-of-producing-ballistic-missiles-report/",
-    "source": "nypost",
-    "pubdate": "2026-09-10-22-12-27 +0000"
-  },
-  {
     "headline": "Republican skepticism arises after Trump’s pledge of $5,000 payouts tied to GOP wins",
     "link": "https://www.washingtonpost.com/business/2026/09/10/many-republicans-skeptical-about-trump-plan-tie-5000-dividends-gop-wins/",
     "source": "wapo",
@@ -358,18 +508,6 @@
     "link": "https://nypost.com/2026/09/10/us-news/john-thune-brushes-off-boos-at-gop-convention-says-trump-isnt-frustrated-with-my-leadership/",
     "source": "nypost",
     "pubdate": "2026-09-10-22-03-45 +0000"
-  },
-  {
-    "headline": "John Thune brushes off boos at GOP convention, says Trump isn’t ‘frustrated with my leadership’",
-    "link": "https://nypost.com/2026/09/10/us-news/john-thune-brushes-off-boos-at-gop-convention-says-trump-isnt-frustrated-with-my-leadership/",
-    "source": "nypost",
-    "pubdate": "2026-09-10-22-03-45 +0000"
-  },
-  {
-    "headline": "Suicide rate soars for girls as young as 10 — and expert claims one major trend is to blame",
-    "link": "https://nypost.com/2026/09/10/us-news/suicide-rate-soars-for-girls-as-young-as-10-and-social-media-is-to-blame/",
-    "source": "nypost",
-    "pubdate": "2026-09-10-22-03-23 +0000"
   },
   {
     "headline": "The Relentless Crypto Billionaire Who Moved to Venezuela in Pursuit of Oil",
@@ -408,18 +546,6 @@
     "pubdate": "2026-09-10-21-55-24 +0000"
   },
   {
-    "headline": "North Carolina state trooper allegedly guns down fellow cop involved in heated love triangle",
-    "link": "https://nypost.com/2026/09/10/us-news/north-carolina-state-trooper-allegedly-guns-down-fellow-cop-involved-in-heated-love-triangle/",
-    "source": "nypost",
-    "pubdate": "2026-09-10-21-55-09 +0000"
-  },
-  {
-    "headline": "San Francisco declares ‘rent emergency’ as prices for dingy one-bedrooms top $5,000",
-    "link": "https://nypost.com/2026/09/10/real-estate/san-francisco-declares-rent-emergency-as-rents-soar-26/",
-    "source": "nypost",
-    "pubdate": "2026-09-10-21-53-16 +0000"
-  },
-  {
     "headline": "Opinion | Pause AI for Humanity’s Sake",
     "link": "https://www.wsj.com/opinion/pause-ai-for-humanitys-sake-8839ca5e?mod=rss_usnews",
     "source": "wsj",
@@ -454,18 +580,6 @@
     "link": "https://www.wsj.com/logistics-report/lineage-sues-solar-panel-operator-over-l-a-warehouse-fire-732d627a?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-10-21-42-00 +0000"
-  },
-  {
-    "headline": "Inside the Republican Midterm Convention, Where It Was ‘Trump-a-Palooza’",
-    "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-trump-dallas.html",
-    "source": "nyt",
-    "pubdate": "2026-09-10-21-41-06 +0000"
-  },
-  {
-    "headline": "Inside the Republican Midterm Convention, Where It Was ‘Trump-a-Palooza’",
-    "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-trump-dallas.html",
-    "source": "nyt",
-    "pubdate": "2026-09-10-21-41-06 +0000"
   },
   {
     "headline": "Trump team expands midterms spending to $57 million so far",
@@ -546,7 +660,7 @@
     "pubdate": "2026-09-10-21-33-13 +0000"
   },
   {
-    "headline": "Boyle Heights warehouse fire result of 'shoddy work' by solar panel company, lawsuit claims",
+    "headline": "Boyle Heights warehouse fire was result of 'shoddy work' by solar panel company, lawsuit claims",
     "link": "https://www.latimes.com/california/story/2026-09-10/boyle-heights-warehouse-lineage-fire-lawsuit",
     "source": "latimes",
     "pubdate": "2026-09-10-21-32-52 +0000"
@@ -741,25 +855,25 @@
     "headline": "Trump Administration Says U.S. Will Work With Peru on Crime Crackdown",
     "link": "https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-21-05-52 +0000"
+    "pubdate": "2026-09-10-21-05-53 +0000"
   },
   {
     "headline": "Trump Administration Says U.S. Will Work With Peru on Crime Crackdown",
     "link": "https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-21-05-52 +0000"
+    "pubdate": "2026-09-10-21-05-53 +0000"
   },
   {
     "headline": "Trump Administration Says U.S. Will Work With Peru on Crime Crackdown",
     "link": "https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-21-05-52 +0000"
+    "pubdate": "2026-09-10-21-05-53 +0000"
   },
   {
     "headline": "Trump Administration Says U.S. Will Work With Peru on Crime Crackdown",
     "link": "https://www.nytimes.com/2026/09/10/world/americas/rubio-trump-administration-peru-crime-crackdown.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-21-05-52 +0000"
+    "pubdate": "2026-09-10-21-05-53 +0000"
   },
   {
     "headline": "Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer",
@@ -900,6 +1014,12 @@
     "pubdate": "2026-09-10-20-46-36 +0000"
   },
   {
+    "headline": "Two arrested in sweeping human trafficking operation in Bloomington involving 18 victims",
+    "link": "https://www.startribune.com/two-arrested-in-sweeping-human-trafficking-operation-in-bloomington-involving-18-victims/601888092",
+    "source": "startribune",
+    "pubdate": "2026-09-10-20-46-10 +0000"
+  },
+  {
     "headline": "Bayeux Mania",
     "link": "https://www.nytimes.com/2026/09/10/world/bayeux-tapestry-london-exhibition-trump-money.html",
     "source": "nyt",
@@ -910,12 +1030,6 @@
     "link": "https://www.wsj.com/business/earnings/oracle-orcl-q1-earnings-report-stock-5158944b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-10-20-45-00 +0000"
-  },
-  {
-    "headline": "Coach crash kills several people in Swiss Alps",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-10-20-44-51 +0000"
   },
   {
     "headline": "Newsom signs strict social media protections for teens",
@@ -1197,13 +1311,13 @@
     "headline": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
     "link": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-19-31-30 +0000"
+    "pubdate": "2026-09-10-19-31-31 +0000"
   },
   {
     "headline": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
     "link": "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-19-31-30 +0000"
+    "pubdate": "2026-09-10-19-31-31 +0000"
   },
   {
     "headline": "Oil Futures Jump as Middle East Escalation Raises Supply Worries",
@@ -1257,13 +1371,13 @@
     "headline": "Carney, at a Cabinet Retreat, Considers Further Trade Strikes Against the U.S.",
     "link": "https://www.nytimes.com/2026/09/10/world/canada/carney-trump-canada-us-trade-war-tariffs.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-19-22-30 +0000"
+    "pubdate": "2026-09-10-19-22-31 +0000"
   },
   {
     "headline": "Carney, at a Cabinet Retreat, Considers Further Trade Strikes Against the U.S.",
     "link": "https://www.nytimes.com/2026/09/10/world/canada/carney-trump-canada-us-trade-war-tariffs.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-19-22-30 +0000"
+    "pubdate": "2026-09-10-19-22-31 +0000"
   },
   {
     "headline": "D.O.J. Escalates Threats to States in Battle for Election Records",
@@ -1419,13 +1533,13 @@
     "headline": "Gander Welcomed Americans in 2001. Now, U.S.-Canada Tensions Hit Home.",
     "link": "https://www.nytimes.com/2026/09/10/world/canada/9-11-gander-newfoundland-canada-us.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-18-39-47 +0000"
+    "pubdate": "2026-09-10-18-39-48 +0000"
   },
   {
     "headline": "Gander Welcomed Americans in 2001. Now, U.S.-Canada Tensions Hit Home.",
     "link": "https://www.nytimes.com/2026/09/10/world/canada/9-11-gander-newfoundland-canada-us.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-18-39-47 +0000"
+    "pubdate": "2026-09-10-18-39-48 +0000"
   },
   {
     "headline": "Steve Witkoff, Trump’s Special Envoy, Made More Than $250 Million While in Government",
@@ -1516,12 +1630,6 @@
     "link": "https://www.nytimes.com/2026/09/10/world/europe/britain-israel-jews-sanctions-settlers.html",
     "source": "nyt",
     "pubdate": "2026-09-10-18-22-23 +0000"
-  },
-  {
-    "headline": "Cheers & Jeers: P.J. Fleck’s game-day drama, clergy abuse settlement, Ilhan Omar’s finances",
-    "link": "https://www.startribune.com/mn-news-roundup-gopher-games-lynx-sports-tv/601886309",
-    "source": "startribune",
-    "pubdate": "2026-09-10-18-18-41 +0000"
   },
   {
     "headline": "Orange County nonprofit treasurer charged with stealing $400,000 to pay mortgage, credit card bills",
@@ -1780,12 +1888,6 @@
     "link": "https://nypost.com/2026/09/10/us-news/michigan-house-hopeful-william-lawrence-called-for-redistributing-all-the-land-and-all-the-money/",
     "source": "nypost",
     "pubdate": "2026-09-10-16-55-03 +0000"
-  },
-  {
-    "headline": "U.S. Crude Oil Stockpiles Fall, Production Hits Record",
-    "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-production-hits-record-86b655c4?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-10-16-54-00 +0000"
   },
   {
     "headline": "U.S. Crude Oil Stockpiles Fall, Production Hits Record",
@@ -2184,12 +2286,6 @@
     "pubdate": "2026-09-10-14-07-54 +0000"
   },
   {
-    "headline": "GOP convention takeaways: Trump’s $5,000 offer, a surprise Democrat and more",
-    "link": "https://www.startribune.com/gop-convention-takeaways-trumps-5000-offer-a-surprise-democrat-and-more/601887979",
-    "source": "startribune",
-    "pubdate": "2026-09-10-14-06-44 +0000"
-  },
-  {
     "headline": "Sinkhole swallows driveway of Malibu mansion reportedly owned by Nicolas Cage",
     "link": "https://www.cbc.ca/news/entertainment/nicolas-cage-sinkhole-9.7338523?cmp=rss",
     "source": "cbc",
@@ -2460,12 +2556,6 @@
     "pubdate": "2026-09-10-11-52-52 +0000"
   },
   {
-    "headline": "Republicans work to win over Hispanics at Dallas convention — as polls show ’24 gains faltering",
-    "link": "https://nypost.com/2026/09/10/us-news/republicans-work-to-win-over-hispanics-at-dallas-convention-as-polls-show-24-gains-faltering/",
-    "source": "nypost",
-    "pubdate": "2026-09-10-11-49-11 +0000"
-  },
-  {
     "headline": "Year after Charlie Kirk's death, conservative students struggle to fill void he left",
     "link": "https://www.bbc.co.uk/news/articles/c1e5j1pvv4yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2580,12 +2670,6 @@
     "pubdate": "2026-09-10-11-00-00 +0000"
   },
   {
-    "headline": "Tom Emmer lays out game plan for GOP to hold the House in November: ‘Very close’",
-    "link": "https://nypost.com/2026/09/10/us-news/tom-emmer-lays-out-game-plan-for-gop-to-hold-the-house-in-november-very-close/",
-    "source": "nypost",
-    "pubdate": "2026-09-10-11-00-00 +0000"
-  },
-  {
     "headline": "‘Cat in the Hat’ creep chased down teenage girl — as cops issue threat over ‘concerning prank’",
     "link": "https://nypost.com/2026/09/10/world-news/canadian-teen-girl-chased-by-figure-in-cat-in-the-hat-costume-police-warn-of-disturbing-trend/",
     "source": "nypost",
@@ -2634,12 +2718,6 @@
     "pubdate": "2026-09-10-10-21-00 +0000"
   },
   {
-    "headline": "Matt Wallner went from Twins cleanup hitter to Class AAA: ‘I don’t see any way I’m here next year’",
-    "link": "https://www.startribune.com/matt-wallner-minnesota-twins-roster-moves-offseason-2026-mlb-top-prospects-st-paul-saints/601886792",
-    "source": "startribune",
-    "pubdate": "2026-09-10-10-15-00 +0000"
-  },
-  {
     "headline": "Primark finally set to launch home deliveries",
     "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2685,6 +2763,12 @@
     "headline": "Becerra backers with business in Sacramento spend tens of millions boosting his gubernatorial bid",
     "link": "https://www.latimes.com/california/story/2026-09-10/special-interests-spend-millions-boosting-becerra-in-governors-race",
     "source": "latimes",
+    "pubdate": "2026-09-10-10-00-00 +0000"
+  },
+  {
+    "headline": "Latest shooting at a Twin Cities apartment building highlights risk property managers face",
+    "link": "https://www.startribune.com/apartment-rentals-worker-threats-shootings-loring-park-highland-park-safety/601887246",
+    "source": "startribune",
     "pubdate": "2026-09-10-10-00-00 +0000"
   },
   {
@@ -3237,13 +3321,13 @@
     "headline": "August Ties for Hottest Month on Record",
     "link": "https://www.nytimes.com/2026/09/09/climate/august-hottest-month-global-warming.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-02-00-12 +0000"
+    "pubdate": "2026-09-10-02-00-13 +0000"
   },
   {
     "headline": "August Ties for Hottest Month on Record",
     "link": "https://www.nytimes.com/2026/09/09/climate/august-hottest-month-global-warming.html",
     "source": "nyt",
-    "pubdate": "2026-09-10-02-00-12 +0000"
+    "pubdate": "2026-09-10-02-00-13 +0000"
   },
   {
     "headline": "“We gave you no tax on tips, no tax on overtime and no tax on Social Security for our great seniors.”",
@@ -3318,34 +3402,10 @@
     "pubdate": "2026-09-10-01-31-18 +0000"
   },
   {
-    "headline": "“I gave you the biggest tax decrease in the history of our country.”",
-    "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/i-gave-you-the-biggest-tax-decrease-in-the-history-of-our-country",
-    "source": "nyt",
-    "pubdate": "2026-09-10-01-31-18 +0000"
-  },
-  {
-    "headline": "AOC Hits the Campaign Trail for Senate Candidate Angie Nixon in Florida",
-    "link": "https://www.nytimes.com/2026/09/09/us/politics/angie-nixon-alexandria-ocasio-cortez-florida.html",
-    "source": "nyt",
-    "pubdate": "2026-09-10-01-29-37 +0000"
-  },
-  {
     "headline": "“We won the presidency three times.”",
     "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/we-won-the-presidency-three-times",
     "source": "nyt",
     "pubdate": "2026-09-10-01-24-48 +0000"
-  },
-  {
-    "headline": "“We won the presidency three times.”",
-    "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/we-won-the-presidency-three-times",
-    "source": "nyt",
-    "pubdate": "2026-09-10-01-24-48 +0000"
-  },
-  {
-    "headline": "“We have more money being spent from outside countries and companies — over $20 trillion. That’s five, six, seven times higher than any country. Not just here — any country ever. Now it’s over 20 for less than two years.”",
-    "link": "https://www.nytimes.com/live/2026/09/09/us/rnc-trump-midterm-convention-updates/we-have-more-money-being-spent-from-outside-countries-and-companies-over-20-trillion-thats-five-six-seven-times-higher-than-any-",
-    "source": "nyt",
-    "pubdate": "2026-09-10-01-23-43 +0000"
   },
   {
     "headline": "“We have more money being spent from outside countries and companies — over $20 trillion. That’s five, six, seven times higher than any country. Not just here — any country ever. Now it’s over 20 for less than two years.”",
@@ -3370,18 +3430,6 @@
     "link": "https://www.cbc.ca/news/business/anthropic-researcher-resigned-9.7337789?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-09-10-01-05-39 +0000"
-  },
-  {
-    "headline": "Fetterman’s Surprise GOP Convention Video Angers Democrats",
-    "link": "https://www.nytimes.com/2026/09/09/us/politics/democrats-fetterman-trump-convention.html",
-    "source": "nyt",
-    "pubdate": "2026-09-10-01-04-25 +0000"
-  },
-  {
-    "headline": "Fetterman’s Surprise GOP Convention Video Angers Democrats",
-    "link": "https://www.nytimes.com/2026/09/09/us/politics/democrats-fetterman-trump-convention.html",
-    "source": "nyt",
-    "pubdate": "2026-09-10-01-04-25 +0000"
   },
   {
     "headline": "The Crypto Scam Victims Fighting the U.S. to Get Their Money Back",
@@ -3870,12 +3918,6 @@
     "pubdate": "2026-09-09-21-10-13 +0000"
   },
   {
-    "headline": "U.S. Stocks Fall as War Escalation, Oil Spike Continue",
-    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-war-escalation-oil-spike-continues-8e83817c?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-09-21-10-00 +0000"
-  },
-  {
     "headline": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
     "link": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
     "source": "nyt",
@@ -3888,7 +3930,7 @@
     "pubdate": "2026-09-09-21-09-08 +0000"
   },
   {
-    "headline": "Two firefighters injured battling Beverly Hills apartment blaze amid sweltering temps",
+    "headline": "Firefighters save family heirlooms, including a Tony Award, from devastating Beverly Hills apartment fire",
     "link": "https://www.latimes.com/california/story/2026-09-09/two-firefighters-injured-in-beverly-hills-apartment-blaze",
     "source": "latimes",
     "pubdate": "2026-09-09-21-05-11 +0000"
@@ -4042,12 +4084,6 @@
     "link": "https://www.wsj.com/politics/policy/steve-witkoff-earned-more-than-100-million-from-entity-tied-to-trump-crypto-9798b03d?mod=rss_socialpoliticsfeed",
     "source": "wsj",
     "pubdate": "2026-09-09-20-27-00 +0000"
-  },
-  {
-    "headline": "Apple Introduces Foldable iPhone",
-    "link": "https://www.wsj.com/finance/stocks/apple-introduces-foldable-iphone-5fa68218?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-09-20-25-00 +0000"
   },
   {
     "headline": "Iran referred to UN Security Council for nuclear non-compliance",
@@ -4716,12 +4752,6 @@
     "pubdate": "2026-09-09-13-00-00 +0000"
   },
   {
-    "headline": "Democratic Rep. Chris Pappas and Republican former Sen. John E. Sununu prevailed in Tuesday’s New Hampshire Senate primary, setting up a competitive fall campaign in the battleground state",
-    "link": "https://www.wsj.com/politics/elections/new-hampshires-senate-primary-winners-now-face-tight-fall-matchup-bf79f52b?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-09-12-56-00 +0000"
-  },
-  {
     "headline": "Former MP Mike Morrice only Green Party of Canada leadership candidate after Nira Dookeran withdraws",
     "link": "https://www.cbc.ca/news/canada/kitchener-waterloo/green-party-leadership-race-mike-morrice-nira-dookeran-drops-out-9.7336842?cmp=rss",
     "source": "cbc",
@@ -4794,7 +4824,13 @@
     "pubdate": "2026-09-09-12-00-00 +0000"
   },
   {
-    "headline": "Commentary: \"Help Wanted/Leave Now!\" How U.S. immigration policy remains maddeningly consistently inconsistent",
+    "headline": "Commentary: 'Help Wanted/Leave Now!' How U.S. immigration policy remains maddeningly consistently inconsistent",
+    "link": "https://www.latimes.com/california/story/2026-09-09/how-u-s-immigration-policy-remains-consistently-inconsistent",
+    "source": "latimes",
+    "pubdate": "2026-09-09-12-00-00 +0000"
+  },
+  {
+    "headline": "Commentary: 'Help Wanted/Leave Now!' How U.S. immigration policy remains maddeningly consistently inconsistent",
     "link": "https://www.latimes.com/california/story/2026-09-09/how-u-s-immigration-policy-remains-consistently-inconsistent",
     "source": "latimes",
     "pubdate": "2026-09-09-12-00-00 +0000"
@@ -5008,12 +5044,6 @@
     "link": "https://www.latimes.com/california/story/2026-09-09/hilton-proposes-eliminating-dmv-slashing-vehicle-registration-fee-if-elected-governor",
     "source": "latimes",
     "pubdate": "2026-09-09-10-00-00 +0000"
-  },
-  {
-    "headline": "What Qualtrics’ CEO Says Software Companies Must Possess",
-    "link": "https://www.wsj.com/articles/what-qualtrics-ceo-says-software-companies-must-possess-2ab3fe27?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-09-09-54-00 +0000"
   },
   {
     "headline": "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage",
@@ -5442,18 +5472,6 @@
     "pubdate": "2026-09-09-00-53-50 +0000"
   },
   {
-    "headline": "Conflicting court rulings leave Missouri congressional map in chaos",
-    "link": "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-blocks-missouri-congressional-map-favoring-gop/",
-    "source": "wapo",
-    "pubdate": "2026-09-09-00-53-41 +0000"
-  },
-  {
-    "headline": "Conflicting court rulings leave Missouri congressional map in chaos",
-    "link": "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-blocks-missouri-congressional-map-favoring-gop/",
-    "source": "wapo",
-    "pubdate": "2026-09-09-00-53-41 +0000"
-  },
-  {
     "headline": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship",
     "link": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html",
     "source": "nyt",
@@ -5464,12 +5482,6 @@
     "link": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html",
     "source": "nyt",
     "pubdate": "2026-09-09-00-50-19 +0000"
-  },
-  {
-    "headline": "Rubio enjoyed major support among Venezuelans. Then came Trump’s oil deal.",
-    "link": "https://www.washingtonpost.com/national-security/2026/09/08/rubios-tour-will-herald-latin-americas-right-venezuela-remains-problem/",
-    "source": "wapo",
-    "pubdate": "2026-09-09-00-27-00 +0000"
   },
   {
     "headline": "Gov. Pritzker launches congressional PAC and rallies Democrats in Texas as GOP holds Dallas convention",
@@ -5674,12 +5686,6 @@
     "link": "https://www.chicagotribune.com/2026/09/08/white-sox-stadium-justin-ishbia/",
     "source": "chitri",
     "pubdate": "2026-09-08-21-29-57 +0000"
-  },
-  {
-    "headline": "WSJ Dollar Index Falls 0.08% to 94.91",
-    "link": "https://www.wsj.com/finance/currencies/yen-strengthens-further-sentiment-toward-currency-has-materially-shifted-72af55be?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-08-21-29-00 +0000"
   },
   {
     "headline": "Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary",
@@ -6318,14 +6324,14 @@
     "pubdate": "2026-09-08-10-00-00 +0000"
   },
   {
-    "headline": "A $4.76-billion summer put movie theaters back on track. Now comes the hard part",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-08/strong-summer-may-be-good-sign-for-theaters-this-year",
+    "headline": "L.A. fast-food workers could get more predictable schedules, labor rights training",
+    "link": "https://www.latimes.com/california/story/2026-09-08/la-me-city-council-fast-food-protections",
     "source": "latimes",
     "pubdate": "2026-09-08-10-00-00 +0000"
   },
   {
-    "headline": "L.A. fast-food workers could get more predictable schedules, labor rights training",
-    "link": "https://www.latimes.com/california/story/2026-09-08/la-me-city-council-fast-food-protections",
+    "headline": "A $4.76-billion summer put movie theaters back on track. Now comes the hard part",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-08/strong-summer-may-be-good-sign-for-theaters-this-year",
     "source": "latimes",
     "pubdate": "2026-09-08-10-00-00 +0000"
   },
@@ -7866,12 +7872,6 @@
     "pubdate": "2026-09-04-10-09-12 +0000"
   },
   {
-    "headline": "How a cute L.A. Hello Kitty shop became a target for TikTok trolls",
-    "link": "https://www.latimes.com/business/story/2026-09-04/japanla-kawaii-toy-shop-tiktok-trolls",
-    "source": "latimes",
-    "pubdate": "2026-09-04-10-00-00 +0000"
-  },
-  {
     "headline": "Trump is trying to terminate EVs in California. Is that even possible?",
     "link": "https://www.latimes.com/environment/story/2026-09-04/why-trumps-rollbacks-havent-stopped-californias-electric-vehicle-transition",
     "source": "latimes",
@@ -7880,6 +7880,12 @@
   {
     "headline": "George Joseph, pioneering Mercury General founder, dies at 104",
     "link": "https://www.latimes.com/business/story/2026-09-04/george-joseph-pioneering-mercury-general-founder-dies-at-104",
+    "source": "latimes",
+    "pubdate": "2026-09-04-10-00-00 +0000"
+  },
+  {
+    "headline": "How a cute L.A. Hello Kitty shop became a target for TikTok trolls",
+    "link": "https://www.latimes.com/business/story/2026-09-04/japanla-kawaii-toy-shop-tiktok-trolls",
     "source": "latimes",
     "pubdate": "2026-09-04-10-00-00 +0000"
   },
@@ -7984,17 +7990,5 @@
     "link": "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html",
     "source": "nyt",
     "pubdate": "2026-09-04-01-42-02 +0000"
-  },
-  {
-    "headline": "Kenya's chai lovers are not happy as the nation's cows run dry",
-    "link": "https://www.bbc.co.uk/news/articles/cgqd9ldegjqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-04-00-28-56 +0000"
-  },
-  {
-    "headline": "Pretorius century gives SA narrow win over Namibia - T20 tri-series scorecard",
-    "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-243993?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-04-00-00-00 +0000"
   }
 ]
