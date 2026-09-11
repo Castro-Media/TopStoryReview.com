@@ -1,9 +1,72 @@
 [
   {
-    "score": 1,
-    "pubdate": "2026-09-11-12-56-39 +0000",
+    "score": 33,
+    "pubdate": "2026-09-11-14-36-06 +0000",
     "source": "nyt",
-    "headline": "Here’s what to know.",
-    "link": "https://www.nytimes.com/live/2026/09/11/business/inflation-cpi-report/inflation-cpi-august"
+    "headline": "UK Sanctions Against Israeli Settlers Divide British Rabbis",
+    "link": "https://www.nytimes.com/2026/09/10/world/europe/britain-israel-jews-sanctions-settlers.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-09-11-14-52-00 +0000",
+    "source": "wsj",
+    "headline": "The annual inflation rate stalled out last month, with Americans still paying high prices for gasoline. This could put more pressure on a Fed that has been divided over whether it should raise rates.",
+    "link": "https://www.wsj.com/economy/cpi-inflation-report-august-2026-e2b1e5e7?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 25,
+    "pubdate": "2026-09-11-14-28-15 +0000",
+    "source": "nyt",
+    "headline": "Houthis Seize a Key Red Sea Island, Threatening Yet Another Global Oil Route",
+    "link": "https://www.nytimes.com/2026/09/11/world/middleeast/yemen-houthis-bab-al-mandab.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-09-11-14-20-30 +0000",
+    "source": "nyt",
+    "headline": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
+    "link": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-09-11-14-39-39 +0000",
+    "source": "nyt",
+    "headline": "Inside the Republican Midterm Convention, Where It Was ‘Trump-a-Palooza’",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-trump-dallas.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-11-14-46-28 +0000",
+    "source": "nyt",
+    "headline": "U.S. allies in Europe recall trans-Atlantic bonds after the 9/11 attacks.",
+    "link": "https://www.nytimes.com/live/2026/09/11/nyregion/9-11-anniversary-25th/europe-us-allies-sept-11"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-11-14-22-42 +0000",
+    "source": "bbc",
+    "headline": "US inflation holds steady as diesel prices pass $6 a gallon",
+    "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-11-14-47-10 +0000",
+    "source": "nypost",
+    "headline": "Rudy Giuliani shakes Mayor Zohran Mamdani’s hand at Ground Zero after calling on hizzoner to skip 9/11 memorial service",
+    "link": "https://nypost.com/2026/09/11/us-news/rudy-giuliani-shakes-mayor-zohran-mamdanis-hand-at-ground-zero-after-calling-on-hizzoner-to-skip-9-11-memorial-service/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-11-14-20-47 +0000",
+    "source": "nypost",
+    "headline": "Squatters accused of terrorizing ultra-exclusive SF neighborhood, ‘stealing’ $4M mansion — as wild criminal history revealed",
+    "link": "https://nypost.com/2026/09/11/real-estate/squatters-take-over-4m-san-francisco-mansion-lawsuit/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-09-11-14-49-24 +0000",
+    "source": "nypost",
+    "headline": "Condoleezza Rice apologizes to families for failing to prevent 9/11",
+    "link": "https://nypost.com/2026/09/11/us-news/condoleezza-rice-apologizes-to-families-for-failing-to-prevent-9-11/"
   }
 ]
