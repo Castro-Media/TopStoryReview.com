@@ -1,13 +1,13 @@
 [
   {
-    "score": 273,
+    "score": 268,
     "pubdate": "2026-09-11-02-09-57 +0000",
     "source": "nyt",
     "headline": "“Under Donald Trump’s leadership, we’ve created one million new jobs. And unlike the last administration, where most of the job growth went to illegal aliens, 100 percent of the job growth in the United States of America is going to American citizens, which is exactly where it belongs.”",
     "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/under-donald-trumps-leadership-weve-created-one-million-new-jobs-and-unlike-the-last-administration-where-most-of-the-job-growth"
   },
   {
-    "score": 156,
+    "score": 154,
     "pubdate": "2026-09-11-03-21-00 +0000",
     "source": "wsj",
     "headline": "JD Vance delivered a future-looking speech on the second night of the GOP midterm convention that showcased his vision of America and will intensify speculation about his presidential aspirations",
@@ -21,7 +21,7 @@
     "link": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/when-medicaid-programs-for-homeless-or-expecting-mothers-in-states-like-minnesota-and-wisconsin-they-began-to-fall-apart-because"
   },
   {
-    "score": 110,
+    "score": 108,
     "pubdate": "2026-09-11-02-08-00 +0000",
     "source": "wsj",
     "headline": "After years of inaction, Congress is suddenly waking up to the AI doomsday threat. But there’s little indication it will produce the first federal AI laws overseeing models.",
@@ -36,37 +36,37 @@
   },
   {
     "score": 67,
-    "pubdate": "2026-09-10-17-57-02 +0000",
-    "source": "nyt",
-    "headline": "Supreme Court Again Blocks Republican-Backed Missouri Voting Map",
-    "link": "https://www.nytimes.com/2026/09/10/us/politics/supreme-court-missouri-congress.html"
-  },
-  {
-    "score": 67,
     "pubdate": "2026-09-10-14-00-00 +0000",
     "source": "wsj",
     "headline": "Home sales in August fell to their lowest level in more than a year, after rising mortgage rates dealt another blow to a hobbled housing market",
     "link": "https://www.wsj.com/economy/housing/home-sales-in-august-tumble-to-lowest-level-since-last-year-25851c6e?mod=rss_socialeconomyfeed"
   },
   {
+    "score": 66,
+    "pubdate": "2026-09-10-17-57-02 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Again Blocks Republican-Backed Missouri Voting Map",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/supreme-court-missouri-congress.html"
+  },
+  {
     "score": 64,
+    "pubdate": "2026-09-10-21-12-01 +0000",
+    "source": "wapo",
+    "headline": "Houthi rebels take key Red Sea city in Yemen, as Iran’s wartime leverage grows",
+    "link": "https://www.washingtonpost.com/world/2026/09/10/iranian-backed-houthis-fight-block-red-sea-passage-saudi-oil/"
+  },
+  {
+    "score": 62,
     "pubdate": "2026-09-10-16-56-34 +0000",
     "source": "latimes",
     "headline": "Jimmy Kimmel interview with Senate candidate James Talarico won't air on ABC",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-10/jimmy-kimmel-interview-with-senate-candidate-talarico-wont-air-on-abc"
   },
   {
-    "score": 64,
-    "pubdate": "2026-09-11-12-30-00 +0000",
-    "source": "wapo",
-    "headline": "Diesel price hits $6 record high amid war with Iran",
-    "link": "https://www.washingtonpost.com/business/2026/09/11/diesel-price-hits-6-record-high-amid-war-with-iran/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-09-10-22-00-00 +0000",
+    "score": 55,
+    "pubdate": "2026-09-11-12-22-00 +0000",
     "source": "wsj",
-    "headline": "Cryptocurrency billionaire Fred Ehrsam has emerged as a surprise contender in President Trump’s push to revitalize Venezuela’s run-down oil industry",
-    "link": "https://www.wsj.com/business/energy-oil/the-relentless-crypto-billionaire-who-moved-to-venezuela-in-pursuit-of-oil-a4f0f219?mod=rss_socialpoliticsfeed"
+    "headline": "Oil Prices Slip After Recent Surge Amid Supply Risks",
+    "link": "https://www.wsj.com/world/middle-east/oil-prices-slip-after-recent-surge-amid-supply-risks-e1819c15?mod=pls_whats_news_us_business_f"
   }
 ]
