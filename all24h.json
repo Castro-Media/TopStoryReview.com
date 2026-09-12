@@ -1,9 +1,129 @@
 [
   {
-    "headline": "Zelensky ready to meet Putin face-to-face at G20 in Miami",
+    "headline": "Death Toll From Ferry Fire in the Philippines Rises to 76",
+    "link": "https://www.nytimes.com/2026/09/12/world/asia/philippines-ferry-fire-death-toll.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-52-24 +0000"
+  },
+  {
+    "headline": "Death Toll From Ferry Fire in the Philippines Rises to 76",
+    "link": "https://www.nytimes.com/2026/09/12/world/asia/philippines-ferry-fire-death-toll.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-52-24 +0000"
+  },
+  {
+    "headline": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-50-02 +0000"
+  },
+  {
+    "headline": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-50-02 +0000"
+  },
+  {
+    "headline": "Attack that closed key Saudi pipeline blamed on Iran-backed militias in Iraq",
+    "link": "https://nypost.com/2026/09/12/world-news/attack-that-closed-key-saudi-pipeline-is-blamed-on-iran-backed-militias-in-iraq/",
+    "source": "nypost",
+    "pubdate": "2026-09-12-18-42-25 +0000"
+  },
+  {
+    "headline": "Anthropic CEO calls for AI slowdown",
+    "link": "https://www.chicagotribune.com/2026/09/12/anthropic-ceo-calls-for-ai-slowdown/",
+    "source": "chitri",
+    "pubdate": "2026-09-12-18-35-54 +0000"
+  },
+  {
+    "headline": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
+    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-33-27 +0000"
+  },
+  {
+    "headline": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
+    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-33-27 +0000"
+  },
+  {
+    "headline": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+    "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-12-18-31-23 +0000"
+  },
+  {
+    "headline": "A Mastodon Tooth Is Discovered in a California Creek",
+    "link": "https://www.nytimes.com/2026/09/12/us/ice-age-mastodon-tooth-bay-area.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-27-55 +0000"
+  },
+  {
+    "headline": "Republican Campaign Aide Is Fired Over Nazi Photo",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-21-01 +0000"
+  },
+  {
+    "headline": "Republican Campaign Aide Is Fired Over Nazi Photo",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-21-01 +0000"
+  },
+  {
+    "headline": "Chilling bodycam footage shows knife-wielding madman charge at police in Santa Monica",
+    "link": "https://nypost.com/2026/09/12/us-news/bodycam-footage-shows-knife-wielding-man-charge-at-police-in-santa-monica/",
+    "source": "nypost",
+    "pubdate": "2026-09-12-18-18-45 +0000"
+  },
+  {
+    "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-07-10 +0000"
+  },
+  {
+    "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-07-10 +0000"
+  },
+  {
+    "headline": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-02-40 +0000"
+  },
+  {
+    "headline": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-02-40 +0000"
+  },
+  {
+    "headline": "Urgent warning issued as massive wildfire spreads in Northern California",
+    "link": "https://nypost.com/2026/09/12/us-news/lucas-fire-weather-warning-issued-after-evacuations-in-mendocino-lake-counties/",
+    "source": "nypost",
+    "pubdate": "2026-09-12-18-00-21 +0000"
+  },
+  {
+    "headline": "How The Times Covers ‘60 Minutes’ and Other Journalists",
+    "link": "https://www.nytimes.com/2026/09/12/insider/60-minutes-former-nyt-colleagues-media.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-00-15 +0000"
+  },
+  {
+    "headline": "Zelensky ready to meet Putin face-to-face at G20 summit in Miami: ‘Good position for negotiations’",
     "link": "https://nypost.com/2026/09/12/world-news/zelensky-ready-to-meet-putin-face-to-face-at-g20-summit-in-miami/",
     "source": "nypost",
     "pubdate": "2026-09-12-17-47-28 +0000"
+  },
+  {
+    "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-12-17-42-38 +0000"
   },
   {
     "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -66,6 +186,12 @@
     "pubdate": "2026-09-12-17-33-55 +0000"
   },
   {
+    "headline": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+    "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-12-17-28-53 +0000"
+  },
+  {
     "headline": "Motorcyclist performs dangerous tricks on busy Idaho highway — gets instant karma",
     "link": "https://nypost.com/2026/09/12/us-news/idaho-motorcyclist-crashes-while-doing-wheelie-on-i-84-in-boise/",
     "source": "nypost",
@@ -76,42 +202,6 @@
     "link": "https://www.startribune.com/eight-decades-ago-a-soldier-didnt-get-his-medals-his-family-finally-received-them-friday/601887751",
     "source": "startribune",
     "pubdate": "2026-09-12-17-27-26 +0000"
-  },
-  {
-    "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
-    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-26-53 +0000"
-  },
-  {
-    "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
-    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-26-53 +0000"
-  },
-  {
-    "headline": "Ohio Republican in Key Senate Race Fires Campaign Aide, Citing Social Media Photo of Nazis",
-    "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-23-41 +0000"
-  },
-  {
-    "headline": "Ohio Republican in Key Senate Race Fires Campaign Aide, Citing Social Media Photo of Nazis",
-    "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-23-41 +0000"
-  },
-  {
-    "headline": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-21-51 +0000"
-  },
-  {
-    "headline": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-21-51 +0000"
   },
   {
     "headline": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
@@ -204,18 +294,6 @@
     "pubdate": "2026-09-12-16-55-31 +0000"
   },
   {
-    "headline": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-16-43-28 +0000"
-  },
-  {
-    "headline": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-16-43-28 +0000"
-  },
-  {
     "headline": "Houthi advance in Yemen puts US in a new bind as Iran war enters seventh month",
     "link": "https://nypost.com/2026/09/12/world-news/houthi-advance-in-yemen-puts-us-in-a-new-bind/",
     "source": "nypost",
@@ -274,18 +352,6 @@
     "link": "https://nypost.com/2026/09/12/us-news/nyc-artist-goes-fully-naked-for-soho-stunt-that-left-new-yorkers-irate/",
     "source": "nypost",
     "pubdate": "2026-09-12-16-10-27 +0000"
-  },
-  {
-    "headline": "Death Toll From Ferry Fire in the Philippines Rises to 76",
-    "link": "https://www.nytimes.com/2026/09/12/world/asia/death-toll-from-ferry-fire-in-the-philippines-rises-to-76.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-16-08-24 +0000"
-  },
-  {
-    "headline": "Death Toll From Ferry Fire in the Philippines Rises to 76",
-    "link": "https://www.nytimes.com/2026/09/12/world/asia/death-toll-from-ferry-fire-in-the-philippines-rises-to-76.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-16-08-24 +0000"
   },
   {
     "headline": "Arizona correction officer moonlighting as cartel member busted in ammunition smuggling attempt in Mexico",
@@ -369,13 +435,13 @@
     "headline": "How Trump Is Wielding Power to Stifle Speech",
     "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
     "source": "nyt",
-    "pubdate": "2026-09-12-15-29-44 +0000"
+    "pubdate": "2026-09-12-15-29-45 +0000"
   },
   {
     "headline": "How Trump Is Wielding Power to Stifle Speech",
     "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
     "source": "nyt",
-    "pubdate": "2026-09-12-15-29-44 +0000"
+    "pubdate": "2026-09-12-15-29-45 +0000"
   },
   {
     "headline": "Blank wall in NYPD’s Hall of Heroes a grim sign more 9/11 deaths are coming",
@@ -498,24 +564,12 @@
     "pubdate": "2026-09-12-14-26-02 +0000"
   },
   {
-    "headline": "Wealthy California HOA gives ridiculous excuse for spraying pesticides as rare cancer cluster killing kids tears through community",
-    "link": "https://nypost.com/2026/09/12/us-news/ladera-ranch-residents-demand-pesticide-ban-amid-rare-cancer-fears/",
-    "source": "nypost",
-    "pubdate": "2026-09-12-14-24-56 +0000"
-  },
-  {
     "headline": "What a Hunchbacked Raccoon Teaches Us About Kindness in a Fractured World",
     "link": "https://www.nytimes.com/2026/09/12/us/jimothy-search.html",
     "source": "nyt",
     "pubdate": "2026-09-12-14-17-39 +0000"
   },
   {
-    "headline": "America’s oldest cheese shop, Alleva, reopens in Chelsea Market after 130 years in Little Italy",
-    "link": "https://nypost.com/2026/09/12/us-news/americas-oldest-cheese-shop-little-italys-alleva-reopens-in-chelsea-market/",
-    "source": "nypost",
-    "pubdate": "2026-09-12-14-10-37 +0000"
-  },
-  {
     "headline": "A united Ireland would be 'fantastic' says Trump during Irish visit",
     "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -546,13 +600,13 @@
     "pubdate": "2026-09-12-13-53-18 +0000"
   },
   {
-    "headline": "Trump, in Dublin, says he ‘would love to see’ Ireland reunified",
+    "headline": "Trump endorses Irish reunification, breaking with decades of U.S. policy",
     "link": "https://www.washingtonpost.com/world/2026/09/12/trump-dublin-says-he-would-love-see-irish-reunification/",
     "source": "wapo",
     "pubdate": "2026-09-12-13-49-43 +0000"
   },
   {
-    "headline": "Trump, in Dublin, says he ‘would love to see’ Ireland reunified",
+    "headline": "Trump endorses Irish reunification, breaking with decades of U.S. policy",
     "link": "https://www.washingtonpost.com/world/2026/09/12/trump-dublin-says-he-would-love-see-irish-reunification/",
     "source": "wapo",
     "pubdate": "2026-09-12-13-49-43 +0000"
@@ -580,6 +634,12 @@
     "link": "https://nypost.com/2026/09/12/world-news/mexican-lawmaker-facing-backlash-for-eating-traditional-iguana-soup/",
     "source": "nypost",
     "pubdate": "2026-09-12-13-25-54 +0000"
+  },
+  {
+    "headline": "Opinion | We’ve come too far to let the Blue Line extension fall apart now",
+    "link": "https://www.startribune.com/mn-infrastructure-development-metro-transit-trains-public-transportation/601887974",
+    "source": "startribune",
+    "pubdate": "2026-09-12-13-02-43 +0000"
   },
   {
     "headline": "Iranians looking to use captured US Navy drone sub as blueprint for their own lethal underwater weapons",
@@ -686,12 +746,6 @@
   {
     "headline": "Yuen: Youth sports are booming, and families are paying the price",
     "link": "https://www.startribune.com/youth-sports-minnesota/601871273",
-    "source": "startribune",
-    "pubdate": "2026-09-12-11-00-00 +0000"
-  },
-  {
-    "headline": "How the Parkway became Minneapolis’ coolest spot for indie artists",
-    "link": "https://www.startribune.com/parkway-theater-lizz-winstead-south-minneapolis-jessica-paxton-tracy-bonham-ward-johnson/601875870",
     "source": "startribune",
     "pubdate": "2026-09-12-11-00-00 +0000"
   },
@@ -846,12 +900,6 @@
     "pubdate": "2026-09-12-10-00-00 +0000"
   },
   {
-    "headline": "Opinion | Think Trump is going away? His message this week: Not a chance.",
-    "link": "https://www.startribune.com/opinion-think-trump-is-going-away-his-message-this-week-not-a-chance/601888453",
-    "source": "startribune",
-    "pubdate": "2026-09-12-09-57-00 +0000"
-  },
-  {
     "headline": "Heart Disease, a Historic Strength for Big Pharma, Becomes a Weakness",
     "link": "https://www.wsj.com/health/pharma/heart-disease-a-historic-strength-for-big-pharma-becomes-a-weakness-983f0062?mod=rss_markets_main",
     "source": "wsj",
@@ -865,7 +913,7 @@
   },
   {
     "headline": "Democratic Socialists are having a breakout year, but the public is still trying to learn what the movement believes, how it is organized and the level of its followers’ involvement",
-    "link": "https://www.wsj.com/arts-culture/books/meet-the-factions-driving-the-democratic-socialists-of-america-0c5e74f0?mod=rss_socialpoliticsfeed",
+    "link": "https://www.wsj.com/politics/elections/meet-the-factions-driving-the-democratic-socialists-of-america-0c5e74f0?mod=rss_socialpoliticsfeed",
     "source": "wsj",
     "pubdate": "2026-09-12-09-30-00 +0000"
   },
@@ -1252,18 +1300,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cwyz8dn5nn3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-12-00-56-47 +0000"
-  },
-  {
-    "headline": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
-    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-00-50-21 +0000"
-  },
-  {
-    "headline": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
-    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-00-50-21 +0000"
   },
   {
     "headline": "‘Intoxicated’ woman dies after husband horrifically beats and rapes her, while authorities probe a possible ‘rape network’: ‘Pelicot 2.0″",
@@ -1942,179 +1978,5 @@
     "link": "https://www.latimes.com/environment/story/2026-09-11/californias-biggest-lake-has-problems-now-tribes-are-coming-back-to-fix-them",
     "source": "latimes",
     "pubdate": "2026-09-11-19-00-00 +0000"
-  },
-  {
-    "headline": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike",
-    "link": "https://www.wsj.com/finance/stocks/stock-futures-nudge-up-yields-slip-but-markets-remain-on-edge-035097c4?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-11-18-54-00 +0000"
-  },
-  {
-    "headline": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike",
-    "link": "https://www.wsj.com/finance/stocks/stock-futures-nudge-up-yields-slip-but-markets-remain-on-edge-035097c4?mod=rss_socialeconomyfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-11-18-54-00 +0000"
-  },
-  {
-    "headline": "Hearing set on fate of Waukegan hospital property: ‘They need to find a resolution as soon as possible’",
-    "link": "https://www.chicagotribune.com/2026/09/11/vista-medical-center-east-hearing/",
-    "source": "chitri",
-    "pubdate": "2026-09-11-18-53-23 +0000"
-  },
-  {
-    "headline": "California's largest alcohol distributor agrees to pay $12.5 million in bribery investigation",
-    "link": "https://www.latimes.com/california/story/2026-09-11/southern-glazers-settles-california-wine-bribery-case-for-12-5-million",
-    "source": "latimes",
-    "pubdate": "2026-09-11-18-49-23 +0000"
-  },
-  {
-    "headline": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
-    "link": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
-    "source": "nyt",
-    "pubdate": "2026-09-11-18-45-57 +0000"
-  },
-  {
-    "headline": "Israel Destroys Underground Hezbollah Base in Southern Lebanon",
-    "link": "https://www.nytimes.com/2026/09/11/world/middleeast/blast-lebanon-israel-hezbollah-base.html",
-    "source": "nyt",
-    "pubdate": "2026-09-11-18-45-57 +0000"
-  },
-  {
-    "headline": "Gold Little Changed As August CPI Raises Interest-Rate Expectations",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-ahead-of-u-s-cpi-data-c995e7d0?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-11-18-42-00 +0000"
-  },
-  {
-    "headline": "TikTok rejects Meta ads urging firm to join landmark child safety settlement: report",
-    "link": "https://nypost.com/2026/09/11/business/tiktok-rejects-meta-ads-urging-firm-to-join-landmark-child-safety-settlement-report/",
-    "source": "nypost",
-    "pubdate": "2026-09-11-18-40-13 +0000"
-  },
-  {
-    "headline": "Influencers Invited to the Republican Midterm Convention Largely Avoided Talking About The Economy",
-    "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-republican-convention-influencers-message.html",
-    "source": "nyt",
-    "pubdate": "2026-09-11-18-38-14 +0000"
-  },
-  {
-    "headline": "Police Uncover Scheme Using Fake Horse Passports to Traffic Animals",
-    "link": "https://www.nytimes.com/2026/09/11/world/europe/horses-trafficked-europe-fake-passports.html",
-    "source": "nyt",
-    "pubdate": "2026-09-11-18-35-40 +0000"
-  },
-  {
-    "headline": "Police Uncover Scheme Using Fake Horse Passports to Traffic Animals",
-    "link": "https://www.nytimes.com/2026/09/11/world/europe/horses-trafficked-europe-fake-passports.html",
-    "source": "nyt",
-    "pubdate": "2026-09-11-18-35-40 +0000"
-  },
-  {
-    "headline": "Shocking video shows small plane crashing nose-first— with pilot pulled out alive",
-    "link": "https://nypost.com/2026/09/11/world-news/shocking-video-shows-small-plane-crashing-nose-first-in-argentina/",
-    "source": "nypost",
-    "pubdate": "2026-09-11-18-31-42 +0000"
-  },
-  {
-    "headline": "AARP Projects 2027 Social Security COLA at 3.6%",
-    "link": "https://www.nytimes.com/2026/09/11/business/economy/social-security-cola.html",
-    "source": "nyt",
-    "pubdate": "2026-09-11-18-28-17 +0000"
-  },
-  {
-    "headline": "AARP Projects 2027 Social Security COLA at 3.6%",
-    "link": "https://www.nytimes.com/2026/09/11/business/economy/social-security-cola.html",
-    "source": "nyt",
-    "pubdate": "2026-09-11-18-28-17 +0000"
-  },
-  {
-    "headline": "DHS hires Catholic theologian who defended Trump on birthright citizenship",
-    "link": "https://www.washingtonpost.com/immigration/2026/09/11/dhs-hires-catholic-theologian-who-opposes-bishops-pope-immigration/",
-    "source": "wapo",
-    "pubdate": "2026-09-11-18-23-11 +0000"
-  },
-  {
-    "headline": "As Poilievre tours U.S., Conservative MP bemoans lack of 'alternative to the Liberals'",
-    "link": "https://www.cbc.ca/news/politics/jivani-poilievre-alternative-to-carney-liberals-9.7340638?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-11-18-20-19 +0000"
-  },
-  {
-    "headline": "Iran-Backed Houthis Take Effective Control of Key Red Sea Chokepoint",
-    "link": "https://www.wsj.com/world/middle-east/iran-backed-houthis-take-effective-control-of-bab-al-mandeb-chokepoint-0c6f4592?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-11-18-20-00 +0000"
-  },
-  {
-    "headline": "Left accused of ‘whitewashing’ 9/11 in schools as conservatives reveal teaching ‘toolkit’: ‘A moment of silence is not an education’",
-    "link": "https://nypost.com/2026/09/11/us-news/left-accused-of-whitewashing-9-11-in-schools-a-moment-of-silence-is-not-an-education/",
-    "source": "nypost",
-    "pubdate": "2026-09-11-18-19-24 +0000"
-  },
-  {
-    "headline": "GOP Sen. Susan Collins, who faces a tough re-election campaign, made some of her sharpest criticisms to date about Trump’s handling of the U.S.’s trade dispute with Canada",
-    "link": "https://www.wsj.com/politics/policy/embattled-sen-susan-collins-criticizes-trumps-canada-insults-89da9223?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-11-18-19-00 +0000"
-  },
-  {
-    "headline": "The annual inflation rate stalled out last month, with Americans still paying high prices for gasoline. This could put more pressure on a Fed that has been divided over whether it should raise rates.",
-    "link": "https://www.wsj.com/economy/cpi-inflation-report-august-2026-e2b1e5e7?mod=rss_socialeconomyfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-11-18-19-00 +0000"
-  },
-  {
-    "headline": "Judge plans to appoint receiver to take control of West Suburban and Weiss hospitals",
-    "link": "https://www.chicagotribune.com/2026/09/11/west-suburban-weiss-hospitals-receivor/",
-    "source": "chitri",
-    "pubdate": "2026-09-11-18-14-16 +0000"
-  },
-  {
-    "headline": "McClatchy Makes Deep Job Cuts to Newspapers Around the Country",
-    "link": "https://www.nytimes.com/2026/09/10/business/media/mcclatchy-miami-herald-layoffs.html",
-    "source": "nyt",
-    "pubdate": "2026-09-11-18-09-43 +0000"
-  },
-  {
-    "headline": "Who are the Houthis? How they could send oil prices surging even further",
-    "link": "https://www.cbc.ca/news/world/houthi-explainer-9.7340370?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-11-18-09-40 +0000"
-  },
-  {
-    "headline": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
-    "link": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
-    "source": "nyt",
-    "pubdate": "2026-09-11-18-08-17 +0000"
-  },
-  {
-    "headline": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
-    "link": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
-    "source": "nyt",
-    "pubdate": "2026-09-11-18-08-17 +0000"
-  },
-  {
-    "headline": "A closer look at claims during the Republican midterm convention",
-    "link": "https://www.chicagotribune.com/2026/09/11/republican-midterm-convention-claims/",
-    "source": "chitri",
-    "pubdate": "2026-09-11-18-05-47 +0000"
-  },
-  {
-    "headline": "CDC Declares Cyclospora Outbreak Linked to Iceberg Lettuce as Over",
-    "link": "https://www.wsj.com/us-news/cdc-says-cyclospora-outbreak-is-over-30c6bba2?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-11-18-05-00 +0000"
-  },
-  {
-    "headline": "Ontario premier wants GOP to lose House, Senate over Trump’s trade war: ‘Hold him accountable’",
-    "link": "https://nypost.com/2026/09/11/world-news/ontario-premier-doug-ford-wants-gop-to-lose-house-senate-over-trumps-trade-war/",
-    "source": "nypost",
-    "pubdate": "2026-09-11-18-04-51 +0000"
-  },
-  {
-    "headline": "Ballot scramble hints at chaos under Trump proposal, Fla. election official says",
-    "link": "https://www.washingtonpost.com/politics/2026/09/11/florida-fight-over-mail-in-ballots-hints-chaos-if-trump-rules-take-effect/",
-    "source": "wapo",
-    "pubdate": "2026-09-11-18-00-00 +0000"
   }
 ]
