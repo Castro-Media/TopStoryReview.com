@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 22,
+    "pubdate": "2026-09-12-08-41-29 +0000",
+    "source": "nyt",
+    "headline": "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
+    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-09-12-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Time for a digital divorce? Trade war puts spotlight on Canada's relationship with U.S. big tech",
+    "link": "https://www.cbc.ca/radio/justasking/canada-digital-sovereignty-just-asking-9.7337778?cmp=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-09-12-08-04-16 +0000",
+    "source": "bbc",
+    "headline": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+    "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-09-12-08-39-49 +0000",
+    "source": "nypost",
+    "headline": "Tennessee Wendy’s manager fired after tying neurodivergent employee to kitchen equipment",
+    "link": "https://nypost.com/2026/09/12/us-news/tennessee-wendys-manager-fired-after-tying-neurodivergent-employee-to-kitchen-equipment-in-appalling-video/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-09-12-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Two uniforms, one deadly morning: How this firefighter and former soldier is reflecting on 9/11",
+    "link": "https://www.cbc.ca/news/politics/911-firefighter-canada-soldier-afghan-war-trauma-9.7341171?cmp=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-09-12-08-19-29 +0000",
+    "source": "nypost",
+    "headline": "Trump arrives in Ireland to meet leaders before attending Irish Open golf tournament",
+    "link": "https://nypost.com/2026/09/12/world-news/trump-arrives-in-ireland-to-meet-leaders-before-attending-irish-open-golf-tournament/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-09-12-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "As Alberta separation vote approaches, both campaigns are banking on voter turnout",
+    "link": "https://www.cbc.ca/news/politics/alberta-separation-referendum-independence-canada-carney-voter-turnout-9.7341197?cmp=rss"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-09-12-08-04-17 +0000",
+    "source": "nypost",
+    "headline": "More than 500,000 Russian troops killed in Ukraine, UK defense chief says",
+    "link": "https://nypost.com/2026/09/12/world-news/more-than-500000-russian-troops-killed-in-ukraine-uk-defense-chief-says/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-09-12-08-30-22 +0000",
+    "source": "chitri",
+    "headline": "Today in History: Lascaux cave paintings discovered",
+    "link": "https://www.chicagotribune.com/2026/09/12/today-in-history-lascaux-cave-paintings-discovered-2/"
+  },
+  {
+    "score": 5,
+    "pubdate": "2026-09-12-08-53-02 +0000",
+    "source": "bbc",
+    "headline": "Trump at residence of Irish president  for first engagement during visit",
+    "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss"
+  }
+]
