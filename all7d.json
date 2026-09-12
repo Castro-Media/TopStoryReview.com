@@ -1,9 +1,129 @@
 [
   {
-    "headline": "Zelensky ready to meet Putin face-to-face at G20 in Miami",
+    "headline": "Death Toll From Ferry Fire in the Philippines Rises to 76",
+    "link": "https://www.nytimes.com/2026/09/12/world/asia/philippines-ferry-fire-death-toll.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-52-24 +0000"
+  },
+  {
+    "headline": "Death Toll From Ferry Fire in the Philippines Rises to 76",
+    "link": "https://www.nytimes.com/2026/09/12/world/asia/philippines-ferry-fire-death-toll.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-52-24 +0000"
+  },
+  {
+    "headline": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-50-02 +0000"
+  },
+  {
+    "headline": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-50-02 +0000"
+  },
+  {
+    "headline": "Attack that closed key Saudi pipeline blamed on Iran-backed militias in Iraq",
+    "link": "https://nypost.com/2026/09/12/world-news/attack-that-closed-key-saudi-pipeline-is-blamed-on-iran-backed-militias-in-iraq/",
+    "source": "nypost",
+    "pubdate": "2026-09-12-18-42-25 +0000"
+  },
+  {
+    "headline": "Anthropic CEO calls for AI slowdown",
+    "link": "https://www.chicagotribune.com/2026/09/12/anthropic-ceo-calls-for-ai-slowdown/",
+    "source": "chitri",
+    "pubdate": "2026-09-12-18-35-54 +0000"
+  },
+  {
+    "headline": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
+    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-33-27 +0000"
+  },
+  {
+    "headline": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
+    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-33-27 +0000"
+  },
+  {
+    "headline": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+    "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-12-18-31-23 +0000"
+  },
+  {
+    "headline": "A Mastodon Tooth Is Discovered in a California Creek",
+    "link": "https://www.nytimes.com/2026/09/12/us/ice-age-mastodon-tooth-bay-area.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-27-55 +0000"
+  },
+  {
+    "headline": "Republican Campaign Aide Is Fired Over Nazi Photo",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-21-01 +0000"
+  },
+  {
+    "headline": "Republican Campaign Aide Is Fired Over Nazi Photo",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-21-01 +0000"
+  },
+  {
+    "headline": "Chilling bodycam footage shows knife-wielding madman charge at police in Santa Monica",
+    "link": "https://nypost.com/2026/09/12/us-news/bodycam-footage-shows-knife-wielding-man-charge-at-police-in-santa-monica/",
+    "source": "nypost",
+    "pubdate": "2026-09-12-18-18-45 +0000"
+  },
+  {
+    "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-07-10 +0000"
+  },
+  {
+    "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-07-10 +0000"
+  },
+  {
+    "headline": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-02-40 +0000"
+  },
+  {
+    "headline": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-02-40 +0000"
+  },
+  {
+    "headline": "Urgent warning issued as massive wildfire spreads in Northern California",
+    "link": "https://nypost.com/2026/09/12/us-news/lucas-fire-weather-warning-issued-after-evacuations-in-mendocino-lake-counties/",
+    "source": "nypost",
+    "pubdate": "2026-09-12-18-00-21 +0000"
+  },
+  {
+    "headline": "How The Times Covers ‘60 Minutes’ and Other Journalists",
+    "link": "https://www.nytimes.com/2026/09/12/insider/60-minutes-former-nyt-colleagues-media.html",
+    "source": "nyt",
+    "pubdate": "2026-09-12-18-00-15 +0000"
+  },
+  {
+    "headline": "Zelensky ready to meet Putin face-to-face at G20 summit in Miami: ‘Good position for negotiations’",
     "link": "https://nypost.com/2026/09/12/world-news/zelensky-ready-to-meet-putin-face-to-face-at-g20-summit-in-miami/",
     "source": "nypost",
     "pubdate": "2026-09-12-17-47-28 +0000"
+  },
+  {
+    "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-12-17-42-38 +0000"
   },
   {
     "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -66,6 +186,12 @@
     "pubdate": "2026-09-12-17-33-55 +0000"
   },
   {
+    "headline": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+    "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-12-17-28-53 +0000"
+  },
+  {
     "headline": "Motorcyclist performs dangerous tricks on busy Idaho highway — gets instant karma",
     "link": "https://nypost.com/2026/09/12/us-news/idaho-motorcyclist-crashes-while-doing-wheelie-on-i-84-in-boise/",
     "source": "nypost",
@@ -76,42 +202,6 @@
     "link": "https://www.startribune.com/eight-decades-ago-a-soldier-didnt-get-his-medals-his-family-finally-received-them-friday/601887751",
     "source": "startribune",
     "pubdate": "2026-09-12-17-27-26 +0000"
-  },
-  {
-    "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
-    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-26-53 +0000"
-  },
-  {
-    "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
-    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-26-53 +0000"
-  },
-  {
-    "headline": "Ohio Republican in Key Senate Race Fires Campaign Aide, Citing Social Media Photo of Nazis",
-    "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-23-41 +0000"
-  },
-  {
-    "headline": "Ohio Republican in Key Senate Race Fires Campaign Aide, Citing Social Media Photo of Nazis",
-    "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-23-41 +0000"
-  },
-  {
-    "headline": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-21-51 +0000"
-  },
-  {
-    "headline": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-17-21-51 +0000"
   },
   {
     "headline": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
@@ -204,18 +294,6 @@
     "pubdate": "2026-09-12-16-55-31 +0000"
   },
   {
-    "headline": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-16-43-28 +0000"
-  },
-  {
-    "headline": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-16-43-28 +0000"
-  },
-  {
     "headline": "Houthi advance in Yemen puts US in a new bind as Iran war enters seventh month",
     "link": "https://nypost.com/2026/09/12/world-news/houthi-advance-in-yemen-puts-us-in-a-new-bind/",
     "source": "nypost",
@@ -274,18 +352,6 @@
     "link": "https://nypost.com/2026/09/12/us-news/nyc-artist-goes-fully-naked-for-soho-stunt-that-left-new-yorkers-irate/",
     "source": "nypost",
     "pubdate": "2026-09-12-16-10-27 +0000"
-  },
-  {
-    "headline": "Death Toll From Ferry Fire in the Philippines Rises to 76",
-    "link": "https://www.nytimes.com/2026/09/12/world/asia/death-toll-from-ferry-fire-in-the-philippines-rises-to-76.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-16-08-24 +0000"
-  },
-  {
-    "headline": "Death Toll From Ferry Fire in the Philippines Rises to 76",
-    "link": "https://www.nytimes.com/2026/09/12/world/asia/death-toll-from-ferry-fire-in-the-philippines-rises-to-76.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-16-08-24 +0000"
   },
   {
     "headline": "Arizona correction officer moonlighting as cartel member busted in ammunition smuggling attempt in Mexico",
@@ -369,13 +435,13 @@
     "headline": "How Trump Is Wielding Power to Stifle Speech",
     "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
     "source": "nyt",
-    "pubdate": "2026-09-12-15-29-44 +0000"
+    "pubdate": "2026-09-12-15-29-45 +0000"
   },
   {
     "headline": "How Trump Is Wielding Power to Stifle Speech",
     "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
     "source": "nyt",
-    "pubdate": "2026-09-12-15-29-44 +0000"
+    "pubdate": "2026-09-12-15-29-45 +0000"
   },
   {
     "headline": "Blank wall in NYPD’s Hall of Heroes a grim sign more 9/11 deaths are coming",
@@ -498,24 +564,12 @@
     "pubdate": "2026-09-12-14-26-02 +0000"
   },
   {
-    "headline": "Wealthy California HOA gives ridiculous excuse for spraying pesticides as rare cancer cluster killing kids tears through community",
-    "link": "https://nypost.com/2026/09/12/us-news/ladera-ranch-residents-demand-pesticide-ban-amid-rare-cancer-fears/",
-    "source": "nypost",
-    "pubdate": "2026-09-12-14-24-56 +0000"
-  },
-  {
     "headline": "What a Hunchbacked Raccoon Teaches Us About Kindness in a Fractured World",
     "link": "https://www.nytimes.com/2026/09/12/us/jimothy-search.html",
     "source": "nyt",
     "pubdate": "2026-09-12-14-17-39 +0000"
   },
   {
-    "headline": "America’s oldest cheese shop, Alleva, reopens in Chelsea Market after 130 years in Little Italy",
-    "link": "https://nypost.com/2026/09/12/us-news/americas-oldest-cheese-shop-little-italys-alleva-reopens-in-chelsea-market/",
-    "source": "nypost",
-    "pubdate": "2026-09-12-14-10-37 +0000"
-  },
-  {
     "headline": "A united Ireland would be 'fantastic' says Trump during Irish visit",
     "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -546,13 +600,13 @@
     "pubdate": "2026-09-12-13-53-18 +0000"
   },
   {
-    "headline": "Trump, in Dublin, says he ‘would love to see’ Ireland reunified",
+    "headline": "Trump endorses Irish reunification, breaking with decades of U.S. policy",
     "link": "https://www.washingtonpost.com/world/2026/09/12/trump-dublin-says-he-would-love-see-irish-reunification/",
     "source": "wapo",
     "pubdate": "2026-09-12-13-49-43 +0000"
   },
   {
-    "headline": "Trump, in Dublin, says he ‘would love to see’ Ireland reunified",
+    "headline": "Trump endorses Irish reunification, breaking with decades of U.S. policy",
     "link": "https://www.washingtonpost.com/world/2026/09/12/trump-dublin-says-he-would-love-see-irish-reunification/",
     "source": "wapo",
     "pubdate": "2026-09-12-13-49-43 +0000"
@@ -580,6 +634,12 @@
     "link": "https://nypost.com/2026/09/12/world-news/mexican-lawmaker-facing-backlash-for-eating-traditional-iguana-soup/",
     "source": "nypost",
     "pubdate": "2026-09-12-13-25-54 +0000"
+  },
+  {
+    "headline": "Opinion | We’ve come too far to let the Blue Line extension fall apart now",
+    "link": "https://www.startribune.com/mn-infrastructure-development-metro-transit-trains-public-transportation/601887974",
+    "source": "startribune",
+    "pubdate": "2026-09-12-13-02-43 +0000"
   },
   {
     "headline": "Iranians looking to use captured US Navy drone sub as blueprint for their own lethal underwater weapons",
@@ -686,12 +746,6 @@
   {
     "headline": "Yuen: Youth sports are booming, and families are paying the price",
     "link": "https://www.startribune.com/youth-sports-minnesota/601871273",
-    "source": "startribune",
-    "pubdate": "2026-09-12-11-00-00 +0000"
-  },
-  {
-    "headline": "How the Parkway became Minneapolis’ coolest spot for indie artists",
-    "link": "https://www.startribune.com/parkway-theater-lizz-winstead-south-minneapolis-jessica-paxton-tracy-bonham-ward-johnson/601875870",
     "source": "startribune",
     "pubdate": "2026-09-12-11-00-00 +0000"
   },
@@ -846,12 +900,6 @@
     "pubdate": "2026-09-12-10-00-00 +0000"
   },
   {
-    "headline": "Opinion | Think Trump is going away? His message this week: Not a chance.",
-    "link": "https://www.startribune.com/opinion-think-trump-is-going-away-his-message-this-week-not-a-chance/601888453",
-    "source": "startribune",
-    "pubdate": "2026-09-12-09-57-00 +0000"
-  },
-  {
     "headline": "Heart Disease, a Historic Strength for Big Pharma, Becomes a Weakness",
     "link": "https://www.wsj.com/health/pharma/heart-disease-a-historic-strength-for-big-pharma-becomes-a-weakness-983f0062?mod=rss_markets_main",
     "source": "wsj",
@@ -865,7 +913,7 @@
   },
   {
     "headline": "Democratic Socialists are having a breakout year, but the public is still trying to learn what the movement believes, how it is organized and the level of its followers’ involvement",
-    "link": "https://www.wsj.com/arts-culture/books/meet-the-factions-driving-the-democratic-socialists-of-america-0c5e74f0?mod=rss_socialpoliticsfeed",
+    "link": "https://www.wsj.com/politics/elections/meet-the-factions-driving-the-democratic-socialists-of-america-0c5e74f0?mod=rss_socialpoliticsfeed",
     "source": "wsj",
     "pubdate": "2026-09-12-09-30-00 +0000"
   },
@@ -1252,18 +1300,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cwyz8dn5nn3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-12-00-56-47 +0000"
-  },
-  {
-    "headline": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
-    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-00-50-21 +0000"
-  },
-  {
-    "headline": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
-    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
-    "source": "nyt",
-    "pubdate": "2026-09-12-00-50-21 +0000"
   },
   {
     "headline": "‘Intoxicated’ woman dies after husband horrifically beats and rapes her, while authorities probe a possible ‘rape network’: ‘Pelicot 2.0″",
@@ -2142,12 +2178,6 @@
     "pubdate": "2026-09-11-17-49-03 +0000"
   },
   {
-    "headline": "Holdout Juror in Lindsay Clancy’s Mistrial Highlights a Divide in America",
-    "link": "https://www.nytimes.com/2026/09/11/us/lindsay-clancy-trial-holdout-juror.html",
-    "source": "nyt",
-    "pubdate": "2026-09-11-17-48-54 +0000"
-  },
-  {
     "headline": "California-founded women’s fashion giant closes 177 stores after 25-year run",
     "link": "https://nypost.com/2026/09/11/lifestyle/plus-size-retailer-shutters-177-stores-in-major-shift-to-online-sales/",
     "source": "nypost",
@@ -2566,12 +2596,6 @@
     "link": "https://nypost.com/2026/09/11/us-news/ron-desantis-shoots-down-trumps-5k-dividend-proposal-more-inflation/",
     "source": "nypost",
     "pubdate": "2026-09-11-15-06-08 +0000"
-  },
-  {
-    "headline": "Journalist named next king of a Ugandan monarchy following death of one-time ‘boy king’",
-    "link": "https://nypost.com/2026/09/11/world-news/journalist-named-next-king-of-a-ugandan-monarchy-following-death-of-one-time-boy-king/",
-    "source": "nypost",
-    "pubdate": "2026-09-11-15-05-25 +0000"
   },
   {
     "headline": "Consider Normandy for the Perfect Fall Weekend Biking Destination",
@@ -3036,12 +3060,6 @@
     "pubdate": "2026-09-11-10-00-01 +0000"
   },
   {
-    "headline": "At the Nicolas Cage sinkhole in Malibu, El Niño fears alter the good vibes mood",
-    "link": "https://www.latimes.com/california/story/2026-09-11/at-nicolas-cage-sinkhole-in-malibu-el-nino-fears-alter-good-vibes",
-    "source": "latimes",
-    "pubdate": "2026-09-11-10-00-00 +0000"
-  },
-  {
     "headline": "The surprising reason California survived record summer heat without blackouts",
     "link": "https://www.latimes.com/california/story/2026-09-11/how-california-survived-hottest-august-ever-without-flex-alerts",
     "source": "latimes",
@@ -3050,6 +3068,12 @@
   {
     "headline": "VA homeless housing in West L.A. estimated to cost a record $1.25 million per unit",
     "link": "https://www.latimes.com/california/story/2026-09-11/va-homeless-housing-estimated-to-cost-record-1-25-million-a-unit",
+    "source": "latimes",
+    "pubdate": "2026-09-11-10-00-00 +0000"
+  },
+  {
+    "headline": "At the Nicolas Cage sinkhole in Malibu, El Niño fears alter the good vibes mood",
+    "link": "https://www.latimes.com/california/story/2026-09-11/at-nicolas-cage-sinkhole-in-malibu-el-nino-fears-alter-good-vibes",
     "source": "latimes",
     "pubdate": "2026-09-11-10-00-00 +0000"
   },
@@ -4092,24 +4116,6 @@
     "pubdate": "2026-09-10-18-52-00 +0000"
   },
   {
-    "headline": "At least 1,000 children who died in state custody are buried across U.S., study finds",
-    "link": "https://www.washingtonpost.com/nation/2026/09/10/least-1000-boys-girls-who-died-state-custody-are-buried-graves-across-us/",
-    "source": "wapo",
-    "pubdate": "2026-09-10-18-50-06 +0000"
-  },
-  {
-    "headline": "Sending armed ICE agents to polling places would be a federal crime, lawsuit says",
-    "link": "https://www.washingtonpost.com/politics/2026/09/10/sending-armed-ice-agents-polling-places-would-be-federal-crime-lawsuit-says/",
-    "source": "wapo",
-    "pubdate": "2026-09-10-18-49-27 +0000"
-  },
-  {
-    "headline": "Sending armed ICE agents to polling places would be a federal crime, lawsuit says",
-    "link": "https://www.washingtonpost.com/politics/2026/09/10/sending-armed-ice-agents-polling-places-would-be-federal-crime-lawsuit-says/",
-    "source": "wapo",
-    "pubdate": "2026-09-10-18-49-27 +0000"
-  },
-  {
     "headline": "Moscow Claims Ukraine Planned to Start a War Between Russia and the U.K.",
     "link": "https://www.nytimes.com/2026/09/10/world/europe/russia-ukraine-uk-embassy.html",
     "source": "nyt",
@@ -4170,28 +4176,10 @@
     "pubdate": "2026-09-10-18-32-00 +0000"
   },
   {
-    "headline": "In Dallas, Trump says Mavericks’ Luka Doncic trade may be ‘worst of all time’",
-    "link": "https://www.washingtonpost.com/politics/2026/09/10/trump-says-dallas-mavericks-luka-doncic-trade-may-be-worst-all-time/",
-    "source": "wapo",
-    "pubdate": "2026-09-10-18-30-00 +0000"
-  },
-  {
     "headline": "Meet the District 10 candidates: Would you put a moratorium on AI data centers?",
     "link": "https://missionlocal.org/2026/09/meet-the-district-10-candidates-data-center-moratorium/",
     "source": "missionlocal",
     "pubdate": "2026-09-10-18-26-50 +0000"
-  },
-  {
-    "headline": "Remembering Roger Simon, a political journalist with toughness and wit",
-    "link": "https://www.washingtonpost.com/obituaries/2026/09/10/remembering-roger-simon-political-journalist-with-toughness-wit/",
-    "source": "wapo",
-    "pubdate": "2026-09-10-18-22-47 +0000"
-  },
-  {
-    "headline": "Remembering Roger Simon, a political journalist with toughness and wit",
-    "link": "https://www.washingtonpost.com/obituaries/2026/09/10/remembering-roger-simon-political-journalist-with-toughness-wit/",
-    "source": "wapo",
-    "pubdate": "2026-09-10-18-22-47 +0000"
   },
   {
     "headline": "Orange County nonprofit treasurer charged with stealing $400,000 to pay mortgage, credit card bills",
@@ -4788,14 +4776,14 @@
     "pubdate": "2026-09-10-10-00-26 +0000"
   },
   {
-    "headline": "Becerra backers with business in Sacramento spend tens of millions boosting his gubernatorial bid",
-    "link": "https://www.latimes.com/california/story/2026-09-10/special-interests-spend-millions-boosting-becerra-in-governors-race",
+    "headline": "A father and son drive trash trucks in Southern California. One has built a life, the other feels stuck",
+    "link": "https://www.latimes.com/california/story/2026-09-10/father-son-drive-trash-trucks-one-has-built-life-other-feels-stuck",
     "source": "latimes",
     "pubdate": "2026-09-10-10-00-00 +0000"
   },
   {
-    "headline": "A father and son drive trash trucks in Southern California. One has built a life, the other feels stuck",
-    "link": "https://www.latimes.com/california/story/2026-09-10/father-son-drive-trash-trucks-one-has-built-life-other-feels-stuck",
+    "headline": "Becerra backers with business in Sacramento spend tens of millions boosting his gubernatorial bid",
+    "link": "https://www.latimes.com/california/story/2026-09-10/special-interests-spend-millions-boosting-becerra-in-governors-race",
     "source": "latimes",
     "pubdate": "2026-09-10-10-00-00 +0000"
   },
@@ -4806,14 +4794,14 @@
     "pubdate": "2026-09-10-10-00-00 +0000"
   },
   {
-    "headline": "Popular Southern California cafe chain files for bankruptcy",
-    "link": "https://www.latimes.com/business/story/2026-09-10/popular-southern-california-cafe-chain-files-for-bankruptcy",
+    "headline": "Hollywood fears an AI future. China is already living it",
+    "link": "https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it",
     "source": "latimes",
     "pubdate": "2026-09-10-10-00-00 +0000"
   },
   {
-    "headline": "Hollywood fears an AI future. China is already living it",
-    "link": "https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it",
+    "headline": "Popular Southern California cafe chain files for bankruptcy",
+    "link": "https://www.latimes.com/business/story/2026-09-10/popular-southern-california-cafe-chain-files-for-bankruptcy",
     "source": "latimes",
     "pubdate": "2026-09-10-10-00-00 +0000"
   },
@@ -5694,6 +5682,12 @@
     "pubdate": "2026-09-09-15-31-36 +0000"
   },
   {
+    "headline": "Wondering what to do this fall? Glad you asked. We have 70 great ideas",
+    "link": "https://www.startribune.com/wondering-what-to-do-this-fall-glad-you-asked-we-have-70-great-ideas/601878098",
+    "source": "startribune",
+    "pubdate": "2026-09-09-15-30-00 +0000"
+  },
+  {
     "headline": "Little Village Ald. Mike Rodriguez not running for reelection",
     "link": "https://www.chicagotribune.com/2026/09/09/little-village-ald-mike-rodriguez-re-election/",
     "source": "chitri",
@@ -5916,18 +5910,6 @@
     "pubdate": "2026-09-09-10-00-00 +0000"
   },
   {
-    "headline": "Bass or Raman for mayor? In Pratt's Pacific Palisades, some say that's no choice at all",
-    "link": "https://www.latimes.com/california/story/2026-09-09/palisades-pratt-voters-say-no-choice-at-all",
-    "source": "latimes",
-    "pubdate": "2026-09-09-10-00-00 +0000"
-  },
-  {
-    "headline": "Hilton proposes eliminating DMV, slashing vehicle registration fee if elected governor",
-    "link": "https://www.latimes.com/california/story/2026-09-09/hilton-proposes-eliminating-dmv-slashing-vehicle-registration-fee-if-elected-governor",
-    "source": "latimes",
-    "pubdate": "2026-09-09-10-00-00 +0000"
-  },
-  {
     "headline": "L.A.'s 'perfect' Mediterranean weather is a birthright. Why did it disappear this summer?",
     "link": "https://www.latimes.com/california/story/2026-09-09/what-happened-to-l-a-s-perfect-mediterranean-weather-humidity-challenges-birthright",
     "source": "latimes",
@@ -5936,6 +5918,18 @@
   {
     "headline": "Trump administration tells California its key water plan is 'unworkable'",
     "link": "https://www.latimes.com/environment/story/2026-09-09/trump-california-water-plan",
+    "source": "latimes",
+    "pubdate": "2026-09-09-10-00-00 +0000"
+  },
+  {
+    "headline": "Bass or Raman for mayor? In Pratt's Pacific Palisades, some say that's no choice at all",
+    "link": "https://www.latimes.com/california/story/2026-09-09/palisades-pratt-voters-say-no-choice-at-all",
+    "source": "latimes",
+    "pubdate": "2026-09-09-10-00-00 +0000"
+  },
+  {
+    "headline": "Hilton proposes eliminating DMV, slashing vehicle registration fee if elected governor",
+    "link": "https://www.latimes.com/california/story/2026-09-09/hilton-proposes-eliminating-dmv-slashing-vehicle-registration-fee-if-elected-governor",
     "source": "latimes",
     "pubdate": "2026-09-09-10-00-00 +0000"
   },
@@ -6082,12 +6076,6 @@
     "link": "https://www.nytimes.com/2026/09/08/world/asia/tung-chee-hwa-dead.html",
     "source": "nyt",
     "pubdate": "2026-09-09-02-44-07 +0000"
-  },
-  {
-    "headline": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
-    "link": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html",
-    "source": "nyt",
-    "pubdate": "2026-09-09-02-33-37 +0000"
   },
   {
     "headline": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
@@ -6798,12 +6786,6 @@
     "pubdate": "2026-09-08-10-00-07 +0000"
   },
   {
-    "headline": "California water agencies may get a new defense in lawsuits over hydrants running dry in wildfires",
-    "link": "https://www.latimes.com/environment/story/2026-09-08/bill-water-agencies-wildfires",
-    "source": "latimes",
-    "pubdate": "2026-09-08-10-00-00 +0000"
-  },
-  {
     "headline": "Becerra once pushed for the death penalty, but says he would extend a moratorium if elected governor",
     "link": "https://www.latimes.com/california/story/2026-09-08/becerra-death-penalty-moratorium-governor",
     "source": "latimes",
@@ -6818,6 +6800,12 @@
   {
     "headline": "L.A. fast-food workers could get more predictable schedules, labor rights training",
     "link": "https://www.latimes.com/california/story/2026-09-08/la-me-city-council-fast-food-protections",
+    "source": "latimes",
+    "pubdate": "2026-09-08-10-00-00 +0000"
+  },
+  {
+    "headline": "California water agencies may get a new defense in lawsuits over hydrants running dry in wildfires",
+    "link": "https://www.latimes.com/environment/story/2026-09-08/bill-water-agencies-wildfires",
     "source": "latimes",
     "pubdate": "2026-09-08-10-00-00 +0000"
   },
@@ -7350,12 +7338,6 @@
     "pubdate": "2026-09-06-10-00-19 +0000"
   },
   {
-    "headline": "Backlash over data centers hits California, and the midterms",
-    "link": "https://www.latimes.com/politics/story/2026-09-06/backlash-over-data-centers-hits-california-midterms",
-    "source": "latimes",
-    "pubdate": "2026-09-06-10-00-00 +0000"
-  },
-  {
     "headline": "California wants to list Jewish as an ethnicity, sparking discussion over what it means to be a Jew",
     "link": "https://www.latimes.com/california/story/2026-09-06/california-wants-to-list-jewish-as-ethnicity-jews-are-divided-over-idea",
     "source": "latimes",
@@ -7480,17 +7462,5 @@
     "link": "https://www.wsj.com/us-news/law/how-two-men-without-lawyers-got-their-cases-to-the-supreme-court-abb63eb0?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-09-05-19-00-00 +0000"
-  },
-  {
-    "headline": "At the annual Socialism Conference in Chicago, signs of promise, protest and disagreement",
-    "link": "https://www.chicagotribune.com/2026/09/05/socialism-conference-chicago/",
-    "source": "chitri",
-    "pubdate": "2026-09-05-18-33-54 +0000"
-  },
-  {
-    "headline": "Trump administration is 'playing shadow games' with top SoCal prosecutor, public defenders say",
-    "link": "https://www.latimes.com/california/story/2026-09-05/public-defenders-target-trump-federal-prosecutor-bill-essayli-in-socal",
-    "source": "latimes",
-    "pubdate": "2026-09-05-18-22-45 +0000"
   }
 ]
