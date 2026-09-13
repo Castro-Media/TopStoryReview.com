@@ -1,9 +1,33 @@
 [
   {
+    "headline": "Ending rough sleeping is 'not just a housing issue'",
+    "link": "https://www.bbc.co.uk/news/articles/ckg7qyl1yk9o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-13-05-14-15 +0000"
+  },
+  {
+    "headline": "Romania sets Guinness record with miles-long table, raises funds for pediatric psychiatry hospital",
+    "link": "https://nypost.com/2026/09/13/world-news/romania-sets-guinness-record-with-miles-long-table-raises-funds-for-pediatric-psychiatry-hospital/",
+    "source": "nypost",
+    "pubdate": "2026-09-13-05-04-01 +0000"
+  },
+  {
+    "headline": "Man charged with murder in death of NYC mom killed in front of 7-year-old daughter",
+    "link": "https://nypost.com/2026/09/13/us-news/man-charged-with-murder-in-death-of-nyc-mom-perp-walked-from-precinct/",
+    "source": "nypost",
+    "pubdate": "2026-09-13-04-53-20 +0000"
+  },
+  {
     "headline": "Search underway for Indonesian passenger ship carrying more than 240 people after it loses contact",
     "link": "https://nypost.com/2026/09/13/world-news/indonesian-passenger-ship-loses-contact-in-java-sea-carrying-241-people/",
     "source": "nypost",
     "pubdate": "2026-09-13-04-52-11 +0000"
+  },
+  {
+    "headline": "Ohio Dem Amy Acton’s handlers lash out when cameraman confronts her about debate: ‘No pictures’",
+    "link": "https://nypost.com/2026/09/13/us-news/ohio-gubernatorial-candidate-amy-actons-handlers-lash-out-when-cameraman-confronts-her-about-debate/",
+    "source": "nypost",
+    "pubdate": "2026-09-13-04-24-20 +0000"
   },
   {
     "headline": "Ohio Dem Amy Acton’s handlers lash out when cameraman confronts her about debate: ‘No pictures’",
@@ -334,18 +358,6 @@
     "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
     "source": "nyt",
     "pubdate": "2026-09-12-22-46-12 +0000"
-  },
-  {
-    "headline": "Musician with ‘beautiful’ voice identified as man found dead off Malibu coast",
-    "link": "https://nypost.com/2026/09/12/us-news/man-found-dead-off-malibu-coast-identified-as-singer-and-composer/",
-    "source": "nypost",
-    "pubdate": "2026-09-12-22-40-33 +0000"
-  },
-  {
-    "headline": "Ukraine and Russia clash in ‘first-ever’ drone battle at sea, video shows",
-    "link": "https://nypost.com/2026/09/12/world-news/ukraine-and-russia-clash-in-first-ever-drone-battle-at-sea-video-shows/",
-    "source": "nypost",
-    "pubdate": "2026-09-12-22-31-13 +0000"
   },
   {
     "headline": "Ukraine and Russia clash in ‘first-ever’ drone battle at sea, video shows",
@@ -1390,12 +1402,6 @@
     "link": "https://nypost.com/2026/09/12/world-news/trump-arrives-in-ireland-to-meet-leaders-before-attending-irish-open-golf-tournament/",
     "source": "nypost",
     "pubdate": "2026-09-12-08-19-29 +0000"
-  },
-  {
-    "headline": "More than 500,000 Russian troops killed in Ukraine, UK defense chief says",
-    "link": "https://nypost.com/2026/09/12/world-news/more-than-500000-russian-troops-killed-in-ukraine-uk-defense-chief-says/",
-    "source": "nypost",
-    "pubdate": "2026-09-12-08-04-17 +0000"
   },
   {
     "headline": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
@@ -3270,26 +3276,26 @@
     "pubdate": "2026-09-11-10-00-01 +0000"
   },
   {
-    "headline": "VA homeless housing in West L.A. estimated to cost a record $1.25 million per unit",
-    "link": "https://www.latimes.com/california/story/2026-09-11/va-homeless-housing-estimated-to-cost-record-1-25-million-a-unit",
-    "source": "latimes",
-    "pubdate": "2026-09-11-10-00-00 +0000"
-  },
-  {
-    "headline": "Teaching 9/11 to a generation that didn't live through it: 'We just heard tales of it'",
-    "link": "https://www.latimes.com/california/story/2026-09-11/9-11-anniversary-schools-teaching-history-california",
-    "source": "latimes",
-    "pubdate": "2026-09-11-10-00-00 +0000"
-  },
-  {
     "headline": "At the Nicolas Cage sinkhole in Malibu, El Niño fears alter the good vibes mood",
     "link": "https://www.latimes.com/california/story/2026-09-11/at-nicolas-cage-sinkhole-in-malibu-el-nino-fears-alter-good-vibes",
     "source": "latimes",
     "pubdate": "2026-09-11-10-00-00 +0000"
   },
   {
+    "headline": "VA homeless housing in West L.A. estimated to cost a record $1.25 million per unit",
+    "link": "https://www.latimes.com/california/story/2026-09-11/va-homeless-housing-estimated-to-cost-record-1-25-million-a-unit",
+    "source": "latimes",
+    "pubdate": "2026-09-11-10-00-00 +0000"
+  },
+  {
     "headline": "The surprising reason California survived record summer heat without blackouts",
     "link": "https://www.latimes.com/california/story/2026-09-11/how-california-survived-hottest-august-ever-without-flex-alerts",
+    "source": "latimes",
+    "pubdate": "2026-09-11-10-00-00 +0000"
+  },
+  {
+    "headline": "Teaching 9/11 to a generation that didn't live through it: 'We just heard tales of it'",
+    "link": "https://www.latimes.com/california/story/2026-09-11/9-11-anniversary-schools-teaching-history-california",
     "source": "latimes",
     "pubdate": "2026-09-11-10-00-00 +0000"
   },
@@ -4584,12 +4590,6 @@
     "pubdate": "2026-09-10-13-34-17 +0000"
   },
   {
-    "headline": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-    "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-10-13-34-17 +0000"
-  },
-  {
     "headline": "Why Ad Forecasts Keep Defying Gravity",
     "link": "https://www.wsj.com/cmo-today/why-ad-forecasts-keep-defying-gravity-11a9b3e2?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -4830,14 +4830,14 @@
     "pubdate": "2026-09-10-10-00-26 +0000"
   },
   {
-    "headline": "A father and son drive trash trucks in Southern California. One has built a life, the other feels stuck",
-    "link": "https://www.latimes.com/california/story/2026-09-10/father-son-drive-trash-trucks-one-has-built-life-other-feels-stuck",
+    "headline": "Becerra backers with business in Sacramento spend tens of millions boosting his gubernatorial bid",
+    "link": "https://www.latimes.com/california/story/2026-09-10/special-interests-spend-millions-boosting-becerra-in-governors-race",
     "source": "latimes",
     "pubdate": "2026-09-10-10-00-00 +0000"
   },
   {
-    "headline": "Becerra backers with business in Sacramento spend tens of millions boosting his gubernatorial bid",
-    "link": "https://www.latimes.com/california/story/2026-09-10/special-interests-spend-millions-boosting-becerra-in-governors-race",
+    "headline": "A father and son drive trash trucks in Southern California. One has built a life, the other feels stuck",
+    "link": "https://www.latimes.com/california/story/2026-09-10/father-son-drive-trash-trucks-one-has-built-life-other-feels-stuck",
     "source": "latimes",
     "pubdate": "2026-09-10-10-00-00 +0000"
   },
@@ -4848,14 +4848,14 @@
     "pubdate": "2026-09-10-10-00-00 +0000"
   },
   {
-    "headline": "Hollywood fears an AI future. China is already living it",
-    "link": "https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it",
+    "headline": "Popular Southern California cafe chain files for bankruptcy",
+    "link": "https://www.latimes.com/business/story/2026-09-10/popular-southern-california-cafe-chain-files-for-bankruptcy",
     "source": "latimes",
     "pubdate": "2026-09-10-10-00-00 +0000"
   },
   {
-    "headline": "Popular Southern California cafe chain files for bankruptcy",
-    "link": "https://www.latimes.com/business/story/2026-09-10/popular-southern-california-cafe-chain-files-for-bankruptcy",
+    "headline": "Hollywood fears an AI future. China is already living it",
+    "link": "https://www.latimes.com/business/story/2026-09-10/hollywood-fears-ai-future-china-is-already-living-it",
     "source": "latimes",
     "pubdate": "2026-09-10-10-00-00 +0000"
   },
@@ -5916,14 +5916,8 @@
     "pubdate": "2026-09-09-10-00-37 +0000"
   },
   {
-    "headline": "A bus lane through Eagle Rock is slated to open before the Olympics. Will it hurt businesses?",
-    "link": "https://www.latimes.com/california/story/2026-09-09/will-bus-lane-before-olympics-create-new-problems-in-eagle-rock",
-    "source": "latimes",
-    "pubdate": "2026-09-09-10-00-00 +0000"
-  },
-  {
-    "headline": "Newsom's defamation case against Fox News scheduled for trial in 2028",
-    "link": "https://www.latimes.com/california/story/2026-09-09/newsoms-defamation-case-against-fox-news-scheduled-for-trial-in-2028",
+    "headline": "Salvadorans anxiously await news on whether TPS protections will end",
+    "link": "https://www.latimes.com/politics/story/2026-09-09/salvadorans-anxiously-await-news-on-whether-tps-protections-will-end",
     "source": "latimes",
     "pubdate": "2026-09-09-10-00-00 +0000"
   },
@@ -5946,26 +5940,32 @@
     "pubdate": "2026-09-09-10-00-00 +0000"
   },
   {
-    "headline": "Salvadorans anxiously await news on whether TPS protections will end",
-    "link": "https://www.latimes.com/politics/story/2026-09-09/salvadorans-anxiously-await-news-on-whether-tps-protections-will-end",
-    "source": "latimes",
-    "pubdate": "2026-09-09-10-00-00 +0000"
-  },
-  {
     "headline": "Trump administration tells California its key water plan is 'unworkable'",
     "link": "https://www.latimes.com/environment/story/2026-09-09/trump-california-water-plan",
     "source": "latimes",
     "pubdate": "2026-09-09-10-00-00 +0000"
   },
   {
-    "headline": "Napa winery that rose from wildfire now faces bankruptcy, and up to $50 million in debt",
-    "link": "https://www.latimes.com/business/story/2026-09-09/napa-winery-that-rose-from-wildfire-now-faces-bankruptcy-millions-in-debt",
+    "headline": "Newsom's defamation case against Fox News scheduled for trial in 2028",
+    "link": "https://www.latimes.com/california/story/2026-09-09/newsoms-defamation-case-against-fox-news-scheduled-for-trial-in-2028",
+    "source": "latimes",
+    "pubdate": "2026-09-09-10-00-00 +0000"
+  },
+  {
+    "headline": "A bus lane through Eagle Rock is slated to open before the Olympics. Will it hurt businesses?",
+    "link": "https://www.latimes.com/california/story/2026-09-09/will-bus-lane-before-olympics-create-new-problems-in-eagle-rock",
     "source": "latimes",
     "pubdate": "2026-09-09-10-00-00 +0000"
   },
   {
     "headline": "Hiltzik: Despite Trump's pressure, companies that maintained their DEI programs did just fine",
     "link": "https://www.latimes.com/business/story/2026-09-09/despite-trumps-pressure-companies-that-maintained-their-dei-programs-did-just-fine",
+    "source": "latimes",
+    "pubdate": "2026-09-09-10-00-00 +0000"
+  },
+  {
+    "headline": "Napa winery that rose from wildfire now faces bankruptcy, and up to $50 million in debt",
+    "link": "https://www.latimes.com/business/story/2026-09-09/napa-winery-that-rose-from-wildfire-now-faces-bankruptcy-millions-in-debt",
     "source": "latimes",
     "pubdate": "2026-09-09-10-00-00 +0000"
   },
@@ -6792,20 +6792,8 @@
     "pubdate": "2026-09-08-10-00-07 +0000"
   },
   {
-    "headline": "Some of the worst humidity ever recorded in L.A. brings misery, health worries",
-    "link": "https://www.latimes.com/california/story/2026-09-08/miserable-humidity-persists-in-southern-california",
-    "source": "latimes",
-    "pubdate": "2026-09-08-10-00-00 +0000"
-  },
-  {
-    "headline": "ICE dragged him from his doorstep in January. His elderly partner fears he'll die in detention",
-    "link": "https://www.latimes.com/california/story/2026-09-08/ice-dragged-him-from-his-doorstep-in-january-his-elderly-partner-fears-hell-die-in-detention",
-    "source": "latimes",
-    "pubdate": "2026-09-08-10-00-00 +0000"
-  },
-  {
-    "headline": "El Niño could bring waves of starving sea lion pups to California beaches. It's happened before",
-    "link": "https://www.latimes.com/environment/story/2026-09-08/el-nino-starving-sea-lion-pups-california-beaches",
+    "headline": "California water agencies may get a new defense in lawsuits over hydrants running dry in wildfires",
+    "link": "https://www.latimes.com/environment/story/2026-09-08/bill-water-agencies-wildfires",
     "source": "latimes",
     "pubdate": "2026-09-08-10-00-00 +0000"
   },
@@ -6828,20 +6816,32 @@
     "pubdate": "2026-09-08-10-00-00 +0000"
   },
   {
-    "headline": "California water agencies may get a new defense in lawsuits over hydrants running dry in wildfires",
-    "link": "https://www.latimes.com/environment/story/2026-09-08/bill-water-agencies-wildfires",
+    "headline": "El Niño could bring waves of starving sea lion pups to California beaches. It's happened before",
+    "link": "https://www.latimes.com/environment/story/2026-09-08/el-nino-starving-sea-lion-pups-california-beaches",
     "source": "latimes",
     "pubdate": "2026-09-08-10-00-00 +0000"
   },
   {
-    "headline": "A $4.76-billion summer put movie theaters back on track. Now comes the hard part",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-08/strong-summer-may-be-good-sign-for-theaters-this-year",
+    "headline": "ICE dragged him from his doorstep in January. His elderly partner fears he'll die in detention",
+    "link": "https://www.latimes.com/california/story/2026-09-08/ice-dragged-him-from-his-doorstep-in-january-his-elderly-partner-fears-hell-die-in-detention",
+    "source": "latimes",
+    "pubdate": "2026-09-08-10-00-00 +0000"
+  },
+  {
+    "headline": "Some of the worst humidity ever recorded in L.A. brings misery, health worries",
+    "link": "https://www.latimes.com/california/story/2026-09-08/miserable-humidity-persists-in-southern-california",
     "source": "latimes",
     "pubdate": "2026-09-08-10-00-00 +0000"
   },
   {
     "headline": "L.A. fast-food workers could get more predictable schedules, labor rights training",
     "link": "https://www.latimes.com/california/story/2026-09-08/la-me-city-council-fast-food-protections",
+    "source": "latimes",
+    "pubdate": "2026-09-08-10-00-00 +0000"
+  },
+  {
+    "headline": "A $4.76-billion summer put movie theaters back on track. Now comes the hard part",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-08/strong-summer-may-be-good-sign-for-theaters-this-year",
     "source": "latimes",
     "pubdate": "2026-09-08-10-00-00 +0000"
   },
@@ -7360,11 +7360,5 @@
     "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-06-06-04-51 +0000"
-  },
-  {
-    "headline": "What big issues are on the agenda as Stormont returns after summer?",
-    "link": "https://www.bbc.co.uk/news/articles/cddve403myeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-06-05-45-29 +0000"
   }
 ]
