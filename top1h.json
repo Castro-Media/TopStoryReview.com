@@ -1,65 +1,72 @@
 [
   {
-    "score": 18,
-    "pubdate": "2026-09-13-12-39-12 +0000",
+    "score": 20,
+    "pubdate": "2026-09-13-13-53-05 +0000",
+    "source": "nyt",
+    "headline": "Tom Tiffany, Wisconsin Representative, Sustains Minor Injuries After Plane Lands in Lake",
+    "link": "https://www.nytimes.com/2026/09/13/us/politics/tom-tiffany-wisconsin-lake-wausau-plane-crash.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-09-13-13-55-08 +0000",
+    "source": "nypost",
+    "headline": "Speaker Johnson says AI leaders must meet with Congress on safety laws after ‘end of humanity’ warnings — but resists calls for moratorium",
+    "link": "https://nypost.com/2026/09/13/us-news/speaker-johnson-says-ai-leaders-must-meet-with-congress-on-safety-laws-after-end-of-humanity-warnings/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-13-13-52-37 +0000",
     "source": "nyt",
     "headline": "Inside the Impeachment Trial that Threatened to End Ken Paxton’s Political Career",
     "link": "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
   },
   {
-    "score": 14,
-    "pubdate": "2026-09-13-12-45-30 +0000",
+    "score": 16,
+    "pubdate": "2026-09-13-13-42-25 +0000",
+    "source": "nyt",
+    "headline": "Okinawa Set to Elect Conservative Amid Fears About China and Economy",
+    "link": "https://www.nytimes.com/2026/09/13/world/asia/japapn-okinawa-election-governor-conservative-china-economy.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-09-13-13-37-48 +0000",
     "source": "nyt",
     "headline": "As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers",
     "link": "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html"
   },
   {
-    "score": 13,
-    "pubdate": "2026-09-13-12-23-26 +0000",
+    "score": 9,
+    "pubdate": "2026-09-13-13-35-13 +0000",
     "source": "nypost",
-    "headline": "US diplomat extracted from London after feds allegedly discover child porn — and UK pols are furious: ‘Protecting pedophiles’",
-    "link": "https://nypost.com/2026/09/13/world-news/us-diplomat-extracted-from-london-after-feds-allegedly-discover-child-porn/"
+    "headline": "Beijing bans drone possession after pilot killed in June skyscraper accident",
+    "link": "https://nypost.com/2026/09/13/world-news/beijing-bans-drone-possession-starting-in-november/"
   },
   {
-    "score": 10,
-    "pubdate": "2026-09-13-12-16-32 +0000",
-    "source": "cbc",
-    "headline": "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets",
-    "link": "https://www.cbc.ca/news/world/lithuania-airport-closed-possible-drone-9.7342142?cmp=rss"
+    "score": 8,
+    "pubdate": "2026-09-13-13-45-35 +0000",
+    "source": "nyt",
+    "headline": "Celine Dion Begins Her Paris Comeback Concert Run",
+    "link": "https://www.nytimes.com/2026/09/13/arts/music/celine-dion-paris-comeback-concert.html"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-09-13-13-30-38 +0000",
+    "source": "bbc",
+    "headline": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+    "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 7,
-    "pubdate": "2026-09-13-12-09-25 +0000",
-    "source": "nyt",
-    "headline": "After Louvre Jewel Heist, Robberies Continue at French Museums",
-    "link": "https://www.nytimes.com/2026/09/13/arts/design/louvre-france-museum-robberies.html"
+    "pubdate": "2026-09-13-13-50-28 +0000",
+    "source": "chitri",
+    "headline": "Mayor Brandon Johnson declares reelection campaign",
+    "link": "https://www.chicagotribune.com/2026/09/13/mayor-brandon-johnson-reelection-campaign/"
   },
   {
-    "score": 6,
-    "pubdate": "2026-09-13-12-05-43 +0000",
-    "source": "bbc",
-    "headline": "Reform's £72m donations 'entirely in line with law', Jenrick says",
-    "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 5,
-    "pubdate": "2026-09-13-12-36-28 +0000",
-    "source": "cbc",
-    "headline": "Search underway for about 130 people after Indonesian ferry overturns",
-    "link": "https://www.cbc.ca/news/world/indonesia-ferry-overturned-search-underway-9.7342154?cmp=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-09-13-12-45-30 +0000",
-    "source": "nyt",
-    "headline": "As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers",
-    "link": "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-09-13-12-39-12 +0000",
-    "source": "nyt",
-    "headline": "Inside the Impeachment Trial that Threatened to End Ken Paxton’s Political Career",
-    "link": "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html"
+    "score": 7,
+    "pubdate": "2026-09-13-13-00-00 +0000",
+    "source": "wsj",
+    "headline": "Lululemon’s Founder Is Getting Divorced. What It Will Mean for His Fortune.",
+    "link": "https://www.wsj.com/business/retail/lululemons-founder-is-getting-divorced-what-it-will-mean-for-his-fortune-47c18b34?mod=pls_whats_news_us_business_f"
   }
 ]
