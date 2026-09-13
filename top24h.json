@@ -1,17 +1,10 @@
 [
   {
-    "score": 99,
+    "score": 98,
     "pubdate": "2026-09-12-19-39-25 +0000",
     "source": "nypost",
     "headline": "Trump says he would ‘love’ to see a united Ireland — just days after new UK PM said it was off the table",
     "link": "https://nypost.com/2026/09/12/us-news/trump-says-ireland-unification-is-going-to-happen-eventually/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-09-12-10-00-01 +0000",
-    "source": "wapo",
-    "headline": "U.S.-Canada trade war hits GOP efforts to keep control of Congress",
-    "link": "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
   },
   {
     "score": 52,
@@ -21,6 +14,13 @@
     "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
   },
   {
+    "score": 51,
+    "pubdate": "2026-09-12-10-00-01 +0000",
+    "source": "wapo",
+    "headline": "U.S.-Canada trade war hits GOP efforts to keep control of Congress",
+    "link": "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
+  },
+  {
     "score": 43,
     "pubdate": "2026-09-12-22-31-13 +0000",
     "source": "nypost",
@@ -28,18 +28,18 @@
     "link": "https://nypost.com/2026/09/12/world-news/ukraine-and-russia-clash-in-first-ever-drone-battle-at-sea-video-shows/"
   },
   {
-    "score": 42,
-    "pubdate": "2026-09-12-03-45-43 +0000",
-    "source": "nypost",
-    "headline": "Chinese entities gave Iran satellite images of air base before missile strike killed 3 US service members in Jordan: report",
-    "link": "https://nypost.com/2026/09/11/us-news/chinese-entities-provided-iran-with-satellite-images-of-air-base-in-jordan-before-deadly-missile-strike-report/"
-  },
-  {
     "score": 41,
     "pubdate": "2026-09-12-23-26-22 +0000",
     "source": "nypost",
     "headline": "Disgraced California mayor facing sex assault suit from reality TV star ordered to pay $13M to seven victims",
     "link": "https://nypost.com/2026/09/12/us-news/former-california-dem-mayor-ordered-to-pay-13m-to-7-women/"
+  },
+  {
+    "score": 38,
+    "pubdate": "2026-09-12-03-45-43 +0000",
+    "source": "nypost",
+    "headline": "Chinese entities gave Iran satellite images of air base before missile strike killed 3 US service members in Jordan: report",
+    "link": "https://nypost.com/2026/09/11/us-news/chinese-entities-provided-iran-with-satellite-images-of-air-base-in-jordan-before-deadly-missile-strike-report/"
   },
   {
     "score": 36,
