@@ -1,6 +1,6 @@
 [
   {
-    "score": 87,
+    "score": 84,
     "pubdate": "2026-09-12-19-39-25 +0000",
     "source": "nypost",
     "headline": "Trump says he would ‘love’ to see a united Ireland — just days after new UK PM said it was off the table",
@@ -14,13 +14,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 48,
-    "pubdate": "2026-09-12-10-00-01 +0000",
-    "source": "wapo",
-    "headline": "U.S.-Canada trade war hits GOP efforts to keep control of Congress",
-    "link": "https://www.washingtonpost.com/business/2026/09/12/republican-candidates-some-nations-most-competitive-races-are-treading-carefully-local-industries-brace-president-trumps-tariffs/"
-  },
-  {
     "score": 40,
     "pubdate": "2026-09-13-04-24-20 +0000",
     "source": "nypost",
@@ -28,11 +21,18 @@
     "link": "https://nypost.com/2026/09/13/us-news/ohio-gubernatorial-candidate-amy-actons-handlers-lash-out-when-cameraman-confronts-her-about-debate/"
   },
   {
-    "score": 38,
-    "pubdate": "2026-09-12-21-16-47 +0000",
+    "score": 40,
+    "pubdate": "2026-09-12-20-27-25 +0000",
     "source": "bbc",
-    "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
-    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+    "headline": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+    "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-09-13-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump insulted Texas Attorney General Ken Paxton at the GOP convention this past week despite endorsing him, as concerns mount about his Senate race",
+    "link": "https://www.wsj.com/politics/elections/republicans-growing-ken-paxton-anxiety-he-may-not-be-the-best-looking-guy-e6500b33?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 38,
@@ -43,27 +43,27 @@
   },
   {
     "score": 38,
+    "pubdate": "2026-09-12-21-16-47 +0000",
+    "source": "bbc",
+    "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 38,
     "pubdate": "2026-09-12-12-19-58 +0000",
     "source": "nypost",
     "headline": "Trump claims Iran-backed Houthis don’t want to fight with US — as terror group seizes entrance to Red Sea, tightens grip in region",
     "link": "https://nypost.com/2026/09/12/us-news/trump-optimistic-about-wrapping-up-iran-war-claims-things-will-turn-out-fine-and-dandy-during-meeting-with-ireland-pm/"
   },
   {
-    "score": 36,
-    "pubdate": "2026-09-13-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump insulted Texas Attorney General Ken Paxton at the GOP convention this past week despite endorsing him, as concerns mount about his Senate race",
-    "link": "https://www.wsj.com/politics/elections/republicans-growing-ken-paxton-anxiety-he-may-not-be-the-best-looking-guy-e6500b33?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-09-12-20-27-25 +0000",
-    "source": "bbc",
-    "headline": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-    "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 34,
+    "pubdate": "2026-09-12-20-51-49 +0000",
+    "source": "nypost",
+    "headline": "Lindsay Clancy case eerily similar to bipolar Irish nurse who killed her kids 3 years to the day before Mass. killer mom",
+    "link": "https://nypost.com/2026/09/12/us-news/lindsay-clancy-case-eerily-similar-to-another-nurses-killing-of-her-3-children/"
+  },
+  {
+    "score": 33,
     "pubdate": "2026-09-12-17-10-00 +0000",
     "source": "wsj",
     "headline": "Larry Ellison Scraps Plan to Sell Up to $7.5 Billion Worth of Oracle Stock",
