@@ -1,6 +1,6 @@
 [
   {
-    "score": 84,
+    "score": 90,
     "pubdate": "2026-09-12-19-39-25 +0000",
     "source": "nypost",
     "headline": "Trump says he would ‘love’ to see a united Ireland — just days after new UK PM said it was off the table",
@@ -14,11 +14,18 @@
     "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 40,
+    "score": 41,
     "pubdate": "2026-09-13-04-24-20 +0000",
     "source": "nypost",
     "headline": "Ohio Dem Amy Acton’s handlers lash out when cameraman confronts her about debate: ‘No pictures’",
     "link": "https://nypost.com/2026/09/13/us-news/ohio-gubernatorial-candidate-amy-actons-handlers-lash-out-when-cameraman-confronts-her-about-debate/"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-09-12-18-07-10 +0000",
+    "source": "nyt",
+    "headline": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html"
   },
   {
     "score": 40,
@@ -29,13 +36,6 @@
   },
   {
     "score": 39,
-    "pubdate": "2026-09-13-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "Trump insulted Texas Attorney General Ken Paxton at the GOP convention this past week despite endorsing him, as concerns mount about his Senate race",
-    "link": "https://www.wsj.com/politics/elections/republicans-growing-ken-paxton-anxiety-he-may-not-be-the-best-looking-guy-e6500b33?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 38,
     "pubdate": "2026-09-12-21-16-47 +0000",
     "source": "bbc",
     "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -43,17 +43,17 @@
   },
   {
     "score": 38,
+    "pubdate": "2026-09-13-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump insulted Texas Attorney General Ken Paxton at the GOP convention this past week despite endorsing him, as concerns mount about his Senate race",
+    "link": "https://www.wsj.com/politics/elections/republicans-growing-ken-paxton-anxiety-he-may-not-be-the-best-looking-guy-e6500b33?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 38,
     "pubdate": "2026-09-12-15-09-55 +0000",
     "source": "bbc",
     "headline": "Death toll from Philippines ferry fire rises to 76, with more still missing",
     "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-09-12-12-19-58 +0000",
-    "source": "nypost",
-    "headline": "Trump claims Iran-backed Houthis don’t want to fight with US — as terror group seizes entrance to Red Sea, tightens grip in region",
-    "link": "https://nypost.com/2026/09/12/us-news/trump-optimistic-about-wrapping-up-iran-war-claims-things-will-turn-out-fine-and-dandy-during-meeting-with-ireland-pm/"
   },
   {
     "score": 34,
@@ -64,9 +64,9 @@
   },
   {
     "score": 33,
-    "pubdate": "2026-09-12-17-10-00 +0000",
+    "pubdate": "2026-09-13-10-54-00 +0000",
     "source": "wsj",
-    "headline": "Larry Ellison Scraps Plan to Sell Up to $7.5 Billion Worth of Oracle Stock",
-    "link": "https://www.wsj.com/business/larry-ellison-scraps-plan-to-sell-up-to-7-5-billion-worth-of-oracle-stock-9f41edd2?mod=rss_markets_main"
+    "headline": "The latest spot for a Trump Tower is an ex-Soviet republic, and what seven retirees learned after moving to low-tax states. Read more in today’s 10-Point newsletter.",
+    "link": "https://www.wsj.com/economy/canada-seeks-eu-associate-member-status-as-u-s-trade-talks-collapse-4eebec65?mod=rss_socialeconomyfeed"
   }
 ]
