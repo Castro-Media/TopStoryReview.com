@@ -1,59 +1,59 @@
 [
   {
-    "score": 193,
+    "score": 211,
     "pubdate": "2026-09-14-14-18-53 +0000",
     "source": "chitri",
     "headline": "President Donald Trump dismisses new AI guardrails, says there is a ‘SICK conspiracy’ against AI and data centers",
     "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-ai-guardrails-data-centers/"
   },
   {
-    "score": 105,
+    "score": 104,
     "pubdate": "2026-09-13-19-34-36 +0000",
     "source": "bbc",
     "headline": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 81,
+    "score": 80,
+    "pubdate": "2026-09-14-10-14-31 +0000",
+    "source": "nypost",
+    "headline": "Russian drone hits train near Ukraine-Poland border soon after Boris Johnson, other diplomats passed through",
+    "link": "https://nypost.com/2026/09/14/world-news/russian-drone-hits-train-near-ukraine-poland-border-soon-after-visiting-dignitaries-passed-through/"
+  },
+  {
+    "score": 75,
+    "pubdate": "2026-09-14-14-59-13 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply",
+    "link": "https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html"
+  },
+  {
+    "score": 73,
     "pubdate": "2026-09-14-11-04-00 +0000",
     "source": "wsj",
     "headline": "The price of gasoline—and, by proxy, the Iran War— could end up being the defining issue of the midterm elections. Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/policy/with-50-days-to-the-midterms-it-all-might-come-down-to-one-thing-d1297f34?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 73,
-    "pubdate": "2026-09-14-14-02-50 +0000",
+    "score": 51,
+    "pubdate": "2026-09-14-11-14-20 +0000",
     "source": "nyt",
-    "headline": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
-    "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html"
+    "headline": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+    "link": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html"
   },
   {
-    "score": 53,
-    "pubdate": "2026-09-13-21-30-00 +0000",
-    "source": "wsj",
-    "headline": "The Republican nominee for Wisconsin governor, Rep. Tom Tiffany, survived an emergency water landing and swam to safety after his plane lost power approaching a Wisconsin airport, he said Sunday",
-    "link": "https://www.wsj.com/politics/policy/wisconsin-governor-candidate-swims-to-safety-after-plane-ditches-in-lake-32dda6ff?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 53,
-    "pubdate": "2026-09-14-13-41-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-saudi-east-west-pipeline-attack-threatens-export-routes-b6857ade?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-09-14-12-18-13 +0000",
-    "source": "bbc",
-    "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 45,
+    "score": 51,
     "pubdate": "2026-09-13-20-23-48 +0000",
     "source": "nyt",
     "headline": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
     "link": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html"
+  },
+  {
+    "score": 47,
+    "pubdate": "2026-09-13-21-30-00 +0000",
+    "source": "wsj",
+    "headline": "The Republican nominee for Wisconsin governor, Rep. Tom Tiffany, survived an emergency water landing and swam to safety after his plane lost power approaching a Wisconsin airport, he said Sunday",
+    "link": "https://www.wsj.com/politics/policy/wisconsin-governor-candidate-swims-to-safety-after-plane-ditches-in-lake-32dda6ff?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 45,
@@ -63,10 +63,10 @@
     "link": "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html"
   },
   {
-    "score": 43,
-    "pubdate": "2026-09-14-14-40-23 +0000",
-    "source": "nyt",
-    "headline": "As Supreme Court Weighs Trump Mail Ballot Plan, Another Judge Blocks It",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/trump-mail-ballot-nichols-supreme-court.html"
+    "score": 42,
+    "pubdate": "2026-09-14-09-10-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Treasury Yields Edge Lower, German 10-Year Bund Yield Hits New 15-Year High",
+    "link": "https://www.wsj.com/economy/central-banking/u-s-treasury-yields-edge-lower-german-10-year-bund-yield-hits-new-15-year-high-19110507?mod=rss_socialeconomyfeed"
   }
 ]
