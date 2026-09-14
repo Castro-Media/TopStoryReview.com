@@ -1,13 +1,13 @@
 [
   {
-    "score": 194,
+    "score": 193,
     "pubdate": "2026-09-14-14-18-53 +0000",
     "source": "chitri",
     "headline": "President Donald Trump dismisses new AI guardrails, says there is a ‘SICK conspiracy’ against AI and data centers",
     "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-ai-guardrails-data-centers/"
   },
   {
-    "score": 109,
+    "score": 105,
     "pubdate": "2026-09-13-19-34-36 +0000",
     "source": "bbc",
     "headline": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
@@ -28,7 +28,7 @@
     "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html"
   },
   {
-    "score": 65,
+    "score": 53,
     "pubdate": "2026-09-13-21-30-00 +0000",
     "source": "wsj",
     "headline": "The Republican nominee for Wisconsin governor, Rep. Tom Tiffany, survived an emergency water landing and swam to safety after his plane lost power approaching a Wisconsin airport, he said Sunday",
@@ -49,13 +49,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 46,
-    "pubdate": "2026-09-14-13-31-47 +0000",
-    "source": "nyt",
-    "headline": "Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html"
-  },
-  {
     "score": 45,
     "pubdate": "2026-09-13-20-23-48 +0000",
     "source": "nyt",
@@ -63,7 +56,14 @@
     "link": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html"
   },
   {
-    "score": 44,
+    "score": 45,
+    "pubdate": "2026-09-14-13-31-47 +0000",
+    "source": "nyt",
+    "headline": "Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election",
+    "link": "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html"
+  },
+  {
+    "score": 43,
     "pubdate": "2026-09-14-14-40-23 +0000",
     "source": "nyt",
     "headline": "As Supreme Court Weighs Trump Mail Ballot Plan, Another Judge Blocks It",

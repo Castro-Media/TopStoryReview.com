@@ -1,31 +1,24 @@
 [
   {
-    "score": 453,
+    "score": 451,
     "pubdate": "2026-09-14-14-18-53 +0000",
     "source": "chitri",
     "headline": "President Donald Trump dismisses new AI guardrails, says there is a ‘SICK conspiracy’ against AI and data centers",
     "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-ai-guardrails-data-centers/"
   },
   {
-    "score": 280,
+    "score": 276,
     "pubdate": "2026-09-12-00-00-00 +0000",
     "source": "wsj",
     "headline": "For most Americans, oil-fueled inflation shows up most quickly in their gas tanks. The big question is whether fuel prices will eventually start increasing prices for other goods and services.",
     "link": "https://www.wsj.com/economy/how-energy-is-driving-inflationand-how-its-not-50560f6e?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 172,
+    "score": 170,
     "pubdate": "2026-09-14-11-04-00 +0000",
     "source": "wsj",
     "headline": "The price of gasoline—and, by proxy, the Iran War— could end up being the defining issue of the midterm elections. Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/policy/with-50-days-to-the-midterms-it-all-might-come-down-to-one-thing-d1297f34?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 159,
-    "pubdate": "2026-09-13-19-47-00 +0000",
-    "source": "wsj",
-    "headline": "Trump’s Irish weekend was supposed to center on low-stakes diplomacy. Instead, it drew him into controversy when he voiced support for Irish reunification, an issue U.S. presidents typically avoid",
-    "link": "https://www.wsj.com/politics/elections/for-trump-a-golf-trip-to-ireland-tees-up-a-reunification-controversy-bf3c2f17?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 159,
@@ -35,6 +28,13 @@
     "link": "https://www.wsj.com/politics/policy/embattled-sen-susan-collins-criticizes-trumps-canada-insults-89da9223?mod=rss_socialpoliticsfeed"
   },
   {
+    "score": 159,
+    "pubdate": "2026-09-13-19-47-00 +0000",
+    "source": "wsj",
+    "headline": "Trump’s Irish weekend was supposed to center on low-stakes diplomacy. Instead, it drew him into controversy when he voiced support for Irish reunification, an issue U.S. presidents typically avoid",
+    "link": "https://www.wsj.com/politics/elections/for-trump-a-golf-trip-to-ireland-tees-up-a-reunification-controversy-bf3c2f17?mod=rss_socialpoliticsfeed"
+  },
+  {
     "score": 125,
     "pubdate": "2026-09-09-20-54-36 +0000",
     "source": "latimes",
@@ -42,11 +42,11 @@
     "link": "https://www.latimes.com/politics/story/2026-09-09/california-other-states-warn-supreme-court-of-chaos-if-it-lets-usps-mail-ballot-rules-stand"
   },
   {
-    "score": 122,
-    "pubdate": "2026-09-14-06-59-04 +0000",
-    "source": "nypost",
-    "headline": "Amazon halts use of cargo company involved in deadly Miami plane crash for time being: report",
-    "link": "https://nypost.com/2026/09/14/us-news/amazon-halts-use-of-cargo-company-involved-in-deadly-miami-plane-crash-for-time-being-report/"
+    "score": 121,
+    "pubdate": "2026-09-13-21-30-00 +0000",
+    "source": "wsj",
+    "headline": "The Republican nominee for Wisconsin governor, Rep. Tom Tiffany, survived an emergency water landing and swam to safety after his plane lost power approaching a Wisconsin airport, he said Sunday",
+    "link": "https://www.wsj.com/politics/policy/wisconsin-governor-candidate-swims-to-safety-after-plane-ditches-in-lake-32dda6ff?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 117,
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2026/09/14/world-news/russian-drone-hits-train-near-ukraine-poland-border-soon-after-visiting-dignitaries-passed-through/"
   },
   {
-    "score": 111,
+    "score": 110,
     "pubdate": "2026-09-08-10-46-00 +0000",
     "source": "wsj",
     "headline": "Three numbers show how China’s extraordinary export surge is on track to at least match last year’s record $1.2 trillion surplus",
     "link": "https://www.wsj.com/economy/trade/three-numbers-that-show-just-how-big-chinas-export-boom-is-8ddf6ae8?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 100,
-    "pubdate": "2026-09-13-21-30-00 +0000",
-    "source": "wsj",
-    "headline": "The Republican nominee for Wisconsin governor, Rep. Tom Tiffany, survived an emergency water landing and swam to safety after his plane lost power approaching a Wisconsin airport, he said Sunday",
-    "link": "https://www.wsj.com/politics/policy/wisconsin-governor-candidate-swims-to-safety-after-plane-ditches-in-lake-32dda6ff?mod=rss_socialpoliticsfeed"
+    "score": 97,
+    "pubdate": "2026-09-14-06-59-04 +0000",
+    "source": "nypost",
+    "headline": "Amazon halts use of cargo company involved in deadly Miami plane crash for time being: report",
+    "link": "https://nypost.com/2026/09/14/us-news/amazon-halts-use-of-cargo-company-involved-in-deadly-miami-plane-crash-for-time-being-report/"
   }
 ]
