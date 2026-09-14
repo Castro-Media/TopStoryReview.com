@@ -1,52 +1,66 @@
 [
   {
-    "score": 165,
+    "score": 163,
     "pubdate": "2026-09-13-19-34-36 +0000",
     "source": "bbc",
     "headline": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 87,
+    "score": 91,
     "pubdate": "2026-09-13-13-55-08 +0000",
     "source": "nypost",
     "headline": "Speaker Johnson says AI leaders must meet with Congress on safety laws after ‘end of humanity’ warnings — but resists calls for moratorium",
     "link": "https://nypost.com/2026/09/13/us-news/speaker-johnson-says-ai-leaders-must-meet-with-congress-on-safety-laws-after-end-of-humanity-warnings/"
   },
   {
-    "score": 74,
+    "score": 75,
     "pubdate": "2026-09-14-11-04-00 +0000",
     "source": "wsj",
     "headline": "The price of gasoline—and, by proxy, the Iran War— could end up being the defining issue of the midterm elections. Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/policy/with-50-days-to-the-midterms-it-all-might-come-down-to-one-thing-d1297f34?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 66,
-    "pubdate": "2026-09-13-17-41-22 +0000",
-    "source": "chitri",
-    "headline": "President Donald Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks causing a shortage",
-    "link": "https://www.chicagotribune.com/2026/09/13/trump-ukraine-diesel-shortage/"
+    "score": 74,
+    "pubdate": "2026-09-14-12-26-11 +0000",
+    "source": "nyt",
+    "headline": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
+    "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html"
   },
   {
-    "score": 65,
+    "score": 66,
     "pubdate": "2026-09-13-21-30-00 +0000",
     "source": "wsj",
     "headline": "The Republican nominee for Wisconsin governor, Rep. Tom Tiffany, survived an emergency water landing and swam to safety after his plane lost power approaching a Wisconsin airport, he said Sunday",
     "link": "https://www.wsj.com/politics/policy/wisconsin-governor-candidate-swims-to-safety-after-plane-ditches-in-lake-32dda6ff?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 51,
-    "pubdate": "2026-09-14-03-38-13 +0000",
+    "score": 61,
+    "pubdate": "2026-09-14-11-13-43 +0000",
+    "source": "chitri",
+    "headline": "President Donald Trump agreed to new ethics rules to get a crypto bill across the line. But that might not be enough.",
+    "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-ethics-rules-crypto-bill/"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-09-14-12-18-13 +0000",
     "source": "bbc",
     "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
     "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 44,
-    "pubdate": "2026-09-14-11-13-43 +0000",
-    "source": "chitri",
-    "headline": "President Donald Trump agreed to new ethics rules to get a crypto bill across the line. But that might not be enough.",
-    "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-ethics-rules-crypto-bill/"
+    "score": 39,
+    "pubdate": "2026-09-13-21-53-33 +0000",
+    "source": "nypost",
+    "headline": "Hardline Iran faction launched attack to derail peace deal — while ‘phantom’ Supreme Leader is nowhere to be found: report",
+    "link": "https://nypost.com/2026/09/13/world-news/hardline-iran-faction-launched-attack-to-derail-peace-deal-and-phantom-supreme-leader-is-nowhere-to-be-found-report/"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-09-14-09-00-42 +0000",
+    "source": "nyt",
+    "headline": "Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election",
+    "link": "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html"
   },
   {
     "score": 38,
@@ -54,19 +68,5 @@
     "source": "chitri",
     "headline": "President Donald Trump downplays the need to check AI development and says he doesn’t want to cede edge to China",
     "link": "https://www.chicagotribune.com/2026/09/13/trump-downplays-the-need-to-check-ai-development-and-says-he-doesnt-want-to-cede-edge-to-china/"
-  },
-  {
-    "score": 38,
-    "pubdate": "2026-09-13-21-53-33 +0000",
-    "source": "nypost",
-    "headline": "Hardline Iran faction launched attack to derail peace deal — while ‘phantom’ Supreme Leader is nowhere to be found: report",
-    "link": "https://nypost.com/2026/09/13/world-news/hardline-iran-faction-launched-attack-to-derail-peace-deal-and-phantom-supreme-leader-is-nowhere-to-be-found-report/"
-  },
-  {
-    "score": 37,
-    "pubdate": "2026-09-14-09-00-42 +0000",
-    "source": "nyt",
-    "headline": "Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html"
   }
 ]
