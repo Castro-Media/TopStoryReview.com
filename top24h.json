@@ -1,10 +1,17 @@
 [
   {
-    "score": 154,
+    "score": 155,
     "pubdate": "2026-09-13-19-34-36 +0000",
     "source": "bbc",
     "headline": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
     "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 86,
+    "pubdate": "2026-09-13-14-22-44 +0000",
+    "source": "nypost",
+    "headline": "Trump brushes off AI doom predictions as ‘things that won’t happen,’ says US must push ahead: ‘Whoever wins AI, wins.’",
+    "link": "https://nypost.com/2026/09/13/tech/trump-brushes-off-ai-doom-predictions-says-us-must-push-ahead/"
   },
   {
     "score": 82,
@@ -14,39 +21,46 @@
     "link": "https://www.wsj.com/politics/policy/wisconsin-governor-candidate-swims-to-safety-after-plane-ditches-in-lake-32dda6ff?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 80,
-    "pubdate": "2026-09-13-14-22-44 +0000",
-    "source": "nypost",
-    "headline": "Trump brushes off AI doom predictions as ‘things that won’t happen,’ says US must push ahead: ‘Whoever wins AI, wins.’",
-    "link": "https://nypost.com/2026/09/13/tech/trump-brushes-off-ai-doom-predictions-says-us-must-push-ahead/"
-  },
-  {
-    "score": 58,
+    "score": 59,
     "pubdate": "2026-09-13-17-41-22 +0000",
     "source": "chitri",
     "headline": "President Donald Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks causing a shortage",
     "link": "https://www.chicagotribune.com/2026/09/13/trump-ukraine-diesel-shortage/"
   },
   {
-    "score": 53,
+    "score": 55,
     "pubdate": "2026-09-14-03-38-13 +0000",
     "source": "bbc",
     "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
     "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 46,
+    "score": 50,
     "pubdate": "2026-09-13-18-22-50 +0000",
     "source": "nypost",
     "headline": "New York Times’ Gaza war coverage was clearly biased against Israel, damning study reveals",
     "link": "https://nypost.com/2026/09/13/media/ny-times-gaza-war-coverage-was-clearly-biased-against-israel-damning-study/"
   },
   {
-    "score": 43,
-    "pubdate": "2026-09-14-04-25-21 +0000",
+    "score": 45,
+    "pubdate": "2026-09-13-21-53-33 +0000",
     "source": "nypost",
-    "headline": "Trump says China ‘spies’ on US after report ties Chinese imagery to Iran strike",
-    "link": "https://nypost.com/2026/09/14/us-news/trump-says-china-spies-on-us-after-report-ties-chinese-imagery-to-iran-strike/"
+    "headline": "Hardline Iran faction launched attack to derail peace deal — while ‘phantom’ Supreme Leader is nowhere to be found: report",
+    "link": "https://nypost.com/2026/09/13/world-news/hardline-iran-faction-launched-attack-to-derail-peace-deal-and-phantom-supreme-leader-is-nowhere-to-be-found-report/"
+  },
+  {
+    "score": 39,
+    "pubdate": "2026-09-13-18-49-37 +0000",
+    "source": "bbc",
+    "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
+    "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 38,
+    "pubdate": "2026-09-14-07-53-28 +0000",
+    "source": "nypost",
+    "headline": "Indonesia ferry disaster leaves six dead, 129 missing as survivors recall moment ship capsized",
+    "link": "https://nypost.com/2026/09/14/world-news/indonesia-ferry-disaster-leaves-six-dead-129-missing-as-survivors-recall-moment-ship-capsized/"
   },
   {
     "score": 35,
@@ -54,19 +68,5 @@
     "source": "wsj",
     "headline": "The latest spot for a Trump Tower is an ex-Soviet republic, and what seven retirees learned after moving to low-tax states. Read more in today’s 10-Point newsletter.",
     "link": "https://www.wsj.com/economy/canada-seeks-eu-associate-member-status-as-u-s-trade-talks-collapse-4eebec65?mod=rss_socialeconomyfeed"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-09-13-23-08-13 +0000",
-    "source": "nypost",
-    "headline": "NY Dem House candidate modeled for XXX-rated BDSM ads while serving in National Guard",
-    "link": "https://nypost.com/2026/09/13/us-news/ny-dem-house-candidate-chris-gallant-posed-for-graphic-bdsm-photos-while-in-national-guard/"
-  },
-  {
-    "score": 33,
-    "pubdate": "2026-09-14-02-12-03 +0000",
-    "source": "nypost",
-    "headline": "Pol behind the GOP’s ‘common sense vs. communist crazy’ messaging strategy revealed to be Lisa McClain",
-    "link": "https://nypost.com/2026/09/13/us-news/pol-behind-the-gops-common-sense-vs-communist-crazy-messaging-strategy-revealed-to-be-lisa-mcclain/"
   }
 ]
