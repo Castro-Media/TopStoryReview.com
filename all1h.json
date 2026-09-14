@@ -1,248 +1,188 @@
 [
   {
+    "headline": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-f641a9ab?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-14-12-58-00 +0000"
+  },
+  {
+    "headline": "Is A.I. Raising the Chances of Biological Warfare?",
+    "link": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
+    "source": "nyt",
+    "pubdate": "2026-09-14-12-54-52 +0000"
+  },
+  {
+    "headline": "Is A.I. Raising the Chances of Biological Warfare?",
+    "link": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
+    "source": "nyt",
+    "pubdate": "2026-09-14-12-54-52 +0000"
+  },
+  {
+    "headline": "Farage: Donations to Reform '100% compliant with the law today'",
+    "link": "https://www.bbc.co.uk/news/videos/cq1kxppz9x1ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-14-12-54-46 +0000"
+  },
+  {
+    "headline": "Canada Inflation Steady at 3% in August",
+    "link": "https://www.wsj.com/economy/central-banking/canada-inflation-steady-at-3-in-august-55cb34f1?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-14-12-52-00 +0000"
+  },
+  {
+    "headline": "Burnham cancels engagements after death of father",
+    "link": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-14-12-51-52 +0000"
+  },
+  {
+    "headline": "Financial Services Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-bca891c4?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-14-12-48-00 +0000"
+  },
+  {
+    "headline": "Iran and Persian Gulf foreign ministers postpone meeting as talks stall",
+    "link": "https://www.washingtonpost.com/world/2026/09/14/iran-persian-gulf-foreign-ministers-postpone-meeting-talks-stall/",
+    "source": "wapo",
+    "pubdate": "2026-09-14-12-45-37 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-d53eec27?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-14-12-40-00 +0000"
+  },
+  {
+    "headline": "Energy & Utilities Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-d53eec27?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-14-12-40-00 +0000"
+  },
+  {
     "headline": "Tech Stocks Shudder in Response to Calls to Slow A.I. Progress",
     "link": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
     "source": "nyt",
-    "pubdate": "2026-09-14-11-54-38 +0000"
+    "pubdate": "2026-09-14-12-37-45 +0000"
   },
   {
     "headline": "Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect.",
     "link": "https://www.nytimes.com/2026/09/14/business/dealbook/open-cosmos-space-start-ups-spacex.html",
     "source": "nyt",
-    "pubdate": "2026-09-14-11-53-20 +0000"
+    "pubdate": "2026-09-14-12-34-43 +0000"
   },
   {
-    "headline": "Why Is Danny Meyer, the Happy Face of Hospitality, Serving Up Regrets?",
-    "link": "https://www.nytimes.com/2026/09/14/dining/danny-meyer-hospitality-book.html",
+    "headline": "Basic Materials Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-8e794b6b?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-14-12-34-00 +0000"
+  },
+  {
+    "headline": "Oprah Winfrey to Host ‘Immersive’ Live Show at Las Vegas Sphere",
+    "link": "https://www.wsj.com/business/media/oprah-winfrey-to-host-immersive-live-show-at-las-vegas-sphere-12292eff?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-14-12-30-00 +0000"
+  },
+  {
+    "headline": "NextEra Energy, Dominion Energy Propose Expanded State Benefits to Support Merger",
+    "link": "https://www.wsj.com/business/energy-oil/nextera-energy-dominion-energy-propose-expanded-state-benefits-to-support-merger-94a4f2d2?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-14-12-27-00 +0000"
+  },
+  {
+    "headline": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
+    "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
     "source": "nyt",
-    "pubdate": "2026-09-14-11-53-19 +0000"
+    "pubdate": "2026-09-14-12-26-11 +0000"
   },
   {
-    "headline": "Modi Served World Leaders a Meatless Meal, and His Critics Pounced",
-    "link": "https://www.nytimes.com/2026/09/14/world/asia/india-brics-vegetarian-dinner.html",
+    "headline": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
+    "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
     "source": "nyt",
-    "pubdate": "2026-09-14-11-53-13 +0000"
+    "pubdate": "2026-09-14-12-26-11 +0000"
   },
   {
-    "headline": "Trump slams ‘terrible’ AOC, Mamdani after DSA pair caught sharing ‘inappropriate’ laugh during 9/11 ceremony",
-    "link": "https://nypost.com/2026/09/14/us-news/trump-slams-terrible-aoc-mamdani-after-dsa-pair-caught-sharing-inappropriate-laugh-during-9-11-ceremony/",
-    "source": "nypost",
-    "pubdate": "2026-09-14-11-48-55 +0000"
-  },
-  {
-    "headline": "Private Equity Daily: A Hidden Risk in Private Credit",
-    "link": "https://www.wsj.com/pro/private-equity/private-equity-daily-a-hidden-risk-in-private-credit-588e9c3d?mod=rss_markets_main",
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e3a3c244?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-09-14-11-45-00 +0000"
+    "pubdate": "2026-09-14-12-26-00 +0000"
   },
   {
-    "headline": "Petrol and diesel prices hit highest since 2022",
-    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-42-52 +0000"
-  },
-  {
-    "headline": "Petrol and diesel prices hit highest since 2022",
-    "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-42-52 +0000"
-  },
-  {
-    "headline": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-    "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-35-08 +0000"
-  },
-  {
-    "headline": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-    "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-35-08 +0000"
-  },
-  {
-    "headline": "China criticises idea it is in 'malicious competition' over AI",
-    "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-31-39 +0000"
-  },
-  {
-    "headline": "China criticises idea it is in 'malicious competition' over AI",
-    "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-31-39 +0000"
-  },
-  {
-    "headline": "Rep. Mike Lawler rips rival Cait Conley over AI data centers in hard-hitting ad for battleground NY district",
-    "link": "https://nypost.com/2026/09/14/us-news/lawler-rips-rival-conley-over-ai-data-centers-in-hard-hitting-ad/",
-    "source": "nypost",
-    "pubdate": "2026-09-14-11-30-00 +0000"
-  },
-  {
-    "headline": "The Morning Risk Report: Congress Is Suddenly Waking Up to the AI Doomsday Threat",
-    "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-congress-is-suddenly-waking-up-to-the-ai-doomsday-threat-29c1baa8?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-14-11-29-00 +0000"
-  },
-  {
-    "headline": "Thousands demand end to violence in Mexican cartel hotspot",
-    "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-28-36 +0000"
-  },
-  {
-    "headline": "Thousands demand end to violence in Mexican cartel hotspot",
-    "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-28-36 +0000"
-  },
-  {
-    "headline": "Euronext, Deutsche Boerse Shares Rise After CEO’s Merger Comments",
-    "link": "https://www.wsj.com/business/deals/euronext-deutsche-boerse-shares-rise-after-ceos-merger-comments-4e96bbe9?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-14-11-24-00 +0000"
-  },
-  {
-    "headline": "Euronext, Deutsche Boerse Shares Rise After CEO’s Merger Comments",
-    "link": "https://www.wsj.com/business/deals/euronext-deutsche-boerse-shares-rise-after-ceos-merger-comments-4e96bbe9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-14-11-24-00 +0000"
-  },
-  {
-    "headline": "TD Bank Mobilizes More than $108 Billion Commitment to Fuel Canada’s Infrastructure",
-    "link": "https://www.wsj.com/finance/investing/td-bank-mobilizes-more-than-108-billion-commitment-to-fuel-canadas-infrastructure-d0f22e4a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-14-11-23-00 +0000"
-  },
-  {
-    "headline": "TD Bank Mobilizes More than $108 Billion Commitment to Fuel Canada’s Infrastructure",
-    "link": "https://www.wsj.com/finance/investing/td-bank-mobilizes-more-than-108-billion-commitment-to-fuel-canadas-infrastructure-d0f22e4a?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-14-11-23-00 +0000"
-  },
-  {
-    "headline": "Hyrox apologises for allowing race to continue after athlete soils herself",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-20-07 +0000"
-  },
-  {
-    "headline": "Hyrox apologises for allowing race to continue after athlete soils herself",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-20-07 +0000"
-  },
-  {
-    "headline": "On Holding’s Aversion to Discounting Faces Test; America’s Bleak Debt Picture",
-    "link": "https://www.wsj.com/cfo-journal/on-holdings-aversion-to-discounting-faces-test-americas-bleak-debt-picture-106f90a6?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-14-11-19-00 +0000"
-  },
-  {
-    "headline": "Ukraine’s war outlook worsens as Kyiv confronts budget and weapons shortfalls",
-    "link": "https://www.washingtonpost.com/world/2026/09/14/ukraines-war-outlook-worsens-kyiv-confronts-budget-weapons-shortfalls/",
-    "source": "wapo",
-    "pubdate": "2026-09-14-11-16-01 +0000"
-  },
-  {
-    "headline": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-    "link": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+    "headline": "Global Warming Will Breach the 1.5 Degree Celsius Limit. Now What?",
+    "link": "https://www.nytimes.com/2026/09/14/climate/global-warming-limit-paris-climate-agreement.html",
     "source": "nyt",
-    "pubdate": "2026-09-14-11-14-20 +0000"
+    "pubdate": "2026-09-14-12-26-00 +0000"
   },
   {
-    "headline": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
-    "link": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-11-14-20 +0000"
-  },
-  {
-    "headline": "President Donald Trump agreed to new ethics rules to get a crypto bill across the line. But that might not be enough.",
-    "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-ethics-rules-crypto-bill/",
-    "source": "chitri",
-    "pubdate": "2026-09-14-11-13-43 +0000"
-  },
-  {
-    "headline": "President Donald Trump agreed to new ethics rules to get a crypto bill across the line. But that might not be enough.",
-    "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-ethics-rules-crypto-bill/",
-    "source": "chitri",
-    "pubdate": "2026-09-14-11-13-43 +0000"
-  },
-  {
-    "headline": "Amazon suspends use of 21 Air, the cargo carrier whose plane careened off Miami runway and killed 5",
-    "link": "https://www.chicagotribune.com/2026/09/14/amazon-21-air-cargo-carrier-miami-runway/",
-    "source": "chitri",
-    "pubdate": "2026-09-14-11-11-42 +0000"
-  },
-  {
-    "headline": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in",
-    "link": "https://www.chicagotribune.com/2026/09/14/federal-judge-trump-mail-ballot-order/",
-    "source": "chitri",
-    "pubdate": "2026-09-14-11-07-58 +0000"
-  },
-  {
-    "headline": "What you need to know about the huge donations to Reform UK",
-    "link": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-07-25 +0000"
-  },
-  {
-    "headline": "What you need to know about the huge donations to Reform UK",
-    "link": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-07-25 +0000"
-  },
-  {
-    "headline": "Diesel Price Surges to Record as Supply Disruptions Mount",
-    "link": "https://www.wsj.com/logistics-report/diesel-price-surges-to-record-as-supply-disruptions-mount-0e1965fe?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-14-11-06-00 +0000"
-  },
-  {
-    "headline": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Being Rebuffed by Trump",
-    "link": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-11-05-06 +0000"
-  },
-  {
-    "headline": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Being Rebuffed by Trump",
-    "link": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-11-05-06 +0000"
-  },
-  {
-    "headline": "The price of gasoline—and, by proxy, the Iran War— could end up being the defining issue of the midterm elections. Read more in today’s WSJ Politics Newsletter:",
-    "link": "https://www.wsj.com/politics/policy/with-50-days-to-the-midterms-it-all-might-come-down-to-one-thing-d1297f34?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-14-11-04-00 +0000"
-  },
-  {
-    "headline": "Beloved NYC bodega cat stolen from store as kitty’s fans have their claws out for the petnappers",
-    "link": "https://nypost.com/2026/09/14/us-news/beloved-nyc-bodega-cat-stolen-from-store-as-kittys-fans-have-their-claws-out-for-the-petnappers/",
-    "source": "nypost",
-    "pubdate": "2026-09-14-11-00-00 +0000"
-  },
-  {
-    "headline": "Twin Cities suburbs are more diverse than ever. See how your city has changed.",
-    "link": "https://www.startribune.com/twin-cities-suburbs-diversity/601872578",
+    "headline": "New warnings about the risks of AI to humanity revive a long-running debate",
+    "link": "https://www.startribune.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/601889324",
     "source": "startribune",
-    "pubdate": "2026-09-14-11-00-00 +0000"
+    "pubdate": "2026-09-14-12-25-05 +0000"
   },
   {
-    "headline": "Minnesota may be the best place in the country for fall colors this year",
-    "link": "https://www.startribune.com/minnesota-may-be-the-best-place-in-the-country-for-fall-colors-this-year/601888431",
-    "source": "startribune",
-    "pubdate": "2026-09-14-11-00-00 +0000"
+    "headline": "In Hegseth’s Pentagon, Top Leaders Battle Turmoil",
+    "link": "https://www.nytimes.com/2026/09/14/us/politics/hegseth-pentagon-turmoil.html",
+    "source": "nyt",
+    "pubdate": "2026-09-14-12-22-50 +0000"
   },
   {
-    "headline": "Westminster's time is coming to an end, Welsh, Scottish, Northern Irish leaders say",
-    "link": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss",
+    "headline": "In Hegseth’s Pentagon, Top Leaders Battle Turmoil",
+    "link": "https://www.nytimes.com/2026/09/14/us/politics/hegseth-pentagon-turmoil.html",
+    "source": "nyt",
+    "pubdate": "2026-09-14-12-22-50 +0000"
+  },
+  {
+    "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-09-14-10-59-31 +0000"
+    "pubdate": "2026-09-14-12-18-13 +0000"
   },
   {
-    "headline": "Are autonomous vehicles and San Francisco development on a collision course?",
-    "link": "https://missionlocal.org/2026/09/robotaxi-autonomous-vehicle-san-francisco-parking-development/",
-    "source": "missionlocal",
-    "pubdate": "2026-09-14-10-59-00 +0000"
+    "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-14-12-18-13 +0000"
+  },
+  {
+    "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-14-12-18-13 +0000"
+  },
+  {
+    "headline": "France Mocked U.S. for Human Rights Vote, Then Quietly Apologized",
+    "link": "https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html",
+    "source": "nyt",
+    "pubdate": "2026-09-14-12-14-51 +0000"
+  },
+  {
+    "headline": "France Mocked U.S. for Human Rights Vote, Then Quietly Apologized",
+    "link": "https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html",
+    "source": "nyt",
+    "pubdate": "2026-09-14-12-14-51 +0000"
+  },
+  {
+    "headline": "France Mocked U.S. for Human Rights Vote, Then Quietly Apologized",
+    "link": "https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html",
+    "source": "nyt",
+    "pubdate": "2026-09-14-12-14-51 +0000"
+  },
+  {
+    "headline": "Alaska moose hunter remarkably survives bear attack: ‘Glad I blacked out’",
+    "link": "https://nypost.com/2026/09/14/us-news/alaska-moose-hunter-remarkably-survives-bear-attack-glad-i-blacked-out/",
+    "source": "nypost",
+    "pubdate": "2026-09-14-12-10-53 +0000"
+  },
+  {
+    "headline": "Growing Pains for Startups in the ChatGPT Generation",
+    "link": "https://www.wsj.com/pro/venture-capital/growing-pains-for-startups-in-the-chatgpt-generation-f6f8f196?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-14-12-08-00 +0000"
+  },
+  {
+    "headline": "Some Democrats are recalibrating their approach to transgender issues as they seek a path to power",
+    "link": "https://www.chicagotribune.com/2026/09/14/democrats-recalibrating-transgender-issues/",
+    "source": "chitri",
+    "pubdate": "2026-09-14-12-07-00 +0000"
   }
 ]
