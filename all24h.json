@@ -1,18 +1,456 @@
 [
   {
-    "headline": "State pension likely to rise by £488 a year in April",
+    "headline": "Dollar Could Extend Gains on Potentially Higher U.S. Rates, Oil Prices",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-weaken-amid-higher-u-s-treasury-yields-6c31ec0f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-15-10-48-00 +0000"
+  },
+  {
+    "headline": "Rep. Nancy Mace calls for ‘serial killer’ mom Lindsay Clancy to be ‘publicly executed’ in a ‘warning to women’",
+    "link": "https://nypost.com/2026/09/15/us-news/rep-nancy-mace-calls-for-serial-killer-mom-lindsay-clancy-to-be-publicly-executed-in-a-warning-to-women/",
+    "source": "nypost",
+    "pubdate": "2026-09-15-10-46-00 +0000"
+  },
+  {
+    "headline": "Grab to Buy Majority Stake in SoftBank-Backed Atome for About $1.5 Billion",
+    "link": "https://www.wsj.com/finance/investing/grab-to-buy-majority-stake-in-softbank-backed-atome-for-about-1-5-billion-5d62aad8?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-15-10-45-00 +0000"
+  },
+  {
+    "headline": "Grab to Buy Majority Stake in SoftBank-Backed Atome for About $1.5 Billion",
+    "link": "https://www.wsj.com/finance/investing/grab-to-buy-majority-stake-in-softbank-backed-atome-for-about-1-5-billion-5d62aad8?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-15-10-45-00 +0000"
+  },
+  {
+    "headline": "Suspected sabotage triggers a major Dutch rail outage during morning rush hour",
+    "link": "https://nypost.com/2026/09/15/world-news/suspected-sabotage-triggers-a-major-dutch-rail-outage-during-the-morning-rush-hour/",
+    "source": "nypost",
+    "pubdate": "2026-09-15-10-37-26 +0000"
+  },
+  {
+    "headline": "Stock Investors Should Root for a Rate Hike. Yeah, Really.",
+    "link": "https://www.wsj.com/finance/investing/stock-investors-should-root-for-a-rate-hike-yeah-really-5e821273?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-15-10-32-00 +0000"
+  },
+  {
+    "headline": "Unions urge ministers to soften planned changes to immigration rules",
+    "link": "https://www.bbc.co.uk/news/articles/cqp8d0nj04g6o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-10-25-28 +0000"
+  },
+  {
+    "headline": "Eurozone Trade Surplus Widened in July",
+    "link": "https://www.wsj.com/economy/trade/eurozone-trade-surplus-widened-in-july-a74cca2c?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-15-10-24-00 +0000"
+  },
+  {
+    "headline": "China Tightens Exit Restrictions as Tech Race With U.S. Intensifies",
+    "link": "https://www.wsj.com/world/china/china-tightens-exit-rules-as-tech-race-with-u-s-intensifies-39cfe7a2?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-15-10-19-00 +0000"
+  },
+  {
+    "headline": "Global Trading System Facing Fragmentation or Revamp At ‘Critical Juncture,’ WTO Says",
+    "link": "https://www.wsj.com/economy/trade/global-trading-system-facing-fragmentation-or-revamp-at-critical-juncture-wto-says-1efc56e2?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-15-10-14-00 +0000"
+  },
+  {
+    "headline": "U.S. Diesel Prices Hit New Record High as Fuel Squeeze Bites",
+    "link": "https://www.wsj.com/finance/commodities-futures/u-s-diesel-prices-hit-new-record-high-as-fuel-squeeze-bites-455c4983?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-15-10-13-00 +0000"
+  },
+  {
+    "headline": "U.S. Diesel Prices Hit New Record High as Fuel Squeeze Bites",
+    "link": "https://www.wsj.com/finance/commodities-futures/u-s-diesel-prices-hit-new-record-high-as-fuel-squeeze-bites-455c4983?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-15-10-13-00 +0000"
+  },
+  {
+    "headline": "Denmark says Russian warship fired flares at military helicopter",
+    "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-10-12-49 +0000"
+  },
+  {
+    "headline": "Denmark says Russian warship fired flares at military helicopter",
+    "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-10-12-49 +0000"
+  },
+  {
+    "headline": "Kenya to host 2029 World Athletics Championships in African first",
+    "link": "https://www.bbc.co.uk/news/articles/cmy8zy00x2qxo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-10-08-20 +0000"
+  },
+  {
+    "headline": "NATO fighter jet shoots down drone over Lithuania",
+    "link": "https://www.cbc.ca/news/world/nato-response-lithuania-drone-9.7344227?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-09-15-10-07-12 +0000"
+  },
+  {
+    "headline": "Hayden Panettiere and her alleged drug dealer exchanged ‘a slew of messages’ before suspected overdose death: report",
+    "link": "https://nypost.com/2026/09/15/us-news/hayden-panettiere-and-her-alleged-drug-dealer-exchanged-a-slew-of-messages-before-suspected-overdose-death-report/",
+    "source": "nypost",
+    "pubdate": "2026-09-15-10-01-55 +0000"
+  },
+  {
+    "headline": "Orland Park 5-bedroom home with golf simulator: $2.5M",
+    "link": "https://www.chicagotribune.com/2026/09/15/orland-park-pool-home/",
+    "source": "chitri",
+    "pubdate": "2026-09-15-10-00-30 +0000"
+  },
+  {
+    "headline": "Northwest Side attorney Bill Quinlan enters Chicago mayoral race",
+    "link": "https://www.chicagotribune.com/2026/09/15/bill-quinlan-chicago-mayoral-race/",
+    "source": "chitri",
+    "pubdate": "2026-09-15-10-00-11 +0000"
+  },
+  {
+    "headline": "New details emerge in NY Rep. Mike Lawler’s 2012 DWI bust: records",
+    "link": "https://nypost.com/2026/09/15/us-news/new-details-emerge-in-us-rep-mike-lawlers-2012-dwi-bust-records/",
+    "source": "nypost",
+    "pubdate": "2026-09-15-10-00-00 +0000"
+  },
+  {
+    "headline": "L.A. County lacked coordinated plan, processes to guide recovery after 2025 fires, report finds",
+    "link": "https://www.latimes.com/california/story/2026-09-15/la-county-had-no-plan-to-guide-recovery-after-2025-fires-new-report-finds",
+    "source": "latimes",
+    "pubdate": "2026-09-15-10-00-00 +0000"
+  },
+  {
+    "headline": "Is Kansas really in play for Democrats? Republicans are acting like it.",
+    "link": "https://www.washingtonpost.com/politics/2026/09/15/republicans-are-concerned-about-kansas-ahead-november-elections/",
+    "source": "wapo",
+    "pubdate": "2026-09-15-10-00-00 +0000"
+  },
+  {
+    "headline": "Suspected sabotage causes major Netherlands rail disruption",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-09-59-14 +0000"
+  },
+  {
+    "headline": "Suspected sabotage causes major Netherlands rail disruption",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-09-59-14 +0000"
+  },
+  {
+    "headline": "Key U.S. Bond Rate Near 20-Year High as Oil Prices Keep Climbing",
+    "link": "https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-57-19 +0000"
+  },
+  {
+    "headline": "Key U.S. Bond Rate Near 20-Year High as Oil Prices Keep Climbing",
+    "link": "https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-57-19 +0000"
+  },
+  {
+    "headline": "Why Our Poll Shows Democrats Leading in the House",
+    "link": "https://www.nytimes.com/video/us/elections/100000011145544/why-democrats-are-leading-in-house-poll.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-55-41 +0000"
+  },
+  {
+    "headline": "Hedge Funds Face Scrutiny Over Growing Treasury Footprint",
+    "link": "https://www.wsj.com/finance/investing/hedge-funds-face-scrutiny-over-growing-treasury-footprint-8490230d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-15-09-54-00 +0000"
+  },
+  {
+    "headline": "Global Bond Selloff Deepens as 10-Year Yields Hit Multiyear Highs",
+    "link": "https://www.wsj.com/finance/investing/u-s-10-year-treasury-yield-rises-to-highest-since-2007-91d1e44f?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-15-09-50-00 +0000"
+  },
+  {
+    "headline": "Judge Blocks Trump Rule Aimed at International Students and Journalists",
+    "link": "https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-44-15 +0000"
+  },
+  {
+    "headline": "Judge Blocks Trump Rule Aimed at International Students and Journalists",
+    "link": "https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-44-15 +0000"
+  },
+  {
+    "headline": "German Investor Confidence Continues Improving Streak",
+    "link": "https://www.wsj.com/economy/german-investor-confidence-continues-improving-streak-40135f06?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-15-09-44-00 +0000"
+  },
+  {
+    "headline": "The midterms are all about control",
+    "link": "https://www.washingtonpost.com/politics/2026/09/15/midterms-are-all-about-control/",
+    "source": "wapo",
+    "pubdate": "2026-09-15-09-35-12 +0000"
+  },
+  {
+    "headline": "Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots",
+    "link": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-33-13 +0000"
+  },
+  {
+    "headline": "Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots",
+    "link": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-33-13 +0000"
+  },
+  {
+    "headline": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-30-50 +0000"
+  },
+  {
+    "headline": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-30-50 +0000"
+  },
+  {
+    "headline": "Cremation of would-be Trump assassin Thomas Matthew Crooks’ body was paid for by ‘anonymous donor’",
+    "link": "https://nypost.com/2026/09/15/us-news/cremation-of-would-be-trump-assassin-thomas-matthew-crooks-paid-for-by-anonymous-donor/",
+    "source": "nypost",
+    "pubdate": "2026-09-15-09-30-00 +0000"
+  },
+  {
+    "headline": "Bond Yields Could Come Down as Fast as They’ve Climbed",
+    "link": "https://www.wsj.com/finance/investing/bond-yields-could-come-down-as-fast-as-theyve-climbed-d64ea9cd?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-15-09-30-00 +0000"
+  },
+  {
+    "headline": "Cremation of would-be Trump assassin Thomas Matthew Crooks’ body was paid for by ‘anonymous donor’",
+    "link": "https://nypost.com/2026/09/15/us-news/cremation-of-would-be-trump-assassin-thomas-matthew-crooks-paid-for-by-anonymous-donor/",
+    "source": "nypost",
+    "pubdate": "2026-09-15-09-30-00 +0000"
+  },
+  {
+    "headline": "The housing market is approaching the highest mortgage rate since January 2025, likely spooking home buyers and home builders even more",
+    "link": "https://www.wsj.com/economy/housing/the-stagnant-housing-market-is-about-to-face-a-7-mortgage-55a041d6?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-15-09-30-00 +0000"
+  },
+  {
+    "headline": "Heard on the Street: Despite what some deficit hawks have insisted, it won’t take an outbreak of fiscal responsibility in Washington to bring yields down from recent highs. Other things could do it.",
+    "link": "https://www.wsj.com/finance/investing/bond-yields-could-come-down-as-fast-as-theyve-climbed-d64ea9cd?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-15-09-30-00 +0000"
+  },
+  {
+    "headline": "NATO jets down drone in Lithuanian airspace after bloc warns strikes will drive support for Ukraine",
+    "link": "https://nypost.com/2026/09/15/world-news/nato-jets-down-drone-in-lithuanian-airspace-after-bloc-warns-strikes-will-drive-support-for-ukraine-2/",
+    "source": "nypost",
+    "pubdate": "2026-09-15-09-20-44 +0000"
+  },
+  {
+    "headline": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
+    "link": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-13-29 +0000"
+  },
+  {
+    "headline": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
+    "link": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-13-29 +0000"
+  },
+  {
+    "headline": "Police commissioner may cancel tour after backlash",
+    "link": "https://www.bbc.co.uk/news/articles/cjn5dlgevw05o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-09-08-55 +0000"
+  },
+  {
+    "headline": "Nato jets down drone that entered Lithuanian airspace",
+    "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-09-07-35 +0000"
+  },
+  {
+    "headline": "Nato jets down drone that entered Lithuanian airspace",
+    "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-09-07-35 +0000"
+  },
+  {
+    "headline": "Stock Futures Retreat, 10-Year Treasury Yield Holds Above 5% as Investors Await Fed Decision",
+    "link": "https://www.wsj.com/finance/stocks/stock-futures-retreat-10-year-treasury-yield-holds-above-5-as-investors-await-fed-decision-1cde847e?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-15-09-07-00 +0000"
+  },
+  {
+    "headline": "With Trump’s Plans Blocked, States Work to Restore Trust in Mail Voting",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/mail-ballots-trump-supreme-court-trust.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-04-26 +0000"
+  },
+  {
+    "headline": "With Trump’s Plans Blocked, States Work to Restore Trust in Mail Voting",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/mail-ballots-trump-supreme-court-trust.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-04-26 +0000"
+  },
+  {
+    "headline": "A ‘Blue Wave’ May Be Building, but How High?",
+    "link": "https://www.nytimes.com/2026/09/15/upshot/times-siena-national-poll.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-04-20 +0000"
+  },
+  {
+    "headline": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+    "link": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-04-04 +0000"
+  },
+  {
+    "headline": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+    "link": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-04-04 +0000"
+  },
+  {
+    "headline": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+    "link": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-04-04 +0000"
+  },
+  {
+    "headline": "Warsh Set for Showdown With Trump as Fed Faces Pressure to Raise Rates",
+    "link": "https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-04-03 +0000"
+  },
+  {
+    "headline": "Universities Sound Warnings About A.I. Even as They Embrace It",
+    "link": "https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-03-19 +0000"
+  },
+  {
+    "headline": "Democrats Gain Midterms Edge as Trump Drags Down Republicans, Per Times/Siena Poll",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-midterm-election-poll.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-02-56 +0000"
+  },
+  {
+    "headline": "Democrats Gain Midterms Edge as Trump Drags Down Republicans, Per Times/Siena Poll",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-midterm-election-poll.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-02-56 +0000"
+  },
+  {
+    "headline": "Alex Bores Wants Democrats to Make AI Safety a 2028 Election Issue",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/ai-safety-2028-election-democrats.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-02-21 +0000"
+  },
+  {
+    "headline": "Alex Bores Wants Democrats to Make AI Safety a 2028 Election Issue",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/ai-safety-2028-election-democrats.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-02-21 +0000"
+  },
+  {
+    "headline": "It’s Poll Watcher Training Season. Distrust Is on the Lesson Plan.",
+    "link": "https://www.nytimes.com/2026/09/15/business/media/poll-watching-midterm-election.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-02-06 +0000"
+  },
+  {
+    "headline": "Could a Progressive Democrat Really Become Governor of Texas?",
+    "link": "https://www.nytimes.com/2026/09/15/us/gina-hinojosa-governor-texas.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-00-47 +0000"
+  },
+  {
+    "headline": "Kyrgyzstan Is Russia’s Trading Loophole",
+    "link": "https://www.nytimes.com/video/world/asia/100000011077350/kyrgyzstan-is-russias-trading-loophole.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-00-34 +0000"
+  },
+  {
+    "headline": "Kyrgyzstan Is Russia’s Trading Loophole",
+    "link": "https://www.nytimes.com/video/world/asia/100000011077350/kyrgyzstan-is-russias-trading-loophole.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-09-00-34 +0000"
+  },
+  {
+    "headline": "ICE is quietly firing new hires. For one recruit, it was devastating.",
+    "link": "https://www.washingtonpost.com/immigration/2026/09/15/ice-is-quietly-firing-new-hires-one-recruit-it-was-devastating/",
+    "source": "wapo",
+    "pubdate": "2026-09-15-09-00-00 +0000"
+  },
+  {
+    "headline": "In tight House races, suspicions swirl around third-party candidates",
+    "link": "https://www.washingtonpost.com/politics/2026/09/15/tight-house-races-major-parties-prop-up-third-party-spoilers/",
+    "source": "wapo",
+    "pubdate": "2026-09-15-09-00-00 +0000"
+  },
+  {
+    "headline": "FBI Director Patel to face sharp questions from senators on personnel moves",
+    "link": "https://www.washingtonpost.com/national-security/2026/09/15/senators-grill-fbi-director-kash-patel/",
+    "source": "wapo",
+    "pubdate": "2026-09-15-09-00-00 +0000"
+  },
+  {
+    "headline": "Max Miller’s challenger launches attack ad based on domestic violence allegations",
+    "link": "https://www.washingtonpost.com/politics/2026/09/15/max-millers-challenger-launches-attack-ad-based-domestic-violence-allegations/",
+    "source": "wapo",
+    "pubdate": "2026-09-15-09-00-00 +0000"
+  },
+  {
+    "headline": "U.K. Labor Market Remains Soft as BOE Rate Decision Looms",
+    "link": "https://www.wsj.com/economy/jobs/u-k-unemployment-rate-remains-flat-176c2a9a?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-15-08-59-00 +0000"
+  },
+  {
+    "headline": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
+    "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-08-57-21 +0000"
+  },
+  {
+    "headline": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
+    "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
+    "source": "nyt",
+    "pubdate": "2026-09-15-08-57-21 +0000"
+  },
+  {
+    "headline": "Iran gains leverage with Bab al-Mandab Strait under Houthi control",
+    "link": "https://www.washingtonpost.com/world/2026/09/15/iran-gains-leverage-with-bab-al-mandab-strait-under-houthi-control/",
+    "source": "wapo",
+    "pubdate": "2026-09-15-08-57-12 +0000"
+  },
+  {
+    "headline": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
     "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-15-08-51-39 +0000"
   },
   {
-    "headline": "State pension likely to rise by £488 a year in April",
+    "headline": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
     "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-15-08-51-39 +0000"
   },
   {
-    "headline": "State pension likely to rise by £488 a year in April",
+    "headline": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
     "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-15-08-51-39 +0000"
@@ -54,7 +492,7 @@
     "pubdate": "2026-09-15-08-48-28 +0000"
   },
   {
-    "headline": "Stock Market Today: 10-Year Yield Forges Above 5%",
+    "headline": "Stock Market Today: 10-Year Yield Hits Highest Level Since 2007",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-09-15-08-39-51 +0000"
@@ -84,28 +522,10 @@
     "pubdate": "2026-09-15-08-25-12 +0000"
   },
   {
-    "headline": "U.S. 10-Year Treasury Yield Rises to Highest Since 2007",
-    "link": "https://www.wsj.com/finance/investing/u-s-10-year-treasury-yield-rises-to-highest-since-2007-91d1e44f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-15-08-18-00 +0000"
-  },
-  {
     "headline": "Gold Prices Fall as Rising Energy Costs Reinforce Rate-Hike Expectations",
     "link": "https://www.wsj.com/finance/commodities-futures/gold-stays-under-pressure-as-oil-heightens-inflation-fears-c6c5e4f4?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-09-15-08-13-00 +0000"
-  },
-  {
-    "headline": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
-    "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-08-10-08 +0000"
-  },
-  {
-    "headline": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
-    "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-08-10-08 +0000"
   },
   {
     "headline": "House unanimously votes to eliminate 1-cent coin permanently",
@@ -156,12 +576,6 @@
     "pubdate": "2026-09-15-07-55-00 +0000"
   },
   {
-    "headline": "Euro Could Fall if Fed Lifts Rates",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-weaken-amid-higher-u-s-treasury-yields-6c31ec0f?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-15-07-36-00 +0000"
-  },
-  {
     "headline": "What is the triple lock and how much is the state pension worth?",
     "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -172,12 +586,6 @@
     "link": "https://www.startribune.com/supreme-court-rejects-trump-mail-ballot-restrictions-for-now-ahead-of-midterms/601889762",
     "source": "startribune",
     "pubdate": "2026-09-15-07-20-01 +0000"
-  },
-  {
-    "headline": "U.K. Unemployment Unchanged Ahead of BOE Meeting",
-    "link": "https://www.wsj.com/economy/jobs/u-k-unemployment-rate-remains-flat-176c2a9a?mod=rss_socialeconomyfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-15-07-13-00 +0000"
   },
   {
     "headline": "Oil Prices Rise as Traders Gauge Lost Saudi Arabian Volumes After Pipeline Attack",
@@ -222,18 +630,6 @@
     "pubdate": "2026-09-15-06-34-23 +0000"
   },
   {
-    "headline": "Nato jets down drone that entered Lithuanian airspace",
-    "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-15-06-29-17 +0000"
-  },
-  {
-    "headline": "Nato jets down drone that entered Lithuanian airspace",
-    "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-15-06-29-17 +0000"
-  },
-  {
     "headline": "Pentagon creates legal waiver allowing personnel sworn to UFO secrecy to come forward",
     "link": "https://nypost.com/2026/09/15/us-news/pentagon-creates-legal-waiver-allowing-personnel-sworn-to-ufo-secrecy-to-come-forward/",
     "source": "nypost",
@@ -276,12 +672,6 @@
     "pubdate": "2026-09-15-05-21-09 +0000"
   },
   {
-    "headline": "Police commissioner may cancel tour after backlash",
-    "link": "https://www.bbc.co.uk/news/articles/cjn5dlgevw05o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-15-05-16-50 +0000"
-  },
-  {
     "headline": "Superstars and broken records: 2026 Emmy highlights",
     "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -298,6 +688,12 @@
     "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-15-05-13-08 +0000"
+  },
+  {
+    "headline": "Why is a village holding a referendum on leaving the UK?",
+    "link": "https://www.bbc.co.uk/news/articles/cj750vv0724qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-05-12-36 +0000"
   },
   {
     "headline": "Charities praise will gifts despite cost of living",
@@ -340,18 +736,6 @@
     "link": "https://nypost.com/2026/09/15/us-news/ex-dem-insider-lindy-li-exposes-what-harris-told-top-donors-before-biden-dropped-out/",
     "source": "nypost",
     "pubdate": "2026-09-15-04-31-47 +0000"
-  },
-  {
-    "headline": "Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-04-25-21 +0000"
-  },
-  {
-    "headline": "Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-04-25-21 +0000"
   },
   {
     "headline": "What Do the Houthis Want?",
@@ -440,12 +824,6 @@
   {
     "headline": "Weak Domestic Demand Continues to Weigh on Chinese Economic Activity",
     "link": "https://www.wsj.com/economy/weak-domestic-demand-continues-to-weigh-on-chinese-economic-activity-b8ba09d5?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-15-03-03-00 +0000"
-  },
-  {
-    "headline": "Weak Domestic Demand Continues to Weigh on Chinese Economic Activity",
-    "link": "https://www.wsj.com/economy/weak-domestic-demand-continues-to-weigh-on-chinese-economic-activity-b8ba09d5?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-09-15-03-03-00 +0000"
   },
@@ -550,18 +928,6 @@
     "link": "https://www.nytimes.com/2026/09/14/us/elections/supreme-court-alito-thomas-dissent.html",
     "source": "nyt",
     "pubdate": "2026-09-15-01-35-49 +0000"
-  },
-  {
-    "headline": "Judge Blocks Trump Rule Aimed at International Students and Journalists",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-01-31-24 +0000"
-  },
-  {
-    "headline": "Judge Blocks Trump Rule Aimed at International Students and Journalists",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-01-31-24 +0000"
   },
   {
     "headline": "These Mexican brothers want to bring rock en español to the Bay’s forefront",
@@ -744,18 +1110,6 @@
     "pubdate": "2026-09-14-23-52-46 +0000"
   },
   {
-    "headline": "Supreme Court rejects mail-in voting restrictions ahead of midterms in blow to Trump admin",
-    "link": "https://nypost.com/2026/09/14/us-news/supreme-court-rejects-mail-in-voting-restrictions-ahead-of-midterms-in-blow-to-trump-admin/",
-    "source": "nypost",
-    "pubdate": "2026-09-14-23-52-46 +0000"
-  },
-  {
-    "headline": "Atlantic Ocean breaks 60-year record for the longest hurricane dry spell",
-    "link": "https://nypost.com/2026/09/14/us-news/atlantic-breaks-60-year-record-for-the-longest-hurricane-dry-spell/",
-    "source": "nypost",
-    "pubdate": "2026-09-14-23-51-34 +0000"
-  },
-  {
     "headline": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
     "link": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -780,12 +1134,6 @@
     "pubdate": "2026-09-14-23-47-28 +0000"
   },
   {
-    "headline": "NYC teen stabbed in front of mom while walking to HS — as 2 other students also nabbed with guns at their schools",
-    "link": "https://nypost.com/2026/09/14/us-news/nyc-teen-stabbed-in-front-of-mom-while-walking-to-hs-as-2-other-students-also-nabbed-with-guns-at-their-schools/",
-    "source": "nypost",
-    "pubdate": "2026-09-14-23-33-44 +0000"
-  },
-  {
     "headline": "Mitch McConnell returns to Senate after three-month absence",
     "link": "https://www.bbc.co.uk/news/articles/cwvgy1mj4yqmo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -796,12 +1144,6 @@
     "link": "https://www.wsj.com/us-news/education/the-school-where-students-do-farmwork-and-choresand-pay-40-000-a-semester-03fae650?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-09-14-23-30-00 +0000"
-  },
-  {
-    "headline": "California car titan’s final moments with Hooters calendar girl — and the text she sent sister before McLaren horror crash",
-    "link": "https://nypost.com/2026/09/14/us-news/inside-car-titans-final-hours-with-hooters-lover-before-mclaren-crash/",
-    "source": "nypost",
-    "pubdate": "2026-09-14-23-24-10 +0000"
   },
   {
     "headline": "Gavin Newsom bills taxpayers for another $1 million to fight Medi-Cal fraud probes",
@@ -1122,12 +1464,6 @@
     "pubdate": "2026-09-14-22-00-00 +0000"
   },
   {
-    "headline": "A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco",
-    "link": "https://www.nytimes.com/2026/09/14/us/san-francisco-autopsy-cychlorphine.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-21-59-17 +0000"
-  },
-  {
     "headline": "‘Great’ or ‘alarming’ - Should AI be reined in?",
     "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -1306,12 +1642,6 @@
     "link": "https://www.chicagotribune.com/2026/09/14/lagrange-park-sewer-bids-high/",
     "source": "chitri",
     "pubdate": "2026-09-14-21-00-00 +0000"
-  },
-  {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-e8375cf3?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-14-20-56-00 +0000"
   },
   {
     "headline": "Auto & Transport Roundup: Market Talk",
@@ -1591,12 +1921,6 @@
   },
   {
     "headline": "U.S. 10-Year Yield Cools After Topping 5%, German Bund Yield Hits 15-Year High",
-    "link": "https://www.wsj.com/economy/central-banking/u-s-treasury-yields-edge-lower-german-10-year-bund-yield-hits-new-15-year-high-19110507?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-14-19-45-00 +0000"
-  },
-  {
-    "headline": "U.S. 10-Year Yield Cools After Topping 5%, German Bund Yield Hits 15-Year High",
     "link": "https://www.wsj.com/economy/central-banking/u-s-treasury-yields-edge-lower-german-10-year-bund-yield-hits-new-15-year-high-19110507?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-09-14-19-45-00 +0000"
@@ -1606,12 +1930,6 @@
     "link": "https://nypost.com/2026/09/14/business/crypto-billionaire-paid-4-5m-to-marry-glamorous-actress-now-he-wants-it-back-after-romance-fizzled/",
     "source": "nypost",
     "pubdate": "2026-09-14-19-42-13 +0000"
-  },
-  {
-    "headline": "Oil Prices Rise as Saudi East-West Pipeline Attack Threatens Export Routes",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-saudi-east-west-pipeline-attack-threatens-export-routes-b6857ade?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-14-19-39-00 +0000"
   },
   {
     "headline": "A.I. Queries From Abroad Raise Fears of a Biological Weapons Race",
@@ -1824,12 +2142,6 @@
     "pubdate": "2026-09-14-18-26-20 +0000"
   },
   {
-    "headline": "Precious Metals Settle Lower With Yields in Focus",
-    "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-focus-on-u-s-core-inflation-9f264ece?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-14-18-11-00 +0000"
-  },
-  {
     "headline": "States and Cities Sue Over Trump’s Policy to Restrict Green Cards",
     "link": "https://www.nytimes.com/2026/09/14/us/politics/green-cards-immigration-lawsuit.html",
     "source": "nyt",
@@ -1882,12 +2194,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ckjrxjqvgjj1o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-14-17-46-26 +0000"
-  },
-  {
-    "headline": "How University Core Curriculums Are Getting Political",
-    "link": "https://www.nytimes.com/2026/09/14/us/university-core-curriculum-texas-politics.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-17-46-09 +0000"
   },
   {
     "headline": "Abbott Agrees to $385 Million Settlement in Baby Formula Case",
@@ -2014,18 +2320,6 @@
     "link": "https://nypost.com/2026/09/14/us-news/jd-vance-announces-crackdown-after-870k-people-screwed-the-american-taxpayer-from-federal-loan-program/",
     "source": "nypost",
     "pubdate": "2026-09-14-17-21-35 +0000"
-  },
-  {
-    "headline": "Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-17-19-58 +0000"
-  },
-  {
-    "headline": "Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-17-19-58 +0000"
   },
   {
     "headline": "Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election",
@@ -2310,12 +2604,6 @@
     "pubdate": "2026-09-14-15-33-50 +0000"
   },
   {
-    "headline": "Uganda will now take part in Harry's Invictus Games after King's reassurance",
-    "link": "https://www.bbc.co.uk/news/articles/cq8r6330drkzo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-15-33-23 +0000"
-  },
-  {
     "headline": "France Mocked U.S. for Human Rights Vote, Then Quietly Apologized",
     "link": "https://www.nytimes.com/2026/09/14/world/europe/france-ambassador-trump-tweet.html",
     "source": "nyt",
@@ -2370,18 +2658,6 @@
     "pubdate": "2026-09-14-15-19-45 +0000"
   },
   {
-    "headline": "As Midterms Rage, Gillibrand Wants Congress to Talk Menopause",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/democrat-senate-menopause-gillibrand.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-15-13-49 +0000"
-  },
-  {
-    "headline": "As Midterms Rage, Gillibrand Wants Congress to Talk Menopause",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/democrat-senate-menopause-gillibrand.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-15-13-49 +0000"
-  },
-  {
     "headline": "Opinion | A Flawed Model That Burdens Small Banks",
     "link": "https://www.wsj.com/opinion/a-flawed-model-that-burdens-small-banks-199ef821?mod=rss_markets_main",
     "source": "wsj",
@@ -2422,18 +2698,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-14-14-58-48 +0000"
-  },
-  {
-    "headline": "Body of missing runner found in South Africa",
-    "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-14-58-48 +0000"
-  },
-  {
-    "headline": "Trump Announces $500 Rebates for Some Obamacare Customers, Weeks Before the Election",
-    "link": "https://www.nytimes.com/2026/09/10/business/trump-obamacare-rebates.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-14-57-24 +0000"
   },
   {
     "headline": "Dollar Strengthens as Treasury Yields Rise Amid Inflation Fears",
@@ -2682,18 +2946,6 @@
     "pubdate": "2026-09-14-12-30-00 +0000"
   },
   {
-    "headline": "In Hegseth’s Pentagon, Top Leaders Battle Turmoil",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/hegseth-pentagon-turmoil.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-12-22-51 +0000"
-  },
-  {
-    "headline": "In Hegseth’s Pentagon, Top Leaders Battle Turmoil",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/hegseth-pentagon-turmoil.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-12-22-51 +0000"
-  },
-  {
     "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
     "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2772,12 +3024,6 @@
     "pubdate": "2026-09-14-11-35-08 +0000"
   },
   {
-    "headline": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-    "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-35-08 +0000"
-  },
-  {
     "headline": "China criticises idea it is in 'malicious competition' over AI",
     "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -2818,12 +3064,6 @@
     "link": "https://www.wsj.com/finance/investing/td-bank-mobilizes-more-than-108-billion-commitment-to-fuel-canadas-infrastructure-d0f22e4a?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-09-14-11-23-00 +0000"
-  },
-  {
-    "headline": "Hyrox apologises for allowing race to continue after athlete soils herself",
-    "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-11-20-07 +0000"
   },
   {
     "headline": "Hyrox apologises for allowing race to continue after athlete soils herself",
@@ -2914,101 +3154,5 @@
     "link": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html",
     "source": "nyt",
     "pubdate": "2026-09-14-10-56-09 +0000"
-  },
-  {
-    "headline": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls",
-    "link": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-10-50-27 +0000"
-  },
-  {
-    "headline": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls",
-    "link": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-10-50-27 +0000"
-  },
-  {
-    "headline": "Campaigners told to respect rivals as local election abuse rises",
-    "link": "https://www.bbc.co.uk/news/articles/c3re7v5399zo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-10-46-46 +0000"
-  },
-  {
-    "headline": "Donations law changes to be debated after Reform's £72m windfall",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyjn9pdeeo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-10-41-33 +0000"
-  },
-  {
-    "headline": "Stocks Have the Midterm Blues",
-    "link": "https://www.wsj.com/finance/stocks/stocks-have-the-midterm-blues-000a3446?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-14-10-35-00 +0000"
-  },
-  {
-    "headline": "Russian drone hits train near Ukraine-Poland border soon after Boris Johnson, other diplomats passed through",
-    "link": "https://nypost.com/2026/09/14/world-news/russian-drone-hits-train-near-ukraine-poland-border-soon-after-visiting-dignitaries-passed-through/",
-    "source": "nypost",
-    "pubdate": "2026-09-14-10-14-31 +0000"
-  },
-  {
-    "headline": "Tories pick ex-councillor to contest Starmer's seat",
-    "link": "https://www.bbc.co.uk/news/articles/c3d70r2xn0ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-14-10-03-45 +0000"
-  },
-  {
-    "headline": "Landmark Vote Held in Restive Muslim Autonomous Region in the Philippines",
-    "link": "https://www.nytimes.com/2026/09/14/world/asia/muslim-mindanao-philippines-election.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-10-03-27 +0000"
-  },
-  {
-    "headline": "Landmark Vote Held in Restive Muslim Autonomous Region in the Philippines",
-    "link": "https://www.nytimes.com/2026/09/14/world/asia/muslim-mindanao-philippines-election.html",
-    "source": "nyt",
-    "pubdate": "2026-09-14-10-03-27 +0000"
-  },
-  {
-    "headline": "Why a lawyer who launched the Christian legal movement believes it’s gone astray",
-    "link": "https://www.washingtonpost.com/religion/2026/09/14/why-lawyer-who-launched-christian-legal-movement-believes-its-gone-astray/",
-    "source": "wapo",
-    "pubdate": "2026-09-14-10-00-01 +0000"
-  },
-  {
-    "headline": "In a macho culture dominated by localism, they're fostering inclusivity for LGBTQ+ surfers",
-    "link": "https://www.latimes.com/lifestyle/story/2026-09-14/queer-surfing-venice-beach-glen-walsh",
-    "source": "latimes",
-    "pubdate": "2026-09-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Union power vs. MAGA politics in California's schools superintendent race",
-    "link": "https://www.latimes.com/politics/story/2026-09-14/union-power-maga-politics-california-school-chief-race",
-    "source": "latimes",
-    "pubdate": "2026-09-14-10-00-00 +0000"
-  },
-  {
-    "headline": "On Holding’s Aversion to Discounting Tested by Softer Retail Sales",
-    "link": "https://www.wsj.com/cfo-journal/on-holdings-aversion-to-discounting-tested-by-softer-retail-sales-1e2e7bf8?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Airbnb Sets Up $250 Million Fund to Invest in Housing Construction",
-    "link": "https://www.wsj.com/real-estate/airbnb-sets-up-250-million-fund-to-invest-in-housing-construction-d729ab8c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Jessica Tarlov shares lessons from being the liberal voice at Fox News in 'I Disagree'",
-    "link": "https://www.latimes.com/entertainment-arts/books/story/2026-09-14/jessica-tarlov-i-disagree-book-fox-news",
-    "source": "latimes",
-    "pubdate": "2026-09-14-10-00-00 +0000"
-  },
-  {
-    "headline": "Union power vs. MAGA politics in California's schools superintendent race",
-    "link": "https://www.latimes.com/politics/story/2026-09-14/union-power-maga-politics-california-school-chief-race",
-    "source": "latimes",
-    "pubdate": "2026-09-14-10-00-00 +0000"
   }
 ]

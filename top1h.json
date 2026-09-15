@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 25,
+    "pubdate": "2026-09-15-09-57-19 +0000",
+    "source": "nyt",
+    "headline": "Key U.S. Bond Rate Near 20-Year High as Oil Prices Keep Climbing",
+    "link": "https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-15-10-37-26 +0000",
+    "source": "nypost",
+    "headline": "Suspected sabotage triggers a major Dutch rail outage during morning rush hour",
+    "link": "https://nypost.com/2026/09/15/world-news/suspected-sabotage-triggers-a-major-dutch-rail-outage-during-the-morning-rush-hour/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-15-10-45-00 +0000",
+    "source": "wsj",
+    "headline": "Grab to Buy Majority Stake in SoftBank-Backed Atome for About $1.5 Billion",
+    "link": "https://www.wsj.com/finance/investing/grab-to-buy-majority-stake-in-softbank-backed-atome-for-about-1-5-billion-5d62aad8?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-15-10-13-00 +0000",
+    "source": "wsj",
+    "headline": "U.S. Diesel Prices Hit New Record High as Fuel Squeeze Bites",
+    "link": "https://www.wsj.com/finance/commodities-futures/u-s-diesel-prices-hit-new-record-high-as-fuel-squeeze-bites-455c4983?mod=rss_markets_main"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-15-10-46-00 +0000",
+    "source": "nypost",
+    "headline": "Rep. Nancy Mace calls for ‘serial killer’ mom Lindsay Clancy to be ‘publicly executed’ in a ‘warning to women’",
+    "link": "https://nypost.com/2026/09/15/us-news/rep-nancy-mace-calls-for-serial-killer-mom-lindsay-clancy-to-be-publicly-executed-in-a-warning-to-women/"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-15-10-12-49 +0000",
+    "source": "bbc",
+    "headline": "Denmark says Russian warship fired flares at military helicopter",
+    "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-15-10-01-55 +0000",
+    "source": "nypost",
+    "headline": "Hayden Panettiere and her alleged drug dealer exchanged ‘a slew of messages’ before suspected overdose death: report",
+    "link": "https://nypost.com/2026/09/15/us-news/hayden-panettiere-and-her-alleged-drug-dealer-exchanged-a-slew-of-messages-before-suspected-overdose-death-report/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-09-15-10-00-11 +0000",
+    "source": "chitri",
+    "headline": "Northwest Side attorney Bill Quinlan enters Chicago mayoral race",
+    "link": "https://www.chicagotribune.com/2026/09/15/bill-quinlan-chicago-mayoral-race/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-09-15-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "L.A. County lacked coordinated plan, processes to guide recovery after 2025 fires, report finds",
+    "link": "https://www.latimes.com/california/story/2026-09-15/la-county-had-no-plan-to-guide-recovery-after-2025-fires-new-report-finds"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-09-15-10-14-00 +0000",
+    "source": "wsj",
+    "headline": "Global Trading System Facing Fragmentation or Revamp At ‘Critical Juncture,’ WTO Says",
+    "link": "https://www.wsj.com/economy/trade/global-trading-system-facing-fragmentation-or-revamp-at-critical-juncture-wto-says-1efc56e2?mod=rss_socialeconomyfeed"
+  }
+]
