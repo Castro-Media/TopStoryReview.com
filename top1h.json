@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 35,
+    "pubdate": "2026-09-15-20-50-19 +0000",
+    "source": "nyt",
+    "headline": "Poverty Rate Was Stable Before Trump’s Safety Net Cuts Gained Force",
+    "link": "https://www.nytimes.com/2026/09/15/business/economy/poverty-rate-trump-safety-net.html"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-09-15-20-34-12 +0000",
+    "source": "bbc",
+    "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+    "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 29,
+    "pubdate": "2026-09-15-20-18-00 +0000",
+    "source": "wsj",
+    "headline": "MAGA warrior Steve Bannon and the left-wing progressive Bernie Sanders say urgent action is needed in Washington to rein in AI",
+    "link": "https://www.wsj.com/politics/bernie-sanders-steve-bannon-ai-d053e269?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-09-15-20-00-27 +0000",
+    "source": "nypost",
+    "headline": "All of Ed Sheeran’s tour openers— including Finneas— ditch tour after Macklemore fiasco",
+    "link": "https://nypost.com/2026/09/15/us-news/ed-sheeran-opener-aaron-rowe-ditches-tour-and-rails-against-israeli-genocide-after-macklemore-fiasco/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-15-20-48-22 +0000",
+    "source": "nyt",
+    "headline": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+    "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-15-20-19-56 +0000",
+    "source": "latimes",
+    "headline": "Fewer than half of Americans expect midterm elections to be 'free and fair,' poll finds",
+    "link": "https://www.latimes.com/politics/story/2026-09-15/fewer-than-half-of-americans-expect-midterm-elections-to-be-free-fair-poll-finds"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-09-15-20-18-00 +0000",
+    "source": "wsj",
+    "headline": "A broad measure of American incomes reached a record high last year as upper-income households fared well and women’s pay gained ground compared with men",
+    "link": "https://www.wsj.com/economy/consumers/american-incomes-hit-record-last-year-as-women-gained-ground-304ed2fd?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-09-15-19-58-44 +0000",
+    "source": "nyt",
+    "headline": "Kash Patel Suggests FBI Agents Could Go to Election Polling Sites",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/patel-fbi-agents-election.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-15-20-47-00 +0000",
+    "source": "wsj",
+    "headline": "The U.S. is pressuring Mexico to accept new rules for exports of AI hardware to prevent Chinese companies and other foreign firms from circumventing tariffs",
+    "link": "https://www.wsj.com/economy/trade/u-s-pressures-mexico-to-box-out-chinas-ai-hardware-exports-4f708103?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-15-20-06-21 +0000",
+    "source": "nyt",
+    "headline": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+    "link": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html"
+  }
+]
