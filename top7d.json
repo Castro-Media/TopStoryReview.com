@@ -1,6 +1,6 @@
 [
   {
-    "score": 509,
+    "score": 502,
     "pubdate": "2026-09-15-21-35-00 +0000",
     "source": "wsj",
     "headline": "Trump is threatening to block the Kennedy Center’s renovation, Republicans aren’t sold on Trump’s $5,000 payments, and how much the Pentagon spent in the first few months of the war with Iran. Read more in today’s What’s News newsletter:",
@@ -14,7 +14,7 @@
     "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-ai-guardrails-data-centers/"
   },
   {
-    "score": 216,
+    "score": 215,
     "pubdate": "2026-09-15-19-36-30 +0000",
     "source": "nypost",
     "headline": "10-year Treasury yield hits highest level since 2007, oil surges above $105 as Fed expected to hike interest rates",
@@ -29,17 +29,10 @@
   },
   {
     "score": 144,
-    "pubdate": "2026-09-16-17-59-00 +0000",
-    "source": "wsj",
-    "headline": "Bank of Canada Flags Need for Rate Boost Should High Fuel Costs Spill Over, Minutes Say",
-    "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-flagged-need-for-rate-hike-should-high-fuel-costs-spill-over-minutes-say-d78b24bb?mod=rss_socialeconomyfeed"
-  },
-  {
-    "score": 129,
-    "pubdate": "2026-09-16-19-31-00 +0000",
-    "source": "wsj",
-    "headline": "White House chief of staff Susie Wiles said Wednesday that she is cancer free after undergoing treatment for breast cancer earlier this year",
-    "link": "https://www.wsj.com/politics/policy/white-house-chief-of-staff-susie-wiles-says-she-is-cancer-free-88cb7a59?mod=rss_socialpoliticsfeed"
+    "pubdate": "2026-09-16-08-49-19 +0000",
+    "source": "cbc",
+    "headline": "EU chief says she wants Canada to become the bloc's 1st associate member",
+    "link": "https://www.cbc.ca/news/politics/eu-canada-associate-member-9.7345827?cmp=rss"
   },
   {
     "score": 118,
@@ -49,6 +42,13 @@
     "link": "https://missionlocal.org/2026/09/san-francisco-school-board-meet-the-candidates-technology-lausd/"
   },
   {
+    "score": 118,
+    "pubdate": "2026-09-13-17-41-22 +0000",
+    "source": "chitri",
+    "headline": "President Donald Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks causing a shortage",
+    "link": "https://www.chicagotribune.com/2026/09/13/trump-ukraine-diesel-shortage/"
+  },
+  {
     "score": 115,
     "pubdate": "2026-09-16-07-32-52 +0000",
     "source": "nypost",
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2026/09/16/world-news/south-korean-court-orders-north-korea-to-pay-32-5-million-for-blowing-up-joint-liaison-office/"
   },
   {
-    "score": 108,
-    "pubdate": "2026-09-13-17-41-22 +0000",
-    "source": "chitri",
-    "headline": "President Donald Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks causing a shortage",
-    "link": "https://www.chicagotribune.com/2026/09/13/trump-ukraine-diesel-shortage/"
-  },
-  {
-    "score": 103,
+    "score": 113,
     "pubdate": "2026-09-15-01-00-00 +0000",
     "source": "wsj",
     "headline": "Fed leader Kevin Warsh is facing the fight President Trump hoped he would avoid when he selected Warsh as the new central-bank chairman",
     "link": "https://www.wsj.com/economy/central-banking/warshs-arrival-ended-trumps-war-with-the-fed-a-rate-hike-would-test-the-truce-8fd9058f?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 106,
+    "pubdate": "2026-09-16-10-59-00 +0000",
+    "source": "wsj",
+    "headline": "Will the White House’s state dinner for China’s Xi Jinping bring AI enemies Elon Musk and Sam Altman to the table? Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/articles/will-the-trump-xi-dinner-bring-ai-enemies-musk-and-altman-to-the-table-be873a34?mod=rss_socialpoliticsfeed"
   }
 ]
