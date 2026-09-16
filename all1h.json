@@ -1,242 +1,398 @@
 [
   {
-    "headline": "Bank of Canada Flagged Need for Rate Hike Should High Fuel Costs Spill Over, Minutes Say",
-    "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-flagged-need-for-rate-hike-should-high-fuel-costs-spill-over-minutes-say-d78b24bb?mod=rss_socialeconomyfeed",
+    "headline": "What to know about the Fed’s decision.",
+    "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/federal-reserve-interest-rates-warsh",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-50-47 +0000"
+  },
+  {
+    "headline": "What to know about the Fed’s decision.",
+    "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/federal-reserve-interest-rates-warsh",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-50-47 +0000"
+  },
+  {
+    "headline": "The World Economy Is Becoming Wary of the U.S.",
+    "link": "https://www.nytimes.com/2026/09/16/business/trump-debt-sanctions-global-economy.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-50-07 +0000"
+  },
+  {
+    "headline": "The World Economy Is Becoming Wary of the U.S.",
+    "link": "https://www.nytimes.com/2026/09/16/business/trump-debt-sanctions-global-economy.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-50-07 +0000"
+  },
+  {
+    "headline": "The World Economy Is Becoming Wary of the U.S.",
+    "link": "https://www.nytimes.com/2026/09/16/business/trump-debt-sanctions-global-economy.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-50-07 +0000"
+  },
+  {
+    "headline": "Gold Mine Collapse in Sudan Kills at Least 70",
+    "link": "https://www.nytimes.com/2026/09/16/world/africa/sudan-gold-mine-collapse.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-49-34 +0000"
+  },
+  {
+    "headline": "Gold Mine Collapse in Sudan Kills at Least 70",
+    "link": "https://www.nytimes.com/2026/09/16/world/africa/sudan-gold-mine-collapse.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-49-34 +0000"
+  },
+  {
+    "headline": "Fed Signals Another Rate Increase Could Be Coming",
+    "link": "https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-48-22 +0000"
+  },
+  {
+    "headline": "E.U.-Canada Ambitions Face Reality Check",
+    "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-47-03 +0000"
+  },
+  {
+    "headline": "E.U.-Canada Ambitions Face Reality Check",
+    "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-47-03 +0000"
+  },
+  {
+    "headline": "Trump’s arch will harm historic sites but must proceed, federal officials say",
+    "link": "https://www.washingtonpost.com/politics/2026/09/16/trump-officials-say-planned-arch-will-harm-historic-sites-must-go/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-18-43-38 +0000"
+  },
+  {
+    "headline": "Fed raises interest rates by quarter point to tackle inflation",
+    "link": "https://www.washingtonpost.com/business/2026/09/16/fed-raises-rates-steady-inflation-challenges-grow/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-18-41-04 +0000"
+  },
+  {
+    "headline": "Fed raises interest rates by quarter point to tackle inflation",
+    "link": "https://www.washingtonpost.com/business/2026/09/16/fed-raises-rates-steady-inflation-challenges-grow/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-18-41-04 +0000"
+  },
+  {
+    "headline": "Trump’s top aide Susie Wiles gives update on breast cancer fight",
+    "link": "https://nypost.com/2026/09/16/us-news/trumps-top-aide-susie-wiles-gives-update-on-breast-cancer-fight/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-18-40-50 +0000"
+  },
+  {
+    "headline": "Trump’s top aide Susie Wiles gives update on breast cancer fight",
+    "link": "https://nypost.com/2026/09/16/us-news/trumps-top-aide-susie-wiles-gives-update-on-breast-cancer-fight/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-18-40-50 +0000"
+  },
+  {
+    "headline": "Terrifying new dashcam footage shows moment doomed NBC helicopter falls out of the sky",
+    "link": "https://nypost.com/2026/09/16/us-news/dashcam-footage-captures-nbc-4-helicopter-plunge-from-sky-in-los-angeles/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-18-38-10 +0000"
+  },
+  {
+    "headline": "What Fed Rate Increase Means for Your Money",
+    "link": "https://www.wsj.com/finance/investing/what-fed-rate-increase-means-for-your-money-cf527fcd?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-09-16-17-54-00 +0000"
+    "pubdate": "2026-09-16-18-37-00 +0000"
   },
   {
-    "headline": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
-    "link": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-53-29 +0000"
+    "headline": "Photos show widespread damage at US sites from Iranian attacks",
+    "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-18-36-16 +0000"
   },
   {
-    "headline": "Is Iran Shaping Up to Be a ‘Forever War’?",
-    "link": "https://www.nytimes.com/video/us/100000011145234/is-iran-shaping-up-to-be-a-forever-war.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-50-13 +0000"
+    "headline": "Photos show widespread damage at US sites from Iranian attacks",
+    "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-18-36-16 +0000"
   },
   {
-    "headline": "Russia’s Election Result Won’t Be a Shock. What Comes Next Could Be.",
-    "link": "https://www.nytimes.com/2026/09/16/world/europe/russia-duma-election.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-48-50 +0000"
+    "headline": "Photos show widespread damage at US sites from Iranian attacks",
+    "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-18-36-16 +0000"
   },
   {
-    "headline": "Russia’s Election Result Won’t Be a Shock. What Comes Next Could Be.",
-    "link": "https://www.nytimes.com/2026/09/16/world/europe/russia-duma-election.html",
+    "headline": "Opinion | Trump’s $5,000 Check: DOA",
+    "link": "https://www.wsj.com/opinion/trumps-5-000-check-doa-e644dcd9?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-09-16-18-32-00 +0000"
+  },
+  {
+    "headline": "Gas prices are about to take a big jump, analysts say, with the worst still to come",
+    "link": "https://www.washingtonpost.com/world/2026/09/16/analysts-predict-gas-price-jump-long-disruption-damaged-pipeline/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-18-30-54 +0000"
+  },
+  {
+    "headline": "They were the 'eyes and ears in the sky.' NBC4 helicopter crew were SoCal news veterans",
+    "link": "https://www.latimes.com/california/story/2026-09-16/nbc4-helicopter-crew-were-socal-news-veterans",
+    "source": "latimes",
+    "pubdate": "2026-09-16-18-28-36 +0000"
+  },
+  {
+    "headline": "Lunatic arrested for threatening to kill Ben Shapiro as conservative podcaster admits ‘security is a real concern’",
+    "link": "https://nypost.com/2026/09/16/us-news/lunatic-arrested-for-threatening-to-kill-ben-shapiro/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-18-28-25 +0000"
+  },
+  {
+    "headline": "Worst guard dog in the world exposed by Ring camera in San Diego — and the breed won’t surprise you",
+    "link": "https://nypost.com/2026/09/16/us-news/golden-retriever-brings-toys-to-intruder-during-san-diego-home-break-in/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-18-27-07 +0000"
+  },
+  {
+    "headline": "Stocks Edge Higher as the Federal Reserve Raises Key Interest Rate",
+    "link": "https://www.wsj.com/finance/stocks/oil-pares-gains-stock-futures-steady-as-cautious-optimism-heralds-fed-day-65090da0?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-16-18-27-00 +0000"
+  },
+  {
+    "headline": "Republican senator warns Carney against tightening Canada's links to European Union",
+    "link": "https://www.cbc.ca/news/politics/trump-canada-trade-us-congress-susan-collins-chris-coons-9.7346439?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-09-16-18-26-18 +0000"
+  },
+  {
+    "headline": "Fed Hike Adds to Dollar Momentum",
+    "link": "https://www.wsj.com/finance/currencies/fed-guidance-key-to-asian-fx-outlook-511a4410?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-16-18-26-00 +0000"
+  },
+  {
+    "headline": "Trump Administration Plans One of Largest U.S. Sales of Heavy Bombs to Israel",
+    "link": "https://www.wsj.com/world/middle-east/trump-administration-plans-one-of-largest-u-s-sales-of-heavy-bombs-to-israel-545fccb8?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-16-18-26-00 +0000"
+  },
+  {
+    "headline": "Here’s what a Fed rate hike means for your mortgage, car loan and credit cards",
+    "link": "https://www.washingtonpost.com/business/2026/09/16/heres-what-fed-rate-hike-means-your-mortgage-car-loan-credit-cards/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-18-23-29 +0000"
+  },
+  {
+    "headline": "Here’s what a Fed rate hike means for your mortgage, car loan and credit cards",
+    "link": "https://www.washingtonpost.com/business/2026/09/16/heres-what-fed-rate-hike-means-your-mortgage-car-loan-credit-cards/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-18-23-29 +0000"
+  },
+  {
+    "headline": "How the Fed’s Rate Increase Affects Your Finances.",
+    "link": "https://www.nytimes.com/2026/09/16/business/economy/how-the-feds-move-affects-your-finances.html",
     "source": "nyt",
-    "pubdate": "2026-09-16-17-48-50 +0000"
+    "pubdate": "2026-09-16-18-22-55 +0000"
+  },
+  {
+    "headline": "How the Fed’s Rate Increase Affects Your Finances.",
+    "link": "https://www.nytimes.com/2026/09/16/business/economy/how-the-feds-move-affects-your-finances.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-22-55 +0000"
+  },
+  {
+    "headline": "Paramount, Atty. Gen. Bonta ordered to meet for merger settlement talks",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-16/paramount-atty-gen-bonta-ordered-to-meet-for-merger-settlement-talks",
+    "source": "latimes",
+    "pubdate": "2026-09-16-18-21-55 +0000"
+  },
+  {
+    "headline": "Paramount, Atty. Gen. Bonta ordered to meet for merger settlement talks",
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-16/paramount-atty-gen-bonta-ordered-to-meet-for-merger-settlement-talks",
+    "source": "latimes",
+    "pubdate": "2026-09-16-18-21-55 +0000"
+  },
+  {
+    "headline": "Officer Sues Capitol Police, Alleging Racial Bias",
+    "link": "https://www.nytimes.com/2026/09/16/us/politics/capitol-police-discrimination-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-21-03 +0000"
+  },
+  {
+    "headline": "Officer Sues Capitol Police, Alleging Racial Bias",
+    "link": "https://www.nytimes.com/2026/09/16/us/politics/capitol-police-discrimination-lawsuit.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-21-03 +0000"
+  },
+  {
+    "headline": "Patrick Clancy gives 1st interview since ex-wife Lindsay’s triple murder mistrial — ‘60 Minutes’ drops cliffhanger clip",
+    "link": "https://nypost.com/2026/09/16/us-news/patrick-clancy-gives-1st-interview-since-ex-wife-lindsays-mistrial-60-minutes-drops-cliffhanger-clip/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-18-21-00 +0000"
+  },
+  {
+    "headline": "What to Know About the Victims in the NBC4 Helicopter Crash in Los Angeles",
+    "link": "https://www.nytimes.com/2026/09/16/us/la-helicopter-crash-victims-eliana-moreno-george-marciniw.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-20-13 +0000"
+  },
+  {
+    "headline": "U.S. Probes Iran Link to Cyberattacks on Texas-Bound Energy Tankers",
+    "link": "https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-16-18-20-00 +0000"
+  },
+  {
+    "headline": "U.S. Probes Iran Link to Cyberattacks on Texas-Bound Energy Tankers",
+    "link": "https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-16-18-20-00 +0000"
+  },
+  {
+    "headline": "The U.S. is investigating whether Iran is behind the cyberattacks of two energy tankers bound for American ports",
+    "link": "https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-16-18-20-00 +0000"
+  },
+  {
+    "headline": "Why the Fed Might Raise Interest Rates When Borrowing Costs Are Surging",
+    "link": "https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rates-borrowing-costs.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-19-24 +0000"
+  },
+  {
+    "headline": "Why the Fed Might Raise Interest Rates When Borrowing Costs Are Surging",
+    "link": "https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rates-borrowing-costs.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-19-24 +0000"
+  },
+  {
+    "headline": "Iran strikes US-contracted ship with American personnel on board: report",
+    "link": "https://nypost.com/2026/09/16/us-news/iran-strikes-us-contracted-ship-with-american-personnel-on-board-report/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-18-19-03 +0000"
+  },
+  {
+    "headline": "Iran strikes US-contracted ship with American personnel on board: report",
+    "link": "https://nypost.com/2026/09/16/us-news/iran-strikes-us-contracted-ship-with-american-personnel-on-board-report/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-18-19-03 +0000"
+  },
+  {
+    "headline": "The Fed voted unanimously to raise rates for the first time in three years, and most officials projected one more increase by year-end",
+    "link": "https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-16-18-19-00 +0000"
+  },
+  {
+    "headline": "First Fed rate hike in 3 years may push borrowing costs on credit cards, mortgages — but benefit savers",
+    "link": "https://www.chicagotribune.com/2026/09/16/federal-reserve-interest-rate-hike/",
+    "source": "chitri",
+    "pubdate": "2026-09-16-18-17-18 +0000"
+  },
+  {
+    "headline": "How to argue about regulating AI",
+    "link": "https://www.washingtonpost.com/politics/2026/09/16/how-argue-about-regulating-ai/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-18-15-11 +0000"
   },
   {
     "headline": "Outkick Moves Past Its Clay Travis Era",
     "link": "https://www.nytimes.com/2026/09/16/business/outkick-sports-fox-clay-travis.html",
     "source": "nyt",
-    "pubdate": "2026-09-16-17-46-58 +0000"
+    "pubdate": "2026-09-16-18-14-24 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/federal-reserve-interest-rates-warsh",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-43-33 +0000"
+    "headline": "EU boss proposes making Canada associate member amid trade fight with Trump",
+    "link": "https://nypost.com/2026/09/16/world-news/eu-boss-proposes-making-canada-associate-member-amid-trade-fight-with-trump/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-18-13-13 +0000"
   },
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/federal-reserve-interest-rates-warsh",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-43-33 +0000"
-  },
-  {
-    "headline": "E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken",
-    "link": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-37-45 +0000"
-  },
-  {
-    "headline": "E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken",
-    "link": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-37-45 +0000"
-  },
-  {
-    "headline": "E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken",
-    "link": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-37-45 +0000"
-  },
-  {
-    "headline": "The House is heading home ahead of the midterms even earlier than planned",
-    "link": "https://www.washingtonpost.com/politics/2026/09/16/house-is-heading-home-ahead-midterms-even-earlier-than-planned/",
-    "source": "wapo",
-    "pubdate": "2026-09-16-17-34-42 +0000"
-  },
-  {
-    "headline": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
-    "link": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-34-23 +0000"
-  },
-  {
-    "headline": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
-    "link": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-34-23 +0000"
-  },
-  {
-    "headline": "Fencing goes up around the main Kennedy Center building after Trump-aligned board votes to close it",
-    "link": "https://www.chicagotribune.com/2026/09/16/kennedy-center-building-trump-aligned-board-votes-to-close/",
-    "source": "chitri",
-    "pubdate": "2026-09-16-17-27-09 +0000"
-  },
-  {
-    "headline": "Yemen’s Houthi Rebels Claim Shooting Down Saudi F-15 Jet Fighter",
-    "link": "https://www.wsj.com/world/middle-east/yemens-houthi-rebels-claim-shooting-down-saudi-f-15-jet-fighter-237ecc7d?mod=rss_worldnews",
+    "headline": "Harold Hamm’s Continental Resources Signs Preliminary Oil Deal in Venezuela",
+    "link": "https://www.wsj.com/business/energy-oil/harold-hamms-continental-resources-signs-preliminary-oil-deal-in-venezuela-ff46cfd3?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-09-16-17-27-00 +0000"
-  },
-  {
-    "headline": "Bo French Faces Backlash Over Posts About University of Texas Students",
-    "link": "https://www.nytimes.com/2026/09/16/us/attack-on-university-of-texas-students-tests-texas-gop-unity.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-24-59 +0000"
-  },
-  {
-    "headline": "Reform Wales loses leader and MS within five minutes",
-    "link": "https://www.bbc.co.uk/news/videos/cmd94e59w9vwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-16-17-24-39 +0000"
-  },
-  {
-    "headline": "Former Bulls center Nikola Vučević lists Lincoln Park home for $5.2M",
-    "link": "https://www.chicagotribune.com/2026/09/16/chicago-bulls-nikola-vucevic-lincoln/",
-    "source": "chitri",
-    "pubdate": "2026-09-16-17-20-05 +0000"
-  },
-  {
-    "headline": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-18-08 +0000"
-  },
-  {
-    "headline": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-17-18-08 +0000"
-  },
-  {
-    "headline": "Sky-high crude and diesel prices are fuelling protests worldwide",
-    "link": "https://www.cbc.ca/news/world/gas-price-protests-worldwide-9.7346031?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-16-17-18-02 +0000"
-  },
-  {
-    "headline": "Russian drones hit bus, train in Ukraine, killing 5: officials",
-    "link": "https://www.cbc.ca/news/world/russia-drone-attack-ukraine-9.7346436?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-16-17-17-13 +0000"
-  },
-  {
-    "headline": "Karen Bass’s own allies fear she is floundering in LA mayor’s race: ‘energy is with Nithya’",
-    "link": "https://nypost.com/2026/09/16/us-news/karen-basss-own-allies-fear-she-is-floundering-in-la-mayors-race-energy-is-with-nithya/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-17-17-05 +0000"
-  },
-  {
-    "headline": "Karen Bass’s own allies fear she is floundering in LA mayor’s race: ‘energy is with Nithya’",
-    "link": "https://nypost.com/2026/09/16/us-news/karen-basss-own-allies-fear-she-is-floundering-in-la-mayors-race-energy-is-with-nithya/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-17-17-05 +0000"
-  },
-  {
-    "headline": "18-year-old Cal State Fullerton student dies after frat party",
-    "link": "https://www.latimes.com/california/story/2026-09-16/18-year-old-cal-state-fullerton-student-dies-after-frat-party",
-    "source": "latimes",
-    "pubdate": "2026-09-16-17-16-52 +0000"
-  },
-  {
-    "headline": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-    "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-16-17-16-47 +0000"
-  },
-  {
-    "headline": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-    "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-16-17-16-47 +0000"
+    "pubdate": "2026-09-16-18-12-00 +0000"
   },
   {
     "headline": "Harold Hamm’s Continental Resources Signs Preliminary Oil Deal in Venezuela",
     "link": "https://www.wsj.com/business/energy-oil/harold-hamms-continental-resources-signs-preliminary-oil-deal-in-venezuela-ff46cfd3?mod=rss_worldnews",
     "source": "wsj",
-    "pubdate": "2026-09-16-17-16-00 +0000"
+    "pubdate": "2026-09-16-18-12-00 +0000"
   },
   {
-    "headline": "Witness reveals NBC helicopter’s bizarre movements moments before it fell out of the sky",
-    "link": "https://nypost.com/2026/09/16/us-news/witness-reveals-nbc-helicopters-bizarre-movements-moments-before-it-fell-out-of-the-sky/",
+    "headline": "Dem megadonor pours cold water on Kamala Harris’ comeback hopes",
+    "link": "https://nypost.com/2026/09/16/us-news/reid-hoffman-pours-cold-water-on-kamala-harris-comeback-hopes/",
     "source": "nypost",
-    "pubdate": "2026-09-16-17-14-27 +0000"
+    "pubdate": "2026-09-16-18-11-58 +0000"
   },
   {
-    "headline": "ICE likely violated First Amendment by issuing warning to critic, judge rules",
-    "link": "https://www.washingtonpost.com/nation/2026/09/16/ice-likely-violated-first-amendment-by-issuing-warning-critic-judge-rules/",
-    "source": "wapo",
-    "pubdate": "2026-09-16-17-13-23 +0000"
+    "headline": "Dem megadonor pours cold water on Kamala Harris’ comeback hopes",
+    "link": "https://nypost.com/2026/09/16/us-news/reid-hoffman-pours-cold-water-on-kamala-harris-comeback-hopes/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-18-11-58 +0000"
   },
   {
-    "headline": "More than £2m spent by government on influencers since July 2024",
-    "link": "https://www.bbc.co.uk/news/articles/cwly71pz2xl1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-16-17-12-16 +0000"
-  },
-  {
-    "headline": "After a Desperate Search for Survivors, Rescuers Find Bodies at Nepal Power Plant",
-    "link": "https://www.nytimes.com/2026/09/16/world/asia/nepal-floods-chillime-hydropower-plant.html",
+    "headline": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
+    "link": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
     "source": "nyt",
-    "pubdate": "2026-09-16-17-12-02 +0000"
+    "pubdate": "2026-09-16-18-08-25 +0000"
   },
   {
-    "headline": "After a Desperate Search for Survivors, Rescuers Find Bodies at Nepal Power Plant",
-    "link": "https://www.nytimes.com/2026/09/16/world/asia/nepal-floods-chillime-hydropower-plant.html",
+    "headline": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
+    "link": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
     "source": "nyt",
-    "pubdate": "2026-09-16-17-12-02 +0000"
+    "pubdate": "2026-09-16-18-08-25 +0000"
   },
   {
-    "headline": "US court records capture Gazan terrorist laughing during Oct. 7 Hamas massacre",
-    "link": "https://nypost.com/2026/09/16/world-news/us-court-records-capture-gazan-terrorist-laughing-during-oct-7-hamas-massacre/",
+    "headline": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+    "link": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-07-59 +0000"
+  },
+  {
+    "headline": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
+    "link": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-18-07-59 +0000"
+  },
+  {
+    "headline": "NYT blasted for baffling Oct. 7 terror attack take, stating ‘Israelis still largely view themselves as the victims’",
+    "link": "https://nypost.com/2026/09/16/us-news/nyt-blasted-for-baffling-oct-7-terror-attack-take/",
     "source": "nypost",
-    "pubdate": "2026-09-16-17-10-35 +0000"
+    "pubdate": "2026-09-16-18-04-33 +0000"
   },
   {
-    "headline": "‘Violated’ singles say dates secretly filmed them with Meta Ray-Bans — as ‘creep glasses’ trend sparks outrage",
-    "link": "https://nypost.com/2026/09/16/business/women-say-dates-secretly-filmed-them-with-meta-ray-bans-as-creep-glasses-trend-sparks-outrage/",
+    "headline": "Fed hikes interest rates for first time in three years in bid to tamp down inflation",
+    "link": "https://nypost.com/2026/09/16/business/fed-hikes-interest-rates-for-first-time-since-2023-in-bid-to-tamp-down-inflation/",
     "source": "nypost",
-    "pubdate": "2026-09-16-17-10-28 +0000"
+    "pubdate": "2026-09-16-18-02-32 +0000"
   },
   {
-    "headline": "Tourist, 37, attacked by shark during dolphin excursion in the Bahamas",
-    "link": "https://nypost.com/2026/09/16/world-news/tourist-37-attacked-by-shark-during-dolphin-excursion-in-the-bahamas/",
+    "headline": "Three people stabbed at Westchester Community College; two suspects in custody",
+    "link": "https://nypost.com/2026/09/16/us-news/three-people-stabbed-at-westchester-community-college-two-suspects-in-custody/",
     "source": "nypost",
-    "pubdate": "2026-09-16-17-08-09 +0000"
+    "pubdate": "2026-09-16-18-02-25 +0000"
   },
   {
-    "headline": "Drama Masks: The curtain falls at SF Opera",
-    "link": "https://48hills.org/2026/09/sf-opera-orchestra-strike-manning-african-stew-theater-reviews/",
-    "source": "48hills",
-    "pubdate": "2026-09-16-17-06-07 +0000"
+    "headline": "How a chicken sandwich rocketed this St. Paul restaurant to one of New York Times’ favorites",
+    "link": "https://www.startribune.com/how-a-chicken-sandwich-rocketed-this-st-paul-restaurant-to-one-of-new-york-times-favorites/601889978",
+    "source": "startribune",
+    "pubdate": "2026-09-16-18-02-05 +0000"
   },
   {
-    "headline": "SUV driver in deadly LA Metro bus crash unmasked — as two dead are ID’d",
-    "link": "https://nypost.com/2026/09/16/us-news/driver-idd-in-deadly-la-metro-bus-crash-that-killed-2-injured-6/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-17-03-19 +0000"
+    "headline": "New evidence shows that you are only slightly hotter than a T. rex",
+    "link": "https://www.latimes.com/science/story/2026-09-16/new-evidence-shows-that-you-are-only-slightly-hotter-than-t-rex",
+    "source": "latimes",
+    "pubdate": "2026-09-16-18-00-00 +0000"
   },
   {
-    "headline": "In leaked recording, Nebraska Senate candidate criticizes some Trump voters",
-    "link": "https://www.washingtonpost.com/politics/2026/09/16/dan-osborn-criticizes-some-nebraska-trump-voters-leaked-recording/",
-    "source": "wapo",
-    "pubdate": "2026-09-16-17-00-00 +0000"
+    "headline": "Light rail is finally coming, but a grand Hopkins redevelopment plan is breaking down",
+    "link": "https://www.startribune.com/hopkins-development-blake-road-light-rail/601886416",
+    "source": "startribune",
+    "pubdate": "2026-09-16-18-00-00 +0000"
+  },
+  {
+    "headline": "Bank of Canada Flags Need for Rate Boost Should High Fuel Costs Spill Over, Minutes Say",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-flagged-need-for-rate-hike-should-high-fuel-costs-spill-over-minutes-say-d78b24bb?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-16-17-59-00 +0000"
   }
 ]
