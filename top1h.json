@@ -1,33 +1,5 @@
 [
   {
-    "score": 21,
-    "pubdate": "2026-09-16-00-33-33 +0000",
-    "source": "nyt",
-    "headline": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War",
-    "link": "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html"
-  },
-  {
-    "score": 20,
-    "pubdate": "2026-09-16-00-31-17 +0000",
-    "source": "nypost",
-    "headline": "Gavin Newsom reveals COVID ‘regret’ as he teases 2028 presidential bid",
-    "link": "https://nypost.com/2026/09/15/us-news/gavin-newsom-reveals-covid-regret-as-he-teases-2028-presidential-bid/"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-09-16-00-59-20 +0000",
-    "source": "bbc",
-    "headline": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-09-16-00-34-32 +0000",
-    "source": "nypost",
-    "headline": "Plot forms against California tech companies with move that could force office closures as violent threats mount",
-    "link": "https://nypost.com/2026/09/15/us-news/silicon-valley-ai-giants-face-security-guard-strike-amid-rising-threats/"
-  },
-  {
     "score": 11,
     "pubdate": "2026-09-16-01-11-33 +0000",
     "source": "nypost",
@@ -42,18 +14,11 @@
     "link": "https://www.nytimes.com/2026/09/15/us/politics/postal-service-trump-democracy-history.html"
   },
   {
-    "score": 10,
-    "pubdate": "2026-09-16-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Americans Have Spent $100 Billion More on Fuel During the Iran War",
-    "link": "https://www.wsj.com/business/energy-oil/americans-have-spent-100-billion-more-on-fuel-during-the-iran-war-377952a1?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-09-16-00-44-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Declines But Remains Elevated Amid Supply Concerns, Geopolitical Risks",
-    "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-but-remains-elevated-amid-supply-concerns-geopolitical-risks-15e97c33?mod=rss_markets_main"
+    "score": 9,
+    "pubdate": "2026-09-16-01-04-42 +0000",
+    "source": "startribune",
+    "headline": "Minneapolis Public School District reveals plans to close and merge schools",
+    "link": "https://www.startribune.com/minneapolis-public-schools-to-offer-first-look-at-plan-that-could-close-or-merge-schools/601885519"
   },
   {
     "score": 9,
@@ -63,10 +28,10 @@
     "link": "https://nypost.com/2026/09/15/us-news/dramatic-moment-suv-gets-lodged-inside-la-metro-bus/"
   },
   {
-    "score": 9,
-    "pubdate": "2026-09-16-00-23-57 +0000",
-    "source": "latimes",
-    "headline": "Caruso and Bass appear together at Palisades groundbreaking. But will he endorse her?",
-    "link": "https://www.latimes.com/california/story/2026-09-15/caruso-bass-appear-together-at-palisades-groundbreaking-but-will-he-endorse-her"
+    "score": 3,
+    "pubdate": "2026-09-16-01-09-25 +0000",
+    "source": "nyt",
+    "headline": "How the Postal Service Became Central to U.S. Elections",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/postal-service-trump-democracy-history.html"
   }
 ]
