@@ -1,59 +1,66 @@
 [
   {
-    "score": 557,
+    "score": 553,
     "pubdate": "2026-09-15-21-35-00 +0000",
     "source": "wsj",
     "headline": "Trump is threatening to block the Kennedy Center’s renovation, Republicans aren’t sold on Trump’s $5,000 payments, and how much the Pentagon spent in the first few months of the war with Iran. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/the-kennedy-center-is-closing-its-renovation-is-now-in-limbo-93af3a80?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 274,
+    "score": 273,
     "pubdate": "2026-09-14-14-18-53 +0000",
     "source": "chitri",
     "headline": "President Trump calls AI risks a ‘hoax,’ says there is a ‘SICK conspiracy’ against AI and data centers",
     "link": "https://www.chicagotribune.com/2026/09/14/donald-trump-ai-guardrails-data-centers/"
   },
   {
-    "score": 214,
+    "score": 211,
     "pubdate": "2026-09-15-01-00-00 +0000",
     "source": "wsj",
     "headline": "Fed leader Kevin Warsh is facing the fight President Trump hoped he would avoid when he selected Warsh as the new central-bank chairman",
     "link": "https://www.wsj.com/economy/central-banking/warshs-arrival-ended-trumps-war-with-the-fed-a-rate-hike-would-test-the-truce-8fd9058f?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 160,
-    "pubdate": "2026-09-14-20-06-37 +0000",
-    "source": "nyt",
-    "headline": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply",
-    "link": "https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html"
-  },
-  {
-    "score": 158,
+    "score": 164,
     "pubdate": "2026-09-09-20-54-36 +0000",
     "source": "latimes",
     "headline": "California, other states warn Supreme Court of 'chaos' if it lets USPS mail ballot rules stand",
     "link": "https://www.latimes.com/politics/story/2026-09-09/california-other-states-warn-supreme-court-of-chaos-if-it-lets-usps-mail-ballot-rules-stand"
   },
   {
-    "score": 134,
+    "score": 158,
+    "pubdate": "2026-09-14-20-06-37 +0000",
+    "source": "nyt",
+    "headline": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply",
+    "link": "https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html"
+  },
+  {
+    "score": 136,
     "pubdate": "2026-09-10-14-00-00 +0000",
     "source": "wsj",
     "headline": "Home sales in August fell to their lowest level in more than a year, after rising mortgage rates dealt another blow to a hobbled housing market",
     "link": "https://www.wsj.com/economy/housing/home-sales-in-august-tumble-to-lowest-level-since-last-year-25851c6e?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 125,
-    "pubdate": "2026-09-16-08-49-19 +0000",
-    "source": "cbc",
-    "headline": "EU chief Ursula von der Leyen says she wants Canada to become the bloc's 1st associate member",
-    "link": "https://www.cbc.ca/news/world/eu-canada-associate-member-9.7345827?cmp=rss"
+    "score": 120,
+    "pubdate": "2026-09-16-10-27-39 +0000",
+    "source": "nypost",
+    "headline": "EU chief says she wants Canada to become the bloc’s 1st associate member",
+    "link": "https://nypost.com/2026/09/16/us-news/eu-chief-says-she-wants-canada-to-become-the-blocs-1st-associate-member/"
   },
   {
-    "score": 113,
+    "score": 119,
     "pubdate": "2026-09-11-22-52-05 +0000",
     "source": "missionlocal",
     "headline": "Meet the S.F. school board candidates: Do you support strict limits on screen time and use of AI in class?",
     "link": "https://missionlocal.org/2026/09/san-francisco-school-board-meet-the-candidates-technology-lausd/"
+  },
+  {
+    "score": 115,
+    "pubdate": "2026-09-16-10-59-00 +0000",
+    "source": "wsj",
+    "headline": "Will the White House’s state dinner for China’s Xi Jinping bring AI enemies Elon Musk and Sam Altman to the table? Read more in today’s WSJ Politics Newsletter:",
+    "link": "https://www.wsj.com/articles/will-the-trump-xi-dinner-bring-ai-enemies-musk-and-altman-to-the-table-be873a34?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 110,
@@ -61,12 +68,5 @@
     "source": "chitri",
     "headline": "President Donald Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks causing a shortage",
     "link": "https://www.chicagotribune.com/2026/09/13/trump-ukraine-diesel-shortage/"
-  },
-  {
-    "score": 109,
-    "pubdate": "2026-09-12-17-01-00 +0000",
-    "source": "wsj",
-    "headline": "U.K.’s Reform Party Rakes In Record $97 Million Donations From Crypto World",
-    "link": "https://www.wsj.com/world/uk/u-k-s-reform-party-rakes-in-record-97-million-donations-from-crypto-world-18d9f11d?mod=rss_worldnews"
   }
 ]
