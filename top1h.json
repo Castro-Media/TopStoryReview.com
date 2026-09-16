@@ -1,72 +1,72 @@
 [
   {
-    "score": 34,
-    "pubdate": "2026-09-16-10-59-53 +0000",
+    "score": 22,
+    "pubdate": "2026-09-16-12-29-15 +0000",
+    "source": "nypost",
+    "headline": "Federal judge refers George Soros-backed Philadelphia DA Larry Krasner for DOJ probe",
+    "link": "https://nypost.com/2026/09/16/us-news/george-soros-backed-philadelphia-da-larry-krasner-referred-for-doj-probe/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-09-16-12-21-15 +0000",
+    "source": "nyt",
+    "headline": "Why the Fed Might Raise Interest Rates When Borrowing Costs Are Surging",
+    "link": "https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rates-borrowing-costs.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-09-16-12-26-16 +0000",
+    "source": "bbc",
+    "headline": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+    "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-16-12-56-25 +0000",
+    "source": "nypost",
+    "headline": "Barack Obama announces death of ‘cherished’ former first dog Sunny",
+    "link": "https://nypost.com/2026/09/16/us-news/barack-obama-announces-death-of-cherished-former-first-dog-sunny/"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-16-12-29-53 +0000",
+    "source": "nyt",
+    "headline": "In a Signal to Trump, Beijing Hosts Iranian Diplomat Ahead of U.S.-China Summit",
+    "link": "https://www.nytimes.com/2026/09/16/world/asia/iran-war-china-trump-summit.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-09-16-12-16-56 +0000",
+    "source": "bbc",
+    "headline": "Petrol and diesel price rises push UK inflation higher",
+    "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-16-12-36-51 +0000",
     "source": "bbc",
     "headline": "EU chief backs plan for Canada to become 'associate member'",
     "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 29,
-    "pubdate": "2026-09-16-11-30-37 +0000",
+    "score": 15,
+    "pubdate": "2026-09-16-12-44-17 +0000",
     "source": "nyt",
-    "headline": "Trump Bars Some South Africans Over Claims of Anti-White Discrimination",
-    "link": "https://www.nytimes.com/2026/09/16/world/africa/trump-visas-south-africa.html"
+    "headline": "Russia’s Election Result Won’t Be a Shock. What Comes Next Could Be.",
+    "link": "https://www.nytimes.com/2026/09/16/world/europe/russia-duma-election.html"
   },
   {
-    "score": 25,
-    "pubdate": "2026-09-16-11-22-51 +0000",
-    "source": "bbc",
-    "headline": "At least 20 killed after war-damaged Gaza building collapses",
-    "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-09-16-11-53-02 +0000",
+    "score": 12,
+    "pubdate": "2026-09-16-12-49-05 +0000",
     "source": "nyt",
-    "headline": "Houthis Claim They Downed Saudi Fighter Jet After Being Accused of Targeting Mecca",
-    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html"
+    "headline": "How Sept. 11 Paved the Way to Mideast Power for Iran",
+    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/sept-11-iran-islamic-state-iraq.html"
   },
   {
-    "score": 22,
-    "pubdate": "2026-09-16-11-50-09 +0000",
-    "source": "bbc",
-    "headline": "Philippines' Duterte seen in person at International Criminal Court for first time",
-    "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-09-16-10-59-00 +0000",
-    "source": "wsj",
-    "headline": "Will the White House’s state dinner for China’s Xi Jinping bring AI enemies Elon Musk and Sam Altman to the table? Read more in today’s WSJ Politics Newsletter:",
-    "link": "https://www.wsj.com/articles/will-the-trump-xi-dinner-bring-ai-enemies-musk-and-altman-to-the-table-be873a34?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 22,
-    "pubdate": "2026-09-16-11-14-00 +0000",
-    "source": "wsj",
-    "headline": "The Morning Risk Report: Landmark Crypto Bill Fails Procedural Vote, Casting Doubt on New Digital-Asset Rules",
-    "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-landmark-crypto-bill-fails-procedural-vote-casting-doubt-on-new-digital-asset-rules-f5069535?mod=rss_markets_main"
-  },
-  {
-    "score": 18,
-    "pubdate": "2026-09-16-11-01-43 +0000",
-    "source": "nyt",
-    "headline": "Global Oil Prices Could Hit Highest Levels in Months After Saudi Pipeline Attacks",
-    "link": "https://www.nytimes.com/2026/09/16/business/saudi-pipeline-houthi-attacks.html"
-  },
-  {
-    "score": 17,
-    "pubdate": "2026-09-16-11-29-58 +0000",
-    "source": "nyt",
-    "headline": "Kosovo’s Former Leader Is Sentenced to 25 Years in War Crimes Case",
-    "link": "https://www.nytimes.com/2026/09/16/world/europe/kosovo-thaci-war-crimes-hague-serbia.html"
-  },
-  {
-    "score": 14,
-    "pubdate": "2026-09-16-11-08-00 +0000",
-    "source": "wsj",
-    "headline": "Eurozone Industrial Production Fell at Start of Third Quarter",
-    "link": "https://www.wsj.com/world/europe/eurozone-industrial-production-fell-at-start-of-third-quarter-eea9c3bf?mod=rss_socialeconomyfeed"
+    "score": 9,
+    "pubdate": "2026-09-16-12-45-00 +0000",
+    "source": "wapo",
+    "headline": "Spanberger is bullish about Virginia House races even without a favorable map",
+    "link": "https://www.washingtonpost.com/dc-md-va/2026/09/16/virginia-democrats-band-together-flip-house-seats/"
   }
 ]
