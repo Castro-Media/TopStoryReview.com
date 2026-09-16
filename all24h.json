@@ -1,9 +1,237 @@
 [
   {
-    "headline": "News Helicopter Crashes in Los Angeles County, Killing at Least 3",
+    "headline": "Three dead after LA news helicopter crashes while covering deadly bus collision",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-07-00-58 +0000"
+  },
+  {
+    "headline": "Complaints to watchdog about water firms soar",
+    "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-06-59-41 +0000"
+  },
+  {
+    "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-06-57-32 +0000"
+  },
+  {
+    "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-06-57-32 +0000"
+  },
+  {
+    "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-06-57-32 +0000"
+  },
+  {
+    "headline": "U.K. Inflation Rises Ahead of BOE Rate Call",
+    "link": "https://www.wsj.com/economy/u-k-inflation-rises-ahead-of-boe-rate-call-1f1a6c08?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-16-06-53-00 +0000"
+  },
+  {
+    "headline": "Village votes to leave UK over asylum housing plan",
+    "link": "https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-06-52-31 +0000"
+  },
+  {
+    "headline": "Petrol and diesel price rises push UK inflation higher",
+    "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-06-51-29 +0000"
+  },
+  {
+    "headline": "3 dead after news helicopter crashes while covering L.A. bus accident",
+    "link": "https://www.washingtonpost.com/nation/2026/09/16/3-dead-after-nbc-news-helicopter-crashes-near-los-angeles-bus-accident/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-06-47-47 +0000"
+  },
+  {
+    "headline": "Sterling Shows Subdued Reaction to In-Line Inflation Data",
+    "link": "https://www.wsj.com/finance/currencies/fed-guidance-key-to-asian-fx-outlook-511a4410?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-16-06-47-00 +0000"
+  },
+  {
+    "headline": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+    "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-06-45-03 +0000"
+  },
+  {
+    "headline": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+    "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-06-45-03 +0000"
+  },
+  {
+    "headline": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+    "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-06-45-03 +0000"
+  },
+  {
+    "headline": "Victims on board NBC helicopter ID’d as longtime reporter, veteran pilot after fiery crash that killed 3",
+    "link": "https://nypost.com/2026/09/16/us-news/nbc-helicopter-crash-victims-idd-as-reporter-eliana-moreno-pilot-george-marciniw/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-06-34-57 +0000"
+  },
+  {
+    "headline": "Louisiana monster accused of slaughtering family of four — as boy ran for help after he was stabbed",
+    "link": "https://nypost.com/2026/09/16/us-news/louisiana-monster-kaegan-solet-accused-of-slaughtering-family-of-four-as-boy-ran-for-help-after-he-was-stabbed/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-06-21-03 +0000"
+  },
+  {
+    "headline": "In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble",
+    "link": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-06-18-46 +0000"
+  },
+  {
+    "headline": "In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble",
+    "link": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-06-18-46 +0000"
+  },
+  {
+    "headline": "US limits visas for South African officials over alleged anti-white discrimination",
+    "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-06-12-04 +0000"
+  },
+  {
+    "headline": "US limits visas for South African officials over alleged anti-white discrimination",
+    "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-06-12-04 +0000"
+  },
+  {
+    "headline": "Databricks Piles Investments Into Asia as Growth Accelerates",
+    "link": "https://www.wsj.com/business/databricks-piles-investments-into-asia-as-growth-accelerates-018b217d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-16-06-08-00 +0000"
+  },
+  {
+    "headline": "Databricks Piles Investments Into Asia as Growth Accelerates",
+    "link": "https://www.wsj.com/business/databricks-piles-investments-into-asia-as-growth-accelerates-018b217d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-16-06-08-00 +0000"
+  },
+  {
+    "headline": "NBC4 reports on crash of its own news helicopter with grief, purpose",
+    "link": "https://www.latimes.com/california/story/2026-09-15/nbc4-reports-on-crash-of-its-own-news-helicopter-with-grief",
+    "source": "latimes",
+    "pubdate": "2026-09-16-06-00-41 +0000"
+  },
+  {
+    "headline": "Runaway horse captured by police on motorbikes",
+    "link": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-05-57-23 +0000"
+  },
+  {
+    "headline": "Runaway horse captured by police on motorbikes",
+    "link": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-05-57-23 +0000"
+  },
+  {
+    "headline": "Up against Palantir: A community forum confronts threats to privacy",
+    "link": "https://48hills.org/2026/09/up-against-palantir-a-community-forum-confronts-threats-to-privacy/",
+    "source": "48hills",
+    "pubdate": "2026-09-16-05-50-01 +0000"
+  },
+  {
+    "headline": "NZ apologises to children forced to live in bush for years with fugitive dad",
+    "link": "https://www.bbc.co.uk/news/articles/cr86xv7lle9jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-05-47-23 +0000"
+  },
+  {
+    "headline": "Veteran TV helicopter pilot offers grim assessment of deadly NBC LA crash after reviewing audio",
+    "link": "https://nypost.com/2026/09/16/us-news/zoey-tur-weighs-in-on-deadly-chatsworth-helicopter-crash-says-engine-failed/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-05-37-19 +0000"
+  },
+  {
+    "headline": "Sen. Chris Coons defeats challenger named ‘No-Trump’ in Delaware primary",
+    "link": "https://nypost.com/2026/09/16/us-news/delaware-sen-chris-coons-defeats-challenger-e-no-trump-hansen-in-democratic-primary/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-05-21-32 +0000"
+  },
+  {
+    "headline": "Sen. Chris Coons defeats challenger named ‘No-Trump’ in Delaware primary",
+    "link": "https://nypost.com/2026/09/16/us-news/delaware-sen-chris-coons-defeats-challenger-e-no-trump-hansen-in-democratic-primary/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-05-21-32 +0000"
+  },
+  {
+    "headline": "Shoplifters carrying shopping lists, says M&S manager",
+    "link": "https://www.bbc.co.uk/news/articles/c539m4n9lz0do?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-05-21-28 +0000"
+  },
+  {
+    "headline": "News Helicopter Crashes in Los Angeles, Killing at Least 3",
     "link": "https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html",
     "source": "nyt",
-    "pubdate": "2026-09-16-04-31-46 +0000"
+    "pubdate": "2026-09-16-05-17-52 +0000"
+  },
+  {
+    "headline": "Texas police department shut down for failing to provide ‘public benefit’ after arresting mom over dirty water Facebook post",
+    "link": "https://nypost.com/2026/09/16/us-news/texas-police-department-that-arrested-mom-over-dirty-water-facebook-post-ordered-to-disband-by-state/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-05-15-09 +0000"
+  },
+  {
+    "headline": "Oil Falls, Asian Stocks Rise Ahead of Fed Rate Decision",
+    "link": "https://www.wsj.com/finance/stocks/oil-falls-asian-stocks-rise-ahead-of-fed-rate-decision-49a773a3?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-16-05-14-00 +0000"
+  },
+  {
+    "headline": "Traffic, tourism and economy among election concerns",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx5494q6ggo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-05-09-29 +0000"
+  },
+  {
+    "headline": "Google provides a glimpse inside the renovated Thompson Center",
+    "link": "https://www.chicagotribune.com/2026/09/16/google-thompson-center/",
+    "source": "chitri",
+    "pubdate": "2026-09-16-05-01-39 +0000"
+  },
+  {
+    "headline": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+    "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-05-00-44 +0000"
+  },
+  {
+    "headline": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
+    "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-05-00-44 +0000"
+  },
+  {
+    "headline": "Oregon county chairwoman flips off fellow member during publicly broadcast meeting: wild video",
+    "link": "https://nypost.com/2026/09/16/us-news/oregon-county-pol-flips-off-fellow-member-during-publicly-broadcast-meeting/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-04-59-50 +0000"
+  },
+  {
+    "headline": "A quiet Eric Clapton makes for a wonderful night in St. Paul",
+    "link": "https://www.startribune.com/eric-clapton-bob-dylan-paul-simon-buddy-guy-doyle-bramhall-jimmie-vaughanchris-stainton/601887424",
+    "source": "startribune",
+    "pubdate": "2026-09-16-04-49-31 +0000"
   },
   {
     "headline": "Wounded survivor dials for help with her nose after rampaging North Carolina couple shoots her twice",
@@ -46,18 +274,6 @@
     "link": "https://www.nytimes.com/2026/09/16/world/asia/can-an-island-nations-rugby-dreams-change-its-fortunes.html",
     "source": "nyt",
     "pubdate": "2026-09-16-04-01-21 +0000"
-  },
-  {
-    "headline": "In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble",
-    "link": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-04-01-06 +0000"
-  },
-  {
-    "headline": "In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble",
-    "link": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-04-01-06 +0000"
   },
   {
     "headline": "California voters deeply frustrated by length of November ballot, state and nation's direction",
@@ -108,12 +324,6 @@
     "pubdate": "2026-09-16-03-19-45 +0000"
   },
   {
-    "headline": "Singapore Dollar Weakens Ahead of Fed Rate Decision",
-    "link": "https://www.wsj.com/finance/currencies/fed-guidance-key-to-asian-fx-outlook-511a4410?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-16-03-09-00 +0000"
-  },
-  {
     "headline": "Rising Fuel Prices Set Off Anger and Protests Around the World",
     "link": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html",
     "source": "nyt",
@@ -162,7 +372,7 @@
     "pubdate": "2026-09-16-02-42-43 +0000"
   },
   {
-    "headline": "Japan to charge rescue fee on Mount Fuji during off season",
+    "headline": "Got lost on Mount Fuji off-season? You'll have to pay for your rescue",
     "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-16-02-40-51 +0000"
@@ -208,6 +418,12 @@
     "link": "https://www.nytimes.com/2026/09/15/us/bear-euthanized-grand-teton-national-park.html",
     "source": "nyt",
     "pubdate": "2026-09-16-02-12-18 +0000"
+  },
+  {
+    "headline": "Mayors could be given powers to oversee water companies",
+    "link": "https://www.bbc.co.uk/news/articles/cmgrvdxzzk8eo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-16-02-09-22 +0000"
   },
   {
     "headline": "Steve Hilton says he’d appoint Dem to fill US Senate seat if elected California governor",
@@ -318,7 +534,7 @@
     "pubdate": "2026-09-16-01-15-04 +0000"
   },
   {
-    "headline": "NBC4 helicopter crashes in Chatsworth, killing 3 people",
+    "headline": "NBC4 helicopter crashes in Chatsworth, killing 3: 'A deeply traumatic day'",
     "link": "https://www.latimes.com/california/story/2026-09-15/2-reportedly-killed-in-crash-of-suv-metro-bus-that-leaves-numerous-people-injured",
     "source": "latimes",
     "pubdate": "2026-09-16-01-11-38 +0000"
@@ -370,18 +586,6 @@
     "link": "https://www.wsj.com/world/middle-east/the-u-s-is-burning-through-its-supply-of-interceptors-to-counter-irans-attacks-f42c5ecd?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-09-16-01-00-00 +0000"
-  },
-  {
-    "headline": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-16-00-59-20 +0000"
-  },
-  {
-    "headline": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-16-00-59-20 +0000"
   },
   {
     "headline": "Oil Declines But Remains Elevated Amid Supply Concerns, Geopolitical Risks",
@@ -570,6 +774,12 @@
     "pubdate": "2026-09-15-23-39-22 +0000"
   },
   {
+    "headline": "Carney's new love-in with EU has everything to do with Trump",
+    "link": "https://www.bbc.co.uk/news/articles/ck0e3rnxev27o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-23-37-09 +0000"
+  },
+  {
     "headline": "HmongTown market disputes $6.6 million foreclosure lawsuit, says bank broke financing promise",
     "link": "https://www.startribune.com/hmongtown-marketplace-lawsuit-stearns-bank-pan-asian-center-foreclosure/601889870",
     "source": "startribune",
@@ -580,6 +790,18 @@
     "link": "https://www.bbc.co.uk/news/articles/cx5yl2980pzmo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-15-23-33-19 +0000"
+  },
+  {
+    "headline": "Maduro ally pleads guilty in $195m money laundering case in US court",
+    "link": "https://www.bbc.co.uk/news/articles/cx5yl2980pzmo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-23-33-19 +0000"
+  },
+  {
+    "headline": "American Businesses Have No Idea How to Set Prices Right Now",
+    "link": "https://www.wsj.com/business/american-businesses-have-no-idea-how-to-set-prices-right-now-061274e0?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-15-23-30-00 +0000"
   },
   {
     "headline": "American Businesses Have No Idea How to Set Prices Right Now",
@@ -618,12 +840,6 @@
     "pubdate": "2026-09-15-23-18-18 +0000"
   },
   {
-    "headline": "Florida seductress accused of drugging men she meets out, stealing their watches including nearly $100K Rolex",
-    "link": "https://nypost.com/2026/09/15/us-news/florida-seductress-accused-of-drugging-men-she-meets-out-stealing-their-watches-including-nearly-100k-rolex/",
-    "source": "nypost",
-    "pubdate": "2026-09-15-23-16-13 +0000"
-  },
-  {
     "headline": "Mayo launches new company to predict diseases before they hit",
     "link": "https://www.startribune.com/mayo-launches-new-company-to-predict-diseases-before-they-hit/601890014",
     "source": "startribune",
@@ -642,12 +858,6 @@
     "pubdate": "2026-09-15-23-14-26 +0000"
   },
   {
-    "headline": "Complaints to watchdog about water firms jump 84%",
-    "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-15-23-14-08 +0000"
-  },
-  {
     "headline": "In a setback for the crypto industry, a bill that would have helped usher digital assets into the mainstream financial system failed to advance in Congress",
     "link": "https://www.wsj.com/politics/policy/landmark-crypto-bill-fails-procedural-vote-casting-doubt-on-new-digital-asset-rules-d6fc4c47?mod=rss_socialpoliticsfeed",
     "source": "wsj",
@@ -660,24 +870,6 @@
     "pubdate": "2026-09-15-23-12-14 +0000"
   },
   {
-    "headline": "JD Vance urges high turnout in 2026 midterms to keep ‘crazies’ out of office with Trump agenda on the line",
-    "link": "https://nypost.com/2026/09/15/us-news/jd-vance-urges-high-turnout-in-2026-midterms-to-keep-crazies-out-of-office-with-trump-agenda-on-the-line/",
-    "source": "nypost",
-    "pubdate": "2026-09-15-23-12-14 +0000"
-  },
-  {
-    "headline": "Blue states with strong teachers’ unions have lower student literacy levels: study shows",
-    "link": "https://nypost.com/2026/09/15/us-news/blue-states-with-strong-teachers-unions-have-lower-student-literacy-levels-study-shows/",
-    "source": "nypost",
-    "pubdate": "2026-09-15-23-12-07 +0000"
-  },
-  {
-    "headline": "Gavin Newsom’s vow not to run against Kamala Harris branded ‘impossible to believe’",
-    "link": "https://nypost.com/2026/09/15/us-news/gavin-newsoms-vow-not-to-run-against-kamala-harris-branded-impossible-to-believe/",
-    "source": "nypost",
-    "pubdate": "2026-09-15-23-07-30 +0000"
-  },
-  {
     "headline": "Gavin Newsom’s vow not to run against Kamala Harris branded ‘impossible to believe’",
     "link": "https://nypost.com/2026/09/15/us-news/gavin-newsoms-vow-not-to-run-against-kamala-harris-branded-impossible-to-believe/",
     "source": "nypost",
@@ -688,12 +880,6 @@
     "link": "https://www.nytimes.com/2026/09/15/arts/music/ed-sheeran-tour-macklemore-palestine-gaza-finneas.html",
     "source": "nyt",
     "pubdate": "2026-09-15-23-03-57 +0000"
-  },
-  {
-    "headline": "Hochul touts up to $500 discounts for NY utility bills as Blakeman blasts savings as ‘peanuts’",
-    "link": "https://nypost.com/2026/09/15/us-news/hochul-touts-up-to-500-discounts-for-ny-utility-bills-as-blakeman-blasts-savings-as-peanuts/",
-    "source": "nypost",
-    "pubdate": "2026-09-15-23-03-39 +0000"
   },
   {
     "headline": "Questions, grief after explosive crash of McLaren kills O.C. car influencer, Florida model",
@@ -720,16 +906,16 @@
     "pubdate": "2026-09-15-23-01-02 +0000"
   },
   {
-    "headline": "Second Wisconsin elementary teacher convicted of sexually abusing young student at same small-town school",
-    "link": "https://nypost.com/2026/09/15/us-news/wisconsin-teacher-abigail-faust-guilty-of-sexually-abusing-student/",
-    "source": "nypost",
-    "pubdate": "2026-09-15-22-57-28 +0000"
-  },
-  {
     "headline": "Berkeley Event for Kirk Assassination Anniversary Draws Federal Scrutiny",
     "link": "https://www.nytimes.com/2026/09/15/us/berkeley-kirk-assassination-anniversary-event.html",
     "source": "nyt",
     "pubdate": "2026-09-15-22-52-20 +0000"
+  },
+  {
+    "headline": "Messi in Argentina squad for farewell friendly",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-22-50-04 +0000"
   },
   {
     "headline": "Five takeaways from Canada's push to woo the world's richest investors",
@@ -774,22 +960,10 @@
     "pubdate": "2026-09-15-22-34-46 +0000"
   },
   {
-    "headline": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
-    "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-22-17-56 +0000"
-  },
-  {
-    "headline": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
-    "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-22-17-56 +0000"
-  },
-  {
-    "headline": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
-    "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-22-17-56 +0000"
+    "headline": "Turkey arrests dozens in crackdown on LGBTQ+ activists",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7ky12g14jo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-22-26-05 +0000"
   },
   {
     "headline": "Houthis are the world’s biggest new threat to global oil supply — and US ally infighting is to blame",
@@ -904,18 +1078,6 @@
     "link": "https://www.wsj.com/opinion/new-york-regents-exams-high-school-graduates-255bf7f9?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-09-15-21-34-00 +0000"
-  },
-  {
-    "headline": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-    "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-21-31-53 +0000"
-  },
-  {
-    "headline": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-    "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-21-31-53 +0000"
   },
   {
     "headline": "Opinion | Notable & Quotable: A Poetic Disclaimer",
@@ -1228,12 +1390,6 @@
     "link": "https://www.cbc.ca/news/world/hyrox-athlete-diarrhea-9.7344492?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-09-15-20-28-53 +0000"
-  },
-  {
-    "headline": "Minnesota mail-in voting will proceed normally after Supreme Court tosses Trump order",
-    "link": "https://www.startribune.com/mn-mail-voting-absentee-ballots-how-it-works-trump-supreme-court-decision/601887685",
-    "source": "startribune",
-    "pubdate": "2026-09-15-20-28-51 +0000"
   },
   {
     "headline": "Independent Budget Office Estimates Iran War Has Cost $38 Billion",
@@ -1582,6 +1738,12 @@
     "link": "https://www.wsj.com/world/americas/canada-looks-to-lure-investment-with-expensing-change-that-promises-to-give-country-a-tax-edge-d515a518?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-09-15-18-52-00 +0000"
+  },
+  {
+    "headline": "Nigeria arrests alleged Mexican drug kingpin at international airport",
+    "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-15-18-49-45 +0000"
   },
   {
     "headline": "Nigeria arrests alleged Mexican drug kingpin at international airport",
@@ -1980,7 +2142,7 @@
     "pubdate": "2026-09-15-17-23-37 +0000"
   },
   {
-    "headline": "How an African country got the 2029 World Athletics Championships?",
+    "headline": "How an African country got the 2029 World Athletics Championships",
     "link": "https://www.bbc.co.uk/sport/athletics/videos/cm93evnkdy81o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-15-17-23-07 +0000"
@@ -2280,12 +2442,6 @@
     "pubdate": "2026-09-15-14-55-00 +0000"
   },
   {
-    "headline": "Karen Bass skips House homelessness hearing for Pacific Palisades event",
-    "link": "https://nypost.com/2026/09/15/us-news/karen-bass-skips-house-homelessness-hearing-for-pacific-palisades-event/",
-    "source": "nypost",
-    "pubdate": "2026-09-15-14-43-35 +0000"
-  },
-  {
     "headline": "Bill Gates warns no government in the world is prepared for AI crisis: ‘Way behind’",
     "link": "https://nypost.com/2026/09/15/business/bill-gates-warns-no-government-in-the-world-is-prepared-for-ai-way-behind/",
     "source": "nypost",
@@ -2456,12 +2612,6 @@
   {
     "headline": "DOJ Says Binance Customers Used Crypto Exchange to Funnel Iran Oil Money",
     "link": "https://www.wsj.com/finance/currencies/doj-says-binance-customers-used-crypto-exchange-to-funnel-iran-oil-money-d546b0a9?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-15-13-39-00 +0000"
-  },
-  {
-    "headline": "DOJ Says Binance Customers Used Crypto Exchange to Funnel Iran Oil Money",
-    "link": "https://www.wsj.com/finance/currencies/doj-says-binance-customers-used-crypto-exchange-to-funnel-iran-oil-money-d546b0a9?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-15-13-39-00 +0000"
   },
@@ -3088,41 +3238,5 @@
     "link": "https://www.cbc.ca/news/politics/cra-pandemic-benefit-clawbacks-cerb-cra-maytree-report-9.7330433?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-09-15-08-00-00 +0000"
-  },
-  {
-    "headline": "What is the triple lock and how much is the state pension worth?",
-    "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-15-07-20-55 +0000"
-  },
-  {
-    "headline": "China tightens travel restrictions for citizens",
-    "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-15-06-43-09 +0000"
-  },
-  {
-    "headline": "Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief",
-    "link": "https://www.nytimes.com/2026/09/13/world/asia/nepal-tibet-floods-school-children.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-06-34-23 +0000"
-  },
-  {
-    "headline": "Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief",
-    "link": "https://www.nytimes.com/2026/09/13/world/asia/nepal-tibet-floods-school-children.html",
-    "source": "nyt",
-    "pubdate": "2026-09-15-06-34-23 +0000"
-  },
-  {
-    "headline": "AI 'SpongeBob' parody of problems in Egypt draws scrutiny of authorities",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4g65vjnmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-15-06-02-35 +0000"
-  },
-  {
-    "headline": "AI 'SpongeBob' parody of problems in Egypt draws scrutiny of authorities",
-    "link": "https://www.bbc.co.uk/news/articles/c5y4g65vjnmo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-15-06-02-35 +0000"
   }
 ]
