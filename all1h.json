@@ -1,422 +1,230 @@
 [
   {
+    "headline": "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way",
+    "link": "https://www.chicagotribune.com/2026/09/16/us-stocks-slip-fed-rate-hike/",
+    "source": "chitri",
+    "pubdate": "2026-09-16-20-54-10 +0000"
+  },
+  {
+    "headline": "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way",
+    "link": "https://www.chicagotribune.com/2026/09/16/us-stocks-slip-fed-rate-hike/",
+    "source": "chitri",
+    "pubdate": "2026-09-16-20-54-10 +0000"
+  },
+  {
+    "headline": "The Canaduropean Union?",
+    "link": "https://www.nytimes.com/2026/09/16/world/canada-eu-ed-sheeran-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-20-52-07 +0000"
+  },
+  {
+    "headline": "Dr. Nicole Saphier, President Trump’s 3rd surgeon general pick, faces Senate questions over her vaccine stance",
+    "link": "https://www.chicagotribune.com/2026/09/16/dr-nicole-saphier-surgeon-general-pick/",
+    "source": "chitri",
+    "pubdate": "2026-09-16-20-51-27 +0000"
+  },
+  {
+    "headline": "Moment SUV smashes into LA Metro bus triggering chain reaction that saw NBC helicopter disaster",
+    "link": "https://nypost.com/2026/09/16/us-news/exclusive-video-captures-la-metro-bus-collision-before-nbc-chopper-crash/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-20-49-18 +0000"
+  },
+  {
+    "headline": "Sicko worker at upstate NY Santa’s Workshop theme park targeted kids online for sex: police",
+    "link": "https://nypost.com/2026/09/16/us-news/sicko-upstate-new-york-theme-park-worker-targeted-kids-online-police/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-20-46-32 +0000"
+  },
+  {
+    "headline": "U.S. Stocks Fall After Fed Rate Increase",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-after-fed-rate-increase-27d5809c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-16-20-46-00 +0000"
+  },
+  {
+    "headline": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
+    "link": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-20-39-18 +0000"
+  },
+  {
+    "headline": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
+    "link": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-20-39-18 +0000"
+  },
+  {
+    "headline": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
+    "link": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-20-39-18 +0000"
+  },
+  {
+    "headline": "Senate Takes Up Bill to Regulate ‘Wild West’ of Collegiate Sports",
+    "link": "https://www.nytimes.com/2026/09/16/us/politics/senate-regulates-college-sports.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-20-38-07 +0000"
+  },
+  {
+    "headline": "Senate Takes Up Bill to Regulate ‘Wild West’ of Collegiate Sports",
+    "link": "https://www.nytimes.com/2026/09/16/us/politics/senate-regulates-college-sports.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-20-38-07 +0000"
+  },
+  {
+    "headline": "Top Democrat Opposes Trump’s Planned Sale of Heavy Bombs to Israel",
+    "link": "https://www.wsj.com/world/middle-east/trump-administration-plans-one-of-largest-u-s-sales-of-heavy-bombs-to-israel-545fccb8?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-16-20-37-00 +0000"
+  },
+  {
+    "headline": "Documentary alleges Israel bombs Gaza regardless of risk to civilians",
+    "link": "https://www.cbc.ca/news/world/naza-documentary-reaction-israel-gaza-9.7345852?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-09-16-20-36-48 +0000"
+  },
+  {
+    "headline": "Online sports betting emerges as NY cash cow — generating billions in tax revenue",
+    "link": "https://nypost.com/2026/09/16/us-news/grand-slam-mobile-sports-betting-emerges-as-ny-tax-cash-cow/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-20-35-42 +0000"
+  },
+  {
+    "headline": "In reversal, California regulator says unmarried drivers should not pay more for auto insurance",
+    "link": "https://www.latimes.com/business/story/2026-09-16/in-reversal-california-regulator-says-unmarried-drivers-should-not-pay-more-for-auto-insurance",
+    "source": "latimes",
+    "pubdate": "2026-09-16-20-34-53 +0000"
+  },
+  {
+    "headline": "Retail sales rebound strongly in August, even as people are wary over economy",
+    "link": "https://www.washingtonpost.com/business/2026/09/16/retail-sales-rebound-strongly-august-even-people-feel-wary-over-economy/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-20-30-00 +0000"
+  },
+  {
     "headline": "The House of Representatives voted to hold billionaire Leon Black in contempt of Congress",
     "link": "https://www.wsj.com/politics/policy/house-votes-to-hold-leon-black-in-contempt-of-congress-553113c0?mod=rss_socialpoliticsfeed",
     "source": "wsj",
-    "pubdate": "2026-09-16-19-54-00 +0000"
+    "pubdate": "2026-09-16-20-30-00 +0000"
   },
   {
-    "headline": "Bone found on California beach linked to fisherman lost at sea more than 25 years ago",
-    "link": "https://nypost.com/2026/09/16/us-news/human-bone-found-in-humboldt-bay-beach-solves-1999-fisherman-mystery/",
+    "headline": "Wild moment LA gadfly storms City Hall meeting and humiliates Karen Bass in front of stunned councilors",
+    "link": "https://nypost.com/2026/09/16/us-news/la-city-hall-gadfly-blasts-karen-bass-in-f-bomb-filled-tirade/",
     "source": "nypost",
-    "pubdate": "2026-09-16-19-51-44 +0000"
+    "pubdate": "2026-09-16-20-29-55 +0000"
   },
   {
-    "headline": "What to know about the Fed’s decision.",
-    "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/what-to-know-about-the-feds-decision",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-50-53 +0000"
-  },
-  {
-    "headline": "What to know about the Fed’s decision.",
-    "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/what-to-know-about-the-feds-decision",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-50-53 +0000"
-  },
-  {
-    "headline": "Muslim nations condemn ‘heinous attacks’ after Houthi drone downed near Mecca",
-    "link": "https://nypost.com/2026/09/16/world-news/muslim-nations-condemn-heinous-attacks-after-houthi-drone-downed-near-mecca/",
+    "headline": "Americans are richer than ever— and poverty hits an all-time low",
+    "link": "https://nypost.com/2026/09/16/business/americans-household-income-hit-record-high-as-poverty-rate-fell-to-lowest-level-ever-in-2025/",
     "source": "nypost",
-    "pubdate": "2026-09-16-19-48-30 +0000"
+    "pubdate": "2026-09-16-20-25-33 +0000"
   },
   {
-    "headline": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+    "headline": "What to Know About the Victims in the NBC4 Helicopter Crash in Los Angeles",
+    "link": "https://www.nytimes.com/2026/09/16/us/la-helicopter-crash-victims-eliana-moreno-george-marciniw.html",
     "source": "nyt",
-    "pubdate": "2026-09-16-19-47-09 +0000"
+    "pubdate": "2026-09-16-20-21-53 +0000"
   },
   {
-    "headline": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-47-09 +0000"
+    "headline": "Fed Issues First Rate Hike Since 2023",
+    "link": "https://www.wsj.com/finance/investing/fed-issues-first-rate-hike-since-2023-10eea80d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-16-20-21-00 +0000"
   },
   {
-    "headline": "Susie Wiles, Trump’s chief of staff, says she is cancer-free",
-    "link": "https://www.washingtonpost.com/politics/2026/09/16/susie-wiles-trumps-chief-staff-says-she-is-cancer-free/",
-    "source": "wapo",
-    "pubdate": "2026-09-16-19-47-03 +0000"
-  },
-  {
-    "headline": "Fed raises interest rates by quarter point to tackle inflation",
-    "link": "https://www.washingtonpost.com/business/2026/09/16/fed-raises-rates-steady-inflation-challenges-grow/",
-    "source": "wapo",
-    "pubdate": "2026-09-16-19-46-35 +0000"
-  },
-  {
-    "headline": "Fed raises interest rates by quarter point to tackle inflation",
-    "link": "https://www.washingtonpost.com/business/2026/09/16/fed-raises-rates-steady-inflation-challenges-grow/",
-    "source": "wapo",
-    "pubdate": "2026-09-16-19-46-35 +0000"
-  },
-  {
-    "headline": "How do you take T. rex's temperature? These scientists did it",
-    "link": "https://www.cbc.ca/news/science/t-rex-warmblooded-9.7346527?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-16-19-46-33 +0000"
-  },
-  {
-    "headline": "Houthis claim to have taken down Saudi fighter jet as conflict escalates",
-    "link": "https://nypost.com/2026/09/16/world-news/houthis-claim-to-have-taken-down-saudi-fighter-jet-as-conflict-escalates/",
+    "headline": "Disturbing video captures bloody Westchester college campus stabbing with 3 students injured",
+    "link": "https://nypost.com/2026/09/16/us-news/disturbing-video-captures-bloody-westchester-college-campus-stabbing-with-3-students-injured/",
     "source": "nypost",
-    "pubdate": "2026-09-16-19-46-15 +0000"
+    "pubdate": "2026-09-16-20-16-07 +0000"
   },
   {
-    "headline": "Corey’s Pizza is open and lowriders are coming to town",
-    "link": "https://missionlocal.org/2026/09/coreys-pizza-is-open-and-lowriders-are-coming-to-town/",
+    "headline": "Saikat Chakrabarti drops $400K for affordable housing, public bank and transit measures",
+    "link": "https://missionlocal.org/2026/09/saikat-chakrabarti-san-francisco-ballot-measure-funding/",
     "source": "missionlocal",
-    "pubdate": "2026-09-16-19-45-09 +0000"
+    "pubdate": "2026-09-16-20-15-25 +0000"
   },
   {
-    "headline": "Top Dem on Foreign Affairs committee opposes Trump-proposed $2.8B arms sale to Israel",
-    "link": "https://www.cbc.ca/news/world/arms-sale-israel-trump-9.7346747?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-16-19-45-00 +0000"
-  },
-  {
-    "headline": "Abdul El-Sayed blames slavery for healthcare woes — says opposing taxpayer funded care for illegal immigrants is akin to racism",
-    "link": "https://nypost.com/2026/09/16/us-news/abdul-el-sayed-blames-slavery-for-healthcare-woes-says-opposing-taxpayer-funded-care-for-illegal-immigrants-is-akin-to-racism/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-44-12 +0000"
-  },
-  {
-    "headline": "Abdul El-Sayed blames slavery for US healthcare woes — says opposing taxpayer funded care for illegal immigrants is akin to racism",
-    "link": "https://nypost.com/2026/09/16/us-news/abdul-el-sayed-blames-slavery-for-healthcare-woes-says-opposing-taxpayer-funded-care-for-illegal-immigrants-is-akin-to-racism/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-44-12 +0000"
-  },
-  {
-    "headline": "What to know about the Fed’s decision.",
-    "link": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-42-17 +0000"
-  },
-  {
-    "headline": "What to know about the Fed’s decision.",
-    "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/federal-reserve-interest-rates-warsh",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-42-16 +0000"
-  },
-  {
-    "headline": "In the Maldives, A.I. Is Helping to Rebuild Beaches Lost to Rising Seas",
-    "link": "https://www.nytimes.com/2026/09/16/climate/maldives-beach-restoration-ai.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-41-47 +0000"
-  },
-  {
-    "headline": "SpaceX soars 5% after Starship reusable rocket launch date revealed",
-    "link": "https://nypost.com/2026/09/16/business/spacex-soars-5-after-starship-reusable-rocket-launch-date-revealed/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-38-02 +0000"
-  },
-  {
-    "headline": "How Kamala Harris’ campaign lied about Beyonce, Taylor Swift and Bad Bunny to attract and exploit crowds",
-    "link": "https://nypost.com/2026/09/16/us-news/kamala-harris-campaign-lied-about-beyonce-and-taylor-swift/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-34-57 +0000"
-  },
-  {
-    "headline": "How Kamala Harris’ campaign lied about Beyonce, Taylor Swift and Bad Bunny to attract and exploit crowds",
-    "link": "https://nypost.com/2026/09/16/us-news/kamala-harris-campaign-lied-about-beyonce-and-taylor-swift/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-34-57 +0000"
-  },
-  {
-    "headline": "Sen. Cassidy says measles surge will be administration’s ‘terrible legacy’",
-    "link": "https://www.washingtonpost.com/health/2026/09/16/trumps-third-surgeon-general-nominee-nicole-saphier-face-senate/",
+    "headline": "Fed raises interest rates by quarter point to tackle inflation",
+    "link": "https://www.washingtonpost.com/business/2026/09/16/fed-raises-rates-steady-inflation-challenges-grow/",
     "source": "wapo",
-    "pubdate": "2026-09-16-19-34-28 +0000"
+    "pubdate": "2026-09-16-20-14-59 +0000"
+  },
+  {
+    "headline": "Fed raises interest rates by quarter point to tackle inflation",
+    "link": "https://www.washingtonpost.com/business/2026/09/16/fed-raises-rates-steady-inflation-challenges-grow/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-20-14-59 +0000"
+  },
+  {
+    "headline": "La Opinión, the chronicler of Latino life in L.A., reflects on a century of change",
+    "link": "https://www.latimes.com/california/story/2026-09-16/la-opinion-chronicler-of-latino-life-in-l-a-reflects-on-century-of-change",
+    "source": "latimes",
+    "pubdate": "2026-09-16-20-13-51 +0000"
+  },
+  {
+    "headline": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-20-13-21 +0000"
+  },
+  {
+    "headline": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-20-13-21 +0000"
+  },
+  {
+    "headline": "Congress May Be Broken Beyond Repair. Lawmakers Told Us How It Happened.",
+    "link": "https://www.nytimes.com/2026/09/16/magazine/congress-trump-midterms.html",
+    "source": "nyt",
+    "pubdate": "2026-09-16-20-13-08 +0000"
+  },
+  {
+    "headline": "DSA snubs union workers for $20K renovation of NYC HQ — and labor group is not happy: ‘Tells you everything you need to know’",
+    "link": "https://nypost.com/2026/09/16/us-news/dsa-snubs-union-workers-for-20k-renovation-of-its-nyc-hq-and-labor-group-is-not-happy/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-20-11-22 +0000"
+  },
+  {
+    "headline": "Crazed woman tries to kidnap boy, 4, from grandma on NYC street — but hero cop mom saves the day",
+    "link": "https://nypost.com/2026/09/16/us-news/female-stranger-tries-to-kidnap-boy-4-from-outside-nyc-mcdonalds-backs-off-when-gutsy-granny-steps-in-cops-sources/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-20-11-09 +0000"
+  },
+  {
+    "headline": "Trump’s arch will harm historic sites but must proceed, federal officials say",
+    "link": "https://www.washingtonpost.com/politics/2026/09/16/trump-officials-say-planned-arch-will-harm-historic-sites-must-go/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-20-04-16 +0000"
+  },
+  {
+    "headline": "Texas Dem group allegedly ‘paying’ for votes, operative claims in undercover video: ‘Shady as f–k’",
+    "link": "https://nypost.com/2026/09/16/us-news/texas-dem-group-allegedly-paying-for-votes-operative-claims-in-undercover-video-shady-as-f-k/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-20-03-52 +0000"
+  },
+  {
+    "headline": "Texas Dem group allegedly ‘paying’ for votes, operative claims in undercover video: ‘Shady as f–k’",
+    "link": "https://nypost.com/2026/09/16/us-news/texas-dem-group-allegedly-paying-for-votes-operative-claims-in-undercover-video-shady-as-f-k/",
+    "source": "nypost",
+    "pubdate": "2026-09-16-20-03-52 +0000"
+  },
+  {
+    "headline": "Senate Republicans manage to advance farm bill with McConnell’s return",
+    "link": "https://www.washingtonpost.com/politics/2026/09/16/senate-republicans-manage-advance-farm-bill-with-mcconnells-return/",
+    "source": "wapo",
+    "pubdate": "2026-09-16-20-03-40 +0000"
   },
   {
     "headline": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
     "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-09-16-19-34-24 +0000"
+    "pubdate": "2026-09-16-19-59-57 +0000"
   },
   {
-    "headline": "White House chief of staff Susie Wiles said Wednesday that she is cancer free after undergoing treatment for breast cancer earlier this year",
-    "link": "https://www.wsj.com/politics/policy/white-house-chief-of-staff-susie-wiles-says-she-is-cancer-free-88cb7a59?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-16-19-31-00 +0000"
-  },
-  {
-    "headline": "E.U.-Canada Ambitions Face Reality Check",
-    "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-30-23 +0000"
-  },
-  {
-    "headline": "E.U.-Canada Ambitions Face Reality Check",
-    "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-30-23 +0000"
-  },
-  {
-    "headline": "Amid threats, Hennepin County Attorney Mary Moriarty spent more than $500,000 on private security",
-    "link": "https://www.startribune.com/amid-threats-hennepin-county-attorney-mary-moriarty-spent-more-than-500000-on-private-security/601889759",
-    "source": "startribune",
-    "pubdate": "2026-09-16-19-29-58 +0000"
-  },
-  {
-    "headline": "Mamdani hires ‘gay communist’ who railed about abolishing police for $185K adviser role",
-    "link": "https://nypost.com/2026/09/16/us-news/mamdani-hires-185k-adviser-who-edited-pinko-magazine-and-railed-about-abolishing-police/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-29-23 +0000"
-  },
-  {
-    "headline": "Mamdani hires ‘gay communist’ who railed about abolishing police for $185K adviser role",
-    "link": "https://nypost.com/2026/09/16/us-news/mamdani-hires-185k-adviser-who-edited-pinko-magazine-and-railed-about-abolishing-police/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-29-23 +0000"
-  },
-  {
-    "headline": "Takeaways From the Fed’s Decision to Raise Interest Rates",
-    "link": "https://www.nytimes.com/2026/09/16/business/economy/fed-meeting-interest-rates-warsh-takeaways.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-29-00 +0000"
-  },
-  {
-    "headline": "Takeaways From the Fed’s Decision to Raise Interest Rates",
-    "link": "https://www.nytimes.com/2026/09/16/business/economy/fed-meeting-interest-rates-warsh-takeaways.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-29-00 +0000"
-  },
-  {
-    "headline": "Haunting images show charred aftermath of NBC helicopter with station’s logo",
-    "link": "https://nypost.com/2026/09/16/us-news/photos-show-charred-aftermath-of-nbc-helicopter-with-stations-logo/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-27-41 +0000"
-  },
-  {
-    "headline": "U.S. Natural Gas Futures Slip Ahead of Storage Data",
-    "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-gains-4b096c35?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-16-19-27-00 +0000"
-  },
-  {
-    "headline": "Oil Prices Edge Lower Ahead of Fed Decision",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-ahead-of-fed-decision-aa5afb9c?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-16-19-27-00 +0000"
-  },
-  {
-    "headline": "Newsom Signs Jay Leno’s Classic Car Bill Over Environmentalist Objections",
-    "link": "https://www.nytimes.com/2026/09/16/us/jay-leno-law-classic-car-gavin-newsom.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-26-21 +0000"
-  },
-  {
-    "headline": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
-    "link": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-25-40 +0000"
-  },
-  {
-    "headline": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
-    "link": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-25-40 +0000"
-  },
-  {
-    "headline": "House Holds Leon Black in Contempt Over Epstein Subpoenas",
-    "link": "https://www.nytimes.com/2026/09/16/us/politics/leon-black-contempt-congress.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-25-39 +0000"
-  },
-  {
-    "headline": "House Holds Leon Black in Contempt Over Epstein Subpoenas",
-    "link": "https://www.nytimes.com/2026/09/16/us/politics/leon-black-contempt-congress.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-25-39 +0000"
-  },
-  {
-    "headline": "Fencing goes up around Kennedy Center as activists worry it will be demolished",
-    "link": "https://www.cbc.ca/news/world/kennedy-center-fencing-repairs-9.7346705?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-16-19-22-01 +0000"
-  },
-  {
-    "headline": "Susie Wiles, Trump’s Chief of Staff, Says She Is ‘Cancer Free’",
-    "link": "https://www.nytimes.com/2026/09/16/us/politics/susie-wiles-trump-cancer.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-21-41 +0000"
-  },
-  {
-    "headline": "Susie Wiles, Trump’s Chief of Staff, Says She Is ‘Cancer Free’",
-    "link": "https://www.nytimes.com/2026/09/16/us/politics/susie-wiles-trump-cancer.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-21-41 +0000"
-  },
-  {
-    "headline": "Fed rate hike likely means more expensive credit cards and mortgages, but savers may rejoice",
-    "link": "https://www.startribune.com/fed-rate-hike-will-likely-push-borrowing-costs-on-credit-cards-mortgages-but-benefit-savers/601890424",
-    "source": "startribune",
-    "pubdate": "2026-09-16-19-21-01 +0000"
-  },
-  {
-    "headline": "The Fed voted unanimously to raise rates for the first time in three years, and most officials projected one more increase by year-end",
-    "link": "https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe?mod=rss_socialeconomyfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-16-19-21-00 +0000"
-  },
-  {
-    "headline": "Viral video shows Trump piñata destroyed at California college as official cheers",
-    "link": "https://nypost.com/2026/09/16/us-news/viral-video-shows-trump-pinata-getting-hit-at-california-college/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-20-30 +0000"
-  },
-  {
-    "headline": "House holds billionaire Leon Black in contempt over Epstein probe subpoena",
-    "link": "https://www.washingtonpost.com/politics/2026/09/16/billionaire-leon-black-held-contempt-over-epstein-investigation-subpoena/",
-    "source": "wapo",
-    "pubdate": "2026-09-16-19-18-48 +0000"
-  },
-  {
-    "headline": "NBC 4 crash helicopter model linked to fatal accidents, records show",
-    "link": "https://nypost.com/2026/09/16/us-news/nbc-4-crash-helicopter-model-linked-to-fatal-accidents-records-show/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-18-35 +0000"
-  },
-  {
-    "headline": "Congressional Democrats Take Aim at Private Equity’s Role in Medicine",
-    "link": "https://www.wsj.com/pro/private-equity/congressional-democrats-take-aim-at-private-equitys-role-in-medicine-444ee2ed?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-16-19-18-00 +0000"
-  },
-  {
-    "headline": "Anthropic has trained Claude chatbot to ‘push back’ against humans — and results could be ‘disastrous,’ top Microsoft executive warns",
-    "link": "https://nypost.com/2026/09/16/business/anthropic-has-trained-claude-chatbot-to-push-back-against-humans-and-results-could-be-disastrous/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-16-52 +0000"
-  },
-  {
-    "headline": "Trump admin planning $2.8 billion munitions sale with 40K bombs shipped to Israel",
-    "link": "https://nypost.com/2026/09/16/us-news/trump-admin-planning-2-8-billion-munitions-sale-with-40k-bombs-shipped-to-israel/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-16-19 +0000"
-  },
-  {
-    "headline": "Trump admin planning $2.8 billion munitions sale with 40K bombs shipped to Israel",
-    "link": "https://nypost.com/2026/09/16/us-news/trump-admin-planning-2-8-billion-munitions-sale-with-40k-bombs-shipped-to-israel/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-16-19 +0000"
-  },
-  {
-    "headline": "News Helicopter Crash in Los Angeles Underscores the Risks of Aerial Reporting",
-    "link": "https://www.nytimes.com/2026/09/16/us/los-angeles-news-chopper-crash.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-13-52 +0000"
-  },
-  {
-    "headline": "Trump's Chief of Staff Susie Wiles announces she's cancer-free",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
+    "headline": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+    "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-09-16-19-12-48 +0000"
-  },
-  {
-    "headline": "Fed Signals Another Rate Increase Could Be Coming",
-    "link": "https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-12-46 +0000"
-  },
-  {
-    "headline": "The Quiet Way A.I. Is Hitting the Work Force",
-    "link": "https://www.nytimes.com/2026/09/16/business/ai-raises-hiring.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-12-18 +0000"
-  },
-  {
-    "headline": "Inside the Secret Service’s grueling fitness tests for recruits ahead of LA 2028",
-    "link": "https://nypost.com/2026/09/16/us-news/inside-the-secret-services-la28-recruitment-effort/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-11-25 +0000"
-  },
-  {
-    "headline": "Harold Hamm’s Continental Resources Signs Preliminary Oil Deal in Venezuela",
-    "link": "https://www.wsj.com/business/energy-oil/harold-hamms-continental-resources-signs-preliminary-oil-deal-in-venezuela-ff46cfd3?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-16-19-11-00 +0000"
-  },
-  {
-    "headline": "Harold Hamm’s Continental Resources Signs Preliminary Oil Deal in Venezuela",
-    "link": "https://www.wsj.com/business/energy-oil/harold-hamms-continental-resources-signs-preliminary-oil-deal-in-venezuela-ff46cfd3?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-16-19-11-00 +0000"
-  },
-  {
-    "headline": "Dow Falls 500 Points as the Federal Reserve Raises Key Interest Rate",
-    "link": "https://www.wsj.com/finance/stocks/oil-pares-gains-stock-futures-steady-as-cautious-optimism-heralds-fed-day-65090da0?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-16-19-08-00 +0000"
-  },
-  {
-    "headline": "Dangerous California wildfire forces freeway closure, evacuation warnings",
-    "link": "https://nypost.com/2026/09/16/us-news/floriston-fire-near-i-80-prompts-lane-closure-and-evacuation-warnings/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-19-07-47 +0000"
-  },
-  {
-    "headline": "Officer Sues Capitol Police, Alleging Racial Bias",
-    "link": "https://www.nytimes.com/2026/09/16/us/politics/capitol-police-discrimination-lawsuit.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-02-27 +0000"
-  },
-  {
-    "headline": "Officer Sues Capitol Police, Alleging Racial Bias",
-    "link": "https://www.nytimes.com/2026/09/16/us/politics/capitol-police-discrimination-lawsuit.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-19-02-27 +0000"
-  },
-  {
-    "headline": "Meet the District 8 candidates: Should S.F. arrest more drug users?",
-    "link": "https://missionlocal.org/2026/09/sf-district-8-candidates-drug-user-arrests/",
-    "source": "missionlocal",
-    "pubdate": "2026-09-16-19-00-00 +0000"
-  },
-  {
-    "headline": "U.S. Federal Reserve raises interest rates for 1st time in 3 years",
-    "link": "https://www.cbc.ca/news/business/us-interest-rate-hike-sept-2026-9.7346557?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-16-19-00-00 +0000"
-  },
-  {
-    "headline": "At least 67 dead in Sudan gold mine collapse, as many more remain missing",
-    "link": "https://nypost.com/2026/09/16/world-news/at-least-67-dead-in-sudan-gold-mine-collapse/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-18-59-23 +0000"
-  },
-  {
-    "headline": "Gas prices are about to take a big jump, analysts say, with the worst still to come",
-    "link": "https://www.washingtonpost.com/world/2026/09/16/analysts-predict-gas-price-jump-long-disruption-damaged-pipeline/",
-    "source": "wapo",
-    "pubdate": "2026-09-16-18-59-22 +0000"
-  },
-  {
-    "headline": "How the Fed’s Interest Rate Increase Affects Your Finances",
-    "link": "https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rate-mortgages-loans.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-18-58-48 +0000"
-  },
-  {
-    "headline": "How the Fed’s Interest Rate Increase Affects Your Finances",
-    "link": "https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rate-mortgages-loans.html",
-    "source": "nyt",
-    "pubdate": "2026-09-16-18-58-48 +0000"
-  },
-  {
-    "headline": "Sick Florida mom arrested after husband finds video of her perfomring sex acts with family dog: cops",
-    "link": "https://nypost.com/2026/09/16/us-news/florida-mom-arrested-after-husband-found-video-of-her-in-sex-acts-with-dog/",
-    "source": "nypost",
-    "pubdate": "2026-09-16-18-58-31 +0000"
+    "pubdate": "2026-09-16-19-59-57 +0000"
   }
 ]
