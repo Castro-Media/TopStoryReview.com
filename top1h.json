@@ -1,9 +1,72 @@
 [
   {
-    "score": 8,
-    "pubdate": "2026-09-17-12-57-00 +0000",
+    "score": 49,
+    "pubdate": "2026-09-17-14-05-38 +0000",
+    "source": "bbc",
+    "headline": "Interest rates held but Bank signals rise if energy prices stay high",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-09-17-14-32-46 +0000",
+    "source": "nypost",
+    "headline": "Trump ‘I did that’ stickers pop up on gas pumps, four years after Biden got the same treatment",
+    "link": "https://nypost.com/2026/09/17/us-news/trump-i-did-that-stickers-pop-up-on-gas-pumps-four-years-after-biden-got-the-same-treatment/"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-09-17-14-13-00 +0000",
     "source": "wsj",
-    "headline": "Stocks Rally, Yields Fall as Lower Oil Boosts Market Mood",
-    "link": "https://www.wsj.com/finance/commodities-futures/stocks-rally-yields-fall-as-lower-oil-boosts-market-mood-e5c10b6c?mod=rss_markets_main"
+    "headline": "The U.S. is investigating whether Iran is behind the cyberattacks of two energy tankers bound for American ports",
+    "link": "https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-09-17-14-32-16 +0000",
+    "source": "nyt",
+    "headline": "Stung by Voting Rights Decision, Many Black Southerners Plan for November",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/black-voters-democratic-candidates-south.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-17-14-19-34 +0000",
+    "source": "nypost",
+    "headline": "Hyrox champ finally apologizes for diarrhea-covered event — and says she learned ‘there is more to life than racing’",
+    "link": "https://nypost.com/2026/09/17/health/hyrox-pooper-apologizes-and-retroactively-withdraws-from-race/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-17-14-23-00 +0000",
+    "source": "wsj",
+    "headline": "House lawmakers are heading home until after the elections, getting an early dismissal despite concerns about gas prices and AI—and criticism that Congress just isn’t doing its job",
+    "link": "https://www.wsj.com/politics/johnson-house-representatives-early-dismissal-008d44fb?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-17-14-40-00 +0000",
+    "source": "wsj",
+    "headline": "FTC Requests Additional Information Regarding Fertitta, Caesars Merger",
+    "link": "https://www.wsj.com/business/hospitality/ftc-requests-additional-information-regarding-fertitta-caesars-merger-5af7103d?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-17-14-03-00 +0000",
+    "source": "wsj",
+    "headline": "Barrels of Sake and Rooftop Galas: Energy Traders Toast the War Boom",
+    "link": "https://www.wsj.com/business/energy-oil/barrels-of-sake-and-rooftop-galas-energy-traders-toast-the-war-boom-5b4bdb1c?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-17-14-42-00 +0000",
+    "source": "wsj",
+    "headline": "The Bank of England kept its key interest rate unchanged, holding steady at a time when the Federal Reserve and European Central Bank have raised rates",
+    "link": "https://www.wsj.com/economy/central-banking/why-the-bank-of-england-didnt-follow-the-fed-in-raising-interest-rates-007dc4a4?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-17-14-37-23 +0000",
+    "source": "nypost",
+    "headline": "Stocks rise as Wall Street bounces back from Fed sell-off; oil dips",
+    "link": "https://nypost.com/2026/09/17/business/stocks-rise-as-wall-street-bounces-back-from-fed-sell-off-oil-dips/"
   }
 ]

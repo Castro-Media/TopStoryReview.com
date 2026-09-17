@@ -1,8 +1,248 @@
 [
   {
-    "headline": "Stocks Rally, Yields Fall as Lower Oil Boosts Market Mood",
+    "headline": "U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged",
+    "link": "https://www.wsj.com/economy/central-banking/u-s-treasury-yields-fall-as-market-regains-trust-in-feds-inflation-resolve-62beaf8e?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-49-00 +0000"
+  },
+  {
+    "headline": "Former youth minister indicted on sex abuse charges after FBI probe",
+    "link": "https://www.washingtonpost.com/investigations/2026/09/17/former-youth-minister-indicted-sex-abuse-charges-after-fbi-probe/",
+    "source": "wapo",
+    "pubdate": "2026-09-17-14-47-50 +0000"
+  },
+  {
+    "headline": "Bride-to-be, 28, among three killed in horrific fiery ejection crash in California",
+    "link": "https://nypost.com/2026/09/17/us-news/3-victims-identified-in-deadly-norcal-car-crash-in-el-doardo-hills/",
+    "source": "nypost",
+    "pubdate": "2026-09-17-14-46-07 +0000"
+  },
+  {
+    "headline": "Relentless heat dome triggers severe storms across the Midwest, Central Plains",
+    "link": "https://nypost.com/2026/09/17/us-news/relentless-heat-dome-triggers-severe-storms-across-the-midwest-central-plains/",
+    "source": "nypost",
+    "pubdate": "2026-09-17-14-45-38 +0000"
+  },
+  {
+    "headline": "Why the Bank of England Didn’t Follow the Fed in Raising Interest Rates",
+    "link": "https://www.wsj.com/economy/central-banking/why-the-bank-of-england-didnt-follow-the-fed-in-raising-interest-rates-007dc4a4?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-42-00 +0000"
+  },
+  {
+    "headline": "The Bank of England kept its key interest rate unchanged, holding steady at a time when the Federal Reserve and European Central Bank have raised rates",
+    "link": "https://www.wsj.com/economy/central-banking/why-the-bank-of-england-didnt-follow-the-fed-in-raising-interest-rates-007dc4a4?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-42-00 +0000"
+  },
+  {
+    "headline": "FTC Requests Additional Information Regarding Fertitta, Caesars Merger",
+    "link": "https://www.wsj.com/business/hospitality/ftc-requests-additional-information-regarding-fertitta-caesars-merger-5af7103d?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-40-00 +0000"
+  },
+  {
+    "headline": "FTC Requests Additional Information Regarding Fertitta, Caesars Merger",
+    "link": "https://www.wsj.com/business/hospitality/ftc-requests-additional-information-regarding-fertitta-caesars-merger-5af7103d?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-40-00 +0000"
+  },
+  {
+    "headline": "To a Binational Tribe, Trump’s Border Wall Feels Like Betrayal",
+    "link": "https://www.nytimes.com/2026/09/17/us/tohono-oodham-nation-border-wall-arizona.html",
+    "source": "nyt",
+    "pubdate": "2026-09-17-14-37-43 +0000"
+  },
+  {
+    "headline": "Stocks rise as Wall Street bounces back from Fed sell-off; oil dips",
+    "link": "https://nypost.com/2026/09/17/business/stocks-rise-as-wall-street-bounces-back-from-fed-sell-off-oil-dips/",
+    "source": "nypost",
+    "pubdate": "2026-09-17-14-37-23 +0000"
+  },
+  {
+    "headline": "Trump ‘I did that’ stickers pop up on gas pumps, four years after Biden got the same treatment",
+    "link": "https://nypost.com/2026/09/17/us-news/trump-i-did-that-stickers-pop-up-on-gas-pumps-four-years-after-biden-got-the-same-treatment/",
+    "source": "nypost",
+    "pubdate": "2026-09-17-14-32-46 +0000"
+  },
+  {
+    "headline": "Trump ‘I did that’ stickers pop up on gas pumps, four years after Biden got the same treatment",
+    "link": "https://nypost.com/2026/09/17/us-news/trump-i-did-that-stickers-pop-up-on-gas-pumps-four-years-after-biden-got-the-same-treatment/",
+    "source": "nypost",
+    "pubdate": "2026-09-17-14-32-46 +0000"
+  },
+  {
+    "headline": "Stung by Voting Rights Decision, Many Black Southerners Plan for November",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/black-voters-democratic-candidates-south.html",
+    "source": "nyt",
+    "pubdate": "2026-09-17-14-32-16 +0000"
+  },
+  {
+    "headline": "Stung by Voting Rights Decision, Many Black Southerners Plan for November",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/black-voters-democratic-candidates-south.html",
+    "source": "nyt",
+    "pubdate": "2026-09-17-14-32-16 +0000"
+  },
+  {
+    "headline": "Mangled car wreck kills driver on major California freeway sparking rush hour hell",
+    "link": "https://nypost.com/2026/09/17/us-news/mangled-car-wreck-kills-driver-on-major-california-freeway-sparking-rush-hour-hell/",
+    "source": "nypost",
+    "pubdate": "2026-09-17-14-29-37 +0000"
+  },
+  {
+    "headline": "China’s Private-Equity Lull Seen as a Boon, if You Know Where to Look",
+    "link": "https://www.wsj.com/pro/private-equity/chinas-private-equity-lull-seen-as-a-boon-if-you-know-where-to-look-f919e1a2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-29-00 +0000"
+  },
+  {
+    "headline": "The Canaduropean Union?",
+    "link": "https://www.nytimes.com/2026/09/16/world/canada-eu-ed-sheeran-iran.html",
+    "source": "nyt",
+    "pubdate": "2026-09-17-14-25-46 +0000"
+  },
+  {
+    "headline": "House lawmakers are heading home until after the elections, getting an early dismissal despite concerns about gas prices and AI—and criticism that Congress just isn’t doing its job",
+    "link": "https://www.wsj.com/politics/johnson-house-representatives-early-dismissal-008d44fb?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-23-00 +0000"
+  },
+  {
+    "headline": "Stocks Climb as Markets Retrace Post-Fed Moves",
     "link": "https://www.wsj.com/finance/commodities-futures/stocks-rally-yields-fall-as-lower-oil-boosts-market-mood-e5c10b6c?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-09-17-12-57-00 +0000"
+    "pubdate": "2026-09-17-14-22-00 +0000"
+  },
+  {
+    "headline": "Barclays workers ask for more money to return to the office",
+    "link": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-17-14-20-27 +0000"
+  },
+  {
+    "headline": "Hyrox champ finally apologizes for diarrhea-covered event — and says she learned ‘there is more to life than racing’",
+    "link": "https://nypost.com/2026/09/17/health/hyrox-pooper-apologizes-and-retroactively-withdraws-from-race/",
+    "source": "nypost",
+    "pubdate": "2026-09-17-14-19-34 +0000"
+  },
+  {
+    "headline": "Rising Rates Will Make Private Equity’s Bad Year a Lot Worse",
+    "link": "https://www.wsj.com/finance/investing/rising-rates-will-make-private-equitys-bad-year-a-lot-worse-255daf59?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-16-00 +0000"
+  },
+  {
+    "headline": "Providence High School scraps memorial to coach who died at 41 and puts a TV in its place",
+    "link": "https://nypost.com/2026/09/17/us-news/providence-high-school-removes-coachs-memorial-to-put-up-a-tv/",
+    "source": "nypost",
+    "pubdate": "2026-09-17-14-15-08 +0000"
+  },
+  {
+    "headline": "U.S. denies visas to Palestinian officials ahead of U.N. General Assembly",
+    "link": "https://www.washingtonpost.com/world/2026/09/17/us-denies-visas-palestinian-officials-ahead-un-general-assembly/",
+    "source": "wapo",
+    "pubdate": "2026-09-17-14-15-00 +0000"
+  },
+  {
+    "headline": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
+    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
+    "source": "nyt",
+    "pubdate": "2026-09-17-14-14-57 +0000"
+  },
+  {
+    "headline": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
+    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
+    "source": "nyt",
+    "pubdate": "2026-09-17-14-14-57 +0000"
+  },
+  {
+    "headline": "Oil Futures Extend Decline on Easing Supply Worries",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-to-contain-mideast-crude-supply-disruption-e7e3d9f0?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-14-00 +0000"
+  },
+  {
+    "headline": "U.S. Probes Iran Link to Cyberattacks on Texas-Bound Energy Tankers",
+    "link": "https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-13-00 +0000"
+  },
+  {
+    "headline": "U.S. Probes Iran Link to Cyberattacks on Texas-Bound Energy Tankers",
+    "link": "https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-13-00 +0000"
+  },
+  {
+    "headline": "The U.S. is investigating whether Iran is behind the cyberattacks of two energy tankers bound for American ports",
+    "link": "https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-13-00 +0000"
+  },
+  {
+    "headline": "Australian athlete apologizes for racing with diarrhea, forfeits the Beijing competition she won",
+    "link": "https://www.cbc.ca/news/world/hyrox-diarrhea-apology-9.7347697?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-09-17-14-09-00 +0000"
+  },
+  {
+    "headline": "Interest rates held but Bank signals rise if energy prices stay high",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-17-14-05-38 +0000"
+  },
+  {
+    "headline": "Interest rates held but Bank signals rise if energy prices stay high",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-17-14-05-38 +0000"
+  },
+  {
+    "headline": "Interest rates held but Bank signals rise if energy prices stay high",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-17-14-05-38 +0000"
+  },
+  {
+    "headline": "Barrels of Sake and Rooftop Galas: Energy Traders Toast the War Boom",
+    "link": "https://www.wsj.com/business/energy-oil/barrels-of-sake-and-rooftop-galas-energy-traders-toast-the-war-boom-5b4bdb1c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-03-00 +0000"
+  },
+  {
+    "headline": "Barrels of Sake and Rooftop Galas: Energy Traders Toast the War Boom",
+    "link": "https://www.wsj.com/business/energy-oil/barrels-of-sake-and-rooftop-galas-energy-traders-toast-the-war-boom-5b4bdb1c?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-03-00 +0000"
+  },
+  {
+    "headline": "Carney Puts His Pivot Away From the U.S. to the Test",
+    "link": "https://www.wsj.com/world/europe/canada-mark-carney-european-union-a515b2a4?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-17-14-02-00 +0000"
+  },
+  {
+    "headline": "Insidious device found near SoCal home as cops issue urgent warning",
+    "link": "https://nypost.com/2026/09/17/us-news/whittier-detectives-find-hidden-camera-near-burglarized-home/",
+    "source": "nypost",
+    "pubdate": "2026-09-17-14-00-00 +0000"
+  },
+  {
+    "headline": "Zillow loses antitrust battle over Chicago area listings feed",
+    "link": "https://www.chicagotribune.com/2026/09/17/zillow-antitrust-battle-chicago-area-listings/",
+    "source": "chitri",
+    "pubdate": "2026-09-17-13-59-57 +0000"
+  },
+  {
+    "headline": "United and American airlines say fuel-cost surge may require capacity cuts",
+    "link": "https://www.chicagotribune.com/2026/09/17/united-american-airlines-fuel-cost-surge/",
+    "source": "chitri",
+    "pubdate": "2026-09-17-13-59-18 +0000"
+  },
+  {
+    "headline": "Trump Seeks ‘Made in U.S.A.’ Labels on Beef as Import Rule Angers Ranchers",
+    "link": "https://www.nytimes.com/2026/09/17/business/trump-administration-beef-import-labels.html",
+    "source": "nyt",
+    "pubdate": "2026-09-17-13-56-36 +0000"
   }
 ]
