@@ -1,6 +1,6 @@
 [
   {
-    "score": 287,
+    "score": 284,
     "pubdate": "2026-09-16-21-15-02 +0000",
     "source": "nypost",
     "headline": "Trump defends Fed chair Kevin Warsh after interest rate hike, blames ‘hostile board’ for ‘raise against Trump’",
@@ -14,25 +14,25 @@
     "link": "https://www.wsj.com/world/europe/eu-chief-floats-plan-to-make-canada-first-associate-member-da300f13?mod=rss_worldnews"
   },
   {
-    "score": 107,
+    "score": 106,
     "pubdate": "2026-09-16-19-31-00 +0000",
     "source": "wsj",
     "headline": "White House chief of staff Susie Wiles said Wednesday that she was cancer-free after undergoing treatment for breast cancer earlier this year",
     "link": "https://www.wsj.com/politics/policy/white-house-chief-of-staff-susie-wiles-says-she-is-cancer-free-88cb7a59?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 100,
+    "score": 103,
     "pubdate": "2026-09-16-21-16-00 +0000",
     "source": "wsj",
     "headline": "The Fed raised rates, a top Democrat opposes a major U.S. arms sale to Israel, and BlackRock’s plan to make your 401(k) more like a pension. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/the-fed-is-raising-rates-as-its-inflation-fight-drags-on-f9439ca4?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 73,
-    "pubdate": "2026-09-16-14-19-58 +0000",
-    "source": "chitri",
-    "headline": "Trump administration hits South Africa with new sanctions over alleged discrimination against whites",
-    "link": "https://www.chicagotribune.com/2026/09/16/trump-administration-south-africa-sanctions-alleged-discrimination/"
+    "score": 76,
+    "pubdate": "2026-09-16-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Prompted by new California and U.S. laws, two new lawsuits demand return of Nazi-looted art",
+    "link": "https://www.latimes.com/california/story/2026-09-16/prompted-by-new-california-u-s-laws-two-new-lawsuits-demand-return-of-nazi-looted-art"
   },
   {
     "score": 71,
@@ -42,25 +42,11 @@
     "link": "https://www.chicagotribune.com/2026/09/16/us-canada-trade-war-small-businesses/"
   },
   {
-    "score": 66,
+    "score": 67,
     "pubdate": "2026-09-16-22-49-01 +0000",
     "source": "nypost",
     "headline": "Famed LA helicopter pilot reveals five-second decision that may have led to deadly NBC chopper tragedy",
     "link": "https://nypost.com/2026/09/16/us-news/la-helicopter-pilot-says-seconds-may-have-mattered-in-nbc-chopper-crash/"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-09-16-20-38-07 +0000",
-    "source": "nyt",
-    "headline": "Senate Takes Up Bill to Regulate ‘Wild West’ of Collegiate Sports",
-    "link": "https://www.nytimes.com/2026/09/16/us/politics/senate-regulates-college-sports.html"
-  },
-  {
-    "score": 61,
-    "pubdate": "2026-09-17-00-57-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump said he was standing by Federal Reserve Chairman Kevin Warsh and that he spoke to him just before the central bank unanimously voted to raise interest rates",
-    "link": "https://www.wsj.com/economy/central-banking/trump-says-he-backs-warsh-after-central-bank-raised-interest-rates-cff88294?mod=rss_socialeconomyfeed"
   },
   {
     "score": 60,
@@ -68,5 +54,19 @@
     "source": "bbc",
     "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
     "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-09-16-20-38-07 +0000",
+    "source": "nyt",
+    "headline": "Senate Takes Up Bill to Regulate ‘Wild West’ of Collegiate Sports",
+    "link": "https://www.nytimes.com/2026/09/16/us/politics/senate-regulates-college-sports.html"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-09-17-00-57-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said he was standing by Federal Reserve Chairman Kevin Warsh and that he spoke to him just before the central bank unanimously voted to raise interest rates",
+    "link": "https://www.wsj.com/economy/central-banking/trump-says-he-backs-warsh-after-central-bank-raised-interest-rates-cff88294?mod=rss_socialeconomyfeed"
   }
 ]
