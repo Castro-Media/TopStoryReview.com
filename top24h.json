@@ -1,6 +1,6 @@
 [
   {
-    "score": 284,
+    "score": 285,
     "pubdate": "2026-09-16-21-15-02 +0000",
     "source": "nypost",
     "headline": "Trump defends Fed chair Kevin Warsh after interest rate hike, blames ‘hostile board’ for ‘raise against Trump’",
@@ -42,21 +42,7 @@
     "link": "https://www.chicagotribune.com/2026/09/16/us-canada-trade-war-small-businesses/"
   },
   {
-    "score": 67,
-    "pubdate": "2026-09-16-22-49-01 +0000",
-    "source": "nypost",
-    "headline": "Famed LA helicopter pilot reveals five-second decision that may have led to deadly NBC chopper tragedy",
-    "link": "https://nypost.com/2026/09/16/us-news/la-helicopter-pilot-says-seconds-may-have-mattered-in-nbc-chopper-crash/"
-  },
-  {
-    "score": 60,
-    "pubdate": "2026-09-16-10-02-05 +0000",
-    "source": "bbc",
-    "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 60,
+    "score": 61,
     "pubdate": "2026-09-16-20-38-07 +0000",
     "source": "nyt",
     "headline": "Senate Takes Up Bill to Regulate ‘Wild West’ of Collegiate Sports",
@@ -68,5 +54,19 @@
     "source": "wsj",
     "headline": "President Trump said he was standing by Federal Reserve Chairman Kevin Warsh and that he spoke to him just before the central bank unanimously voted to raise interest rates",
     "link": "https://www.wsj.com/economy/central-banking/trump-says-he-backs-warsh-after-central-bank-raised-interest-rates-cff88294?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 59,
+    "pubdate": "2026-09-16-10-02-05 +0000",
+    "source": "bbc",
+    "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-09-16-15-15-12 +0000",
+    "source": "nyt",
+    "headline": "Global Oil Prices Could Hit Highest Levels in Months After Saudi Pipeline Attacks",
+    "link": "https://www.nytimes.com/2026/09/16/business/saudi-pipeline-houthi-attacks.html"
   }
 ]
