@@ -1,212 +1,260 @@
 [
   {
-    "headline": "New Report on SVB Collapse Pins Blame on Fed’s Own Regulators, Fed Official Says",
-    "link": "https://www.wsj.com/economy/central-banking/new-fed-report-on-svb-collapse-pins-blame-on-feds-own-regulators-9a3cb062?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-18-17-51-00 +0000"
+    "headline": "Suffolk County delays controversial rollout of Flock Safety’s ‘Raven’ listening system",
+    "link": "https://nypost.com/2026/09/18/us-news/suffolk-county-delays-controversial-rollout-of-flock-safetys-raven-listening-system/",
+    "source": "nypost",
+    "pubdate": "2026-09-18-18-50-19 +0000"
   },
   {
-    "headline": "A new Federal Reserve inquiry into the 2023 collapse of Silicon Valley Bank found that bank-supervision staff in the Biden era could have anticipated and prevented the bank’s failure",
-    "link": "https://www.wsj.com/economy/central-banking/new-fed-report-on-svb-collapse-pins-blame-on-feds-own-regulators-9a3cb062?mod=rss_socialeconomyfeed",
+    "headline": "California governor signs order pushing for an AI ‘kill switch’",
+    "link": "https://www.washingtonpost.com/politics/2026/09/18/california-gov-gavin-newsom-signs-ai-executive-order/",
+    "source": "wapo",
+    "pubdate": "2026-09-18-18-49-48 +0000"
+  },
+  {
+    "headline": "Uber to Pay $40 Million to Parents of Woman Fatally Hit by Car",
+    "link": "https://www.nytimes.com/2026/09/18/business/uber-payment-woman-killed-freeway-california.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-47-54 +0000"
+  },
+  {
+    "headline": "Immigrants using food stamps or Medicaid can now be denied green cards",
+    "link": "https://www.washingtonpost.com/business/2026/09/18/immigrants-food-stamps-medicaid-can-be-denied-green-cards-under-trump-rule/",
+    "source": "wapo",
+    "pubdate": "2026-09-18-18-47-23 +0000"
+  },
+  {
+    "headline": "Immigrants using food stamps or Medicaid can now be denied green cards",
+    "link": "https://www.washingtonpost.com/business/2026/09/18/immigrants-food-stamps-medicaid-can-be-denied-green-cards-under-trump-rule/",
+    "source": "wapo",
+    "pubdate": "2026-09-18-18-47-23 +0000"
+  },
+  {
+    "headline": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
+    "link": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-41-17 +0000"
+  },
+  {
+    "headline": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
+    "link": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-41-17 +0000"
+  },
+  {
+    "headline": "ICE Agent Charged in Shooting Appears In Court in Minnesota",
+    "link": "https://www.nytimes.com/2026/09/17/us/ice-agent-shooting-minnesota-charges.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-38-28 +0000"
+  },
+  {
+    "headline": "Vikings QB Kyler Murray out for Bears game. Can Carson Wentz build on his Week 1 showing?",
+    "link": "https://www.startribune.com/kyler-murray-injury-minnesota-vikings-chicago-bears-carson-wentz-jj-mccarthy-status-nfl-week-2-game/601889970",
+    "source": "startribune",
+    "pubdate": "2026-09-18-18-38-09 +0000"
+  },
+  {
+    "headline": "Massive humpback whale makes rare appearance in California river",
+    "link": "https://nypost.com/2026/09/18/us-news/massive-humpback-whale-makes-rare-appearance-in-california-river/",
+    "source": "nypost",
+    "pubdate": "2026-09-18-18-37-48 +0000"
+  },
+  {
+    "headline": "Stocks Decline as Treasury Yields Rise",
+    "link": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-oil-extends-losses-treasury-yields-rise-0bda0bff?mod=rss_markets_main",
     "source": "wsj",
-    "pubdate": "2026-09-18-17-51-00 +0000"
+    "pubdate": "2026-09-18-18-34-00 +0000"
+  },
+  {
+    "headline": "Why Russia Is Holding an Election When Voters Know the Result",
+    "link": "https://www.wsj.com/world/russia/why-russia-is-holding-an-election-when-voters-know-the-result-169acf43?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-18-18-34-00 +0000"
+  },
+  {
+    "headline": "Tech watchdogs cry foul as Google’s adtech monopoly left intact by judge: ‘Embarrassing capitulation’",
+    "link": "https://nypost.com/2026/09/18/business/tech-watchdogs-fume-as-google-adtech-monopoly-left-intact-by-judge/",
+    "source": "nypost",
+    "pubdate": "2026-09-18-18-28-01 +0000"
+  },
+  {
+    "headline": "St. Pierre and Miquelon, France, In the Spotlight as Macron and Carney Visit",
+    "link": "https://www.nytimes.com/2026/09/18/world/canada/saint-pierre-miquelon-france-canada-macron-carney.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-27-40 +0000"
+  },
+  {
+    "headline": "St. Pierre and Miquelon, France, In the Spotlight as Macron and Carney Visit",
+    "link": "https://www.nytimes.com/2026/09/18/world/canada/saint-pierre-miquelon-france-canada-macron-carney.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-27-40 +0000"
+  },
+  {
+    "headline": "Trump Courts North Korea’s Leader, but Might Need China to Reignite the Flame",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-north-korea.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-25-01 +0000"
+  },
+  {
+    "headline": "Trump Courts North Korea’s Leader, but Might Need China to Reignite the Flame",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-north-korea.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-25-01 +0000"
+  },
+  {
+    "headline": "Trump Courts North Korea’s Leader, but Might Need China to Reignite the Flame",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-north-korea.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-25-01 +0000"
+  },
+  {
+    "headline": "Trump Courts North Korea’s Leader, but Might Need China to Reignite the Flame",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-north-korea.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-25-01 +0000"
+  },
+  {
+    "headline": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportations",
+    "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-24-10 +0000"
+  },
+  {
+    "headline": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportations",
+    "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-24-10 +0000"
+  },
+  {
+    "headline": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportations",
+    "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-24-10 +0000"
+  },
+  {
+    "headline": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly",
+    "link": "https://www.washingtonpost.com/national-security/2026/09/18/more-us-troops-have-died-amid-iran-war-than-pentagon-has-disclosed-publicly/",
+    "source": "wapo",
+    "pubdate": "2026-09-18-18-23-56 +0000"
+  },
+  {
+    "headline": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly",
+    "link": "https://www.washingtonpost.com/national-security/2026/09/18/more-us-troops-have-died-amid-iran-war-than-pentagon-has-disclosed-publicly/",
+    "source": "wapo",
+    "pubdate": "2026-09-18-18-23-56 +0000"
+  },
+  {
+    "headline": "Cornell frat bros forcibly drugged student before horrifying gang rape, texted ‘free p–y’ invitation: suit",
+    "link": "https://nypost.com/2026/09/18/us-news/cornell-frat-bros-gang-rape-student-texting-free-p-y-during-sick-assault-shocking-lawsuit/",
+    "source": "nypost",
+    "pubdate": "2026-09-18-18-22-25 +0000"
+  },
+  {
+    "headline": "EXCLUSIVE: Faire Won Over Main Street. Now it Wants to Woo Wall Street.",
+    "link": "https://www.wsj.com/business/retail/exclusive-faire-won-over-main-street-now-it-wants-to-woo-wall-street-524fc733?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-18-18-21-00 +0000"
+  },
+  {
+    "headline": "These midterm polls caught our attention this week. They’re good for Democrats.",
+    "link": "https://www.washingtonpost.com/politics/2026/09/18/these-midterm-polls-caught-our-attention-this-week-theyre-good-democrats/",
+    "source": "wapo",
+    "pubdate": "2026-09-18-18-20-00 +0000"
+  },
+  {
+    "headline": "Glenn Youngkin mounts new ad blitz for Trump’s school-choice ‘freedom scholarships’ in battleground states",
+    "link": "https://nypost.com/2026/09/18/us-news/glenn-youngkin-mounts-new-ad-blitz-for-freedom-scholarships-in-battleground-states/",
+    "source": "nypost",
+    "pubdate": "2026-09-18-18-14-16 +0000"
+  },
+  {
+    "headline": "Glenn Youngkin mounts new ad blitz for Trump’s school-choice ‘freedom scholarships’ in battleground states",
+    "link": "https://nypost.com/2026/09/18/us-news/glenn-youngkin-mounts-new-ad-blitz-for-freedom-scholarships-in-battleground-states/",
+    "source": "nypost",
+    "pubdate": "2026-09-18-18-14-16 +0000"
+  },
+  {
+    "headline": "Why Is It So Difficult to Regulate A.I.?",
+    "link": "https://www.nytimes.com/video/business/100000011155275/why-is-it-so-difficult-to-regulate-ai.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-09-33 +0000"
+  },
+  {
+    "headline": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-09-23 +0000"
+  },
+  {
+    "headline": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+    "source": "nyt",
+    "pubdate": "2026-09-18-18-09-23 +0000"
+  },
+  {
+    "headline": "Opinion | AI is too important to fear, and too powerful to use carelessly",
+    "link": "https://www.startribune.com/artificial-intelligence-anthropic-open-ai-jacob-coxon/601890526",
+    "source": "startribune",
+    "pubdate": "2026-09-18-18-08-32 +0000"
+  },
+  {
+    "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+    "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-18-18-04-38 +0000"
+  },
+  {
+    "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+    "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-18-18-04-38 +0000"
+  },
+  {
+    "headline": "Several people injured in violent LA Metro bus crash",
+    "link": "https://nypost.com/2026/09/18/us-news/multi-vehicle-crash-involving-la-metro-bus-leaves-multiple-people-injured/",
+    "source": "nypost",
+    "pubdate": "2026-09-18-18-02-21 +0000"
+  },
+  {
+    "headline": "The Highest-Returning Stock of the Last 45 Years Is Home Depot",
+    "link": "https://www.wsj.com/business/retail/home-depot-acquired-podcast-stock-returns-cbdf037f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-18-18-00-00 +0000"
+  },
+  {
+    "headline": "Union behind billionaire tax acted like the mob in felony racketeering ‘shakedown’ scheme: suit",
+    "link": "https://nypost.com/2026/09/18/us-news/billionaire-tax-union-accused-of-racketeering-scheme-suit/",
+    "source": "nypost",
+    "pubdate": "2026-09-18-17-59-46 +0000"
+  },
+  {
+    "headline": "Union behind billionaire tax acted like the mob in felony racketeering ‘shakedown’ scheme: suit",
+    "link": "https://nypost.com/2026/09/18/us-news/billionaire-tax-union-accused-of-racketeering-scheme-suit/",
+    "source": "nypost",
+    "pubdate": "2026-09-18-17-59-46 +0000"
   },
   {
     "headline": "S.E.C. Seeks to End Shareholder Proposals Process Commonly Used by Activists",
     "link": "https://www.nytimes.com/2026/09/18/business/sec-shareholder-proposals-activists.html",
     "source": "nyt",
-    "pubdate": "2026-09-18-17-46-37 +0000"
+    "pubdate": "2026-09-18-17-58-47 +0000"
   },
   {
-    "headline": "NYPD heroically rescues woman about to jump off Brooklyn Bridge, harrowing video shows",
-    "link": "https://nypost.com/2026/09/18/us-news/woman-rescued-by-nypd-as-she-was-about-to-jump-off-brooklyn-bridge-video/",
-    "source": "nypost",
-    "pubdate": "2026-09-18-17-46-05 +0000"
-  },
-  {
-    "headline": "Pilots who crashed new private jet both accused of flying drunk",
-    "link": "https://nypost.com/2026/09/18/world-news/pilots-who-crashed-new-private-jet-both-accused-of-flying-drunk/",
-    "source": "nypost",
-    "pubdate": "2026-09-18-17-44-32 +0000"
-  },
-  {
-    "headline": "Stanford geniuses create lab rats with half-human brains",
-    "link": "https://nypost.com/2026/09/18/us-news/stanford-scientists-grow-human-brain-tissue-inside-lab-mice/",
-    "source": "nypost",
-    "pubdate": "2026-09-18-17-44-14 +0000"
-  },
-  {
-    "headline": "Volkswagen Warns on Profit After Big Porsche Write-Down",
-    "link": "https://www.wsj.com/business/autos/volkswagen-lowers-full-year-forecast-as-market-challenges-persist-e1edbbfd?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-18-17-44-00 +0000"
-  },
-  {
-    "headline": "Immigrants using food stamps or Medicaid can now be denied green cards",
-    "link": "https://www.washingtonpost.com/business/2026/09/18/immigrants-food-stamps-medicaid-can-be-denied-green-cards-under-trump-rule/",
-    "source": "wapo",
-    "pubdate": "2026-09-18-17-43-46 +0000"
-  },
-  {
-    "headline": "Immigrants using food stamps or Medicaid can now be denied green cards",
-    "link": "https://www.washingtonpost.com/business/2026/09/18/immigrants-food-stamps-medicaid-can-be-denied-green-cards-under-trump-rule/",
-    "source": "wapo",
-    "pubdate": "2026-09-18-17-43-46 +0000"
-  },
-  {
-    "headline": "NYC homelessness reaches alarming 5-year high in damning indictment on lefty policies: report",
-    "link": "https://nypost.com/2026/09/18/us-news/nyc-homelessness-reaches-alarming-5-year-high-in-damning-indictment-on-lefty-policies-report/",
-    "source": "nypost",
-    "pubdate": "2026-09-18-17-39-31 +0000"
-  },
-  {
-    "headline": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-    "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-18-17-31-30 +0000"
-  },
-  {
-    "headline": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-    "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-18-17-31-30 +0000"
-  },
-  {
-    "headline": "Kroger yanks Red Bull nationwide as energy drink’s premium price comes under fire",
-    "link": "https://nypost.com/2026/09/18/business/kroger-yanks-red-bull-nationwide-as-energy-drinks-premium-price-comes-under-fire/",
-    "source": "nypost",
-    "pubdate": "2026-09-18-17-31-16 +0000"
-  },
-  {
-    "headline": "Nine bodies found in South Africa raise fears of serial murder, femicide",
-    "link": "https://www.washingtonpost.com/world/2026/09/18/nine-bodies-found-south-africa-raise-fears-serial-murder-femicide/",
-    "source": "wapo",
-    "pubdate": "2026-09-18-17-28-10 +0000"
-  },
-  {
-    "headline": "Opinion | AI: Ghostwriter in the Machine",
-    "link": "https://www.wsj.com/opinion/ai-ghostwriter-in-the-machine-720d79c1?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-18-17-26-00 +0000"
-  },
-  {
-    "headline": "Opinion | After 40 Years, Will Oregon Elect a Republican Governor?",
-    "link": "https://www.wsj.com/opinion/after-40-years-will-oregon-elect-a-republican-governor-c94fbbaa?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-09-18-17-25-00 +0000"
-  },
-  {
-    "headline": "Jagtar Singh Johal granted bail nine years after being detained in India",
-    "link": "https://www.bbc.co.uk/news/articles/cwp845p6q2qqo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-18-17-19-13 +0000"
-  },
-  {
-    "headline": "James Talarico, Seeking Black Votes in Texas Senate Rate, Wins Crucial Endorsement",
-    "link": "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html",
+    "headline": "Blanche’s Political Campaigning Breaks an Ethical Norm Going Back to Watergate",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html",
     "source": "nyt",
-    "pubdate": "2026-09-18-17-18-59 +0000"
+    "pubdate": "2026-09-18-17-57-30 +0000"
   },
   {
-    "headline": "James Talarico, Seeking Black Votes in Texas Senate Rate, Wins Crucial Endorsement",
-    "link": "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html",
+    "headline": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to US-Iran war",
+    "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-18-17-57-30 +0000"
+  },
+  {
+    "headline": "Blanche’s Political Campaigning Breaks an Ethical Norm Going Back to Watergate",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html",
     "source": "nyt",
-    "pubdate": "2026-09-18-17-18-59 +0000"
-  },
-  {
-    "headline": "At least  112,000 people displaced in Yemen as Houthi fighting intensifies",
-    "link": "https://nypost.com/2026/09/18/world-news/at-least-112000-people-displaced-in-yemen-as-houthi-fighting-intensifies/",
-    "source": "nypost",
-    "pubdate": "2026-09-18-17-17-48 +0000"
-  },
-  {
-    "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-    "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-18-17-15-02 +0000"
-  },
-  {
-    "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-    "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-18-17-15-02 +0000"
-  },
-  {
-    "headline": "A Converse sneaker ad provokes horror and backlash",
-    "link": "https://www.washingtonpost.com/style/fashion/2026/09/18/converse-sneaker-ad-provokes-horror-backlash/",
-    "source": "wapo",
-    "pubdate": "2026-09-18-17-15-00 +0000"
-  },
-  {
-    "headline": "Seven men who could lead Russia after Putin",
-    "link": "https://www.washingtonpost.com/world/2026/09/18/seven-men-who-could-lead-russia-after-putin/",
-    "source": "wapo",
-    "pubdate": "2026-09-18-17-14-47 +0000"
-  },
-  {
-    "headline": "Florida alligator attack victim shares surprising update on her gruesome injuries: ‘Gator got a piece of me’",
-    "link": "https://nypost.com/2026/09/18/us-news/florida-alligator-attack-victim-dina-spann-shares-surprising-update-on-gruesome-injuries/",
-    "source": "nypost",
-    "pubdate": "2026-09-18-17-14-33 +0000"
-  },
-  {
-    "headline": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-    "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-18-17-10-58 +0000"
-  },
-  {
-    "headline": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
-    "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-    "source": "nyt",
-    "pubdate": "2026-09-18-17-02-43 +0000"
-  },
-  {
-    "headline": "Stocks Fall as Treasury Yields Rise",
-    "link": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-oil-extends-losses-treasury-yields-rise-0bda0bff?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-18-17-02-00 +0000"
-  },
-  {
-    "headline": "Senegal job an 'absolute dream' for new boss Vieira",
-    "link": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-18-17-01-59 +0000"
-  },
-  {
-    "headline": "ICE agent pleads not guilty to lying to FBI about shooting of man in Minneapolis",
-    "link": "https://www.cbc.ca/news/world/us-minn-ice-agent-arrested-texas-9.7349487?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-18-17-01-34 +0000"
-  },
-  {
-    "headline": "Mounted patrol quietly put out to pasture after Minneapolis City Council reined in funding",
-    "link": "https://www.startribune.com/mounted-police-patrol-minneapolis-ends/601889374",
-    "source": "startribune",
-    "pubdate": "2026-09-18-17-00-00 +0000"
-  },
-  {
-    "headline": "Disney names first-ever chief technology officer",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-18/disney-names-first-ever-chief-technology-officer",
-    "source": "latimes",
-    "pubdate": "2026-09-18-17-00-00 +0000"
-  },
-  {
-    "headline": "So excited to get back to work after two brain surgeries",
-    "link": "https://www.bbc.co.uk/news/videos/cq07lj7p5ge4o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-18-16-58-13 +0000"
-  },
-  {
-    "headline": "Multibillion-Dollar Stock-Market Scandal Roils Erdogan’s Turkey",
-    "link": "https://www.wsj.com/world/multibillion-dollar-stock-market-scandal-roils-erdogans-turkey-05931e02?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-18-16-57-00 +0000"
-  },
-  {
-    "headline": "Multibillion-Dollar Stock-Market Scandal Roils Erdogan’s Turkey",
-    "link": "https://www.wsj.com/world/multibillion-dollar-stock-market-scandal-roils-erdogans-turkey-05931e02?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-18-16-57-00 +0000"
+    "pubdate": "2026-09-18-17-57-30 +0000"
   }
 ]
