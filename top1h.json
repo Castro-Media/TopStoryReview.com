@@ -1,37 +1,72 @@
 [
   {
-    "score": 14,
-    "pubdate": "2026-09-19-08-05-15 +0000",
+    "score": 37,
+    "pubdate": "2026-09-19-09-23-29 +0000",
     "source": "nyt",
-    "headline": "Once Home to Batman, This Faded Mansion Is Now Plagued by Real Bats",
-    "link": "https://www.nytimes.com/2026/09/19/world/europe/batman-mansion-mentmore-towers-bats.html"
+    "headline": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
+    "link": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-09-19-09-01-51 +0000",
+    "source": "nyt",
+    "headline": "After North Carolina’s Gerrymander, Democrat Don Davis Trumpets His Centrism in 1st District",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/democrat-north-carolina-don-davis-redistricting.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-19-09-02-02 +0000",
+    "source": "nyt",
+    "headline": "Tracking Assault Weapons Bans Across the Country as Court Battles Continue",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/assault-weapons-bans-court-cases.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-19-09-05-58 +0000",
+    "source": "nypost",
+    "headline": "Florida couple alleges fertility clinic used wrong man’s sperm in  IVF after DNA test reveals dad isn’t biological parent",
+    "link": "https://nypost.com/2026/09/19/us-news/florida-couple-accuse-brown-fertility-clinic-of-using-other-mans-sperm-to-create-daughters-embryo/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-19-09-01-47 +0000",
+    "source": "nyt",
+    "headline": "Trump Won Their Votes. Now His Trade War Is Dividing Them.",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-19-09-01-41 +0000",
+    "source": "nyt",
+    "headline": "How Guyana Is Feeding the Profits of Exxon Mobil, the Largest U.S. Oil Company",
+    "link": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-exxon-mobil.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-19-09-03-11 +0000",
+    "source": "nyt",
+    "headline": "Millionaire Activist James Chambers Seeks Asylum in Spain",
+    "link": "https://www.nytimes.com/2026/09/19/world/europe/spain-chambers-asylum-us-extradition.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-19-09-03-19 +0000",
+    "source": "nyt",
+    "headline": "Sherrod Brown Tries a New Retort to Criticism on Transgender Issues",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-09-19-09-02-21 +0000",
+    "source": "nyt",
+    "headline": "The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire?",
+    "link": "https://www.nytimes.com/2026/09/19/world/europe/russia-kremlin-election-veterans.html"
   },
   {
     "score": 11,
-    "pubdate": "2026-09-19-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate",
-    "link": "https://www.cbc.ca/news/politics/canada-eu-carney-jonathan-wilkinson-donald-trump-alliance-9.7349618?cmp=rss"
-  },
-  {
-    "score": 6,
-    "pubdate": "2026-09-19-08-30-03 +0000",
-    "source": "chitri",
-    "headline": "Today in History: Earthquake shakes central Mexico",
-    "link": "https://www.chicagotribune.com/2026/09/19/today-in-history-earthquake-shakes-central-mexico/"
-  },
-  {
-    "score": 5,
-    "pubdate": "2026-09-19-08-34-00 +0000",
-    "source": "bbc",
-    "headline": "War may be coming. Are we psychologically ready?",
-    "link": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-09-19-08-05-15 +0000",
-    "source": "nyt",
-    "headline": "Once Home to Batman, This Faded Mansion Is Now Plagued by Real Bats",
-    "link": "https://www.nytimes.com/2026/09/19/world/europe/batman-mansion-mentmore-towers-bats.html"
+    "pubdate": "2026-09-19-09-00-00 +0000",
+    "source": "wapo",
+    "headline": "Images of Trump kissing Natalie Harp went viral. They’re AI-generated fakes.",
+    "link": "https://www.washingtonpost.com/business/2026/09/19/images-trump-kissing-natalie-harp-went-viral-theyre-ai-generated-fakes/"
   }
 ]
