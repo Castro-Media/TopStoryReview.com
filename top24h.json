@@ -1,59 +1,52 @@
 [
   {
-    "score": 226,
+    "score": 231,
     "pubdate": "2026-09-18-21-43-00 +0000",
     "source": "wsj",
     "headline": "AI juggernaut Anthropic’s IPO is coming later than expected, Trump pushed out major media outlets from the White House and Warren Buffett announced his retirement. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/tech/ai/anthropics-ipo-will-happen-a-month-later-than-expected-a334b10e?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 89,
+    "score": 84,
     "pubdate": "2026-09-19-06-48-19 +0000",
     "source": "nyt",
     "headline": "South Korean Leader Says He Will Not Send Troops to Iran, Despite Trump’s Call",
     "link": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html"
   },
   {
-    "score": 81,
+    "score": 79,
     "pubdate": "2026-09-19-09-23-29 +0000",
     "source": "nyt",
     "headline": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
     "link": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html"
   },
   {
-    "score": 58,
+    "score": 57,
+    "pubdate": "2026-09-18-22-03-52 +0000",
+    "source": "chitri",
+    "headline": "President Donald Trump says he has a deal with Denmark to bolster US military presence in Greenland",
+    "link": "https://www.chicagotribune.com/2026/09/18/greenland-deal/"
+  },
+  {
+    "score": 56,
     "pubdate": "2026-09-19-00-26-16 +0000",
     "source": "latimes",
     "headline": "Paramount, California settlement talks accelerate, moving Warner Bros. merger closer to the finish line",
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-18/paramount-california-settlement-talks-where-things-stand-now"
   },
   {
-    "score": 57,
-    "pubdate": "2026-09-18-11-49-46 +0000",
-    "source": "bbc",
-    "headline": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-    "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-09-18-11-02-02 +0000",
-    "source": "chitri",
-    "headline": "Warren Buffett steps down as Berkshire Hathaway chairman, a post he has held since 1970",
-    "link": "https://www.chicagotribune.com/2026/09/18/warren-buffett-berkshire-hathaway-chairman/"
-  },
-  {
-    "score": 56,
+    "score": 55,
     "pubdate": "2026-09-18-17-57-30 +0000",
     "source": "bbc",
     "headline": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
     "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 55,
-    "pubdate": "2026-09-18-22-03-52 +0000",
-    "source": "chitri",
-    "headline": "President Donald Trump says he has a deal with Denmark to bolster US military presence in Greenland",
-    "link": "https://www.chicagotribune.com/2026/09/18/greenland-deal/"
+    "score": 53,
+    "pubdate": "2026-09-19-08-00-00 +0000",
+    "source": "cbc",
+    "headline": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate",
+    "link": "https://www.cbc.ca/news/politics/canada-eu-carney-jonathan-wilkinson-donald-trump-alliance-9.7349618?cmp=rss"
   },
   {
     "score": 51,
@@ -68,5 +61,12 @@
     "source": "wsj",
     "headline": "RFK Jr. received more than $250,000 worth of free flights to Fiji and Greece as well as use of a vacation home in Washington, D.C. All were gifts from Gavin de Becker, a security consultant",
     "link": "https://www.wsj.com/politics/rfk-jr-got-free-flights-to-fiji-and-greece-from-a-top-donor-e4b8d525?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-09-18-22-17-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump said on Friday he is banning CNN, MS NOW and Politico from the White House over their coverage of his administration",
+    "link": "https://www.wsj.com/politics/policy/trump-says-he-is-banning-cnn-ms-now-and-politico-from-the-white-house-af680f1b?mod=rss_socialpoliticsfeed"
   }
 ]
