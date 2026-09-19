@@ -1,45 +1,52 @@
 [
   {
-    "score": 465,
+    "score": 471,
     "pubdate": "2026-09-18-18-56-47 +0000",
     "source": "nyt",
     "headline": "Judge Who Struck Down Trump’s Compensation Fund Asks: Will Trump Just Pay Allies Another Way?",
     "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-compensation-fund-judge-alternate-payments.html"
   },
   {
-    "score": 270,
+    "score": 268,
     "pubdate": "2026-09-18-21-43-00 +0000",
     "source": "wsj",
     "headline": "AI juggernaut Anthropic’s IPO is coming later than expected, Trump pushed out major media outlets from the White House and Warren Buffett announced his retirement. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/tech/ai/anthropics-ipo-will-happen-a-month-later-than-expected-a334b10e?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 224,
+    "score": 223,
     "pubdate": "2026-09-17-19-02-00 +0000",
     "source": "wsj",
     "headline": "The New Offensive Raising Oil Prices and Complicating Trump’s Iran War",
     "link": "https://www.wsj.com/world/middle-east/the-new-offensive-raising-oil-prices-and-complicating-trumps-iran-war-999c34d1?mod=rss_worldnews"
   },
   {
-    "score": 197,
-    "pubdate": "2026-09-18-00-00-00 +0000",
+    "score": 196,
+    "pubdate": "2026-09-17-16-29-00 +0000",
     "source": "wsj",
-    "headline": "Trump responded mildly to this week’s Fed interest-rate increase, a sign that Fed Chairman Kevin Warsh has, for now, reset a once frosty relationship between the central bank and the White House",
-    "link": "https://www.wsj.com/politics/policy/how-warsh-raised-rates-without-drawing-trumps-ire-5b0063f0?mod=rss_socialpoliticsfeed"
+    "headline": "The Bank of England kept its key interest rate unchanged, holding steady at a time when the Federal Reserve and European Central Bank have raised rates",
+    "link": "https://www.wsj.com/economy/central-banking/why-the-bank-of-england-didnt-follow-the-fed-in-raising-interest-rates-007dc4a4?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 161,
+    "score": 156,
     "pubdate": "2026-09-18-22-03-52 +0000",
     "source": "chitri",
     "headline": "President Donald Trump says he has a deal with Denmark to bolster US military presence in Greenland",
     "link": "https://www.chicagotribune.com/2026/09/18/greenland-deal/"
   },
   {
-    "score": 154,
+    "score": 151,
     "pubdate": "2026-09-19-08-00-00 +0000",
     "source": "cbc",
     "headline": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate",
     "link": "https://www.cbc.ca/news/politics/canada-eu-carney-jonathan-wilkinson-donald-trump-alliance-9.7349618?cmp=rss"
+  },
+  {
+    "score": 118,
+    "pubdate": "2026-09-19-04-20-47 +0000",
+    "source": "bbc",
+    "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+    "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 114,
@@ -49,13 +56,6 @@
     "link": "https://www.latimes.com/california/story/2026-09-17/california-governor-race-becerra-meets-fire-victims-hilton-talks-costs"
   },
   {
-    "score": 113,
-    "pubdate": "2026-09-19-04-20-47 +0000",
-    "source": "bbc",
-    "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-    "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 112,
     "pubdate": "2026-09-17-20-59-09 +0000",
     "source": "nypost",
@@ -63,10 +63,10 @@
     "link": "https://nypost.com/2026/09/17/media/california-ag-rob-bonta-talks-tough-on-paramount-but-says-hes-open-to-settlement-talks-if-theyre-sincere/"
   },
   {
-    "score": 97,
-    "pubdate": "2026-09-19-09-23-29 +0000",
-    "source": "nyt",
-    "headline": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
-    "link": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html"
+    "score": 108,
+    "pubdate": "2026-09-18-00-00-00 +0000",
+    "source": "wsj",
+    "headline": "Trump responded mildly to this week’s Fed interest-rate increase, a sign that Fed Chairman Kevin Warsh has, for now, reset a once frosty relationship between the central bank and the White House",
+    "link": "https://www.wsj.com/politics/policy/how-warsh-raised-rates-without-drawing-trumps-ire-5b0063f0?mod=rss_socialpoliticsfeed"
   }
 ]
