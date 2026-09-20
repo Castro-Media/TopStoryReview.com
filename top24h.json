@@ -1,34 +1,20 @@
 [
   {
-    "score": 123,
-    "pubdate": "2026-09-19-13-46-18 +0000",
-    "source": "chitri",
-    "headline": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban",
-    "link": "https://www.chicagotribune.com/2026/09/19/msnow-banned-white-house/"
-  },
-  {
-    "score": 63,
-    "pubdate": "2026-09-19-20-38-00 +0000",
-    "source": "wsj",
-    "headline": "Yemen’s Houthis Claim Attack on Saudi Capital After Fuel Depot Burns at Airport",
-    "link": "https://www.wsj.com/world/middle-east/air-attack-sets-fuel-depot-ablaze-at-airport-in-saudi-capital-8bcc439c?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 55,
+    "score": 110,
     "pubdate": "2026-09-19-18-35-14 +0000",
     "source": "nyt",
     "headline": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
     "link": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html"
   },
   {
-    "score": 53,
-    "pubdate": "2026-09-19-19-13-51 +0000",
-    "source": "wapo",
-    "headline": "Trump to form ‘AI Force,’ name AI czar but rejects calls for constraints",
-    "link": "https://www.washingtonpost.com/politics/2026/09/19/trump-form-ai-force-name-ai-czar-rejects-calls-constraints/"
+    "score": 62,
+    "pubdate": "2026-09-20-06-25-15 +0000",
+    "source": "nypost",
+    "headline": "Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with ballistic missile",
+    "link": "https://nypost.com/2026/09/20/world-news/saudi-arabia-confirms-yemen-houthi-terrorists-attempted-to-strike-capital-riyadh/"
   },
   {
-    "score": 52,
+    "score": 50,
     "pubdate": "2026-09-19-23-00-27 +0000",
     "source": "bbc",
     "headline": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
@@ -40,6 +26,20 @@
     "source": "nyt",
     "headline": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
     "link": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html"
+  },
+  {
+    "score": 49,
+    "pubdate": "2026-09-19-19-13-51 +0000",
+    "source": "wapo",
+    "headline": "Trump to form ‘AI Force,’ name AI czar but rejects calls for constraints",
+    "link": "https://www.washingtonpost.com/politics/2026/09/19/trump-form-ai-force-name-ai-czar-rejects-calls-constraints/"
+  },
+  {
+    "score": 48,
+    "pubdate": "2026-09-19-14-51-03 +0000",
+    "source": "cbc",
+    "headline": "CNN, MS NOW, Politico say journalists denied access to White House after Trump ban",
+    "link": "https://www.cbc.ca/news/world/cnn-journalists-banned-white-house-trump-9.7350912?cmp=rss"
   },
   {
     "score": 41,
@@ -64,9 +64,9 @@
   },
   {
     "score": 33,
-    "pubdate": "2026-09-19-21-49-29 +0000",
-    "source": "chitri",
-    "headline": "Potential Democratic candidates race to respond to AI threat amid President Trump’s dismissals",
-    "link": "https://www.chicagotribune.com/2026/09/19/democratic-candidates-ai-threat/"
+    "pubdate": "2026-09-19-18-40-38 +0000",
+    "source": "latimes",
+    "headline": "Newsom signs bills to shield California elections from Trump interference, increase transparency",
+    "link": "https://www.latimes.com/california/story/2026-09-19/newsom-signs-bills-to-shield-california-elections-from-trump-interference-increase-transparency"
   }
 ]
