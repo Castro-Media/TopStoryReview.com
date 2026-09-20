@@ -1,6 +1,96 @@
 [
   {
-    "headline": "Hip NYC venue plastered with graffiti when it nixes event and promoter  cries ‘racism’",
+    "headline": "Passenger jumps overboard from Carnival Cruise ship before California port stop",
+    "link": "https://nypost.com/2026/09/20/us-news/passenger-jumps-overboard-from-carnival-cruise-ship-before-socal-stop/",
+    "source": "nypost",
+    "pubdate": "2026-09-20-19-50-39 +0000"
+  },
+  {
+    "headline": "Trump’s ambassador to U.N. says there’s no timeline on Iran war’s end",
+    "link": "https://www.washingtonpost.com/world/2026/09/20/iran-war-end-has-no-timeline-trump-ambassador-un-says/",
+    "source": "wapo",
+    "pubdate": "2026-09-20-19-47-31 +0000"
+  },
+  {
+    "headline": "Jewish comedian from NYC goes viral for all the wrong reasons: ‘I was in shock’",
+    "link": "https://nypost.com/2026/09/20/us-news/jewish-comedian-from-nyc-goes-viral-for-all-the-wrong-reasons-i-was-in-shock/",
+    "source": "nypost",
+    "pubdate": "2026-09-20-19-44-04 +0000"
+  },
+  {
+    "headline": "President Trump will meet New York City Mayor Zohran Mamdani on Monday, a day before the president’s remarks to the U.N. General Assembly",
+    "link": "https://www.wsj.com/politics/policy/trump-to-meet-mamdani-in-new-york-amid-policy-strains-between-the-two-8e475aa8?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-20-19-40-00 +0000"
+  },
+  {
+    "headline": "Live: Vikings lead Bears with Caleb Williams injured. Can they finish in fourth quarter?",
+    "link": "https://www.startribune.com/minnesota-vikings-chicago-bears-score-today-live-updates-how-to-watch-carson-wentz-stats-jj-mccarthy/601889386",
+    "source": "startribune",
+    "pubdate": "2026-09-20-19-37-50 +0000"
+  },
+  {
+    "headline": "Olivia Miles breaks Caitlin Clark’s rookie scoring record as Lynx roll past Sun",
+    "link": "https://www.startribune.com/minnesota-lynx-connecticut-sun-score-today-live-how-to-watch-wnba-standings-playoff-seeds-schedule/601637911",
+    "source": "startribune",
+    "pubdate": "2026-09-20-19-36-44 +0000"
+  },
+  {
+    "headline": "Magnitude 6.4 earthquake rattles Papua New Guinea",
+    "link": "https://nypost.com/2026/09/20/world-news/magnitude-6-4-earthquake-rattles-papua-new-guinea/",
+    "source": "nypost",
+    "pubdate": "2026-09-20-19-33-58 +0000"
+  },
+  {
+    "headline": "Woke NYT, 1619 Project writer deliberately sent daughter to troubled schools as a ‘sacrifice’ — and it backfired spectacularly",
+    "link": "https://nypost.com/2026/09/20/us-news/nyt-writer-nikole-hannah-jones-sent-daughter-to-troubled-schools-as-a-sacrifice-and-it-backfired/",
+    "source": "nypost",
+    "pubdate": "2026-09-20-19-22-40 +0000"
+  },
+  {
+    "headline": "Woke NYT, 1619 Project writer deliberately sent daughter to troubled schools as a ‘sacrifice’ — and it backfired spectacularly",
+    "link": "https://nypost.com/2026/09/20/us-news/nyt-writer-nikole-hannah-jones-sent-daughter-to-troubled-schools-as-a-sacrifice-and-it-backfired/",
+    "source": "nypost",
+    "pubdate": "2026-09-20-19-22-40 +0000"
+  },
+  {
+    "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+    "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-20-19-21-28 +0000"
+  },
+  {
+    "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+    "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-20-19-21-28 +0000"
+  },
+  {
+    "headline": "Abdul El-Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
+    "link": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
+    "source": "nyt",
+    "pubdate": "2026-09-20-19-17-26 +0000"
+  },
+  {
+    "headline": "Abdul El-Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
+    "link": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
+    "source": "nyt",
+    "pubdate": "2026-09-20-19-17-26 +0000"
+  },
+  {
+    "headline": "Sikh Truck Drivers Worried Following Stabbing Attack at Rest Stop",
+    "link": "https://www.nytimes.com/2026/09/20/us/sikh-truck-driver-rest-stop-stabbed.html",
+    "source": "nyt",
+    "pubdate": "2026-09-20-19-12-07 +0000"
+  },
+  {
+    "headline": "Sister of Pakistan's ex-PM Imran Khan arrested",
+    "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-20-19-04-11 +0000"
+  },
+  {
+    "headline": "Hip NYC venue plastered with graffiti when it nixes Brooklyn event and promoter  cries ‘racism’",
     "link": "https://nypost.com/2026/09/20/us-news/hip-nyc-venue-plastered-with-graffiti-when-it-nixes-event-and-promoter-cries-racism/",
     "source": "nypost",
     "pubdate": "2026-09-20-18-54-03 +0000"
@@ -16,12 +106,6 @@
     "link": "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html",
     "source": "nyt",
     "pubdate": "2026-09-20-18-52-00 +0000"
-  },
-  {
-    "headline": "Live: Olivia Miles breaks Caitlin Clark’s rookie scoring record as Lynx lead Sun in fourth quarter",
-    "link": "https://www.startribune.com/minnesota-lynx-connecticut-sun-score-today-live-how-to-watch-wnba-standings-playoff-seeds-schedule/601637911",
-    "source": "startribune",
-    "pubdate": "2026-09-20-18-49-27 +0000"
   },
   {
     "headline": "18 suspects in 2021 assassination of Haiti leader to be extradited to U.S. to face trial",
@@ -42,18 +126,6 @@
     "pubdate": "2026-09-20-18-35-16 +0000"
   },
   {
-    "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-    "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-20-18-32-55 +0000"
-  },
-  {
-    "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-    "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-20-18-32-55 +0000"
-  },
-  {
     "headline": "Trump spotted with golf star  Bryson DeChambeau and his glam girlfriend after leaving Camp David early",
     "link": "https://nypost.com/2026/09/20/sports/trump-spotted-with-golf-star-bryson-dechambeau-mikayla-demaiter-at-camp-david/",
     "source": "nypost",
@@ -72,7 +144,7 @@
     "pubdate": "2026-09-20-18-30-00 +0000"
   },
   {
-    "headline": "Trump Administration Prepares to Sanction the International Criminal Court",
+    "headline": "Trump Ramps Up Bid to Dismantle International Criminal Court",
     "link": "https://www.wsj.com/politics/policy/trump-administration-prepares-to-sanction-the-international-criminal-court-85f5f44c?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-09-20-18-30-00 +0000"
@@ -82,12 +154,6 @@
     "link": "https://www.wsj.com/politics/policy/trump-administration-prepares-to-sanction-the-international-criminal-court-85f5f44c?mod=rss_socialpoliticsfeed",
     "source": "wsj",
     "pubdate": "2026-09-20-18-30-00 +0000"
-  },
-  {
-    "headline": "Live: Vikings lead Bears in sloppy defensive showdown in the rain. Can Carson Wentz close it out?",
-    "link": "https://www.startribune.com/minnesota-vikings-chicago-bears-score-today-live-updates-how-to-watch-carson-wentz-stats-jj-mccarthy/601889386",
-    "source": "startribune",
-    "pubdate": "2026-09-20-18-29-25 +0000"
   },
   {
     "headline": "Italian PM Giorgia Meloni to ban burqas and cap foreign students: new measure",
@@ -240,18 +306,6 @@
     "pubdate": "2026-09-20-17-33-00 +0000"
   },
   {
-    "headline": "Abdul-El Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
-    "link": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
-    "source": "nyt",
-    "pubdate": "2026-09-20-17-32-52 +0000"
-  },
-  {
-    "headline": "Abdul-El Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
-    "link": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
-    "source": "nyt",
-    "pubdate": "2026-09-20-17-32-52 +0000"
-  },
-  {
     "headline": "Opinion | Where’s the Beef? Down Under",
     "link": "https://www.wsj.com/opinion/wheres-the-beef-down-under-43bc34ea?mod=rss_usnews",
     "source": "wsj",
@@ -322,12 +376,6 @@
     "link": "https://www.cbc.ca/news/politics/european-investment-bank-carney-eu-nadia-calvino-canadian-projects-9.7351408?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-09-20-17-22-05 +0000"
-  },
-  {
-    "headline": "Sikh Truck Drivers Worried Following Stabbing Attack at Rest Stop",
-    "link": "https://www.nytimes.com/2026/09/20/us/sikh-truck-driver-rest-stop-stabbed.html",
-    "source": "nyt",
-    "pubdate": "2026-09-20-17-16-05 +0000"
   },
   {
     "headline": "Opinion | Notable & Quotable: Packing",
@@ -546,8 +594,8 @@
     "pubdate": "2026-09-20-14-42-42 +0000"
   },
   {
-    "headline": "Carney in Saint-Pierre-et-Miquelon to meet with Macron",
-    "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/carney-in-saint-pierre-et-miquelon-to-meet-with-macron-9.7351321?cmp=rss",
+    "headline": "Canada, France pledge to work together on space infrastructure, economy",
+    "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/canada-france-pledge-to-work-together-on-space-infrastructure-economy-9.7351321?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-09-20-14-40-36 +0000"
   },
@@ -573,7 +621,7 @@
     "headline": "5 Takeaways From Ari Emanuel’s Memoir",
     "link": "https://www.nytimes.com/2026/09/20/business/media/ari-emanuel-memoir-hollywood.html",
     "source": "nyt",
-    "pubdate": "2026-09-20-14-30-05 +0000"
+    "pubdate": "2026-09-20-14-30-06 +0000"
   },
   {
     "headline": "Uber to Pay $40 Million to Parents of Woman Fatally Hit by Car",
@@ -592,12 +640,6 @@
     "link": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
     "source": "nyt",
     "pubdate": "2026-09-20-14-19-32 +0000"
-  },
-  {
-    "headline": "California In-N-Out doubles as haven for aviation nuts",
-    "link": "https://nypost.com/2026/09/20/us-news/cranky-dorkfest-at-lax-draws-plane-spotters-aviation-fans-and-in-n-out-lovers/",
-    "source": "nypost",
-    "pubdate": "2026-09-20-14-15-00 +0000"
   },
   {
     "headline": "Volvo Recruits a Top VW Executive to Steer Its Turnaround",
@@ -630,12 +672,6 @@
     "pubdate": "2026-09-20-14-00-15 +0000"
   },
   {
-    "headline": "How a bunch of swashbuckling tech bros upended the way America fights its wars",
-    "link": "https://nypost.com/2026/09/20/us-news/the-swashbuckling-tech-bros-who-upended-the-way-we-fight-wars/",
-    "source": "nypost",
-    "pubdate": "2026-09-20-14-00-00 +0000"
-  },
-  {
     "headline": "Swinging over the Mississippi, daredevils are putting Twin Cities ‘on the map of urban diving’",
     "link": "https://www.startribune.com/swinging-over-the-mississippi-daredevils-are-putting-twin-cities-on-the-map-of-urban-diving/601891333",
     "source": "startribune",
@@ -646,12 +682,6 @@
     "link": "https://nypost.com/2026/09/20/us-news/the-swashbuckling-tech-bros-who-upended-the-way-we-fight-wars/",
     "source": "nypost",
     "pubdate": "2026-09-20-14-00-00 +0000"
-  },
-  {
-    "headline": "Trump says his Triumphal Arch in Washington will be used as ‘top grade’ weapons base with drones and snipers",
-    "link": "https://nypost.com/2026/09/20/us-news/trump-says-triumphal-arch-will-be-top-grade-weapons-base-with-drones-and-snipers/",
-    "source": "nypost",
-    "pubdate": "2026-09-20-13-57-21 +0000"
   },
   {
     "headline": "Trump says his Triumphal Arch in Washington will be used as ‘top grade’ weapons base with drones and snipers",
@@ -774,7 +804,7 @@
     "pubdate": "2026-09-20-11-14-55 +0000"
   },
   {
-    "headline": "People we meet: The Presidio bird whisperer",
+    "headline": "People We Meet: Dr. Murnane, the Presidio bird whisperer",
     "link": "https://missionlocal.org/2026/09/presidio-owl-rescue-john-murnane/",
     "source": "missionlocal",
     "pubdate": "2026-09-20-11-00-00 +0000"
@@ -795,7 +825,7 @@
     "headline": "What to Do If You’re Laid Off and Too Young for Medicare",
     "link": "https://www.nytimes.com/2026/09/20/business/jobless-health-insurance.html",
     "source": "nyt",
-    "pubdate": "2026-09-20-10-52-39 +0000"
+    "pubdate": "2026-09-20-10-52-40 +0000"
   },
   {
     "headline": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
@@ -1890,12 +1920,6 @@
     "pubdate": "2026-09-19-15-22-51 +0000"
   },
   {
-    "headline": "College of the damned: 3 female students at Mexican university murdered in last 7 months",
-    "link": "https://nypost.com/2026/09/19/world-news/3-autonomous-university-of-the-state-of-morelos-students-found-dead-in-7-months/",
-    "source": "nypost",
-    "pubdate": "2026-09-19-15-15-26 +0000"
-  },
-  {
     "headline": "Saudi Arabia issues first alert in the capital since escalation, and other Mideast developments",
     "link": "https://www.chicagotribune.com/2026/09/19/saudi-arabia-issues-alert/",
     "source": "chitri",
@@ -2172,14 +2196,14 @@
     "pubdate": "2026-09-19-10-00-01 +0000"
   },
   {
-    "headline": "Hispanics flock to this university. It let campus police double as ICE agents.",
-    "link": "https://www.washingtonpost.com/politics/2026/09/19/hispanics-flock-this-university-it-let-its-police-double-ice-agents/",
+    "headline": "Hailed as Muhammad Ali’s toughest opponent, his biggest fight was outside the ring",
+    "link": "https://www.washingtonpost.com/obituaries/2026/09/19/boxer-george-chuvalo-who-rolled-with-punches-out-ring-dies-89/",
     "source": "wapo",
     "pubdate": "2026-09-19-10-00-01 +0000"
   },
   {
-    "headline": "Hailed as Muhammad Ali’s toughest opponent, his biggest fight was outside the ring",
-    "link": "https://www.washingtonpost.com/obituaries/2026/09/19/boxer-george-chuvalo-who-rolled-with-punches-out-ring-dies-89/",
+    "headline": "Hispanics flock to this university. It let campus police double as ICE agents.",
+    "link": "https://www.washingtonpost.com/politics/2026/09/19/hispanics-flock-this-university-it-let-its-police-double-ice-agents/",
     "source": "wapo",
     "pubdate": "2026-09-19-10-00-01 +0000"
   },
@@ -2208,14 +2232,14 @@
     "pubdate": "2026-09-19-10-00-00 +0000"
   },
   {
-    "headline": "UC temporarily blocked from enforcing transgender name and pronoun rules",
-    "link": "https://www.latimes.com/california/story/2026-09-19/uc-transgender-harassment-policy-free-speech-lawsuit",
+    "headline": "California is losing its oaks. One man is planting 10,000, including in tree-scarce Altadena",
+    "link": "https://www.latimes.com/environment/story/2026-09-19/one-man-has-planted-10000-native-oak-trees-across-southern-california",
     "source": "latimes",
     "pubdate": "2026-09-19-10-00-00 +0000"
   },
   {
-    "headline": "California is losing its oaks. One man is planting 10,000, including in tree-scarce Altadena",
-    "link": "https://www.latimes.com/environment/story/2026-09-19/one-man-has-planted-10000-native-oak-trees-across-southern-california",
+    "headline": "UC temporarily blocked from enforcing transgender name and pronoun rules",
+    "link": "https://www.latimes.com/california/story/2026-09-19/uc-transgender-harassment-policy-free-speech-lawsuit",
     "source": "latimes",
     "pubdate": "2026-09-19-10-00-00 +0000"
   },
@@ -3096,12 +3120,6 @@
     "pubdate": "2026-09-18-19-38-00 +0000"
   },
   {
-    "headline": "Vance campaigns in deep-red territory, highlighting risks for GOP",
-    "link": "https://www.washingtonpost.com/politics/2026/09/18/vance-campaigns-deep-red-part-iowa-highlighting-risks-gop/",
-    "source": "wapo",
-    "pubdate": "2026-09-18-19-33-17 +0000"
-  },
-  {
     "headline": "Automakers Urge Trump Not to Allow Chinese Cars Into U.S. Ahead of Xi Summit",
     "link": "https://www.wsj.com/business/autos/automakers-urge-trump-not-to-allow-chinese-cars-into-u-s-ahead-of-xi-summit-61bbcf86?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -3130,12 +3148,6 @@
     "link": "https://www.wsj.com/finance/currencies/yen-weakens-after-boj-raises-rate-as-expected-10cc8985?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-09-18-19-20-00 +0000"
-  },
-  {
-    "headline": "What happened under the Trump administration this week",
-    "link": "https://www.washingtonpost.com/politics/2026/09/18/what-happened-under-trump-administration-this-week/",
-    "source": "wapo",
-    "pubdate": "2026-09-18-19-18-49 +0000"
   },
   {
     "headline": "Trump announces White House ban on CNN, other media outlets",
@@ -3172,24 +3184,6 @@
     "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-likely-supported-by-oil-pullback-0023a879?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-09-18-19-11-00 +0000"
-  },
-  {
-    "headline": "NAACP files lawsuit seeking to bar federal agents from polling places",
-    "link": "https://www.washingtonpost.com/politics/2026/09/18/naacp-files-lawsuit-seeking-bar-federal-agents-polling-places/",
-    "source": "wapo",
-    "pubdate": "2026-09-18-19-10-00 +0000"
-  },
-  {
-    "headline": "The nativist provocateur who keeps pushing the Texas GOP further right",
-    "link": "https://www.washingtonpost.com/politics/2026/09/18/nativist-provocateur-who-keeps-pushing-texas-gop-further-right/",
-    "source": "wapo",
-    "pubdate": "2026-09-18-19-08-54 +0000"
-  },
-  {
-    "headline": "A Converse sneaker ad provokes horror and backlash",
-    "link": "https://www.washingtonpost.com/style/fashion/2026/09/18/converse-sneaker-ad-provokes-horror-backlash/",
-    "source": "wapo",
-    "pubdate": "2026-09-18-19-06-45 +0000"
   },
   {
     "headline": "Lindsay Clancy holdout juror breaks silence, says he didn't have 'any doubts' of her guilt",
@@ -3760,12 +3754,6 @@
     "link": "https://www.wsj.com/economy/central-banking/u-s-industrial-production-unchanged-in-august-1da4acad?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-09-18-13-51-00 +0000"
-  },
-  {
-    "headline": "Wall Street hangout that became a post-9/11 destination is open again after major revamp",
-    "link": "https://nypost.com/2026/09/18/business/wall-street-hangout-san-pietro-that-became-a-post-9-11-destination-is-open-again-after-major-revamp/",
-    "source": "nypost",
-    "pubdate": "2026-09-18-13-50-06 +0000"
   },
   {
     "headline": "Dragon Deborah opens with a terrible negotiation tactic",
@@ -5268,12 +5256,6 @@
     "pubdate": "2026-09-17-11-00-00 +0000"
   },
   {
-    "headline": "The trillion-dollar question: Did Fed Chairman Kevin Warsh really seek Trump’s blessing to hike rates? Read more in today’s WSJ Politics Newsletter:",
-    "link": "https://www.wsj.com/politics/policy/the-trillion-dollar-question-did-warsh-really-seek-trumps-blessing-to-hike-rates-7a553300?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-17-11-00-00 +0000"
-  },
-  {
     "headline": "I sent 200 LinkedIn messages and got a job: How to nail networking",
     "link": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -5316,12 +5298,6 @@
     "pubdate": "2026-09-17-10-00-00 +0000"
   },
   {
-    "headline": "Calmes: Trump loves to throw around taxpayers' money",
-    "link": "https://www.latimes.com/opinion/story/2026-09-17/trump-dividend-national-debt-fiscal-responsibility",
-    "source": "latimes",
-    "pubdate": "2026-09-17-10-00-00 +0000"
-  },
-  {
     "headline": "The U.S. freed political prisoners in Nicaragua. Now Trump is trying to deport them.",
     "link": "https://www.latimes.com/world-nation/story/2026-09-17/nicaragua-trump-dissidents",
     "source": "latimes",
@@ -5330,6 +5306,12 @@
   {
     "headline": "California GOP official apologizes for saying dead people voted. But he hasn't stopped sleuthing",
     "link": "https://www.latimes.com/california/story/2026-09-17/california-gop-official-says-he-jumped-gun-on-dead",
+    "source": "latimes",
+    "pubdate": "2026-09-17-10-00-00 +0000"
+  },
+  {
+    "headline": "Calmes: Trump loves to throw around taxpayers' money",
+    "link": "https://www.latimes.com/opinion/story/2026-09-17/trump-dividend-national-debt-fiscal-responsibility",
     "source": "latimes",
     "pubdate": "2026-09-17-10-00-00 +0000"
   },
@@ -7278,14 +7260,14 @@
     "pubdate": "2026-09-14-10-00-00 +0000"
   },
   {
-    "headline": "Union power vs. MAGA politics in California's schools superintendent race",
-    "link": "https://www.latimes.com/politics/story/2026-09-14/union-power-maga-politics-california-school-chief-race",
+    "headline": "Jessica Tarlov shares lessons from being the liberal voice at Fox News in 'I Disagree'",
+    "link": "https://www.latimes.com/entertainment-arts/books/story/2026-09-14/jessica-tarlov-i-disagree-book-fox-news",
     "source": "latimes",
     "pubdate": "2026-09-14-10-00-00 +0000"
   },
   {
-    "headline": "Jessica Tarlov shares lessons from being the liberal voice at Fox News in 'I Disagree'",
-    "link": "https://www.latimes.com/entertainment-arts/books/story/2026-09-14/jessica-tarlov-i-disagree-book-fox-news",
+    "headline": "Union power vs. MAGA politics in California's schools superintendent race",
+    "link": "https://www.latimes.com/politics/story/2026-09-14/union-power-maga-politics-california-school-chief-race",
     "source": "latimes",
     "pubdate": "2026-09-14-10-00-00 +0000"
   },
@@ -7372,11 +7354,5 @@
     "link": "https://www.wsj.com/economy/trade/trump-pledges-to-rescind-10-tariff-on-irish-whiskey-fc456b00?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-09-13-20-25-00 +0000"
-  },
-  {
-    "headline": "House Speaker Mike Johnson says President Donald Trump’s $5,000 ‘dividend’ needs congressional approval",
-    "link": "https://www.chicagotribune.com/2026/09/13/johnson-trumps-5000-dividend-congrssional-approval/",
-    "source": "chitri",
-    "pubdate": "2026-09-13-19-51-14 +0000"
   }
 ]
