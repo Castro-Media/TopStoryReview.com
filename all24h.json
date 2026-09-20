@@ -1,5 +1,29 @@
 [
   {
+    "headline": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+    "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-20-05-38-21 +0000"
+  },
+  {
+    "headline": "Watch: Fans cheer as Ed Sheeran speaks out over Macklemore controversy at show",
+    "link": "https://www.bbc.co.uk/news/videos/ck980m0pr1e0o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-20-05-01-47 +0000"
+  },
+  {
+    "headline": "US military says it killed 4 in strike on alleged drug-smuggling boat in the Caribbean",
+    "link": "https://nypost.com/2026/09/20/us-news/us-military-targets-suspected-narco-terrorists-boat-in-caribbean-killing-four/",
+    "source": "nypost",
+    "pubdate": "2026-09-20-05-01-00 +0000"
+  },
+  {
+    "headline": "Jedi-themed protest outside Lucas Museum targets L.A. Olympics over worker rights",
+    "link": "https://www.latimes.com/california/story/2026-09-19/fair-games-coalition-protests-lucas-museum-olympics",
+    "source": "latimes",
+    "pubdate": "2026-09-20-04-58-02 +0000"
+  },
+  {
     "headline": "Massive fire rips through NYC restaurants, injuring 6 firefighters",
     "link": "https://nypost.com/2026/09/20/us-news/massive-fire-rips-through-nyc-restaurant-injuring-6-firefighters/",
     "source": "nypost",
@@ -426,12 +450,6 @@
     "pubdate": "2026-09-19-22-14-25 +0000"
   },
   {
-    "headline": "Man sleeping in cardboard box at Louisville cemetery crushed to death in hit-and-run",
-    "link": "https://nypost.com/2026/09/19/us-news/kentucky-man-asleep-in-cemetery-crushed-death-in-hit-and-run/",
-    "source": "nypost",
-    "pubdate": "2026-09-19-21-55-45 +0000"
-  },
-  {
     "headline": "Potential Democratic candidates race to respond to AI threat amid President Trump’s dismissals",
     "link": "https://www.chicagotribune.com/2026/09/19/democratic-candidates-ai-threat/",
     "source": "chitri",
@@ -778,6 +796,12 @@
     "link": "https://nypost.com/2026/09/19/us-news/trump-announces-ai-force-calls-fears-of-superintelligence-a-hoax/",
     "source": "nypost",
     "pubdate": "2026-09-19-18-17-05 +0000"
+  },
+  {
+    "headline": "The Next Frontier for Autonomous Vehicles Is Burying Your Garbage",
+    "link": "https://www.wsj.com/articles/the-next-frontier-for-autonomous-vehicles-is-burying-your-garbage-2955e3bc?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-19-18-11-00 +0000"
   },
   {
     "headline": "The Next Frontier for Autonomous Vehicles Is Burying Your Garbage",
@@ -1266,20 +1290,14 @@
     "pubdate": "2026-09-19-10-00-01 +0000"
   },
   {
+    "headline": "Farmers want relief from Congress. Here’s the holdup.",
+    "link": "https://www.washingtonpost.com/business/2026/09/19/farmers-need-relief-heres-what-is-holding-up-congress/",
+    "source": "wapo",
+    "pubdate": "2026-09-19-10-00-01 +0000"
+  },
+  {
     "headline": "The nation’s premier business group is hitting the road to stamp out socialism",
     "link": "https://www.washingtonpost.com/business/2026/09/19/nations-premier-business-group-is-hitting-road-stamp-out-socialism/",
-    "source": "wapo",
-    "pubdate": "2026-09-19-10-00-01 +0000"
-  },
-  {
-    "headline": "Farmers want relief from Congress. Here’s the holdup.",
-    "link": "https://www.washingtonpost.com/business/2026/09/19/farmers-need-relief-heres-what-is-holding-up-congress/",
-    "source": "wapo",
-    "pubdate": "2026-09-19-10-00-01 +0000"
-  },
-  {
-    "headline": "Farmers want relief from Congress. Here’s the holdup.",
-    "link": "https://www.washingtonpost.com/business/2026/09/19/farmers-need-relief-heres-what-is-holding-up-congress/",
     "source": "wapo",
     "pubdate": "2026-09-19-10-00-01 +0000"
   },
@@ -1292,6 +1310,12 @@
   {
     "headline": "Here’s how to pay down your credit card debt",
     "link": "https://www.washingtonpost.com/business/2026/09/19/given-federal-reserve-interest-rate-hike-cut-your-credit-card-debt/",
+    "source": "wapo",
+    "pubdate": "2026-09-19-10-00-01 +0000"
+  },
+  {
+    "headline": "Farmers want relief from Congress. Here’s the holdup.",
+    "link": "https://www.washingtonpost.com/business/2026/09/19/farmers-need-relief-heres-what-is-holding-up-congress/",
     "source": "wapo",
     "pubdate": "2026-09-19-10-00-01 +0000"
   },
@@ -1540,11 +1564,5 @@
     "link": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
     "source": "nyt",
     "pubdate": "2026-09-19-06-48-19 +0000"
-  },
-  {
-    "headline": "Cuba hit with another blackout as millions across the island are left without electricity",
-    "link": "https://nypost.com/2026/09/19/world-news/cuba-hit-with-another-blackout-as-millions-across-the-island-are-left-without-electricity/",
-    "source": "nypost",
-    "pubdate": "2026-09-19-05-07-52 +0000"
   }
 ]
