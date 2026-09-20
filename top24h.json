@@ -1,38 +1,52 @@
 [
   {
-    "score": 121,
+    "score": 124,
     "pubdate": "2026-09-19-13-46-18 +0000",
     "source": "chitri",
     "headline": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban",
     "link": "https://www.chicagotribune.com/2026/09/19/msnow-banned-white-house/"
   },
   {
-    "score": 67,
+    "score": 69,
     "pubdate": "2026-09-19-11-32-48 +0000",
     "source": "nypost",
     "headline": "Anthropic splashes out $40M in fight over AI regulations in Congress — as lawmakers allege tech giant is freezing out rivals",
     "link": "https://nypost.com/2026/09/19/us-news/anthropic-spends-millions-in-fight-over-ai-regulations-in-congress-as-lawmakers-allege-tech-giant-is-freezing-out-rivals/"
   },
   {
-    "score": 60,
+    "score": 64,
     "pubdate": "2026-09-19-21-34-24 +0000",
     "source": "cbc",
     "headline": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with a ballistic missile",
     "link": "https://www.cbc.ca/news/world/houthi-rebels-saudi-arabia-conflict-riyadh-missile-attack-9.7351092?cmp=rss"
   },
   {
-    "score": 53,
-    "pubdate": "2026-09-19-22-42-44 +0000",
-    "source": "nypost",
-    "headline": "Gavin Newsom signs bill to create new film and TV tax credit in California",
-    "link": "https://nypost.com/2026/09/19/us-news/gavin-newsom-signs-new-california-tax-credit-to-keep-hollywood-jobs-from-fleeing-state/"
+    "score": 54,
+    "pubdate": "2026-09-19-18-35-14 +0000",
+    "source": "nyt",
+    "headline": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
+    "link": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html"
   },
   {
-    "score": 49,
+    "score": 51,
     "pubdate": "2026-09-19-23-00-27 +0000",
     "source": "bbc",
     "headline": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
     "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-09-20-02-00-00 +0000",
+    "source": "wsj",
+    "headline": "At the Kansas State Fair’s Senate debate, incumbent Republican Roger Marshall was on home turf. Yet when he stepped to the microphone last weekend, hundreds booed, hissed, and jeered.",
+    "link": "https://www.wsj.com/politics/elections/even-in-reliably-red-kansas-republican-enthusiasm-is-fading-260dabb5?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 41,
+    "pubdate": "2026-09-19-18-40-38 +0000",
+    "source": "latimes",
+    "headline": "Newsom signs bills to shield California elections from Trump interference, increase transparency",
+    "link": "https://www.latimes.com/california/story/2026-09-19/newsom-signs-bills-to-shield-california-elections-from-trump-interference-increase-transparency"
   },
   {
     "score": 37,
@@ -42,31 +56,17 @@
     "link": "https://nypost.com/2026/09/19/us-news/mamdani-hosts-private-u20-world-summit-with-other-lefty-leaders/"
   },
   {
-    "score": 37,
-    "pubdate": "2026-09-20-02-00-00 +0000",
-    "source": "wsj",
-    "headline": "At the Kansas State Fair’s Senate debate, incumbent Republican Roger Marshall was on home turf. Yet when he stepped to the microphone last weekend, hundreds booed, hissed, and jeered.",
-    "link": "https://www.wsj.com/politics/elections/even-in-reliably-red-kansas-republican-enthusiasm-is-fading-260dabb5?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 33,
+    "score": 36,
     "pubdate": "2026-09-20-04-49-11 +0000",
     "source": "bbc",
     "headline": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
     "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 32,
+    "score": 33,
     "pubdate": "2026-09-19-21-49-29 +0000",
     "source": "chitri",
     "headline": "Potential Democratic candidates race to respond to AI threat amid President Trump’s dismissals",
     "link": "https://www.chicagotribune.com/2026/09/19/democratic-candidates-ai-threat/"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-09-19-23-01-45 +0000",
-    "source": "bbc",
-    "headline": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-    "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss"
   }
 ]

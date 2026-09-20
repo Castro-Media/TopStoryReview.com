@@ -1,30 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-09-20-08-41-36 +0000",
+    "score": 23,
+    "pubdate": "2026-09-20-09-03-07 +0000",
+    "source": "nyt",
+    "headline": "Markwayne Mullin Lost His Pick to Lead ICE, as He Struggles to Prove His Toughness on Immigration",
+    "link": "https://www.nytimes.com/2026/09/20/us/politics/dhs-leader-ice-markwayne-mullin-immigration.html"
+  },
+  {
+    "score": 23,
+    "pubdate": "2026-09-20-09-30-44 +0000",
+    "source": "nypost",
+    "headline": "9/11 families target Saudi Arabia nuclear deal: ‘They’re not honest brokers’",
+    "link": "https://nypost.com/2026/09/20/us-news/9-11-families-target-saudi-arabia-nuclear-deal/"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-09-20-09-02-04 +0000",
+    "source": "nyt",
+    "headline": "Russia Barred Their Party, but These Antiwar Voices Are Still Standing",
+    "link": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-09-20-09-00-50 +0000",
+    "source": "nyt",
+    "headline": "Israeli Tourist Trap ‘Herod’s Pool’ Is Draining Palestinians’ Land Dry",
+    "link": "https://www.nytimes.com/2026/09/20/world/middleeast/west-bank-pool-palestinians-israelis-water.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-09-20-09-01-15 +0000",
+    "source": "nyt",
+    "headline": "Troy Jackson, a Progressive Brawler, Tries to Flip a Senate Seat in Maine",
+    "link": "https://www.nytimes.com/2026/09/20/us/politics/troy-jackson-susan-collins-maine-senate.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-09-20-09-44-55 +0000",
+    "source": "nyt",
+    "headline": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+    "link": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-20-09-32-50 +0000",
     "source": "bbc",
-    "headline": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
-    "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+    "headline": "Ed Davey calls for immediate 10p cut to fuel duty",
+    "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 9,
-    "pubdate": "2026-09-20-07-57-32 +0000",
-    "source": "bbc",
-    "headline": "German elections under way which could decide fate of Chancellor Merz",
-    "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss"
+    "score": 14,
+    "pubdate": "2026-09-20-09-24-24 +0000",
+    "source": "nypost",
+    "headline": "Arizona ‘goon’ gang member arrested for 3rd time while awaiting trial for allegedly killing teen in mob attack at party",
+    "link": "https://nypost.com/2026/09/20/us-news/arizona-goon-talyn-vigil-arrested-for-3rd-time-while-awaiting-trial-for-allegedly-killing-teen-in-mob-attack/"
   },
   {
-    "score": 7,
-    "pubdate": "2026-09-20-08-30-33 +0000",
-    "source": "chitri",
-    "headline": "Today in History: Hurricane Maria hits Puerto Rico",
-    "link": "https://www.chicagotribune.com/2026/09/20/today-in-history-hurricane-maria-hits-puerto-rico-2/"
+    "score": 12,
+    "pubdate": "2026-09-20-09-00-33 +0000",
+    "source": "nyt",
+    "headline": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
+    "link": "https://www.nytimes.com/2026/09/20/world/asia/philippines-bataan-nuclear-power-plant.html"
   },
   {
-    "score": 7,
-    "pubdate": "2026-09-20-08-00-00 +0000",
-    "source": "cbc",
-    "headline": "MPs are heading back to Parliament Hill. Here's what to watch this sitting",
-    "link": "https://www.cbc.ca/news/politics/mps-return-to-house-of-commons-9.7349450?cmp=rss"
+    "score": 11,
+    "pubdate": "2026-09-20-09-01-23 +0000",
+    "source": "nyt",
+    "headline": "How President Trump Broke the Kennedy Center",
+    "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
   }
 ]
