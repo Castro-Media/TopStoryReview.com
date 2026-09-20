@@ -1,13 +1,13 @@
 [
   {
-    "score": 448,
+    "score": 446,
     "pubdate": "2026-09-18-21-43-00 +0000",
     "source": "wsj",
     "headline": "AI juggernaut Anthropic’s IPO is coming later than expected, Trump pushed out major media outlets from the White House and Warren Buffett announced his retirement. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/tech/ai/anthropics-ipo-will-happen-a-month-later-than-expected-a334b10e?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 218,
+    "score": 210,
     "pubdate": "2026-09-16-10-00-00 +0000",
     "source": "latimes",
     "headline": "Prompted by new California and U.S. laws, two new lawsuits demand return of Nazi-looted art",
@@ -49,7 +49,7 @@
     "link": "https://www.cbc.ca/news/politics/nato-canada-us-military-europe-9.7348767?cmp=rss"
   },
   {
-    "score": 111,
+    "score": 109,
     "pubdate": "2026-09-17-19-08-44 +0000",
     "source": "chitri",
     "headline": "Aldermen opposed to Mayor Brandon Johnson’s renters’ rights plan advance their own version",
@@ -57,16 +57,16 @@
   },
   {
     "score": 102,
-    "pubdate": "2026-09-15-11-21-00 +0000",
-    "source": "wsj",
-    "headline": "The Morning Risk Report: U.S. Sanctions Russian Bank in Latest Target for Campaign Against Iran",
-    "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-sanctions-russian-bank-in-latest-target-for-campaign-against-iran-05bba1a7?mod=rss_markets_main"
-  },
-  {
-    "score": 100,
     "pubdate": "2026-09-15-20-18-00 +0000",
     "source": "wsj",
     "headline": "A broad measure of American incomes reached a record high last year as upper-income households fared well and women’s pay gained ground compared with men",
     "link": "https://www.wsj.com/economy/consumers/american-incomes-hit-record-last-year-as-women-gained-ground-304ed2fd?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 102,
+    "pubdate": "2026-09-15-11-21-00 +0000",
+    "source": "wsj",
+    "headline": "The Morning Risk Report: U.S. Sanctions Russian Bank in Latest Target for Campaign Against Iran",
+    "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-sanctions-russian-bank-in-latest-target-for-campaign-against-iran-05bba1a7?mod=rss_markets_main"
   }
 ]
