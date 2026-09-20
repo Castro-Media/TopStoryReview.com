@@ -1,5 +1,41 @@
 [
   {
+    "headline": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+    "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-20-08-41-36 +0000"
+  },
+  {
+    "headline": "Today in History: Hurricane Maria hits Puerto Rico",
+    "link": "https://www.chicagotribune.com/2026/09/20/today-in-history-hurricane-maria-hits-puerto-rico-2/",
+    "source": "chitri",
+    "pubdate": "2026-09-20-08-30-33 +0000"
+  },
+  {
+    "headline": "MPs are heading back to Parliament Hill. Here's what to watch this sitting",
+    "link": "https://www.cbc.ca/news/politics/mps-return-to-house-of-commons-9.7349450?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-09-20-08-00-00 +0000"
+  },
+  {
+    "headline": "German elections under way which could decide fate of Chancellor Merz",
+    "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-20-07-57-32 +0000"
+  },
+  {
+    "headline": "Ukraine fires over 1,000 drones at Russia in ‘largest ever’ attack on Moscow, killing 2",
+    "link": "https://nypost.com/2026/09/20/world-news/one-of-ukraines-largest-drone-strikes-on-russia-targets-moscow-killing-two/",
+    "source": "nypost",
+    "pubdate": "2026-09-20-07-20-44 +0000"
+  },
+  {
+    "headline": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
+    "link": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
+    "source": "nyt",
+    "pubdate": "2026-09-20-07-00-13 +0000"
+  },
+  {
     "headline": "Captain America, R2-D2 fly above Lucas Museum of Narrative Art on opening night in dazzling drone light show: Photos",
     "link": "https://nypost.com/2026/09/20/us-news/captain-america-r2-d2-fly-above-lucas-museum-of-narrative-art-on-opening-night-in-dazzling-drone-light-show-photos/",
     "source": "nypost",
@@ -18,16 +54,16 @@
     "pubdate": "2026-09-20-06-38-20 +0000"
   },
   {
-    "headline": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-    "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-20-06-37-46 +0000"
-  },
-  {
     "headline": "Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with ballistic missile",
     "link": "https://nypost.com/2026/09/20/world-news/saudi-arabia-confirms-yemen-houthi-terrorists-attempted-to-strike-capital-riyadh/",
     "source": "nypost",
     "pubdate": "2026-09-20-06-25-15 +0000"
+  },
+  {
+    "headline": "An arrest, a defection and a new leader - how Reform's 'challenging' week unfolded",
+    "link": "https://www.bbc.co.uk/news/articles/cwlyk2x3rg24o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-20-06-17-40 +0000"
   },
   {
     "headline": "Families missing out on NHS money for healthy food",
@@ -60,13 +96,13 @@
     "pubdate": "2026-09-20-04-49-41 +0000"
   },
   {
-    "headline": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+    "headline": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
     "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-20-04-49-11 +0000"
   },
   {
-    "headline": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+    "headline": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
     "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-20-04-49-11 +0000"
@@ -192,7 +228,7 @@
     "pubdate": "2026-09-20-02-08-02 +0000"
   },
   {
-    "headline": "Ed Sheeran plays first concert since Macklemore controversy",
+    "headline": "Everything we know about the Ed Sheeran and Macklemore controversy",
     "link": "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-20-02-00-23 +0000"
@@ -400,6 +436,12 @@
     "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-19-23-01-57 +0000"
+  },
+  {
+    "headline": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+    "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-19-23-01-45 +0000"
   },
   {
     "headline": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
@@ -846,7 +888,13 @@
     "pubdate": "2026-09-19-17-37-33 +0000"
   },
   {
-    "headline": "Analysis: Trump escalates media fight after week of setbacks",
+    "headline": "Trump escalates media fight after week of setbacks",
+    "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-19-17-23-37 +0000"
+  },
+  {
+    "headline": "Trump escalates media fight after week of setbacks",
     "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-19-17-23-37 +0000"
@@ -1066,6 +1114,12 @@
     "link": "https://www.chicagotribune.com/2026/09/19/msnow-banned-white-house/",
     "source": "chitri",
     "pubdate": "2026-09-19-13-46-18 +0000"
+  },
+  {
+    "headline": "Google's Gemini AI hacked three companies in security test",
+    "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-19-13-39-32 +0000"
   },
   {
     "headline": "Google's Gemini AI hacked three companies in security test",
@@ -1308,14 +1362,14 @@
     "pubdate": "2026-09-19-10-00-01 +0000"
   },
   {
-    "headline": "Farmers want relief from Congress. Here’s the holdup.",
-    "link": "https://www.washingtonpost.com/business/2026/09/19/farmers-need-relief-heres-what-is-holding-up-congress/",
+    "headline": "The nation’s premier business group is hitting the road to stamp out socialism",
+    "link": "https://www.washingtonpost.com/business/2026/09/19/nations-premier-business-group-is-hitting-road-stamp-out-socialism/",
     "source": "wapo",
     "pubdate": "2026-09-19-10-00-01 +0000"
   },
   {
-    "headline": "The nation’s premier business group is hitting the road to stamp out socialism",
-    "link": "https://www.washingtonpost.com/business/2026/09/19/nations-premier-business-group-is-hitting-road-stamp-out-socialism/",
+    "headline": "Farmers want relief from Congress. Here’s the holdup.",
+    "link": "https://www.washingtonpost.com/business/2026/09/19/farmers-need-relief-heres-what-is-holding-up-congress/",
     "source": "wapo",
     "pubdate": "2026-09-19-10-00-01 +0000"
   },
@@ -1522,35 +1576,5 @@
     "link": "https://www.washingtonpost.com/politics/2026/09/19/how-rep-tom-emmer-helped-gop-wrangle-its-slim-house-majority/",
     "source": "wapo",
     "pubdate": "2026-09-19-09-00-00 +0000"
-  },
-  {
-    "headline": "War may be coming. Are we psychologically ready?",
-    "link": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-19-08-34-00 +0000"
-  },
-  {
-    "headline": "Today in History: Earthquake shakes central Mexico",
-    "link": "https://www.chicagotribune.com/2026/09/19/today-in-history-earthquake-shakes-central-mexico/",
-    "source": "chitri",
-    "pubdate": "2026-09-19-08-30-03 +0000"
-  },
-  {
-    "headline": "Russian drones are stalking Ukrainian trains and trying to hobble the country's rail system",
-    "link": "https://www.cbc.ca/news/world/ukraine-russia-trains-9.7349188?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-19-08-00-00 +0000"
-  },
-  {
-    "headline": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate",
-    "link": "https://www.cbc.ca/news/politics/canada-eu-carney-jonathan-wilkinson-donald-trump-alliance-9.7349618?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-19-08-00-00 +0000"
-  },
-  {
-    "headline": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate",
-    "link": "https://www.cbc.ca/news/politics/canada-eu-carney-jonathan-wilkinson-donald-trump-alliance-9.7349618?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-19-08-00-00 +0000"
   }
 ]
