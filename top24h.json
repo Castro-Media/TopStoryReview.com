@@ -1,17 +1,10 @@
 [
   {
-    "score": 211,
+    "score": 230,
     "pubdate": "2026-09-22-10-52-00 +0000",
     "source": "wsj",
     "headline": "Trump’s moves against the White House press pool are crimping coverage as he deals with wars, the economy and his fellow world leaders. Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/trumps-second-term-is-made-for-tv-but-the-cameras-have-clicked-off-7497b938?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 133,
-    "pubdate": "2026-09-21-14-54-19 +0000",
-    "source": "nypost",
-    "headline": "US pitches China on AI notification deal ahead of UN General Assembly",
-    "link": "https://nypost.com/2026/09/21/us-news/us-pitches-china-on-ai-notification-deal-ahead-of-un-general-asssembly/"
   },
   {
     "score": 126,
@@ -21,52 +14,59 @@
     "link": "https://www.wsj.com/politics/policy/trump-and-mamdani-maintain-their-rapporteven-when-they-disagree-fe79d01a?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 91,
-    "pubdate": "2026-09-22-11-24-48 +0000",
-    "source": "bbc",
-    "headline": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss"
+    "score": 96,
+    "pubdate": "2026-09-21-18-55-00 +0000",
+    "source": "cbc",
+    "headline": "Paramount settles with U.S. states over Warner Bros. merger, clearing way for $81B US deal",
+    "link": "https://www.cbc.ca/news/entertainment/paramount-settles-california-other-us-states-warner-bros-merger-9.7352512?cmp=rss"
   },
   {
-    "score": 68,
+    "score": 89,
     "pubdate": "2026-09-21-22-11-00 +0000",
     "source": "wsj",
     "headline": "The Trump administration is seeking to rebuild energy infrastructure in the Middle East with a $10 billion investment with regional partners. Plus, OpenAI calls for worldwide AI safety standards.",
     "link": "https://www.wsj.com/politics/policy/trump-proposes-10-billion-fund-for-middle-east-energy-infrastructure-project-43097512?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 64,
+    "score": 85,
+    "pubdate": "2026-09-22-11-07-58 +0000",
+    "source": "nyt",
+    "headline": "UK Leader Burnham to Hold First Meeting With Trump at UN General Assembly",
+    "link": "https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-09-22-13-48-05 +0000",
+    "source": "nyt",
+    "headline": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
+    "link": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html"
+  },
+  {
+    "score": 60,
+    "pubdate": "2026-09-22-05-57-46 +0000",
+    "source": "bbc",
+    "headline": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
+    "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 59,
     "pubdate": "2026-09-21-21-45-30 +0000",
     "source": "nyt",
     "headline": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are Back at War",
     "link": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html"
   },
   {
-    "score": 61,
-    "pubdate": "2026-09-21-17-06-16 +0000",
-    "source": "bbc",
-    "headline": "Two charged with woman's murder as South Africa police investigate eight other body finds",
-    "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 58,
-    "pubdate": "2026-09-22-11-45-00 +0000",
-    "source": "wsj",
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9ea269b4?mod=rss_markets_main"
-  },
-  {
-    "score": 58,
+    "score": 59,
     "pubdate": "2026-09-21-20-25-00 +0000",
     "source": "wsj",
     "headline": "Republican lawmakers are running out of time to assuage voters angry about soaring fuel costs—an issue many see as the GOP’s biggest political liability in the midterms",
     "link": "https://www.wsj.com/politics/elections/republicans-running-out-of-time-on-lowering-diesel-gas-prices-before-midterms-51b9d1fe?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 57,
-    "pubdate": "2026-09-22-05-57-46 +0000",
-    "source": "bbc",
-    "headline": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
-    "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss"
+    "score": 55,
+    "pubdate": "2026-09-22-11-45-00 +0000",
+    "source": "wsj",
+    "headline": "Tech, Media & Telecom Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9ea269b4?mod=rss_markets_main"
   }
 ]
