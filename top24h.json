@@ -1,24 +1,17 @@
 [
   {
-    "score": 230,
+    "score": 226,
     "pubdate": "2026-09-22-10-52-00 +0000",
     "source": "wsj",
     "headline": "Trump’s moves against the White House press pool are crimping coverage as he deals with wars, the economy and his fellow world leaders. Read more in today’s WSJ Politics Newsletter:",
     "link": "https://www.wsj.com/politics/trumps-second-term-is-made-for-tv-but-the-cameras-have-clicked-off-7497b938?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 126,
+    "score": 125,
     "pubdate": "2026-09-21-22-49-00 +0000",
     "source": "wsj",
     "headline": "President Trump and New York City Mayor Zohran Mamdani continued their surprising rapport Monday, meeting for an hour at Gracie Mansion, the mayor’s official residence",
     "link": "https://www.wsj.com/politics/policy/trump-and-mamdani-maintain-their-rapporteven-when-they-disagree-fe79d01a?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 96,
-    "pubdate": "2026-09-21-18-55-00 +0000",
-    "source": "cbc",
-    "headline": "Paramount settles with U.S. states over Warner Bros. merger, clearing way for $81B US deal",
-    "link": "https://www.cbc.ca/news/entertainment/paramount-settles-california-other-us-states-warner-bros-merger-9.7352512?cmp=rss"
   },
   {
     "score": 89,
@@ -28,7 +21,14 @@
     "link": "https://www.wsj.com/politics/policy/trump-proposes-10-billion-fund-for-middle-east-energy-infrastructure-project-43097512?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 85,
+    "score": 86,
+    "pubdate": "2026-09-21-18-55-00 +0000",
+    "source": "cbc",
+    "headline": "Paramount settles with U.S. states over Warner Bros. merger, clearing way for $81B US deal",
+    "link": "https://www.cbc.ca/news/entertainment/paramount-settles-california-other-us-states-warner-bros-merger-9.7352512?cmp=rss"
+  },
+  {
+    "score": 81,
     "pubdate": "2026-09-22-11-07-58 +0000",
     "source": "nyt",
     "headline": "UK Leader Burnham to Hold First Meeting With Trump at UN General Assembly",
@@ -50,17 +50,17 @@
   },
   {
     "score": 59,
-    "pubdate": "2026-09-21-21-45-30 +0000",
-    "source": "nyt",
-    "headline": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are Back at War",
-    "link": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html"
-  },
-  {
-    "score": 59,
     "pubdate": "2026-09-21-20-25-00 +0000",
     "source": "wsj",
     "headline": "Republican lawmakers are running out of time to assuage voters angry about soaring fuel costs—an issue many see as the GOP’s biggest political liability in the midterms",
     "link": "https://www.wsj.com/politics/elections/republicans-running-out-of-time-on-lowering-diesel-gas-prices-before-midterms-51b9d1fe?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 58,
+    "pubdate": "2026-09-21-21-45-30 +0000",
+    "source": "nyt",
+    "headline": "Why the Iran-Backed Houthis in Yemen and Saudi Arabia Are Back at War",
+    "link": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html"
   },
   {
     "score": 55,
