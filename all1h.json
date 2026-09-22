@@ -1,236 +1,146 @@
 [
   {
-    "headline": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/09/21/business/trump-white-house-cnn-politico-msnow/heres-the-latest",
-    "source": "nyt",
-    "pubdate": "2026-09-21-23-50-09 +0000"
-  },
-  {
-    "headline": "Woman sparks panicked search after touching rabid bat on Minneapolis street",
-    "link": "https://nypost.com/2026/09/21/us-news/woman-sparks-panicked-search-after-touching-rabid-bat-on-minneapolis-street/",
-    "source": "nypost",
-    "pubdate": "2026-09-21-23-43-32 +0000"
-  },
-  {
-    "headline": "Wild details emerge after Hollywood star smuggled ‘charming liar’ boyfriend out of California as luxe life fell apart",
-    "link": "https://nypost.com/2026/09/21/us-news/hollywood-actress-facing-prison-after-helping-boyfriend-escape-to-mexico/",
-    "source": "nypost",
-    "pubdate": "2026-09-21-23-41-45 +0000"
-  },
-  {
-    "headline": "I couldn't cook when I left home – but these easy £2.50 recipes became my go-to",
-    "link": "https://www.bbc.co.uk/news/articles/cgjqgjn3n2wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-21-23-41-20 +0000"
-  },
-  {
-    "headline": "After Years as the Star of Must-See TV, Trump Faces the Sting of Cancellation",
-    "link": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html",
-    "source": "nyt",
-    "pubdate": "2026-09-21-23-37-58 +0000"
-  },
-  {
-    "headline": "After Years as the Star of Must-See TV, Trump Faces the Sting of Cancellation",
-    "link": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html",
-    "source": "nyt",
-    "pubdate": "2026-09-21-23-37-58 +0000"
-  },
-  {
-    "headline": "Trump’s plan to militarize proposed arch raises new legal, safety concerns",
-    "link": "https://www.washingtonpost.com/politics/2026/09/21/trumps-plan-militarize-proposed-arch-raises-new-legal-safety-concerns/",
+    "headline": "Major TV networks halt video coverage of Trump over CNN ban",
+    "link": "https://www.washingtonpost.com/business/2026/09/21/cnn-ms-now-politico-sue-over-white-house-bans/",
     "source": "wapo",
-    "pubdate": "2026-09-21-23-34-36 +0000"
+    "pubdate": "2026-09-22-01-05-46 +0000"
   },
   {
-    "headline": "Trump strikes back at TV boycott with a dramatic move of his own",
-    "link": "https://nypost.com/2026/09/21/us-news/trump-strikes-back-at-tv-boycott-with-a-dramatic-move-of-his-own/",
+    "headline": "Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce",
+    "link": "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html",
+    "source": "nyt",
+    "pubdate": "2026-09-22-01-03-48 +0000"
+  },
+  {
+    "headline": "Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce",
+    "link": "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html",
+    "source": "nyt",
+    "pubdate": "2026-09-22-01-03-48 +0000"
+  },
+  {
+    "headline": "Skyrocketing California electricity costs among highest in US",
+    "link": "https://nypost.com/2026/09/21/us-news/soaring-california-electricity-costs-among-highest-rates-in-us/",
     "source": "nypost",
-    "pubdate": "2026-09-21-23-34-31 +0000"
+    "pubdate": "2026-09-22-01-00-00 +0000"
   },
   {
-    "headline": "Mom gives birth in KFC parking lot and newborn gets a fitting fast-food nickname",
-    "link": "https://nypost.com/2026/09/21/us-news/mom-gives-birth-in-kfc-parking-lot-and-gives-newborn-fitting-fast-food-nickname/",
-    "source": "nypost",
-    "pubdate": "2026-09-21-23-32-32 +0000"
+    "headline": "How David Ellison Ended His Stalemate With California",
+    "link": "https://www.wsj.com/business/media/how-david-ellison-ended-his-stalemate-with-california-e0e1cc9b?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-22-01-00-00 +0000"
   },
   {
-    "headline": "Soaked Riot Fest forces restoration plans for swampy Douglass Park",
-    "link": "https://www.chicagotribune.com/2026/09/21/rain-mud-riot-fest-douglass-park/",
-    "source": "chitri",
-    "pubdate": "2026-09-21-23-32-10 +0000"
+    "headline": "These Tiny Startups Are Getting Even Smaller With Help From AI",
+    "link": "https://www.wsj.com/tech/ai/startup-hiring-ai-staffing-8c626f75?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-22-01-00-00 +0000"
   },
   {
-    "headline": "Why a Bollywood celebrity manager's 2020 death case has been reopened",
-    "link": "https://www.bbc.co.uk/news/articles/cpwl1ejlgw9o?at_medium=RSS&at_campaign=rss",
+    "headline": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
+    "link": "https://www.wsj.com/world/china/trump-xi-taiwan-f236f228?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-22-01-00-00 +0000"
+  },
+  {
+    "headline": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+    "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
-    "pubdate": "2026-09-21-23-32-04 +0000"
+    "pubdate": "2026-09-22-00-58-52 +0000"
   },
   {
-    "headline": "Radar and Radio Outage Roils Flights Around New York City, Northeast",
+    "headline": "NATO will share Arctic responsibility as Greenland security deal with U.S. moves forward, Denmark says",
+    "link": "https://www.cbc.ca/news/world/denmark-greenland-us-security-deal-9.7353071?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-09-22-00-58-10 +0000"
+  },
+  {
+    "headline": "California tech exec says she’s found 5 ‘Mr. Rights’ after cringe dating demands — as her SF startup faces nasty allegation",
+    "link": "https://nypost.com/2026/09/21/us-news/brooke-leblanc-says-she-found-5-mr-rights-as-corgi-cafe-faces-nasty-reviews/",
+    "source": "nypost",
+    "pubdate": "2026-09-22-00-45-00 +0000"
+  },
+  {
+    "headline": "Nikkei Could Rally on Modest Catalysts as Shorts Pile Up",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-could-rally-on-modest-catalysts-as-shorts-pile-up-39640022?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-22-00-45-00 +0000"
+  },
+  {
+    "headline": "Radar and Radio Outage Roiled Flights Around New York City, Northeast",
     "link": "https://www.wsj.com/business/airlines/radar-radio-outage-roils-flights-around-new-york-city-northeast-5fde863e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-09-21-23-29-00 +0000"
+    "pubdate": "2026-09-22-00-41-00 +0000"
   },
   {
-    "headline": "Texas Man Shot by ICE Agent Offers His Own Account of Altercation",
+    "headline": "Oil Edges Higher; Focus on Signs of Diplomacy in Mideast Conflict",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-focus-on-signs-of-diplomacy-in-mideast-conflict-2712f57a?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-22-00-38-00 +0000"
+  },
+  {
+    "headline": "George W. Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
+    "link": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html",
+    "source": "nyt",
+    "pubdate": "2026-09-22-00-36-52 +0000"
+  },
+  {
+    "headline": "George W. Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
+    "link": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html",
+    "source": "nyt",
+    "pubdate": "2026-09-22-00-36-52 +0000"
+  },
+  {
+    "headline": "Tesla reopens Roadster reservations — but you’ll need $50K",
+    "link": "https://nypost.com/2026/09/21/business/tesla-reopens-roadster-reservations-but-youll-need-50k/",
+    "source": "nypost",
+    "pubdate": "2026-09-22-00-36-01 +0000"
+  },
+  {
+    "headline": "Great white shark tears seal apart, turning serene Nantucket beach into bloodbath, wild video shows",
+    "link": "https://nypost.com/2026/09/21/us-news/great-white-shark-tears-seal-apart-at-nantucket-beach-video/",
+    "source": "nypost",
+    "pubdate": "2026-09-22-00-33-21 +0000"
+  },
+  {
+    "headline": "Asian Currencies Mixed on Hopes for U.S.-Iran Negotiations",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-on-hopes-for-u-s-iran-negotiations-95e21ec2?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-22-00-32-00 +0000"
+  },
+  {
+    "headline": "Man Shot by ICE Agent Says His Car Was Struck Twice Before He Was Shot",
     "link": "https://www.nytimes.com/2026/09/21/us/ice-shooting-austin-texas.html",
     "source": "nyt",
-    "pubdate": "2026-09-21-23-28-16 +0000"
+    "pubdate": "2026-09-22-00-31-07 +0000"
   },
   {
-    "headline": "At 92, the Bard of Bollywood Is Still Writing About Love",
-    "link": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
+    "headline": "South Korean President Calls for Easing Sanctions on the North",
+    "link": "https://www.nytimes.com/2026/09/21/world/asia/south-korea-president-interview-sanctions-trump-north-korea.html",
     "source": "nyt",
-    "pubdate": "2026-09-21-23-27-57 +0000"
+    "pubdate": "2026-09-22-00-30-11 +0000"
   },
   {
-    "headline": "At 92, the Bard of Bollywood Is Still Writing About Love",
-    "link": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
+    "headline": "South Korean President Calls for Easing Sanctions on the North",
+    "link": "https://www.nytimes.com/2026/09/21/world/asia/south-korea-president-interview-sanctions-trump-north-korea.html",
     "source": "nyt",
-    "pubdate": "2026-09-21-23-27-57 +0000"
+    "pubdate": "2026-09-22-00-30-11 +0000"
   },
   {
-    "headline": "Appeals court favors Trump-backed Missouri congressional map, but Supreme Court will have final say",
-    "link": "https://www.chicagotribune.com/2026/09/21/trump-backed-missouri-congressional-map/",
-    "source": "chitri",
-    "pubdate": "2026-09-21-23-26-57 +0000"
-  },
-  {
-    "headline": "Chabria: A 'fight worth fighting': Paramount settlement is less than desired, more than nothing",
-    "link": "https://www.latimes.com/california/story/2026-09-21/paramount-settlement-is-less-than-desired-more-than-nothing",
-    "source": "latimes",
-    "pubdate": "2026-09-21-23-26-02 +0000"
-  },
-  {
-    "headline": "Chabria: A 'fight worth fighting': Paramount settlement is less than desired, more than nothing",
-    "link": "https://www.latimes.com/california/story/2026-09-21/paramount-settlement-is-less-than-desired-more-than-nothing",
-    "source": "latimes",
-    "pubdate": "2026-09-21-23-26-02 +0000"
-  },
-  {
-    "headline": "Flights at major US airports delayed after cable cut by construction workers",
-    "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-21-23-25-28 +0000"
-  },
-  {
-    "headline": "Flights at major US airports delayed after cable cut by construction workers",
-    "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-21-23-25-28 +0000"
-  },
-  {
-    "headline": "North Star Boys’ founder snags rare $20K ‘Jimothy’ card and funds teen’s college education",
-    "link": "https://nypost.com/2026/09/21/us-news/north-star-boys-founder-helps-fund-teens-college-education/",
+    "headline": "22 illegal immigrants — including 13 Chinese nationals — arrested after Florida smuggling attempt on ‘extremely dangerous’ tiny boat",
+    "link": "https://nypost.com/2026/09/21/us-news/22-illegal-immigrants-arrested-for-florida-smuggling-attempt/",
     "source": "nypost",
-    "pubdate": "2026-09-21-23-24-13 +0000"
+    "pubdate": "2026-09-22-00-27-06 +0000"
   },
   {
-    "headline": "Teen boy, 14, shot and killed during possible scooter robbery in NYC: sources",
-    "link": "https://nypost.com/2026/09/21/us-news/14-year-old-boy-killed-during-possible-nyc-scooter-robbery-sources/",
+    "headline": "Four rapes rock California college in the first three weeks of semester",
+    "link": "https://nypost.com/2026/09/21/us-news/four-rapes-rock-california-college-in-the-first-three-weeks-of-semester/",
     "source": "nypost",
-    "pubdate": "2026-09-21-23-20-49 +0000"
+    "pubdate": "2026-09-22-00-23-51 +0000"
   },
   {
-    "headline": "Appeals Court Sides With Missouri Republicans on Redrawn House Map",
-    "link": "https://www.nytimes.com/2026/09/21/us/missouri-redistricting-decision.html",
-    "source": "nyt",
-    "pubdate": "2026-09-21-23-19-12 +0000"
-  },
-  {
-    "headline": "Meet the S.F. congressional candidates: Do you support Mayor Lurie for reelection?",
-    "link": "https://missionlocal.org/2026/09/meet-the-s-f-congressional-candidates-mayor-lurie-reelection/",
-    "source": "missionlocal",
-    "pubdate": "2026-09-21-23-15-38 +0000"
-  },
-  {
-    "headline": "Liberals table bill to speed up major project approvals, avert labour disruptions",
-    "link": "https://www.cbc.ca/news/politics/liberals-table-major-projects-bill-9.7352890?cmp=rss",
+    "headline": "U.S. court to hear appeal from man convicted of human smuggling after family froze to death at Manitoba border",
+    "link": "https://www.cbc.ca/news/canada/manitoba/court-appeal-steve-shand-patel-9.7353020?cmp=rss",
     "source": "cbc",
-    "pubdate": "2026-09-21-23-13-50 +0000"
-  },
-  {
-    "headline": "Lindsay Clancy's lawyer wants judge to investigate juror's conduct",
-    "link": "https://www.cbc.ca/news/world/lindsay-clancy-lawyer-asks-juror-investigated-9.7352934?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-21-23-12-32 +0000"
-  },
-  {
-    "headline": "Girl, 11, dies after hidden branch pierces her heart while doing ‘commando crawl’ in mud flat",
-    "link": "https://nypost.com/2026/09/21/world-news/girl-11-dies-after-hidden-branch-pierces-her-heart-while-doing-commando-crawl-in-mud-flat/",
-    "source": "nypost",
-    "pubdate": "2026-09-21-23-09-19 +0000"
-  },
-  {
-    "headline": "Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
-    "link": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html",
-    "source": "nyt",
-    "pubdate": "2026-09-21-23-08-34 +0000"
-  },
-  {
-    "headline": "Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
-    "link": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html",
-    "source": "nyt",
-    "pubdate": "2026-09-21-23-08-34 +0000"
-  },
-  {
-    "headline": "Norway PM 'prepared, but not afraid' of Russian incursion",
-    "link": "https://www.cbc.ca/news/politics/norway-pm-prepared-but-not-afraid-of-russian-incursion-9.7352556?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-21-23-05-39 +0000"
-  },
-  {
-    "headline": "Norway PM 'prepared, but not afraid' of Russian incursion",
-    "link": "https://www.cbc.ca/news/politics/norway-pm-prepared-but-not-afraid-of-russian-incursion-9.7352556?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-21-23-05-39 +0000"
-  },
-  {
-    "headline": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
-    "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-21-23-01-26 +0000"
-  },
-  {
-    "headline": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
-    "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-21-23-01-26 +0000"
-  },
-  {
-    "headline": "Vet prescription fees capped under rule changes",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-21-23-01-18 +0000"
-  },
-  {
-    "headline": "Vet prescription fees capped under rule changes",
-    "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-21-23-01-18 +0000"
-  },
-  {
-    "headline": "Record number of US college students say violence is OK to stop controversial speakers",
-    "link": "https://nypost.com/2026/09/21/us-news/record-number-of-us-college-students-say-violence-is-ok-to-stop-controversial-speakers/",
-    "source": "nypost",
-    "pubdate": "2026-09-21-23-00-48 +0000"
-  },
-  {
-    "headline": "Vance to make Obamacare fraud announcement as crackdown widens on federal medical spending",
-    "link": "https://nypost.com/2026/09/21/us-news/vance-to-make-obamacare-fraud-announcement-after-trump-threat-to-defund-insurers-after-midterms/",
-    "source": "nypost",
-    "pubdate": "2026-09-21-22-59-49 +0000"
-  },
-  {
-    "headline": "Vance to make Obamacare fraud announcement as crackdown widens on federal medical spending",
-    "link": "https://nypost.com/2026/09/21/us-news/vance-to-make-obamacare-fraud-announcement-after-trump-threat-to-defund-insurers-after-midterms/",
-    "source": "nypost",
-    "pubdate": "2026-09-21-22-59-49 +0000"
-  },
-  {
-    "headline": "Meet the US Army vet running a California baby factory for Chinese nationals to have American kids",
-    "link": "https://nypost.com/2026/09/21/us-news/meet-the-us-army-vet-running-a-california-baby-factory-for-chinese-nationals-to-have-american-kids/",
-    "source": "nypost",
-    "pubdate": "2026-09-21-22-59-39 +0000"
+    "pubdate": "2026-09-22-00-22-33 +0000"
   }
 ]
