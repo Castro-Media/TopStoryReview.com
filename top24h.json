@@ -1,17 +1,10 @@
 [
   {
-    "score": 185,
-    "pubdate": "2026-09-21-22-49-00 +0000",
-    "source": "wsj",
-    "headline": "President Trump and New York City Mayor Zohran Mamdani continued their surprising rapport Monday, meeting for an hour at Gracie Mansion, the mayor’s official residence",
-    "link": "https://www.wsj.com/politics/policy/trump-and-mamdani-maintain-their-rapporteven-when-they-disagree-fe79d01a?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 115,
-    "pubdate": "2026-09-21-14-54-19 +0000",
-    "source": "nypost",
-    "headline": "US pitches China on AI notification deal ahead of UN General Assembly",
-    "link": "https://nypost.com/2026/09/21/us-news/us-pitches-china-on-ai-notification-deal-ahead-of-un-general-asssembly/"
+    "score": 182,
+    "pubdate": "2026-09-21-05-50-56 +0000",
+    "source": "bbc",
+    "headline": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+    "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 106,
@@ -21,11 +14,11 @@
     "link": "https://nypost.com/2026/09/21/us-news/illinois-gov-jb-pritzker-says-hes-lost-80-pounds-on-glp-1-sparking-fresh-talk-of-2028-white-house-run/"
   },
   {
-    "score": 99,
-    "pubdate": "2026-09-21-04-00-38 +0000",
-    "source": "bbc",
-    "headline": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-    "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss"
+    "score": 104,
+    "pubdate": "2026-09-21-22-49-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump and New York City Mayor Zohran Mamdani continued their surprising rapport Monday, meeting for an hour at Gracie Mansion, the mayor’s official residence",
+    "link": "https://www.wsj.com/politics/policy/trump-and-mamdani-maintain-their-rapporteven-when-they-disagree-fe79d01a?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 95,
@@ -49,6 +42,13 @@
     "link": "https://nypost.com/2026/09/21/us-news/trump-says-russia-lost-control-of-its-diesel-oil-industry-after-ukraine-drone-attacks-calls-for-end-to-war/"
   },
   {
+    "score": 63,
+    "pubdate": "2026-09-21-16-27-06 +0000",
+    "source": "cbc",
+    "headline": "U.S. strikes on boats alleged to be carrying drugs may be 'crimes against humanity,' UN expert says",
+    "link": "https://www.cbc.ca/news/world/un-geneva-boat-strikes-9.7351852?cmp=rss"
+  },
+  {
     "score": 61,
     "pubdate": "2026-09-21-11-17-47 +0000",
     "source": "latimes",
@@ -64,9 +64,9 @@
   },
   {
     "score": 55,
-    "pubdate": "2026-09-21-21-40-13 +0000",
-    "source": "cbc",
-    "headline": "Britain to give limited military support to Saudi Arabia to defend against Houthi rebels",
-    "link": "https://www.cbc.ca/news/world/britain-support-saudi-arabia-houthi-rebels-9.7352771?cmp=rss"
+    "pubdate": "2026-09-21-17-01-24 +0000",
+    "source": "nyt",
+    "headline": "U.N. General Assembly to Confront Familiar Crises, New Conflicts and A.I.",
+    "link": "https://www.nytimes.com/2026/09/21/world/americas/un-general-assembly-ai.html"
   }
 ]
