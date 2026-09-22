@@ -1,51 +1,72 @@
 [
   {
+    "score": 35,
+    "pubdate": "2026-09-22-02-00-10 +0000",
+    "source": "nyt",
+    "headline": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
+    "link": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-22-02-39-09 +0000",
+    "source": "nyt",
+    "headline": "Why a Law to Help Prisoners Became a New Sectarian Flashpoint in Lebanon",
+    "link": "https://www.nytimes.com/2026/09/21/world/middleeast/lebanon-amnesty-law-aoun.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-22-02-21-50 +0000",
+    "source": "nyt",
+    "headline": "George W. Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
+    "link": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html"
+  },
+  {
     "score": 19,
-    "pubdate": "2026-09-22-01-03-48 +0000",
+    "pubdate": "2026-09-22-02-15-15 +0000",
     "source": "nyt",
-    "headline": "Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce",
-    "link": "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html"
+    "headline": "Man Shot by ICE Agent Says His Car Was Struck Twice Before He Was Shot",
+    "link": "https://www.nytimes.com/2026/09/21/us/ice-shooting-austin-texas.html"
   },
   {
-    "score": 8,
-    "pubdate": "2026-09-22-01-05-46 +0000",
-    "source": "wapo",
-    "headline": "Major TV networks halt video coverage of Trump over CNN ban",
-    "link": "https://www.washingtonpost.com/business/2026/09/21/cnn-ms-now-politico-sue-over-white-house-bans/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-09-22-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "These Tiny Startups Are Getting Even Smaller With Help From AI",
-    "link": "https://www.wsj.com/tech/ai/startup-hiring-ai-staffing-8c626f75?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-09-22-01-00-00 +0000",
+    "score": 15,
+    "pubdate": "2026-09-22-02-00-00 +0000",
     "source": "nypost",
-    "headline": "Skyrocketing California electricity costs among highest in US",
-    "link": "https://nypost.com/2026/09/21/us-news/soaring-california-electricity-costs-among-highest-rates-in-us/"
+    "headline": "California homeowners demand US slaps crippling sanctions on Putin crony’s son trying to build massive skyscraper",
+    "link": "https://nypost.com/2026/09/21/us-news/us-sanctions-against-son-of-putin-ally-could-halt-norcal-skyscraper/"
   },
   {
-    "score": 7,
-    "pubdate": "2026-09-22-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
-    "link": "https://www.wsj.com/world/china/trump-xi-taiwan-f236f228?mod=rss_worldnews"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-09-22-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "How David Ellison Ended His Stalemate With California",
-    "link": "https://www.wsj.com/business/media/how-david-ellison-ended-his-stalemate-with-california-e0e1cc9b?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-09-22-01-03-48 +0000",
+    "score": 13,
+    "pubdate": "2026-09-22-02-00-06 +0000",
     "source": "nyt",
-    "headline": "Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce",
-    "link": "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html"
+    "headline": "China’s Continued Control of Rare Earths Looms Over Trump-Xi Meeting",
+    "link": "https://www.nytimes.com/2026/09/21/business/china-rare-earth-summit.html"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-09-22-02-06-50 +0000",
+    "source": "nypost",
+    "headline": "Nolan Wells’ death ‘consistent with drowning,’ no evidence it was criminal or racially motivated, grand jury finds",
+    "link": "https://nypost.com/2026/09/21/us-news/nolan-wells-death-consistent-with-drowning-no-evidence-it-was-criminal-or-racially-motivated-grand-jury/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-09-22-02-27-36 +0000",
+    "source": "nyt",
+    "headline": "Why Network TV Stopped Filming the President",
+    "link": "https://www.nytimes.com/video/us/politics/100000011164965/why-network-tv-stopped-filming-the-president.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-09-22-01-59-41 +0000",
+    "source": "48hills",
+    "headline": "The oligarch, charter school, and GOP ally money behind the attacks on Connie Chan",
+    "link": "https://48hills.org/2026/09/the-big-tech-charter-school-and-gop-ally-money-behind-the-attacks-on-connie-chan/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-09-22-02-43-52 +0000",
+    "source": "bbc",
+    "headline": "Watch: Six-year-old girl from China sets new Rubik's Cube world record",
+    "link": "https://www.bbc.co.uk/news/videos/cmvgyzgnq9e3o?at_medium=RSS&at_campaign=rss"
   }
 ]
