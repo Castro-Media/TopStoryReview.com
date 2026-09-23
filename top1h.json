@@ -1,9 +1,72 @@
 [
   {
-    "score": 9,
-    "pubdate": "2026-09-23-12-58-00 +0000",
+    "score": 36,
+    "pubdate": "2026-09-23-14-44-03 +0000",
+    "source": "wapo",
+    "headline": "Another U.S. service member dies amid Iran war, Pentagon tally shows",
+    "link": "https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-09-23-14-55-51 +0000",
+    "source": "bbc",
+    "headline": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+    "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-09-23-14-34-48 +0000",
+    "source": "nypost",
+    "headline": "NBC helicopter reporter’s fiance shares heartbreaking tribute one week after crash — and reveals they planned to move to Tennessee farm",
+    "link": "https://nypost.com/2026/09/23/us-news/eliana-morenos-fiance-breaks-silence-after-nbc-helicopter-crash-in-la/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-23-14-11-00 +0000",
     "source": "wsj",
-    "headline": "Oil Prices Rebound Amid Persistent Middle East Supply Risks",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-u-s-iran-talks-saudi-pipeline-progress-3b33f75c?mod=pls_whats_news_us_business_f"
+    "headline": "Dollar Jumps to 8-Week High on Fed Rate-Hike Bets",
+    "link": "https://www.wsj.com/economy/central-banking/dollar-jumps-to-8-week-high-as-fed-rate-hike-bets-outweigh-lower-oil-prices-92e6cf72?mod=rss_markets_main"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-23-14-15-12 +0000",
+    "source": "nypost",
+    "headline": "‘The View’s Sunny Hostin boasts she was holdout juror who spared NYC’s Butcher of Tompkins Square Park cannibal killer",
+    "link": "https://nypost.com/2026/09/23/us-news/the-view-host-sunny-hostin-claims-she-was-holdout-juror-in-who-spared-nyc-cannibal-killer-prison/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-23-14-02-55 +0000",
+    "source": "bbc",
+    "headline": "Eleven killed in mass shooting at house in South Africa",
+    "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-09-23-14-46-16 +0000",
+    "source": "wapo",
+    "headline": "To answer far-right surge, Mamdani and Spain’s Sánchez forge global left-wing ties",
+    "link": "https://www.washingtonpost.com/world/2026/09/23/answer-far-right-surge-mamdani-spains-snchez-forge-global-left-wing-ties/"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-09-23-14-30-52 +0000",
+    "source": "nyt",
+    "headline": "One Big Beautiful Bill Is Starting to Bite Before the Election",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-09-23-14-53-07 +0000",
+    "source": "nypost",
+    "headline": "Model found dead in ex’s car hours after texting panicked warning about him",
+    "link": "https://nypost.com/2026/09/23/world-news/model-found-dead-in-exs-car-hours-after-texting-panicked-warning-about-him/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-09-23-14-50-58 +0000",
+    "source": "nyt",
+    "headline": "U.N. Live Updates: Iran’s President Accuses U.S. and Israel of Lawless Attacks on Nonmilitary Targets",
+    "link": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine"
   }
 ]
