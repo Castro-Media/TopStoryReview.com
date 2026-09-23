@@ -516,18 +516,6 @@
     "pubdate": "2026-09-23-00-00-27 +0000"
   },
   {
-    "headline": "Private-Credit Firms Are Buzzing About Getting In on JPMorgan’s Card Empire",
-    "link": "https://www.wsj.com/finance/banking/private-credit-firms-are-buzzing-about-getting-in-on-jpmorgans-card-empire-a738f517?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-23-00-00-00 +0000"
-  },
-  {
-    "headline": "HHS moved money from a minority health office to help pay security costs for Health Secretary Robert F. Kennedy Jr., according to people familiar with the matter and a document reviewed by the WSJ",
-    "link": "https://www.wsj.com/politics/policy/rfk-jr-hhs-security-cost-minority-health-office-f1c7b62a?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-23-00-00-00 +0000"
-  },
-  {
     "headline": "RFK Jr.’s Enhanced Security Was Funded With Money From Minority Health Office",
     "link": "https://www.wsj.com/politics/policy/rfk-jr-hhs-security-cost-minority-health-office-f1c7b62a?mod=rss_usnews",
     "source": "wsj",
@@ -536,6 +524,18 @@
   {
     "headline": "Americans Are About to Lose Access to Cheap Gray-Market Prescriptions From Canada",
     "link": "https://www.wsj.com/health/healthcare/us-customs-prescription-drugs-canada-71978a47?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-09-23-00-00-00 +0000"
+  },
+  {
+    "headline": "Private-Credit Firms Are Buzzing About Getting In on JPMorgan’s Card Empire",
+    "link": "https://www.wsj.com/finance/banking/private-credit-firms-are-buzzing-about-getting-in-on-jpmorgans-card-empire-a738f517?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-23-00-00-00 +0000"
+  },
+  {
+    "headline": "HHS moved money from a minority health office to help pay security costs for Health Secretary Robert F. Kennedy Jr., according to people familiar with the matter and a document reviewed by the WSJ",
+    "link": "https://www.wsj.com/politics/policy/rfk-jr-hhs-security-cost-minority-health-office-f1c7b62a?mod=rss_socialpoliticsfeed",
     "source": "wsj",
     "pubdate": "2026-09-23-00-00-00 +0000"
   },
@@ -841,13 +841,13 @@
   },
   {
     "headline": "Opinion | Trump’s U.N. Message to the World",
-    "link": "https://www.wsj.com/opinion/donald-trump-unga-speech-iran-8d480dab?mod=rss_worldnews",
+    "link": "https://www.wsj.com/opinion/donald-trump-unga-speech-iran-8d480dab?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-09-22-22-30-00 +0000"
   },
   {
     "headline": "Opinion | Trump’s U.N. Message to the World",
-    "link": "https://www.wsj.com/opinion/donald-trump-unga-speech-iran-8d480dab?mod=rss_usnews",
+    "link": "https://www.wsj.com/opinion/donald-trump-unga-speech-iran-8d480dab?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-09-22-22-30-00 +0000"
   },
@@ -955,13 +955,13 @@
   },
   {
     "headline": "Opinion | Welcome to New York (Hours Late)",
-    "link": "https://www.wsj.com/opinion/newark-air-traffic-control-delays-sean-duffy-6114505b?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/newark-air-traffic-control-delays-sean-duffy-6114505b?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-09-22-21-57-00 +0000"
   },
   {
     "headline": "Opinion | Welcome to New York (Hours Late)",
-    "link": "https://www.wsj.com/opinion/newark-air-traffic-control-delays-sean-duffy-6114505b?mod=rss_usnews",
+    "link": "https://www.wsj.com/opinion/newark-air-traffic-control-delays-sean-duffy-6114505b?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-22-21-57-00 +0000"
   },
@@ -1021,13 +1021,13 @@
   },
   {
     "headline": "Trump Threatens Iran’s ‘Annihilation’ in U.N. Speech",
-    "link": "https://www.wsj.com/politics/policy/trump-threatens-irans-annihilation-in-u-n-speech-08b4921d?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/politics/policy/trump-threatens-irans-annihilation-in-u-n-speech-08b4921d?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-09-22-21-44-00 +0000"
   },
   {
     "headline": "Trump Threatens Iran’s ‘Annihilation’ in U.N. Speech",
-    "link": "https://www.wsj.com/politics/policy/trump-threatens-irans-annihilation-in-u-n-speech-08b4921d?mod=rss_markets_main",
+    "link": "https://www.wsj.com/politics/policy/trump-threatens-irans-annihilation-in-u-n-speech-08b4921d?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-22-21-44-00 +0000"
   },
@@ -1039,13 +1039,13 @@
   },
   {
     "headline": "Opinion | Republicans Are Running on Empty",
-    "link": "https://www.wsj.com/opinion/republicans-diesel-fuel-exports-ban-donald-trump-gop-f5cf8543?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/republicans-diesel-fuel-exports-ban-donald-trump-gop-f5cf8543?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-09-22-21-43-00 +0000"
   },
   {
     "headline": "Opinion | Republicans Are Running on Empty",
-    "link": "https://www.wsj.com/opinion/republicans-diesel-fuel-exports-ban-donald-trump-gop-f5cf8543?mod=rss_usnews",
+    "link": "https://www.wsj.com/opinion/republicans-diesel-fuel-exports-ban-donald-trump-gop-f5cf8543?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-22-21-43-00 +0000"
   },
@@ -1141,13 +1141,13 @@
   },
   {
     "headline": "Opinion | Antitrust Lays an Egg",
-    "link": "https://www.wsj.com/opinion/antitrust-lays-an-egg-e875fc82?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/opinion/antitrust-lays-an-egg-e875fc82?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-09-22-21-23-00 +0000"
   },
   {
     "headline": "Opinion | Antitrust Lays an Egg",
-    "link": "https://www.wsj.com/opinion/antitrust-lays-an-egg-e875fc82?mod=rss_usnews",
+    "link": "https://www.wsj.com/opinion/antitrust-lays-an-egg-e875fc82?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-22-21-23-00 +0000"
   },
@@ -1333,13 +1333,13 @@
   },
   {
     "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-415ce2e2?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-415ce2e2?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-09-22-20-57-00 +0000"
   },
   {
     "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-415ce2e2?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-415ce2e2?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-22-20-57-00 +0000"
   },
@@ -1435,13 +1435,13 @@
   },
   {
     "headline": "Trump Weighs Diesel Export Ban as Fuel Prices Soar",
-    "link": "https://www.wsj.com/business/energy-oil/trump-weighs-diesel-export-ban-as-fuel-prices-soar-6d1a3d2e?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/energy-oil/trump-weighs-diesel-export-ban-as-fuel-prices-soar-6d1a3d2e?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-09-22-20-34-00 +0000"
   },
   {
     "headline": "Trump Weighs Diesel Export Ban as Fuel Prices Soar",
-    "link": "https://www.wsj.com/business/energy-oil/trump-weighs-diesel-export-ban-as-fuel-prices-soar-6d1a3d2e?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/energy-oil/trump-weighs-diesel-export-ban-as-fuel-prices-soar-6d1a3d2e?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-22-20-34-00 +0000"
   },
@@ -3126,34 +3126,16 @@
     "pubdate": "2026-09-22-10-00-10 +0000"
   },
   {
-    "headline": "The unexpected toll of searching endlessly for a new job",
-    "link": "https://www.washingtonpost.com/business/2026/09/22/what-endlessly-searching-job-can-do-your-mind/",
-    "source": "wapo",
-    "pubdate": "2026-09-22-10-00-01 +0000"
-  },
-  {
     "headline": "Bear encounters are rising across the United States. Here’s why.",
     "link": "https://www.washingtonpost.com/nation/2026/09/22/bear-encounters-are-rising-across-united-states-heres-why/",
     "source": "wapo",
     "pubdate": "2026-09-22-10-00-01 +0000"
   },
   {
-    "headline": "How iPhone users can file to get up to $95 from a $250-million settlement",
-    "link": "https://www.latimes.com/business/story/2026-09-22/how-iphone-users-can-file-to-get-up-to-95",
-    "source": "latimes",
-    "pubdate": "2026-09-22-10-00-00 +0000"
-  },
-  {
-    "headline": "Costa Mesa approves Fairview Development Center project",
-    "link": "https://www.latimes.com/business/story/2026-09-22/costa-mesa-approves-fairview-development-center-project",
-    "source": "latimes",
-    "pubdate": "2026-09-22-10-00-00 +0000"
-  },
-  {
-    "headline": "Downtown offices find new life as housing. The harder conversions come next.",
-    "link": "https://www.startribune.com/minneapolis-st-paul-seeing-early-success-with-downtown-office-spaces-converted-to-housing/601877119",
-    "source": "startribune",
-    "pubdate": "2026-09-22-10-00-00 +0000"
+    "headline": "The unexpected toll of searching endlessly for a new job",
+    "link": "https://www.washingtonpost.com/business/2026/09/22/what-endlessly-searching-job-can-do-your-mind/",
+    "source": "wapo",
+    "pubdate": "2026-09-22-10-00-01 +0000"
   },
   {
     "headline": "This major California river has gotten too warm for its salmon",
@@ -3186,6 +3168,24 @@
     "pubdate": "2026-09-22-10-00-00 +0000"
   },
   {
+    "headline": "Downtown offices find new life as housing. The harder conversions come next.",
+    "link": "https://www.startribune.com/minneapolis-st-paul-seeing-early-success-with-downtown-office-spaces-converted-to-housing/601877119",
+    "source": "startribune",
+    "pubdate": "2026-09-22-10-00-00 +0000"
+  },
+  {
+    "headline": "How iPhone users can file to get up to $95 from a $250-million settlement",
+    "link": "https://www.latimes.com/business/story/2026-09-22/how-iphone-users-can-file-to-get-up-to-95",
+    "source": "latimes",
+    "pubdate": "2026-09-22-10-00-00 +0000"
+  },
+  {
+    "headline": "Costa Mesa approves Fairview Development Center project",
+    "link": "https://www.latimes.com/business/story/2026-09-22/costa-mesa-approves-fairview-development-center-project",
+    "source": "latimes",
+    "pubdate": "2026-09-22-10-00-00 +0000"
+  },
+  {
     "headline": "Trump’s U.N. Speech and China Talks Put Tariffs, AI and Energy in Focus",
     "link": "https://www.wsj.com/articles/trumps-u-n-speech-and-china-talks-put-tariffs-ai-and-energy-in-focus-36a90be6?mod=pls_whats_news_us_business_f",
     "source": "wsj",
@@ -3210,14 +3210,8 @@
     "pubdate": "2026-09-22-09-31-48 +0000"
   },
   {
-    "headline": "Caviar Is Getting So Cheap You Could Serve It to a Toddler",
-    "link": "https://www.wsj.com/style/fashion/discount-caviar-is-everywhereand-the-luxury-food-is-having-an-identity-crisis-17f49cf6?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-22-09-30-00 +0000"
-  },
-  {
-    "headline": "Khosla Ventures Taps Ex-OpenAI Executive Tal Broda for Infrastructure Investing",
-    "link": "https://www.wsj.com/pro/venture-capital/khosla-ventures-taps-ex-openai-executive-tal-broda-for-infrastructure-investing-bda570b6?mod=pls_whats_news_us_business_f",
+    "headline": "The California Surf Spot With Epic Waves—and Rusty Metal Spikes",
+    "link": "https://www.wsj.com/us-news/the-california-surf-spot-with-epic-wavesand-rusty-metal-spikes-f1159b30?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-09-22-09-30-00 +0000"
   },
@@ -3228,8 +3222,14 @@
     "pubdate": "2026-09-22-09-30-00 +0000"
   },
   {
-    "headline": "The California Surf Spot With Epic Waves—and Rusty Metal Spikes",
-    "link": "https://www.wsj.com/us-news/the-california-surf-spot-with-epic-wavesand-rusty-metal-spikes-f1159b30?mod=rss_usnews",
+    "headline": "Caviar Is Getting So Cheap You Could Serve It to a Toddler",
+    "link": "https://www.wsj.com/style/fashion/discount-caviar-is-everywhereand-the-luxury-food-is-having-an-identity-crisis-17f49cf6?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-22-09-30-00 +0000"
+  },
+  {
+    "headline": "Khosla Ventures Taps Ex-OpenAI Executive Tal Broda for Infrastructure Investing",
+    "link": "https://www.wsj.com/pro/venture-capital/khosla-ventures-taps-ex-openai-executive-tal-broda-for-infrastructure-investing-bda570b6?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-22-09-30-00 +0000"
   },
@@ -3397,13 +3397,13 @@
   },
   {
     "headline": "Smiths Group Shares Rise After Better-Than-Expected Results",
-    "link": "https://www.wsj.com/business/earnings/smiths-group-shares-rise-after-better-than-expected-results-f3fb3473?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/earnings/smiths-group-shares-rise-after-better-than-expected-results-f3fb3473?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-09-22-08-02-00 +0000"
   },
   {
     "headline": "Smiths Group Shares Rise After Better-Than-Expected Results",
-    "link": "https://www.wsj.com/business/earnings/smiths-group-shares-rise-after-better-than-expected-results-f3fb3473?mod=rss_markets_main",
+    "link": "https://www.wsj.com/business/earnings/smiths-group-shares-rise-after-better-than-expected-results-f3fb3473?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-22-08-02-00 +0000"
   },
@@ -3478,17 +3478,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-22-05-58-35 +0000"
-  },
-  {
-    "headline": "Rising fuel prices 'cost tow truck business £10k'",
-    "link": "https://www.bbc.co.uk/news/articles/cxp845vnpv27o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-22-05-24-01 +0000"
-  },
-  {
-    "headline": "Soaring fuel costs hit small businesses",
-    "link": "https://www.bbc.co.uk/news/articles/c8qlwp7q9662o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-22-05-05-41 +0000"
   }
 ]
