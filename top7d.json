@@ -1,62 +1,55 @@
 [
   {
-    "score": 491,
+    "score": 480,
     "pubdate": "2026-09-23-02-24-00 +0000",
     "source": "wsj",
     "headline": "President Trump labeled himself a man of peace while threatening to “annihilate” Iran and wield American power against other nations, in a speech to the United Nations",
     "link": "https://www.wsj.com/politics/policy/trump-tells-u-n-he-is-confronting-world-threats-and-putting-america-first-5fe48626?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 239,
-    "pubdate": "2026-09-22-17-18-23 +0000",
-    "source": "wapo",
-    "headline": "Trump pledges to open new Arctic military bases as he signs Greenland deal",
-    "link": "https://www.washingtonpost.com/national-security/2026/09/22/trump-pledges-open-new-arctic-military-bases-he-signs-greenland-deal/"
-  },
-  {
-    "score": 194,
-    "pubdate": "2026-09-23-17-37-43 +0000",
-    "source": "nypost",
-    "headline": "Energy Secretary Chris Wright rejects outright diesel exports ban; White House slams Politico report as ‘fake news’",
-    "link": "https://nypost.com/2026/09/23/business/us-energy-secretary-chris-wright-rejects-diesel-exports-ban/"
-  },
-  {
-    "score": 183,
-    "pubdate": "2026-09-21-05-50-56 +0000",
-    "source": "bbc",
-    "headline": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-    "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 181,
+    "score": 236,
     "pubdate": "2026-09-22-20-10-43 +0000",
     "source": "nyt",
     "headline": "Zelensky Says He Hopes Trump Will Help to End Russia-Ukraine War ‘Before Winter’",
     "link": "https://www.nytimes.com/2026/09/22/world/europe/zelensky-trump-war-russia.html"
   },
   {
-    "score": 145,
+    "score": 234,
     "pubdate": "2026-09-21-04-00-38 +0000",
     "source": "bbc",
     "headline": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
     "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 144,
-    "pubdate": "2026-09-19-00-26-16 +0000",
+    "score": 201,
+    "pubdate": "2026-09-23-17-37-43 +0000",
+    "source": "nypost",
+    "headline": "Energy Secretary Chris Wright rejects outright diesel exports ban; White House slams Politico report as ‘fake news’",
+    "link": "https://nypost.com/2026/09/23/business/us-energy-secretary-chris-wright-rejects-diesel-exports-ban/"
+  },
+  {
+    "score": 178,
+    "pubdate": "2026-09-23-13-53-50 +0000",
+    "source": "nypost",
+    "headline": "China lays out ‘red lines’ for Trump-Xi meeting as GOP lawmaker criticizes ‘lavish welcome’",
+    "link": "https://nypost.com/2026/09/23/us-news/china-lays-out-red-lines-for-trump-xi-meeting-as-gop-lawmaker-criticizes-lavish-welcome/"
+  },
+  {
+    "score": 175,
+    "pubdate": "2026-09-23-01-10-41 +0000",
     "source": "latimes",
-    "headline": "Paramount-California settlement talks accelerate, moving Warner Bros. merger closer to the finish line",
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-18/paramount-california-settlement-talks-where-things-stand-now"
+    "headline": "California deal on Paramount-Warner Bros. merger spurs frustration, questions about political pressure",
+    "link": "https://www.latimes.com/politics/story/2026-09-22/california-deal-on-paramount-warner-bros-merger-spurs-frustration"
   },
   {
     "score": 133,
-    "pubdate": "2026-09-21-20-25-00 +0000",
-    "source": "wsj",
-    "headline": "Republican lawmakers are running out of time to assuage voters angry about soaring fuel costs—an issue many see as the GOP’s biggest political liability in the midterms",
-    "link": "https://www.wsj.com/politics/elections/republicans-running-out-of-time-on-lowering-diesel-gas-prices-before-midterms-51b9d1fe?mod=rss_socialpoliticsfeed"
+    "pubdate": "2026-09-16-22-06-41 +0000",
+    "source": "chitri",
+    "headline": "Recent AI worries behind Gary mayor’s one-year halt on data centers",
+    "link": "https://www.chicagotribune.com/2026/09/16/gary-mayor-halt-data-centers/"
   },
   {
-    "score": 117,
+    "score": 124,
     "pubdate": "2026-09-23-10-56-00 +0000",
     "source": "wsj",
     "headline": "Kamala Harris was campaigning alongside Abdul El-Sayed, who is running for the U.S. Senate in Michigan. If she helps him, could she help others? Read more in today’s WSJ Politics Newsletter:",
@@ -68,5 +61,12 @@
     "source": "chitri",
     "headline": "‘You should not be here,’ President Trump tells CNN reporter at UN as standoff with media outlets persists",
     "link": "https://www.chicagotribune.com/2026/09/22/trump-cnn-media-standoff/"
+  },
+  {
+    "score": 104,
+    "pubdate": "2026-09-23-17-58-27 +0000",
+    "source": "nypost",
+    "headline": "Son of Israel’s US ambassador injured in West Bank terror attack on eve of Netanyahu General Assembly speech",
+    "link": "https://nypost.com/2026/09/23/world-news/son-of-israels-us-ambassador-injured-in-west-bank-terror-attack-on-eve-of-netanyahu-general-assembly-speech/"
   }
 ]
