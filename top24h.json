@@ -1,31 +1,38 @@
 [
   {
-    "score": 287,
+    "score": 279,
     "pubdate": "2026-09-23-22-22-13 +0000",
     "source": "chitri",
     "headline": "China’s President Xi arrives in Washington, kicking off his state visit with rare planeside welcome from Trump",
     "link": "https://www.chicagotribune.com/2026/09/23/china-xi-jinping-washington-state-visit/"
   },
   {
-    "score": 128,
+    "score": 125,
     "pubdate": "2026-09-24-07-03-29 +0000",
     "source": "nypost",
     "headline": "Judge blocks Trump’s White House ban on CNN, MS NOW and Politico, orders access restored",
     "link": "https://nypost.com/2026/09/24/us-news/judge-blocks-trumps-white-house-media-ban-orders-access-to-be-restored/"
   },
   {
-    "score": 126,
+    "score": 123,
     "pubdate": "2026-09-24-10-00-00 +0000",
     "source": "latimes",
     "headline": "High cost of living tops voter concerns, Becerra remains front-runner in governor's race, new poll shows",
     "link": "https://www.latimes.com/california/story/2026-09-24/high-cost-of-living-tops-voter-concerns-becerra-remains-front-runner-in-governors-race-new-poll-shows"
   },
   {
-    "score": 112,
+    "score": 116,
     "pubdate": "2026-09-23-17-04-19 +0000",
     "source": "nypost",
     "headline": "Trump’s Board of Peace announces $2.45B first-phase recovery plan for Gaza — here’s how the funds will be used",
     "link": "https://nypost.com/2026/09/23/us-news/trumps-board-of-peace-announces-2-45b-first-phase-recovery-plan-for-gaza-heres-how-the-funds-will-be-used/"
+  },
+  {
+    "score": 100,
+    "pubdate": "2026-09-24-00-43-00 +0000",
+    "source": "wsj",
+    "headline": "The last time Venezuelan leader Delcy Rodríguez addressed the U.N. General Assembly, she was Nicolás Maduro’s vice president. This time, she praised oil deals and smiled with the president who ordered Maduro’s arrest.",
+    "link": "https://www.wsj.com/world/americas/u-n-visit-spotlights-delcy-rodriguezs-turn-from-maduro-deputy-to-trump-ally-3fcc494d?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 95,
@@ -35,14 +42,7 @@
     "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-38c5e191?mod=rss_worldnews"
   },
   {
-    "score": 94,
-    "pubdate": "2026-09-24-00-43-00 +0000",
-    "source": "wsj",
-    "headline": "The last time Venezuelan leader Delcy Rodríguez addressed the U.N. General Assembly, she was Nicolás Maduro’s vice president. This time, she praised oil deals and smiled with the president who ordered Maduro’s arrest.",
-    "link": "https://www.wsj.com/world/americas/u-n-visit-spotlights-delcy-rodriguezs-turn-from-maduro-deputy-to-trump-ally-3fcc494d?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 91,
+    "score": 90,
     "pubdate": "2026-09-23-14-44-03 +0000",
     "source": "wapo",
     "headline": "Another U.S. service member dies amid Iran war, Pentagon tally shows",
@@ -56,17 +56,17 @@
     "link": "https://nypost.com/2026/09/24/health/i-stripped-down-for-a-499-health-scan-was-it-worth-it/"
   },
   {
-    "score": 64,
+    "score": 66,
     "pubdate": "2026-09-24-09-02-43 +0000",
     "source": "nyt",
     "headline": "Abortion Pills, Vaccines and Food Safety: F.D.A. Nominee Heidi Overton Faces Senate Confirmation Hearing",
     "link": "https://www.nytimes.com/2026/09/24/us/heidi-overton-fda.html"
   },
   {
-    "score": 64,
-    "pubdate": "2026-09-23-20-45-00 +0000",
-    "source": "wsj",
-    "headline": "Canada’s Carney Open to U.S. Trade Deal but Won’t Give Up Right to Deepen EU Ties",
-    "link": "https://www.wsj.com/world/europe/canadas-carney-open-to-u-s-trade-deal-but-wont-give-up-right-to-deepen-eu-ties-9b08a792?mod=rss_worldnews"
+    "score": 62,
+    "pubdate": "2026-09-24-11-36-59 +0000",
+    "source": "nypost",
+    "headline": "Eight sailors in USS Abraham Lincoln strike group attempted suicide during record deployment, Pentagon confirms",
+    "link": "https://nypost.com/2026/09/24/us-news/eight-sailors-in-uss-abraham-lincoln-strike-group-attempted-suicide-during-record-deployment-pentagon-confirms/"
   }
 ]
