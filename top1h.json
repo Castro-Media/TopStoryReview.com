@@ -1,9 +1,72 @@
 [
   {
-    "score": 7,
-    "pubdate": "2026-09-24-12-57-17 +0000",
+    "score": 33,
+    "pubdate": "2026-09-24-14-27-00 +0000",
+    "source": "wsj",
+    "headline": "A federal judge ordered President Trump to restore White House access for CNN, MS NOW and Politico journalists",
+    "link": "https://www.wsj.com/politics/policy/judge-orders-trump-to-lift-ban-on-cnn-ms-now-politico-475e56d4?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-24-14-29-06 +0000",
     "source": "nyt",
-    "headline": "U.N. Live Updates: Abbas and Netanyahu to Deliver Dueling Speeches",
-    "link": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news"
+    "headline": "Far-Right Activist Danny Tommo Arrested After Slashing Dinghy in English Channel",
+    "link": "https://www.nytimes.com/2026/09/24/world/europe/danny-tommo-arrested-uk-migrants-far-right.html"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-24-14-07-06 +0000",
+    "source": "bbc",
+    "headline": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+    "link": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-24-14-38-47 +0000",
+    "source": "nyt",
+    "headline": "Son of Israeli Ambassador to U.S. Critically Hurt in West Bank Attack, Officials Say",
+    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/israel-ambassador-leiter-son-west-bank-attack.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-24-14-07-15 +0000",
+    "source": "nypost",
+    "headline": "Thousands of California homeowners slammed with bogus trash charges as city council blames the mayor: ‘He needs to step down’",
+    "link": "https://nypost.com/2026/09/24/us-news/san-diego-property-tax-bill-trash-fee-overcharge-affects-90000-homeowners/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-24-14-03-13 +0000",
+    "source": "nyt",
+    "headline": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
+    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-24-14-55-58 +0000",
+    "source": "nypost",
+    "headline": "Holdout Lindsay Clancy juror’s attorney slams killer mom as ‘demon,’ insists client ‘was standing up to evil’",
+    "link": "https://nypost.com/2026/09/24/us-news/lindsay-clancy-juror-michael-desronvils-attorney-rips-mom-as-demon/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-24-14-52-18 +0000",
+    "source": "nyt",
+    "headline": "Forced Eviction of 87-Year-Old Woman Spurs Outrage in Spain",
+    "link": "https://www.nytimes.com/2026/09/24/world/europe/spain-eviction-sanchez.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-24-14-00-00 +0000",
+    "source": "nypost",
+    "headline": "Iconic Beverly Hills hotel sues over $600K booking ‘ghosting’ that left dozens of rooms empty during World Cup",
+    "link": "https://nypost.com/2026/09/24/us-news/beverly-wilshire-sues-vip-host-over-world-cup-cancellations/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-24-14-13-02 +0000",
+    "source": "nyt",
+    "headline": "Police in Poland Arrest Ukrainian Citizen Over Fatal Stabbing",
+    "link": "https://www.nytimes.com/2026/09/24/world/europe/poland-stabbing-ukrainian-attacker.html"
   }
 ]
