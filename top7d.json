@@ -15,10 +15,17 @@
   },
   {
     "score": 193,
-    "pubdate": "2026-09-24-15-34-51 +0000",
-    "source": "chitri",
-    "headline": "President Trump lays out the pomp for President Xi but says little about the significant tensions in US-China relations",
-    "link": "https://www.chicagotribune.com/2026/09/24/donald-trump-xi-jinping-china-state-visit/"
+    "pubdate": "2026-09-25-02-16-00 +0000",
+    "source": "wsj",
+    "headline": "The White House said it was restoring access to reporters from CNN, MS NOW and Politico after a federal judge lifted a ban that President Trump had imposed",
+    "link": "https://www.wsj.com/politics/policy/judge-orders-trump-to-lift-ban-on-cnn-ms-now-politico-475e56d4?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 180,
+    "pubdate": "2026-09-24-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "The AI build-out is making history, dwarfing the spending for U.S. canals, railways, and grid combined. It’s creating jobs and wealth while boosting inflation and crowding out housing.",
+    "link": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd?mod=rss_socialeconomyfeed"
   },
   {
     "score": 162,
@@ -28,7 +35,7 @@
     "link": "https://missionlocal.org/2026/09/san-francisco-school-board-race-dueling-slates/"
   },
   {
-    "score": 162,
+    "score": 148,
     "pubdate": "2026-09-24-17-55-37 +0000",
     "source": "latimes",
     "headline": "Ballot seizure by Riverside County sheriff was 'unlawful,' California Supreme Court rules",
@@ -42,31 +49,24 @@
     "link": "https://www.wsj.com/world/europe/canadas-carney-open-to-u-s-trade-deal-but-wont-give-up-right-to-deepen-eu-ties-9b08a792?mod=rss_worldnews"
   },
   {
-    "score": 136,
-    "pubdate": "2026-09-24-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "Oil executives and their lobbyists launched a coordinated contingency plan to persuade the Trump administration not to enact a ban on U.S. diesel exports",
-    "link": "https://www.wsj.com/politics/policy/behind-the-oil-and-gas-industrys-blitz-to-try-to-defeat-a-diesel-export-ban-4e64d7f5?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 135,
-    "pubdate": "2026-09-24-11-22-00 +0000",
-    "source": "wsj",
-    "headline": "The Morning Risk Report: The Group Chat Where World Leaders Are Racing to Create AI Controls",
-    "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-38c5e191?mod=rss_worldnews"
-  },
-  {
-    "score": 133,
-    "pubdate": "2026-09-24-18-53-54 +0000",
-    "source": "nypost",
-    "headline": "Netanyahu accuses Mamdani of making NYC unsafe for Jews in UN General Assembly speech",
-    "link": "https://nypost.com/2026/09/24/us-news/israeli-pm-accuses-zohran-mamdani-of-making-nyc-unsafe-for-jews/"
-  },
-  {
     "score": 131,
     "pubdate": "2026-09-24-16-00-00 +0000",
     "source": "wsj",
     "headline": "Average 30-year mortgage rates hit 7.03% this week, the first time they have surpassed 7% since the beginning of last year",
     "link": "https://www.wsj.com/economy/housing/mortgage-rates-just-hit-7-heres-how-the-housing-market-is-about-to-change-35986dc6?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 129,
+    "pubdate": "2026-09-25-00-44-04 +0000",
+    "source": "bbc",
+    "headline": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+    "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 105,
+    "pubdate": "2026-09-23-18-24-00 +0000",
+    "source": "wsj",
+    "headline": "The balance of power in the Senate is on the line in the 2026 elections. Our tracker digs into the most competitive and emerging Senate battlegrounds.",
+    "link": "https://www.wsj.com/politics/elections/senate-seats-2026-midterm-election-tracker-04778377?mod=rss_socialpoliticsfeed"
   }
 ]
