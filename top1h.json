@@ -1,9 +1,72 @@
 [
   {
+    "score": 16,
+    "pubdate": "2026-09-25-04-46-37 +0000",
+    "source": "nyt",
+    "headline": "Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday",
+    "link": "https://www.nytimes.com/2026/09/25/world/europe/cambridge-jason-arday-investigation.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-25-04-25-00 +0000",
+    "source": "wsj",
+    "headline": "Asian Bond Yields Rise Despite Oil Decline as Caution Reigns",
+    "link": "https://www.wsj.com/finance/stocks/asian-bond-yields-rise-despite-oil-decline-as-caution-reigns-956be482?mod=rss_markets_main"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-25-04-01-06 +0000",
+    "source": "nyt",
+    "headline": "Leo XIV, Trying to Be Everyone’s Pope, Heads to Secular France",
+    "link": "https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-25-04-29-00 +0000",
+    "source": "nypost",
+    "headline": "Trump gifts Xi a bald eagle sculpture — invites him to tour new ballroom — at White House state dinner",
+    "link": "https://nypost.com/2026/09/25/us-news/trump-gifts-xi-a-bald-eagle-sculpture-invites-him-to-tour-new-ballroom-at-white-house-state-dinner/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-09-25-04-02-54 +0000",
+    "source": "bbc",
+    "headline": "British rapper Yung Filly to face rape retrial in Australia next June",
+    "link": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-09-25-04-17-00 +0000",
+    "source": "wsj",
+    "headline": "Singapore Dollar Consolidates; Fed Rate-Hike Prospects Could Weigh",
+    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-treasury-yields-hit-new-highs-50a63fb4?mod=rss_markets_main"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-09-25-04-07-54 +0000",
+    "source": "nypost",
+    "headline": "Mayor Mamdani to join NYC broadcast of ‘Jimmy Kimmel Live!’",
+    "link": "https://nypost.com/2026/09/25/us-news/mamdani-to-join-nyc-broadcast-of-jimmy-kimmel-live/"
+  },
+  {
     "score": 7,
     "pubdate": "2026-09-25-10-00-00 +0000",
     "source": "startribune",
     "headline": "Brehm: Minneapolis needs to eliminate addiction. Instead, it’s enabling it.",
     "link": "https://www.startribune.com/brehm-minneapolis-needs-to-eliminate-addiction-instead-its-enabling-it/601893230"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-09-25-04-23-00 +0000",
+    "source": "wsj",
+    "headline": "Trump Expressed Concerns About Yen Weakness, Japan Finance Minister Says",
+    "link": "https://www.wsj.com/finance/currencies/trump-expressed-concerns-about-yen-weakness-japan-finance-minister-says-59dee203?mod=rss_markets_main"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-09-25-04-15-00 +0000",
+    "source": "wsj",
+    "headline": "WTI Eases Toward $93 as Hopes for U.S.-Iran Talks Return",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-pulls-back-as-cautious-hopes-compete-with-escalation-d3308b21?mod=rss_markets_main"
   }
 ]
