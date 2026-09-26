@@ -1,20 +1,20 @@
 [
   {
-    "score": 246,
+    "score": 242,
     "pubdate": "2026-09-25-17-42-00 +0000",
     "source": "wsj",
     "headline": "President Trump hosted an elaborate state dinner Thursday honoring Chinese leader Xi Jinping in the East Room of the White House",
     "link": "https://www.wsj.com/politics/policy/trump-xi-dinner-who-was-there-1bbcec0b?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 131,
+    "score": 121,
     "pubdate": "2026-09-25-16-36-14 +0000",
     "source": "nypost",
     "headline": "Supreme Court lets Trump admin use federal database to check voter status, reversing lower court",
     "link": "https://nypost.com/2026/09/25/us-news/supreme-court-lets-trump-admin-use-federal-database-to-check-citizenship-reversing-lower-court/"
   },
   {
-    "score": 96,
+    "score": 94,
     "pubdate": "2026-09-26-01-13-24 +0000",
     "source": "nypost",
     "headline": "Trump rejects Iran’s seven-day cease-fire proposal – new airstrikes ‘likely’ after midterm elections: report",
@@ -43,24 +43,17 @@
   },
   {
     "score": 57,
-    "pubdate": "2026-09-25-15-49-16 +0000",
-    "source": "chitri",
-    "headline": "Chicago City Council approves campaign ethics tweaks as election season heats up",
-    "link": "https://www.chicagotribune.com/2026/09/25/chicago-city-council-campaign-ethics-tweaks/"
-  },
-  {
-    "score": 57,
     "pubdate": "2026-09-25-10-00-01 +0000",
     "source": "wapo",
     "headline": "How China is conquering high-tech markets once controlled by the West",
     "link": "https://www.washingtonpost.com/business/2026/09/25/how-china-is-conquering-high-tech-markets-once-controlled-by-west/"
   },
   {
-    "score": 53,
-    "pubdate": "2026-09-25-01-27-10 +0000",
-    "source": "bbc",
-    "headline": "The world’s two most powerful men just met. How did it go?",
-    "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss"
+    "score": 57,
+    "pubdate": "2026-09-25-15-49-16 +0000",
+    "source": "chitri",
+    "headline": "Chicago City Council approves campaign ethics tweaks as election season heats up",
+    "link": "https://www.chicagotribune.com/2026/09/25/chicago-city-council-campaign-ethics-tweaks/"
   },
   {
     "score": 52,
@@ -68,5 +61,12 @@
     "source": "wapo",
     "headline": "Pentagon quietly adds dozens to tally of troops wounded amid Iran war",
     "link": "https://www.washingtonpost.com/national-security/2026/09/25/pentagon-quietly-adds-dozens-tally-troops-wounded-amid-iran-war/"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-09-25-09-30-00 +0000",
+    "source": "wsj",
+    "headline": "Cracks in Oracle’s AI Data-Center Build-Out Appear in Massive New Mexico Project",
+    "link": "https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2?mod=rss_markets_main"
   }
 ]
