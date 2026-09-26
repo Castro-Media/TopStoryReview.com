@@ -1,10 +1,17 @@
 [
   {
-    "score": 290,
+    "score": 299,
     "pubdate": "2026-09-26-01-50-38 +0000",
     "source": "nypost",
     "headline": "Trump rejects Iran’s 7-day cease-fire proposal, new airstrikes ‘likely’ after midterms —as he posts map of ‘Trump Strait’: report",
     "link": "https://nypost.com/2026/09/25/us-news/trump-rejects-irans-seven-day-cease-fire-proposal-expects-airstrikes-to-resume-after-midterm-elections-report/"
+  },
+  {
+    "score": 123,
+    "pubdate": "2026-09-25-16-36-14 +0000",
+    "source": "nypost",
+    "headline": "Supreme Court lets Trump admin use federal database to check voter status, reversing lower court",
+    "link": "https://nypost.com/2026/09/25/us-news/supreme-court-lets-trump-admin-use-federal-database-to-check-citizenship-reversing-lower-court/"
   },
   {
     "score": 122,
@@ -14,14 +21,7 @@
     "link": "https://www.wsj.com/politics/policy/trump-xi-dinner-who-was-there-1bbcec0b?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 121,
-    "pubdate": "2026-09-25-16-36-14 +0000",
-    "source": "nypost",
-    "headline": "Supreme Court lets Trump admin use federal database to check voter status, reversing lower court",
-    "link": "https://nypost.com/2026/09/25/us-news/supreme-court-lets-trump-admin-use-federal-database-to-check-citizenship-reversing-lower-court/"
-  },
-  {
-    "score": 87,
+    "score": 88,
     "pubdate": "2026-09-26-01-40-00 +0000",
     "source": "wsj",
     "headline": "CNN said it was pulled from a planned trip with President Trump for Saturday, the second time in less than a week that the news network was barred from a scheduled rotation in the TV press pool",
@@ -35,7 +35,7 @@
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-25-2026?mod=rss_markets_main"
   },
   {
-    "score": 60,
+    "score": 59,
     "pubdate": "2026-09-25-10-00-01 +0000",
     "source": "wapo",
     "headline": "How China is conquering high-tech markets once controlled by the West",
@@ -49,18 +49,11 @@
     "link": "https://nypost.com/2026/09/25/us-news/tulare-county-board-meeting-erupts-over-proposed-ai-data-centers/"
   },
   {
-    "score": 57,
+    "score": 58,
     "pubdate": "2026-09-25-15-49-16 +0000",
     "source": "chitri",
     "headline": "Chicago City Council approves campaign ethics tweaks as election season heats up",
     "link": "https://www.chicagotribune.com/2026/09/25/chicago-city-council-campaign-ethics-tweaks/"
-  },
-  {
-    "score": 52,
-    "pubdate": "2026-09-25-09-14-34 +0000",
-    "source": "nypost",
-    "headline": "Miss Jamaica sues Miss Universe after brutal stage fall left her with brain injury and ‘permanently altered’ her life",
-    "link": "https://nypost.com/2026/09/25/world-news/miss-jamaica-sues-miss-universe-as-she-claims-brutal-stage-fall-permanently-altered-her-life/"
   },
   {
     "score": 51,
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Pope warns against 'losing humanity' to AI machines",
     "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-09-25-09-14-34 +0000",
+    "source": "nypost",
+    "headline": "Miss Jamaica sues Miss Universe after brutal stage fall left her with brain injury and ‘permanently altered’ her life",
+    "link": "https://nypost.com/2026/09/25/world-news/miss-jamaica-sues-miss-universe-as-she-claims-brutal-stage-fall-permanently-altered-her-life/"
   }
 ]
