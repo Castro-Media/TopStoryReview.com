@@ -1,41 +1,34 @@
 [
   {
-    "score": 181,
+    "score": 178,
     "pubdate": "2026-09-26-02-27-24 +0000",
     "source": "nypost",
     "headline": "CNN left off Air Force One for Trump’s trip to Tennessee as White House installs new media restriction",
     "link": "https://nypost.com/2026/09/25/us-news/cnn-left-off-air-force-one-for-trumps-trip-to-tennessee-as-white-house-installs-new-media-restriction/"
   },
   {
-    "score": 94,
-    "pubdate": "2026-09-26-14-00-00 +0000",
-    "source": "wsj",
-    "headline": "The Supreme Court on Friday allowed the federal government to deploy its own immigration database to check voters’ citizenship. Here’s what else to expect as the Trump administration pushes to expand its role in elections.",
-    "link": "https://www.wsj.com/politics/policy/how-the-trump-administrations-election-plan-is-falling-into-place-aa991667?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 91,
+    "score": 84,
     "pubdate": "2026-09-25-20-02-20 +0000",
     "source": "nypost",
     "headline": "Trump told China’s Xi that support for Iran was ‘totally unacceptable’: US ambassador",
     "link": "https://nypost.com/2026/09/25/us-news/trump-told-chinas-xi-that-support-for-iran-was-totally-unacceptable-us-ambassador/"
   },
   {
-    "score": 60,
+    "score": 80,
+    "pubdate": "2026-09-25-22-30-36 +0000",
+    "source": "latimes",
+    "headline": "For third time, Supreme Court rejects Missouri's bid for another GOP-leaning House district",
+    "link": "https://www.latimes.com/politics/story/2026-09-25/for-third-time-supreme-court-rejects-missouris-bid-for-another-gop-leaning-house-district"
+  },
+  {
+    "score": 59,
     "pubdate": "2026-09-26-02-36-07 +0000",
     "source": "chitri",
     "headline": "President Trump said he would campaign in midterm battlegrounds. He’s starting in deep red states instead.",
     "link": "https://www.chicagotribune.com/2026/09/25/trump-said-he-would-campaign-in-midterm-battlegrounds-hes-starting-in-deep-red-states-instead/"
   },
   {
-    "score": 56,
-    "pubdate": "2026-09-26-16-00-15 +0000",
-    "source": "cbc",
-    "headline": "Trump rejects Iranian proposal to open Strait of Hormuz and end fighting",
-    "link": "https://www.cbc.ca/news/world/trump-rejects-iran-proposal-open-strait-of-hormuz-9.7359743?cmp=rss"
-  },
-  {
-    "score": 52,
+    "score": 54,
     "pubdate": "2026-09-26-14-24-32 +0000",
     "source": "nypost",
     "headline": "Russian attacks kill 4 across Ukraine days after Zelensky’s UN plea for help ending war",
@@ -43,10 +36,10 @@
   },
   {
     "score": 49,
-    "pubdate": "2026-09-26-15-12-25 +0000",
-    "source": "bbc",
-    "headline": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-    "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-09-26-14-00-00 +0000",
+    "source": "wsj",
+    "headline": "The Supreme Court on Friday allowed the federal government to deploy its own immigration database to check voters’ citizenship. Here’s what else to expect as the Trump administration pushes to expand its role in elections.",
+    "link": "https://www.wsj.com/politics/policy/how-the-trump-administrations-election-plan-is-falling-into-place-aa991667?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 49,
@@ -56,17 +49,24 @@
     "link": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html"
   },
   {
-    "score": 43,
-    "pubdate": "2026-09-25-18-36-09 +0000",
-    "source": "nypost",
-    "headline": "Costco to land in yet another California city in just weeks — amid nationwide expansion surge",
-    "link": "https://nypost.com/2026/09/25/business/new-norcal-costco-in-vallejo-to-open-this-fall-amid-us-expansion/"
+    "score": 46,
+    "pubdate": "2026-09-26-15-12-25 +0000",
+    "source": "bbc",
+    "headline": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 44,
+    "pubdate": "2026-09-26-14-05-01 +0000",
+    "source": "cbc",
+    "headline": "Hundreds of thousands turn out for Pope Leo along Champs-Élysées ahead of mass in Paris",
+    "link": "https://www.cbc.ca/news/world/pope-leo-parade-champs-elysees-paris-9.7359668?cmp=rss"
   },
   {
     "score": 43,
-    "pubdate": "2026-09-26-01-24-31 +0000",
-    "source": "bbc",
-    "headline": "Black woman found hanging from tree was dead before body was 'staged', police say",
-    "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-09-26-16-30-10 +0000",
+    "source": "nyt",
+    "headline": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
   }
 ]
