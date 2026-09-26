@@ -1,6 +1,6 @@
 [
   {
-    "score": 228,
+    "score": 224,
     "pubdate": "2026-09-26-02-27-24 +0000",
     "source": "nypost",
     "headline": "CNN left off Air Force One for Trump’s trip to Tennessee as White House installs new media restriction",
@@ -21,13 +21,6 @@
     "link": "https://www.chicagotribune.com/2026/09/25/donald-trump-state-dinner-xi-jinping/"
   },
   {
-    "score": 82,
-    "pubdate": "2026-09-25-19-42-00 +0000",
-    "source": "wsj",
-    "headline": "Iran War Is Driving Up the Cost of Your Next Oil Change",
-    "link": "https://www.wsj.com/business/retail/iran-war-is-driving-up-the-cost-of-your-next-oil-change-b254bfb1?mod=pls_whats_news_us_business_f"
-  },
-  {
     "score": 81,
     "pubdate": "2026-09-26-01-24-31 +0000",
     "source": "bbc",
@@ -35,7 +28,14 @@
     "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 65,
+    "score": 81,
+    "pubdate": "2026-09-25-19-42-00 +0000",
+    "source": "wsj",
+    "headline": "Iran War Is Driving Up the Cost of Your Next Oil Change",
+    "link": "https://www.wsj.com/business/retail/iran-war-is-driving-up-the-cost-of-your-next-oil-change-b254bfb1?mod=pls_whats_news_us_business_f"
+  },
+  {
+    "score": 62,
     "pubdate": "2026-09-25-18-52-04 +0000",
     "source": "nypost",
     "headline": "AI ‘doomer’ PR firm worked for Jacob Coxon as he sparked furor over safety while denying third-party help: report",
@@ -63,10 +63,10 @@
     "link": "https://www.washingtonpost.com/business/2026/09/25/how-china-is-conquering-high-tech-markets-once-controlled-by-west/"
   },
   {
-    "score": 50,
-    "pubdate": "2026-09-25-12-40-02 +0000",
-    "source": "chitri",
-    "headline": "Pope Leo XIV warns a ‘paradise of machines’ could undermine humanity as he opens France trip",
-    "link": "https://www.chicagotribune.com/2026/09/25/pope-leo-france-trip-ai/"
+    "score": 48,
+    "pubdate": "2026-09-25-22-30-36 +0000",
+    "source": "latimes",
+    "headline": "For third time, Supreme Court rejects Missouri's bid for another GOP-leaning House district",
+    "link": "https://www.latimes.com/politics/story/2026-09-25/for-third-time-supreme-court-rejects-missouris-bid-for-another-gop-leaning-house-district"
   }
 ]
