@@ -1,9 +1,72 @@
 [
   {
+    "score": 24,
+    "pubdate": "2026-09-26-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "President Trump’s approval rating drops to 37% in a WSJ poll, the lowest of any president heading into a midterm election in Journal polls dating to 1990",
+    "link": "https://www.wsj.com/politics/elections/trump-is-predicting-midterms-success-but-republicans-are-starting-to-panic-439edf97?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-09-26-00-29-35 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Once Again Blocks Republican-Backed Voting Map in Missouri",
+    "link": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-missouri-congressional-map.html"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-26-01-05-34 +0000",
+    "source": "nyt",
+    "headline": "Trump Proposes $810 Million in Education and Health Cuts, Defying Congress",
+    "link": "https://www.nytimes.com/2026/09/25/us/politics/white-house-rescissions-education-and-health-funds.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-26-01-13-24 +0000",
+    "source": "nypost",
+    "headline": "Trump rejects Iran’s seven-day cease-fire proposal – new airstrikes ‘likely’ after midterm elections: report",
+    "link": "https://nypost.com/2026/09/25/us-news/trump-rejects-irans-seven-day-cease-fire-proposal-expects-airstrikes-to-resume-after-midterm-elections-report/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-09-26-00-42-23 +0000",
+    "source": "nyt",
+    "headline": "Supreme Court Ruling Could Have Limited Impact on Voter Screening in Midterms",
+    "link": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-voter-fraud-midterms-impact.html"
+  },
+  {
     "score": 11,
-    "pubdate": "2026-09-25-22-54-40 +0000",
-    "source": "chitri",
-    "headline": "Gov. JB Pritzker names new Illinois Prisoner Review Board executive director",
-    "link": "https://www.chicagotribune.com/2026/09/25/new-illinois-prisoner-review-board-executive-director/"
+    "pubdate": "2026-09-26-01-06-25 +0000",
+    "source": "nypost",
+    "headline": "LA County sales tax increase goes into effect next week: What to know about Measure ER hike",
+    "link": "https://nypost.com/2026/09/25/us-news/la-county-sales-tax-increase-goes-into-effect-oct-1-what-to-know/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-09-26-01-00-00 +0000",
+    "source": "nypost",
+    "headline": "Police K-9 bloodied after sinister felon bites off part of its ear during dangerous takedown",
+    "link": "https://nypost.com/2026/09/25/us-news/socal-police-k-9-loses-part-of-ear-after-barricaded-suspect-bites-dog/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-09-26-00-39-14 +0000",
+    "source": "nypost",
+    "headline": "Iconic Los Angeles Starbucks closing after 30 years as coffee giant shutters another 250 stores",
+    "link": "https://nypost.com/2026/09/25/business/iconic-los-angeles-starbucks-closing-after-30-years/"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-09-26-01-08-22 +0000",
+    "source": "nyt",
+    "headline": "Mississippi Hanging Was Staged After Drug Dispute, Investigators Say",
+    "link": "https://www.nytimes.com/2026/09/25/us/mississippi-tasia-fortune-killing.html"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-09-26-01-05-09 +0000",
+    "source": "nyt",
+    "headline": "A Fatal Stabbing Leaves a Quiet Neighborhood Even Quieter",
+    "link": "https://www.nytimes.com/2026/09/25/us/pittsburgh-doctor-stabbing.html"
   }
 ]
