@@ -1,51 +1,72 @@
 [
   {
-    "score": 20,
-    "pubdate": "2026-09-26-23-47-55 +0000",
+    "score": 30,
+    "pubdate": "2026-09-27-00-57-46 +0000",
+    "source": "nypost",
+    "headline": "Wedding reception for ex-Trump official Alina Habba and Turkish billionaire begins at posh NYC hotel",
+    "link": "https://nypost.com/2026/09/26/us-news/ex-trump-official-alina-habba-weds-turkish-billionaire-at-waldorf-astoria/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-09-27-00-49-11 +0000",
+    "source": "nyt",
+    "headline": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
+    "link": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html"
+  },
+  {
+    "score": 18,
+    "pubdate": "2026-09-27-00-30-52 +0000",
     "source": "nyt",
     "headline": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
     "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html"
   },
   {
-    "score": 16,
-    "pubdate": "2026-09-26-23-41-22 +0000",
-    "source": "nyt",
-    "headline": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
-    "link": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html"
+    "score": 14,
+    "pubdate": "2026-09-27-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "JD Vance’s appeal to dissatisfied Republicans aims to mend fences and rally supporters against Democrats for the midterms—and beyond",
+    "link": "https://www.wsj.com/politics/policy/vance-woos-skeptical-conservatives-with-his-own-take-on-trumps-messaging-aa1ac28f?mod=rss_socialpoliticsfeed"
   },
   {
     "score": 12,
-    "pubdate": "2026-09-26-23-32-23 +0000",
-    "source": "nypost",
-    "headline": "Barber gets sweet sentence after gruesome, real-life ‘Sweeney Todd’ razor attack on customer",
-    "link": "https://nypost.com/2026/09/26/us-news/barber-sentanced-after-real-life-sweeney-todd-razor-attack-on-customer/"
+    "pubdate": "2026-09-27-00-30-00 +0000",
+    "source": "wsj",
+    "headline": "Nevada Is Making Surprising Gains on Solar Energy",
+    "link": "https://www.wsj.com/business/energy-oil/nevada-solar-industry-trump-states-b838c7e4?mod=rss_usnews"
   },
   {
-    "score": 10,
-    "pubdate": "2026-09-26-23-19-54 +0000",
+    "score": 12,
+    "pubdate": "2026-09-27-00-52-12 +0000",
     "source": "nypost",
-    "headline": "Violent nor’easter hammers NYC and surrounding region, leaving 1 dead in carnage",
-    "link": "https://nypost.com/2026/09/26/us-news/violent-noreaster-hammers-nyc-region-leaving-one-dead-in-carnage/"
+    "headline": "Trump’s new superintelligence czar: Here’s who is in the running to lead new AI Force",
+    "link": "https://nypost.com/2026/09/26/us-news/trumps-next-ai-czar-whos-in-the-running-for-the-white-house-post/"
   },
   {
-    "score": 9,
-    "pubdate": "2026-09-26-23-06-18 +0000",
-    "source": "nyt",
-    "headline": "Sunkist Fruit Gems, Staple Candy of Bar Mitzvah Tradition, Are Discontinued",
-    "link": "https://www.nytimes.com/2026/09/25/business/sunkist-fruit-gems-candy-discontinued.html"
+    "score": 8,
+    "pubdate": "2026-09-27-01-00-00 +0000",
+    "source": "wsj",
+    "headline": "Stocks Are Defying Surging Bond Yields. Here’s What History Says Could Come Next.",
+    "link": "https://www.wsj.com/finance/investing/stocks-are-defying-surging-bond-yields-heres-what-history-says-could-come-next-7d13bb2d?mod=rss_markets_main"
+  },
+  {
+    "score": 7,
+    "pubdate": "2026-09-27-01-13-31 +0000",
+    "source": "nypost",
+    "headline": "Helicopter crash in Quebec kills all four people aboard",
+    "link": "https://nypost.com/2026/09/26/world-news/helicopter-crash-in-quebec-kills-all-four-people-aboard/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-09-27-00-42-17 +0000",
+    "source": "nypost",
+    "headline": "Trump to roll back fuel-efficiency rules in boost for automakers",
+    "link": "https://nypost.com/2026/09/26/us-news/trump-to-roll-back-fuel-efficiency-rules-in-boost-automakers/"
   },
   {
     "score": 0,
-    "pubdate": "2026-09-26-23-47-55 +0000",
-    "source": "nyt",
-    "headline": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
-    "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-09-26-23-41-22 +0000",
-    "source": "nyt",
-    "headline": "Carney Seeks New Trade Partners for Canada, But Knows the Limits",
-    "link": "https://www.nytimes.com/2026/09/25/world/canada/carney-canada-european-union-china-india.html"
+    "pubdate": "2026-09-27-00-57-46 +0000",
+    "source": "nypost",
+    "headline": "Wedding reception for ex-Trump official Alina Habba and Turkish billionaire begins at posh NYC hotel",
+    "link": "https://nypost.com/2026/09/26/us-news/ex-trump-official-alina-habba-weds-turkish-billionaire-at-waldorf-astoria/"
   }
 ]
