@@ -1,6 +1,6 @@
 [
   {
-    "score": 96,
+    "score": 90,
     "pubdate": "2026-09-27-00-52-12 +0000",
     "source": "nypost",
     "headline": "Trump’s new superintelligence czar: Here’s who is in the running to lead new AI Force",
@@ -8,17 +8,17 @@
   },
   {
     "score": 54,
-    "pubdate": "2026-09-26-21-02-42 +0000",
-    "source": "nyt",
-    "headline": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
-  },
-  {
-    "score": 54,
     "pubdate": "2026-09-27-00-49-11 +0000",
     "source": "nyt",
     "headline": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
     "link": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html"
+  },
+  {
+    "score": 54,
+    "pubdate": "2026-09-26-21-02-42 +0000",
+    "source": "nyt",
+    "headline": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
   },
   {
     "score": 52,
@@ -50,13 +50,6 @@
   },
   {
     "score": 34,
-    "pubdate": "2026-09-27-01-28-44 +0000",
-    "source": "nyt",
-    "headline": "He Ran a Top Lady Gaga Fan Page. Then He Vanished.",
-    "link": "https://www.nytimes.com/2026/09/26/world/europe/lady-gaga-daily-founder-belarus-prison.html"
-  },
-  {
-    "score": 34,
     "pubdate": "2026-09-26-12-47-25 +0000",
     "source": "bbc",
     "headline": "British national among six dead in building explosion close to Acropolis in Athens",
@@ -68,5 +61,12 @@
     "source": "bbc",
     "headline": "Tenth woman's body found as South Africa police probe killings",
     "link": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-09-27-01-28-44 +0000",
+    "source": "nyt",
+    "headline": "He Ran a Top Lady Gaga Fan Page. Then He Vanished.",
+    "link": "https://www.nytimes.com/2026/09/26/world/europe/lady-gaga-daily-founder-belarus-prison.html"
   }
 ]
