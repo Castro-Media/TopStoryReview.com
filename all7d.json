@@ -1,15 +1,135 @@
 [
   {
-    "headline": "Iran Seeks U.S. Clarification After Trump Rejects Cease-Fire Proposal",
-    "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
+    "headline": "PM proposes NHS style social care system",
+    "link": "https://www.bbc.co.uk/news/videos/cvlyldk7zek1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-27-14-54-39 +0000"
+  },
+  {
+    "headline": "5 Men Arrested on Suspicion of Terrorism Offenses Near RAF Fairford, Air Base Used by U.S.",
+    "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
     "source": "nyt",
-    "pubdate": "2026-09-27-12-50-03 +0000"
+    "pubdate": "2026-09-27-14-50-16 +0000"
+  },
+  {
+    "headline": "5 Men Arrested on Suspicion of Terrorism Offenses Near RAF Fairford, Air Base Used by U.S.",
+    "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+    "source": "nyt",
+    "pubdate": "2026-09-27-14-50-16 +0000"
+  },
+  {
+    "headline": "Pope Leo blasts assisted dying as ‘false compassion’ at French shrine known for miraculous cures",
+    "link": "https://www.chicagotribune.com/2026/09/27/pope-leo-assisted-dying-french-shrine/",
+    "source": "chitri",
+    "pubdate": "2026-09-27-14-42-43 +0000"
+  },
+  {
+    "headline": "UK police arrest 5 men near an air base used by US on suspicion of preparing a terrorist act",
+    "link": "https://www.chicagotribune.com/2026/09/27/uk-police-arrest-suspicion-of-terrorist-act/",
+    "source": "chitri",
+    "pubdate": "2026-09-27-14-38-29 +0000"
+  },
+  {
+    "headline": "Iran ready for ‘doomsday war’ after Trump rejects cease-fire proposal — but still wants peace: Tehran negotiator",
+    "link": "https://nypost.com/2026/09/27/us-news/iran-ready-for-doomsday-war-after-trump-rejects-cease-fire-proposal-but-still-wants-peace-tehran-negotiator/",
+    "source": "nypost",
+    "pubdate": "2026-09-27-14-33-06 +0000"
+  },
+  {
+    "headline": "Iran ready for ‘doomsday war’ after Trump rejects cease-fire proposal — but still wants peace: Tehran negotiator",
+    "link": "https://nypost.com/2026/09/27/us-news/iran-ready-for-doomsday-war-after-trump-rejects-cease-fire-proposal-but-still-wants-peace-tehran-negotiator/",
+    "source": "nypost",
+    "pubdate": "2026-09-27-14-33-06 +0000"
+  },
+  {
+    "headline": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
+    "source": "nyt",
+    "pubdate": "2026-09-27-14-31-22 +0000"
+  },
+  {
+    "headline": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
+    "source": "nyt",
+    "pubdate": "2026-09-27-14-31-22 +0000"
+  },
+  {
+    "headline": "OpenAI pauses training of latest models after AI agents probed U.S. government sites in unexpected ways",
+    "link": "https://www.cbc.ca/news/business/openai-pause-training-after-probes-9.7360166?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-09-27-14-16-04 +0000"
   },
   {
     "headline": "Iran Seeks U.S. Clarification After Trump Rejects Cease-Fire Proposal",
     "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
     "source": "nyt",
-    "pubdate": "2026-09-27-12-50-03 +0000"
+    "pubdate": "2026-09-27-14-12-58 +0000"
+  },
+  {
+    "headline": "Iran Seeks U.S. Clarification After Trump Rejects Cease-Fire Proposal",
+    "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-09-27-14-12-58 +0000"
+  },
+  {
+    "headline": "Two mass shootings in South Africa leave 27 dead",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-27-14-09-22 +0000"
+  },
+  {
+    "headline": "Two mass shootings in South Africa leave 27 dead",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-27-14-09-22 +0000"
+  },
+  {
+    "headline": "A Fatal Stabbing Leaves a Quiet Neighborhood Even Quieter",
+    "link": "https://www.nytimes.com/2026/09/25/us/pittsburgh-doctor-stabbing.html",
+    "source": "nyt",
+    "pubdate": "2026-09-27-14-03-40 +0000"
+  },
+  {
+    "headline": "Saturday Night, No Mask Required, at the Last Ditch Lesbian Bar in Massachusetts",
+    "link": "https://www.nytimes.com/2026/09/27/us/last-ditch-lesbian-bar-covid-masks-massachusetts.html",
+    "source": "nyt",
+    "pubdate": "2026-09-27-14-01-43 +0000"
+  },
+  {
+    "headline": "Powerful nor’easter pounds dozens of vulnerable shore homes in North Carolina’s Outer Banks — with 100 more at risk",
+    "link": "https://nypost.com/2026/09/27/real-estate/powerful-noreaster-threatens-vunerable-shore-homes-in-north-carolinas-outer-banks/",
+    "source": "nypost",
+    "pubdate": "2026-09-27-13-48-58 +0000"
+  },
+  {
+    "headline": "Burnham proposes NHS-style social care system for England",
+    "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-27-13-48-05 +0000"
+  },
+  {
+    "headline": "Swiss voters reject tighter neutrality rules that would have curbed NATO co-operation",
+    "link": "https://www.cbc.ca/news/world/swiss-voters-reject-tighter-neutrality-9.7360123?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-09-27-13-04-33 +0000"
+  },
+  {
+    "headline": "Newsom signs bills aimed at expanding reproductive healthcare in California",
+    "link": "https://www.latimes.com/california/story/2026-09-27/governor-newsom-reproductive-rights-california",
+    "source": "latimes",
+    "pubdate": "2026-09-27-13-00-00 +0000"
+  },
+  {
+    "headline": "Newsom signs bills aimed at expanding reproductive healthcare in California",
+    "link": "https://www.latimes.com/california/story/2026-09-27/governor-newsom-reproductive-rights-california",
+    "source": "latimes",
+    "pubdate": "2026-09-27-13-00-00 +0000"
+  },
+  {
+    "headline": "Inner Sunset sunset",
+    "link": "https://missionlocal.org/2026/09/inner-sunset-sunset/",
+    "source": "missionlocal",
+    "pubdate": "2026-09-27-13-00-00 +0000"
   },
   {
     "headline": "Calif. Dem House hopeful endorsed by activist who said ‘evil Jews run the world’",
@@ -30,46 +150,22 @@
     "pubdate": "2026-09-27-12-36-57 +0000"
   },
   {
-    "headline": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+    "headline": "One dead as nor'easter storm pummels New York and New Jersey",
     "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-27-12-34-26 +0000"
   },
   {
-    "headline": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+    "headline": "One dead as nor'easter storm pummels New York and New Jersey",
     "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-27-12-34-26 +0000"
   },
   {
-    "headline": "UK Deploys Bomb Squad Near R.A.F. Fairford, Air Base Used by US",
-    "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-    "source": "nyt",
-    "pubdate": "2026-09-27-12-30-24 +0000"
-  },
-  {
-    "headline": "UK Deploys Bomb Squad Near R.A.F. Fairford, Air Base Used by US",
-    "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
-    "source": "nyt",
-    "pubdate": "2026-09-27-12-30-24 +0000"
-  },
-  {
-    "headline": "Burnham proposes NHS-style social care system for England",
-    "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-27-12-27-02 +0000"
-  },
-  {
-    "headline": "Terror suspects stripped down after ‘planning van bombings’ at UK base used by US Air Force",
+    "headline": "Stripped down terror suspects arrested after ‘planning van bombings’ at UK base used by US bombers — as police eye Iran",
     "link": "https://nypost.com/2026/09/27/world-news/raf-fairford-terror-suspects-stripped-down-after-uk-cops-foil-van-bomb-plot/",
     "source": "nypost",
     "pubdate": "2026-09-27-12-16-43 +0000"
-  },
-  {
-    "headline": "Saturday Night, No Mask Required, at the Last Ditch Lesbian Bar in Massachusetts",
-    "link": "https://www.nytimes.com/2026/09/27/us/last-ditch-lesbian-bar-covid-masks-massachusetts.html",
-    "source": "nyt",
-    "pubdate": "2026-09-27-11-54-39 +0000"
   },
   {
     "headline": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
@@ -78,16 +174,16 @@
     "pubdate": "2026-09-27-11-38-03 +0000"
   },
   {
-    "headline": "27 killed in mass shootings in South Africa overnight",
+    "headline": "At Least 27 Killed in 2 Overnight Mass Shootings in South Africa",
     "link": "https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html",
     "source": "nyt",
-    "pubdate": "2026-09-27-11-37-19 +0000"
+    "pubdate": "2026-09-27-11-37-20 +0000"
   },
   {
-    "headline": "27 killed in mass shootings in South Africa overnight",
+    "headline": "At Least 27 Killed in 2 Overnight Mass Shootings in South Africa",
     "link": "https://www.nytimes.com/2026/09/27/world/africa/south-africa-mass-shootings-tavern.html",
     "source": "nyt",
-    "pubdate": "2026-09-27-11-37-19 +0000"
+    "pubdate": "2026-09-27-11-37-20 +0000"
   },
   {
     "headline": "Vance Puts His Spin on Trump’s Messaging as He Courts Skeptical Conservatives",
@@ -180,7 +276,7 @@
     "pubdate": "2026-09-27-10-30-00 +0000"
   },
   {
-    "headline": "At least 27 people dead after two separate mass shootings in South Africa",
+    "headline": "South African police probe mining feud, business rivalry after shootings kill 27",
     "link": "https://www.cbc.ca/news/world/south-africa-shootings-9.7360076?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-09-27-10-01-35 +0000"
@@ -190,12 +286,6 @@
     "link": "https://www.chicagotribune.com/2026/09/27/operation-midway-blitz-challenges-remain/",
     "source": "chitri",
     "pubdate": "2026-09-27-10-00-54 +0000"
-  },
-  {
-    "headline": "Two mass shootings in South Africa leave 27 dead",
-    "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-27-10-00-36 +0000"
   },
   {
     "headline": "Soaring diesel prices are clobbering Trump’s MAGA faithful, exposing rifts",
@@ -208,6 +298,12 @@
     "link": "https://www.washingtonpost.com/nation/2026/09/27/after-wildfires-devastated-spokane-high-school-became-an-oasis-normalcy/",
     "source": "wapo",
     "pubdate": "2026-09-27-10-00-01 +0000"
+  },
+  {
+    "headline": "Across California's IVF insurance divide, many are priced out of parenthood",
+    "link": "https://www.latimes.com/science/story/2026-09-27/in-california-ivf-insurance-haves-have-nots",
+    "source": "latimes",
+    "pubdate": "2026-09-27-10-00-00 +0000"
   },
   {
     "headline": "City audit warns of fraud and favoritism in Minneapolis violence prevention programs",
@@ -234,12 +330,6 @@
     "pubdate": "2026-09-27-10-00-00 +0000"
   },
   {
-    "headline": "L.A. voting rights groups mobilize to counter possible November election disruption",
-    "link": "https://www.latimes.com/california/story/2026-09-27/la-voting-rights-groups-mobilize-to-counter-possible-november-election-disruption",
-    "source": "latimes",
-    "pubdate": "2026-09-27-10-00-00 +0000"
-  },
-  {
     "headline": "Poll shows Roy holds lead in L.A. city attorney race — but most voters still undecided",
     "link": "https://www.latimes.com/california/story/2026-09-27/poll-marissa-roy-john-mckinney-la-city-attorney-race",
     "source": "latimes",
@@ -258,9 +348,33 @@
     "pubdate": "2026-09-27-10-00-00 +0000"
   },
   {
+    "headline": "L.A. voting rights groups mobilize to counter possible November election disruption",
+    "link": "https://www.latimes.com/california/story/2026-09-27/la-voting-rights-groups-mobilize-to-counter-possible-november-election-disruption",
+    "source": "latimes",
+    "pubdate": "2026-09-27-10-00-00 +0000"
+  },
+  {
     "headline": "This Texas crooner could help Democrats win Congress, one quinceañera at a time",
     "link": "https://www.washingtonpost.com/politics/2026/09/27/bobby-pulido-would-be-only-member-congress-with-latin-grammy/",
     "source": "wapo",
+    "pubdate": "2026-09-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Wrightwood residents fight a quarry they never saw coming",
+    "link": "https://www.latimes.com/california/story/2026-09-27/wrightwood-fights-century-long-mine-it-never-saw-coming",
+    "source": "latimes",
+    "pubdate": "2026-09-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Poll shows Roy holds lead in L.A. city attorney race — but most voters still undecided",
+    "link": "https://www.latimes.com/california/story/2026-09-27/poll-marissa-roy-john-mckinney-la-city-attorney-race",
+    "source": "latimes",
+    "pubdate": "2026-09-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Barabak: War games and draft lawsuits: Democrats work to Trump-proof November election",
+    "link": "https://www.latimes.com/politics/story/2026-09-27/midterm-election-trump-proofing-democratic-attorneys-general-phil-weiser-colorado",
+    "source": "latimes",
     "pubdate": "2026-09-27-10-00-00 +0000"
   },
   {
@@ -278,24 +392,6 @@
   {
     "headline": "Across California's IVF insurance divide, many are priced out of parenthood",
     "link": "https://www.latimes.com/science/story/2026-09-27/in-california-ivf-insurance-haves-have-nots",
-    "source": "latimes",
-    "pubdate": "2026-09-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Wrightwood residents fight a quarry they never saw coming",
-    "link": "https://www.latimes.com/california/story/2026-09-27/wrightwood-fights-century-long-mine-it-never-saw-coming",
-    "source": "latimes",
-    "pubdate": "2026-09-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Barabak: War games and draft lawsuits: Democrats work to Trump-proof November election",
-    "link": "https://www.latimes.com/politics/story/2026-09-27/midterm-election-trump-proofing-democratic-attorneys-general-phil-weiser-colorado",
-    "source": "latimes",
-    "pubdate": "2026-09-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Poll shows Roy holds lead in L.A. city attorney race — but most voters still undecided",
-    "link": "https://www.latimes.com/california/story/2026-09-27/poll-marissa-roy-john-mckinney-la-city-attorney-race",
     "source": "latimes",
     "pubdate": "2026-09-27-10-00-00 +0000"
   },
@@ -318,8 +414,14 @@
     "pubdate": "2026-09-27-09-30-40 +0000"
   },
   {
-    "headline": "Ford’s Latest Employee of the Month is a Hawk Named ‘El Charro’",
+    "headline": "Ford’s Latest Employee of the Month Is a Hawk Named ‘El Charro’",
     "link": "https://www.wsj.com/business/autos/fords-factory-hermosillo-mexico-pigeons-hawk-el-charro-b78d90ae?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-27-09-30-00 +0000"
+  },
+  {
+    "headline": "These $10,000 Cameras Are a Rare European Manufacturing Success",
+    "link": "https://www.wsj.com/business/retail/these-10-000-cameras-are-a-rare-european-manufacturing-success-d91cf324?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-27-09-30-00 +0000"
   },
@@ -336,7 +438,7 @@
     "pubdate": "2026-09-27-09-30-00 +0000"
   },
   {
-    "headline": "Ford’s Latest Employee of the Month is a Hawk Named ‘El Charro’",
+    "headline": "Ford’s Latest Employee of the Month Is a Hawk Named ‘El Charro’",
     "link": "https://www.wsj.com/business/autos/fords-factory-hermosillo-mexico-pigeons-hawk-el-charro-b78d90ae?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-09-27-09-30-00 +0000"
@@ -354,7 +456,7 @@
     "pubdate": "2026-09-27-09-28-43 +0000"
   },
   {
-    "headline": "U.K. police evacuate homes near U.S. airbase and detain men on suspected explosives offensives",
+    "headline": "U.K. police arrest 5 near airbase used by U.S. on suspicion of preparing a terrorist act",
     "link": "https://www.cbc.ca/news/world/us-air-base-england-police-investigation-9.7360081?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-09-27-09-18-16 +0000"
@@ -378,28 +480,16 @@
     "pubdate": "2026-09-27-09-01-43 +0000"
   },
   {
-    "headline": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
-    "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
-    "source": "nyt",
-    "pubdate": "2026-09-27-09-01-36 +0000"
-  },
-  {
-    "headline": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
-    "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
-    "source": "nyt",
-    "pubdate": "2026-09-27-09-01-36 +0000"
-  },
-  {
-    "headline": "A ‘Big Problem’: Trump’s War With Iran Drags Down Republicans in Midterms",
+    "headline": "Trump’s War With Iran Drags Down Republicans in Midterm Elections",
     "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html",
     "source": "nyt",
-    "pubdate": "2026-09-27-09-01-33 +0000"
+    "pubdate": "2026-09-27-09-01-34 +0000"
   },
   {
-    "headline": "A ‘Big Problem’: Trump’s War With Iran Drags Down Republicans in Midterms",
+    "headline": "Trump’s War With Iran Drags Down Republicans in Midterm Elections",
     "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html",
     "source": "nyt",
-    "pubdate": "2026-09-27-09-01-33 +0000"
+    "pubdate": "2026-09-27-09-01-34 +0000"
   },
   {
     "headline": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers",
@@ -466,6 +556,12 @@
     "link": "https://www.washingtonpost.com/world/2026/09/27/ukraine-boarding-schools-train-teens-replace-fallen-fathers-war/",
     "source": "wapo",
     "pubdate": "2026-09-27-09-00-00 +0000"
+  },
+  {
+    "headline": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
+    "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-27-08-51-23 +0000"
   },
   {
     "headline": "Today in History: R. Kelly convicted in a sex trafficking trial",
@@ -828,7 +924,7 @@
     "pubdate": "2026-09-26-23-06-18 +0000"
   },
   {
-    "headline": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
+    "headline": "Killer Christa Pike is to be executed within days, but her defence say she's a victim too",
     "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-26-23-04-08 +0000"
@@ -844,18 +940,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-26-23-00-42 +0000"
-  },
-  {
-    "headline": "MTA worker finds days-old dead body inside NYC subway utility closet",
-    "link": "https://nypost.com/2026/09/26/us-news/mta-worker-finds-dead-body-inside-nyc-subway-utility-closet/",
-    "source": "nypost",
-    "pubdate": "2026-09-26-22-52-42 +0000"
-  },
-  {
-    "headline": "Husband of missing California coffee shop owner Amy Hillyard offers new clues 6 months after her disappearance",
-    "link": "https://nypost.com/2026/09/26/us-news/new-clues-in-search-for-missing-california-coffee-shop-owner-amy-hillyard-6-months-after-her-disappearance/",
-    "source": "nypost",
-    "pubdate": "2026-09-26-22-49-39 +0000"
   },
   {
     "headline": "In UN address, Anand takes jab at 'great powers' disrupting global order",
@@ -1320,12 +1404,6 @@
     "pubdate": "2026-09-26-14-53-27 +0000"
   },
   {
-    "headline": "OpenAI says its bots have interacted with multiple U.S. government sites in unexpected AI activity",
-    "link": "https://www.cbc.ca/news/world/openai-rogue-us-sites-activity-9.7359673?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-26-14-38-18 +0000"
-  },
-  {
     "headline": "Tennessee uses unusual alcohol tactic to get fans there early with President Trump attending Texas showdown",
     "link": "https://nypost.com/2026/09/26/sports/tennessee-uses-unusual-alcohol-tactic-for-fans-with-president-trump-attending-texas-showdown/",
     "source": "nypost",
@@ -1788,12 +1866,6 @@
     "pubdate": "2026-09-26-02-36-07 +0000"
   },
   {
-    "headline": "CNN left off Air Force One for Trump’s trip to Tennessee as White House installs new media restriction",
-    "link": "https://nypost.com/2026/09/25/us-news/cnn-left-off-air-force-one-for-trumps-trip-to-tennessee-as-white-house-installs-new-media-restriction/",
-    "source": "nypost",
-    "pubdate": "2026-09-26-02-27-24 +0000"
-  },
-  {
     "headline": "Overwhelmed by Ukraine’s Drones, Russia Tells Businesses to Defend Themselves",
     "link": "https://www.wsj.com/world/russia/overwhelmed-by-ukraines-drones-russia-tells-businesses-to-defend-themselves-731f294f?mod=rss_worldnews",
     "source": "wsj",
@@ -1802,6 +1874,12 @@
   {
     "headline": "A U.S. Arm-Twisting Campaign Is Cutting Iran Off From the Rest of the World",
     "link": "https://www.wsj.com/world/middle-east/a-u-s-arm-twisting-campaign-is-cutting-iran-off-from-the-rest-of-the-world-ebcd990e?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-26-02-00-00 +0000"
+  },
+  {
+    "headline": "Overwhelmed by Ukraine’s Drones, Russia Tells Businesses to Defend Themselves",
+    "link": "https://www.wsj.com/world/russia/overwhelmed-by-ukraines-drones-russia-tells-businesses-to-defend-themselves-731f294f?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-09-26-02-00-00 +0000"
   },
@@ -1834,12 +1912,6 @@
     "link": "https://www.nytimes.com/2026/09/25/us/politics/white-house-rescissions-education-and-health-funds.html",
     "source": "nyt",
     "pubdate": "2026-09-26-01-05-34 +0000"
-  },
-  {
-    "headline": "A Fatal Stabbing Leaves a Quiet Neighborhood Even Quieter",
-    "link": "https://www.nytimes.com/2026/09/25/us/pittsburgh-doctor-stabbing.html",
-    "source": "nyt",
-    "pubdate": "2026-09-26-01-05-10 +0000"
   },
   {
     "headline": "The Cost of Transporting Pretty Much Everything Just Won’t Stop Going Up",
@@ -2252,12 +2324,6 @@
   {
     "headline": "Energy & Utilities Roundup: Market Talk",
     "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-ace960f2?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-25-21-02-00 +0000"
-  },
-  {
-    "headline": "Pentagon-Backed Oil Company Is Set to Vie for Chevron’s Crown in Venezuela",
-    "link": "https://www.wsj.com/business/energy-oil/pentagon-backed-oil-company-is-set-to-vie-for-chevrons-crown-in-venezuela-f8e4300a?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-09-25-21-02-00 +0000"
   },
@@ -3348,12 +3414,6 @@
     "pubdate": "2026-09-25-13-00-00 +0000"
   },
   {
-    "headline": "This shelter dog in a backpack at Starbucks was adopted almost on the spot",
-    "link": "https://www.washingtonpost.com/lifestyle/2026/09/25/shelter-dog-backpack-starbucks-gets-adopted-almost-spot/",
-    "source": "wapo",
-    "pubdate": "2026-09-25-13-00-00 +0000"
-  },
-  {
     "headline": "CDC vaccine recommendations are at a standstill, and unanswered questions are piling up",
     "link": "https://www.chicagotribune.com/2026/09/25/cdc-vaccine-recommendations/",
     "source": "chitri",
@@ -3736,12 +3796,6 @@
     "link": "https://www.nytimes.com/2026/09/25/world/europe/cambridge-jason-arday-investigation.html",
     "source": "nyt",
     "pubdate": "2026-09-25-08-27-08 +0000"
-  },
-  {
-    "headline": "Is Israel erasing evidence of alleged war crimes in Gaza? A visual investigation",
-    "link": "https://www.cbc.ca/news/world/is-israel-erasing-evidence-of-alleged-war-crimes-in-gaza-a-visual-investigation-9.7357122?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-09-25-08-00-00 +0000"
   },
   {
     "headline": "Feds disclose more details on Trump admin request to delay Gordie Howe bridge opening",
@@ -5184,8 +5238,8 @@
     "pubdate": "2026-09-24-10-00-00 +0000"
   },
   {
-    "headline": "How Trump's plan to make Head Start English-only would hit L.A. classrooms",
-    "link": "https://www.latimes.com/california/story/2026-09-24/head-start-trump-english-only-dual-language-preschool",
+    "headline": "High cost of living tops voter concerns, Becerra remains front-runner in governor's race, new poll shows",
+    "link": "https://www.latimes.com/california/story/2026-09-24/high-cost-of-living-tops-voter-concerns-becerra-remains-front-runner-in-governors-race-new-poll-shows",
     "source": "latimes",
     "pubdate": "2026-09-24-10-00-00 +0000"
   },
@@ -5196,8 +5250,8 @@
     "pubdate": "2026-09-24-10-00-00 +0000"
   },
   {
-    "headline": "High cost of living tops voter concerns, Becerra remains front-runner in governor's race, new poll shows",
-    "link": "https://www.latimes.com/california/story/2026-09-24/high-cost-of-living-tops-voter-concerns-becerra-remains-front-runner-in-governors-race-new-poll-shows",
+    "headline": "How Trump's plan to make Head Start English-only would hit L.A. classrooms",
+    "link": "https://www.latimes.com/california/story/2026-09-24/head-start-trump-english-only-dual-language-preschool",
     "source": "latimes",
     "pubdate": "2026-09-24-10-00-00 +0000"
   },
@@ -5242,12 +5296,6 @@
     "link": "https://www.wsj.com/economy/central-banking/german-business-sentiment-climbs-to-highest-level-in-three-years-ba9e26d1?mod=rss_socialeconomyfeed",
     "source": "wsj",
     "pubdate": "2026-09-24-09-07-00 +0000"
-  },
-  {
-    "headline": "The Global Story",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct8mfv?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-24-09-00-00 +0000"
   },
   {
     "headline": "Today in History: Trial of the Chicago Eight begins",
@@ -6114,12 +6162,6 @@
     "pubdate": "2026-09-23-13-07-00 +0000"
   },
   {
-    "headline": "This tree loves you, too",
-    "link": "https://missionlocal.org/2026/09/this-tree-loves-you-too/",
-    "source": "missionlocal",
-    "pubdate": "2026-09-23-13-00-00 +0000"
-  },
-  {
     "headline": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
     "link": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
@@ -6216,26 +6258,26 @@
     "pubdate": "2026-09-23-10-00-35 +0000"
   },
   {
-    "headline": "Canada's boycott forces the sale of a California winery",
-    "link": "https://www.latimes.com/business/story/2026-09-23/canadas-boycott-forces-sale-of-california-winery",
-    "source": "latimes",
-    "pubdate": "2026-09-23-10-00-00 +0000"
-  },
-  {
     "headline": "Meta's viral AI agent can now book travel and shop for you. Amazon says it crossed a line",
     "link": "https://www.latimes.com/business/story/2026-09-23/meta-muse-can-now-book-travel-shop-for-you-amazon-says-it-crossed-line",
     "source": "latimes",
     "pubdate": "2026-09-23-10-00-00 +0000"
   },
   {
-    "headline": "Dark turn for SoCal animal rescue: 500 cats, living and dead, seized by authorities",
-    "link": "https://www.latimes.com/california/story/2026-09-23/524-cats-living-dead-seized-from-southern-california-nonprofit",
+    "headline": "Canada's boycott forces the sale of a California winery",
+    "link": "https://www.latimes.com/business/story/2026-09-23/canadas-boycott-forces-sale-of-california-winery",
     "source": "latimes",
     "pubdate": "2026-09-23-10-00-00 +0000"
   },
   {
     "headline": "D.A. calls Justin Bieber's surprise MacArthur Park gig a 'testament to ... progress'",
     "link": "https://www.latimes.com/california/story/2026-09-23/d-a-calls-justin-biebers-surprise-macarthur-park-gig-testament-to-progress",
+    "source": "latimes",
+    "pubdate": "2026-09-23-10-00-00 +0000"
+  },
+  {
+    "headline": "Dark turn for SoCal animal rescue: 500 cats, living and dead, seized by authorities",
+    "link": "https://www.latimes.com/california/story/2026-09-23/524-cats-living-dead-seized-from-southern-california-nonprofit",
     "source": "latimes",
     "pubdate": "2026-09-23-10-00-00 +0000"
   },
@@ -6888,12 +6930,6 @@
     "pubdate": "2026-09-22-10-00-00 +0000"
   },
   {
-    "headline": "Costa Mesa approves Fairview Development Center project",
-    "link": "https://www.latimes.com/business/story/2026-09-22/costa-mesa-approves-fairview-development-center-project",
-    "source": "latimes",
-    "pubdate": "2026-09-22-10-00-00 +0000"
-  },
-  {
     "headline": "L.A. struggling to get Olympics transit money from Sacramento",
     "link": "https://www.latimes.com/california/story/2026-09-22/trumps-la-transit-buses-for-olympics",
     "source": "latimes",
@@ -6902,6 +6938,12 @@
   {
     "headline": "How the University of California built the Golden State — and fractured it",
     "link": "https://www.latimes.com/entertainment-arts/books/story/2026-09-22/california-dreams-miriam-pawel-university-of-california",
+    "source": "latimes",
+    "pubdate": "2026-09-22-10-00-00 +0000"
+  },
+  {
+    "headline": "Costa Mesa approves Fairview Development Center project",
+    "link": "https://www.latimes.com/business/story/2026-09-22/costa-mesa-approves-fairview-development-center-project",
     "source": "latimes",
     "pubdate": "2026-09-22-10-00-00 +0000"
   },
@@ -6994,12 +7036,6 @@
     "link": "https://www.latimes.com/entertainment-arts/story/2026-09-21/death-of-cindy-crawford-son-presley-gerber-more-details",
     "source": "latimes",
     "pubdate": "2026-09-22-01-02-09 +0000"
-  },
-  {
-    "headline": "In Trump, Xi Sees ‘Rare Window’ to Convince Taiwan That Resistance Is Futile",
-    "link": "https://www.wsj.com/world/china/trump-xi-taiwan-f236f228?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-22-01-00-00 +0000"
   },
   {
     "headline": "Radar and Radio Outage Roiled Flights Around New York City, Northeast",
@@ -7476,12 +7512,6 @@
     "pubdate": "2026-09-20-20-35-51 +0000"
   },
   {
-    "headline": "L.A. County inmate killed in coordinated attack at Pelican Bay State Prison, officials say",
-    "link": "https://www.latimes.com/california/story/2026-09-20/la-county-inmate-killed-at-pelican-bay-state-prison-officials-say",
-    "source": "latimes",
-    "pubdate": "2026-09-20-20-01-00 +0000"
-  },
-  {
     "headline": "President Donald Trump suggests his arch will house drones, snipers, ammunition",
     "link": "https://www.chicagotribune.com/2026/09/20/trump-arch-snipers-drones/",
     "source": "chitri",
@@ -7510,23 +7540,5 @@
     "link": "https://www.nytimes.com/2026/09/20/world/middleeast/israeli-killed-west-bank-attack.html",
     "source": "nyt",
     "pubdate": "2026-09-20-14-59-59 +0000"
-  },
-  {
-    "headline": "President Trump said on Sunday that his proposed 250-foot triumphal arch in Washington will double as a “military complex” housing drones and sniper ammunition",
-    "link": "https://www.wsj.com/politics/national-security/trump-says-proposed-arch-will-double-as-military-complex-ad5c73e1?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-20-14-24-00 +0000"
-  },
-  {
-    "headline": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
-    "link": "https://www.chicagotribune.com/2026/09/20/federal-reserve-rate-hike/",
-    "source": "chitri",
-    "pubdate": "2026-09-20-14-00-15 +0000"
-  },
-  {
-    "headline": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
-    "link": "https://www.chicagotribune.com/2026/09/20/federal-reserve-rate-hike/",
-    "source": "chitri",
-    "pubdate": "2026-09-20-14-00-15 +0000"
   }
 ]

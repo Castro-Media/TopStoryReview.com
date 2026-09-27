@@ -1,31 +1,24 @@
 [
   {
-    "score": 107,
-    "pubdate": "2026-09-27-00-52-12 +0000",
+    "score": 123,
+    "pubdate": "2026-09-27-14-33-06 +0000",
     "source": "nypost",
-    "headline": "Trump’s new superintelligence czar: Here’s who is in the running to lead new AI Force",
-    "link": "https://nypost.com/2026/09/26/us-news/trumps-next-ai-czar-whos-in-the-running-for-the-white-house-post/"
+    "headline": "Iran ready for ‘doomsday war’ after Trump rejects cease-fire proposal — but still wants peace: Tehran negotiator",
+    "link": "https://nypost.com/2026/09/27/us-news/iran-ready-for-doomsday-war-after-trump-rejects-cease-fire-proposal-but-still-wants-peace-tehran-negotiator/"
   },
   {
-    "score": 64,
-    "pubdate": "2026-09-26-21-02-42 +0000",
-    "source": "nyt",
-    "headline": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
+    "score": 79,
+    "pubdate": "2026-09-27-12-34-26 +0000",
+    "source": "bbc",
+    "headline": "One dead as nor'easter storm pummels New York and New Jersey",
+    "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 58,
-    "pubdate": "2026-09-27-00-49-11 +0000",
-    "source": "nyt",
-    "headline": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
-    "link": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html"
-  },
-  {
-    "score": 55,
-    "pubdate": "2026-09-26-14-17-00 +0000",
-    "source": "wsj",
-    "headline": "CNN said it was pulled from a planned trip with President Trump for Saturday, the second time in less than a week that the news network was barred from a scheduled rotation in the TV press pool",
-    "link": "https://www.wsj.com/politics/policy/white-house-removes-cnn-from-planned-weekend-trip-7c7d6455?mod=rss_socialpoliticsfeed"
+    "score": 51,
+    "pubdate": "2026-09-27-14-38-29 +0000",
+    "source": "chitri",
+    "headline": "UK police arrest 5 men near an air base used by US on suspicion of preparing a terrorist act",
+    "link": "https://www.chicagotribune.com/2026/09/27/uk-police-arrest-suspicion-of-terrorist-act/"
   },
   {
     "score": 45,
@@ -35,18 +28,18 @@
     "link": "https://nypost.com/2026/09/27/world-news/south-africa-police-launch-manhunt-after-17-killed-in-tavern-shooting/"
   },
   {
-    "score": 44,
+    "score": 41,
+    "pubdate": "2026-09-27-00-49-11 +0000",
+    "source": "nyt",
+    "headline": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
+    "link": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html"
+  },
+  {
+    "score": 39,
     "pubdate": "2026-09-27-09-01-11 +0000",
     "source": "nyt",
     "headline": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers",
     "link": "https://www.nytimes.com/2026/09/27/us/politics/white-house-fraud-task-force.html"
-  },
-  {
-    "score": 41,
-    "pubdate": "2026-09-27-08-13-12 +0000",
-    "source": "nypost",
-    "headline": "UK police evacuate homes near air base used by US  — detain men on suspected explosives offenses",
-    "link": "https://nypost.com/2026/09/27/world-news/uk-police-evacuate-homes-near-air-base-used-by-us-detain-men-on-suspected-explosives-offenses/"
   },
   {
     "score": 37,
@@ -63,10 +56,17 @@
     "link": "https://nypost.com/2026/09/26/us-news/ex-trump-official-alina-habba-weds-turkish-billionaire-at-waldorf-astoria/"
   },
   {
-    "score": 34,
-    "pubdate": "2026-09-27-08-09-32 +0000",
+    "score": 36,
+    "pubdate": "2026-09-26-15-05-32 +0000",
     "source": "nypost",
-    "headline": "Long Island swimmer vanishes in ocean off Fire Island during deadly nor’easter as officials launch search",
-    "link": "https://nypost.com/2026/09/27/us-news/long-island-swimmer-vanishes-in-ocean-off-fire-island-during-deadly-noreaster-as-officials-launch-search/"
+    "headline": "China beating US in race for top AI talent as elite researchers lured to Red Dragon in record numbers: study",
+    "link": "https://nypost.com/2026/09/26/world-news/china-ahead-of-us-in-race-to-attract-the-worlds-top-ai-researchers/"
+  },
+  {
+    "score": 32,
+    "pubdate": "2026-09-26-15-45-00 +0000",
+    "source": "wsj",
+    "headline": "How Jordan Campbell, a Texas business litigator, came to lead the Justice Department’s efforts to end transgender care for minors",
+    "link": "https://www.wsj.com/politics/policy/how-a-business-litigator-became-dojs-point-man-against-transgender-care-86171021?mod=rss_socialpoliticsfeed"
   }
 ]
