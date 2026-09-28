@@ -1,6 +1,84 @@
 [
   {
-    "headline": "Self-described ‘intuitive healer’ makes chilling admission after fatally stabbing his mom in gated Florida neighborhood: cops",
+    "headline": "DA reopens probe into 7 Cornell frat bros who allegedly drugged, gang raped student",
+    "link": "https://nypost.com/2026/09/27/us-news/da-reopens-probe-into-7-cornell-frat-bros-who-allegedly-drugged-gang-raped-student/",
+    "source": "nypost",
+    "pubdate": "2026-09-28-01-23-25 +0000"
+  },
+  {
+    "headline": "Gold Falls on Expectations of Higher for Longer Fed Rates",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-expectations-of-higher-for-longer-fed-rates-238bf7a5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-28-01-11-00 +0000"
+  },
+  {
+    "headline": "Oil Rises on Geopolitical Risks, Stockpile Decline",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-geopolitical-risks-stockpile-decline-1e019399?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-28-01-08-00 +0000"
+  },
+  {
+    "headline": "Six Investing Pros Weigh In on Surging Yields—and How to Trade Them",
+    "link": "https://www.wsj.com/finance/investing/investors-trade-bond-yields-treasuries-60ee83f9?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-28-01-00-00 +0000"
+  },
+  {
+    "headline": "Trump came into office promising to fix the economy and get the deficit under control. His agenda has helped drive up inflation and interest rates.",
+    "link": "https://www.wsj.com/economy/trump-economy-inflation-jobs-724e4da8?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-28-01-00-00 +0000"
+  },
+  {
+    "headline": "Nikkei Rises 0.8%, Led by Chip-Related Stocks",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-8-led-by-chip-related-stocks-07fd1af5?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-28-00-49-00 +0000"
+  },
+  {
+    "headline": "Trump to dine with Anthropic co-Founder, who has warned of AI risks",
+    "link": "https://www.chicagotribune.com/2026/09/27/trump-amodei-ai-anthropic/",
+    "source": "chitri",
+    "pubdate": "2026-09-28-00-47-04 +0000"
+  },
+  {
+    "headline": "Moment aggressive sea lion knocks paddle boarder into the ocean and tears at her hair at California beach",
+    "link": "https://nypost.com/2026/09/27/us-news/moment-aggressive-sea-lion-knocks-santa-cruz-paddle-boarder-into-the-ocean-and-tears-at-her-hair/",
+    "source": "nypost",
+    "pubdate": "2026-09-28-00-39-13 +0000"
+  },
+  {
+    "headline": "Northeast U.S. pummelled by wind and floods from deadly nor'easter",
+    "link": "https://www.cbc.ca/news/world/nor-easter-storm-9.7360490?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-09-28-00-36-26 +0000"
+  },
+  {
+    "headline": "U.S. Says No Plans to Sell Weapons to China After Perdue Comments",
+    "link": "https://www.wsj.com/world/china/u-s-says-no-plans-to-sell-weapons-to-china-after-perdue-comments-ed99bf46?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-28-00-19-00 +0000"
+  },
+  {
+    "headline": "Lynx pushed to brink of elimination as Breanna Stewart, Liberty take Game 1",
+    "link": "https://www.startribune.com/minnesota-lynx-new-york-liberty-score-today-channel-wnba-playoffs-updates-results-olivia-miles-stats/601892377",
+    "source": "startribune",
+    "pubdate": "2026-09-28-00-08-17 +0000"
+  },
+  {
+    "headline": "Prada Is Wooing the Ultrarich With Snorkeling Trips and $100,000 Skirts",
+    "link": "https://www.wsj.com/business/retail/prada-is-wooing-the-ultrarich-with-snorkeling-trips-and-100-000-skirts-feee7a9f?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-09-28-00-00-00 +0000"
+  },
+  {
+    "headline": "All-American ex-cop allegedly became Russian frontman before outrageous plot hoodwinked US Secret Service",
+    "link": "https://nypost.com/2026/09/27/us-news/tech-ceo-charged-with-hiding-russian-ownership-of-company-lying-to-us-secret-service/",
+    "source": "nypost",
+    "pubdate": "2026-09-27-23-55-17 +0000"
+  },
+  {
+    "headline": "Self-described ‘intuitive healer’ makes chilling admission after fatally stabbing mom, 77, in gated Florida neighborhood: cops",
     "link": "https://nypost.com/2026/09/27/us-news/self-described-intuitive-healer-makes-chilling-admission-after-fatally-stabbing-his-mom-in-gated-florida-neighborhood/",
     "source": "nypost",
     "pubdate": "2026-09-27-23-49-50 +0000"
@@ -60,7 +138,7 @@
     "pubdate": "2026-09-27-23-33-39 +0000"
   },
   {
-    "headline": "Live: Vikings stay perfect with win over Bucs, but star WR Justin Jefferson suffers ankle injury",
+    "headline": "Vikings stay perfect with win over Bucs, but star WR Justin Jefferson suffers ankle injury",
     "link": "https://www.startribune.com/minnesota-vikings-tampa-bay-buccaneers-score-today-nfl-week-3-kyler-murray-stats-aaron-jones-injury/601889688",
     "source": "startribune",
     "pubdate": "2026-09-27-23-33-28 +0000"
@@ -82,12 +160,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
     "source": "bbc",
     "pubdate": "2026-09-27-23-20-43 +0000"
-  },
-  {
-    "headline": "U.S. Says No Plans to Sell Weapons to China After Perdue Comments",
-    "link": "https://www.wsj.com/world/china/u-s-says-no-plans-to-sell-weapons-to-china-after-perdue-comments-ed99bf46?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-27-23-19-00 +0000"
   },
   {
     "headline": "Round 2 of NYC’s nor’easter hits after tree falls on two young kids and leaves surreal scenes: ‘Worst it’s been since Sandy’",
@@ -142,12 +214,6 @@
     "link": "https://nypost.com/2026/09/27/us-news/adventurer-who-blew-life-savings-on-california-ghost-town-reveals-how-his-gamble-has-gone/",
     "source": "nypost",
     "pubdate": "2026-09-27-22-58-39 +0000"
-  },
-  {
-    "headline": "Lynx on the verge of short playoff run as Breanna Stewart leads the Liberty to a Game 1 win",
-    "link": "https://www.startribune.com/minnesota-lynx-new-york-liberty-score-today-channel-wnba-playoffs-updates-results-olivia-miles-stats/601892377",
-    "source": "startribune",
-    "pubdate": "2026-09-27-22-46-10 +0000"
   },
   {
     "headline": "Iran’s economy will have ‘nothing’ left ‘within two weeks,’ Scott Bessent warns",
@@ -336,12 +402,6 @@
     "pubdate": "2026-09-27-21-28-32 +0000"
   },
   {
-    "headline": "LA teachers’ union boss caught attacking California schools’ chief frontrunner Sonja Shaw",
-    "link": "https://nypost.com/2026/09/27/us-news/la-teachers-union-boss-caught-attacking-california-schools-chief-frontrunner-sonja-shaw/",
-    "source": "nypost",
-    "pubdate": "2026-09-27-21-28-32 +0000"
-  },
-  {
     "headline": "Former Palisades resident misled smart ring investors in $2 million Ponzi scheme, authorities allege",
     "link": "https://www.latimes.com/california/story/2026-09-27/palisades-resident-misled-smart-ring-investors-in-ponzi-scheme",
     "source": "latimes",
@@ -396,12 +456,6 @@
     "pubdate": "2026-09-27-20-53-09 +0000"
   },
   {
-    "headline": "Fetterman says he’s a ‘lifelong Republican’ in awkward slip",
-    "link": "https://nypost.com/2026/09/27/us-news/fetterman-says-hes-a-lifelong-republican-in-awkward-slip/",
-    "source": "nypost",
-    "pubdate": "2026-09-27-20-53-09 +0000"
-  },
-  {
     "headline": "A Growing North Korea Problem",
     "link": "https://www.nytimes.com/2026/09/27/world/lee-jae-myung-north-korea-sanctions.html",
     "source": "nyt",
@@ -436,12 +490,6 @@
     "link": "https://www.latimes.com/california/story/2026-09-27/newsom-signs-factory-safety-laws-following-boyle-heights-industrial-fire",
     "source": "latimes",
     "pubdate": "2026-09-27-20-30-58 +0000"
-  },
-  {
-    "headline": "How Kathy Hochul’s admin handed firm a $1B Medicaid contract without competitive bidding",
-    "link": "https://nypost.com/2026/09/27/us-news/how-kathy-hochuls-admin-handed-firm-a-1b-medicaid-contract-without-competitive-bidding/",
-    "source": "nypost",
-    "pubdate": "2026-09-27-20-30-39 +0000"
   },
   {
     "headline": "Pair of St. Paul council members call for full release of investigation into Mayor Kaohly Her",
@@ -1278,14 +1326,8 @@
     "pubdate": "2026-09-27-10-00-00 +0000"
   },
   {
-    "headline": "Barabak: War games and draft lawsuits: Democrats work to Trump-proof November election",
-    "link": "https://www.latimes.com/politics/story/2026-09-27/midterm-election-trump-proofing-democratic-attorneys-general-phil-weiser-colorado",
-    "source": "latimes",
-    "pubdate": "2026-09-27-10-00-00 +0000"
-  },
-  {
-    "headline": "Poll shows Roy holds lead in L.A. city attorney race — but most voters still undecided",
-    "link": "https://www.latimes.com/california/story/2026-09-27/poll-marissa-roy-john-mckinney-la-city-attorney-race",
+    "headline": "Trump supercharged ICE. Now battleground candidates are scrambling for a message",
+    "link": "https://www.latimes.com/politics/story/2026-09-27/trump-ice-battleground-candidates-message-midterms",
     "source": "latimes",
     "pubdate": "2026-09-27-10-00-00 +0000"
   },
@@ -1296,8 +1338,8 @@
     "pubdate": "2026-09-27-10-00-00 +0000"
   },
   {
-    "headline": "Trump supercharged ICE. Now battleground candidates are scrambling for a message",
-    "link": "https://www.latimes.com/politics/story/2026-09-27/trump-ice-battleground-candidates-message-midterms",
+    "headline": "Barabak: War games and draft lawsuits: Democrats work to Trump-proof November election",
+    "link": "https://www.latimes.com/politics/story/2026-09-27/midterm-election-trump-proofing-democratic-attorneys-general-phil-weiser-colorado",
     "source": "latimes",
     "pubdate": "2026-09-27-10-00-00 +0000"
   },
@@ -1310,6 +1352,12 @@
   {
     "headline": "Across California's IVF insurance divide, many are priced out of parenthood",
     "link": "https://www.latimes.com/science/story/2026-09-27/in-california-ivf-insurance-haves-have-nots",
+    "source": "latimes",
+    "pubdate": "2026-09-27-10-00-00 +0000"
+  },
+  {
+    "headline": "Poll shows Roy holds lead in L.A. city attorney race — but most voters still undecided",
+    "link": "https://www.latimes.com/california/story/2026-09-27/poll-marissa-roy-john-mckinney-la-city-attorney-race",
     "source": "latimes",
     "pubdate": "2026-09-27-10-00-00 +0000"
   },
@@ -1630,65 +1678,5 @@
     "link": "https://www.nytimes.com/2026/09/26/world/europe/lady-gaga-daily-founder-belarus-prison.html",
     "source": "nyt",
     "pubdate": "2026-09-27-01-28-44 +0000"
-  },
-  {
-    "headline": "Stocks Are Defying Surging Bond Yields. Here’s What History Says Could Come Next.",
-    "link": "https://www.wsj.com/finance/investing/stocks-are-defying-surging-bond-yields-heres-what-history-says-could-come-next-7d13bb2d?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-27-01-00-00 +0000"
-  },
-  {
-    "headline": "JD Vance’s appeal to dissatisfied Republicans aims to mend fences and rally supporters against Democrats for the midterms—and beyond",
-    "link": "https://www.wsj.com/politics/policy/vance-woos-skeptical-conservatives-with-his-own-take-on-trumps-messaging-aa1ac28f?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-27-01-00-00 +0000"
-  },
-  {
-    "headline": "Ex-Trump official Alina Habba weds Turkish billionaire at posh NYC hotel before star-packed crowd",
-    "link": "https://nypost.com/2026/09/26/us-news/ex-trump-official-alina-habba-weds-turkish-billionaire-at-waldorf-astoria/",
-    "source": "nypost",
-    "pubdate": "2026-09-27-00-57-46 +0000"
-  },
-  {
-    "headline": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
-    "link": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
-    "source": "nyt",
-    "pubdate": "2026-09-27-00-49-11 +0000"
-  },
-  {
-    "headline": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
-    "link": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
-    "source": "nyt",
-    "pubdate": "2026-09-27-00-49-11 +0000"
-  },
-  {
-    "headline": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
-    "link": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
-    "source": "nyt",
-    "pubdate": "2026-09-27-00-49-11 +0000"
-  },
-  {
-    "headline": "Nevada Is Making Surprising Gains in Solar Energy",
-    "link": "https://www.wsj.com/business/energy-oil/nevada-solar-industry-trump-states-b838c7e4?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-27-00-30-00 +0000"
-  },
-  {
-    "headline": "Nevada Is Making Surprising Gains in Solar Energy",
-    "link": "https://www.wsj.com/business/energy-oil/nevada-solar-industry-trump-states-b838c7e4?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-09-27-00-30-00 +0000"
-  },
-  {
-    "headline": "New LA fundraising totals give surprising look at who’s on top in heated mayoral race",
-    "link": "https://nypost.com/2026/09/26/us-news/la-mayor-karen-bass-nithya-raman-nearly-tied-in-fundraising-for-la-mayoral-election/",
-    "source": "nypost",
-    "pubdate": "2026-09-27-00-00-59 +0000"
-  },
-  {
-    "headline": "A World War II-Era Feud Is Threatening a Pivotal Alliance for Ukraine",
-    "link": "https://www.wsj.com/world/europe/a-world-war-ii-era-feud-is-threatening-a-pivotal-alliance-for-ukraine-e648a66e?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-09-27-00-00-00 +0000"
   }
 ]
