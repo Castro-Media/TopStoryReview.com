@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 30,
+    "pubdate": "2026-09-28-09-00-00 +0000",
+    "source": "wapo",
+    "headline": "Why you might consider a midlife sabbatical and 5 questions to answer before you do",
+    "link": "https://www.washingtonpost.com/business/2026/09/28/questions-answer-you-consider-midlife-sabbatical/"
+  },
+  {
+    "score": 26,
+    "pubdate": "2026-09-28-09-02-22 +0000",
+    "source": "nyt",
+    "headline": "Under Trump, Commodity Futures Trading Commission Scales Back Enforcement, Worrying Farmers",
+    "link": "https://www.nytimes.com/2026/09/28/us/politics/cotton-trump-commodity-markets-cftc.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-09-28-08-10-26 +0000",
+    "source": "nyt",
+    "headline": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+    "link": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-09-28-08-47-00 +0000",
+    "source": "wsj",
+    "headline": "Treasury Yields Rise Amid U.S.-Iran Stalemate; German 10-Year Bund Yield Hits Highest Since 2009",
+    "link": "https://www.wsj.com/finance/treasury-yields-rise-amid-u-s-iran-diplomatic-stalemate-e763fe89?mod=rss_markets_main"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-28-09-00-51 +0000",
+    "source": "nyt",
+    "headline": "Trump Sparked a Gold Rush, and Venezuelan Gangs Take a Cut of Profit",
+    "link": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-28-09-00-20 +0000",
+    "source": "nyt",
+    "headline": "Their Sons Are Dying on Battlefields in Ukraine. They Still Back Russia’s War.",
+    "link": "https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html"
+  },
+  {
+    "score": 14,
+    "pubdate": "2026-09-28-09-00-00 +0000",
+    "source": "wapo",
+    "headline": "At every turn, Trump’s ideas for aiding U.S. consumers run into resistance",
+    "link": "https://www.washingtonpost.com/business/2026/09/28/every-turn-trumps-ideas-aiding-us-consumers-run-into-resistance/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-09-28-08-46-22 +0000",
+    "source": "nypost",
+    "headline": "Texas delivery driver Donald Johnson’s viral $700K fundraiser taken down after organizer revealed to be his daughter",
+    "link": "https://nypost.com/2026/09/28/us-news/texas-delivery-driver-donald-johnsons-viral-700k-fundraiser-taken-down-after-organizer-revealed-to-be-his-daughter/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-09-28-08-48-44 +0000",
+    "source": "nypost",
+    "headline": "Pope Leo calls out ‘false compassion’ of medically assisted suicide during French hospital visit",
+    "link": "https://nypost.com/2026/09/28/world-news/pope-leo-calls-out-false-compassion-of-medically-assisted-suicide-during-french-hospital-visit/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-09-28-09-02-51 +0000",
+    "source": "nypost",
+    "headline": "Theranos fraudster Elizabeth Holmes writes cryptic post from prison: ‘The truth will set you free’",
+    "link": "https://nypost.com/2026/09/28/us-news/theranos-fraudster-elizabeth-holmes-writes-cryptic-post-from-prison-the-truth-will-set-you-free/"
+  }
+]

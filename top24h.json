@@ -1,6 +1,6 @@
 [
   {
-    "score": 138,
+    "score": 157,
     "pubdate": "2026-09-27-15-49-32 +0000",
     "source": "nypost",
     "headline": "Trump says terror suspects in possible Iran-linked plot to attack UK base were being watched: ‘Looking to do big damage’",
@@ -14,25 +14,39 @@
     "link": "https://nypost.com/2026/09/27/world-news/wounded-veterans-selling-cheap-patriotic-merch-are-really-ai-fakes-report/"
   },
   {
-    "score": 50,
+    "score": 54,
     "pubdate": "2026-09-27-23-37-26 +0000",
     "source": "bbc",
     "headline": "One dead as nor'easter storm pummels New York and New Jersey",
     "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 50,
+    "score": 53,
     "pubdate": "2026-09-27-16-00-34 +0000",
     "source": "chitri",
     "headline": "Tensions run high in Northern Ireland after contentious Orange Order march given go-ahead",
     "link": "https://www.chicagotribune.com/2026/09/27/northern-ireland-orange-order-parade/"
   },
   {
-    "score": 48,
+    "score": 47,
     "pubdate": "2026-09-27-14-38-29 +0000",
     "source": "chitri",
     "headline": "5 men arrested near air base used by US in Iran war on suspicion of preparing a terrorist act",
     "link": "https://www.chicagotribune.com/2026/09/27/uk-police-arrest-suspicion-of-terrorist-act/"
+  },
+  {
+    "score": 45,
+    "pubdate": "2026-09-27-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Poll shows Roy holds lead in L.A. city attorney race — but most voters still undecided",
+    "link": "https://www.latimes.com/california/story/2026-09-27/poll-marissa-roy-john-mckinney-la-city-attorney-race"
+  },
+  {
+    "score": 43,
+    "pubdate": "2026-09-27-19-08-34 +0000",
+    "source": "cbc",
+    "headline": "Vucic resigns as Serbia's president, setting up election that could see him become PM",
+    "link": "https://www.cbc.ca/news/world/vucic-resigns-serbia-president-9.7360341?cmp=rss"
   },
   {
     "score": 42,
@@ -42,31 +56,17 @@
     "link": "https://www.wsj.com/politics/policy/vance-puts-his-spin-on-trumps-messaging-as-he-courts-skeptical-conservatives-a77f9ecb?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 42,
+    "score": 38,
+    "pubdate": "2026-09-28-09-00-00 +0000",
+    "source": "wapo",
+    "headline": "Why you might consider a midlife sabbatical and 5 questions to answer before you do",
+    "link": "https://www.washingtonpost.com/business/2026/09/28/questions-answer-you-consider-midlife-sabbatical/"
+  },
+  {
+    "score": 37,
     "pubdate": "2026-09-28-04-33-16 +0000",
     "source": "nypost",
     "headline": "Susie Wiles reveals brutal toll of fighting cancer while running Trump’s White House",
     "link": "https://nypost.com/2026/09/28/us-news/susie-wiles-reveals-brutal-toll-of-fighting-cancer-while-running-trumps-white-house/"
-  },
-  {
-    "score": 41,
-    "pubdate": "2026-09-27-19-08-34 +0000",
-    "source": "cbc",
-    "headline": "Vucic resigns as Serbia's president, setting up election that could see him become PM",
-    "link": "https://www.cbc.ca/news/world/vucic-resigns-serbia-president-9.7360341?cmp=rss"
-  },
-  {
-    "score": 41,
-    "pubdate": "2026-09-27-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Poll shows Roy holds lead in L.A. city attorney race — but most voters still undecided",
-    "link": "https://www.latimes.com/california/story/2026-09-27/poll-marissa-roy-john-mckinney-la-city-attorney-race"
-  },
-  {
-    "score": 37,
-    "pubdate": "2026-09-27-13-00-00 +0000",
-    "source": "latimes",
-    "headline": "Newsom signs bills aimed at expanding reproductive healthcare in California",
-    "link": "https://www.latimes.com/california/story/2026-09-27/governor-newsom-reproductive-rights-california"
   }
 ]
