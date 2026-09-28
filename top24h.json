@@ -1,20 +1,20 @@
 [
   {
-    "score": 136,
+    "score": 139,
     "pubdate": "2026-09-27-15-49-32 +0000",
     "source": "nypost",
     "headline": "Trump says terror suspects in possible Iran-linked plot to attack UK base were being watched: ‘Looking to do big damage’",
     "link": "https://nypost.com/2026/09/27/world-news/trumps-says-terror-suspects-in-possible-iran-linked-plot-to-attack-uk-base-were-being-watched/"
   },
   {
-    "score": 69,
+    "score": 68,
     "pubdate": "2026-09-27-17-33-20 +0000",
     "source": "nypost",
     "headline": "War-wounded military veterans peddling cheap patriotic merch are actually AI fakes out of China: report",
     "link": "https://nypost.com/2026/09/27/world-news/wounded-veterans-selling-cheap-patriotic-merch-are-really-ai-fakes-report/"
   },
   {
-    "score": 56,
+    "score": 55,
     "pubdate": "2026-09-27-23-37-26 +0000",
     "source": "bbc",
     "headline": "One dead as nor'easter storm pummels New York and New Jersey",
@@ -22,24 +22,31 @@
   },
   {
     "score": 49,
-    "pubdate": "2026-09-27-14-38-29 +0000",
-    "source": "chitri",
-    "headline": "5 men arrested near air base used by US in Iran war on suspicion of preparing a terrorist act",
-    "link": "https://www.chicagotribune.com/2026/09/27/uk-police-arrest-suspicion-of-terrorist-act/"
-  },
-  {
-    "score": 46,
     "pubdate": "2026-09-27-16-00-34 +0000",
     "source": "chitri",
     "headline": "Tensions run high in Northern Ireland after contentious Orange Order march given go-ahead",
     "link": "https://www.chicagotribune.com/2026/09/27/northern-ireland-orange-order-parade/"
   },
   {
+    "score": 47,
+    "pubdate": "2026-09-27-14-38-29 +0000",
+    "source": "chitri",
+    "headline": "5 men arrested near air base used by US in Iran war on suspicion of preparing a terrorist act",
+    "link": "https://www.chicagotribune.com/2026/09/27/uk-police-arrest-suspicion-of-terrorist-act/"
+  },
+  {
+    "score": 42,
+    "pubdate": "2026-09-27-09-01-12 +0000",
+    "source": "nyt",
+    "headline": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/white-house-fraud-task-force.html"
+  },
+  {
     "score": 41,
-    "pubdate": "2026-09-27-10-00-00 +0000",
-    "source": "latimes",
-    "headline": "Poll shows Roy holds lead in L.A. city attorney race — but most voters still undecided",
-    "link": "https://www.latimes.com/california/story/2026-09-27/poll-marissa-roy-john-mckinney-la-city-attorney-race"
+    "pubdate": "2026-09-27-22-28-42 +0000",
+    "source": "nypost",
+    "headline": "Elite Calabasas school covered up teacher’s sick photos of school girls because ‘he bats for the other team:’ suit",
+    "link": "https://nypost.com/2026/09/27/us-news/elite-calabasas-school-covered-up-teachers-sick-photos-of-school-girls-because-he-bats-for-the-other-team-suit/"
   },
   {
     "score": 40,
@@ -50,10 +57,10 @@
   },
   {
     "score": 40,
-    "pubdate": "2026-09-27-22-28-42 +0000",
-    "source": "nypost",
-    "headline": "Elite Calabasas school covered up teacher’s sick photos of school girls because ‘he bats for the other team:’ suit",
-    "link": "https://nypost.com/2026/09/27/us-news/elite-calabasas-school-covered-up-teachers-sick-photos-of-school-girls-because-he-bats-for-the-other-team-suit/"
+    "pubdate": "2026-09-27-10-00-00 +0000",
+    "source": "latimes",
+    "headline": "Poll shows Roy holds lead in L.A. city attorney race — but most voters still undecided",
+    "link": "https://www.latimes.com/california/story/2026-09-27/poll-marissa-roy-john-mckinney-la-city-attorney-race"
   },
   {
     "score": 39,
@@ -61,12 +68,5 @@
     "source": "wsj",
     "headline": "A scandal inside the Philadelphia DA’s office and Ford’s latest employee of the month is a hawk named El Charro. Read more in today’s 10-Point newsletter.",
     "link": "https://www.wsj.com/politics/policy/vance-puts-his-spin-on-trumps-messaging-as-he-courts-skeptical-conservatives-a77f9ecb?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 36,
-    "pubdate": "2026-09-27-09-01-12 +0000",
-    "source": "nyt",
-    "headline": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers",
-    "link": "https://www.nytimes.com/2026/09/27/us/politics/white-house-fraud-task-force.html"
   }
 ]
