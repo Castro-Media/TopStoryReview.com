@@ -1,20 +1,20 @@
 [
   {
-    "score": 273,
+    "score": 267,
     "pubdate": "2026-09-28-21-24-00 +0000",
     "source": "wsj",
     "headline": "The FAA will delay approval of Boeing’s latest 737 MAX model over a software glitch, New York prosecutors reopened an investigation into the alleged rape of a Cornell student and President Trump unveils plans for $15 billion steel mill in Iowa. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/software-glitch-will-delay-approval-of-boeings-latest-737-max-model-7a2cc5d2?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 85,
+    "score": 84,
     "pubdate": "2026-09-29-10-44-22 +0000",
     "source": "nyt",
     "headline": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor",
     "link": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
   },
   {
-    "score": 76,
+    "score": 70,
     "pubdate": "2026-09-29-11-00-57 +0000",
     "source": "chitri",
     "headline": "News organizations ask court to bar White House enforcement of access ban until case is resolved",
@@ -42,14 +42,7 @@
     "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 60,
-    "pubdate": "2026-09-28-15-44-00 +0000",
-    "source": "wsj",
-    "headline": "One of FBI Director Kash Patel’s top deputies is quitting after roughly a year on the job, amid mass departures and other turmoil at the nation’s premier law-enforcement agency",
-    "link": "https://www.wsj.com/politics/policy/a-top-kash-patel-deputy-is-leaving-the-fbi-dcef061b?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 60,
+    "score": 59,
     "pubdate": "2026-09-28-19-33-55 +0000",
     "source": "nyt",
     "headline": "Russian Drone Strikes Ukraine’s Science Academy, Causing Fire in City Center",
@@ -57,16 +50,23 @@
   },
   {
     "score": 55,
-    "pubdate": "2026-09-28-19-37-01 +0000",
-    "source": "latimes",
-    "headline": "Senate OKs a sweeping college sports bill. Here's what it would do",
-    "link": "https://www.latimes.com/politics/story/2026-09-28/senate-is-set-to-vote-on-sweeping-college-sports-bill-heres-what-it-would-do"
+    "pubdate": "2026-09-28-17-26-21 +0000",
+    "source": "bbc",
+    "headline": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+    "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 54,
+    "score": 52,
     "pubdate": "2026-09-28-16-54-00 +0000",
     "source": "wsj",
     "headline": "A Federal Reserve employee transferred potentially sensitive files outside the central bank just before retiring, exposing gaps in the Fed’s security efforts, according to an internal report",
     "link": "https://www.wsj.com/economy/central-banking/federal-reserve-staffer-removed-sensitive-files-before-retiring-report-finds-7114ee2a?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-09-29-13-39-00 +0000",
+    "source": "nyt",
+    "headline": "Estonia Says Arson at Defense Company Was ‘Deliberate’ Attack by Russia",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/estonia-russia-ukraine-milrem-fire.html"
   }
 ]
