@@ -1,17 +1,31 @@
 [
   {
-    "score": 243,
+    "score": 264,
     "pubdate": "2026-09-28-21-24-00 +0000",
     "source": "wsj",
     "headline": "The FAA will delay approval of Boeing’s latest 737 MAX model over a software glitch, New York prosecutors reopened an investigation into the alleged rape of a Cornell student and President Trump unveils plans for $15 billion steel mill in Iowa. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/software-glitch-will-delay-approval-of-boeings-latest-737-max-model-7a2cc5d2?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 86,
+    "score": 96,
     "pubdate": "2026-09-28-13-54-08 +0000",
     "source": "nypost",
     "headline": "Farmer who foiled suspected Iran terror plot on UK base blasts security — and fears several terrorists still free",
     "link": "https://nypost.com/2026/09/28/world-news/farmer-who-foiled-suspected-iran-terror-plot-on-uk-base-blasts-security-and-fears-several-terrorists-still-free/"
+  },
+  {
+    "score": 62,
+    "pubdate": "2026-09-28-15-44-00 +0000",
+    "source": "wsj",
+    "headline": "One of FBI Director Kash Patel’s top deputies is quitting after roughly a year on the job, amid mass departures and other turmoil at the nation’s premier law-enforcement agency",
+    "link": "https://www.wsj.com/politics/policy/a-top-kash-patel-deputy-is-leaving-the-fbi-dcef061b?mod=rss_socialpoliticsfeed"
+  },
+  {
+    "score": 61,
+    "pubdate": "2026-09-28-14-57-31 +0000",
+    "source": "bbc",
+    "headline": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
   },
   {
     "score": 61,
@@ -21,52 +35,38 @@
     "link": "https://nypost.com/2026/09/28/us-news/hundreds-form-human-chain-on-california-beach-to-protest-offshore-drilling/"
   },
   {
-    "score": 58,
-    "pubdate": "2026-09-28-15-44-00 +0000",
-    "source": "wsj",
-    "headline": "One of FBI Director Kash Patel’s top deputies is quitting after roughly a year on the job, amid mass departures and other turmoil at the nation’s premier law-enforcement agency",
-    "link": "https://www.wsj.com/politics/policy/a-top-kash-patel-deputy-is-leaving-the-fbi-dcef061b?mod=rss_socialpoliticsfeed"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-09-28-14-57-31 +0000",
-    "source": "bbc",
-    "headline": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
     "score": 56,
-    "pubdate": "2026-09-28-13-07-00 +0000",
-    "source": "wsj",
-    "headline": "Ahead of the release of his book “This Cursed Beautiful Land,” Evan Gershkovich sat down with Wall Street Journal Editor in Chief Emma Tucker to discuss his 2023 arrest and imprisonment in Russia",
-    "link": "https://www.wsj.com/world/how-evan-gershkovich-kept-reporting-from-inside-russias-prison-system-e41aea97?mod=rss_socialpoliticsfeed"
+    "pubdate": "2026-09-28-19-37-01 +0000",
+    "source": "latimes",
+    "headline": "Senate OKs a sweeping college sports bill. Here's what it would do",
+    "link": "https://www.latimes.com/politics/story/2026-09-28/senate-is-set-to-vote-on-sweeping-college-sports-bill-heres-what-it-would-do"
   },
   {
-    "score": 50,
-    "pubdate": "2026-09-29-02-15-42 +0000",
+    "score": 54,
+    "pubdate": "2026-09-29-03-07-25 +0000",
     "source": "nypost",
-    "headline": "Senate passes Protect College Sports Act to regulate transfers,  paying athletes",
-    "link": "https://nypost.com/2026/09/28/us-news/senate-passes-sweeping-college-sports-reforms-bill-giving-athletes-more-protections/"
+    "headline": "Trans NYT exec threatened to kill wife, scared their kids with chilling book before his in-laws shot him dead: docs",
+    "link": "https://nypost.com/2026/09/28/us-news/nyt-exec-killed-by-in-laws-threatened-wifes-life-court-docs-say/"
   },
   {
-    "score": 50,
-    "pubdate": "2026-09-29-04-41-57 +0000",
+    "score": 53,
+    "pubdate": "2026-09-29-10-44-22 +0000",
     "source": "nyt",
-    "headline": "Justice Alito Recuses Himself Days Before Major Climate-Change Case",
-    "link": "https://www.nytimes.com/2026/09/28/us/politics/alito-suncor-supreme-court-recuse.html"
+    "headline": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
   },
   {
-    "score": 49,
-    "pubdate": "2026-09-28-21-00-18 +0000",
-    "source": "chitri",
-    "headline": "President Trump disputes his ambassador’s account that he asked China’s president if he wanted to buy US arms",
-    "link": "https://www.chicagotribune.com/2026/09/28/trump-disputes-china-buy-us-arms/"
-  },
-  {
-    "score": 48,
+    "score": 52,
     "pubdate": "2026-09-29-02-08-19 +0000",
     "source": "nypost",
     "headline": "Trump administration’s Department of Education scraps Biden-era Title IX rules",
     "link": "https://nypost.com/2026/09/28/us-news/trump-administrations-department-of-education-scraps-biden-era-title-ix-rules/"
+  },
+  {
+    "score": 51,
+    "pubdate": "2026-09-28-21-00-18 +0000",
+    "source": "chitri",
+    "headline": "President Trump disputes his ambassador’s account that he asked China’s president if he wanted to buy US arms",
+    "link": "https://www.chicagotribune.com/2026/09/28/trump-disputes-china-buy-us-arms/"
   }
 ]
