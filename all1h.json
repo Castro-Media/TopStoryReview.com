@@ -1,20 +1,380 @@
 [
   {
-    "headline": "Opinion | How the U.S. Can Strengthen Its Diesel Supply",
-    "link": "https://www.wsj.com/opinion/how-the-u-s-can-strengthen-its-diesel-supply-1faed8a6?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-29-18-56-00 +0000"
+    "headline": "LIRR rider satisfaction takes a dip after MTA’s fare hike and ticket changes",
+    "link": "https://nypost.com/2026/09/29/us-news/lirr-rider-satisfaction-takes-a-dip-after-mtas-fare-hike-and-ticket-changes/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-52-46 +0000"
   },
   {
-    "headline": "Opinion | Rethinking Political Polling in the Age of AI",
-    "link": "https://www.wsj.com/opinion/rethinking-political-polling-in-the-age-of-ai-1d9ee87b?mod=rss_usnews",
-    "source": "wsj",
-    "pubdate": "2026-09-29-18-56-00 +0000"
+    "headline": "OpenAI, Google, Anthropic agree to attend AI hearing in NYC after subpoena threats",
+    "link": "https://nypost.com/2026/09/29/us-news/openai-google-anthropic-agree-to-attend-nyc-ai-hearing-after-subpoena-threats/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-52-18 +0000"
   },
   {
-    "headline": "Opinion | How the U.S. Can Strengthen Its Diesel Supply",
-    "link": "https://www.wsj.com/opinion/how-the-u-s-can-strengthen-its-diesel-supply-1faed8a6?mod=rss_usnews",
+    "headline": "The Latin American Right’s Big Bet",
+    "link": "https://www.nytimes.com/2026/09/29/world/latin-america-brazil-election-trump-openai.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-52-14 +0000"
+  },
+  {
+    "headline": "Would you pay for this robot to clean your house?",
+    "link": "https://www.bbc.co.uk/news/videos/c6lyq52wx7dko?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-29-20-51-13 +0000"
+  },
+  {
+    "headline": "Former American Idol contestant and pastor found guilty of murdering wife",
+    "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-29-20-50-43 +0000"
+  },
+  {
+    "headline": "Former American Idol contestant and pastor found guilty of murdering wife",
+    "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-29-20-50-43 +0000"
+  },
+  {
+    "headline": "Hegseth to cut more generals, admirals in bid to remake military’s top ranks",
+    "link": "https://www.washingtonpost.com/national-security/2026/09/29/hegseth-cut-more-generals-admirals-bid-remake-militarys-top-ranks/",
+    "source": "wapo",
+    "pubdate": "2026-09-29-20-48-38 +0000"
+  },
+  {
+    "headline": "Mideast Oil Exports Rebound Even as Prices Remain Elevated",
+    "link": "https://www.nytimes.com/2026/09/29/business/oil-exports-strait-of-hormuz.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-47-29 +0000"
+  },
+  {
+    "headline": "Latino leaders sign a letter asking Trump to protect long-term undocumented immigrants.",
+    "link": "https://www.nytimes.com/live/2026/09/29/us/midterms-elections/latino-leaders-sign-a-letter-asking-trump-to-protect-long-term-undocumented-immigrants",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-46-00 +0000"
+  },
+  {
+    "headline": "Why your debt keeps growing even after you’ve cut back on everything",
+    "link": "https://nypost.com/business/why-your-debt-keeps-growing/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-45-00 +0000"
+  },
+  {
+    "headline": "California town shuts down for incredible rodeo on the beach as thousands pack the sand",
+    "link": "https://nypost.com/2026/09/29/us-news/inaugural-beach-breakawave-rodeo-transforms-central-coast-enclave/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-44-50 +0000"
+  },
+  {
+    "headline": "Nancy Guthrie investigators make ruling on new possible ransom note as case nears its 8th month",
+    "link": "https://nypost.com/2026/09/29/us-news/nancy-guthrie-investigators-make-ruling-on-new-possible-ransom-note-as-case-nears-its-8th-month/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-44-30 +0000"
+  },
+  {
+    "headline": "Twins owner Tom Pohlad vows to increase payroll, understands fans’ patience has ‘run out’",
+    "link": "https://www.startribune.com/minnesota-twins-payroll-tom-pohlad-mlb-free-agency-news-jeremy-zoll-2027-roster-offseason-moves/601894062",
+    "source": "startribune",
+    "pubdate": "2026-09-29-20-42-48 +0000"
+  },
+  {
+    "headline": "Pilates studio ramps up privacy after men film women’s exercising class through glass",
+    "link": "https://www.startribune.com/pilates-studio-ramps-up-privacy-after-men-film-womens-exercising-class-through-glass/601895324",
+    "source": "startribune",
+    "pubdate": "2026-09-29-20-41-58 +0000"
+  },
+  {
+    "headline": "Car in crash that killed 3 of 7 teens near U of M was stolen",
+    "link": "https://www.startribune.com/3-killed-and-several-injured-in-crash-near-university-of-minnesota/601895278",
+    "source": "startribune",
+    "pubdate": "2026-09-29-20-41-17 +0000"
+  },
+  {
+    "headline": "Morocco’s King Names a Female Prime Minister, in a Historic First",
+    "link": "https://www.nytimes.com/2026/09/29/world/middleeast/morocco-first-woman-prime-minister.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-40-30 +0000"
+  },
+  {
+    "headline": "Morocco’s King Names a Female Prime Minister, in a Historic First",
+    "link": "https://www.nytimes.com/2026/09/29/world/middleeast/morocco-first-woman-prime-minister.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-40-30 +0000"
+  },
+  {
+    "headline": "Morocco’s King Names a Female Prime Minister, in a Historic First",
+    "link": "https://www.nytimes.com/2026/09/29/world/middleeast/morocco-first-woman-prime-minister.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-40-30 +0000"
+  },
+  {
+    "headline": "What is kratom, the 'gas station heroin' alarming officials in the US?",
+    "link": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-29-20-39-59 +0000"
+  },
+  {
+    "headline": "U.S. Supreme Court says Trump can continue deportations to 3rd countries — for now",
+    "link": "https://www.cbc.ca/news/world/trump-deportations-third-countries-supreme-court-9.7362999?cmp=rss",
+    "source": "cbc",
+    "pubdate": "2026-09-29-20-38-57 +0000"
+  },
+  {
+    "headline": "Homeless man makes a camp, complete with shopping cart, atop a bus shelter in upscale LA neighborhood",
+    "link": "https://nypost.com/2026/09/29/us-news/unusual-homeless-encampment-found-atop-brentwood-bus-shelter/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-37-10 +0000"
+  },
+  {
+    "headline": "Opinion | Steve Hilton’s ‘Uphill Battle’ for Sacramento",
+    "link": "https://www.wsj.com/opinion/steve-hiltons-uphill-battle-for-sacramento-5d033b13?mod=rss_usnews",
     "source": "wsj",
-    "pubdate": "2026-09-29-18-56-00 +0000"
+    "pubdate": "2026-09-29-20-36-00 +0000"
+  },
+  {
+    "headline": "Supreme Court allows third-country deportations to resume for now",
+    "link": "https://www.washingtonpost.com/politics/2026/09/29/supreme-court-allows-trump-administration-now-resume-third-country-deportations/",
+    "source": "wapo",
+    "pubdate": "2026-09-29-20-35-35 +0000"
+  },
+  {
+    "headline": "Supreme Court allows third-country deportations to resume for now",
+    "link": "https://www.washingtonpost.com/politics/2026/09/29/supreme-court-allows-trump-administration-now-resume-third-country-deportations/",
+    "source": "wapo",
+    "pubdate": "2026-09-29-20-35-35 +0000"
+  },
+  {
+    "headline": "New Yorkers battling Mamdani’s pied-a-terre tax snag big legal win — as casino mogul Steve Wynn joins fight",
+    "link": "https://nypost.com/2026/09/29/us-news/new-yorkers-battling-mamdanis-pied-a-terre-tax-snag-big-legal-win-as-casino-mogul-steve-wynn-joins-fight/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-33-14 +0000"
+  },
+  {
+    "headline": "Number of National Guard Troops in Washington D.C. Drops Below 3,000",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/national-guard-troops-washington.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-31-27 +0000"
+  },
+  {
+    "headline": "Number of National Guard Troops in Washington D.C. Drops Below 3,000",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/national-guard-troops-washington.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-31-27 +0000"
+  },
+  {
+    "headline": "No Bombs Found in U.K. Case, but Officials Say Threat to Bases Is Real",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/britain-air-base-iran-threat.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-31-04 +0000"
+  },
+  {
+    "headline": "No Bombs Found in U.K. Case, but Officials Say Threat to Bases Is Real",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/britain-air-base-iran-threat.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-31-04 +0000"
+  },
+  {
+    "headline": "No Bombs Found in U.K. Case, but Officials Say Threat to Bases Is Real",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/britain-air-base-iran-threat.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-31-04 +0000"
+  },
+  {
+    "headline": "California city considers midnight alcohol ban to fight crime – triggering backlash from bar owners",
+    "link": "https://nypost.com/2026/09/29/us-news/socal-city-considers-alcohol-ban-after-midnight-to-curb-rising-crime/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-30-26 +0000"
+  },
+  {
+    "headline": "Hurricane Polo makes landfall in Mexico as heavy rains bring floods to US Southwest",
+    "link": "https://www.chicagotribune.com/2026/09/29/hurricane-polo-landfall-mexico/",
+    "source": "chitri",
+    "pubdate": "2026-09-29-20-30-05 +0000"
+  },
+  {
+    "headline": "Iran’s currency hits new record low as war destroys country’s economy",
+    "link": "https://nypost.com/2026/09/29/world-news/irans-currency-hits-new-record-low-as-war-destroys-countrys-economy/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-28-50 +0000"
+  },
+  {
+    "headline": "Watchdog says President Trump can’t cancel more than $800M in spending approved by Congress",
+    "link": "https://www.chicagotribune.com/2026/09/29/watchdog-trump-congress-approved-spending/",
+    "source": "chitri",
+    "pubdate": "2026-09-29-20-27-03 +0000"
+  },
+  {
+    "headline": "Opinion | Clarence Thomas, Stalwart for the Constitution",
+    "link": "https://www.wsj.com/opinion/clarence-thomas-stalwart-for-the-constitution-fa1f3db5?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-09-29-20-27-00 +0000"
+  },
+  {
+    "headline": "Hollywood actress’ performative rant about son’s sexuality at LGBT gala fuels online backlash",
+    "link": "https://nypost.com/2026/09/29/us-news/hollywood-actress-performative-rant-about-sons-sexuality-at-lgbt-gala-fuels-online-backlash/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-26-03 +0000"
+  },
+  {
+    "headline": "Trump rules out joint US-China venture to develop AI",
+    "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-29-20-24-18 +0000"
+  },
+  {
+    "headline": "Trump rules out joint US-China venture to develop AI",
+    "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-29-20-24-18 +0000"
+  },
+  {
+    "headline": "U.S. Stocks Edge Lower as Consumer Confidence Sinks",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-edge-lower-as-consumer-confidence-sinks-4b38d491?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-29-20-23-00 +0000"
+  },
+  {
+    "headline": "After 37 Years on Death Row, Man Is Freed From Utah Jail",
+    "link": "https://www.nytimes.com/2026/09/29/us/douglas-carter-death-row-released-utah.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-21-52 +0000"
+  },
+  {
+    "headline": "McDonald’s pushes AI tools that suggest Big Mac prices based on ‘customer willingness to pay’",
+    "link": "https://nypost.com/2026/09/29/business/mcdonalds-pushes-ai-tools-that-suggest-big-mac-prices-based-on-customer-willingness-to-pay/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-21-33 +0000"
+  },
+  {
+    "headline": "Long-Term Treasury Yields Push Higher Despite Decline in Oil Prices",
+    "link": "https://www.wsj.com/finance/investing/long-term-treasury-yields-push-higher-despite-decline-in-oil-prices-7f69c1b7?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-29-20-20-00 +0000"
+  },
+  {
+    "headline": "Best of the Bay 2026 Editors’ Pick: Festus Ezeli",
+    "link": "https://48hills.org/2026/09/best-of-the-bay-2026-editors-pick-festus-ezeli/",
+    "source": "48hills",
+    "pubdate": "2026-09-29-20-19-26 +0000"
+  },
+  {
+    "headline": "Pedestrian killed steps away from Inner Richmond playground",
+    "link": "https://missionlocal.org/2026/09/pedestrian-killed-steps-away-from-inner-richmond-playground/",
+    "source": "missionlocal",
+    "pubdate": "2026-09-29-20-17-52 +0000"
+  },
+  {
+    "headline": "Supreme Court Allows Rapid Third-Country Deportations, for Now",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-16-27 +0000"
+  },
+  {
+    "headline": "Supreme Court Allows Rapid Third-Country Deportations, for Now",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-16-27 +0000"
+  },
+  {
+    "headline": "Woman Is Found Captive in Attic Near Boston, Leading to Charges for Man",
+    "link": "https://www.nytimes.com/2026/09/29/us/massachusetts-sex-trafficking-kidnapping-charges.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-13-55 +0000"
+  },
+  {
+    "headline": "Opinion | ‘Strategic Stability’ Is a Comforting Foreign-Policy Fantasy",
+    "link": "https://www.wsj.com/opinion/strategic-stability-is-a-comforting-foreign-policy-fantasy-0cce4625?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-29-20-13-00 +0000"
+  },
+  {
+    "headline": "Opinion | ‘Strategic Stability’ Is a Comforting Foreign-Policy Fantasy",
+    "link": "https://www.wsj.com/opinion/strategic-stability-is-a-comforting-foreign-policy-fantasy-0cce4625?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-09-29-20-13-00 +0000"
+  },
+  {
+    "headline": "Supreme Court lets quick deportations to third countries resume for now while it weighs Trump policy",
+    "link": "https://www.chicagotribune.com/2026/09/29/supreme-court-deportations-third-countries/",
+    "source": "chitri",
+    "pubdate": "2026-09-29-20-12-23 +0000"
+  },
+  {
+    "headline": "Opinion | Is All Art Political?",
+    "link": "https://www.wsj.com/opinion/is-all-art-political-3e86e3dd?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-09-29-20-12-00 +0000"
+  },
+  {
+    "headline": "Defense Secretary Pete Hegseth will announce plans to cut by 20% the number of positions reserved for generals and admirals during a speech to servicemembers on Wednesday",
+    "link": "https://www.wsj.com/politics/national-security/pete-hegseth-military-officer-cuts-e4acab48?mod=rss_socialpoliticsfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-29-20-11-00 +0000"
+  },
+  {
+    "headline": "Journalist crowned king in Uganda after bitter succession dispute",
+    "link": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-29-20-09-27 +0000"
+  },
+  {
+    "headline": "Journalist crowned king in Uganda after bitter succession dispute",
+    "link": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss",
+    "source": "bbc",
+    "pubdate": "2026-09-29-20-09-27 +0000"
+  },
+  {
+    "headline": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
+    "link": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-07-11 +0000"
+  },
+  {
+    "headline": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
+    "link": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-07-11 +0000"
+  },
+  {
+    "headline": "‘American Idol’ alum Caleb Flynn blubbers as he’s convicted on all counts for killing wife to be with young mistress",
+    "link": "https://nypost.com/2026/09/29/us-news/american-idol-star-caleb-flynn-found-guilty-of-killing-wife-in-sick-plan-to-start-new-life-with-his-young-mistress/",
+    "source": "nypost",
+    "pubdate": "2026-09-29-20-06-33 +0000"
+  },
+  {
+    "headline": "After 41 years and a contentious sale, French Meadow in Minneapolis has closed",
+    "link": "https://www.startribune.com/french-meadow-minneapolis-closed/601895392",
+    "source": "startribune",
+    "pubdate": "2026-09-29-20-03-28 +0000"
+  },
+  {
+    "headline": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falters",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-02-15 +0000"
+  },
+  {
+    "headline": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falters",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-20-02-15 +0000"
+  },
+  {
+    "headline": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline",
+    "link": "https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-19-59-11 +0000"
+  },
+  {
+    "headline": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline",
+    "link": "https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-19-59-11 +0000"
+  },
+  {
+    "headline": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline",
+    "link": "https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html",
+    "source": "nyt",
+    "pubdate": "2026-09-29-19-59-11 +0000"
   }
 ]
