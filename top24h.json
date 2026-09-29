@@ -1,34 +1,48 @@
 [
   {
-    "score": 271,
+    "score": 273,
     "pubdate": "2026-09-28-21-24-00 +0000",
     "source": "wsj",
     "headline": "The FAA will delay approval of Boeing’s latest 737 MAX model over a software glitch, New York prosecutors reopened an investigation into the alleged rape of a Cornell student and President Trump unveils plans for $15 billion steel mill in Iowa. Read more in today’s What’s News newsletter:",
     "link": "https://www.wsj.com/politics/policy/software-glitch-will-delay-approval-of-boeings-latest-737-max-model-7a2cc5d2?mod=rss_socialpoliticsfeed"
   },
   {
-    "score": 89,
+    "score": 85,
     "pubdate": "2026-09-29-10-44-22 +0000",
     "source": "nyt",
     "headline": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor",
     "link": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
   },
   {
-    "score": 72,
+    "score": 76,
     "pubdate": "2026-09-29-11-00-57 +0000",
     "source": "chitri",
     "headline": "News organizations ask court to bar White House enforcement of access ban until case is resolved",
     "link": "https://www.chicagotribune.com/2026/09/29/news-organizations-white-house-court/"
   },
   {
-    "score": 64,
-    "pubdate": "2026-09-29-07-54-00 +0000",
-    "source": "wsj",
-    "headline": "Oil Prices Rise as U.S.-Iran Talks Remain Uncertain",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-u-s-iran-talks-remain-uncertain-1a33ff00?mod=rss_worldnews"
+    "score": 67,
+    "pubdate": "2026-09-28-21-00-18 +0000",
+    "source": "chitri",
+    "headline": "President Trump disputes his ambassador’s account that he asked China’s president if he wanted to buy US arms",
+    "link": "https://www.chicagotribune.com/2026/09/28/trump-disputes-china-buy-us-arms/"
   },
   {
-    "score": 62,
+    "score": 63,
+    "pubdate": "2026-09-29-13-34-00 +0000",
+    "source": "wsj",
+    "headline": "Crude Oil Lower As Saudi Arabia Resumes Red Sea Oil Exports",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-deadlock-in-u-s-iran-ceasefire-talks-288f189e?mod=rss_markets_main"
+  },
+  {
+    "score": 61,
+    "pubdate": "2026-09-29-12-20-02 +0000",
+    "source": "bbc",
+    "headline": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+    "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "score": 60,
     "pubdate": "2026-09-28-15-44-00 +0000",
     "source": "wsj",
     "headline": "One of FBI Director Kash Patel’s top deputies is quitting after roughly a year on the job, amid mass departures and other turmoil at the nation’s premier law-enforcement agency",
@@ -36,37 +50,23 @@
   },
   {
     "score": 60,
-    "pubdate": "2026-09-28-14-57-31 +0000",
-    "source": "bbc",
-    "headline": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-    "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
+    "pubdate": "2026-09-28-19-33-55 +0000",
+    "source": "nyt",
+    "headline": "Russian Drone Strikes Ukraine’s Science Academy, Causing Fire in City Center",
+    "link": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html"
   },
   {
-    "score": 58,
-    "pubdate": "2026-09-28-21-00-18 +0000",
-    "source": "chitri",
-    "headline": "President Trump disputes his ambassador’s account that he asked China’s president if he wanted to buy US arms",
-    "link": "https://www.chicagotribune.com/2026/09/28/trump-disputes-china-buy-us-arms/"
-  },
-  {
-    "score": 57,
-    "pubdate": "2026-09-28-16-54-00 +0000",
-    "source": "wsj",
-    "headline": "A Federal Reserve employee transferred potentially sensitive files outside the central bank just before retiring, exposing gaps in the Fed’s security efforts, according to an internal report",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-staffer-removed-sensitive-files-before-retiring-report-finds-7114ee2a?mod=rss_socialeconomyfeed"
-  },
-  {
-    "score": 56,
+    "score": 55,
     "pubdate": "2026-09-28-19-37-01 +0000",
     "source": "latimes",
     "headline": "Senate OKs a sweeping college sports bill. Here's what it would do",
     "link": "https://www.latimes.com/politics/story/2026-09-28/senate-is-set-to-vote-on-sweeping-college-sports-bill-heres-what-it-would-do"
   },
   {
-    "score": 50,
-    "pubdate": "2026-09-29-12-26-00 +0000",
+    "score": 54,
+    "pubdate": "2026-09-28-16-54-00 +0000",
     "source": "wsj",
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-edb01a3a?mod=rss_markets_main"
+    "headline": "A Federal Reserve employee transferred potentially sensitive files outside the central bank just before retiring, exposing gaps in the Fed’s security efforts, according to an internal report",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-staffer-removed-sensitive-files-before-retiring-report-finds-7114ee2a?mod=rss_socialeconomyfeed"
   }
 ]
