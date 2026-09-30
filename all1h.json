@@ -1,254 +1,152 @@
 [
   {
-    "headline": "Cornell’s Chi Phi Chapter Faces Scrutiny Over Assault Accusations",
-    "link": "https://www.nytimes.com/2026/09/29/us/chi-phi-fraternity-scrutiny-cornell-accusations.html",
+    "headline": "WNBA player reveals own story of sexual assault in wake of ‘Cornell 7’ gang rape allegations",
+    "link": "https://nypost.com/2026/09/29/sports/aces-justine-pissott-reveals-own-story-of-sexual-assault-in-wake-of-cornell-7-allegations/",
+    "source": "nypost",
+    "pubdate": "2026-09-30-01-24-28 +0000"
+  },
+  {
+    "headline": "Car in crash that killed 3 of 7 teens near U of M was stolen",
+    "link": "https://www.startribune.com/3-killed-and-several-injured-in-crash-near-university-of-minnesota/601895278",
+    "source": "startribune",
+    "pubdate": "2026-09-30-01-22-33 +0000"
+  },
+  {
+    "headline": "Air Force Major Recommended for General Court-Martial After Protesting Trump",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/air-force-major-court-martial-trump.html",
     "source": "nyt",
-    "pubdate": "2026-09-29-23-52-41 +0000"
+    "pubdate": "2026-09-30-01-18-06 +0000"
   },
   {
-    "headline": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-    "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-47-10 +0000"
+    "headline": "Air Force Major Recommended for General Court-Martial After Protesting Trump",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/air-force-major-court-martial-trump.html",
+    "source": "nyt",
+    "pubdate": "2026-09-30-01-18-06 +0000"
   },
   {
-    "headline": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-    "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-47-10 +0000"
+    "headline": "Gold Steady; Markets Await U.S. Economic Data",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-markets-await-u-s-economic-data-f233fc21?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-30-01-15-00 +0000"
+  },
+  {
+    "headline": "Cancer patient sues hospital after surgeon allegedly amputated wrong leg: ‘Defies explanation’",
+    "link": "https://nypost.com/2026/09/29/us-news/ohio-woman-sues-hospital-after-surgeon-allegedly-amputated-wrong-leg/",
+    "source": "nypost",
+    "pubdate": "2026-09-30-01-11-50 +0000"
+  },
+  {
+    "headline": "Chinese nationals busted in bizarre passport scheme at California airport",
+    "link": "https://nypost.com/2026/09/29/us-news/chinese-nationals-caught-using-stolen-us-passports-at-oc-airport/",
+    "source": "nypost",
+    "pubdate": "2026-09-30-01-10-47 +0000"
+  },
+  {
+    "headline": "Sen. Katie Britt’s ‘look of utter horror’ as GOP colleague’s perjury accusation unravels during Jack Smith hearing goes viral",
+    "link": "https://nypost.com/2026/09/29/us-news/sen-katie-britts-look-of-utter-horror-as-gop-colleagues-perjury-accusation-unravels-during-jack-smith-hearing-goes-viral/",
+    "source": "nypost",
+    "pubdate": "2026-09-30-01-07-40 +0000"
+  },
+  {
+    "headline": "Sen. Katie Britt’s ‘look of utter horror’ as GOP colleague’s perjury accusation unravels during Jack Smith hearing goes viral",
+    "link": "https://nypost.com/2026/09/29/us-news/sen-katie-britts-look-of-utter-horror-as-gop-colleagues-perjury-accusation-unravels-during-jack-smith-hearing-goes-viral/",
+    "source": "nypost",
+    "pubdate": "2026-09-30-01-07-40 +0000"
+  },
+  {
+    "headline": "Live: Liberty take an early lead over Lynx in Game 2 of WNBA playoff series",
+    "link": "https://www.startribune.com/minnesota-lynx-new-york-liberty-score-today-wnba-playoffs-game-2-live-updates-olivia-miles-stats/601894899",
+    "source": "startribune",
+    "pubdate": "2026-09-30-01-01-57 +0000"
+  },
+  {
+    "headline": "Wall Street’s Hopes for a Blockbuster IPO Season Are Starting to Fade",
+    "link": "https://www.wsj.com/finance/stocks/wall-streets-hopes-for-a-blockbuster-ipo-season-are-starting-to-fade-1bb8f8db?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-30-01-00-00 +0000"
+  },
+  {
+    "headline": "The Gap Between the Rich and the Very, Very Rich Is Getting Wider",
+    "link": "https://www.wsj.com/economy/the-gap-between-the-rich-and-the-very-very-rich-is-getting-wider-5f76ab6c?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-30-01-00-00 +0000"
+  },
+  {
+    "headline": "The U.S. Military Exits Iraq, Leaving Behind a Nation in Peril",
+    "link": "https://www.wsj.com/world/middle-east/iran-american-military-iraq-militants-e5e20c75?mod=rss_worldnews",
+    "source": "wsj",
+    "pubdate": "2026-09-30-01-00-00 +0000"
+  },
+  {
+    "headline": "Buoyed by a stock-market boom that has added trillions of dollars to their net worth, the extremely rich are even pulling away from other rich Americans",
+    "link": "https://www.wsj.com/economy/the-gap-between-the-rich-and-the-very-very-rich-is-getting-wider-5f76ab6c?mod=rss_socialeconomyfeed",
+    "source": "wsj",
+    "pubdate": "2026-09-30-01-00-00 +0000"
+  },
+  {
+    "headline": "The Gap Between the Rich and the Very, Very Rich Is Getting Wider",
+    "link": "https://www.wsj.com/economy/the-gap-between-the-rich-and-the-very-very-rich-is-getting-wider-5f76ab6c?mod=rss_usnews",
+    "source": "wsj",
+    "pubdate": "2026-09-30-01-00-00 +0000"
+  },
+  {
+    "headline": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-09-30-00-46-16 +0000"
+  },
+  {
+    "headline": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-09-30-00-46-16 +0000"
+  },
+  {
+    "headline": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html",
+    "source": "nyt",
+    "pubdate": "2026-09-30-00-46-16 +0000"
+  },
+  {
+    "headline": "Nikkei Rises 1.5%, Led by Chip, Bank Stocks",
+    "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-5-led-by-chip-bank-stocks-c8b678d7?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-30-00-41-00 +0000"
+  },
+  {
+    "headline": "Oil Prices Mixed, But Production Recovery May Weigh",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-but-production-recovery-may-weigh-c851c0fa?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-09-30-00-38-00 +0000"
+  },
+  {
+    "headline": "'Absolutely disgusting': Therapist who recorded young girls in bathroom gets prison time",
+    "link": "https://www.latimes.com/california/story/2026-09-29/manhattan-beach-therapist-prison-sentence",
+    "source": "latimes",
+    "pubdate": "2026-09-30-00-37-46 +0000"
+  },
+  {
+    "headline": "Lindsay Clancy Moves Toward Murder Retrial as Judge Sets Key Hearing Date",
+    "link": "https://www.nytimes.com/2026/09/29/us/lindsay-clancy-hearing.html",
+    "source": "nyt",
+    "pubdate": "2026-09-30-00-36-23 +0000"
+  },
+  {
+    "headline": "Who Attended Trump’s AI Luncheon, and Who Sat Where",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html",
+    "source": "nyt",
+    "pubdate": "2026-09-30-00-32-59 +0000"
+  },
+  {
+    "headline": "Who Attended Trump’s AI Luncheon, and Who Sat Where",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html",
+    "source": "nyt",
+    "pubdate": "2026-09-30-00-32-59 +0000"
   },
   {
     "headline": "Ellison Picks HBO Content Chief to Run Paramount-Warner Streaming Business",
     "link": "https://www.wsj.com/business/media/ellison-picks-hbo-content-chief-to-run-paramount-warner-streaming-business-db33649c?mod=pls_whats_news_us_business_f",
     "source": "wsj",
-    "pubdate": "2026-09-29-23-46-00 +0000"
-  },
-  {
-    "headline": "Xavier Becerra’s excruciating interview sees him stumble over basic questions, gets name wrong in painful watch",
-    "link": "https://nypost.com/2026/09/29/us-news/xavier-becerra-stumbles-through-awkward-interview-with-norcal-media/",
-    "source": "nypost",
-    "pubdate": "2026-09-29-23-45-32 +0000"
-  },
-  {
-    "headline": "Xavier Becerra’s excruciating interview sees him stumble over basic questions, gets name wrong in painful watch",
-    "link": "https://nypost.com/2026/09/29/us-news/xavier-becerra-stumbles-through-awkward-interview-with-norcal-media/",
-    "source": "nypost",
-    "pubdate": "2026-09-29-23-45-32 +0000"
-  },
-  {
-    "headline": "A.I. Is ‘Better Informed’ Than Doctors, Kennedy Tells Industry-Backed MAHA Summit",
-    "link": "https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html",
-    "source": "nyt",
-    "pubdate": "2026-09-29-23-41-41 +0000"
-  },
-  {
-    "headline": "A.I. Is ‘Better Informed’ Than Doctors, Kennedy Tells Industry-Backed MAHA Summit",
-    "link": "https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html",
-    "source": "nyt",
-    "pubdate": "2026-09-29-23-41-41 +0000"
-  },
-  {
-    "headline": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-    "link": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-39-58 +0000"
-  },
-  {
-    "headline": "Trump Launches Government Chatbot That Contradicts Some of His Claims",
-    "link": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-chatbot-america.html",
-    "source": "nyt",
-    "pubdate": "2026-09-29-23-39-49 +0000"
-  },
-  {
-    "headline": "Trump Launches Government Chatbot That Contradicts Some of His Claims",
-    "link": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-chatbot-america.html",
-    "source": "nyt",
-    "pubdate": "2026-09-29-23-39-49 +0000"
-  },
-  {
-    "headline": "Investigators announce break in Mexico’s most notorious unsolved crime",
-    "link": "https://www.washingtonpost.com/world/2026/09/29/investigators-announce-break-mexicos-most-notorious-unsolved-crime/",
-    "source": "wapo",
-    "pubdate": "2026-09-29-23-38-00 +0000"
-  },
-  {
-    "headline": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart",
-    "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
-    "source": "nyt",
-    "pubdate": "2026-09-29-23-37-56 +0000"
-  },
-  {
-    "headline": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart",
-    "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
-    "source": "nyt",
-    "pubdate": "2026-09-29-23-37-56 +0000"
-  },
-  {
-    "headline": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-    "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-33-34 +0000"
-  },
-  {
-    "headline": "Why Kroger Is Trying to Be More Like Walmart",
-    "link": "https://www.wsj.com/business/retail/why-kroger-is-trying-to-be-more-like-walmart-12963bdf?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-29-23-30-00 +0000"
-  },
-  {
-    "headline": "Scientists identify new species of penguin in subantarctic waters — the first in over a century",
-    "link": "https://nypost.com/2026/09/29/science/scientists-identify-new-species-of-penguin-in-subantarctic-waters-the-first-in-over-a-century/",
-    "source": "nypost",
-    "pubdate": "2026-09-29-23-29-43 +0000"
-  },
-  {
-    "headline": "Monster hurricane barrels toward US with ‘34 trillion gallons of rainfall’ — and what it means for California",
-    "link": "https://nypost.com/2026/09/29/us-news/hurricane-polo-brings-dangerous-rip-currents-to-socal-beaches/",
-    "source": "nypost",
-    "pubdate": "2026-09-29-23-28-06 +0000"
-  },
-  {
-    "headline": "Venezuelan man shot by ICE in Texas is charged with assault",
-    "link": "https://www.bbc.co.uk/news/articles/c63eqgz41n0xo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-27-47 +0000"
-  },
-  {
-    "headline": "NYU professor Scott Galloway regrets ‘stupid’ decision to sell off stocks following Trump 2016 win: ‘Biggest investment mistake’",
-    "link": "https://nypost.com/2026/09/29/media/nyu-professor-regrets-stupid-decision-to-sell-off-stocks-following-trump-2016-win/",
-    "source": "nypost",
-    "pubdate": "2026-09-29-23-27-04 +0000"
-  },
-  {
-    "headline": "California will add 'Non-Ultraprocessed Certified' seal to foods. What that means",
-    "link": "https://www.latimes.com/california/story/2026-09-29/california-will-add-non-ultraprocessed-certified-seal-to-foods-what-that-means",
-    "source": "latimes",
-    "pubdate": "2026-09-29-23-26-21 +0000"
-  },
-  {
-    "headline": "Appeals court signals support for contempt inquiry on deportation flights",
-    "link": "https://www.washingtonpost.com/national-security/2026/09/29/appeals-court-signals-support-contempt-inquiry-deportation-flights/",
-    "source": "wapo",
-    "pubdate": "2026-09-29-23-21-49 +0000"
-  },
-  {
-    "headline": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves",
-    "link": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html",
-    "source": "nyt",
-    "pubdate": "2026-09-29-23-20-43 +0000"
-  },
-  {
-    "headline": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves",
-    "link": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html",
-    "source": "nyt",
-    "pubdate": "2026-09-29-23-20-43 +0000"
-  },
-  {
-    "headline": "Chinese AI tool told researchers how to make bioweapons",
-    "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-15-29 +0000"
-  },
-  {
-    "headline": "Chinese AI tool told researchers how to make bioweapons",
-    "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-15-29 +0000"
-  },
-  {
-    "headline": "Robinhood’s Next Big Bet: AI Bots That Trade While You Sleep",
-    "link": "https://www.wsj.com/finance/investing/robinhoods-next-big-bet-ai-bots-that-trade-while-you-sleep-f9d40f62?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-29-23-15-00 +0000"
-  },
-  {
-    "headline": "Ad About Welfare Fraud Draws MAGA Backlash",
-    "link": "https://www.nytimes.com/2026/09/29/us/sarah-huckabee-sanders-campaign-ad.html",
-    "source": "nyt",
-    "pubdate": "2026-09-29-23-10-05 +0000"
-  },
-  {
-    "headline": "Feds urged to crack down on fake passports, green cards along NYC’s Roosevelt Avenue",
-    "link": "https://nypost.com/2026/09/29/us-news/feds-urged-to-crack-down-on-fake-passports-green-cards-along-roosevelt-avenue/",
-    "source": "nypost",
-    "pubdate": "2026-09-29-23-09-34 +0000"
-  },
-  {
-    "headline": "Iran publishes propaganda letter urging US voters to punish Trump in midterm elections",
-    "link": "https://nypost.com/2026/09/29/world-news/iran-publishes-propaganda-letter-urging-us-voters-to-punish-trump-in-midterm-elections/",
-    "source": "nypost",
-    "pubdate": "2026-09-29-23-09-29 +0000"
-  },
-  {
-    "headline": "The start-ups hoping to return battery making to the US",
-    "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-06-50 +0000"
-  },
-  {
-    "headline": "'I like proving people wrong': The women taking up DIY and plumbing",
-    "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-06-14 +0000"
-  },
-  {
-    "headline": "Huel ad banned for suggesting its products could replace all conventional food",
-    "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-06-06 +0000"
-  },
-  {
-    "headline": "Household energy bills forecast to see biggest rise in four years",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-03-13 +0000"
-  },
-  {
-    "headline": "Household energy bills forecast to see biggest rise in four years",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-09-29-23-03-13 +0000"
-  },
-  {
-    "headline": "Hochul dodges weighing in on Mamdani’s antisemitism plan — which won’t define the term",
-    "link": "https://nypost.com/2026/09/29/us-news/hochul-dodges-weighing-in-on-mamdanis-antisemitism-plan/",
-    "source": "nypost",
-    "pubdate": "2026-09-29-23-01-49 +0000"
-  },
-  {
-    "headline": "NYC charity God’s Love We Deliver receives gift from Global Citizen Festival — after concert was canceled from storm",
-    "link": "https://nypost.com/2026/09/29/us-news/nyc-charity-gods-love-we-deliver-receives-gift-from-global-citizen-festival/",
-    "source": "nypost",
-    "pubdate": "2026-09-29-23-00-21 +0000"
-  },
-  {
-    "headline": "Xavier Becerra mocked migrant kids as ‘little Juanitos’, ex-aide claims",
-    "link": "https://nypost.com/2026/09/29/us-news/xavier-becerra-mocked-migrant-children-ex-biden-official-says/",
-    "source": "nypost",
-    "pubdate": "2026-09-29-23-00-06 +0000"
-  },
-  {
-    "headline": "Xavier Becerra mocked migrant kids as ‘little Juanitos’, ex-aide claims",
-    "link": "https://nypost.com/2026/09/29/us-news/xavier-becerra-mocked-migrant-children-ex-biden-official-says/",
-    "source": "nypost",
-    "pubdate": "2026-09-29-23-00-06 +0000"
-  },
-  {
-    "headline": "He Was Rejected by Goldman Out of College. Now He’s Poised to Run the Bank.",
-    "link": "https://www.wsj.com/finance/investing/he-was-rejected-by-goldman-out-of-college-now-hes-poised-to-run-the-bank-c675e836?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-09-29-23-00-00 +0000"
-  },
-  {
-    "headline": "He Was Rejected by Goldman Out of College. Now He’s Poised to Run the Bank.",
-    "link": "https://www.wsj.com/finance/investing/he-was-rejected-by-goldman-out-of-college-now-hes-poised-to-run-the-bank-c675e836?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-09-29-23-00-00 +0000"
-  },
-  {
-    "headline": "Americans in both parties back government-imposed price caps and other market interventions to make life more affordable, suggesting new support for populist ideas, according to a WSJ survey",
-    "link": "https://www.wsj.com/politics/policy/americans-want-populist-policies-that-defy-traditional-political-labels-119b29b9?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-09-29-23-00-00 +0000"
+    "pubdate": "2026-09-30-00-29-00 +0000"
   }
 ]
