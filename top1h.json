@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 56,
+    "pubdate": "2026-09-30-16-50-32 +0000",
+    "source": "nyt",
+    "headline": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+    "link": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-09-30-16-18-16 +0000",
+    "source": "nyt",
+    "headline": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
+    "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html"
+  },
+  {
+    "score": 21,
+    "pubdate": "2026-09-30-16-28-00 +0000",
+    "source": "wsj",
+    "headline": "Health Care Roundup: Market Talk",
+    "link": "https://www.wsj.com/business/health-care-roundup-market-talk-185e0866?mod=rss_markets_main"
+  },
+  {
+    "score": 20,
+    "pubdate": "2026-09-30-16-32-35 +0000",
+    "source": "nyt",
+    "headline": "Air Force Major Recommended for General Court-Martial After Protesting Trump",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/air-force-major-court-martial-trump.html"
+  },
+  {
+    "score": 19,
+    "pubdate": "2026-09-30-16-52-10 +0000",
+    "source": "wapo",
+    "headline": "Pilot on Tel Aviv-bound flight tried to crash plane after cockpit stabbing, Netanyahu says",
+    "link": "https://www.washingtonpost.com/world/2026/09/30/flydubai-flight-tel-aviv-diverted-saudi-arabia-after-onboard-altercation/"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-09-30-16-50-52 +0000",
+    "source": "nypost",
+    "headline": "Grim new details revealed in Cornell student’s account of alleged gang rape: ‘Instantly horrified’",
+    "link": "https://nypost.com/2026/09/30/us-news/grim-new-details-revealed-in-cornell-students-account-of-alleged-gang-rape/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-30-16-17-40 +0000",
+    "source": "nypost",
+    "headline": "General Mills names insider Dana McNabb as CEO, succeeding Jeff Harmening",
+    "link": "https://nypost.com/2026/09/30/business/general-mills-names-dana-mcnabb-as-ceo-succeeding-jeff-harmening/"
+  },
+  {
+    "score": 15,
+    "pubdate": "2026-09-30-16-02-45 +0000",
+    "source": "nypost",
+    "headline": "Kings minority owner stumps up astonishing sum to widow of CHP officer he killed in horror crash",
+    "link": "https://nypost.com/2026/09/30/us-news/kings-minority-owner-to-pay-widow-16m-after-chp-officer-killed-in-crash/"
+  },
+  {
+    "score": 13,
+    "pubdate": "2026-09-30-16-40-17 +0000",
+    "source": "nyt",
+    "headline": "Hundreds Detained in France as Some Student Protests Turn Violent",
+    "link": "https://www.nytimes.com/2026/09/30/world/europe/france-student-protest-arrests.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-09-30-16-06-23 +0000",
+    "source": "bbc",
+    "headline": "Brexit referendum 'possible' in Labour election manifesto, says Burnham",
+    "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss"
+  }
+]
