@@ -1,6 +1,6 @@
 [
   {
-    "score": 249,
+    "score": 243,
     "pubdate": "2026-09-29-21-47-00 +0000",
     "source": "wsj",
     "headline": "Defense Secretary Pete Hegseth will announce 20% cut to top brass, the Trump administration used Homeland Security funds for pro-Trump television ads and billionaire Peter Thiel is behind the $130 million purchase of Casa Encantada. Read more in today’s What’s News newsletter:",
@@ -14,14 +14,14 @@
     "link": "https://nypost.com/2026/09/29/world-news/new-uk-prime-minister-andy-burnham-hints-at-european-union-rekindling/"
   },
   {
-    "score": 84,
+    "score": 83,
     "pubdate": "2026-09-29-23-00-00 +0000",
     "source": "wsj",
     "headline": "He Was Rejected by Goldman Out of College. Now He’s Poised to Run the Bank.",
-    "link": "https://www.wsj.com/finance/investing/he-was-rejected-by-goldman-out-of-college-now-hes-poised-to-run-the-bank-c675e836?mod=pls_whats_news_us_business_f"
+    "link": "https://www.wsj.com/finance/investing/he-was-rejected-by-goldman-out-of-college-now-hes-poised-to-run-the-bank-c675e836?mod=rss_markets_main"
   },
   {
-    "score": 73,
+    "score": 70,
     "pubdate": "2026-09-29-17-27-33 +0000",
     "source": "chitri",
     "headline": "President Trump says top tech firms have signed accord to ‘self-police’ AI development",
@@ -35,6 +35,13 @@
     "link": "https://nypost.com/2026/09/29/us-news/sen-katie-britts-look-of-utter-horror-as-gop-colleagues-perjury-accusation-unravels-during-jack-smith-hearing-goes-viral/"
   },
   {
+    "score": 66,
+    "pubdate": "2026-09-29-17-31-30 +0000",
+    "source": "bbc",
+    "headline": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
+    "link": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss"
+  },
+  {
     "score": 65,
     "pubdate": "2026-09-30-01-00-00 +0000",
     "source": "wsj",
@@ -42,31 +49,24 @@
     "link": "https://www.wsj.com/economy/the-gap-between-the-rich-and-the-very-very-rich-is-getting-wider-5f76ab6c?mod=rss_socialeconomyfeed"
   },
   {
-    "score": 65,
-    "pubdate": "2026-09-29-17-31-30 +0000",
-    "source": "bbc",
-    "headline": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
-    "link": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 59,
+    "score": 58,
     "pubdate": "2026-09-29-17-27-20 +0000",
     "source": "nyt",
     "headline": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor",
     "link": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
   },
   {
-    "score": 55,
-    "pubdate": "2026-09-29-13-38-06 +0000",
-    "source": "bbc",
-    "headline": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-    "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 53,
+    "score": 54,
     "pubdate": "2026-09-29-15-23-00 +0000",
     "source": "wsj",
     "headline": "U.S. Consumer Confidence Fell in September Amid Elevated Oil Prices, Inflation Worries, Conference Board Says",
     "link": "https://www.wsj.com/economy/central-banking/u-s-consumer-confidence-fell-sharply-in-september-conference-board-says-a3578a0f?mod=rss_socialeconomyfeed"
+  },
+  {
+    "score": 52,
+    "pubdate": "2026-09-29-13-38-06 +0000",
+    "source": "bbc",
+    "headline": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+    "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss"
   }
 ]
