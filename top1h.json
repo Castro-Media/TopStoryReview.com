@@ -1,51 +1,72 @@
 [
   {
-    "score": 16,
-    "pubdate": "2026-10-03-10-25-33 +0000",
+    "score": 32,
+    "pubdate": "2026-10-03-12-40-16 +0000",
     "source": "nyt",
-    "headline": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
-    "link": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html"
+    "headline": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+    "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html"
+  },
+  {
+    "score": 27,
+    "pubdate": "2026-10-03-12-47-42 +0000",
+    "source": "nyt",
+    "headline": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets",
+    "link": "https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html"
+  },
+  {
+    "score": 24,
+    "pubdate": "2026-10-03-13-11-38 +0000",
+    "source": "nyt",
+    "headline": "How RAF Fairford in a Quiet Corner of England Became a U.S.-Iran Flashpoint",
+    "link": "https://www.nytimes.com/2026/10/03/world/europe/raf-fairford-air-base-incident-iran.html"
+  },
+  {
+    "score": 22,
+    "pubdate": "2026-10-03-13-21-12 +0000",
+    "source": "nypost",
+    "headline": "Crew of hijacked flydubai plane clashed with heroic Israeli passengers, demanded tied-up terror pilot be freed",
+    "link": "https://nypost.com/2026/10/03/us-news/crew-of-hijacked-flydubai-plane-fought-with-israeli-passengers-to-free-the-terrorist/"
+  },
+  {
+    "score": 17,
+    "pubdate": "2026-10-03-13-06-04 +0000",
+    "source": "nyt",
+    "headline": "American High School Students Are Selling Guns Bound for Cartels",
+    "link": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html"
   },
   {
     "score": 12,
-    "pubdate": "2026-10-03-10-27-57 +0000",
-    "source": "bbc",
-    "headline": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
-    "link": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 9,
-    "pubdate": "2026-10-03-11-05-38 +0000",
+    "pubdate": "2026-10-03-12-54-13 +0000",
     "source": "nyt",
-    "headline": "How Trump’s Deportation Policies Have Rocked a South Florida House Race",
-    "link": "https://www.nytimes.com/2026/10/03/us/politics/how-a-provocative-ad-on-trump-and-immigration-stirred-a-florida-house-race.html"
+    "headline": "Whale Batters a Yacht, Leaving Its Crew Stranded for 18 Hours",
+    "link": "https://www.nytimes.com/2026/10/03/world/australia/sperm-whales-sink-yacht-sailors-rescued.html"
   },
   {
-    "score": 9,
-    "pubdate": "2026-10-03-10-58-51 +0000",
+    "score": 12,
+    "pubdate": "2026-10-03-12-26-30 +0000",
     "source": "bbc",
-    "headline": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-    "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss"
+    "headline": "Will Spain's housing crisis lead to a snap election?",
+    "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "score": 5,
-    "pubdate": "2026-10-03-10-56-00 +0000",
-    "source": "wsj",
-    "headline": "Xi’s Rest Breaks Cut Into His Summit With Trump",
-    "link": "https://www.wsj.com/articles/xis-rest-breaks-cut-into-his-summit-with-trump-ed9f8d6c?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "score": 4,
-    "pubdate": "2026-10-03-11-00-00 +0000",
-    "source": "missionlocal",
-    "headline": "People We Meet: The mayor of Caselli Avenue",
-    "link": "https://missionlocal.org/2026/10/caselli-mayor-castro/"
-  },
-  {
-    "score": 0,
-    "pubdate": "2026-10-03-10-25-33 +0000",
+    "score": 11,
+    "pubdate": "2026-10-03-12-58-53 +0000",
     "source": "nyt",
-    "headline": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
-    "link": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html"
+    "headline": "Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views",
+    "link": "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-10-03-13-00-00 +0000",
+    "source": "nypost",
+    "headline": "Nearly a dozen beaches hit with disgusting health warnings as heat wave scorches California",
+    "link": "https://nypost.com/2026/10/03/us-news/la-heatwave-triggers-beach-water-warnings-due-to-high-bacteria/"
+  },
+  {
+    "score": 10,
+    "pubdate": "2026-10-03-12-59-10 +0000",
+    "source": "bbc",
+    "headline": "Russia hits second major bridge in Ukraine's capital Kyiv",
+    "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
   }
 ]
