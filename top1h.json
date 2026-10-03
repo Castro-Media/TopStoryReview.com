@@ -1,19 +1,5 @@
 [
   {
-    "score": 22,
-    "pubdate": "2026-10-03-00-39-01 +0000",
-    "source": "nyt",
-    "headline": "Trump Suggests Cornell Defendants Won’t Get a ‘Fair Shake’ From Letitia James",
-    "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-cornell-letitia-james.html"
-  },
-  {
-    "score": 21,
-    "pubdate": "2026-10-03-00-34-29 +0000",
-    "source": "nyt",
-    "headline": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
-    "link": "https://www.nytimes.com/2026/10/01/business/a7-russia-us-sanctions.html"
-  },
-  {
     "score": 18,
     "pubdate": "2026-10-03-01-14-39 +0000",
     "source": "nyt",
@@ -21,18 +7,11 @@
     "link": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-hard-line-lawmaker-jail-rift.html"
   },
   {
-    "score": 18,
-    "pubdate": "2026-10-03-00-42-15 +0000",
+    "score": 11,
+    "pubdate": "2026-10-03-01-18-25 +0000",
     "source": "nypost",
-    "headline": "Drone footage captures moment police fatally shoot knife-wielding nut — as he lunges at them from atop the Brooklyn Bridge",
-    "link": "https://nypost.com/2026/10/02/us-news/drone-footage-captures-moment-police-fatally-shoot-knife-wielding-nut-as-he-lunges-at-them-from-atop-the-brooklyn-bridge/"
-  },
-  {
-    "score": 13,
-    "pubdate": "2026-10-03-00-59-50 +0000",
-    "source": "chitri",
-    "headline": "FlyDubai co-pilot who nearly crashed plane was barred from flying by Oman over extremism concerns",
-    "link": "https://www.chicagotribune.com/2026/10/02/flydubai-copilot-extremist-history/"
+    "headline": "Judge temporarily blocks Trump administration from building border wall in Texas’ Big Bend region",
+    "link": "https://nypost.com/2026/10/02/us-news/judge-temporarily-blocks-trump-administration-from-building-border-wall-in-texas-big-bend-region/"
   },
   {
     "score": 11,
@@ -42,31 +21,10 @@
     "link": "https://www.startribune.com/minnesota-high-school-football-live-scores-video-highlights-streaming/601894987"
   },
   {
-    "score": 11,
-    "pubdate": "2026-10-03-00-33-31 +0000",
-    "source": "nypost",
-    "headline": "Missing men found dead in shallow graves in California desert as mystery grows",
-    "link": "https://nypost.com/2026/10/02/us-news/missing-men-identified-after-bodies-discovered-in-california-graves/"
-  },
-  {
-    "score": 10,
-    "pubdate": "2026-10-03-01-18-25 +0000",
-    "source": "nypost",
-    "headline": "Judge temporarily blocks Trump administration from building border wall in Texas’ Big Bend region",
-    "link": "https://nypost.com/2026/10/02/us-news/judge-temporarily-blocks-trump-administration-from-building-border-wall-in-texas-big-bend-region/"
-  },
-  {
-    "score": 8,
-    "pubdate": "2026-10-03-00-33-53 +0000",
+    "score": 0,
+    "pubdate": "2026-10-03-01-14-39 +0000",
     "source": "nyt",
-    "headline": "Teen Charged With Attempted Murder and Domestic Terrorism After Chemical Spill",
-    "link": "https://www.nytimes.com/2026/10/02/us/portland-oregon-domestic-terrorism-charge.html"
-  },
-  {
-    "score": 7,
-    "pubdate": "2026-10-03-01-00-00 +0000",
-    "source": "wsj",
-    "headline": "The Sneaker Taking Over America Was Inspired by iPhones and a Vacuum Cleaner",
-    "link": "https://www.wsj.com/business/on-running-shoes-sneakers-mbappe-a74ed595?mod=pls_whats_news_us_business_f"
+    "headline": "Iran Jails Hard-Line Lawmaker, Exposing Deep Rifts in Its Leadership",
+    "link": "https://www.nytimes.com/2026/10/02/world/middleeast/iran-hard-line-lawmaker-jail-rift.html"
   }
 ]
