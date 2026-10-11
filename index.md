@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-11 10:17 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-11 11:15 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,54 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html">India&#8217;s &#8216;Cockroach&#8217; Leaders Released as New Delhi Braces for More Protests</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-08-24-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html">Saudi Arabia&#8217;s Riyadh Airport Attacked Again, After Days of Houthi Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-08-55-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/11/today-in-history-anita-hill-testifies-at-clarence-thomas-hearings-2/">Today in History: Anita Hill testifies at Clarence Thomas hearings</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-08-30-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss">Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-08-41-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss">Delhi sees more protests as 'cockroach' group's leaders released</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-08-50-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html">Saudi Arabia&#8217;s Riyadh Airport Attacked Again, After Days of Houthi Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-08-55-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html">India&#8217;s &#8216;Cockroach&#8217; Leaders Released as New Delhi Braces for More Protests</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-08-24-11 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -97,17 +49,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/world/christa-pike-discharged-hospital-failed-execution-attempt-9.7377154?cmp=rss">Christa Pike discharged from hospital after surviving execution attempt, attorney says</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-10-16-07-03 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.washingtonpost.com/world/2026/10/10/saudi-arabia-faces-new-level-peril-houthi-attacks-amid-wider-iran-war/">12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-10-11-01-08-07 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/christa-pike-discharged-hospital-failed-execution-attempt-9.7377154?cmp=rss">Christa Pike discharged from hospital after surviving execution attempt, attorney says</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-10-10-16-07-03 +0000</span></div>
             </li>
         
 
@@ -146,10 +98,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss">Young men live in fear of being snatched off the streets and sold to Myanmar's army</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss">Rogue Anthropic AI agent gave police fake tip in unsolved murder case</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-10-10-22-13-08 +0000</span></div>
+            <span class="datetime">2026-10-10-10-06-23 +0000</span></div>
             </li>
         
     </ul>
@@ -234,54 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html">Saudi Arabia&#8217;s Riyadh Airport Attacked Again, After Days of Houthi Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-08-55-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html">Saudi Arabia&#8217;s Riyadh Airport Attacked Again, After Days of Houthi Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-08-55-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss">Delhi sees more protests as 'cockroach' group's leaders released</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-08-50-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss">Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-08-41-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/11/today-in-history-anita-hill-testifies-at-clarence-thomas-hearings-2/">Today in History: Anita Hill testifies at Clarence Thomas hearings</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-08-30-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html">India&#8217;s &#8216;Cockroach&#8217; Leaders Released as New Delhi Braces for More Protests</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-08-24-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html">India&#8217;s &#8216;Cockroach&#8217; Leaders Released as New Delhi Braces for More Protests</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-08-24-11 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -1988,83 +1892,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-10-10-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/10/us-news/texas-dem-senate-hopeful-james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back/">Texas Dem Senate hopeful James Talarico resurfaces after extended absence as his campaign pushes back</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-10-09-36-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/yosemite-kingsbarn-realty-capital-08ea0831?mod=rss_usnews">One Acre of Yosemite Has Kicked Off a Battle Over the Future of National Parks</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-10-09-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/yosemite-kingsbarn-realty-capital-08ea0831?mod=rss_usnews">One Acre of Yosemite Has Kicked Off a Battle Over the Future of National Parks</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-10-09-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss">Public executions in the US stopped nearly a century ago -  why are they resuming now?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-09-17-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss">Public executions in the US stopped nearly a century ago -  why are they resuming now?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-09-17-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/executions-death-penalty-culture-war.html">Executions, After Christa Pike, Are on the Minds of a Divided Public</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-09-01-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/politics/fact-check-senate-ads-iowa-new-hampshire-north-carolina.html">Fact-Checking Senate Ads in Iowa, New Hampshire and North Carolina</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-09-01-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/politics/fact-check-senate-ads-iowa-new-hampshire-north-carolina.html">Fact-Checking Senate Ads in Iowa, New Hampshire and North Carolina</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-09-01-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/7-coffins-human-remains-north-dakota-governor.html">7 Coffins Are Found Near North Dakota Governor&#8217;s Residence</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-09-00-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/elections/oregon-governor-republican-election.html">Could the Oregon Governor&#8217;s Race Be a Republican Hope?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-09-00-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/delivery-robots-violence.html">This Robot Will Deliver Your Food, if It Doesn&#8217;t Get Smashed First</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-09-00-07 +0000</span></div>
             </li>
         
     </ul>
@@ -10884,20 +10711,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-04-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/02/world/africa/ethiopia-tigray-conflict.html">What to Know About Fighting Between Ethiopia and Rebels in Tigray</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-04-09-31-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/uk/bayeux-tapestry-london-england-france-british-museum-2dbfb5d4?mod=rss_worldnews">Brits Are Arguing Over Who Gets to See a 230-Foot Long Embroidered Cloth</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-04-09-30-00 +0000</span></div>
             </li>
         
     </ul>
