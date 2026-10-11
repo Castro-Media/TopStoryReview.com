@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-11 04:22 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-11 05:18 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.washingtonpost.com/business/2026/10/10/doj-investigating-five-tv-networks-over-white-house-pool-coverage/">DOJ investigating five TV networks over White House pool coverage</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-02-56-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html">A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-02-33-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/10/us-news/cash-app-users-could-receive-up-to-2500-in-data-breach-15m-settlement/">Cash App users could soon begin receiving up to $2,500 pay out for $15M data breach settlement</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-02-25-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main">The Sleepy Insurance Product That Came to Power Private Credit&#8217;s Ascent</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-11-02-46-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/hundreds-of-thousands-without-power-after-isaias-slams-the-florida-panhandle-and-alabama/601899684">4 dead from storm as Isaias brings threat of floods across the Southeast</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-11-02-25-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-purdue-score-today-gophers-football-live-updates-tv-channel-drake-lindsey-stats-big-ten/601889150">Live: Former Gophers running back tormenting Minnesota for Purdue</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-11-03-02-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html">Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-02-40-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/business/2026/10/10/doj-investigating-five-tv-networks-over-white-house-pool-coverage/">DOJ investigating five TV networks over White House pool coverage</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-02-56-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html">Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-02-40-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html">A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-02-33-35 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -118,13 +49,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/policy/at-davos-kimberly-guilfoyle-boasted-of-private-jet-trips-luxury-stays-d6602442?mod=rss_socialpoliticsfeed">Kimberly Guilfoyle, as America&#8217;s newly minted ambassador to Greece, boasted at Davos about her close ties to two Greek tycoons and said they were bankrolling her high-rolling trips around the world</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-10-18-08-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss">US murderer Christa Pike discharged from hospital 10 days after failed execution</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -132,17 +56,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss">Rogue Anthropic AI agent gave police fake tip in unsolved murder case</a>
+            <li><a href="https://www.wsj.com/politics/policy/at-davos-kimberly-guilfoyle-boasted-of-private-jet-trips-luxury-stays-d6602442?mod=rss_socialpoliticsfeed">Kimberly Guilfoyle, as America&#8217;s newly minted ambassador to Greece, boasted at Davos about her close ties to two Greek tycoons and said they were bankrolling her high-rolling trips around the world</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-10-06-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss">Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-14-24-14 +0000</span></div>
+            wsj, 
+            <span class="datetime">2026-10-10-18-08-00 +0000</span></div>
             </li>
         
 
@@ -150,6 +67,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-11-00-52-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss">Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-10-14-24-14 +0000</span></div>
             </li>
         
 
@@ -164,6 +88,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-10-23-19-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss">Rogue Anthropic AI agent gave police fake tip in unsolved murder case</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-10-10-06-23 +0000</span></div>
             </li>
         
 
@@ -208,7 +139,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/energy-oil/oil-prices-retreat-after-trump-appears-to-rule-out-iran-strikes-before-midterms-55b0e4d9?mod=pls_whats_news_us_business_f">Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms</a>
+            <li><a href="https://www.wsj.com/business/energy-oil/oil-prices-retreat-after-trump-appears-to-rule-out-iran-strikes-before-midterms-55b0e4d9?mod=rss_worldnews">Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-09-19-33-00 +0000</span></div>
@@ -255,75 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.startribune.com/minnesota-purdue-score-today-gophers-football-live-updates-tv-channel-drake-lindsey-stats-big-ten/601889150">Live: Former Gophers running back tormenting Minnesota for Purdue</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-11-03-02-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/business/2026/10/10/doj-investigating-five-tv-networks-over-white-house-pool-coverage/">DOJ investigating five TV networks over White House pool coverage</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-02-56-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/business/2026/10/10/doj-investigating-five-tv-networks-over-white-house-pool-coverage/">DOJ investigating five TV networks over White House pool coverage</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-02-56-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main">The Sleepy Insurance Product That Came to Power Private Credit&#8217;s Ascent</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-11-02-46-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html">Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-02-40-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html">Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-02-40-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html">A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-02-33-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html">A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-02-33-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/10/us-news/cash-app-users-could-receive-up-to-2500-in-data-breach-15m-settlement/">Cash App users could soon begin receiving up to $2,500 pay out for $15M data breach settlement</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-02-25-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/hundreds-of-thousands-without-power-after-isaias-slams-the-florida-panhandle-and-alabama/601899684">4 dead from storm as Isaias brings threat of floods across the Southeast</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-11-02-25-05 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2198,69 +2060,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-10-04-06-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/valkyries-playoffs-vegas-semifinals-gsv/">Valkyries sweep! Golden State is heading to the WNBA Finals after overtime win.</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-10-04-01-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/10/09/midterms-are-getting-close-why-is-trump-upstate-new-york/">The midterms are getting close. Why is Trump in Upstate New York?</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-10-03-53-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54?mod=rss_usnews">Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-10-03-34-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/09/us/ice-agent-shot-fresno.html">Off-Duty ICE Agent Is Shot and Arrested After Sleeping on Lawn in California</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-03-15-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/09/world/asia/india-cockroach-protests-delhi.html">India Cancels Trains, Floods Capital with Police to Block Protests</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-03-14-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/09/world/asia/india-cockroach-protests-delhi.html">India Cancels Trains, Floods Capital with Police to Block Protests</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-03-14-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html">Trump Says He Will Import Russian Diesel Fuel Amid High Prices</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-03-09-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html">Trump Says He Will Import Russian Diesel Fuel Amid High Prices</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-03-09-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/09/us/politics/trump-russia-diesel-putin.html">Trump Says He Will Import Russian Diesel Fuel Amid High Prices</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-03-09-00 +0000</span></div>
             </li>
         
     </ul>
