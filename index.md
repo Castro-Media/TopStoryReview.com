@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-11 16:18 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-11 17:14 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/11/us-news/russia-ukraine-reach-energy-cease-fire-effective-immediately-trump-announces/">Russia, Ukraine reach energy cease-fire &#8216;effective immediately,&#8217; Trump announces</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-14-39-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731?mod=rss_socialeconomyfeed">When companies stop driving a hard bargain, Cleveland Fed President Beth Hammack starts worrying</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-11-14-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html">A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-17-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html">Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-38-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html">Democrats Press Pentagon on Iran Civilian Deaths</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-36-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss">Ukraine strikes Yandex data centre in third attack on Russian tech giant</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-14-38-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/11/republicans-midterm-backlash-factory-workers/">Republicans face midterm backlash from factory workers squeezed out of jobs by Trump&#8217;s tariffs</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-14-44-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/world-news/fate-of-tiger-that-fatally-mauled-visitor-at-uk-wildlife-park-revealed/">Fate of tiger that fatally mauled visitor at UK wildlife park revealed</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-14-38-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/wealthy-california-homeowners-sue-town-over-disputed-driveway-to-29m-mansion/">Wealthy California homeowners sue town in fight over disputed driveway</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-14-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html">Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-19-44 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -118,13 +49,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss">US murderer Christa Pike discharged from hospital 10 days after failed execution</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-17-44-26 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/10/11/pope-leo-surgery-nodule-lung/">Pope Leo XIV will undergo surgery to remove a nodule on his lung</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -139,10 +63,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/10/world-news/carole-baskin-asks-for-peace-after-harm-fatally-mauled-man-in-park/">&#8216;Tiger King&#8217; star Carole Baskin tells Post that &#8216;tiger was doing nothing wrong&#8217; when it mauled UK zoo intruder</a>
+            <li><a href="https://nypost.com/2026/10/11/us-news/pennsylvania-mom-angelina-stone-was-days-away-from-giving-birth-before-she-was-among-8-killed-in-erie-mass-shooting/">Pregnant Pennsylvania mom was days away from giving birth before she was among 8 killed in gunman&#8217;s shooting rampage</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-10-11-00-52-59 +0000</span></div>
+            <span class="datetime">2026-10-11-06-35-11 +0000</span></div>
             </li>
         
 
@@ -150,6 +74,20 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-10-18-08-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/christa-pike-discharged-hospital-failed-execution-attempt-9.7377154?cmp=rss">Christa Pike discharged from hospital after surviving execution attempt, attorney says</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-10-10-16-07-03 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/10/world-news/carole-baskin-asks-for-peace-after-harm-fatally-mauled-man-in-park/">&#8216;Tiger King&#8217; star Carole Baskin tells Post that &#8216;tiger was doing nothing wrong&#8217; when it mauled UK zoo intruder</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-11-00-52-59 +0000</span></div>
             </li>
         
 
@@ -164,13 +102,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-11-14-39-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/pennsylvania-shooting-dead-9.7377285?cmp=rss">Children, pregnant woman among 9 dead in Pennsylvania shooting</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-10-21-16-30 +0000</span></div>
             </li>
         
     </ul>
@@ -201,7 +132,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/energy-oil/oil-prices-retreat-after-trump-appears-to-rule-out-iran-strikes-before-midterms-55b0e4d9?mod=pls_whats_news_us_business_f">Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms</a>
+            <li><a href="https://www.wsj.com/business/energy-oil/oil-prices-retreat-after-trump-appears-to-rule-out-iran-strikes-before-midterms-55b0e4d9?mod=rss_worldnews">Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-09-19-33-00 +0000</span></div>
@@ -255,145 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.chicagotribune.com/2026/10/11/republicans-midterm-backlash-factory-workers/">Republicans face midterm backlash from factory workers squeezed out of jobs by Trump&#8217;s tariffs</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-14-44-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/russia-ukraine-reach-energy-cease-fire-effective-immediately-trump-announces/">Russia, Ukraine reach energy cease-fire &#8216;effective immediately,&#8217; Trump announces</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-14-39-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/russia-ukraine-reach-energy-cease-fire-effective-immediately-trump-announces/">Russia, Ukraine reach energy cease-fire &#8216;effective immediately,&#8217; Trump announces</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-14-39-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/russia-ukraine-reach-energy-cease-fire-effective-immediately-trump-announces/">Russia, Ukraine reach energy cease-fire &#8216;effective immediately,&#8217; Trump announces</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-14-39-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html">Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-38-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/africa/migrant-boat-capsize-djibouti-dead-yemen.html">Over 100 Migrants Are Dead After Boat Capsizes Near Djibouti</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-38-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss">Ukraine strikes Yandex data centre in third attack on Russian tech giant</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-14-38-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/world-news/fate-of-tiger-that-fatally-mauled-visitor-at-uk-wildlife-park-revealed/">Fate of tiger that fatally mauled visitor at UK wildlife park revealed</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-14-38-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html">Democrats Press Pentagon on Iran Civilian Deaths</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-36-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html">Democrats Press Pentagon on Iran Civilian Deaths</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-36-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/wealthy-california-homeowners-sue-town-over-disputed-driveway-to-29m-mansion/">Wealthy California homeowners sue town in fight over disputed driveway</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-14-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html">Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-19-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html">Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-19-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html">A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-17-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html">A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-14-17-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/10/best-of-the-bay-2026-editors-pick-golden-state-valkyries/">Best of the Bay 2026 Editors&#8217; Pick: Golden State Valkyries</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-10-11-14-15-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/california-firefighters-rescue-cat-from-blaze-and-reunite-it-with-tearful-family/">Missing kitten reunited with family after fire tears through California home</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-14-15-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731?mod=rss_markets_main">When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-11-14-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731?mod=rss_socialeconomyfeed">When companies stop driving a hard bargain, Cleveland Fed President Beth Hammack starts worrying</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-11-14-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/celebrated-la-restaurant-tar-roses-closing-after-15-years/">Celebrated LA restaurant announces surprise closure after 15-year run</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-14-00-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2352,48 +2144,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-10-10-16-07-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/us/politics/tennessee-lethal-injection-protocol-christa-pike.html">After Christa Pike&#8217;s Botched Execution, Tennessee&#8217;s Lethal Injection Protocol Draws Scrutiny</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-15-45-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss">Nobel peace laureate says US sanctions on ICC 'unacceptable'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-15-23-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss">Nobel peace laureate says US sanctions on ICC 'unacceptable'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-15-23-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/will-voters-punish-politicians-for-data-centers-ask-ohio-and-michigan-1923848b?mod=rss_socialpoliticsfeed">While pushback against data centers is well-known nationwide, the controversy over the facilities has become arguably the top issue in high-stakes midterm races across Ohio and Michigan</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-10-15-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss">Woman injures three people in third Poland school knife attack in a week</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-14-58-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss">Woman injures three people in third Poland school knife attack in a week</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-14-58-55 +0000</span></div>
             </li>
         
     </ul>
