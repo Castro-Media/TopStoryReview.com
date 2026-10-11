@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-11 12:26 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-11 13:16 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.chicagotribune.com/2026/10/11/illinois-senate-juliana-stratton/">Illinois Senate race: Juliana Stratton, F-bomb ads behind her, leans on primary performance versus Don Tracy</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-10-00-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy">How the GOP weaponized trans issues and left Democrats searching for a strategy</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-10-11/trump-robert-kennedy-jr-pushback-maha-doctors-stem-candidates-richard-pan">Barabak: Is there a doctor in the House? Backlash to Trump, RFK Jr. may boost their political ranks</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/11/chicago-school-board-candidates-ctu-seiu-pacs/">A North Side race tests competing visions for Chicago&#8217;s new elected school board</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-10-00-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/business/2026/10/11/race-ai-dominance-us-relies-surprising-ally-china/">In the race for AI dominance, the U.S. relies on a surprising ally: China</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/religion/2026/10/11/joe-rogan-hosted-mormon-who-debunks-biblical-literalism-heres-how-it-went/">Joe Rogan hosted a Mormon who debunks biblical literalism. Here&#8217;s how it went.</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home">As thousands sit in ICE detention, one woman is fighting to bring her husband home</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/investigations/interactive/2026/10/11/how-ukraine-uses-precision-drone-strikes-hobble-russian-oil-refineries/">How Ukraine uses precision drone strikes to hobble Russian oil refineries</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/obituaries/2026/10/11/welder-who-always-took-his-daughter-fishing-other-lives-weve-lost/">The welder who always took his daughter fishing, and other lives we&#8217;ve lost</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-10-11/midterms-state-of-play">With Senate majority up for grabs, candidates fight for 'kingmaker' voters</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -111,13 +42,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/11/us-news/pennsylvania-mom-angelina-stone-was-days-away-from-giving-birth-before-she-was-among-8-killed-in-erie-mass-shooting/">Pregnant Pennsylvania mom was days away from giving birth before she was among 8 killed in gunman&#8217;s shooting rampage</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-06-35-11 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.washingtonpost.com/world/2026/10/10/saudi-arabia-faces-new-level-peril-houthi-attacks-amid-wider-iran-war/">12 killed, hundreds injured in Saudi Arabia airport attack as Houthi strikes intensify</a>
             <div class='byline small text-muted'>
             wapo, 
@@ -125,17 +49,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss">US murderer Christa Pike discharged from hospital 10 days after failed execution</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-10-17-44-26 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/politics/policy/at-davos-kimberly-guilfoyle-boasted-of-private-jet-trips-luxury-stays-d6602442?mod=rss_socialpoliticsfeed">Kimberly Guilfoyle, as America&#8217;s newly minted ambassador to Greece, boasted at Davos about her close ties to two Greek tycoons and said they were bankrolling her high-rolling trips around the world</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-10-18-08-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/christa-pike-discharged-hospital-failed-execution-attempt-9.7377154?cmp=rss">Christa Pike discharged from hospital after surviving execution attempt, attorney says</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-10-16-07-03 +0000</span></div>
             </li>
         
 
@@ -150,6 +74,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-10-14-24-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/11/us-news/pennsylvania-mom-angelina-stone-was-days-away-from-giving-birth-before-she-was-among-8-killed-in-erie-mass-shooting/">Pregnant Pennsylvania mom was days away from giving birth before she was among 8 killed in gunman&#8217;s shooting rampage</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-11-06-35-11 +0000</span></div>
             </li>
         
 
@@ -255,138 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.bbc.co.uk/news/videos/cm2d63e90zepo?at_medium=RSS&at_campaign=rss">Could Alberta's vote on independence be Canada's Brexit moment?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-10-34-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/11/federal-railroad-administration-investigating-rail-dispatch-incidents/">Federal Railroad Administration investigating rail dispatch incidents in Chicago area</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-10-00-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/11/chicago-school-board-candidates-ctu-seiu-pacs/">A North Side race tests competing visions for Chicago&#8217;s new elected school board</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-10-00-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/11/illinois-senate-juliana-stratton/">Illinois Senate race: Juliana Stratton, F-bomb ads behind her, leans on primary performance versus Don Tracy</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-10-00-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/10/11/democrats-are-running-scant-agenda-do-they-need-more/">Democrats are running on a scant agenda. Do they need more?</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/health/2026/10/12/women-once-cleared-by-genetic-tests-cancer-risks-now-consider-retesting/">Why doctors are urging women to redo early genetic tests for cancer risks</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/religion/2026/10/11/joe-rogan-hosted-mormon-who-debunks-biblical-literalism-heres-how-it-went/">Joe Rogan hosted a Mormon who debunks biblical literalism. Here&#8217;s how it went.</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/business/2026/10/11/race-ai-dominance-us-relies-surprising-ally-china/">In the race for AI dominance, the U.S. relies on a surprising ally: China</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy">How the GOP weaponized trans issues and left Democrats searching for a strategy</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-10-11/trump-robert-kennedy-jr-pushback-maha-doctors-stem-candidates-richard-pan">Barabak: Is there a doctor in the House? Backlash to Trump, RFK Jr. may boost their political ranks</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-10-11/midterms-state-of-play">With Senate majority up for grabs, candidates fight for 'kingmaker' voters</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/10/11/arizona-gop-nominee-elections-chief-alexander-kolodin-built-his-career-trumps-big-lie/">Arizona&#8217;s GOP keeps embracing election deniers who lose. It could happen again.</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/interactive/2026/10/11/these-are-voters-who-will-decide-midterm-elections/">These are the voters who will decide the midterm elections</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy">How the GOP weaponized trans issues and left Democrats searching for a strategy</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home">As thousands sit in ICE detention, one woman is fighting to bring her husband home</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/business/2026/10/11/race-ai-dominance-us-relies-surprising-ally-china/">In the race for AI dominance, the U.S. relies on a surprising ally: China</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/investigations/interactive/2026/10/11/how-ukraine-uses-precision-drone-strikes-hobble-russian-oil-refineries/">How Ukraine uses precision drone strikes to hobble Russian oil refineries</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/obituaries/2026/10/11/welder-who-always-took-his-daughter-fishing-other-lives-weve-lost/">The welder who always took his daughter fishing, and other lives we&#8217;ve lost</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/nation/2026/10/11/substitute-teacher-fired-over-onlyfans-account-says-business-is-booming/">Substitute teacher fired over OnlyFans account says business is booming</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2296,41 +2095,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-10-12-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss">Money Box</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-11-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/10/world-news/israeli-mom-whose-son-was-murdered-on-oct-7-nearly-lost-daughter-in-hijacked-flydubai-terrorist-attack/">Israeli mom whose son was murdered on Oct. 7 nearly lost daughter in hijacked flydubai terrorist attack</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-10-11-24-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss">Green Party MP wants to make sure it is 'not vulnerable to extremists'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-11-09-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/articles/the-ai-computing-crunch-is-making-rivals-into-partners-09431721?mod=pls_whats_news_us_business_f">The AI Computing Crunch Is Making Rivals Into Partners</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-10-11-04-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/it-was-60-years-ago-my-night-at-candlestick-with-the-beatles/">It was 60 years ago! My night at Candlestick with the Beatles.</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-10-11-00-00 +0000</span></div>
             </li>
         
     </ul>
