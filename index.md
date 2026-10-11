@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-11 20:18 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-11 21:15 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,73 +28,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/10/11/us-news/ousted-da-george-gascon-eyed-to-lead-lapd-under-nithya-raman/">Nithya Raman&#8217;s LAPD shake-up could put ousted progressive DA George Gasc&#243;n in charge of cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-18-48-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/berkeley-wants-to-double-soda-tax-as-questions-mount-over-millions-in-taxpayer-spending/">Liberal California city plots doubling anti-American tax &#8212; as locals rage at where the money&#8217;s going</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-18-36-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html">Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-24-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html">Saudi and Yemeni Airports Hit in New Round of Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-38-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/11/trump-says-russia-and-ukraine-reach-energy-ceasefire/">Pres. Donald Trump says Russia and Ukraine reach &#8216;energy ceasefire&#8217; but gives no details</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-18-10-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html">Democrats Press Pentagon on Iran Civilian Deaths</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-28-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/grandfather-behind-trigger-of-pennsylvania-massacre/">Grandpa ID&#8217;d as crazed killer who shot 9 of his kids, grandkids in shocking Pa. murder-suicide: relatives</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-18-39-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/world/2026/10/11/saudi-arabia-vows-retaliation-against-houthis-after-riyadh-airport-strike/">Saudi Arabia vows major response after Houthi strike on airport kills 12, injures 309</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-18-14-02 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/10/11/us/politics/in-the-senate-collins-often-defies-trump-but-rarely-stops-him.html">In the Senate, Collins Often Defies Trump but Rarely Stops Him</a>
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-11-18-59-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/us/flamingos-isaias-zoo-bathroom-hurricane-florida.html">Flamingos at a Florida Zoo Rode Out Hurricane Isaias in the Bathroom</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-51-10 +0000</span></div>
             </li>
         
     </ul>
@@ -104,10 +41,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 24h</h2>
     <ul>
         
-            <li><a href="https://www.washingtonpost.com/politics/2026/10/10/trump-says-ukraine-should-get-new-president-after-us-russia-diesel-deal/">Trump says Ukraine should &#8216;get a new president&#8217; after U.S.-Russia diesel deal</a>
+            <li><a href="https://nypost.com/2026/10/11/us-news/russia-ukraine-reach-energy-cease-fire-effective-immediately-trump-announces/">Russia, Ukraine reach energy cease-fire &#8216;effective immediately,&#8217; Trump reveals &#8212; catching Kyiv off-guard</a>
             <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-10-20-22-36 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-10-11-14-39-06 +0000</span></div>
             </li>
         
 
@@ -118,10 +55,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/world/migrant-boat-capsizes-djibouti-9.7377625?cmp=rss">Children among at least 139 dead after migrant boat capsizes off Djibouti coast</a>
+            <li><a href="https://www.washingtonpost.com/business/2026/10/10/doj-investigating-five-tv-networks-over-white-house-pool-coverage/">DOJ investigating five TV networks over White House pool coverage</a>
             <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-11-17-47-18 +0000</span></div>
+            wapo, 
+            <span class="datetime">2026-10-11-02-56-14 +0000</span></div>
             </li>
         
 
@@ -132,17 +69,24 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/business/2026/10/10/doj-investigating-five-tv-networks-over-white-house-pool-coverage/">DOJ investigating five TV networks over White House pool coverage</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-02-56-14 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/10/11/world-news/pope-leo-xiv-will-undergo-surgery-to-remove-a-nodule-on-his-lung/">Pope Leo XIV, 71, will undergo surgery to remove a growth on his lung</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-11-12-17-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss">'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-11-01-41-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/migrant-boat-capsizes-djibouti-9.7377625?cmp=rss">Children among at least 139 dead after migrant boat capsizes off Djibouti coast</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-10-11-17-47-18 +0000</span></div>
             </li>
         
 
@@ -153,13 +97,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/11/us-news/russia-ukraine-reach-energy-cease-fire-effective-immediately-trump-announces/">Russia, Ukraine reach energy cease-fire &#8216;effective immediately,&#8217; Trump reveals &#8212; catching Kyiv off-guard</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-14-39-06 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/newsom-backs-measure-that-could-invalidate-billionaire-tax-2357a6b3?mod=rss_socialpoliticsfeed">California Gov. Gavin Newsom has long opposed a ballot measure that would tax billionaires&#8217; wealth. Now he&#8217;s endorsing a different measure aimed at prohibiting wealth taxes.</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -167,10 +104,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/policy/houthis-and-ukraine-put-trump-in-treacherous-territory-36bad4be?mod=rss_socialpoliticsfeed">The high price of oil as the midterms grow near has constrained the White House as it faces two foreign- policy crises. Read more in today&#8217;s WSJ Politics Special Edition of the Politics Newsletter:</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss">Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on</a>
             <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-11-17-39-00 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-10-11-11-11-42 +0000</span></div>
             </li>
         
     </ul>
@@ -260,167 +197,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-11-18-59-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/republican-senate-losses-will-hurt-long-after-trump-9c2b4259?mod=rss_usnews">Opinion | Republican Senate Losses Will Hurt Long After Trump</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-11-18-54-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/us/flamingos-isaias-zoo-bathroom-hurricane-florida.html">Flamingos at a Florida Zoo Rode Out Hurricane Isaias in the Bathroom</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-51-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/ousted-da-george-gascon-eyed-to-lead-lapd-under-nithya-raman/">Nithya Raman&#8217;s LAPD shake-up could put ousted progressive DA George Gasc&#243;n in charge of cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-18-48-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/ousted-da-george-gascon-eyed-to-lead-lapd-under-nithya-raman/">Nithya Raman&#8217;s LAPD shake-up could put ousted progressive DA George Gasc&#243;n in charge of cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-18-48-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/us/los-angeles-mayor-policing-election.html">In Unlikely Turn, Law and Order Heats Up L.A. Mayor&#8217;s Race</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-42-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-vikings-new-orleans-saints-score-kyler-murray-stats-nfl-week-5-justin-jefferson-injury/601896086">Live: Vikings get Justin Jefferson back vs Saints, but can they overcome injuries to get to 5-0?</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-11-18-41-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/nj-transit-commuters-brace-for-month-of-hell/">More pain on the train: NJ Transit rail riders face new month of hell</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-18-41-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/grandfather-behind-trigger-of-pennsylvania-massacre/">Grandpa ID&#8217;d as crazed killer who shot 9 of his kids, grandkids in shocking Pa. murder-suicide: relatives</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-18-39-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html">Saudi and Yemeni Airports Hit in New Round of Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-38-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html">Saudi and Yemeni Airports Hit in New Round of Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-38-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/berkeley-wants-to-double-soda-tax-as-questions-mount-over-millions-in-taxpayer-spending/">Liberal California city plots doubling anti-American tax &#8212; as locals rage at where the money&#8217;s going</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-18-36-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/berkeley-wants-to-double-soda-tax-as-questions-mount-over-millions-in-taxpayer-spending/">Liberal California city plots doubling anti-American tax &#8212; as locals rage at where the money&#8217;s going</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-18-36-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/world/2026/10/11/trumps-zelensky-attack-russia-diesel-deal-draw-criticism-us-abroad/">Trump&#8217;s Zelensky attack, Russia diesel deal draw criticism in U.S. and abroad</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-18-31-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html">Democrats Press Pentagon on Iran Civilian Deaths</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-28-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html">Democrats Press Pentagon on Iran Civilian Deaths</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-28-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/world-news/houthis-saudis-launch-back-and-forth-airport-strikes/">Houthis, Saudis ratchet up violence with back-and-forth airport strikes</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-18-25-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html">Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-24-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html">Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-24-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/09/books/new-directions-nobel-anne-carson.html">Anne Carson&#8217;s Publisher Has Won the Nobel Prize Twice in Two Years</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-18-21-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/world/2026/10/11/saudi-arabia-vows-retaliation-against-houthis-after-riyadh-airport-strike/">Saudi Arabia vows major response after Houthi strike on airport kills 12, injures 309</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-11-18-14-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/walz-said-he-considered-leaving-public-office-after-hortman-assassination/601899989">Walz said he considered leaving public office after Hortman assassination</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-11-18-11-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/11/trump-says-russia-and-ukraine-reach-energy-ceasefire/">Pres. Donald Trump says Russia and Ukraine reach &#8216;energy ceasefire&#8217; but gives no details</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-18-10-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/11/saudi-airport-hit-again-riyadh/">Saudi Airport hit again as Riyadh set to host major conferences</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-11-18-09-58 +0000</span></div>
             </li>
         
     </ul>
@@ -2394,62 +2170,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             48hills, 
             <span class="datetime">2026-10-10-19-57-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/hurricane-simon-mexico-9.7377259?cmp=rss">Category 4 Hurricane Simon barrels toward Mexico</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-10-19-54-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-10/la-homeless-agency-meeting-canceled-after-voter-turnout-surge">Bass-led turnout surge crashes meeting to replace L.A. homeless outreach agency</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-10-19-43-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/10/us-news/fidel-future-dictators-socialist-denials-went-up-in-smoke/">The communist despots who rejected the label &#8212;until they gained power</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-10-19-38-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/10/world-news/man-mauled-to-death-after-entering-tiger-enclosure-at-zoo/">Man mauled to death after entering tiger enclosure at zoo</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-10-19-36-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html">Rebuking Ukraine Over Oil Strikes, Trump Says It Should &#8216;Get a New President&#8217;</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-19-28-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html">Rebuking Ukraine Over Oil Strikes, Trump Says It Should &#8216;Get a New President&#8217;</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-10-19-28-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss">Watch: 'Time for Ukraine to get a new president', says Trump</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-10-19-25-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/10/us-news/san-francisco-mayor-daniel-lurie-blames-progressive-politics-for-citys-decline/">SF mayor admits city &#8216;lost its way&#8217; by embracing ultra-left ideology</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-10-19-13-59 +0000</span></div>
             </li>
         
     </ul>
