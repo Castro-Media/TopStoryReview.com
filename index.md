@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-12 14:25 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-12 15:19 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,24 +28,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html">Fire Devastates Paris&#8217;s Oldest Covered Food Market, Le March&#233; des Enfants Rouges</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-12-36-54 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html">World&#8217;s Energy Order Tested Again as Iran War&#8217;s Reach Extends Further</a>
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-12-13-15-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/europe/natos-top-commander-lays-out-plan-to-thwart-a-russian-attack-on-the-alliance-96d57680?mod=rss_worldnews">NATO&#8217;s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-13-16-00 +0000</span></div>
             </li>
         
 
@@ -56,17 +42,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/12/us-news/suspect-in-deadly-philadelphia-police-ambush-faces-76-charges-ordered-held-without-bail/">Suspect in deadly Philadelphia police ambush faces 76 charges, ordered held without bail</a>
+            <li><a href="https://www.wsj.com/world/europe/natos-top-commander-lays-out-plan-to-thwart-a-russian-attack-on-the-alliance-96d57680?mod=rss_worldnews">NATO&#8217;s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-12-12-49-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss">PM believes Brexit vote was legitimate despite Russia claims, No 10 says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-12-53-06 +0000</span></div>
+            wsj, 
+            <span class="datetime">2026-10-12-13-16-00 +0000</span></div>
             </li>
         
 
@@ -77,24 +56,24 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/eu-to-cap-chinese-hybrid-vehicle-imports-at-350-000-units-annually-official-says-2198522f?mod=rss_worldnews">EU to Cap Chinese Hybrid-Vehicle Imports at 350,000 Units Annually, Official Says</a>
+            <li><a href="https://www.startribune.com/rep-ilhan-omars-home-searched-by-federal-agents-report-says/601900234">Rep. Ilhan Omar&#8217;s home searched by federal agents, report says</a>
             <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-12-38-00 +0000</span></div>
+            startribune, 
+            <span class="datetime">2026-10-12-13-11-36 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cq0k0gl81yr2o?at_medium=RSS&at_campaign=rss">US Homeland Security chief denies plan for livestreamed execution could fuel radicalisation</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-12-24-49 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html">Elon Musk, Delta Airlines and a Feud Over In-Flight Wi-Fi</a>
+            <li><a href="https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html">World&#8217;s Energy Order Tested Again as Iran War&#8217;s Reach Extends Further</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-10-12-12-58-46 +0000</span></div>
+            <span class="datetime">2026-10-12-13-15-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/deals/steris-to-acquire-xodus-medical-for-2-1-billion-ea048437?mod=pls_whats_news_us_business_f">Steris to Acquire Xodus Medical for $2.1 Billion</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-10-12-13-11-00 +0000</span></div>
             </li>
         
     </ul>
@@ -118,17 +97,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/11/us-news/president-trump-says-us-may-hit-houthis-after-american-killed-at-saudi-airport-and-terror-group-threatens-more-attacks/">Trump warns US may hit Houthis after American killed at Saudi airport and terror group threatens more attacks</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-13-40-43 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/policy/houthis-and-ukraine-put-trump-in-treacherous-territory-36bad4be?mod=rss_socialpoliticsfeed">The high price of oil as the midterms grow near has constrained the White House as it faces two foreign- policy crises. Read more in today&#8217;s WSJ Politics Special Edition of the Politics Newsletter:</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-11-17-39-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/12/world-news/disturbing-video-shows-moment-houthi-terrorists-bombed-saudi-arabias-riyadh-airport-killing-13-people/">Disturbing video shows moment Houthi terrorists bombed Saudi Arabia&#8217;s Riyadh airport, killing 13 people</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-12-11-14-24 +0000</span></div>
             </li>
         
 
@@ -146,10 +125,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html">He Helped Discover Ebola 50 Years Ago. He&#8217;s Still Worried.</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss">Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-09-02-05 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-10-11-23-13-20 +0000</span></div>
             </li>
         
 
@@ -160,10 +139,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss">Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds</a>
+            <li><a href="https://www.nytimes.com/2026/10/12/us/politics/peter-piot-ebola-hiv.html">He Helped Discover Ebola 50 Years Ago. He&#8217;s Still Worried.</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-23-13-20 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-10-12-09-02-05 +0000</span></div>
             </li>
         
 
@@ -302,97 +281,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-12-13-11-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss">Sinn F&#233;in ministers facing no-confidence vote after Drumcree dispute</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-13-06-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/europe/russia-pounds-ukrainian-energy-despite-trumps-ceasefire-announcement-f5d4779d?mod=rss_worldnews">Russia Pounds Ukrainian Energy Despite Trump&#8217;s Ceasefire Announcement</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-13-04-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/tres-colores/">Tres colores</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-12-13-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html">Elon Musk, Delta Airlines and a Feud Over In-Flight Wi-Fi</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-12-58-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss">PM believes Brexit vote was legitimate despite Russia claims, No 10 says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-12-53-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/us-news/suspect-in-deadly-philadelphia-police-ambush-faces-76-charges-ordered-held-without-bail/">Suspect in deadly Philadelphia police ambush faces 76 charges, ordered held without bail</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-12-12-49-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/stocks-rise-as-oil-eases-after-russian-diesel-deal-despite-middle-east-tension-29ae28a5?mod=rss_markets_main">U.S. Futures Mixed, Oil Rises After Russia Hits Ukraine Energy Sites</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-12-45-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/business/dealbook/saudi-arabia-strikes-energy-airport.html">Strikes Put Saudi Arabia&#8217;s Economy Under Pressure</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-12-44-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/eu-to-cap-chinese-hybrid-vehicle-imports-at-350-000-units-annually-official-says-2198522f?mod=rss_worldnews">EU to Cap Chinese Hybrid-Vehicle Imports at 350,000 Units Annually, Official Says</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-12-38-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html">Fire Devastates Paris&#8217;s Oldest Covered Food Market, Le March&#233; des Enfants Rouges</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-12-36-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/world/europe/france-paris-fire-market-enfants-rouges-marais.html">Fire Devastates Paris&#8217;s Oldest Covered Food Market, Le March&#233; des Enfants Rouges</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-12-36-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/10/come-to-our-big-gala-and-save-local-journalism-the-fun-way/">Come to our big Gala and save local journalism (the fun way)!</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-10-12-12-34-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq0k0gl81yr2o?at_medium=RSS&at_campaign=rss">US Homeland Security chief denies plan for livestreamed execution could fuel radicalisation</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-12-24-49 +0000</span></div>
             </li>
         
     </ul>
@@ -2681,69 +2569,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-10-11-14-12-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731?mod=rss_markets_main">When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-11-14-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731?mod=rss_socialeconomyfeed">When companies stop driving a hard bargain, Cleveland Fed President Beth Hammack starts worrying</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-11-14-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/kyiv-pushes-back-trump-call-for-new-ukraine-president-after-diesel-deal-9.7377471?cmp=rss">Trump announces Russia-Ukraine 'energy ceasefire,' which Zelenskyy says he hasn't seen but supports</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-11-13-51-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/president-trump-says-us-may-hit-houthis-after-american-killed-at-saudi-airport-and-terror-group-threatens-more-attacks/">Trump warns US may hit Houthis after American killed at Saudi airport and terror group threatens more attacks</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-13-40-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss">Pope Leo to have surgery after lump found on lung</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-13-38-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss">Pope Leo to have surgery after lump found on lung</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-13-38-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/us/politics/100000011159238/living-under-threat-of-political-violence.html">Living Under Threat of Political Violence</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-13-38-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/world/europe/tiger-attack-wildlife-park-man-dead.html">Man Dies in Tiger Attack at Yorkshire Wildlife Park in England</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-13-31-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/10/world/europe/tiger-attack-wildlife-park-man-dead.html">Man Dies in Tiger Attack at Yorkshire Wildlife Park in England</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-13-31-12 +0000</span></div>
             </li>
         
     </ul>
