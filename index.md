@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-12 16:19 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-12 17:17 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,45 +28,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss">South Africa's deputy police chief resigns after being charged with sexual offences</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-14-40-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/business/europe-china-evs-hybrids.html">Europeans Have a Love-Hate Relationship With Chinese Cars</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-14-32-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html">Federal Agents Search Home of Rep. Ilhan Omar</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-14-38-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/us-news/ex-california-police-sergeant-shoots-ex-deputy-wife-in-murder-suicide-reports/">San Francisco&#8217;s former top female cop and daughter shot dead by police sergeant husband in posh California county</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-12-14-25-38 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/10/12/de-vries-houldieson-face-off-for-district-1-indiana-state-senate-seat/">Republican Trevor De Vries and Democrat Scott Houldieson face off for District 1 Indiana State Senate seat</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-12-15-00-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss">Pupil arrested after two teachers shot at French school</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-14-13-16 +0000</span></div>
             </li>
         
 
@@ -77,24 +42,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/12/world-news/teaching-assistant-groomed-student-15-by-showing-him-her-sex-toys-and-handcuffs/">Teaching assistant groomed student, 15, by showing him her sex toys and handcuffs</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-12-14-42-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss">Tom Cruise film Digger forecast to become one of Hollywood's biggest flops</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss">Immigration agents search Congresswoman Ilhan Omar's home</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-10-12-14-11-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/eu-to-cap-chinese-hybrid-vehicle-imports-at-350-000-units-annually-official-says-2198522f?mod=rss_worldnews">EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-14-24-00 +0000</span></div>
+            <span class="datetime">2026-10-12-15-02-41 +0000</span></div>
             </li>
         
     </ul>
@@ -139,13 +90,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/world/migrant-boat-capsizes-djibouti-9.7377625?cmp=rss">Children among at least 139 dead after migrant boat capsizes off Djibouti coast</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-11-17-47-18 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign">Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -171,6 +115,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-12-13-27-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/12/nobel-prize-economics/">2 American economists win Nobel prize for overturning assumptions about how to deal with economic shocks</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-12-11-02-40 +0000</span></div>
             </li>
         
     </ul>
@@ -229,17 +180,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-06/take-out-la-or-san-diego-this-buffoon-thinks-trump-was-way-out-of-line">Lopez: 'Take out' L.A. or San Diego? This buffoon thinks Trump was way out of line</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-06-21-14-28 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/10/12/de-vries-houldieson-face-off-for-district-1-indiana-state-senate-seat/">Republican Trevor De Vries and Democrat Scott Houldieson face off for District 1 Indiana State Senate seat</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-12-15-00-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-06/take-out-la-or-san-diego-this-buffoon-thinks-trump-was-way-out-of-line">Lopez: 'Take out' L.A. or San Diego? This buffoon thinks Trump was way out of line</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-06-21-14-28 +0000</span></div>
             </li>
         
 
@@ -274,153 +225,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-12-15-00-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html">How American Retirees at Different Incomes Rely on Social Security</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-14-55-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss">PM believes Brexit vote was legitimate despite Russia interference claims, No 10 says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-14-54-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/world-news/teaching-assistant-groomed-student-15-by-showing-him-her-sex-toys-and-handcuffs/">Teaching assistant groomed student, 15, by showing him her sex toys and handcuffs</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-12-14-42-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss">South Africa's deputy police chief resigns after being charged with sexual offences</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-14-40-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss">South Africa's deputy police chief resigns after being charged with sexual offences</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-14-40-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html">Federal Agents Search Home of Rep. Ilhan Omar</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-14-38-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html">Federal Agents Search Home of Rep. Ilhan Omar</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-14-38-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/us/california-wildfire-cameras-firefighters.html">Firefighters Install Cameras to Monitor Wildfire Activity Across California</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-14-35-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/business/europe-china-evs-hybrids.html">Europeans Have a Love-Hate Relationship With Chinese Cars</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-14-32-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/business/europe-china-evs-hybrids.html">Europeans Have a Love-Hate Relationship With Chinese Cars</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-14-32-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/business/europe-china-evs-hybrids.html">Europeans Have a Love-Hate Relationship With Chinese Cars</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-14-32-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss">Fridges in French supermarkets hit by cyber attack</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-14-30-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/ecb-unlikely-to-intervene-in-french-bond-selloff-ab7ca520?mod=rss_markets_main">U.K. Assets Could Underperform in Lead-Up to Budget</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-14-28-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/us-news/ex-california-police-sergeant-shoots-ex-deputy-wife-in-murder-suicide-reports/">San Francisco&#8217;s former top female cop and daughter shot dead by police sergeant husband in posh California county</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-12-14-25-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/eu-to-cap-chinese-hybrid-vehicle-imports-at-350-000-units-annually-official-says-2198522f?mod=rss_worldnews">EU Aims to Put Brakes on Chinese Hybrid-Vehicle Market Share With Import Cap</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-14-24-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/rep-ilhan-omars-home-searched-by-federal-agents-report-says/601900234">Live: Rep. Ilhan Omar&#8217;s home searched by federal agents, report says</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-12-14-23-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-mideast-tensions-could-weigh-9ec0bb96?mod=rss_markets_main">Japanese Yen Could Trade Sideways Vs Dollar in Near-Term</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-14-15-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss">Pupil arrested after two teachers shot at French school</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-14-13-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss">Pupil arrested after two teachers shot at French school</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-14-13-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss">Tom Cruise film Digger forecast to become one of Hollywood's biggest flops</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-14-11-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/stocks-rise-as-oil-eases-after-russian-diesel-deal-despite-middle-east-tension-29ae28a5?mod=rss_markets_main">U.S. Stocks Mixed, Oil Gains on Fresh Energy Strikes in Ukraine</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-14-09-00 +0000</span></div>
             </li>
         
     </ul>
@@ -2751,62 +2555,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-11-16-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/the-virtually-unknown-donors-powering-the-rise-of-the-new-left-a9d2bab6?mod=rss_worldnews">The Virtually Unknown Donors Powering the Rise of the New Left</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-11-15-55-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss">Riyadh airport attacks another dangerous moment in already tense conflict</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-15-32-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss">Airport attacks another dangerous moment in already tense conflict</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-15-32-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss">Children among 139 dead after boat capsizes off Djibouti, UN says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-15-32-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss">Children among 139 dead after boat capsizes off Djibouti, UN says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-15-32-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss">Children among 139 dead after Yemen-bound boat capsizes off Djibouti, UN says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-15-32-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss">Poland stabbings driven by online glorification of violence, Tusk says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-15-18-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss">Poland stabbings driven by online glorification of violence, Tusk says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-11-15-18-52 +0000</span></div>
             </li>
         
     </ul>
@@ -11395,34 +11143,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-05-16-05-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/05/cta-red-line-extension-lawsuit/">CTA in settlement talks with feds in Red Line Extension lawsuit</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-05-15-43-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/05/cta-red-line-extension-lawsuit/">CTA in settlement talks with feds in Red Line Extension lawsuit</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-05-15-43-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/in-china-battle-is-raging-for-the-soul-of-tibet-737bc947?mod=rss_worldnews">In China, Battle Is Raging for the Soul of Tibet</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-05-15-37-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/cftcs-new-rules-for-crypto-a1314e87?mod=rss_markets_main">Opinion | CFTC&#8217;s New Rules for Crypto</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-05-15-30-00 +0000</span></div>
             </li>
         
     </ul>
