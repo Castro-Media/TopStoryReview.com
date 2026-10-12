@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-12 04:28 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-12 05:24 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,61 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html">Saudi and Yemeni Airports Hit in New Round of Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-02-27-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/10/11/takeaways-first-south-carolina-senate-debate-between-darline-graham-annie-andrews/">Takeaways from first S.C. Senate debate between Darline Graham, Annie Andrews</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-12-02-28-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-11/two-children-shot-killed-in-la-reportedly-in-broad-daylight">2 children fatally shot reportedly in broad daylight in attempted murder-suicide in Pico-Union</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-12-02-26-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/murderer-in-65-year-old-cold-case-killing-of-girl-8-revealed-to-be-chicago-homicide-detective/">Murderer in 65-year-old cold case killing of girl, 8, revealed to be Chicago homicide detective</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-12-02-47-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/law/judge-says-pro-trump-ads-funded-by-taxpayers-must-be-taken-off-air-b4c83a4f?mod=rss_usnews">Judge Says Pro-Trump Ads Funded By Taxpayers Must Be Taken Off Air</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-02-24-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/09/books/new-directions-nobel-anne-carson.html">Anne Carson&#8217;s Publisher Has Won the Nobel Prize Twice in Two Years</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-02-55-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/us/south-carolina-senate-debate.html">Can a Democrat Beat Darline Graham? 5 Takeaways From the South Carolina Senate Debate</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-02-17-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html">Saudi and Yemeni Airports Hit in New Round of Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-02-27-42 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -104,10 +49,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/11/world-news/pope-leo-xiv-will-undergo-surgery-to-remove-a-nodule-on-his-lung/">Pope Leo XIV, 71, will undergo surgery to remove a growth on his lung</a>
+            <li><a href="https://www.chicagotribune.com/2026/10/11/pope-leo-surgery-nodule-lung/">Pope Leo XIV will undergo surgery to remove a nodule on his lung</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-12-17-32 +0000</span></div>
+            chitri, 
+            <span class="datetime">2026-10-11-12-15-59 +0000</span></div>
             </li>
         
 
@@ -132,17 +77,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html">India&#8217;s &#8216;Cockroach&#8217; Leaders Released as Small Protests Go On in Delhi</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-16-16-44 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/business/media/justice-department-probes-tv-networks-over-suspension-of-trump-press-pool-coverage-a8bc65ce?mod=pls_whats_news_us_business_f">Justice Department Probes TV Networks Over Suspension of Trump Press-Pool Coverage</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-11-12-50-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html">India&#8217;s &#8216;Cockroach&#8217; Leaders Released as Small Protests Go On in Delhi</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-11-16-16-44 +0000</span></div>
             </li>
         
 
@@ -241,61 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/10/09/books/new-directions-nobel-anne-carson.html">Anne Carson&#8217;s Publisher Has Won the Nobel Prize Twice in Two Years</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-02-55-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/11/us-news/murderer-in-65-year-old-cold-case-killing-of-girl-8-revealed-to-be-chicago-homicide-detective/">Murderer in 65-year-old cold case killing of girl, 8, revealed to be Chicago homicide detective</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-12-02-47-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/10/11/takeaways-first-south-carolina-senate-debate-between-darline-graham-annie-andrews/">Takeaways from first S.C. Senate debate between Darline Graham, Annie Andrews</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-12-02-28-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html">Saudi and Yemeni Airports Hit in New Round of Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-02-27-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html">Saudi and Yemeni Airports Hit in New Round of Strikes</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-02-27-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-11/two-children-shot-killed-in-la-reportedly-in-broad-daylight">2 children fatally shot reportedly in broad daylight in attempted murder-suicide in Pico-Union</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-12-02-26-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/law/judge-says-pro-trump-ads-funded-by-taxpayers-must-be-taken-off-air-b4c83a4f?mod=rss_usnews">Judge Says Pro-Trump Ads Funded By Taxpayers Must Be Taken Off Air</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-02-24-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/us/south-carolina-senate-debate.html">Can a Democrat Beat Darline Graham? 5 Takeaways From the South Carolina Senate Debate</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-02-17-02 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2240,20 +2130,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-11-05-05-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/11/travel/piero-della-francesca-artworks-tuscany.html">Touring Tuscany for Piero della Francesca&#8217;s Most Resplendent Artworks</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-11-04-01-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/10/world-news/3-mexican-men-found-guilty-of-killing-australian-brothers-us-pal-on-surfing-trip/">3 Mexican men found guilty of killing Australian brothers, US pal on surfing trip</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-11-03-52-58 +0000</span></div>
             </li>
         
     </ul>
@@ -10898,13 +10774,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-05-04-51-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-04/california-man-in-incest-case-busted-in-mexico-teen-daughter-rescued">California father in incest case is arrested in Mexico; teen daughter rescued</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-05-03-18-39 +0000</span></div>
             </li>
         
     </ul>
