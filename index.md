@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-13 05:21 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-13 06:34 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/12/media/eric-trump-trashes-abc-backs-call-for-fcc-probe-into-story-on-family-biz/">Eric Trump trashes ABC over &#8216;bulls&#8211;t hit piece,&#8217; backs call for FCC probe into revised story on family biz</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-03-55-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/asia/bougainville-island-panguna-mine-pollution-reopening.html">This Copper Mine Led to a Civil War. Can Reopening It Fund a New Nation?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-04-01-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html">FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-04-00-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss">Breaking Bad actor RJ Mitte dies aged 34</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-13-03-44-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/us-news/innocent-12-year-old-girl-shot-multiple-times-on-nyc-street/">Innocent girl, 12, shot multiple times in crossfire of possible gang shootout on NYC street</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-03-32-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/europe/macron-france-protests.html">Macron Dreamed of Reviving France, but His Term Is Ending in Crisis</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-04-01-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/us-news/blind-dog-sparks-deadly-house-fire-killing-itself-and-canine-sibling/">Hungry blind dog sparks deadly house fire, killing itself and canine sibling</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-03-59-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/us/politics/trump-kimberly-guilfoyle-greece.html">Trump Says He Is &#8216;Looking at&#8217; Firing Kimberly Guilfoyle</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-03-35-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/world/asia/100000011189303/china-young-people-new-farmer.html">Why Chinese College Grads Are Becoming Farmers</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-03-50-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/us-news/california-mother-86-dies-after-rushing-into-traffic-to-save-pet/">Adored SoCal mom of seven struck and killed trying to save dog hit by car</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-03-15-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -160,17 +91,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/policy/judge-yells-at-trump-administration-for-cutting-down-golf-course-trees-bd36b4df?mod=rss_socialpoliticsfeed">A federal judge overseeing litigation challenging Trump&#8217;s plan to overhaul a Washington, D.C., public golf course said the administration violated her instructions by cutting down trees</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-20-15-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/10/12/world-news/french-police-detain-teen-pupil-suspected-in-school-shooting-in-france/">French police detain 14-year-old suspected of opening fire at school, wounding two teachers</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-12-16-56-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/judge-yells-at-trump-administration-for-cutting-down-golf-course-trees-bd36b4df?mod=rss_socialpoliticsfeed">A federal judge overseeing litigation challenging Trump&#8217;s plan to overhaul a Washington, D.C., public golf course said the administration violated her instructions by cutting down trees</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-10-12-20-15-00 +0000</span></div>
             </li>
         
     </ul>
@@ -255,138 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/10/13/world/asia/bougainville-island-panguna-mine-pollution-reopening.html">This Copper Mine Led to a Civil War. Can Reopening It Fund a New Nation?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-04-01-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/asia/bougainville-island-panguna-mine-pollution-reopening.html">This Copper Mine Led to a Civil War. Can Reopening It Fund a New Nation?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-04-01-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/europe/macron-france-protests.html">Macron Dreamed of Reviving France, but His Term Is Ending in Crisis</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-04-01-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/europe/macron-france-protests.html">Macron Dreamed of Reviving France, but His Term Is Ending in Crisis</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-04-01-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html">FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-04-00-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html">FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-04-00-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/us-news/blind-dog-sparks-deadly-house-fire-killing-itself-and-canine-sibling/">Hungry blind dog sparks deadly house fire, killing itself and canine sibling</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-03-59-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/us-news/baby-girl-among-bystanders-wounded-during-daylight-shooting-on-nyc-street/">1-year-old baby among bystanders wounded during daylight shooting on NYC street</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-03-56-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/media/eric-trump-trashes-abc-backs-call-for-fcc-probe-into-story-on-family-biz/">Eric Trump trashes ABC over &#8216;bulls&#8211;t hit piece,&#8217; backs call for FCC probe into revised story on family biz</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-03-55-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/media/eric-trump-trashes-abc-backs-call-for-fcc-probe-into-story-on-family-biz/">Eric Trump trashes ABC over &#8216;bulls&#8211;t hit piece,&#8217; backs call for FCC probe into revised story on family biz</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-03-55-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/world/asia/100000011189303/china-young-people-new-farmer.html">Why Chinese College Grads Are Becoming Farmers</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-03-50-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/world/asia/100000011189303/china-young-people-new-farmer.html">Why Chinese College Grads Are Becoming Farmers</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-03-50-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss">Breaking Bad actor RJ Mitte dies aged 34</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-13-03-44-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss">Breaking Bad actor RJ Mitte dies aged 34</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-13-03-44-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/us/politics/trump-kimberly-guilfoyle-greece.html">Trump Says He Is &#8216;Looking at&#8217; Firing Kimberly Guilfoyle</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-03-35-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/us/politics/trump-kimberly-guilfoyle-greece.html">Trump Says He Is &#8216;Looking at&#8217; Firing Kimberly Guilfoyle</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-03-35-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/us-news/innocent-12-year-old-girl-shot-multiple-times-on-nyc-street/">Innocent girl, 12, shot multiple times in crossfire of possible gang shootout on NYC street</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-03-32-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/us-news/california-mother-86-dies-after-rushing-into-traffic-to-save-pet/">Adored SoCal mom of seven struck and killed trying to save dog hit by car</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-03-15-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss">UK growth upgraded but energy prices and rates to bite in 2027</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-13-03-14-13 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3241,55 +3040,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-12-05-26-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss">Rejecting closer EU ties would be dereliction of duty, PM to say</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-05-01-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss">Documents falsified to evade tax on Abramovich's wealth, BBC finds</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-05-00-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss">Documents falsified to evade tax on Abramovich's wealth, BBC finds</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-05-00-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss">Documents falsified to evade tax on Abramovich's wealth, BBC finds</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-12-05-00-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/style/kim-jones-phoebe-philo-tom-ford-new-brand.html">What Kim Jones Did Next</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-12-05-00-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/ann-mannix-kevin-mannix-sfpd/">Ex-SFPD sergeant kills wife &#8212; former SFPD deputy chief &#8212; and daughter in alleged &#8216;double-murder suicide&#8217;</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-12-04-43-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/world-news/man-fatally-mauled-by-tiger-prayed-bowed-down-to-giant-cat-inside-uk-wildlife-enclosure-after-stranger-tried-to-pull-him-back/">Man fatally mauled by tiger prayed, bowed down to big cat inside UK wildlife enclosure after stranger tried to pull him back</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-12-04-35-36 +0000</span></div>
             </li>
         
     </ul>
