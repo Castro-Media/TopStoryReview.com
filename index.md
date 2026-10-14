@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-14 02:23 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-14 03:20 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,66 +28,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html">Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/10/13/rep-omar-investigation-focuses-birthdate-citizenship-papers-people-familiar-say/">U.S. probe of Rep. Ilhan Omar focuses on birth date, citizenship papers, people familiar say</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-14-00-56-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss">Pope diagnosed with lung cancer but had successful surgery, Vatican says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-00-17-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/kimberly-guilfoyle-greece-ambassador-resignation-dbd7551c?mod=rss_socialpoliticsfeed">Trying to save her job, Kimberly Guilfoyle claimed the incriminating texts were AI-generated. Inside her final days as ambassador</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-01-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/13/us-news/gavin-newsom-to-parachute-back-into-new-hampshire-ahead-of-midterm-elections/">Gavin Newsom to parachute back into New Hampshire ahead of midterm elections</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-14-00-27-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html">FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-14-00-24-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-rises-0-3-on-possible-position-adjustments-before-u-s-cpi-data-8a549b1f?mod=rss_markets_main">Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-00-42-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/goliath-roller-coaster-death-casts-long-shadow-over-six-flags-turnaround-hopes-c484725e?mod=pls_whats_news_us_business_f">Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags&#8217; Turnaround Hopes</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-00-18-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/13/us-news/hawaii-monk-seal-attack-suspect-blames-delta-for-lack-of-warning/">Hawaii monk seal attack suspect could walk free as court filings reveal outrageous new excuse</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-14-00-48-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/feds-took-over-red-lake-nations-child-welfare-program-after-series-of-deaths/601900782">Feds took over Red Lake Nation&#8217;s child welfare program after series of deaths</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-14-00-46-27 +0000</span></div>
+            wapo, 
+            <span class="datetime">2026-10-14-01-31-04 +0000</span></div>
             </li>
         
 
@@ -95,6 +39,34 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-10-14-01-09-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/13/world-news/italian-education-group-demands-jewish-educators-condemn-israel-before-attending-conference-report/">Jewish educators told to condemn Israel before attending conference: report</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-14-01-07-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/10/13/trump-fly-3400-miles-alaska-hopes-saving-senate-seat/">Trump flies 3,400 miles to Alaska in hopes of saving a Senate seat</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-10-14-01-54-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/minneapolis-school-board-closures-transformation/601900290">Minneapolis superintendent reverses course, recommends not closing schools</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-10-14-01-05-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-5b71987b?mod=rss_markets_main">Gold Steady Ahead of U.S. Inflation Data</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-10-14-01-05-00 +0000</span></div>
             </li>
         
     </ul>
@@ -118,17 +90,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/13/us-news/off-duty-nypd-cop-stabbed-in-mugging-reveals-why-he-fought-to-keep-necklace/">Off-duty NYPD cop stabbed in mugging reveals why he fought to keep necklace &#8212; and how thugs reacted when he told them he was police</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-21-59-26 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-10-13/six-flags-magic-mountain-coaster-shutdown">Six Flags Magic Mountain shuts down second coaster amid safety concerns, rider death in Georgia</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-13-14-33-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/13/us-news/off-duty-nypd-cop-stabbed-in-mugging-reveals-why-he-fought-to-keep-necklace/">Off-duty NYPD cop stabbed in mugging reveals why he fought to keep necklace &#8212; and how thugs reacted when he told them he was police</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-13-21-59-26 +0000</span></div>
             </li>
         
 
@@ -167,7 +139,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=rss_worldnews">Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies</a>
+            <li><a href="https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01?mod=pls_whats_news_us_business_f">Oil Ends Mixed as Traders Weigh Middle East Risks, Russian Diesel Supplies</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-13-19-22-00 +0000</span></div>
@@ -256,6 +228,20 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 1h</h2>
     <ul>
         
+            <li><a href="https://www.washingtonpost.com/politics/2026/10/13/trump-fly-3400-miles-alaska-hopes-saving-senate-seat/">Trump flies 3,400 miles to Alaska in hopes of saving a Senate seat</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-10-14-01-54-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/10/13/rep-omar-investigation-focuses-birthdate-citizenship-papers-people-familiar-say/">U.S. probe of Rep. Ilhan Omar focuses on birth date, citizenship papers, people familiar say</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-10-14-01-31-04 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.startribune.com/minnesota-wild-winnipeg-jets-score-today-nico-sturm-injury-update-calvin-pickard-stats-brock-faber/601899548">Live: Kirill Kaprizov strikes twice as Wild battle Jets in Winnipeg</a>
             <div class='byline small text-muted'>
             startribune, 
@@ -283,153 +269,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-10-14-01-05-00 +0000</span></div>
             </li>
         
-
-            <li><a href="https://www.wsj.com/finance/firmus-ipo-ai-trade-f490c240?mod=rss_markets_main">Failure of Australia&#8217;s Largest IPO in Decades Sends Tremors Through AI Trade</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-01-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-6e2a3ee0?mod=rss_markets_main">Oil Rises Amid Ongoing Middle East Tensions</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-01-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/kimberly-guilfoyle-greece-ambassador-resignation-dbd7551c?mod=rss_socialpoliticsfeed">Trying to save her job, Kimberly Guilfoyle claimed the incriminating texts were AI-generated. Inside her final days as ambassador</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-01-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss">What we know about the man who died falling from a Six Flags rollercoaster</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-00-59-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html">Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-14-00-56-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html">Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-14-00-56-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-993f6e8d?mod=rss_markets_main">Asian Currencies Consolidate Ahead of U.S. CPI Data</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-00-55-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-13/ice-agent-threw-man-into-side-of-car-attacked-daughter-d-a-says">ICE agent threw California homeowner, 72, into side of a car, attacked his daughter, D.A. says</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-14-00-48-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/13/us-news/hawaii-monk-seal-attack-suspect-blames-delta-for-lack-of-warning/">Hawaii monk seal attack suspect could walk free as court filings reveal outrageous new excuse</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-14-00-48-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/feds-took-over-red-lake-nations-child-welfare-program-after-series-of-deaths/601900782">Feds took over Red Lake Nation&#8217;s child welfare program after series of deaths</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-14-00-46-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-rises-0-3-on-possible-position-adjustments-before-u-s-cpi-data-8a549b1f?mod=rss_markets_main">Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-00-42-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/central-banking/singapore-central-bank-unexpectedly-holds-policy-steady-c9779b4d?mod=rss_socialeconomyfeed">Singapore Central Bank Unexpectedly Holds Policy Steady</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-00-32-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/13/us-news/gavin-newsom-to-parachute-back-into-new-hampshire-ahead-of-midterm-elections/">Gavin Newsom to parachute back into New Hampshire ahead of midterm elections</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-14-00-27-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/13/us-news/gavin-newsom-to-parachute-back-into-new-hampshire-ahead-of-midterm-elections/">Gavin Newsom to parachute back into New Hampshire ahead of midterm elections</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-14-00-27-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/scott-wiener-congress-ai-group-gift/">AI-funded group backs Scott Wiener for Congress with stunning $3 million gift</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-14-00-27-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html">FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-14-00-24-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html">FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-14-00-24-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/goliath-roller-coaster-death-casts-long-shadow-over-six-flags-turnaround-hopes-c484725e?mod=pls_whats_news_us_business_f">Goliath Roller-Coaster Death Casts Long Shadow Over Six Flags&#8217; Turnaround Hopes</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-00-18-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss">Pope diagnosed with lung cancer but had successful surgery, Vatican says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-00-17-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss">Pope diagnosed with lung cancer but had successful surgery, Vatican says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-00-17-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss">Pope diagnosed with lung cancer but had successful surgery, Vatican says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-00-17-00 +0000</span></div>
-            </li>
-        
     </ul>
 </div>
 
@@ -437,6 +276,20 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 24h</h2>
     <ul>
         
+            <li><a href="https://www.washingtonpost.com/politics/2026/10/13/trump-fly-3400-miles-alaska-hopes-saving-senate-seat/">Trump flies 3,400 miles to Alaska in hopes of saving a Senate seat</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-10-14-01-54-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/10/13/rep-omar-investigation-focuses-birthdate-citizenship-papers-people-familiar-say/">U.S. probe of Rep. Ilhan Omar focuses on birth date, citizenship papers, people familiar say</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-10-14-01-31-04 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.startribune.com/minnesota-wild-winnipeg-jets-score-today-nico-sturm-injury-update-calvin-pickard-stats-brock-faber/601899548">Live: Kirill Kaprizov strikes twice as Wild battle Jets in Winnipeg</a>
             <div class='byline small text-muted'>
             startribune, 
@@ -2632,13 +2485,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-10-13-15-39-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/10/13/trump-fly-3400-miles-alaska-hopes-saving-senate-seat/">Trump to fly 3,400 miles to Alaska in hopes of saving a Senate seat</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-13-15-37-09 +0000</span></div>
             </li>
         
 
@@ -4013,55 +3859,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-10-13-02-20-28 +0000</span></div>
             </li>
         
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-12/former-police-officers-daughter-killed-in-suspected-murder-suicide">Former police officers, daughter killed in suspected murder-suicide in upscale California neighborhood</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-13-01-59-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/10/12/trump-heads-ohio-his-support-data-centers-rankles-supporters/">In Ohio, some Trump voters question whether he&#8217;s still fighting for them</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-13-01-58-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html">Federal Agents Search Home of Rep. Ilhan Omar</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-01-54-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/12/tech/aussie-womans-facetime-call-freezes-after-flashing-partner-apple-explains/">Aussie woman&#8217;s FaceTime call freezes after flashing partner &#8212; Apple explains</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-01-32-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss">Why the prime minister wants to talk about Brexit again</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-13-01-27-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss">Why the prime minister wants to talk about Brexit again</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-13-01-27-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss">Why the prime minister wants to talk about Brexit again</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-13-01-27-59 +0000</span></div>
-            </li>
-        
     </ul>
 </div>
 
@@ -4069,6 +3866,20 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 7d</h2>
     <ul>
         
+            <li><a href="https://www.washingtonpost.com/politics/2026/10/13/trump-fly-3400-miles-alaska-hopes-saving-senate-seat/">Trump flies 3,400 miles to Alaska in hopes of saving a Senate seat</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-10-14-01-54-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/10/13/rep-omar-investigation-focuses-birthdate-citizenship-papers-people-familiar-say/">U.S. probe of Rep. Ilhan Omar focuses on birth date, citizenship papers, people familiar say</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-10-14-01-31-04 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.startribune.com/minnesota-wild-winnipeg-jets-score-today-nico-sturm-injury-update-calvin-pickard-stats-brock-faber/601899548">Live: Kirill Kaprizov strikes twice as Wild battle Jets in Winnipeg</a>
             <div class='byline small text-muted'>
             startribune, 
@@ -6264,13 +6075,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-10-13-15-39-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/10/13/trump-fly-3400-miles-alaska-hopes-saving-senate-seat/">Trump to fly 3,400 miles to Alaska in hopes of saving a Senate seat</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-10-13-15-37-09 +0000</span></div>
             </li>
         
 
