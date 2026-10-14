@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-14 08:24 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-14 09:19 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,13 +28,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss">Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-06-11-08 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/10/14/business/trump-says-massive-oil-gas-mineral-exploration-to-begin-in-greenland/">Trump says &#8216;massive&#8217; oil, gas, mineral exploration to begin in Greenland</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -42,38 +35,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/14/us-news/south-dakota-deputy-katherine-frank-dies-days-after-being-shot-during-sioux-falls-confrontation/">Young South Dakota deputy dies three days after being shot during a confrontation at a home</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-14-06-37-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/uk/boes-pill-skeptical-four-rate-rises-needed-to-tame-inflation-a1b840a2?mod=rss_worldnews">BOE&#8217;s Pill &#8216;Skeptical&#8217; Four Rate Rises Needed to Tame Inflation</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-06-42-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss">Turkey police raid opposition TV station, halting live broadcasts</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/c6q8n09l1ny0o?at_medium=RSS&at_campaign=rss">India's 'cockroach' leaders jailed after holding protest</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-10-14-06-32-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html">Musk Blames Tycoon for Stalling Satellite Internet Access in India</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-14-06-33-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-993f6e8d?mod=rss_markets_main">U.S. Dollar Index&#8217;s Upward Momentum Starting to Slow, Daily Chart Shows</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-06-29-00 +0000</span></div>
+            <span class="datetime">2026-10-14-07-05-32 +0000</span></div>
             </li>
         
 
@@ -84,17 +49,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss">'Spray and pray': How AI job applications can backfire</a>
+            <li><a href="https://nypost.com/2026/10/14/business/trump-says-massive-oil-gas-mineral-exploration-to-begin-in-greenland/">Trump says &#8216;massive&#8217; oil, gas, mineral exploration to begin in Greenland</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-06-52-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6q8n09l1ny0o?at_medium=RSS&at_campaign=rss">India's 'cockroach' leaders jailed after holding protest</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-07-05-32 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-10-14-07-06-26 +0000</span></div>
             </li>
         
     </ul>
@@ -229,13 +187,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/13/world-news/nato-warns-russia-we-will-break-forces-destroy-anything-and-everything-if-you-attack/">NATO warns Russia: &#8216;We will break&#8217; forces, destroy &#8216;anything and everything&#8217; if you attack</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-04-38-58 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/economy/housing/home-sales-rose-in-september-for-the-first-time-since-spring-32a7d980?mod=rss_socialeconomyfeed">Home sales in September rose for the first time since May, with buyers taking advantage of a plateau in mortgage rates over the summer before the surge in recent weeks</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -247,6 +198,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-10-15-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/13/world-news/nato-warns-russia-we-will-break-forces-destroy-anything-and-everything-if-you-attack/">NATO warns Russia: &#8216;We will break&#8217; forces, destroy &#8216;anything and everything&#8217; if you attack</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-13-04-38-58 +0000</span></div>
             </li>
         
     </ul>
@@ -281,62 +239,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-14-07-02-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss">'Spray and pray': How AI job applications can backfire</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-06-52-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/uk/boes-pill-skeptical-four-rate-rises-needed-to-tame-inflation-a1b840a2?mod=rss_worldnews">BOE&#8217;s Pill &#8216;Skeptical&#8217; Four Rate Rises Needed to Tame Inflation</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-06-42-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/14/us-news/south-dakota-deputy-katherine-frank-dies-days-after-being-shot-during-sioux-falls-confrontation/">Young South Dakota deputy dies three days after being shot during a confrontation at a home</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-14-06-37-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html">Musk Blames Tycoon for Stalling Satellite Internet Access in India</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-14-06-33-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss">Turkey police raid opposition TV station, halting live broadcasts</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-06-32-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-993f6e8d?mod=rss_markets_main">U.S. Dollar Index&#8217;s Upward Momentum Starting to Slow, Daily Chart Shows</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-06-29-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss">Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-06-11-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss">Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-14-06-11-08 +0000</span></div>
             </li>
         
     </ul>
@@ -4123,41 +4025,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-10-13-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cp3rxlyz6w3o?at_medium=RSS&at_campaign=rss">Why are hundreds of prisoners being released early?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-13-07-55-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/13/business/pickleball-company-files-for-bankruptcy-as-founder-acknowledges-business-mistake-i-own-it/">Pickleball company files for bankruptcy as founder acknowledges business mistake: &#8216;I own it&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-13-07-35-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss">India 'cockroach' leaders detained after entering barricaded protest site</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-13-07-31-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-falls-2-0-amid-geopolitical-tensions-d5b509de?mod=rss_markets_main">European Indexes Largely Rise, Though AI Stocks Fall</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-13-07-24-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/autos/stellantis-shipments-fall-on-north-america-summer-shutdowns-32a19196?mod=pls_whats_news_us_business_f">Stellantis Shipments Fall on North America Summer Shutdowns</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-13-07-16-00 +0000</span></div>
             </li>
         
     </ul>
@@ -12732,20 +12599,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-07-08-30-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/nikkei-flat-supported-by-electronics-machinery-shares-d897b28b?mod=rss_markets_main">European Indexes Slide as Tech, Industrials Drop</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-07-07-23-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss">Rainmakers: The drones used to seed clouds</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-07-07-09-32 +0000</span></div>
             </li>
         
     </ul>
