@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-16 05:17 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-16 06:28 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html">In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-03-16-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss">Three children and teacher killed by 16-year-old at Oregon primary school</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-03-45-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/15/us-news/la-city-employee-charged-as-part-of-sprawling-graffiti-spree/">Graffiti vandals used special tactics as part of city-wide vandlism spree &#8212; and one is an LA utility worker</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-16-03-51-49 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/15/us-news/lake-mead-murder-victim-found-in-barrel-in-2022-idd-solving-40-plus-year-cold-case/">Lake Mead murder victim found in barrel in 2022 ID&#8217;d &#8212; solving 40-plus-year cold case</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-16-03-38-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html">Oregon Has Approved Tight Gun Laws, but They Have Been Held Up in Courts</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-03-47-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/police-respond-to-reports-of-a-shooter-at-an-oregon-elementary-school/601901829">Teen shooter kills 4 at Oregon elementary school before being shot by a witness</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-16-03-16-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html">5 Takeaways From the Senate Debate in Maine</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-03-05-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/10/15/us/bend-oregon-shooting-school/bend-oregon-school-shooting">Here&#8217;s what to know.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-03-17-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss">Three children and teacher killed by 16-year-old at Oregon primary school</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-03-45-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html">In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-03-16-51 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -255,82 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/15/us-news/la-city-employee-charged-as-part-of-sprawling-graffiti-spree/">Graffiti vandals used special tactics as part of city-wide vandlism spree &#8212; and one is an LA utility worker</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-16-03-51-49 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/15/us/oregon-gun-control-laws.html">Oregon Has Approved Tight Gun Laws, but They Have Been Held Up in Courts</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-03-47-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss">Three children and teacher killed by 16-year-old at Oregon primary school</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-03-45-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss">Three children and teacher killed by 16-year-old at Oregon primary school</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-03-45-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/15/us-news/lake-mead-murder-victim-found-in-barrel-in-2022-idd-solving-40-plus-year-cold-case/">Lake Mead murder victim found in barrel in 2022 ID&#8217;d &#8212; solving 40-plus-year cold case</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-16-03-38-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/10/15/us/bend-oregon-shooting-school/bend-oregon-school-shooting">Here&#8217;s what to know.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-03-17-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html">In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-03-16-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html">In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-03-16-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/police-respond-to-reports-of-a-shooter-at-an-oregon-elementary-school/601901829">Teen shooter kills 4 at Oregon elementary school before being shot by a witness</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-16-03-16-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html">5 Takeaways From the Senate Debate in Maine</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-03-05-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html">5 Takeaways From the Senate Debate in Maine</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-03-05-19 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3885,41 +3740,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-15-05-00-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/14/world/youth-aging-europe-pension-ukraine-starshield.html">Angry Youth in Aging Europe</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-15-04-43-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/15/world-news/us-military-weighs-use-of-mother-of-all-bombs-in-future-strikes-on-iran-report/">US military weighs use of &#8216;mother of all bombs&#8217; in future strikes on Iran: report</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-15-04-36-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss">Australian woman charged with lacing colleague's curry with snail poison</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-15-04-17-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss">Australian woman charged with lacing colleague's curry with snail poison</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-15-04-17-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck1l3djr5d5do?at_medium=RSS&at_campaign=rss">Desperate to clear toxic haze, Indonesia douses its skies with dry ice</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-15-03-59-56 +0000</span></div>
             </li>
         
     </ul>
