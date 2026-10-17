@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-17 06:25 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-17 07:15 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,54 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/video/world/asia/100000011204367/japan-dancing-salaryman-tohru-dance.html">Dancing Salaryman Pokes Fun at Japan&#8217;s Buttoned-Down Culture</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html">Uncertainty Over Pope&#8217;s Health Fuels Familiar Debate Over Vatican&#8217;s Candor</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-01-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/17/us-news/nj-couple-accused-of-killing-9-year-old-daughter-now-being-probed-for-sexually-abusing-her-report/">NJ couple accused of killing 9-year-old daughter &#8212; now being probed for sexually abusing her: report</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-17-04-50-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html">Japan&#8217;s &#8216;Dancing Salaryman&#8217; Can&#8217;t Stop Grooving</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-01-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html">Uncertainty Over Pope&#8217;s Health Fuels Familiar Debate Over Vatican&#8217;s Candor</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-01-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html">Japan&#8217;s &#8216;Dancing Salaryman&#8217; Can&#8217;t Stop Grooving</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-01-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/world/asia/100000011204367/japan-dancing-salaryman-tohru-dance.html">Dancing Salaryman Pokes Fun at Japan&#8217;s Buttoned-Down Culture</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-00-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -97,13 +49,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/world/israeli-settlers-attack-olive-harvest-9.7383174?cmp=rss">Israeli settlers attack Palestinians, American journalist during West Bank olive harvest</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-16-14-34-39 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/10/16/us/bend-school-shooting-victims-megan-lambert-rhoam-summer.html">Teacher Killed in Oregon School Shooting Was Working Her &#8216;Dream Job,&#8217; Family Says</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -118,17 +63,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.cbc.ca/news/world/israeli-settlers-attack-olive-harvest-9.7383174?cmp=rss">Israeli settlers attack Palestinians, American journalist during West Bank olive harvest</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-10-16-14-34-39 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://nypost.com/2026/10/16/business/ai-stock-sell-off-ramps-up-over-debt-fueled-data-center-spending-fears/">AI stock sell-off ramps up over debt-fueled data center spending fears: &#8216;Full-blown crisis of confidence&#8217;</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-16-20-35-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/16/us-news/trump-attacks-ukraines-zelensky-after-he-says-were-done-with-energy-cease-fire-thats-a-disgrace/">Trump attacks Ukraine&#8217;s Zelensky after he says &#8216;we&#8217;re done&#8217; with energy cease-fire: &#8216;That&#8217;s a disgrace&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-16-10-46-40 +0000</span></div>
             </li>
         
 
@@ -139,6 +84,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://nypost.com/2026/10/16/us-news/trump-attacks-ukraines-zelensky-after-he-says-were-done-with-energy-cease-fire-thats-a-disgrace/">Trump attacks Ukraine&#8217;s Zelensky after he says &#8216;we&#8217;re done&#8217; with energy cease-fire: &#8216;That&#8217;s a disgrace&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-16-10-46-40 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/economy/housing/canada-housing-starts-rise-in-september-though-market-faces-longer-term-supply-gap-8a0cde3f?mod=rss_socialeconomyfeed">Canada Housing Starts Rise in September, Though Market Faces Longer-Term Supply Gap</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -146,10 +98,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss">Ship attack reports near Hormuz reach record high as oil exports slow</a>
+            <li><a href="https://www.wsj.com/politics/whats-news-newsletter-10-16-2026-ed8fba72?mod=rss_socialpoliticsfeed">Trump told reporters that he gave Zacharia the option to leave her job after a rocky first week. And world financial leaders worry about the AI boom. Read more in today&#8217;s What&#8217;s News:</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-05-00-17 +0000</span></div>
+            wsj, 
+            <span class="datetime">2026-10-16-21-11-00 +0000</span></div>
             </li>
         
     </ul>
@@ -234,54 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/17/us-news/nj-couple-accused-of-killing-9-year-old-daughter-now-being-probed-for-sexually-abusing-her-report/">NJ couple accused of killing 9-year-old daughter &#8212; now being probed for sexually abusing her: report</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-17-04-50-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html">Uncertainty Over Pope&#8217;s Health Fuels Familiar Debate Over Vatican&#8217;s Candor</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-01-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html">Uncertainty Over Pope&#8217;s Health Fuels Familiar Debate Over Vatican&#8217;s Candor</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-01-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html">Japan&#8217;s &#8216;Dancing Salaryman&#8217; Can&#8217;t Stop Grooving</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-01-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html">Japan&#8217;s &#8216;Dancing Salaryman&#8217; Can&#8217;t Stop Grooving</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-01-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/world/asia/100000011204367/japan-dancing-salaryman-tohru-dance.html">Dancing Salaryman Pokes Fun at Japan&#8217;s Buttoned-Down Culture</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/world/asia/100000011204367/japan-dancing-salaryman-tohru-dance.html">Dancing Salaryman Pokes Fun at Japan&#8217;s Buttoned-Down Culture</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-04-00-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3234,90 +3138,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-16-06-54-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/schneider-electric-boosts-outlook-again-after-data-center-demand-lifts-sales-eb5e00c4?mod=pls_whats_news_us_business_f">Schneider Electric Boosts Outlook Again After Data-Center Demand Lifts Sales</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-16-05-50-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c9rky27ljrxno?at_medium=RSS&at_campaign=rss">Fuel costs squeezing margins for some businesses</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-05-30-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/asia-stocks-recover-some-ground-after-tech-rout-c0735307?mod=pls_whats_news_us_business_f">Asia Stocks Recover Some Ground After Tech Rout</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-16-05-28-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/asia-stocks-recover-some-ground-after-tech-rout-c0735307?mod=rss_markets_main">Asia Stocks Recover Some Ground After Tech Rout</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-16-05-28-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/16/world-news/hurricane-trudy-strengthens-off-mexicos-coast-with-major-storm-expected/">Hurricane Trudy strengthens off Mexico&#8217;s coast with major storm expected</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-16-05-11-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/five-takeaways-from-maines-senate-debates-f7671a31?mod=rss_socialpoliticsfeed">Sen. Susan Collins and Troy Jackson wrapped up their fourth and final debate in Maine on Thursday, tangling over President Trump, the high cost of fuel and the Supreme Court</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-16-05-06-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6lyk77jq9d2o?at_medium=RSS&at_campaign=rss">'TV and cheap booze' blamed for landlord quitting</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-05-03-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss">Ship attack reports near Hormuz reach record high as oil exports slow</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-05-00-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss">Ship attack reports near Hormuz reach record high as oil exports slow</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-05-00-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss">Ship attack reports near Hormuz reach record high as oil exports slow</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-05-00-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss">They fled Russia, but the West sent them back</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-04-57-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss">They fled Russia, but the West sent them back</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-16-04-57-28 +0000</span></div>
             </li>
         
     </ul>
