@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-18 10:14 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-18 11:13 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Several dead or injured in major fire at Canada military base</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-18-08-52-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/freeland-resignation-trudeau-9.7384728?cmp=rss">Freeland believes her resignation led to better outcome for Trudeau, allowing him to exit before likely defeat</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-18-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html">In India, the Scion of a Political Dynasty Tries to Seize His Moment</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-08-04-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/18/us-news/former-mit-scientist-david-sabatini-wins-6m-defamation-verdict-over-sexual-misconduct-claims/">Former MIT scientist wins $6M defamation verdict against colleague who accused him of sexual misconduct</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-18-08-26-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html">At Least 19 Dead After Stampede at Indian Religious Event</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-08-47-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html">France in Shock After Protests Devolve Into Riots</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-08-44-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/18/today-in-history-mr-october-hits-three-homers-to-clinch-world-series/">Today in History: &#8216;Mr. October&#8217; hits three homers to clinch World Series</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-18-08-30-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/royal-family-relatability-prince-edward-youth-king-charles-volodymyr-zelenskyy-9.7383713?cmp=rss">Doing the dishes and riding the subway? Why the royals keep trying to look relatable</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-18-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Several dead or injured in major fire at Canada military base</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-18-08-52-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html">At Least 19 Dead After Stampede at Indian Religious Event</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-08-47-37 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -125,13 +56,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/elections/republican-midterm-election-strategy-culture-war-8a128efa?mod=rss_socialpoliticsfeed">Republicans across the most competitive House and Senate races have settled on a closing pitch ahead of Election Day: Democrats are too extreme to be given control of Congress</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-18-02-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/10/17/us-news/steve-hilton-vows-to-clear-all-california-homeless-encampments-by-end-of-2027/">California gubernatorial candidate Steve Hilton makes ambitious homelessness pledge: &#8216;every encampment will be cleared&#8217;</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -146,6 +70,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/politics/elections/republican-midterm-election-strategy-culture-war-8a128efa?mod=rss_socialpoliticsfeed">Republicans across the most competitive House and Senate races have settled on a closing pitch ahead of Election Day: Democrats are too extreme to be given control of Congress</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-10-18-02-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/world/middle-east/masked-israeli-settlers-attack-european-diplomats-in-west-bank-f60dedd1?mod=rss_worldnews">Masked Israeli Settlers Attack European Diplomats in West Bank</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -153,17 +84,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/17/us-news/driver-plows-through-youth-soccer-field-at-kansas-sports-complex-killing-at-least-2/">Mom plows pickup through youth soccer game killing two, including 5-year-old boy, while 11 others are hospitalized: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-17-23-16-26 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss">Teacher fought US school attacker before armed dad shot suspect 'multiple times'</a>
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-17-09-58-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/17/us-news/driver-plows-through-youth-soccer-field-at-kansas-sports-complex-killing-at-least-2/">Mom plows pickup through youth soccer game killing two, including 5-year-old boy, while 11 others are hospitalized: cops</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-17-23-16-26 +0000</span></div>
             </li>
         
 
@@ -255,89 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Several dead or injured in major fire at Canada military base</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-18-08-52-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Several dead or injured in major fire at Canada military base</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-18-08-52-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html">At Least 19 Dead After Stampede at Indian Religious Event</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-08-47-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html">At Least 19 Dead After Stampede at Indian Religious Event</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-08-47-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html">France in Shock After Protests Devolve Into Riots</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-08-44-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html">France in Shock After Protests Devolve Into Riots</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-08-44-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/18/today-in-history-mr-october-hits-three-homers-to-clinch-world-series/">Today in History: &#8216;Mr. October&#8217; hits three homers to clinch World Series</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-18-08-30-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/18/us-news/former-mit-scientist-david-sabatini-wins-6m-defamation-verdict-over-sexual-misconduct-claims/">Former MIT scientist wins $6M defamation verdict against colleague who accused him of sexual misconduct</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-18-08-26-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html">In India, the Scion of a Political Dynasty Tries to Seize His Moment</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-08-04-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html">In India, the Scion of a Political Dynasty Tries to Seize His Moment</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-08-04-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/royal-family-relatability-prince-edward-youth-king-charles-volodymyr-zelenskyy-9.7383713?cmp=rss">Doing the dishes and riding the subway? Why the royals keep trying to look relatable</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-18-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/freeland-resignation-trudeau-9.7384728?cmp=rss">Freeland believes her resignation led to better outcome for Trudeau, allowing him to exit before likely defeat</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-18-08-00-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2030,90 +1878,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-17-09-58-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/its-too-late-for-small-fixes-at-pepsi-aaf8563f?mod=pls_whats_news_us_business_f">It&#8217;s Too Late for Small Fixes at Pepsi</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-17-09-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/autos/what-teslas-flying-roadster-really-means-for-the-global-auto-race-0ede8702?mod=pls_whats_news_us_business_f">What Tesla&#8217;s Flying Roadster Really Means for the Global Auto Race</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-17-09-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/autos/what-teslas-flying-roadster-really-means-for-the-global-auto-race-0ede8702?mod=pls_whats_news_us_business_f">What Tesla&#8217;s Flying Roadster Really Means for the Global Auto Race</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-17-09-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/its-too-late-for-small-fixes-at-pepsi-aaf8563f?mod=rss_markets_main">It&#8217;s Too Late for Small Fixes at Pepsi</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-17-09-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/its-too-late-for-small-fixes-at-pepsi-aaf8563f?mod=rss_markets_main">It&#8217;s Too Late for Small Fixes at Pepsi</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-17-09-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/europe-trump-right-wing-populists-d91734af?mod=rss_worldnews">Why Europe&#8217;s Right Is Breaking Up With MAGA</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-17-09-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/europe-trump-right-wing-populists-d91734af?mod=rss_socialpoliticsfeed">As European nationalist parties have been rising in the polls, they have come to see President Trump as a liability and have distanced themselves from him</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-17-09-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss">Katie Zacharia leaving White House role less than five days into job</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-17-09-14-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss">Katie Zacharia leaving White House role less than five days into job</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-17-09-14-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html">Corporate Tax Revenue Falls Even as Profits Soar Under Trump</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-09-02-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/business/medicare-coverage-retirement.html">It&#8217;s Time to Shop Medicare, and This Year, It&#8217;s Extra Important</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-09-01-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/arts/design/catharina-van-hemessen.html">She Signed Her Painting in 1548. Nearly 500 Years Later, It Finally Goes on Show.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-09-00-21 +0000</span></div>
             </li>
         
     </ul>
@@ -10758,13 +10522,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/housing/homhome-prices-sellers-mortgage-ratese-sellers-are-starting-to-blink-on-prices-thats-bad-for-builders-9512512f?mod=rss_socialeconomyfeed">Heard on the Street: Lennar and KB Home both say they are facing tougher competition from regular owners who are more motivated to sell</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-11-09-30-00 +0000</span></div>
             </li>
         
     </ul>
