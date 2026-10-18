@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-18 05:15 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-18 06:26 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,40 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html">Deadly &#8216;Incident&#8217; at Canadian Forces Base Wainwright Sparks Fire</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-03-15-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/17/us-news/nypd-officer-allegedly-struck-in-bronx-hit-and-run-while-responding-to-rowdy-gathering/">NYPD officer struck in Bronx hit-and-run after rowdy gathering &#8212; driver at large</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-18-03-05-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deadly fire breaks out at Canada military base</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-18-03-23-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deadly fire breaks out at Canada military base</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-18-03-23-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html">Deadly &#8216;Incident&#8217; at Canadian Forces Base Wainwright Sparks Fire</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-03-15-23 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -220,40 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deadly fire breaks out at Canada military base</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-18-03-23-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deadly fire breaks out at Canada military base</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-18-03-23-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html">Deadly &#8216;Incident&#8217; at Canadian Forces Base Wainwright Sparks Fire</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-03-15-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html">Deadly &#8216;Incident&#8217; at Canadian Forces Base Wainwright Sparks Fire</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-03-15-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/17/us-news/nypd-officer-allegedly-struck-in-bronx-hit-and-run-while-responding-to-rowdy-gathering/">NYPD officer struck in Bronx hit-and-run after rowdy gathering &#8212; driver at large</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-18-03-05-25 +0000</span></div>
-            </li>
         
     </ul>
 </div>
