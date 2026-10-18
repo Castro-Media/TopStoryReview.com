@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-18 06:26 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-18 07:16 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,6 +27,47 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
+        
+            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-05-42-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss">A wave of homemade, synthetic drugs sweeps US and deepens crisis</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-18-05-04-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/18/us-news/baja-california-search-continues-after-boat-capsizes-survivors-attacked-by-sharks/">Search continues after boat capsizes off Baja California coast &#8212;survivors attacked by sharks</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-18-05-24-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/18/us-news/armed-nutjob-barricaded-himself-in-nyc-apartment-after-shooting-two-people-nypd/">Armed nutjob barricaded himself in NYC apartment after shooting two people: cops</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-18-05-02-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-05-42-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss">A wave of homemade, synthetic drugs sweeps US and deepens crisis</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-18-05-04-31 +0000</span></div>
+            </li>
         
     </ul>
 </div>
@@ -42,24 +83,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss">How day of protests unfolded as disorder breaks out across France</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-17-21-33-17 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/10/17/world-news/who-runs-the-catholic-church-if-pope-leo-xiv-is-incapacitated/">Pope Leo released from hospital 4 days after lung cancer surgery, telling supporters he&#8217;s feeling &#8216;much better&#8217;</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-17-15-38-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/17/zelenskyy-us-russia-sanctions/">Ukrainian president urges support for new US sanctions on Russia after President Donald Trump puts them on hold</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-17-15-51-07 +0000</span></div>
             </li>
         
 
@@ -70,10 +97,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/17/us-news/steve-hilton-vows-to-clear-all-california-homeless-encampments-by-end-of-2027/">California gubernatorial candidate Steve Hilton makes ambitious homelessness pledge: &#8216;every encampment will be cleared&#8217;</a>
+            <li><a href="https://www.cbc.ca/news/world/zelenskyy-trump-russia-sanctions-9.7385125?cmp=rss">Zelenskyy urges support for new U.S. sanctions on Russia hours after Trump paused them</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-18-00-57-43 +0000</span></div>
+            cbc, 
+            <span class="datetime">2026-10-17-12-27-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-17/southern-california-no-kings-protests">'No Kings' protests mobilize across California as activists push for early voter turnout</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-17-17-51-27 +0000</span></div>
             </li>
         
 
@@ -91,10 +125,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html">Dispute Between Trump Allies Centers on Millions Transferred From Congo</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss">Teacher fought US school attacker before armed dad shot suspect 'multiple times'</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-17-20-45-21 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-10-17-09-58-17 +0000</span></div>
             </li>
         
 
@@ -102,6 +136,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-10-17-22-33-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html">Dispute Between Trump Allies Centers on Millions Transferred From Congo</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-17-20-45-21 +0000</span></div>
             </li>
         
     </ul>
@@ -125,17 +166,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/policy/ukraine-resumes-strikes-on-russian-refineries-516c0072?mod=rss_socialpoliticsfeed">Ukraine resumed strikes on Russian refineries after a dayslong truce, Trump canceled plans to livestream the firing squad execution of the Fort Hood shooter and the FBI is investigating suspicious mailings sent to elections offices across the country. Read more in today&#8217;s What&#8217;s News newsletter:</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-15-21-29-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/elections/kansas-senate-election-trump-roger-marshall-d17319e5?mod=rss_socialpoliticsfeed">In August, Kansas GOP Sen. Roger Marshall said he was set up &#8220;quite nicely&#8221; for reelection. But now he finds himself in a tossup race in a state that President Trump won by 16 percentage points in 2024</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-17-19-53-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/ukraine-resumes-strikes-on-russian-refineries-516c0072?mod=rss_socialpoliticsfeed">Ukraine resumed strikes on Russian refineries after a dayslong truce, Trump canceled plans to livestream the firing squad execution of the Fort Hood shooter and the FBI is investigating suspicious mailings sent to elections offices across the country. Read more in today&#8217;s What&#8217;s News newsletter:</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-10-15-21-29-00 +0000</span></div>
             </li>
         
 
@@ -187,6 +228,47 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 1h</h2>
     <ul>
         
+            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-05-42-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-05-42-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/18/us-news/baja-california-search-continues-after-boat-capsizes-survivors-attacked-by-sharks/">Search continues after boat capsizes off Baja California coast &#8212;survivors attacked by sharks</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-18-05-24-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss">A wave of homemade, synthetic drugs sweeps US and deepens crisis</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-18-05-04-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss">A wave of homemade, synthetic drugs sweeps US and deepens crisis</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-18-05-04-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/18/us-news/armed-nutjob-barricaded-himself-in-nyc-apartment-after-shooting-two-people-nypd/">Armed nutjob barricaded himself in NYC apartment after shooting two people: cops</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-18-05-02-51 +0000</span></div>
+            </li>
+        
     </ul>
 </div>
 
@@ -194,17 +276,94 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 24h</h2>
     <ul>
         
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deadly fire breaks out at Canada military base</a>
+            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-18-03-23-08 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-10-18-05-42-51 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deadly fire breaks out at Canada military base</a>
+            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-05-42-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/18/us-news/baja-california-search-continues-after-boat-capsizes-survivors-attacked-by-sharks/">Search continues after boat capsizes off Baja California coast &#8212;survivors attacked by sharks</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-18-05-24-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss">A wave of homemade, synthetic drugs sweeps US and deepens crisis</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-10-18-03-23-08 +0000</span></div>
+            <span class="datetime">2026-10-18-05-04-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss">A wave of homemade, synthetic drugs sweeps US and deepens crisis</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-18-05-04-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/18/us-news/armed-nutjob-barricaded-himself-in-nyc-apartment-after-shooting-two-people-nypd/">Armed nutjob barricaded himself in NYC apartment after shooting two people: cops</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-18-05-02-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html">Singing, Dancing and Getting Dumped by A.I. on Korean TV</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-04-24-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html">Singing, Dancing and Getting Dumped by A.I. on Korean TV</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-04-24-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html">In India, the Scion of a Political Dynasty Tries to Seize His Moment</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-04-01-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html">In India, the Scion of a Political Dynasty Tries to Seize His Moment</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-04-01-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deaths confirmed in major fire at Canada military base</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-18-04-00-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deaths confirmed in major fire at Canada military base</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-18-04-00-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/17/world-news/serious-incident-resulted-in-deaths-injuries-and-major-fire-at-canadian-military-base/">&#8216;Serious&#8217; incident resulted in deaths, injuries and major fire at Canadian military base</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-18-03-57-11 +0000</span></div>
             </li>
         
 
@@ -324,20 +483,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-18-01-37-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-01-34-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-01-34-13 +0000</span></div>
             </li>
         
 
@@ -635,13 +780,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/17/us-news/california-weed-farm-boss-jailed-for-trapping-migrant-workers-stealing-wages/">Shocking punishment for California man who imprisoned migrants on remote weed farm: &#8216;Profound imbalance of power&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-17-22-48-41 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.cbc.ca/news/world/pope-leo-lung-cancer-surgery-9.7385445?cmp=rss">Pope Leo returns to Vatican after lung cancer surgery</a>
             <div class='byline small text-muted'>
             cbc, 
@@ -653,13 +791,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-10-17-22-35-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/17/us-news/electrical-fire-in-nyc-theater-district-apartment-building-kills-1-injures-1/">Electrical fire in Theater District apartment building kills 1, injures 1</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-17-22-33-29 +0000</span></div>
             </li>
         
 
@@ -1755,6 +1886,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california">Big assertions, sharp exchanges, little clarity define DOJ election battle with California</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-17-10-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.latimes.com/california/story/2026-10-17/socal-braces-for-more-santa-ana-winds-as-firefighters-battle-blazes">SoCal braces for another day of heat and winds as fire destroys homes in Orange County</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -1762,10 +1900,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california">Big assertions, sharp exchanges, little clarity define DOJ election battle with California</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss">Teacher fought US school attacker before armed dad shot suspect 'multiple times'</a>
             <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-17-10-00-00 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-10-17-09-58-17 +0000</span></div>
             </li>
         
 
@@ -1936,13 +2074,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-10-17-06-01-55 +0000</span></div>
             </li>
         
-
-            <li><a href="https://nypost.com/2026/10/17/us-news/texas-dem-katy-padilla-stouts-campaign-spent-4k-on-cookies-beer-wine-and-food/">Texas Dem Katy Padilla Stout&#8217;s campaign spent $4K on cookies, beer, wine and food</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-17-05-23-00 +0000</span></div>
-            </li>
-        
     </ul>
 </div>
 
@@ -1950,17 +2081,94 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 7d</h2>
     <ul>
         
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deadly fire breaks out at Canada military base</a>
+            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-18-03-23-08 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-10-18-05-42-51 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deadly fire breaks out at Canada military base</a>
+            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-05-42-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/18/us-news/baja-california-search-continues-after-boat-capsizes-survivors-attacked-by-sharks/">Search continues after boat capsizes off Baja California coast &#8212;survivors attacked by sharks</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-18-05-24-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss">A wave of homemade, synthetic drugs sweeps US and deepens crisis</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-10-18-03-23-08 +0000</span></div>
+            <span class="datetime">2026-10-18-05-04-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss">A wave of homemade, synthetic drugs sweeps US and deepens crisis</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-18-05-04-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/18/us-news/armed-nutjob-barricaded-himself-in-nyc-apartment-after-shooting-two-people-nypd/">Armed nutjob barricaded himself in NYC apartment after shooting two people: cops</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-18-05-02-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html">Singing, Dancing and Getting Dumped by A.I. on Korean TV</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-04-24-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html">Singing, Dancing and Getting Dumped by A.I. on Korean TV</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-04-24-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html">In India, the Scion of a Political Dynasty Tries to Seize His Moment</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-04-01-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html">In India, the Scion of a Political Dynasty Tries to Seize His Moment</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-18-04-01-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deaths confirmed in major fire at Canada military base</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-18-04-00-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss">Deaths confirmed in major fire at Canada military base</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-18-04-00-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/17/world-news/serious-incident-resulted-in-deaths-injuries-and-major-fire-at-canadian-military-base/">&#8216;Serious&#8217; incident resulted in deaths, injuries and major fire at Canadian military base</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-18-03-57-11 +0000</span></div>
             </li>
         
 
@@ -2080,20 +2288,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-18-01-37-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-01-34-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html">Bernie Sanders Visits Florida to Campaign With Angie Nixon</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-01-34-13 +0000</span></div>
             </li>
         
 
@@ -2391,13 +2585,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/17/us-news/california-weed-farm-boss-jailed-for-trapping-migrant-workers-stealing-wages/">Shocking punishment for California man who imprisoned migrants on remote weed farm: &#8216;Profound imbalance of power&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-17-22-48-41 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.cbc.ca/news/world/pope-leo-lung-cancer-surgery-9.7385445?cmp=rss">Pope Leo returns to Vatican after lung cancer surgery</a>
             <div class='byline small text-muted'>
             cbc, 
@@ -2409,13 +2596,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-10-17-22-35-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/17/us-news/electrical-fire-in-nyc-theater-district-apartment-building-kills-1-injures-1/">Electrical fire in Theater District apartment building kills 1, injures 1</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-17-22-33-29 +0000</span></div>
             </li>
         
 
@@ -3511,6 +3691,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california">Big assertions, sharp exchanges, little clarity define DOJ election battle with California</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-17-10-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.latimes.com/california/story/2026-10-17/socal-braces-for-more-santa-ana-winds-as-firefighters-battle-blazes">SoCal braces for another day of heat and winds as fire destroys homes in Orange County</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -3518,10 +3705,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-10-17/big-assertions-sharp-exchanges-little-clarity-define-doj-election-battle-with-california">Big assertions, sharp exchanges, little clarity define DOJ election battle with California</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss">Teacher fought US school attacker before armed dad shot suspect 'multiple times'</a>
             <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-17-10-00-00 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-10-17-09-58-17 +0000</span></div>
             </li>
         
 
@@ -3704,13 +3891,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-17-03-41-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/16/world-news/3-mexican-men-sentenced-for-killing-australian-brothers-callum-and-jake-robinson-us-surf-pal-carter-rhoad/">3 men sentenced to more than 158 years for killing Australian brothers, US surf pal in Mexico</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-17-03-38-31 +0000</span></div>
             </li>
         
 
@@ -4848,13 +5028,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html">Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-16-16-07-37 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/world/europe/brazen-russian-attacks-are-testing-nato-955ff97d?mod=rss_worldnews">Brazen Russian Attacks Are Testing NATO</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -5548,7 +5721,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable">Bass vs. Raman: Who can make housing more affordable?</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department">A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-16-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates">Bass and Raman trade accusations over ICE &#8212; and former LAPD chief Daryl Gates</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-16-10-00-00 +0000</span></div>
@@ -5562,14 +5742,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-16/mans-neck-was-broken-in-la-county-jail-his-family-is-suing-sheriffs-department">A man's neck was broken in an L.A. County jail. His family is suing the Sheriff's Department</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-16-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-16/bass-raman-daryl-gates">Bass and Raman trade accusations over ICE &#8212; and former LAPD chief Daryl Gates</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-16/bass-vs-raman-who-can-make-housing-more-affordable">Bass vs. Raman: Who can make housing more affordable?</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-16-10-00-00 +0000</span></div>
@@ -6934,13 +7107,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html">32 Children Killed After School Roof Collapses in Pakistan</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-15-15-04-12 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.cbc.ca/news/politics/single-use-plastics-ban-supreme-court-9.7381786?cmp=rss">Supreme Court will hear appeal of federal ban on single-use plastics</a>
             <div class='byline small text-muted'>
             cbc, 
@@ -7298,14 +7464,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-10-15/sonoma-winery-to-close-tasting-room-as-people-drink-less">Sonoma winery to close tasting room as people drink less</a>
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2026-10-15/ex-hfpa-member-withdraws-lawsuit-against-golden-globes-group">Ex-Hollywood Foreign Press Assn. member settles suit against Golden Globes group</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-15-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2026-10-15/ex-hfpa-member-withdraws-lawsuit-against-golden-globes-group">Ex-Hollywood Foreign Press Assn. member settles suit against Golden Globes group</a>
+            <li><a href="https://www.latimes.com/business/story/2026-10-15/sonoma-winery-to-close-tasting-room-as-people-drink-less">Sonoma winery to close tasting room as people drink less</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-15-10-00-00 +0000</span></div>
@@ -7340,13 +7506,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas">Climate change is weakening Santa Ana winds &#8212; but won't save SoCal from devastating fires</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-15-10-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/politics/story/2026-10-15/la-voters-tulchin-research-poll">L.A. voters worry about outside influence in midterm elections, new poll finds</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -7355,6 +7514,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/california/story/2026-10-15/santa-monica-mountains-parks-close-red-flag-warning">As Santa Ana winds bear down, officials shutter parks to avoid sparking a fire: Here's what's closed</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-15-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/environment/story/2026-10-15/climate-change-is-weakening-santa-anas">Climate change is weakening Santa Ana winds &#8212; but won't save SoCal from devastating fires</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-15-10-00-00 +0000</span></div>
@@ -7564,17 +7730,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/13/world/asia/bougainville-island-panguna-mine-pollution-reopening.html">This Copper Mine Led to a Civil War. Can Reopening It Fund a New Nation?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-15-01-53-01 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://missionlocal.org/2026/10/edwin-adams-sfpd-identity/">Man killed in SFPD pursuit identified as Pittsburg resident Edwin Adams</a>
             <div class='byline small text-muted'>
             missionlocal, 
             <span class="datetime">2026-10-15-01-34-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d?mod=rss_markets_main">He Crafted a Crypto Law for Trump&#8212;as His Company Got Millions From a Crypto Giant</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-10-15-01-00-00 +0000</span></div>
             </li>
         
 
@@ -9510,13 +9676,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/13/world/asia/south-korea-stabbing-homeplus.html">At Least 6 Injured in Stabbing in South Korea</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-13-13-31-15 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss">Rusty or something more? South Africa's concern after Australia loss</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -10238,14 +10397,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign">Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-12-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain">Here are the threats that remain from storm Rachel and the weather whiplash that comes next</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change">L.A. mayoral candidate Nithya Raman has strong opinions. But they often change</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-12-10-00-00 +0000</span></div>
@@ -10259,7 +10411,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-12/nithya-raman-has-strong-opinions-but-they-often-change">L.A. mayoral candidate Nithya Raman has strong opinions. But they often change</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-12/steve-hilton-republican-california-gubernatorial-campaign">Republican Steve Hilton leans on cheeky ads, voter discontent in long-shot campaign for governor</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-12-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-12/worst-of-storm-rachel-has-passed-but-threats-to-coast-remain">Here are the threats that remain from storm Rachel and the weather whiplash that comes next</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-12-10-00-00 +0000</span></div>
@@ -10532,14 +10691,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy">How the GOP weaponized trans issues and left Democrats searching for a strategy</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home">As thousands sit in ICE detention, one woman is fighting to bring her husband home</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-11/as-thousands-sit-in-ice-detention-one-woman-is-fighting-to-bring-her-husband-home">As thousands sit in ICE detention, one woman is fighting to bring her husband home</a>
+            <li><a href="https://www.latimes.com/politics/story/2026-10-11/how-gop-weaponized-trans-issues-left-democrats-searching-for-strategy">How the GOP weaponized trans issues and left Democrats searching for a strategy</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-11-10-00-00 +0000</span></div>
