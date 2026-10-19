@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-19 08:28 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-19 09:25 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,68 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss">Bomb threat forces Israel to Austria flight into emergency landing</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-19-06-29-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/19/world-news/rubio-warns-theres-real-risk-russia-ukraine-war-could-spread-into-another-country-as-he-calls-for-end-to-conflict/">Rubio warns there&#8217;s &#8216;real risk&#8217; Russia-Ukraine war could spread into another country as he calls for end to conflict</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-19-07-00-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss">Watch: Shops looted and restaurants gutted in Paris riots</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-19-06-40-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html">Five Salvadoran Soldiers Missing in Haiti After Ambush</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-19-06-43-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-in-asian-trade-e5171539?mod=rss_markets_main">U.S. Treasury Yields Fall in Asian Trade</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-19-06-19-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/yen-consolidates-but-may-be-supported-by-risk-off-mood-7504bde7?mod=rss_markets_main">Dollar Drawing Support From Geopolitical Strains</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-19-06-23-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html">Five Salvadoran Soldiers Missing in Haiti After Ambush</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-19-06-43-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss">Watch: Shops looted and restaurants gutted in Paris riots</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-19-06-40-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss">Bomb threat forces Israel to Austria flight into emergency landing</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-19-06-29-55 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -146,13 +84,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html">U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-19-02-43-20 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/finance/investing/two-sigma-overdeck-divorce-siegel-d66db008?mod=rss_markets_main">A Hedge-Fund Billionaire&#8217;s Two Bitter Wars&#8212;Against His Wife and His Business Partner</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -164,6 +95,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-18-22-22-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss">Judgement day for Kenya pastor accused of ordering parents to starve their children to death</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-19-03-44-02 +0000</span></div>
             </li>
         
     </ul>
@@ -248,68 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/19/world-news/rubio-warns-theres-real-risk-russia-ukraine-war-could-spread-into-another-country-as-he-calls-for-end-to-conflict/">Rubio warns there&#8217;s &#8216;real risk&#8217; Russia-Ukraine war could spread into another country as he calls for end to conflict</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-19-07-00-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html">Five Salvadoran Soldiers Missing in Haiti After Ambush</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-19-06-43-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/18/world/americas/salvadoran-soldiers-missing-haiti.html">Five Salvadoran Soldiers Missing in Haiti After Ambush</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-19-06-43-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss">Watch: Shops looted and restaurants gutted in Paris riots</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-19-06-40-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss">Watch: Shops looted and restaurants gutted in Paris riots</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-19-06-40-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss">Bomb threat forces Israel to Austria flight into emergency landing</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-19-06-29-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss">Bomb threat forces Israel to Austria flight into emergency landing</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-19-06-29-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/yen-consolidates-but-may-be-supported-by-risk-off-mood-7504bde7?mod=rss_markets_main">Dollar Drawing Support From Geopolitical Strains</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-19-06-23-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-in-asian-trade-e5171539?mod=rss_markets_main">U.S. Treasury Yields Fall in Asian Trade</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-19-06-19-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2324,34 +2200,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-18-08-12-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/royal-family-relatability-prince-edward-youth-king-charles-volodymyr-zelenskyy-9.7383713?cmp=rss">Doing the dishes and riding the subway? Why the royals keep trying to look relatable</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-18-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/freeland-resignation-trudeau-9.7384728?cmp=rss">Freeland believes her resignation led to better outcome for Trudeau, allowing him to exit before likely defeat</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-18-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html">Israeli Settlers Attack Palestinians and European Officials in West Bank</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-07-36-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html">Israeli Settlers Attack Palestinians and European Officials in West Bank</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-18-07-36-55 +0000</span></div>
             </li>
         
     </ul>
@@ -10961,13 +10809,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-12-08-30-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/u-k-government-faces-test-of-budget-credibility-b5ce5fc9?mod=rss_worldnews">U.K. Government Faces Test of Budget Credibility</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-12-07-40-00 +0000</span></div>
             </li>
         
     </ul>
