@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-21 14:18 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-21 15:17 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,73 +28,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss">US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin</a>
+            <li><a href="https://missionlocal.org/2026/10/no-more/">No more.</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-21-12-32-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/trump-says-data-centers-must-provide-their-own-electricity-c843ed56?mod=rss_socialpoliticsfeed">President Trump said he is requiring companies that build large data centers in the U.S. to provide their own electricity and suggested they pay communities hosting facilities a dividend</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-21-12-08-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/minnesotas-democratic-u-s-senate-nominee-inflated-academic-record-9a943662?mod=rss_socialpoliticsfeed">Minnesota&#8217;s Democratic U.S. Senate nominee Peggy Flanagan said she &#8220;graduated Phi Beta Kappa,&#8221; but records raise questions about the claim</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-21-12-44-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html">U.K. Approves Long-Stalled Jackdaw Gas Drilling Project in the North Sea</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-12-27-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/21/us-news/ny-congressional-nominee-brad-lander-says-he-was-detained-by-the-idf-in-the-west-bank/">NY congressional nominee Brad Lander says he was detained by the IDF in the West Bank</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-21-12-16-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html">Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-12-53-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/us/politics/alaska-governor-race-jkt.html">How a Democrat Positioned Himself to Be Alaska&#8217;s Next Governor</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-12-27-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main">Nasdaq Futures Higher After Asian AI Rally, Brent Crude Holds Close to $110</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-21-12-43-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/21/world-news/newlywed-bodybuilder-dies-after-collapsing-on-stage-at-competition-final-day-before-34th-birthday/">Newlywed bodybuilder dies after collapsing on stage at competition final day before 34th birthday</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-21-12-28-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss">Civil servant admits he 'made mistakes' juggling five government jobs</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-21-12-17-12 +0000</span></div>
+            missionlocal, 
+            <span class="datetime">2026-10-21-13-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -139,6 +76,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.nytimes.com/2026/10/20/us/politics/ramaswamy-campaign-ad-acton-estranged-mother-donna-arthur.html">Ramaswamy Campaign Attack Ad Featuring Amy Acton&#8217;s Mother Turns Ohio Governor&#8217;s Race Uglier</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-21-01-01-10 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/politics/policy/trump-says-data-centers-must-provide-their-own-electricity-c843ed56?mod=rss_socialpoliticsfeed">President Trump said he is requiring companies that build large data centers in the U.S. to provide their own electricity and suggested they pay communities hosting facilities a dividend</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -153,17 +97,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/20/us/politics/ramaswamy-campaign-ad-acton-estranged-mother-donna-arthur.html">Ramaswamy Campaign Attack Ad Featuring Amy Acton&#8217;s Mother Turns Ohio Governor&#8217;s Race Uglier</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-01-01-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-20/2026-california-election-los-angeles-county-superior-court-judge-office-131-voter-guide">Your guide to the L.A. County Superior Court Judge Office 131 election</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-20/2026-california-election-los-angeles-county-superior-court-judge-office-87-voter-guide">Your guide to the L.A. County Superior Court Judge Office 87 election</a>
             <div class='byline small text-muted'>
             latimes, 
-            <span class="datetime">2026-10-21-02-50-16 +0000</span></div>
+            <span class="datetime">2026-10-21-02-48-00 +0000</span></div>
             </li>
         
 
@@ -243,10 +180,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/15/katie-zacharia-legal-background/">New White House press secretary Katie Zacharia defends her legal background and short first briefing</a>
+            <li><a href="https://www.wsj.com/politics/elections/democrats-make-a-million-dollar-bet-on-florida-governors-race-29efda01?mod=rss_socialpoliticsfeed">National Democrats are making a million-dollar bet on David Jolly, the Democratic nominee for governor of Florida, as they hope to put back in play the once crucial swing state.</a>
             <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-15-19-56-40 +0000</span></div>
+            wsj, 
+            <span class="datetime">2026-10-20-21-57-00 +0000</span></div>
             </li>
         
     </ul>
@@ -260,188 +197,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             missionlocal, 
             <span class="datetime">2026-10-21-13-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews">What&#8217;s Behind the Protests in France and What Happens Next</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-21-12-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews">What&#8217;s Behind the Protests in France and What Happens Next</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-21-12-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html">Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-12-53-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html">Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-12-53-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/minnesotas-democratic-u-s-senate-nominee-inflated-academic-record-9a943662?mod=rss_socialpoliticsfeed">Minnesota&#8217;s Democratic U.S. Senate nominee Peggy Flanagan said she &#8220;graduated Phi Beta Kappa,&#8221; but records raise questions about the claim</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-21-12-44-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/minnesotas-democratic-u-s-senate-nominee-inflated-academic-record-9a943662?mod=rss_usnews">Minnesota&#8217;s Democratic U.S. Senate Nominee Inflated Academic Record</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-21-12-44-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main">Nasdaq Futures Higher After Asian AI Rally, Brent Crude Holds Close to $110</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-21-12-43-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss">Nigeria confirms Ebola case linked to East Africa</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-21-12-39-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-decline-on-loss-of-heating-demand-dacc42a0?mod=rss_markets_main">U.S. Natural Gas Futures Extend Decline on Loss of Heating Demand</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-21-12-35-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss">US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-21-12-32-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss">US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-21-12-32-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss">US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-21-12-32-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/21/world-news/newlywed-bodybuilder-dies-after-collapsing-on-stage-at-competition-final-day-before-34th-birthday/">Newlywed bodybuilder dies after collapsing on stage at competition final day before 34th birthday</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-21-12-28-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/us/politics/alaska-governor-race-jkt.html">How a Democrat Positioned Himself to Be Alaska&#8217;s Next Governor</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-12-27-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/us/politics/alaska-governor-race-jkt.html">How a Democrat Positioned Himself to Be Alaska&#8217;s Next Governor</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-12-27-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html">U.K. Approves Long-Stalled Jackdaw Gas Drilling Project in the North Sea</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-12-27-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html">U.K. Approves Long-Stalled Jackdaw Gas Drilling Project in the North Sea</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-12-27-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html">SpaceX Boosts the A.I. Rally</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-12-23-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss">Civil servant admits he 'made mistakes' juggling five government jobs</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-21-12-17-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/21/us-news/ny-congressional-nominee-brad-lander-says-he-was-detained-by-the-idf-in-the-west-bank/">NY congressional nominee Brad Lander says he was detained by the IDF in the West Bank</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-21-12-16-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/21/us-news/ny-congressional-nominee-brad-lander-says-he-was-detained-by-the-idf-in-the-west-bank/">NY congressional nominee Brad Lander says he was detained by the IDF in the West Bank</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-21-12-16-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/russia-has-released-an-american-man-imprisoned-on-charges-of-fighting-as-mercenary-in-ukraine-us-envoy-witkoff-says/601903499">Russia frees American Stephen Hubbard after over 4 years in prison, during a visit by US envoy</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-21-12-15-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/20/us/ice-detain-citizen-california-video-ricardo-gonzalez.html">ICE Says It Didn&#8217;t Hit a Biker With a Car. Video Raises Questions.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-21-12-11-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/trump-says-data-centers-must-provide-their-own-electricity-c843ed56?mod=rss_socialpoliticsfeed">President Trump said he is requiring companies that build large data centers in the U.S. to provide their own electricity and suggested they pay communities hosting facilities a dividend</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-21-12-08-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/trump-says-data-centers-must-provide-their-own-electricity-c843ed56?mod=rss_usnews">Trump Says Data Centers Must Provide Their Own Electricity</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-21-12-08-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/at-warfield-vigil-ulysses-bear-davis-remembered/">At Warfield vigil,  Ulysses &#8216;Bear&#8217; Davis remembered</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-21-12-05-26 +0000</span></div>
             </li>
         
     </ul>
@@ -4004,76 +3759,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-20-14-03-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/20/midway-airport-runway-closure/">Runway closure at Midway Airport could lead to flight delays &#8212; and cancellations &#8212; through mid-November</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-20-13-57-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss">UK to deploy jets to defend Saudi Arabia from Houthi attacks</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-20-13-54-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/20/us-news/marco-rubio-tells-volodymyr-zelensky-nothing-deliberately-denied-ukraine-as-us-tensions-grow/">Trump hasn&#8217;t denied anything &#8216;deliberately&#8217; to Ukraine, Rubio tells Zelensky</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-20-13-48-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss">Huge setback for Alberta's separatist movement after decisive defeat</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-20-13-39-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/cmo-today/the-heavy-lift-of-adidass-world-cup-bet-3cc93292?mod=pls_whats_news_us_business_f">The Heavy Lift of Adidas&#8217;s World Cup Bet</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-20-13-39-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/buyside/personal-finance/auto-insurance/best-car-insurance?mod=rss_worldnews">Best Car Insurance Companies of 2026</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-20-13-26-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss">Kenya cult leader's children still being starved weeks before trial, son says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-20-13-23-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss">Kenya cult leader's children still being starved weeks before trial, son says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-20-13-23-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main">11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-20-13-11-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews">Best High-Yield Savings Accounts of October 2026: Up to 5.00%</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-20-13-11-00 +0000</span></div>
             </li>
         
     </ul>
@@ -12368,41 +12053,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-14-14-00-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/14/social-security-cola/">Social Security recipients to get 3.6% cost of living boost, an average of $75 per month</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-14-13-50-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/regulation/debanking-probe-finds-jpmorgan-banks-cut-off-maga-sellers-and-democrat-groups-c170d0a5?mod=rss_markets_main">Debanking Probe Finds JPMorgan, Banks Cut Off MAGA Sellers and Democrat Groups</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-13-43-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/14/kamala-harris-midterm-campaign/">Kamala Harris adds stops to her final midterm campaign stretch. Her decision about 2028 comes later.</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-14-13-38-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/housing/canada-building-permits-rebound-in-august-a801156b?mod=rss_socialeconomyfeed">Canada Building Permits Rebound in August</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-14-13-19-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html">From Allies to Enemies: Ethiopia and Eritrea Edge Toward War</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-14-13-15-41 +0000</span></div>
             </li>
         
     </ul>
