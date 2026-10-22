@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-22 08:23 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-22 09:19 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,69 +28,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/10/22/us-news/democratic-organizer-fired-after-alleging-abdul-el-sayed-is-taking-foreign-money-in-michigan-senate-race-report/">Democratic organizer fired after alleging Abdul El-Sayed is taking foreign money in Michigan Senate race: report</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-22-06-30-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5?mod=pls_whats_news_us_business_f">London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-55-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/oil-rises-as-geopolitics-back-in-focus-after-ai-jitters-ease-f21d9983?mod=pls_whats_news_us_business_f">Oil Rises, Asian Stocks Fall as Middle East Tensions Mount</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss">What is PHP and why did it spark a global cyber-security scramble?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-22-06-24-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-edges-higher-as-wall-streets-gains-offset-mideast-worries-b106f947?mod=rss_markets_main">Nikkei Falls to Nearly 3-Month Low Amid Strong Risk-Off Sentiment</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/22/us-news/massachusetts-woman-jennifer-gonzalez-masterminded-6m-marriage-fraud-scheme-that-helped-illegal-immigrants-get-citizenship/">American woman masterminded $6M marriage fraud scheme that helped illegal immigrants get citizenship: DOJ</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-22-06-20-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/central-banking/philippines-central-bank-delivers-jumbo-hike-in-bid-to-combat-inflation-90f8c2fa?mod=rss_socialeconomyfeed">Philippines Central Bank Delivers Jumbo Hike in Bid to Combat Inflation</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-50-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/retail/hermes-sales-growth-slows-as-luxury-backdrop-remains-tough-c564ed84?mod=pls_whats_news_us_business_f">Hermes Sales Growth Slows as Luxury Backdrop Remains Tough</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-58-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/barclays-pretax-profit-misses-estimates-on-fixed-income-weakness-072a1b72?mod=pls_whats_news_us_business_f">Barclays Pretax Profit Misses Estimates on Fixed-Income Weakness</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-46-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main">Dollar Falls to 3-Week Low on Fresh AI Jitters</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -260,104 +197,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-22-07-02-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/retail/hermes-sales-growth-slows-as-luxury-backdrop-remains-tough-c564ed84?mod=pls_whats_news_us_business_f">Hermes Sales Growth Slows as Luxury Backdrop Remains Tough</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-58-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6vg0klve484o?at_medium=RSS&at_campaign=rss">Children in care to get &#163;10 a week savings</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-22-06-57-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-edges-higher-as-wall-streets-gains-offset-mideast-worries-b106f947?mod=rss_markets_main">Nikkei Falls to Nearly 3-Month Low Amid Strong Risk-Off Sentiment</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5?mod=pls_whats_news_us_business_f">London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-55-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5?mod=rss_markets_main">London Stock Exchange Group Agrees to Buy Octus From Permira For $3.5 Billion</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-55-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/central-banking/philippines-central-bank-delivers-jumbo-hike-in-bid-to-combat-inflation-90f8c2fa?mod=rss_socialeconomyfeed">Philippines Central Bank Delivers Jumbo Hike in Bid to Combat Inflation</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-50-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/barclays-pretax-profit-misses-estimates-on-fixed-income-weakness-072a1b72?mod=pls_whats_news_us_business_f">Barclays Pretax Profit Misses Estimates on Fixed-Income Weakness</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-46-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/22/us-news/democratic-organizer-fired-after-alleging-abdul-el-sayed-is-taking-foreign-money-in-michigan-senate-race-report/">Democratic organizer fired after alleging Abdul El-Sayed is taking foreign money in Michigan Senate race: report</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-22-06-30-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/22/us-news/democratic-organizer-fired-after-alleging-abdul-el-sayed-is-taking-foreign-money-in-michigan-senate-race-report/">Democratic organizer fired after alleging Abdul El-Sayed is taking foreign money in Michigan Senate race: report</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-22-06-30-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/oil-rises-as-geopolitics-back-in-focus-after-ai-jitters-ease-f21d9983?mod=pls_whats_news_us_business_f">Oil Rises, Asian Stocks Fall as Middle East Tensions Mount</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/oil-rises-as-geopolitics-back-in-focus-after-ai-jitters-ease-f21d9983?mod=rss_markets_main">Oil Rises, Asian Stocks Fall as Middle East Tensions Mount</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-22-06-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss">What is PHP and why did it spark a global cyber-security scramble?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-22-06-24-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss">What is PHP and why did it spark a global cyber-security scramble?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-22-06-24-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/22/us-news/massachusetts-woman-jennifer-gonzalez-masterminded-6m-marriage-fraud-scheme-that-helped-illegal-immigrants-get-citizenship/">American woman masterminded $6M marriage fraud scheme that helped illegal immigrants get citizenship: DOJ</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-22-06-20-40 +0000</span></div>
             </li>
         
     </ul>
