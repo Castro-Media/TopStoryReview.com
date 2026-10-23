@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-23 04:19 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-23 05:16 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/22/us-news/hegseth-prohibits-troops-from-using-nonpublic-information-to-bet-on-prediction-markets-in-new-directive/">Hegseth prohibits troops from using &#8216;nonpublic information&#8217; to bet on prediction markets in new directive</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-23-02-27-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/us/politics/trump-california-mail-ballot-lawsuit.html">Trump Administration Asks Appeals Court to Intervene in California Mail Ballot Suit</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-23-02-18-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/us/politics/video-lindsey-graham.html">Video by Left-Wing Group Claims Lindsey Graham Paid Men for Sex</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-23-02-52-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/22/us-news/fuming-nj-mayor-charges-at-resident-during-fiery-meeting-i-am-fing-getting-you/">Fuming NJ mayor charges at resident during fiery meeting:  &#8216;I am f&#8211;king getting you!&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-23-02-52-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/10/juvenal-knew-seeing-our-current-orgy-of-greed-through-ancient-eyes/">Juvenal knew: Seeing our current &#8216;orgy of greed&#8217; through ancient eyes</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-10-23-02-44-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-22/teen-is-killed-in-arcadia-suspected-shooter-attempts-suicide-in-pasadena-police-say">Teenage girl killed at Arcadia home; suspected shooter attempts suicide in Pasadena, police say</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-23-02-19-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/japan-consumer-inflation-uptick-offers-tailwind-for-boj-rate-hike-95d29b74?mod=rss_socialeconomyfeed">Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-23-02-22-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-wild-calgary-flames-score-today-kirill-kaprizov-stats-jesper-wallstedt-saves-quinn-hughes/601900462">Live: Wild offense sputtering as road trip continues at Flames</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-23-02-43-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/22/us-news/california-grandpa-breaks-speed-records-utahs-bonneville-salt-flats/">California grandpa goes on record-breaking run as he hits 300+ mph</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-23-02-16-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/us/aoc-trans-rights-democrats.html">Ocasio-Cortez Says Democrats Should Stand Up for Trans Americans</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-23-02-19-11 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -128,7 +59,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html">PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-10-22-16-01-36 +0000</span></div>
+            <span class="datetime">2026-10-22-16-01-35 +0000</span></div>
             </li>
         
 
@@ -255,110 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/22/us-news/fuming-nj-mayor-charges-at-resident-during-fiery-meeting-i-am-fing-getting-you/">Fuming NJ mayor charges at resident during fiery meeting:  &#8216;I am f&#8211;king getting you!&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-23-02-52-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/us/politics/video-lindsey-graham.html">Video by Left-Wing Group Claims Lindsey Graham Paid Men for Sex</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-23-02-52-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/us/politics/video-lindsey-graham.html">Video by Left-Wing Group Claims Lindsey Graham Paid Men for Sex</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-23-02-52-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/10/juvenal-knew-seeing-our-current-orgy-of-greed-through-ancient-eyes/">Juvenal knew: Seeing our current &#8216;orgy of greed&#8217; through ancient eyes</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-10-23-02-44-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-wild-calgary-flames-score-today-kirill-kaprizov-stats-jesper-wallstedt-saves-quinn-hughes/601900462">Live: Wild offense sputtering as road trip continues at Flames</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-23-02-43-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/10/education-funding-from-france-to-san-francisco/">Education funding, from France to San Francisco</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-10-23-02-33-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/22/us-news/hegseth-prohibits-troops-from-using-nonpublic-information-to-bet-on-prediction-markets-in-new-directive/">Hegseth prohibits troops from using &#8216;nonpublic information&#8217; to bet on prediction markets in new directive</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-23-02-27-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/22/us-news/hegseth-prohibits-troops-from-using-nonpublic-information-to-bet-on-prediction-markets-in-new-directive/">Hegseth prohibits troops from using &#8216;nonpublic information&#8217; to bet on prediction markets in new directive</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-23-02-27-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/dollar-likely-to-remain-in-155-160-yen-range-in-near-term-4e69b51a?mod=rss_markets_main">Yen&#8217;s Latest Rise Likely Driven by Safe-Haven Demand</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-23-02-24-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/japan-consumer-inflation-uptick-offers-tailwind-for-boj-rate-hike-95d29b74?mod=rss_socialeconomyfeed">Japan Consumer Inflation Uptick Offers Tailwind for BOJ Rate Hike</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-23-02-22-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-22/teen-is-killed-in-arcadia-suspected-shooter-attempts-suicide-in-pasadena-police-say">Teenage girl killed at Arcadia home; suspected shooter attempts suicide in Pasadena, police say</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-23-02-19-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/us/aoc-trans-rights-democrats.html">Ocasio-Cortez Says Democrats Should Stand Up for Trans Americans</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-23-02-19-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/us/politics/trump-california-mail-ballot-lawsuit.html">Trump Administration Asks Appeals Court to Intervene in California Mail Ballot Suit</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-23-02-18-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/us/politics/trump-california-mail-ballot-lawsuit.html">Trump Administration Asks Appeals Court to Intervene in California Mail Ballot Suit</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-23-02-18-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/22/us-news/california-grandpa-breaks-speed-records-utahs-bonneville-salt-flats/">California grandpa goes on record-breaking run as he hits 300+ mph</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-23-02-16-42 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3864,34 +3691,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-22-04-00-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/10/state-workers-hold-one-day-strike/">State workers hold one-day strike</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-10-22-03-56-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html">Drone Strike Kills More Than 150 in Abyei in Sudan&#8217;s Civil War</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-22-03-26-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html">Drone Strike Kills More Than 150 in Abyei in Sudan&#8217;s Civil War</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-22-03-26-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/10/kids-dive-into-the-wondrous-world-of-dance-at-odcs-family-matters/">Kids dive into the wondrous world of dance at ODC&#8217;s &#8216;Family Matters&#8217;</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-10-22-03-26-47 +0000</span></div>
             </li>
         
     </ul>
