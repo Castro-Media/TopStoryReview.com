@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-24 06:26 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-24 07:16 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/24/us-news/mamdani-accused-of-openly-helping-illegal-aliens-evade-ice-in-spanish-language-video/">Mamdani accused of &#8216;openly helping illegal aliens evade ICE&#8217; in Spanish language video</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-24-04-34-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html">Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-42-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html">Netanyahu Has Reinvented Himself. Will Voters Think It&#8217;s Enough?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-01-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html">How Defiant Youth Are Testing India&#8217;s Idea of Democracy</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-01-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/nyc-botched-burglary-leaves-4-stabbed-suspect-shot-by-cops-in-queens/">Four stabbed, suspect shot by cops during botched NYC home robbery: sources</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-24-04-12-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html">New York Archdiocese Close to Settling Sexual Abuse Claims for Over $800 Million</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-12-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss">France prepares for day of protest a week after nationwide riots</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-24-04-03-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html">Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-42-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/mamdani-accused-of-openly-helping-illegal-aliens-evade-ice-in-spanish-language-video/">Mamdani accused of &#8216;openly helping illegal aliens evade ICE&#8217; in Spanish language video</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-24-04-34-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html">Netanyahu Has Reinvented Himself. Will Voters Think It&#8217;s Enough?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-01-09 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -118,17 +49,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/23/business/oil-prices-hit-five-month-high-dow-falls-700-points-over-fears-of-iran-strikes-ai-spending/">Oil prices hit five-month high and Dow falls over 600 points over fears of Iran strikes, AI spending</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-23-14-48-19 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/economy/musk-trump-accounts-spacex-charity-dell-b9c37991?mod=rss_socialeconomyfeed">The world&#8217;s richest people have discovered a new way to give their money away: a couple hundred bucks to one kid at a time.</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-24-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/23/business/oil-prices-hit-five-month-high-dow-falls-700-points-over-fears-of-iran-strikes-ai-spending/">Oil prices hit five-month high and Dow falls over 600 points over fears of Iran strikes, AI spending</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-23-14-48-19 +0000</span></div>
             </li>
         
 
@@ -255,82 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html">Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-42-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html">Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-42-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/mamdani-accused-of-openly-helping-illegal-aliens-evade-ice-in-spanish-language-video/">Mamdani accused of &#8216;openly helping illegal aliens evade ICE&#8217; in Spanish language video</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-24-04-34-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/mamdani-accused-of-openly-helping-illegal-aliens-evade-ice-in-spanish-language-video/">Mamdani accused of &#8216;openly helping illegal aliens evade ICE&#8217; in Spanish language video</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-24-04-34-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/nyc-botched-burglary-leaves-4-stabbed-suspect-shot-by-cops-in-queens/">Four stabbed, suspect shot by cops during botched NYC home robbery: sources</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-24-04-12-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html">New York Archdiocese Close to Settling Sexual Abuse Claims for Over $800 Million</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-12-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss">France prepares for day of protest a week after nationwide riots</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-24-04-03-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html">Netanyahu Has Reinvented Himself. Will Voters Think It&#8217;s Enough?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-01-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html">Netanyahu Has Reinvented Himself. Will Voters Think It&#8217;s Enough?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-01-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html">How Defiant Youth Are Testing India&#8217;s Idea of Democracy</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-01-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html">How Defiant Youth Are Testing India&#8217;s Idea of Democracy</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-01-08 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3514,90 +3369,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-23-06-26-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss">Renting in London - 'I pay &#163;2,000 for one bedroom'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-23-05-45-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss">Renting in London - 'I pay &#163;2,000 for one bedroom'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-23-05-45-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/safran-confirms-guidance-as-revenue-jumps-984356b4?mod=pls_whats_news_us_business_f">Safran Confirms Guidance as Revenue Jumps</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-23-05-37-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwz0vxl21m3jo?at_medium=RSS&at_campaign=rss">'I live in the dark': How rising bills are shaping daily life</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-23-05-35-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=rss_worldnews">Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-23-05-24-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss">Powerful earthquake hits Tibet killing 16 people, reports say</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-23-05-16-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html">Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-23-05-13-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html">Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-23-05-13-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss">Blue Planet III: Moment octopus escapes death after hunt gone wrong</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-23-05-05-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo?at_medium=RSS&at_campaign=rss">Don't leave AI to tech bros and oligarchs, UK's AI minister says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-23-05-00-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss">Chancellor says he will cut 'pointless paperwork' to save businesses up to &#163;800m</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-23-05-00-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/world/cancer-new-treatment-pope-france.html">A Cancer Revolution</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-23-05-00-12 +0000</span></div>
             </li>
         
     </ul>
