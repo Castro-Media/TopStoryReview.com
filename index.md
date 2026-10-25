@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-25 05:15 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-25 06:26 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,33 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/24/us-news/massive-fire-erupts-after-explosion-at-quaker-oats-plant-thats-a-staple-of-this-town/">Iowa Quaker Oats plant &#8212; the world&#8217;s largest of its kind &#8212; explodes into massive fireball</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-03-50-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html">For Clues About How A.I. Will Change Work, Look to the Past</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-03-18-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/florida-am-university-homecoming-shooting-leaves-multiple-injured/">Multiple people injured in shooting at Florida A&M University homecoming party</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-03-42-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html">For Clues About How A.I. Will Change Work, Look to the Past</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-03-18-02 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -97,17 +70,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/world/black-sea-attacks-deadly-9.7393312?cmp=rss">Black Sea sailors thought a rescue boat was racing toward them. Instead, it was a drone that sank their ship</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-24-08-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss">Obama attacks Trump as he campaigns for Democrats ahead of midterm elections</a>
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-25-02-27-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/black-sea-attacks-deadly-9.7393312?cmp=rss">Black Sea sailors thought a rescue boat was racing toward them. Instead, it was a drone that sank their ship</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-10-24-08-00-00 +0000</span></div>
             </li>
         
 
@@ -213,33 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/24/us-news/massive-fire-erupts-after-explosion-at-quaker-oats-plant-thats-a-staple-of-this-town/">Iowa Quaker Oats plant &#8212; the world&#8217;s largest of its kind &#8212; explodes into massive fireball</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-03-50-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/florida-am-university-homecoming-shooting-leaves-multiple-injured/">Multiple people injured in shooting at Florida A&M University homecoming party</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-03-42-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html">For Clues About How A.I. Will Change Work, Look to the Past</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-03-18-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html">For Clues About How A.I. Will Change Work, Look to the Past</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-03-18-02 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2226,27 +2172,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-24-05-03-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html">Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-42-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html">Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-04-42-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/mamdani-accused-of-openly-helping-illegal-aliens-evade-ice-in-spanish-language-video/">Mamdani accused of &#8216;openly helping illegal aliens evade ICE&#8217; in Spanish language video</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-24-04-34-31 +0000</span></div>
             </li>
         
     </ul>
