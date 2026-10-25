@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-25 08:20 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-25 09:16 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,33 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/25/us-news/texas-custodian-marilyn-hampton-breaks-down-in-tears-as-new-elementary-school-is-named-in-her-honor/">Texas custodian Marilyn Hampton breaks down in tears as new elementary school is named in her honor</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-06-16-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/">Arson suspect arrested after fire engulfs Hitler&#8217;s Eagle&#8217;s Nest Alps mountain retreat</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-06-43-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/us/tallahassee-shooting-florida-am-homecoming.html">At Least 12 Injured, Including 6 Minors, in Shooting Near Florida A&M&#8217;s Stadium</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-06-10-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss">Budget 2026: No more fat to trim for 'squeezed middle'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-25-06-21-23 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -76,17 +49,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/24/musk-behind-starlink-speed-restriction-in-ukraine/">Elon Musk says he was behind Starlink speed restriction after service in Ukraine is restored</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-24-20-23-36 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/10/24/brazil-lula-bolsonaro-final-arguments/">Brazil&#8217;s Lula, Bolsonaro close arguments to voters ahead of nail-biting election runoff</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-24-23-35-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/24/musk-behind-starlink-speed-restriction-in-ukraine/">Elon Musk says he was behind Starlink speed restriction after service in Ukraine is restored</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-24-20-23-36 +0000</span></div>
             </li>
         
 
@@ -213,33 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/25/world-news/german-man-identified-as-suspect-in-arson-of-hitler-eagle-nest-retreat/">Arson suspect arrested after fire engulfs Hitler&#8217;s Eagle&#8217;s Nest Alps mountain retreat</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-06-43-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss">Budget 2026: No more fat to trim for 'squeezed middle'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-25-06-21-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/25/us-news/texas-custodian-marilyn-hampton-breaks-down-in-tears-as-new-elementary-school-is-named-in-her-honor/">Texas custodian Marilyn Hampton breaks down in tears as new elementary school is named in her honor</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-06-16-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/us/tallahassee-shooting-florida-am-homecoming.html">At Least 12 Injured, Including 6 Minors, in Shooting Near Florida A&M&#8217;s Stadium</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-06-10-57 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2163,34 +2109,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-10-24-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss">Iran trying harder to target US personnel in Middle East, intelligence chief warns</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-24-07-36-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss">Iran trying harder to target US personnel in Middle East, intelligence chief warns</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-24-07-36-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss">White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-24-07-17-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss">White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-24-07-17-44 +0000</span></div>
             </li>
         
     </ul>
