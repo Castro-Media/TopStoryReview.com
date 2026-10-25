@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-25 14:14 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-25 15:14 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,73 +28,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html">Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-12-36-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html">A Day After Renewed Street Clashes in France, Relief and Anxiety Mix</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-12-03-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/25/us-news/la-prosecutor-warns-noncitizens-may-be-voting-as-california-ballot-fight-heads-to-court/">LA&#8217;s top federal prosecutor says California elections already in jeopardy</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-12-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss">Israeli military conducts massive West Bank operation, days before Israel election</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-25-12-31-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/connor-skelly-manny-yekutiel-anthropic-openai-san-francisco/">Ex-Manny Yekutiel spokesman now works at Anthropic, another S.F. political staffer at an AI giant</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-25-12-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/10/25/business/media/bill-owens-60-minutes-emerson-collective.html">Former &#8216;60 Minutes&#8217; Boss to Join Video Journalism Start-Up</a>
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-25-12-56-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/us/tallahassee-shooting-florida-am-homecoming.html">At Least 12 Injured, Including 6 Minors, in Shooting Near Florida A&M&#8217;s Stadium</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-12-33-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/25/world-news/kenya-highway-crash-kills-22-weeks-after-fatal-accident/">Kenya highway crash kills 22, weeks after similar fatal accident: police</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-12-16-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html">Introducing a New Way to Understand the Election: Times Voter Trends</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-12-41-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss">Burnham open to 'honest discussion' on EU free movement</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-25-12-11-23 +0000</span></div>
             </li>
         
     </ul>
@@ -132,17 +69,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html">Iran in &#8216;Advanced Stages&#8217; of Planning Attacks Against Americans, Officials Say</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-16-09-15 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/elections/ocasio-cortez-aoc-president-midterm-elections-ee8651e2?mod=rss_socialpoliticsfeed">Rep. Alexandria Ocasio-Cortez, aka AOC, has softened her tactics and pursued voters and lawmakers in both parties. To reach her biggest goals, she&#8216;ll need the far-left base&#8212;and everybody else.</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-25-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html">Iran in &#8216;Advanced Stages&#8217; of Planning Attacks Against Americans, Officials Say</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-24-16-09-15 +0000</span></div>
             </li>
         
 
@@ -153,17 +90,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss">More than 1,300 arrested as clashes follow another day of mass protests across France</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-25-10-38-15 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html">Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?</a>
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-24-17-45-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss">More than 1,300 arrested as clashes follow another day of mass protests across France</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-25-10-38-15 +0000</span></div>
             </li>
         
 
@@ -260,90 +197,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-25-12-56-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html">Introducing a New Way to Understand the Election: Times Voter Trends</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-12-41-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html">Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-12-36-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html">Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-12-36-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/us/tallahassee-shooting-florida-am-homecoming.html">At Least 12 Injured, Including 6 Minors, in Shooting Near Florida A&M&#8217;s Stadium</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-12-33-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/israel-west-bank-operation-before-election-9.7395171?cmp=rss">Israeli military conducts massive West Bank operation, days before Israel election</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-25-12-31-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/25/world-news/kenya-highway-crash-kills-22-weeks-after-fatal-accident/">Kenya highway crash kills 22, weeks after similar fatal accident: police</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-12-16-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss">Burnham open to 'honest discussion' on EU free movement</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-25-12-11-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html">A Day After Renewed Street Clashes in France, Relief and Anxiety Mix</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-12-03-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html">A Day After Renewed Street Clashes in France, Relief and Anxiety Mix</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-12-03-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/25/us-news/la-prosecutor-warns-noncitizens-may-be-voting-as-california-ballot-fight-heads-to-court/">LA&#8217;s top federal prosecutor says California elections already in jeopardy</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-12-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/25/us-news/la-prosecutor-warns-noncitizens-may-be-voting-as-california-ballot-fight-heads-to-court/">LA&#8217;s top federal prosecutor says California elections already in jeopardy</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-12-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/connor-skelly-manny-yekutiel-anthropic-openai-san-francisco/">Ex-Manny Yekutiel spokesman now works at Anthropic, another S.F. political staffer at an AI giant</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-25-12-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -2219,55 +2072,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-24-14-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/aoc-stops-by-in-n-out-burger-during-california-campaign-trip/">AOC stops by In-N-Out burger during California campaign trip</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-24-13-55-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/us-intel-iran-boosting-efforts-to-hit-americans-in-mideast/">Iran is boosting efforts to target Americans in Mideast, US Intel warns</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-24-13-44-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c933xpz1kdxyo?at_medium=RSS&at_campaign=rss">Daughter's bed 'propped up on books' says mum amid warning of deepening child poverty</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-24-13-43-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/24/france-cost-of-living-saturday-protests/">France mobilizes thousands of police to curb violence at protests over living costs</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-24-13-33-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html">How Defiant Youth Are Testing India&#8217;s Idea of Democracy</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-13-00-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html">How Defiant Youth Are Testing India&#8217;s Idea of Democracy</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-13-00-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/missed-a-spot/">Missed a spot!</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-24-13-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -10653,13 +10457,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-18-13-57-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/18/hurricane-trudy-mexico-pacific-coast/">Typhoon Champi strengthens to Category 5 but moves away from land; Trudy weakens</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-18-13-53-21 +0000</span></div>
             </li>
         
     </ul>
