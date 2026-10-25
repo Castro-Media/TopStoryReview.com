@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-25 02:24 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-25 03:20 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,13 +28,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/10/24/us-news/obama-rips-trump-while-stumping-for-el-sayed-in-detroit/">Obama rips Trump for tariffs and White House renovations as he touts El-Sayed in Detroit</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-00-33-41 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html">A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -42,10 +35,31 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/elections/ocasio-cortez-aoc-president-midterm-elections-ee8651e2?mod=rss_socialpoliticsfeed">Rep. Alexandria Ocasio-Cortez, aka AOC, has softened her tactics and pursued voters and lawmakers in both parties. To reach her biggest goals, she&#8216;ll need the far-left base&#8212;and everybody else.</a>
+            <li><a href="https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html">Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail</a>
             <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-25-01-00-00 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-10-25-01-12-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html">Kim Jong-un Makes First Visit to China in Over a Year</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-25-01-14-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss">Obama attacks Trump as he campaigns for Democrats ahead of midterm elections</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-25-01-16-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html">How Trump Gave the Worst Polluters a Free Pass</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-25-01-12-45 +0000</span></div>
             </li>
         
 
@@ -63,38 +77,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/24/sports/nfl-wags-seen-partying-it-up-in-riot-torn-paris-ahead-of-historic-saint-steelers-game/">NFL WAGs seen partying it up in riot-torn Paris ahead of historic Saints-Steelers game</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-00-23-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html">Iranians Face Anxious Wait as Threat of Attack Looms</a>
+            <li><a href="https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html">A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-10-25-00-51-45 +0000</span></div>
+            <span class="datetime">2026-10-25-01-06-17 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/autos/trump-announces-audis-first-ever-u-s-factory-in-georgia-ss-tariffs-bite-7e3220fe?mod=pls_whats_news_us_business_f">Trump Announces Audi&#8217;s First-Ever U.S. Factory in Georgia as Tariffs Bite</a>
+            <li><a href="https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html">A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War</a>
             <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-25-00-55-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/world-news/protests-spread-across-europe-as-demonstrators-clash-with-police-set-fires/">Europe falls under siege as demonstrators battle police, set fires in cities across continent</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-00-41-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/marion-hedges-returns-to-nyc-15-years-after-shopping-cart-attack/">New Yorker nearly killed in infamous shopping cart attack returns to city she loves</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-00-33-11 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-10-25-01-06-17 +0000</span></div>
             </li>
         
     </ul>
@@ -167,10 +160,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss">Almost 1,000 arrested as clashes follow another day of mass protests across France</a>
+            <li><a href="https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss">Watch: BBC in Paris as police charge protesters and use tear gas during unrest</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-10-24-21-09-27 +0000</span></div>
+            <span class="datetime">2026-10-24-19-37-35 +0000</span></div>
             </li>
         
     </ul>
@@ -316,111 +309,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-25-01-06-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main">The Earnings Boom Is Heavily Reliant on Just a Handful of Stocks</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-25-01-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/ocasio-cortez-aoc-president-midterm-elections-ee8651e2?mod=rss_socialpoliticsfeed">Rep. Alexandria Ocasio-Cortez, aka AOC, has softened her tactics and pursued voters and lawmakers in both parties. To reach her biggest goals, she&#8216;ll need the far-left base&#8212;and everybody else.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-25-01-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/autos/trump-announces-audis-first-ever-u-s-factory-in-georgia-ss-tariffs-bite-7e3220fe?mod=pls_whats_news_us_business_f">Trump Announces Audi&#8217;s First-Ever U.S. Factory in Georgia as Tariffs Bite</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-25-00-55-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html">Iranians Face Anxious Wait as Threat of Attack Looms</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-00-51-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html">Iranians Face Anxious Wait as Threat of Attack Looms</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-00-51-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/world-news/protests-spread-across-europe-as-demonstrators-clash-with-police-set-fires/">Europe falls under siege as demonstrators battle police, set fires in cities across continent</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-00-41-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/southern-california-coastal-flooding-threatens-laguna-beach-resort-as-king-tides-loom/">5-star hotel in the crosshairs as coastal flooding pushes SoCal to its limits</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-00-40-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html">Audi to Build Factory in Georgia, Trump Says</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-00-38-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html">Audi to Build Factory in Georgia, Trump Says</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-25-00-38-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/obama-rips-trump-while-stumping-for-el-sayed-in-detroit/">Obama rips Trump for tariffs and White House renovations as he touts El-Sayed in Detroit</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-00-33-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/obama-rips-trump-while-stumping-for-el-sayed-in-detroit/">Obama rips Trump for tariffs and White House renovations as he touts El-Sayed in Detroit</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-00-33-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss">Burnham open to 'honest discussion' on EU free movement</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-25-00-33-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/us-news/marion-hedges-returns-to-nyc-15-years-after-shopping-cart-attack/">New Yorker nearly killed in infamous shopping cart attack returns to city she loves</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-00-33-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/car-drives-into-s-f-subway-tunnel-disrupting-service/">Car drives into S.F. subway tunnel, disrupting service</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-25-00-31-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/24/sports/nfl-wags-seen-partying-it-up-in-riot-torn-paris-ahead-of-historic-saint-steelers-game/">NFL WAGs seen partying it up in riot-torn Paris ahead of historic Saints-Steelers game</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-25-00-23-14 +0000</span></div>
             </li>
         
     </ul>
@@ -2387,34 +2275,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-24-02-18-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/americas/lula-a-giant-of-latin-americas-left-fights-for-one-last-shot-at-power-4e7a9cb3?mod=rss_worldnews">Lula, a Giant of Latin America&#8217;s Left, Fights for One Last Shot at Power</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-24-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss">Australian MP's condition improves after alleged car attack</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-24-01-55-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss">Australian MP's condition improves after alleged car attack</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-24-01-55-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html">Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-24-01-51-01 +0000</span></div>
             </li>
         
     </ul>
