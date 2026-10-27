@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-27 04:19 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-27 05:17 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/26/us-news/trump-doubles-down-on-obama-criticism-as-his-voice-starts-to-give-out-amid-campaign-rally-blitz/">Trump doubles down on Obama criticism as his voice starts to give out amid campaign rally blitz</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-02-07-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/26/us-news/cal-poly-students-left-injured-in-alleged-tesla-hit-and-run-in-norcal/">California sorority girls mown down by drunk frat bro in horror Tesla smash, lawsuit claims: &#8216;Left like run-over garbage&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-02-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html">Judge Temporarily Blocks Further Alterations at D.C.&#8217;s East Potomac Park</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-02-57-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/26/us-news/lsu-student-allegedly-raped-in-horrifying-gunpoint-attack-inside-freshman-dorm-cops/">LSU student allegedly raped in &#8216;horrifying&#8217; gunpoint attack inside freshman dorm: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-02-35-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/26/us-news/top-california-professors-expose-pitfalls-of-campus-ai-push/">California&#8217;s top professors reveal how AI has revolutionized classes, massive pitfalls: &#8216;Shoving it down our throats&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/26/us-news/alleged-arsonist-sets-girlfriend-on-fire-inside-nyc-apartment-as-daughter-watched-in-horror-prosecutors/">Alleged arsonist sets girlfriend on fire inside NYC apartment as daughter watched in horror: prosecutors</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-02-48-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss">Jay-Z to perform at Super Bowl half-time show</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-02-43-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/us/politics/obamas-cheesecake-factory-jab-rankles-trump-on-mississippi-campaign-stop.html">Obama&#8217;s &#8216;Cheesecake Factory&#8217; Jab Rankles Trump on Mississippi Campaign Stop</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-02-07-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-cleveland-cavaliers-score-anthony-edwards-injury-update-lamelo-ball-stats/601902968">Anthony Edwards&#8217; heroics not enough as Wolves fall to Cavs in OT</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-27-02-06-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/26/world-news/americans-warned-to-rethink-travel-to-13-countries-amid-deadly-attacks/">Americans warned to rethink travel to 13 countries amid deadly attacks</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-02-20-20 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -125,17 +56,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/26/us-news/federal-appeals-court-rejects-doj-bid-to-block-20k-disputed-california-mail-in-ballots-from-being-counted/">California judges deal huge blow to DOJ&#8217;s bid to strip 20,000 voters from next week&#8217;s elections &#8212; despite stunning court revelations</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-00-11-23 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/10/26/us-news/ex-fbi-director-james-comey-facing-charges-for-third-time-by-trump-admin/">Ex-FBI Director James Comey facing new criminal charges for allegedly leaking info to NY Times</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-26-21-53-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/26/us-news/federal-appeals-court-rejects-doj-bid-to-block-20k-disputed-california-mail-in-ballots-from-being-counted/">California judges deal huge blow to DOJ&#8217;s bid to strip 20,000 voters from next week&#8217;s elections &#8212; despite stunning court revelations</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-27-00-11-23 +0000</span></div>
             </li>
         
 
@@ -146,17 +77,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-lula-wins-fourth-term-in-brazil-election-upset-20698486?mod=pls_whats_news_us_business_f">The Morning Risk Report: Lula Wins Fourth Term in Brazil Election Upset</a>
+            <li><a href="https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-lula-wins-fourth-term-in-brazil-election-upset-20698486?mod=rss_worldnews">The Morning Risk Report: Lula Wins Fourth Term in Brazil Election Upset</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-26-11-06-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/26/chicago-city-budget-hearing/">Chicago aldermen open budget hearings questioning if Mayor Brandon Johnson&#8217;s plan is truly balanced</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-26-22-17-43 +0000</span></div>
             </li>
         
 
@@ -164,6 +88,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-26-23-45-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/26/chicago-city-budget-hearing/">Chicago aldermen open budget hearings questioning if Mayor Brandon Johnson&#8217;s plan is truly balanced</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-26-22-17-43 +0000</span></div>
             </li>
         
 
@@ -255,124 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/26/us-news/top-california-professors-expose-pitfalls-of-campus-ai-push/">California&#8217;s top professors reveal how AI has revolutionized classes, massive pitfalls: &#8216;Shoving it down our throats&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html">Judge Temporarily Blocks Further Alterations at D.C.&#8217;s East Potomac Park</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-02-57-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html">Judge Temporarily Blocks Further Alterations at D.C.&#8217;s East Potomac Park</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-02-57-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/26/us-news/alleged-arsonist-sets-girlfriend-on-fire-inside-nyc-apartment-as-daughter-watched-in-horror-prosecutors/">Alleged arsonist sets girlfriend on fire inside NYC apartment as daughter watched in horror: prosecutors</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-02-48-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss">Jay-Z to perform at Super Bowl half-time show</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-02-43-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/26/us-news/lsu-student-allegedly-raped-in-horrifying-gunpoint-attack-inside-freshman-dorm-cops/">LSU student allegedly raped in &#8216;horrifying&#8217; gunpoint attack inside freshman dorm: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-02-35-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/26/us-news/cal-poly-students-left-injured-in-alleged-tesla-hit-and-run-in-norcal/">California sorority girls mown down by drunk frat bro in horror Tesla smash, lawsuit claims: &#8216;Left like run-over garbage&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-02-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/26/world-news/americans-warned-to-rethink-travel-to-13-countries-amid-deadly-attacks/">Americans warned to rethink travel to 13 countries amid deadly attacks</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-02-20-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/golden-state-valkyries-finals-game-five-ballhalla-wnba/">Kiah Stokes leads Golden State to Game 5 win</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-27-02-18-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/10/the-bewildering-incoherence-of-mayor-luries-billionaire-agenda/">The bewildering incoherence of Mayor Lurie&#8217;s billionaire agenda</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-10-27-02-16-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/arts-culture/music/jay-z-announced-as-super-bowl-halftime-star-82b485fc?mod=pls_whats_news_us_business_f">Jay-Z Announced as Super Bowl Halftime Star</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-02-11-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/26/us-news/trump-doubles-down-on-obama-criticism-as-his-voice-starts-to-give-out-amid-campaign-rally-blitz/">Trump doubles down on Obama criticism as his voice starts to give out amid campaign rally blitz</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-02-07-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/26/us-news/trump-doubles-down-on-obama-criticism-as-his-voice-starts-to-give-out-amid-campaign-rally-blitz/">Trump doubles down on Obama criticism as his voice starts to give out amid campaign rally blitz</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-02-07-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/us/politics/obamas-cheesecake-factory-jab-rankles-trump-on-mississippi-campaign-stop.html">Obama&#8217;s &#8216;Cheesecake Factory&#8217; Jab Rankles Trump on Mississippi Campaign Stop</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-02-07-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/us/politics/obamas-cheesecake-factory-jab-rankles-trump-on-mississippi-campaign-stop.html">Obama&#8217;s &#8216;Cheesecake Factory&#8217; Jab Rankles Trump on Mississippi Campaign Stop</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-02-07-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-cleveland-cavaliers-score-anthony-edwards-injury-update-lamelo-ball-stats/601902968">Anthony Edwards&#8217; heroics not enough as Wolves fall to Cavs in OT</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-27-02-06-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-focus-turns-to-fed-decision-0d81a31b?mod=rss_markets_main">Asian Currencies Consolidate as Focus Turns to Fed Decision</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-02-04-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3514,41 +3327,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-26-04-05-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss">Lula faces hostile congress and divided country after Brazil election win</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-26-03-55-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss">Forty Iranian sailors stranded off Sri Lanka coast rescued</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-26-03-47-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss">Forty Iranian sailors stranded off Sri Lanka coast rescued</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-26-03-47-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cq1kdl12y9rdo?at_medium=RSS&at_campaign=rss">Fireworks heard as BBC reports Lula's victory in S&#227;o Paulo</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-26-03-29-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cmd6dw9l8ygvo?at_medium=RSS&at_campaign=rss">Fl&#225;vio Bolsonaro calls for elections to be annulled</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-26-03-26-30 +0000</span></div>
             </li>
         
     </ul>
