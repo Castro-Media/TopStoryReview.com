@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-27 08:24 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-27 09:20 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/10/27/us-news/trump-admin-slams-cbs-for-leaving-out-absurd-bit-of-fraud-from-60-minutes-profile-of-deported-husband-and-father/">Trump admin slams CBS for leaving out &#8216;absurd bit of fraud&#8217; from &#8216;60 Minutes&#8217; profile of deported husband and father</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-06-36-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss">Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-49-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html">Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-06-59-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss">'I'm a single mum on &#163;41,000 and limit my weekly shop to &#163;40.' What do you want from the Budget?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-48-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a?mod=rss_markets_main">Nvidia to Invest $3 Billion in Meta&#8217;s Equity Offering as They Expand AI Partnership</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-07-01-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/novartis-raises-guidance-despite-trial-setbacks-hitting-profit-f642c87f?mod=pls_whats_news_us_business_f">Novartis Raises Guidance Despite Trial Setbacks Hitting Profit</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-06-36-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss">Rise in sales of radios and tinned foods, say retailers, after call to stock up</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-33-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c317kpqv4njno?at_medium=RSS&at_campaign=rss">Budget hopes for struggling first-time buyers</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-16-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqzjx1e9ylv1o?at_medium=RSS&at_campaign=rss">Will the Budget pass Burnham's Makerfield test?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-17-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=rss_markets_main">HSBC Profit Growth Misses, Plans $1 Billion Buyback</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-06-21-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -125,17 +56,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/26/us-news/federal-appeals-court-rejects-doj-bid-to-block-20k-disputed-california-mail-in-ballots-from-being-counted/">California judges deal huge blow to DOJ&#8217;s bid to strip 20,000 voters from next week&#8217;s elections &#8212; despite stunning court revelations</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-00-11-23 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/10/26/us-news/ex-fbi-director-james-comey-facing-charges-for-third-time-by-trump-admin/">Ex-FBI Director James Comey facing new criminal charges for allegedly leaking info to NY Times</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-26-21-53-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/26/us-news/federal-appeals-court-rejects-doj-bid-to-block-20k-disputed-california-mail-in-ballots-from-being-counted/">California judges deal huge blow to DOJ&#8217;s bid to strip 20,000 voters from next week&#8217;s elections &#8212; despite stunning court revelations</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-27-00-11-23 +0000</span></div>
             </li>
         
 
@@ -167,7 +98,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8?mod=rss_worldnews">Brazilian Markets Crash After Lula&#8217;s Surprise Election Win Stuns Investors</a>
+            <li><a href="https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8?mod=rss_markets_main">Brazilian Markets Crash After Lula&#8217;s Surprise Election Win Stuns Investors</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-26-21-15-00 +0000</span></div>
@@ -255,110 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a?mod=rss_markets_main">Nvidia to Invest $3 Billion in Meta&#8217;s Equity Offering as They Expand AI Partnership</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-07-01-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html">Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-06-59-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html">Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-06-59-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss">Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-49-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss">Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-49-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss">'I'm a single mum on &#163;41,000 and limit my weekly shop to &#163;40.' What do you want from the Budget?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-48-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss">'I'm a single mum on &#163;41,000 and limit my weekly shop to &#163;40.' What do you want from the Budget?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-48-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/27/us-news/trump-admin-slams-cbs-for-leaving-out-absurd-bit-of-fraud-from-60-minutes-profile-of-deported-husband-and-father/">Trump admin slams CBS for leaving out &#8216;absurd bit of fraud&#8217; from &#8216;60 Minutes&#8217; profile of deported husband and father</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-06-36-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/27/us-news/trump-admin-slams-cbs-for-leaving-out-absurd-bit-of-fraud-from-60-minutes-profile-of-deported-husband-and-father/">Trump admin slams CBS for leaving out &#8216;absurd bit of fraud&#8217; from &#8216;60 Minutes&#8217; profile of deported husband and father</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-06-36-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/novartis-raises-guidance-despite-trial-setbacks-hitting-profit-f642c87f?mod=pls_whats_news_us_business_f">Novartis Raises Guidance Despite Trial Setbacks Hitting Profit</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-06-36-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss">Rise in sales of radios and tinned foods, say retailers, after call to stock up</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-33-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=rss_markets_main">HSBC Profit Growth Misses, Plans $1 Billion Buyback</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-06-21-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqzjx1e9ylv1o?at_medium=RSS&at_campaign=rss">Will the Budget pass Burnham's Makerfield test?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-17-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c317kpqv4njno?at_medium=RSS&at_campaign=rss">Budget hopes for struggling first-time buyers</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-16-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6e3xk7klnkwo?at_medium=RSS&at_campaign=rss">Budget 2026: 'Surrey is a lovely place - but it can be stressful'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-06-12-49 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3584,48 +3411,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-26-08-21-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/u-s-suggests-canada-midterm-interference-trump-endorses-foreign-candidates-9.7393701?cmp=rss">U.S. officials accuse Canada of midterm meddling &#8212; but Trump has endorsed foreign candidates</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-26-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/u-s-suggests-canada-midterm-interference-trump-endorses-foreign-candidates-9.7393701?cmp=rss">U.S. officials accuse Canada of midterm meddling &#8212; but Trump has endorsed foreign candidates</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-26-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/indigenous/first-nations-first-ministers-9.7393838?cmp=rss">First Nations want tangible results as 'historic' first ministers' meeting opens</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-26-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss">China's big political meeting could see Xi 'tighten discipline' in party</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-26-07-40-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss">China's big political meeting could see Xi 'tighten discipline' in party</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-26-07-40-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/pro/central-banking/ecb-expected-to-leave-key-rate-unchanged-amid-french-bond-drama-3d511cb4?mod=rss_worldnews">ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-26-07-19-00 +0000</span></div>
             </li>
         
     </ul>
@@ -12207,20 +11992,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-20-08-30-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss">Track UK's latest migration numbers - net migration, visas, asylum and small boats</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-20-07-59-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/uk/u-k-wage-growth-picks-up-ahead-of-bank-of-england-meeting-6e4a979b?mod=rss_worldnews">U.K. Wage Growth Picks Up, Jobless Rate Falls Ahead of Bank of England Meeting</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-20-07-33-00 +0000</span></div>
             </li>
         
     </ul>
