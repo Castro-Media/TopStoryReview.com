@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-27 06:29 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-27 07:24 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.wsj.com/politics/policy/judge-bars-trump-administration-from-cutting-more-trees-on-d-c-golf-course-54670223?mod=rss_socialpoliticsfeed">Judge Ana Reyes issued a preliminary injunction on Monday to stop further tree clearing on the East Potomac Golf Links, unless there is an imminent threat to public safety, while litigation is ongoing</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-04-07-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html">King Charles Faces High Stakes Test With Caribbean Tour</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-01-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html">Two Candidates, Two Israels, One Nation in the Balance</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-01-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=pls_whats_news_us_business_f">HSBC Quarterly Profit Climbs, Plans $1 Billion Buyback</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-04-46-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/">DHS suspends visa-free travel program for Chinese nationals amid birth tourism, security concerns</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-04-23-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html">What to Know About Brazil&#8217;s Election, and What Comes Next</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-08-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss">Meghan to co-host Junior MasterChef Australia</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-04-43-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/judge-bars-trump-administration-from-cutting-more-trees-on-d-c-golf-course-54670223?mod=rss_usnews">Judge Bars Trump Administration From Cutting More Trees on D.C. Golf Course</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-04-07-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html">What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-01-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=rss_markets_main">HSBC Quarterly Profit Climbs, Plans $1 Billion Buyback</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-04-46-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -255,103 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=pls_whats_news_us_business_f">HSBC Quarterly Profit Climbs, Plans $1 Billion Buyback</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-04-46-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=rss_markets_main">HSBC Quarterly Profit Climbs, Plans $1 Billion Buyback</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-04-46-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss">Meghan to co-host Junior MasterChef Australia</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-27-04-43-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/27/us-news/dhs-suspends-visa-free-travel-program-for-chinese-nationals-amid-birth-tourism-security-concerns/">DHS suspends visa-free travel program for Chinese nationals amid birth tourism, security concerns</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-27-04-23-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html">What to Know About Brazil&#8217;s Election, and What Comes Next</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-08-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html">What to Know About Brazil&#8217;s Election, and What Comes Next</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-08-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/judge-bars-trump-administration-from-cutting-more-trees-on-d-c-golf-course-54670223?mod=rss_socialpoliticsfeed">Judge Ana Reyes issued a preliminary injunction on Monday to stop further tree clearing on the East Potomac Golf Links, unless there is an imminent threat to public safety, while litigation is ongoing</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-04-07-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/judge-bars-trump-administration-from-cutting-more-trees-on-d-c-golf-course-54670223?mod=rss_usnews">Judge Bars Trump Administration From Cutting More Trees on D.C. Golf Course</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-27-04-07-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html">Two Candidates, Two Israels, One Nation in the Balance</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-01-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html">Two Candidates, Two Israels, One Nation in the Balance</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-01-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html">What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-01-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html">What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-01-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html">King Charles Faces High Stakes Test With Caribbean Tour</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-01-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html">King Charles Faces High Stakes Test With Caribbean Tour</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-27-04-01-06 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3563,27 +3397,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-26-06-12-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/world/modi-india-protests-brazil-election.html">Modi&#8217;s Plan to Stop India&#8217;s Protests</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-26-05-53-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html">How Obama and Trump Made their Cases in Dueling Midterm Speeches</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-26-05-40-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss">Venezuelan opposition leader Mar&#237;a Machado returns after months in exile</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-26-05-20-19 +0000</span></div>
             </li>
         
     </ul>
