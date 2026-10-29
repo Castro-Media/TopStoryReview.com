@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-29 04:15 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-29 05:13 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html">Vance Proposes Restarting Peace Talks in Outreach to Iranian Official</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-02-15-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/28/us-news/doj-appeals-ruling-rejecting-bid-to-block-20000-disputed-california-ballots/">Feds launch immediate appeal after judge rejects bid to stop California from counting 20K disputed ballots</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-29-02-01-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/the-hispanic-voters-who-turned-on-trump-and-put-texas-in-play-0b781386?mod=rss_socialpoliticsfeed">In Texas, signs of Hispanic voters&#8217; disillusionment with President Trump over his handling of the economy and immigration crackdown appear poised to benefit Democratic candidates in the midterms</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html">Israel&#8217;s Parties Gird for Wrangling to Form a Government, With No Clear Path</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-02-27-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/28/us-news/final-texts-of-long-island-mom-of-four-who-died-after-driving-suv-into-pool-revealed/">Chilling final texts of Long Island mom of four who fatally drove SUV into family pool revealed</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-29-02-28-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-golden-state-warriors-score-today-anthony-edwards-injury-lamelo-ball-stats/601902969">Live: Timberwolves come up short vs Warriors in first game without Anthony Edwards</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-29-02-46-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/28/world-news/nicaraguas-leaders-run-a-full-dictatorship-have-committed-crimes-against-humanity-un-experts/">Nicaragua&#8217;s leaders run a &#8216;full dictatorship,&#8217; have committed crimes against humanity, UN experts allege</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-29-02-00-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-28/san-bernardino-alleged-cargo-train-theft-ring">Investigators find Victoria's Secret wear, guns, cash and 9 suspected train bandits with cartel ties</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-29-02-13-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-28/nanny-for-irvine-family-caught-on-camera-punching-shaking-baby">Nanny for Irvine family caught on camera punching and shaking baby, authorities say</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-29-02-06-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/judge-denies-federal-request-to-segregate-ballots-in-california-warns-it-would-wreak-havoc-on-midterm-elections/601906552">Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-29-02-20-06 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -118,7 +49,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_usnews">How Weil Gotshal, One of Wall Street&#8217;s Most Storied Law Firms, Ended Up in Chaos</a>
+            <li><a href="https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=pls_whats_news_us_business_f">How Weil Gotshal, One of Wall Street&#8217;s Most Storied Law Firms, Ended Up in Chaos</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-28-22-31-00 +0000</span></div>
@@ -215,17 +146,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/28/high-speed-train-crash-spain/">High-speed train collision kills at least 68 in Spain&#8217;s 2nd deadly rail crash this year</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-28-13-57-54 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss">US central bank holds interest rates steady ahead of midterm elections &#8211; here's what that means</a>
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-28-19-42-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/28/high-speed-train-crash-spain/">High-speed train collision kills at least 68 in Spain&#8217;s 2nd deadly rail crash this year</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-28-13-57-54 +0000</span></div>
             </li>
         
 
@@ -255,138 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-golden-state-warriors-score-today-anthony-edwards-injury-lamelo-ball-stats/601902969">Live: Timberwolves come up short vs Warriors in first game without Anthony Edwards</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-29-02-46-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html">Judge Rejects Trump Officials&#8217; Bid to Set Aside California Ballots</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-02-42-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html">Judge Rejects Trump Officials&#8217; Bid to Set Aside California Ballots</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-02-42-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/us/nuclear-site-south-carolina-emergency.html">Fire Breaks Out at South Carolina Nuclear Site</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-02-34-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/28/us-news/final-texts-of-long-island-mom-of-four-who-died-after-driving-suv-into-pool-revealed/">Chilling final texts of Long Island mom of four who fatally drove SUV into family pool revealed</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-29-02-28-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html">Israel&#8217;s Parties Gird for Wrangling to Form a Government, With No Clear Path</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-02-27-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html">Israel&#8217;s Parties Gird for Wrangling to Form a Government, With No Clear Path</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-02-27-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/pro/bankruptcy/weil-gotshal-taps-alixpartners-to-steer-wind-down-c51b561f?mod=rss_markets_main">Weil Gotshal Taps AlixPartners to Steer Wind-Down</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-02-25-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/judge-denies-federal-request-to-segregate-ballots-in-california-warns-it-would-wreak-havoc-on-midterm-elections/601906552">Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-29-02-20-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html">Vance Proposes Restarting Peace Talks in Outreach to Iranian Official</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-02-15-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html">Vance Proposes Restarting Peace Talks in Outreach to Iranian Official</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-02-15-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html">Vance Proposes Restarting Peace Talks in Outreach to Iranian Official</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-02-15-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html">Vance Proposes Restarting Peace Talks in Outreach to Iranian Official</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-02-15-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-28/san-bernardino-alleged-cargo-train-theft-ring">Investigators find Victoria's Secret wear, guns, cash and 9 suspected train bandits with cartel ties</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-29-02-13-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-28/nanny-for-irvine-family-caught-on-camera-punching-shaking-baby">Nanny for Irvine family caught on camera punching and shaking baby, authorities say</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-29-02-06-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/28/us-news/doj-appeals-ruling-rejecting-bid-to-block-20000-disputed-california-ballots/">Feds launch immediate appeal after judge rejects bid to stop California from counting 20K disputed ballots</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-29-02-01-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/28/world-news/nicaraguas-leaders-run-a-full-dictatorship-have-committed-crimes-against-humanity-un-experts/">Nicaragua&#8217;s leaders run a &#8216;full dictatorship,&#8217; have committed crimes against humanity, UN experts allege</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-29-02-00-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/the-hispanic-voters-who-turned-on-trump-and-put-texas-in-play-0b781386?mod=rss_socialpoliticsfeed">In Texas, signs of Hispanic voters&#8217; disillusionment with President Trump over his handling of the economy and immigration crackdown appear poised to benefit Democratic candidates in the midterms</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/us/dartmouth-santiago-schnell-ai.html">A Top Dartmouth Leader Steps Down Over Undisclosed A.I. Use in Writings</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-01-59-23 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -4340,20 +4139,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-28-04-01-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/27/dining/halloween-candy-prices.html">Why Is Halloween Candy So Expensive?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-28-03-54-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/27/world/asia/hong-kong-apartment-horror-movies.html">Hong Kong&#8217;s Property Market Is (Literally) the Stuff of Horror Movies</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-28-03-36-13 +0000</span></div>
             </li>
         
     </ul>
@@ -13110,20 +12895,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-22-04-10-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html">Drone Strike Kills More Than 150 in Abyei in Sudan&#8217;s Civil War</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-22-03-26-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/21/terry-savage-small-business-owners-now-is-the-time-to-offer-health-insurance-coverage-2/">Terry Savage: Small business owners, now is the time to offer health insurance coverage</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-22-03-00-50 +0000</span></div>
             </li>
         
     </ul>
