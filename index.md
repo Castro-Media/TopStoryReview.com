@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-30 05:13 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-30 06:21 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss">Record number of purges as Xi emphasises 'party discipline' at China political gathering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-24-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss">Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-34-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss">Binance says crypto worth $6.3bn impacted in suspected hack</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-34-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/29/us-news/red-baron-vendor-who-schooled-instagram-pranksters-blown-away-by-400k-fundraiser/">Red Baron vendor who schooled Instagram pranksters &#8216;blown away&#8217; by $400K fundraiser</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-30-03-24-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss">New York police will now investigate Cornell sex complaints, governor says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-32-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss">Three dead after two helicopters collide midair near Oregon airport</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-05-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-falls-1-3-dragged-by-electronics-metals-stocks-6961975d?mod=rss_markets_main">Nikkei Extends Losses, Yen Strengthens After BOJ Decisions</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-30-03-47-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/central-banking/bank-of-japan-holds-fire-while-signaling-rate-hikes-ahead-4bb8d423?mod=rss_socialeconomyfeed">Bank of Japan Holds Fire While Signaling Rate Hikes Ahead</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-30-03-31-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main">Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-30-03-02-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss">Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-51-07 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -125,17 +56,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-tech-social-media-companies-brace-for-deepfake-scrutiny-in-midterms-run-up-e8622394?mod=pls_whats_news_us_business_f">The Morning Risk Report: Tech, Social Media Companies Brace for Deepfake Scrutiny in Midterms Run-Up</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-11-32-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss">Audio reveals exchanges between Spain train operators and drivers moments before deadly crash</a>
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-29-11-07-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-tech-social-media-companies-brace-for-deepfake-scrutiny-in-midterms-run-up-e8622394?mod=pls_whats_news_us_business_f">The Morning Risk Report: Tech, Social Media Companies Brace for Deepfake Scrutiny in Midterms Run-Up</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-10-29-11-32-00 +0000</span></div>
             </li>
         
 
@@ -160,17 +91,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/elections/the-ex-mayor-vs-the-billionaire-the-fiercest-governors-race-in-the-south-f34c6a7e?mod=rss_socialpoliticsfeed">In a comeback attempt, Democrat Keisha Lance Bottoms is seeking to become the first Black woman governor in U.S. history and the first Democrat elected governor in Georgia in decades</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-04-44-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/10/29/bridgeport-bears-stadium-plan/">Latest Bears stadium plan for White Sox site in Bridgeport draws interest &#8212; but no involvement from the team</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-29-20-56-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/investing/why-josh-kushners-firm-just-spent-7-6-billion-on-a-150-year-old-company-8bfdd9f8?mod=pls_whats_news_us_business_f">Why Josh Kushner&#8217;s Firm Just Spent $7.6 Billion on a 150-Year-Old Company</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-10-29-23-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -255,96 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss">Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-51-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-falls-1-3-dragged-by-electronics-metals-stocks-6961975d?mod=rss_markets_main">Nikkei Extends Losses, Yen Strengthens After BOJ Decisions</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-30-03-47-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss">Binance says crypto worth $6.3bn impacted in suspected hack</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-34-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss">Binance says crypto worth $6.3bn impacted in suspected hack</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-34-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss">Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-34-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss">New York police will now investigate Cornell sex complaints, governor says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-32-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/central-banking/bank-of-japan-holds-fire-while-signaling-rate-hikes-ahead-4bb8d423?mod=rss_socialeconomyfeed">Bank of Japan Holds Fire While Signaling Rate Hikes Ahead</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-30-03-31-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss">Record number of purges as Xi emphasises 'party discipline' at China political gathering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-24-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss">Record number of purges as Xi emphasises 'party discipline' at China political gathering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-24-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/29/us-news/red-baron-vendor-who-schooled-instagram-pranksters-blown-away-by-400k-fundraiser/">Red Baron vendor who schooled Instagram pranksters &#8216;blown away&#8217; by $400K fundraiser</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-30-03-24-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/29/technology/binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses.html">Binance Grapples With &#8216;Security Incident&#8217; That May Cause $6.3 Billion in Losses</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-30-03-07-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss">Three dead after two helicopters collide midair near Oregon airport</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-03-05-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main">Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-30-03-02-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -4291,20 +4132,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-29-05-04-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/the-ex-mayor-vs-the-billionaire-the-fiercest-governors-race-in-the-south-f34c6a7e?mod=rss_socialpoliticsfeed">In a comeback attempt, Democrat Keisha Lance Bottoms is seeking to become the first Black woman governor in U.S. history and the first Democrat elected governor in Georgia in decades</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-04-44-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/10/the-mayors-folks-screwed-up-their-own-bill-aaron-peskin-could-come-back-to-the-board/">The mayor&#8217;s folks screwed up their own bill; Aaron Peskin could come back to the board</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-10-29-04-10-55 +0000</span></div>
             </li>
         
     </ul>
