@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-10-31 09:11 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-10-31 10:10 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,45 +28,45 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html">Liu Yandong, Rare Woman Among China&#8217;s Political Elite, Dies at 80</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-31-08-49-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/31/us-news/nancy-guthrie-cops-provide-update-on-kidnapping-case-as-investigation-nears-9th-month/">Nancy Guthrie cops provide update on kidnapping case as investigation nears 9th month</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-31-08-34-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/31/today-in-history-lincoln-highway-dedicated-2/">Today in History: Lincoln Highway dedicated</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-31-08-30-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/30/us/elections/trump-iowa-kansas-rallies-midterms.html">Trump Adds Midterm Rallies in Kansas and Iowa After Initially Canceling Events</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-10-31-07-18-22 +0000</span></div>
+            <span class="datetime">2026-10-31-08-52-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/31/us-news/california-spirit-halloween-shooting-leaves-1-dead-6-injured/">One dead, 6 injured in shooting inside California Spirit Halloween at shopping mall</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-07-14-40 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-10-31-08-49-35 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/">McDonald&#8217;s dealt legal setback as judge allows lawsuit over McRib&#8217;s &#8216;lack of rib meat&#8217; to proceed</a>
+            <li><a href="https://www.chicagotribune.com/2026/10/31/today-in-history-lincoln-highway-dedicated-2/">Today in History: Lincoln Highway dedicated</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-07-25-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/31/world-news/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-erupt-across-europe/">France heads into third weekend of protests as youth-led rallies erupt across Europe</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-07-29-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/story/2026-10-31/one-person-killed-six-injured-in-shooting-at-spirit-halloween-store">One person killed, six injured in shooting at Spirit Halloween store</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-07-09-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html">Liu Yandong, Rare Woman Among China&#8217;s Political Elite, Dies at 80</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-31-07-18-22 +0000</span></div>
+            chitri, 
+            <span class="datetime">2026-10-31-08-30-29 +0000</span></div>
             </li>
         
     </ul>
@@ -104,17 +104,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-county-superior-court-judges-last-minute-voter-guide">Your last-minute guide to L.A. County Superior Court judge elections</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-mayor-bass-raman-last-minute-voter-guide">Your last-minute guide to the L.A. mayor's race: Bass vs. Raman</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/30/pm-canada-carney-eu-member-talks/">Prime Minister Mark Carney expects to conclude talks in June on making Canada EU&#8217;s first associate member</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-30-18-04-03 +0000</span></div>
             </li>
         
 
@@ -125,10 +118,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/becerra-widens-lead-in-governors-race-as-voter-focus-shifts-to-trump-new-poll-shows">Becerra widens lead in governor's race as voter focus shifts to Trump, new poll shows</a>
+            <li><a href="https://www.chicagotribune.com/2026/10/30/pope-leo-vote-us-election/">Chicago-born Pope Leo XIV casts &#8216;historic&#8217; local mail-in ballot, becoming first pontiff to vote in US election</a>
             <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-10-00-00 +0000</span></div>
+            chitri, 
+            <span class="datetime">2026-10-30-13-06-49 +0000</span></div>
             </li>
         
 
@@ -136,6 +129,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-30-15-09-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/30/appeals-court-rejects-doj-request-ballots/">Appeals court rejects Justice Department request for California to set aside disputed ballots</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-30-20-17-54 +0000</span></div>
             </li>
         
 
@@ -228,45 +228,45 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 1h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/10/31/world-news/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-erupt-across-europe/">France heads into third weekend of protests as youth-led rallies erupt across Europe</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-07-29-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/31/business/mcdonalds-dealt-legal-setback-as-judge-allows-lawsuit-over-mcribs-lack-of-rib-meat-to-proceed/">McDonald&#8217;s dealt legal setback as judge allows lawsuit over McRib&#8217;s &#8216;lack of rib meat&#8217; to proceed</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-07-25-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html">Liu Yandong, Rare Woman Among China&#8217;s Political Elite, Dies at 80</a>
+            <li><a href="https://www.nytimes.com/2026/10/30/us/elections/trump-iowa-kansas-rallies-midterms.html">Trump Adds Midterm Rallies in Kansas and Iowa After Initially Canceling Events</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-10-31-07-18-22 +0000</span></div>
+            <span class="datetime">2026-10-31-08-52-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html">Liu Yandong, Rare Woman Among China&#8217;s Political Elite, Dies at 80</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-31-07-18-22 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-10-31-08-49-35 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/31/us-news/california-spirit-halloween-shooting-leaves-1-dead-6-injured/">One dead, 6 injured in shooting inside California Spirit Halloween at shopping mall</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-31-08-49-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/31/us-news/nancy-guthrie-cops-provide-update-on-kidnapping-case-as-investigation-nears-9th-month/">Nancy Guthrie cops provide update on kidnapping case as investigation nears 9th month</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-10-31-07-14-40 +0000</span></div>
+            <span class="datetime">2026-10-31-08-34-51 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/story/2026-10-31/one-person-killed-six-injured-in-shooting-at-spirit-halloween-store">One person killed, six injured in shooting at Spirit Halloween store</a>
+            <li><a href="https://www.chicagotribune.com/2026/10/31/today-in-history-lincoln-highway-dedicated-2/">Today in History: Lincoln Highway dedicated</a>
             <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-07-09-34 +0000</span></div>
+            chitri, 
+            <span class="datetime">2026-10-31-08-30-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/31/today-in-history-lincoln-highway-dedicated-2/">Today in History: Lincoln Highway dedicated</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-31-08-30-29 +0000</span></div>
             </li>
         
     </ul>
@@ -276,6 +276,48 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 24h</h2>
     <ul>
         
+            <li><a href="https://www.nytimes.com/2026/10/30/us/elections/trump-iowa-kansas-rallies-midterms.html">Trump Adds Midterm Rallies in Kansas and Iowa After Initially Canceling Events</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-31-08-52-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-31-08-49-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-31-08-49-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/31/us-news/nancy-guthrie-cops-provide-update-on-kidnapping-case-as-investigation-nears-9th-month/">Nancy Guthrie cops provide update on kidnapping case as investigation nears 9th month</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-31-08-34-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/31/today-in-history-lincoln-highway-dedicated-2/">Today in History: Lincoln Highway dedicated</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-31-08-30-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/31/today-in-history-lincoln-highway-dedicated-2/">Today in History: Lincoln Highway dedicated</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-31-08-30-29 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://nypost.com/2026/10/31/world-news/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-erupt-across-europe/">France heads into third weekend of protests as youth-led rallies erupt across Europe</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -304,7 +346,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/31/us-news/california-spirit-halloween-shooting-leaves-1-dead-6-injured/">One dead, 6 injured in shooting inside California Spirit Halloween at shopping mall</a>
+            <li><a href="https://nypost.com/2026/10/31/us-news/california-spirit-halloween-shooting-leaves-1-dead-6-injured/">One dead, 6 injured in shooting inside Spirit Halloween at California shopping mall</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-31-07-14-40 +0000</span></div>
@@ -626,13 +668,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/30/us/elections/trump-iowa-kansas-rallies-midterms.html">Trump Adds Midterm Rallies in Kansas and Iowa After Initially Canceling Events</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-31-02-04-22 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss">The Indian chef who brought curry to America - then vanished</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -938,13 +973,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-31-00-16-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/30/us-news/nutjob-who-allegedly-murdered-oberlin-professor-dad-stepmom-allegedly-confessed-on-video-and-tells-court-hes-non-binary/">Nutjob accused of killing Oberlin professor dad, stepmom tells court he&#8217;s non-binary after alleged video confession</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-00-11-12 +0000</span></div>
             </li>
         
 
@@ -2506,20 +2534,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-30-16-34-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-16-26-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-16-26-11 +0000</span></div>
             </li>
         
 
@@ -3831,76 +3845,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-10-30-09-00-23 +0000</span></div>
             </li>
         
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-falls-1-3-dragged-by-electronics-metals-stocks-6961975d?mod=rss_markets_main">European Indexes Largely Lower as AI Selloff Bites</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-30-08-55-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o?at_medium=RSS&at_campaign=rss">Afcon to return to two-year cycle after Caf U-turn</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-08-39-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/30/world-news/netanyahus-right-wing-bloc-wins-israeli-election-but-hes-eight-seats-short-of-majority/">Netanyahu&#8217;s right-wing bloc wins Israeli election but he&#8217;s eight seats short of majority</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-30-08-32-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss">How Kenyans got caught in $130m US ghost student scam</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-08-32-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/30/today-in-history-illinois-central-gulf-commuter-train-struck-on-chicagos-south-side/">Today in History: Illinois Central Gulf commuter train struck on Chicago&#8217;s South Side</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-30-08-30-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/30/today-in-history-illinois-central-gulf-commuter-train-struck-on-chicagos-south-side/">Today in History: Illinois Central Gulf commuter train struck on Chicago&#8217;s South Side</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-30-08-30-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/30/world-news/australian-mushroom-killer-erin-patterson-to-spend-the-rest-of-her-life-in-prison-after-losing-appeal/">How Australian mushroom killer Erin Patterson&#8217;s prison appeal bid spectacularly backfired</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-30-08-21-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/us-midterms-foreign-policy-inflation-9.7400163?cmp=rss">Why the war in Iran might cost Trump and the Republicans at the ballot box</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-30-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/european-union-canada-associate-member-von-der-leyen-9.7401989?cmp=rss">Carney says, unequivocally, Canada seeking to become the EU's 1st associate member</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-30-08-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/gellert-global-group-suing-trump-tariffs-9.7402197?cmp=rss">Facing a potential $40M US tariff bill, this American importer is suing Trump to end some tariffs on Canada</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-10-30-08-00-00 +0000</span></div>
-            </li>
-        
     </ul>
 </div>
 
@@ -3908,6 +3852,48 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 7d</h2>
     <ul>
         
+            <li><a href="https://www.nytimes.com/2026/10/30/us/elections/trump-iowa-kansas-rallies-midterms.html">Trump Adds Midterm Rallies in Kansas and Iowa After Initially Canceling Events</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-31-08-52-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-31-08-49-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-31-08-49-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/10/31/us-news/nancy-guthrie-cops-provide-update-on-kidnapping-case-as-investigation-nears-9th-month/">Nancy Guthrie cops provide update on kidnapping case as investigation nears 9th month</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-31-08-34-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/31/today-in-history-lincoln-highway-dedicated-2/">Today in History: Lincoln Highway dedicated</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-31-08-30-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/31/today-in-history-lincoln-highway-dedicated-2/">Today in History: Lincoln Highway dedicated</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-31-08-30-29 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://nypost.com/2026/10/31/world-news/france-heads-into-third-weekend-of-protests-as-youth-led-rallies-erupt-across-europe/">France heads into third weekend of protests as youth-led rallies erupt across Europe</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -3936,7 +3922,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/31/us-news/california-spirit-halloween-shooting-leaves-1-dead-6-injured/">One dead, 6 injured in shooting inside California Spirit Halloween at shopping mall</a>
+            <li><a href="https://nypost.com/2026/10/31/us-news/california-spirit-halloween-shooting-leaves-1-dead-6-injured/">One dead, 6 injured in shooting inside Spirit Halloween at California shopping mall</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-31-07-14-40 +0000</span></div>
@@ -4258,13 +4244,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/30/us/elections/trump-iowa-kansas-rallies-midterms.html">Trump Adds Midterm Rallies in Kansas and Iowa After Initially Canceling Events</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-31-02-04-22 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss">The Indian chef who brought curry to America - then vanished</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -4570,13 +4549,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-31-00-16-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/30/us-news/nutjob-who-allegedly-murdered-oberlin-professor-dad-stepmom-allegedly-confessed-on-video-and-tells-court-hes-non-binary/">Nutjob accused of killing Oberlin professor dad, stepmom tells court he&#8217;s non-binary after alleged video confession</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-00-11-12 +0000</span></div>
             </li>
         
 
@@ -6138,20 +6110,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-30-16-34-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-16-26-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss">Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-30-16-26-11 +0000</span></div>
             </li>
         
 
@@ -9515,14 +9473,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-10-29/as-californian-ports-push-truckers-to-go-green-struggling-industry-asks-for-more-subsidies">As Californian ports push truckers to go green, the struggling industry asks for more subsidies</a>
+            <li><a href="https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism">Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism">Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business</a>
+            <li><a href="https://www.latimes.com/business/story/2026-10-29/as-californian-ports-push-truckers-to-go-green-struggling-industry-asks-for-more-subsidies">As Californian ports push truckers to go green, the struggling industry asks for more subsidies</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
@@ -11685,7 +11643,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-10-27/anthropics-monster-ipo-is-coming-heres-what-to-know">AI leader Anthropic reveals explosive growth, steep losses &#8212; and lots of risks</a>
+            <li><a href="https://www.latimes.com/business/story/2026-10-27/who-would-gain-from-a-merger-of-musks-spacex-and-musks-tesla-take-a-wild-guess">Hiltzik: Who would gain from a merger of Musk's SpaceX and Musk's Tesla? Take a wild guess</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-27-10-00-00 +0000</span></div>
@@ -11699,7 +11657,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-10-27/who-would-gain-from-a-merger-of-musks-spacex-and-musks-tesla-take-a-wild-guess">Hiltzik: Who would gain from a merger of Musk's SpaceX and Musk's Tesla? Take a wild guess</a>
+            <li><a href="https://www.latimes.com/business/story/2026-10-27/anthropics-monster-ipo-is-coming-heres-what-to-know">AI leader Anthropic reveals explosive growth, steep losses &#8212; and lots of risks</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-27-10-00-00 +0000</span></div>
@@ -12823,20 +12781,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-24-09-03-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/24/today-in-history-3/">Today in History: Black Thursday</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-24-08-30-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/24/today-in-history-3/">Today in History: Black Thursday</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-24-08-30-38 +0000</span></div>
             </li>
         
     </ul>
