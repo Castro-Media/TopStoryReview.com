@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-01 07:11 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-01 08:14 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,17 +28,31 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.startribune.com/ella-langley-concert-review-st-paul-minnesota-choosin-texas-dandelion-tour-debut/601905865">Ella Langley dresses up talent in St. Paul Halloween concert</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
             <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-01-05-48-43 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/30/arts/design/late-night-museums-young-people.html">What&#8217;s New at the Museum? Stargazing, Escape Rooms, Bachelorette Parties and More</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss">Democrats are used to heartbreak in Texas - could Talarico turn the tide?</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-05-25-35 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-01-06-03-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
             </li>
         
     </ul>
@@ -104,17 +118,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html">North Korean Hackers Stole Billions, the F.B.I. Says. It&#8217;s Not Their First Heist.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-31-23-05-42 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/10/31/us-news/trump-ask-to-set-aside-decoy-dan-alaska-senate-ballots-not-even-possible/">Trump ask to set aside &#8216;Decoy Dan&#8217; Alaska Senate ballots &#8216;not even possible&#8217;: attorneys</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-31-21-22-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html">North Korean Hackers Stole Billions, the F.B.I. Says. It&#8217;s Not Their First Heist.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-31-23-05-42 +0000</span></div>
             </li>
         
     </ul>
@@ -200,17 +214,31 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 1h</h2>
     <ul>
         
-            <li><a href="https://www.startribune.com/ella-langley-concert-review-st-paul-minnesota-choosin-texas-dandelion-tour-debut/601905865">Ella Langley dresses up talent in St. Paul Halloween concert</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
             <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-01-05-48-43 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/30/arts/design/late-night-museums-young-people.html">What&#8217;s New at the Museum? Stargazing, Escape Rooms, Bachelorette Parties and More</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-05-25-35 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss">Democrats are used to heartbreak in Texas - could Talarico turn the tide?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-03-57 +0000</span></div>
             </li>
         
     </ul>
@@ -220,10 +248,45 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 24h</h2>
     <ul>
         
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss">Democrats are used to heartbreak in Texas - could Talarico turn the tide?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-03-57 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.startribune.com/ella-langley-concert-review-st-paul-minnesota-choosin-texas-dandelion-tour-debut/601905865">Ella Langley dresses up talent in St. Paul Halloween concert</a>
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-11-01-05-48-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss">Watch: Heidi Klum as giant severed hand for Halloween bash</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-05-26-02 +0000</span></div>
             </li>
         
 
@@ -455,27 +518,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-01-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-01-59-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-01-59-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-01-59-57 +0000</span></div>
             </li>
         
 
@@ -1641,13 +1683,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss">Watch: Blood donors get a Halloween fright in Thailand</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-31-12-50-45 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1?mod=rss_worldnews">Chinese Executive Close to Nvidia CEO Suspected of Giving China Information</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -1830,13 +1865,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage">Election night TV coverage goes full nerd for the 2026 midterms</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams">Proposed billionaire tax could impact California sports teams</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -1845,6 +1873,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/politics/story/2026-10-31/historically-paralyzed-congress-faces-its-voters">A historically paralyzed Congress faces its voters</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage">Election night TV coverage goes full nerd for the 2026 midterms</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
@@ -2144,20 +2179,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-10-31-07-09-34 +0000</span></div>
             </li>
         
-
-            <li><a href="https://nypost.com/2026/10/31/us-news/virginia-gov-spanberger-gave-right-to-vote-back-to-convicted-dead-dog-biscuit/">&#8216;Biscuit&#8217; the dog is latest dead felon to get their voting rights back from Virginia Gov. Spanberger, confused owner says</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-06-45-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/31/us-news/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/">US approves $2.1 billion Patriot missile sale to Ukraine</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-06-20-51 +0000</span></div>
-            </li>
-        
     </ul>
 </div>
 
@@ -2165,10 +2186,45 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 7d</h2>
     <ul>
         
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-30-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss">Democrats are used to heartbreak in Texas - could Talarico turn the tide?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-06-03-57 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.startribune.com/ella-langley-concert-review-st-paul-minnesota-choosin-texas-dandelion-tour-debut/601905865">Ella Langley dresses up talent in St. Paul Halloween concert</a>
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-11-01-05-48-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss">Watch: Heidi Klum as giant severed hand for Halloween bash</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-01-05-26-02 +0000</span></div>
             </li>
         
 
@@ -2400,27 +2456,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-01-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-01-59-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-01-59-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss">Shops looted as German cost of living protests turn violent</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-01-59-57 +0000</span></div>
             </li>
         
 
@@ -3586,13 +3621,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss">Watch: Blood donors get a Halloween fright in Thailand</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-31-12-50-45 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1?mod=rss_worldnews">Chinese Executive Close to Nvidia CEO Suspected of Giving China Information</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -3775,13 +3803,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage">Election night TV coverage goes full nerd for the 2026 midterms</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams">Proposed billionaire tax could impact California sports teams</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -3790,6 +3811,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/politics/story/2026-10-31/historically-paralyzed-congress-faces-its-voters">A historically paralyzed Congress faces its voters</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage">Election night TV coverage goes full nerd for the 2026 midterms</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
@@ -4451,13 +4479,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-31-00-27-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss">'The necktie is dead': How US midterm candidates are dressing for votes</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-31-00-16-03 +0000</span></div>
             </li>
         
 
@@ -6092,13 +6113,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide">Your last-minute guide to Propositions 40, 41, 42: The billionaire battle</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide">Your last-minute guide to Proposition 3, the other tax-the-rich measure</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -6107,6 +6121,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide">Your last-minute guide to Proposition 45: CEQA and data centers</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide">Your last-minute guide to Propositions 40, 41, 42: The billionaire battle</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
@@ -8283,14 +8304,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states">In final push, Trump rallies in red states, offering a rosy and off-script message</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows">Support dwindles for wealth tax, voter ID ballot measures, new poll shows</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows">Support dwindles for wealth tax, voter ID ballot measures, new poll shows</a>
+            <li><a href="https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states">In final push, Trump rallies in red states, offering a rosy and off-script message</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
@@ -10103,14 +10124,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-10-27/former-concrete-plant-site-could-become-west-hollywoods-tallest-tower">West Hollywood's tallest tower could rise on a former concrete plant site</a>
+            <li><a href="https://www.latimes.com/business/story/2026-10-27/anthropics-monster-ipo-is-coming-heres-what-to-know">AI leader Anthropic reveals explosive growth, steep losses &#8212; and lots of risks</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-27-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-10-27/anthropics-monster-ipo-is-coming-heres-what-to-know">AI leader Anthropic reveals explosive growth, steep losses &#8212; and lots of risks</a>
+            <li><a href="https://www.latimes.com/business/story/2026-10-27/former-concrete-plant-site-could-become-west-hollywoods-tallest-tower">West Hollywood's tallest tower could rise on a former concrete plant site</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-27-10-00-00 +0000</span></div>
@@ -10628,13 +10649,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say">Bass and Raman skirmish over treatment of small business. The Valley is a battleground</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-26-10-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-10-26/california-processes-ballots-trumps-justice-department-panics">Chabria: California votes. Trump's Justice Department panics</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -10643,6 +10657,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/politics/story/2026-10-26/trump-says-hes-trying-to-entice-russia-to-negotiate-it-doesnt-appear-to-be-working">News Analysis: Trump says he's trying to entice Russia to negotiate. It doesn't appear to be working</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-26-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-10-26/la-leaders-claim-nithya-raman-doesnt-care-for-her-district-heres-what-local-businesses-have-to-say">Bass and Raman skirmish over treatment of small business. The Valley is a battleground</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-26-10-00-00 +0000</span></div>
@@ -10922,14 +10943,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-10-25/as-vote-nears-trumps-ai-gamble-fuels-economic-uncertainty">As vote nears, Trump's AI gamble fuels economic uncertainty</a>
+            <li><a href="https://www.latimes.com/politics/story/2026-10-25/nevada-governor-midterm-election-trump-undertow-joe-lombardo-aaron-ford">Barabak: Is this purple state about to go blue? Nevada's GOP governor faces an anti-Trump backlash</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-25-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-10-25/nevada-governor-midterm-election-trump-undertow-joe-lombardo-aaron-ford">Barabak: Is this purple state about to go blue? Nevada's GOP governor faces an anti-Trump backlash</a>
+            <li><a href="https://www.latimes.com/politics/story/2026-10-25/as-vote-nears-trumps-ai-gamble-fuels-economic-uncertainty">As vote nears, Trump's AI gamble fuels economic uncertainty</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-25-10-00-00 +0000</span></div>
