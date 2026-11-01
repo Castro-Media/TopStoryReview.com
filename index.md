@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-01 02:16 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-01 03:14 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,20 +28,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.wsj.com/world/asia/south-koreas-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-5180b539?mod=rss_socialeconomyfeed">South Korea&#8217;s Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-01-00-42-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss">India's opposition set to hold mega rally seeking election chief's resignation</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-00-12-07 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/elections/darline-graham-senate-race-da6227b0?mod=rss_socialpoliticsfeed">Polls suggest that Darline Graham is tied with, or trailing, Dr. Annie Andrews in a South Carolina race for the U.S. Senate</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -49,52 +35,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/31/us-news/ag-letitia-james-refused-to-probe-3-troubled-nyc-homeless-shelter-operators-that-donated-56k-to-her-campaigns/">AG Letitia James &#8216;refused&#8217; to probe NYC homeless shelters funding her campaign: critics</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-00-48-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss">Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-00-46-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html">Chili&#8217;s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-00-08-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/tolkkinen-come-with-me-to-the-basement-of-the-notorious-palmer-house-in-sauk-centre-if-you-dare/601907236">Tolkkinen: Come with me to the basement of the notorious Palmer House in Sauk Centre. If you dare.</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-01-00-47-11 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/policy/the-midterms-wont-fix-what-ails-consumers-6a834f78?mod=rss_socialpoliticsfeed">Congress has limited power to shape policies affecting affordability, writes @greg_ip</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-01-01-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-san-antonio-spurs-score-anthony-edwards-injury-victor-wembanyama-lamelo-ball/601907322">Live: Slow start vs. Spurs comes with foul trouble for Wolves</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-01-00-37-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/31/world-news/toronto-police-identify-suspect-in-mac-group-ceo-mansion-break-in/">Toronto police identify suspect in MAC Group CEO mansion break-in</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-00-20-05 +0000</span></div>
             </li>
         
     </ul>
@@ -111,13 +55,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/elections/prediction-markets-keep-whiffing-on-elections-will-they-miss-on-the-midterms-9809c8c9?mod=rss_socialpoliticsfeed">Polling data remains at issue after Brazil, Serbia and Wisconsin election prediction markets were upset by supposed long-shot candidates</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-31-14-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-charter-amendments-measures-last-minute-voter-guide">Your last-minute guide to every L.A. city charter amendments, ballot measures</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -125,10 +62,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/31/us-news/trump-ask-to-set-aside-decoy-dan-alaska-senate-ballots-not-even-possible/">Trump ask to set aside &#8216;Decoy Dan&#8217; Alaska Senate ballots &#8216;not even possible&#8217;: attorneys</a>
+            <li><a href="https://www.wsj.com/politics/elections/prediction-markets-keep-whiffing-on-elections-will-they-miss-on-the-midterms-9809c8c9?mod=rss_socialpoliticsfeed">Polling data remains at issue after Brazil, Serbia and Wisconsin election prediction markets were upset by supposed long-shot candidates</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-21-22-42 +0000</span></div>
+            wsj, 
+            <span class="datetime">2026-10-31-14-00-00 +0000</span></div>
             </li>
         
 
@@ -139,17 +76,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://nypost.com/2026/10/31/us-news/trump-ask-to-set-aside-decoy-dan-alaska-senate-ballots-not-even-possible/">Trump ask to set aside &#8216;Decoy Dan&#8217; Alaska Senate ballots &#8216;not even possible&#8217;: attorneys</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-10-31-21-22-42 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://nypost.com/2026/10/31/us-news/abdul-el-sayed-tells-rep-haley-stevens-to-stay-away-from-his-campaign/">Abdul El-Sayed tells Rep. Haley Stevens to stay away from his campaign &#8212; as feud boils over days before midterm</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-10-31-13-10-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss">Police deployed during stand-off over control of top Poland court</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-31-01-11-43 +0000</span></div>
             </li>
         
 
@@ -164,6 +101,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-31-02-12-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/trump-jeffrey-epstein-lawsuit-dismissed-9.7404357?cmp=rss">Judge throws out Trump suit against Wall Street Journal over Epstein letter</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-10-31-20-13-16 +0000</span></div>
             </li>
         
 
@@ -267,104 +211,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-01-01-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/31/us-news/ag-letitia-james-refused-to-probe-3-troubled-nyc-homeless-shelter-operators-that-donated-56k-to-her-campaigns/">AG Letitia James &#8216;refused&#8217; to probe NYC homeless shelters funding her campaign: critics</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-00-48-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/tolkkinen-come-with-me-to-the-basement-of-the-notorious-palmer-house-in-sauk-centre-if-you-dare/601907236">Tolkkinen: Come with me to the basement of the notorious Palmer House in Sauk Centre. If you dare.</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-01-00-47-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss">Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-00-46-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/asia/south-koreas-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-5180b539?mod=rss_worldnews">South Korea&#8217;s Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-01-00-42-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/asia/south-koreas-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-5180b539?mod=rss_socialeconomyfeed">South Korea&#8217;s Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-01-00-42-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/us/elections/florida-early-voting-usps-delays.html">A Florida Election Chief Urges In-Person Voting Over &#8216;Serious&#8217; Postal Delays</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-00-40-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-san-antonio-spurs-score-anthony-edwards-injury-victor-wembanyama-lamelo-ball/601907322">Live: Slow start vs. Spurs comes with foul trouble for Wolves</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-01-00-37-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/31/us-news/alaska-vote-could-freeze-count-as-ballots-come-in-by-plane/">Alaska could take weeks to count votes &#8212; and determine who will control the US Senate</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-00-27-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/10/31/us/midterms-elections-trump/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-00-23-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/31/world-news/toronto-police-identify-suspect-in-mac-group-ceo-mansion-break-in/">Toronto police identify suspect in MAC Group CEO mansion break-in</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-00-20-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss">India's opposition set to hold mega rally seeking election chief's resignation</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-00-12-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss">India's opposition set to hold mega rally seeking election chief's resignation</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-00-12-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html">Chili&#8217;s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-00-08-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html">Chili&#8217;s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-00-08-24 +0000</span></div>
             </li>
         
     </ul>
@@ -2261,97 +2107,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-01-56-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/30/world-news/polish-president-karol-nawrock-turns-back-from-senegal-trip-after-ally-suspended/">Polish president turns back from Senegal trip after ally suspended from top court in judiciary battle</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-01-53-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/30/binance-hack-explainer/">What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-31-01-51-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/asia/china-economic-activity-loses-steam-sharply-in-october-5990ffe0?mod=rss_worldnews">China Economic Activity Loses Steam Sharply in October</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-31-01-50-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/asia/china-economic-activity-loses-steam-sharply-in-october-5990ffe0?mod=rss_socialeconomyfeed">China Economic Activity Loses Steam Sharply in October</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-31-01-50-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/california-sisters-among-stranded-in-cambodia-after-cruise-halts-operations">California sisters among hundreds stranded in Asia after cruise ship halts operations over high fuel costs</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-01-39-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html">Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-31-01-33-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss">Responsible or panicked? Meet the people around the world already preparing for crisis</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-31-01-32-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/san-francisco-congress-election-fec-wiener-complaint-chakrabarti/">Election Extra! Saikat Chakrabarti files illegal-coordination complaint about Scott Wiener PAC</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-31-01-29-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss">Global nature talks reach deal but money remains an issue</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-31-01-27-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/the-signs-that-voters-want-a-check-on-trumps-power-0a5cde4e?mod=rss_socialpoliticsfeed">Watch polling editor Aaron Zitner break down the WSJ&#8217;s final poll before the midterms</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-31-01-14-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss">Police deployed during stand-off over control of top Poland court</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-31-01-11-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss">Police deployed during stand-off over control of top Poland court</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-31-01-11-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/two-arrested-on-suspicion-of-killing-snl-writers-sister-christina-downer">Boyfriend of 'SNL' writer's missing sister among two arrested on suspicion of murder</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-01-06-11 +0000</span></div>
             </li>
         
     </ul>
