@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-02 03:14 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-02 04:14 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,10 +28,73 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/11/01/us-news/bill-essayli-attacks-california-over-noncitizen-voters/">LA&#8217;s top federal prosecutor throws down the gauntlet as noncitizen voter fight goes down to the wire</a>
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-49-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/billionaire-don-hankey-slams-prop-40-after-leaving-california/">Billionaire in exile blasts wealth tax as top economists warn California is already bleeding fortunes</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-02-00-56-06 +0000</span></div>
+            <span class="datetime">2026-11-02-02-43-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html">Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-31-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=pls_whats_news_us_business_f">U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss">King to address slavery in Antigua as PM says he is open to possible UK apology</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-02-46-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews">Nine Killed in Florida Jet Crash</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/central-banking/australias-housing-slump-deepens-as-rba-prepares-another-rate-rise-52ae9c0e?mod=rss_socialeconomyfeed">Australia&#8217;s Housing Slump Deepens as RBA Prepares Another Rate Rise</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-43-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/china-private-manufacturing-gauge-shows-steady-expansion-in-october-9e3be2ca?mod=rss_socialeconomyfeed">China Private Manufacturing Gauge Shows Steady Expansion in October</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/democratic-infighting-flares-as-election-accelerates-battle-for-partys-future-6a42c706?mod=rss_socialpoliticsfeed">Democrats have a chance to retake the Senate&#8212;but a blame game is already under way behind the scenes</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/china/china-xi-maritime-dominance-ef5f5c5a?mod=rss_worldnews">The U.S. Once Dominated the World&#8217;s Oceans. China&#8217;s Xi is Changing That.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -62,13 +125,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/sen-chris-murphy-hospitalized-after-stroke-4225d137?mod=rss_socialpoliticsfeed">Sen. Chris Murphy of Connecticut, a rising star in the Democratic Party, is being monitored in a medical center after he suffered a stroke Saturday afternoon, his office said on Sunday</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-01-18-29-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/elections/democrat-david-jolly-tests-if-a-ted-lasso-strategy-can-flip-florida-80e7eacb?mod=rss_socialpoliticsfeed">In the Florida governor&#8217;s race, Democrat David Jolly has made political decency a central part of his campaign during one of the nastiest midterm seasons in recent memory</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -76,24 +132,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/">FBI visits &#8216;Decoy Dan&#8217; Sullivan donors as feds ramp up investigation into Alaska Senate candidate</a>
+            <li><a href="https://nypost.com/2026/11/01/us-news/michigan-senate-candidate-mike-rogers-says-hes-way-ahead-of-dem-abdul-el-sayed-in-early-votes/">Michigan Senate candidate Mike Rogers says he&#8217;s way ahead of Dem Abdul El-Sayed in early votes</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-01-07-26-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/01/us-news/ex-college-football-star-killed-by-cops-after-coming-out-as-gay-to-girlfriend/">Ex-college football star killed by cops after coming out to girlfriend &#8212; police may have fired fatal bullet at 3-year-old son</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-20-57-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/01/world-news/gen-z-takes-charge-protests-across-germany-turn-violent/">&#8216;Gen Z Takes Charge&#8217; protests across Germany turn violent as rioters loot shops in Frankfurt</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-15-46-13 +0000</span></div>
+            <span class="datetime">2026-11-01-22-44-56 +0000</span></div>
             </li>
         
 
@@ -104,10 +146,31 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/policy/miami-opportunity-zone-tax-breaks-59c3ea51?mod=rss_socialpoliticsfeed">Miami&#8217;s luxurious Design District is designated an Opportunity Zone under a nearly decade-old federal provision created to encourage investment in lower-income communities by offering tax breaks</a>
+            <li><a href="https://nypost.com/2026/11/01/us-news/billionaire-don-hankey-slams-prop-40-after-leaving-california/">Billionaire in exile blasts wealth tax as top economists warn California is already bleeding fortunes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-02-43-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/">FBI visits &#8216;Decoy Dan&#8217; Sullivan donors as feds ramp up investigation into Alaska Senate candidate</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-01-07-26-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/world-news/gen-z-takes-charge-protests-across-germany-turn-violent/">&#8216;Gen Z Takes Charge&#8217; protests across Germany turn violent as rioters loot shops in Frankfurt</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-01-15-46-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/midterms-congressional-races-b81af8e4?mod=rss_socialpoliticsfeed">It&#8217;s the most expensive election in history. These candidates are dodging rodents and pawning power tools just to stay afloat.</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-02-00-00-00 +0000</span></div>
+            <span class="datetime">2026-11-01-10-30-00 +0000</span></div>
             </li>
         
     </ul>
@@ -141,14 +204,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-02-00-53-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html">Netanyahu Didn&#8217;t Win Israel&#8217;s Election. But He&#8217;s Far From Out.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-28-16-34-01 +0000</span></div>
+            <span class="datetime">2026-11-02-02-49-50 +0000</span></div>
             </li>
         
 
@@ -156,6 +212,20 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-10-30-19-06-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/michigan-senate-candidate-mike-rogers-says-hes-way-ahead-of-dem-abdul-el-sayed-in-early-votes/">Michigan Senate candidate Mike Rogers says he&#8217;s way ahead of Dem Abdul El-Sayed in early votes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-01-22-44-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/10/29/israel-final-election-results/">Prime Minister Benjamin Netanyahu&#8217;s party amplifies unproven claims that Arab-led parties have &#8216;stolen&#8217; Israel&#8217;s election</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-10-29-11-09-09 +0000</span></div>
             </li>
         
 
@@ -173,17 +243,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/26/donald-trump-inflation-republicans-midterm-elections/">President Donald Trump failed to stop inflation. Now Republicans may pay the price in the midterm elections.</a>
+            <li><a href="https://www.wsj.com/politics/elections/democrat-david-jolly-tests-if-a-ted-lasso-strategy-can-flip-florida-80e7eacb?mod=rss_socialpoliticsfeed">In the Florida governor&#8217;s race, Democrat David Jolly has made political decency a central part of his campaign during one of the nastiest midterm seasons in recent memory</a>
             <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-26-11-18-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/30/pm-canada-carney-eu-member-talks/">Prime Minister Mark Carney expects to conclude talks in June on making Canada EU&#8217;s first associate member</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-30-18-04-03 +0000</span></div>
+            wsj, 
+            <span class="datetime">2026-11-01-20-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -193,10 +256,129 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 1h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/11/01/us-news/bill-essayli-attacks-california-over-noncitizen-voters/">LA&#8217;s top federal prosecutor throws down the gauntlet as noncitizen voter fight goes down to the wire</a>
+            <li><a href="https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html">What to Know About the Florida Plane Crash That Killed 9</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-50-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-49-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-49-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss">King to address slavery in Antigua as PM says he is open to possible UK apology</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-02-46-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/billionaire-don-hankey-slams-prop-40-after-leaving-california/">Billionaire in exile blasts wealth tax as top economists warn California is already bleeding fortunes</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-02-00-56-06 +0000</span></div>
+            <span class="datetime">2026-11-02-02-43-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/billionaire-don-hankey-slams-prop-40-after-leaving-california/">Billionaire in exile blasts wealth tax as top economists warn California is already bleeding fortunes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-02-43-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/central-banking/australias-housing-slump-deepens-as-rba-prepares-another-rate-rise-52ae9c0e?mod=rss_socialeconomyfeed">Australia&#8217;s Housing Slump Deepens as RBA Prepares Another Rate Rise</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-43-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews">Nine Killed in Florida Jet Crash</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/china-private-manufacturing-gauge-shows-steady-expansion-in-october-9e3be2ca?mod=rss_socialeconomyfeed">China Private Manufacturing Gauge Shows Steady Expansion in October</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html">Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-31-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html">Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-31-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://missionlocal.org/2026/11/i-have-seen-the-fuchsia/">I have seen the fuchsia</a>
+            <div class='byline small text-muted'>
+            missionlocal, 
+            <span class="datetime">2026-11-02-02-23-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html">The Final Polls Show a Blue Surge. Can We Trust Them?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-17-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html">Learjet Plummets to Ground in Florida, Killing 9</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-06-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/china/china-xi-maritime-dominance-ef5f5c5a?mod=rss_worldnews">The U.S. Once Dominated the World&#8217;s Oceans. China&#8217;s Xi is Changing That.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=rss_worldnews">U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/democratic-infighting-flares-as-election-accelerates-battle-for-partys-future-6a42c706?mod=rss_socialpoliticsfeed">Democrats have a chance to retake the Senate&#8212;but a blame game is already under way behind the scenes</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=pls_whats_news_us_business_f">U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -206,6 +388,279 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 24h</h2>
     <ul>
         
+            <li><a href="https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html">What to Know About the Florida Plane Crash That Killed 9</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-50-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-49-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-49-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss">King to address slavery in Antigua as PM says he is open to possible UK apology</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-02-46-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/billionaire-don-hankey-slams-prop-40-after-leaving-california/">Billionaire in exile blasts wealth tax as top economists warn California is already bleeding fortunes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-02-43-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/billionaire-don-hankey-slams-prop-40-after-leaving-california/">Billionaire in exile blasts wealth tax as top economists warn California is already bleeding fortunes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-02-43-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/central-banking/australias-housing-slump-deepens-as-rba-prepares-another-rate-rise-52ae9c0e?mod=rss_socialeconomyfeed">Australia&#8217;s Housing Slump Deepens as RBA Prepares Another Rate Rise</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-43-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews">Nine Killed in Florida Jet Crash</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/china-private-manufacturing-gauge-shows-steady-expansion-in-october-9e3be2ca?mod=rss_socialeconomyfeed">China Private Manufacturing Gauge Shows Steady Expansion in October</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html">Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-31-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html">Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-31-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://missionlocal.org/2026/11/i-have-seen-the-fuchsia/">I have seen the fuchsia</a>
+            <div class='byline small text-muted'>
+            missionlocal, 
+            <span class="datetime">2026-11-02-02-23-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html">The Final Polls Show a Blue Surge. Can We Trust Them?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-17-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html">Learjet Plummets to Ground in Florida, Killing 9</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-06-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/china/china-xi-maritime-dominance-ef5f5c5a?mod=rss_worldnews">The U.S. Once Dominated the World&#8217;s Oceans. China&#8217;s Xi is Changing That.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=rss_worldnews">U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/democratic-infighting-flares-as-election-accelerates-battle-for-partys-future-6a42c706?mod=rss_socialpoliticsfeed">Democrats have a chance to retake the Senate&#8212;but a blame game is already under way behind the scenes</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=pls_whats_news_us_business_f">U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss">Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-01-45-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss">Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-01-45-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/ghastly-thieves-forcibly-stole-candybags-from-trick-or-treaters-cops/">Ghastly thieves &#8216;forcibly&#8217; stole candybags from trick-or-treaters: cops</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-01-41-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/business-jet-carrying-9-people-crashed-in-a-florida-neighborhood-erupting-in-a-massive-fireball/601908049">Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-02-01-40-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html">After Tech Sell-Off, Investors Brace for More Market Volatility</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-01-37-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html">Democrats Are Leading or Tied in Seven Battleground Governor&#8217;s Races, Polls Find</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-01-29-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html">Democrats Are Leading or Tied in Seven Battleground Governor&#8217;s Races, Polls Find</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-01-29-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://48hills.org/2026/11/connie-chans-unusual-coalition-could-be-key-to-the-congressional-race-outcome/">Connie Chan&#8217;s unusual coalition could be key to the Congressional race outcome</a>
+            <div class='byline small text-muted'>
+            48hills, 
+            <span class="datetime">2026-11-02-01-25-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/01/mexico-comes-alive-during-day-of-the-dead-celebrations/">Mexico comes alive during annual Day of the Dead celebrations</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-02-01-21-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/karen-bass-gives-apocalyptical-vision-of-la-if-nithya-raman-wins-the-mayors-race/">Karen Bass gives apocalyptic vision of LA if Nithya Raman wins election: &#8216;Chaos from day one&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-01-18-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/karen-bass-gives-apocalyptical-vision-of-la-if-nithya-raman-wins-the-mayors-race/">Karen Bass gives apocalyptic vision of LA if Nithya Raman wins election: &#8216;Chaos from day one&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-01-18-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss">Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-01-18-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss">Binance users withdraw $3.6bn after record crypto hack</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-01-15-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=rss_markets_main">Oil Drops Amid Diplomatic Efforts to Revive Mideast Peace Talks</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-01-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=pls_whats_news_us_business_f">Oil Drops Amid Diplomatic Efforts to Revive Mideast Peace Talks</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-01-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/desantis-says-learjet-crash-into-florida-mobile-home-was-cataclysmic-as-search-for-debris-continues/">Learjet crash into Florida mobile home park was &#8216;cataclysmic,&#8217; DeSantis says as search for debris continues</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-01-09-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main">Asian Currencies Mixed as Investors Await U.S. Economic Data</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-01-08-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2026/11/01/us/midterms-elections-trump/heres-the-latest">Here&#8217;s the latest.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-01-06-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/the-best-college-bargain-is-a-super-pricey-elite-liberal-arts-school-1ed06ad9?mod=rss_usnews">The Best College Bargain Is a Super-Pricey Elite Liberal Arts School</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/lifestyle/cars/to-tame-the-fastest-drivers-states-deploy-speed-limiting-devices-on-cars-4eafe66d?mod=rss_usnews">To Tame the Fastest Drivers, States Deploy Speed-Limiting Devices on Cars</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2026-11-01/if-we-say-ais-deserve-rights-it-could-start-to-believe-it-microsoft-ceo-says">If we say AI deserves rights, it could start to believe it, Microsoft AI CEO says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-02-00-57-13 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://nypost.com/2026/11/01/us-news/bill-essayli-attacks-california-over-noncitizen-voters/">LA&#8217;s top federal prosecutor throws down the gauntlet as noncitizen voter fight goes down to the wire</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -213,31 +668,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
+            <li><a href="https://nypost.com/2026/11/01/us-news/bill-essayli-attacks-california-over-noncitizen-voters/">LA&#8217;s top federal prosecutor throws down the gauntlet as noncitizen voter fight goes down to the wire</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-02-00-53-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-02-00-53-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html">Democrats Are Leading or Tied in Seven Battleground Governor&#8217;s Races, Poll Finds</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-02-00-53-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html">Democrats Are Leading or Tied in Seven Battleground Governor&#8217;s Races, Poll Finds</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-02-00-53-05 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-11-02-00-56-06 +0000</span></div>
             </li>
         
 
@@ -255,24 +689,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.startribune.com/business-jet-carrying-9-people-crashed-in-a-florida-neighborhood-erupting-in-a-massive-fireball/601908049">Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-02-00-40-02 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-bank-tech-stocks-a63f180d?mod=rss_markets_main">Nikkei Falls 0.9%, Dragged by Bank, Tech Stocks</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-02-00-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews">Nine Killed in Florida Jet Crash</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-02-00-29-00 +0000</span></div>
             </li>
         
 
@@ -329,20 +749,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-02-00-15-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss">Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-02-00-02-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss">Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-02-00-02-15 +0000</span></div>
             </li>
         
 
@@ -430,24 +836,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html">Learjet Plummets to Ground in Florida, Killing 9</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-23-22-37 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/01/us-news/election-officials-spot-error-on-ballots-for-fresno-county-school-district/">Election officials spot error on ballots for major California school district</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-01-23-22-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/01/us/midterms-elections-trump/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-23-12-31 +0000</span></div>
             </li>
         
 
@@ -465,7 +857,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/sports/highschool/story/2026-11-01/flag-football-jurupa-valley">Jurupa Valley's Patriot High has become an unlikely hotbed for girls' flag football</a>
+            <li><a href="https://www.latimes.com/sports/highschool/story/2026-11-01/flag-football-jurupa-valley">Jurupa Valley's Patriot High has become an unlikely hotbed for flag football</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-01-22-56-24 +0000</span></div>
@@ -497,13 +889,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-01-22-42-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss">Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-22-38-24 +0000</span></div>
             </li>
         
 
@@ -654,7 +1039,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/01/us-news/haunting-final-message-from-learjet-as-it-plummeted-in-florida-with-9-aboard-were-out-of-time/">Haunting final message from Learjet as it plummeted in Florida with 9 feared dead: &#8216;We&#8217;re out of time&#8217;</a>
+            <li><a href="https://nypost.com/2026/11/01/us-news/haunting-final-message-from-learjet-as-it-plummeted-in-florida-with-9-aboard-were-out-of-time/">Haunting final message from Learjet as it plummeted in Florida with 9 dead: &#8216;We&#8217;re out of time&#8217;</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-01-21-33-10 +0000</span></div>
@@ -668,24 +1053,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss">King to address slavery in Antigua as PM says he is open to possible UK apology</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-21-18-12 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.startribune.com/minnesota-vikings-detroit-lions-score-kyler-murray-stats-offense-rank-2026-nfl-season-week-8-results/601904786">Vikings&#8217; offensive struggles finally catch up with them as Lions end unbeaten start</a>
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-11-01-21-17-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/01/us-news/cop-who-pulled-gun-on-coworker-for-microwaving-fish-in-office-nets-punishment/">Holy mackerel! Cop who pulled gun on coworker for microwaving fish in office nets punishment</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-21-10-48 +0000</span></div>
             </li>
         
 
@@ -696,20 +1067,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/01/us-news/sacha-baron-cohen-dupes-bel-air-realtor-in-ali-g-who-iz-i/">Sacha Baron Cohen shockingly dupes luxury California realtor in wild stunt from &#8216;Ali G: Who Iz I?&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-21-08-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/01/us-news/college-halloween-mass-shootings-leave-3-dead-30-wounded-across-us/">3 dead, 30 wounded in Halloween mass shootings on college campuses across US</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-21-04-15 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/world/europe/serbias-gen-z-students-toppled-a-strongman-now-comes-the-hard-part-0f40dd7a?mod=rss_worldnews">Serbia&#8217;s Gen Z Students Toppled a Strongman. Now Comes the Hard Part.</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -717,17 +1074,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/01/us-news/ex-college-football-star-killed-by-cops-after-coming-out-as-gay-to-girlfriend/">Ex-college football star killed by cops after coming out to girlfriend &#8212; police may have fired fatal bullet at 3-year-old son</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-20-57-27 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/01/world-news/russia-suffers-record-54400-casualties-in-october-ukraine-says/">Russia suffers record 54,400 casualties in October, Ukraine says &#8212; and 2.1M since war began</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-01-20-55-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/01/irans-top-diplomat-hopes-us-shows-rationality/">Iran&#8217;s top diplomat hopes US shows &#8216;rationality,&#8217; and other Mideast news</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-01-20-53-16 +0000</span></div>
             </li>
         
 
@@ -1029,13 +1386,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-01-17-49-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html">Trump Calls Former Lawyer&#8217;s $50 Million Deal &#8216;Obnoxious and Outrageous&#8217;</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-17-49-34 +0000</span></div>
             </li>
         
 
@@ -1862,55 +2212,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-01-03-55-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html">Trump and GOP Close Midterms With Ugly Personal Attacks</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-03-04-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/31/us-news/trump-vote-blakeman-to-save-new-york-from-worst-governor/">Trump pleads for voters to pick Blakeman to save New York from &#8216;worst governor&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-02-39-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/wnba-finals-golden-state-valkyries-game-seven-ballhalla-boohalla/">Valkyries win WNBA Finals, making history in franchise&#8217;s 2nd year</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-11-01-02-21-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/environment/story/2026-10-31/3-days-trapped-in-drain-pipe-officers-rescue-man-in-riverside">3 days trapped in a drain pipe -- officers rescue man in Riverside</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-01-02-16-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/us/long-beach-sewage-spill.html">Long Beach Shuts Down Its Coastal Waters After Sewage Spill</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-02-14-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/31/world-news/ancient-rusty-treasure-emerges-from-river-with-enough-iron-to-forge-500-swords/">Enough iron to forge 500 swords discovered in river as ancient &#8216;rusty treasure&#8217; emerges</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-02-03-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/china/what-i-learned-in-dalifornia-chinas-laid-back-capital-of-doing-nothing-2fd1266d?mod=rss_worldnews">What I Learned in &#8216;Dalifornia,&#8217; China&#8217;s Laid-Back Capital of Doing Nothing</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-01-02-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -1920,6 +2221,279 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 7d</h2>
     <ul>
         
+            <li><a href="https://www.nytimes.com/2026/11/01/us/learjet-crash-florida-palm-beach.html">What to Know About the Florida Plane Crash That Killed 9</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-50-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-49-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-49-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss">King to address slavery in Antigua as PM says he is open to possible UK apology</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-02-46-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/billionaire-don-hankey-slams-prop-40-after-leaving-california/">Billionaire in exile blasts wealth tax as top economists warn California is already bleeding fortunes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-02-43-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/billionaire-don-hankey-slams-prop-40-after-leaving-california/">Billionaire in exile blasts wealth tax as top economists warn California is already bleeding fortunes</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-02-43-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/central-banking/australias-housing-slump-deepens-as-rba-prepares-another-rate-rise-52ae9c0e?mod=rss_socialeconomyfeed">Australia&#8217;s Housing Slump Deepens as RBA Prepares Another Rate Rise</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-43-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews">Nine Killed in Florida Jet Crash</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/economy/china-private-manufacturing-gauge-shows-steady-expansion-in-october-9e3be2ca?mod=rss_socialeconomyfeed">China Private Manufacturing Gauge Shows Steady Expansion in October</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html">Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-31-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html">Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-31-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://missionlocal.org/2026/11/i-have-seen-the-fuchsia/">I have seen the fuchsia</a>
+            <div class='byline small text-muted'>
+            missionlocal, 
+            <span class="datetime">2026-11-02-02-23-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html">The Final Polls Show a Blue Surge. Can We Trust Them?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-17-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html">Learjet Plummets to Ground in Florida, Killing 9</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-02-06-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/china/china-xi-maritime-dominance-ef5f5c5a?mod=rss_worldnews">The U.S. Once Dominated the World&#8217;s Oceans. China&#8217;s Xi is Changing That.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=rss_worldnews">U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/democratic-infighting-flares-as-election-accelerates-battle-for-partys-future-6a42c706?mod=rss_socialpoliticsfeed">Democrats have a chance to retake the Senate&#8212;but a blame game is already under way behind the scenes</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=pls_whats_news_us_business_f">U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss">Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-01-45-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss">Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-01-45-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/ghastly-thieves-forcibly-stole-candybags-from-trick-or-treaters-cops/">Ghastly thieves &#8216;forcibly&#8217; stole candybags from trick-or-treaters: cops</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-01-41-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/business-jet-carrying-9-people-crashed-in-a-florida-neighborhood-erupting-in-a-massive-fireball/601908049">Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-02-01-40-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html">After Tech Sell-Off, Investors Brace for More Market Volatility</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-01-37-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html">Democrats Are Leading or Tied in Seven Battleground Governor&#8217;s Races, Polls Find</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-01-29-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html">Democrats Are Leading or Tied in Seven Battleground Governor&#8217;s Races, Polls Find</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-01-29-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://48hills.org/2026/11/connie-chans-unusual-coalition-could-be-key-to-the-congressional-race-outcome/">Connie Chan&#8217;s unusual coalition could be key to the Congressional race outcome</a>
+            <div class='byline small text-muted'>
+            48hills, 
+            <span class="datetime">2026-11-02-01-25-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/01/mexico-comes-alive-during-day-of-the-dead-celebrations/">Mexico comes alive during annual Day of the Dead celebrations</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-02-01-21-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/karen-bass-gives-apocalyptical-vision-of-la-if-nithya-raman-wins-the-mayors-race/">Karen Bass gives apocalyptic vision of LA if Nithya Raman wins election: &#8216;Chaos from day one&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-01-18-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/karen-bass-gives-apocalyptical-vision-of-la-if-nithya-raman-wins-the-mayors-race/">Karen Bass gives apocalyptic vision of LA if Nithya Raman wins election: &#8216;Chaos from day one&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-01-18-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss">Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-01-18-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss">Binance users withdraw $3.6bn after record crypto hack</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-02-01-15-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=rss_markets_main">Oil Drops Amid Diplomatic Efforts to Revive Mideast Peace Talks</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-01-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=pls_whats_news_us_business_f">Oil Drops Amid Diplomatic Efforts to Revive Mideast Peace Talks</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-01-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/01/us-news/desantis-says-learjet-crash-into-florida-mobile-home-was-cataclysmic-as-search-for-debris-continues/">Learjet crash into Florida mobile home park was &#8216;cataclysmic,&#8217; DeSantis says as search for debris continues</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-02-01-09-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main">Asian Currencies Mixed as Investors Await U.S. Economic Data</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-01-08-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2026/11/01/us/midterms-elections-trump/heres-the-latest">Here&#8217;s the latest.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-02-01-06-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/education/the-best-college-bargain-is-a-super-pricey-elite-liberal-arts-school-1ed06ad9?mod=rss_usnews">The Best College Bargain Is a Super-Pricey Elite Liberal Arts School</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/lifestyle/cars/to-tame-the-fastest-drivers-states-deploy-speed-limiting-devices-on-cars-4eafe66d?mod=rss_usnews">To Tame the Fastest Drivers, States Deploy Speed-Limiting Devices on Cars</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-01-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2026-11-01/if-we-say-ais-deserve-rights-it-could-start-to-believe-it-microsoft-ceo-says">If we say AI deserves rights, it could start to believe it, Microsoft AI CEO says</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-02-00-57-13 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://nypost.com/2026/11/01/us-news/bill-essayli-attacks-california-over-noncitizen-voters/">LA&#8217;s top federal prosecutor throws down the gauntlet as noncitizen voter fight goes down to the wire</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -1927,31 +2501,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
+            <li><a href="https://nypost.com/2026/11/01/us-news/bill-essayli-attacks-california-over-noncitizen-voters/">LA&#8217;s top federal prosecutor throws down the gauntlet as noncitizen voter fight goes down to the wire</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-02-00-53-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html">Democrats Show Strength in Final Days of Race for the Senate, New Polls Find</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-02-00-53-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html">Democrats Are Leading or Tied in Seven Battleground Governor&#8217;s Races, Poll Finds</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-02-00-53-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html">Democrats Are Leading or Tied in Seven Battleground Governor&#8217;s Races, Poll Finds</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-02-00-53-05 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-11-02-00-56-06 +0000</span></div>
             </li>
         
 
@@ -1969,24 +2522,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.startribune.com/business-jet-carrying-9-people-crashed-in-a-florida-neighborhood-erupting-in-a-massive-fireball/601908049">Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-02-00-40-02 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-bank-tech-stocks-a63f180d?mod=rss_markets_main">Nikkei Falls 0.9%, Dragged by Bank, Tech Stocks</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-02-00-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/nine-killed-in-florida-jet-crash-d2fea063?mod=rss_usnews">Nine Killed in Florida Jet Crash</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-02-00-29-00 +0000</span></div>
             </li>
         
 
@@ -2043,20 +2582,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-02-00-15-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss">Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-02-00-02-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss">Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-02-00-02-15 +0000</span></div>
             </li>
         
 
@@ -2144,24 +2669,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html">Learjet Plummets to Ground in Florida, Killing 9</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-23-22-37 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/01/us-news/election-officials-spot-error-on-ballots-for-fresno-county-school-district/">Election officials spot error on ballots for major California school district</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-01-23-22-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/01/us/midterms-elections-trump/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-23-12-31 +0000</span></div>
             </li>
         
 
@@ -2179,7 +2690,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/sports/highschool/story/2026-11-01/flag-football-jurupa-valley">Jurupa Valley's Patriot High has become an unlikely hotbed for girls' flag football</a>
+            <li><a href="https://www.latimes.com/sports/highschool/story/2026-11-01/flag-football-jurupa-valley">Jurupa Valley's Patriot High has become an unlikely hotbed for flag football</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-01-22-56-24 +0000</span></div>
@@ -2211,13 +2722,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-01-22-42-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss">Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-22-38-24 +0000</span></div>
             </li>
         
 
@@ -2368,7 +2872,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/01/us-news/haunting-final-message-from-learjet-as-it-plummeted-in-florida-with-9-aboard-were-out-of-time/">Haunting final message from Learjet as it plummeted in Florida with 9 feared dead: &#8216;We&#8217;re out of time&#8217;</a>
+            <li><a href="https://nypost.com/2026/11/01/us-news/haunting-final-message-from-learjet-as-it-plummeted-in-florida-with-9-aboard-were-out-of-time/">Haunting final message from Learjet as it plummeted in Florida with 9 dead: &#8216;We&#8217;re out of time&#8217;</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-01-21-33-10 +0000</span></div>
@@ -2382,24 +2886,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss">King to address slavery in Antigua as PM says he is open to possible UK apology</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-01-21-18-12 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.startribune.com/minnesota-vikings-detroit-lions-score-kyler-murray-stats-offense-rank-2026-nfl-season-week-8-results/601904786">Vikings&#8217; offensive struggles finally catch up with them as Lions end unbeaten start</a>
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-11-01-21-17-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/01/us-news/cop-who-pulled-gun-on-coworker-for-microwaving-fish-in-office-nets-punishment/">Holy mackerel! Cop who pulled gun on coworker for microwaving fish in office nets punishment</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-21-10-48 +0000</span></div>
             </li>
         
 
@@ -2410,20 +2900,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/01/us-news/sacha-baron-cohen-dupes-bel-air-realtor-in-ali-g-who-iz-i/">Sacha Baron Cohen shockingly dupes luxury California realtor in wild stunt from &#8216;Ali G: Who Iz I?&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-21-08-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/01/us-news/college-halloween-mass-shootings-leave-3-dead-30-wounded-across-us/">3 dead, 30 wounded in Halloween mass shootings on college campuses across US</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-21-04-15 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/world/europe/serbias-gen-z-students-toppled-a-strongman-now-comes-the-hard-part-0f40dd7a?mod=rss_worldnews">Serbia&#8217;s Gen Z Students Toppled a Strongman. Now Comes the Hard Part.</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -2431,17 +2907,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/01/us-news/ex-college-football-star-killed-by-cops-after-coming-out-as-gay-to-girlfriend/">Ex-college football star killed by cops after coming out to girlfriend &#8212; police may have fired fatal bullet at 3-year-old son</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-01-20-57-27 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/01/world-news/russia-suffers-record-54400-casualties-in-october-ukraine-says/">Russia suffers record 54,400 casualties in October, Ukraine says &#8212; and 2.1M since war began</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-01-20-55-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/01/irans-top-diplomat-hopes-us-shows-rationality/">Iran&#8217;s top diplomat hopes US shows &#8216;rationality,&#8217; and other Mideast news</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-01-20-53-16 +0000</span></div>
             </li>
         
 
@@ -2743,13 +3219,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-01-17-49-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html">Trump Calls Former Lawyer&#8217;s $50 Million Deal &#8216;Obnoxious and Outrageous&#8217;</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-17-49-34 +0000</span></div>
             </li>
         
 
@@ -3579,13 +4048,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html">Trump and GOP Close Midterms With Ugly Personal Attacks</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-03-04-31 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/10/31/us-news/trump-vote-blakeman-to-save-new-york-from-worst-governor/">Trump pleads for voters to pick Blakeman to save New York from &#8216;worst governor&#8217;</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -3604,13 +4066,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-01-02-16-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/us/long-beach-sewage-spill.html">Long Beach Shuts Down Its Coastal Waters After Sewage Spill</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-01-02-14-23 +0000</span></div>
             </li>
         
 
@@ -3929,13 +4384,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/31/us-news/dems-try-to-ride-blue-wave-in-final-midterm-blitz/">Dems try to ride blue wave to flood Congress in final midterm blitz</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-21-12-50 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/us-news/law/judge-dismisses-trumps-lawsuit-against-wall-street-journal-publisher-again-709f7ebf?mod=rss_usnews">Judge Dismisses Trump&#8217;s Lawsuit Against Wall Street Journal Publisher Again</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -3985,24 +4433,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/10/31/us-news/xavier-becerra-roasted-for-non-answer-on-california-housing-debate/">Xavier Becerra roasted for bizarre deflection on California housing debate: &#8216;Maybe in my backyard?&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-20-23-32 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://missionlocal.org/2026/10/san-francisco-congress-connie-chan-scott-wiener-housing-transit/">Wiener vs. Chan: Two very different urbanist visions in San Francisco&#8217;s congressional race</a>
             <div class='byline small text-muted'>
             missionlocal, 
             <span class="datetime">2026-10-31-20-20-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/10/31/us-news/blakeman-insisting-gov-race-is-dead-heat-call-hochul-a-witch/">Blakeman insisting gov race is &#8216;dead heat,&#8217; compares Hochul to a &#8216;witch&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-10-31-20-18-15 +0000</span></div>
             </li>
         
 
@@ -4461,6 +4895,20 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide">Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race">Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race">Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -4482,27 +4930,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide">Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race">Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-charter-amendment-a-last-minute-voter-guide">Your last-minute guide to L.A. County Charter Amendment A</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-state-schools-superintendent-community-college-last-minute-voter-guide">Your last-minute guide to education-related ballot measures</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -4517,6 +4944,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-charter-amendment-a-last-minute-voter-guide">Your last-minute guide to L.A. County Charter Amendment A</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-lesser-known-races-last-minute-voter-guide">Your last-minute guide to obscure but important statewide races in California</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -4524,14 +4958,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-charter-amendments-measures-last-minute-voter-guide">Your last-minute guide to every L.A. city charter amendments, ballot measures</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/la-me-all-california-propositions-last-minute-voter-guide">Your last-minute guide to all California propositions</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/la-me-all-california-propositions-last-minute-voter-guide">Your last-minute guide to all California propositions</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-charter-amendments-measures-last-minute-voter-guide">Your last-minute guide to every L.A. city charter amendments, ballot measures</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
@@ -4573,6 +5007,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage">Election night TV coverage goes full nerd for the 2026 midterms</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams">Proposed billionaire tax could impact California sports teams</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -4581,13 +5022,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/politics/story/2026-10-31/historically-paralyzed-congress-faces-its-voters">A historically paralyzed Congress faces its voters</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage">Election night TV coverage goes full nerd for the 2026 midterms</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
@@ -4615,7 +5049,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/la-county-sheriffs-race-is-grudge-rematch-luna-vs-villanueva">Grudge rematch: Luna and Villanueva duel to lead nation's largest sheriff's department</a>
+            <li><a href="https://www.latimes.com/environment/story/2026-10-31/tribe-returns-with-joy-to-51-acres">A tribe returns, joyful, to 51 acres in the San Gabriel foothills</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
@@ -4629,21 +5063,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/environment/story/2026-10-31/tribe-returns-with-joy-to-51-acres">A tribe returns, joyful, to 51 acres in the San Gabriel foothills</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/inside-local-ballot-measures-la-will-vote-on-in-nov-3-election">Inside the local ballot measures L.A. will vote on in the Nov. 3 election</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot">Two competitive L.A. City Council seats are on the Nov. 3 ballot</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/la-county-sheriffs-race-is-grudge-rematch-luna-vs-villanueva">Grudge rematch: Luna and Villanueva duel to lead nation's largest sheriff's department</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
@@ -4658,6 +5078,20 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/california/story/2026-10-31/prayer-trump-catholic-bishops">Arellano: This is the prayer Catholic bishops should have offered to Trump</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/inside-local-ballot-measures-la-will-vote-on-in-nov-3-election">Inside the local ballot measures L.A. will vote on in the Nov. 3 election</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot">Two competitive L.A. City Council seats are on the Nov. 3 ballot</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
@@ -4696,13 +5130,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-31-09-16-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/us/politics/nebraska-senate-poll.html">Pete Ricketts Leads Dan Osborn in Nebraska Senate Race, Poll Finds</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-31-09-05-31 +0000</span></div>
             </li>
         
 
@@ -4909,6 +5336,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss">Why North Korea's 'elite' hackers are the prime suspect in major Binance hack</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-10-31-02-12-19 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.chicagotribune.com/2026/10/30/trump-administration-ads-pulled/">Judge orders 3 taxpayer-funded Trump administration ads to be pulled from TV and social media</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -5070,13 +5504,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/world/europe/fitch-lowers-frances-outlook-to-negative-from-stable-27de23a3?mod=rss_socialeconomyfeed">Fitch Cuts France&#8217;s Outlook to Negative on Weaker Growth, Widening Deficit</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-31-00-27-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss">'The necktie is dead': How US midterm candidates are dressing for votes</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -5102,13 +5529,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-31-00-00-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/fiscal-hawks-national-debt-midterms-gdp-8b7a950d?mod=rss_socialeconomyfeed">U.S. national debt reached 100% of GDP this week, and Washington yawned. Now what?</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-31-00-00-00 +0000</span></div>
             </li>
         
 
@@ -6274,13 +6694,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/elections/the-2026-races-that-could-determine-house-control-9500c90d?mod=rss_socialpoliticsfeed">The balance of power in the House is on the line in the 2026 elections. Here are the races that could determine House control.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-30-14-49-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss">Pope Leo XIV becomes first pontiff to vote in a US election</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -6505,6 +6918,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide">Your last-minute guide to Propositions 40, 41, 42: The billionaire battle</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide">Your last-minute guide to Proposition 3, the other tax-the-rich measure</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -6513,13 +6933,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide">Your last-minute guide to Proposition 45: CEQA and data centers</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-40-41-42-billionaires-last-minute-voter-guide">Your last-minute guide to Propositions 40, 41, 42: The billionaire battle</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
@@ -6540,7 +6953,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-38-immunology-last-minute-voter-guide">Your last-minute guide to Proposition 38: Research funding for immunology, immunotherapy</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide">Your last-minute guide to Proposition 45: CEQA and data centers</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-5-recall-elections-last-minute-voter-guide">Your last-minute guide to Proposition 5: Changing how recall elections work</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
@@ -6554,13 +6974,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide">Your last-minute guide to Proposition 45: CEQA and data centers</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-44-health-clinic-spending-last-minute-voter-guide">Your last-minute guide to Proposition 44: Health center spending</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -6568,7 +6981,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-5-recall-elections-last-minute-voter-guide">Your last-minute guide to Proposition 5: Changing how recall elections work</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-38-immunology-last-minute-voter-guide">Your last-minute guide to Proposition 38: Research funding for immunology, immunotherapy</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
@@ -6792,13 +7205,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main">Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-30-10-10-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/business/the-fast-cash-advances-draining-americas-small-businesses-ff7124e2?mod=pls_whats_news_us_business_f">The Fast-Cash Advances Draining America&#8217;s Small Businesses</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -6862,6 +7268,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/arson-conspiracy-are-behind-devastating-old-town-newhall-fire-authorities-say-4-arrested">Arson, conspiracy are behind devastating Old Town Newhall fire, authorities say; 4 arrested</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-30-10-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.latimes.com/california/story/2026-10-30/newsom-announces-28-olympics-state-strike-force">Newsom announces a state 'strike force' to smooth path for 2028 Olympics</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -6877,13 +7290,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/california/story/2026-10-30/l-a-s-black-leaders-uneasy-about-bass-chances-amid-declining-clout">L.A.'s Black leaders uneasy about Bass' prospects amid declining clout at City Hall</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/arson-conspiracy-are-behind-devastating-old-town-newhall-fire-authorities-say-4-arrested">Arson, conspiracy are behind devastating Old Town Newhall fire, authorities say; 4 arrested</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-10-00-00 +0000</span></div>
@@ -7226,13 +7632,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/commodities-futures/oil-ticks-back-up-as-uncertainty-clouds-peace-hopes-bcefd8d8?mod=rss_markets_main">Oil Ticks Back Up as Uncertainty Clouds Peace Hopes</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-30-01-18-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/entertainment-arts/story/2026-10-29/what-is-lewy-body-dementia-patrick-stewart">What is Lewy body dementia? About the condition Patrick Stewart had</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -7328,13 +7727,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-29-23-21-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/weil-gotshal-collapse-bankruptcy-25c4212c?mod=pls_whats_news_us_business_f">The Five Whirlwind Days That Brought Down Weil Gotshal</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-23-05-00 +0000</span></div>
             </li>
         
 
@@ -7632,13 +8024,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-afe80fa9?mod=pls_whats_news_us_business_f">Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-19-53-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/business/story/2026-10-29/doordash-to-buy-instacart-for-17-billion">DoorDash to buy Instacart for $17 billion</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -7678,13 +8063,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-29-19-11-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/yes-in-gods-backyard-churches-are-turning-their-land-into-affordable-housing-e696ca01?mod=rss_usnews">&#8216;Yes In God&#8217;s Backyard&#8217;: Churches Are Turning Their Land Into Affordable Housing</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-19-08-00 +0000</span></div>
             </li>
         
 
@@ -7895,13 +8273,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-29-17-01-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/billionaires-dont-like-the-wealth-tax-heres-what-some-propose-instead-4cb5e4e2?mod=rss_usnews">Billionaires Don&#8217;t Like the Wealth Tax. Here&#8217;s What Some Propose Instead.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-16-42-00 +0000</span></div>
             </li>
         
 
@@ -8409,13 +8780,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/world/as-missile-stockpiles-dwindle-and-china-looms-u-s-turns-to-japan-for-production-8d314cd7?mod=rss_worldnews">As Missile Stockpiles Dwindle and China Looms, U.S. Turns to Japan for Production</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-10-45-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/10/29/world/middleeast/netanyahu-fear-election-votes.html">How Netanyahu Used Fear, Again, to Win Votes in the Israel Elections</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -8451,14 +8815,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows">Support dwindles for wealth tax, voter ID ballot measures, new poll shows</a>
+            <li><a href="https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states">In final push, Trump rallies in red states, offering a rosy and off-script message</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-10-29/in-final-push-trump-offers-rosy-off-script-message-in-red-states">In final push, Trump rallies in red states, offering a rosy and off-script message</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows">Support dwindles for wealth tax, voter ID ballot measures, new poll shows</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
@@ -8500,13 +8864,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows">Support dwindles for wealth tax, voter ID ballot measures, new poll shows</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-10-29/raman-leads-among-younger-voters-polls-show-but-bass-isnt-conceding-any-ground">Raman leads among younger voters, polls show, but Bass isn't conceding any ground</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -8514,7 +8871,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-29/la-city-county-fend-off-court-battle-over-homeless-services">L.A. city and county fend off a court battle over homeless services</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows">Support dwindles for wealth tax, voter ID ballot measures, new poll shows</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
@@ -8529,6 +8886,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/california/story/2026-10-29/caltech-president-ray-jayawardhana-trump-nasa-jpl-ai">A new president takes charge at Caltech as uncertainties linger over JPL, Trump and AI</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-29/la-city-county-fend-off-court-battle-over-homeless-services">L.A. city and county fend off a court battle over homeless services</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
@@ -8595,13 +8959,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-29-08-23-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html">An &#8216;Endless&#8217; Cruise Around the World Is Suspended, Leaving Passengers Stranded</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-29-08-22-49 +0000</span></div>
             </li>
         
 
@@ -8801,13 +9158,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://missionlocal.org/2026/10/justin-randle-tenderloin-hit-and-run/">Family calls Justin Randle, victim of deadly Tenderloin hit-and-run, &#8216;sweetheart of a young man&#8217;</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-28-22-15-37 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss">Girl seriously injured in wolf attack at German wildlife park</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -8819,13 +9169,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-28-22-05-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/10/live-shots-rise-against-and-alkaline-trio-set-a-fire-for-masonic-crowd/">Live Shots: Rise Against and Alkaline Trio set a fire for Masonic crowd</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-10-28-21-58-00 +0000</span></div>
             </li>
         
 
@@ -9732,6 +10075,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/us-news/education/cornell-7-case-puts-spotlight-on-ketamine-at-college-campuses-ae7163fe?mod=rss_usnews">&#8216;Cornell 7&#8217; Case Puts Spotlight on Ketamine at College Campuses</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-10-27-19-07-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.nytimes.com/2026/10/27/world/americas/callout-reader-questions-us-midterm-elections.html">Do You Have Questions About the U.S. Midterm Elections?</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -10047,7 +10397,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-10-27/who-would-gain-from-a-merger-of-musks-spacex-and-musks-tesla-take-a-wild-guess">Hiltzik: Who would gain from a merger of Musk's SpaceX and Musk's Tesla? Take a wild guess</a>
+            <li><a href="https://www.latimes.com/business/story/2026-10-27/anthropics-monster-ipo-is-coming-heres-what-to-know">AI leader Anthropic reveals explosive growth, steep losses &#8212; and lots of risks</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-27-10-00-00 +0000</span></div>
@@ -10061,7 +10411,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-10-27/anthropics-monster-ipo-is-coming-heres-what-to-know">AI leader Anthropic reveals explosive growth, steep losses &#8212; and lots of risks</a>
+            <li><a href="https://www.latimes.com/business/story/2026-10-27/who-would-gain-from-a-merger-of-musks-spacex-and-musks-tesla-take-a-wild-guess">Hiltzik: Who would gain from a merger of Musk's SpaceX and Musk's Tesla? Take a wild guess</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-27-10-00-00 +0000</span></div>
@@ -10583,13 +10933,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-26-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/mamdani-struggles-to-get-a-handle-on-homeless-encampments-68f82a30?mod=rss_usnews">Mamdani Struggles to Get a Handle on Homeless Encampments</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-26-02-00-00 +0000</span></div>
             </li>
         
     </ul>
