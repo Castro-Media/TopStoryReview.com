@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-03 04:13 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-03 05:11 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.wsj.com/politics/elections/what-the-midterms-campaign-tells-us-about-where-our-politics-are-headed-f315fa61?mod=rss_socialpoliticsfeed">Tuesday&#8217;s midterm elections will offer clues to just how much change can come from a new Congress and what likely will be the most wide-open presidential primary elections in years</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-03-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss">UK and EU agree draft deal to scrap Brexit red tape over food exports</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-02-11-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/02/us-news/trump-says-gop-should-win-in-a-landslide-in-final-pitch-to-midterm-election-voters/">Trump says Republicans should &#8216;win in a landslide&#8217; in final pitch to midterm election voters</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-02-55-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss">Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-01-57-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/02/us-news/beauty-queen-kiara-bowling-returns-to-crash-site-after-being-struck-by-child-drivers-in-oakland/">Beauty queen returns to scene where she was struck by drivers aged 4 and 6</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-02-01-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/lifestyle/careers/these-associates-had-a-golden-ticket-to-big-lawuntil-weil-gotshal-collapsed-2c2f7e86?mod=rss_usnews">These Associates Had a Golden Ticket to Big Law&#8212;Until Weil Gotshal Collapsed</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-03-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-milwaukee-bucks-score-today-anthony-edwards-injury-update-lamelo-ball-stats/601908172">Live: Wolves in battle with lowly Bucks in fourth quarter at Target Center</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-03-02-49-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/02/us-news/washington-state-resident-dies-after-contracting-bird-flu-from-dairy-farm-officials/">Washington state resident dies after contracting bird flu from dairy farm: officials</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-02-18-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html">The Nation&#8217;s Oldest Road Racetrack Starts a Big, Costly Face-Lift</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-02-47-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/middle-east/u-s-strikes-irans-qeshm-island-as-trump-talks-down-war-risks-79d73d3d?mod=rss_worldnews">U.S. Strikes Iran&#8217;s Qeshm Island as Trump Talks Down War Risks</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-03-02-38-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -139,6 +70,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html">Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-03-00-14-14 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss">'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -150,13 +88,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-03-00-08-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html">Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-00-14-14 +0000</span></div>
             </li>
         
 
@@ -255,96 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/11/02/us-news/trump-says-gop-should-win-in-a-landslide-in-final-pitch-to-midterm-election-voters/">Trump says Republicans should &#8216;win in a landslide&#8217; in final pitch to midterm election voters</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-02-55-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/02/us-news/trump-says-gop-should-win-in-a-landslide-in-final-pitch-to-midterm-election-voters/">Trump says Republicans should &#8216;win in a landslide&#8217; in final pitch to midterm election voters</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-02-55-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-milwaukee-bucks-score-today-anthony-edwards-injury-update-lamelo-ball-stats/601908172">Live: Wolves in battle with lowly Bucks in fourth quarter at Target Center</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-03-02-49-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html">The Nation&#8217;s Oldest Road Racetrack Starts a Big, Costly Face-Lift</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-02-47-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/middle-east/u-s-strikes-irans-qeshm-island-as-trump-talks-down-war-risks-79d73d3d?mod=rss_worldnews">U.S. Strikes Iran&#8217;s Qeshm Island as Trump Talks Down War Risks</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-03-02-38-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/11/billionaires-are-trying-to-buy-san-franciscos-election-its-not-too-late-to-vote/">Billionaires are trying to buy San Francisco&#8217;s election. It&#8217;s not too late to vote</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-11-03-02-20-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/02/us-news/washington-state-resident-dies-after-contracting-bird-flu-from-dairy-farm-officials/">Washington state resident dies after contracting bird flu from dairy farm: officials</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-02-18-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss">UK and EU agree draft deal to scrap Brexit red tape over food exports</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-02-11-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss">UK and EU agree draft deal to scrap Brexit red tape over food exports</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-02-11-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/02/us-news/beauty-queen-kiara-bowling-returns-to-crash-site-after-being-struck-by-child-drivers-in-oakland/">Beauty queen returns to scene where she was struck by drivers aged 4 and 6</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-02-01-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/what-the-midterms-campaign-tells-us-about-where-our-politics-are-headed-f315fa61?mod=rss_socialpoliticsfeed">Tuesday&#8217;s midterm elections will offer clues to just how much change can come from a new Congress and what likely will be the most wide-open presidential primary elections in years</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-03-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/lifestyle/careers/these-associates-had-a-golden-ticket-to-big-lawuntil-weil-gotshal-collapsed-2c2f7e86?mod=rss_usnews">These Associates Had a Golden Ticket to Big Law&#8212;Until Weil Gotshal Collapsed</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-03-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss">Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-01-57-46 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3759,13 +3600,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-02-03-58-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/science/space-astronomy/could-orbital-data-centers-ruin-the-night-sky-9462bf2d?mod=pls_whats_news_us_business_f">Could Orbital Data Centers Ruin the Night Sky?</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-02-03-00-00 +0000</span></div>
             </li>
         
     </ul>
