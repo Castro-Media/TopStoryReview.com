@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-04 05:11 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-04 06:19 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -31,70 +31,70 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.startribune.com/roy-cooper-looks-to-flip-north-carolina-senate-seat-by-defeating-republican-michael-whatley/601908988">Democrat Roy Cooper wins North Carolina Senate seat, flipping a key GOP-held seat</a>
             <div class='byline small text-muted'>
             startribune, 
-            <span class="datetime">2026-11-04-02-32-03 +0000</span></div>
+            <span class="datetime">2026-11-04-04-38-02 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/georgia-governor-race-results/">Georgia governor race: Democrat Keisha Lance Bottoms makes history as first Black woman elected to lead the state</a>
+            <li><a href="https://nypost.com/2026/11/03/us-news/exits-polls-show-karen-bass-holding-lead-in-los-angeles-mayoral-race/">Exit polls give Karen Bass edge over Nithya Raman as younger voters threaten to shake up LA mayor&#8217;s race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/crowley-looks-to-make-history-in-wisconsin-governors-race-against-trump-ally-tiffany/601908979">Democrat David Crowley defeats Trump loyalist to become Wisconsin's first Black governor</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-53-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/lake-county-sheriff-treasurer/">Lake County Sheriff John Idleburg declares victory; Sandy Hart poised to win county treasurer race</a>
             <div class='byline small text-muted'>
             chitri, 
-            <span class="datetime">2026-11-04-02-35-53 +0000</span></div>
+            <span class="datetime">2026-11-04-04-33-12 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/gov-hochul-defeats-gop-candidate-bruce-blakeman-will-face-pressure-to-cave-to-dsa-in-second-full-term/">New York Gov. Hochul defeats GOP candidate Bruce Blakeman, will face pressure to cave to DSA in second full term</a>
+            <li><a href="https://nypost.com/2026/11/03/us-news/josh-turek-dunks-gop-rep-ashley-hinson-to-give-democrats-senate-control/">Josh Turek dunks GOP Rep. Ashley Hinson to give Democrats Senate control</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-04-02-06-47 +0000</span></div>
+            <span class="datetime">2026-11-04-04-48-04 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/nj-rep-tom-kean-jr-loses-to-rebecca-bennett/">NJ Rep. Tom Kean Jr. loses to Rebecca Bennett after disappearing for nearly four months</a>
+            <li><a href="https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/">James Talarico turns Texas blue with defeat of Republican Ken Paxton</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-04-02-52-16 +0000</span></div>
+            <span class="datetime">2026-11-04-04-01-43 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/policy/democrats-snatch-house-and-senate-seats-and-overperform-all-over-the-map-0e21972d?mod=rss_socialpoliticsfeed">Democrats jumped out to a strong start Tuesday night, though there is a long way to go. Read more in this Special Edition of WSJ Politics Newsletter:</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/city-council-candidates-react-as-initial-results-come-in">Ugarte takes early lead for South L.A. City Council seat. San Fernando Valley race too close to call</a>
             <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-02-06-00 +0000</span></div>
+            latimes, 
+            <span class="datetime">2026-11-04-04-28-16 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.startribune.com/a-referendum-on-trump-election-monitors-and-a-democratic-shift-what-to-watch-on-election-day/601909016">Election takeaways: Young voters move away from the GOP, many voters driven by opposition to Trump</a>
+            <li><a href="https://www.nytimes.com/2026/11/03/us/california-governor-becerra-hilton.html">Xavier Becerra Becomes California&#8217;s First Latino Elected as Governor, Defeating Steve Hilton</a>
             <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-22-09 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-11-04-04-13-10 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-rep-josh-riley-wins-upstate-ny-swing-seat-after-gop-abandons-peter-oberacker/">Dem Rep. Josh Riley cruises to 2nd term in upstate NY swing seat after GOP abandons challenger</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-43-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/establishment-candidates-john-e-sununu-and-chris-pappas-pitch-change-in-new-hampshire-senate-race/601909158">Chris Pappas defeats John E. Sununu to keep New Hampshire US Senate seat in Democratic hands</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-22-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/la-voters-sound-off-on-need-for-change-at-the-polls-on-election-day/">&#8216;We need change&#8217;: Voters deliver stark verdict on California&#8217;s political leadership</a>
+            <li><a href="https://nypost.com/2026/11/03/us-news/trump-allies-blame-iran-war-for-gops-devastating-midterm-losses/">Trump allies blame Iran war for GOP&#8217;s devastating midterm losses: &#8216;Hope Schumer calls Netanyahu and thanks him</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-04-01-56-50 +0000</span></div>
+            <span class="datetime">2026-11-04-04-22-54 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/teen-charged-in-deadly-spirit-halloween-shooting-in-fairfield/">Fairfield teen suspect identified in deadly Spirit Halloween mass shooting &#8212; as accused gunman faces heinous charges</a>
+            <li><a href="https://nypost.com/2026/11/03/us-news/rep-laura-gillen-wins-key-long-island-congressional-race-crucial-to-helping-decide-who-holds-onto-house/">Rep. Laura Gillen wins key Long Island congressional race crucial to helping decide who holds onto House</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-04-02-30-33 +0000</span></div>
+            <span class="datetime">2026-11-04-04-46-08 +0000</span></div>
             </li>
         
     </ul>
@@ -104,6 +104,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 24h</h2>
     <ul>
         
+            <li><a href="https://www.chicagotribune.com/2026/11/03/south-carolina-senate-race-results/">South Carolina Senate race: Democrat Annie Andrews wins election over Republican Darline Graham</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-14-56 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/politics/policy/democrats-and-republicans-battle-for-control-of-congress-a79fda24?mod=rss_socialpoliticsfeed">Republicans and Democrats face off in a high-stakes battle for control of Congress, President Trump says the U.S. plans to cut off military aid to Israel by the end of the year and pieces of the crashed Learjet were found miles away from the impact site. Read more in today&#8217;s What&#8217;s News newsletter:</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -111,66 +118,59 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/pollster-predicts-which-california-election-day-races-will-be-called-early/">Dem pollster dishes on which California election day races will be called early &#8212; and which may take days</a>
+            <li><a href="https://www.startribune.com/sen-jon-ossoff-tries-to-hold-key-georgia-seat-for-democrats-against-republican-rep-mike-collins/601908983">Georgia Sen. Jon Ossoff wins reelection, defeating Rep. Mike Collins to hold a key Democratic seat</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-38-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/trump-allies-blame-iran-war-for-gops-devastating-midterm-losses/">Trump allies blame Iran war for GOP&#8217;s devastating midterm losses: &#8216;Hope Schumer calls Netanyahu and thanks him</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-03-23-04-42 +0000</span></div>
+            <span class="datetime">2026-11-04-04-22-54 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/georgia-senate-race-results/">Georgia Senate race: Sen. Jon Ossoff wins reelection, defeating Rep. Mike Collins to hold a key Democratic seat</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-04-01-04-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/midterms-2026-elections-results-map-live-updates-on-house-senate-and-governor-races-across-us/">Midterms 2026 elections results map: Live updates on House, Senate and Governor races across US</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-18-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/chris-pappas-halts-sununu-comeback-in-new-hampshire-makes-senate-history/">Chris Pappas halts Sununu comeback in New Hampshire, will be first openly gay male senator in US history</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-21-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/north-carolina-senate-race/">North Carolina Senate race: Democrat Roy Cooper defeats Republican Michael Whatley, flipping key GOP-held seat</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-04-00-55-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html">OpenAI and Anthropic Set Up &#8216;War Rooms&#8217; to Fight Disinfo About Midterm Elections</a>
+            <li><a href="https://www.nytimes.com/2026/11/03/us/new-mexico-governor-haaland-hull.html">Deb Haaland Is First Native American Woman to Be Elected Governor After New Mexico Win</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-23-39-55 +0000</span></div>
+            <span class="datetime">2026-11-04-03-44-22 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/elections/control-of-congress-is-on-the-line-as-america-heads-to-the-polls-d6011e72?mod=rss_socialpoliticsfeed">Trump surprises Republicans with an election-eve speech about the reflecting pool, the U.S. strikes Iran&#8217;s Qeshm Island, and higher prices might not save Apple&#8217;s slowing growth machine. Read more in today&#8217;s 10-Point newsletter.</a>
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html">How Will the Midterms Play Out? These Races May Provide Early Clues.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-03-22-01-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/exits-polls-show-karen-bass-holding-lead-in-los-angeles-mayoral-race/">Exit polls give Karen Bass edge over Nithya Raman as younger voters threaten to shake up LA mayor&#8217;s race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/your-hour-by-hour-guide-to-election-night-69fc1370?mod=rss_socialpoliticsfeed">Follow the WSJ&#8217;s Election Day live coverage, and what the midterms tell us about where our politics are headed. Read more in today&#8217;s WSJ Politics Newsletter:</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-03-10-56-00 +0000</span></div>
+            <span class="datetime">2026-11-03-11-57-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/policy/democrats-snatch-house-and-senate-seats-and-overperform-all-over-the-map-0e21972d?mod=rss_socialpoliticsfeed">Democrats jumped out to a strong start Tuesday night, though there is a long way to go. Read more in this Special Edition of WSJ Politics Newsletter:</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-election-2nd-district-results/">In Illinois 2nd Congressional District, Cook County Board Commissioner Donna Miller wins seat</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-01-05-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/early-election-results-battleground-states-ea7f76df?mod=rss_socialpoliticsfeed">Democrats and Republicans are battling over the House. Here are the key bellwether races we&#8217;re watching tonight, along with the latest results.</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-04-02-06-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/elections-canada-artificial-intelligence-9.7407854?cmp=rss">AI is making it harder for voters to get accurate information: Elections Canada chief</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-03-23-21-29 +0000</span></div>
+            <span class="datetime">2026-11-03-23-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -187,10 +187,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/pollster-predicts-which-california-election-day-races-will-be-called-early/">Dem pollster dishes on which California election day races will be called early &#8212; and which may take days</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/south-carolina-senate-race-results/">South Carolina Senate race: Democrat Annie Andrews wins election over Republican Darline Graham</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-04-42 +0000</span></div>
+            chitri, 
+            <span class="datetime">2026-11-04-03-14-56 +0000</span></div>
             </li>
         
 
@@ -201,45 +201,45 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/georgia-senate-race-results/">Georgia Senate race: Sen. Jon Ossoff wins reelection, defeating Rep. Mike Collins to hold a key Democratic seat</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-04-01-04-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-county-superior-court-judges-last-minute-voter-guide">Your last-minute guide to L.A. County Superior Court judge elections</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-28/california-governor-candidates-views-on-gas-prices-evs-high-speed-rail">Your last-minute guide to California governor candidates' views on gas prices, EVs and high-speed rail</a>
             <div class='byline small text-muted'>
             latimes, 
-            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
+            <span class="datetime">2026-10-28-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/business/apple-shares-fall-despite-profit-growth-as-traders-fear-rising-costs/">Apple&#8217;s new CEO disappoints Wall Street analysts on ho-hum earnings call as rising chip costs dent results</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-15-49-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-tech-social-media-companies-brace-for-deepfake-scrutiny-in-midterms-run-up-e8622394?mod=rss_markets_main">The Morning Risk Report: Tech, Social Media Companies Brace for Deepfake Scrutiny in Midterms Run-Up</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-29-11-32-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/chicago-school-board-president-election-results/">Polls close in first-ever race for Chicago&#8217;s school board president</a>
+            <li><a href="https://www.chicagotribune.com/2026/10/31/cook-county-democrats-board-races/">Cook County Dems trying for blue sweep in board races, GOP hopes to keep one seat, make gains</a>
             <div class='byline small text-muted'>
             chitri, 
-            <span class="datetime">2026-11-04-01-00-58 +0000</span></div>
+            <span class="datetime">2026-10-31-10-00-18 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/politics/budget-carney-affordability-investments-9.7404193?cmp=rss">Canada's next budget to be unveiled this week amid U.S. trade war, economic uncertainty</a>
+            <li><a href="https://nypost.com/2026/11/02/business/apple-beats-revenue-expectations-in-first-earnings-report-under-new-ceo-john-ternus/">Apple beats revenue expectations in first earnings report under new CEO John Ternus</a>
             <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-02-09-00-00 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-11-03-00-03-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/10/31/world/asia/vietnam-missing-war-dead.html">Will Digging Up Vietnam&#8217;s War Dead Heal Old Wounds or Reopen Them?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-10-31-04-01-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/your-hour-by-hour-guide-to-election-night-69fc1370?mod=rss_socialpoliticsfeed">Follow the WSJ&#8217;s Election Day live coverage, and what the midterms tell us about where our politics are headed. Read more in today&#8217;s WSJ Politics Newsletter:</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-03-11-57-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/early-election-results-battleground-states-ea7f76df?mod=rss_socialpoliticsfeed">Democrats and Republicans are battling over the House. Here are the key bellwether races we&#8217;re watching tonight, along with the latest results.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-03-23-00-00 +0000</span></div>
             </li>
         
 
@@ -256,367 +256,612 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 1h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/11/03/us-news/nj-rep-tom-kean-jr-loses-to-rebecca-bennett/">NJ Rep. Tom Kean Jr. loses to Rebecca Bennett after disappearing for nearly four months</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-52-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/nj-rep-tom-kean-jr-loses-to-rebecca-bennett/">NJ Rep. Tom Kean Jr. loses to Rebecca Bennett after disappearing for nearly four months</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-52-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383?mod=rss_markets_main">U.S. Stocks, Dollar Set to Weaken as Blue Wave Forms</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-02-51-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-8th-district-results/">Illinois 8th Congressional District: Melissa Bean wins seat, AP says</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-04-02-50-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-keisha-bottoms-wins-historic-georgia-governors-race-to-flip-peach-state/">Dem Keisha Bottoms wins historic Georgia governor&#8217;s race to flip Peach State</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-49-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-keisha-bottoms-wins-historic-georgia-governors-race-to-flip-peach-state/">Dem Keisha Bottoms wins historic Georgia governor&#8217;s race to flip Peach State</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-49-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss">US voters name economy and state of democracy as top issues, poll says</a>
+            <li><a href="https://www.bbc.co.uk/news/videos/cr5ynex46j75o?at_medium=RSS&at_campaign=rss">What the Democratic takeover of the Senate means for Trump</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-11-04-02-47-37 +0000</span></div>
+            <span class="datetime">2026-11-04-04-53-35 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/north-carolina-senate-whatley-cooper.html">Roy Cooper Flips North Carolina Senate Seat to Democrats by Defeating Michael Whatley</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-46-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html">Democrats Flip North Carolina Senate Seat</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-46-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html">Democrats Flip North Carolina Senate Seat</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-46-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/nwi-school-referendum-questions-leaning-yes-in-early-returns/">NWI school referendum questions leaning &#8216;yes&#8217; in early returns</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-04-02-44-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-rep-josh-riley-wins-upstate-ny-swing-seat-after-gop-abandons-peter-oberacker/">Dem Rep. Josh Riley cruises to 2nd term in upstate NY swing seat after GOP abandons challenger</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-43-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-rep-josh-riley-wins-upstate-ny-swing-seat-after-gop-abandons-peter-oberacker/">Dem Rep. Josh Riley cruises to 2nd term in upstate NY swing seat after GOP abandons challenger</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-43-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/oil-prices-fall-as-u-s-midterm-results-unfold-0e45fbe8?mod=rss_markets_main">Oil Prices Fall as U.S. Midterm Results Unfold</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-02-43-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/pappas-new-hampshire-senate-election.html">Chris Pappas Defeats John Sununu in New Hampshire Senate Race</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-42-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/2026-illinois-election-day-results/">2026 Illinois Election Day results</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-04-02-41-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/2026-indiana-election-day-results/">2026 Indiana Election Day results</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-04-02-40-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss">Democratic rising star Ossoff projected to hold Georgia seat</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-04-02-38-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/georgia-governor-race-results/">Georgia governor race: Democrat Keisha Lance Bottoms makes history as first Black woman elected to lead the state</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-04-02-35-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/the-2026-midterm-elections-live-analysis-and-commentary-ab41f522?mod=rss_usnews">Opinion | The 2026 Midterm Elections: Live Analysis and Commentary</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-02-35-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/roy-cooper-looks-to-flip-north-carolina-senate-seat-by-defeating-republican-michael-whatley/601908988">Democrat Roy Cooper wins North Carolina Senate seat, flipping a key GOP-held seat</a>
+            <li><a href="https://www.startribune.com/crowley-looks-to-make-history-in-wisconsin-governors-race-against-trump-ally-tiffany/601908979">Democrat David Crowley defeats Trump loyalist to become Wisconsin's first Black governor</a>
             <div class='byline small text-muted'>
             startribune, 
-            <span class="datetime">2026-11-04-02-32-03 +0000</span></div>
+            <span class="datetime">2026-11-04-04-53-30 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cmn5vndlgdgdo?at_medium=RSS&at_campaign=rss">Democrat Roy Cooper flips key North Carolina Senate seat from Republicans</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-04-02-31-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/teen-charged-in-deadly-spirit-halloween-shooting-in-fairfield/">Fairfield teen suspect identified in deadly Spirit Halloween mass shooting &#8212; as accused gunman faces heinous charges</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-30-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/georgia-governor-bottoms-jackson.html">Keisha Lance Bottoms Wins in Georgia to Become First Black Woman Elected U.S. Governor</a>
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/virginia-house-2-kiggans-luria.html">Luria Wins in Virginia, Flipping a Key House Seat for Democrats</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-04-02-26-32 +0000</span></div>
+            <span class="datetime">2026-11-04-04-51-56 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/mood-nixon-florida-senate-election.html">Republican Ashley Moody Holds On to Florida Senate Seat, Defeating Angie Nixon</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-23-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/a-referendum-on-trump-election-monitors-and-a-democratic-shift-what-to-watch-on-election-day/601909016">Election takeaways: Young voters move away from the GOP, many voters driven by opposition to Trump</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-22-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/establishment-candidates-john-e-sununu-and-chris-pappas-pitch-change-in-new-hampshire-senate-race/601909158">Chris Pappas defeats John E. Sununu to keep New Hampshire US Senate seat in Democratic hands</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-22-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/socialist-darializa-avila-chevalier-sails-to-victory-along-with-mamdanis-slate-of-lefty-house-candidates/">Socialist Darializa Avila Chevalier sails to victory along with Mamdani&#8217;s slate of lefty House candidates</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-19-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/florida-house-22-dandiya-askar.html">Democrat Pia Dandiya Wins Open Congressional Seat in Florida</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-19-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/aoc-reelected-amid-mounting-speculation-over-2028-white-house-run/">AOC handily reelected to House amid mounting speculation over 2028 White House run</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-18-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/donalds-florida-governor-race.html">Byron Donalds, Staunch Trump Supporter, Wins Florida Governor&#8217;s Race Against David Jolly</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-18-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/texas-senate-race-results/">Texas Senate race: Republicans&#8217; grip on seat is on the line in close race between Ken Paxton and James Talarico</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrat-barbara-domer-in-lead-for-porter-county-clerk/">Democrat Barbara Domer in lead for Porter County Clerk</a>
             <div class='byline small text-muted'>
             chitri, 
-            <span class="datetime">2026-11-04-02-18-11 +0000</span></div>
+            <span class="datetime">2026-11-04-04-50-47 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss">Miliband says slavery apology will not bring cost for UK taxpayers</a>
+            <li><a href="https://www.startribune.com/klobuchar-demuth-flanagan-tafoya-ellison-schutz-election-analysis/601909379">Star Tribune Opinion reacts to the 2026 midterm results</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-04-02-14-45 +0000</span></div>
+            startribune, 
+            <span class="datetime">2026-11-04-04-50-29 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss">Miliband says slavery apology will not bring cost for UK taxpayers</a>
+            <li><a href="https://www.startribune.com/live-minnesota-2026-elections/601901268">Live: Minnesota results trickle in as Democrats win control of U.S. Senate</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-04-02-14-45 +0000</span></div>
+            startribune, 
+            <span class="datetime">2026-11-04-04-48-42 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/mta-saw-record-high-subway-ridership-over-halloween-marathon-weekend-in-nyc/">MTA saw record-high ridership over Halloween, marathon weekend in NYC &#8212; but straphangers have complaints</a>
+            <li><a href="https://www.startribune.com/republicans-grip-on-texas-is-on-the-line-in-a-close-us-senate-race-between-paxton-talarico/601908995">Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-48-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/midterm-elections-coming-to-a-close-as-voters-pass-judgment-on-trumps-second-term/601908991">Democrats win US Senate, ending Republican dominance by harnessing voters' frustration with Trump</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-48-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/josh-turek-dunks-gop-rep-ashley-hinson-to-give-democrats-senate-control/">Josh Turek dunks GOP Rep. Ashley Hinson to give Democrats Senate control</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-04-02-13-53 +0000</span></div>
+            <span class="datetime">2026-11-04-04-48-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/josh-turek-dunks-gop-rep-ashley-hinson-to-give-democrats-senate-control/">Josh Turek dunks GOP Rep. Ashley Hinson to give Democrats Senate control</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-48-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/rep-laura-gillen-wins-key-long-island-congressional-race-crucial-to-helping-decide-who-holds-onto-house/">Rep. Laura Gillen wins key Long Island congressional race crucial to helping decide who holds onto House</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-46-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/jen-wilson-holds-slim-lead-over-incumbent-pete-lindemulder-in-lake-council-race/">Jen Wilson holds slim lead over incumbent Pete Lindemulder in Lake Council race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/senate-election-control.html">Winning the Senate, Democrats Secure a Platform to Check Trump</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-45-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/senate-election-control.html">Winning the Senate, Democrats Secure a Platform to Check Trump</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-45-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html">Trump Says in Interview That He Will Accept Election Results</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-44-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/marissa-roy-john-mckinney-la-city-attorney-race-results">Marissa Roy surges to early lead over John McKinney in L.A. city attorney race</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-43-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrat-david-crowley-wisconsin-governor/">Democrat David Crowley defeats Trump loyalist to become Wisconsin&#8217;s first Black governor</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-43-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/dsa-contingent-in-congress-bolstered-after-socialists-pick-up-at-least-4-house-seats/">DSA bolsters Congress contingent after socialists pick up at least 4 House seats</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-43-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/dsa-contingent-in-congress-bolstered-after-socialists-pick-up-at-least-4-house-seats/">DSA bolsters Congress contingent after socialists pick up at least 4 House seats</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-43-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/iowa-senate-hinson-turek.html">Josh Turek Flips Iowa Senate Seat in a Major Victory for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-42-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/incoming-dem-oversight-chair-robert-garcia-to-white-house-lawyer-up/">Powerful Dem sends ominous threat to GOP after election disaster</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-42-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/incoming-dem-oversight-chair-robert-garcia-to-white-house-lawyer-up/">Powerful Dem sends ominous threat to GOP after election disaster</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-42-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/porter-county-council-party-makeup-remains/">Porter County Council party makeup to remain the same with new members</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-42-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/alligator-casually-strolls-into-bagel-shop-terrorizing-employees/">Alligator casually strolls into bagel shop, terrorizing employees: &#8216;Never in a million years&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-41-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss">Ecstatic scenes and historic moments: What's happened so far in the midterms</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-04-41-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/josh-turek-iowa/">Democrat Josh Turek wins election to US Senate from Iowa</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-40-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/la-county-sheriff-robert-luna-alex-villanueva-returns-measure-a">Sheriff Luna leads challenger Villanueva in early returns; Measure A ahead</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-40-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/la-county-sheriff-robert-luna-alex-villanueva-returns-measure-a">Sheriff Luna leads challenger Villanueva in early returns; Measure A ahead</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-40-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrats-dupage-county-board-races-election-winners/">Democrats leading in DuPage County Board election races</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-38-59 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.startribune.com/sen-jon-ossoff-tries-to-hold-key-georgia-seat-for-democrats-against-republican-rep-mike-collins/601908983">Georgia Sen. Jon Ossoff wins reelection, defeating Rep. Mike Collins to hold a key Democratic seat</a>
             <div class='byline small text-muted'>
             startribune, 
-            <span class="datetime">2026-11-04-02-12-14 +0000</span></div>
+            <span class="datetime">2026-11-04-04-38-04 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss">Killer who escaped Tennessee prison captured after week-long manhunt</a>
+            <li><a href="https://www.startribune.com/roy-cooper-looks-to-flip-north-carolina-senate-seat-by-defeating-republican-michael-whatley/601908988">Democrat Roy Cooper wins North Carolina Senate seat, flipping a key GOP-held seat</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-04-02-11-40 +0000</span></div>
+            startribune, 
+            <span class="datetime">2026-11-04-04-38-02 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-9th-district-results/">Daniel Biss wins in Illinois 9th Congressional District</a>
+            <li><a href="https://www.wsj.com/politics/elections/americans-who-voted-show-frustrations-with-trump-and-costs-1dcffe41?mod=rss_socialpoliticsfeed">Two years after handing Republicans control of Washington, voters in Tuesday&#8217;s election expressed displeasure over President Trump&#8217;s job performance while voicing angst about the cost of living and the nation&#8217;s overall direction</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-04-04-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democratic-incumbents-hold-onto-congressional-seats-in-chicago-and-suburbs/">Democratic incumbents hold onto congressional seats in Chicago and suburbs</a>
             <div class='byline small text-muted'>
             chitri, 
-            <span class="datetime">2026-11-04-02-09-42 +0000</span></div>
+            <span class="datetime">2026-11-04-04-37-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/elections/100000011237565/texas-hispanic-voters.html">Texas&#8217; Hispanic Voters</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-36-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrat-jerry-williams-leads-republican-david-crane-in-lake-county-sheriff-race/">Democrat Jerry Williams leads Republican David Crane in Lake County sheriff race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-36-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/texas-governor-abbott-hinojosa.html">Gina Hinojosa Wins Texas Governor Race in Major Upset, Defeating Greg Abbott</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-35-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/exits-polls-show-karen-bass-holding-lead-in-los-angeles-mayoral-race/">Exit polls give Karen Bass edge over Nithya Raman as younger voters threaten to shake up LA mayor&#8217;s race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/exits-polls-show-karen-bass-holding-lead-in-los-angeles-mayoral-race/">Exit polls give Karen Bass edge over Nithya Raman as younger voters threaten to shake up LA mayor&#8217;s race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/the-2026-midterm-elections-live-analysis-and-commentary-ab41f522?mod=rss_usnews">Opinion | The 2026 Midterm Elections: Live Analysis and Commentary</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-04-04-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/lake-county-sheriff-treasurer/">Lake County Sheriff John Idleburg declares victory; Sandy Hart poised to win county treasurer race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-33-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/measure-to-raise-la-sales-taxes-by-half-cent-was-leading-in-early-returns">A measure to raise L.A.'s sales tax by a half-cent for firefighters leads in early returns</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/ny-democratic-rep-tom-suozzi-defeats-michael-lipetri-in-rematch/">Long Island Democratic Rep. Tom Suozzi defeats Trump-backed Michael LiPetri in rematch</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-31-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/ny-democratic-rep-tom-suozzi-defeats-michael-lipetri-in-rematch/">Long Island Democratic Rep. Tom Suozzi defeats Trump-backed Michael LiPetri in rematch</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-31-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/missouri-congressional-redistricting-referendum.html">Missouri Voters Reject Congressional Map Redrawn to Boost Republicans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-31-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/barrera-leads-shaw-in-early-returns-for-state-superintendents-race">Barrera leads Shaw in early returns for state superintendent's race</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-31-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://48hills.org/2026/11/screen-grabs-arab-film-fest-blossoms-with-legendary-divas-and-political-intrigue/">Screen Grabs: Arab Film Fest blossoms with legendary divas and political intrigue</a>
+            <div class='byline small text-muted'>
+            48hills, 
+            <span class="datetime">2026-11-04-04-30-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/wisconsin-governor-crowley-tiffany.html">David Crowley, a Democrat, Will Be Wisconsin&#8217;s First Black Governor</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-30-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/kyle-nelson-takes-the-lead-in-porter-county-commissioner-race/">Kyle Nelson takes the lead in Porter County commissioner race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-30-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/">Adam Hamilton becomes first Democrat in 94 years to win Senate election in Kansas</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-29-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/">Adam Hamilton becomes first Democrat in 94 years to win Senate election in Kansas</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-29-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/kansas-senate-marshall-hamilton.html">Democrat Wins a Kansas Senate Seat for the First Time Since 1932</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-29-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/city-council-candidates-react-as-initial-results-come-in">Ugarte takes early lead for South L.A. City Council seat. San Fernando Valley race too close to call</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-28-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/south-carolina-senate-race-gets-unexpectedly-close-after-lindsey-grahams-sister-darline-stumbles/601909003">Democrat Annie Andrews wins US Senate election in South Carolina over Republican Darline Graham</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-28-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/mayor-karen-bass-councilmember-nithya-raman-election-results">Mayor Karen Bass narrowly leads City Councilmember Nithya Raman in the L.A. mayor's race</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-27-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/missouri-abortion-ban.html">Missouri Voters Reject Republican Attempt to Restore Ban on Abortions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-25-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/gina-hinojosa-texas-governor/">Democrat Gina Hinojosa elected Texas&#8217; first Latina governor, ousts Republican incumbent Greg Abbott</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-24-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/trump-allies-blame-iran-war-for-gops-devastating-midterm-losses/">Trump allies blame Iran war for GOP&#8217;s devastating midterm losses: &#8216;Hope Schumer calls Netanyahu and thanks him</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-22-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/trump-allies-blame-iran-war-for-gops-devastating-midterm-losses/">Trump allies blame Iran war for GOP&#8217;s devastating midterm losses: &#8216;Hope Schumer calls Netanyahu and thanks him</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-22-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/michelle-fischbach-wins-fourth-term/601904202">Fischbach wins re-election in Congressional District 7</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-21-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-election-district-214-referendum-results/">Voters backing District 214 tax hike, in first referendum in 55 years</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-18-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/iowa-governor-sand-lahn.html">Rob Sand Defeats Zach Lahn in Iowa Governor&#8217;s Race, Ending Republicans&#8217; Hold on the Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-18-28 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/video/us/elections/100000011237440/gop-holds-florida.html">G.O.P. Holds Florida</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-04-02-08-34 +0000</span></div>
+            <span class="datetime">2026-11-04-04-16-19 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-a-few-key-areas-as-polls-close-in-maine-and-michigan">We&#8217;re watching a few key areas as polls close in Maine and Michigan.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-06-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/gov-hochul-defeats-gop-candidate-bruce-blakeman-will-face-pressure-to-cave-to-dsa-in-second-full-term/">New York Gov. Hochul defeats GOP candidate Bruce Blakeman, will face pressure to cave to DSA in second full term</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-06-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/gov-hochul-defeats-gop-candidate-bruce-blakeman-will-face-pressure-to-cave-to-dsa-in-second-full-term/">New York Gov. Hochul defeats GOP candidate Bruce Blakeman, will face pressure to cave to DSA in second full term</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-06-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/democrats-snatch-house-and-senate-seats-and-overperform-all-over-the-map-0e21972d?mod=rss_socialpoliticsfeed">Democrats jumped out to a strong start Tuesday night, though there is a long way to go. Read more in this Special Edition of WSJ Politics Newsletter:</a>
+            <li><a href="https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main">Gold Stays Under Pressure as Buyers Await Midterms Clarity</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-04-02-06-00 +0000</span></div>
+            <span class="datetime">2026-11-04-04-15-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-focus-on-u-s-midterms-143da6ea?mod=rss_markets_main">U.S. Dollar Index Weakens to One-Month Low as Democrats Take Lead</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-02-04-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/c6y4xz3ypenko?at_medium=RSS&at_campaign=rss">'I am ready to fight' - Senator-elect Chris Pappas celebrates New Hampshire win</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-04-02-03-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/ckx2qzeqy5vyo?at_medium=RSS&at_campaign=rss">With results coming in, is it still too early to tell?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-04-02-01-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/live-minnesota-2026-elections/601901268">Live: Polls close in Minnesota amid reports of strong turnout</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-00-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/tech/cybersecurity/hackers-crank-the-heat-on-europes-supermarket-freezers-to-above-120-degrees-73597a8a?mod=rss_worldnews">Hackers Crank the Heat on Europe&#8217;s Supermarket Freezers to Above 120 Degrees</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html">Trump Is Watching Fox News, and He Is Not Thrilled</a>
+            <li><a href="https://www.nytimes.com/2026/11/03/us/ohio-senate-brown-husted.html">Sherrod Brown Regains an Ohio Senate Seat in Crucial Win for Democrats</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-04-01-59-57 +0000</span></div>
+            <span class="datetime">2026-11-04-04-13-39 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html">Trump Is Watching Fox News, and He Is Not Thrilled</a>
+            <li><a href="https://www.nytimes.com/2026/11/03/us/california-governor-becerra-hilton.html">Xavier Becerra Becomes California&#8217;s First Latino Elected as Governor, Defeating Steve Hilton</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-04-01-59-57 +0000</span></div>
+            <span class="datetime">2026-11-04-04-13-10 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/la-voters-sound-off-on-need-for-change-at-the-polls-on-election-day/">&#8216;We need change&#8217;: Voters deliver stark verdict on California&#8217;s political leadership</a>
+            <li><a href="https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html">Democrats Flip South Carolina Senate Seat</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-56-50 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-11-04-04-12-55 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/la-voters-sound-off-on-need-for-change-at-the-polls-on-election-day/">&#8216;We need change&#8217;: Voters deliver stark verdict on California&#8217;s political leadership</a>
+            <li><a href="https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html">Democrats Flip South Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-12-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/sherrod-brown-kicks-jon-husteds-great-a-in-ohio-senate-race/">Sherrod Brown kicks Jon Husted&#8217;s &#8216;great ass&#8217; in Ohio Senate race</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-04-01-56-50 +0000</span></div>
+            <span class="datetime">2026-11-04-04-12-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/sherrod-brown-kicks-jon-husteds-great-a-in-ohio-senate-race/">Sherrod Brown kicks Jon Husted&#8217;s &#8216;great ass&#8217; in Ohio Senate race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-12-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/private-ambulance-driver-abandons-patient-takes-uber-home-she-said-shes-done-driving/">Private ambulance driver abandons patient, takes Uber home: &#8216;She said she&#8217;s done driving&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-12-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/texas-senate-talarico-paxton.html">Talarico Defeats Paxton in Texas Senate Race, Ending a Three-Decade Drought for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-10-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/elections/100000011259875/south-carolina-flips.html">Democrats Win South Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-10-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/paul-pelosi-crash-napa-valley-prohibited-driving.html">Paul Pelosi Prohibited From Driving After Crash in Napa Valley</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-09-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/xavier-becerra-makes-history-as-californias-first-elected-latino-governor">Xavier Becerra makes history as California's first elected Latino governor</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-08-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/xavier-becerra-makes-history-as-californias-first-elected-latino-governor">Xavier Becerra makes history as California's first elected Latino governor</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-08-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/elections/100000011260134/democrats-outperform-in-three-states.html">Democrats Outperform in Three States</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-07-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/gop-rep-mike-lawler-concedes-to-cait-conley-in-hotly-contested-ny-house-race/">GOP Rep. Mike Lawler concedes to Cait Conley in hotly contested NY House race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-07-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/alabama-house-2-marques-figures.html">Shomari Figures Holds Redrawn Alabama House Seat for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-07-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/soliday-apparently-ousted-house-district-4/">Soliday apparently ousted in three-way House District 4 race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-06-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-election-comptroller-statewide-races/">Margaret Croke poised to be next Illinois comptroller as Democrats look to extend hold on statewide offices</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-06-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://missionlocal.org/2026/11/scott-wiener-campaign-bars-mission-local/">Scott Wiener relents after blowback, allows Mission Local into event</a>
+            <div class='byline small text-muted'>
+            missionlocal, 
+            <span class="datetime">2026-11-04-04-03-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/xavier-becerra-to-succeed-gavin-newsom-as-california-governor/">Democrat Xavier Becerra coasts to victory in California governor&#8217;s race after uninspiring campaign</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-03-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/xavier-becerra-to-succeed-gavin-newsom-as-california-governor/">Democrat Xavier Becerra coasts to victory in California governor&#8217;s race after uninspiring campaign</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-03-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/">James Talarico turns Texas blue with defeat of Republican Ken Paxton</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-01-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/">James Talarico turns Texas blue with defeat of Republican Ken Paxton</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-01-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/furious-trump-declares-gop-would-have-won-in-a-landslide-if-he-was-on-midterm-ballot/">Furious Trump declares GOP &#8216;would have won in a landslide&#8217; if he was on midterm ballot</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-57-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/furious-trump-declares-gop-would-have-won-in-a-landslide-if-he-was-on-midterm-ballot/">Furious Trump declares GOP &#8216;would have won in a landslide&#8217; if he was on midterm ballot</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-57-52 +0000</span></div>
             </li>
         
     </ul>
@@ -626,10 +871,906 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 24h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/11/03/us-news/nj-rep-tom-kean-jr-loses-to-rebecca-bennett/">NJ Rep. Tom Kean Jr. loses to Rebecca Bennett after disappearing for nearly four months</a>
+            <li><a href="https://www.bbc.co.uk/news/videos/cr5ynex46j75o?at_medium=RSS&at_campaign=rss">What the Democratic takeover of the Senate means for Trump</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-04-53-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/crowley-looks-to-make-history-in-wisconsin-governors-race-against-trump-ally-tiffany/601908979">Democrat David Crowley defeats Trump loyalist to become Wisconsin's first Black governor</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-53-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/virginia-house-2-kiggans-luria.html">Luria Wins in Virginia, Flipping a Key House Seat for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-51-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrat-barbara-domer-in-lead-for-porter-county-clerk/">Democrat Barbara Domer in lead for Porter County Clerk</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-50-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/klobuchar-demuth-flanagan-tafoya-ellison-schutz-election-analysis/601909379">Star Tribune Opinion reacts to the 2026 midterm results</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-50-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/live-minnesota-2026-elections/601901268">Live: Minnesota results trickle in as Democrats win control of U.S. Senate</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-48-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/republicans-grip-on-texas-is-on-the-line-in-a-close-us-senate-race-between-paxton-talarico/601908995">Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-48-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/midterm-elections-coming-to-a-close-as-voters-pass-judgment-on-trumps-second-term/601908991">Democrats win US Senate, ending Republican dominance by harnessing voters' frustration with Trump</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-48-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/josh-turek-dunks-gop-rep-ashley-hinson-to-give-democrats-senate-control/">Josh Turek dunks GOP Rep. Ashley Hinson to give Democrats Senate control</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-04-02-52-16 +0000</span></div>
+            <span class="datetime">2026-11-04-04-48-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/josh-turek-dunks-gop-rep-ashley-hinson-to-give-democrats-senate-control/">Josh Turek dunks GOP Rep. Ashley Hinson to give Democrats Senate control</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-48-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/rep-laura-gillen-wins-key-long-island-congressional-race-crucial-to-helping-decide-who-holds-onto-house/">Rep. Laura Gillen wins key Long Island congressional race crucial to helping decide who holds onto House</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-46-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/jen-wilson-holds-slim-lead-over-incumbent-pete-lindemulder-in-lake-council-race/">Jen Wilson holds slim lead over incumbent Pete Lindemulder in Lake Council race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/senate-election-control.html">Winning the Senate, Democrats Secure a Platform to Check Trump</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-45-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/senate-election-control.html">Winning the Senate, Democrats Secure a Platform to Check Trump</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-45-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html">Trump Says in Interview That He Will Accept Election Results</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-44-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/marissa-roy-john-mckinney-la-city-attorney-race-results">Marissa Roy surges to early lead over John McKinney in L.A. city attorney race</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-43-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrat-david-crowley-wisconsin-governor/">Democrat David Crowley defeats Trump loyalist to become Wisconsin&#8217;s first Black governor</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-43-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/dsa-contingent-in-congress-bolstered-after-socialists-pick-up-at-least-4-house-seats/">DSA bolsters Congress contingent after socialists pick up at least 4 House seats</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-43-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/dsa-contingent-in-congress-bolstered-after-socialists-pick-up-at-least-4-house-seats/">DSA bolsters Congress contingent after socialists pick up at least 4 House seats</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-43-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/iowa-senate-hinson-turek.html">Josh Turek Flips Iowa Senate Seat in a Major Victory for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-42-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/incoming-dem-oversight-chair-robert-garcia-to-white-house-lawyer-up/">Powerful Dem sends ominous threat to GOP after election disaster</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-42-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/incoming-dem-oversight-chair-robert-garcia-to-white-house-lawyer-up/">Powerful Dem sends ominous threat to GOP after election disaster</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-42-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/porter-county-council-party-makeup-remains/">Porter County Council party makeup to remain the same with new members</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-42-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/alligator-casually-strolls-into-bagel-shop-terrorizing-employees/">Alligator casually strolls into bagel shop, terrorizing employees: &#8216;Never in a million years&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-41-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss">Ecstatic scenes and historic moments: What's happened so far in the midterms</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-04-41-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/josh-turek-iowa/">Democrat Josh Turek wins election to US Senate from Iowa</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-40-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/la-county-sheriff-robert-luna-alex-villanueva-returns-measure-a">Sheriff Luna leads challenger Villanueva in early returns; Measure A ahead</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-40-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/la-county-sheriff-robert-luna-alex-villanueva-returns-measure-a">Sheriff Luna leads challenger Villanueva in early returns; Measure A ahead</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-40-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrats-dupage-county-board-races-election-winners/">Democrats leading in DuPage County Board election races</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-38-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/sen-jon-ossoff-tries-to-hold-key-georgia-seat-for-democrats-against-republican-rep-mike-collins/601908983">Georgia Sen. Jon Ossoff wins reelection, defeating Rep. Mike Collins to hold a key Democratic seat</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-38-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/roy-cooper-looks-to-flip-north-carolina-senate-seat-by-defeating-republican-michael-whatley/601908988">Democrat Roy Cooper wins North Carolina Senate seat, flipping a key GOP-held seat</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-38-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/americans-who-voted-show-frustrations-with-trump-and-costs-1dcffe41?mod=rss_socialpoliticsfeed">Two years after handing Republicans control of Washington, voters in Tuesday&#8217;s election expressed displeasure over President Trump&#8217;s job performance while voicing angst about the cost of living and the nation&#8217;s overall direction</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-04-04-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democratic-incumbents-hold-onto-congressional-seats-in-chicago-and-suburbs/">Democratic incumbents hold onto congressional seats in Chicago and suburbs</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-37-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/elections/100000011237565/texas-hispanic-voters.html">Texas&#8217; Hispanic Voters</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-36-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrat-jerry-williams-leads-republican-david-crane-in-lake-county-sheriff-race/">Democrat Jerry Williams leads Republican David Crane in Lake County sheriff race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-36-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/texas-governor-abbott-hinojosa.html">Gina Hinojosa Wins Texas Governor Race in Major Upset, Defeating Greg Abbott</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-35-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/exits-polls-show-karen-bass-holding-lead-in-los-angeles-mayoral-race/">Exit polls give Karen Bass edge over Nithya Raman as younger voters threaten to shake up LA mayor&#8217;s race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/exits-polls-show-karen-bass-holding-lead-in-los-angeles-mayoral-race/">Exit polls give Karen Bass edge over Nithya Raman as younger voters threaten to shake up LA mayor&#8217;s race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/the-2026-midterm-elections-live-analysis-and-commentary-ab41f522?mod=rss_usnews">Opinion | The 2026 Midterm Elections: Live Analysis and Commentary</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-04-04-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/lake-county-sheriff-treasurer/">Lake County Sheriff John Idleburg declares victory; Sandy Hart poised to win county treasurer race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-33-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/measure-to-raise-la-sales-taxes-by-half-cent-was-leading-in-early-returns">A measure to raise L.A.'s sales tax by a half-cent for firefighters leads in early returns</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/ny-democratic-rep-tom-suozzi-defeats-michael-lipetri-in-rematch/">Long Island Democratic Rep. Tom Suozzi defeats Trump-backed Michael LiPetri in rematch</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-31-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/ny-democratic-rep-tom-suozzi-defeats-michael-lipetri-in-rematch/">Long Island Democratic Rep. Tom Suozzi defeats Trump-backed Michael LiPetri in rematch</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-31-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/missouri-congressional-redistricting-referendum.html">Missouri Voters Reject Congressional Map Redrawn to Boost Republicans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-31-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/barrera-leads-shaw-in-early-returns-for-state-superintendents-race">Barrera leads Shaw in early returns for state superintendent's race</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-31-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://48hills.org/2026/11/screen-grabs-arab-film-fest-blossoms-with-legendary-divas-and-political-intrigue/">Screen Grabs: Arab Film Fest blossoms with legendary divas and political intrigue</a>
+            <div class='byline small text-muted'>
+            48hills, 
+            <span class="datetime">2026-11-04-04-30-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/wisconsin-governor-crowley-tiffany.html">David Crowley, a Democrat, Will Be Wisconsin&#8217;s First Black Governor</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-30-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/kyle-nelson-takes-the-lead-in-porter-county-commissioner-race/">Kyle Nelson takes the lead in Porter County commissioner race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-30-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/">Adam Hamilton becomes first Democrat in 94 years to win Senate election in Kansas</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-29-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/">Adam Hamilton becomes first Democrat in 94 years to win Senate election in Kansas</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-29-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/kansas-senate-marshall-hamilton.html">Democrat Wins a Kansas Senate Seat for the First Time Since 1932</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-29-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/city-council-candidates-react-as-initial-results-come-in">Ugarte takes early lead for South L.A. City Council seat. San Fernando Valley race too close to call</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-28-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/south-carolina-senate-race-gets-unexpectedly-close-after-lindsey-grahams-sister-darline-stumbles/601909003">Democrat Annie Andrews wins US Senate election in South Carolina over Republican Darline Graham</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-28-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/mayor-karen-bass-councilmember-nithya-raman-election-results">Mayor Karen Bass narrowly leads City Councilmember Nithya Raman in the L.A. mayor's race</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-27-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/missouri-abortion-ban.html">Missouri Voters Reject Republican Attempt to Restore Ban on Abortions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-25-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/gina-hinojosa-texas-governor/">Democrat Gina Hinojosa elected Texas&#8217; first Latina governor, ousts Republican incumbent Greg Abbott</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-24-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/trump-allies-blame-iran-war-for-gops-devastating-midterm-losses/">Trump allies blame Iran war for GOP&#8217;s devastating midterm losses: &#8216;Hope Schumer calls Netanyahu and thanks him</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-22-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/trump-allies-blame-iran-war-for-gops-devastating-midterm-losses/">Trump allies blame Iran war for GOP&#8217;s devastating midterm losses: &#8216;Hope Schumer calls Netanyahu and thanks him</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-22-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/michelle-fischbach-wins-fourth-term/601904202">Fischbach wins re-election in Congressional District 7</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-21-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-election-district-214-referendum-results/">Voters backing District 214 tax hike, in first referendum in 55 years</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-18-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/iowa-governor-sand-lahn.html">Rob Sand Defeats Zach Lahn in Iowa Governor&#8217;s Race, Ending Republicans&#8217; Hold on the Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-18-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/elections/100000011237440/gop-holds-florida.html">G.O.P. Holds Florida</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-16-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main">Gold Stays Under Pressure as Buyers Await Midterms Clarity</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-04-04-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/ohio-senate-brown-husted.html">Sherrod Brown Regains an Ohio Senate Seat in Crucial Win for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-13-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/california-governor-becerra-hilton.html">Xavier Becerra Becomes California&#8217;s First Latino Elected as Governor, Defeating Steve Hilton</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-13-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html">Democrats Flip South Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-12-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html">Democrats Flip South Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-12-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/sherrod-brown-kicks-jon-husteds-great-a-in-ohio-senate-race/">Sherrod Brown kicks Jon Husted&#8217;s &#8216;great ass&#8217; in Ohio Senate race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-12-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/sherrod-brown-kicks-jon-husteds-great-a-in-ohio-senate-race/">Sherrod Brown kicks Jon Husted&#8217;s &#8216;great ass&#8217; in Ohio Senate race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-12-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/private-ambulance-driver-abandons-patient-takes-uber-home-she-said-shes-done-driving/">Private ambulance driver abandons patient, takes Uber home: &#8216;She said she&#8217;s done driving&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-12-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/texas-senate-talarico-paxton.html">Talarico Defeats Paxton in Texas Senate Race, Ending a Three-Decade Drought for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-10-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/elections/100000011259875/south-carolina-flips.html">Democrats Win South Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-10-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/paul-pelosi-crash-napa-valley-prohibited-driving.html">Paul Pelosi Prohibited From Driving After Crash in Napa Valley</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-09-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/xavier-becerra-makes-history-as-californias-first-elected-latino-governor">Xavier Becerra makes history as California's first elected Latino governor</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-08-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/xavier-becerra-makes-history-as-californias-first-elected-latino-governor">Xavier Becerra makes history as California's first elected Latino governor</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-08-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/elections/100000011260134/democrats-outperform-in-three-states.html">Democrats Outperform in Three States</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-07-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/gop-rep-mike-lawler-concedes-to-cait-conley-in-hotly-contested-ny-house-race/">GOP Rep. Mike Lawler concedes to Cait Conley in hotly contested NY House race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-07-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/alabama-house-2-marques-figures.html">Shomari Figures Holds Redrawn Alabama House Seat for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-07-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/soliday-apparently-ousted-house-district-4/">Soliday apparently ousted in three-way House District 4 race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-06-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-election-comptroller-statewide-races/">Margaret Croke poised to be next Illinois comptroller as Democrats look to extend hold on statewide offices</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-06-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://missionlocal.org/2026/11/scott-wiener-campaign-bars-mission-local/">Scott Wiener relents after blowback, allows Mission Local into event</a>
+            <div class='byline small text-muted'>
+            missionlocal, 
+            <span class="datetime">2026-11-04-04-03-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/xavier-becerra-to-succeed-gavin-newsom-as-california-governor/">Democrat Xavier Becerra coasts to victory in California governor&#8217;s race after uninspiring campaign</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-03-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/xavier-becerra-to-succeed-gavin-newsom-as-california-governor/">Democrat Xavier Becerra coasts to victory in California governor&#8217;s race after uninspiring campaign</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-03-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/">James Talarico turns Texas blue with defeat of Republican Ken Paxton</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-01-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/">James Talarico turns Texas blue with defeat of Republican Ken Paxton</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-01-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/furious-trump-declares-gop-would-have-won-in-a-landslide-if-he-was-on-midterm-ballot/">Furious Trump declares GOP &#8216;would have won in a landslide&#8217; if he was on midterm ballot</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-57-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/furious-trump-declares-gop-would-have-won-in-a-landslide-if-he-was-on-midterm-ballot/">Furious Trump declares GOP &#8216;would have won in a landslide&#8217; if he was on midterm ballot</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-57-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/indiana-senate-district-1-6-races-close-as-election-night-continues/">Indiana Senate District 1, 6 races close as Election Night continues</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-56-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/andrews-graham-south-carolina-senate.html">Annie Andrews Defeats Darline Graham in South Carolina Senate Race</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-54-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/ohio-governor-acton-ramaswamy.html">Amy Acton, a Democrat, Defeats Republican Vivek Ramaswamy in Ohio Governor&#8217;s Race</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-52-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://missionlocal.org/2026/11/san-francisco-november-2026-election-results/">San Francisco election results: Live updates</a>
+            <div class='byline small text-muted'>
+            missionlocal, 
+            <span class="datetime">2026-11-04-03-51-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-11th-district-results/">Bill Foster wins re-election in Illinois 11th Congressional District</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-50-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/kevin-hagen-leads-in-race-for-center-township-trustee/">Kevin Hagen leads in race for Center Township Trustee</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-50-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/establishment-candidates-john-e-sununu-and-chris-pappas-pitch-change-in-new-hampshire-senate-race/601909158">Chris Pappas defeats John E. Sununu to keep New Hampshire US Senate seat in Democratic hands</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-03-47-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss">Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-46-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss">Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-46-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/south-suburban-term-limits-tax-increases/">Extended term limits, tax increase questions find support in south and southwest suburbs</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-45-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/new-mexico-governor-haaland-hull.html">Deb Haaland Is First Native American Woman to Be Elected Governor After New Mexico Win</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-44-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/christa-pike-battling-a-rare-form-of-cancer-attorneys-previously-warned-could-complicate-her-lethal-injection/">Christa Pike battling rare cancer attorneys previously warned could complicate her botched execution</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-44-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/how-minnesota-counts-vote/601902228">How the Minnesota Star Tribune reports election results</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-03-43-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/videos/cwly37l351neo?at_medium=RSS&at_campaign=rss">Sarah Smith on Democrats flipping the House of Representatives</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-40-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/incumbent-u-s-rep-frank-mrvan-leading-trump-backed-barb-regnitz/">Incumbent U.S. Rep. Frank Mrvan leading Trump-backed Barb Regnitz</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-40-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html">As Trump&#8217;s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-39-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html">As Trump&#8217;s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-39-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/ohio-governor-race-results/">Ohio governor race: Democrat Amy Acton defeats Trump-backed Republican Vivek Ramaswamy</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-37-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/weincken-smith-ahead-porter-county-coroner/">Julie Weincken-Smith ahead of Republican challenger for Porter County Coroner</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-36-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/gop-ny-ag-candidate-saritha-komatireddy-loses-against-dem-letitia-james/">GOP NY AG candidate Saritha Komatireddy loses spirited campaign against controversial Dem Letitia James</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-36-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss">Anthony Zurcher: Democrats push deep into Republican territory with historic wins</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-34-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss">Anthony Zurcher: Democrats push deep into Republican territory with historic wins</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-34-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/hoffenberg-mccaskill-lead-cook-county-board/">Democrats Elyse Hoffenberg, Kisha McCaskill lead in south suburban Cook County Board races</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-34-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html">Democrats Flip North Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html">Democrats Flip North Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/democrats-on-the-march-for-senate-control-after-brutal-gop-losses-in-battleground-states/">Dems take back Senate after notching historic wins in GOP heartlands in stunning upset for Trump</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-33-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/democrats-on-the-march-for-senate-control-after-brutal-gop-losses-in-battleground-states/">Dems take back Senate after notching historic wins in GOP heartlands in stunning upset for Trump</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-33-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/annie-andrews-south-carolina-what-to-know.html">5 Things to Know About South Carolina Democrat Annie Andrews</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-25-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss">South Carolina elects Democratic senator for first time in almost three decades</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-24-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss">South Carolina elects Democratic senator for first time in almost three decades</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-24-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/democrats-poised-to-gain-control-of-house-after-gop-shellacking/">Democrats poised to gain control of House after GOP shellacking</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-24-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/democrats-poised-to-gain-control-of-house-after-gop-shellacking/">Democrats poised to gain control of House after GOP shellacking</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-24-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/scott-wiener-poised-to-win-nancy-pelosis-former-house-seat/">Bombshell shift in race to replace Nancy Pelosi as new odds drop on Election Day</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-23-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/scott-wiener-poised-to-win-nancy-pelosis-former-house-seat/">Bombshell shift in race to replace Nancy Pelosi as new odds drop on Election Day</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-23-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/kentucky-house-6-alvarado-dembo.html">Zach Dembo, a Democrat, Defeats Ralph Alvarado in Republican-Leaning House Seat in Kentucky</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-21-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/porter-county-prosecutor-gary-germann-leads/">Porter County Prosecutor Gary Germann leads in early vote returns</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-19-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/count-slow-in-will-county-early-voting-results-favor-democrats/">Democrats leading in Will County countywide races</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-19-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/south-carolina-senate-race-results/">South Carolina Senate race: Democrat Annie Andrews wins election over Republican Darline Graham</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-14-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-incumbents-see-early-success-in-south-southwest-suburban-legislative-districts/">Illinois General Assembly incumbents see early success in south, southwest suburban legislative districts</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-08-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/democrat-annie-andrews-stuns-darline-graham-flips-south-carolina-senate-seat/">Democrat Annie Andrews stuns Darline Graham, flips South Carolina Senate seat</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-04-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/americas/once-a-haven-for-guerrillas-venezuela-now-helps-u-s-attack-them-0552b1b7?mod=rss_worldnews">Once a Haven for Guerrillas, Venezuela Now Helps U.S. Attack Them</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-04-03-02-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/ohio-senate-race-results/">Ohio Senate race: Sherrod Brown flips seat for Democrats by ousting Sen. Jon Husted</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-02-59-12 +0000</span></div>
             </li>
         
 
@@ -637,6 +1778,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-04-02-52-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/ossoff-georgia-senate-race.html">Jon Ossoff Wins Georgia Senate Race Against Mike Collins</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-02-51-03 +0000</span></div>
             </li>
         
 
@@ -647,21 +1795,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-8th-district-results/">Illinois 8th Congressional District: Melissa Bean wins seat, AP says</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-8th-district-results/">Illinois 8th Congressional District: Melissa Bean declares victory</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-02-50-48 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-keisha-bottoms-wins-historic-georgia-governors-race-to-flip-peach-state/">Dem Keisha Bottoms wins historic Georgia governor&#8217;s race to flip Peach State</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-49-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-keisha-bottoms-wins-historic-georgia-governors-race-to-flip-peach-state/">Dem Keisha Bottoms wins historic Georgia governor&#8217;s race to flip Peach State</a>
+            <li><a href="https://nypost.com/2026/11/03/us-news/dem-keisha-bottoms-wins-historic-georgia-governors-race-to-flip-peach-state/">Texas Gov. Greg Abbott loses in Dem tsunami &#8212; with Ohio and Georgia also flipping</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-04-02-49-39 +0000</span></div>
@@ -682,31 +1823,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html">Democrats Flip North Carolina Senate Seat</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-46-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html">Democrats Flip North Carolina Senate Seat</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-46-56 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/11/03/nwi-school-referendum-questions-leaning-yes-in-early-returns/">NWI school referendum questions leaning &#8216;yes&#8217; in early returns</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-02-44-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-rep-josh-riley-wins-upstate-ny-swing-seat-after-gop-abandons-peter-oberacker/">Dem Rep. Josh Riley cruises to 2nd term in upstate NY swing seat after GOP abandons challenger</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-43-17 +0000</span></div>
             </li>
         
 
@@ -752,24 +1872,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss">Democratic rising star Ossoff projected to hold Georgia seat</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-02-38-07 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.chicagotribune.com/2026/11/03/georgia-governor-race-results/">Georgia governor race: Democrat Keisha Lance Bottoms makes history as first Black woman elected to lead the state</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-02-35-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/the-2026-midterm-elections-live-analysis-and-commentary-ab41f522?mod=rss_usnews">Opinion | The 2026 Midterm Elections: Live Analysis and Commentary</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-02-35-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/roy-cooper-looks-to-flip-north-carolina-senate-seat-by-defeating-republican-michael-whatley/601908988">Democrat Roy Cooper wins North Carolina Senate seat, flipping a key GOP-held seat</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-32-03 +0000</span></div>
             </li>
         
 
@@ -780,10 +1893,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/teen-charged-in-deadly-spirit-halloween-shooting-in-fairfield/">Fairfield teen suspect identified in deadly Spirit Halloween mass shooting &#8212; as accused gunman faces heinous charges</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/kansas-senate-race-results/">Kansas Senate race: Pastor Adam Hamilton ousts GOP Sen. Roger Marshall in Democrats&#8217; first win in 94 years</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-30-33 +0000</span></div>
+            chitri, 
+            <span class="datetime">2026-11-04-02-30-54 +0000</span></div>
             </li>
         
 
@@ -801,38 +1914,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.startribune.com/a-referendum-on-trump-election-monitors-and-a-democratic-shift-what-to-watch-on-election-day/601909016">Election takeaways: Young voters move away from the GOP, many voters driven by opposition to Trump</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-22-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/establishment-candidates-john-e-sununu-and-chris-pappas-pitch-change-in-new-hampshire-senate-race/601909158">Chris Pappas defeats John E. Sununu to keep New Hampshire US Senate seat in Democratic hands</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-22-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/socialist-darializa-avila-chevalier-sails-to-victory-along-with-mamdanis-slate-of-lefty-house-candidates/">Socialist Darializa Avila Chevalier sails to victory along with Mamdani&#8217;s slate of lefty House candidates</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-19-53 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/us/florida-house-22-dandiya-askar.html">Democrat Pia Dandiya Wins Open Congressional Seat in Florida</a>
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-04-02-19-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/aoc-reelected-amid-mounting-speculation-over-2028-white-house-run/">AOC handily reelected to House amid mounting speculation over 2028 White House run</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-18-39 +0000</span></div>
             </li>
         
 
@@ -843,7 +1928,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/texas-senate-race-results/">Texas Senate race: Republicans&#8217; grip on seat is on the line in close race between Ken Paxton and James Talarico</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/texas-senate-race-results/">Texas Senate race: Democrat James Talarico beats Republican Ken Paxton, flipping seat for first time in 30 years</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-02-18-11 +0000</span></div>
@@ -864,20 +1949,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/mta-saw-record-high-subway-ridership-over-halloween-marathon-weekend-in-nyc/">MTA saw record-high ridership over Halloween, marathon weekend in NYC &#8212; but straphangers have complaints</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-13-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/sen-jon-ossoff-tries-to-hold-key-georgia-seat-for-democrats-against-republican-rep-mike-collins/601908983">Georgia Sen. Jon Ossoff wins reelection, defeating Rep. Mike Collins to hold a key Democratic seat</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-12-14 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss">Killer who escaped Tennessee prison captured after week-long manhunt</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -892,24 +1963,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/video/us/elections/100000011237440/gop-holds-florida.html">G.O.P. Holds Florida</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-08-34 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-a-few-key-areas-as-polls-close-in-maine-and-michigan">We&#8217;re watching a few key areas as polls close in Maine and Michigan.</a>
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-04-02-06-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/gov-hochul-defeats-gop-candidate-bruce-blakeman-will-face-pressure-to-cave-to-dsa-in-second-full-term/">New York Gov. Hochul defeats GOP candidate Bruce Blakeman, will face pressure to cave to DSA in second full term</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-06-47 +0000</span></div>
             </li>
         
 
@@ -941,20 +1998,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/videos/ckx2qzeqy5vyo?at_medium=RSS&at_campaign=rss">With results coming in, is it still too early to tell?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-04-02-01-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/live-minnesota-2026-elections/601901268">Live: Polls close in Minnesota amid reports of strong turnout</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-00-16 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/tech/cybersecurity/hackers-crank-the-heat-on-europes-supermarket-freezers-to-above-120-degrees-73597a8a?mod=rss_worldnews">Hackers Crank the Heat on Europe&#8217;s Supermarket Freezers to Above 120 Degrees</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -983,13 +2026,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/la-voters-sound-off-on-need-for-change-at-the-polls-on-election-day/">&#8216;We need change&#8217;: Voters deliver stark verdict on California&#8217;s political leadership</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-56-50 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html">Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -1064,27 +2100,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-04-01-44-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/indicted-nj-dem-lamonica-mciver-wins-re-election-bid-despite-ongoing-ice-case/">Indicted NJ Dem LaMonica McIver wins re-election bid despite ongoing ICE case</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-38-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/indicted-nj-dem-lamonica-mciver-wins-re-election-bid-despite-ongoing-ice-case/">Indicted NJ Dem LaMonica McIver wins re-election bid despite ongoing ICE case</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-38-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/ossoff-georgia-senate-race.html">Jon Ossoff Wins Georgia Senate Race Against Mike Collins</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-01-38-19 +0000</span></div>
             </li>
         
 
@@ -1095,20 +2110,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/karen-bass-rips-nithya-raman-after-viral-xavier-becerra-non-endorsement/">Karen Bass unleashes on Nithya Raman as awkward video emerges of mayor with Xavier Becerra</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-36-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/karen-bass-rips-nithya-raman-after-viral-xavier-becerra-non-endorsement/">Karen Bass unleashes on Nithya Raman as awkward video emerges of mayor with Xavier Becerra</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-36-19 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss">No more rice grains in Kellogg's Rice Krispies due to changing weather</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -1116,108 +2117,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/paul-pelosi-banned-from-driving-for-6-months-after-napa-valley-crash/">Paul Pelosi learns fate for Bay Area hit-and-run</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-34-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-roy-cooper-flips-north-carolina-senate-seat-beats-trump-pick-michael-whatley/">Dem Roy Cooper flips North Carolina Senate seat, beats Trump pick Michael Whatley</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-28-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-roy-cooper-flips-north-carolina-senate-seat-beats-trump-pick-michael-whatley/">Dem Roy Cooper flips North Carolina Senate seat, beats Trump pick Michael Whatley</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-28-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/la-animal-services-reunites-family-with-dog-lost-in-2019/">Heartwarming moment California family reunited with Corduroy the Cocker Spaniel 7 years after pup disappeared</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-26-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/chris-pappas-halts-sununu-comeback-in-new-hampshire-makes-senate-history/">Chris Pappas halts Sununu comeback in New Hampshire, will be first openly gay male senator in US history</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-21-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/chris-pappas-halts-sununu-comeback-in-new-hampshire-makes-senate-history/">Chris Pappas halts Sununu comeback in New Hampshire, will be first openly gay male senator in US history</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-21-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/kansas-senate-race-results/">Kansas Senate race: Democrats hope Adam Hamilton can harness Trump fatigue to oust Republican Sen. Roger Marshall</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-04-01-18-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/drunken-state-trooper-allegedly-broke-into-womans-boston-home-and-passed-out-in-her-bed-cops/">Drunken state trooper allegedly broke into woman&#8217;s Boston home and passed out in her bed: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-14-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/abdul-el-sayed-gets-into-heated-confrontation-with-british-reporter/">Abdul El-Sayed gets into heated confrontation with British reporter: &#8216;I do not care&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-14-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/abdul-el-sayed-gets-into-heated-confrontation-with-british-reporter/">Abdul El-Sayed gets into heated confrontation with British reporter: &#8216;I do not care&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-14-38 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/11/03/fox-valley-voters-have-their-say-on-election-day/">Fox Valley voters have their say on Election Day</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-13-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/live-minnesota-election-results-2026-midterm-governor-senate-house-legislature/601884984">Live Minnesota election results 2026</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-01-10-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/palisades-residents-support-karen-bass-even-after-2025-wildfire-disaster/">&#8216;Devil you know&#8217;: Palisades residents are voting Karen Bass for mayor</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-09-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/palisades-residents-support-karen-bass-even-after-2025-wildfire-disaster/">&#8216;Devil you know&#8217;: Palisades residents are voting Karen Bass for mayor</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-09-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/americans-who-voted-show-frustrations-with-trump-and-costs-1dcffe41?mod=rss_socialpoliticsfeed">Two years after handing Republicans control of Washington, voters in Tuesday&#8217;s election expressed displeasure over President Trump&#8217;s job performance while voicing angst about the cost of living and the nation&#8217;s overall direction</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-01-09-00 +0000</span></div>
             </li>
         
 
@@ -1245,32 +2148,25 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/03/us/politics/alaska-investigation-target-letters-democrats.html">Justice Dept. Sends Target Letters to Democrats in Escalation of Alaska Inquiry</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-04-01-03-49 +0000</span></div>
+            <span class="datetime">2026-11-04-01-03-50 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/alaska-investigation-target-letters-democrats.html">Justice Dept. Sends Target Letters to Democrats in Escalation of Alaska Inquiry</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-01-03-49 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/toni-preckwinkle-pat-hynes-cook-county/">In Cook County, Board President Toni Preckwinkle and Assessor nominee Pat Hynes lead in early results</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/toni-preckwinkle-pat-hynes-cook-county/">In Cook County, Board President Toni Preckwinkle and assessor nominee Pat Hynes win</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-01-58 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-election-governor-results/">Illinois governor race: Democrat JB Pritzker elected to third term</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-election-governor-results/">Democrat JB Pritzker elected to third term as Illinois governor: &#8216;Continue to hope&#8217;</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-01-17 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/chicago-school-board-president-election-results/">Polls close in first-ever race for Chicago&#8217;s school board president</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/chicago-school-board-president-election-results/">Biggs declares victory in race for school board president; opponents yet to concede</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-00-58 +0000</span></div>
@@ -1284,21 +2180,21 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-7th-district-results/">Voters usher in new era with state Rep. La Shawn Ford for 7th congressional district</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-7th-district-results/">Voters usher in new era with state Rep. La Shawn Ford for 7th Congressional District</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-00-20 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/chicago-school-board-election-results/">As polls close, Chicago school board races put CTU&#8217;s influence to the test</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/chicago-school-board-election-results/">As results trickle in, Chicago school board races put CTU to the test</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-00-07 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-general-assembly-election-results/">Illinois Democrats hope to add to General Assembly supermajorities, GOP targets few competitive races</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-general-assembly-election-results/">Jessica Dixon Heitman wins far southwest suburban Illinois House race</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-00-05 +0000</span></div>
@@ -1354,20 +2250,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main">Gold Edges Higher Amid Cooling Oil Prices</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-00-54-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/election-day-odds-shift-in-karen-bass-favor-in-la-mayors-race/">Dramatic shift in Election Day odds changes everything in LA mayor&#8217;s race as candidate surges</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-00-53-55 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html">Anthrax Outbreak in Africa&#8217;s Oldest National Park Is Killing Hippos</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -1379,20 +2261,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-04-00-48-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/democrat-jon-ossoff-easily-beats-memer-gop-rep-mike-collins-to-hold-georgia-senate-seat/">Democrat Jon Ossoff easily beats &#8216;memer&#8217; GOP Rep. Mike Collins to hold Georgia Senate seat</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-00-45-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/democrat-jon-ossoff-easily-beats-memer-gop-rep-mike-collins-to-hold-georgia-senate-seat/">Democrat Jon Ossoff easily beats &#8216;memer&#8217; GOP Rep. Mike Collins to hold Georgia Senate seat</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-00-45-04 +0000</span></div>
             </li>
         
 
@@ -1400,13 +2268,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-04-00-44-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/chris-murphy-stroke-hospitalization.html">Chris Murphy, Recovering From a Stroke, Remains Hospitalized on Election Day</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-00-41-18 +0000</span></div>
             </li>
         
 
@@ -1473,7 +2334,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/polls-closing-midterm-elections/">Democrats aim to take the Senate after wins in Georgia and North Carolina</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/polls-closing-midterm-elections/">Democrats win control of the US Senate, ending Republicans&#8217; dominance in Washington</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-00-19-05 +0000</span></div>
@@ -1491,13 +2352,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-04-00-10-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/hollywood-a-listers-hit-the-polls-for-la-mayoral-election-we-have-to-fight-for-her/">A-listers hit the polls for LA election, revealing their pick for mayor: &#8216;We have to fight for her&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-00-10-35 +0000</span></div>
             </li>
         
 
@@ -1578,13 +2432,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/tennessee-escaped-jacob-morley-captured.html">Fugitive Murder Convict Caught in Missouri After Escape From Tennessee Prison</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-23-55-25 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html">Key Part of Jet in Deadly Florida Crash Found Far From Impact Site</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -1596,13 +2443,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-03-23-45-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/enraged-senior-slaps-teenage-turning-point-action-volunteer-at-new-hampshire-polling-location/">Enraged senior slaps teenage Turning Point Action volunteer at New Hampshire polling location</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-43-39 +0000</span></div>
             </li>
         
 
@@ -1697,13 +2537,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/midterms-2026-elections-results-map-live-updates-on-house-senate-and-governor-races-across-us/">Midterms 2026 elections results map: Live updates on House, Senate and Governor races across US</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-18-22 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/03/business/popular-california-asian-supermarket-chain-closing-bay-area-store/">Popular Asian grocery chain to shutter California stores in sudden shake-up</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -1711,35 +2544,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/governor-race-winners-2026-all-the-results-across-36-elections/">Governor race winners 2026: All the results across 36 elections</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-06-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/senate-race-winners-2026-republicans-democrats-battle-for-control-of-upper-chamber/">Senate race winners 2026: Republicans, Democrats battle for control of upper chamber</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-06-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/house-of-representatives-race-winners-2026-results-from-pivotal-fight-for-435-seats-between-republicans-and-democrats/">House of Representatives race winners 2026:&#160;Results from pivotal fight for 435 seats between Republicans and Democrats</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-06-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/pollster-predicts-which-california-election-day-races-will-be-called-early/">Dem pollster dishes on which California election day races will be called early &#8212; and which may take days</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-04-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-wild-philadelphia-flyers-score-today-nhl-updates-bobby-brink-trade-jesper-wallstedt-stats/601904567">Live: Wild hold off Philadelphia rally for fifth road win in a row</a>
+            <li><a href="https://www.startribune.com/minnesota-wild-philadelphia-flyers-score-today-nhl-updates-bobby-brink-trade-jesper-wallstedt-stats/601904567">Wild hold off Flyers rally for fifth road win in a row</a>
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-11-03-23-04-41 +0000</span></div>
@@ -1813,20 +2618,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-22-51-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/voting-machine-issues-midterm-elections.html">Voting Machine Snags Reported at Polling Sites Lead to Election Conspiracy Theories</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-22-50-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/supreme-court-grapples-over-whether-colorado-can-exclude-religious-schools-from-pre-k-funding-for-opposing-gay-marriage/">Supreme Court grapples over whether Colorado can exclude religious schools from pre-K funding for opposing gay marriage</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-22-49-20 +0000</span></div>
             </li>
         
 
@@ -1956,13 +2747,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/election-day-turnout-battleground-states.html">Election Day Turnout Is High Across Battleground States</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-22-24-13 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-midterm-elections-2352f046?mod=rss_markets_main">WSJ Dollar Index Rises 0.23% to 97.22</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -2005,20 +2789,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/fbi-debunks-claims-of-fraudulent-texas-votes">The F.B.I. debunks claims of fraudulent Texas votes.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-22-13-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/elections/emanuel-cleaver-missouri-redistricting.html">With Redistricting on the Ballot, a Longtime Missouri Democrat Persists</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-22-10-05 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/world/middle-east/trump-says-u-s-plans-to-cut-off-aid-to-israel-by-end-of-the-year-0046c0ed?mod=rss_worldnews">Trump Says U.S. Plans to Cut Off Military Aid to Israel by End of Year</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -2033,7 +2803,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/world/livestory/us-midterm-election-results-live-updates-2026-9.7403367?cmp=rss">U.S. midterms: Democrats off to a strong start as they chase control of Congress</a>
+            <li><a href="https://www.cbc.ca/news/world/livestory/us-midterm-election-results-live-updates-2026-9.7403367?cmp=rss">U.S. midterms: Democrats take control of both chambers of Congress, major networks project</a>
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-11-03-22-05-56 +0000</span></div>
@@ -2051,13 +2821,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-22-03-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html">How Will the Midterms Play Out? These Races May Provide Early Clues.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-22-01-05 +0000</span></div>
             </li>
         
 
@@ -2106,14 +2869,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html">Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-21-52-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html">Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-21-52-37 +0000</span></div>
+            <span class="datetime">2026-11-03-21-52-38 +0000</span></div>
             </li>
         
 
@@ -2128,13 +2884,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-21-52-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/democrats-rise-in-polls-of-new-hampshire-and-minnesota">Democrats rise in polls of New Hampshire and Minnesota.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-21-51-04 +0000</span></div>
             </li>
         
 
@@ -2208,13 +2957,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/democrats-have-small-polling-leads-in-the-ohio-and-kansas-senate-races">Democrats have small polling leads in the Ohio and Kansas Senate races.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-21-34-03 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html">Why Trump Often Mentioned Iran in the Midterm Campaign</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -2268,13 +3010,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-21-21-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/third-party-spoilers-could-swing-several-close-races-this-year">Third-party spoilers could swing several close races this year.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-21-18-02 +0000</span></div>
             </li>
         
 
@@ -2358,14 +3093,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html">Afghan Woman Is Among Dozens to Be Deported to Afghanistan</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-20-57-48 +0000</span></div>
+            <span class="datetime">2026-11-03-20-57-49 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html">Afghan Woman Is Among Dozens to Be Deported to Afghanistan</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-20-57-48 +0000</span></div>
+            <span class="datetime">2026-11-03-20-57-49 +0000</span></div>
             </li>
         
 
@@ -2481,13 +3216,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/trump-administration-midterm-election-lawsuits.html">What Judges Have Said About the Trump Administration&#8217;s Election-Related Lawsuits</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-20-24-45 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html">Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -2565,13 +3293,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/meredith-jan-6-pardon-judge-threats.html">Pardoned Jan. 6 Defendant Is Accused of Threatening Federal Judges</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-19-55-57 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-as-markets-await-midterm-election-results-ddbae162?mod=rss_markets_main">Treasury, European Government Bond Yields Rise as Markets Await U.S. Midterm Election Results</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -2604,20 +3325,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-03-19-47-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/trump-venezuela-troop-agreement.html">Trump Pushes Venezuela for Agreement Allowing U.S. Troops to Stay</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-19-47-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/road-funding-met-council-scott-county-federal-transportation-dollars-commuters/601909193">Opinion | Why we in Scott County took issue with how the Met Council funds road projects</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-03-19-45-13 +0000</span></div>
             </li>
         
 
@@ -2667,13 +3374,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-03-19-23-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html">U.S. Military Strikes Iran&#8217;s Qeshm Island in What U.S. Officials Call a Defensive Measure</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-19-22-51 +0000</span></div>
             </li>
         
 
@@ -2730,20 +3430,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-03-19-09-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/11-senate-races-to-watch.html">Here Are the 11 Senate Races to Watch on Election Day</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-19-06-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/you-asked-us-anything-about-the-midterms-we-had-answers">You asked us anything about the midterms. We had answers.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-19-03-04 +0000</span></div>
             </li>
         
 
@@ -2908,13 +3594,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/from-a-billionaires-tax-to-abortion-rights-voters-will-decide-policy">From a billionaires tax to abortion rights, voters will decide policy.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-17-05-39 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html">How Broadcast, Cable and Late-Night Shows Plan to Cover the Midterm Elections</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -2961,13 +3640,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-16-55-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/trump-midterms-voters-election-day.html">Trump Makes Last Pitch to Voters on Election Day</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-16-53-19 +0000</span></div>
             </li>
         
 
@@ -3024,13 +3696,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-16-32-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/researchers-find-deceptive-bots-coordinating-chatter-in-major-races">Researchers find deceptive bots coordinating online chatter in several major races.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-16-24-25 +0000</span></div>
             </li>
         
 
@@ -3163,14 +3828,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html">A 31,000-Mile Walk Ends in England, at Mom&#8217;s House</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-15-50-45 +0000</span></div>
+            <span class="datetime">2026-11-03-15-50-46 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html">A 31,000-Mile Walk Ends in England, at Mom&#8217;s House</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-15-50-45 +0000</span></div>
+            <span class="datetime">2026-11-03-15-50-46 +0000</span></div>
             </li>
         
 
@@ -3310,14 +3975,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html">William Nordhaus Dies; Nobel Winner Influenced Climate Policy.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-15-02-20 +0000</span></div>
+            <span class="datetime">2026-11-03-15-02-21 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html">William Nordhaus Dies; Nobel Winner Influenced Climate Policy.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-15-02-20 +0000</span></div>
+            <span class="datetime">2026-11-03-15-02-21 +0000</span></div>
             </li>
         
 
@@ -3332,13 +3997,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-03-14-59-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/crowley-looks-to-make-history-in-wisconsin-governors-race-against-trump-ally-tiffany/601908979">Crowley looks to make history in Wisconsin governor's race against Trump ally Tiffany</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-03-14-57-02 +0000</span></div>
             </li>
         
 
@@ -3444,13 +4102,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-03-13-55-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss">Jet may have broken apart before Florida crash, officials say, as family named among victims</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-13-44-44 +0000</span></div>
             </li>
         
 
@@ -3643,13 +4294,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.startribune.com/how-minnesota-counts-vote/601902228">Everything you need to know about when Minnesota will see election results</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-03-12-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-03/one-eyed-dog-anchovy-jack-eludes-california-rescuers-for-weeks">One-eyed dog eludes California rescuers for weeks: 'Anchovy Jack can run fast, jump high'</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -3657,7 +4301,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://missionlocal.org/2026/11/san-francisco-november-election-2026-updates/">Election Day: Scott Wiener campaigns on home turf in Castro, Nancy Pelosi hits trail there too</a>
+            <li><a href="https://missionlocal.org/2026/11/san-francisco-november-election-2026-updates/">Election Day: Election watch parties in full swing as national results roll in, local votes drop soon</a>
             <div class='byline small text-muted'>
             missionlocal, 
             <span class="datetime">2026-11-03-12-00-00 +0000</span></div>
@@ -3776,13 +4420,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss">Apple unsure when it will get more foldable iPhones ahead of Christmas</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-11-10-37 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/11/03/leyden-senior-apartments/">Leyden Senior Apartments opens in Franklin Park with 80 units</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -3832,6 +4469,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds">Majority of California voters fear federal government may try to stop vote count, poll finds</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.latimes.com/politics/story/2026-11-03/house-senate-majority-midterms-races">Which races might predict a 'blue wave'? Here's what to watch</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -3846,13 +4490,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds">Majority of California voters fear federal government may try to stop vote count, poll finds</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges">L.A.'s next mayor faces high expectations, little room for error</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -3860,7 +4497,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election">Democrats dominate California but face challenges after election</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election">Becerra wins but faces a gauntlet of problems as California's next governor</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
@@ -3895,14 +4532,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds">Majority of California voters fear federal government may try to stop vote count, poll finds</a>
+            <li><a href="https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs">Utilities lobby for shield from wildfire costs</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs">Utilities lobby for shield from wildfire costs</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds">Majority of California voters fear federal government may try to stop vote count, poll finds</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
@@ -3916,14 +4553,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide">Your last-minute cheat sheet for voting in key Los Angeles elections</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election">Becerra wins but faces a gauntlet of problems as California's next governor</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election">Democrats dominate California but face challenges after election</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide">Your last-minute cheat sheet for voting in key Los Angeles elections</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
@@ -3944,38 +4581,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/videos/cqj346nndl0yo?at_medium=RSS&at_campaign=rss">Voter voices: Trump's influence on US midterm voters</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-10-55-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html">As Trump&#8217;s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-10-47-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html">As Trump&#8217;s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-10-47-18 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/03/business/macleods-pharma-usa-recalls-thousands-of-blood-pressure-medication-after-pills-fail-quality-test/">Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-03-10-37-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss">Three scenarios for how the US midterm results could unfold</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-10-32-56 +0000</span></div>
             </li>
         
 
@@ -4182,7 +4791,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main">Stock Market Today: Stock Futures Drop as Investors Weigh Potential Democratic Gains</a>
+            <li><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main">Stock Market News, Nov. 3, 2026: Stock Futures Drop as Investors Weigh Potential Democratic Gains</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-08-43-11 +0000</span></div>
@@ -4193,13 +4802,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-03-08-39-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss">North Korea denies being behind record $6.3bn Binance hack</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-08-33-20 +0000</span></div>
             </li>
         
 
@@ -4249,13 +4851,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-03-07-55-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss">Major test for Australia's social media ban begins in High Court</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-07-53-38 +0000</span></div>
             </li>
         
 
@@ -4333,55 +4928,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             missionlocal, 
             <span class="datetime">2026-11-03-05-06-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c3pwg91qjpq7o?at_medium=RSS&at_campaign=rss">Wage protests force hundreds of Bangladesh garment factories to close</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-03-59-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/02/us/politics/trump-elections-ballots-states-dhs.html">Judge Declines to Halt D.H.S. Demands for States to Screen Ballots</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-03-42-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss">Supreme Court rejects Trump's request to stop California counting disputed votes</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-03-32-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss">Man and boy arrested after allegedly attacking One Nation volunteer with bat</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-03-30-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html">North Korean Hackers Stole Billions, the F.B.I. Says. It&#8217;s Not Their First Heist.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-03-29-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html">North Korean Hackers Stole Billions, the F.B.I. Says. It&#8217;s Not Their First Heist.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-03-29-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/ukrainians-are-waging-an-invisible-fight-to-hold-their-shattered-lives-together-54183521?mod=rss_worldnews">Ukrainians Are Waging an Invisible Fight to Hold Their Shattered Lives Together</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-03-03-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -4391,10 +4937,906 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 7d</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/11/03/us-news/nj-rep-tom-kean-jr-loses-to-rebecca-bennett/">NJ Rep. Tom Kean Jr. loses to Rebecca Bennett after disappearing for nearly four months</a>
+            <li><a href="https://www.bbc.co.uk/news/videos/cr5ynex46j75o?at_medium=RSS&at_campaign=rss">What the Democratic takeover of the Senate means for Trump</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-04-53-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/crowley-looks-to-make-history-in-wisconsin-governors-race-against-trump-ally-tiffany/601908979">Democrat David Crowley defeats Trump loyalist to become Wisconsin's first Black governor</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-53-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/virginia-house-2-kiggans-luria.html">Luria Wins in Virginia, Flipping a Key House Seat for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-51-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrat-barbara-domer-in-lead-for-porter-county-clerk/">Democrat Barbara Domer in lead for Porter County Clerk</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-50-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/klobuchar-demuth-flanagan-tafoya-ellison-schutz-election-analysis/601909379">Star Tribune Opinion reacts to the 2026 midterm results</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-50-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/live-minnesota-2026-elections/601901268">Live: Minnesota results trickle in as Democrats win control of U.S. Senate</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-48-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/republicans-grip-on-texas-is-on-the-line-in-a-close-us-senate-race-between-paxton-talarico/601908995">Democrat James Talarico flips a US Senate seat in Texas and sends a shock through the GOP</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-48-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/midterm-elections-coming-to-a-close-as-voters-pass-judgment-on-trumps-second-term/601908991">Democrats win US Senate, ending Republican dominance by harnessing voters' frustration with Trump</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-48-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/josh-turek-dunks-gop-rep-ashley-hinson-to-give-democrats-senate-control/">Josh Turek dunks GOP Rep. Ashley Hinson to give Democrats Senate control</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-04-02-52-16 +0000</span></div>
+            <span class="datetime">2026-11-04-04-48-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/josh-turek-dunks-gop-rep-ashley-hinson-to-give-democrats-senate-control/">Josh Turek dunks GOP Rep. Ashley Hinson to give Democrats Senate control</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-48-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/rep-laura-gillen-wins-key-long-island-congressional-race-crucial-to-helping-decide-who-holds-onto-house/">Rep. Laura Gillen wins key Long Island congressional race crucial to helping decide who holds onto House</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-46-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/jen-wilson-holds-slim-lead-over-incumbent-pete-lindemulder-in-lake-council-race/">Jen Wilson holds slim lead over incumbent Pete Lindemulder in Lake Council race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/senate-election-control.html">Winning the Senate, Democrats Secure a Platform to Check Trump</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-45-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/senate-election-control.html">Winning the Senate, Democrats Secure a Platform to Check Trump</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-45-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html">Trump Says in Interview That He Will Accept Election Results</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-44-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/marissa-roy-john-mckinney-la-city-attorney-race-results">Marissa Roy surges to early lead over John McKinney in L.A. city attorney race</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-43-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrat-david-crowley-wisconsin-governor/">Democrat David Crowley defeats Trump loyalist to become Wisconsin&#8217;s first Black governor</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-43-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/dsa-contingent-in-congress-bolstered-after-socialists-pick-up-at-least-4-house-seats/">DSA bolsters Congress contingent after socialists pick up at least 4 House seats</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-43-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/dsa-contingent-in-congress-bolstered-after-socialists-pick-up-at-least-4-house-seats/">DSA bolsters Congress contingent after socialists pick up at least 4 House seats</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-43-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/iowa-senate-hinson-turek.html">Josh Turek Flips Iowa Senate Seat in a Major Victory for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-42-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/incoming-dem-oversight-chair-robert-garcia-to-white-house-lawyer-up/">Powerful Dem sends ominous threat to GOP after election disaster</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-42-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/incoming-dem-oversight-chair-robert-garcia-to-white-house-lawyer-up/">Powerful Dem sends ominous threat to GOP after election disaster</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-42-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/porter-county-council-party-makeup-remains/">Porter County Council party makeup to remain the same with new members</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-42-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/alligator-casually-strolls-into-bagel-shop-terrorizing-employees/">Alligator casually strolls into bagel shop, terrorizing employees: &#8216;Never in a million years&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-41-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss">Ecstatic scenes and historic moments: What's happened so far in the midterms</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-04-41-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/josh-turek-iowa/">Democrat Josh Turek wins election to US Senate from Iowa</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-40-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/la-county-sheriff-robert-luna-alex-villanueva-returns-measure-a">Sheriff Luna leads challenger Villanueva in early returns; Measure A ahead</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-40-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/la-county-sheriff-robert-luna-alex-villanueva-returns-measure-a">Sheriff Luna leads challenger Villanueva in early returns; Measure A ahead</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-40-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrats-dupage-county-board-races-election-winners/">Democrats leading in DuPage County Board election races</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-38-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/sen-jon-ossoff-tries-to-hold-key-georgia-seat-for-democrats-against-republican-rep-mike-collins/601908983">Georgia Sen. Jon Ossoff wins reelection, defeating Rep. Mike Collins to hold a key Democratic seat</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-38-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/roy-cooper-looks-to-flip-north-carolina-senate-seat-by-defeating-republican-michael-whatley/601908988">Democrat Roy Cooper wins North Carolina Senate seat, flipping a key GOP-held seat</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-38-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/americans-who-voted-show-frustrations-with-trump-and-costs-1dcffe41?mod=rss_socialpoliticsfeed">Two years after handing Republicans control of Washington, voters in Tuesday&#8217;s election expressed displeasure over President Trump&#8217;s job performance while voicing angst about the cost of living and the nation&#8217;s overall direction</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-04-04-38-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democratic-incumbents-hold-onto-congressional-seats-in-chicago-and-suburbs/">Democratic incumbents hold onto congressional seats in Chicago and suburbs</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-37-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/elections/100000011237565/texas-hispanic-voters.html">Texas&#8217; Hispanic Voters</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-36-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/democrat-jerry-williams-leads-republican-david-crane-in-lake-county-sheriff-race/">Democrat Jerry Williams leads Republican David Crane in Lake County sheriff race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-36-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/texas-governor-abbott-hinojosa.html">Gina Hinojosa Wins Texas Governor Race in Major Upset, Defeating Greg Abbott</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-35-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/exits-polls-show-karen-bass-holding-lead-in-los-angeles-mayoral-race/">Exit polls give Karen Bass edge over Nithya Raman as younger voters threaten to shake up LA mayor&#8217;s race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/exits-polls-show-karen-bass-holding-lead-in-los-angeles-mayoral-race/">Exit polls give Karen Bass edge over Nithya Raman as younger voters threaten to shake up LA mayor&#8217;s race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/the-2026-midterm-elections-live-analysis-and-commentary-ab41f522?mod=rss_usnews">Opinion | The 2026 Midterm Elections: Live Analysis and Commentary</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-04-04-34-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/lake-county-sheriff-treasurer/">Lake County Sheriff John Idleburg declares victory; Sandy Hart poised to win county treasurer race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-33-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/measure-to-raise-la-sales-taxes-by-half-cent-was-leading-in-early-returns">A measure to raise L.A.'s sales tax by a half-cent for firefighters leads in early returns</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/ny-democratic-rep-tom-suozzi-defeats-michael-lipetri-in-rematch/">Long Island Democratic Rep. Tom Suozzi defeats Trump-backed Michael LiPetri in rematch</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-31-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/ny-democratic-rep-tom-suozzi-defeats-michael-lipetri-in-rematch/">Long Island Democratic Rep. Tom Suozzi defeats Trump-backed Michael LiPetri in rematch</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-31-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/missouri-congressional-redistricting-referendum.html">Missouri Voters Reject Congressional Map Redrawn to Boost Republicans</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-31-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/barrera-leads-shaw-in-early-returns-for-state-superintendents-race">Barrera leads Shaw in early returns for state superintendent's race</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-31-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://48hills.org/2026/11/screen-grabs-arab-film-fest-blossoms-with-legendary-divas-and-political-intrigue/">Screen Grabs: Arab Film Fest blossoms with legendary divas and political intrigue</a>
+            <div class='byline small text-muted'>
+            48hills, 
+            <span class="datetime">2026-11-04-04-30-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/wisconsin-governor-crowley-tiffany.html">David Crowley, a Democrat, Will Be Wisconsin&#8217;s First Black Governor</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-30-33 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/kyle-nelson-takes-the-lead-in-porter-county-commissioner-race/">Kyle Nelson takes the lead in Porter County commissioner race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-30-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/">Adam Hamilton becomes first Democrat in 94 years to win Senate election in Kansas</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-29-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/adam-hamilton-beats-roger-marshall-to-become-first-democrat-in-94-years-to-win-senate-election-in-kansas/">Adam Hamilton becomes first Democrat in 94 years to win Senate election in Kansas</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-29-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/kansas-senate-marshall-hamilton.html">Democrat Wins a Kansas Senate Seat for the First Time Since 1932</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-29-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/city-council-candidates-react-as-initial-results-come-in">Ugarte takes early lead for South L.A. City Council seat. San Fernando Valley race too close to call</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-28-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/south-carolina-senate-race-gets-unexpectedly-close-after-lindsey-grahams-sister-darline-stumbles/601909003">Democrat Annie Andrews wins US Senate election in South Carolina over Republican Darline Graham</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-28-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/mayor-karen-bass-councilmember-nithya-raman-election-results">Mayor Karen Bass narrowly leads City Councilmember Nithya Raman in the L.A. mayor's race</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-27-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/missouri-abortion-ban.html">Missouri Voters Reject Republican Attempt to Restore Ban on Abortions</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-25-40 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/gina-hinojosa-texas-governor/">Democrat Gina Hinojosa elected Texas&#8217; first Latina governor, ousts Republican incumbent Greg Abbott</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-24-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/trump-allies-blame-iran-war-for-gops-devastating-midterm-losses/">Trump allies blame Iran war for GOP&#8217;s devastating midterm losses: &#8216;Hope Schumer calls Netanyahu and thanks him</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-22-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/trump-allies-blame-iran-war-for-gops-devastating-midterm-losses/">Trump allies blame Iran war for GOP&#8217;s devastating midterm losses: &#8216;Hope Schumer calls Netanyahu and thanks him</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-22-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/michelle-fischbach-wins-fourth-term/601904202">Fischbach wins re-election in Congressional District 7</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-04-21-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-election-district-214-referendum-results/">Voters backing District 214 tax hike, in first referendum in 55 years</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-18-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/iowa-governor-sand-lahn.html">Rob Sand Defeats Zach Lahn in Iowa Governor&#8217;s Race, Ending Republicans&#8217; Hold on the Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-18-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/elections/100000011237440/gop-holds-florida.html">G.O.P. Holds Florida</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-16-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main">Gold Stays Under Pressure as Buyers Await Midterms Clarity</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-04-04-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/ohio-senate-brown-husted.html">Sherrod Brown Regains an Ohio Senate Seat in Crucial Win for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-13-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/california-governor-becerra-hilton.html">Xavier Becerra Becomes California&#8217;s First Latino Elected as Governor, Defeating Steve Hilton</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-13-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html">Democrats Flip South Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-12-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html">Democrats Flip South Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-12-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/sherrod-brown-kicks-jon-husteds-great-a-in-ohio-senate-race/">Sherrod Brown kicks Jon Husted&#8217;s &#8216;great ass&#8217; in Ohio Senate race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-12-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/sherrod-brown-kicks-jon-husteds-great-a-in-ohio-senate-race/">Sherrod Brown kicks Jon Husted&#8217;s &#8216;great ass&#8217; in Ohio Senate race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-12-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/private-ambulance-driver-abandons-patient-takes-uber-home-she-said-shes-done-driving/">Private ambulance driver abandons patient, takes Uber home: &#8216;She said she&#8217;s done driving&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-12-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/texas-senate-talarico-paxton.html">Talarico Defeats Paxton in Texas Senate Race, Ending a Three-Decade Drought for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-10-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/elections/100000011259875/south-carolina-flips.html">Democrats Win South Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-10-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/paul-pelosi-crash-napa-valley-prohibited-driving.html">Paul Pelosi Prohibited From Driving After Crash in Napa Valley</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-09-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/xavier-becerra-makes-history-as-californias-first-elected-latino-governor">Xavier Becerra makes history as California's first elected Latino governor</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-08-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/xavier-becerra-makes-history-as-californias-first-elected-latino-governor">Xavier Becerra makes history as California's first elected Latino governor</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-04-04-08-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/elections/100000011260134/democrats-outperform-in-three-states.html">Democrats Outperform in Three States</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-07-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/gop-rep-mike-lawler-concedes-to-cait-conley-in-hotly-contested-ny-house-race/">GOP Rep. Mike Lawler concedes to Cait Conley in hotly contested NY House race</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-07-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/alabama-house-2-marques-figures.html">Shomari Figures Holds Redrawn Alabama House Seat for Democrats</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-04-07-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/soliday-apparently-ousted-house-district-4/">Soliday apparently ousted in three-way House District 4 race</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-06-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-election-comptroller-statewide-races/">Margaret Croke poised to be next Illinois comptroller as Democrats look to extend hold on statewide offices</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-04-06-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://missionlocal.org/2026/11/scott-wiener-campaign-bars-mission-local/">Scott Wiener relents after blowback, allows Mission Local into event</a>
+            <div class='byline small text-muted'>
+            missionlocal, 
+            <span class="datetime">2026-11-04-04-03-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/xavier-becerra-to-succeed-gavin-newsom-as-california-governor/">Democrat Xavier Becerra coasts to victory in California governor&#8217;s race after uninspiring campaign</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-03-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/xavier-becerra-to-succeed-gavin-newsom-as-california-governor/">Democrat Xavier Becerra coasts to victory in California governor&#8217;s race after uninspiring campaign</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-03-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/">James Talarico turns Texas blue with defeat of Republican Ken Paxton</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-01-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/james-talarico-turns-texas-blue-with-defeat-of-republican-ken-paxton/">James Talarico turns Texas blue with defeat of Republican Ken Paxton</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-04-01-43 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/furious-trump-declares-gop-would-have-won-in-a-landslide-if-he-was-on-midterm-ballot/">Furious Trump declares GOP &#8216;would have won in a landslide&#8217; if he was on midterm ballot</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-57-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/furious-trump-declares-gop-would-have-won-in-a-landslide-if-he-was-on-midterm-ballot/">Furious Trump declares GOP &#8216;would have won in a landslide&#8217; if he was on midterm ballot</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-57-52 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/indiana-senate-district-1-6-races-close-as-election-night-continues/">Indiana Senate District 1, 6 races close as Election Night continues</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-56-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/andrews-graham-south-carolina-senate.html">Annie Andrews Defeats Darline Graham in South Carolina Senate Race</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-54-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/ohio-governor-acton-ramaswamy.html">Amy Acton, a Democrat, Defeats Republican Vivek Ramaswamy in Ohio Governor&#8217;s Race</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-52-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://missionlocal.org/2026/11/san-francisco-november-2026-election-results/">San Francisco election results: Live updates</a>
+            <div class='byline small text-muted'>
+            missionlocal, 
+            <span class="datetime">2026-11-04-03-51-28 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-11th-district-results/">Bill Foster wins re-election in Illinois 11th Congressional District</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-50-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/kevin-hagen-leads-in-race-for-center-township-trustee/">Kevin Hagen leads in race for Center Township Trustee</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-50-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/establishment-candidates-john-e-sununu-and-chris-pappas-pitch-change-in-new-hampshire-senate-race/601909158">Chris Pappas defeats John E. Sununu to keep New Hampshire US Senate seat in Democratic hands</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-03-47-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss">Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-46-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss">Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-46-10 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/south-suburban-term-limits-tax-increases/">Extended term limits, tax increase questions find support in south and southwest suburbs</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-45-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/new-mexico-governor-haaland-hull.html">Deb Haaland Is First Native American Woman to Be Elected Governor After New Mexico Win</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-44-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/christa-pike-battling-a-rare-form-of-cancer-attorneys-previously-warned-could-complicate-her-lethal-injection/">Christa Pike battling rare cancer attorneys previously warned could complicate her botched execution</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-44-04 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/how-minnesota-counts-vote/601902228">How the Minnesota Star Tribune reports election results</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-04-03-43-29 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/videos/cwly37l351neo?at_medium=RSS&at_campaign=rss">Sarah Smith on Democrats flipping the House of Representatives</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-40-15 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/incumbent-u-s-rep-frank-mrvan-leading-trump-backed-barb-regnitz/">Incumbent U.S. Rep. Frank Mrvan leading Trump-backed Barb Regnitz</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-40-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html">As Trump&#8217;s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-39-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html">As Trump&#8217;s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-39-11 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/ohio-governor-race-results/">Ohio governor race: Democrat Amy Acton defeats Trump-backed Republican Vivek Ramaswamy</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-37-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/weincken-smith-ahead-porter-county-coroner/">Julie Weincken-Smith ahead of Republican challenger for Porter County Coroner</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-36-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/gop-ny-ag-candidate-saritha-komatireddy-loses-against-dem-letitia-james/">GOP NY AG candidate Saritha Komatireddy loses spirited campaign against controversial Dem Letitia James</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-36-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss">Anthony Zurcher: Democrats push deep into Republican territory with historic wins</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-34-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss">Anthony Zurcher: Democrats push deep into Republican territory with historic wins</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-34-58 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/hoffenberg-mccaskill-lead-cook-county-board/">Democrats Elyse Hoffenberg, Kisha McCaskill lead in south suburban Cook County Board races</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-34-19 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html">Democrats Flip North Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html">Democrats Flip North Carolina Senate Seat</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-34-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/democrats-on-the-march-for-senate-control-after-brutal-gop-losses-in-battleground-states/">Dems take back Senate after notching historic wins in GOP heartlands in stunning upset for Trump</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-33-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/democrats-on-the-march-for-senate-control-after-brutal-gop-losses-in-battleground-states/">Dems take back Senate after notching historic wins in GOP heartlands in stunning upset for Trump</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-33-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/annie-andrews-south-carolina-what-to-know.html">5 Things to Know About South Carolina Democrat Annie Andrews</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-25-14 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss">South Carolina elects Democratic senator for first time in almost three decades</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-24-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss">South Carolina elects Democratic senator for first time in almost three decades</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-03-24-34 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/democrats-poised-to-gain-control-of-house-after-gop-shellacking/">Democrats poised to gain control of House after GOP shellacking</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-24-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/democrats-poised-to-gain-control-of-house-after-gop-shellacking/">Democrats poised to gain control of House after GOP shellacking</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-24-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/scott-wiener-poised-to-win-nancy-pelosis-former-house-seat/">Bombshell shift in race to replace Nancy Pelosi as new odds drop on Election Day</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-23-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/scott-wiener-poised-to-win-nancy-pelosis-former-house-seat/">Bombshell shift in race to replace Nancy Pelosi as new odds drop on Election Day</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-23-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/kentucky-house-6-alvarado-dembo.html">Zach Dembo, a Democrat, Defeats Ralph Alvarado in Republican-Leaning House Seat in Kentucky</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-03-21-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/porter-county-prosecutor-gary-germann-leads/">Porter County Prosecutor Gary Germann leads in early vote returns</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-19-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/count-slow-in-will-county-early-voting-results-favor-democrats/">Democrats leading in Will County countywide races</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-19-24 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/south-carolina-senate-race-results/">South Carolina Senate race: Democrat Annie Andrews wins election over Republican Darline Graham</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-14-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-incumbents-see-early-success-in-south-southwest-suburban-legislative-districts/">Illinois General Assembly incumbents see early success in south, southwest suburban legislative districts</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-03-08-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/03/us-news/democrat-annie-andrews-stuns-darline-graham-flips-south-carolina-senate-seat/">Democrat Annie Andrews stuns Darline Graham, flips South Carolina Senate seat</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-04-03-04-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/americas/once-a-haven-for-guerrillas-venezuela-now-helps-u-s-attack-them-0552b1b7?mod=rss_worldnews">Once a Haven for Guerrillas, Venezuela Now Helps U.S. Attack Them</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-04-03-02-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/03/ohio-senate-race-results/">Ohio Senate race: Sherrod Brown flips seat for Democrats by ousting Sen. Jon Husted</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-04-02-59-12 +0000</span></div>
             </li>
         
 
@@ -4402,6 +5844,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-04-02-52-16 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/03/us/ossoff-georgia-senate-race.html">Jon Ossoff Wins Georgia Senate Race Against Mike Collins</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-04-02-51-03 +0000</span></div>
             </li>
         
 
@@ -4412,21 +5861,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-8th-district-results/">Illinois 8th Congressional District: Melissa Bean wins seat, AP says</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-8th-district-results/">Illinois 8th Congressional District: Melissa Bean declares victory</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-02-50-48 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-keisha-bottoms-wins-historic-georgia-governors-race-to-flip-peach-state/">Dem Keisha Bottoms wins historic Georgia governor&#8217;s race to flip Peach State</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-49-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-keisha-bottoms-wins-historic-georgia-governors-race-to-flip-peach-state/">Dem Keisha Bottoms wins historic Georgia governor&#8217;s race to flip Peach State</a>
+            <li><a href="https://nypost.com/2026/11/03/us-news/dem-keisha-bottoms-wins-historic-georgia-governors-race-to-flip-peach-state/">Texas Gov. Greg Abbott loses in Dem tsunami &#8212; with Ohio and Georgia also flipping</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-04-02-49-39 +0000</span></div>
@@ -4447,31 +5889,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html">Democrats Flip North Carolina Senate Seat</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-46-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html">Democrats Flip North Carolina Senate Seat</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-46-56 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/11/03/nwi-school-referendum-questions-leaning-yes-in-early-returns/">NWI school referendum questions leaning &#8216;yes&#8217; in early returns</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-02-44-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-rep-josh-riley-wins-upstate-ny-swing-seat-after-gop-abandons-peter-oberacker/">Dem Rep. Josh Riley cruises to 2nd term in upstate NY swing seat after GOP abandons challenger</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-43-17 +0000</span></div>
             </li>
         
 
@@ -4517,24 +5938,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss">Democratic rising star Ossoff projected to hold Georgia seat</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-04-02-38-07 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.chicagotribune.com/2026/11/03/georgia-governor-race-results/">Georgia governor race: Democrat Keisha Lance Bottoms makes history as first Black woman elected to lead the state</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-02-35-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/the-2026-midterm-elections-live-analysis-and-commentary-ab41f522?mod=rss_usnews">Opinion | The 2026 Midterm Elections: Live Analysis and Commentary</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-02-35-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/roy-cooper-looks-to-flip-north-carolina-senate-seat-by-defeating-republican-michael-whatley/601908988">Democrat Roy Cooper wins North Carolina Senate seat, flipping a key GOP-held seat</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-32-03 +0000</span></div>
             </li>
         
 
@@ -4545,10 +5959,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/teen-charged-in-deadly-spirit-halloween-shooting-in-fairfield/">Fairfield teen suspect identified in deadly Spirit Halloween mass shooting &#8212; as accused gunman faces heinous charges</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/kansas-senate-race-results/">Kansas Senate race: Pastor Adam Hamilton ousts GOP Sen. Roger Marshall in Democrats&#8217; first win in 94 years</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-30-33 +0000</span></div>
+            chitri, 
+            <span class="datetime">2026-11-04-02-30-54 +0000</span></div>
             </li>
         
 
@@ -4566,38 +5980,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.startribune.com/a-referendum-on-trump-election-monitors-and-a-democratic-shift-what-to-watch-on-election-day/601909016">Election takeaways: Young voters move away from the GOP, many voters driven by opposition to Trump</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-22-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/establishment-candidates-john-e-sununu-and-chris-pappas-pitch-change-in-new-hampshire-senate-race/601909158">Chris Pappas defeats John E. Sununu to keep New Hampshire US Senate seat in Democratic hands</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-22-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/socialist-darializa-avila-chevalier-sails-to-victory-along-with-mamdanis-slate-of-lefty-house-candidates/">Socialist Darializa Avila Chevalier sails to victory along with Mamdani&#8217;s slate of lefty House candidates</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-19-53 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/us/florida-house-22-dandiya-askar.html">Democrat Pia Dandiya Wins Open Congressional Seat in Florida</a>
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-04-02-19-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/aoc-reelected-amid-mounting-speculation-over-2028-white-house-run/">AOC handily reelected to House amid mounting speculation over 2028 White House run</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-18-39 +0000</span></div>
             </li>
         
 
@@ -4608,7 +5994,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/texas-senate-race-results/">Texas Senate race: Republicans&#8217; grip on seat is on the line in close race between Ken Paxton and James Talarico</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/texas-senate-race-results/">Texas Senate race: Democrat James Talarico beats Republican Ken Paxton, flipping seat for first time in 30 years</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-02-18-11 +0000</span></div>
@@ -4629,20 +6015,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/mta-saw-record-high-subway-ridership-over-halloween-marathon-weekend-in-nyc/">MTA saw record-high ridership over Halloween, marathon weekend in NYC &#8212; but straphangers have complaints</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-13-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/sen-jon-ossoff-tries-to-hold-key-georgia-seat-for-democrats-against-republican-rep-mike-collins/601908983">Georgia Sen. Jon Ossoff wins reelection, defeating Rep. Mike Collins to hold a key Democratic seat</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-12-14 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss">Killer who escaped Tennessee prison captured after week-long manhunt</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -4657,24 +6029,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/video/us/elections/100000011237440/gop-holds-florida.html">G.O.P. Holds Florida</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-02-08-34 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-a-few-key-areas-as-polls-close-in-maine-and-michigan">We&#8217;re watching a few key areas as polls close in Maine and Michigan.</a>
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-04-02-06-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/gov-hochul-defeats-gop-candidate-bruce-blakeman-will-face-pressure-to-cave-to-dsa-in-second-full-term/">New York Gov. Hochul defeats GOP candidate Bruce Blakeman, will face pressure to cave to DSA in second full term</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-02-06-47 +0000</span></div>
             </li>
         
 
@@ -4706,20 +6064,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/videos/ckx2qzeqy5vyo?at_medium=RSS&at_campaign=rss">With results coming in, is it still too early to tell?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-04-02-01-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/live-minnesota-2026-elections/601901268">Live: Polls close in Minnesota amid reports of strong turnout</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-02-00-16 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/tech/cybersecurity/hackers-crank-the-heat-on-europes-supermarket-freezers-to-above-120-degrees-73597a8a?mod=rss_worldnews">Hackers Crank the Heat on Europe&#8217;s Supermarket Freezers to Above 120 Degrees</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -4748,13 +6092,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/la-voters-sound-off-on-need-for-change-at-the-polls-on-election-day/">&#8216;We need change&#8217;: Voters deliver stark verdict on California&#8217;s political leadership</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-56-50 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html">Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -4829,27 +6166,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-04-01-44-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/indicted-nj-dem-lamonica-mciver-wins-re-election-bid-despite-ongoing-ice-case/">Indicted NJ Dem LaMonica McIver wins re-election bid despite ongoing ICE case</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-38-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/indicted-nj-dem-lamonica-mciver-wins-re-election-bid-despite-ongoing-ice-case/">Indicted NJ Dem LaMonica McIver wins re-election bid despite ongoing ICE case</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-38-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/ossoff-georgia-senate-race.html">Jon Ossoff Wins Georgia Senate Race Against Mike Collins</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-01-38-19 +0000</span></div>
             </li>
         
 
@@ -4860,20 +6176,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/karen-bass-rips-nithya-raman-after-viral-xavier-becerra-non-endorsement/">Karen Bass unleashes on Nithya Raman as awkward video emerges of mayor with Xavier Becerra</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-36-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/karen-bass-rips-nithya-raman-after-viral-xavier-becerra-non-endorsement/">Karen Bass unleashes on Nithya Raman as awkward video emerges of mayor with Xavier Becerra</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-36-19 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss">No more rice grains in Kellogg's Rice Krispies due to changing weather</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -4881,108 +6183,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/paul-pelosi-banned-from-driving-for-6-months-after-napa-valley-crash/">Paul Pelosi learns fate for Bay Area hit-and-run</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-34-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-roy-cooper-flips-north-carolina-senate-seat-beats-trump-pick-michael-whatley/">Dem Roy Cooper flips North Carolina Senate seat, beats Trump pick Michael Whatley</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-28-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/dem-roy-cooper-flips-north-carolina-senate-seat-beats-trump-pick-michael-whatley/">Dem Roy Cooper flips North Carolina Senate seat, beats Trump pick Michael Whatley</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-28-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/la-animal-services-reunites-family-with-dog-lost-in-2019/">Heartwarming moment California family reunited with Corduroy the Cocker Spaniel 7 years after pup disappeared</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-26-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/chris-pappas-halts-sununu-comeback-in-new-hampshire-makes-senate-history/">Chris Pappas halts Sununu comeback in New Hampshire, will be first openly gay male senator in US history</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-21-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/chris-pappas-halts-sununu-comeback-in-new-hampshire-makes-senate-history/">Chris Pappas halts Sununu comeback in New Hampshire, will be first openly gay male senator in US history</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-21-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/kansas-senate-race-results/">Kansas Senate race: Democrats hope Adam Hamilton can harness Trump fatigue to oust Republican Sen. Roger Marshall</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-04-01-18-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/drunken-state-trooper-allegedly-broke-into-womans-boston-home-and-passed-out-in-her-bed-cops/">Drunken state trooper allegedly broke into woman&#8217;s Boston home and passed out in her bed: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-14-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/abdul-el-sayed-gets-into-heated-confrontation-with-british-reporter/">Abdul El-Sayed gets into heated confrontation with British reporter: &#8216;I do not care&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-14-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/abdul-el-sayed-gets-into-heated-confrontation-with-british-reporter/">Abdul El-Sayed gets into heated confrontation with British reporter: &#8216;I do not care&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-14-38 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/11/03/fox-valley-voters-have-their-say-on-election-day/">Fox Valley voters have their say on Election Day</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-13-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/live-minnesota-election-results-2026-midterm-governor-senate-house-legislature/601884984">Live Minnesota election results 2026</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-04-01-10-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/palisades-residents-support-karen-bass-even-after-2025-wildfire-disaster/">&#8216;Devil you know&#8217;: Palisades residents are voting Karen Bass for mayor</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-09-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/palisades-residents-support-karen-bass-even-after-2025-wildfire-disaster/">&#8216;Devil you know&#8217;: Palisades residents are voting Karen Bass for mayor</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-01-09-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/americans-who-voted-show-frustrations-with-trump-and-costs-1dcffe41?mod=rss_socialpoliticsfeed">Two years after handing Republicans control of Washington, voters in Tuesday&#8217;s election expressed displeasure over President Trump&#8217;s job performance while voicing angst about the cost of living and the nation&#8217;s overall direction</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-01-09-00 +0000</span></div>
             </li>
         
 
@@ -5010,32 +6214,25 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/03/us/politics/alaska-investigation-target-letters-democrats.html">Justice Dept. Sends Target Letters to Democrats in Escalation of Alaska Inquiry</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-04-01-03-49 +0000</span></div>
+            <span class="datetime">2026-11-04-01-03-50 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/alaska-investigation-target-letters-democrats.html">Justice Dept. Sends Target Letters to Democrats in Escalation of Alaska Inquiry</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-01-03-49 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/03/toni-preckwinkle-pat-hynes-cook-county/">In Cook County, Board President Toni Preckwinkle and Assessor nominee Pat Hynes lead in early results</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/toni-preckwinkle-pat-hynes-cook-county/">In Cook County, Board President Toni Preckwinkle and assessor nominee Pat Hynes win</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-01-58 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-election-governor-results/">Illinois governor race: Democrat JB Pritzker elected to third term</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-election-governor-results/">Democrat JB Pritzker elected to third term as Illinois governor: &#8216;Continue to hope&#8217;</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-01-17 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/chicago-school-board-president-election-results/">Polls close in first-ever race for Chicago&#8217;s school board president</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/chicago-school-board-president-election-results/">Biggs declares victory in race for school board president; opponents yet to concede</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-00-58 +0000</span></div>
@@ -5049,21 +6246,21 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-7th-district-results/">Voters usher in new era with state Rep. La Shawn Ford for 7th congressional district</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-7th-district-results/">Voters usher in new era with state Rep. La Shawn Ford for 7th Congressional District</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-00-20 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/chicago-school-board-election-results/">As polls close, Chicago school board races put CTU&#8217;s influence to the test</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/chicago-school-board-election-results/">As results trickle in, Chicago school board races put CTU to the test</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-00-07 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-general-assembly-election-results/">Illinois Democrats hope to add to General Assembly supermajorities, GOP targets few competitive races</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/illinois-general-assembly-election-results/">Jessica Dixon Heitman wins far southwest suburban Illinois House race</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-01-00-05 +0000</span></div>
@@ -5119,20 +6316,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main">Gold Edges Higher Amid Cooling Oil Prices</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-04-00-54-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/election-day-odds-shift-in-karen-bass-favor-in-la-mayors-race/">Dramatic shift in Election Day odds changes everything in LA mayor&#8217;s race as candidate surges</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-00-53-55 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html">Anthrax Outbreak in Africa&#8217;s Oldest National Park Is Killing Hippos</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -5144,20 +6327,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-04-00-48-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/democrat-jon-ossoff-easily-beats-memer-gop-rep-mike-collins-to-hold-georgia-senate-seat/">Democrat Jon Ossoff easily beats &#8216;memer&#8217; GOP Rep. Mike Collins to hold Georgia Senate seat</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-00-45-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/democrat-jon-ossoff-easily-beats-memer-gop-rep-mike-collins-to-hold-georgia-senate-seat/">Democrat Jon Ossoff easily beats &#8216;memer&#8217; GOP Rep. Mike Collins to hold Georgia Senate seat</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-00-45-04 +0000</span></div>
             </li>
         
 
@@ -5165,13 +6334,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-04-00-44-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/chris-murphy-stroke-hospitalization.html">Chris Murphy, Recovering From a Stroke, Remains Hospitalized on Election Day</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-00-41-18 +0000</span></div>
             </li>
         
 
@@ -5238,7 +6400,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/03/polls-closing-midterm-elections/">Democrats aim to take the Senate after wins in Georgia and North Carolina</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/03/polls-closing-midterm-elections/">Democrats win control of the US Senate, ending Republicans&#8217; dominance in Washington</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-00-19-05 +0000</span></div>
@@ -5256,13 +6418,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-04-00-10-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/hollywood-a-listers-hit-the-polls-for-la-mayoral-election-we-have-to-fight-for-her/">A-listers hit the polls for LA election, revealing their pick for mayor: &#8216;We have to fight for her&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-04-00-10-35 +0000</span></div>
             </li>
         
 
@@ -5343,13 +6498,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/tennessee-escaped-jacob-morley-captured.html">Fugitive Murder Convict Caught in Missouri After Escape From Tennessee Prison</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-23-55-25 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/us/florida-plane-crash-wreckage-recovered.html">Key Part of Jet in Deadly Florida Crash Found Far From Impact Site</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -5361,13 +6509,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-03-23-45-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/enraged-senior-slaps-teenage-turning-point-action-volunteer-at-new-hampshire-polling-location/">Enraged senior slaps teenage Turning Point Action volunteer at New Hampshire polling location</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-43-39 +0000</span></div>
             </li>
         
 
@@ -5462,13 +6603,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/midterms-2026-elections-results-map-live-updates-on-house-senate-and-governor-races-across-us/">Midterms 2026 elections results map: Live updates on House, Senate and Governor races across US</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-18-22 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/03/business/popular-california-asian-supermarket-chain-closing-bay-area-store/">Popular Asian grocery chain to shutter California stores in sudden shake-up</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -5476,35 +6610,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/03/us-news/governor-race-winners-2026-all-the-results-across-36-elections/">Governor race winners 2026: All the results across 36 elections</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-06-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/senate-race-winners-2026-republicans-democrats-battle-for-control-of-upper-chamber/">Senate race winners 2026: Republicans, Democrats battle for control of upper chamber</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-06-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/house-of-representatives-race-winners-2026-results-from-pivotal-fight-for-435-seats-between-republicans-and-democrats/">House of Representatives race winners 2026:&#160;Results from pivotal fight for 435 seats between Republicans and Democrats</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-06-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/pollster-predicts-which-california-election-day-races-will-be-called-early/">Dem pollster dishes on which California election day races will be called early &#8212; and which may take days</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-23-04-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-wild-philadelphia-flyers-score-today-nhl-updates-bobby-brink-trade-jesper-wallstedt-stats/601904567">Live: Wild hold off Philadelphia rally for fifth road win in a row</a>
+            <li><a href="https://www.startribune.com/minnesota-wild-philadelphia-flyers-score-today-nhl-updates-bobby-brink-trade-jesper-wallstedt-stats/601904567">Wild hold off Flyers rally for fifth road win in a row</a>
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-11-03-23-04-41 +0000</span></div>
@@ -5578,20 +6684,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-22-51-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/voting-machine-issues-midterm-elections.html">Voting Machine Snags Reported at Polling Sites Lead to Election Conspiracy Theories</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-22-50-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/03/us-news/supreme-court-grapples-over-whether-colorado-can-exclude-religious-schools-from-pre-k-funding-for-opposing-gay-marriage/">Supreme Court grapples over whether Colorado can exclude religious schools from pre-K funding for opposing gay marriage</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-03-22-49-20 +0000</span></div>
             </li>
         
 
@@ -5721,13 +6813,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/election-day-turnout-battleground-states.html">Election Day Turnout Is High Across Battleground States</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-22-24-13 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-midterm-elections-2352f046?mod=rss_markets_main">WSJ Dollar Index Rises 0.23% to 97.22</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -5770,20 +6855,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/fbi-debunks-claims-of-fraudulent-texas-votes">The F.B.I. debunks claims of fraudulent Texas votes.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-22-13-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/elections/emanuel-cleaver-missouri-redistricting.html">With Redistricting on the Ballot, a Longtime Missouri Democrat Persists</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-22-10-05 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/world/middle-east/trump-says-u-s-plans-to-cut-off-aid-to-israel-by-end-of-the-year-0046c0ed?mod=rss_worldnews">Trump Says U.S. Plans to Cut Off Military Aid to Israel by End of Year</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -5798,7 +6869,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/world/livestory/us-midterm-election-results-live-updates-2026-9.7403367?cmp=rss">U.S. midterms: Democrats off to a strong start as they chase control of Congress</a>
+            <li><a href="https://www.cbc.ca/news/world/livestory/us-midterm-election-results-live-updates-2026-9.7403367?cmp=rss">U.S. midterms: Democrats take control of both chambers of Congress, major networks project</a>
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-11-03-22-05-56 +0000</span></div>
@@ -5816,13 +6887,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-22-03-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html">How Will the Midterms Play Out? These Races May Provide Early Clues.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-22-01-05 +0000</span></div>
             </li>
         
 
@@ -5871,14 +6935,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html">Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-21-52-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html">Trump Says U.S. to End $4 Billion in Aid to Israel at End of Year</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-21-52-37 +0000</span></div>
+            <span class="datetime">2026-11-03-21-52-38 +0000</span></div>
             </li>
         
 
@@ -5893,13 +6950,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-21-52-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/democrats-rise-in-polls-of-new-hampshire-and-minnesota">Democrats rise in polls of New Hampshire and Minnesota.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-21-51-04 +0000</span></div>
             </li>
         
 
@@ -5973,13 +7023,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/democrats-have-small-polling-leads-in-the-ohio-and-kansas-senate-races">Democrats have small polling leads in the Ohio and Kansas Senate races.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-21-34-03 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html">Why Trump Often Mentioned Iran in the Midterm Campaign</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -6033,13 +7076,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-21-21-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/third-party-spoilers-could-swing-several-close-races-this-year">Third-party spoilers could swing several close races this year.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-21-18-02 +0000</span></div>
             </li>
         
 
@@ -6123,14 +7159,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html">Afghan Woman Is Among Dozens to Be Deported to Afghanistan</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-20-57-48 +0000</span></div>
+            <span class="datetime">2026-11-03-20-57-49 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html">Afghan Woman Is Among Dozens to Be Deported to Afghanistan</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-20-57-48 +0000</span></div>
+            <span class="datetime">2026-11-03-20-57-49 +0000</span></div>
             </li>
         
 
@@ -6246,13 +7282,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/trump-administration-midterm-election-lawsuits.html">What Judges Have Said About the Trump Administration&#8217;s Election-Related Lawsuits</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-20-24-45 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html">Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -6330,13 +7359,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/03/us/meredith-jan-6-pardon-judge-threats.html">Pardoned Jan. 6 Defendant Is Accused of Threatening Federal Judges</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-19-55-57 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-as-markets-await-midterm-election-results-ddbae162?mod=rss_markets_main">Treasury, European Government Bond Yields Rise as Markets Await U.S. Midterm Election Results</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -6369,20 +7391,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-03-19-47-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/politics/trump-venezuela-troop-agreement.html">Trump Pushes Venezuela for Agreement Allowing U.S. Troops to Stay</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-19-47-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/road-funding-met-council-scott-county-federal-transportation-dollars-commuters/601909193">Opinion | Why we in Scott County took issue with how the Met Council funds road projects</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-03-19-45-13 +0000</span></div>
             </li>
         
 
@@ -6432,13 +7440,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-03-19-23-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/02/us/politics/us-military-strikes-iran-qeshm-island.html">U.S. Military Strikes Iran&#8217;s Qeshm Island in What U.S. Officials Call a Defensive Measure</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-19-22-51 +0000</span></div>
             </li>
         
 
@@ -6495,20 +7496,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-03-19-09-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/11-senate-races-to-watch.html">Here Are the 11 Senate Races to Watch on Election Day</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-19-06-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/you-asked-us-anything-about-the-midterms-we-had-answers">You asked us anything about the midterms. We had answers.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-19-03-04 +0000</span></div>
             </li>
         
 
@@ -6673,13 +7660,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/from-a-billionaires-tax-to-abortion-rights-voters-will-decide-policy">From a billionaires tax to abortion rights, voters will decide policy.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-17-05-39 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html">How Broadcast, Cable and Late-Night Shows Plan to Cover the Midterm Elections</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -6726,13 +7706,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-16-55-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/us/trump-midterms-voters-election-day.html">Trump Makes Last Pitch to Voters on Election Day</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-16-53-19 +0000</span></div>
             </li>
         
 
@@ -6789,13 +7762,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-16-32-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/researchers-find-deceptive-bots-coordinating-chatter-in-major-races">Researchers find deceptive bots coordinating online chatter in several major races.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-16-24-25 +0000</span></div>
             </li>
         
 
@@ -6928,14 +7894,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html">A 31,000-Mile Walk Ends in England, at Mom&#8217;s House</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-15-50-45 +0000</span></div>
+            <span class="datetime">2026-11-03-15-50-46 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html">A 31,000-Mile Walk Ends in England, at Mom&#8217;s House</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-15-50-45 +0000</span></div>
+            <span class="datetime">2026-11-03-15-50-46 +0000</span></div>
             </li>
         
 
@@ -7075,14 +8041,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html">William Nordhaus Dies; Nobel Winner Influenced Climate Policy.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-15-02-20 +0000</span></div>
+            <span class="datetime">2026-11-03-15-02-21 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html">William Nordhaus Dies; Nobel Winner Influenced Climate Policy.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-03-15-02-20 +0000</span></div>
+            <span class="datetime">2026-11-03-15-02-21 +0000</span></div>
             </li>
         
 
@@ -7097,13 +8063,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-03-14-59-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/crowley-looks-to-make-history-in-wisconsin-governors-race-against-trump-ally-tiffany/601908979">Crowley looks to make history in Wisconsin governor's race against Trump ally Tiffany</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-03-14-57-02 +0000</span></div>
             </li>
         
 
@@ -7209,13 +8168,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-03-13-55-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss">Jet may have broken apart before Florida crash, officials say, as family named among victims</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-13-44-44 +0000</span></div>
             </li>
         
 
@@ -7408,13 +8360,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.startribune.com/how-minnesota-counts-vote/601902228">Everything you need to know about when Minnesota will see election results</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-03-12-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-03/one-eyed-dog-anchovy-jack-eludes-california-rescuers-for-weeks">One-eyed dog eludes California rescuers for weeks: 'Anchovy Jack can run fast, jump high'</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -7422,7 +8367,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://missionlocal.org/2026/11/san-francisco-november-election-2026-updates/">Election Day: Scott Wiener campaigns on home turf in Castro, Nancy Pelosi hits trail there too</a>
+            <li><a href="https://missionlocal.org/2026/11/san-francisco-november-election-2026-updates/">Election Day: Election watch parties in full swing as national results roll in, local votes drop soon</a>
             <div class='byline small text-muted'>
             missionlocal, 
             <span class="datetime">2026-11-03-12-00-00 +0000</span></div>
@@ -7541,13 +8486,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss">Apple unsure when it will get more foldable iPhones ahead of Christmas</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-11-10-37 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/11/03/leyden-senior-apartments/">Leyden Senior Apartments opens in Franklin Park with 80 units</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -7597,6 +8535,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds">Majority of California voters fear federal government may try to stop vote count, poll finds</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.latimes.com/politics/story/2026-11-03/house-senate-majority-midterms-races">Which races might predict a 'blue wave'? Here's what to watch</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -7611,13 +8556,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds">Majority of California voters fear federal government may try to stop vote count, poll finds</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges">L.A.'s next mayor faces high expectations, little room for error</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -7625,7 +8563,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election">Democrats dominate California but face challenges after election</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election">Becerra wins but faces a gauntlet of problems as California's next governor</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
@@ -7660,14 +8598,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds">Majority of California voters fear federal government may try to stop vote count, poll finds</a>
+            <li><a href="https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs">Utilities lobby for shield from wildfire costs</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs">Utilities lobby for shield from wildfire costs</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds">Majority of California voters fear federal government may try to stop vote count, poll finds</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
@@ -7681,14 +8619,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide">Your last-minute cheat sheet for voting in key Los Angeles elections</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election">Becerra wins but faces a gauntlet of problems as California's next governor</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election">Democrats dominate California but face challenges after election</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide">Your last-minute cheat sheet for voting in key Los Angeles elections</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
@@ -7709,38 +8647,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/videos/cqj346nndl0yo?at_medium=RSS&at_campaign=rss">Voter voices: Trump's influence on US midterm voters</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-10-55-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html">As Trump&#8217;s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-10-47-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html">As Trump&#8217;s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-10-47-18 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/03/business/macleods-pharma-usa-recalls-thousands-of-blood-pressure-medication-after-pills-fail-quality-test/">Thousands of blood pressure medication bottles recalled nationwide after pills fail quality test</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-03-10-37-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss">Three scenarios for how the US midterm results could unfold</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-10-32-56 +0000</span></div>
             </li>
         
 
@@ -7947,7 +8857,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main">Stock Market Today: Stock Futures Drop as Investors Weigh Potential Democratic Gains</a>
+            <li><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main">Stock Market News, Nov. 3, 2026: Stock Futures Drop as Investors Weigh Potential Democratic Gains</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-03-08-43-11 +0000</span></div>
@@ -7958,13 +8868,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-03-08-39-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss">North Korea denies being behind record $6.3bn Binance hack</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-08-33-20 +0000</span></div>
             </li>
         
 
@@ -8014,13 +8917,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-03-07-55-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss">Major test for Australia's social media ban begins in High Court</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-03-07-53-38 +0000</span></div>
             </li>
         
 
@@ -8105,13 +9001,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-03-03-59-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/02/us/politics/trump-elections-ballots-states-dhs.html">Judge Declines to Halt D.H.S. Demands for States to Screen Ballots</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-03-03-42-30 +0000</span></div>
             </li>
         
 
@@ -8486,6 +9375,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=rss_worldnews">U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-02-22-44-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=pls_whats_news_us_business_f">U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -8798,13 +9694,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-02-20-30-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cm0ld50jxzz7o?at_medium=RSS&at_campaign=rss">Three years before crash, young co-pilot spoke of earning pilot licence</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-02-20-18-47 +0000</span></div>
             </li>
         
 
@@ -9151,13 +10040,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss">Fighting returns to Kherson region after longest Ukraine war ceasefire</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-02-17-33-19 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss">Dutch police offer record &#8364;2m reward in hunt for drug lord</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -9445,13 +10327,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/world/cyberattacks-hit-ukraines-and-russias-emergency-alert-apps-e2d01065?mod=rss_worldnews">Cyberattacks Hit Ukraine&#8217;s and Russia&#8217;s Emergency-Alert Apps</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-02-12-49-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/pro/cybersecurity/binance-heist-welcome-to-our-world-cisos-say-1b40a4e7?mod=rss_markets_main">Binance Heist: &#8216;Welcome to Our World,&#8217; CISOs Say</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -9592,14 +10467,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-11-02/campaign-season-of-surprises-peaks-with-tuesdays-midterms">A campaign season of surprises peaks with Tuesday's midterms</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-02/2026-california-general-election-same-day-registration-last-minute-voter-guide">Didn't register to vote? Here's how you still can cast a ballot</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-02-11-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-02/2026-california-general-election-same-day-registration-last-minute-voter-guide">Didn't register to vote? Here's how you still can cast a ballot</a>
+            <li><a href="https://www.latimes.com/politics/story/2026-11-02/campaign-season-of-surprises-peaks-with-tuesdays-midterms">A campaign season of surprises peaks with Tuesday's midterms</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-02-11-00-00 +0000</span></div>
@@ -9869,13 +10744,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-02-00-27-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss">Democrats have high hopes for midterms - but are the polls right?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-02-00-25-12 +0000</span></div>
             </li>
         
 
@@ -10747,7 +11615,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-state-schools-superintendent-community-college-last-minute-voter-guide">Your last-minute guide to education-related ballot measures</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race">Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
@@ -10768,7 +11636,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/lopez-column-karen-bass-nithya-raman-supporters-la-mayor-race">Lopez: No undecideds here: Why Bass backers are on board, and Raman fans are fired up</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-state-schools-superintendent-community-college-last-minute-voter-guide">Your last-minute guide to education-related ballot measures</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
@@ -10782,7 +11650,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-lesser-known-races-last-minute-voter-guide">Your last-minute guide to obscure but important statewide races in California</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide">Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
@@ -10796,7 +11664,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide">Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/2026-california-election-lesser-known-races-last-minute-voter-guide">Your last-minute guide to obscure but important statewide races in California</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-12-00-00 +0000</span></div>
@@ -10838,20 +11706,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams">Proposed billionaire tax could impact California sports teams</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-10-31/historically-paralyzed-congress-faces-its-voters">A historically paralyzed Congress faces its voters</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/entertainment-arts/business/story/2026-10-31/midterm-election-night-2026-tv-streaming-data-coverage">Election night TV coverage is going full nerd for the 2026 midterms</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -10866,7 +11720,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/environment/story/2026-10-31/tribe-returns-with-joy-to-51-acres">A tribe returns, joyful, to 51 acres in the San Gabriel foothills</a>
+            <li><a href="https://www.latimes.com/politics/story/2026-10-31/historically-paralyzed-congress-faces-its-voters">A historically paralyzed Congress faces its voters</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams">Proposed billionaire tax could impact California sports teams</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
@@ -10887,6 +11748,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/lapd-chief-jim-mcdonnell-public-records-crime-stats-secrecy">Raman says the LAPD has grown more secretive under Chief Jim McDonnell. Has it?</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.latimes.com/california/story/2026-10-31/prayer-trump-catholic-bishops">Arellano: This is the prayer Catholic bishops should have offered to Trump</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -10901,14 +11769,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/lapd-chief-jim-mcdonnell-public-records-crime-stats-secrecy">Raman says the LAPD has grown more secretive under Chief Jim McDonnell. Has it?</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot">Two competitive L.A. City Council seats are on the Nov. 3 ballot</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-31/two-competitive-la-city-council-seats-are-on-nov-3-ballot">Two competitive L.A. City Council seats are on the Nov. 3 ballot</a>
+            <li><a href="https://www.latimes.com/environment/story/2026-10-31/tribe-returns-with-joy-to-51-acres">A tribe returns, joyful, to 51 acres in the San Gabriel foothills</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-10-00-00 +0000</span></div>
@@ -11031,13 +11899,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-31-02-10-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss">The Indian chef who brought curry to America - then vanished</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-10-31-02-02-16 +0000</span></div>
             </li>
         
 
@@ -11398,9 +12259,9 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://missionlocal.org/2026/10/tenderloin-buzz-spooky-events/">Tenderloin Buzz: Bring your costumes to these spooky events</a>
+            <li><a href="https://www.wsj.com/lifestyle/travel/giant-sequoia-seeds-trees-6fd53f43?mod=rss_usnews">We Drove 3,900 Miles From San Francisco to Boston With Seven Giant-Sequoia Seedlings</a>
             <div class='byline small text-muted'>
-            missionlocal, 
+            wsj, 
             <span class="datetime">2026-10-30-19-00-00 +0000</span></div>
             </li>
         
@@ -11545,6 +12406,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff?mod=rss_worldnews">Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-10-30-16-41-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.bbc.co.uk/news/articles/cmg4706xkp35o?at_medium=RSS&at_campaign=rss">First minister says Welsh spending powers takes step forward after Andy Burnham meeting</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -11577,13 +12445,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-30-15-50-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/30/early-voting-surge-midterms-2026/">Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-30-15-50-12 +0000</span></div>
             </li>
         
 
@@ -11626,13 +12487,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-30-15-02-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/30/madigan-supreme-court-appeal/">Feds say Supreme Court should deny ex-Speaker Madigan&#8217;s petition to review corruption conviction</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-30-14-52-46 +0000</span></div>
             </li>
         
 
@@ -11699,13 +12553,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/30/pope-leo-vote-us-election/">Chicago-born Pope Leo XIV casts &#8216;historic&#8217; local mail-in ballot, becoming first pontiff to vote in US election</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-30-13-06-49 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/business/story/2026-10-30/they-come-in-droves-how-robotaxis-are-hogging-ev-chargers-in-one-corner-of-southern-california">'They come in droves': How robotaxis hog EV chargers in one corner of Southern California</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -11734,14 +12581,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide">Your last-minute guide to Proposition 3, the other tax-the-rich measure</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide">Your last-minute guide to Proposition 45: CEQA and data centers</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-45-ceqa-last-minute-voter-guide">Your last-minute guide to Proposition 45: CEQA and data centers</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide">Your last-minute guide to Proposition 3, the other tax-the-rich measure</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
@@ -11762,7 +12609,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/californias-super-rich-conquered-world-but-not-always-voters">Commentary: California's super-rich conquered the world, but not always the voters</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-5-recall-elections-last-minute-voter-guide">Your last-minute guide to Proposition 5: Changing how recall elections work</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-44-health-clinic-spending-last-minute-voter-guide">Your last-minute guide to Proposition 44: Health center spending</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
@@ -11770,6 +12624,20 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-38-immunology-last-minute-voter-guide">Your last-minute guide to Proposition 38: Research funding for immunology, immunotherapy</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/californias-super-rich-conquered-world-but-not-always-voters">Commentary: California's super-rich conquered the world, but not always the voters</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide">Your last-minute guide to Proposition 3, the other tax-the-rich measure</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
@@ -11790,20 +12658,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-3-high-income-tax-last-minute-voter-guide">Your last-minute guide to Proposition 3, the other tax-the-rich measure</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-county-important-races-last-minute-voter-guide">Your last-minute guide to obscure but important L.A. County election races</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-community-college-last-minute-voter-guide">Your last-minute guide to the L.A. Community College District elections</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -11811,14 +12665,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-44-health-clinic-spending-last-minute-voter-guide">Your last-minute guide to Proposition 44: Health center spending</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-proposition-5-recall-elections-last-minute-voter-guide">Your last-minute guide to Proposition 5: Changing how recall elections work</a>
+            <li><a href="https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-county-important-races-last-minute-voter-guide">Your last-minute guide to obscure but important L.A. County election races</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-12-00-00 +0000</span></div>
@@ -11867,13 +12714,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/30/mary-peltola-alaska-justice-department-investigation/">Mary Peltola denies knowing about Alaska spoiler candidate as Justice Department escalates investigation</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-30-11-12-22 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/10/30/israels-election-results-are-in-heres-what-could-happen-next/">Israel&#8217;s election results are in. Here&#8217;s what could happen next.</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -11892,13 +12732,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-30-11-09-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/10/nancy-pelosi-connie-chan-congress/">Speaker emerita, speaking: Nancy Pelosi&#8217;s final push to elect Connie Chan to Congress</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-10-30-11-00-00 +0000</span></div>
             </li>
         
 
@@ -11941,13 +12774,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-30-10-00-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/30/gov-jb-pritzker-runs-for-rare-third-term-on-his-record-but-few-new-plans-for-illinois/">Gov. JB Pritzker runs for rare third term on his record but few new plans for Illinois</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-30-10-00-26 +0000</span></div>
             </li>
         
 
@@ -12001,20 +12827,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/california/story/2026-10-30/l-a-s-black-leaders-uneasy-about-bass-chances-amid-declining-clout">L.A.'s Black leaders uneasy about Bass' prospects amid declining clout at City Hall</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-10-30/arson-conspiracy-are-behind-devastating-old-town-newhall-fire-authorities-say-4-arrested">Arson, conspiracy are behind devastating Old Town Newhall fire, authorities say; 4 arrested</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-10-30/la-public-works-board-ballot-measure-la">This L.A. city board is more than 120 years old. A ballot measure could quietly hasten its end</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-30-10-00-00 +0000</span></div>
@@ -12091,13 +12903,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/environment/story/2026-10-30/california-delta-water-plan">Fierce debate as California changes course in central water hub</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-07-26-46 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/videos/cmpq0g3g2r8zo?at_medium=RSS&at_campaign=rss">Who should pay on the first date?</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -12140,13 +12945,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://48hills.org/2026/10/public-bank-would-be-stable-provide-affordable-housing-and-help-with-climate-goals/">Public bank would be stable, provide affordable housing, and help with climate goals</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-10-30-01-44-30 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html">China Confirms Expulsion of 33 Officials, as Xi&#8217;s Purge Deepens</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -12158,13 +12956,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-30-01-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/entertainment-arts/story/2026-10-29/what-is-lewy-body-dementia-patrick-stewart">What is Lewy body dementia? About the condition Patrick Stewart had</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-01-09-30 +0000</span></div>
             </li>
         
 
@@ -12189,13 +12980,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-29/san-diego-woman-pleads-guilty-in-killing-of-her-best-friends-baby">A 'compulsion' to hurt kids: San Diego woman pleads guilty to killing best friend's baby</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-00-04-03 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/world/russia/the-troubled-history-of-russias-anti-plague-institute-9fd4b59c?mod=rss_worldnews">The Troubled History of Russia&#8217;s Antiplague Institute</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -12203,24 +12987,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/29/senate-daylight-saving-time-bill/">Senate is skeptical about making daylight saving time permanent despite President Trump&#8217;s pressure</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-29-23-21-37 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/finance/investing/why-josh-kushners-firm-just-spent-7-6-billion-on-a-150-year-old-company-8bfdd9f8?mod=pls_whats_news_us_business_f">Why Josh Kushner&#8217;s Firm Just Spent $7.6 Billion on a 150-Year-Old Company</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-29-23-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/29/trump-darline-graham-south-carolina/">President Trump lends support for Darline Graham in South Carolina as Republican anxiety rises in Senate race</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-29-22-51-00 +0000</span></div>
             </li>
         
 
@@ -12280,13 +13050,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-10-29/la-me-california-coastal-road-erosion-humboldt-county">California county abandons repair plans for crumbling coastal road ahead of El Ni&#241;o-fueled winter</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-29-21-23-56 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html">U.S. GDP Increased 3.4% in Third Quarter</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -12308,13 +13071,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/29/bridgeport-bears-stadium-plan/">Latest Bears stadium plan for White Sox site in Bridgeport draws interest &#8212; but no involvement from the team</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-29-20-56-26 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/world/africa/trumps-deportation-deal-with-cameroon-will-equip-unit-accused-of-war-crimes-a94d3faa?mod=rss_worldnews">Trump&#8217;s Deportation Deal With Cameroon Will Equip Unit Accused of War Crimes</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -12326,13 +13082,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-29-20-50-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/29/calumet-city-mayor-thaddeus-jones-stroke/">Calumet City Mayor and state Rep. Thaddeus Jones hospitalized after minor stroke</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-29-20-26-21 +0000</span></div>
             </li>
         
 
@@ -12371,31 +13120,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/29/gov-jb-pritzker-mayor-brandon-johnson-head-tax/">Gov. JB Pritzker again takes dim view of Mayor Brandon Johnson&#8217;s head tax plan</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-29-18-46-09 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/world/cuauhtemoc-cardenas-leftist-leader-who-paved-mexicos-path-to-democracy-dies-at-92-d8d4d49c?mod=rss_worldnews">Cuauht&#233;moc C&#225;rdenas, Leftist Leader Who Paved Mexico&#8217;s Path to Democracy, Dies at 92</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-10-29-18-44-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/michele-tafoya-mn-senate-nbc-football-politics/601885209">Michele Tafoya walked away from a dream job to find her political voice</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-29-18-15-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/what-shaped-peggy-flanagans-political-identity/601885208">For Peggy Flanagan, politics began at the dinner table</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-10-29-18-14-42 +0000</span></div>
             </li>
         
 
@@ -12553,13 +13281,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/29/bears-stadium-general-assembly-candidates/">What Arlington Heights-area candidates have to say about Bears stadium proposals</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-29-14-00-25 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/economy/jobs/u-s-jobless-claims-unexpectedly-edge-lower-0aee8b41?mod=rss_socialeconomyfeed">U.S. Jobless Claims Unexpectedly Edge Lower</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -12616,20 +13337,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/29/donald-trump-ohio-barack-obama-georgia-midterm-elections/">Donald Trump in Ohio and Barack Obama in Georgia make closing stretch appeals to midterm voters</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-29-11-13-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/29/donald-trump-immigration-crackdown-backlash-midterms/">How Trump&#8217;s immigration crackdown sparked a backlash that could boomerang in the midterms</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-29-11-09-45 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/10/29/israel-final-election-results/">Prime Minister Benjamin Netanyahu&#8217;s party amplifies unproven claims that Arab-led parties have &#8216;stolen&#8217; Israel&#8217;s election</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -12658,24 +13365,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/29/cook-county-toni-preckwinkle-fifth-term/">As Cook County Board President Toni Preckwinkle is poised to win her fifth term, she eyes a successor</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-29-10-00-40 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/10/29/lincoln-park-townhome-cambridge/">Lincoln Park 4-bedroom townhome with floating fireplace: $2.1M</a>
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-29-10-00-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle">California's billionaire tax battle is playing out on Instagram &#8212; with paid influencers</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
             </li>
         
 
@@ -12693,7 +13386,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-10-29/as-californian-ports-push-truckers-to-go-green-struggling-industry-asks-for-more-subsidies">As Californian ports push truckers to go green, the struggling industry asks for more subsidies</a>
+            <li><a href="https://www.latimes.com/business/story/2026-10-29/social-media-stars-are-getting-paid-to-take-sides-in-californias-billionaire-tax-battle">California's billionaire tax battle is playing out on Instagram &#8212; with paid influencers</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
@@ -12701,6 +13394,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/business/story/2026-10-29/virgin-galactic-unveils-new-rocket-plane-to-restart-space-tourism">Space tourism pioneer Virgin Galactic reveals new plane in bid to restart business</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2026-10-29/as-californian-ports-push-truckers-to-go-green-struggling-industry-asks-for-more-subsidies">As Californian ports push truckers to go green, the struggling industry asks for more subsidies</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-29-10-00-00 +0000</span></div>
@@ -12791,13 +13491,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/hospitality/they-sold-everything-to-live-on-a-cruise-ship-now-theyre-stuck-in-cambodia-20d98d4f?mod=rss_worldnews">They Sold Everything to Live on a Cruise Ship. Now They&#8217;re Stuck in Cambodia.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-28-23-01-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/business/hospitality/they-sold-everything-to-live-on-a-cruise-ship-now-theyre-stuck-in-cambodia-20d98d4f?mod=pls_whats_news_us_business_f">They Sold Everything to Live on a Cruise Ship. Now They&#8217;re Stuck in Cambodia.</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -12847,24 +13540,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/10/28/orland-township-referendum-direct-participation-government/">Orland Township referendum aims to gauge demand for direct participation in local government</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-28-20-50-25 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss">Watch: King dances in the streets of the Bahamas capital</a>
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-28-20-44-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/28/susana-mendoza-chicago-businesses-mayor/">Susana Mendoza says Chicago businesses would &#8216;stop feeling like piggy banks&#8217; if she&#8217;s mayor</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-28-20-28-40 +0000</span></div>
             </li>
         
 
@@ -12879,13 +13558,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-10-28-20-02-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/28/mary-peltola-second-dan-sullivan-alaska-senate-race/">President Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-28-19-51-17 +0000</span></div>
             </li>
         
 
@@ -12907,20 +13579,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-28-19-38-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/28/chicago-police-gunshot-detection/">Chicago police brass are mum on new gunshot detection tool as aldermen push for answers</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-28-19-21-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/28/lake-county-council-districts-1-and-2-seats-up-for-grabs-to-newcomers/">Lake County Council Districts 1 and 2 seats up for grabs to newcomers</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-28-19-01-36 +0000</span></div>
             </li>
         
 
@@ -12984,13 +13642,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-10-28-17-22-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/28/iran-war-cost/">Iran war&#8217;s cost to American taxpayers grows to an estimated $47.1 billion</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-28-17-20-41 +0000</span></div>
             </li>
         
 
@@ -13064,13 +13715,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/world/europe/u-k-budget-keeps-government-on-track-to-stay-within-rules-421ae665?mod=rss_worldnews">U.K. Budget Keeps Government on Track to Stay Within Rules</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-28-14-59-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/videos/ck79pj82jp4qo?at_medium=RSS&at_campaign=rss">Watch: Moment Fl&#225;vio Bolsonaro arrives in Florida</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -13103,13 +13747,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-28-13-57-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/education/the-baby-bust-is-forcing-a-reckoning-at-public-schools-e8b00e8e?mod=rss_usnews">The Baby Bust Is Forcing a Reckoning at Public Schools</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-28-13-51-00 +0000</span></div>
             </li>
         
 
@@ -13155,27 +13792,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews">U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-10-28-11-12-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/28/donald-trump-republicans-midterm-woes/">Donald Trump&#8217;s cure for Republicans&#8217; midterm woes is more Trump. Will it work?</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-28-11-08-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/28/federal-reserve-rate-hike-inflation/">Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-28-11-02-41 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/10/28/federal-reserve-rate-hike-inflation/">Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -13208,20 +13824,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-28-10-13-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/28/illinois-7th-congressional-district/">Illinois&#8217; 7th Congressional District: Progressive La Shawn Ford poised to succeed Danny Davis</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-28-10-00-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/28/chicago-politics-mudslinging-school-board-race/">What does an elected school board mean for Chicago? More politics, experts say</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-28-10-00-33 +0000</span></div>
             </li>
         
 
