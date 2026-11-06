@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-06 21:09 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-06 22:10 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.wsj.com/politics/elections/trump-names-stephen-miller-his-new-chief-of-staff-2f835632?mod=rss_socialpoliticsfeed">Trump said that longtime adviser Stephen Miller would become his chief of staff, replacing Susie Wiles after Republicans suffered far-reaching losses in this week&#8217;s midterm election</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-06-19-37-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/06/us-news/pete-hegseth-becomes-gops-political-scapegoat-after-midterm-bloodbath-as-impeachment-vote-looms/">Pete Hegseth becomes GOP&#8217;s political scapegoat after midterm bloodbath as impeachment vote looms</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-06-19-52-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss">AI stocks climb after trillions wiped from market values</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-06-19-37-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html">12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-24-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html">In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-19-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html">Susie Wiles, Trump&#8217;s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-15-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/06/us-news/mexican-migrant-with-record-of-assault-weapons-charges-released-by-nyc-authorities/">Mexican migrant with record of assault, weapons charges released by NYC authorities</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-06-19-32-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/politics/chris-murphy-senate-stroke.html">Christopher Murphy Will Not Return to Senate Next Week After Stroke</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-44-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html">They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-18-58-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/in-tapping-stephen-miller-trump-doubles-down-and-digs-in-a81b4afd?mod=rss_socialpoliticsfeed">Stephen Miller, who has been one of Trump&#8217;s most loyal advisers since the early days of the first campaign, replaces Susie Wiles as chief of staff. Read more in this special WSJ Politics Newsletter:</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-06-19-51-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -132,13 +63,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/05/business/tech-bosses-shouldnt-turn-on-trump-because-of-midterms/">Tech bosses shouldn&#8217;t turn on Trump, he&#8217;s the only one who will stand up against Dems&#8217; anti-tech agenda</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-05-20-47-17 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.cbc.ca/news/world/california-newsom-death-row-commutation-9.7410993?cmp=rss">California Gov. Gavin Newsom says he'll commute all death row sentences to life in prison</a>
             <div class='byline small text-muted'>
             cbc, 
@@ -153,10 +77,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/economy/voters-were-anxious-about-much-more-than-the-economy-3bfd3b37?mod=rss_socialeconomyfeed">Voters were anxious about much more than the economy&#8212;Americans also appeared dismayed about what has happened to their country under President Trump, writes @greg_ip</a>
+            <li><a href="https://www.wsj.com/economy/central-banking/solid-jobs-report-leaves-inflation-markets-to-settle-feds-december-call-7738799e?mod=rss_socialeconomyfeed">The solid October jobs report leaves inflation data and developments in financial markets to determine whether the Fed will deliver a widely expected rate in December</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-06-16-59-00 +0000</span></div>
+            <span class="datetime">2026-11-06-15-22-00 +0000</span></div>
             </li>
         
 
@@ -167,10 +91,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/economy/central-banking/solid-jobs-report-leaves-inflation-markets-to-settle-feds-december-call-7738799e?mod=rss_socialeconomyfeed">The solid October jobs report leaves inflation data and developments in financial markets to determine whether the Fed will deliver a widely expected rate in December</a>
+            <li><a href="https://www.wsj.com/politics/policy/trump-administration-tells-conservative-groups-were-watching-you-095ed5ca?mod=rss_socialpoliticsfeed">The Trump administration warned conservative groups that it&#8217;s monitoring their statements, the Nasdaq saw its worst day since last April&#8217;s tariff turmoil and Wendy&#8217;s rejected a $1.4 billion takeover offer. Read more in today&#8217;s What&#8217;s News newsletter:</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-06-15-22-00 +0000</span></div>
+            <span class="datetime">2026-11-05-22-26-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/trump-signs-proclamation-he-says-will-protect-oval-office-from-major-changes-93f3285b?mod=rss_socialpoliticsfeed">The president signed a proclamation that he said would designate the White House&#8217;s Oval Office and Cabinet Room as landmarks</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-05-22-48-00 +0000</span></div>
             </li>
         
     </ul>
@@ -255,355 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/live/2026/11/06/us/midterm-elections-trump/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-54-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/us-news/saudi-national-accused-of-bugging-openais-office-pleads-not-guilty-afb7069a?mod=rss_usnews">Saudi National Accused of Bugging OpenAI&#8217;s Office Pleads Not Guilty</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-06-19-54-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/elections/colom-hyde-smith-mississippi-senate-race.html">Colom Leads Hyde-Smith in Mississippi Senate Race After Latest Vote Report</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-53-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-wild-san-jose-sharks-score-today-brock-faber-injury-update-return-kirill-kaprizov-stats/601904568">Live: Brock Faber opens up about skull fracture ahead of Wild&#8217;s game vs. Sharks</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-06-19-53-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/06/us-news/pete-hegseth-becomes-gops-political-scapegoat-after-midterm-bloodbath-as-impeachment-vote-looms/">Pete Hegseth becomes GOP&#8217;s political scapegoat after midterm bloodbath as impeachment vote looms</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-06-19-52-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/06/us-news/pete-hegseth-becomes-gops-political-scapegoat-after-midterm-bloodbath-as-impeachment-vote-looms/">Pete Hegseth becomes GOP&#8217;s political scapegoat after midterm bloodbath as impeachment vote looms</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-06-19-52-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/in-tapping-stephen-miller-trump-doubles-down-and-digs-in-a81b4afd?mod=rss_socialpoliticsfeed">Stephen Miller, who has been one of Trump&#8217;s most loyal advisers since the early days of the first campaign, replaces Susie Wiles as chief of staff. Read more in this special WSJ Politics Newsletter:</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-06-19-51-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/science/scientists-election-congress.html">These Newly Elected Lawmakers Know Something Trump Doesn&#8217;t: Science</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-50-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/06/sen-murphy-discharged-hospital-after-stroke-will-miss-weeks-votes/">Sen. Murphy discharged from hospital after stroke, will miss weeks of votes</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-06-19-49-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/06/us/trump-miller-wiles-chief-of-staff/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-47-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/arts/russell-brand-books-movies.html">Some Publishers Drop Russell Brand After Rape Conviction</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-46-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html">Trump Elevates Stephen Miller to Chief of Staff in White House Shake-Up</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-46-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html">Trump Elevates Stephen Miller to Chief of Staff in White House Shake-Up</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-46-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/arts/television/melania-trump-the-series-amazon-prime.html">Amazon Follows Melania Trump Film With Two-Part Series by the Same Director</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-44-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/politics/chris-murphy-senate-stroke.html">Christopher Murphy Will Not Return to Senate Next Week After Stroke</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-44-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/politics/chris-murphy-senate-stroke.html">Christopher Murphy Will Not Return to Senate Next Week After Stroke</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-44-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/06/trump-names-stephen-miller-new-white-house-chief-staff/">Stephen Miller is named new White House chief of staff as Susie Wiles departs</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-06-19-44-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/trump-replaces-susie-wiles-with-stephen-miller-as-white-house-chief-of-staff-after-gops-midterm-defeat/601912261">Trump replaces Susie Wiles with Stephen Miller as chief of staff after GOP's midterm defeat</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-06-19-42-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss">AI stocks climb after trillions wiped from market values</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-06-19-37-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss">AI stocks climb after trillions wiped from market values</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-06-19-37-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss">AI stocks climb after trillions wiped from market values</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-06-19-37-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/trump-names-stephen-miller-his-new-chief-of-staff-2f835632?mod=rss_socialpoliticsfeed">Trump said that longtime adviser Stephen Miller would become his chief of staff, replacing Susie Wiles after Republicans suffered far-reaching losses in this week&#8217;s midterm election</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-06-19-37-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-11-06/trump-names-stephen-miller-chief-of-staff-replacing-susie-wiles">Trump names Stephen Miller chief of staff, replacing Susie Wiles</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-06-19-33-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/06/us-news/mexican-migrant-with-record-of-assault-weapons-charges-released-by-nyc-authorities/">Mexican migrant with record of assault, weapons charges released by NYC authorities</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-06-19-32-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/06/us-news/mexican-migrant-with-record-of-assault-weapons-charges-released-by-nyc-authorities/">Mexican migrant with record of assault, weapons charges released by NYC authorities</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-06-19-32-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/06/gary-caucus-fills-city-councils-vacant-third-district-at-large-seats/">Gary caucus fills city council&#8217;s vacant third district, at-large seats</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-06-19-28-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/06/us-news/riverside-county-man-charged-in-113k-stolen-card-gas-scheme/">California man busted in $113K fuel theft scheme &#8212; with secret gas station hidden inside his truck</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-06-19-27-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/gold-continues-to-rise-amid-better-risk-sentiment-e2d133ff?mod=rss_markets_main">Precious Metals Post Weekly Gains</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-06-19-25-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/national-security/2026/11/06/prosecutor-leading-grand-conspiracy-probe-florida-resigns/">Two more DOJ officials resign, including head of national security division</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-06-19-24-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html">12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-24-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html">12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-24-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-regulators-approve-controversial-pipeline-route-near-pipestone-national-monument/601911438">Regulators approve controversial pipeline route near Pipestone National Monument</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-06-19-20-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html">In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-19-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html">In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-19-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html">Susie Wiles, Trump&#8217;s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-15-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html">Susie Wiles, Trump&#8217;s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-15-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html">Susie Wiles, Trump&#8217;s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-15-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nasdaq-futures-steady-after-asian-ai-rout-as-investors-brace-for-jobs-day-83415c52?mod=rss_markets_main">AI Stocks Rebound After Brutal Week for Nasdaq</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-06-19-13-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-06/lapd-officer-dies-in-training-exercise-in-huntington-beach-police-say">LAPD officer dies in training exercise in Huntington Beach, police say</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-06-19-11-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/john-d-rockefeller-iv-former-west-virginia-governor-and-senator-dies-at-89-6aae346d?mod=rss_socialpoliticsfeed">John D. Rockefeller IV, the former governor and senator from West Virginia and heir to an oil fortune, has died</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-06-19-08-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/dnr-warns-deer-hunters-of-flooded-forest-roads/601912207">DNR warns deer hunters of flooded forest roads</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-06-19-02-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/world/2026/11/06/midterms-give-ukrainians-cautious-hope-aid-even-trump-talks-deals-with-putin/">Midterms give Ukrainians cautious hope for aid, even as Trump talks deals with Putin</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-06-19-00-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html">Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-00-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html">Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-19-00-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/06/world-news/paraguay-president-pena-under-investigation-over-bank-collapse-faces-removal-from-office/">Paraguay President Pe&#241;a under investigation over bank collapse, faces removal from office</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-06-18-59-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html">They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-18-58-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html">They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-18-58-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-gophers-basketball-roster-cade-tyson-ncaa-eligibility-federal-court-ruling-2026-27-season/601901846">Cade Tyson&#8217;s season with Gophers basketball in jeopardy again after court ruling</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-06-18-58-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/06/us-news/trump-fires-susie-wiles-after-midterm-blowout-names-stephen-miller-as-new-chief-of-staff/">Trump fires Susie Wiles after midterm blowout, names Stephen Miller as new chief of staff</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-06-18-57-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/06/us-news/trump-fires-susie-wiles-after-midterm-blowout-names-stephen-miller-as-new-chief-of-staff/">Trump fires Susie Wiles after midterm blowout, names Stephen Miller as new chief of staff</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-06-18-57-40 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -4564,167 +4146,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-05-20-55-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html">Bolsonaro&#8217;s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-05-20-51-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html">Bolsonaro&#8217;s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-05-20-51-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-05/culver-city-teen-voting-measure-trailing-in-early-returns">Culver City teen voting measure trailing in early returns</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-05-20-51-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/05/business/tech-bosses-shouldnt-turn-on-trump-because-of-midterms/">Tech bosses shouldn&#8217;t turn on Trump, he&#8217;s the only one who will stand up against Dems&#8217; anti-tech agenda</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-05-20-47-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_worldnews">Paraguay&#8217;s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-05-20-46-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_markets_main">Paraguay&#8217;s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-05-20-46-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5?mod=pls_whats_news_us_business_f">Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-05-20-45-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html">Lana Nusseibeh&#8217;s U.N. Bid Collides With U.A.E.&#8217;s Role in Sudan</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-05-20-38-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html">Lana Nusseibeh&#8217;s U.N. Bid Collides With U.A.E.&#8217;s Role in Sudan</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-05-20-38-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html">Lana Nusseibeh&#8217;s U.N. Bid Collides With U.A.E.&#8217;s Role in Sudan</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-05-20-38-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/05/democrats-who-aided-scott-coloms-unlikely-mississippi-senate-race/">Colom could make history in Mississippi. These Democrats were early believers.</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-05-20-38-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html">Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-05-20-34-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cmj477d0dyxqo?at_medium=RSS&at_campaign=rss">Inside Mississippi's ballot counting in tight Senate race</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-05-20-31-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html">After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-05-20-31-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html">After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-05-20-31-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/05/business/heisman-trophy-has-new-home-larry-silversteins-landmarked-120-broadway/">Heisman Trophy has new home &#8212; Larry Silverstein&#8217;s landmarked 120 Broadway</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-05-20-22-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/05/los-angeles-mayor-nithya-raman-karen-bass/">Los Angeles City Council member Nithya Raman ousts embattled Mayor Karen Bass</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-05-20-22-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/05/elgin-council-steffen-off-ballot-signature/">Why 5-term incumbent Elgin City Council member John Steffen was kicked off ballot</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-05-20-19-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c60meenj1ke8o?at_medium=RSS&at_campaign=rss">More Mandelson papers set to be published before Christmas</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-05-20-15-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/05/scott-colom-met-mississippi-republicans-where-they-were-trump-rally/">Scott Colom met Mississippi Republicans where they were at: A Trump rally</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-05-20-15-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-05/man-who-allegedly-put-hidden-cameras-on-his-shoes-to-record-women-is-arrested-in-berkeley">Man who allegedly put hidden cameras on his shoes to record women is arrested in Berkeley</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-05-20-12-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/livestory/canada-budget-2026-finance-minister-francois-philippe-champagne-prime-minister-mark-carney-live-updates-9.7403431?cmp=rss">Budget 2026: Liberal government doubles down on plan to build Canadian economy at home</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-05-19-59-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss">Who could be behind hoax bomb threats to European air travel?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-05-19-58-40 +0000</span></div>
             </li>
         
     </ul>
@@ -14342,27 +13763,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-10-30-21-06-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/30/federal-prosecutors-alaska-criminal-probe-elections-sullivan-peltola/">Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-30-20-52-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/business/story/2026-10-30/99-ranch-market-to-close-two-california-locations">99 Ranch Market to close two California locations</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-10-30-20-47-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/10/30/oak-park-tax-levy-hike/">Oak Park proposes nearly 8% increase in village portion of property tax levy</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-10-30-19-58-07 +0000</span></div>
             </li>
         
     </ul>
