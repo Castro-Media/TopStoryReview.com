@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-07 10:09 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-07 11:09 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,6 +27,61 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
+        
+            <li><a href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html">Why Israel&#8217;s Ex-Army Chief&#8217;s Next Mission Could Be Mission Impossible</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-47-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-44-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/rcmp-staffing-report-9.7412554?cmp=rss">Northern, remote RCMP detachments chronically and critically understaffed: internal report</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/ai-drones-in-warfare-9.7407846?cmp=rss">The age of AI warfare has dawned. Is Canada ready?</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/07/today-in-history-first-woman-elected-to-congress-2/">Today in History: First woman elected to Congress</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-07-09-30-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/palantir-canadian-military-9.7409099?cmp=rss">Canada's military is using Palantir software. What are the risks?</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html">Why Israel&#8217;s Ex-Army Chief&#8217;s Next Mission Could Be Mission Impossible</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-47-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-44-35 +0000</span></div>
+            </li>
         
     </ul>
 </div>
@@ -56,17 +111,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/elections/trump-names-stephen-miller-his-new-chief-of-staff-2f835632?mod=rss_socialpoliticsfeed">Trump said that longtime adviser Stephen Miller would become his chief of staff, replacing Susie Wiles after Republicans suffered far-reaching losses in this week&#8217;s midterm election</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-06-22-18-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/economy/central-banking/solid-jobs-report-leaves-inflation-markets-to-settle-feds-december-call-7738799e?mod=rss_socialeconomyfeed">The solid October jobs report leaves inflation data and developments in financial markets to determine whether the Fed will deliver a widely expected rate in December</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-06-15-22-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/trump-names-stephen-miller-his-new-chief-of-staff-2f835632?mod=rss_socialpoliticsfeed">Trump said that longtime adviser Stephen Miller would become his chief of staff, replacing Susie Wiles after Republicans suffered far-reaching losses in this week&#8217;s midterm election</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-06-22-18-00 +0000</span></div>
             </li>
         
 
@@ -187,6 +242,61 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 1h</h2>
     <ul>
         
+            <li><a href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html">Why Israel&#8217;s Ex-Army Chief&#8217;s Next Mission Could Be Mission Impossible</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-47-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html">Why Israel&#8217;s Ex-Army Chief&#8217;s Next Mission Could Be Mission Impossible</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-47-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-44-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-44-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/07/today-in-history-first-woman-elected-to-congress-2/">Today in History: First woman elected to Congress</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-07-09-30-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/rcmp-staffing-report-9.7412554?cmp=rss">Northern, remote RCMP detachments chronically and critically understaffed: internal report</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/palantir-canadian-military-9.7409099?cmp=rss">Canada's military is using Palantir software. What are the risks?</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/ai-drones-in-warfare-9.7407846?cmp=rss">The age of AI warfare has dawned. Is Canada ready?</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
     </ul>
 </div>
 
@@ -194,6 +304,83 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 24h</h2>
     <ul>
         
+            <li><a href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html">Why Israel&#8217;s Ex-Army Chief&#8217;s Next Mission Could Be Mission Impossible</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-47-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html">Why Israel&#8217;s Ex-Army Chief&#8217;s Next Mission Could Be Mission Impossible</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-47-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-44-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-44-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/07/today-in-history-first-woman-elected-to-congress-2/">Today in History: First woman elected to Congress</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-07-09-30-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/rcmp-staffing-report-9.7412554?cmp=rss">Northern, remote RCMP detachments chronically and critically understaffed: internal report</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/palantir-canadian-military-9.7409099?cmp=rss">Canada's military is using Palantir software. What are the risks?</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/ai-drones-in-warfare-9.7407846?cmp=rss">The age of AI warfare has dawned. Is Canada ready?</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss">Texas mayor instructs police to limit co-operation with ICE</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-07-08-15-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html">After Israel&#8217;s Election, Who Will Get the First Chance to Form a Government?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-08-02-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html">After Israel&#8217;s Election, Who Will Get the First Chance to Form a Government?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-08-02-08 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss">Meghan's father Thomas Markle under house arrest after child sex abuse material charge</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -233,20 +420,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-07-06-50-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-07-06-45-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-07-06-45-04 +0000</span></div>
             </li>
         
 
@@ -418,13 +591,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss">Texas mayor instructs police to limit co-operation with ICE</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-07-03-31-54 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-06/with-death-sentence-clemency-newsom-takes-another-big-political-risk">With death sentence clemency, Newsom takes another big political risk</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -477,14 +643,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html">Trump&#8217;s D.C. Construction Blitz May Be About to Get Tougher</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-07-03-08-57 +0000</span></div>
+            <span class="datetime">2026-11-07-03-08-58 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html">Trump&#8217;s D.C. Construction Blitz May Be About to Get Tougher</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-07-03-08-57 +0000</span></div>
+            <span class="datetime">2026-11-07-03-08-58 +0000</span></div>
             </li>
         
 
@@ -1213,20 +1379,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-06-22-37-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html">After Israel&#8217;s Election, Who Will Get the First Chance to Form a Government?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-22-36-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html">After Israel&#8217;s Election, Who Will Get the First Chance to Form a Government?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-22-36-16 +0000</span></div>
             </li>
         
 
@@ -3735,97 +3887,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-11-06-09-59-42 +0000</span></div>
             </li>
         
-
-            <li><a href="https://nypost.com/2026/11/06/world-news/holocaust-survivor-eva-geller-dies-from-bondi-beach-terror-attack-injuries-raising-death-toll-to-16/">Holocaust survivor Eva Geller dies from Bondi Beach terror attack injuries, raising death toll to 16</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-06-09-33-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/06/today-in-history-abraham-lincoln-wins-presidency-2/">Today in History: Abraham Lincoln wins presidency</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-06-09-30-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/06/today-in-history-abraham-lincoln-wins-presidency-2/">Today in History: Abraham Lincoln wins presidency</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-06-09-30-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss">How does it affect me if share prices fall?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-06-09-21-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss">How does it affect me if share prices fall?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-06-09-21-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss">Trump signs order to preserve Oval Office as national monument</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-06-09-19-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html">Who&#8217;s Hiding Secrets About Dag Hammarskj&#246;ld&#8217;s Death?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-09-12-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html">Who&#8217;s Hiding Secrets About Dag Hammarskj&#246;ld&#8217;s Death?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-09-12-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/europe/dag-hammarskjold-death-un-report.html">Who&#8217;s Hiding Secrets About Dag Hammarskj&#246;ld&#8217;s Death?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-09-12-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/midterms-canada-tariffs-trade-war-canada-9.7410974?cmp=rss">Republicans ran away from Trump's Canadian tariffs, but not far enough</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-06-09-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/business/armstrong-canada-budget-2026-economy-risks-9.7411557?cmp=rss">Carney's bet on economic growth &#8212; and the risks that come with it</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-06-09-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/defence-budget-military-nato-trump-9.7411329?cmp=rss">Federal budget maps out defence spending surge, but questions remain over NATO target</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-06-09-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/midterms-canada-tariffs-trade-war-canada-9.7410974?cmp=rss">Republicans ran away from Trump's Canadian tariffs, but not far enough</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-06-09-00-00 +0000</span></div>
-            </li>
-        
     </ul>
 </div>
 
@@ -3833,6 +3894,83 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 7d</h2>
     <ul>
         
+            <li><a href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html">Why Israel&#8217;s Ex-Army Chief&#8217;s Next Mission Could Be Mission Impossible</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-47-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html">Why Israel&#8217;s Ex-Army Chief&#8217;s Next Mission Could Be Mission Impossible</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-47-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-44-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-09-44-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/07/today-in-history-first-woman-elected-to-congress-2/">Today in History: First woman elected to Congress</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-07-09-30-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/rcmp-staffing-report-9.7412554?cmp=rss">Northern, remote RCMP detachments chronically and critically understaffed: internal report</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/palantir-canadian-military-9.7409099?cmp=rss">Canada's military is using Palantir software. What are the risks?</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/canada/ai-drones-in-warfare-9.7407846?cmp=rss">The age of AI warfare has dawned. Is Canada ready?</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-07-09-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss">Texas mayor instructs police to limit co-operation with ICE</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-07-08-15-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html">After Israel&#8217;s Election, Who Will Get the First Chance to Form a Government?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-08-02-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html">After Israel&#8217;s Election, Who Will Get the First Chance to Form a Government?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-08-02-08 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss">Meghan's father Thomas Markle under house arrest after child sex abuse material charge</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -3872,20 +4010,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-07-06-50-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-07-06-45-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html">Will New Zealand Join Voters&#8217; Global Revolt Over Soaring Costs?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-07-06-45-04 +0000</span></div>
             </li>
         
 
@@ -4057,13 +4181,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss">Texas mayor instructs police to limit co-operation with ICE</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-07-03-31-54 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-06/with-death-sentence-clemency-newsom-takes-another-big-political-risk">With death sentence clemency, Newsom takes another big political risk</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -4116,14 +4233,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html">Trump&#8217;s D.C. Construction Blitz May Be About to Get Tougher</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-07-03-08-57 +0000</span></div>
+            <span class="datetime">2026-11-07-03-08-58 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html">Trump&#8217;s D.C. Construction Blitz May Be About to Get Tougher</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-07-03-08-57 +0000</span></div>
+            <span class="datetime">2026-11-07-03-08-58 +0000</span></div>
             </li>
         
 
@@ -4852,20 +4969,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-06-22-37-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html">After Israel&#8217;s Election, Who Will Get the First Chance to Form a Government?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-22-36-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html">After Israel&#8217;s Election, Who Will Get the First Chance to Form a Government?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-06-22-36-16 +0000</span></div>
             </li>
         
 
@@ -8348,13 +8451,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/politics/electricity-budget-new-money-9.7410949?cmp=rss">Budget offers $50B jolt to help Canada double its electricity grid</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-05-21-25-49 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/05/business/dems-could-grill-jpmorgan-on-jeffrey-epstein-ties-once-they-take-control-of-congress-report/">Dems could grill JPMorgan on Jeffrey Epstein ties once they take control of Congress; committee crows,  &#8216;Let&#8217;s f&#8211;king go&#8217;</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -8460,24 +8556,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/politics/canada-2026-budget-culture-carney-champagne-money-9.7411107?cmp=rss">Canada's new budget proposes $5B for culture. Here's where it would go</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-05-21-06-32 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.cbc.ca/news/politics/highlights-federal-liberal-budget-2026-9.7411046?cmp=rss">7 takeaways from the Carney government's 2nd budget</a>
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-11-05-21-05-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/ottawa-makes-6b-investment-in-canada-s-spy-agency-over-next-decade-9.7411098?cmp=rss">Ottawa makes $6B investment in Canada's spy agency over next decade</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-05-21-04-56 +0000</span></div>
             </li>
         
 
@@ -9699,20 +9781,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-11-05/democrats-election-victory-trump-new-deal">Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-05-11-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants">New Culver City development will add hundreds of apartments, two parks and restaurants</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-05-11-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/business/story/2026-11-05/what-democratic-landslide-means-for-gop-booster-elon-musk-his-businesses">What the Democratic landslide means for GOP booster Elon Musk and his businesses</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -9727,16 +9795,23 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated">Billionaire tax results show that Californians worry squeezing the ultra-rich would harm the economy</a>
+            <li><a href="https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants">New Culver City development will add hundreds of apartments, two parks and restaurants</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-05-11-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/05/gops-losses-will-raise-pressure-conservative-supreme-court-justices-retire/">GOP&#8217;s losses will raise pressure on conservative Supreme Court justices to retire</a>
+            <li><a href="https://www.latimes.com/business/story/2026-11-05/democrats-election-victory-trump-new-deal">Hiltzik: With Trump and GOP on the run, Democrats have a chance to make a new New Deal</a>
             <div class='byline small text-muted'>
-            wapo, 
+            latimes, 
+            <span class="datetime">2026-11-05-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated">Billionaire tax results show that Californians worry squeezing the ultra-rich would harm the economy</a>
+            <div class='byline small text-muted'>
+            latimes, 
             <span class="datetime">2026-11-05-11-00-00 +0000</span></div>
             </li>
         
@@ -9748,9 +9823,9 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants">New Culver City development will add hundreds of apartments, two parks and restaurants</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/05/gops-losses-will-raise-pressure-conservative-supreme-court-justices-retire/">GOP&#8217;s losses will raise pressure on conservative Supreme Court justices to retire</a>
             <div class='byline small text-muted'>
-            latimes, 
+            wapo, 
             <span class="datetime">2026-11-05-11-00-00 +0000</span></div>
             </li>
         
@@ -9762,7 +9837,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated">Billionaire tax results show that Californians worry squeezing the ultra-rich would harm the economy</a>
+            <li><a href="https://www.latimes.com/business/story/2026-11-05/new-culver-city-development-will-add-hundreds-of-apartments-two-parks-restaurants">New Culver City development will add hundreds of apartments, two parks and restaurants</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-05-11-00-00 +0000</span></div>
@@ -9777,6 +9852,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.latimes.com/california/story/2026-11-05/assault-charge-dropped-against-citizen-ice-allegedly-shot-from-behind">Assault charge dropped against U.S. citizen ICE allegedly shot from behind; lawyers say this isn't over</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-05-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2026-11-05/why-californias-billionaire-tax-failed-to-get-support-many-had-anticipated">Billionaire tax results show that Californians worry squeezing the ultra-rich would harm the economy</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-05-11-00-00 +0000</span></div>
@@ -10844,13 +10926,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-04-18-29-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/04/world/asia/senji-kuroi-dead.html">Senji Kuroi Has Died. He Interpreted &#8216;the Salaried Soul.&#8217;</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-04-18-23-57 +0000</span></div>
             </li>
         
 
@@ -12506,13 +12581,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds">Majority of California voters fear federal government may try to stop vote count, poll finds</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/business/story/2026-11-03/utilities-lobby-for-shield-from-wildfire-costs">Utilities lobby for shield from wildfire costs</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -12520,7 +12588,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election">Becerra wins but faces a gauntlet of problems as California's next governor</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/majority-of-california-voters-fear-federal-government-may-try-to-stop-vote-count-poll-finds">Majority of California voters fear federal government may try to stop vote count, poll finds</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide">Your last-minute cheat sheet for voting in key Los Angeles elections</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
@@ -12534,7 +12609,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide">Your last-minute cheat sheet for voting in key Los Angeles elections</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-03/democrats-dominate-california-but-face-challenges-after-election">Becerra wins but faces a gauntlet of problems as California's next governor</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-03-11-00-00 +0000</span></div>
@@ -13231,13 +13306,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-10-31-21-53-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html">Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-10-31-20-04-18 +0000</span></div>
             </li>
         
 
