@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-08 02:15 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-08 03:13 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.wsj.com/politics/policy/ufc-chief-dana-white-to-meet-with-trump-to-discuss-press-secretary-job-af0cb2e4?mod=rss_socialpoliticsfeed">UFC CEO Dana White said plans to meet with President Trump on Monday to discuss the president&#8217;s offer to become the next White House press secretary</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-08-00-16-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/entertainment/bill-maher-mocks-las-left-or-further-left-mayoral-choices-after-nithya-raman-win/">Bill Maher drops truth bomb about LA voters&#8217; options for mayor: &#8216;Two choices&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-13-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/health/wellness/wellness-society-college-campus-trend-5599666e?mod=rss_usnews">Cold Plunges, Fitness Pop-Ups: The Students Pushing Clean Living on Campus</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-08-00-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/11/from-dance-club-to-sex-club-soft-cell-cheers-on-the-freaks-one-final-time/">From dance club to sex club, Soft Cell cheers on the freaks one final time</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-11-08-00-05-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/daughter-claims-witch-house-feud-behind-dads-arrest-in-halloween-mushroom-gummy-case/">Family of California man charged with giving kids psychedelic gummies on Halloween makes bizarre &#8216;witch house&#8217; claim</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-36-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/bronx-judge-arrested-for-driving-under-the-influence-refusing-breath-test-in-nyc-cops/">Bronx judge arrested for driving under the influence, refusing breath test in NYC: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-10-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/north-dakota-woman-chained-to-bed-assaulted-and-beaten-for-2-years-police/">Woman chained to bed, beaten for 2 years by ex-husband who used her for immigration status: report</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-12-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-gophers-football-score-ucla-game-drake-lindsey-stats-pj-fleck-big-ten-week-10-results/601912965">Scoggins: This baffling decision by P.J. Fleck vs. UCLA sums up Gophers&#8217; problems</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-08-00-08-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/stephen-colbert-rushed-out-of-harvard-event-accosted-by-union-protesters/">Stephen Colbert rushed out of Harvard event, accosted by union protesters</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-02-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/stabbed-nyc-jogger-katie-suarez-saved-5-lives-by-donating-her-organs-sources/">Stabbed NYC jogger Katie Suarez saved 5 lives as organ donor: sources</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-53-54 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -118,13 +49,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/06/bill-foster-vs-jeff-walter-how-illinois-11th-congressional-district-voted/">Bill Foster vs Jeff Walter: How Illinois&#8217; 11th Congressional District voted</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-07-01-00-12 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.cbc.ca/news/world/trump-press-secretary-ufc-dana-white-9.7413697?cmp=rss">UFC boss Dana White says he's meeting with Trump after press secretary job offer</a>
             <div class='byline small text-muted'>
             cbc, 
@@ -139,10 +63,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/world/oceania/new-zealands-conservatives-narrowly-lead-in-election-4a4fddd2?mod=rss_socialeconomyfeed">New Zealand&#8217;s ruling conservatives led by a slim margin in an election Saturday, despite facing a backlash from voters over the cost of living, rising interest rates and a patchy economic recovery</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/07/bill-foster-vs-jeff-walter-how-illinois-12th-congressional-district-voted/">Bill Foster vs Jeff Walter: How Illinois&#8217; 12th Congressional District voted</a>
             <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-07-11-40-00 +0000</span></div>
+            chitri, 
+            <span class="datetime">2026-11-07-13-00-05 +0000</span></div>
             </li>
         
 
@@ -153,6 +77,20 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/world/oceania/new-zealands-conservatives-narrowly-lead-in-election-4a4fddd2?mod=rss_socialeconomyfeed">New Zealand&#8217;s ruling conservatives led by a slim margin in an election Saturday, despite facing a backlash from voters over the cost of living, rising interest rates and a patchy economic recovery</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-07-11-40-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/07/us/florida-jet-crash-father-pilot.html">Father Calls Daughter, the Co-Pilot Killed in Florida Crash, &#8216;a Hero&#8217;</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-07-20-12-26 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://nypost.com/2026/11/07/us-news/ny-ag-letitia-james-warns-dsa-you-target-hakeem-jeffies-you-mess-with-me/">NY AG Letitia James lashes out at &#8216;drunk on power&#8217; Dem legislators hoping to oust Hakeem Jeffries</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -160,17 +98,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582?cmp=rss">3 bodies found in home of Krakow shooting suspect, Polish PM says, after 6 killed, 16 injured in city square</a>
+            <li><a href="https://nypost.com/2026/11/07/world-news/trump-confirms-fresh-us-strike-on-iran-defenses/">Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors</a>
             <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-07-15-52-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss">Texas mayor instructs police to limit co-operation with ICE</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-07-08-15-55 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-11-07-23-02-51 +0000</span></div>
             </li>
         
     </ul>
@@ -255,152 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/11/07/us-news/stabbed-nyc-jogger-katie-suarez-saved-5-lives-by-donating-her-organs-sources/">Stabbed NYC jogger Katie Suarez saved 5 lives as organ donor: sources</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-53-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss">The Trump coalition is shattered - what will Republicans do now?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-08-00-52-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/world-news/very-radical-polish-gunman-who-killed-6-held-ultranationalistic-views-authorities-say/">Lunatic who killed 6 in Poland mass shooting held &#8216;ultranationalistic&#8217; views, authorities say</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-43-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/07/stephen-millers-promotion-sets-stage-new-era-confrontation/">Stephen Miller&#8217;s promotion sets the stage for a new era of confrontation</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-08-00-40-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/daughter-claims-witch-house-feud-behind-dads-arrest-in-halloween-mushroom-gummy-case/">Family of California man charged with giving kids psychedelic gummies on Halloween makes bizarre &#8216;witch house&#8217; claim</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-36-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-07/small-plane-overturns-on-runway-at-john-wayne-airport">Small plane overturns on the runway at John Wayne Airport</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-08-00-36-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/trump-press-secretary-ufc-dana-white-9.7413697?cmp=rss">UFC boss Dana White says he's meeting with Trump after press secretary job offer</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-08-00-35-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss">'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-08-00-31-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html">Trump Asks Dana White of U.F.C. to Be His Press Secretary</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-08-00-19-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html">Trump Asks Dana White of U.F.C. to Be His Press Secretary</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-08-00-19-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/ufc-chief-dana-white-to-meet-with-trump-to-discuss-press-secretary-job-af0cb2e4?mod=rss_socialpoliticsfeed">UFC CEO Dana White said plans to meet with President Trump on Monday to discuss the president&#8217;s offer to become the next White House press secretary</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-08-00-16-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/entertainment/bill-maher-mocks-las-left-or-further-left-mayoral-choices-after-nithya-raman-win/">Bill Maher drops truth bomb about LA voters&#8217; options for mayor: &#8216;Two choices&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-13-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/entertainment/bill-maher-mocks-las-left-or-further-left-mayoral-choices-after-nithya-raman-win/">Bill Maher drops truth bomb about LA voters&#8217; options for mayor: &#8216;Two choices&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-13-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/north-dakota-woman-chained-to-bed-assaulted-and-beaten-for-2-years-police/">Woman chained to bed, beaten for 2 years by ex-husband who used her for immigration status: report</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-12-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/bronx-judge-arrested-for-driving-under-the-influence-refusing-breath-test-in-nyc-cops/">Bronx judge arrested for driving under the influence, refusing breath test in NYC: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-10-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-gophers-football-score-ucla-game-drake-lindsey-stats-pj-fleck-big-ten-week-10-results/601912965">Scoggins: This baffling decision by P.J. Fleck vs. UCLA sums up Gophers&#8217; problems</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-08-00-08-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/07/ufc-dana-white-offered-white-house-press-secretary-role-trump-says/">Trump says he offered White House press secretary role to UFC&#8217;s Dana White</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-08-00-08-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/11/from-dance-club-to-sex-club-soft-cell-cheers-on-the-freaks-one-final-time/">From dance club to sex club, Soft Cell cheers on the freaks one final time</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-11-08-00-05-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/stephen-colbert-rushed-out-of-harvard-event-accosted-by-union-protesters/">Stephen Colbert rushed out of Harvard event, accosted by union protesters</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-00-02-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/health/wellness/wellness-society-college-campus-trend-5599666e?mod=pls_whats_news_us_business_f">Cold Plunges, Fitness Pop-Ups: The Students Pushing Clean Living on Campus</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-08-00-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/health/wellness/wellness-society-college-campus-trend-5599666e?mod=rss_usnews">Cold Plunges, Fitness Pop-Ups: The Students Pushing Clean Living on Campus</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-08-00-00-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2513,97 +2298,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-07-01-59-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/cornell-university-leadership-no-confience-9.7413319?cmp=rss">Cornell faculty vote no confidence in university's leadership</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-07-01-46-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-06/11-million-in-nvidia-cargo-reportedly-stolen-in-oakland-heist">$11.4 million in Nvidia cargo reportedly stolen in Oakland heist</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-07-01-42-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss">'My mortgage is going up &#163;200 a month': How rising interest rates are hitting people's pockets</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-07-01-41-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss">This man refused life-saving treatment because of his religion - days later the rules changed</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-07-01-27-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/kansas-attorney-general-kobach-mann.html">Kansans Elect Democrat as Attorney General, Voting Out Kris Kobach</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-07-01-21-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss">The young Somali woman changing how the world sees Mogadishu</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-07-01-19-49 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss">The young Somali woman changing how the world sees Mogadishu</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-07-01-19-49 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-11-06/feds-move-to-dismiss-case-over-20-000-california-ballots-after-supreme-court-denied-appeal">Feds move to dismiss case over 20,000 California ballots after Supreme Court denied appeal</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-07-01-18-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/politics/story/2026-11-06/feds-move-to-dismiss-case-over-20-000-california-ballots-after-supreme-court-denied-appeal">Feds move to dismiss case over 20,000 California ballots after Supreme Court denied appeal</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-07-01-18-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/health/2026/11/06/former-white-house-health-aide-accuses-trump-advisers-catering-special-interests/">Former White House health aide accuses Trump advisers of catering to special interests</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-07-01-07-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-06/18-year-old-arrested-in-deadly-moss-landing-shooting">18-year-old arrested in deadly Moss Landing shooting</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-07-01-06-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/06/bill-foster-vs-jeff-walter-how-illinois-11th-congressional-district-voted/">Bill Foster vs Jeff Walter: How Illinois&#8217; 11th Congressional District voted</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-07-01-00-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/jon-meacham-on-midterms-reagan-trump-fdr-americas-competitive-covenant-de7bf4e7?mod=rss_socialpoliticsfeed">Jon Meacham writes that American democracy reasserted itself in the midterms through its most fundamental feature: the vote.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-07-01-00-00 +0000</span></div>
             </li>
         
     </ul>
