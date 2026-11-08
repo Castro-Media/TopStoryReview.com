@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-08 05:10 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-08 06:17 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,33 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/11/07/us-news/south-carolina-dad-left-sleeping-daughter-6-outside-target-at-1-a-m-to-save-his-spot-in-line-for-pokemon-cards-cops/">SC dad left sleeping daughter, 6, outside Target at 1 a.m. to save his spot in line for Pok&#233;mon cards: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-03-00-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/socal-train-robbers-steal-millions-in-string-of-high-speed-heists/">Inside the explosion of SoCal train robberies: cut brakes, handsaws and tens of millions in loot</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-03-05-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-wild-tampa-bay-lightning-score-today-quinn-hughes-kirill-kaprizov-stats-live-nhl-updates/601904569">Live: Wild in overtime with Lightning looking for fourth consecutive victory</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-08-03-42-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/africa/the-growing-push-to-protect-trophy-hunting-in-africa-d76ee290?mod=rss_worldnews">The Growing Push to Protect Trophy Hunting in Africa</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-08-03-00-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -104,10 +77,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?mod=rss_socialeconomyfeed">Is AI a white-collar job killer? Strong hiring at law offices and consulting firms in the October jobs report is staving off fears of a job apocalypse</a>
+            <li><a href="https://www.wsj.com/politics/policy/with-susie-wiless-departure-big-business-loses-a-sympathetic-ear-72e7925a?mod=rss_socialpoliticsfeed">Lobbyists and surrogates for some of the world&#8217;s largest companies had a go-to strategy when they saw no other path to head off a damaging policy from President Trump: call Susie Wiles</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-07-16-09-00 +0000</span></div>
+            <span class="datetime">2026-11-07-10-00-00 +0000</span></div>
             </li>
         
 
@@ -118,10 +91,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/policy/with-susie-wiless-departure-big-business-loses-a-sympathetic-ear-72e7925a?mod=rss_socialpoliticsfeed">Lobbyists and surrogates for some of the world&#8217;s largest companies had a go-to strategy when they saw no other path to head off a damaging policy from President Trump: call Susie Wiles</a>
+            <li><a href="https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?mod=rss_socialeconomyfeed">Is AI a white-collar job killer? Strong hiring at law offices and consulting firms in the October jobs report is staving off fears of a job apocalypse</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-07-10-00-00 +0000</span></div>
+            <span class="datetime">2026-11-07-16-09-00 +0000</span></div>
             </li>
         
 
@@ -213,33 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.startribune.com/minnesota-wild-tampa-bay-lightning-score-today-quinn-hughes-kirill-kaprizov-stats-live-nhl-updates/601904569">Live: Wild in overtime with Lightning looking for fourth consecutive victory</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-08-03-42-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/socal-train-robbers-steal-millions-in-string-of-high-speed-heists/">Inside the explosion of SoCal train robberies: cut brakes, handsaws and tens of millions in loot</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-03-05-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/07/us-news/south-carolina-dad-left-sleeping-daughter-6-outside-target-at-1-a-m-to-save-his-spot-in-line-for-pokemon-cards-cops/">SC dad left sleeping daughter, 6, outside Target at 1 a.m. to save his spot in line for Pok&#233;mon cards: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-08-03-00-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/africa/the-growing-push-to-protect-trophy-hunting-in-africa-d76ee290?mod=rss_worldnews">The Growing Push to Protect Trophy Hunting in Africa</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-08-03-00-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2247,34 +2193,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-07-05-47-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/central-banking/china-forex-reserves-edged-up-in-october-89c34113?mod=rss_socialeconomyfeed">China Forex Reserves Edged Up in October</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-07-04-31-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/central-banking/china-forex-reserves-edged-up-in-october-89c34113?mod=rss_markets_main">China Forex Reserves Edged Up in October</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-07-04-31-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/06/us/elections/justice-dept-dismisses-california-suit.html">Justice Dept. Dismisses Suit Against California Over 20,000 Ballots</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-07-04-09-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/russia/ten-months-of-war-to-gain-46-square-miles-how-russia-is-failing-on-the-battlefield-3184ae10?mod=rss_worldnews">Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-07-04-00-00 +0000</span></div>
             </li>
         
     </ul>
