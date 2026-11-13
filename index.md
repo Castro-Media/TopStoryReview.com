@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-13 02:14 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-13 03:13 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Lutnick Took a Softer Line on Nvidia as Calls for Tougher Controls Grew</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-46-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/lutnick-fights-for-his-job-as-trump-aides-blame-him-for-nvidia-fallout-f179e424?mod=rss_socialpoliticsfeed">Some of President Trump&#8217;s top advisers have started shifting blame for the Jensen Huang political mess toward one man: Commerce Secretary Howard Lutnick</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-00-44-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-12/newsom-california-hall-of-fame-class">Newsom names Nancy Pelosi, Barry Bonds, Robin Williams to California Hall of Fame</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-13-00-17-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html">Paul Barril, French &#8216;Supergendarme&#8217; Turned Mercenary, Has Died</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-23-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/texas-wife-susan-watford-made-heartbreaking-plans-with-foster-sister-just-weeks-before-husband-allegedly-killed-her-on-cruise/">Texas wife Susan Watford made heartbreaking plans with foster sister just weeks before husband allegedly killed her on cruise</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-00-09-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss">Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-00-20-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/dc-gunman-was-doing-very-well-before-shooting-and-planned-to-start-a-new-job-next-week-attorney/">DC gunman was doing &#8216;very well&#8217; before shooting &#8212; and planned to start a new job next week, attorney says</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-00-04-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/karen-bass-cuts-ribbon-on-72m-homeless-housing-project-in-la/">Karen Bass cuts ribbon on $72M homeless housing project in LA, costing taxpayers nearly $650K per unit</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-00-26-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-dallas-mavericks-score-today-lamelo-ball-stats-anthony-edwards-injury-update/601914490">Live: Wolves put four-game winning streak to the test vs. Cooper Flagg, Mavericks</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-13-00-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/gavin-newsom-reveals-his-timeline-for-deciding-2028-presidential-run/">Gavin Newsom reveals his timeline for deciding 2028 presidential run</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-00-42-59 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -153,13 +84,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-12/la-sales-taxes-will-go-up-will-firefighting-response-times-go-down">L.A. sales taxes will go up, but the time it takes firefighters to respond may go down</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-12-11-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo?at_medium=RSS&at_campaign=rss">'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -167,10 +91,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/national-security/u-s-military-officer-arrested-in-the-u-k-was-detained-in-sting-operation-e809a042?mod=rss_socialpoliticsfeed">A U.S. Army officer arrested in the U.K over allegations of spying for Russia was caught in a sting operation and is expected to be charged on Sunday or Monday</a>
+            <li><a href="https://www.wsj.com/economy/housing/home-sales-in-october-plummet-to-16-year-low-16adebc0?mod=rss_socialeconomyfeed">Home sales declined in October to their lowest level since 2010, a new trough for a housing market that has been hovering near rock bottom for more than four years</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-12-20-38-00 +0000</span></div>
+            <span class="datetime">2026-11-12-17-08-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html">Kennedy&#8217;s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-12-18-18-11 +0000</span></div>
             </li>
         
     </ul>
@@ -255,229 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.startribune.com/minnesota-wild-toronto-maple-leafs-score-today-kirill-kaprizov-quinn-hughes-jesper-wallstedt-stats/601904572">Live: Wild take early lead over Maple Leafs as they chase seventh straight road win</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-13-00-52-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/karen-bass-blames-desire-for-change-after-la-election-defeat/">LA Mayor Karen Bass offers weak eight-word excuse for her election defeat</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-00-51-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Lutnick Took a Softer Line on Nvidia as Calls for Tougher Controls Grew</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-46-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Lutnick Took a Softer Line on Nvidia as Calls for Tougher Controls Grew</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-46-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Lutnick Took a Softer Line on Nvidia as Calls for Tougher Controls Grew</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-46-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Lutnick Took a Softer Line on Nvidia as Calls for Tougher Controls Grew</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-46-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Lutnick Took a Softer Line on Nvidia as Calls for Tougher Controls Grew</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-46-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/lutnick-fights-for-his-job-as-trump-aides-blame-him-for-nvidia-fallout-f179e424?mod=rss_socialpoliticsfeed">Some of President Trump&#8217;s top advisers have started shifting blame for the Jensen Huang political mess toward one man: Commerce Secretary Howard Lutnick</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-00-44-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/gavin-newsom-reveals-his-timeline-for-deciding-2028-presidential-run/">Gavin Newsom reveals his timeline for deciding 2028 presidential run</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-00-42-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/gavin-newsom-reveals-his-timeline-for-deciding-2028-presidential-run/">Gavin Newsom reveals his timeline for deciding 2028 presidential run</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-00-42-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/12/jensen-huang-built-the-company-that-powers-ai-now-nvidia-must-find-a-way-forward-without-him/">Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him.</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-13-00-37-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/indigenous-inuit-women-carney-budget-9.7419887?cmp=rss">Indigenous women leaders say budget doesn't address their realities</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-13-00-34-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html">One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-28-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/karen-bass-cuts-ribbon-on-72m-homeless-housing-project-in-la/">Karen Bass cuts ribbon on $72M homeless housing project in LA, costing taxpayers nearly $650K per unit</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-00-26-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html">Trump Had Urged Nvidia&#8217;s Jensen Huang to Fight for His Job</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-25-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html">Trump Had Urged Nvidia&#8217;s Jensen Huang to Fight for His Job</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-25-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html">Paul Barril, French &#8216;Supergendarme&#8217; Turned Mercenary, Has Died</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-23-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html">Paul Barril, French &#8216;Supergendarme&#8217; Turned Mercenary, Has Died</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-23-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/world/europe/paul-barril-dead.html">Paul Barril, French &#8216;Supergendarme&#8217; Turned Mercenary, Has Died</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-23-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/12/fatal-amtrak-train-crash-gates/">Gates appeared to be working when fatal Amtrak crash occurred, officials say</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-13-00-22-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss">Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-00-20-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss">Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-00-20-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-rises-1-1-led-by-chip-stocks-eb2ed881?mod=rss_markets_main">Nikkei Rises 1.1%, Led by Chip Stocks</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-00-19-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-12/newsom-california-hall-of-fame-class">Newsom names Nancy Pelosi, Barry Bonds, Robin Williams to California Hall of Fame</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-13-00-17-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-12/newsom-california-hall-of-fame-class">Newsom names Nancy Pelosi, Barry Bonds, Robin Williams to California Hall of Fame</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-13-00-17-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/negligent-excavation-work-eyed-as-cause-of-devastating-brooklyn-building-collapse-which-killed-eight-preventable/">Excavation work eyed as potential cause of devastating Brooklyn building collapse that killed 8</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-00-15-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss">The rise of 'housefishing' - when does using AI go from enhancing to misleading?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-00-13-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/texas-wife-susan-watford-made-heartbreaking-plans-with-foster-sister-just-weeks-before-husband-allegedly-killed-her-on-cruise/">Texas wife Susan Watford made heartbreaking plans with foster sister just weeks before husband allegedly killed her on cruise</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-00-09-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html">Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-00-05-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/dc-gunman-was-doing-very-well-before-shooting-and-planned-to-start-a-new-job-next-week-attorney/">DC gunman was doing &#8216;very well&#8217; before shooting &#8212; and planned to start a new job next week, attorney says</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-00-04-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/the-u-s-cut-cuba-off-from-the-worlds-oil-now-it-runs-on-american-fuel-d8f26a9a?mod=rss_worldnews">The U.S. Cut Cuba Off From the World&#8217;s Oil. Now It Runs on American Fuel.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-00-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-dallas-mavericks-score-today-lamelo-ball-stats-anthony-edwards-injury-update/601914490">Live: Wolves put four-game winning streak to the test vs. Cooper Flagg, Mavericks</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-13-00-00-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3976,90 +3684,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-12-01-57-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/a-viral-ad-and-a-trump-rally-visit-helped-colom-compete-in-mississippi">A viral ad and a Trump rally visit helped Colom compete in Mississippi.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-12-01-45-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/obituaries/2026/11/11/richard-posner-influential-iconoclastic-federal-judge-dies-87/">Richard Posner, influential and iconoclastic federal judge, dies at 87</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-12-01-31-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/obituaries/2026/11/11/richard-posner-influential-iconoclastic-federal-judge-dies-87/">Richard Posner, influential and iconoclastic federal judge, dies at 87</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-12-01-31-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-democrats-built-a-coalition-to-elect-a-black-senator-for-the-first-time-since-reconstruction">Mississippi Democrats built a coalition to elect a Black senator for the first time since Reconstruction.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-12-01-30-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-2027-governor-campaign">Colom&#8217;s win fuels Democratic hopes for next year&#8217;s race for governor.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-12-01-20-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/hegseth-veterans-day-arlington-tomb-laughter-guard-yells-9.7418661?cmp=rss">Hegseth, wife and aides spark scolding from guard at Tomb of the Unknown Soldier</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-12-01-14-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/c-suite/bhp-names-australian-projects-boss-as-next-cfo-30532955?mod=pls_whats_news_us_business_f">BHP Names Australian Projects Boss as Next CFO</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-12-01-03-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-senate-protein-ad.html">The Man at the Center of Scott Colom&#8217;s Protein Ad</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-12-01-00-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/the-spread-of-cheaper-ballistic-missiles-rips-up-decades-of-military-thinking-e6ef7fac?mod=rss_worldnews">The Spread of Cheaper Ballistic Missiles Rips Up Decades of Military Thinking</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-12-01-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main">Nvidia&#8217;s Disappearing Singapore Sales Deepen Mystery Around Megaspeed</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-12-01-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?mod=rss_markets_main">Nvidia&#8217;s Disappearing Singapore Sales Deepen Mystery Around Megaspeed</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-12-01-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/tech/ai/companies-dole-out-mega-paydays-and-luxury-trips-to-compete-for-ai-talent-3b3a7792?mod=pls_whats_news_us_business_f">Companies Dole Out Mega Paydays and Luxury Trips to Compete for AI Talent</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-12-01-00-00 +0000</span></div>
             </li>
         
     </ul>
