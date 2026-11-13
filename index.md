@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-13 05:12 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-13 06:19 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.wsj.com/politics/policy/chris-van-hollen-to-challenge-chuck-schumer-for-senate-majority-leader-fc3a8833?mod=rss_socialpoliticsfeed">Sen. Chris Van Hollen (D., Md.) said he would challenge current Senate Minority Leader Chuck Schumer (D., N.Y.) to run the party in the majority next year</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-03-27-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss">Ousted Nvidia CEO Jensen Huang summoned to testify before Congress</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-03-54-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/sports/nypd-lapd-hockey-teams-squaring-off-for-first-time-ever/">NYPD, LAPD hockey teams squaring off for first time ever in historic battle on Long Island</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-03-14-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/asia/asia-stocks-stage-tentative-rebound-as-nvidia-uncertainty-lingers-c0953e15?mod=rss_worldnews">Asia Stocks Stage Tentative Rebound as Nvidia Uncertainty Lingers</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-03-53-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/chris-van-hollen-challenging-schumer-for-senate-majority-leader/">Lefty Dem Chris Van Hollen challenging Schumer for Senate Majority leader, arguing voters &#8216;called for change&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-03-17-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/nj-construction-worker-in-deadly-long-island-bridge-scaffolding-collapse-idd-as-brother-of-brazilian-pol/">NJ construction worker in deadly Long Island bridge scaffolding collapse ID&#8217;d as brother of Brazilian pol</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-02-59-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html">Trump Had Urged Nvidia&#8217;s Jensen Huang to Fight for His Job</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-03-27-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/india/degrees-lead-nowhere-jobs-dont-exist-welcome-to-indias-youth-revolt-94b61098?mod=rss_worldnews">Degrees Lead Nowhere. Jobs Don&#8217;t Exist. Welcome to India&#8217;s Youth Revolt.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-dallas-mavericks-score-today-lamelo-ball-stats-anthony-edwards-injury-update/601914490">Timberwolves dismantle Mavericks as LaMelo Ball, Bones Hyland put on a show</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-13-03-50-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-wild-toronto-maple-leafs-score-today-kirill-kaprizov-quinn-hughes-jesper-wallstedt-stats/601904572">Matt Boldy delivers hat trick as Wild keep rolling on the road</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-13-03-18-19 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -125,17 +56,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/elections/scott-colom-wins-mississippi-senate-seat-in-historic-victory-d77bf913?mod=rss_socialpoliticsfeed">Democrat Scott Colom is the state of Mississippi&#8217;s first Black senator since the Reconstruction era following the Civil War</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-12-04-02-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/policy/chris-van-hollen-to-challenge-chuck-schumer-for-senate-majority-leader-fc3a8833?mod=rss_socialpoliticsfeed">Sen. Chris Van Hollen (D., Md.) said he would challenge current Senate Minority Leader Chuck Schumer (D., N.Y.) to run the party in the majority next year</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-13-03-27-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/12/us-news/ousted-nvidia-boss-jensen-huang-agrees-to-testify-before-congress-as-gop-presses-lutnick-for-answers-in-china-spy-scandal/">Ex-Nvidia boss agrees to testify before Congress &#8212; as GOP presses Lutnick for answers in Chinese spy scandal</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-12-19-12-18 +0000</span></div>
             </li>
         
 
@@ -146,10 +77,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/12/us-news/ousted-nvidia-boss-jensen-huang-agrees-to-testify-before-congress-as-gop-presses-lutnick-for-answers-in-china-spy-scandal/">Ex-Nvidia boss agrees to testify before Congress &#8212; as GOP presses Lutnick for answers in Chinese spy scandal</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss">Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-12-19-12-18 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-12-12-56-55 +0000</span></div>
             </li>
         
 
@@ -229,10 +160,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/07/mary-miller-vs-jennifer-todd-how-illinois-15th-congressional-district-voted/">Mary Miller vs Jennifer Todd: How Illinois&#8217; 15th Congressional District voted</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/06/bill-foster-vs-jeff-walter-how-illinois-11th-congressional-district-voted/">Bill Foster vs Jeff Walter: How Illinois&#8217; 11th Congressional District voted</a>
             <div class='byline small text-muted'>
             chitri, 
-            <span class="datetime">2026-11-07-16-00-28 +0000</span></div>
+            <span class="datetime">2026-11-07-01-00-12 +0000</span></div>
             </li>
         
 
@@ -255,173 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss">Ousted Nvidia CEO Jensen Huang summoned to testify before Congress</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-03-54-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss">Ousted Nvidia CEO Jensen Huang summoned to testify before Congress</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-03-54-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss">Ousted Nvidia CEO Jensen Huang summoned to testify before Congress</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-03-54-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/asia/asia-stocks-stage-tentative-rebound-as-nvidia-uncertainty-lingers-c0953e15?mod=rss_worldnews">Asia Stocks Stage Tentative Rebound as Nvidia Uncertainty Lingers</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-03-53-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/asia/asia-stocks-stage-tentative-rebound-as-nvidia-uncertainty-lingers-c0953e15?mod=rss_markets_main">Asia Stocks Stage Tentative Rebound as Nvidia Uncertainty Lingers</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-03-53-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/12/van-hollen-announces-challenge-schumer-lead-senate/">Van Hollen announces challenge to Schumer to lead the Senate</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-13-03-50-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/12/fbi-seizes-stolen-binance-cryptocurrency/">FBI says US has seized $1.2 billion worth of cryptocurrency stolen from Binance</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-13-03-50-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-dallas-mavericks-score-today-lamelo-ball-stats-anthony-edwards-injury-update/601914490">Timberwolves dismantle Mavericks as LaMelo Ball, Bones Hyland put on a show</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-13-03-50-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html">Trump Had Urged Nvidia&#8217;s Jensen Huang to Fight for His Job</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-03-27-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html">Trump Had Urged Nvidia&#8217;s Jensen Huang to Fight for His Job</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-03-27-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/chris-van-hollen-to-challenge-chuck-schumer-for-senate-majority-leader-fc3a8833?mod=rss_socialpoliticsfeed">Sen. Chris Van Hollen (D., Md.) said he would challenge current Senate Minority Leader Chuck Schumer (D., N.Y.) to run the party in the majority next year</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-03-27-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss">What we know about Brooklyn building collapse that killed eight people</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-03-26-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html">Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-03-24-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html">Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-03-24-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-wild-toronto-maple-leafs-score-today-kirill-kaprizov-quinn-hughes-jesper-wallstedt-stats/601904572">Matt Boldy delivers hat trick as Wild keep rolling on the road</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-13-03-18-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/chris-van-hollen-challenging-schumer-for-senate-majority-leader/">Lefty Dem Chris Van Hollen challenging Schumer for Senate Majority leader, arguing voters &#8216;called for change&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-03-17-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/chris-van-hollen-challenging-schumer-for-senate-majority-leader/">Lefty Dem Chris Van Hollen challenging Schumer for Senate Majority leader, arguing voters &#8216;called for change&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-03-17-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/sports/nypd-lapd-hockey-teams-squaring-off-for-first-time-ever/">NYPD, LAPD hockey teams squaring off for first time ever in historic battle on Long Island</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-03-14-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html">Outlook, Teams and More Microsoft Programs Disrupted by Outage</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-13-03-03-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss">Australian footballers will not be charged after hotel incident, police say</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-03-02-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/india/degrees-lead-nowhere-jobs-dont-exist-welcome-to-indias-youth-revolt-94b61098?mod=rss_worldnews">Degrees Lead Nowhere. Jobs Don&#8217;t Exist. Welcome to India&#8217;s Youth Revolt.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/russia/putin-had-four-plans-to-defeat-ukraine-he-only-has-two-left-7875e5a6?mod=rss_worldnews">Putin Had Four Plans to Defeat Ukraine. He Only Has Two Left.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/they-were-the-indispensable-ceosuntil-they-werent-1bb8a52c?mod=pls_whats_news_us_business_f">They Were the Indispensable CEOs&#8212;Until They Weren&#8217;t</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-13-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/12/us-news/nj-construction-worker-in-deadly-long-island-bridge-scaffolding-collapse-idd-as-brother-of-brazilian-pol/">NJ construction worker in deadly Long Island bridge scaffolding collapse ID&#8217;d as brother of Brazilian pol</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-13-02-59-08 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3934,48 +3698,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-12-05-01-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/central-banking/chinas-central-bank-signals-easing-restraint-as-growth-holds-up-15c19e61?mod=rss_socialeconomyfeed">China&#8217;s Central Bank Signals Easing Restraint as Growth Holds Up</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-12-04-19-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/11/us-news/democratic-house-lawmaker-gets-emotional-as-she-blames-rush-hour-traffic-for-missing-hegseth-impeachment-vote/">Democratic House lawmaker gets emotional as she blames rush hour traffic for missing Hegseth impeachment vote</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-12-04-07-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss">Famed ship SS United States deliberately sunk off Florida coast to become a reef</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-12-04-03-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss">Famed ship SS United States deliberately sunk off Florida coast to become a reef</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-12-04-03-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/scott-colom-wins-mississippi-senate-seat-in-historic-victory-d77bf913?mod=rss_socialpoliticsfeed">Democrat Scott Colom is the state of Mississippi&#8217;s first Black senator since the Reconstruction era following the Civil War</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-12-04-02-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/white-house-warns-democrats-against-blatant-criminality-in-investigation-demands-9ef1ad3f?mod=rss_socialpoliticsfeed">The White House warned Democrats that there are constitutional limitations on investigative functions, saying some threats to executive branch officials may cross the line into &#8220;blatant criminality&#8221;</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-12-04-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -13005,13 +12727,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-06-05-01-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?mod=rss_markets_main">Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-06-04-36-00 +0000</span></div>
             </li>
         
     </ul>
