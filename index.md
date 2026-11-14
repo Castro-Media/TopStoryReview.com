@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-14 03:12 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-14 04:12 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,20 +28,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html">Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-01-56-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/13/us-news/jetblue-cancels-most-remaining-flights-due-to-faa-ground-stop-predicts-chaos-wont-end-soon/">JetBlue cancels most remaining flights due to FAA ground stop &#8212; and predicts chaos won&#8217;t end soon</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-14-01-16-47 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/policy/china-vapes-trump-administration-c03af406?mod=rss_socialpoliticsfeed">The White House ordered officials this summer to approve releasing millions of dollars worth of detained illegal Chinese vapes into the U.S. market after talks with a Trump political adviser and his son, people familiar with the matter said</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -49,10 +35,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/california-voters-pass-ban-on-wealth-taxes-a045b6c1?mod=rss_socialpoliticsfeed">California voters had a chance to impose the nation&#8217;s first-ever tax on billionaires&#8217; assets. Instead, they voted to ban wealth taxes altogether</a>
+            <li><a href="https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html">Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda</a>
             <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-14-02-03-00 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-11-14-01-56-54 +0000</span></div>
             </li>
         
 
@@ -63,31 +49,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html">Nvidia Scandal Prompts Questions of What It Means to Be a Spy</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-01-22-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/13/us-news/sf-democrats-ignored-sexual-assault-complaint-against-manny-yekutiel/">California Dems left sex assault complaint unanswered for months &#8212; then endorsed accused candidate</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-14-01-44-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-13/thousands-of-flights-impacted-by-faa-ground-stop-here-are-your-rights-as-passenger">Thousands of flights affected by FAA ground stop. Here are your rights as a passenger</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-14-01-10-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f">SpaceX&#8217;s Latest Starship Mission Hits Early Setback</a>
+            <li><a href="https://www.wsj.com/politics/california-voters-pass-ban-on-wealth-taxes-a045b6c1?mod=rss_socialpoliticsfeed">California voters had a chance to impose the nation&#8217;s first-ever tax on billionaires&#8217; assets. Instead, they voted to ban wealth taxes altogether</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-14-01-19-00 +0000</span></div>
+            <span class="datetime">2026-11-14-02-03-00 +0000</span></div>
             </li>
         
 
@@ -95,6 +60,41 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-14-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=rss_worldnews">Behind the Nvidia Affair Sits a Vast Chinese Spying Machine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-14-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html">How the University of North Carolina Tried to Avoid Trump&#8217;s Wrath</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-14-02-00-18 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/china-vapes-trump-administration-c03af406?mod=pls_whats_news_us_business_f">Powerful Trump Allies Aided a Chinese Vape Operation</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-14-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa">Here&#8217;s the latest.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-14-01-58-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=rss_usnews">FAA Lifts Nationwide Groundstop that Upended More Than 14,500 Flights</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-14-02-01-00 +0000</span></div>
             </li>
         
     </ul>
@@ -351,118 +351,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-14-01-56-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/13/us-news/sf-democrats-ignored-sexual-assault-complaint-against-manny-yekutiel/">California Dems left sex assault complaint unanswered for months &#8212; then endorsed accused candidate</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-14-01-44-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/">FAA lifts ground stop at U.S. airports</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-14-01-43-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html">Flight Canceled During the FAA Ground Stop? Here&#8217;s What to Do.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-01-42-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/nation/2026/11/13/weeks-brooklyn-residents-felt-shaking-then-came-deadly-collapse/">For weeks, Brooklyn residents felt the shaking. Then came a deadly collapse.</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-14-01-38-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/china/trump-to-hold-talks-with-chinas-xi-and-russias-putin-next-week-29a58e91?mod=rss_worldnews">Trump to Hold Talks With China&#8217;s Xi and Russia&#8217;s Putin Next Week</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-14-01-34-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-high-school-football-state-quarterfinal-live-scores/601906726">Live: Scores and updates from Day 2 of football state quarterfinals</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-14-01-29-57 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/13/flights-halted-at-airports-nationwide-due-to-air-traffic-control-communications-problems/">Federal Aviation Administration says airplane departures can resume following rare nationwide ground stop</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-14-01-27-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html">Nvidia Scandal Prompts Questions of What It Means to Be a Spy</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-01-22-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html">Nvidia Scandal Prompts Questions of What It Means to Be a Spy</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-01-22-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/11/elevator-sro-audit-controller/">Who&#8217;s to blame for the broken elevators in San Francisco SROs?</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-11-14-01-19-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=pls_whats_news_us_business_f">SpaceX&#8217;s Latest Starship Mission Hits Early Setback</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-14-01-19-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html">Did the Redistricting Wars Backfire on Republicans? In a Word, No.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-01-18-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html">All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-01-17-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/13/us-news/jetblue-cancels-most-remaining-flights-due-to-faa-ground-stop-predicts-chaos-wont-end-soon/">JetBlue cancels most remaining flights due to FAA ground stop &#8212; and predicts chaos won&#8217;t end soon</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-14-01-16-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/13/us/markwayne-mullin-faa-ground-stop.html">Mullin Says Nationwide Ground Stop Is a Telecommunication Outage</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-01-10-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-13/thousands-of-flights-impacted-by-faa-ground-stop-here-are-your-rights-as-passenger">Thousands of flights affected by FAA ground stop. Here are your rights as a passenger</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-14-01-10-08 +0000</span></div>
             </li>
         
     </ul>
@@ -3906,48 +3794,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-13-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss">North Korean hackers used fake video calls in $400m crypto hack, says FBI</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-02-48-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss">Will the Eurovision Song Contest succeed in Asia?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-02-24-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss">Will the Eurovision Song Contest succeed in Asia?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-02-24-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss">Will the Eurovision Song Contest succeed in Asia?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-02-24-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/">Eight dead and at least 18 injured after Brooklyn building collapse</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-13-02-18-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&at_campaign=rss">How could the Nvidia CEO&#8217;s affair threaten US national security?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-13-02-15-59 +0000</span></div>
             </li>
         
     </ul>
