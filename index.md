@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-15 06:18 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-15 07:11 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,40 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html">A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-15-04-18-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-chicago-bulls-score-lamelo-ball-stats-ayo-dosunmu-anthony-edwards-injury-news/601914491">Timberwolves&#8217; five-game winning streak ends with loss to struggling Bulls</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-15-04-04-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-high-school-girls-volleyball-state-championship-match-scores-schedule/601904391">Rewind: Four girls volleyball state champions secure their trophies</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-15-04-40-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/14/us-news/ups-cargo-plane-collides-with-commercial-airliner-at-miami-airport/">UPS cargo plane collides with commercial airliner at Miami airport</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-15-03-58-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html">A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-15-04-18-05 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -76,7 +42,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=pls_whats_news_us_business_f">Weekend Air Travel Woes Mount After FAA Lifts Nationwide Ground Stop</a>
+            <li><a href="https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=rss_usnews">Weekend Air Travel Woes Mount After FAA Lifts Nationwide Ground Stop</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-14-13-10-00 +0000</span></div>
@@ -104,13 +70,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/14/us/elections/alaska-governor-winner-kreiss-tomkins-jkt.html">A Democrat Wins the Alaska Governor&#8217;s Race for the First Time Since 1998</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-05-08-59 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/14/business/zhang-liang-china-panama.html">He Was China&#8217;s Man in Panama. Then He Became a Wanted Man.</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -122,6 +81,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-14-06-42-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss">SpaceX successfully catches top of huge Starship rocket for first time</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-14-22-15-52 +0000</span></div>
             </li>
         
 
@@ -220,40 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.startribune.com/minnesota-high-school-girls-volleyball-state-championship-match-scores-schedule/601904391">Rewind: Four girls volleyball state champions secure their trophies</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-15-04-40-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html">A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-15-04-18-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html">A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-15-04-18-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-chicago-bulls-score-lamelo-ball-stats-ayo-dosunmu-anthony-edwards-injury-news/601914491">Timberwolves&#8217; five-game winning streak ends with loss to struggling Bulls</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-15-04-04-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/14/us-news/ups-cargo-plane-collides-with-commercial-airliner-at-miami-airport/">UPS cargo plane collides with commercial airliner at Miami airport</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-15-03-58-43 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2261,48 +2193,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-14-06-33-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/14/us-news/dems-launch-sexual-harassment-probe-against-newly-elected-brian-poindexter-who-ousted-gop-rep-max-miller/">Dems launch sexual harassment probe against newly elected Brian Poindexter &#8212; who ousted GOP Rep. Max Miller</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-14-05-50-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html">Did the Redistricting Wars Backfire on Republicans? In a Word, No.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-05-14-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/14/us/elections/alaska-governor-winner-kreiss-tomkins-jkt.html">A Democrat Wins the Alaska Governor&#8217;s Race for the First Time Since 1998</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-05-08-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/14/democrat-jonathan-kreiss-tomkins-wins-alaska-governors-race/">Democrat Jonathan Kreiss-Tomkins wins Alaska governor&#8217;s race</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-14-05-05-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html">Two Celebrity Cases Put a Spotlight on British Courts&#8217; Gag Orders</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-05-01-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html">Two Celebrity Cases Put a Spotlight on British Courts&#8217; Gag Orders</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-14-05-01-07 +0000</span></div>
             </li>
         
     </ul>
@@ -11073,20 +10963,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-08-07-30-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html">South Africa&#8217;s Politics May Never Be the Same Again</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-08-05-01-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html">Giant Roadside Attractions Face Mounting Costs and an Uncertain Future</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-08-05-01-11 +0000</span></div>
             </li>
         
     </ul>
