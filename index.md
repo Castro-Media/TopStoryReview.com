@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-16 02:17 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-16 03:15 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/11/15/us-news/florida-man-sends-letter-filled-with-peanut-butter-to-allergic-ex-wifes-friend-cops/">Nutty Florida man sends letter filled with peanut butter to ex-wife&#8217;s allergic friend he blamed for couple&#8217;s divorce: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-16-00-42-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss">Black Friday and tax return scams  - don't fall for these</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-16-00-50-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main">Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-16-00-07-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/15/us-news/fire-outside-metlife-stadium-sends-smoke-billowing-over-empty-field-after-jets-fifth-straight-loss/">Fire outside MetLife Stadium sends smoke billowing over empty field after Jets&#8217; fifth straight loss</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-16-00-09-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/trump-breaks-silence-on-nationwide-ground-stop-and-demand-more-money-from-congress/601920339">Trump administration asks for billions to overhaul FAA.  Democrats question how money was spent</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-16-00-47-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/15/us-news/el-nino-waves-batter-multimillion-dollar-seal-beach-homes-in-california/">Multimillion dollar homes left devastated as monster waves pound California coast</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-16-00-44-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-bf41acaa?mod=rss_markets_main">Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-16-00-46-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss">Town destroyed by flood rebuilt by Libya's strongman - but questions remain</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-16-00-11-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/japan-economy-contracts-for-first-time-in-four-quarters-468f74f5?mod=rss_socialeconomyfeed">Japan Economy Contracts for First Time in Four Quarters</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-16-00-51-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss">Is India rethinking its short-term military recruitment scheme?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-16-00-41-42 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -118,17 +49,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/world/south-korea-tax-accounting-exam-ai-cheating-9.7423029?cmp=rss">'I cheated': South Korean admits he used AI to achieve top score in national exam</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-15-23-35-02 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss">Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says</a>
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-15-22-24-20 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/south-korea-tax-accounting-exam-ai-cheating-9.7423029?cmp=rss">'I cheated': South Korean admits he used AI to achieve top score in national exam</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-15-23-35-02 +0000</span></div>
             </li>
         
 
@@ -146,13 +77,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/environment/story/2026-11-15/offshore-oil-rigs-could-be-toppled-off-california-under-trump-plan">Offshore oil rigs could be 'toppled' off California under Trump plan</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-15-11-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html">Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -160,10 +84,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/15/us-news/mamdanis-new-neighbor-a-tenacious-tramp-making-city-hall-sidewalk-his-home/">Vagrant sets up City Hall encampment along Mamdani&#8217;s daily route, exploiting weak city rules</a>
+            <li><a href="https://www.latimes.com/environment/story/2026-11-15/offshore-oil-rigs-could-be-toppled-off-california-under-trump-plan">Offshore oil rigs could be 'toppled' off California under Trump plan</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-15-10-34-22 +0000</span></div>
+            latimes, 
+            <span class="datetime">2026-11-15-11-00-00 +0000</span></div>
             </li>
         
 
@@ -171,6 +95,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-15-05-51-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/15/us-news/mamdanis-new-neighbor-a-tenacious-tramp-making-city-hall-sidewalk-his-home/">Vagrant sets up City Hall encampment along Mamdani&#8217;s daily route, exploiting weak city rules</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-15-10-34-22 +0000</span></div>
             </li>
         
     </ul>
@@ -255,103 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.wsj.com/economy/japan-economy-contracts-for-first-time-in-four-quarters-468f74f5?mod=rss_socialeconomyfeed">Japan Economy Contracts for First Time in Four Quarters</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-16-00-51-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss">Black Friday and tax return scams  - don't fall for these</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-16-00-50-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss">Black Friday and tax return scams  - don't fall for these</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-16-00-50-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/trump-breaks-silence-on-nationwide-ground-stop-and-demand-more-money-from-congress/601920339">Trump administration asks for billions to overhaul FAA.  Democrats question how money was spent</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-16-00-47-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-bf41acaa?mod=rss_markets_main">Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-16-00-46-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/15/us-news/el-nino-waves-batter-multimillion-dollar-seal-beach-homes-in-california/">Multimillion dollar homes left devastated as monster waves pound California coast</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-16-00-44-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/15/us-news/florida-man-sends-letter-filled-with-peanut-butter-to-allergic-ex-wifes-friend-cops/">Nutty Florida man sends letter filled with peanut butter to ex-wife&#8217;s allergic friend he blamed for couple&#8217;s divorce: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-16-00-42-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss">Is India rethinking its short-term military recruitment scheme?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-16-00-41-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-15/human-remains-found-near-altadena-home-homicide-detectives-say">Human remains found near Altadena home, homicide detectives say</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-16-00-15-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss">Russia's mega-rich are already imagining a future after Putin</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-16-00-13-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss">Town destroyed by flood rebuilt by Libya's strongman - but questions remain</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-16-00-11-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/15/us-news/fire-outside-metlife-stadium-sends-smoke-billowing-over-empty-field-after-jets-fifth-straight-loss/">Fire outside MetLife Stadium sends smoke billowing over empty field after Jets&#8217; fifth straight loss</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-16-00-09-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=pls_whats_news_us_business_f">Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-16-00-07-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main">Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-16-00-07-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2317,41 +2151,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-15-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop/">FAA was warned for years about repair risks leading to nationwide ground stop</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-15-01-37-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/14/us-news/fetterman-admits-he-cant-find-common-ground-about-israel-with-far-left/">Fetterman admits he can&#8217;t find &#8216;common ground&#8217; about Israel with far-left</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-15-01-28-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/14/business/consider-nvidias-jensen-huang-led-implosion-a-massive-win-for-short-stock-sellers/">Consider Nvidia&#8217;s Jensen Huang-led implosion a massive win for short sellers</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-15-01-25-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-14/san-dimas-gunshot-victims-identified-in-possible-double-homicide">San Dimas gunshot victims identified in possible double homicide</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-15-01-15-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-14/berkeley-police-nab-man-who-stole-400-in-ben-jerrys-ice-cream">Big scoop: Berkeley police nab man who stole $400 in Ben & Jerry's ice cream</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-15-01-09-27 +0000</span></div>
             </li>
         
     </ul>
@@ -10940,13 +10739,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-09-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/08/saudi-arabia-intercepts-missiles-as-aramco-building-riyadh-damaged/">Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-09-01-47-52 +0000</span></div>
             </li>
         
     </ul>
