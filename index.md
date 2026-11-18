@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-18 05:12 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-18 06:18 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -31,70 +31,70 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.wsj.com/politics/elections/democrat-mary-peltola-unseats-alaska-gop-sen-dan-sullivan-b6e6256b?mod=rss_socialpoliticsfeed">Democrat Mary Peltola unseated Republican Sen. Dan Sullivan of Alaska to become the first Alaska Native elected to the U.S. Senate, expanding the majority her party won in the midterm elections</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-18-03-49-00 +0000</span></div>
+            <span class="datetime">2026-11-18-04-23-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html">White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner</a>
+            <li><a href="https://www.wsj.com/politics/policy/trumps-pick-to-lead-the-fda-is-in-jeopardy-f08a33bc?mod=rss_socialpoliticsfeed">The Trump administration is pulling the nomination of Dr. Heidi Overton to lead the FDA amid signs she lacks the support to get confirmed by the Senate</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-03-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html">For Democrats, a Leadership Fight Is Marring an Electoral Triumph</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-03-26-28 +0000</span></div>
+            <span class="datetime">2026-11-18-04-11-30 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/17/us-news/rubio-insists-zero-evidence-that-widespread-us-tech-outages-cyberattacks-are-linked/">Rubio insists &#8216;zero evidence&#8217; that widespread US tech outages, cyberattacks are linked</a>
+            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html">Rubio Says Rush to Secure Systems May Be Causing Failures</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-13-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/">Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-18-03-03-47 +0000</span></div>
+            <span class="datetime">2026-11-18-04-46-06 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html">Young Filipinos Protest Trump and Marcos Before They Meet</a>
+            <li><a href="https://nypost.com/2026/11/17/us-news/yosemite-closes-roads-and-campgrounds-ahead-of-major-winter-storm/">Yosemite issues urgent travel warning as severe winter storm barrels toward national park</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-07-55 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-11-18-04-37-42 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html">Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status</a>
+            <li><a href="https://www.startribune.com/minnesota-timberwolves-portland-trail-blazers-score-today-lamelo-ball-stats-anthony-edwards-injury/601914495">Wolves get clutch play in final seconds to beat Trail Blazers for two-game sweep</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-33-29 +0000</span></div>
+            startribune, 
+            <span class="datetime">2026-11-18-04-10-22 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html">National Book Award Finalist May Be Ineligible for the Prize</a>
+            <li><a href="https://www.startribune.com/fridley-school-board-bca-investigation/601921485">Fridley school board hires firm to conduct district investigation amid BCA probe</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-10-58 +0000</span></div>
+            startribune, 
+            <span class="datetime">2026-11-18-04-28-35 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-philippines-palace.html">Marcos Is Hosting Trump on Grounds Where He Spent Much of His Childhood</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss">Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-25-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html">After Days of Digital Outages, Americans Wonder if the Country Is Breaking</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-49-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html">They&#8217;re Young and Frustrated and Want France to Change. They Disagree on How.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-46-06 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-18-04-00-54 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit">Live Updates: Trump Meets Philippine Leader Before Flying to China</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-03-52-54 +0000</span></div>
+            <span class="datetime">2026-11-18-04-33-50 +0000</span></div>
             </li>
         
     </ul>
@@ -111,17 +111,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_socialeconomyfeed">A lawyer for Fed governor Lisa Cook said she won&#8217;t participate in a White House hearing on whether to fire her unless the Trump administration removes a senior economic adviser from the panel</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-17-18-34-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/politics/national-security/nvidia-forms-national-security-committee-after-huangs-exit-c3261fc2?mod=rss_socialpoliticsfeed">Nvidia formed a board committee to oversee national security and export controls, one of the first moves after a geopolitical firestorm over former CEO Jensen Huang&#8217;s affair with a suspected Chinese spy</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-17-12-57-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_socialpoliticsfeed">A lawyer for Fed governor Lisa Cook said she won&#8217;t participate in a White House hearing on whether to fire her unless the Trump administration removes a senior economic adviser from the panel</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-17-18-34-00 +0000</span></div>
             </li>
         
 
@@ -153,13 +153,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/17/us-news/markwayne-mullin-took-his-government-plane-to-lsu-texas-game-as-thousands-were-stranded-in-faa-ground-stoppage/">Markwayne Mullin took his government plane to LSU-Texas game as thousands were stranded in FAA ground stoppage</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-17-11-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/policy/trump-pick-for-government-watchdog-draws-objections-from-republicans-84e73e9d?mod=rss_socialpoliticsfeed">President Trump&#8217;s nominee to lead Congress&#8217;s independent watchdog agency is running into trouble as a handful of Senate Republicans raised concerns about the pick</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -171,6 +164,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-17-23-13-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/democrat-mary-peltola-unseats-alaska-gop-sen-dan-sullivan-b6e6256b?mod=rss_socialpoliticsfeed">Democrat Mary Peltola unseated Republican Sen. Dan Sullivan of Alaska to become the first Alaska Native elected to the U.S. Senate, expanding the majority her party won in the midterm elections</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-04-23-00 +0000</span></div>
             </li>
         
     </ul>
@@ -194,31 +194,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_socialpoliticsfeed">A lawyer for Fed governor Lisa Cook said she won&#8217;t participate in a White House hearing on whether to fire her unless the Trump administration removes a senior economic adviser from the panel</a>
+            <li><a href="https://www.wsj.com/politics/elections/the-voters-who-swung-the-house-away-from-trump-8035c7d1?mod=rss_socialpoliticsfeed">To win control of the House and Senate, Democrats on Tuesday fractured the coalition that had elected Donald Trump to the White House two years ago</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-17-18-34-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/17/business/russian-ai-bots-pull-off-first-fully-automated-cyber-attack-and-google-caught-them/">Russian AI bots pull off first fully automated cyber attack &#8212; and Google caught them</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-17-18-28-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/17/thanksgiving-travel-car-airplane/">Thanksgiving travel plans? AAA predicts fewer travelers will hit the road as ground stop hangover recedes.</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-17-17-00-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/national-security/5-takeaways-from-navy-nominees-rocky-hearing-0ca74829?mod=rss_socialpoliticsfeed">Hung Cao, President Trump&#8217;s pick to lead the Navy, faced a tough reception from Republicans and Democrats during his confirmation hearing. Here are five takeaways.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-17-22-33-00 +0000</span></div>
+            <span class="datetime">2026-11-12-16-29-00 +0000</span></div>
             </li>
         
 
@@ -229,17 +208,38 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.chicagotribune.com/2026/11/17/thanksgiving-travel-car-airplane/">Thanksgiving travel plans? AAA predicts fewer travelers will hit the road as ground stop hangover recedes.</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-17-17-00-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/elections/democrat-mary-peltola-unseats-alaska-gop-sen-dan-sullivan-b6e6256b?mod=rss_socialpoliticsfeed">Democrat Mary Peltola unseated Republican Sen. Dan Sullivan of Alaska to become the first Alaska Native elected to the U.S. Senate, expanding the majority her party won in the midterm elections</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-04-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/11/cps-google-protest-artificial-intelligence/">Chicago parents and students protest Google&#8217;s new no-AI, no-search policy with schools</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-12-00-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/12/us-envoys-russia-ukraine-peace-talks/">US envoys meet Russian President Putin before peace talks with Ukrainian leader</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-12-22-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/politics/national-security/nvidia-forms-national-security-committee-after-huangs-exit-c3261fc2?mod=rss_socialpoliticsfeed">Nvidia formed a board committee to oversee national security and export controls, one of the first moves after a geopolitical firestorm over former CEO Jensen Huang&#8217;s affair with a suspected Chinese spy</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-17-12-57-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/the-angry-democratic-base-powering-the-challenge-to-chuck-schumer-cbe2bcda?mod=rss_socialpoliticsfeed">Progressive activists say the Senate next year should have a new majority leader who they think understands the call for change &#8212;Sen. Chris Van Hollen</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-17-20-01-00 +0000</span></div>
             </li>
         
 
@@ -256,220 +256,157 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 1h</h2>
     <ul>
         
+            <li><a href="https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/">Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-18-04-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/">Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-18-04-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/17/us-news/yosemite-closes-roads-and-campgrounds-ahead-of-major-winter-storm/">Yosemite issues urgent travel warning as severe winter storm barrels toward national park</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-18-04-37-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436?mod=rss_worldnews">Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-04-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss">Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-18-04-34-39 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit">Live Updates: Trump Meets Philippine Leader Before Flying to China</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-03-52-54 +0000</span></div>
+            <span class="datetime">2026-11-18-04-33-50 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html">Cause of Recent Tech Outages Isn&#8217;t Hackers, Rubio Says</a>
+            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-03-51-05 +0000</span></div>
+            <span class="datetime">2026-11-18-04-29-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html">After Days of Digital Outages, Americans Wonder if the Country Is Breaking</a>
+            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-03-49-36 +0000</span></div>
+            <span class="datetime">2026-11-18-04-29-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html">After Days of Digital Outages, Americans Wonder if the Country Is Breaking</a>
+            <li><a href="https://www.startribune.com/fridley-school-board-bca-investigation/601921485">Fridley school board hires firm to conduct district investigation amid BCA probe</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-49-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-49-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-49-12 +0000</span></div>
+            startribune, 
+            <span class="datetime">2026-11-18-04-28-35 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.wsj.com/politics/elections/democrat-mary-peltola-unseats-alaska-gop-sen-dan-sullivan-b6e6256b?mod=rss_socialpoliticsfeed">Democrat Mary Peltola unseated Republican Sen. Dan Sullivan of Alaska to become the first Alaska Native elected to the U.S. Senate, expanding the majority her party won in the midterm elections</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-18-03-49-00 +0000</span></div>
+            <span class="datetime">2026-11-18-04-23-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/health/2026/11/17/white-house-pulls-fda-nominee-amid-bipartisan-pushback/">White House pulls FDA nominee amid political pushback</a>
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
             <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-18-03-48-40 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-11-18-04-18-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-portland-trail-blazers-score-today-lamelo-ball-stats-anthony-edwards-injury/601914495">Live: Wolves claw back to beat Trail Blazers in second game of back-to-back</a>
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-18-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html">Rubio Says Rush to Secure Systems May Be Causing Failures</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-13-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html">Rubio Says Rush to Secure Systems May Be Causing Failures</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-13-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f">Waymo Restricts Freeway Operations After California Ban</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-04-13-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html">For Democrats, a Leadership Fight Is Marring an Electoral Triumph</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-11-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html">For Democrats, a Leadership Fight Is Marring an Electoral Triumph</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-11-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/minnesota-timberwolves-portland-trail-blazers-score-today-lamelo-ball-stats-anthony-edwards-injury/601914495">Wolves get clutch play in final seconds to beat Trail Blazers for two-game sweep</a>
             <div class='byline small text-muted'>
             startribune, 
-            <span class="datetime">2026-11-18-03-46-21 +0000</span></div>
+            <span class="datetime">2026-11-18-04-10-22 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html">They&#8217;re Young and Frustrated and Want France to Change. They Disagree on How.</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss">Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-46-06 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-18-04-00-54 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html">They&#8217;re Young and Frustrated and Want France to Change. They Disagree on How.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-46-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html">Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-33-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html">Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-33-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/national-security/2026/11/17/peltola-win-doesnt-end-doj-scrutiny-alaska-senate-race-officials-say/">Peltola win doesn&#8217;t end DOJ scrutiny of Alaska Senate race, officials say</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-18-03-28-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/17/illinois-gop-keeps-leaders-mccombie-in-the-house-curran-in-the-senate-despite-republican-election-losses/">Illinois GOP keeps leaders McCombie in the House, Curran in the Senate despite Republican election losses</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-18-03-27-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html">White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-26-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html">White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-26-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html">White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-26-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-philippines-palace.html">Marcos Is Hosting Trump on Grounds Where He Spent Much of His Childhood</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-25-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/trump-marcos-philippines-palace.html">Marcos Is Hosting Trump on Grounds Where He Spent Much of His Childhood</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-25-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-23-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-23-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/17/alaska-senate-election-live-results-mary-peltola-defeats-dan-sullivan/">Mary Peltola flips Alaska seat, giving Democrats a 56-44 edge in Senate</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-18-03-20-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html">National Book Award Finalist May Be Ineligible for the Prize</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-10-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html">National Book Award Finalist May Be Ineligible for the Prize</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-10-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html">Young Filipinos Protest Trump and Marcos Before They Meet</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-07-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html">Young Filipinos Protest Trump and Marcos Before They Meet</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-07-55 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/17/us-news/rubio-insists-zero-evidence-that-widespread-us-tech-outages-cyberattacks-are-linked/">Rubio insists &#8216;zero evidence&#8217; that widespread US tech outages, cyberattacks are linked</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-18-03-03-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/17/us-news/rubio-insists-zero-evidence-that-widespread-us-tech-outages-cyberattacks-are-linked/">Rubio insists &#8216;zero evidence&#8217; that widespread US tech outages, cyberattacks are linked</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-18-03-03-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/he-runs-one-of-the-worlds-deadliest-military-forces-we-went-inside-his-bunker-ba042402?mod=rss_worldnews">He Runs One of the World&#8217;s Deadliest Military Forces. We Went Inside His Bunker.</a>
+            <li><a href="https://www.wsj.com/politics/policy/trumps-pick-to-lead-the-fda-is-in-jeopardy-f08a33bc?mod=rss_socialpoliticsfeed">The Trump administration is pulling the nomination of Dr. Heidi Overton to lead the FDA amid signs she lacks the support to get confirmed by the Senate</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-18-03-00-00 +0000</span></div>
+            <span class="datetime">2026-11-18-03-58-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/world/u-s-enters-unprecedented-three-way-nuclear-rivalry-with-china-and-russia-2f2385c3?mod=rss_worldnews">U.S. Enters Unprecedented Three-Way Nuclear Rivalry With China and Russia</a>
+            <li><a href="https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html">Nvidia Has No Plans to Bring Back Jensen Huang</a>
             <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-18-03-00-00 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-11-18-03-57-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss">Mary Peltola wins U.S. Senate seat in Alaska for Democrats</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-18-03-56-54 +0000</span></div>
             </li>
         
     </ul>
@@ -479,52 +416,171 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 24h</h2>
     <ul>
         
+            <li><a href="https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/">Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-18-04-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/">Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-18-04-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/17/us-news/yosemite-closes-roads-and-campgrounds-ahead-of-major-winter-storm/">Yosemite issues urgent travel warning as severe winter storm barrels toward national park</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-18-04-37-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436?mod=rss_worldnews">Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-04-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss">Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-18-04-34-39 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit">Live Updates: Trump Meets Philippine Leader Before Flying to China</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-03-52-54 +0000</span></div>
+            <span class="datetime">2026-11-18-04-33-50 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html">Cause of Recent Tech Outages Isn&#8217;t Hackers, Rubio Says</a>
+            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-03-51-05 +0000</span></div>
+            <span class="datetime">2026-11-18-04-29-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html">After Days of Digital Outages, Americans Wonder if the Country Is Breaking</a>
+            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-03-49-36 +0000</span></div>
+            <span class="datetime">2026-11-18-04-29-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html">After Days of Digital Outages, Americans Wonder if the Country Is Breaking</a>
+            <li><a href="https://www.startribune.com/fridley-school-board-bca-investigation/601921485">Fridley school board hires firm to conduct district investigation amid BCA probe</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-49-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-49-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-49-12 +0000</span></div>
+            startribune, 
+            <span class="datetime">2026-11-18-04-28-35 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.wsj.com/politics/elections/democrat-mary-peltola-unseats-alaska-gop-sen-dan-sullivan-b6e6256b?mod=rss_socialpoliticsfeed">Democrat Mary Peltola unseated Republican Sen. Dan Sullivan of Alaska to become the first Alaska Native elected to the U.S. Senate, expanding the majority her party won in the midterm elections</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-18-03-49-00 +0000</span></div>
+            <span class="datetime">2026-11-18-04-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-18-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-18-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html">Rubio Says Rush to Secure Systems May Be Causing Failures</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-13-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html">Rubio Says Rush to Secure Systems May Be Causing Failures</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-13-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f">Waymo Restricts Freeway Operations After California Ban</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-04-13-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html">For Democrats, a Leadership Fight Is Marring an Electoral Triumph</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-11-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html">For Democrats, a Leadership Fight Is Marring an Electoral Triumph</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-11-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/minnesota-timberwolves-portland-trail-blazers-score-today-lamelo-ball-stats-anthony-edwards-injury/601914495">Wolves get clutch play in final seconds to beat Trail Blazers for two-game sweep</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-18-04-10-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss">Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-18-04-00-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/trumps-pick-to-lead-the-fda-is-in-jeopardy-f08a33bc?mod=rss_socialpoliticsfeed">The Trump administration is pulling the nomination of Dr. Heidi Overton to lead the FDA amid signs she lacks the support to get confirmed by the Senate</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-03-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html">Nvidia Has No Plans to Bring Back Jensen Huang</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-03-57-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss">Mary Peltola wins U.S. Senate seat in Alaska for Democrats</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-18-03-56-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html">After Days of Digital Outages, Americans Wonder if the Country Is Breaking</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-03-49-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html">After Days of Digital Outages, Americans Wonder if the Country Is Breaking</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-03-49-36 +0000</span></div>
             </li>
         
 
@@ -532,13 +588,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-18-03-48-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-portland-trail-blazers-score-today-lamelo-ball-stats-anthony-edwards-injury/601914495">Live: Wolves claw back to beat Trail Blazers in second game of back-to-back</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-18-03-46-21 +0000</span></div>
             </li>
         
 
@@ -619,20 +668,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-23-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-23-08 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.washingtonpost.com/politics/2026/11/17/alaska-senate-election-live-results-mary-peltola-defeats-dan-sullivan/">Mary Peltola flips Alaska seat, giving Democrats a 56-44 edge in Senate</a>
             <div class='byline small text-muted'>
             wapo, 
@@ -640,20 +675,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html">National Book Award Finalist May Be Ineligible for the Prize</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-10-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html">National Book Award Finalist May Be Ineligible for the Prize</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-10-58 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html">Young Filipinos Protest Trump and Marcos Before They Meet</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -665,6 +686,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-18-03-07-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss">Waymo pulls driverless taxis from all US freeways</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-18-03-07-22 +0000</span></div>
             </li>
         
 
@@ -724,13 +752,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss">Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-02-40-45 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/policy/cascade-of-outages-triggers-conspiracy-theoriesand-finger-pointing-4fb3310f?mod=rss_socialpoliticsfeed">Some of President Trump&#8217;s political allies are frustrated with the government&#8217;s response to a series of high-profile outages that affected email systems, banks and airports</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -773,7 +794,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-17/franklin-high-student-altercation-fatal-fall-medical-examiner-report-lausd">Franklin High teen instigated physical altercation before fatal fall, new report concludes</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-17/franklin-high-student-altercation-fatal-fall-medical-examiner-report-lausd">Franklin High teen instigated physical altercation before fatal fall, new report states</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-18-02-14-16 +0000</span></div>
@@ -783,14 +804,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html">Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi&#8217;s Big Moment?</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-02-11-26 +0000</span></div>
+            <span class="datetime">2026-11-18-02-11-27 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html">Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi&#8217;s Big Moment?</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-02-11-26 +0000</span></div>
+            <span class="datetime">2026-11-18-02-11-27 +0000</span></div>
             </li>
         
 
@@ -1025,24 +1046,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html">Nvidia Has No Plans to Bring Back Jensen Huang</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-00-47-02 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss">Government risks missing climate targets if EV rules weakened, adviser warns</a>
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-18-00-44-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/trumps-pick-to-lead-the-fda-is-in-jeopardy-f08a33bc?mod=rss_socialpoliticsfeed">The Trump administration is pulling the nomination of Dr. Heidi Overton to lead the FDA amid signs she lacks the support to get confirmed by the Senate</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-18-00-41-00 +0000</span></div>
             </li>
         
 
@@ -1396,20 +1403,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html">For Democrats, a Leadership Fight Is Marring an Electoral Triumph</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-17-23-23-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html">For Democrats, a Leadership Fight Is Marring an Electoral Triumph</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-17-23-23-41 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/commerce-secretary-howard-lutnick-took-a-softer-line-on-nvidia-as-calls-for-tougher-controls-grew">Commerce Secretary Howard Lutnick took a softer line on Nvidia as calls for tougher controls grew.</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -1533,20 +1526,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-11-17-22-56-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/17/us-news/boy-who-jumped-from-la-school-threw-first-punch-in-brawl-before-tragedy/">Bombshell twist in investigation of LA teen who leaped to his death after fight with classmate</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-17-22-55-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/17/us-news/republican-congresswoman-missed-senate-vote-after-flight-grounded-due-to-engine-problems/">GOP Senator Ashley Moody missed vote after DC-bound flight grounded due to engine problems</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-17-22-55-19 +0000</span></div>
             </li>
         
 
@@ -3867,13 +3846,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/business/jensen-huang-congress-nvidia-exports-9.7424742?cmp=rss">Former Nvidia CEO Jensen Huang signals willingness to return as CEO</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-17-13-30-31 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html">A Kalshi Ad With Martha Stewart Warns Against Insider Trading</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -4025,13 +3997,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-17-12-07-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/who-are-fridley-schools-brenda-lewis-and-rochelle-cox/601919815">Fridley school leaders under investigation built reputations in turbulent times</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-17-12-00-00 +0000</span></div>
             </li>
         
 
@@ -4235,13 +4200,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-17-11-00-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/17/us-news/markwayne-mullin-took-his-government-plane-to-lsu-texas-game-as-thousands-were-stranded-in-faa-ground-stoppage/">Markwayne Mullin took his government plane to LSU-Texas game as thousands were stranded in FAA ground stoppage</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-17-11-00-00 +0000</span></div>
             </li>
         
 
@@ -4748,27 +4706,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-11-17-04-59-00 +0000</span></div>
             </li>
         
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/16/trump-presidential-library-foundation-raised-576-million-2025-tax-filing-shows/">Trump&#8217;s library took in $57.6 million. Its donors are not listed.</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-17-04-42-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/16/tiago-splitter-chicago-bulls-lincoln-park/">Chicago Bulls head coach Tiago Splitter buys $3.2M Lincoln Park home</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-17-04-17-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/canada-china-carney-xi-9.7424608?cmp=rss">Canada and China announce new trade measures and cultural partnerships on Carney's 1st day in Shenzhen</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-17-04-15-00 +0000</span></div>
-            </li>
-        
     </ul>
 </div>
 
@@ -4776,52 +4713,171 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 7d</h2>
     <ul>
         
+            <li><a href="https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/">Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-18-04-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/">Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-18-04-46-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/17/us-news/yosemite-closes-roads-and-campgrounds-ahead-of-major-winter-storm/">Yosemite issues urgent travel warning as severe winter storm barrels toward national park</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-18-04-37-42 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436?mod=rss_worldnews">Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-04-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss">Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-18-04-34-39 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit">Live Updates: Trump Meets Philippine Leader Before Flying to China</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-03-52-54 +0000</span></div>
+            <span class="datetime">2026-11-18-04-33-50 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html">Cause of Recent Tech Outages Isn&#8217;t Hackers, Rubio Says</a>
+            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-03-51-05 +0000</span></div>
+            <span class="datetime">2026-11-18-04-29-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html">After Days of Digital Outages, Americans Wonder if the Country Is Breaking</a>
+            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-03-49-36 +0000</span></div>
+            <span class="datetime">2026-11-18-04-29-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html">After Days of Digital Outages, Americans Wonder if the Country Is Breaking</a>
+            <li><a href="https://www.startribune.com/fridley-school-board-bca-investigation/601921485">Fridley school board hires firm to conduct district investigation amid BCA probe</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-49-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-49-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-49-12 +0000</span></div>
+            startribune, 
+            <span class="datetime">2026-11-18-04-28-35 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.wsj.com/politics/elections/democrat-mary-peltola-unseats-alaska-gop-sen-dan-sullivan-b6e6256b?mod=rss_socialpoliticsfeed">Democrat Mary Peltola unseated Republican Sen. Dan Sullivan of Alaska to become the first Alaska Native elected to the U.S. Senate, expanding the majority her party won in the midterm elections</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-18-03-49-00 +0000</span></div>
+            <span class="datetime">2026-11-18-04-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-18-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-18-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html">Rubio Says Rush to Secure Systems May Be Causing Failures</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-13-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html">Rubio Says Rush to Secure Systems May Be Causing Failures</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-13-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f">Waymo Restricts Freeway Operations After California Ban</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-04-13-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html">For Democrats, a Leadership Fight Is Marring an Electoral Triumph</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-11-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html">For Democrats, a Leadership Fight Is Marring an Electoral Triumph</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-04-11-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/minnesota-timberwolves-portland-trail-blazers-score-today-lamelo-ball-stats-anthony-edwards-injury/601914495">Wolves get clutch play in final seconds to beat Trail Blazers for two-game sweep</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-18-04-10-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss">Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-18-04-00-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/policy/trumps-pick-to-lead-the-fda-is-in-jeopardy-f08a33bc?mod=rss_socialpoliticsfeed">The Trump administration is pulling the nomination of Dr. Heidi Overton to lead the FDA amid signs she lacks the support to get confirmed by the Senate</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-03-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html">Nvidia Has No Plans to Bring Back Jensen Huang</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-03-57-08 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss">Mary Peltola wins U.S. Senate seat in Alaska for Democrats</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-18-03-56-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html">After Days of Digital Outages, Americans Wonder if the Country Is Breaking</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-03-49-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html">After Days of Digital Outages, Americans Wonder if the Country Is Breaking</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-18-03-49-36 +0000</span></div>
             </li>
         
 
@@ -4829,13 +4885,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-18-03-48-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-timberwolves-portland-trail-blazers-score-today-lamelo-ball-stats-anthony-edwards-injury/601914495">Live: Wolves claw back to beat Trail Blazers in second game of back-to-back</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-18-03-46-21 +0000</span></div>
             </li>
         
 
@@ -4916,20 +4965,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-23-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-23-08 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.washingtonpost.com/politics/2026/11/17/alaska-senate-election-live-results-mary-peltola-defeats-dan-sullivan/">Mary Peltola flips Alaska seat, giving Democrats a 56-44 edge in Senate</a>
             <div class='byline small text-muted'>
             wapo, 
@@ -4937,20 +4972,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html">National Book Award Finalist May Be Ineligible for the Prize</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-10-58 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/americas/national-book-award-nonfiction-elgendy-eligibility.html">National Book Award Finalist May Be Ineligible for the Prize</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-03-10-58 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html">Young Filipinos Protest Trump and Marcos Before They Meet</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -4962,6 +4983,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-18-03-07-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss">Waymo pulls driverless taxis from all US freeways</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-18-03-07-22 +0000</span></div>
             </li>
         
 
@@ -5021,13 +5049,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss">Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-02-40-45 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/politics/policy/cascade-of-outages-triggers-conspiracy-theoriesand-finger-pointing-4fb3310f?mod=rss_socialpoliticsfeed">Some of President Trump&#8217;s political allies are frustrated with the government&#8217;s response to a series of high-profile outages that affected email systems, banks and airports</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -5070,7 +5091,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-17/franklin-high-student-altercation-fatal-fall-medical-examiner-report-lausd">Franklin High teen instigated physical altercation before fatal fall, new report concludes</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-17/franklin-high-student-altercation-fatal-fall-medical-examiner-report-lausd">Franklin High teen instigated physical altercation before fatal fall, new report states</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-18-02-14-16 +0000</span></div>
@@ -5080,14 +5101,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html">Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi&#8217;s Big Moment?</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-02-11-26 +0000</span></div>
+            <span class="datetime">2026-11-18-02-11-27 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html">Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi&#8217;s Big Moment?</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-18-02-11-26 +0000</span></div>
+            <span class="datetime">2026-11-18-02-11-27 +0000</span></div>
             </li>
         
 
@@ -5322,24 +5343,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html">Nvidia Has No Plans to Bring Back Jensen Huang</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-00-47-02 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss">Government risks missing climate targets if EV rules weakened, adviser warns</a>
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-18-00-44-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/trumps-pick-to-lead-the-fda-is-in-jeopardy-f08a33bc?mod=rss_socialpoliticsfeed">The Trump administration is pulling the nomination of Dr. Heidi Overton to lead the FDA amid signs she lacks the support to get confirmed by the Senate</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-18-00-41-00 +0000</span></div>
             </li>
         
 
@@ -5693,20 +5700,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html">For Democrats, a Leadership Fight Is Marring an Electoral Triumph</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-17-23-23-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html">For Democrats, a Leadership Fight Is Marring an Electoral Triumph</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-17-23-23-41 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/commerce-secretary-howard-lutnick-took-a-softer-line-on-nvidia-as-calls-for-tougher-controls-grew">Commerce Secretary Howard Lutnick took a softer line on Nvidia as calls for tougher controls grew.</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -5830,20 +5823,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-11-17-22-56-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/17/us-news/boy-who-jumped-from-la-school-threw-first-punch-in-brawl-before-tragedy/">Bombshell twist in investigation of LA teen who leaped to his death after fight with classmate</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-17-22-55-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/17/us-news/republican-congresswoman-missed-senate-vote-after-flight-grounded-due-to-engine-problems/">GOP Senator Ashley Moody missed vote after DC-bound flight grounded due to engine problems</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-17-22-55-19 +0000</span></div>
             </li>
         
 
@@ -8164,13 +8143,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/business/jensen-huang-congress-nvidia-exports-9.7424742?cmp=rss">Former Nvidia CEO Jensen Huang signals willingness to return as CEO</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-17-13-30-31 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html">A Kalshi Ad With Martha Stewart Warns Against Insider Trading</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -8322,13 +8294,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-17-12-07-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/who-are-fridley-schools-brenda-lewis-and-rochelle-cox/601919815">Fridley school leaders under investigation built reputations in turbulent times</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-17-12-00-00 +0000</span></div>
             </li>
         
 
@@ -8532,13 +8497,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-17-11-00-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/17/us-news/markwayne-mullin-took-his-government-plane-to-lsu-texas-game-as-thousands-were-stranded-in-faa-ground-stoppage/">Markwayne Mullin took his government plane to LSU-Texas game as thousands were stranded in FAA ground stoppage</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-17-11-00-00 +0000</span></div>
             </li>
         
 
@@ -9144,13 +9102,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss">Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-17-02-38-08 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e?mod=pls_whats_news_us_business_f">Nvidia Board Warned of &#8216;Irreplaceable&#8217; Talent Loss in Employee Letter</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -9596,13 +9547,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-16-22-16-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html">10 Numbers That Might Change How You See Asia</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-16-22-14-10 +0000</span></div>
             </li>
         
 
@@ -10747,14 +10691,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/16/trump-heads-asia-hobbled-by-nvidia-scandal-midterm-losses/">Midterm losses, Nvidia scandal weaken Trump as he faces Xi and Putin</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/16/how-annie-andrews-went-liberal-gun-control-activist-unlikely-red-state-senator/">How Annie Andrews went from liberal gun-control activist to unlikely red-state senator</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-16-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/16/how-annie-andrews-went-liberal-gun-control-activist-unlikely-red-state-senator/">How Annie Andrews went from liberal gun-control activist to unlikely red-state senator</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/16/trump-heads-asia-hobbled-by-nvidia-scandal-midterm-losses/">Midterm losses, Nvidia scandal weaken Trump as he faces Xi and Putin</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-16-10-00-00 +0000</span></div>
@@ -10768,14 +10712,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/business/2026/11/16/trumps-stake-nvidia-grew-much-62-million-before-scandal-broke-out/">Trump&#8217;s stake in Nvidia grew to as much as $62 million before scandal broke out</a>
+            <li><a href="https://www.washingtonpost.com/business/2026/11/16/is-it-worth-trying-avoid-probate-if-you-arent-rich/">Is it worth trying to avoid probate if you aren&#8217;t wealthy?</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-16-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/business/2026/11/16/is-it-worth-trying-avoid-probate-if-you-arent-rich/">Is it worth trying to avoid probate if you aren&#8217;t wealthy?</a>
+            <li><a href="https://www.washingtonpost.com/business/2026/11/16/trumps-stake-nvidia-grew-much-62-million-before-scandal-broke-out/">Trump&#8217;s stake in Nvidia grew to as much as $62 million before scandal broke out</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-16-10-00-00 +0000</span></div>
@@ -11573,6 +11517,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html">In Europe, an Emboldened Iran Contributes to a Sense of Anxiety</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-15-05-01-20 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.nytimes.com/2026/11/14/world/americas/mexico-gabito-ballesteros-arrested-narocorridos.html">A Mexican Artist Sang Some of His Hits. Authorities Stopped the Show, Then Arrested Him.</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -11818,13 +11769,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/autos/why-tesla-is-pulling-the-plug-on-cybertruck-b6c2f97b?mod=pls_whats_news_us_business_f">Why Tesla Is Pulling the Plug on Cybertruck</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-14-15-03-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/11/14/chicago-airports-flight-delays-cancellations/">Chicago travelers frustrated, relieved as impacts from FAA ground stop reverberate</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -12011,13 +11955,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-14-07-15-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss">Microsoft says services fully restored after day-long global outage</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-14-06-42-27 +0000</span></div>
             </li>
         
 
@@ -13036,6 +12973,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html">The Man Who Helped the C.I.A. Secretly Operate in Mexico</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-12-22-04-47 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html">Mexican Prosecutor Who Helped C.I.A. Secretly Operate in His State Flees to the U.S.</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -13351,14 +13295,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/world-nation/story/2026-11-12/white-house-chief-of-staff-stephen-miller-trump-judges">Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?</a>
+            <li><a href="https://www.latimes.com/politics/story/2026-11-12/christmas-came-early-with-dem-midterm-wins-time-to-put-up-tree">Commentary: Christmas came early thanks to the Dems' midterm sweeps. The tree is going up</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-12-11-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-11-12/christmas-came-early-with-dem-midterm-wins-time-to-put-up-tree">Commentary: Christmas came early thanks to the Dems' midterm sweeps. The tree is going up</a>
+            <li><a href="https://www.latimes.com/world-nation/story/2026-11-12/white-house-chief-of-staff-stephen-miller-trump-judges">Stephen Miller expected to push hard-line Trump agenda. Will courts stand in the way?</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-12-11-00-00 +0000</span></div>
