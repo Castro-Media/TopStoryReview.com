@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-18 10:11 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-18 11:10 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.wsj.com/world/china/in-choosing-shenzhen-for-trump-putin-summit-xi-shows-off-his-tech-ambitions-8bafa9a7?mod=rss_worldnews">In Choosing Shenzhen for Trump-Putin Summit, Xi Shows Off His Tech Ambitions</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-18-08-51-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss">Higher petrol and diesel prices push UK inflation to 3.6%</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-45-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss">Ghana's new $60m presidential jet sparks public outrage</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-08-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html">Tracking China&#8217;s Intensifying War of Words Against Japan</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-14-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/18/us-news/trump-says-us-wrapped-up-very-big-trade-deal-with-philippines/">Trump says US wrapped up &#8216;very big trade deal&#8217; with Philippines</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-18-08-31-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit">A tropical Chinese city is half-empty and ready for the summit.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-04-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html">Trump and Marcos Share a Moment Over Jollibee Fried Chicken</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-34-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss">Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-33-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/18/world-news/swedish-politician-lars-eriksson-fired-from-jokkmokk-government-for-producing-porn/">Swedish municipal executive Lars Eriksson fired after starring in, producing adult films</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-18-08-53-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss">Security flaw found in Java, world's third-largest programming language</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-47-06 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -111,7 +42,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_socialeconomyfeed">A lawyer for Fed governor Lisa Cook said she won&#8217;t participate in a White House hearing on whether to fire her unless the Trump administration removes a senior economic adviser from the panel</a>
+            <li><a href="https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_socialpoliticsfeed">A lawyer for Fed governor Lisa Cook said she won&#8217;t participate in a White House hearing on whether to fire her unless the Trump administration removes a senior economic adviser from the panel</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-17-18-34-00 +0000</span></div>
@@ -255,187 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/11/18/world-news/swedish-politician-lars-eriksson-fired-from-jokkmokk-government-for-producing-porn/">Swedish municipal executive Lars Eriksson fired after starring in, producing adult films</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-18-08-53-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/china/in-choosing-shenzhen-for-trump-putin-summit-xi-shows-off-his-tech-ambitions-8bafa9a7?mod=rss_worldnews">In Choosing Shenzhen for Trump-Putin Summit, Xi Shows Off His Tech Ambitions</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-18-08-51-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-50-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/heres-the-latest">Here&#8217;s the latest.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-50-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cm792dqz4qvyo?at_medium=RSS&at_campaign=rss">MP urges council to speed up heating oil payments</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-48-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss">Security flaw found in Java, world's third-largest programming language</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-47-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss">Higher petrol and diesel prices push UK inflation to 3.6%</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-45-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss">Higher petrol and diesel prices push UK inflation to 3.6%</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-45-38 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-20-year-auction-91707090?mod=rss_markets_main">Gilt Yields Fall After U.K. Services Inflation Undershoots BOE Forecast</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-18-08-38-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?mod=rss_markets_main">European Indexes Mixed as Tech Gains on Nvidia Results</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-18-08-35-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html">Trump and Marcos Share a Moment Over Jollibee Fried Chicken</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-34-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html">Trump and Marcos Share a Moment Over Jollibee Fried Chicken</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-34-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss">BBC correspondents discuss historic Trump, Xi and Putin meeting</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-33-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss">Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-33-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/18/us-news/trump-says-us-wrapped-up-very-big-trade-deal-with-philippines/">Trump says US wrapped up &#8216;very big trade deal&#8217; with Philippines</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-18-08-31-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/18/us-news/trump-says-us-wrapped-up-very-big-trade-deal-with-philippines/">Trump says US wrapped up &#8216;very big trade deal&#8217; with Philippines</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-18-08-31-11 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/generali-expects-to-exceed-2027-targets-as-ai-adoption-ramps-up-1d1787cf?mod=pls_whats_news_us_business_f">Generali Expects to Exceed 2027 Targets as AI Adoption Ramps Up</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-18-08-23-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/18/us/trump-administration-presses-ahead-in-legal-battle-over-us-attorneys.html">Trump Administration Presses Ahead in Legal Battle Over U.S. Attorneys</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-21-49 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html">Tracking China&#8217;s Intensifying War of Words Against Japan</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-14-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html">Tracking China&#8217;s Intensifying War of Words Against Japan</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-14-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss">Ghana's new $60m presidential jet sparks public outrage</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-08-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss">Ghana's new $60m presidential jet sparks public outrage</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-18-08-08-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-18/santa-ana-suspends-its-flock-license-plate-reader-camera-system">Santa Ana suspends its Flock license plate reader camera system</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-18-08-06-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit">A tropical Chinese city is half-empty and ready for the summit.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-04-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit">A tropical Chinese city is half-empty and ready for the summit.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-04-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/18/insider/new-york-city-jobs.html">Capturing the Hustle of Unsung Jobs in New York City</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-18-08-00-26 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -4781,41 +4531,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-17-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/ukrainian-strike-severs-part-of-russias-crimean-bridge-a688b0f1?mod=rss_worldnews">Ukrainian Strike Severs Part of Russia&#8217;s Crimean Bridge</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-17-09-47-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/17/today-in-history-suez-canal-opens/">Today in History: Suez Canal opens</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-17-09-30-35 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss">Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-17-09-27-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/trump-congress-democrats-affordability-accountability-9.7421040?cmp=rss">Investigate Trump or work with him? Democrats debate best path forward</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-17-09-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/rwanda-deportation-hub-european-countries-9.7423753?cmp=rss">5 European countries want to start deporting migrants to Rwanda, despite concerns from human rights groups</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-17-09-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -13775,41 +13490,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-11-11-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66?mod=rss_worldnews">Trump&#8217;s Plan to Import Russian Diesel Stalls on the High Seas</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-11-09-34-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html">Lebanon Faces Economic &#8216;Catastrophe&#8217; After War and Years of Mismanagement</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-11-09-31-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html">Lebanon Faces Economic &#8216;Catastrophe&#8217; After War and Years of Mismanagement</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-11-09-31-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/11/today-in-history-nat-turner-executed/">Today in History: Nat Turner executed</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-11-09-30-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss">Watch: Vin&#237;cius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-11-09-28-36 +0000</span></div>
             </li>
         
     </ul>
