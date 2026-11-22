@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-22 16:10 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-22 17:08 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,73 +28,73 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html">Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.</a>
+            <li><a href="https://nypost.com/2026/11/22/us-news/iran-shows-off-underground-missile-city-with-new-double-launcher/">Iran taunts Trump, shows off underground &#8216;missile city&#8217; with new double launcher</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-34-02 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-11-22-15-27-09 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html">Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-47-12 +0000</span></div>
+            <span class="datetime">2026-11-22-15-04-54 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss">Three killed and dozens missing after fire at Indonesian factory</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-22-14-05-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/22/us-news/illegal-migrant-accused-of-killing-grandmother-wont-face-charges-as-family-blasts-decision/">Illegal migrant accused of killing grandmother won&#8217;t face charges &#8211; as grieving family blasts shocking decision</a>
+            <li><a href="https://nypost.com/2026/11/22/us-news/relentless-storm-train-takes-aim-at-west-coast-threatening-major-thanksgiving-travel-delays/">Relentless storm train takes aim at West Coast, threatening major Thanksgiving travel delays</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-22-14-10-03 +0000</span></div>
+            <span class="datetime">2026-11-22-15-20-59 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html">How a Crash Into a Cruise Ship in New Orleans Became a &#8216;Miracle on the Mississippi&#8217;</a>
+            <li><a href="https://nypost.com/2026/11/22/us-news/38000-gallon-sewage-spill-closes-san-diegos-dog-beach-in-ocean-beach/">Disgusting California sewage spill sends 38K gallons of filth flowing into Pacific Ocean</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-00-16 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-11-22-15-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/climate-environment/2026/11/22/cop31-negotiations-break-down-countries-fail-agree-climate-deal/">COP31 negotiations break down as countries fail to agree on climate deal</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-22-14-43-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/trump-reposts-el-sayeds-trumpcare-proposal/">Trump reposts El-Sayed&#8217;s &#8216;TrumpCare&#8217; pitch for universal health care</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/why-this-incoming-congresswoman-opposed-jeffries-speaker/">Why this incoming congresswoman opposed Jeffries for speaker</a>
             <div class='byline small text-muted'>
             wapo, 
-            <span class="datetime">2026-11-22-14-25-59 +0000</span></div>
+            <span class="datetime">2026-11-22-15-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/22/broadview-six-judge-slaps-down-doj-request-for-her-to-step-aside/">&#8216;Broadview Six&#8217; judge slaps down DOJ request for her to step aside</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-22-15-42-01 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html">St. Patrick&#8217;s Day Parade Canceled as Florida Figures Out D.E.I. Law</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-52-52 +0000</span></div>
+            <span class="datetime">2026-11-22-15-33-55 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html">U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels</a>
+            <li><a href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html">COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-02-58 +0000</span></div>
+            <span class="datetime">2026-11-22-15-31-36 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html">How Six Americans Under 40 Are Saving for Retirement</a>
+            <li><a href="https://nypost.com/2026/11/22/world-news/at-least-2-killed-after-russian-drone-hits-building-in-kyiv-officials/">At least 2 killed after Russian drone hits building in Kyiv: officials</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-35-24 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-11-22-15-45-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/vladimir-putins-existential-fight-for-ukraine-5b9383b1?mod=rss_worldnews">Opinion | Vladimir Putin&#8217;s Existential Fight for Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-22-15-49-00 +0000</span></div>
             </li>
         
     </ul>
@@ -104,10 +104,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 24h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/11/21/us-news/trump-talks-reported-hacking-attempt-of-critical-fbi-database-russia-russia-russia/">Trump thinks there may be upside to reported cyberattack on critical FBI database: &#8216;Russia, Russia, Russia hoax&#8217;</a>
+            <li><a href="https://nypost.com/2026/11/22/us-news/iran-shows-off-underground-missile-city-with-new-double-launcher/">Iran taunts Trump, shows off underground &#8216;missile city&#8217; with new double launcher</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-21-16-11-17 +0000</span></div>
+            <span class="datetime">2026-11-22-15-27-09 +0000</span></div>
             </li>
         
 
@@ -132,17 +132,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss">'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/trump-keeps-losing-court-heres-how-he-gets-what-he-wants-anyway/">Trump keeps losing in court. Here&#8217;s how he gets what he wants anyway.</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-22-06-01-49 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/21/el-chapo-isidro/">Mexico detains top cartel boss &#8216;El Chapo Isidro,&#8217; one of FBI&#8217;s 10 most wanted fugitives</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-21-15-10-50 +0000</span></div>
+            wapo, 
+            <span class="datetime">2026-11-22-11-00-00 +0000</span></div>
             </li>
         
 
@@ -153,24 +146,31 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/21/us-news/trump-defends-stephen-miller-after-hakeem-jeffries-blasted-controversial-new-chief-of-staff-as-stone-cold-racist/">Trump defends Stephen Miller after Hakeem Jeffries blasted controversial new chief of staff as &#8216;stone cold racist&#8217;</a>
+            <li><a href="https://nypost.com/2026/11/21/us-news/trump-talks-reported-hacking-attempt-of-critical-fbi-database-russia-russia-russia/">Trump thinks there may be upside to reported cyberattack on critical FBI database: &#8216;Russia, Russia, Russia hoax&#8217;</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-21-16-32-51 +0000</span></div>
+            <span class="datetime">2026-11-21-16-11-17 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/21/nations-extend-talks-on-ai-killer-robots/">Nations agree to extend talks on AI killer robots but no firm commitment to rein them in</a>
+            <li><a href="https://nypost.com/2026/11/21/world-news/former-italian-police-chief-gianni-de-gennaro-78-takes-own-life-amid-mafia-probe/">Former Italian police chief Gianni  De Gennaro, 78, takes own life during mafia probe</a>
             <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-21-23-50-12 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-11-21-17-06-25 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/21/us-news/masked-ice-agents-drag-passengers-off-seattle-jet-bridge-delaying-la-flight/">ICE officers arrest Alaska Airlines passengers during boarding, delaying LA-bound flight</a>
+            <li><a href="https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html">South Korea&#8217;s Education Minister Resigns Over Anti-A.I. Cheating Rules</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-22-04-05-27 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-11-22-08-35-05 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/politics/canada-us-pentagon-restrictions-hegseth-9.7431302?cmp=rss">Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-21-17-39-29 +0000</span></div>
             </li>
         
     </ul>
@@ -187,24 +187,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/national-security/nvidia-forms-national-security-committee-after-huangs-exit-c3261fc2?mod=rss_socialpoliticsfeed">Nvidia formed a board committee to oversee national security and export controls, one of the first moves after a geopolitical firestorm over former CEO Jensen Huang&#8217;s affair with a suspected Chinese spy</a>
+            <li><a href="https://www.wsj.com/politics/national-security/the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-0bc1bd4a?mod=rss_socialpoliticsfeed">Jensen Huang&#8217;s ouster from Nvidia is giving new momentum to policymakers who want to regulate AI and set more guardrails around U.S. business activity with China</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-17-12-57-00 +0000</span></div>
+            <span class="datetime">2026-11-19-02-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss">What the new UK-EU deal could mean for future post-Brexit relations</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss">Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-11-20-21-43-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html">At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-20-17-45-55 +0000</span></div>
+            <span class="datetime">2026-11-20-16-41-52 +0000</span></div>
             </li>
         
 
@@ -215,17 +208,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.latimes.com/california/story/2026-11-19/california-state-bar-opens-investigation-into-former-white-house-press-secretary-katie-zacharia">California State Bar opens investigation into former White House Press Secretary Katie Zacharia</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-20-01-11-52 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/politics/policy/pentagon-military-budget-reconciliation-d8b14835?mod=rss_socialpoliticsfeed">Senate Republicans are suspending their effort to pass $350 billion in additional military spending as momentum fades to pay for the Iran war</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-19-22-06-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/20/california-bar-is-investigating-ex-white-house-press-secretary-katie-zacharia/">California Bar investigating ex-White House press secretary Katie Zacharia</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-20-18-08-34 +0000</span></div>
             </li>
         
 
@@ -236,17 +229,24 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss">Myanmar committed genocide against Rohingya minority, top UN court rules</a>
+            <li><a href="https://www.chicagotribune.com/2026/11/18/jennifer-soble-first-illinois-state-public-defender/">Illinois Supreme Court picks Jennifer Soble, Illinois Prison Project leader, as first state public defender</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-19-20-07-02 +0000</span></div>
+            chitri, 
+            <span class="datetime">2026-11-19-00-09-28 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html">After Bridge Attack, Putin Says He Will &#8216;Not Be Negotiating&#8217; Ukraine Cease-Fire</a>
+            <li><a href="https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html">At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-19-16-51-57 +0000</span></div>
+            <span class="datetime">2026-11-20-17-45-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/21/el-chapo-isidro/">Mexico detains top cartel boss &#8216;El Chapo Isidro,&#8217; one of FBI&#8217;s 10 most wanted fugitives</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-21-15-10-50 +0000</span></div>
             </li>
         
     </ul>
@@ -256,115 +256,122 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 1h</h2>
     <ul>
         
+            <li><a href="https://www.wsj.com/opinion/vladimir-putins-existential-fight-for-ukraine-5b9383b1?mod=rss_worldnews">Opinion | Vladimir Putin&#8217;s Existential Fight for Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-22-15-49-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/surviving-the-new-york-city-swindlers-on-the-fdr-drive-e3796d87?mod=rss_usnews">Opinion | Surviving the New York City Swindlers on the FDR Drive</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-22-15-47-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/elect-for-education-freedom-2c37e38f?mod=rss_usnews">Opinion | Elect for Education Freedom</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-22-15-46-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/world-news/at-least-2-killed-after-russian-drone-hits-building-in-kyiv-officials/">At least 2 killed after Russian drone hits building in Kyiv: officials</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-45-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/trump-weighs-senate-democrats-leadership-fight/">Trump weighs in on Senate Democrats&#8217; leadership fight</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-22-15-44-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/22/broadview-six-judge-slaps-down-doj-request-for-her-to-step-aside/">&#8216;Broadview Six&#8217; judge slaps down DOJ request for her to step aside</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-22-15-42-01 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html">St. Patrick&#8217;s Day Parade Canceled as Florida Figures Out D.E.I. Law</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-52-52 +0000</span></div>
+            <span class="datetime">2026-11-22-15-33-55 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html">Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-47-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html">Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-47-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/climate-environment/2026/11/22/cop31-negotiations-break-down-countries-fail-agree-climate-deal/">COP31 negotiations break down as countries fail to agree on climate deal</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-22-14-43-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html">How Six Americans Under 40 Are Saving for Retirement</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-35-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html">Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-34-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html">Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-34-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html">Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-34-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/trump-reposts-el-sayeds-trumpcare-proposal/">Trump reposts El-Sayed&#8217;s &#8216;TrumpCare&#8217; pitch for universal health care</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-22-14-25-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/22/us-news/illegal-migrant-accused-of-killing-grandmother-wont-face-charges-as-family-blasts-decision/">Illegal migrant accused of killing grandmother won&#8217;t face charges &#8211; as grieving family blasts shocking decision</a>
+            <li><a href="https://nypost.com/2026/11/22/us-news/9-wounded-in-shooting-at-private-concert-in-central-california/">Mass shooting at private concert rocks California city</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-22-14-10-03 +0000</span></div>
+            <span class="datetime">2026-11-22-15-31-47 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss">Three killed and dozens missing after fire at Indonesian factory</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-22-14-05-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss">Three killed and dozens missing after fire at Indonesian factory</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-22-14-05-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html">U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels</a>
+            <li><a href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html">COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-02-58 +0000</span></div>
+            <span class="datetime">2026-11-22-15-31-36 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html">A Riverboat Captain Recalls a Crash on the Mississippi</a>
+            <li><a href="https://nypost.com/2026/11/22/us-news/iran-shows-off-underground-missile-city-with-new-double-launcher/">Iran taunts Trump, shows off underground &#8216;missile city&#8217; with new double launcher</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-27-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/iran-shows-off-underground-missile-city-with-new-double-launcher/">Iran taunts Trump, shows off underground &#8216;missile city&#8217; with new double launcher</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-27-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/relentless-storm-train-takes-aim-at-west-coast-threatening-major-thanksgiving-travel-delays/">Relentless storm train takes aim at West Coast, threatening major Thanksgiving travel delays</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-20-59 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html">Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-02-55 +0000</span></div>
+            <span class="datetime">2026-11-22-15-04-54 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html">How a Crash Into a Cruise Ship in New Orleans Became a &#8216;Miracle on the Mississippi&#8217;</a>
+            <li><a href="https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html">Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-00-16 +0000</span></div>
+            <span class="datetime">2026-11-22-15-04-54 +0000</span></div>
             </li>
         
 
-            <li><a href="https://missionlocal.org/2026/11/small-entrance/">Small entrance</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/why-this-incoming-congresswoman-opposed-jeffries-speaker/">Why this incoming congresswoman opposed Jeffries for speaker</a>
             <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-11-22-14-00-00 +0000</span></div>
+            wapo, 
+            <span class="datetime">2026-11-22-15-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/38000-gallon-sewage-spill-closes-san-diegos-dog-beach-in-ocean-beach/">Disgusting California sewage spill sends 38K gallons of filth flowing into Pacific Ocean</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/why-this-incoming-congresswoman-opposed-jeffries-speaker/">Why this incoming congresswoman opposed Jeffries for speaker</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-22-15-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -374,24 +381,122 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 24h</h2>
     <ul>
         
+            <li><a href="https://www.wsj.com/opinion/vladimir-putins-existential-fight-for-ukraine-5b9383b1?mod=rss_worldnews">Opinion | Vladimir Putin&#8217;s Existential Fight for Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-22-15-49-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/surviving-the-new-york-city-swindlers-on-the-fdr-drive-e3796d87?mod=rss_usnews">Opinion | Surviving the New York City Swindlers on the FDR Drive</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-22-15-47-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/elect-for-education-freedom-2c37e38f?mod=rss_usnews">Opinion | Elect for Education Freedom</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-22-15-46-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/world-news/at-least-2-killed-after-russian-drone-hits-building-in-kyiv-officials/">At least 2 killed after Russian drone hits building in Kyiv: officials</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-45-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/trump-weighs-senate-democrats-leadership-fight/">Trump weighs in on Senate Democrats&#8217; leadership fight</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-22-15-44-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/22/broadview-six-judge-slaps-down-doj-request-for-her-to-step-aside/">&#8216;Broadview Six&#8217; judge slaps down DOJ request for her to step aside</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-22-15-42-01 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html">St. Patrick&#8217;s Day Parade Canceled as Florida Figures Out D.E.I. Law</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-52-52 +0000</span></div>
+            <span class="datetime">2026-11-22-15-33-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/9-wounded-in-shooting-at-private-concert-in-central-california/">Mass shooting at private concert rocks California city</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-31-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html">COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-22-15-31-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/iran-shows-off-underground-missile-city-with-new-double-launcher/">Iran taunts Trump, shows off underground &#8216;missile city&#8217; with new double launcher</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-27-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/iran-shows-off-underground-missile-city-with-new-double-launcher/">Iran taunts Trump, shows off underground &#8216;missile city&#8217; with new double launcher</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-27-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/relentless-storm-train-takes-aim-at-west-coast-threatening-major-thanksgiving-travel-delays/">Relentless storm train takes aim at West Coast, threatening major Thanksgiving travel delays</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-20-59 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html">Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-47-12 +0000</span></div>
+            <span class="datetime">2026-11-22-15-04-54 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html">Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-47-12 +0000</span></div>
+            <span class="datetime">2026-11-22-15-04-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/why-this-incoming-congresswoman-opposed-jeffries-speaker/">Why this incoming congresswoman opposed Jeffries for speaker</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-22-15-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/38000-gallon-sewage-spill-closes-san-diegos-dog-beach-in-ocean-beach/">Disgusting California sewage spill sends 38K gallons of filth flowing into Pacific Ocean</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/why-this-incoming-congresswoman-opposed-jeffries-speaker/">Why this incoming congresswoman opposed Jeffries for speaker</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-22-15-00-00 +0000</span></div>
             </li>
         
 
@@ -455,13 +560,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-22-14-05-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html">U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-02-58 +0000</span></div>
             </li>
         
 
@@ -846,7 +944,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html">Agriculture Secretary Declares U.S. Cattle Supply Safe as Screwworm Cases Rise</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-10-01-46 +0000</span></div>
+            <span class="datetime">2026-11-22-10-01-47 +0000</span></div>
             </li>
         
 
@@ -885,7 +983,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/lifelong-brawler-faces-choice-congress-policy-or-performance/">A lifelong brawler faces a choice in Congress: Policy or performance</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/lifelong-brawler-faces-choice-congress-policy-or-performance/">A lifelong brawler is coming to Congress. Does he have a next act?</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-22-10-00-00 +0000</span></div>
@@ -1014,14 +1112,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html">Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-06-58-17 +0000</span></div>
+            <span class="datetime">2026-11-22-06-58-18 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html">Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-06-58-17 +0000</span></div>
+            <span class="datetime">2026-11-22-06-58-18 +0000</span></div>
             </li>
         
 
@@ -1032,7 +1130,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-21/ice-officers-arrest-passengers-at-seattle-airport-boarding-flight-to-los-angeles">ICE officers arrest passengers at Seattle airport boarding flight to Los Angeles</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-21/ice-officers-arrest-passengers-at-seattle-airport-boarding-flight-to-los-angeles">Video shows ICE agents in Seattle dragging L.A.-bound passengers off jet bridge</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-22-06-44-05 +0000</span></div>
@@ -1207,13 +1305,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/21/us-news/heartless-mother-charged-with-murder-after-allegedly-refusing-to-give-cancer-striken-son-medical-care/">Heartless mother charged with murder for refusing to give toddler son cancer treatment</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-22-01-55-49 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-21/lausd-special-education-assistant-molested-juvenile-authorities-say">LAUSD special education assistant is charged with molesting juvenile</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -1221,20 +1312,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/21/us-news/california-cops-seize-283m-in-marijuana-in-chico-warehouse-raid/">118 tons of illegal weed worth more than a quarter-billion dollars seized in massive California raid</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-22-01-42-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/21/us-news/palisades-fire-victims-say-arson-conviction-doesnt-bring-closure-still-no-justice/">Palisades Fire victims say arson conviction doesn&#8217;t bring closure: &#8216;Still no justice&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-22-01-33-57 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html">Trump Moves to Restrict Congressional Oversight of Contractors</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -1267,13 +1344,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-22-01-25-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/21/us-news/dsa-fails-to-open-staten-island-outpost/">DSA&#8217;s quest to expand into Staten Island crashes and burns at lefty convention</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-22-01-22-03 +0000</span></div>
             </li>
         
 
@@ -1364,28 +1434,28 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html">The Penny Is Dead. Now It&#8217;s Official.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-21-23-12-23 +0000</span></div>
+            <span class="datetime">2026-11-21-23-12-24 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html">The Penny Is Dead. Now It&#8217;s Official.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-21-23-12-23 +0000</span></div>
+            <span class="datetime">2026-11-21-23-12-24 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html">The Penny Is Dead. Now It&#8217;s Official.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-21-23-12-23 +0000</span></div>
+            <span class="datetime">2026-11-21-23-12-24 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html">The Penny Is Dead. Now It&#8217;s Official.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-21-23-12-23 +0000</span></div>
+            <span class="datetime">2026-11-21-23-12-24 +0000</span></div>
             </li>
         
 
@@ -1899,62 +1969,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-11-21-15-57-42 +0000</span></div>
             </li>
         
-
-            <li><a href="https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html">It&#8217;s a Bill on Energy Permits, but Trump&#8217;s Pet Projects Are Part of the Debate</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-21-15-37-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/21/us/jonathan-mckinsey-shooting-in-laws.html">The California Grandparents Accused of Killing Jonathan McKinsey, Their Son-in-Law</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-21-15-31-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/21/business/over-50k-units-of-toothpaste-mouthwash-recalled-in-us-after-hormones-detected-fda/">Over 50K units of toothpaste, mouthwash recalled in US after hormones detected: FDA</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-21-15-24-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/21/el-chapo-isidro/">Mexico detains top cartel boss &#8216;El Chapo Isidro,&#8217; one of FBI&#8217;s 10 most wanted fugitives</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-21-15-10-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html">How the U.S. Economy Is Tied to A.I.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-21-15-06-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/markwayne-mullin-took-over-a-dhs-in-crisis-and-is-struggling-to-turn-it-around-a5055480?mod=rss_socialpoliticsfeed">A week of widely criticized choices has renewed calls within the administration to get rid of Homeland Security Secretary Markwayne Mullin</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-21-15-01-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/europe/the-russian-pow-camp-where-sex-abuse-became-part-of-the-system-465d59ef?mod=rss_worldnews">The Russian POW Camp Where Sex Abuse Became Part of the System</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-21-15-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/europe/the-russian-pow-camp-where-sex-abuse-became-part-of-the-system-465d59ef?mod=rss_worldnews">The Russian POW Camp Where Sex Abuse Became Part of the System</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-21-15-00-00 +0000</span></div>
-            </li>
-        
     </ul>
 </div>
 
@@ -1962,24 +1976,122 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 7d</h2>
     <ul>
         
+            <li><a href="https://www.wsj.com/opinion/vladimir-putins-existential-fight-for-ukraine-5b9383b1?mod=rss_worldnews">Opinion | Vladimir Putin&#8217;s Existential Fight for Ukraine</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-22-15-49-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/surviving-the-new-york-city-swindlers-on-the-fdr-drive-e3796d87?mod=rss_usnews">Opinion | Surviving the New York City Swindlers on the FDR Drive</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-22-15-47-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/elect-for-education-freedom-2c37e38f?mod=rss_usnews">Opinion | Elect for Education Freedom</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-22-15-46-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/world-news/at-least-2-killed-after-russian-drone-hits-building-in-kyiv-officials/">At least 2 killed after Russian drone hits building in Kyiv: officials</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-45-17 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/trump-weighs-senate-democrats-leadership-fight/">Trump weighs in on Senate Democrats&#8217; leadership fight</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-22-15-44-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/22/broadview-six-judge-slaps-down-doj-request-for-her-to-step-aside/">&#8216;Broadview Six&#8217; judge slaps down DOJ request for her to step aside</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-22-15-42-01 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html">St. Patrick&#8217;s Day Parade Canceled as Florida Figures Out D.E.I. Law</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-52-52 +0000</span></div>
+            <span class="datetime">2026-11-22-15-33-55 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/9-wounded-in-shooting-at-private-concert-in-central-california/">Mass shooting at private concert rocks California city</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-31-47 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html">COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-22-15-31-36 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/iran-shows-off-underground-missile-city-with-new-double-launcher/">Iran taunts Trump, shows off underground &#8216;missile city&#8217; with new double launcher</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-27-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/iran-shows-off-underground-missile-city-with-new-double-launcher/">Iran taunts Trump, shows off underground &#8216;missile city&#8217; with new double launcher</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-27-09 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/relentless-storm-train-takes-aim-at-west-coast-threatening-major-thanksgiving-travel-delays/">Relentless storm train takes aim at West Coast, threatening major Thanksgiving travel delays</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-20-59 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html">Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-47-12 +0000</span></div>
+            <span class="datetime">2026-11-22-15-04-54 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html">Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-14-47-12 +0000</span></div>
+            <span class="datetime">2026-11-22-15-04-54 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/why-this-incoming-congresswoman-opposed-jeffries-speaker/">Why this incoming congresswoman opposed Jeffries for speaker</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-22-15-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/22/us-news/38000-gallon-sewage-spill-closes-san-diegos-dog-beach-in-ocean-beach/">Disgusting California sewage spill sends 38K gallons of filth flowing into Pacific Ocean</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-22-15-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/why-this-incoming-congresswoman-opposed-jeffries-speaker/">Why this incoming congresswoman opposed Jeffries for speaker</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-22-15-00-00 +0000</span></div>
             </li>
         
 
@@ -2043,13 +2155,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-22-14-05-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html">U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-02-58 +0000</span></div>
             </li>
         
 
@@ -2434,7 +2539,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html">Agriculture Secretary Declares U.S. Cattle Supply Safe as Screwworm Cases Rise</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-10-01-46 +0000</span></div>
+            <span class="datetime">2026-11-22-10-01-47 +0000</span></div>
             </li>
         
 
@@ -2473,7 +2578,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/lifelong-brawler-faces-choice-congress-policy-or-performance/">A lifelong brawler faces a choice in Congress: Policy or performance</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/22/lifelong-brawler-faces-choice-congress-policy-or-performance/">A lifelong brawler is coming to Congress. Does he have a next act?</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-22-10-00-00 +0000</span></div>
@@ -2602,14 +2707,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html">Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-06-58-17 +0000</span></div>
+            <span class="datetime">2026-11-22-06-58-18 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html">Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-22-06-58-17 +0000</span></div>
+            <span class="datetime">2026-11-22-06-58-18 +0000</span></div>
             </li>
         
 
@@ -2620,7 +2725,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-21/ice-officers-arrest-passengers-at-seattle-airport-boarding-flight-to-los-angeles">ICE officers arrest passengers at Seattle airport boarding flight to Los Angeles</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-21/ice-officers-arrest-passengers-at-seattle-airport-boarding-flight-to-los-angeles">Video shows ICE agents in Seattle dragging L.A.-bound passengers off jet bridge</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-22-06-44-05 +0000</span></div>
@@ -2795,13 +2900,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/21/us-news/heartless-mother-charged-with-murder-after-allegedly-refusing-to-give-cancer-striken-son-medical-care/">Heartless mother charged with murder for refusing to give toddler son cancer treatment</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-22-01-55-49 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-21/lausd-special-education-assistant-molested-juvenile-authorities-say">LAUSD special education assistant is charged with molesting juvenile</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -2809,20 +2907,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/21/us-news/california-cops-seize-283m-in-marijuana-in-chico-warehouse-raid/">118 tons of illegal weed worth more than a quarter-billion dollars seized in massive California raid</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-22-01-42-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/21/us-news/palisades-fire-victims-say-arson-conviction-doesnt-bring-closure-still-no-justice/">Palisades Fire victims say arson conviction doesn&#8217;t bring closure: &#8216;Still no justice&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-22-01-33-57 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html">Trump Moves to Restrict Congressional Oversight of Contractors</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -2855,13 +2939,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-22-01-25-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/21/us-news/dsa-fails-to-open-staten-island-outpost/">DSA&#8217;s quest to expand into Staten Island crashes and burns at lefty convention</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-22-01-22-03 +0000</span></div>
             </li>
         
 
@@ -2952,28 +3029,28 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html">The Penny Is Dead. Now It&#8217;s Official.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-21-23-12-23 +0000</span></div>
+            <span class="datetime">2026-11-21-23-12-24 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html">The Penny Is Dead. Now It&#8217;s Official.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-21-23-12-23 +0000</span></div>
+            <span class="datetime">2026-11-21-23-12-24 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html">The Penny Is Dead. Now It&#8217;s Official.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-21-23-12-23 +0000</span></div>
+            <span class="datetime">2026-11-21-23-12-24 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html">The Penny Is Dead. Now It&#8217;s Official.</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-21-23-12-23 +0000</span></div>
+            <span class="datetime">2026-11-21-23-12-24 +0000</span></div>
             </li>
         
 
@@ -3572,7 +3649,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/world/israel-strike-gaza-aid-vehicle-9.7431224?cmp=rss">Israeli strike kills 3 in vehicle distributing aid in Gaza, witnesses say</a>
+            <li><a href="https://www.cbc.ca/news/world/israel-strike-gaza-vehicle-9.7431224?cmp=rss">Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says</a>
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-11-21-14-38-36 +0000</span></div>
@@ -3624,21 +3701,21 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html">Maldon Salt&#8217;s Authenticity Is Questioned, Leaving Foodies Shaken</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-21-14-01-15 +0000</span></div>
+            <span class="datetime">2026-11-21-14-01-16 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html">Maldon Salt&#8217;s Authenticity Is Questioned, Leaving Foodies Shaken</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-21-14-01-15 +0000</span></div>
+            <span class="datetime">2026-11-21-14-01-16 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html">Maldon Salt&#8217;s Authenticity Is Questioned, Leaving Foodies Shaken</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-21-14-01-15 +0000</span></div>
+            <span class="datetime">2026-11-21-14-01-16 +0000</span></div>
             </li>
         
 
@@ -4965,20 +5042,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/opinion/will-campus-civics-programs-survive-the-blue-wave-ed7ecc1e?mod=rss_usnews">Opinion | Will Campus Civics Programs Survive the Blue Wave?</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-20-22-02-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/germanys-green-energy-policies-fuel-the-afds-rise-cb664794?mod=rss_usnews">Opinion | Germany&#8217;s &#8216;Green&#8217; Energy Policies Fuel the AfD&#8217;s Rise</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-20-22-02-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/business/financial-services-roundup-market-talk-3af0bea5?mod=pls_whats_news_us_business_f">Financial Services Roundup: Market Talk</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -5431,13 +5494,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-20-19-48-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/20/us-news/trump-stands-by-howard-lutnick-amid-backlash-over-commerce-secs-handling-of-nvidia-chinese-spy-affair/">Trump stands by Howard Lutnick despite commerce secretary dismissing warning about Nvidia Chinese spy affair</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-20-19-47-37 +0000</span></div>
             </li>
         
 
@@ -5910,13 +5966,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/20/world-news/11-european-countries-send-troops-to-hold-drill-in-poland-for-potential-postwar-ukraine-mission/">11 European countries send troops to Poland military exercise for potential postwar Ukraine mission</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-20-16-07-22 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/20/business/is-your-employer-telling-you-to-use-ai-we-want-to-hear-from-you.html">Is Your Employer Telling You to Use A.I.? We Want to Hear From You.</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -5998,13 +6047,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-20-15-18-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/the-seven/2026/11/20/four-men-guilty-assaulting-joanne-young-who-was-drugged-by-her-husband/">Four men guilty of assaulting woman drugged and advertised for sex by husband</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-20-15-15-00 +0000</span></div>
             </li>
         
 
@@ -6344,14 +6386,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2026-11-20/lionsgate-hunger-games-sunrise-on-the-reaping-turnaround">With the new 'Hunger Games: Sunrise on the Reaping,' Lionsgate sees a rebound</a>
+            <li><a href="https://www.latimes.com/business/story/2026-11-20/anthropics-record-ipo-nets-huge-windfall-for-la-investors">Anthropic's record IPO nets huge windfall for L.A. investors</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-20-11-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-11-20/anthropics-record-ipo-nets-huge-windfall-for-la-investors">Anthropic's record IPO nets huge windfall for L.A. investors</a>
+            <li><a href="https://www.latimes.com/entertainment-arts/business/story/2026-11-20/lionsgate-hunger-games-sunrise-on-the-reaping-turnaround">With the new 'Hunger Games: Sunrise on the Reaping,' Lionsgate sees a rebound</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-20-11-00-00 +0000</span></div>
@@ -7062,13 +7104,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-19-23-04-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/donald-trump-summit-xi-jinping-vladimir-putin-nuclear-weapons-9c62a594?mod=rss_worldnews">Opinion | Nuclear Peace in Our Time. Not</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-19-22-59-00 +0000</span></div>
             </li>
         
 
@@ -10765,27 +10800,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-15-17-23-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html">Iran Attacks Bahrain for the Second Time in Days</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-15-15-55-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/15/trump-nationwide-ground-congress/">Transportation head vows to find &#8216;root cause&#8217; of ground stop. President Donald Trump breaks his silence on breakdown.</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-15-15-17-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/the-centrist-forces-working-to-tame-the-far-left-on-capitol-hill-0f89edd3?mod=rss_socialpoliticsfeed">The House and Senate majorities built on wins in so-called Trump districts are acting as a brake on lofty progressive proposals</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-15-15-00-00 +0000</span></div>
             </li>
         
     </ul>
