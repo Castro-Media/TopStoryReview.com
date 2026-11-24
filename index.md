@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-24 05:12 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-24 06:18 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,73 +28,73 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/11/23/us-news/chinese-billionaires-california-water-deal-near-travis-air-force-base-faces-calls-for-federal-probe/">China&#8217;s second-richest man&#8217;s deal to drain California town&#8217;s water triggers outrage: &#8216;Don&#8217;t sell out your nation&#8217;</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-30-00 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html">Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-03-12-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/ilhan-omar-investigation-covers-most-of-her-life-unsealed-records-show-a914232c?mod=rss_socialpoliticsfeed">Documents used by federal authorities to justify an October search of Rep. Ilhan Omar&#8217;s home in Washington, D.C., revealed prosecutors are looking for evidence from as far back as 1980</a>
+            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_socialpoliticsfeed">A federal appeals court has cleared the way for the U.S. Army to detonate several tons of toxic bomb-making explosives on Wednesday in Iowa</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-03-38-00 +0000</span></div>
+            <span class="datetime">2026-11-24-04-15-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/23/us-news/louisiana-man-strangled-female-hiker-then-shot-coworker-with-crossbow-days-later-cops/">Louisiana man randomly strangled female hiker, then shot coworker dead with crossbow days later: cops</a>
+            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html">No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-38-16 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-11-24-04-38-48 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.startribune.com/minnesota-wild-san-jose-sharks-score-today-filip-gustavsson-starts-quinn-hughes-injury-update-stats/601921368">Live: Kirill Kaprizov sets scoring streak record as Filip Gustavsson returns to Wild</a>
             <div class='byline small text-muted'>
             startribune, 
-            <span class="datetime">2026-11-24-03-48-29 +0000</span></div>
+            <span class="datetime">2026-11-24-04-41-32 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/policy/ilhan-omar-investigation-covers-most-of-her-life-unsealed-records-show-a914232c?mod=rss_usnews">Ilhan Omar Investigation Covers Most of Her Life, Unsealed Records Show</a>
+            <li><a href="https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main">Asian Equities Rebound as Huang Reinstatement Sparks AI-Stock Rally</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-03-38-00 +0000</span></div>
+            <span class="datetime">2026-11-24-04-42-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/23/us-news/university-of-california-inks-1m-openai-deal-despite-professors-pleas/">UC drops $1.2M a year on ChatGPT for every student, despite professors&#8217; pleas to slow down</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/23/us-news/nyc-woman-26-stabbed-in-random-attack-inside-manhattan-park-sources/">Woman, 26, stabbed in random attack inside NYC park: sources</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-54-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/23/us-news/california-muay-thai-fighter-dies-after-suffering-head-injury/">California Muay Thai fighter dies after suffering devastating tournament injury</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-43-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main">U.S. Treasurys Edge Lower Amid Higher Fed Rate-Hike Prospects</a>
+            <li><a href="https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main">China Chip Stocks Rise After Jensen Huang&#8217;s Return</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-03-00-00 +0000</span></div>
+            <span class="datetime">2026-11-24-04-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_usnews">Court Clears Way for Detonation of Toxic Lead Explosives in Iowa</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss">US Army to detonate toxic explosives in Iowa after Trump paused plan</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-04-42-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html">No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-04-38-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
             </li>
         
     </ul>
@@ -104,17 +104,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 24h</h2>
     <ul>
         
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-11-24-01-11-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/democratic-lawmaker-to-quit-after-allegation-of-sexual-misconduct-2af0d9d7?mod=rss_socialpoliticsfeed">Rep. Jimmy Gomez (D., Calif.) said he would resign after a House Ethics Committee report found &#8220;substantial evidence&#8221; he committed sexual misconduct</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-22-29-00 +0000</span></div>
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
             </li>
         
 
@@ -132,6 +125,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/politics/democratic-lawmaker-to-quit-after-allegation-of-sexual-misconduct-2af0d9d7?mod=rss_socialpoliticsfeed">Rep. Jimmy Gomez (D., Calif.) said he would resign after a House Ethics Committee report found &#8220;substantial evidence&#8221; he committed sexual misconduct</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-23-22-29-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/politics/elections/democrats-2028-presidential-season-launches-with-new-debate-plans-6757923d?mod=rss_socialpoliticsfeed">Democrats making presidential bids will gather for their first primary debate in June, the Democratic National Committee announced Monday</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -146,17 +146,24 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/23/business/nvidia-surges-35-on-jensen-huangs-stunning-return-as-ceo/">Nvidia adds nearly $1 trillion in market value in largest single-day gain on Jensen Huang&#8217;s return as CEO</a>
+            <li><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026?mod=rss_markets_main">Stock Market News, Nov. 23, 2026: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-23-15-42-21 +0000</span></div>
+            wsj, 
+            <span class="datetime">2026-11-23-09-52-53 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/us-news/law/bayer-clears-major-roundup-hurdle-but-a-new-study-raises-cancer-link-again-15152a03?mod=rss_usnews">Bayer Clears Major Roundup Hurdle, but a New Study Raises Cancer Link Again</a>
+            <li><a href="https://www.wsj.com/us-news/law/bayer-clears-major-roundup-hurdle-but-a-new-study-raises-cancer-link-again-15152a03?mod=pls_whats_news_us_business_f">Bayer Clears Major Roundup Hurdle, but a New Study Raises Cancer Link Again</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-23-20-48-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_socialpoliticsfeed">A federal appeals court has cleared the way for the U.S. Army to detonate several tons of toxic bomb-making explosives on Wednesday in Iowa</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-15-00 +0000</span></div>
             </li>
         
 
@@ -166,13 +173,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-11-24-01-00-00 +0000</span></div>
             </li>
         
-
-            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_socialpoliticsfeed">A federal appeals court has cleared the way for the U.S. Army to detonate several tons of toxic bomb-making explosives on Wednesday in Iowa</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-23-35-00 +0000</span></div>
-            </li>
-        
     </ul>
 </div>
 
@@ -180,24 +180,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 7d</h2>
     <ul>
         
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'</a>
+            <li><a href="https://nypost.com/2026/11/23/us-news/trump-assured-nvidia-board-jensen-huang-unlikely-to-be-prosecuted-we-believe-hes-fine-hes-absolutely-fine/">Trump assured Nvidia board Jensen Huang unlikely to be prosecuted: &#8216;We believe he&#8217;s fine. He&#8217;s absolutely fine&#8217;</a>
             <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-01-11-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/democratic-lawmaker-to-quit-after-allegation-of-sexual-misconduct-2af0d9d7?mod=rss_socialpoliticsfeed">Rep. Jimmy Gomez (D., Calif.) said he would resign after a House Ethics Committee report found &#8220;substantial evidence&#8221; he committed sexual misconduct</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-22-29-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/business/story/2026-11-19/the-very-first-ai-chatbot-was-released-in-1966-it-turned-its-creator-into-ais-fiercest-critic">Hiltzik: The very first AI chatbot was released in 1966. It turned its creator into AI's most ferocious critic</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-19-11-00-00 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-11-23-16-12-26 +0000</span></div>
             </li>
         
 
@@ -205,6 +191,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-24-03-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/business/story/2026-11-19/the-very-first-ai-chatbot-was-released-in-1966-it-turned-its-creator-into-ais-fiercest-critic">Hiltzik: The very first AI chatbot was released in 1966. It turned its creator into AI's most ferocious critic</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-19-11-00-00 +0000</span></div>
             </li>
         
 
@@ -229,10 +222,24 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/politics/policy/jensen-huangs-return-to-nvidia-draws-heavy-fire-from-lawmakers-ae698d88?mod=rss_socialpoliticsfeed">Congressional Republicans and Democrats see national-security risks with Jensen Huang&#8217;s reinstatement as Nvidia CEO, and they are vowing to press forward with investigations</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-23-21-10-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html">Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza</a>
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-19-21-17-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/democratic-lawmaker-to-quit-after-allegation-of-sexual-misconduct-2af0d9d7?mod=rss_socialpoliticsfeed">Rep. Jimmy Gomez (D., Calif.) said he would resign after a House Ethics Committee report found &#8220;substantial evidence&#8221; he committed sexual misconduct</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-23-22-29-00 +0000</span></div>
             </li>
         
 
@@ -242,13 +249,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-11-19-18-02-00 +0000</span></div>
             </li>
         
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss">Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-23-17-14-50 +0000</span></div>
-            </li>
-        
     </ul>
 </div>
 
@@ -256,143 +256,80 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 1h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/11/23/us-news/nyc-woman-26-stabbed-in-random-attack-inside-manhattan-park-sources/">Woman, 26, stabbed in random attack inside NYC park: sources</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss">US Army to detonate toxic explosives in Iowa after Trump paused plan</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-54-20 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-24-04-42-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main">Asian Equities Rebound as Huang Reinstatement Sparks AI-Stock Rally</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-42-00 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.startribune.com/minnesota-wild-san-jose-sharks-score-today-filip-gustavsson-starts-quinn-hughes-injury-update-stats/601921368">Live: Kirill Kaprizov sets scoring streak record as Filip Gustavsson returns to Wild</a>
             <div class='byline small text-muted'>
             startribune, 
-            <span class="datetime">2026-11-24-03-48-29 +0000</span></div>
+            <span class="datetime">2026-11-24-04-41-32 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/23/us-news/california-muay-thai-fighter-dies-after-suffering-head-injury/">California Muay Thai fighter dies after suffering devastating tournament injury</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-43-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/23/us-news/louisiana-man-strangled-female-hiker-then-shot-coworker-with-crossbow-days-later-cops/">Louisiana man randomly strangled female hiker, then shot coworker dead with crossbow days later: cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-38-16 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/ilhan-omar-investigation-covers-most-of-her-life-unsealed-records-show-a914232c?mod=rss_socialpoliticsfeed">Documents used by federal authorities to justify an October search of Rep. Ilhan Omar&#8217;s home in Washington, D.C., revealed prosecutors are looking for evidence from as far back as 1980</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-03-38-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/ilhan-omar-investigation-covers-most-of-her-life-unsealed-records-show-a914232c?mod=rss_usnews">Ilhan Omar Investigation Covers Most of Her Life, Unsealed Records Show</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-03-38-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/23/us-news/chinese-billionaires-california-water-deal-near-travis-air-force-base-faces-calls-for-federal-probe/">China&#8217;s second-richest man&#8217;s deal to drain California town&#8217;s water triggers outrage: &#8216;Don&#8217;t sell out your nation&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/23/us-news/chinese-billionaires-california-water-deal-near-travis-air-force-base-faces-calls-for-federal-probe/">China&#8217;s second-richest man&#8217;s deal to drain California town&#8217;s water triggers outrage: &#8216;Don&#8217;t sell out your nation&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html">Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed</a>
+            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html">No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-24-03-25-22 +0000</span></div>
+            <span class="datetime">2026-11-24-04-38-48 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html">Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal</a>
+            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html">No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-24-03-12-26 +0000</span></div>
+            <span class="datetime">2026-11-24-04-38-48 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html">Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-03-12-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=rss_worldnews">Then and Now: See How Nvidia and the Administration Pivoted on Huang</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-03-08-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=pls_whats_news_us_business_f">Then and Now: See How Nvidia and the Administration Pivoted on Huang</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-03-08-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/23/us/natural-family-planning-study.html">More American Women Are Turning to Natural Family Planning, Study Shows</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-03-06-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/national-security/2026/11/23/judge-had-concerns-ahead-search-rep-ilhan-omars-home-unsealed-records-show/">Judge demanded safeguards before search of Rep. Omar&#8217;s home, records show</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-24-03-04-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-strengthen-amid-risk-on-sentiment-bf00d2c3?mod=rss_markets_main">Singapore Dollar Steady as Robust Domestic Economic Growth Supports</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-03-03-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/americas/mexico-took-down-a-top-drug-kingpin-can-it-dismantle-his-cartel-be03308a?mod=rss_worldnews">Mexico Took Down a Top Drug Kingpin. Can It Dismantle His Cartel?</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main">U.S. Treasurys Edge Lower Amid Higher Fed Rate-Hike Prospects</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/23/us-news/university-of-california-inks-1m-openai-deal-despite-professors-pleas/">UC drops $1.2M a year on ChatGPT for every student, despite professors&#8217; pleas to slow down</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss">Trump orders US military not to detonate toxic explosives in Iowa for now</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-11-24-02-58-27 +0000</span></div>
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main">China Chip Stocks Rise After Jensen Huang&#8217;s Return</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_socialpoliticsfeed">A federal appeals court has cleared the way for the U.S. Army to detonate several tons of toxic bomb-making explosives on Wednesday in Iowa</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_usnews">Court Clears Way for Detonation of Toxic Lead Explosives in Iowa</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-15-00 +0000</span></div>
             </li>
         
     </ul>
@@ -402,17 +339,87 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 24h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/11/23/us-news/nyc-woman-26-stabbed-in-random-attack-inside-manhattan-park-sources/">Woman, 26, stabbed in random attack inside NYC park: sources</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss">US Army to detonate toxic explosives in Iowa after Trump paused plan</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-54-20 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-24-04-42-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main">Asian Equities Rebound as Huang Reinstatement Sparks AI-Stock Rally</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-42-00 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.startribune.com/minnesota-wild-san-jose-sharks-score-today-filip-gustavsson-starts-quinn-hughes-injury-update-stats/601921368">Live: Kirill Kaprizov sets scoring streak record as Filip Gustavsson returns to Wild</a>
             <div class='byline small text-muted'>
             startribune, 
-            <span class="datetime">2026-11-24-03-48-29 +0000</span></div>
+            <span class="datetime">2026-11-24-04-41-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html">No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-04-38-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html">No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-04-38-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main">China Chip Stocks Rise After Jensen Huang&#8217;s Return</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_socialpoliticsfeed">A federal appeals court has cleared the way for the U.S. Army to detonate several tons of toxic bomb-making explosives on Wednesday in Iowa</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_usnews">Court Clears Way for Detonation of Toxic Lead Explosives in Iowa</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/23/us-news/nyc-woman-26-stabbed-in-random-attack-inside-manhattan-park-sources/">Woman, 26, stabbed in random attack inside NYC park: sources</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-03-54-20 +0000</span></div>
             </li>
         
 
@@ -532,13 +539,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-24-03-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss">Trump orders US military not to detonate toxic explosives in Iowa for now</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-02-58-27 +0000</span></div>
             </li>
         
 
@@ -574,6 +574,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-24-02-18-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss">Nato chief vows defence against space threat after Russian nuclear satellite reports</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-02-15-59 +0000</span></div>
             </li>
         
 
@@ -703,27 +710,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-01-11-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-01-11-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-01-11-54 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main">Gold Rises Amid Risk-on Sentiment Across Markets</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -777,13 +763,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-24-00-55-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main">Nikkei Rises 2.7%, Led by Chip, Metals Stocks</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-00-48-00 +0000</span></div>
             </li>
         
 
@@ -1015,20 +994,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-23-23-35-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_socialpoliticsfeed">A federal appeals court has cleared the way for the U.S. Army to detonate several tons of toxic bomb-making explosives on Wednesday in Iowa</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-23-35-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_usnews">Court Clears Way for Detonation of Toxic Lead Explosives in Iowa</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-23-35-00 +0000</span></div>
             </li>
         
 
@@ -3608,7 +3573,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss">Witness History</a>
+            <li><a href="https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss">Witness History</a>
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-23-07-00-00 +0000</span></div>
@@ -3691,13 +3656,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-11-23-05-01-09 +0000</span></div>
             </li>
         
-
-            <li><a href="https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8?mod=rss_worldnews">Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-04-55-00 +0000</span></div>
-            </li>
-        
     </ul>
 </div>
 
@@ -3705,17 +3663,87 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 7d</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/11/23/us-news/nyc-woman-26-stabbed-in-random-attack-inside-manhattan-park-sources/">Woman, 26, stabbed in random attack inside NYC park: sources</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss">US Army to detonate toxic explosives in Iowa after Trump paused plan</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-03-54-20 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-24-04-42-06 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main">Asian Equities Rebound as Huang Reinstatement Sparks AI-Stock Rally</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-42-00 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.startribune.com/minnesota-wild-san-jose-sharks-score-today-filip-gustavsson-starts-quinn-hughes-injury-update-stats/601921368">Live: Kirill Kaprizov sets scoring streak record as Filip Gustavsson returns to Wild</a>
             <div class='byline small text-muted'>
             startribune, 
-            <span class="datetime">2026-11-24-03-48-29 +0000</span></div>
+            <span class="datetime">2026-11-24-04-41-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html">No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-04-38-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html">No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-04-38-48 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-04-36-31 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main">China Chip Stocks Rise After Jensen Huang&#8217;s Return</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_socialpoliticsfeed">A federal appeals court has cleared the way for the U.S. Army to detonate several tons of toxic bomb-making explosives on Wednesday in Iowa</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_usnews">Court Clears Way for Detonation of Toxic Lead Explosives in Iowa</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-04-15-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/23/us-news/nyc-woman-26-stabbed-in-random-attack-inside-manhattan-park-sources/">Woman, 26, stabbed in random attack inside NYC park: sources</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-03-54-20 +0000</span></div>
             </li>
         
 
@@ -3838,13 +3866,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss">Trump orders US military not to detonate toxic explosives in Iowa for now</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-02-58-27 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.cbc.ca/news/world/trump-megaspeed-blacklist-nvidia-9.7433587?cmp=rss">Trump administration blacklists Megaspeed cloud company linked to Nvidia scandal</a>
             <div class='byline small text-muted'>
             cbc, 
@@ -3877,6 +3898,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-24-02-18-39 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss">Nato chief vows defence against space threat after Russian nuclear satellite reports</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-02-15-59 +0000</span></div>
             </li>
         
 
@@ -4006,27 +4034,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-01-11-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-01-11-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss">Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-01-11-54 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main">Gold Rises Amid Risk-on Sentiment Across Markets</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -4080,13 +4087,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-24-00-55-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main">Nikkei Rises 2.7%, Led by Chip, Metals Stocks</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-00-48-00 +0000</span></div>
             </li>
         
 
@@ -4318,20 +4318,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-23-23-35-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_socialpoliticsfeed">A federal appeals court has cleared the way for the U.S. Army to detonate several tons of toxic bomb-making explosives on Wednesday in Iowa</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-23-35-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/national-security/u-s-army-plans-to-detonate-tons-of-toxic-lead-explosives-in-iowa-0237ac92?mod=rss_usnews">Court Clears Way for Detonation of Toxic Lead Explosives in Iowa</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-23-35-00 +0000</span></div>
             </li>
         
 
@@ -6911,7 +6897,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss">Witness History</a>
+            <li><a href="https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss">Witness History</a>
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-23-07-00-00 +0000</span></div>
@@ -7167,13 +7153,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-22-23-30-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html">Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-23-28-41 +0000</span></div>
             </li>
         
 
@@ -7615,13 +7594,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-22-14-35-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html">Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-22-14-34-02 +0000</span></div>
             </li>
         
 
@@ -9131,13 +9103,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.wsj.com/world/americas/el-salvador-takes-its-gang-fighting-strategy-to-haiti-dd25cf78?mod=rss_worldnews">El Salvador Takes Its Gang-Fighting Strategy to Haiti</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-20-21-50-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main">Nasdaq Turns Red For The Year</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-20-21-50-00 +0000</span></div>
@@ -12382,13 +12347,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-17-07-08-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/16/tiago-splitter-chicago-bulls-lincoln-park/">Chicago Bulls head coach Tiago Splitter buys $3.2M Lincoln Park home</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-17-04-17-33 +0000</span></div>
             </li>
         
     </ul>
