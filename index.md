@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-24 23:09 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-25 00:29 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,73 +28,73 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://nypost.com/2026/11/24/business/jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets/">Jury finds Chinese tech giant Huawei guilty of conspiracy to steal trade secrets</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-49-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/jensen-huangs-comeback-collides-with-furious-lawmakers-demanding-answers-948d6eb9?mod=rss_socialpoliticsfeed">Jensen Huang will face a bipartisan maelstrom when he appears next week on Capitol Hill over Nvidia&#8217;s chip exports to China and his affair with a suspected Chinese intelligence asset</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-21-49-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html">Trump Ballroom and Other Projects Got $300 Million Donation Boost</a>
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">Blanche Downplays Questions Over Nvidia as Company&#8217;s Customers Come Under Scrutiny</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-24-21-14-02 +0000</span></div>
+            <span class="datetime">2026-11-24-22-02-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html">Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday&#8217;s Rally</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/nvidia-scandal-widens-rift-between-trump-gop-as-congress-unites-in-alarm">Nvidia scandal widens rift between Trump and GOP as Congress unites in alarm</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-28-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/long-dead-frank-sinatra-ends-up-on-list-of-celebs-opposing-schumer-as-senate-boss/">Long-dead Frank Sinatra ends up on list of celebs opposing Schumer as Senate boss</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-16-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html">Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-24-21-12-53 +0000</span></div>
+            <span class="datetime">2026-11-24-22-44-57 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=pls_whats_news_us_business_f">Oil Prices Rebound as Shipping Risks Persist</a>
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html">Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-49-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/gunman-who-killed-florida-pols-son-fired-shot-after-shot-with-malicious-intent-grieving-dad-says/">Gunman who killed Florida pol&#8217;s son fired &#8216;shot after shot with malicious intent,&#8217; grieving dad says</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-37-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=pls_whats_news_us_business_f">Basic Materials Roundup: Market Talk</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-21-28-00 +0000</span></div>
+            <span class="datetime">2026-11-24-21-58-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/world-news/russia-buying-inflatable-planes-from-china-to-dupe-ukraine/">Russia buying inflatable planes from China to dupe Ukraine as glam ads push blow-up decoys</a>
+            <li><a href="https://www.wsj.com/politics/national-security/intelligence-agencies-hacked-in-cybersecurity-breach-f147ad4f?mod=rss_socialpoliticsfeed">U.S. intelligence agencies suffered a hack of an unclassified system, according to U.S. officials and people familiar with the situation, disrupting their networks but not compromising classified information</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-15-33 +0000</span></div>
+            wsj, 
+            <span class="datetime">2026-11-24-22-36-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/business/nyc-kalshi-users-lost-over-52m-in-2026-city-council/">NYC Kalshi users lost over $52M in 2026 &#8212; with young adults accounting for large portion of losses: City Council</a>
+            <li><a href="https://nypost.com/2026/11/24/us-news/accused-chinatown-killer-caught-on-video-burglarizing-nyc-shop-just-two-days-earlier/">Illegal migrant caught on video burglarizing NYC shop just two days before Chinatown murder</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-24-21-18-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/video-shows-four-cars-spin-out-in-chain-reaction-crash-on-la-freeway/">Wild dashcam video shows four cars spin out of control in chain-reaction crash on LA freeway</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-08-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/new-details-in-suspected-water-contamination-in-california-amid-do-not-drink-order/">Murky details surface in California water tampering scare &#8212; as hundreds told not to drink from tap</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-44-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/business/erebor-bank-blends-startup-energy-with-midwest-values-to-win-8b-assets-in-under-a-year/">Erebor Bank blends startup energy with midwest values &#8212; to win $8B assets in under a year</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-14-10 +0000</span></div>
+            <span class="datetime">2026-11-24-22-00-32 +0000</span></div>
             </li>
         
     </ul>
@@ -125,10 +125,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/24/chinese-tech-huawei-trade-secrets/">Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, US jury finds</a>
+            <li><a href="https://nypost.com/2026/11/24/business/jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets/">Jury finds Chinese tech giant Huawei guilty of conspiracy to steal trade secrets</a>
             <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-24-20-57-01 +0000</span></div>
+            nypost, 
+            <span class="datetime">2026-11-24-21-49-30 +0000</span></div>
             </li>
         
 
@@ -146,13 +146,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/business/story/2026-11-24/newsoms-utilities-commission-pushes-to-pass-electricity-rate-hikes-other-industry-friendly-measures">Newsom's utilities commission moves to pass electricity rate hikes, other industry-friendly measures</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-24-11-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/24/world-news/pope-francis-claims-he-saw-the-gates-of-hell-during-clergy-sex-abuse-scandal-in-private-diary-entry/">Pope Francis saw &#8216;gates of hell&#8217; during church abuse scandal, his unearthed diary reveals</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -160,17 +153,24 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/world-news/prince-william-kate-middletons-royal-anmer-hall-home-broken-into/">Two suspects arrested after break-in reported at Prince William and Kate Middleton&#8217;s estate gifted to them by Queen Elizabeth II</a>
+            <li><a href="https://www.latimes.com/business/story/2026-11-24/newsoms-utilities-commission-pushes-to-pass-electricity-rate-hikes-other-industry-friendly-measures">Newsom's utilities commission moves to pass electricity rate hikes, other industry-friendly measures</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-11-28-30 +0000</span></div>
+            latimes, 
+            <span class="datetime">2026-11-24-11-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html">Trump&#8217;s Nvidia Push Shows Companies&#8217; Importance in Global Economic War</a>
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">Blanche Downplays Questions Over Nvidia as Company&#8217;s Customers Come Under Scrutiny</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-24-19-54-59 +0000</span></div>
+            <span class="datetime">2026-11-24-22-02-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/accused-chinatown-killer-caught-on-video-burglarizing-nyc-shop-just-two-days-earlier/">Illegal migrant caught on video burglarizing NYC shop just two days before Chinatown murder</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-00-32 +0000</span></div>
             </li>
         
     </ul>
@@ -194,17 +194,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/20/trump-penalize-tech-companies-data-center-outside-us/">Donald Trump says he plans to penalize US tech companies that build AI data centers in other countries</a>
+            <li><a href="https://www.latimes.com/business/story/2026-11-19/the-very-first-ai-chatbot-was-released-in-1966-it-turned-its-creator-into-ais-fiercest-critic">Hiltzik: The very first AI chatbot was released in 1966. It turned its creator into AI's most ferocious critic</a>
             <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-20-18-06-47 +0000</span></div>
+            latimes, 
+            <span class="datetime">2026-11-19-11-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/food/story/2026-11-17/oy-bar-studio-city-closure">'What a mistake.' Popular Studio City restaurant and bar will close to make way for new housing project</a>
+            <li><a href="https://www.wsj.com/politics/policy/jensen-huangs-comeback-collides-with-furious-lawmakers-demanding-answers-948d6eb9?mod=rss_socialpoliticsfeed">Jensen Huang will face a bipartisan maelstrom when he appears next week on Capitol Hill over Nvidia&#8217;s chip exports to China and his affair with a suspected Chinese intelligence asset</a>
             <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-17-22-38-07 +0000</span></div>
+            wsj, 
+            <span class="datetime">2026-11-24-21-49-00 +0000</span></div>
             </li>
         
 
@@ -215,24 +215,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/23/world-news/russia-has-lost-astonishing-700k-soldiers-since-start-of-ukraine-war-1-in-every-200-citizens-killed-study-finds/">Russia has lost astonishing 700K soldiers since start of Ukraine war &#8212; 1 in every 200 citizens killed, study finds</a>
+            <li><a href="https://www.latimes.com/politics/story/2026-11-20/election-trust-rebounds-as-two-thirds-of-americans-say-midterms-free-fair-new-poll-finds">Election trust rebounds as two-thirds of Americans say midterms 'free and fair,' new poll finds</a>
             <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-23-20-30-16 +0000</span></div>
+            latimes, 
+            <span class="datetime">2026-11-20-17-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss">Nato chief vows defence against space threat after Russian nuclear satellite reports</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss">What strike on Russian ship in Libya says about spread of Ukraine war</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-11-24-10-58-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/democrats-2028-presidential-season-launches-with-new-debate-plans-6757923d?mod=rss_socialpoliticsfeed">Democrats making presidential bids will gather for their first primary debate in June, the Democratic National Committee announced Monday</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-10-00-00 +0000</span></div>
+            <span class="datetime">2026-11-23-20-48-35 +0000</span></div>
             </li>
         
 
@@ -249,6 +242,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <span class="datetime">2026-11-18-18-05-42 +0000</span></div>
             </li>
         
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/long-dead-frank-sinatra-ends-up-on-list-of-celebs-opposing-schumer-as-senate-boss/">Long-dead Frank Sinatra ends up on list of celebs opposing Schumer as Senate boss</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-16-44 +0000</span></div>
+            </li>
+        
     </ul>
 </div>
 
@@ -256,458 +256,430 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 1h</h2>
     <ul>
         
-            <li><a href="https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main">Tech, Media & Telecom Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-21-53-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/doj-looking-into-nvidias-jensen-huang-but-not-necessarily-in-a-criminal-way/">DOJ &#8216;looking into&#8217; Nvidia&#8217;s Jensen Huang but not necessarily in a &#8216;criminal&#8217; way, AG Blanche says</a>
+            <li><a href="https://nypost.com/2026/11/24/us-news/turkey-named-feathers-flees-from-trump-ahead-of-pardon/">Turkey named Feathers flees from Trump ahead of annual presidential pardon</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-24-21-52-22 +0000</span></div>
+            <span class="datetime">2026-11-24-22-54-51 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main">Crude Futures Settle Higher on Shipping Risks</a>
+            <li><a href="https://nypost.com/2026/11/24/us-news/hochul-throwing-ritzy-inauguration-party-to-soak-wealthy-donors-weeks-after-reelection/">Hochul throwing ritzy inauguration party to soak wealthy donors weeks after reelection</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-54-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/homeless-nyc-maniac-violently-attacks-5-strangers-within-minutes/">Homeless NYC maniac violently attacks 5 strangers within 10 minutes: &#8216;Would probably stomp a kitten&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-53-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss">Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-49-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html">Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-49-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html">Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-49-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/thanksgiving-power-outages-possible-for-millions-along-east-coast-as-powerful-storm-takes-shape/">Thanksgiving power outages possible for millions along East Coast as powerful storm takes shape</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-47-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html">Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-44-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html">Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-44-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/business/shein-agrees-to-pay-100m-boost-customer-service-to-settle-ftcs-misleading-practices-complaint/">Shein agrees to pay $100M, boost customer service to settle FTC&#8217;s misleading-practices complaint</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-44-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_worldnews">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-21-51-00 +0000</span></div>
+            <span class="datetime">2026-11-24-22-41-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/24/prospect-heights-5th-ward-alderman-former-acting-mayor-dolick-resigns/">Prospect Heights 5th Ward alderman, former acting mayor Dolick resigns</a>
+            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=pls_whats_news_us_business_f">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-41-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/trumps-nvidia-intervention-raises-questions-about-corporate-impunity">Trump's Nvidia intervention raises questions about corporate impunity</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-40-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/trumps-nvidia-intervention-raises-questions-about-corporate-impunity">Trump's Nvidia intervention raises questions about corporate impunity</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-40-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/bca-gophers-hockey-alum-shoved-officer-grabbed-gun-before-deputy-fatally-shot-him/601928320">BCA: Gophers hockey alum shoved officer, grabbed gun before deputy fatally shot him</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-24-22-39-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/gunman-who-killed-florida-pols-son-fired-shot-after-shot-with-malicious-intent-grieving-dad-says/">Gunman who killed Florida pol&#8217;s son fired &#8216;shot after shot with malicious intent,&#8217; grieving dad says</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-37-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/24/porter-county-transformer-transport-try-again/">Porter County to NIPSCO on transformer transport: Try again with INDOT</a>
             <div class='byline small text-muted'>
             chitri, 
-            <span class="datetime">2026-11-24-21-50-37 +0000</span></div>
+            <span class="datetime">2026-11-24-22-37-37 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/business/jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets/">Jury finds Chinese tech giant Huawei guilty of conspiracy to steal trade secrets</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-49-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/business/jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets/">Jury finds Chinese tech giant Huawei guilty of conspiracy to steal trade secrets</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-49-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/24/6-candidates-orland-park-village-board/">6 candidates file for 3 open Orland Park Village Board seats</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-24-21-49-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/policy/jensen-huangs-comeback-collides-with-furious-lawmakers-demanding-answers-948d6eb9?mod=rss_socialpoliticsfeed">Jensen Huang will face a bipartisan maelstrom when he appears next week on Capitol Hill over Nvidia&#8217;s chip exports to China and his affair with a suspected Chinese intelligence asset</a>
+            <li><a href="https://www.wsj.com/politics/national-security/intelligence-agencies-hacked-in-cybersecurity-breach-f147ad4f?mod=rss_socialpoliticsfeed">U.S. intelligence agencies suffered a hack of an unclassified system, according to U.S. officials and people familiar with the situation, disrupting their networks but not compromising classified information</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-21-49-00 +0000</span></div>
+            <span class="datetime">2026-11-24-22-36-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/24/felony-charge-north-carolina-dropped-against-incoming-democratic-lawmaker/">Felony charge in North Carolina dropped against incoming Democratic lawmaker</a>
+            <li><a href="https://www.wsj.com/opinion/gen-z-gives-thanks-45a21781?mod=rss_usnews">Opinion | Gen Z Gives Thanks</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html">&#8216;Carthage Resident Al Gore&#8217; Buys His Hometown Tennessee Newspaper</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-33-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/jensen-huang-apologized-to-nvidia-staff-in-company-meeting-c798dfba?mod=pls_whats_news_us_business_f">Jensen Huang Apologized to Nvidia Staff in Company Meeting</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/thomas-markle-indicted-on-child-porn-charges/">Meghan Markle&#8217;s estranged father indicted on child porn charges in Los Angeles</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-30-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2026/11/24/individuals-have-put-1-billion-into-kids-trump-accounts-white-house-says/">Individuals have put $1 billion into kids&#8217; Trump Accounts, White House says</a>
             <div class='byline small text-muted'>
             wapo, 
-            <span class="datetime">2026-11-24-21-48-06 +0000</span></div>
+            <span class="datetime">2026-11-24-22-30-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/business/stock-market-latest-nvidia-anthropic-ai-stocks-9.7434596?cmp=rss">Drops for Nvidia, Anthropic and other AI stocks drag the markets back down</a>
+            <li><a href="https://www.wsj.com/opinion/gina-hinojosa-texas-teacher-merit-pay-485c84dd?mod=rss_usnews">Opinion | How to Make Texas Dumber Again</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-29-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/nvidia-scandal-widens-rift-between-trump-gop-as-congress-unites-in-alarm">Nvidia scandal widens rift between Trump and GOP as Congress unites in alarm</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-28-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/nvidia-scandal-widens-rift-between-trump-gop-as-congress-unites-in-alarm">Nvidia scandal widens rift between Trump and GOP as Congress unites in alarm</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-28-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/california-health-officials-demand-residents-ditch-classic-thanksgiving-staple-strongly-discouraged/">California health officials demand residents ditch classic Thanksgiving activity: &#8216;Strongly discouraged&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-25-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_worldnews">Opinion | Is Nvidia Trump&#8217;s Waterloo?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=pls_whats_news_us_business_f">Opinion | Is Nvidia Trump&#8217;s Waterloo?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_usnews">Opinion | Is Nvidia Trump&#8217;s Waterloo?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/sports/soccer/fifa-private-equity-plan-leaked-documents-infantino-9.7434682?cmp=rss">Leaked FIFA documents show president Infantino's 96-year private equity plan for World Cup</a>
             <div class='byline small text-muted'>
             cbc, 
-            <span class="datetime">2026-11-24-21-45-31 +0000</span></div>
+            <span class="datetime">2026-11-24-22-21-45 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html">Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-21-45-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/11/san-francisco-war-memorial-whistleblower-complaints/">City investigating head of San Francisco War Memorial after whistleblower complaints</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-11-24-21-45-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/24/unclassified-cia-system-cyberattack/">An unclassified CIA system was breached in a cyberattack, source says</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-24-21-44-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/new-details-in-suspected-water-contamination-in-california-amid-do-not-drink-order/">Murky details surface in California water tampering scare &#8212; as hundreds told not to drink from tap</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-44-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/24/brandon-johnson-nominating-petitions-challenge/">Mayor Brandon Johnson downplays risk of being knocked off election ballot</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-24-21-42-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main">U.S. Treasury Yields Mixed Ahead of Inflation, GDP Data</a>
+            <li><a href="https://www.wsj.com/opinion/american-exceptionalism-will-win-ai-8e20e29d?mod=rss_worldnews">Opinion | American Exceptionalism Will Win AI</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-21-42-00 +0000</span></div>
+            <span class="datetime">2026-11-24-22-21-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/world-news/cruise-ship-passenger-missing-after-going-overboard-off-bahamas/">Royal Caribbean cruise passenger missing after going overboard on Thanksgiving trip off Bahamas</a>
+            <li><a href="https://nypost.com/2026/11/24/us-news/ny-bans-ai-toys-for-5-years-as-lawmakers-evoke-creepy-twilight-zone-talky-tina-doll/">NY bans AI toys for 5 years as lawmakers evoke creepy &#8216;Twilight Zone&#8217; Talky Tina doll</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-24-21-39-14 +0000</span></div>
+            <span class="datetime">2026-11-24-22-20-21 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/24/us/lakesha-womack-rental-car-felony-charge-dismissed.html">Officials Dismiss Rental Car Felony Charge for Incoming House Democrat</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-21-37-56 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/nycs-outerbridge-crossing-may-be-replaced-after-study-rules-out-expanding-traffic-plagued-bridge/">NYC&#8217;s Outerbridge Crossing may be replaced after study rules out expanding traffic-plagued bridge</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-36-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html">Trump Awards Rudy Giuliani Presidential Medal of Freedom</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-21-32-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html">Trump Awards Rudy Giuliani Presidential Medal of Freedom</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-21-32-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-21-32-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-21-32-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-21-32-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/workday-raises-full-year-subscription-outlook-after-sales-rise-625a54e3?mod=pls_whats_news_us_business_f">Workday Raises Full-Year Subscription Outlook After Sales Rise</a>
+            <li><a href="https://www.wsj.com/opinion/no-thanks-for-these-turkeys-your-honor-598753f0?mod=rss_usnews">Opinion | No Thanks for These Turkeys, Your Honor</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-21-32-00 +0000</span></div>
+            <span class="datetime">2026-11-24-22-20-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/immigration/2026/11/24/kilmar-abrego-garcia/">Kilmar Abrego Garc&#237;a will leave U.S. voluntarily to avoid deportation</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-24-22-17-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/committed-ben-franklim-impersonator-appears-in-court-dressed-in-full-costume/">Benjamin Franklin impersonator faces judge in full costume as new arrest details emerge</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-16-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/long-dead-frank-sinatra-ends-up-on-list-of-celebs-opposing-schumer-as-senate-boss/">Long-dead Frank Sinatra ends up on list of celebs opposing Schumer as Senate boss</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-16-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/long-dead-frank-sinatra-ends-up-on-list-of-celebs-opposing-schumer-as-senate-boss/">Long-dead Frank Sinatra ends up on list of celebs opposing Schumer as Senate boss</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-16-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-24/father-plunges-500-feet-while-helping-son-on-icy-california-mountain">Father dies in 500-foot fall while helping son on icy California mountain trail</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-16-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/california-boy-makes-recovery-after-e-coli-infection-at-pumpkin-farm/">California boy, 6, makes miracle recovery after horrific side effects from E. coli at stricken pumpkin farm</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-14-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/retail/urban-outfitters-posts-higher-profit-but-comparable-store-sales-growth-slows-c050ff18?mod=pls_whats_news_us_business_f">Urban Outfitters Posts Higher Profit, But Comparable-Store-Sales Growth Slows</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-14-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/earnings/autodesk-boosts-guidance-as-construction-spending-drives-revenue-fc3ec140?mod=pls_whats_news_us_business_f">Autodesk Boosts Guidance as Construction Spending Drives Revenue</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-13-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss">Watch: Flock of turkeys chases woman on Massachusetts sidewalk</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-07-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main">Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-07-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html">Pope Francis Diary Excerpts Published in New Book</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-03-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html">Pope Francis Diary Excerpts Published in New Book</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-03-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/entertainment/taylor-swift-vanity-fair-criticism-backlash-9.7434367?cmp=rss">Vanity Fair's Taylor Swift expos&#233; sparks backlash</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-24-22-03-27 +0000</span></div>
             </li>
         
 
             <li><a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main">U.S. Stocks Mixed as Huang Relief Rally Fades</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-21-32-00 +0000</span></div>
+            <span class="datetime">2026-11-24-22-03-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_worldnews">Oil Prices Rebound as Shipping Risks Persist</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-21-28-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=pls_whats_news_us_business_f">Oil Prices Rebound as Shipping Risks Persist</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-21-28-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main">Oil Prices Rebound as Shipping Risks Persist</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-21-28-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/huawei-conspiracy-trade-secrets-ruling-9.7434554?cmp=rss">U.S. jury finds Chinese tech giant Huawei guilty of conspiring to steal trade secrets</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-24-21-27-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/us/washington-monument-chicago-bean-pushing.html">Unstoppable Crowds Are Meeting Up to Push Immovable Objects</a>
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">Blanche Downplays Questions Over Nvidia as Company&#8217;s Customers Come Under Scrutiny</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-24-21-27-17 +0000</span></div>
+            <span class="datetime">2026-11-24-22-02-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/24/us/washington-monument-chicago-bean-pushing.html">Unstoppable Crowds Are Meeting Up to Push Immovable Objects</a>
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">Blanche Downplays Questions Over Nvidia as Company&#8217;s Customers Come Under Scrutiny</a>
             <div class='byline small text-muted'>
             nyt, 
-            <span class="datetime">2026-11-24-21-27-17 +0000</span></div>
+            <span class="datetime">2026-11-24-22-02-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.chicagotribune.com/2026/11/24/mayoral-races-shape-up-in-south-and-southwest-suburbs/">Mayoral races shape up in south and southwest suburbs</a>
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">Blanche Downplays Questions Over Nvidia as Company&#8217;s Customers Come Under Scrutiny</a>
             <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-24-21-27-03 +0000</span></div>
+            nyt, 
+            <span class="datetime">2026-11-24-22-02-13 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/media/al-gore-buying-hometown-tennessee-newspaper-the-carthage-courier/">Al Gore buying hometown Tennessee newspaper as former vice president touts local press</a>
+            <li><a href="https://nypost.com/2026/11/24/us-news/accused-chinatown-killer-caught-on-video-burglarizing-nyc-shop-just-two-days-earlier/">Illegal migrant caught on video burglarizing NYC shop just two days before Chinatown murder</a>
             <div class='byline small text-muted'>
             nypost, 
-            <span class="datetime">2026-11-24-21-26-26 +0000</span></div>
+            <span class="datetime">2026-11-24-22-00-32 +0000</span></div>
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/nyc-pol-rips-systemic-weakness-in-doe-hiring-calls-for-audit-after-public-school-staffer-is-nabbed-in-brooklyn-jogger-slay/">NYC pol demands full DOE audit after lunatic school aide charged for jogger slaying</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-26-14 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/immigration/2026/11/24/300000-legal-immigrants-told-theyre-losing-medicare-coverage/">300,000 legal immigrants told they&#8217;re losing Medicare coverage</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-24-21-25-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/business/trump-eyes-tariff-blitz-on-china-eu-mexico-and-japan/">Trump eyes tariff blitz on China, EU, Mexico and Japan</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-24-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/hp-offers-prudent-guidance-amid-rising-memory-costs-37c67b9d?mod=pls_whats_news_us_business_f">HP Offers &#8216;Prudent&#8217; Guidance Amid Rising Memory Costs</a>
+            <li><a href="https://www.wsj.com/business/hospitality/restaurant-business-food-waste-b849ae7e?mod=pls_whats_news_us_business_f">How Restaurants Are Turning Kitchen Waste Into Profit</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-21-23-00 +0000</span></div>
+            <span class="datetime">2026-11-24-22-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main">Nvidia&#8217;s Relief Rally Stalls</a>
+            <li><a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=pls_whats_news_us_business_f">Energy & Utilities Roundup: Market Talk</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-21-23-00 +0000</span></div>
+            <span class="datetime">2026-11-24-21-59-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss">US attorney general dodges questions about Nvidia investigation</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-21-19-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss">US attorney general dodges questions about Nvidia investigation</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-21-19-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/dell-lifts-outlook-as-revenue-doubles-on-server-demand-40c14b0b?mod=pls_whats_news_us_business_f">Dell Lifts Outlook as Revenue Doubles on Server Demand</a>
+            <li><a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main">Energy & Utilities Roundup: Market Talk</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-21-19-00 +0000</span></div>
+            <span class="datetime">2026-11-24-21-59-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html">Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-21-18-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/business/nyc-kalshi-users-lost-over-52m-in-2026-city-council/">NYC Kalshi users lost over $52M in 2026 &#8212; with young adults accounting for large portion of losses: City Council</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-18-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/world-news/russia-buying-inflatable-planes-from-china-to-dupe-ukraine/">Russia buying inflatable planes from China to dupe Ukraine as glam ads push blow-up decoys</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-15-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/nation/2026/11/24/5-ways-minimize-health-risks-armys-iowa-lead-detonation/">5 ways to minimize health risks from the Army&#8217;s Iowa lead detonation</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-24-21-14-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/business/erebor-bank-blends-startup-energy-with-midwest-values-to-win-8b-assets-in-under-a-year/">Erebor Bank blends startup energy with midwest values &#8212; to win $8B assets in under a year</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-14-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html">Trump Ballroom and Other Projects Got $300 Million Donation Boost</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-21-14-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html">Trump Ballroom and Other Projects Got $300 Million Donation Boost</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-21-14-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/arts/television/snl-france.html">&#8216;Saturday Night Live&#8217; Is Coming to France</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-21-13-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/arts/television/snl-france.html">&#8216;Saturday Night Live&#8217; Is Coming to France</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-21-13-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/retail/shein-to-pay-100-million-to-settle-ftc-claims-of-unfair-customer-service-1d294269?mod=pls_whats_news_us_business_f">Shein to Pay $100 Million to Settle FTC Claims of Unfair Customer Service</a>
+            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=pls_whats_news_us_business_f">Basic Materials Roundup: Market Talk</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-21-13-00 +0000</span></div>
+            <span class="datetime">2026-11-24-21-58-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html">Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday&#8217;s Rally</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-21-12-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html">Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday&#8217;s Rally</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-21-12-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/24/see-all-trumps-nvidia-stock-trades-since-january/">See all of Trump&#8217;s Nvidia stock trades since January</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-24-21-10-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/24/see-all-trumps-nvidia-stock-trades-since-january/">See all of Trump&#8217;s Nvidia stock trades since January</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-24-21-10-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/video-shows-four-cars-spin-out-in-chain-reaction-crash-on-la-freeway/">Wild dashcam video shows four cars spin out of control in chain-reaction crash on LA freeway</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-21-08-59 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/24/italian-market-coming-to-the-arboretum-of-south-barrington/">Italian market coming to the Arboretum of South Barrington</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-24-21-05-24 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/24/nvidia-board-jensen-huang-scrutiny/">Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-24-21-04-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main">U.S. Natural Gas Futures Recover Lost Ground</a>
+            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main">Basic Materials Roundup: Market Talk</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-24-21-04-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-24/ucla-police-shared-sexual-assault-victims-address-with-her-attacker-lawsuit-claims">UCLA police shared sexual assault victim's address with her attacker, lawsuit claims</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-24-21-03-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/minnesota-high-school-football-state-tournament-prep-bowl-players-to-know/601928293">These five matchups will decide who wins Prep Bowl titles</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-24-21-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/rochester-homeless-cameras-seized/601928460">Rochester day center for homeless closes amid drug investigation, seizures</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-24-20-58-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/24/chinese-tech-huawei-trade-secrets/">Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, US jury finds</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-24-20-57-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html">National Security vs. the Stock Market</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-20-56-04 +0000</span></div>
+            <span class="datetime">2026-11-24-21-58-00 +0000</span></div>
             </li>
         
     </ul>
@@ -717,6 +689,482 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 24h</h2>
     <ul>
         
+            <li><a href="https://nypost.com/2026/11/24/us-news/turkey-named-feathers-flees-from-trump-ahead-of-pardon/">Turkey named Feathers flees from Trump ahead of annual presidential pardon</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-54-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/hochul-throwing-ritzy-inauguration-party-to-soak-wealthy-donors-weeks-after-reelection/">Hochul throwing ritzy inauguration party to soak wealthy donors weeks after reelection</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-54-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/homeless-nyc-maniac-violently-attacks-5-strangers-within-minutes/">Homeless NYC maniac violently attacks 5 strangers within 10 minutes: &#8216;Would probably stomp a kitten&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-53-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss">Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-49-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html">Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-49-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html">Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-49-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/thanksgiving-power-outages-possible-for-millions-along-east-coast-as-powerful-storm-takes-shape/">Thanksgiving power outages possible for millions along East Coast as powerful storm takes shape</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-47-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html">Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-44-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html">Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-44-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/business/shein-agrees-to-pay-100m-boost-customer-service-to-settle-ftcs-misleading-practices-complaint/">Shein agrees to pay $100M, boost customer service to settle FTC&#8217;s misleading-practices complaint</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-44-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_worldnews">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-41-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=pls_whats_news_us_business_f">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-41-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/trumps-nvidia-intervention-raises-questions-about-corporate-impunity">Trump's Nvidia intervention raises questions about corporate impunity</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-40-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/trumps-nvidia-intervention-raises-questions-about-corporate-impunity">Trump's Nvidia intervention raises questions about corporate impunity</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-40-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/bca-gophers-hockey-alum-shoved-officer-grabbed-gun-before-deputy-fatally-shot-him/601928320">BCA: Gophers hockey alum shoved officer, grabbed gun before deputy fatally shot him</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-24-22-39-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/gunman-who-killed-florida-pols-son-fired-shot-after-shot-with-malicious-intent-grieving-dad-says/">Gunman who killed Florida pol&#8217;s son fired &#8216;shot after shot with malicious intent,&#8217; grieving dad says</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-37-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/24/porter-county-transformer-transport-try-again/">Porter County to NIPSCO on transformer transport: Try again with INDOT</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-24-22-37-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/intelligence-agencies-hacked-in-cybersecurity-breach-f147ad4f?mod=rss_socialpoliticsfeed">U.S. intelligence agencies suffered a hack of an unclassified system, according to U.S. officials and people familiar with the situation, disrupting their networks but not compromising classified information</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/gen-z-gives-thanks-45a21781?mod=rss_usnews">Opinion | Gen Z Gives Thanks</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html">&#8216;Carthage Resident Al Gore&#8217; Buys His Hometown Tennessee Newspaper</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-33-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/jensen-huang-apologized-to-nvidia-staff-in-company-meeting-c798dfba?mod=pls_whats_news_us_business_f">Jensen Huang Apologized to Nvidia Staff in Company Meeting</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/thomas-markle-indicted-on-child-porn-charges/">Meghan Markle&#8217;s estranged father indicted on child porn charges in Los Angeles</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-30-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2026/11/24/individuals-have-put-1-billion-into-kids-trump-accounts-white-house-says/">Individuals have put $1 billion into kids&#8217; Trump Accounts, White House says</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-24-22-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/gina-hinojosa-texas-teacher-merit-pay-485c84dd?mod=rss_usnews">Opinion | How to Make Texas Dumber Again</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-29-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/nvidia-scandal-widens-rift-between-trump-gop-as-congress-unites-in-alarm">Nvidia scandal widens rift between Trump and GOP as Congress unites in alarm</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-28-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/nvidia-scandal-widens-rift-between-trump-gop-as-congress-unites-in-alarm">Nvidia scandal widens rift between Trump and GOP as Congress unites in alarm</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-28-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/california-health-officials-demand-residents-ditch-classic-thanksgiving-staple-strongly-discouraged/">California health officials demand residents ditch classic Thanksgiving activity: &#8216;Strongly discouraged&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-25-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_worldnews">Opinion | Is Nvidia Trump&#8217;s Waterloo?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=pls_whats_news_us_business_f">Opinion | Is Nvidia Trump&#8217;s Waterloo?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_usnews">Opinion | Is Nvidia Trump&#8217;s Waterloo?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/sports/soccer/fifa-private-equity-plan-leaked-documents-infantino-9.7434682?cmp=rss">Leaked FIFA documents show president Infantino's 96-year private equity plan for World Cup</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-24-22-21-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/american-exceptionalism-will-win-ai-8e20e29d?mod=rss_worldnews">Opinion | American Exceptionalism Will Win AI</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-21-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/ny-bans-ai-toys-for-5-years-as-lawmakers-evoke-creepy-twilight-zone-talky-tina-doll/">NY bans AI toys for 5 years as lawmakers evoke creepy &#8216;Twilight Zone&#8217; Talky Tina doll</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-20-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/no-thanks-for-these-turkeys-your-honor-598753f0?mod=rss_usnews">Opinion | No Thanks for These Turkeys, Your Honor</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-20-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/immigration/2026/11/24/kilmar-abrego-garcia/">Kilmar Abrego Garc&#237;a will leave U.S. voluntarily to avoid deportation</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-24-22-17-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/committed-ben-franklim-impersonator-appears-in-court-dressed-in-full-costume/">Benjamin Franklin impersonator faces judge in full costume as new arrest details emerge</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-16-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/long-dead-frank-sinatra-ends-up-on-list-of-celebs-opposing-schumer-as-senate-boss/">Long-dead Frank Sinatra ends up on list of celebs opposing Schumer as Senate boss</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-16-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/long-dead-frank-sinatra-ends-up-on-list-of-celebs-opposing-schumer-as-senate-boss/">Long-dead Frank Sinatra ends up on list of celebs opposing Schumer as Senate boss</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-16-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-24/father-plunges-500-feet-while-helping-son-on-icy-california-mountain">Father dies in 500-foot fall while helping son on icy California mountain trail</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-16-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/california-boy-makes-recovery-after-e-coli-infection-at-pumpkin-farm/">California boy, 6, makes miracle recovery after horrific side effects from E. coli at stricken pumpkin farm</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-14-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/retail/urban-outfitters-posts-higher-profit-but-comparable-store-sales-growth-slows-c050ff18?mod=pls_whats_news_us_business_f">Urban Outfitters Posts Higher Profit, But Comparable-Store-Sales Growth Slows</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-14-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/earnings/autodesk-boosts-guidance-as-construction-spending-drives-revenue-fc3ec140?mod=pls_whats_news_us_business_f">Autodesk Boosts Guidance as Construction Spending Drives Revenue</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-13-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss">Watch: Flock of turkeys chases woman on Massachusetts sidewalk</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-07-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main">Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-07-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html">Pope Francis Diary Excerpts Published in New Book</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-03-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html">Pope Francis Diary Excerpts Published in New Book</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-03-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/entertainment/taylor-swift-vanity-fair-criticism-backlash-9.7434367?cmp=rss">Vanity Fair's Taylor Swift expos&#233; sparks backlash</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-24-22-03-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main">U.S. Stocks Mixed as Huang Relief Rally Fades</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">Blanche Downplays Questions Over Nvidia as Company&#8217;s Customers Come Under Scrutiny</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-02-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">Blanche Downplays Questions Over Nvidia as Company&#8217;s Customers Come Under Scrutiny</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-02-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">Blanche Downplays Questions Over Nvidia as Company&#8217;s Customers Come Under Scrutiny</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-02-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/accused-chinatown-killer-caught-on-video-burglarizing-nyc-shop-just-two-days-earlier/">Illegal migrant caught on video burglarizing NYC shop just two days before Chinatown murder</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-00-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/hospitality/restaurant-business-food-waste-b849ae7e?mod=pls_whats_news_us_business_f">How Restaurants Are Turning Kitchen Waste Into Profit</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=pls_whats_news_us_business_f">Energy & Utilities Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-59-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main">Energy & Utilities Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-59-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=pls_whats_news_us_business_f">Basic Materials Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main">Basic Materials Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main">Financial Services Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-56-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_worldnews">Venezuela Reveals an Eye-Popping Debt Load of $237 Billion</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-55-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main">Venezuela Reveals an Eye-Popping Debt Load of $237 Billion</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-55-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main">Auto & Transport Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-55-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2026/11/24/al-gore-purchase-his-hometown-newspaper/">Al Gore to purchase his hometown newspaper</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-24-21-55-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html">Black Friday Deals Starting Earlier This Year? It&#8217;s Not Just in Your Head.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-21-54-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main">The Retail Investors Who Believed Nvidia&#8217;s Board&#8212;and Got Burned by Its U-Turn</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-53-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main">Tech, Media & Telecom Roundup: Market Talk</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -724,10 +1172,24 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/doj-looking-into-nvidias-jensen-huang-but-not-necessarily-in-a-criminal-way/">DOJ &#8216;looking into&#8217; Nvidia&#8217;s Jensen Huang but not necessarily in a &#8216;criminal&#8217; way, AG Blanche says</a>
+            <li><a href="https://nypost.com/2026/11/24/us-news/doj-looking-into-nvidias-jensen-huang-but-not-necessarily-in-a-criminal-way/">DOJ &#8216;looking into&#8217; Nvidia&#8217;s Jensen Huang &#8212; but not necessarily in a &#8216;criminal&#8217; way, AG Todd Blanche says</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-24-21-52-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/doj-looking-into-nvidias-jensen-huang-but-not-necessarily-in-a-criminal-way/">DOJ &#8216;looking into&#8217; Nvidia&#8217;s Jensen Huang &#8212; but not necessarily in a &#8216;criminal&#8217; way, AG Todd Blanche says</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-21-52-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c60md8zj091jo?at_medium=RSS&at_campaign=rss">Florida politician says son's killing was not a 'freak hunting accident'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-21-51-31 +0000</span></div>
             </li>
         
 
@@ -822,13 +1284,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main">U.S. Treasury Yields Mixed Ahead of Inflation, GDP Data</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-21-42-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/24/world-news/cruise-ship-passenger-missing-after-going-overboard-off-bahamas/">Royal Caribbean cruise passenger missing after going overboard on Thanksgiving trip off Bahamas</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -840,6 +1295,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-24-21-37-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/24/naperville-mexican-restaurant-quiubo-downtown-cano/">Down to Business: Brothers &#8216;pour&#8217; their hearts into their Water Street restaurants</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-24-21-36-44 +0000</span></div>
             </li>
         
 
@@ -864,35 +1326,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-21-32-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-21-32-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-21-32-34 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/business/earnings/workday-raises-full-year-subscription-outlook-after-sales-rise-625a54e3?mod=pls_whats_news_us_business_f">Workday Raises Full-Year Subscription Outlook After Sales Rise</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-21-32-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main">U.S. Stocks Mixed as Huang Relief Rally Fades</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-24-21-32-00 +0000</span></div>
@@ -1151,13 +1585,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.startribune.com/rochester-homeless-cameras-seized/601928460">Rochester day center for homeless closes amid drug investigation, seizures</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-24-20-58-02 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/11/24/chinese-tech-huawei-trade-secrets/">Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, US jury finds</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -1179,28 +1606,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_worldnews">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-20-54-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=pls_whats_news_us_business_f">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-20-54-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_usnews">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-20-54-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/business/2026/11/24/maybe-market-is-economy-after-all/">Maybe the market is the economy after all</a>
+            <li><a href="https://www.washingtonpost.com/business/2026/11/24/maybe-market-is-economy-after-all/">Trump&#8217;s Nvidia gambit shows the stock market is the economy</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-20-53-37 +0000</span></div>
@@ -1375,7 +1781,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-24/november-tide-records-fall">High tide breaks 44-year-old record in San Francisco as communities brace for higher water</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-24/november-tide-records-fall">High tide breaks 44-year-old record in S.F. as California communities brace for higher water</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-24-20-08-46 +0000</span></div>
@@ -1389,24 +1795,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/thanksgiving-travel-expected-to-see-16-year-high-just-weeks-after-massive-outage/">Thanksgiving travel expected to see 16-year high just weeks after widespread outages, flight cancelations</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-20-06-49 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-24/severed-head-found-in-norcal-was-cold-case-for-years-forensic-genealogy-may-have-solved-it">A man's severed head was found in a rural California town. His wife and daughter have been arrested</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-24-20-06-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/witness-to-fiona-the-hippos-hat-calamity-reveals-moment-young-boy-started-crying-after-knit-landed-in-enclosure/">Witness to Fiona the hippo&#8217;s hat calamity reveals moment young boy started crying after knit landed in enclosure</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-20-05-36 +0000</span></div>
             </li>
         
 
@@ -1421,13 +1813,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-19-56-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/crackers-sold-in-california-recalled-over-undisclosed-allergens/">Urgent warning as cracker-style biscuits sold in California are recalled over &#8216;life-threatening&#8217; risk</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-55-10 +0000</span></div>
             </li>
         
 
@@ -1456,13 +1841,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-24-19-49-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/lefty-judge-who-freed-illegal-migrant-before-chinatown-slay-made-now-chilling-comment-at-hearing/">Lefty judge who freed career criminal before Chinatown slaying said he should go to mental facility &#8212; then let him walk</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-42-19 +0000</span></div>
             </li>
         
 
@@ -1498,13 +1876,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-24-19-29-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/amazon-delivery-drone-smashes-into-garage-it-just-went-crazy/">Amazon delivery drone crashes into garage: &#8216;It just went crazy&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-28-35 +0000</span></div>
             </li>
         
 
@@ -1592,27 +1963,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/man-accused-of-lewd-act-in-childrens-section-of-ross-store-identified-by-cops/">Man accused of lewd act in children&#8217;s section of Ross store identified by cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-18-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/doj-recovers-over-8b-charges-more-than-800-suspects-in-largest-anti-scam-surge-in-history/">DOJ recovers over $8B, charges more than 800 suspects in largest anti-scam surge in history</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-16-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/video-shows-dad-alongside-son-just-before-tragic-fall-on-california-peak/">Haunting final video shows devoted California dad moments before plunging 500 feet to his death after son&#8217;s mishap on mountain</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-15-18 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss">Nigerian monarch, 92, suspended after sexual assault claims</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -1641,24 +1991,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/columbia-professors-fatal-attraction-mistresss-wild-double-life-revealed/">Columbia professor&#8217;s &#8216;Fatal Attraction&#8217; mistress&#8217;s wild double life revealed</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-03-16 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.startribune.com/pilgrims-pride-death-osha-violation/601924654">Pilgrim&#8217;s Pride faces safety violation fines after worker&#8217;s death</a>
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-11-24-19-02-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/impactful-storm-expected-to-serve-wetter-than-average-thanksgiving-weather-to-nyc/">&#8216;Impactful storm&#8217; expected to serve &#8216;wetter-than-average&#8217; Thanksgiving weather to NYC</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-01-41 +0000</span></div>
             </li>
         
 
@@ -1673,13 +2009,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-24-18-58-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/two-medical-specialists-killed-in-fiery-plane-crash-while-practicing-touch-and-go-takeoffs/">Two medical specialists killed in fiery plane crash while practicing touch-and-go takeoffs</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-18-58-05 +0000</span></div>
             </li>
         
 
@@ -1711,14 +2040,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/trump-says-cheating-nvidia-ceo-jensen-huang-and-his-wife-have-worked-it-out-very-good-wife/">Trump says cheating Nvidia CEO Jensen Huang and his wife have &#8216;worked it out&#8217;: &#8216;Very good wife&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-18-28-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-24/san-luis-obispo-water-contamination-scare-alarm-indicates-possible-trespasser">California city faces water contamination scare after alarm indicates a tank trespasser</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-24/san-luis-obispo-water-contamination-scare-alarm-indicates-possible-trespasser">California city fears trespasser dropped 'unknown substance' into water storage tank</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-24-18-28-03 +0000</span></div>
@@ -1942,20 +2264,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=pls_whats_news_us_business_f">Basic Materials Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main">Basic Materials Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-30-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/24/us/harvard-maga-class.html">MAGA Attacked Harvard. So Harvard Taught a Class About It.</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -1967,41 +2275,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-24-17-28-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=pls_whats_news_us_business_f">Energy & Utilities Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-27-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main">Energy & Utilities Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-27-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main">Financial Services Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-24-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main">Auto & Transport Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-22-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/business/anthropic-tumbles-below-83-ipo-price-as-ai-concerns-mount/">Anthropic tumbles below $83 IPO price as AI concerns mount: &#8216;Trying to find its footing&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-17-21-45 +0000</span></div>
             </li>
         
 
@@ -2187,34 +2460,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html">Black Friday Deals Starting Earlier This Year? It&#8217;s Not Just in Your Head.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-16-07-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main">The Retail Investors Who Believed Nvidia&#8217;s Board&#8212;and Got Burned by Its U-Turn</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-16-01-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/lets-build-data-centers-for-the-real-world-5835fccf?mod=rss_usnews">Opinion | Let&#8217;s Build Data Centers for the Real World</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-15-59-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/learning-about-democracy-without-living-it-416a8cac?mod=rss_usnews">Opinion | Learning About Democracy Without Living It</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-15-58-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html">No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -2226,20 +2471,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-24-15-56-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/new-york-doesnt-raise-fools-ca44a774?mod=rss_usnews">Opinion | New York Doesn&#8217;t Raise Fools</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-15-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/social-security-can-be-saved-e962750d?mod=rss_usnews">Opinion | Social Security Can Be Saved</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-15-55-00 +0000</span></div>
             </li>
         
 
@@ -2698,13 +2929,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/retail/burlington-stores-cuts-outlook-as-quarterly-sales-underwhelm-794f958d?mod=pls_whats_news_us_business_f">Burlington Stores Cuts Outlook as Quarterly Sales Underwhelm</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-12-36-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html">Iranian Singer Receives 74 Lashes for Performing With No Hijab</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -2716,13 +2940,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-24-12-34-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/medtronics-sales-growth-slows-despite-broad-based-gains-9ef7b88a?mod=pls_whats_news_us_business_f">Medtronic&#8217;s Sales Growth Slows Despite Broad-Based Gains</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-12-27-00 +0000</span></div>
             </li>
         
 
@@ -2887,14 +3104,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_worldnews">China to Suspend Some Critical-Material Export Curbs to U.S. Until January</a>
+            <li><a href="https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_socialeconomyfeed">China to Suspend Some Critical-Material Export Curbs to U.S. Until January</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-24-11-13-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_socialeconomyfeed">China to Suspend Some Critical-Material Export Curbs to U.S. Until January</a>
+            <li><a href="https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_worldnews">China to Suspend Some Critical-Material Export Curbs to U.S. Until January</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-24-11-13-00 +0000</span></div>
@@ -2971,13 +3188,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/gops-closest-thing-to-an-affordability-plan-was-bashing-socialists-before-midterms-conservative-group-finds/">GOP&#8217;s &#8216;closest thing to an affordability plan&#8217; was bashing socialists before midterms, conservative group finds</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-11-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-24/jd-vances-memoir-catholic-conversion">Arellano: JD Vance's memoir on becoming Catholic confirms why he can never be president</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -2988,6 +3198,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.latimes.com/business/story/2026-11-24/newsoms-utilities-commission-pushes-to-pass-electricity-rate-hikes-other-industry-friendly-measures">Newsom's utilities commission moves to pass electricity rate hikes, other industry-friendly measures</a>
             <div class='byline small text-muted'>
             latimes, 
+            <span class="datetime">2026-11-24-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/gops-closest-thing-to-an-affordability-plan-was-bashing-socialists-before-midterms-conservative-group-finds/">GOP&#8217;s &#8216;closest thing to an affordability plan&#8217; was bashing socialists before midterms, conservative group finds</a>
+            <div class='byline small text-muted'>
+            nypost, 
             <span class="datetime">2026-11-24-11-00-00 +0000</span></div>
             </li>
         
@@ -3209,14 +3426,21 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/technology/2026/11/24/i-tested-out-solar-powered-electric-scooter-you-rarely-have-charge/">I tested a solar-powered scooter you rarely have to charge</a>
+            <li><a href="https://www.wsj.com/economy/home-health-aide-aging-population-0dd1f5be?mod=rss_socialeconomyfeed">In the next decade, America&#8217;s graying population will demand hundreds of thousands more home-health workers. They&#8217;re already in short supply.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2026/11/24/how-cope-with-rising-daycare-costs/">Day care for two kids can look like a rent payment. Here&#8217;s how to get ready.</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/business/2026/11/24/how-cope-with-rising-daycare-costs/">Day care for two kids can look like a rent payment. Here&#8217;s how to get ready.</a>
+            <li><a href="https://www.washingtonpost.com/technology/2026/11/24/i-tested-out-solar-powered-electric-scooter-you-rarely-have-charge/">I tested a solar-powered scooter you rarely have to charge</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
@@ -3244,21 +3468,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/economy/home-health-aide-aging-population-0dd1f5be?mod=rss_socialeconomyfeed">In the next decade, America&#8217;s graying population will demand hundreds of thousands more home-health workers. They&#8217;re already in short supply.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/">How retailers make a Black Friday sale look better than it is</a>
+            <li><a href="https://www.washingtonpost.com/nation/2026/11/24/lee-harvey-oswald-killed-by-jack-ruby-live-tv-after-kennedy-assassination/">Two days after JFK assassination, live TV audience witnesses another killing</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/nation/2026/11/24/lee-harvey-oswald-killed-by-jack-ruby-live-tv-after-kennedy-assassination/">Two days after JFK assassination, live TV audience witnesses another killing</a>
+            <li><a href="https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/">How retailers make a Black Friday sale look better than it is</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
@@ -3286,6 +3503,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/economy/central-banking/german-business-sentiment-rises-again-as-firms-say-conditions-expectations-brighten-513ea117?mod=rss_socialeconomyfeed">German Business Sentiment Rises Again as Firms Say Conditions, Expectations Brighten</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-09-52-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_worldnews">Jensen Huang&#8217;s Return Sparks Rally in Asia, but Concerns Remain</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -3294,13 +3518,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main">Jensen Huang&#8217;s Return Sparks Rally in Asia, but Concerns Remain</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-09-52-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/central-banking/german-business-sentiment-rises-again-as-firms-say-conditions-expectations-brighten-513ea117?mod=rss_socialeconomyfeed">German Business Sentiment Rises Again as Firms Say Conditions, Expectations Brighten</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-24-09-52-00 +0000</span></div>
@@ -3475,20 +3692,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html">Pope Francis Diary Excerpts Published in New Book</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-06-00-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html">Pope Francis Diary Excerpts Published in New Book</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-06-00-06 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.washingtonpost.com/world/2026/11/24/pope-francis-private-diary-reveals-torment-visions-devil/">The temptation of Pope Francis: Private diary reveals torment, visions of Devil</a>
             <div class='byline small text-muted'>
             wapo, 
@@ -3608,13 +3811,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?mod=pls_whats_news_us_business_f">The Frantic White House Push to Get Jensen Huang Back</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-02-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f">Jensen Huang Got His Job Back. What Message Does It Send to Corporate America?</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -3706,13 +3902,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss">Can Burnham turn volume down on EU debate?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-00-45-53 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss">Chris Mason: Can Burnham turn volume down on EU debate?</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -3720,10 +3909,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/bob-woodward-book-secrets.html">Turning the Lens Around: Bob Woodward Takes On Bob Woodward</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss">Can Burnham turn volume down on EU debate?</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-00-43-03 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-24-00-45-53 +0000</span></div>
             </li>
         
 
@@ -3853,13 +4042,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html">Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-23-23-41-29 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://missionlocal.org/2026/11/mission-local-wins-5-awards-spj-norcal/">Mission Local wins 5 awards from Society of Professional Journalists of Northern California</a>
             <div class='byline small text-muted'>
             missionlocal, 
@@ -3916,13 +4098,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/radio/asithappens/arizona-toddler-rescue-9.7433239?cmp=rss">'I'm not a hero,' says Arizona man who found lost toddler alone in the desert</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-23-23-16-05 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.cbc.ca/news/world/west-bank-violence-settlers-phri-9.7433262?cmp=rss">Rights group details 'surge' in violent attacks on Palestinian health-care workers</a>
             <div class='byline small text-muted'>
             cbc, 
@@ -3955,188 +4130,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-23-22-57-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/alan-milburn-report-u-k-youth-unemployment-52e6b3e6?mod=rss_worldnews">Opinion | The Welfare State and Britain&#8217;s Idle Youth</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-22-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html">Rep. Jimmy Gomez Resigns After Panel Alleges Unwanted Sexual Contact With Aide</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-23-22-54-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html">Rep. Jimmy Gomez Resigns After Panel Alleges Unwanted Sexual Contact With Aide</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-23-22-54-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/dc-md-va/2026/11/23/van-hollen-uses-huang-controversy-bid-oust-schumer/">Van Hollen notes Huang controversy in bid to oust Schumer</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-23-22-52-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/sanctioning-people-for-building-homes-in-the-west-bank-47c51eb7?mod=rss_worldnews">Opinion | Sanctioning People for Building Homes in the West Bank</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-22-49-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/23/shocked-washington-preps-expanded-investigations-huang-returns-nvidia/">A shocked Washington preps expanded investigations as Huang returns to Nvidia</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-23-22-42-49 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/masar-badil-added-terrorist-entity-list-9.7433007?cmp=rss">Canada adds Masar Badil group to terrorist entity list, citing status as alias for Samidoun</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-23-22-38-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/23/libertyville-considers-regulating-short-term-rentals/">Libertyville considers regulating short-term rentals</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-23-22-37-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/05/republicans-redrew-maps-15-house-seats-they-came-up-short/">Republicans redrew maps for 15 House seats. They came up short.</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-23-22-37-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/23/sen-deb-fischers-husband-dies/">Sen. Deb Fischer&#8217;s husband dies</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-23-22-35-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main">The WSJ Dollar Index Rises 0.27% to 99.02</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-22-34-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/politics/privacy-commissioner-surveillance-pricing-9.7433216?cmp=rss">More transparency needed on surveillance pricing, privacy commissioner says</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-23-22-29-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/democratic-lawmaker-to-quit-after-allegation-of-sexual-misconduct-2af0d9d7?mod=rss_usnews">Democratic Lawmaker to Quit After Allegation of Sexual Misconduct</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-22-29-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main">Trump Engineered Huang&#8217;s Reinstatement as Nvidia CEO</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-22-25-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-23/two-people-killed-in-temecula-helicopter-crash">Two people killed in Temecula helicopter crash</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-23-22-24-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/world/2026/11/23/collapse-un-summit-intensifies-calls-new-approach-climate-talks/">Collapse of U.N. summit intensifies calls for new approach to climate talks</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-23-22-21-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html">Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-23-22-19-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main">Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-22-15-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/23/us/columbus-ohio-bus-crash.html">2 City Bus Drivers Killed in Head-On Collision in Ohio</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-23-22-13-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/23/trump-pushes-huangs-reinstatement-despite-voters-demand-accountability/">Trump pushes Huang&#8217;s reinstatement despite voters&#8217; demand for accountability</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-23-22-10-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/23/texass-outgoing-gop-attorney-general-drops-multiple-culture-war-lawsuits/">Texas&#8217;s outgoing GOP attorney general drops multiple culture war lawsuits</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-23-22-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e?mod=rss_markets_main">Basic Materials Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-21-58-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/what-napoleon-teaches-us-about-meritocracy-475118a4?mod=rss_worldnews">Opinion | What Napoleon Teaches Us About Meritocracy</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-21-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/trumps-focus-moves-to-foreign-policy-a8004ad5?mod=rss_worldnews">Opinion | Trump&#8217;s Focus Moves to Foreign Policy</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-21-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/financial-services-roundup-market-talk-59d5ef65?mod=rss_markets_main">Financial Services Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-21-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/23/world-news/onlyfans-model-vera-dijkmans-claims-mistreatment-in-ice-custody/">&#8216;World&#8217;s most wanted&#8217; OnlyFans model Vera Dijkmans claims &#8216;mistreatment&#8217; in ICE custody</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-23-21-55-47 +0000</span></div>
             </li>
         
     </ul>
@@ -4146,6 +4139,482 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>All 7d</h2>
     <ul>
         
+            <li><a href="https://nypost.com/2026/11/24/us-news/turkey-named-feathers-flees-from-trump-ahead-of-pardon/">Turkey named Feathers flees from Trump ahead of annual presidential pardon</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-54-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/hochul-throwing-ritzy-inauguration-party-to-soak-wealthy-donors-weeks-after-reelection/">Hochul throwing ritzy inauguration party to soak wealthy donors weeks after reelection</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-54-12 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/homeless-nyc-maniac-violently-attacks-5-strangers-within-minutes/">Homeless NYC maniac violently attacks 5 strangers within 10 minutes: &#8216;Would probably stomp a kitten&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-53-25 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss">Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-49-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html">Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-49-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html">Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-49-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/thanksgiving-power-outages-possible-for-millions-along-east-coast-as-powerful-storm-takes-shape/">Thanksgiving power outages possible for millions along East Coast as powerful storm takes shape</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-47-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html">Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-44-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html">Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-44-57 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/business/shein-agrees-to-pay-100m-boost-customer-service-to-settle-ftcs-misleading-practices-complaint/">Shein agrees to pay $100M, boost customer service to settle FTC&#8217;s misleading-practices complaint</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-44-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_worldnews">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-41-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=pls_whats_news_us_business_f">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-41-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/trumps-nvidia-intervention-raises-questions-about-corporate-impunity">Trump's Nvidia intervention raises questions about corporate impunity</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-40-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/trumps-nvidia-intervention-raises-questions-about-corporate-impunity">Trump's Nvidia intervention raises questions about corporate impunity</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-40-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.startribune.com/bca-gophers-hockey-alum-shoved-officer-grabbed-gun-before-deputy-fatally-shot-him/601928320">BCA: Gophers hockey alum shoved officer, grabbed gun before deputy fatally shot him</a>
+            <div class='byline small text-muted'>
+            startribune, 
+            <span class="datetime">2026-11-24-22-39-35 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/gunman-who-killed-florida-pols-son-fired-shot-after-shot-with-malicious-intent-grieving-dad-says/">Gunman who killed Florida pol&#8217;s son fired &#8216;shot after shot with malicious intent,&#8217; grieving dad says</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-37-53 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/24/porter-county-transformer-transport-try-again/">Porter County to NIPSCO on transformer transport: Try again with INDOT</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-24-22-37-37 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/politics/national-security/intelligence-agencies-hacked-in-cybersecurity-breach-f147ad4f?mod=rss_socialpoliticsfeed">U.S. intelligence agencies suffered a hack of an unclassified system, according to U.S. officials and people familiar with the situation, disrupting their networks but not compromising classified information</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/gen-z-gives-thanks-45a21781?mod=rss_usnews">Opinion | Gen Z Gives Thanks</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-36-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html">&#8216;Carthage Resident Al Gore&#8217; Buys His Hometown Tennessee Newspaper</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-33-51 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/jensen-huang-apologized-to-nvidia-staff-in-company-meeting-c798dfba?mod=pls_whats_news_us_business_f">Jensen Huang Apologized to Nvidia Staff in Company Meeting</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-32-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/thomas-markle-indicted-on-child-porn-charges/">Meghan Markle&#8217;s estranged father indicted on child porn charges in Los Angeles</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-30-26 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2026/11/24/individuals-have-put-1-billion-into-kids-trump-accounts-white-house-says/">Individuals have put $1 billion into kids&#8217; Trump Accounts, White House says</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-24-22-30-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/gina-hinojosa-texas-teacher-merit-pay-485c84dd?mod=rss_usnews">Opinion | How to Make Texas Dumber Again</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-29-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/nvidia-scandal-widens-rift-between-trump-gop-as-congress-unites-in-alarm">Nvidia scandal widens rift between Trump and GOP as Congress unites in alarm</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-28-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/politics/story/2026-11-24/nvidia-scandal-widens-rift-between-trump-gop-as-congress-unites-in-alarm">Nvidia scandal widens rift between Trump and GOP as Congress unites in alarm</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-28-41 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/california-health-officials-demand-residents-ditch-classic-thanksgiving-staple-strongly-discouraged/">California health officials demand residents ditch classic Thanksgiving activity: &#8216;Strongly discouraged&#8217;</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-25-46 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-24-23 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_worldnews">Opinion | Is Nvidia Trump&#8217;s Waterloo?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=pls_whats_news_us_business_f">Opinion | Is Nvidia Trump&#8217;s Waterloo?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/is-nvidia-trumps-waterloo-22a0d3c2?mod=rss_usnews">Opinion | Is Nvidia Trump&#8217;s Waterloo?</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-23-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/sports/soccer/fifa-private-equity-plan-leaked-documents-infantino-9.7434682?cmp=rss">Leaked FIFA documents show president Infantino's 96-year private equity plan for World Cup</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-24-22-21-45 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/american-exceptionalism-will-win-ai-8e20e29d?mod=rss_worldnews">Opinion | American Exceptionalism Will Win AI</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-21-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/ny-bans-ai-toys-for-5-years-as-lawmakers-evoke-creepy-twilight-zone-talky-tina-doll/">NY bans AI toys for 5 years as lawmakers evoke creepy &#8216;Twilight Zone&#8217; Talky Tina doll</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-20-21 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/opinion/no-thanks-for-these-turkeys-your-honor-598753f0?mod=rss_usnews">Opinion | No Thanks for These Turkeys, Your Honor</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-20-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/immigration/2026/11/24/kilmar-abrego-garcia/">Kilmar Abrego Garc&#237;a will leave U.S. voluntarily to avoid deportation</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-24-22-17-49 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/committed-ben-franklim-impersonator-appears-in-court-dressed-in-full-costume/">Benjamin Franklin impersonator faces judge in full costume as new arrest details emerge</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-16-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/long-dead-frank-sinatra-ends-up-on-list-of-celebs-opposing-schumer-as-senate-boss/">Long-dead Frank Sinatra ends up on list of celebs opposing Schumer as Senate boss</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-16-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/long-dead-frank-sinatra-ends-up-on-list-of-celebs-opposing-schumer-as-senate-boss/">Long-dead Frank Sinatra ends up on list of celebs opposing Schumer as Senate boss</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-16-44 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.latimes.com/california/story/2026-11-24/father-plunges-500-feet-while-helping-son-on-icy-california-mountain">Father dies in 500-foot fall while helping son on icy California mountain trail</a>
+            <div class='byline small text-muted'>
+            latimes, 
+            <span class="datetime">2026-11-24-22-16-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/california-boy-makes-recovery-after-e-coli-infection-at-pumpkin-farm/">California boy, 6, makes miracle recovery after horrific side effects from E. coli at stricken pumpkin farm</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-14-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/retail/urban-outfitters-posts-higher-profit-but-comparable-store-sales-growth-slows-c050ff18?mod=pls_whats_news_us_business_f">Urban Outfitters Posts Higher Profit, But Comparable-Store-Sales Growth Slows</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-14-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/earnings/autodesk-boosts-guidance-as-construction-spending-drives-revenue-fc3ec140?mod=pls_whats_news_us_business_f">Autodesk Boosts Guidance as Construction Spending Drives Revenue</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-13-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss">Watch: Flock of turkeys chases woman on Massachusetts sidewalk</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-22-07-30 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main">Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-07-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html">Pope Francis Diary Excerpts Published in New Book</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-03-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html">Pope Francis Diary Excerpts Published in New Book</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-03-38 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.cbc.ca/news/entertainment/taylor-swift-vanity-fair-criticism-backlash-9.7434367?cmp=rss">Vanity Fair's Taylor Swift expos&#233; sparks backlash</a>
+            <div class='byline small text-muted'>
+            cbc, 
+            <span class="datetime">2026-11-24-22-03-27 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main">U.S. Stocks Mixed as Huang Relief Rally Fades</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-03-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">Blanche Downplays Questions Over Nvidia as Company&#8217;s Customers Come Under Scrutiny</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-02-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">Blanche Downplays Questions Over Nvidia as Company&#8217;s Customers Come Under Scrutiny</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-02-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">Blanche Downplays Questions Over Nvidia as Company&#8217;s Customers Come Under Scrutiny</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-22-02-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/accused-chinatown-killer-caught-on-video-burglarizing-nyc-shop-just-two-days-earlier/">Illegal migrant caught on video burglarizing NYC shop just two days before Chinatown murder</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-22-00-32 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/hospitality/restaurant-business-food-waste-b849ae7e?mod=pls_whats_news_us_business_f">How Restaurants Are Turning Kitchen Waste Into Profit</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-22-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=pls_whats_news_us_business_f">Energy & Utilities Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-59-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main">Energy & Utilities Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-59-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=pls_whats_news_us_business_f">Basic Materials Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main">Basic Materials Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-58-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main">Financial Services Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-56-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_worldnews">Venezuela Reveals an Eye-Popping Debt Load of $237 Billion</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-55-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main">Venezuela Reveals an Eye-Popping Debt Load of $237 Billion</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-55-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main">Auto & Transport Roundup: Market Talk</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-55-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2026/11/24/al-gore-purchase-his-hometown-newspaper/">Al Gore to purchase his hometown newspaper</a>
+            <div class='byline small text-muted'>
+            wapo, 
+            <span class="datetime">2026-11-24-21-55-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html">Black Friday Deals Starting Earlier This Year? It&#8217;s Not Just in Your Head.</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-24-21-54-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main">The Retail Investors Who Believed Nvidia&#8217;s Board&#8212;and Got Burned by Its U-Turn</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-21-53-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main">Tech, Media & Telecom Roundup: Market Talk</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -4153,10 +4622,24 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/doj-looking-into-nvidias-jensen-huang-but-not-necessarily-in-a-criminal-way/">DOJ &#8216;looking into&#8217; Nvidia&#8217;s Jensen Huang but not necessarily in a &#8216;criminal&#8217; way, AG Blanche says</a>
+            <li><a href="https://nypost.com/2026/11/24/us-news/doj-looking-into-nvidias-jensen-huang-but-not-necessarily-in-a-criminal-way/">DOJ &#8216;looking into&#8217; Nvidia&#8217;s Jensen Huang &#8212; but not necessarily in a &#8216;criminal&#8217; way, AG Todd Blanche says</a>
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-24-21-52-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/doj-looking-into-nvidias-jensen-huang-but-not-necessarily-in-a-criminal-way/">DOJ &#8216;looking into&#8217; Nvidia&#8217;s Jensen Huang &#8212; but not necessarily in a &#8216;criminal&#8217; way, AG Todd Blanche says</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-24-21-52-22 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.bbc.co.uk/news/articles/c60md8zj091jo?at_medium=RSS&at_campaign=rss">Florida politician says son's killing was not a 'freak hunting accident'</a>
+            <div class='byline small text-muted'>
+            bbc, 
+            <span class="datetime">2026-11-24-21-51-31 +0000</span></div>
             </li>
         
 
@@ -4251,13 +4734,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main">U.S. Treasury Yields Mixed Ahead of Inflation, GDP Data</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-21-42-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://nypost.com/2026/11/24/world-news/cruise-ship-passenger-missing-after-going-overboard-off-bahamas/">Royal Caribbean cruise passenger missing after going overboard on Thanksgiving trip off Bahamas</a>
             <div class='byline small text-muted'>
             nypost, 
@@ -4269,6 +4745,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-24-21-37-56 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.chicagotribune.com/2026/11/24/naperville-mexican-restaurant-quiubo-downtown-cano/">Down to Business: Brothers &#8216;pour&#8217; their hearts into their Water Street restaurants</a>
+            <div class='byline small text-muted'>
+            chitri, 
+            <span class="datetime">2026-11-24-21-36-44 +0000</span></div>
             </li>
         
 
@@ -4293,35 +4776,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-21-32-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-21-32-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss">Huawei found guilty of stealing trade secrets but acquitted of racketeering</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-21-32-34 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/business/earnings/workday-raises-full-year-subscription-outlook-after-sales-rise-625a54e3?mod=pls_whats_news_us_business_f">Workday Raises Full-Year Subscription Outlook After Sales Rise</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-21-32-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main">U.S. Stocks Mixed as Huang Relief Rally Fades</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-24-21-32-00 +0000</span></div>
@@ -4580,13 +5035,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.startribune.com/rochester-homeless-cameras-seized/601928460">Rochester day center for homeless closes amid drug investigation, seizures</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-24-20-58-02 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/11/24/chinese-tech-huawei-trade-secrets/">Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, US jury finds</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -4608,28 +5056,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_worldnews">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-20-54-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=pls_whats_news_us_business_f">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-20-54-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_usnews">China&#8217;s Huawei Convicted of Fraud in U.S. Criminal Trial</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-20-54-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/business/2026/11/24/maybe-market-is-economy-after-all/">Maybe the market is the economy after all</a>
+            <li><a href="https://www.washingtonpost.com/business/2026/11/24/maybe-market-is-economy-after-all/">Trump&#8217;s Nvidia gambit shows the stock market is the economy</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-20-53-37 +0000</span></div>
@@ -4804,7 +5231,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-24/november-tide-records-fall">High tide breaks 44-year-old record in San Francisco as communities brace for higher water</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-24/november-tide-records-fall">High tide breaks 44-year-old record in S.F. as California communities brace for higher water</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-24-20-08-46 +0000</span></div>
@@ -4818,24 +5245,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/thanksgiving-travel-expected-to-see-16-year-high-just-weeks-after-massive-outage/">Thanksgiving travel expected to see 16-year high just weeks after widespread outages, flight cancelations</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-20-06-49 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-24/severed-head-found-in-norcal-was-cold-case-for-years-forensic-genealogy-may-have-solved-it">A man's severed head was found in a rural California town. His wife and daughter have been arrested</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-24-20-06-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/witness-to-fiona-the-hippos-hat-calamity-reveals-moment-young-boy-started-crying-after-knit-landed-in-enclosure/">Witness to Fiona the hippo&#8217;s hat calamity reveals moment young boy started crying after knit landed in enclosure</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-20-05-36 +0000</span></div>
             </li>
         
 
@@ -4850,13 +5263,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-19-56-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/crackers-sold-in-california-recalled-over-undisclosed-allergens/">Urgent warning as cracker-style biscuits sold in California are recalled over &#8216;life-threatening&#8217; risk</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-55-10 +0000</span></div>
             </li>
         
 
@@ -4885,13 +5291,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-24-19-49-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/lefty-judge-who-freed-illegal-migrant-before-chinatown-slay-made-now-chilling-comment-at-hearing/">Lefty judge who freed career criminal before Chinatown slaying said he should go to mental facility &#8212; then let him walk</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-42-19 +0000</span></div>
             </li>
         
 
@@ -4927,13 +5326,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-24-19-29-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/amazon-delivery-drone-smashes-into-garage-it-just-went-crazy/">Amazon delivery drone crashes into garage: &#8216;It just went crazy&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-28-35 +0000</span></div>
             </li>
         
 
@@ -5021,27 +5413,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/man-accused-of-lewd-act-in-childrens-section-of-ross-store-identified-by-cops/">Man accused of lewd act in children&#8217;s section of Ross store identified by cops</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-18-09 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/doj-recovers-over-8b-charges-more-than-800-suspects-in-largest-anti-scam-surge-in-history/">DOJ recovers over $8B, charges more than 800 suspects in largest anti-scam surge in history</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-16-54 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/video-shows-dad-alongside-son-just-before-tragic-fall-on-california-peak/">Haunting final video shows devoted California dad moments before plunging 500 feet to his death after son&#8217;s mishap on mountain</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-15-18 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss">Nigerian monarch, 92, suspended after sexual assault claims</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -5070,24 +5441,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/columbia-professors-fatal-attraction-mistresss-wild-double-life-revealed/">Columbia professor&#8217;s &#8216;Fatal Attraction&#8217; mistress&#8217;s wild double life revealed</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-03-16 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.startribune.com/pilgrims-pride-death-osha-violation/601924654">Pilgrim&#8217;s Pride faces safety violation fines after worker&#8217;s death</a>
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-11-24-19-02-33 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/impactful-storm-expected-to-serve-wetter-than-average-thanksgiving-weather-to-nyc/">&#8216;Impactful storm&#8217; expected to serve &#8216;wetter-than-average&#8217; Thanksgiving weather to NYC</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-19-01-41 +0000</span></div>
             </li>
         
 
@@ -5102,13 +5459,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nypost, 
             <span class="datetime">2026-11-24-18-58-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/two-medical-specialists-killed-in-fiery-plane-crash-while-practicing-touch-and-go-takeoffs/">Two medical specialists killed in fiery plane crash while practicing touch-and-go takeoffs</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-18-58-05 +0000</span></div>
             </li>
         
 
@@ -5140,14 +5490,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/trump-says-cheating-nvidia-ceo-jensen-huang-and-his-wife-have-worked-it-out-very-good-wife/">Trump says cheating Nvidia CEO Jensen Huang and his wife have &#8216;worked it out&#8217;: &#8216;Very good wife&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-18-28-12 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-24/san-luis-obispo-water-contamination-scare-alarm-indicates-possible-trespasser">California city faces water contamination scare after alarm indicates a tank trespasser</a>
+            <li><a href="https://www.latimes.com/california/story/2026-11-24/san-luis-obispo-water-contamination-scare-alarm-indicates-possible-trespasser">California city fears trespasser dropped 'unknown substance' into water storage tank</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-24-18-28-03 +0000</span></div>
@@ -5371,20 +5714,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=pls_whats_news_us_business_f">Basic Materials Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main">Basic Materials Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-30-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/24/us/harvard-maga-class.html">MAGA Attacked Harvard. So Harvard Taught a Class About It.</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -5396,41 +5725,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-24-17-28-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=pls_whats_news_us_business_f">Energy & Utilities Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-27-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main">Energy & Utilities Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-27-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main">Financial Services Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-24-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main">Auto & Transport Roundup: Market Talk</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-17-22-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/business/anthropic-tumbles-below-83-ipo-price-as-ai-concerns-mount/">Anthropic tumbles below $83 IPO price as AI concerns mount: &#8216;Trying to find its footing&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-17-21-45 +0000</span></div>
             </li>
         
 
@@ -5616,34 +5910,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html">Black Friday Deals Starting Earlier This Year? It&#8217;s Not Just in Your Head.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-16-07-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main">The Retail Investors Who Believed Nvidia&#8217;s Board&#8212;and Got Burned by Its U-Turn</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-16-01-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/lets-build-data-centers-for-the-real-world-5835fccf?mod=rss_usnews">Opinion | Let&#8217;s Build Data Centers for the Real World</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-15-59-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/learning-about-democracy-without-living-it-416a8cac?mod=rss_usnews">Opinion | Learning About Democracy Without Living It</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-15-58-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html">No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -5655,20 +5921,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-24-15-56-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/new-york-doesnt-raise-fools-ca44a774?mod=rss_usnews">Opinion | New York Doesn&#8217;t Raise Fools</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-15-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/social-security-can-be-saved-e962750d?mod=rss_usnews">Opinion | Social Security Can Be Saved</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-15-55-00 +0000</span></div>
             </li>
         
 
@@ -6127,13 +6379,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/retail/burlington-stores-cuts-outlook-as-quarterly-sales-underwhelm-794f958d?mod=pls_whats_news_us_business_f">Burlington Stores Cuts Outlook as Quarterly Sales Underwhelm</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-12-36-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html">Iranian Singer Receives 74 Lashes for Performing With No Hijab</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -6145,13 +6390,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-24-12-34-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/earnings/medtronics-sales-growth-slows-despite-broad-based-gains-9ef7b88a?mod=pls_whats_news_us_business_f">Medtronic&#8217;s Sales Growth Slows Despite Broad-Based Gains</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-12-27-00 +0000</span></div>
             </li>
         
 
@@ -6316,14 +6554,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_worldnews">China to Suspend Some Critical-Material Export Curbs to U.S. Until January</a>
+            <li><a href="https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_socialeconomyfeed">China to Suspend Some Critical-Material Export Curbs to U.S. Until January</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-24-11-13-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_socialeconomyfeed">China to Suspend Some Critical-Material Export Curbs to U.S. Until January</a>
+            <li><a href="https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_worldnews">China to Suspend Some Critical-Material Export Curbs to U.S. Until January</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-24-11-13-00 +0000</span></div>
@@ -6400,13 +6638,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/24/us-news/gops-closest-thing-to-an-affordability-plan-was-bashing-socialists-before-midterms-conservative-group-finds/">GOP&#8217;s &#8216;closest thing to an affordability plan&#8217; was bashing socialists before midterms, conservative group finds</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-24-11-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-24/jd-vances-memoir-catholic-conversion">Arellano: JD Vance's memoir on becoming Catholic confirms why he can never be president</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -6417,6 +6648,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.latimes.com/business/story/2026-11-24/newsoms-utilities-commission-pushes-to-pass-electricity-rate-hikes-other-industry-friendly-measures">Newsom's utilities commission moves to pass electricity rate hikes, other industry-friendly measures</a>
             <div class='byline small text-muted'>
             latimes, 
+            <span class="datetime">2026-11-24-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/24/us-news/gops-closest-thing-to-an-affordability-plan-was-bashing-socialists-before-midterms-conservative-group-finds/">GOP&#8217;s &#8216;closest thing to an affordability plan&#8217; was bashing socialists before midterms, conservative group finds</a>
+            <div class='byline small text-muted'>
+            nypost, 
             <span class="datetime">2026-11-24-11-00-00 +0000</span></div>
             </li>
         
@@ -6638,14 +6876,21 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/technology/2026/11/24/i-tested-out-solar-powered-electric-scooter-you-rarely-have-charge/">I tested a solar-powered scooter you rarely have to charge</a>
+            <li><a href="https://www.wsj.com/economy/home-health-aide-aging-population-0dd1f5be?mod=rss_socialeconomyfeed">In the next decade, America&#8217;s graying population will demand hundreds of thousands more home-health workers. They&#8217;re already in short supply.</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.washingtonpost.com/business/2026/11/24/how-cope-with-rising-daycare-costs/">Day care for two kids can look like a rent payment. Here&#8217;s how to get ready.</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/business/2026/11/24/how-cope-with-rising-daycare-costs/">Day care for two kids can look like a rent payment. Here&#8217;s how to get ready.</a>
+            <li><a href="https://www.washingtonpost.com/technology/2026/11/24/i-tested-out-solar-powered-electric-scooter-you-rarely-have-charge/">I tested a solar-powered scooter you rarely have to charge</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
@@ -6673,21 +6918,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/economy/home-health-aide-aging-population-0dd1f5be?mod=rss_socialeconomyfeed">In the next decade, America&#8217;s graying population will demand hundreds of thousands more home-health workers. They&#8217;re already in short supply.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/">How retailers make a Black Friday sale look better than it is</a>
+            <li><a href="https://www.washingtonpost.com/nation/2026/11/24/lee-harvey-oswald-killed-by-jack-ruby-live-tv-after-kennedy-assassination/">Two days after JFK assassination, live TV audience witnesses another killing</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/nation/2026/11/24/lee-harvey-oswald-killed-by-jack-ruby-live-tv-after-kennedy-assassination/">Two days after JFK assassination, live TV audience witnesses another killing</a>
+            <li><a href="https://www.washingtonpost.com/business/2026/11/24/how-retailers-make-black-friday-sale-look-better-than-it-is/">How retailers make a Black Friday sale look better than it is</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-24-10-00-00 +0000</span></div>
@@ -6715,6 +6953,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/economy/central-banking/german-business-sentiment-rises-again-as-firms-say-conditions-expectations-brighten-513ea117?mod=rss_socialeconomyfeed">German Business Sentiment Rises Again as Firms Say Conditions, Expectations Brighten</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-24-09-52-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_worldnews">Jensen Huang&#8217;s Return Sparks Rally in Asia, but Concerns Remain</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -6723,13 +6968,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main">Jensen Huang&#8217;s Return Sparks Rally in Asia, but Concerns Remain</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-09-52-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/central-banking/german-business-sentiment-rises-again-as-firms-say-conditions-expectations-brighten-513ea117?mod=rss_socialeconomyfeed">German Business Sentiment Rises Again as Firms Say Conditions, Expectations Brighten</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-24-09-52-00 +0000</span></div>
@@ -6904,20 +7142,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html">Pope Francis Diary Excerpts Published in New Book</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-06-00-06 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html">Pope Francis Diary Excerpts Published in New Book</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-06-00-06 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.washingtonpost.com/world/2026/11/24/pope-francis-private-diary-reveals-torment-visions-devil/">The temptation of Pope Francis: Private diary reveals torment, visions of Devil</a>
             <div class='byline small text-muted'>
             wapo, 
@@ -7037,13 +7261,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?mod=pls_whats_news_us_business_f">The Frantic White House Push to Get Jensen Huang Back</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-24-02-00-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f">Jensen Huang Got His Job Back. What Message Does It Send to Corporate America?</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -7135,13 +7352,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss">Can Burnham turn volume down on EU debate?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-24-00-45-53 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss">Chris Mason: Can Burnham turn volume down on EU debate?</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -7149,10 +7359,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/bob-woodward-book-secrets.html">Turning the Lens Around: Bob Woodward Takes On Bob Woodward</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss">Can Burnham turn volume down on EU debate?</a>
             <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-24-00-43-03 +0000</span></div>
+            bbc, 
+            <span class="datetime">2026-11-24-00-45-53 +0000</span></div>
             </li>
         
 
@@ -7282,13 +7492,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html">Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-23-23-41-29 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://missionlocal.org/2026/11/mission-local-wins-5-awards-spj-norcal/">Mission Local wins 5 awards from Society of Professional Journalists of Northern California</a>
             <div class='byline small text-muted'>
             missionlocal, 
@@ -7342,13 +7545,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-23-23-16-08 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/radio/asithappens/arizona-toddler-rescue-9.7433239?cmp=rss">'I'm not a hero,' says Arizona man who found lost toddler alone in the desert</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-23-23-16-05 +0000</span></div>
             </li>
         
 
@@ -7538,20 +7734,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-23-21-58-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/what-napoleon-teaches-us-about-meritocracy-475118a4?mod=rss_worldnews">Opinion | What Napoleon Teaches Us About Meritocracy</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-21-56-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/trumps-focus-moves-to-foreign-policy-a8004ad5?mod=rss_worldnews">Opinion | Trump&#8217;s Focus Moves to Foreign Policy</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-21-56-00 +0000</span></div>
             </li>
         
 
@@ -7695,20 +7877,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/taiwan-elections-misinformation.html">Fake Personas Aligned With China Are Targeting Taiwan&#8217;s Election, Researchers Say</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-23-21-32-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/taiwan-elections-misinformation.html">Fake Personas Aligned With China Are Targeting Taiwan&#8217;s Election, Researchers Say</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-23-21-32-05 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html">Audra Fordin Fixes Cars, and Eases Women&#8217;s Fears</a>
             <div class='byline small text-muted'>
             nyt, 
@@ -7734,13 +7902,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-23-21-24-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss">Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-23-21-23-42 +0000</span></div>
             </li>
         
 
@@ -7919,13 +8080,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/23/us-news/eric-swalwells-pal-jimmy-gomez-engaged-in-sexual-misconduct-with-house-staffer-ethics-report-finds-cites-posts-reporting/">Eric Swalwell&#8217;s pal Jimmy Gomez violated House rules in alleged sex assault of staffer, Ethics panel finds &#8212; citing Post reporting</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-23-20-13-46 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.cbc.ca/news/politics/dnd-cadet-program-top-up-9.7432950?cmp=rss">Defence Department tops up cadet program after outrage over cancelled activities</a>
             <div class='byline small text-muted'>
             cbc, 
@@ -7975,13 +8129,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.cbc.ca/news/world/iran-singer-flogging-9.7432912?cmp=rss">Iranian singer subjected to 74 lashes for performing without her hijab</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-23-19-32-44 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.chicagotribune.com/2026/11/23/vista-medical-center-license/">State board recommends action against hospital license of Vista Medical Center East</a>
             <div class='byline small text-muted'>
             chitri, 
@@ -8028,13 +8175,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-23-19-19-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/23/us-news/trump-orders-the-army-not-to-detonate-bomb-making-chemicals-in-iowa-without-court-approval/">Judge greenlights Army detonation of lead munitions &#8212; hours after Trump ordered pause</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-23-19-19-20 +0000</span></div>
             </li>
         
 
@@ -8182,20 +8322,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-23-18-09-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang-congress-criticism.html">Trump Draws Bipartisan Criticism for Pushing to Reinstate Jensen Huang as Nvidia CEO</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-23-18-08-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang-congress-criticism.html">Trump Draws Bipartisan Criticism for Pushing to Reinstate Jensen Huang as Nvidia CEO</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-23-18-08-18 +0000</span></div>
             </li>
         
 
@@ -8430,13 +8556,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss">How important are Nvidia and Jensen Huang to the US economy?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-23-16-12-35 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss">The rise and fall and rise again of Jensen Huang</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -8462,13 +8581,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-23-15-45-28 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html">Why Nostalgia for Tamagotchis, the Virtual Pets, Won&#8217;t Die</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-23-15-43-28 +0000</span></div>
             </li>
         
 
@@ -8630,13 +8742,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-23-14-20-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main">Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-14-20-00 +0000</span></div>
             </li>
         
 
@@ -8871,13 +8976,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06?mod=rss_markets_main">Pouncing on Anthropic Won&#8217;t Make You Rich</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-11-28-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss">Capita shares plunge 70% as boss quits after civil service pensions failure</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -9039,6 +9137,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/personal-finance/baby-boomer-silent-generation-wealth-transfer-elder-care-804e4a0e?mod=rss_markets_main">When Paying for Mom and Dad&#8217;s Eldercare Rips Up Adult Kids&#8217; Financial Future</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-23-10-00-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.washingtonpost.com/business/2026/11/23/debt-trap-how-credit-cards-keep-you-paying/">The debt trap: How credit cards keep you paying</a>
             <div class='byline small text-muted'>
             wapo, 
@@ -9053,21 +9158,21 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/personal-finance/baby-boomer-silent-generation-wealth-transfer-elder-care-804e4a0e?mod=rss_markets_main">When Paying for Mom and Dad&#8217;s Eldercare Rips Up Adult Kids&#8217; Financial Future</a>
+            <li><a href="https://www.wsj.com/politics/elections/democrats-2028-presidential-season-launches-with-new-debate-plans-6757923d?mod=rss_socialpoliticsfeed">Democrats making presidential bids will gather for their first primary debate in June, the Democratic National Committee announced Monday</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-23-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/23/democrats-open-2028-primary-debates-june-after-pushback-against-earlier-start/">Democrats to open 2028 primary debates in June after pushback against earlier start</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/23/fight-chair-gop-tests-trumps-clout-after-midterms-wipeout/">Fight to chair the GOP tests Trump&#8217;s clout after midterm wipeout</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-23-10-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.washingtonpost.com/politics/2026/11/23/fight-chair-gop-tests-trumps-clout-after-midterms-wipeout/">Fight to chair the GOP tests Trump&#8217;s clout after midterm wipeout</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/23/democrats-open-2028-primary-debates-june-after-pushback-against-earlier-start/">Democrats to open 2028 primary debates in June after pushback against earlier start</a>
             <div class='byline small text-muted'>
             wapo, 
             <span class="datetime">2026-11-23-10-00-00 +0000</span></div>
@@ -9084,13 +9189,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <li><a href="https://www.cbc.ca/news/indigenous/rcmp-surveillance-kinew-9.7426927?cmp=rss">Spying on survivors: Why RCMP watched Wab Kinew's father in the 1960s</a>
             <div class='byline small text-muted'>
             cbc, 
-            <span class="datetime">2026-11-23-10-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/elections/democrats-2028-presidential-season-launches-with-new-debate-plans-6757923d?mod=rss_socialpoliticsfeed">Democrats making presidential bids will gather for their first primary debate in June, the Democratic National Committee announced Monday</a>
-            <div class='byline small text-muted'>
-            wsj, 
             <span class="datetime">2026-11-23-10-00-00 +0000</span></div>
             </li>
         
@@ -9193,13 +9291,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/energy-oil/abb-to-buy-germanys-ziehl-abegg-for-2-22-billion-fad3bf35?mod=pls_whats_news_us_business_f">ABB to Buy Germany&#8217;s Ziehl-Abegg for $2.22 Billion</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-23-06-28-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.latimes.com/california/story/2026-11-22/california-earthquake-magnitude-3-3-quake-rumbles-near-el-segundo">Magnitude 3.3 earthquake rumbles near El Segundo</a>
             <div class='byline small text-muted'>
             latimes, 
@@ -9291,14 +9382,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/world/middle-east/fugitive-criminals-need-a-new-hideout-since-the-u-a-e-started-extraditing-them-7d26ff20?mod=rss_worldnews">Fugitive Criminals Need a New Hideout Since the U.A.E. Started Extraditing Them</a>
+            <li><a href="https://www.wsj.com/economy/housing/battered-home-builders-turn-to-remodeling-and-repair-work-to-pay-the-bills-247fa315?mod=rss_socialeconomyfeed">Home builders are contending with one of their toughest periods in years as high interest rates drive away buyers. So many smaller-scale builders are pivoting to remodel and repair work.</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-23-01-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/economy/housing/battered-home-builders-turn-to-remodeling-and-repair-work-to-pay-the-bills-247fa315?mod=rss_socialeconomyfeed">Home builders are contending with one of their toughest periods in years as high interest rates drive away buyers. So many smaller-scale builders are pivoting to remodel and repair work.</a>
+            <li><a href="https://www.wsj.com/world/middle-east/fugitive-criminals-need-a-new-hideout-since-the-u-a-e-started-extraditing-them-7d26ff20?mod=rss_worldnews">Fugitive Criminals Need a New Hideout Since the U.A.E. Started Extraditing Them</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-23-01-00-00 +0000</span></div>
@@ -9386,13 +9477,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-22-22-34-44 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/business/2026/11/22/roth-vs-traditional-retirement-accounts-which-is-right-you/">Roth vs. traditional retirement accounts: Which is right for you?</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-22-22-30-00 +0000</span></div>
             </li>
         
 
@@ -9704,14 +9788,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-11-22/buoyed-by-midterms-democrats-start-looking-to-2028">Buoyed by midterms, Democrats start looking to 2028</a>
+            <li><a href="https://www.latimes.com/politics/story/2026-11-22/2028-presidential-race-political-map-texas-earthquake">Barabak: A blue Texas is a monumental shift. That's already reshaping the 2028 presidential race</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-22-11-00-00 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.latimes.com/politics/story/2026-11-22/2028-presidential-race-political-map-texas-earthquake">Barabak: A blue Texas is a monumental shift. That's already reshaping the 2028 presidential race</a>
+            <li><a href="https://www.latimes.com/politics/story/2026-11-22/buoyed-by-midterms-democrats-start-looking-to-2028">Buoyed by midterms, Democrats start looking to 2028</a>
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-22-11-00-00 +0000</span></div>
@@ -10446,13 +10530,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html">Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-21-03-23-04 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://missionlocal.org/2026/11/san-francisco-shelter-workers-preliminary-hearing/">S.F. shelter workers likely to be tried on charges of hiding suspect</a>
             <div class='byline small text-muted'>
             missionlocal, 
@@ -10618,13 +10695,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-20-23-15-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/opinion/why-china-wants-to-control-a-yacht-maker-69ca60c7?mod=pls_whats_news_us_business_f">Opinion | Why China Wants to Control a Yacht Maker</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-20-23-11-00 +0000</span></div>
             </li>
         
 
@@ -11181,6 +11251,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
+            <li><a href="https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_socialeconomyfeed">British business bank OakNorth, whose shareholders include Jared Kushner&#8217;s Affinity Partners investment firm and the SoftBank Vision Fund, received a full-charter U.S. banking license</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-20-09-18-00 +0000</span></div>
+            </li>
+        
+
             <li><a href="https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=pls_whats_news_us_business_f">British Bank Backed by Kushner&#8217;s Affinity Gets U.S. License</a>
             <div class='byline small text-muted'>
             wsj, 
@@ -11189,13 +11266,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_markets_main">British Bank Backed by Kushner&#8217;s Affinity Gets U.S. License</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-20-09-18-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_socialeconomyfeed">British business bank OakNorth, whose shareholders include Jared Kushner&#8217;s Affinity Partners investment firm and the SoftBank Vision Fund, received a full-charter U.S. banking license</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-20-09-18-00 +0000</span></div>
@@ -11290,13 +11360,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             48hills, 
             <span class="datetime">2026-11-20-02-31-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cvkg58d7z10ro?at_medium=RSS&at_campaign=rss">Indonesian daycare principal jailed for five years over child abuse case</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-20-01-48-08 +0000</span></div>
             </li>
         
 
@@ -11881,13 +11944,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.bbc.co.uk/news/articles/cw62pz48vj4go?at_medium=RSS&at_campaign=rss">Badenoch defends amputee marathon runners claim in benefits cut row</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-19-13-34-02 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss">Venezuela signs military deal with US less than a year after Maduro's removal</a>
             <div class='byline small text-muted'>
             bbc, 
@@ -12119,7 +12175,14 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/national-security/the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-0bc1bd4a?mod=rss_worldnews">The Jensen Huang Saga Has Reinvigorated Washington&#8217;s China Hawks</a>
+            <li><a href="https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=rss_socialeconomyfeed">From cigarettes and denim to supersonic jets: an industrial North Carolina region reinvents its economy</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-19-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?mod=rss_markets_main">Wall Street Pledged to Mobilize $500 Billion for Nvidia&#8212;but Hasn&#8217;t Put Up a Dime</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-19-02-00-00 +0000</span></div>
@@ -12127,13 +12190,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
         
 
             <li><a href="https://www.wsj.com/politics/national-security/the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-0bc1bd4a?mod=rss_socialpoliticsfeed">Jensen Huang&#8217;s ouster from Nvidia is giving new momentum to policymakers who want to regulate AI and set more guardrails around U.S. business activity with China</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-19-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=rss_socialeconomyfeed">From cigarettes and denim to supersonic jets: an industrial North Carolina region reinvents its economy</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-19-02-00-00 +0000</span></div>
@@ -12235,6 +12291,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-18-23-06-50 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/us-news/law/murder-charges-brought-against-two-men-in-fatal-south-carolina-road-rage-case-188a309d?mod=rss_usnews">Murder Charges Brought Against Two Men in Fatal South Carolina Road-Rage Case</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-18-23-00-00 +0000</span></div>
             </li>
         
 
@@ -12872,97 +12935,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-17-23-11-03 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss">Senegal and Morocco lead Afcon qualifiers but Tunisia protest</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-17-22-54-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/trump-had-urged-jensen-huang-to-fight-for-his-job">Trump had urged Jensen Huang to fight for his job.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-17-22-53-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-17/la-me-landfill-geyser">Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-17-22-46-46 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/17/steve-balich-loss-will-county-board/">Provisional Will County results show Steve Balich loss; he&#8217;ll seek recount</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-17-22-43-29 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/food/story/2026-11-17/oy-bar-studio-city-closure">'What a mistake.' Popular Studio City restaurant and bar will close to make way for new housing project</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-17-22-38-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/food/story/2026-11-17/oy-bar-studio-city-closure">'What a mistake.' Popular Studio City restaurant and bar will close to make way for new housing project</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-17-22-38-07 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/politics/national-security/5-takeaways-from-navy-nominees-rocky-hearing-0ca74829?mod=rss_socialpoliticsfeed">Hung Cao, President Trump&#8217;s pick to lead the Navy, faced a tough reception from Republicans and Democrats during his confirmation hearing. Here are five takeaways.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-17-22-33-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/17/school-phone-ban/">Do school phone bans help students learn? So far, gains are &#8216;modest&#8217;</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-17-22-23-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia">Jensen Huang&#8217;s daughter, a close ally, remains in a senior role at Nvidia.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-17-22-20-01 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/17/transformer-transport-hobart-data-center-stopped/">Transformer transport for Hobart data center stopped by Porter County over county road use</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-17-22-07-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/17/lyons-township-willow-springs-land-sale/">Lyons Township High School accepts $28 million bid for Willow Springs land</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-17-22-04-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/17/indiana-legislature-swears-in-new-members-elects-leaders-ahead-of-2027-session/">Indiana legislature swears in new members, elects leaders ahead of 2027 session</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-17-21-56-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/17/illinois-tech-downgraded/">Illinois Institute of Technology&#8217;s financial outlook declines alongside enrollment numbers</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-17-21-56-39 +0000</span></div>
             </li>
         
     </ul>
