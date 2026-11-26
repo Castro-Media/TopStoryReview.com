@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-26 08:14 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-26 09:12 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,54 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html">13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-06-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/26/us-news/dennys-faces-heat-over-gushy-tribute-to-nvidia-ceo-jensen-huang-just-put-the-pancakes-on-bro/">Denny&#8217;s faces heat over gushy tribute to Nvidia CEO Jensen Huang: &#8216;Just put the pancakes on bro&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-06-29-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/26/us-news/massachusetts-man-killed-in-shooting-at-chelsea-high-school-football-game/">Man shot and killed during brawl at Thanksgiving rivalry football game outside Boston</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-06-15-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c62l5j02lj0go?at_medium=RSS&at_campaign=rss">Government set to double spending on social media unit to &#163;25m</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-05-58-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o?at_medium=RSS&at_campaign=rss">Parents cutting basics at Christmas, charity warns</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-06-13-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/25/world/youth-protests-education-tariffs-thanksgiving.html">Study Hard, Get Ahead?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-06-38-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html">13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-06-30-00 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -97,17 +49,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://nypost.com/2026/11/25/business/fcc-approves-elon-musks-spacex-to-launch-1-million-satellites-for-data-centers-in-space/">Elon Musk&#8217;s plan for SpaceX to launch 1 million satellites for &#8216;constellation&#8217; of data centers approved by FCC</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-25-22-38-54 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.startribune.com/macys-announces-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather/601929614">Bad weather postpones Macy's Thanksgiving Day Parade for first time ever</a>
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-11-26-05-50-02 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/25/business/fcc-approves-elon-musks-spacex-to-launch-1-million-satellites-for-data-centers-in-space/">Elon Musk&#8217;s plan for SpaceX to launch 1 million satellites for &#8216;constellation&#8217; of data centers approved by FCC</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-25-22-38-54 +0000</span></div>
             </li>
         
 
@@ -132,17 +84,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main">Where to Find Bargains After the AI Power Boom Reality Check</a>
+            <li><a href="https://www.cbc.ca/news/world/ukraine-russia-libya-attack-9.7435192?cmp=rss">Libyan army says 2 officers were killed in Ukraine's attack on Russian warship</a>
             <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-25-10-30-00 +0000</span></div>
+            cbc, 
+            <span class="datetime">2026-11-25-13-49-04 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.wsj.com/us-news/army-set-to-detonate-tons-of-toxic-lead-explosives-in-iowa-e6815c2a?mod=rss_worldnews">Army Detonates Tons of Toxic Lead Explosives in Iowa</a>
+            <li><a href="https://www.cbc.ca/news/business/stock-market-latest-9.7435326?cmp=rss">Wall Street recovers most early losses as pullback in AI stocks eases</a>
             <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-25-17-25-00 +0000</span></div>
+            cbc, 
+            <span class="datetime">2026-11-25-15-00-22 +0000</span></div>
             </li>
         
 
@@ -234,54 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/11/25/world/youth-protests-education-tariffs-thanksgiving.html">Study Hard, Get Ahead?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-06-38-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html">13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-06-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html">13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-06-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/26/us-news/dennys-faces-heat-over-gushy-tribute-to-nvidia-ceo-jensen-huang-just-put-the-pancakes-on-bro/">Denny&#8217;s faces heat over gushy tribute to Nvidia CEO Jensen Huang: &#8216;Just put the pancakes on bro&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-06-29-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/26/us-news/massachusetts-man-killed-in-shooting-at-chelsea-high-school-football-game/">Man shot and killed during brawl at Thanksgiving rivalry football game outside Boston</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-06-15-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o?at_medium=RSS&at_campaign=rss">Parents cutting basics at Christmas, charity warns</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-06-13-47 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c62l5j02lj0go?at_medium=RSS&at_campaign=rss">Government set to double spending on social media unit to &#163;25m</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-05-58-36 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -3759,41 +3663,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             nyt, 
             <span class="datetime">2026-11-25-08-05-15 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html">Iraq&#8217;s Prime Minister Aims to Wrest More Power From Kurdistan Region</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-25-07-36-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html">Iraq&#8217;s Prime Minister Aims to Wrest More Power From Kurdistan Region</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-25-07-36-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/autos/amazon-autos-plans-to-launch-services-in-u-k-in-early-2027-a637c131?mod=pls_whats_news_us_business_f">Amazon Autos Plans to Launch Services in U.K. in Early 2027</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-25-07-32-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/11/fabulous-local-voices-set-to-light-up-sketchfest-2027/">Fabulous local voices set to light up Sketchfest 2027</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-11-25-07-17-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/videos/c6z9dk30880zo?at_medium=RSS&at_campaign=rss">The CCTV that helped convict a Sydney policeman of double murder</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-25-06-58-24 +0000</span></div>
             </li>
         
     </ul>
