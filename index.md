@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-26 02:15 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-26 03:13 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -28,73 +28,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 1h</h2>
     <ul>
         
-            <li><a href="https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html">Trump Rejoiced in the Market&#8217;s Nvidia Surge. It Didn&#8217;t Last Long.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-00-35-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss">US Army says controlled blast of explosives in Iowa was 'huge success'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-00-23-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss">US approves SpaceX plan to send a million data satellites to space</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-00-07-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html">Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-00-11-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/25/us-news/nithya-raman-spends-thanksgiving-eve-feeding-the-homeless-on-skid-row/">Mayor-elect Nithya Raman spends Thanksgiving eve feeding the homeless on Skid Row</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-00-46-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/25/us-news/desperate-teen-girls-crawl-under-fence-to-escape-troubled-group-home-video/">Six desperate teen girls crawl under fence to escape troubled Alabama group home: video</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-00-20-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/entertainment/pitt-jolie-miraval-lawsuits-allegations-9.7436552?cmp=rss">Brad Pitt, Angelina Jolie settle dispute over French estate Ch&#226;teau Miraval</a>
+            <li><a href="https://www.cbc.ca/news/politics/poilievre-wainwright-nurse-employment-9.7436563?cmp=rss">Poilievre claims constituent's job was threatened after meeting at CFB Wainwright</a>
             <div class='byline small text-muted'>
             cbc, 
-            <span class="datetime">2026-11-26-00-25-00 +0000</span></div>
+            <span class="datetime">2026-11-26-00-56-20 +0000</span></div>
             </li>
         
 
-            <li><a href="https://www.startribune.com/macys-announces-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather/601929614">Bad weather postpones Macy's Thanksgiving Day Parade for first time ever</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-26-00-40-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/25/us-news/san-francisco-waymo-passenger-left-horrified-after-finding-handgun-on-seat/">San Francisco Waymo passenger left horrified after finding handgun on seat</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-00-19-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss">France's political mainstream risks presidential vote debacle with no clear candidate</a>
+            <li><a href="https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss">US announces new tariffs on host of countries including China</a>
             <div class='byline small text-muted'>
             bbc, 
-            <span class="datetime">2026-11-26-00-23-27 +0000</span></div>
+            <span class="datetime">2026-11-26-01-00-06 +0000</span></div>
             </li>
         
     </ul>
@@ -104,17 +48,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
     <h2>Top 24h</h2>
     <ul>
         
-            <li><a href="https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda?mod=rss_socialpoliticsfeed">Nvidia&#8217;s Jensen Huang is set for at least two appearances before lawmakers next week, which could test how far President Trump&#8217;s protection of &#8220;brilliant&#8221; CEOs extends. Read more in today&#8217;s WSJ Politics newsletter:</a>
+            <li><a href="https://www.washingtonpost.com/politics/2026/11/25/trump-proposes-new-tariffs-china-europe-other-trade-partners/">Trump proposes new tariffs on China, Europe and other trade partners</a>
             <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-25-11-58-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/25/business/us-proposes-new-tariffs-on-14-trading-partners-including-china-japan-eu-and-india/">US proposes new tariffs on 14 trading partners &#8212; including China, Japan, EU and India</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-25-13-37-56 +0000</span></div>
+            wapo, 
+            <span class="datetime">2026-11-25-17-24-25 +0000</span></div>
             </li>
         
 
@@ -146,17 +83,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?mod=pls_whats_news_us_business_f">SpaceX Gets Approval to Launch One Million Satellites for Orbital Data Centers</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-25-19-39-00 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3?mod=rss_socialeconomyfeed">What would happen to the U.S. economy if the AI boom goes bust? It would take a painful hit, but the magnitude of the fallout remains a live debate among economists, business and financial leaders.</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-25-02-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.wsj.com/business/fcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7?mod=pls_whats_news_us_business_f">SpaceX Gets Approval to Launch One Million Satellites for Orbital Data Centers</a>
+            <div class='byline small text-muted'>
+            wsj, 
+            <span class="datetime">2026-11-25-19-39-00 +0000</span></div>
             </li>
         
 
@@ -171,6 +108,13 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-25-14-06-13 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/25/us-news/nato-boss-says-ukraine-doing-exceptionally-well-in-war-as-trump-admin-drops-plans-to-do-business-with-russia/">NATO boss says Ukraine &#8216;doing exceptionally well&#8217; in war, as Trump admin sidelines plan to do business with Russia</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-25-19-25-40 +0000</span></div>
             </li>
         
     </ul>
@@ -243,10 +187,10 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/business/energy-oil/texas-pacific-land-to-buy-eaglerock-land-in-3-billion-all-stock-deal-643be79c?mod=pls_whats_news_us_business_f">Texas Pacific Land to Buy EagleRock Land in $3 Billion All-Stock Deal</a>
+            <li><a href="https://www.wsj.com/politics/policy/democrats-are-already-watering-down-their-medicare-for-all-plans-0ae9fb1a?mod=rss_socialpoliticsfeed">A Democratic push to enact Medicare for All is already narrowing in scope given the obstacles to reworking a private health insurance market that covers more than 200 million Americans</a>
             <div class='byline small text-muted'>
             wsj, 
-            <span class="datetime">2026-11-23-11-54-00 +0000</span></div>
+            <span class="datetime">2026-11-25-03-00-00 +0000</span></div>
             </li>
         
     </ul>
@@ -267,202 +211,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             cbc, 
             <span class="datetime">2026-11-26-00-56-20 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html">Judge Blocks F.C.C. From Targeting Disney&#8217;s Local ABC Licenses</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-00-53-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/25/us-news/nithya-raman-spends-thanksgiving-eve-feeding-the-homeless-on-skid-row/">Mayor-elect Nithya Raman spends Thanksgiving eve feeding the homeless on Skid Row</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-00-46-52 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.startribune.com/macys-announces-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather/601929614">Bad weather postpones Macy's Thanksgiving Day Parade for first time ever</a>
-            <div class='byline small text-muted'>
-            startribune, 
-            <span class="datetime">2026-11-26-00-40-02 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html">Trump Rejoiced in the Market&#8217;s Nvidia Surge. It Didn&#8217;t Last Long.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-00-35-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html">Trump Rejoiced in the Market&#8217;s Nvidia Surge. It Didn&#8217;t Last Long.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-00-35-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html">Trump Rejoiced in the Market&#8217;s Nvidia Surge. It Didn&#8217;t Last Long.</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-00-35-37 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/entertainment/pitt-jolie-miraval-lawsuits-allegations-9.7436552?cmp=rss">Brad Pitt, Angelina Jolie settle dispute over French estate Ch&#226;teau Miraval</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-26-00-25-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/25/us-news/la-drivers-can-now-get-real-time-alerts-for-all-125-new-city-speed-cameras/">The sneaky tactic drivers are using to avoid SoCal traffic cameras</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-00-24-45 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss">The US pastor who wants to see women's right to vote overturned</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-00-24-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main">Gold Edges Lower Amid Rate Hike Bets</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-26-00-24-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss">Spanish elections: What you need to know and what's at stake</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-00-23-49 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss">France's political mainstream risks presidential vote debacle with no clear candidate</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-00-23-27 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss">US Army says controlled blast of explosives in Iowa was 'huge success'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-00-23-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss">US Army says controlled blast of explosives in Iowa was 'huge success'</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-00-23-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss">Has global jihadism failed, or is it simply changing shape?</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-00-22-18 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/11/watch-ai-threatens-to-further-gentrify-the-mission-and-bayview/">Watch: AI threatens to further gentrify the Mission and Bayview</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-11-26-00-21-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/25/us-news/princess-cruises-norovirus-outbreak-sickens-more-than-230-passengers-35-crew-members/">Princess Cruises norovirus outbreak sickens more than 230 passengers, 35 crew members</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-00-21-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/25/us-news/desperate-teen-girls-crawl-under-fence-to-escape-troubled-group-home-video/">Six desperate teen girls crawl under fence to escape troubled Alabama group home: video</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-00-20-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/25/us-news/san-francisco-waymo-passenger-left-horrified-after-finding-handgun-on-seat/">San Francisco Waymo passenger left horrified after finding handgun on seat</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-00-19-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main">Nikkei Rises 1.3%, Led by Chip, Metals Stocks</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-26-00-19-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html">Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-00-11-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html">Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-26-00-11-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss">US approves SpaceX plan to send a million data satellites to space</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-00-07-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss">US approves SpaceX plan to send a million data satellites to space</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-00-07-51 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/25/business/la-grocery-stores-open-on-thanksgiving-holiday-hours-closures-more/">Los Angeles grocery stores open on Thanksgiving: Closures, holiday hours, and more</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-00-04-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/25/us-news/chinatown-murder-stirs-painful-memories-of-tragic-2022-slaying-this-is-christina-all-over-again/">Chinatown murder stirs painful memories of tragic 2022 slaying: &#8216;This is Christina all over again&#8217;</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-26-00-03-41 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main">Aschenbrenner&#8217;s Situational Awareness Tells Investors It Lost 65% in Third Quarter</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-26-00-03-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss">Guitar wars - the transatlantic battle over the Stratocaster</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-26-00-01-37 +0000</span></div>
             </li>
         
     </ul>
@@ -3941,97 +3689,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             latimes, 
             <span class="datetime">2026-11-25-01-55-34 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss">Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-25-01-51-43 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://48hills.org/2026/11/drama-masks-no-more-mr-nice-witch/">Drama Masks: No more Mr. Nice Witch</a>
-            <div class='byline small text-muted'>
-            48hills, 
-            <span class="datetime">2026-11-25-01-50-53 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-24/police-federal-agents-anti-ice-activists-clash-near-burbank-hospital">Police, federal agents and anti-ICE activists clash outside Burbank hospital</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-25-01-45-25 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c?mod=rss_worldnews">Yemen&#8217;s Houthis Take Second Swipe at Tallest Tower in Saudi Capital</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-25-01-43-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss">Thomas Markle charged in US for possessing child sex abuse images</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-25-01-40-42 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/retail/this-century-old-nyc-grocery-store-is-closing-even-its-famous-customers-couldnt-save-it-efdfb1ce?mod=pls_whats_news_us_business_f">This Century-Old NYC Grocery Store Is Closing. Even Its Famous Customers Couldn&#8217;t Save It.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-25-01-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/business/retail/this-century-old-nyc-grocery-store-is-closing-even-its-famous-customers-couldnt-save-it-efdfb1ce?mod=rss_usnews">This Century-Old NYC Grocery Store Is Closing. Even Its Famous Customers Couldn&#8217;t Save It.</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-25-01-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/trump-declares-hes-certainly-not-corrupt-and-hits-out-at-real-grift-in-minnesota-other-dem-states/">Trump declares he&#8217;s &#8216;certainly not corrupt&#8217; and hits out at &#8216;real&#8217; grift in Minnesota, other Dem states</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-25-01-29-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html">DealBook Summit 2026: It&#8217;s Time to Fix Health Care</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-25-01-24-19 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/rubio-jensen-huangs-nvidia-as-malign-influence-before-ouster/">Marco Rubio&#8217;s concern about Jensen Huang, Nvidia being &#8216;malign influence&#8217; led to Trump warning</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-25-01-12-13 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/24/us-news/trump-says-nyc-congestion-pricing-is-a-killer-for-state-vows-to-block-it-from-spreading/">Trump says NYC congestion pricing is &#8216;a killer&#8217; for state &#8212; vows to block it from spreading</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-25-01-03-23 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss">Trump's rescue of Nvidia's Huang brings political risks</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-25-01-03-05 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss">Trump's rescue of Nvidia's Huang brings political risks</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-25-01-03-05 +0000</span></div>
             </li>
         
     </ul>
@@ -12697,20 +12354,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-19-02-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/18/democratic-attorneys-general-trump/">Illinois AG Kwame Raoul, Democratic attorneys general vow to keep pressure on Trump after midterm gains</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-19-01-19-32 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.latimes.com/california/story/2026-11-18/police-price-tag-for-l-as-28-summer-olympics-could-hit-4-billion">Police price tag for L.A.'s '28 Summer Olympics could hit $4 billion, LAPD chief says</a>
-            <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-19-01-01-57 +0000</span></div>
             </li>
         
     </ul>
