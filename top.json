@@ -1,17 +1,10 @@
 [
   {
-    "score": 52,
-    "pubdate": "2026-11-27-20-26-11 +0000",
-    "source": "wapo",
-    "title": "Trump officials to speed president&#8217;s projects with special meeting before new Congress",
-    "link": "https://www.washingtonpost.com/politics/2026/11/27/white-house-speed-trump-projects-with-special-meeting-ahead-new-congress/"
-  },
-  {
-    "score": 40,
-    "pubdate": "2026-11-28-15-00-00 +0000",
-    "source": "nypost",
-    "title": "Bandits ransack AI shipments in California &#8212; as $20M tech appears on China&#8217;s black market",
-    "link": "https://nypost.com/2026/11/28/us-news/thieves-target-california-ai-shipments-to-resell-in-china-amid-tech-bans/"
+    "score": 46,
+    "pubdate": "2026-11-27-20-00-00 +0000",
+    "source": "missionlocal",
+    "title": "Tenderloin Buzz: Three new businesses, just in time for the new year",
+    "link": "https://missionlocal.org/2026/11/tenderloin-buzz-three-new-businesses/"
   },
   {
     "score": 37,
@@ -19,6 +12,13 @@
     "source": "nypost",
     "title": "At least 9 reported killed across Ukraine, while Russia downs near-record number of drones",
     "link": "https://nypost.com/2026/11/28/world-news/at-least-9-reported-killed-across-ukraine-while-russia-downs-near-record-number-of-drones/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-11-28-15-00-00 +0000",
+    "source": "nypost",
+    "title": "Bandits ransack AI shipments in California &#8212; as $20M tech appears on China&#8217;s black market",
+    "link": "https://nypost.com/2026/11/28/us-news/thieves-target-california-ai-shipments-to-resell-in-china-amid-tech-bans/"
   },
   {
     "score": 33,
@@ -29,20 +29,6 @@
   },
   {
     "score": 32,
-    "pubdate": "2026-11-28-17-11-02 +0000",
-    "source": "nyt",
-    "title": "Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says",
-    "link": "https://www.nytimes.com/2026/11/28/world/middleeast/israeli-strike-kills-two-workers-at-gaza-clinic.html"
-  },
-  {
-    "score": 32,
-    "pubdate": "2026-11-28-13-06-31 +0000",
-    "source": "nypost",
-    "title": "Pregnant Cornell student claims sexist professor harassed her, flunked her out of PhD program",
-    "link": "https://nypost.com/2026/11/28/us-news/pregnant-cornell-student-claims-prof-harassed-her-flunked-her-out-of-phd-program/"
-  },
-  {
-    "score": 32,
     "pubdate": "2026-11-27-20-06-31 +0000",
     "source": "bbc",
     "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
@@ -50,23 +36,37 @@
   },
   {
     "score": 31,
+    "pubdate": "2026-11-28-17-11-02 +0000",
+    "source": "nyt",
+    "title": "Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says",
+    "link": "https://www.nytimes.com/2026/11/28/world/middleeast/israeli-strike-kills-two-workers-at-gaza-clinic.html"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-11-28-13-06-31 +0000",
+    "source": "nypost",
+    "title": "Pregnant Cornell student claims sexist professor harassed her, flunked her out of PhD program",
+    "link": "https://nypost.com/2026/11/28/us-news/pregnant-cornell-student-claims-prof-harassed-her-flunked-her-out-of-phd-program/"
+  },
+  {
+    "score": 30,
+    "pubdate": "2026-11-28-01-26-04 +0000",
+    "source": "nyt",
+    "title": "Storm Blows Tarp Off Kennedy Center, Exposing Where Trump&#8217;s Name Was Removed",
+    "link": "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html"
+  },
+  {
+    "score": 29,
     "pubdate": "2026-11-27-19-51-00 +0000",
     "source": "wsj",
     "title": "Canada&#8217;s Supreme Court Upholds Quebec&#8217;s Religious-Symbols Ban",
     "link": "https://www.wsj.com/world/americas/canadas-supreme-court-upholds-quebecs-religious-symbols-ban-c1d8371a?mod=rss_worldnews"
   },
   {
-    "score": 29,
-    "pubdate": "2026-11-27-17-59-51 +0000",
-    "source": "nypost",
-    "title": "Iranian woman brutally tortured while on death row was forced to confess &#8212; or watch sister being raped",
-    "link": "https://nypost.com/2026/11/27/world-news/iranian-woman-brutally-tortured-while-on-death-row-was-forced-to-confess-or-watch-sister-being-raped/"
-  },
-  {
     "score": 24,
-    "pubdate": "2026-11-28-13-56-15 +0000",
-    "source": "cbc",
-    "title": "Indian police disperse protest outside Meta offices amid concern the company is censoring political opposition",
-    "link": "https://www.cbc.ca/news/world/india-modi-meta-protest-9.7440253?cmp=rss"
+    "pubdate": "2026-11-28-12-35-04 +0000",
+    "source": "wapo",
+    "title": "3 memory changes experts warn you should never ignore as you&#8217;re aging",
+    "link": "https://www.washingtonpost.com/health/2026/11/28/dementia-warning-signs-here-are-3-red-flags-you-should-look-out/"
   }
 ]

@@ -1,24 +1,17 @@
 [
   {
-    "score": 63,
+    "score": 55,
     "pubdate": "2026-11-27-20-26-11 +0000",
     "source": "wapo",
     "headline": "Trump officials to speed president’s projects with special meeting before new Congress",
     "link": "https://www.washingtonpost.com/politics/2026/11/27/white-house-speed-trump-projects-with-special-meeting-ahead-new-congress/"
   },
   {
-    "score": 47,
-    "pubdate": "2026-11-28-15-00-00 +0000",
-    "source": "nypost",
-    "headline": "Bandits ransack AI shipments in California — as $20M tech appears on China’s black market",
-    "link": "https://nypost.com/2026/11/28/us-news/thieves-target-california-ai-shipments-to-resell-in-china-amid-tech-bans/"
-  },
-  {
-    "score": 46,
-    "pubdate": "2026-11-28-02-46-34 +0000",
+    "score": 45,
+    "pubdate": "2026-11-28-11-00-08 +0000",
     "source": "nyt",
-    "headline": "Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them",
-    "link": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html"
+    "headline": "Behind the Story: Canada’s Border Rules Are Splitting Up Haitian Families",
+    "link": "https://www.nytimes.com/2026/11/28/world/canada/us-border-haitian-families-third-safe-country.html"
   },
   {
     "score": 44,
@@ -28,45 +21,52 @@
     "link": "https://nypost.com/2026/11/28/world-news/at-least-9-reported-killed-across-ukraine-while-russia-downs-near-record-number-of-drones/"
   },
   {
-    "score": 42,
+    "score": 41,
     "pubdate": "2026-11-28-17-11-02 +0000",
     "source": "nyt",
     "headline": "Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says",
     "link": "https://www.nytimes.com/2026/11/28/world/middleeast/israeli-strike-kills-two-workers-at-gaza-clinic.html"
   },
   {
-    "score": 37,
+    "score": 41,
+    "pubdate": "2026-11-28-15-00-00 +0000",
+    "source": "nypost",
+    "headline": "Bandits ransack AI shipments in California — as $20M tech appears on China’s black market",
+    "link": "https://nypost.com/2026/11/28/us-news/thieves-target-california-ai-shipments-to-resell-in-china-amid-tech-bans/"
+  },
+  {
+    "score": 36,
+    "pubdate": "2026-11-28-16-45-07 +0000",
+    "source": "startribune",
+    "headline": "The Supreme Court will decide whether assault weapons bans violate the Second Amendment",
+    "link": "https://www.startribune.com/the-supreme-court-will-decide-whether-assault-weapons-bans-violate-the-second-amendment/601931341"
+  },
+  {
+    "score": 32,
     "pubdate": "2026-11-27-21-21-19 +0000",
     "source": "nypost",
     "headline": "NYC grocery prices jump nearly one-third since 2019, with weekly grocer bill of $180 for families: ‘Highway robbery’",
     "link": "https://nypost.com/2026/11/27/business/nyc-grocery-prices-jump-nearly-one-third-since-2019-with-weekly-grocer-bill-of-180-for-families/"
   },
   {
-    "score": 35,
+    "score": 32,
     "pubdate": "2026-11-28-13-06-31 +0000",
     "source": "nypost",
     "headline": "Pregnant Cornell student claims sexist professor harassed her, flunked her out of PhD program",
     "link": "https://nypost.com/2026/11/28/us-news/pregnant-cornell-student-claims-prof-harassed-her-flunked-her-out-of-phd-program/"
   },
   {
-    "score": 35,
-    "pubdate": "2026-11-28-17-13-23 +0000",
-    "source": "nypost",
-    "headline": "AOC leads DSA voting for party’s 2028 endorsement — as closest ‘Squad’ rival trails far behind",
-    "link": "https://nypost.com/2026/11/28/us-news/aoc-leads-dsa-voting-for-partys-2028-endorsement-as-closest-squad-rival-trails-far-behind/"
-  },
-  {
-    "score": 34,
-    "pubdate": "2026-11-27-18-42-50 +0000",
-    "source": "bbc",
-    "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-    "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "score": 32,
+    "score": 31,
     "pubdate": "2026-11-28-01-26-04 +0000",
     "source": "nyt",
     "headline": "Storm Blows Tarp Off Kennedy Center, Exposing Where Trump’s Name Was Removed",
     "link": "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html"
+  },
+  {
+    "score": 31,
+    "pubdate": "2026-11-28-13-56-55 +0000",
+    "source": "nypost",
+    "headline": "Nvidia CEO Jensen Huang faces Capitol Hill grilling over affairs, China chip sales after reinstatement",
+    "link": "https://nypost.com/2026/11/28/us-news/nvidia-ceo-jensen-huang-faces-capitol-hill-grilling-over-affairs-china-chip-sales/"
   }
 ]
