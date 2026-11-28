@@ -19,7 +19,7 @@ title: World News
     </fieldset>
 </section>
 
-<div class="byline small text-muted">List updated <span class="datetime">2026-11-28 15:09 UTC</span>.</div>
+<div class="byline small text-muted">List updated <span class="datetime">2026-11-28 16:11 UTC</span>.</div>
 
 <p>Every aspect of this analysis and app are running in github and completely open source.
 Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> and
@@ -27,75 +27,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="top1h" class="col-12">
     <h2>Top 1h</h2>
     <ul>
-        
-            <li><a href="https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html">Ukraine&#8217;s Deep Strikes Grow in Scale and Scope Across Russia and Beyond</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-28-13-25-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/28/us-news/pregnant-cornell-student-claims-prof-harassed-her-flunked-her-out-of-phd-program/">Pregnant Cornell student claims sexist professor harassed her, flunked her out of PhD program</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-13-06-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/28/us-news/us-overdose-deaths-drop-to-6-year-low-but-one-states-od-tragedies-doubled-study/">US overdose deaths drop to 6-year low, but one state&#8217;s OD tragedies doubled: study</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-13-46-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/28/us-news/nyc-influencer-sues-ivy-league-ex-for-giving-him-herpes-at-yale-club/">NYC influencer sues Ivy League ex for giving him herpes at elite Yale Club</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-13-10-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/28/us-news/young-endangered-right-whale-dodges-hundreds-of-ships-on-its-migration-path/">Young endangered right whale dodges hundreds of ships on its perilous migration path</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-13-11-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/israeli-strike-killed-two-msf-staff-9.7440201?cmp=rss">Israeli strike kills 2 staff outside Gaza medical clinic, MSF says</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-28-13-32-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/28/us-news/alaska-mom-killed-by-walking-into-plane-propeller-to-be-laid-to-rest-in-ironic-way/">Mom killed by walking into plane propeller to be laid to rest in ironic way</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-12-57-30 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss">Argentina's bid to stop Falklands oil drilling rejected</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-28-13-36-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/28/opinion/why-mexicos-drug-kingpins-are-suddenly-falling-one-by-one/">Why Mexico&#8217;s drug kingpins are suddenly falling one by one</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-13-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html">Ukraine&#8217;s Deep Strikes Grow in Scale and Scope Across Russia and Beyond</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-28-13-25-26 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -132,17 +63,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html">Abroad, Spain&#8217;s Leader Is a Left-Wing Hero. Will He Lose Power at Home?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-28-05-01-10 +0000</span></div>
-            </li>
-        
-
             <li><a href="https://www.startribune.com/one-year-after-the-rose-avenue-ice-raid-questions-remain-about-st-paul-police-response/601908682">One year after the Rose Avenue ICE raid, questions remain about St. Paul police response</a>
             <div class='byline small text-muted'>
             startribune, 
             <span class="datetime">2026-11-28-11-00-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html">Abroad, Spain&#8217;s Leader Is a Left-Wing Hero. Will He Lose Power at Home?</a>
+            <div class='byline small text-muted'>
+            nyt, 
+            <span class="datetime">2026-11-28-05-01-10 +0000</span></div>
             </li>
         
 
@@ -153,10 +84,17 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.latimes.com/california/story/2026-11-28/fewer-endorsements-leave-labor-in-unusual-position-at-start-of-becerra-era">Early endorsements leave labor in unusual position at start of Becerra era</a>
+            <li><a href="https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=pls_whats_news_us_business_f">Americans Have More Riding on the Stock Market Than Ever</a>
             <div class='byline small text-muted'>
-            latimes, 
-            <span class="datetime">2026-11-28-11-00-00 +0000</span></div>
+            wsj, 
+            <span class="datetime">2026-11-28-12-02-00 +0000</span></div>
+            </li>
+        
+
+            <li><a href="https://nypost.com/2026/11/27/world-news/iranian-woman-brutally-tortured-while-on-death-row-was-forced-to-confess-or-watch-sister-being-raped/">Iranian woman brutally tortured while on death row was forced to confess &#8212; or watch sister being raped</a>
+            <div class='byline small text-muted'>
+            nypost, 
+            <span class="datetime">2026-11-27-17-59-51 +0000</span></div>
             </li>
         
 
@@ -164,13 +102,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             bbc, 
             <span class="datetime">2026-11-27-18-42-50 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=rss_worldnews">Americans Have More Riding on the Stock Market Than Ever</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-28-12-02-00 +0000</span></div>
             </li>
         
     </ul>
@@ -187,7 +118,7 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             </li>
         
 
-            <li><a href="https://www.wsj.com/politics/elections/new-zealand-election-ends-in-deadlock-turns-outsider-into-kingmaker-b1708432?mod=rss_socialpoliticsfeed">New Zealand&#8217;s election ended in a deadlock after the counting of late ballots, putting the future of Prime Minister Christopher Luxon&#8217;s government in the hands of a 38-year-old political novice</a>
+            <li><a href="https://www.wsj.com/politics/elections/new-zealand-election-ends-in-deadlock-turns-outsider-into-kingmaker-b1708432?mod=rss_socialeconomyfeed">New Zealand&#8217;s election ended in a deadlock after the counting of late ballots, putting the future of Prime Minister Christopher Luxon&#8217;s government in the hands of a 38-year-old political novice</a>
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-27-04-06-00 +0000</span></div>
@@ -255,75 +186,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
 <div id="all1h" class="col-12">
     <h2>All 1h</h2>
     <ul>
-        
-            <li><a href="https://nypost.com/2026/11/28/us-news/us-overdose-deaths-drop-to-6-year-low-but-one-states-od-tragedies-doubled-study/">US overdose deaths drop to 6-year low, but one state&#8217;s OD tragedies doubled: study</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-13-46-39 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss">Argentina's bid to stop Falklands oil drilling rejected</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-28-13-36-36 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.cbc.ca/news/world/israeli-strike-killed-two-msf-staff-9.7440201?cmp=rss">Israeli strike kills 2 staff outside Gaza medical clinic, MSF says</a>
-            <div class='byline small text-muted'>
-            cbc, 
-            <span class="datetime">2026-11-28-13-32-40 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html">Ukraine&#8217;s Deep Strikes Grow in Scale and Scope Across Russia and Beyond</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-28-13-25-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html">Ukraine&#8217;s Deep Strikes Grow in Scale and Scope Across Russia and Beyond</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-28-13-25-26 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/28/us-news/young-endangered-right-whale-dodges-hundreds-of-ships-on-its-migration-path/">Young endangered right whale dodges hundreds of ships on its perilous migration path</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-13-11-17 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/28/us-news/nyc-influencer-sues-ivy-league-ex-for-giving-him-herpes-at-yale-club/">NYC influencer sues Ivy League ex for giving him herpes at elite Yale Club</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-13-10-48 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/28/us-news/pregnant-cornell-student-claims-prof-harassed-her-flunked-her-out-of-phd-program/">Pregnant Cornell student claims sexist professor harassed her, flunked her out of PhD program</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-13-06-31 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/28/opinion/why-mexicos-drug-kingpins-are-suddenly-falling-one-by-one/">Why Mexico&#8217;s drug kingpins are suddenly falling one by one</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-13-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://nypost.com/2026/11/28/us-news/alaska-mom-killed-by-walking-into-plane-propeller-to-be-laid-to-rest-in-ironic-way/">Mom killed by walking into plane propeller to be laid to rest in ironic way</a>
-            <div class='byline small text-muted'>
-            nypost, 
-            <span class="datetime">2026-11-28-12-57-30 +0000</span></div>
-            </li>
         
     </ul>
 </div>
@@ -2527,55 +2389,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             chitri, 
             <span class="datetime">2026-11-27-14-58-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.wsj.com/world/americas/canada-posts-current-account-surplus-of-c-4-48-billion-6d4451a7?mod=rss_worldnews">Canada Posts Current-Account Surplus of C$4.48 Billion</a>
-            <div class='byline small text-muted'>
-            wsj, 
-            <span class="datetime">2026-11-27-14-48-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html">Spain&#8217;s Far-Right Era Ended in 1975. Will This Man Change That?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-27-14-45-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html">Spain&#8217;s Far-Right Era Ended in 1975. Will This Man Change That?</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-27-14-45-21 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss">'We have no interest in hearing from Huw Edwards', Downing Street says</a>
-            <div class='byline small text-muted'>
-            bbc, 
-            <span class="datetime">2026-11-27-14-33-10 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.washingtonpost.com/world/2026/11/27/south-korea-is-cracking-down-ai-cheating-with-metal-detectors-body-cameras/">South Korea is cracking down on AI cheating with metal detectors and body cameras</a>
-            <div class='byline small text-muted'>
-            wapo, 
-            <span class="datetime">2026-11-27-14-30-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/26/arts/design/venice-biennale-2028-curator-hoor-al-qasimi.html">Venice Biennale Names Its First Arab Curator:&#160;Hoor Al-Qasimi</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-27-14-15-22 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.nytimes.com/2026/11/26/arts/design/venice-biennale-2028-curator-hoor-al-qasimi.html">Venice Biennale Names Its First Arab Curator:&#160;Hoor Al-Qasimi</a>
-            <div class='byline small text-muted'>
-            nyt, 
-            <span class="datetime">2026-11-27-14-15-22 +0000</span></div>
             </li>
         
     </ul>
@@ -10548,20 +10361,6 @@ Check out the <a href="https://github.com/Castro-Media/Analysis">analysis</a> an
             <div class='byline small text-muted'>
             wsj, 
             <span class="datetime">2026-11-21-15-00-00 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://www.chicagotribune.com/2026/11/21/new-developer-skokies-old-orchard-luxe/">New developer tapped to convert Skokie&#8217;s Old Orchard Towers into luxe apartments</a>
-            <div class='byline small text-muted'>
-            chitri, 
-            <span class="datetime">2026-11-21-14-50-04 +0000</span></div>
-            </li>
-        
-
-            <li><a href="https://missionlocal.org/2026/11/og-s-f/">OG S.F.</a>
-            <div class='byline small text-muted'>
-            missionlocal, 
-            <span class="datetime">2026-11-21-14-00-00 +0000</span></div>
             </li>
         
     </ul>
