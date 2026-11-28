@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "score": 18,
+    "pubdate": "2026-11-28-15-18-21 +0000",
+    "source": "nyt",
+    "headline": "Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says",
+    "link": "https://www.nytimes.com/2026/11/28/world/middleeast/israeli-strike-kills-two-workers-at-gaza-clinic.html"
+  },
+  {
+    "score": 16,
+    "pubdate": "2026-11-28-15-39-19 +0000",
+    "source": "nyt",
+    "headline": "A Critic of Beijing Falls Short in Taiwan’s Key Mayoral Election",
+    "link": "https://www.nytimes.com/2026/11/28/world/asia/taiwan-election-taipei-china.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-11-28-15-29-38 +0000",
+    "source": "nyt",
+    "headline": "Far-Right Vigilantes Have Inflamed France’s Unrest, Officials Say",
+    "link": "https://www.nytimes.com/2026/11/28/world/europe/france-right-gangs-unrest.html"
+  },
+  {
+    "score": 12,
+    "pubdate": "2026-11-28-15-00-00 +0000",
+    "source": "wapo",
+    "headline": "Initial tests show no lead in drinking water near Iowa detonation site, EPA says",
+    "link": "https://www.washingtonpost.com/nation/2026/11/28/initial-tests-show-no-lead-drinking-water-near-iowa-detonation-site-epa-says/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-11-28-15-00-00 +0000",
+    "source": "nypost",
+    "headline": "Bandits ransack AI shipments in California — as $20M tech appears on China’s black market",
+    "link": "https://nypost.com/2026/11/28/us-news/thieves-target-california-ai-shipments-to-resell-in-china-amid-tech-bans/"
+  },
+  {
+    "score": 11,
+    "pubdate": "2026-11-28-15-30-28 +0000",
+    "source": "nypost",
+    "headline": "Congress demands Pentagon stop stonewalling on release of UFO files — including mysterious flying triangles",
+    "link": "https://nypost.com/2026/11/28/us-news/congress-demands-pentagon-stop-stonewalling-on-release-of-ufo-files-including-mysterious-flying-triangles/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-11-28-15-31-45 +0000",
+    "source": "wapo",
+    "headline": "Princess Kate’s new film talks about cancer and mortality. Here’s what to know.",
+    "link": "https://www.washingtonpost.com/entertainment/tv/2026/11/28/princess-kates-new-film-talks-about-cancer-mortality-heres-what-know/"
+  },
+  {
+    "score": 9,
+    "pubdate": "2026-11-28-15-11-32 +0000",
+    "source": "nypost",
+    "headline": "5 adults, 2 teens rushed to hospital after gunfire erupts at birthday party: cops",
+    "link": "https://nypost.com/2026/11/28/us-news/5-adults-2-teens-rushed-to-hospital-after-gunfire-erupts-at-birthday-party/"
+  },
+  {
+    "score": 8,
+    "pubdate": "2026-11-28-15-44-11 +0000",
+    "source": "nypost",
+    "headline": "Two earthquakes jolt California overnight Saturday as rumblings increase in size",
+    "link": "https://nypost.com/2026/11/28/us-news/two-earthquakes-hit-california-overnight-saturday/"
+  },
+  {
+    "score": 6,
+    "pubdate": "2026-11-28-15-43-34 +0000",
+    "source": "nyt",
+    "headline": "A.I. Companies Race for Space in New York, a City That Doesn’t Have Much of It",
+    "link": "https://www.nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html"
+  }
+]
