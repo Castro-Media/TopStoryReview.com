@@ -252,15 +252,15 @@
     "pubdate": "2026-11-28-15-05-00 +0000"
   },
   {
-    "headline": "Bandits ransack AI shipments in California — as $20M tech appears on China’s black market",
-    "link": "https://nypost.com/2026/11/28/us-news/thieves-target-california-ai-shipments-to-resell-in-china-amid-tech-bans/",
-    "source": "nypost",
-    "pubdate": "2026-11-28-15-00-00 +0000"
-  },
-  {
     "headline": "Initial tests show no lead in drinking water near Iowa detonation site, EPA says",
     "link": "https://www.washingtonpost.com/nation/2026/11/28/initial-tests-show-no-lead-drinking-water-near-iowa-detonation-site-epa-says/",
     "source": "wapo",
+    "pubdate": "2026-11-28-15-00-00 +0000"
+  },
+  {
+    "headline": "Bandits ransack AI shipments in California — as $20M tech appears on China’s black market",
+    "link": "https://nypost.com/2026/11/28/us-news/thieves-target-california-ai-shipments-to-resell-in-china-amid-tech-bans/",
+    "source": "nypost",
     "pubdate": "2026-11-28-15-00-00 +0000"
   },
   {
@@ -306,9 +306,9 @@
     "pubdate": "2026-11-28-14-10-01 +0000"
   },
   {
-    "headline": "Commentary: How 'beatniks, Communists and nudists' staged a 'youthquake' and changed the Sunset Strip",
-    "link": "https://www.latimes.com/california/story/2026-11-28/how-beatniks-communists-nudists-changed-sunset-strip",
-    "source": "latimes",
+    "headline": "What it was like to keep a 410-person band in NYC for the rescheduled Macy’s parade",
+    "link": "https://www.washingtonpost.com/nation/2026/11/28/what-it-was-like-keep-410-person-band-nyc-rescheduled-macys-parade/",
+    "source": "wapo",
     "pubdate": "2026-11-28-14-00-00 +0000"
   },
   {
@@ -318,9 +318,9 @@
     "pubdate": "2026-11-28-14-00-00 +0000"
   },
   {
-    "headline": "What it was like to keep a 410-person band in NYC for the rescheduled Macy’s parade",
-    "link": "https://www.washingtonpost.com/nation/2026/11/28/what-it-was-like-keep-410-person-band-nyc-rescheduled-macys-parade/",
-    "source": "wapo",
+    "headline": "Commentary: How 'beatniks, Communists and nudists' staged a 'youthquake' and changed the Sunset Strip",
+    "link": "https://www.latimes.com/california/story/2026-11-28/how-beatniks-communists-nudists-changed-sunset-strip",
+    "source": "latimes",
     "pubdate": "2026-11-28-14-00-00 +0000"
   },
   {
@@ -421,7 +421,7 @@
   },
   {
     "headline": "Americans Have More Riding on the Stock Market Than Ever",
-    "link": "https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=rss_worldnews",
+    "link": "https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=rss_markets_main",
     "source": "wsj",
     "pubdate": "2026-11-28-12-02-00 +0000"
   },
@@ -433,21 +433,9 @@
   },
   {
     "headline": "Americans Have More Riding on the Stock Market Than Ever",
-    "link": "https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=rss_markets_main",
+    "link": "https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-11-28-12-02-00 +0000"
-  },
-  {
-    "headline": "The Newsletter Bonanza Is Slowing Down",
-    "link": "https://www.wsj.com/business/media/the-newsletter-bonanza-is-slowing-down-32a8ba0a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-28-12-00-00 +0000"
-  },
-  {
-    "headline": "The Newsletter Bonanza Is Slowing Down",
-    "link": "https://www.wsj.com/business/media/the-newsletter-bonanza-is-slowing-down-32a8ba0a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-28-12-00-00 +0000"
   },
   {
     "headline": "Deadly attack at mental health facility raises safety concerns",
@@ -462,9 +450,15 @@
     "pubdate": "2026-11-28-12-00-00 +0000"
   },
   {
-    "headline": "Whose lane is it anyway? Why the Alberta UCP is wading into municipal issues",
-    "link": "https://www.cbc.ca/news/canada/edmonton/west-of-centre-ucp-municipal-issues-9.7438681?cmp=rss",
-    "source": "cbc",
+    "headline": "The Newsletter Bonanza Is Slowing Down",
+    "link": "https://www.wsj.com/business/media/the-newsletter-bonanza-is-slowing-down-32a8ba0a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
+    "pubdate": "2026-11-28-12-00-00 +0000"
+  },
+  {
+    "headline": "The Newsletter Bonanza Is Slowing Down",
+    "link": "https://www.wsj.com/business/media/the-newsletter-bonanza-is-slowing-down-32a8ba0a?mod=pls_whats_news_us_business_f",
+    "source": "wsj",
     "pubdate": "2026-11-28-12-00-00 +0000"
   },
   {
@@ -477,6 +471,12 @@
     "headline": "People We Meet: Berna Medrano, the woman behind SoMa’s late-night slices",
     "link": "https://missionlocal.org/2026/11/people-we-meet-berna-medrano-the-woman-behind-somas-late-night-slices/",
     "source": "missionlocal",
+    "pubdate": "2026-11-28-12-00-00 +0000"
+  },
+  {
+    "headline": "Whose lane is it anyway? Why the Alberta UCP is wading into municipal issues",
+    "link": "https://www.cbc.ca/news/canada/edmonton/west-of-centre-ucp-municipal-issues-9.7438681?cmp=rss",
+    "source": "cbc",
     "pubdate": "2026-11-28-12-00-00 +0000"
   },
   {
@@ -528,15 +528,15 @@
     "pubdate": "2026-11-28-11-14-21 +0000"
   },
   {
-    "headline": "Behind the Story: Canada’s Border Rules Are Splitting Up Haitian Families",
-    "link": "https://www.nytimes.com/2026/11/28/world/canada/us-border-haitian-families-third-safe-country.html",
-    "source": "nyt",
-    "pubdate": "2026-11-28-11-00-08 +0000"
-  },
-  {
     "headline": "Package pilgrimage: How this Target sorting facility prepares ahead of ‘Cyber Week’",
     "link": "https://www.chicagotribune.com/2026/11/28/target-holiday-sortation-facility/",
     "source": "chitri",
+    "pubdate": "2026-11-28-11-00-08 +0000"
+  },
+  {
+    "headline": "Behind the Story: Canada’s Border Rules Are Splitting Up Haitian Families",
+    "link": "https://www.nytimes.com/2026/11/28/world/canada/us-border-haitian-families-third-safe-country.html",
+    "source": "nyt",
     "pubdate": "2026-11-28-11-00-08 +0000"
   },
   {
@@ -552,15 +552,21 @@
     "pubdate": "2026-11-28-11-00-01 +0000"
   },
   {
-    "headline": "News Quiz for Nov. 28, 2026",
-    "link": "https://www.wsj.com/articles/news-quiz-for-nov-28-2026-62cce1b4?mod=rss_worldnews",
-    "source": "wsj",
+    "headline": "One year after the Rose Avenue ICE raid, questions remain about St. Paul police response",
+    "link": "https://www.startribune.com/one-year-after-the-rose-avenue-ice-raid-questions-remain-about-st-paul-police-response/601908682",
+    "source": "startribune",
     "pubdate": "2026-11-28-11-00-00 +0000"
   },
   {
-    "headline": "Mexico City seethes over repeated viral episodes of ‘gringo racism’",
-    "link": "https://www.washingtonpost.com/world/2026/11/28/mexico-city-seethes-over-repeated-viral-episodes-gringo-racism/",
-    "source": "wapo",
+    "headline": "Minneapolis pauses $5 million project near Lake Harriet after neighbors report damage",
+    "link": "https://www.startribune.com/oliver-avenue-lake-harriet-minneapolis-storm-sewer-project/601915804",
+    "source": "startribune",
+    "pubdate": "2026-11-28-11-00-00 +0000"
+  },
+  {
+    "headline": "Jane McDonald, the last of four sister nuns who advocated for peace, dies at 91",
+    "link": "https://www.startribune.com/mcdonald-sisters-mn-antiwar-protestors/601924553",
+    "source": "startribune",
     "pubdate": "2026-11-28-11-00-00 +0000"
   },
   {
@@ -582,38 +588,26 @@
     "pubdate": "2026-11-28-11-00-00 +0000"
   },
   {
-    "headline": "One year after the Rose Avenue ICE raid, questions remain about St. Paul police response",
-    "link": "https://www.startribune.com/one-year-after-the-rose-avenue-ice-raid-questions-remain-about-st-paul-police-response/601908682",
-    "source": "startribune",
+    "headline": "Mexico City seethes over repeated viral episodes of ‘gringo racism’",
+    "link": "https://www.washingtonpost.com/world/2026/11/28/mexico-city-seethes-over-repeated-viral-episodes-gringo-racism/",
+    "source": "wapo",
     "pubdate": "2026-11-28-11-00-00 +0000"
   },
   {
-    "headline": "Minneapolis pauses $5 million project near Lake Harriet after neighbors report damage",
-    "link": "https://www.startribune.com/oliver-avenue-lake-harriet-minneapolis-storm-sewer-project/601915804",
-    "source": "startribune",
+    "headline": "News Quiz for Nov. 28, 2026",
+    "link": "https://www.wsj.com/articles/news-quiz-for-nov-28-2026-62cce1b4?mod=rss_worldnews",
+    "source": "wsj",
     "pubdate": "2026-11-28-11-00-00 +0000"
   },
   {
-    "headline": "Jane McDonald, the last of four sister nuns who advocated for peace, dies at 91",
-    "link": "https://www.startribune.com/mcdonald-sisters-mn-antiwar-protestors/601924553",
-    "source": "startribune",
+    "headline": "From frightened fawn in ‘Bambi’ to decorated Marine and Vietnam vet",
+    "link": "https://www.washingtonpost.com/obituaries/2026/11/28/frightened-fawn-bambi-decorated-marine-vietnam-vet/",
+    "source": "wapo",
     "pubdate": "2026-11-28-11-00-00 +0000"
   },
   {
-    "headline": "Supreme Court at a crossroads over gun rights and assault weapons",
-    "link": "https://www.latimes.com/politics/story/2026-11-28/supreme-court-at-crossroads-over-gun-rights-assault-weapons",
-    "source": "latimes",
-    "pubdate": "2026-11-28-11-00-00 +0000"
-  },
-  {
-    "headline": "Early endorsements leave labor in unusual position at start of Becerra era",
-    "link": "https://www.latimes.com/california/story/2026-11-28/fewer-endorsements-leave-labor-in-unusual-position-at-start-of-becerra-era",
-    "source": "latimes",
-    "pubdate": "2026-11-28-11-00-00 +0000"
-  },
-  {
-    "headline": "Presidential hopefuls focus on cost and corruption this Thanksgiving",
-    "link": "https://www.washingtonpost.com/politics/2026/11/28/2028-presidential-hopefuls-weigh-costs-corruption-this-thanksgiving/",
+    "headline": "Armed man patrolling next to elementary school tests Montana’s gun tolerance",
+    "link": "https://www.washingtonpost.com/nation/2026/11/28/armed-man-patrolling-next-elementary-school-tests-montanas-gun-tolerance/",
     "source": "wapo",
     "pubdate": "2026-11-28-11-00-00 +0000"
   },
@@ -654,15 +648,21 @@
     "pubdate": "2026-11-28-11-00-00 +0000"
   },
   {
-    "headline": "From frightened fawn in ‘Bambi’ to decorated Marine and Vietnam vet",
-    "link": "https://www.washingtonpost.com/obituaries/2026/11/28/frightened-fawn-bambi-decorated-marine-vietnam-vet/",
+    "headline": "Presidential hopefuls focus on cost and corruption this Thanksgiving",
+    "link": "https://www.washingtonpost.com/politics/2026/11/28/2028-presidential-hopefuls-weigh-costs-corruption-this-thanksgiving/",
     "source": "wapo",
     "pubdate": "2026-11-28-11-00-00 +0000"
   },
   {
-    "headline": "Armed man patrolling next to elementary school tests Montana’s gun tolerance",
-    "link": "https://www.washingtonpost.com/nation/2026/11/28/armed-man-patrolling-next-elementary-school-tests-montanas-gun-tolerance/",
-    "source": "wapo",
+    "headline": "Supreme Court at a crossroads over gun rights and assault weapons",
+    "link": "https://www.latimes.com/politics/story/2026-11-28/supreme-court-at-crossroads-over-gun-rights-assault-weapons",
+    "source": "latimes",
+    "pubdate": "2026-11-28-11-00-00 +0000"
+  },
+  {
+    "headline": "Early endorsements leave labor in unusual position at start of Becerra era",
+    "link": "https://www.latimes.com/california/story/2026-11-28/fewer-endorsements-leave-labor-in-unusual-position-at-start-of-becerra-era",
+    "source": "latimes",
     "pubdate": "2026-11-28-11-00-00 +0000"
   },
   {
@@ -738,24 +738,6 @@
     "pubdate": "2026-11-28-10-00-44 +0000"
   },
   {
-    "headline": "This top Ukrainian commander calls withdrawal from Donbas ‘unacceptable.’ He’s not alone.",
-    "link": "https://www.washingtonpost.com/world/2026/11/28/this-top-ukrainian-commander-calls-withdrawal-donbas-unacceptable-hes-not-alone/",
-    "source": "wapo",
-    "pubdate": "2026-11-28-10-00-00 +0000"
-  },
-  {
-    "headline": "Spanish voters are about to get their say on high living costs",
-    "link": "https://www.washingtonpost.com/world/2026/11/28/spanish-voters-are-about-get-their-say-high-living-costs/",
-    "source": "wapo",
-    "pubdate": "2026-11-28-10-00-00 +0000"
-  },
-  {
-    "headline": "Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
-    "link": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-11-28-10-00-00 +0000"
-  },
-  {
     "headline": "She wore yellow to Miley Cyrus’s wedding. I applaud her.",
     "link": "https://www.washingtonpost.com/business/2026/11/28/she-wore-yellow-miley-cyruss-wedding-i-applaud-her/",
     "source": "wapo",
@@ -768,6 +750,30 @@
     "pubdate": "2026-11-28-10-00-00 +0000"
   },
   {
+    "headline": "Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
+    "link": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610?mod=rss_markets_main",
+    "source": "wsj",
+    "pubdate": "2026-11-28-10-00-00 +0000"
+  },
+  {
+    "headline": "This top Ukrainian commander calls withdrawal from Donbas ‘unacceptable.’ He’s not alone.",
+    "link": "https://www.washingtonpost.com/world/2026/11/28/this-top-ukrainian-commander-calls-withdrawal-donbas-unacceptable-hes-not-alone/",
+    "source": "wapo",
+    "pubdate": "2026-11-28-10-00-00 +0000"
+  },
+  {
+    "headline": "Spanish voters are about to get their say on high living costs",
+    "link": "https://www.washingtonpost.com/world/2026/11/28/spanish-voters-are-about-get-their-say-high-living-costs/",
+    "source": "wapo",
+    "pubdate": "2026-11-28-10-00-00 +0000"
+  },
+  {
+    "headline": "The Thanksgiving when actual elephants marched down Broadway",
+    "link": "https://www.washingtonpost.com/nation/2026/11/28/macy-thanksgiving-day-parade-once-featured-live-elephants/",
+    "source": "wapo",
+    "pubdate": "2026-11-28-10-00-00 +0000"
+  },
+  {
     "headline": "How one of America’s least-known senators helped pass the permitting bill",
     "link": "https://www.washingtonpost.com/politics/2026/11/28/alan-armstrong-is-leaving-senate-after-helping-it-pass-permitting-bill/",
     "source": "wapo",
@@ -776,12 +782,6 @@
   {
     "headline": "He fought for voting rights for 40 years. Then his party stopped listening.",
     "link": "https://www.washingtonpost.com/politics/2026/11/28/republican-fought-voting-rights-40-years-then-his-party-stopped-listening/",
-    "source": "wapo",
-    "pubdate": "2026-11-28-10-00-00 +0000"
-  },
-  {
-    "headline": "The Thanksgiving when actual elephants marched down Broadway",
-    "link": "https://www.washingtonpost.com/nation/2026/11/28/macy-thanksgiving-day-parade-once-featured-live-elephants/",
     "source": "wapo",
     "pubdate": "2026-11-28-10-00-00 +0000"
   },
@@ -1002,14 +1002,14 @@
     "pubdate": "2026-11-28-02-00-00 +0000"
   },
   {
-    "headline": "President Trump’s bet on artificial intelligence risks a backlash from Americans worried about jobs and self-dealing",
-    "link": "https://www.wsj.com/politics/policy/the-high-political-cost-of-trumps-loyalty-to-jensen-huang-7f0327db?mod=rss_socialpoliticsfeed",
+    "headline": "A Family Feud as Big as Texas Hangs Over Houston’s NFL Team",
+    "link": "https://www.wsj.com/sports/football/houston-texans-mcnair-family-feud-6ac45e98?mod=rss_usnews",
     "source": "wsj",
     "pubdate": "2026-11-28-02-00-00 +0000"
   },
   {
-    "headline": "A Family Feud as Big as Texas Hangs Over Houston’s NFL Team",
-    "link": "https://www.wsj.com/sports/football/houston-texans-mcnair-family-feud-6ac45e98?mod=rss_usnews",
+    "headline": "President Trump’s bet on artificial intelligence risks a backlash from Americans worried about jobs and self-dealing",
+    "link": "https://www.wsj.com/politics/policy/the-high-political-cost-of-trumps-loyalty-to-jensen-huang-7f0327db?mod=rss_socialpoliticsfeed",
     "source": "wsj",
     "pubdate": "2026-11-28-02-00-00 +0000"
   },
@@ -1483,13 +1483,13 @@
   },
   {
     "headline": "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=rss_worldnews",
+    "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=pls_whats_news_us_business_f",
     "source": "wsj",
     "pubdate": "2026-11-27-20-31-00 +0000"
   },
   {
     "headline": "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
-    "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=pls_whats_news_us_business_f",
+    "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=rss_worldnews",
     "source": "wsj",
     "pubdate": "2026-11-27-20-31-00 +0000"
   },
@@ -1642,143 +1642,5 @@
     "link": "https://www.cbc.ca/news/entertainment/auction-breast-bowl-jatte-teton-marie-antoinette-9.7438830?cmp=rss",
     "source": "cbc",
     "pubdate": "2026-11-27-18-55-55 +0000"
-  },
-  {
-    "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-    "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-11-27-18-42-50 +0000"
-  },
-  {
-    "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-    "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-11-27-18-42-50 +0000"
-  },
-  {
-    "headline": "Denials soar for ‘extraordinary ability’ visa in program once used by Melania Trump",
-    "link": "https://www.washingtonpost.com/business/2026/11/27/trump-administration-has-escalated-denials-einstein-visa/",
-    "source": "wapo",
-    "pubdate": "2026-11-27-18-40-12 +0000"
-  },
-  {
-    "headline": "Denials soar for ‘extraordinary ability’ visa in program once used by Melania Trump",
-    "link": "https://www.washingtonpost.com/business/2026/11/27/trump-administration-has-escalated-denials-einstein-visa/",
-    "source": "wapo",
-    "pubdate": "2026-11-27-18-40-12 +0000"
-  },
-  {
-    "headline": "Trump keeps Vance, Rubio guessing on 2028 endorsement while praising Hegseth for doing ‘great job’",
-    "link": "https://nypost.com/2026/11/27/us-news/trump-keeps-vance-rubio-guessing-on-2028-endorsement-while-also-praising-hegseth-for-doing-a-great-job/",
-    "source": "nypost",
-    "pubdate": "2026-11-27-18-39-30 +0000"
-  },
-  {
-    "headline": "Poilievre heading to Washington next week in push for tariff-free trade with U.S.",
-    "link": "https://www.cbc.ca/news/politics/poilievre-washington-trip-9.7439098?cmp=rss",
-    "source": "cbc",
-    "pubdate": "2026-11-27-18-39-26 +0000"
-  },
-  {
-    "headline": "Multiple South L.A. vehicle fires break out Friday morning. Arson investigation underway",
-    "link": "https://www.latimes.com/california/story/2026-11-27/car-fires-breakout-across-south-la-san-pedro",
-    "source": "latimes",
-    "pubdate": "2026-11-27-18-31-00 +0000"
-  },
-  {
-    "headline": "Journalist Catherine Herridge moves to take fight to preserve secret source’s identity to Supreme Court",
-    "link": "https://nypost.com/2026/11/27/media/journalist-catherine-herridge-moves-to-take-fight-to-preserve-secret-sources-identity-to-supreme-court/",
-    "source": "nypost",
-    "pubdate": "2026-11-27-18-30-29 +0000"
-  },
-  {
-    "headline": "How Israel’s odd-couple politics could be close to toppling Netanyahu",
-    "link": "https://www.washingtonpost.com/world/2026/11/27/how-israels-odd-couple-politics-could-be-close-toppling-netanyahu/",
-    "source": "wapo",
-    "pubdate": "2026-11-27-18-24-12 +0000"
-  },
-  {
-    "headline": "Millennial lawmakers are flooding Congress, and they want to let everyone know about it",
-    "link": "https://www.wsj.com/politics/millennial-lawmakers-wield-social-media-to-peel-back-the-curtain-on-congress-ddc4d265?mod=rss_socialpoliticsfeed",
-    "source": "wsj",
-    "pubdate": "2026-11-27-18-24-00 +0000"
-  },
-  {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-7ba86b3a?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-27-18-22-00 +0000"
-  },
-  {
-    "headline": "Auto & Transport Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-7ba86b3a?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-11-27-18-22-00 +0000"
-  },
-  {
-    "headline": "Political novice turns kingmaker after New Zealand’s deadlocked election",
-    "link": "https://www.washingtonpost.com/world/2026/11/27/opportunity-qiulae-wong-turns-kingmaker-after-new-zealand-election/",
-    "source": "wapo",
-    "pubdate": "2026-11-27-18-15-00 +0000"
-  },
-  {
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-6ec085c9?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-27-18-15-00 +0000"
-  },
-  {
-    "headline": "Energy & Utilities Roundup: Market Talk",
-    "link": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-6ec085c9?mod=rss_markets_main",
-    "source": "wsj",
-    "pubdate": "2026-11-27-18-15-00 +0000"
-  },
-  {
-    "headline": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports",
-    "link": "https://www.chicagotribune.com/2026/11/27/us-military-disabled-ship-that-tried-to-breach-iranian-blockade/",
-    "source": "chitri",
-    "pubdate": "2026-11-27-18-14-12 +0000"
-  },
-  {
-    "headline": "Stocks Rally at End of a Week of Wild Swings",
-    "link": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
-    "source": "nyt",
-    "pubdate": "2026-11-27-18-13-54 +0000"
-  },
-  {
-    "headline": "Tech, Media & Telecom Roundup: Market Talk",
-    "link": "https://www.wsj.com/business/airlines/tech-media-telecom-roundup-market-talk-1071f974?mod=pls_whats_news_us_business_f",
-    "source": "wsj",
-    "pubdate": "2026-11-27-18-06-00 +0000"
-  },
-  {
-    "headline": "Travelers visiting this European country urged to exercise caution from new advisory",
-    "link": "https://nypost.com/2026/11/27/world-news/travelers-urged-to-exercise-caution-from-new-country-advisory/",
-    "source": "nypost",
-    "pubdate": "2026-11-27-18-05-01 +0000"
-  },
-  {
-    "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-11-27-18-00-40 +0000"
-  },
-  {
-    "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-    "source": "bbc",
-    "pubdate": "2026-11-27-18-00-40 +0000"
-  },
-  {
-    "headline": "Israeli Report on Soldiers Using Palestinians as Human Shields Ignites National Backlash",
-    "link": "https://www.wsj.com/world/middle-east/israeli-report-on-soldiers-using-palestinians-as-human-shields-ignites-national-backlash-6a89f6ca?mod=rss_worldnews",
-    "source": "wsj",
-    "pubdate": "2026-11-27-18-00-00 +0000"
-  },
-  {
-    "headline": "Iranian woman brutally tortured while on death row was forced to confess — or watch sister being raped",
-    "link": "https://nypost.com/2026/11/27/world-news/iranian-woman-brutally-tortured-while-on-death-row-was-forced-to-confess-or-watch-sister-being-raped/",
-    "source": "nypost",
-    "pubdate": "2026-11-27-17-59-51 +0000"
   }
 ]
